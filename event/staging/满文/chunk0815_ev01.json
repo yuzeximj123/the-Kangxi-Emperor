@@ -1,0 +1,52 @@
+{
+ "source_no": 4061,
+ "title_guess": "步军统领隆科多奏报将盗窃胜化寺之人并朴防官兵从严惩处折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月初一日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报胜化寺被盗案，拿获原园户余方胜、双全儿及收赃之郭三，审明行窃经过，请将案犯解刑部从重治罪，并惩处防守不力之把总、步兵等。",
+ "has_zhupi": true,
+ "zhupi_summary": "依奏。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "赛吉图",
+   "role": "胜化寺苑副"
+  },
+  {
+   "name": "余方胜",
+   "role": "原园户、盗犯"
+  },
+  {
+   "name": "双全儿",
+   "role": "园户、盗犯"
+  },
+  {
+   "name": "郭三",
+   "role": "收赃人"
+  },
+  {
+   "name": "伯忠",
+   "role": "南营把总"
+  },
+  {
+   "name": "曹国辰",
+   "role": "委署把总"
+  }
+ ],
+ "places": [
+  "胜化寺",
+  "观音阁",
+  "山东"
+ ],
+ "source_title": "步军统领隆科多奏报将盗窃胜化寺之人并朴防官兵从严惩处折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81501,
+ "page_range": "1843-1844",
+ "_date_interpolated": true
+}

@@ -1,0 +1,31 @@
+{
+ "source_no": 107,
+ "title_guess": "川陕总督佛伦奏报秋禾生长情形折",
+ "reign_year": 32,
+ "month": 7,
+ "day_text": "二十一日",
+ "event_role": "灾情收成",
+ "summary": "佛伦遵旨奏报陕西秋禾生长畅茂、雨水调匀、糜子黄熟、早禾将收，民人称数年未见如此好禾，并奏秋收后买粮储备。",
+ "has_zhupi": true,
+ "zhupi_summary": "郎中常舒来奏陕西粮食甚好，朕甚喜悦；今闻全省粮谷情形更加喜悦，江南、浙江均得十，不致大量歉收。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "常舒",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "陕西",
+  "江南",
+  "浙江"
+ ],
+ "source_title": "川陕总督佛伦奏报秋条生长情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 2303,
+ "page_range": "259-260"
+}

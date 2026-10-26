@@ -1,0 +1,37 @@
+{
+ "source_no": 1215,
+ "title_guess": "筷社等奏报患病人员求医折",
+ "reign_year": 46,
+ "month": 9,
+ "day_text": "二十七日",
+ "event_role": "宫廷事务",
+ "summary": "筷社等奏报本月十三日、十六日、二十一日有镶蓝旗摆牙甲喇章京、正白旗二等侍卫曹卫诚、南郊六馆总管巴哈达等患病求医。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。在病人折内不必写尔等之名。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "关祯",
+   "role": "奏事臣"
+  },
+  {
+   "name": "曹卫诚",
+   "role": "正白旗二等侍卫"
+  },
+  {
+   "name": "巴哈达",
+   "role": "南郊六馆总管"
+  }
+ ],
+ "places": [
+  "南郊"
+ ],
+ "source_title": "和优社等奏报患病人员求医折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 27205,
+ "page_range": "757-758"
+}

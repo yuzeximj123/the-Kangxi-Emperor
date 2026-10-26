@@ -1,0 +1,42 @@
+{
+ "source_no": 1435,
+ "title_guess": "向社等奏请万安折",
+ "reign_year": 48,
+ "month": 6,
+ "day_text": "十二日",
+ "event_role": "请安谢恩",
+ "summary": "向社等恭请皇父万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称体安，叙述十四日水势、放船营救未成、祈祷后水降、十五十六日水降一丈一尺众得救，命将此文呈皇太后阅览并给各臣等看。",
+ "people": [
+  {
+   "name": "向社",
+   "role": "奏请者"
+  },
+  {
+   "name": "亿祺",
+   "role": "奏请者"
+  },
+  {
+   "name": "癖祷",
+   "role": "奏请者"
+  },
+  {
+   "name": "疝徇",
+   "role": "奏请者"
+  },
+  {
+   "name": "期祯",
+   "role": "奏请者"
+  }
+ ],
+ "places": [
+  "腾门东河洲",
+  "黄则"
+ ],
+ "source_title": "筷社等奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 31201,
+ "page_range": "837-838"
+}

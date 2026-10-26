@@ -1,0 +1,31 @@
+{
+ "source_no": 77,
+ "title_guess": "川陕总督佛伦奏报捐纳银两数目不实折",
+ "reign_year": 31,
+ "month": 11,
+ "day_text": "士六日",
+ "event_role": "钱粮财政",
+ "summary": "佛伦奏报西安凤翔捐纳银两数目不实，有内外官员央求致有名无实，请令州县限期送交布政司库并查明参劾亏空者。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称早风闻此事甚实，令收入布政司库，并提醒于成龙承办未必妥当。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "陕西"
+ ],
+ "source_title": "川陕总督佛伦奏报捐纳银两数目不实折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1603,
+ "page_range": "245-246"
+}

@@ -1,0 +1,37 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 7,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "选喀尔喀郡王纳木札勒所属长史库吉根、理藩院领催诺尔布等七人前往克鲁伦俄德哈勒噶侦察，回报厄鲁特在塔尔吉勤济是实，遇伏兵因旋风得脱。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "库吉根",
+   "role": "长史"
+  },
+  {
+   "name": "诺尔布",
+   "role": "理藩院领催"
+  },
+  {
+   "name": "纳木札勒",
+   "role": "喀尔喀郡王"
+  }
+ ],
+ "places": [
+  "克鲁伦",
+  "俄德哈勒噶",
+  "塔尔吉勤济",
+  "固尔班土拉噶"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4809,
+ "page_range": "309-310",
+ "_date_interpolated": true
+}

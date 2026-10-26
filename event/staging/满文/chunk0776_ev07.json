@@ -1,0 +1,40 @@
+{
+ "source_no": 3784,
+ "title_guess": "闽浙总督郭世隆奏陈各提督总兵官优劣折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "郭世隆奏陈提督施琅年老尚好但称病二年，提督张云带兵严而名望弱于往年，福建总兵多守法效力，唯漳州总兵张世宣年老平常，金门镇总兵官（原文残缺）。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "施琅",
+   "role": "提督"
+  },
+  {
+   "name": "张云",
+   "role": "提督"
+  },
+  {
+   "name": "张世宣",
+   "role": "漳州总兵官"
+  }
+ ],
+ "places": [
+  "福建",
+  "漳州",
+  "金门"
+ ],
+ "source_title": "闽浙总督郭世隆奏陈各提督总兵官优劣折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 77607,
+ "page_range": "1765-1766",
+ "_date_interpolated": true
+}

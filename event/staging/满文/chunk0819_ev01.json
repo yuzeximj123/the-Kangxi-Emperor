@@ -1,0 +1,30 @@
+{
+ "source_no": 4073,
+ "title_guess": "步军统领托和齐参奏噶尔桑骄横折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "托和齐密奏额驸噶尔桑居心不良、骄横可疑，收留汉人山东民人耕田习武，请皇上稍加防范。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称所言甚是，朕亦明白，此等人无人信服、兄弟不睦，其期数已尽，未必能过今年。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "噶尔桑",
+   "role": "额驸"
+  }
+ ],
+ "places": [
+  "喀喇沁"
+ ],
+ "source_title": "步军统领托和章参奏噶尔桑骄横折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81901,
+ "page_range": "1851-1852",
+ "_date_interpolated": true
+}

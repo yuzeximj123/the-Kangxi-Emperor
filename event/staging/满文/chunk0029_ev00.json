@@ -1,0 +1,26 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 33,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "此为前件奏折残余片段，提及山东官兵百姓立为规范、继任巡抚不能更改，并称桑额心志信诚、为人谨慎、适于地方，故奏闻圣主。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "桑额",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山东省"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 2900,
+ "page_range": "271-272",
+ "_date_interpolated": true
+}

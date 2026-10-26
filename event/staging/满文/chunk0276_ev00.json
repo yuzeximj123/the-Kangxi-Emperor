@@ -1,0 +1,28 @@
+{
+ "source_no": 1239,
+ "title_guess": "陕西巡抚鄂海奏报粮价折",
+ "reign_year": 46,
+ "month": 11,
+ "day_text": "十三日",
+ "event_role": "灾情收成",
+ "summary": "陕西巡抚鄂海奏报凤翔、汉中、延安等府粮价，称夏秋丰收、粮价低贱、民生丰裕。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "凤翔府",
+  "汉中府",
+  "延安府",
+  "陕西"
+ ],
+ "source_title": "陕西及抚鄂海奏报粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 27600,
+ "page_range": "765-766"
+}

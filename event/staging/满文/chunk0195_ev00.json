@@ -1,0 +1,36 @@
+{
+ "source_no": 795,
+ "title_guess": "川陕总督博雾奏报秋粮收成分数折",
+ "reign_year": 44,
+ "month": 9,
+ "day_text": "十六日",
+ "event_role": "灾情收成",
+ "summary": "奏报陕西、甘肃秋粮收成分数，延安府稍欠，甘肃沿边山田因早霜稍欠，总体仍属好年景。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "博雾",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "延安府",
+  "平凉",
+  "庆阳",
+  "临洮",
+  "巩昌",
+  "甘州",
+  "凉州",
+  "西宁",
+  "肃州",
+  "宁夏",
+  "陕西",
+  "甘肃"
+ ],
+ "source_title": "川陕总督博雾奏报秋粮收成分数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 19500,
+ "page_range": "603-604"
+}

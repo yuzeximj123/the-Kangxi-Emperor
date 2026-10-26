@@ -1,0 +1,35 @@
+{
+ "source_no": 1912,
+ "title_guess": "息社等奏闻京城得雨折",
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "十八日",
+ "event_role": "灾情收成",
+ "summary": "息社等奏报京城于本月十七日申时降雨，街路存水二寸余，并已遵旨颁示禁杀生祈雨三日。",
+ "has_zhupi": true,
+ "zhupi_summary": "雨泽不调匀，二十一日起禁杀生，复祈之。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "臣"
+  },
+  {
+   "name": "凑视",
+   "role": "臣"
+  },
+  {
+   "name": "仙和",
+   "role": "臣"
+  }
+ ],
+ "places": [
+  "京城",
+  "热河",
+  "畅春园"
+ ],
+ "source_title": "有候社等奏闻京城得十日荐",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 39203,
+ "page_range": "997-998"
+}

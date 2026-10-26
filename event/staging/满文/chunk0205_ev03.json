@@ -1,0 +1,31 @@
+{
+ "source_no": 848,
+ "title_guess": "康熙帝朱谕一纸",
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "二十八日",
+ "event_role": "宫廷事务",
+ "summary": "康熙帝谕三阿哥，闻其病愈欣喜，说明在宫时大夫言病轻故未探视，若早知则去探视，劝其心中勿焦急，手书问好。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "三阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_title": "康熙帝朱渝一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 20503,
+ "page_range": "623-624"
+}

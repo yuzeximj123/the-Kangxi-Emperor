@@ -1,0 +1,49 @@
+{
+ "source_no": 2010,
+ "title_guess": "向社等奏请大夫为布勒苏看病折",
+ "reign_year": 51,
+ "month": 8,
+ "day_text": "初七日",
+ "event_role": "宫廷事务",
+ "summary": "向社等遵旨另请大夫黄天运、霍桂芳为蓝翎布勒苏看病，查明其因胞妹病故、奴仆逃走而伤心致病，并附奏大夫黄运等奏折。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：如此良知，尚需何言。",
+ "people": [
+  {
+   "name": "向社",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "布勒苏",
+   "role": "蓝翎、病人"
+  },
+  {
+   "name": "才纪木",
+   "role": "布勒苏之弟、护军"
+  },
+  {
+   "name": "黄天运",
+   "role": "大夫"
+  },
+  {
+   "name": "霍桂芳",
+   "role": "大夫"
+  },
+  {
+   "name": "永福",
+   "role": "尚膳总领"
+  },
+  {
+   "name": "赖保",
+   "role": "正黄旗侍卫护军校"
+  }
+ ],
+ "places": [
+  "索伦"
+ ],
+ "source_title": "筷社等奏请大夫为布勒苏看病折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 40600,
+ "page_range": "1025-1026"
+}

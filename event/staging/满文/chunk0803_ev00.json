@@ -1,0 +1,26 @@
+{
+ "source_no": 3993,
+ "title_guess": "步军统领隆科多奏报京城雨水并田禾生长情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月初四日",
+ "event_role": "灾情收成",
+ "summary": "隆科多奏报京城初四、初六降雨，雨水调匀，田禾生长甚好，高粱、谷子、豆类及瓜茄等长势与价格情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称自己驻于田野，田禾菜蔬果子生长情景难以言述，确实大有可望。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏报京城雨水并田儿生长情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80300,
+ "page_range": "1819-1820",
+ "_date_interpolated": true
+}

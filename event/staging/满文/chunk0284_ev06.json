@@ -1,0 +1,37 @@
+{
+ "source_no": 1274,
+ "title_guess": "山西巡抚噶礼奏请吴存礼暂署印务折",
+ "reign_year": 47,
+ "month": 3,
+ "day_text": "初一日",
+ "event_role": "人事任免",
+ "summary": "噶礼奏报布政使雍泰继母病故应守制，请旨是否留任守制，并因按察使舒赫德患病未愈，派粮驿道吴存礼暂署布政司印务。",
+ "has_zhupi": true,
+ "zhupi_summary": "雍泰之缺，将派妥员去。舒赫德在这里时平常，今既患疾，亦应停止。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "雍泰",
+   "role": "山西布政使"
+  },
+  {
+   "name": "舒赫德",
+   "role": "按察使"
+  },
+  {
+   "name": "吴存礼",
+   "role": "粮驿道"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_title": "山西巡抚噶礼奏请吴存礼暂署印务折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 28406,
+ "page_range": "781-782"
+}

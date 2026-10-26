@@ -1,0 +1,35 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十月初九日",
+ "event_role": "边疆事务",
+ "summary": "阿南达称十月初九日戴青和硕齐将至塔尔寺告知缘由，因有病未往，不知商南多尔济带兵多少，亦未闻立营列阵召台吉致青海人惊动之事，自松山返后商南多尔济方告知。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "戴青和硕齐",
+   "role": "台吉"
+  },
+  {
+   "name": "商南多尔济",
+   "role": "喇嘛"
+  }
+ ],
+ "places": [
+  "塔尔寺",
+  "松山"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12710,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

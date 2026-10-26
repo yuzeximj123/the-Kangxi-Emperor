@@ -1,0 +1,33 @@
+{
+ "source_no": 481,
+ "title_guess": "陕西巡抚鄂海奏报麦子大麦豌豆收成分数折",
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十一日",
+ "event_role": "灾情收成",
+ "summary": "鄂海奏报延安府属州县卫堡麦子、豌豆、大麦收成四五分至八九分不等，西安等府自六月初十以来雨水调匀秋禾秀穗甚好。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "吴存礼",
+   "role": "延安府知府"
+  }
+ ],
+ "places": [
+  "延安府",
+  "西安",
+  "汉中",
+  "凤翔",
+  "兴安"
+ ],
+ "source_title": "陕西巡抚鄂海奏报考子大麦朴豆收成分数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 13402,
+ "page_range": "481-482"
+}

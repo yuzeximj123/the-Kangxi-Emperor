@@ -1,0 +1,31 @@
+{
+ "source_no": 1292,
+ "title_guess": "和社等奏报京城畅春园阴雨情形折",
+ "reign_year": 47,
+ "month": 5,
+ "day_text": "二十日",
+ "event_role": "灾情收成",
+ "summary": "和社等奏报京城畅春园本月十九日申时起雷雨、更鼓后大雨、二更后雨止，二十日巳时晴。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称知道了，并说今年口外雨水来得甚急，十四阿哥行路甚是不安，令其停止前来，俟至哨时再降旨。",
+ "people": [
+  {
+   "name": "和社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "十四阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "京城",
+  "畅春园",
+  "口外"
+ ],
+ "source_title": "和候社等奏报京城畅者园阴雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 28800,
+ "page_range": "789-790"
+}

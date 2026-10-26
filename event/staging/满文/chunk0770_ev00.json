@@ -1,0 +1,26 @@
+{
+ "source_no": 3721,
+ "title_guess": "内务府总管海拉逊奏为派人送金刚经等书折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "本月二十二日",
+ "event_role": "宫廷事务",
+ "summary": "奏报将金刚经、耕织图、渊鉴斋法帖装入四皮箱，派笔帖式佟保自通州乘小船日夜兼程驰送。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "佟保",
+   "role": "内务府笔帖式"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_title": "内务府总管海拉逊奏为派人送金刚经等书折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 77000,
+ "page_range": "1753-1754",
+ "_date_interpolated": true
+}

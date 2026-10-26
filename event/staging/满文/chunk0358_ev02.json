@@ -1,0 +1,41 @@
+{
+ "source_no": 1708,
+ "title_guess": "上乱社等奏请万安折",
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "初一日",
+ "event_role": "请安谢恩",
+ "summary": "臣息社等恭请皇父万安，奏报收到前月二十八日请安折并闻万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：出城之日感冒发汗，每日乘轿而行，初一抵热河，今病虽除但体弱无力，加之稍旱焦虐不安，命转饬于部自初六日起再行祷雨。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "奏请大臣"
+  },
+  {
+   "name": "知福",
+   "role": "奏请大臣"
+  },
+  {
+   "name": "志福",
+   "role": "奏请大臣"
+  },
+  {
+   "name": "其被",
+   "role": "奏请大臣"
+  },
+  {
+   "name": "乱祥",
+   "role": "奏请大臣"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_title": "和筷社等奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35802,
+ "page_range": "929-930"
+}

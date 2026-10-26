@@ -1,0 +1,33 @@
+{
+ "source_no": 750,
+ "title_guess": "息社等奏报阴雨情形折",
+ "reign_year": 44,
+ "month": 6,
+ "day_text": "二十一日",
+ "event_role": "灾情收成",
+ "summary": "息社等奏报二十四日以来屡降大雨但非连阴雨，农民称有益豆麦，并报皇父巡幸一月间京城内外无火警杂事。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了，述当地无事、雨水匀、河水小、鱼足，并命告知乾清门侍卫僧图家人迎接及派医看视。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "奏报官员"
+  },
+  {
+   "name": "向礼",
+   "role": "奏报官员"
+  },
+  {
+   "name": "僧图",
+   "role": "乾清门侍卫"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "上怖社待奏报阴雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 18704,
+ "page_range": "587-588"
+}

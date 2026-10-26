@@ -1,0 +1,58 @@
+{
+ "source_no": 4181,
+ "title_guess": "理藩院奏请照例赏赐青海和硕亲王等之来使折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "外藩朝贡",
+ "summary": "青海和硕亲王扎西巴图尔等遣使请安进贡，理藩院援例开列各使者及跟役应赏缎布数目具奏请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "著伊等候朕回宫。",
+ "people": [
+  {
+   "name": "扎西巴图尔",
+   "role": "青海和硕亲王"
+  },
+  {
+   "name": "额尔德尼额纳木扎尔",
+   "role": "多罗贝勒"
+  },
+  {
+   "name": "阿奇古木布巴图尔",
+   "role": "台吉"
+  },
+  {
+   "name": "额尔德尼额尔克",
+   "role": "台吉"
+  },
+  {
+   "name": "图尔虎鄂木布",
+   "role": "侍卫、使者"
+  },
+  {
+   "name": "卫征鄂木布",
+   "role": "使者"
+  },
+  {
+   "name": "马木特",
+   "role": "使者"
+  },
+  {
+   "name": "图卜欣塞桑",
+   "role": "使者"
+  },
+  {
+   "name": "扎木三",
+   "role": "台吉、使者"
+  }
+ ],
+ "places": [
+  "青海"
+ ],
+ "source_title": "理藩院奏请照例赏赐青海和硕闲王等之来使折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83805,
+ "page_range": "1889-1890",
+ "_date_interpolated": true
+}

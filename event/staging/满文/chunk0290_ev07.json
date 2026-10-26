@@ -1,0 +1,42 @@
+{
+ "source_no": 1313,
+ "title_guess": "江南总督邵穆布奏报擒获一念和尚折",
+ "reign_year": 47,
+ "month": 6,
+ "day_text": "二十二日",
+ "event_role": "司法案件",
+ "summary": "江南总督邵穆布奏报：钱保等案内首犯一念和尚，于六月十八日在吴江县梅地三关庙内被捕获，现令苏州知府解罪犯至杭州候旨。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "邵穆布",
+   "role": "江南总督"
+  },
+  {
+   "name": "一念",
+   "role": "首犯和尚"
+  },
+  {
+   "name": "李玉堂",
+   "role": "苏州府知府"
+  },
+  {
+   "name": "陆文",
+   "role": "捕贼衙门人"
+  }
+ ],
+ "places": [
+  "江南",
+  "苏州",
+  "吴江县",
+  "梅地",
+  "三关庙",
+  "杭州"
+ ],
+ "source_title": "江南总督邵穆布奏报擒获一念和尚折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 29007,
+ "page_range": "793-794"
+}

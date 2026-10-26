@@ -1,0 +1,56 @@
+{
+ "source_no": 4086,
+ "title_guess": "步军统领托和齐奏报擒获盗贼情形折",
+ "reign_year": 3,
+ "month": 6,
+ "day_text": "六月初二日",
+ "event_role": "司法案件",
+ "summary": "托和齐奏报中营参将潘世梁等擒获结伙持械欲行窃之刘三、刘二、邵大及穴垣行窃之郑四、赵仇贵等，解送刑部严审。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称知道了。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "潘世梁",
+   "role": "中营参将"
+  },
+  {
+   "name": "赵世胜",
+   "role": "游击"
+  },
+  {
+   "name": "刘三",
+   "role": "盗贼"
+  },
+  {
+   "name": "刘二",
+   "role": "盗贼"
+  },
+  {
+   "name": "邵大",
+   "role": "盗贼"
+  },
+  {
+   "name": "陈五",
+   "role": "守备"
+  },
+  {
+   "name": "郑四",
+   "role": "盗贼"
+  },
+  {
+   "name": "赵仇贵",
+   "role": "盗贼"
+  }
+ ],
+ "places": [],
+ "source_title": "步军统领托和齐奏报擒获盗贼情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82105,
+ "page_range": "1855-1856",
+ "_date_interpolated": true
+}

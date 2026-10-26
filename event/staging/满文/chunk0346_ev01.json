@@ -1,0 +1,31 @@
+{
+ "source_no": 1629,
+ "title_guess": "两江总督噶礼奏报雨水田禾并布政使赴任折",
+ "reign_year": 49,
+ "month": 7,
+ "day_text": "二十九日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报江南自春至今雨水调匀，早稻六月割完收成好，晚稻生长畅茂；按察使吴存礼升四川布政使已起程，江西官民请留，因无例未准。",
+ "has_zhupi": true,
+ "zhupi_summary": "吴存礼居官好是实。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "吴存礼",
+   "role": "按察使，升四川布政使"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "四川"
+ ],
+ "source_title": "两江总督噶礼奏报雨水田禾并布政使赴任折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 34601,
+ "page_range": "905-906"
+}

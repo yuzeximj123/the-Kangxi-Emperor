@@ -1,0 +1,51 @@
+{
+ "source_no": null,
+ "title_guess": "谕大将军伯费扬古",
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "四月二十二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕费扬古，因其奏报改期至五月初三日抵土拉，与先前约定不符，朕已急行先于尔等；召集诸王大臣议是否等候，众议应等候，遂日日防范以防噶尔丹远遁。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "额林臣",
+   "role": "侍卫"
+  },
+  {
+   "name": "济布",
+   "role": "向导"
+  },
+  {
+   "name": "三阿哥",
+   "role": "镶红旗大营"
+  },
+  {
+   "name": "福善",
+   "role": "公"
+  },
+  {
+   "name": "孙扎齐",
+   "role": "副都统"
+  },
+  {
+   "name": "西勒达",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "克鲁伦",
+  "土拉",
+  "巴颜乌兰"
+ ],
+ "source_title": "谕大将军伯费扬古",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4708,
+ "page_range": "307-308"
+}

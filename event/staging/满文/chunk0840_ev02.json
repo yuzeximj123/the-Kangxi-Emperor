@@ -1,0 +1,32 @@
+{
+ "source_no": 4190,
+ "title_guess": "理藩院奏报孟克等未于古都里呼山围猎缘由折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "理藩院询问孟克等为何未在古都里呼山围猎，据报因原任总管班第称自新满洲巡察以来已禁止围猎，故未行围。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：著本年围猎看看，围猎完后奏闻。",
+ "people": [
+  {
+   "name": "孟克",
+   "role": "围猎人员"
+  },
+  {
+   "name": "班第",
+   "role": "原任总管"
+  }
+ ],
+ "places": [
+  "古都里呼山",
+  "茂津河",
+  "察罕托洛盖"
+ ],
+ "source_title": "理藩院奏报孟克等未于十都里呼山围猎缘由折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84002,
+ "page_range": "1893-1894",
+ "_date_interpolated": true
+}

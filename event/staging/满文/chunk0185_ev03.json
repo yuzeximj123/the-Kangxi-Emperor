@@ -1,0 +1,30 @@
+{
+ "source_no": 739,
+ "title_guess": "山西巡抚噶礼奏谢调补胞弟为副都统折",
+ "reign_year": 44,
+ "month": 6,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "summary": "噶礼接胞弟噶尔弹书信，得知其奉命调补西安副都统，设香案谢恩，表示兄弟愈加谨慎效力。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "噶尔弹",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "山西省",
+  "西安"
+ ],
+ "source_title": "山西巡抚噶礼者谢调补胞弟为副都统折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 18503,
+ "page_range": "583-584"
+}

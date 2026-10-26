@@ -1,0 +1,30 @@
+{
+ "source_no": 645,
+ "title_guess": "两江总督阿山以奏言不合请罪折",
+ "reign_year": 43,
+ "month": 8,
+ "day_text": "十二日",
+ "event_role": "请安谢恩",
+ "summary": "阿山因前奏言辞粗率失当，奉旨训斥后具折请罪谢恩，表示痛改前非、克尽厥职。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "江南江西总督革职留任"
+  },
+  {
+   "name": "许志进",
+   "role": "参劾官员"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_title": "两江总叔阿山以秦言不合请罪折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16804,
+ "page_range": "549-550"
+}

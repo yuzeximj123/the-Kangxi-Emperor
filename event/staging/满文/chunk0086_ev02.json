@@ -1,0 +1,50 @@
+{
+ "source_no": 338,
+ "title_guess": "阿喇布坦使者藏布噶隆供词",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十八日",
+ "event_role": "边疆事务",
+ "summary": "讯问阿喇布坦使者藏布噶隆，供述阿喇布坦、丹津鄂木布生计兵马、与噶尔丹及策妄喇布坦关系、来投圣主之意及沿途情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "藏布噶隆",
+   "role": "阿喇布坦使者"
+  },
+  {
+   "name": "阿喇布坦",
+   "role": "台吉"
+  },
+  {
+   "name": "丹津鄂木布",
+   "role": "台吉"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  }
+ ],
+ "places": [
+  "布颜图郭尔",
+  "科布多",
+  "阿尔泰",
+  "吹河",
+  "洪郭喇",
+  "萨克萨特胡里克"
+ ],
+ "source_title": "阿喇布坦使者藏布噶隆供词",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8602,
+ "page_range": "385-386"
+}

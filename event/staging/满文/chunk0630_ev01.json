@@ -1,0 +1,34 @@
+{
+ "source_no": 3132,
+ "title_guess": "广东巡抚法海奏报缉拿山贼情形折",
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "二十六日",
+ "event_role": "司法案件",
+ "summary": "法海奏报缉拿龙门县山贼情形：贼首武信龙走投无路自尽，生擒小贼五十八人、杀六人、余逃散，并称广东海陆无贼、年成丰稔。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示知道了。",
+ "people": [
+  {
+   "name": "法海",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "王达洪",
+   "role": "守备"
+  },
+  {
+   "name": "武信龙",
+   "role": "山贼首领"
+  }
+ ],
+ "places": [
+  "广东",
+  "龙门县"
+ ],
+ "source_title": "广东巡抚法海奏报缉拿山贼情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 63001,
+ "page_range": "1473-1474"
+}

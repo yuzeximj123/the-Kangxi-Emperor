@@ -1,0 +1,40 @@
+{
+ "source_no": 2894,
+ "title_guess": "两江总督赫寿奏请豁免江南旧欠钱粮折",
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "十六日",
+ "event_role": "钱粮财政",
+ "summary": "赫寿奏请援陕西例豁免江南康熙四十六、七及五十年等旧欠钱粮，称系奉旨蠲免年内民欠，非谎报，并请缓征本年钱粮。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：具本来奏。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "梁世勋",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "吴存礼",
+   "role": "江苏巡抚"
+  }
+ ],
+ "places": [
+  "江南",
+  "安徽",
+  "江苏",
+  "陕西"
+ ],
+ "source_title": "两江总督赫寿考请豁免江南旧欠钱粮折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 57401,
+ "page_range": "1361-1362"
+}

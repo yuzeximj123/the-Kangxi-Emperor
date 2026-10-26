@@ -1,0 +1,59 @@
+{
+ "source_no": 4051,
+ "title_guess": "步军统领隆科多奏请将拿获赌博太监等严审折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月十六日",
+ "event_role": "司法案件",
+ "summary": "奏报拿获聚赌太监杨进忠、赵锦超及民人李奇等，缴获赌具钱文，请送内务府严审。",
+ "has_zhupi": true,
+ "zhupi_summary": "照行，著尔会审。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "杨进忠",
+   "role": "洒扫太监"
+  },
+  {
+   "name": "赵锦超",
+   "role": "饭房抬水太监"
+  },
+  {
+   "name": "李强",
+   "role": "洒扫太监"
+  },
+  {
+   "name": "关克尔",
+   "role": "马甲"
+  },
+  {
+   "name": "索岳尔济",
+   "role": "马甲"
+  },
+  {
+   "name": "李奇",
+   "role": "武清县民"
+  },
+  {
+   "name": "王达",
+   "role": "武清县民"
+  },
+  {
+   "name": "郭二",
+   "role": "山东民"
+  }
+ ],
+ "places": [
+  "武清县",
+  "山东"
+ ],
+ "source_title": "步军统领隆科多奏请将拿获赌博太监等严审折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81200,
+ "page_range": "1837-1838",
+ "_date_interpolated": true
+}

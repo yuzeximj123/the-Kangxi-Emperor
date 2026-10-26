@@ -1,0 +1,41 @@
+{
+ "source_no": 1441,
+ "title_guess": "乱社等奏请万安折",
+ "reign_year": 48,
+ "month": 6,
+ "day_text": "十五日",
+ "event_role": "请安谢恩",
+ "summary": "乱社等奏请皇父万安，询问圣躬安否，并报朱批所述河水退后救获淹溺人口情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安善；水退甚多，船舟可行，两日泊岸八百十三人，获救二十人、获贼三人，余者尚未查明，先寄知会并给大臣等看。",
+ "people": [
+  {
+   "name": "乱社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "乱祺",
+   "role": "奏事臣"
+  },
+  {
+   "name": "扰祷",
+   "role": "奏事臣"
+  },
+  {
+   "name": "筷徇",
+   "role": "奏事臣"
+  },
+  {
+   "name": "其祯",
+   "role": "奏事臣"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "有筷社等秦请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 31300,
+ "page_range": "839-840"
+}

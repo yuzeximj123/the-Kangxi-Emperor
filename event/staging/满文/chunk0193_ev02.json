@@ -1,0 +1,61 @@
+{
+ "source_no": 783,
+ "title_guess": "总管托和齐奏报拿获盗贼折",
+ "reign_year": 44,
+ "month": 8,
+ "day_text": "二十四日",
+ "event_role": "司法案件",
+ "summary": "奏报拿获旗人刘三、刘二等飞贼、抄抢贼，讯明行窃六次，将所获皮衣归还事主，窝贼户主及隐匿赃物者一并解送刑部。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "总管"
+  },
+  {
+   "name": "刘三",
+   "role": "旗人盗贼"
+  },
+  {
+   "name": "刘二",
+   "role": "旗人盗贼"
+  },
+  {
+   "name": "金玉",
+   "role": "盗贼"
+  },
+  {
+   "name": "王二",
+   "role": "盗贼"
+  },
+  {
+   "name": "大孝子",
+   "role": "盗贼"
+  },
+  {
+   "name": "吴二",
+   "role": "盗贼"
+  },
+  {
+   "name": "周六",
+   "role": "盗贼"
+  },
+  {
+   "name": "李六",
+   "role": "盗贼"
+  },
+  {
+   "name": "赵德",
+   "role": "富积礼家人"
+  }
+ ],
+ "places": [
+  "东直门外亮马桥"
+ ],
+ "source_title": "总管托和齐奏报拿获盗贼折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 19302,
+ "page_range": "599-600"
+}

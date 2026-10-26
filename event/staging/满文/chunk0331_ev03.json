@@ -1,0 +1,41 @@
+{
+ "source_no": 1546,
+ "title_guess": "杭州织造孙文成奏报处州金华二府滋事折",
+ "reign_year": 49,
+ "month": 2,
+ "day_text": "十六日",
+ "event_role": "军务",
+ "summary": "孙文成奏报处州都司张朝臣进剿高平山贼阵亡、副将戚仲斋进战败贼，并言浙江绿营兵额虚冒。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "李宗仁",
+   "role": "处州府副将"
+  },
+  {
+   "name": "张朝臣",
+   "role": "都司"
+  },
+  {
+   "name": "戚仲斋",
+   "role": "金华府副将"
+  }
+ ],
+ "places": [
+  "处州府",
+  "金华府",
+  "遂昌县",
+  "高平山",
+  "大柄"
+ ],
+ "source_title": "杭州织造孙文成奏报处州金华二府滋事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33103,
+ "page_range": "875-876"
+}

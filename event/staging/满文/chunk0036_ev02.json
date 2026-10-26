@@ -1,0 +1,35 @@
+{
+ "source_no": 159,
+ "title_guess": "皇太子筷初奏报迎索伦贡马人并京城阴雨等情折",
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "二十七日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子请安并奏报派人迎索伦图克图戎未遇、鸡蛋装运破损及京城阴雨情况，另请旨署理吏部缺员。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安善；鸡蛋足用，以后见信则进，不则罢了；凡在宫者均可署理。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "奏报人"
+  },
+  {
+   "name": "索伦图克图戎",
+   "role": "提及人物"
+  },
+  {
+   "name": "库勒讷",
+   "role": "吏部尚书"
+  }
+ ],
+ "places": [
+  "喜峰口",
+  "山海关",
+  "京城"
+ ],
+ "source_title": "皇太子筷初奏报迎索伦贡马人并京城阴雨等情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3602,
+ "page_range": "285-286"
+}

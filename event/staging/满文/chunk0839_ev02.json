@@ -1,0 +1,44 @@
+{
+ "source_no": 4185,
+ "title_guess": "理藩院审理喀尔喀贝勒等讼告案情形",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "理藩院审理喀尔喀贝勒占达古密、贝子巴特玛旺扎尔呈控都统额绰尔作法谋害一案，查无实据，请旨处置。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：显系占达古密属下奸宄小人假冒莽乃之名陷害都统额绰尔，此案不必追究，概行免之。",
+ "people": [
+  {
+   "name": "占达古密",
+   "role": "喀尔喀多罗达和尔罕贝勒"
+  },
+  {
+   "name": "巴特玛旺扎尔",
+   "role": "贝子"
+  },
+  {
+   "name": "额绰尔",
+   "role": "都统"
+  },
+  {
+   "name": "莽乃",
+   "role": "贝勒属下"
+  },
+  {
+   "name": "何达色",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "昌平州",
+  "杀虎口",
+  "昆都伦驿站"
+ ],
+ "source_title": "理藩院审理喀和尔喀贝勒等讼告案情形",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83902,
+ "page_range": "1891-1892",
+ "_date_interpolated": true
+}

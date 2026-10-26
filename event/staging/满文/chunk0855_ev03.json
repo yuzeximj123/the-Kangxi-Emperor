@@ -1,0 +1,31 @@
+{
+ "source_no": 4247,
+ "title_guess": "(佚名)奏报守备员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报山西宁武城守备员缺、山西朔州城守备员缺，请旨补放。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批著以赵成功补放宁武城守备、杨栋补放朔州城守备。",
+ "people": [
+  {
+   "name": "赵成功",
+   "role": "补放守备"
+  },
+  {
+   "name": "杨栋",
+   "role": "补放守备"
+  }
+ ],
+ "places": [
+  "山西宁武城",
+  "山西朔州城"
+ ],
+ "source_title": "(佚名)奏报守备员稻折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85503,
+ "page_range": "1923-1924",
+ "_date_interpolated": true
+}

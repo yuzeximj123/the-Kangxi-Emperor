@@ -1,0 +1,32 @@
+{
+ "source_no": 3639,
+ "title_guess": "山西巡抚德音奏报雪情粮价折",
+ "reign_year": 61,
+ "month": 9,
+ "day_text": "二十四日",
+ "event_role": "灾情收成",
+ "summary": "德音奏报十月初太原、大同等府降雪二三寸至四五寸不等，并报各府州粮价与前奏相同。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "德音",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "太原",
+  "大同",
+  "潞安",
+  "泽州",
+  "辽州",
+  "汾州",
+  "平阳",
+  "沁州"
+ ],
+ "source_title": "山西巡抚德音考报雪情粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 75603,
+ "page_range": "1725-1726"
+}

@@ -1,0 +1,29 @@
+{
+ "source_no": 475,
+ "title_guess": "陕西巡抚鄂海奏报雨雪并收成分数折",
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "二十七日",
+ "event_role": "灾情收成",
+ "summary": "陕西巡抚鄂海奏报西安、凤翔、汉中、兴安等地夏收分数，麦、大麦、豌豆、菜籽收成七八分至十分不等，延安府因寒冷尚未收割。",
+ "has_zhupi": true,
+ "zhupi_summary": "麦收情形知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "汉中",
+  "兴安",
+  "延安"
+ ],
+ "source_title": "陕西巡抚鄂海考报雨雪并收成分数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 13301,
+ "page_range": "479-480"
+}

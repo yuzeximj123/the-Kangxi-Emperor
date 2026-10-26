@@ -1,0 +1,45 @@
+{
+ "source_no": 1937,
+ "title_guess": "武英殿总监造和素等奏书并潘秉钧复归缘由折",
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "初九日",
+ "event_role": "宫廷事务",
+ "summary": "和素等奏报武英殿装完书籍种类部数，并查明潘秉钧请假复归及多算月份缘由。",
+ "has_zhupi": true,
+ "zhupi_summary": "已降旨。",
+ "people": [
+  {
+   "name": "和素",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "李国屏",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "潘秉钧",
+   "role": "修书人员"
+  },
+  {
+   "name": "宫鸿历",
+   "role": "校勘人员"
+  },
+  {
+   "name": "陈邦彦",
+   "role": "缮写人员"
+  },
+  {
+   "name": "顾祖歼",
+   "role": "缮写人员"
+  }
+ ],
+ "places": [
+  "武英殿"
+ ],
+ "source_title": "武英殿总监造和素等考书并潘秉钧复归缘由折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 39602,
+ "page_range": "1005-1006"
+}

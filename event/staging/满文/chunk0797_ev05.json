@@ -1,0 +1,26 @@
+{
+ "source_no": 3950,
+ "title_guess": "步军统领隆科多奏报京城有人言略感地震折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "六月二十八日",
+ "event_role": "灾情收成",
+ "summary": "奏报京城无怪论，唯六月二十八日饭茶铺客人言早饭时略有地震，众人未察觉，次日无人再言。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏报京城有人言略感地震折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79705,
+ "page_range": "1807-1808",
+ "_date_interpolated": true
+}

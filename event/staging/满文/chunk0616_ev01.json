@@ -1,0 +1,73 @@
+{
+ "source_no": 3090,
+ "title_guess": "人筷社等礁审理盗案折",
+ "reign_year": 56,
+ "month": 8,
+ "day_text": "二十六日",
+ "event_role": "司法案件",
+ "summary": "审理披甲李四等盗取围场鹿肉、鹿尾并交张六等售卖一案，讯问赵二、孙三、张六、张林及总领常载等，录供在案（原档残缺）。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "李四",
+   "role": "披甲（盗肉人）"
+  },
+  {
+   "name": "赵二",
+   "role": "披甲"
+  },
+  {
+   "name": "孙三",
+   "role": "披甲"
+  },
+  {
+   "name": "张六",
+   "role": "卖肉人"
+  },
+  {
+   "name": "张二",
+   "role": "肉商"
+  },
+  {
+   "name": "张林",
+   "role": "张二之子"
+  },
+  {
+   "name": "常载",
+   "role": "尚膳总领"
+  },
+  {
+   "name": "札克苏",
+   "role": "尚膳总领"
+  },
+  {
+   "name": "纪奎",
+   "role": "尚膳总领"
+  },
+  {
+   "name": "莫罗",
+   "role": "供称者"
+  },
+  {
+   "name": "穆里库",
+   "role": "供称者"
+  },
+  {
+   "name": "易三",
+   "role": "已故肉商"
+  },
+  {
+   "name": "齐黑子",
+   "role": "已故肉商"
+  }
+ ],
+ "places": [
+  "围场"
+ ],
+ "source_title": "人筷社等礁审理盗案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 61601,
+ "page_range": "1445-1446"
+}

@@ -1,0 +1,27 @@
+{
+ "source_no": 1530,
+ "title_guess": "两江总督噶礼奏报雨雪粮价情形折",
+ "reign_year": 48,
+ "month": 12,
+ "day_text": "初六日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报江南十月、十一月得雨雪，来年夏麦有益；湖广、江西米多价减，兵民食米不贵。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "湖广"
+ ],
+ "source_title": "两江总督噶礼奏报雨雪粮价情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32801,
+ "page_range": "869-870"
+}

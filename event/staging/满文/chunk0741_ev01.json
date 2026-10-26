@@ -1,0 +1,42 @@
+{
+ "source_no": 3571,
+ "title_guess": "抚远大将军岗祯奏为皇父体安喜悦折",
+ "reign_year": 60,
+ "month": 8,
+ "day_text": "三十日",
+ "event_role": "请安谢恩",
+ "summary": "抚远大将军筷祯等奏请皇父万安，称奉朱批知父皇体安、木兰围猎愉悦、圣体健壮，臣等欣然，具折谨奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。朕于九月十五日启程，抵达喀喇和屯，乘此春之便送之。",
+ "people": [
+  {
+   "name": "筷祯",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "弘曙",
+   "role": "皇子"
+  },
+  {
+   "name": "弘智",
+   "role": "皇子"
+  },
+  {
+   "name": "弘曦",
+   "role": "皇子"
+  },
+  {
+   "name": "札西",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "喀喇和屯",
+  "兴安"
+ ],
+ "source_title": "抚远大将军筷祯奏为皇父体安喜慌折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 74101,
+ "page_range": "1695-1696"
+}

@@ -1,0 +1,30 @@
+{
+ "source_no": 626,
+ "title_guess": "山西巡抚噶礼奏参平阳府知府贪污钱粮折",
+ "reign_year": 43,
+ "month": 7,
+ "day_text": "初四日",
+ "event_role": "弹劾参奏",
+ "summary": "噶礼参奏平阳府知府马超狗负债十万余两，擅动府库兵饷一万余两，借词讼勒索州县银两，人命重案受贿改供。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "马超狗",
+   "role": "平阳府知府"
+  }
+ ],
+ "places": [
+  "山西",
+  "平阳府"
+ ],
+ "source_title": "山西巡抚噶礼奏参平阳府知府食污钱粮折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16404,
+ "page_range": "541-542"
+}

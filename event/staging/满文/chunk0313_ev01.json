@@ -1,0 +1,47 @@
+{
+ "source_no": 1442,
+ "title_guess": "上册社等奏报河水泛涨情形折",
+ "reign_year": 48,
+ "month": 6,
+ "day_text": "十六日",
+ "event_role": "河工水利",
+ "summary": "上册社等遵旨奏报京城及畅春园周围降雨、河水泛涨情形，并转奏皇太后谕旨及诸臣遵行之意。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "上册社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "阿迪尔根",
+   "role": "传旨侍卫"
+  },
+  {
+   "name": "博尔多",
+   "role": "传旨侍卫"
+  },
+  {
+   "name": "赫奕",
+   "role": "内总管大臣"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "京城",
+  "畅春园",
+  "浑河",
+  "玉泉山",
+  "青龙桥",
+  "高梁桥",
+  "热河"
+ ],
+ "source_title": "筷社等考报河水泛谍情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 31301,
+ "page_range": "839-840"
+}

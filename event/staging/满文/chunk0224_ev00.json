@@ -1,0 +1,28 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "八月初三日",
+ "event_role": "外藩朝贡",
+ "summary": "片段：奏报郧格利亚国商船到广东，一船将往小西洋、一船直回大西洋，许诺沙国安等乘其船回西洋，因旧年起航未带新消息。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "沙国安",
+   "role": "随船人员"
+  }
+ ],
+ "places": [
+  "广东",
+  "小西洋",
+  "大西洋",
+  "西洋"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 22400,
+ "page_range": "661-662"
+}

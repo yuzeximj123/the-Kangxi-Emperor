@@ -1,0 +1,43 @@
+{
+ "source_no": 220,
+ "title_guess": "康熙帝论费扬古为入宁夏事",
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "二十四上日",
+ "event_role": "军务",
+ "summary": "康熙帝谕大将军费扬古，述右卫兵疲惫情形、赐银犒赏，并议携兵入宁夏、待费扬古等议奏后相机进剿噶尔丹。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军、伯"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "敌酋"
+  },
+  {
+   "name": "丹济拉",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "夏薄",
+  "浑金村",
+  "归化城",
+  "哈密",
+  "嘉峪关",
+  "宁夏",
+  "胡坦之和硕"
+ ],
+ "source_title": "康熙帝论费扬古为入宁夏事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5600,
+ "page_range": "325-326"
+}

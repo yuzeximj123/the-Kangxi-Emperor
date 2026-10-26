@@ -1,0 +1,33 @@
+{
+ "source_no": 1077,
+ "title_guess": "由社等请安并报接阅御批折",
+ "reign_year": 46,
+ "month": 3,
+ "day_text": "二十日",
+ "event_role": "请安谢恩",
+ "summary": "臣筷社等恭请皇父万安，接阅御批知圣躬安善、水土皆宜，不胜喜悦，具折奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批：朕体安善，二十三日正午至松江，近日晴凉，沿途麦豆生长异常好，闻京城雨泽沾足心神少宽。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "臣"
+  },
+  {
+   "name": "允社",
+   "role": "臣"
+  }
+ ],
+ "places": [
+  "江宁",
+  "燕子矶",
+  "龙潭",
+  "松江",
+  "苏州"
+ ],
+ "source_title": "凯社等请安并报接阅御批折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 24701,
+ "page_range": "707-708"
+}

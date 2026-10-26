@@ -1,0 +1,34 @@
+{
+ "source_no": 2093,
+ "title_guess": "上俱社等奏青海厄鲁特来使进贡物品折",
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "十九日",
+ "event_role": "外藩朝贡",
+ "summary": "筷社等奏报青海厄鲁特固山贝子车臣供青罗布藏达尔扎遣使喇木占霸进贡红香、叭香、红花、竹稳、牛皮等物，经查验部分物品不够收纳等级，请旨定夺。",
+ "has_zhupi": true,
+ "zhupi_summary": "红香不可退回。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "车臣供青罗布藏达尔扎",
+   "role": "青海厄鲁特固山贝子"
+  },
+  {
+   "name": "喇木占霸",
+   "role": "来使"
+  }
+ ],
+ "places": [
+  "青海",
+  "喀奇"
+ ],
+ "source_title": "向社等麦青海厄鲁特来使进贡物品折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42101,
+ "page_range": "1055-1056"
+}

@@ -1,0 +1,43 @@
+{
+ "source_no": 3840,
+ "title_guess": "筷社等遵旨密办皇上所委大事折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "本月十五日未时",
+ "event_role": "谕旨决策",
+ "summary": "奏报奉御批催办所委大事，说明密旨于十四日夜到畅春园、十五日卯时由翟琳送交，臣等十五日夜三更前往密办，并陈报奏折先后缘由。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批斥：所委大事文到即应紧急办理，虽未完结亦应于此报奏明，若拖延至下次报内具奏则此报无用，殊属不敬。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "仍礼",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "焦育息",
+   "role": "大太监"
+  },
+  {
+   "name": "翟琳",
+   "role": "乾清宫总管太监"
+  },
+  {
+   "name": "五贝勒",
+   "role": "转交奏折者"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "乾清宫"
+ ],
+ "source_title": "和亿社等遵则密办皇上所委大事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78401,
+ "page_range": "1781-1782",
+ "_date_interpolated": true
+}

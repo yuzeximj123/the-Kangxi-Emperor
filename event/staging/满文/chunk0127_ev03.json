@@ -1,0 +1,54 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "外藩朝贡",
+ "summary": "记述王扎西巴图鲁遣人送钤印蒙文书请求转奏，表示青海部众一心效力圣主；台吉拉藏、察罕丹津、车臣台吉色布特扎尔各派使者请求准三台吉往觐皇上，故受之奏闻。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "扎西巴图鲁",
+   "role": "青海亲王"
+  },
+  {
+   "name": "拉藏",
+   "role": "台吉"
+  },
+  {
+   "name": "墨德齐寨桑",
+   "role": "拉藏使者"
+  },
+  {
+   "name": "戴青和硕齐",
+   "role": "台吉"
+  },
+  {
+   "name": "察罕丹津",
+   "role": "台吉"
+  },
+  {
+   "name": "车尔贝寨桑",
+   "role": "察罕丹津使者"
+  },
+  {
+   "name": "色布特扎尔",
+   "role": "车臣台吉"
+  },
+  {
+   "name": "杜拉尔纳钦",
+   "role": "色布特扎尔使者"
+  }
+ ],
+ "places": [
+  "青海"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12703,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

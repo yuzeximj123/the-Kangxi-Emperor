@@ -1,0 +1,43 @@
+{
+ "source_no": 315,
+ "title_guess": "抚远大将军费扬古奏报厄鲁特逃人供词折",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初六日",
+ "event_role": "军务",
+ "summary": "费扬古奏报厄鲁特逃人音克供称伊拉古克三呼图克图欲盗黄河沿岸居民马群，已将其解送御营并转交归化城。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "音克",
+   "role": "厄鲁特逃人"
+  },
+  {
+   "name": "伊拉古克三呼图克图",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "满否",
+   "role": "议政侍郎"
+  },
+  {
+   "name": "阿第",
+   "role": "归化城副都统"
+  }
+ ],
+ "places": [
+  "纳莫赫图",
+  "黄河",
+  "归化城"
+ ],
+ "source_title": "抚远大将军费扬十奏报龙鲁特逃人供词折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 7904,
+ "page_range": "371-372"
+}

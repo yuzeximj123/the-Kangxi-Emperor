@@ -1,0 +1,31 @@
+{
+ "source_no": 2831,
+ "title_guess": "杭州织造孙文成奏报民房失火折",
+ "reign_year": 55,
+ "month": 7,
+ "day_text": "初八日",
+ "event_role": "灾情收成",
+ "summary": "此为孙文成奏折开头片段，记康熙五十五年六月初三日子时杭州钱塘县洪门局外织匠谢世嘉住房因点灯失火。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "谢世嘉",
+   "role": "织匠"
+  }
+ ],
+ "places": [
+  "杭州",
+  "钱塘县",
+  "洪门局"
+ ],
+ "source_title": "杭州织造孙文盛奏报民房失火折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 56005,
+ "page_range": "1333-1334"
+}

@@ -1,0 +1,32 @@
+{
+ "source_no": 3828,
+ "title_guess": "康熙帝朱论一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕诸阿哥之新满洲乌拉察等因不效力被赐役使，斥常德傲慢被斩，命将赐用之人令习马给盘缠赶赴行围处效力。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常德",
+   "role": "被斩之人"
+  },
+  {
+   "name": "喇锡",
+   "role": "同旗大丐"
+  }
+ ],
+ "places": [],
+ "source_title": "康熙帝朱论一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78205,
+ "page_range": "1777-1778",
+ "_date_interpolated": true
+}

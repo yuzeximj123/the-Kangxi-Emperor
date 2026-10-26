@@ -1,0 +1,42 @@
+{
+ "source_no": 3996,
+ "title_guess": "步军统领隆科多奏请将所选日行二百里者送往行在兵部折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "二十六日",
+ "event_role": "军务",
+ "summary": "隆科多遵旨查选能日行二百里者共四十二人，经试验选出四儿、陈四、蔡申、孙德四人强健，请遣官送往行在兵部。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙命若是另户之民则送来，奴仆披甲不必送来。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "四儿",
+   "role": "步甲"
+  },
+  {
+   "name": "陈四",
+   "role": "步甲"
+  },
+  {
+   "name": "蔡申",
+   "role": "步兵"
+  },
+  {
+   "name": "孙德",
+   "role": "番子"
+  }
+ ],
+ "places": [
+  "罗山"
+ ],
+ "source_title": "步军统领隆科多奏请将所选日行二百里者送往行在兵部折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80303,
+ "page_range": "1819-1820",
+ "_date_interpolated": true
+}

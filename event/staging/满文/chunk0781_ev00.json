@@ -1,0 +1,31 @@
+{
+ "source_no": 3816,
+ "title_guess": "上筷社等奏请应在何处迎接御驾折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "臣舱社等遵旨询问皇父若从海子来应在何处迎接御驾，并请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "已寄信给王乘武了。",
+ "people": [
+  {
+   "name": "舱社",
+   "role": "臣"
+  },
+  {
+   "name": "王乘武",
+   "role": "收信人"
+  }
+ ],
+ "places": [
+  "通州",
+  "海子"
+ ],
+ "source_title": "筷社等奏请应在何处迎接御贺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78100,
+ "page_range": "1775-1776",
+ "_date_interpolated": true
+}

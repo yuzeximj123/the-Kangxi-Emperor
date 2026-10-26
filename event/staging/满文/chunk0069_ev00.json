@@ -1,0 +1,42 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 36,
+ "month": 2,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "此为前件奏折残余片段，记阿喇尔拜等部众散往毕吉巴颜、额隆古河、科布多等地，并录阿玉希供词称噶尔丹穷困、马匹极瘦、盗贼蜂起。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "阿喇尔拜",
+   "role": "诺颜格隆"
+  },
+  {
+   "name": "阿玉希",
+   "role": "供人"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "多尔济塞布腾",
+   "role": "讼怎之子"
+  }
+ ],
+ "places": [
+  "毕吉巴颜",
+  "额隆古河",
+  "科布多",
+  "萨克萨图古里克",
+  "济木巴车尔贝"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6900,
+ "page_range": "351-352",
+ "_date_interpolated": true
+}

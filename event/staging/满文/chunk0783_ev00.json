@@ -1,0 +1,35 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "片段：记述羌实卓、张国柱等编筏起程、沿河寻尸及派侍卫官员堵潘家口等情，并提及三次颁谕诸臣迁移。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "羌实卓",
+   "role": "官员"
+  },
+  {
+   "name": "张国柱",
+   "role": "管井章京"
+  },
+  {
+   "name": "辛达里",
+   "role": "镶蓝旗管带锡伯章京"
+  }
+ ],
+ "places": [
+  "潘家口",
+  "八沟里"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78300,
+ "page_range": "1779-1780",
+ "_date_interpolated": true
+}

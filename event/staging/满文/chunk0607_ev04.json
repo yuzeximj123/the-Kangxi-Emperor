@@ -1,0 +1,43 @@
+{
+ "source_no": 3064,
+ "title_guess": "杭州织造孙文成奏报官兵巡海情形折",
+ "reign_year": 56,
+ "month": 8,
+ "day_text": "初一日",
+ "event_role": "军务",
+ "summary": "孙文成奏报黄岩镇守备李友擒贼船二只三十一人、温州镇游击蓝廷祯击败贼船擒孙胜等七十七人，并述审讯及解送情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "李友",
+   "role": "黄岩镇右营守备"
+  },
+  {
+   "name": "蓝廷祯",
+   "role": "温州镇中营游击"
+  },
+  {
+   "name": "孙胜",
+   "role": "被擒贼首"
+  }
+ ],
+ "places": [
+  "石塘山",
+  "北麻外洋",
+  "台山",
+  "黑水洋",
+  "温州",
+  "杭州",
+  "旅顺"
+ ],
+ "source_title": "杭州织造孙文成奏报官兵巡海情形拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 60704,
+ "page_range": "1427-1428"
+}

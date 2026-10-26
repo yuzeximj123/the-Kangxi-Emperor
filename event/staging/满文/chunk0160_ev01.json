@@ -1,0 +1,37 @@
+{
+ "source_no": 609,
+ "title_guess": "上驷院奏报患病求医人数折",
+ "reign_year": 43,
+ "month": 6,
+ "day_text": "初十日",
+ "event_role": "其他",
+ "summary": "奏报京城患病求医人数及调治情形，并附大夫诊治书。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "上驷院",
+   "role": "奏报官员"
+  },
+  {
+   "name": "杜泰",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "井四勒",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "金廷诏",
+   "role": "太医院大夫"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "有筷社奏报患病求医人数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16001,
+ "page_range": "533-534"
+}

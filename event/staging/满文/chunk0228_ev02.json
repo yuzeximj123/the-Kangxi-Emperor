@@ -1,0 +1,41 @@
+{
+ "source_no": 973,
+ "title_guess": "息社等奏报京城阴雨情形并官员病势折",
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "十八日",
+ "event_role": "其他",
+ "summary": "奏报十七至十八日京城阴雨情形，及莫尔洪病重、大夫刘声芳等诊治并附诊治书。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了；述侍卫第讷患同病，蒙古大夫给食兔脑浆等药见好，附药方用法照治。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "臣"
+  },
+  {
+   "name": "筷祯",
+   "role": "臣"
+  },
+  {
+   "name": "莫尔洪",
+   "role": "包依摆牙喇甲喇章京"
+  },
+  {
+   "name": "刘声芳",
+   "role": "大夫/太医院御医"
+  },
+  {
+   "name": "李德聪",
+   "role": "太医院御医"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "舟社等奏报京城阴雨情形并官员病势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 22802,
+ "page_range": "669-670"
+}

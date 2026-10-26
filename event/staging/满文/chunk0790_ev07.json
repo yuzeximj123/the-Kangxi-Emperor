@@ -1,0 +1,30 @@
+{
+ "source_no": 3896,
+ "title_guess": "武英殿总监造和素奏请赴热河觐见折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "和素奏称校阅之书足供修改、武英殿有李国屏不误事，请赴热河觐见皇上并观览热河奇景。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "和素",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "李国屏",
+   "role": "武英殿官员"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_title": "武英殿总监造和素奏请赴热河观见折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79007,
+ "page_range": "1793-1794",
+ "_date_interpolated": true
+}

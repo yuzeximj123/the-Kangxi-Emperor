@@ -1,0 +1,40 @@
+{
+ "source_no": 1116,
+ "title_guess": "筷社等请安并报接阅御批谕旨折",
+ "reign_year": 46,
+ "month": 5,
+ "day_text": "十三日",
+ "event_role": "请安谢恩",
+ "summary": "筷社等恭请皇父万安，报接阅御批，遵旨派大臣侍卫摆牙喇携马匹于十七日启行往迎皇父。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安。夜凉快且有月光，故前行未歇，已走很多路程。此电报于十六日晨由直隶东光县批发。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "皇子/臣"
+  },
+  {
+   "name": "天祯",
+   "role": "大臣"
+  },
+  {
+   "name": "四阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "十四阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "汾水龙王庙",
+  "天津",
+  "和毅屯",
+  "东光县"
+ ],
+ "source_title": "筷社等请安并报接阅御批谕旨折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25600,
+ "page_range": "725-726"
+}

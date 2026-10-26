@@ -1,0 +1,47 @@
+{
+ "source_no": 3239,
+ "title_guess": "理藩院寄密旨与署理将军事务额伦特等之咨文",
+ "reign_year": 57,
+ "month": 8,
+ "day_text": "十四日",
+ "event_role": "边疆事务",
+ "summary": "理藩院咨行额伦特、色楞，密令查访红帽喇嘛及班禅圆寂等情，并令将果莽喇嘛、第巴达克控等解送京城，所获准噶尔人择要解送。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "额伦特",
+   "role": "署理将军事务总督"
+  },
+  {
+   "name": "色楞",
+   "role": "署理舍郎事务值班头目"
+  },
+  {
+   "name": "卫喇锡",
+   "role": "赣清门头等舍"
+  },
+  {
+   "name": "果莽喇嘛",
+   "role": "西地喇嘛"
+  },
+  {
+   "name": "第巴达克控",
+   "role": "第巴"
+  },
+  {
+   "name": "车凌敦多布",
+   "role": "准噶尔首领"
+  }
+ ],
+ "places": [
+  "西宁",
+  "西地",
+  "藏地"
+ ],
+ "source_title": "理藩院寄密旨与署理将军事务额伦特等之咨文",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 65803,
+ "page_range": "1529-1530"
+}

@@ -1,0 +1,53 @@
+{
+ "source_no": 605,
+ "title_guess": "两江总督阿山奏报佟世禄存阁折",
+ "reign_year": 43,
+ "month": 5,
+ "day_text": "二十九日",
+ "event_role": "司法案件",
+ "summary": "阿山遵旨密奏佟世禄参案审理情形，指张鹏翮等将不应赔之银坐令佟世禄赔补实属冤抑，并奏两淮盐商匣银积弊，请旨严禁。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：先书折奏来。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "江南江西总督革职留任"
+  },
+  {
+   "name": "佟世禄",
+   "role": "涉案官员"
+  },
+  {
+   "name": "徐潮",
+   "role": "巡抚"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河道总督"
+  },
+  {
+   "name": "夏宗尧",
+   "role": "承修官员"
+  },
+  {
+   "name": "王谦",
+   "role": "原淮扬道员"
+  },
+  {
+   "name": "张能",
+   "role": "淮徐道员"
+  }
+ ],
+ "places": [
+  "扬州",
+  "石家马头",
+  "西坎",
+  "马家江",
+  "藏家沟"
+ ],
+ "source_title": "两江总督阿山奏报佟世禄印间折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 15901,
+ "page_range": "531-532"
+}

@@ -1,0 +1,50 @@
+{
+ "source_no": 2876,
+ "title_guess": "步军统领隆科多奏报盗卖内仓白米案情折",
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "十四日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报通州中南仓长于德瑞盗卖应交内仓白米三百六十石，经番子拿获，讯明于德瑞、冯二、吴昭齐、张达景、沈三等供词，请解送刑部严审。",
+ "has_zhupi": true,
+ "zhupi_summary": "著交付刑部。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "于德瑞",
+   "role": "通州中南仓长"
+  },
+  {
+   "name": "冯二",
+   "role": "卖米经纪人"
+  },
+  {
+   "name": "吴昭齐",
+   "role": "米铺民人"
+  },
+  {
+   "name": "张达景",
+   "role": "书办"
+  },
+  {
+   "name": "孙绍广",
+   "role": "书办"
+  },
+  {
+   "name": "沈三",
+   "role": "开当铺民人"
+  }
+ ],
+ "places": [
+  "通州",
+  "宣武门外"
+ ],
+ "source_title": "步军统领隆科多奏报盗卖内仓和白米案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 57001,
+ "page_range": "1353-1354"
+}

@@ -1,0 +1,34 @@
+{
+ "source_no": 359,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "初九日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子，报噶尔丹在克鲁伦兵分三路、部众抱怨欲投清，噶尔丹败逃是实，费扬古兵迎头堵截、清兵尾追，天佑事有端倪，命抄报并奏闻皇太后。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "克鲁伦",
+  "图拉"
+ ],
+ "source_title": "康熙帝朱谕",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9300,
+ "page_range": "399-400"
+}

@@ -1,0 +1,46 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": null,
+ "day_text": "初九日",
+ "event_role": "军务",
+ "summary": "记初九日行十七里次克鲁伦河湾，议政处议噶尔丹逃遁属实，令内大臣阿弥达率绿旗步兵留辎重追之，总兵岳升龙等率马兵同进。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "阿弥达",
+   "role": "内大臣"
+  },
+  {
+   "name": "岳升龙",
+   "role": "总兵"
+  },
+  {
+   "name": "马金良",
+   "role": "总兵"
+  },
+  {
+   "name": "白彬",
+   "role": "总兵"
+  }
+ ],
+ "places": [
+  "克鲁伦河湾",
+  "克和鲁伦"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4901,
+ "page_range": "311-312"
+}

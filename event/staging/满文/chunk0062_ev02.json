@@ -1,0 +1,31 @@
+{
+ "source_no": 245,
+ "title_guess": "康熙帝论",
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "初五日",
+ "event_role": "谕旨决策",
+ "summary": "记初二日大将军伯费扬古抵行在觐见并请皇太后、皇太子安，诸事议定意皆统一，故定格翁返回招抚噶尔丹并令格储薄莫起程。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "伯费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "格翁",
+   "role": "招抚使者"
+  },
+  {
+   "name": "格储薄莫",
+   "role": "使者"
+  }
+ ],
+ "places": [],
+ "source_title": "康熙帝诊",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6202,
+ "page_range": "337-338"
+}

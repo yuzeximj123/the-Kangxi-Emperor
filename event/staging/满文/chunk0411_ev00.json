@@ -1,0 +1,25 @@
+{
+ "source_no": 2048,
+ "title_guess": "福建巡抚满保奏陈沿海人出海抢劫并请补授水师提督等员缺折",
+ "reign_year": 51,
+ "month": 9,
+ "day_text": "十八日",
+ "event_role": "人事任免",
+ "summary": "满保奏陈地方文武应遵钦定法度，水师提督、海坛总兵员缺请皇上简选良臣补放，并请指教。",
+ "has_zhupi": true,
+ "zhupi_summary": "海贼投顺一事兵部已行文，其余具本来奏。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_title": "福建巡抚满保奏陈沿海人出海抢劫并请补授水师提督等员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 41100,
+ "page_range": "1035-1036"
+}

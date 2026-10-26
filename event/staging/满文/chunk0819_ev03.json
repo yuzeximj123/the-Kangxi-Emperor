@@ -1,0 +1,57 @@
+{
+ "source_no": 4075,
+ "title_guess": "步军统领托和齐奏报盗窃案情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "正月二十三日",
+ "event_role": "司法案件",
+ "summary": "奏报拿获越狱惯窃杨明春等，其入畅春园附近常寿家盗银物分赃，已解送刑部。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "常寿",
+   "role": "哈哈珠色"
+  },
+  {
+   "name": "王三",
+   "role": "闲散"
+  },
+  {
+   "name": "包玉",
+   "role": "民人"
+  },
+  {
+   "name": "杨明春",
+   "role": "惯窃"
+  },
+  {
+   "name": "张洪西",
+   "role": "窃贼"
+  },
+  {
+   "name": "程音子",
+   "role": "窃贼"
+  },
+  {
+   "name": "黄音",
+   "role": "窃贼"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "沧州",
+  "大名府",
+  "河南"
+ ],
+ "source_title": "步军统领托和齐奏报盗窃案情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81903,
+ "page_range": "1851-1852",
+ "_date_interpolated": true
+}

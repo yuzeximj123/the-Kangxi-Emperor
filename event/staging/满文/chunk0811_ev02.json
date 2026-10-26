@@ -1,0 +1,30 @@
+{
+ "source_no": 4048,
+ "title_guess": "步军统领隆科多奏报京城周围得雨情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "十四日夜三更时分、十六日已时、十八日晚更后",
+ "event_role": "灾情收成",
+ "summary": "隆科多奏报京城周围近日得雨情形，德胜门至畅春园、西直门外、宣武门外及畅春园一带先后降雨，道路积水。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "德胜门",
+  "畅春园",
+  "西直门",
+  "宣武门",
+  "右安门"
+ ],
+ "source_title": "步军统领隆科多奏报京城周围得雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81102,
+ "page_range": "1835-1836",
+ "_date_interpolated": true
+}

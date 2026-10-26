@@ -1,0 +1,43 @@
+{
+ "source_no": 1498,
+ "title_guess": "奏报头等侍卫那尔善病故折（附大夫诊治书）",
+ "reign_year": 48,
+ "month": 9,
+ "day_text": "初八日",
+ "event_role": "宫廷事务",
+ "summary": "太医院御医李德聪等启报：正黄旗一等侍卫那尔善患脾肾虚寒腹痛，服药后腹痛止，初七日忽受风抽搐气短，初十日喘汗脱败戌时身故。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "李德聪",
+   "role": "太医院御医加四级大方脉"
+  },
+  {
+   "name": "戴君选",
+   "role": "吏目大方脉"
+  },
+  {
+   "name": "李之贤",
+   "role": "预授吏目大方脉"
+  },
+  {
+   "name": "那尔善",
+   "role": "正黄旗一等侍卫"
+  },
+  {
+   "name": "诚亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "雍亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [],
+ "source_title": "由社等奏报头等侍卫那尔善病而折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32300,
+ "page_range": "859-860"
+}

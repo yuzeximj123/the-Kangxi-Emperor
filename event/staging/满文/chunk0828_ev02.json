@@ -1,0 +1,30 @@
+{
+ "source_no": 4115,
+ "title_guess": "抚远大将军胤祯奏为赏赐阵亡病故官兵折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "胤祯奏报遵兵部咨文查明西路阵亡病故官兵照例赏赐，并请示往吊额伦特派谁去及如何赏赐。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：吊将军应由胤祯亲自前往；阵亡官兵应大做道场，胤祯亲自前往奠酒，并令随其意行。",
+ "people": [
+  {
+   "name": "胤祯",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "额伦特",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_title": "抚远大将军胤祯奏为赏赐阵亡病故官兵折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82802,
+ "page_range": "1869-1870",
+ "_date_interpolated": true
+}

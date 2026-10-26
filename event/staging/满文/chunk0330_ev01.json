@@ -1,0 +1,36 @@
+{
+ "source_no": 1540,
+ "title_guess": "两江总督噶礼奏报审理江南盗案情形折",
+ "reign_year": 49,
+ "month": 1,
+ "day_text": "十五日",
+ "event_role": "司法案件",
+ "summary": "噶礼奏报遵旨速审江南强盗、窃盗各案，统计已结、已获未结及未获案数，并令照例擒捕。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "钦差审事尚书"
+  },
+  {
+   "name": "噶敏图",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [
+  "镇江",
+  "江南",
+  "江苏",
+  "安徽"
+ ],
+ "source_title": "两江总督噶礼奏报审理江南盗案情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33001,
+ "page_range": "873-874"
+}

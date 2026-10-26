@@ -1,0 +1,28 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "片段记载内膳房及饭房按月每日所用黄芽白菜、菠菜、葱、香菜、萝卜、王瓜、茄子等蔬菜份例，并载正顺妃、温惠如等每日两餐咸白菜、清酱瓜、炸香菜等减量调用情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "正顺妃",
+   "role": "妃"
+  },
+  {
+   "name": "温惠如",
+   "role": "妃"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 11300,
+ "page_range": "439-440",
+ "_date_interpolated": true
+}

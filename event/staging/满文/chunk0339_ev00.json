@@ -1,0 +1,38 @@
+{
+ "source_no": 1589,
+ "title_guess": "上息社等奏报患病求医人员折",
+ "reign_year": 49,
+ "month": 5,
+ "day_text": "二十五日",
+ "event_role": "宫廷事务",
+ "summary": "片段：奏报若干患病求医人员，包括盛京正黄旗锡喇、镶黄旗觉罗马尔泰、正红旗阿鲁等，并请准章嘉呼图克图乘车入内。",
+ "has_zhupi": true,
+ "zhupi_summary": "准章嘉呼图克图骑马，换汉人大夫治疗。",
+ "people": [
+  {
+   "name": "章嘉呼图克图",
+   "role": "呼图克图"
+  },
+  {
+   "name": "锡喇",
+   "role": "盛京正黄旗包衣牛录章京"
+  },
+  {
+   "name": "觉罗马尔泰",
+   "role": "镶黄旗三等侍卫"
+  },
+  {
+   "name": "阿鲁",
+   "role": "正红旗前锋参领"
+  }
+ ],
+ "places": [
+  "盛京",
+  "紫禁城"
+ ],
+ "source_title": "上息社等奏报患病求医人员折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33900,
+ "page_range": "891-892"
+}

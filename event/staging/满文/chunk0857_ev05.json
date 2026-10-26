@@ -1,0 +1,36 @@
+{
+ "source_no": 4267,
+ "title_guess": "奏报参将游击守备员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "开列四川成都参将、直隶文安营游击、巡捕南营守备员缺，朱批补放黄世英、韩德、宋可进。",
+ "has_zhupi": true,
+ "zhupi_summary": "著以黄世英补放成都参将、韩德补放文安营游击、宋可进补授巡捕南营守备。",
+ "people": [
+  {
+   "name": "黄世英",
+   "role": "补放四川成都参将"
+  },
+  {
+   "name": "韩德",
+   "role": "补放直隶文安营游击"
+  },
+  {
+   "name": "宋可进",
+   "role": "补授巡捕南营守备"
+  }
+ ],
+ "places": [
+  "四川成都",
+  "直隶文安营",
+  "巡捕南营"
+ ],
+ "source_title": "(佚名)奏报参将游击守备员仍折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85705,
+ "page_range": "1927-1928",
+ "_date_interpolated": true
+}

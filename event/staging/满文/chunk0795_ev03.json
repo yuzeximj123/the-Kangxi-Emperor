@@ -1,0 +1,34 @@
+{
+ "source_no": 3932,
+ "title_guess": "步军统领隆科多奏报京城六七月所获各案并新谷市价等事折",
+ "reign_year": 3,
+ "month": 7,
+ "day_text": "六月十七日至七月十七日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报六月十七日至七月十七日拿获窃盗割懒筋者十一人及逃人、拐骗、赌博等案，并报新谷上市及各项粮价。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "许四",
+   "role": "窃盗"
+  },
+  {
+   "name": "三儿",
+   "role": "窃盗"
+  }
+ ],
+ "places": [
+  "法库边"
+ ],
+ "source_title": "步军统领隆科多奏报京城六七月所获各案并新谷市价等事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79503,
+ "page_range": "1803-1804",
+ "_date_interpolated": true
+}

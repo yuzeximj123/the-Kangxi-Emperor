@@ -1,0 +1,38 @@
+{
+ "source_no": 1587,
+ "title_guess": "和由社等奏报皇太后将于二十八日前往行在所折",
+ "reign_year": 49,
+ "month": 5,
+ "day_text": "二十二日",
+ "event_role": "宫廷事务",
+ "summary": "筷社等奏报皇太后定于二十八日启程前往行在所，并遵旨备办车马护卫及迎护事宜。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "观保",
+   "role": "委内总管大臣"
+  },
+  {
+   "name": "刘晋忠",
+   "role": "总管太监"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "两间房",
+  "明亮"
+ ],
+ "source_title": "上乱社等奏报皇太后将于二十八日前往行在所折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33803,
+ "page_range": "889-890"
+}

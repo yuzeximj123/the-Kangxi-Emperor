@@ -1,0 +1,36 @@
+{
+ "source_no": 4206,
+ "title_guess": "理藩院奏进致伊拉古克三呼图克图之咨文",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "理藩院咨行伊拉古克三呼图克图，引述其陈奏昔蒙太宗、达赖喇嘛及皇上眷爱，后因僧徒诬告被弃，喀尔喀厄鲁特交恶后奉命前往效力等情，文末残缺。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "伊拉古克三呼图克图",
+   "role": "呼图克图"
+  },
+  {
+   "name": "盆苏克格隆",
+   "role": "僧徒"
+  },
+  {
+   "name": "噶尔丹博硕克图",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "喀尔喀",
+  "厄鲁特",
+  "西地"
+ ],
+ "source_title": "理医院故进致伊拉古克三呼图克图之咨文",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84302,
+ "page_range": "1899-1900",
+ "_date_interpolated": true
+}

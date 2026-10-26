@@ -1,0 +1,34 @@
+{
+ "source_no": 1570,
+ "title_guess": "两江总督噶礼奏荐武职员缺折",
+ "reign_year": 49,
+ "month": 4,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "噶礼再奏荐太原营守备赵成业、千总李宗源谙练弓马，请交兵部发往其标下遇缺题补。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：尔折子内已有旨了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "赵成业",
+   "role": "太原营守备"
+  },
+  {
+   "name": "李宗源",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原"
+ ],
+ "source_title": "两江总督噶礼秦厦武职员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33504,
+ "page_range": "883-884"
+}

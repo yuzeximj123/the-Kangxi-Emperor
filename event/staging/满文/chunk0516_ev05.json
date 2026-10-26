@@ -1,0 +1,61 @@
+{
+ "source_no": 2635,
+ "title_guess": "理藩院奏请应问俄商有关事宜折",
+ "reign_year": 54,
+ "month": 7,
+ "day_text": "初五日",
+ "event_role": "边疆事务",
+ "summary": "理藩院奏报询问俄商伊凡等越界多带人前来西宁贸易及是否去过策妄喇布坦处等情。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "舒金泰",
+   "role": "驻西宁员外郎"
+  },
+  {
+   "name": "伊凡·雅雷斯基",
+   "role": "俄商"
+  },
+  {
+   "name": "迪米第里",
+   "role": "俄商"
+  },
+  {
+   "name": "阿列克谢",
+   "role": "俄商"
+  },
+  {
+   "name": "里番提",
+   "role": "俄商"
+  },
+  {
+   "name": "阿苏尔",
+   "role": "俄商"
+  },
+  {
+   "name": "安迪里",
+   "role": "俄商"
+  },
+  {
+   "name": "加加林",
+   "role": "俄方官员"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "西宁",
+  "厄鲁特",
+  "吐鲁番",
+  "青海",
+  "西藏"
+ ],
+ "source_title": "理藩院奏请应问俄商有关事宜折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 51605,
+ "page_range": "1245-1246"
+}

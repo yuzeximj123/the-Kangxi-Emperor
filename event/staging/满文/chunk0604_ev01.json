@@ -1,0 +1,63 @@
+{
+ "source_no": 3047,
+ "title_guess": "工部尚书王顼龄等奏报水势折",
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "二十七日",
+ "event_role": "河工水利",
+ "summary": "工部尚书王顼龄等奏报通州一带河水涨退情形，滚水坝、堤工完好，运粮船照常行驶。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝询问河西务新开之河情况如何。",
+ "people": [
+  {
+   "name": "王顼龄",
+   "role": "工部尚书"
+  },
+  {
+   "name": "常泰",
+   "role": "左侍郎"
+  },
+  {
+   "name": "郝林",
+   "role": "左侍郎"
+  },
+  {
+   "name": "李锡",
+   "role": "右侍郎"
+  },
+  {
+   "name": "阿尔布",
+   "role": "督水司郎中"
+  },
+  {
+   "name": "张学祥",
+   "role": "郎中"
+  },
+  {
+   "name": "片图",
+   "role": "员外郎"
+  },
+  {
+   "name": "姚龄",
+   "role": "员外郎"
+  },
+  {
+   "name": "郧吉图",
+   "role": "主事"
+  },
+  {
+   "name": "牛纽",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "通州",
+  "河西务",
+  "津门"
+ ],
+ "source_title": "工部尚书王预龄等奏报水势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 60401,
+ "page_range": "1421-1422"
+}

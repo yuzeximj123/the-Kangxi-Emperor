@@ -1,0 +1,28 @@
+{
+ "source_no": 4272,
+ "title_guess": "奏报参将员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报广东、广西总督标下南营参将员缺一名，朱批著以李根润补放。",
+ "has_zhupi": true,
+ "zhupi_summary": "著以李根润补放南营参将。",
+ "people": [
+  {
+   "name": "李根润",
+   "role": "补放参将"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "南营"
+ ],
+ "source_title": "(佚名)礁报参将员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85803,
+ "page_range": "1929-1930",
+ "_date_interpolated": true
+}

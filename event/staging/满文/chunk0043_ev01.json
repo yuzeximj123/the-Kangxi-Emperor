@@ -1,0 +1,36 @@
+{
+ "source_no": 177,
+ "title_guess": "康熙帝论皇太子军马等情形",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十七日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子，述队伍初五入卡伦、军马肥壮、喀尔喀内扎萨克蒙古获大益，并告鄂嫩等处收抚情形及初五初六猎捕野驴黄羊、驻跸呼库车勤池等事。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "罗布藏额尔德尼台吉",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "鄂嫩",
+  "呼伦贝尔",
+  "克鲁伦",
+  "呼库车勤池"
+ ],
+ "source_title": "康熙帝论皇太子筷祝军马等情形",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4301,
+ "page_range": "299-300"
+}

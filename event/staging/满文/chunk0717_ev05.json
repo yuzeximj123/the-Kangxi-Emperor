@@ -1,0 +1,34 @@
+{
+ "source_no": 3465,
+ "title_guess": "步军统领隆科多等奏为禁止大兴土木折",
+ "reign_year": 58,
+ "month": 9,
+ "day_text": "十四日",
+ "event_role": "河工水利",
+ "summary": "隆科多等遵钦天监明年庚子不宜大修建之议，请于结冻前疏通京城内外沟渠，并出示禁止明年拆房大兴土木。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：是。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "觉佛伦",
+   "role": "委前锋参领"
+  },
+  {
+   "name": "讼泰",
+   "role": "右翼村长"
+  }
+ ],
+ "places": [
+  "京城",
+  "皇城"
+ ],
+ "source_title": "步军统领隆科多等秦为禁目大兴土木折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 71705,
+ "page_range": "1647-1648"
+}

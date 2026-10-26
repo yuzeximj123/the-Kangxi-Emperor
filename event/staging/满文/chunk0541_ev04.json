@@ -1,0 +1,39 @@
+{
+ "source_no": 2744,
+ "title_guess": "湖广总督额伦特奏请朝觐折",
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "十三日",
+ "event_role": "请安谢恩",
+ "summary": "额伦特奏报赴太原会审赵凤诏贪赃案已具本会奏，因距京近且逢万寿圣诞，请准入京陛见。",
+ "has_zhupi": true,
+ "zhupi_summary": "既至近处应准前来，但今陕西地方即将用兵，有用尔之处，著暂于太原等候",
+ "people": [
+  {
+   "name": "额伦特",
+   "role": "湖广总督"
+  },
+  {
+   "name": "李锡",
+   "role": "巡抚"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "贪赃案犯"
+  }
+ ],
+ "places": [
+  "太原",
+  "陕西",
+  "京城"
+ ],
+ "source_title": "湖广总督额伦特奏请朝疯折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 54104,
+ "page_range": "1295-1296"
+}

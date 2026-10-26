@@ -1,0 +1,34 @@
+{
+ "source_no": null,
+ "title_guess": "班禅呼图克图奏书",
+ "reign_year": 44,
+ "month": 12,
+ "day_text": "乙酉年八月初一",
+ "event_role": "外藩朝贡",
+ "summary": "班禅奏谢康熙帝颁敕问好赏物，进阿育锡佛、舍利等，并解释因无旨未便遣使及带礼物，请仍准以请安礼进物。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "班禅",
+   "role": "班禅呼图克图"
+  },
+  {
+   "name": "罗布藏顿鲁布",
+   "role": "喇嘛使臣"
+  },
+  {
+   "name": "噶隆",
+   "role": "使臣"
+  }
+ ],
+ "places": [
+  "土伯特"
+ ],
+ "source_title": "班禅呼图克图奏书",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 20001,
+ "page_range": "613-614",
+ "_date_interpolated": true
+}

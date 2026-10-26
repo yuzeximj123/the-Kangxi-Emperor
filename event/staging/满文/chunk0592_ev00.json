@@ -1,0 +1,46 @@
+{
+ "source_no": 2995,
+ "title_guess": "理藩院奏派图理琛送俄罗斯大夫噶尔芬回国折",
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "十九日",
+ "event_role": "边疆事务",
+ "summary": "理藩院遵旨议奏赏赐并遣送俄罗斯大夫噶尔芬等回国，拟派郎中图理琛送至楚库柏兴，并探听策妄喇布坦及俄罗斯消息。",
+ "has_zhupi": true,
+ "zhupi_summary": "由理藩院复文加加林。",
+ "people": [
+  {
+   "name": "噶尔芬",
+   "role": "俄罗斯大夫"
+  },
+  {
+   "name": "图理琛",
+   "role": "郎中"
+  },
+  {
+   "name": "喇锡",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "伊都里",
+   "role": "武英殿总裁员外郎"
+  },
+  {
+   "name": "张常柱",
+   "role": "牛录章京"
+  },
+  {
+   "name": "李国屏",
+   "role": "武英殿总裁"
+  }
+ ],
+ "places": [
+  "楚库柏兴",
+  "俄罗斯"
+ ],
+ "source_title": "理藩院考派图理琛送俄罗斯大夫噶尔芬回国折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 59200,
+ "page_range": "1397-1398"
+}

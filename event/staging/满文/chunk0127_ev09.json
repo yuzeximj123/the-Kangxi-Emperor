@@ -1,0 +1,38 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "八月十六日",
+ "event_role": "边疆事务",
+ "summary": "阿南达答称七月十五日曾劝止商南多尔济未果，八月十六日返后商南多尔济称带拉藏等赴京事已定、王已出结，阿南达因有王印结亦随便签字具奏，但未管备办驿站事。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "商南多尔济",
+   "role": "喇嘛"
+  },
+  {
+   "name": "拉藏",
+   "role": "台吉"
+  },
+  {
+   "name": "扎西巴图鲁",
+   "role": "青海亲王"
+  }
+ ],
+ "places": [
+  "松山"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12709,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

@@ -1,0 +1,30 @@
+{
+ "source_no": 336,
+ "title_guess": "皇太子向祈奏请御批内勿写请示折",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十七日",
+ "event_role": "宫廷事务",
+ "summary": "皇太子奏折片段，呈进二鱼图并请御批中勿写请示类言词，附康熙朱批询问皇太子安好及沿途见闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批问皇太子安好，嘱家书琐细仍可写来以悦视之，并述沿黄河行军所见草木禽兽及督运粮船情形。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄河",
+  "白塔"
+ ],
+ "source_title": "皇太子向祈奏请御批内勿写请示折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8600,
+ "page_range": "385-386"
+}

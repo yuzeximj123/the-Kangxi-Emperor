@@ -1,0 +1,43 @@
+{
+ "source_no": 3607,
+ "title_guess": "筷祝等奏为询问贤史国贡使情形折",
+ "reign_year": 61,
+ "month": 5,
+ "day_text": "十一日",
+ "event_role": "外藩朝贡",
+ "summary": "臣等遵旨询问暹罗国贡使海勒茶皮、海勒茶制法属性及树营香等物，并询问其行程、物产、医药、禽兽、耕种、气候、兵械、文字、算法等情形，据通事翻译逐一奏闻。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "筷祝",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "巴什",
+   "role": "武英殿员外郎"
+  },
+  {
+   "name": "苏琳",
+   "role": "西洋人"
+  },
+  {
+   "name": "罗上",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "昆威吉瓦杞",
+   "role": "暹罗国通事"
+  }
+ ],
+ "places": [
+  "暹罗国",
+  "广东",
+  "安南国"
+ ],
+ "source_title": "筷祝等奏为询问贤史国贡使情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 75002,
+ "page_range": "1713-1714"
+}

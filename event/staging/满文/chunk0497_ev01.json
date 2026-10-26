@@ -1,0 +1,41 @@
+{
+ "source_no": 2554,
+ "title_guess": "理藩院奏请台吉阿里雅病故遣官致祭折",
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "初七日",
+ "event_role": "边疆事务",
+ "summary": "理藩院奏报喀尔喀扎萨克一等台吉阿里雅自打围返回途中患病身故，有二子，请旨是否照例致祭。",
+ "has_zhupi": true,
+ "zhupi_summary": "著照公衔遣官致祭阿里雅",
+ "people": [
+  {
+   "name": "阿里雅",
+   "role": "喀尔喀扎萨克一等台吉"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣兼理尚书事务公"
+  },
+  {
+   "name": "诺木齐岱",
+   "role": "左侍郎"
+  },
+  {
+   "name": "拉都浑",
+   "role": "右侍郎"
+  },
+  {
+   "name": "特古特",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "叶克噶扎尔"
+ ],
+ "source_title": "理蓝院麦请台吉阿里雅病故遗官致祭折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 49701,
+ "page_range": "1207-1208"
+}

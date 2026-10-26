@@ -1,0 +1,48 @@
+{
+ "source_no": 3965,
+ "title_guess": "步军统领隆科多奏报京城所获各案并粮米时价等事折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月十三日至三十日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报本月十三至三十日衙门获窃盗割懒筋者十四人，李二、牛二、何二、石大等俱割两边懒筋，另有仓长王四盗白米二十石变卖及假银案，俱解刑部；并报粮价及八旗兵丁钱粮拨放。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "李二",
+   "role": "窃盗"
+  },
+  {
+   "name": "牛二",
+   "role": "窃盗"
+  },
+  {
+   "name": "何二",
+   "role": "窃盗"
+  },
+  {
+   "name": "石大",
+   "role": "窃盗"
+  },
+  {
+   "name": "王四",
+   "role": "仓长"
+  }
+ ],
+ "places": [
+  "顺德府",
+  "广平府",
+  "山东"
+ ],
+ "source_title": "步军统领隆科多奏报京城所获各案并粮米时份等事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79905,
+ "page_range": "1811-1812",
+ "_date_interpolated": true
+}

@@ -1,0 +1,46 @@
+{
+ "source_no": 1755,
+ "title_guess": "武英殿总监造和素奏报西洋人奏言并进书折",
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "初十日",
+ "event_role": "宫廷事务",
+ "summary": "和素复奏御批退回博津易经事，转述苏琳、吉利安等跪读谕旨后自陈不谙易经，拟待江西西洋人富生哲至再与博津详定，俟皇上入京进呈御览，并进书五篇、图一张。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "和素",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "博津",
+   "role": "著书西洋人"
+  },
+  {
+   "name": "苏琳",
+   "role": "西洋人"
+  },
+  {
+   "name": "吉利安",
+   "role": "西洋人"
+  },
+  {
+   "name": "富生哲",
+   "role": "江西西洋人"
+  },
+  {
+   "name": "王道化",
+   "role": "送书人"
+  }
+ ],
+ "places": [
+  "江西",
+  "京城"
+ ],
+ "source_title": "武英殿总监造和素奏报西洋人奏言并进书折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 36505,
+ "page_range": "943-944"
+}

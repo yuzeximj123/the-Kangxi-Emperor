@@ -1,0 +1,30 @@
+{
+ "source_no": 1705,
+ "title_guess": "筷社等奏报京城畅春园阴雨情形折",
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "二十五日",
+ "event_role": "灾情收成",
+ "summary": "奏报本月二十二、二十四日京城、畅春园得雨时辰及雨量，共得雨二次约五寸，洼地已透高地未透。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。京城疾病如何了？在此并无消息。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "肯祺",
+   "role": "奏报大臣"
+  }
+ ],
+ "places": [
+  "京城",
+  "畅春园"
+ ],
+ "source_title": "上筷社等奏报京城畅春园阴雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35705,
+ "page_range": "927-928"
+}

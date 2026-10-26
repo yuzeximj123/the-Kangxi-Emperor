@@ -1,0 +1,35 @@
+{
+ "source_no": 364,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "康熙三十六年五月十九日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子，报费扬古兵已过图拉堵截噶尔丹去路，精兵一万四千，马膘尚好，噶尔丹近况将继报，命奏闻皇太后并报宫内及满洲诸臣。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  }
+ ],
+ "places": [
+  "图拉",
+  "图凌布拉克",
+  "塔尔浑柴达木"
+ ],
+ "source_title": "康熙帝朱诊",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9305,
+ "page_range": "399-400"
+}

@@ -1,0 +1,34 @@
+{
+ "source_no": 4178,
+ "title_guess": "刑部奏报未察出复奏折内错字折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部复奏浙江巡抚王度昭所奏金硅拟绞一案，科衙门将满文一字写错，刑部未察觉照录折上，为此具奏请罪。",
+ "has_zhupi": true,
+ "zhupi_summary": "斥其查得糊涂，若出自通本则内阁有错，岂可以未看出即可接受，著复行查明奏来。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "金硅",
+   "role": "案犯"
+  },
+  {
+   "name": "吴名禄",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_title": "刑部奏报未察出复秦折内错字折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83802,
+ "page_range": "1889-1890",
+ "_date_interpolated": true
+}

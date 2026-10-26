@@ -1,0 +1,30 @@
+{
+ "source_no": 49,
+ "title_guess": "山东巡抚佛伦奏请钦点知府员缺折",
+ "reign_year": 30,
+ "month": 6,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "佛伦奏请皇上钦点补授莱州府知府员缺，因原知府杨胜远升任浙江盐运司。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "杨胜远",
+   "role": "莱州府知府"
+  }
+ ],
+ "places": [
+  "莱州府",
+  "浙江"
+ ],
+ "source_title": "山东巡抚佛伦奏请钦点知府员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1001,
+ "page_range": "233-234"
+}

@@ -1,0 +1,51 @@
+{
+ "source_no": 1488,
+ "title_guess": "和社等汇奏求医人员折",
+ "reign_year": 48,
+ "month": 8,
+ "day_text": "二十五日",
+ "event_role": "宫廷事务",
+ "summary": "和社等汇奏本月求医人员：王登、洪远义、蓝钢屯、图克善、那尔善等，派大夫李德聪、李之贤前往诊视。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "和社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "王登",
+   "role": "镶黄旗三等侍卫"
+  },
+  {
+   "name": "洪远义",
+   "role": "正白旗包衣七品官"
+  },
+  {
+   "name": "蓝钢屯",
+   "role": "镶黄旗"
+  },
+  {
+   "name": "图克善",
+   "role": "正黄旗三等侍卫"
+  },
+  {
+   "name": "那尔善",
+   "role": "一等御前侍卫"
+  },
+  {
+   "name": "李德聪",
+   "role": "大夫"
+  },
+  {
+   "name": "李之贤",
+   "role": "大夫"
+  }
+ ],
+ "places": [],
+ "source_title": "有乱社等汇秦求医人员拍尼",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32103,
+ "page_range": "855-856"
+}

@@ -1,0 +1,47 @@
+{
+ "source_no": 4101,
+ "title_guess": "步军统领托和齐奏报各尚书之品行折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "原档残缺，托和齐奏报对各尚书品行的看法：张月天居官好不受银，由和诺庸弱，耿额声名不恶，齐世武粗疏有余不纳钱财，并言汉人不念恩典、闻陈元龙补授巡抚而不喜。",
+ "has_zhupi": true,
+ "zhupi_summary": "甚是。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "张月天",
+   "role": "尚书"
+  },
+  {
+   "name": "由和诺",
+   "role": "尚书"
+  },
+  {
+   "name": "耿额",
+   "role": "尚书"
+  },
+  {
+   "name": "齐世武",
+   "role": "尚书"
+  },
+  {
+   "name": "陈元龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "安徽",
+  "广西"
+ ],
+ "source_title": "步军统领托和齐奏报各尚书之品行折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82503,
+ "page_range": "1863-1864",
+ "_date_interpolated": true
+}

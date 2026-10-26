@@ -1,0 +1,47 @@
+{
+ "source_no": 4182,
+ "title_guess": "理藩院奏请安置厄鲁特男妇折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "哈密送来与噶尔丹之子色布腾巴尔珠尔同来之厄鲁特男妇共五十八口，理藩院请旨或驿送张家口关外牧场交官安置，或暂留部中。",
+ "has_zhupi": true,
+ "zhupi_summary": "著候朕。",
+ "people": [
+  {
+   "name": "阿南达",
+   "role": "一等侍卫、副都统"
+  },
+  {
+   "name": "色布腾巴尔珠尔",
+   "role": "噶尔丹之子"
+  },
+  {
+   "name": "满都",
+   "role": "郎中"
+  },
+  {
+   "name": "多尔济",
+   "role": "员外郎"
+  },
+  {
+   "name": "色特",
+   "role": "厄鲁特妇人（途中病亡）"
+  },
+  {
+   "name": "博布扎布",
+   "role": "男孩（途中病亡）"
+  }
+ ],
+ "places": [
+  "哈密",
+  "张家口"
+ ],
+ "source_title": "理藩院奏请安置厄鲁特男妇折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83806,
+ "page_range": "1889-1890",
+ "_date_interpolated": true
+}

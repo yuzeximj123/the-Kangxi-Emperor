@@ -1,0 +1,48 @@
+{
+ "source_no": 3086,
+ "title_guess": "广东巡抚法海参奏提督王文雄捕贼不力折",
+ "reign_year": 56,
+ "month": 8,
+ "day_text": "二十四日",
+ "event_role": "弹劾参奏",
+ "summary": "法海参奏提督王文雄品行小气、谎报无贼、强夺文官所获贼犯冒功，并争已死贼犯于阿二之功，请求圣主明鉴。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：王文雄与总督并无好处，总督已将此事奏闻；王文雄如何可比总督。",
+ "people": [
+  {
+   "name": "法海",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "王文雄",
+   "role": "提督"
+  },
+  {
+   "name": "陈君原",
+   "role": "逃贼"
+  },
+  {
+   "name": "裴俊",
+   "role": "参将"
+  },
+  {
+   "name": "于阿二",
+   "role": "贼犯"
+  },
+  {
+   "name": "杨琳",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "广东",
+  "潮州",
+  "旅顺",
+  "福建"
+ ],
+ "source_title": "广东巡抚法海参考提督王文雄捕贼不力折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 61302,
+ "page_range": "1439-1440"
+}

@@ -1,0 +1,32 @@
+{
+ "source_no": 3419,
+ "title_guess": "湖广监督满丕奏报粮米收成折",
+ "reign_year": 58,
+ "month": 6,
+ "day_text": "十七日",
+ "event_role": "灾情收成",
+ "summary": "满丕奏报湖北湖南稻谷丰收、米价平稳，及江宁浙江兵调驻云南沅州喂马致米价上涨后回落情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "湖南湖北粮收无何言，江西巡抚所报江西粮食亦同湖广。",
+ "people": [
+  {
+   "name": "满丕",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [
+  "湖北",
+  "湖南",
+  "沅州",
+  "常德",
+  "江宁",
+  "浙江",
+  "云南",
+  "江西"
+ ],
+ "source_title": "湖广监督满丕奏报粮米收成折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 70201,
+ "page_range": "1617-1618"
+}

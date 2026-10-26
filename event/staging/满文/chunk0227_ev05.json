@@ -1,0 +1,44 @@
+{
+ "source_no": 970,
+ "title_guess": "川陕总督博界奏报赍送御书嘎字镌刻折",
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "十六日",
+ "event_role": "宫廷事务",
+ "summary": "博者奏报遵旨将御书嘎字及喇嘛鄂塞尔噶隆等交付家人送至河州隆觉寺，令知州王全琛监督敬刻悬挂寺门。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "博者",
+   "role": "川陕总督"
+  },
+  {
+   "name": "常寿",
+   "role": "官员"
+  },
+  {
+   "name": "佛保",
+   "role": "郎中"
+  },
+  {
+   "name": "鄂塞尔噶隆",
+   "role": "喇嘛"
+  },
+  {
+   "name": "王全琛",
+   "role": "河州知州"
+  }
+ ],
+ "places": [
+  "河州",
+  "张各城",
+  "隆觉寺",
+  "西安"
+ ],
+ "source_title": "川陕总督博雾奏报次送御书苞字蚀刻折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 22705,
+ "page_range": "667-668"
+}

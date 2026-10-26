@@ -1,0 +1,30 @@
+{
+ "source_no": 3973,
+ "title_guess": "步军统领隆科多奏报京城谷物收割并粮米时价情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "灾情收成",
+ "summary": "隆科多奏报麦已割完、高粱谷子开始收割，收成好于去年，并报粮价及新谷价。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了；并命严拿逃亡养鸟太监韩金朝，获后亲自严审录供具奏。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "韩金朝",
+   "role": "四执事养鸟太监"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏报京城谷物收割并粮米时价情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80005,
+ "page_range": "1813-1814",
+ "_date_interpolated": true
+}

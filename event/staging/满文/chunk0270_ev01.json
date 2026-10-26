@@ -1,0 +1,41 @@
+{
+ "source_no": 1199,
+ "title_guess": "和素等奏报以所赐鱼转赏宫内及诸臣情形折",
+ "reign_year": 46,
+ "month": 9,
+ "day_text": "初六日",
+ "event_role": "宫廷事务",
+ "summary": "和素等奏报皇上于涨尔河捕鱼甚多，遵旨将所赐鱼分赏皇太后、诸妃、大学士、尚书、侍卫、八旗都统及西洋人等情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "和素",
+   "role": "奏报人"
+  },
+  {
+   "name": "巴尔岱",
+   "role": "茶上人送鱼者"
+  },
+  {
+   "name": "魏国柱",
+   "role": "总管太监"
+  },
+  {
+   "name": "吴达绰",
+   "role": "都统"
+  },
+  {
+   "name": "赫世享",
+   "role": "武英殿官员"
+  }
+ ],
+ "places": [
+  "涨尔河"
+ ],
+ "source_title": "上筷社等奏报以所赐鱼转赏宫肉及诸臣情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 27001,
+ "page_range": "753-754"
+}

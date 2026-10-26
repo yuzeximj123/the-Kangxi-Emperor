@@ -1,0 +1,35 @@
+{
+ "source_no": 474,
+ "title_guess": "都统满丕等奏驻守满洲兵已撤回锦州折",
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "二十四日",
+ "event_role": "军务",
+ "summary": "都统满丕等奏报遵旨将驻打箭炉锦州满洲兵于五月二十三日起程撤回锦州，酌留绿旗兵防守要隘，巡抚贝和诺已赴省城。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "满丕",
+   "role": "都统"
+  },
+  {
+   "name": "岳升龙",
+   "role": "四川提督总兵官署副将"
+  },
+  {
+   "name": "贝和诺",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "打箭炉",
+  "锦州",
+  "省城"
+ ],
+ "source_title": "都统满耕等奏驻守满洲兵已撤回锦州折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 13205,
+ "page_range": "477-478"
+}

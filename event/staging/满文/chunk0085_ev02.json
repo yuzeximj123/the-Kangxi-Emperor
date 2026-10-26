@@ -1,0 +1,57 @@
+{
+ "source_no": 333,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十三日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕皇太子，告以招降青海等西部厄鲁特成功、未用一兵一卒尽收其众，策妄喇布坦亦归属，噶尔丹或献尸或献人朝夕以待，命给议政大臣看并奏闻皇太后。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "阿喇布坦",
+   "role": "台吉"
+  },
+  {
+   "name": "德木楚克",
+   "role": "台吉"
+  },
+  {
+   "name": "杜斯嘎尔",
+   "role": "都统"
+  },
+  {
+   "name": "南多尔济",
+   "role": "官员"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "丹津旺布",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_title": "康熙帝朱论",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8502,
+ "page_range": "383-384"
+}

@@ -1,0 +1,39 @@
+{
+ "source_no": 266,
+ "title_guess": "康熙帝朱论",
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "十八日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大将军费扬古，告知哈密地方拿获噶尔丹之子塞布腾巴尔珠尔，抄发阿南达奏折，并赏赐肉、鹿尾等物问好。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "阿南达",
+   "role": "驻肃州副都统"
+  },
+  {
+   "name": "塞布腾巴尔珠尔",
+   "role": "噶尔丹之子"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "肃州",
+  "哈密",
+  "畅春园"
+ ],
+ "source_title": "康熙帝朱论",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6702,
+ "page_range": "347-348"
+}

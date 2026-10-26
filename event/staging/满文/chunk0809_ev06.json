@@ -1,0 +1,50 @@
+{
+ "source_no": 4042,
+ "title_guess": "步军统领隆科多奏报拿获盗取富新仓米之贼折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月初七日夜亮钟时分",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报拿获许三、刘二、孙彦等十一人合伙越富新仓墙盗米，供认此前三次盗米七十石，请将逃犯催令该旗拿获解部，现获者解交刑部从严治罪。",
+ "has_zhupi": true,
+ "zhupi_summary": "此贼若不拿送，则该管人等陈情具折会面，于本月二十日春来。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "许三",
+   "role": "盗贼"
+  },
+  {
+   "name": "刘二",
+   "role": "盗贼"
+  },
+  {
+   "name": "孙彦",
+   "role": "盗贼"
+  },
+  {
+   "name": "巴尔图",
+   "role": "盗贼"
+  },
+  {
+   "name": "吴礼",
+   "role": "步甲"
+  },
+  {
+   "name": "白良强",
+   "role": "番子"
+  }
+ ],
+ "places": [
+  "富新仓"
+ ],
+ "source_title": "步军统领隆科多奏报拿获盗取富新仓米之贼折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80906,
+ "page_range": "1831-1832",
+ "_date_interpolated": true
+}

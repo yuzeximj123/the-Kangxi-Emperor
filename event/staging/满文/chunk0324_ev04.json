@@ -1,0 +1,32 @@
+{
+ "source_no": 1508,
+ "title_guess": "山西巡抚苏克济奏报秋粮收成并粮价折",
+ "reign_year": 48,
+ "month": 9,
+ "day_text": "十六日",
+ "event_role": "灾情收成",
+ "summary": "奏报山西五府三州秋粮收成八分至十分不等，已告示民间谨慎贮藏，并报小米时价每仓斗银四分至六分。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "太原",
+  "平阳",
+  "汾州",
+  "潞安",
+  "大同",
+  "泽州",
+  "辽州",
+  "沁州"
+ ],
+ "source_title": "山西巡抚苏克济奏报秋粮收成并粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32404,
+ "page_range": "861-862"
+}

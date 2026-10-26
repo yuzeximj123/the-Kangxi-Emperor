@@ -1,0 +1,42 @@
+{
+ "source_no": 3955,
+ "title_guess": "步军统领隆科多奏报京城十一月内所获各案情折",
+ "reign_year": 3,
+ "month": 11,
+ "day_text": "十一月内",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报十一月内拿获窃盗割懒筋者十六人，并拿获私铸钱币之王秃子、郭三解送刑部。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "李流",
+   "role": "山东民"
+  },
+  {
+   "name": "王武",
+   "role": "河南府民"
+  },
+  {
+   "name": "王秃子",
+   "role": "民"
+  },
+  {
+   "name": "郭三",
+   "role": "宝泉局役"
+  }
+ ],
+ "places": [
+  "沙河"
+ ],
+ "source_title": "步军统领隆科多奏报京城十一月内所获各案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79803,
+ "page_range": "1809-1810",
+ "_date_interpolated": true
+}

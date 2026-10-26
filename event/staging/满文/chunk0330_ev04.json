@@ -1,0 +1,56 @@
+{
+ "source_no": 1543,
+ "title_guess": "两江总督噶礼奏报于准等克扣钱粮情形折",
+ "reign_year": 49,
+ "month": 1,
+ "day_text": "十五日",
+ "event_role": "弹劾参奏",
+ "summary": "噶礼奏报亲查于准等挑河建闸克扣钱粮、虚报工程，陈鹏年等合谋分赃及截留漕米、售米余银未奏等情。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "于准",
+   "role": "原任巡抚"
+  },
+  {
+   "name": "陈鹏年",
+   "role": "苏州府知府"
+  },
+  {
+   "name": "贾朴",
+   "role": "苏松粮道"
+  },
+  {
+   "name": "宜思恭",
+   "role": "原任布政使"
+  },
+  {
+   "name": "张廷才",
+   "role": "苏州府同知"
+  },
+  {
+   "name": "郭朝祖",
+   "role": "松江府同知"
+  }
+ ],
+ "places": [
+  "苏州",
+  "松江",
+  "常州",
+  "镇江",
+  "常熟",
+  "福山",
+  "白茆河",
+  "湖广"
+ ],
+ "source_title": "两江总督噶礼奏报于准等克扣钱粮情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33004,
+ "page_range": "873-874"
+}

@@ -1,0 +1,35 @@
+{
+ "source_no": 2285,
+ "title_guess": "两江总督赫寿奏闻下江秋收分数折",
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "初四日",
+ "event_role": "灾情收成",
+ "summary": "赫寿奏报下江各府秋收分数及米价，并称沿途百姓收割欢悦，归美圣主之福。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "苏州",
+  "松江",
+  "常州",
+  "镇江",
+  "徐州",
+  "扬州",
+  "淮安",
+  "山阳",
+  "清河",
+  "安东",
+  "盐城"
+ ],
+ "source_title": "两江总督赫寿奏闻下江秋收分数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 45302,
+ "page_range": "1119-1120"
+}

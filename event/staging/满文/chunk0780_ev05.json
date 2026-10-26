@@ -1,0 +1,34 @@
+{
+ "source_no": 3813,
+ "title_guess": "筷社请安并奏祝大功告成折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "筷社恭请皇父万安，称京城无事，屡闻行在所喜事，众人欢悦，惟盼皇父大功告成。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：朕体安，尔好？噶尔丹首级朝夕即得，此次底定大功取首级回京无尚光荣，今仰荷天恩心事已了，临近相会大喜。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "敌方首领"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "筷社请安并奏祝大功告成折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78005,
+ "page_range": "1773-1774",
+ "_date_interpolated": true
+}

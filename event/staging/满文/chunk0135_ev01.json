@@ -1,0 +1,34 @@
+{
+ "source_no": 484,
+ "title_guess": "两江总督阿山奏请宽恕折",
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "二十八日",
+ "event_role": "请安谢恩",
+ "summary": "两江总督阿山伏读御批后惊惧认罪，自陈审理张四教私用库银一案糊涂失职，恳请皇上宽免死罪、委以末职以图报恩。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "张四教",
+   "role": "涉案官员"
+  },
+  {
+   "name": "曹寅",
+   "role": "织造官"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_title": "两江总督阿山考请宽恕折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 13501,
+ "page_range": "483-484"
+}

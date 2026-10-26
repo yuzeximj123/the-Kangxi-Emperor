@@ -1,0 +1,38 @@
+{
+ "source_no": 960,
+ "title_guess": "筷社等奏报京城内外粮价折",
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "十二日",
+ "event_role": "钱粮财政",
+ "summary": "筷社等奏报京城内外及畅春园周围米价，初十日前未减、现已贱；询问商人及仓场大臣富宁安等，因秋收争价、粮船未至、新禾未打完等故。附粮价单。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "般礼",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "富宁安",
+   "role": "仓场大臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京城",
+  "畅春园"
+ ],
+ "source_title": "上息社等奏报京城内外粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 22505,
+ "page_range": "663-664"
+}

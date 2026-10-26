@@ -1,0 +1,66 @@
+{
+ "source_no": 3633,
+ "title_guess": "振武将军傅尔丹等请安折",
+ "reign_year": 61,
+ "month": 8,
+ "day_text": "二十八日",
+ "event_role": "请安谢恩",
+ "summary": "傅尔丹等众官员俯伏敬请圣主万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：朕体安。木兰围猎完竣，返回花峪沟书之。",
+ "people": [
+  {
+   "name": "傅尔丹",
+   "role": "振武将军"
+  },
+  {
+   "name": "称赛",
+   "role": "官员"
+  },
+  {
+   "name": "阿音图",
+   "role": "官员"
+  },
+  {
+   "name": "觉罗延寿",
+   "role": "官员"
+  },
+  {
+   "name": "丁寿",
+   "role": "官员"
+  },
+  {
+   "name": "觉罗图喇",
+   "role": "官员"
+  },
+  {
+   "name": "勒钦图",
+   "role": "官员"
+  },
+  {
+   "name": "根敦",
+   "role": "官员"
+  },
+  {
+   "name": "宗室普照",
+   "role": "官员"
+  },
+  {
+   "name": "达米纳",
+   "role": "官员"
+  },
+  {
+   "name": "嫩特",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "木兰",
+  "花峪沟"
+ ],
+ "source_title": "所武将军傅尔丹等请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 75500,
+ "page_range": "1723-1724"
+}

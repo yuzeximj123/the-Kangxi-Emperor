@@ -1,0 +1,31 @@
+{
+ "source_no": 286,
+ "title_guess": "皇太子进果品折",
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "二十五日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子请安并奏报第巴奏书已阅、按旨装送果品及蜜桃用完等事。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：停送原装果品，增送文丹、石榴、春桔为好；又批康熙安好，问皇太子好，送铺花鱼供食用，因不合皇太后口味未进。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "第巴",
+   "role": "西藏首领"
+  }
+ ],
+ "places": [],
+ "source_title": "皇太子进果品折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 7202,
+ "page_range": "357-358"
+}

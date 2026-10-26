@@ -1,0 +1,47 @@
+{
+ "source_no": 2875,
+ "title_guess": "理藩院奏报拉藏请颁法律遣员办事折",
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "十三日",
+ "event_role": "边疆事务",
+ "summary": "拉藏汗奏请大皇帝颁严格法度、派大臣统辖土伯特，并请收达赖喇嘛商上属下人交付苏尔咱；理藩院议复称无需另议，亦无需再派大臣，咨行拉藏汗。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。",
+ "people": [
+  {
+   "name": "拉藏",
+   "role": "西藏汗"
+  },
+  {
+   "name": "戴青和硕齐",
+   "role": "蒙古台吉"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣兼理尚书事务公"
+  },
+  {
+   "name": "特古特",
+   "role": "郎中"
+  },
+  {
+   "name": "马展",
+   "role": "员外郎"
+  },
+  {
+   "name": "巴尔赛",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "巴尔喀木",
+  "塔尔寺",
+  "土伯特"
+ ],
+ "source_title": "理东院奏报拉藏证请颁法律遗员办事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 57000,
+ "page_range": "1353-1354"
+}

@@ -1,0 +1,45 @@
+{
+ "source_no": 2631,
+ "title_guess": "理藩院奏请头等台吉纳木扎尔病故致祭折",
+ "reign_year": 54,
+ "month": 6,
+ "day_text": "二十七日",
+ "event_role": "边疆事务",
+ "summary": "理藩院奏报喀尔喀扎萨克头等台吉纳木扎尔病故，依例请旨致祭。",
+ "has_zhupi": true,
+ "zhupi_summary": "著致祭可也。",
+ "people": [
+  {
+   "name": "纳木扎尔",
+   "role": "已故喀尔喀扎萨克头等台吉"
+  },
+  {
+   "name": "达西",
+   "role": "协理旗务台吉"
+  },
+  {
+   "name": "厄尔扎",
+   "role": "佐领"
+  },
+  {
+   "name": "拉都浑",
+   "role": "右侍郎"
+  },
+  {
+   "name": "喀尔卡",
+   "role": "员外郎"
+  },
+  {
+   "name": "常在",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_title": "理东院奏请头等台吉纳木扎尔病故致舍折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 51601,
+ "page_range": "1245-1246"
+}

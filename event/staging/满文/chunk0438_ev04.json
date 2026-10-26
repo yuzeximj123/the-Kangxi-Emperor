@@ -1,0 +1,31 @@
+{
+ "source_no": 2193,
+ "title_guess": "内务府奏请将太监大夫王金超等人议罪折",
+ "reign_year": 52,
+ "month": 6,
+ "day_text": "十八日",
+ "event_role": "司法案件",
+ "summary": "内务府遵旨议罪：所内一女患病，太监大夫王金超等未告总管即用通圣丸等药调治，致该女十三日亡故，现讯问王金超供词，请严加议罪。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "王超清",
+   "role": "总管"
+  },
+  {
+   "name": "王金超",
+   "role": "太监大夫"
+  },
+  {
+   "name": "杨平贵",
+   "role": "太监"
+  }
+ ],
+ "places": [],
+ "source_title": "内务府奏请将太监大夫王金超等人议罪折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 43804,
+ "page_range": "1089-1090"
+}

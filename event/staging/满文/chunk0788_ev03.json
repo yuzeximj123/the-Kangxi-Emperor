@@ -1,0 +1,42 @@
+{
+ "source_no": 3880,
+ "title_guess": "武英殿总监造赫世享等转奏西洋人多罗奏折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月十五日",
+ "event_role": "外藩朝贡",
+ "summary": "赫世享、赵虽说转奏西洋人多罗离京前的奏文，多罗请求皇上宽怜、准其请安并寄信教化王，众西洋人劝其顺从具奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "著明白传谕多罗：所奏知道了；照顾西洋人非因其来；若违旨即从重治罪；准其请安，若干涉他事断不可奏；准其预定日期起程。",
+ "people": [
+  {
+   "name": "赫世享",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "赵虽说",
+   "role": "官员"
+  },
+  {
+   "name": "多罗",
+   "role": "西洋人"
+  },
+  {
+   "name": "张诚",
+   "role": "西洋人"
+  },
+  {
+   "name": "巴多明",
+   "role": "西洋人"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "武英典总监造赫世享等转奏西洋人雁茧折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78803,
+ "page_range": "1789-1790",
+ "_date_interpolated": true
+}

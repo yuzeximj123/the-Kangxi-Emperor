@@ -1,0 +1,36 @@
+{
+ "source_no": 1578,
+ "title_guess": "奏报在东岳庙等处祈雨折",
+ "reign_year": 49,
+ "month": 5,
+ "day_text": "十六日",
+ "event_role": "灾情收成",
+ "summary": "臣等奏报十五日奉朱批令勤加祈雨，喇嘛在黑龙潭等六处、礼部在东岳庙等五处及畅春园龙王庙祈雨，近日京城炎热天阴，雨似有望，谨遵谕旨勤行祈雨。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。这两日得雨则罢，若不下雨，则传谕礼部禁止杀生，祈雨三日。",
+ "people": [
+  {
+   "name": "乱社",
+   "role": "臣"
+  },
+  {
+   "name": "乱祺",
+   "role": "臣"
+  },
+  {
+   "name": "凯被",
+   "role": "臣"
+  }
+ ],
+ "places": [
+  "黑龙潭",
+  "东岳庙",
+  "畅春园",
+  "京城"
+ ],
+ "source_title": "凯社等奏报在东岳庙等处祈雨折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33700,
+ "page_range": "887-888"
+}

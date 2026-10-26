@@ -1,0 +1,33 @@
+{
+ "source_no": 1609,
+ "title_guess": "息社等奏报令户部严查虚报粮价缘由折",
+ "reign_year": 49,
+ "month": 6,
+ "day_text": "十六日",
+ "event_role": "钱粮财政",
+ "summary": "息社等遵旨查报送果品人等所携米价系由会计司、户部访查提供，并非亲访，请交内务府总管、户部详查虚报缘由。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝问现米价如何。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "奏报官员"
+  },
+  {
+   "name": "富彦",
+   "role": "会计司员外郎"
+  },
+  {
+   "name": "保柱",
+   "role": "内务府总管"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "筷社等奏报令户部严查虚报粮价缘由折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 34201,
+ "page_range": "897-898"
+}

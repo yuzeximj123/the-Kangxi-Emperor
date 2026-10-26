@@ -1,0 +1,48 @@
+{
+ "source_no": 4144,
+ "title_guess": "佐领伯奇奏请将宗堆暂隶诺尔布佐领折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "据报厄鲁特散秩大臣车凌派新编土尔扈特佐领伯奇来报，请将自招地来降之厄鲁特宗堆归隶伯奇佐领，并请训教蓝翎车木波尔、哈西哈等俘获人员。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "伯奇",
+   "role": "土尔扈特佐领侍卫"
+  },
+  {
+   "name": "车凌",
+   "role": "厄鲁特散秩大臣"
+  },
+  {
+   "name": "诺尔布",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "宗堆",
+   "role": "来降厄鲁特"
+  },
+  {
+   "name": "车木波尔",
+   "role": "蓝翎"
+  },
+  {
+   "name": "哈西哈",
+   "role": "蓝翎"
+  }
+ ],
+ "places": [
+  "招地",
+  "京城",
+  "热河"
+ ],
+ "source_title": "佐领伯奇奏请将宗堆暂隶诺尔布佐领折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83206,
+ "page_range": "1877-1878",
+ "_date_interpolated": true
+}

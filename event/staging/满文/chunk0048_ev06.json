@@ -1,0 +1,39 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 7,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "咨文按察使赛吉里、副将杨琳，令将应送万兵一月食粮一半留翁金、一半运至土拉，由西安副都统锡尔哈达等留兵一千名押解。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "赛吉里",
+   "role": "按察使"
+  },
+  {
+   "name": "杨琳",
+   "role": "副将"
+  },
+  {
+   "name": "锡尔哈达",
+   "role": "西安副都统"
+  },
+  {
+   "name": "祖良弹",
+   "role": "西安副都统"
+  }
+ ],
+ "places": [
+  "翁金",
+  "土拉"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4806,
+ "page_range": "309-310",
+ "_date_interpolated": true
+}

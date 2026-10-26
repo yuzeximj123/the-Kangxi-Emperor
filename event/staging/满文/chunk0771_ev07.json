@@ -1,0 +1,64 @@
+{
+ "source_no": 3738,
+ "title_guess": "内务府总管凌普奏报追捕拜色情形折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "本月初二日",
+ "event_role": "司法案件",
+ "summary": "凌普奏报追捕逃人拜色经过：察永锡等循踪至艺县、南各庄，常寿往涿州追赶，已封拜色及其子达明、弟色克图之家派兵看守。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。追问为何未陈奏马武错在何处。",
+ "people": [
+  {
+   "name": "凌普",
+   "role": "内务府总管"
+  },
+  {
+   "name": "拜色",
+   "role": "逃人"
+  },
+  {
+   "name": "察永锡",
+   "role": "养狗人"
+  },
+  {
+   "name": "常寿",
+   "role": "追捕人员"
+  },
+  {
+   "name": "孔三",
+   "role": "窝藏者"
+  },
+  {
+   "name": "孔四",
+   "role": "被擒者"
+  },
+  {
+   "name": "夏庄头",
+   "role": "庄头"
+  },
+  {
+   "name": "巴二",
+   "role": "拜色家人"
+  },
+  {
+   "name": "达明",
+   "role": "拜色之子"
+  },
+  {
+   "name": "色克图",
+   "role": "拜色胞弟"
+  }
+ ],
+ "places": [
+  "艺县",
+  "南各庄",
+  "涿州"
+ ],
+ "source_title": "内务府总管凌普奏报追捕拜色情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 77107,
+ "page_range": "1755-1756",
+ "_date_interpolated": true
+}

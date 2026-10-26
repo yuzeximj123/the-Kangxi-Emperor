@@ -1,0 +1,50 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十一月初九日",
+ "event_role": "边疆事务",
+ "summary": "商南多尔济辩称王报拉藏将西去后事未验实不可即奏，派通事雷震查验，雷震一到即奏并无羞而未奏；又称第巴文书与给保柱者核对皆为派尼马塘去请班禅，因非要事未重奏。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "商南多尔济",
+   "role": "喇嘛"
+  },
+  {
+   "name": "扎西巴图鲁",
+   "role": "青海亲王"
+  },
+  {
+   "name": "雷震",
+   "role": "通事"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "保柱",
+   "role": "员外郎"
+  },
+  {
+   "name": "第巴",
+   "role": "第巴"
+  },
+  {
+   "name": "罗卜藏达木巴",
+   "role": "第巴属下"
+  }
+ ],
+ "places": [
+  "尼马塘"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12714,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

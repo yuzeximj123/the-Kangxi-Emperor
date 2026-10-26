@@ -1,0 +1,45 @@
+{
+ "source_no": 1124,
+ "title_guess": "山西巡抚噶礼奏报地方官吏情形折",
+ "reign_year": 46,
+ "month": 6,
+ "day_text": "初四日",
+ "event_role": "弹劾参奏",
+ "summary": "噶礼奏闻江蒙为得周庆远员缺，与周佳、廖腾作父子等商写假奏本送内，周庆远病故后部列江蒙头名，皇上特补李旭升；又报江洽亏空钱粮、兄弟倚势等情。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "周庆远",
+   "role": "官员"
+  },
+  {
+   "name": "江蒙",
+   "role": "官员"
+  },
+  {
+   "name": "廖腾作",
+   "role": "通事官"
+  },
+  {
+   "name": "李旭升",
+   "role": "补授官员"
+  },
+  {
+   "name": "江洽",
+   "role": "粮厅"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_title": "山西巡抚噶礼奏报地方官吏情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25702,
+ "page_range": "727-728"
+}

@@ -1,0 +1,30 @@
+{
+ "source_no": 53,
+ "title_guess": "山东巡抚佛伦奏进白应折",
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "二十四日",
+ "event_role": "宫廷事务",
+ "summary": "佛伦奏报栖霞县民获白鹿一只转送进献皇上，并称毛色与鹿略异不能辨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称其他督抚贡物未纳，尔系满洲不可与众人比，鹿奇特故留之，嗣后白鹿交尔子送来，海青退给所获之人；并令奏闻省内议论京城事。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "崔政镜",
+   "role": "署知县事务同知"
+  }
+ ],
+ "places": [
+  "登州府",
+  "栖霞县"
+ ],
+ "source_title": "山东巡抚佛伦奏进白应折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1005,
+ "page_range": "233-234"
+}

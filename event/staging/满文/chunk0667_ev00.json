@@ -1,0 +1,35 @@
+{
+ "source_no": 3269,
+ "title_guess": "工部郎中牛纽奏报有关铁炮情形折",
+ "reign_year": 57,
+ "month": 10,
+ "day_text": "初三日",
+ "event_role": "军务",
+ "summary": "奏报查验铁炮共六百八十六门，其中一百五十三门不可试放，五百三十三门试放无妨，请旨定夺由部派匠役炮弹试放。",
+ "has_zhupi": true,
+ "zhupi_summary": "命尔等即携折役、炮弹、汉军炮手等试放，多加小心，勿使人有失。",
+ "people": [
+  {
+   "name": "牛纽",
+   "role": "工部郎中"
+  },
+  {
+   "name": "塔色",
+   "role": "工部员外郎"
+  },
+  {
+   "name": "觉罗保柱",
+   "role": "镇守直隶古北口等处总兵官"
+  }
+ ],
+ "places": [
+  "通州",
+  "密云县",
+  "古北口"
+ ],
+ "source_title": "工部郎中牛纽奏报有关铁炮情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 66700,
+ "page_range": "1547-1548"
+}

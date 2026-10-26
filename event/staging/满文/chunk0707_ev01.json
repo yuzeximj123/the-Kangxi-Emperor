@@ -1,0 +1,28 @@
+{
+ "source_no": null,
+ "title_guess": "康熙帝上谕一件",
+ "reign_year": 58,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝上谕：大将军王所奏五折议政大臣均已阅，所报诸事消息明晰，因无应议之事故无庸议。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "大将军王",
+   "role": "大将军王"
+  },
+  {
+   "name": "议政大臣",
+   "role": "议政大臣"
+  }
+ ],
+ "places": [],
+ "source_title": "康熙帝上谕一件",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 70701,
+ "page_range": "1627-1628",
+ "_date_interpolated": true
+}

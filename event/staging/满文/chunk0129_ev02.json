@@ -1,0 +1,30 @@
+{
+ "source_no": 459,
+ "title_guess": "山西巡抚噶礼奏报雨雪粮价并恭候临幸折",
+ "reign_year": 41,
+ "month": 1,
+ "day_text": "十三日",
+ "event_role": "请安谢恩",
+ "summary": "山西巡抚噶礼奏报晋省雨雪粮价平贱、兵民乐业，并转述士民恭候圣驾临幸五台山之意。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "班第",
+   "role": "喇嘛使者"
+  }
+ ],
+ "places": [
+  "山西",
+  "五台山"
+ ],
+ "source_title": "岂西巡抚噶礼奏概雨雪粮价并蔡候临幸折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12902,
+ "page_range": "471-472"
+}

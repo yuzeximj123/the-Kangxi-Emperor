@@ -1,0 +1,53 @@
+{
+ "source_no": 1541,
+ "title_guess": "两江总督噶礼奏报密访苏州府盗贼案情折",
+ "reign_year": 49,
+ "month": 1,
+ "day_text": "十五日",
+ "event_role": "司法案件",
+ "summary": "噶礼奏报密访苏州王府集盗贼案始末，涉及潘九周等谎称明室后裔、林正信误信、于准参劾及众犯被捕等情。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "潘九周",
+   "role": "案犯"
+  },
+  {
+   "name": "刘九周",
+   "role": "案犯"
+  },
+  {
+   "name": "林正信",
+   "role": "巡抚标下中军游击"
+  },
+  {
+   "name": "于准",
+   "role": "原巡抚"
+  },
+  {
+   "name": "张廷弼",
+   "role": "吴县知县"
+  },
+  {
+   "name": "穆布",
+   "role": "原任总督"
+  }
+ ],
+ "places": [
+  "苏州",
+  "王府集",
+  "虎丘山",
+  "昌门",
+  "浙江宁波府"
+ ],
+ "source_title": "两江总督噶礼奏报密访苏州府盗贼案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33002,
+ "page_range": "873-874"
+}

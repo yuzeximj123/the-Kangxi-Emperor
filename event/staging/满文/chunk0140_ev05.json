@@ -1,0 +1,30 @@
+{
+ "source_no": 519,
+ "title_guess": "山东巡抚王国昌奏请暂留刘衣于山东办事折",
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "二十八日",
+ "event_role": "人事任免",
+ "summary": "山东巡抚王国昌奏称接邸报布政使刘衣升用于内，因山东灾后赈济事务需人，请旨暂留刘衣在山东办事。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "刘衣",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "山东",
+  "泰安"
+ ],
+ "source_title": "山东巡抚王国昌奏请暂留刘衣于山东办事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 14005,
+ "page_range": "493-494"
+}

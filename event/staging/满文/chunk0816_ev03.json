@@ -1,0 +1,71 @@
+{
+ "source_no": 4066,
+ "title_guess": "步军统领隆科多奏报缉获抢劫民宅之伙盗折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "十一月十七日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报南营守备陈尽修缉获抢劫彭希孔家之强盗张二等五贼，又分路缉获伙贼刘二、刘胡子、常五等及窝主、分赃之人，起获兵器赃物一并解送，据张二供认伙同十三人入室抢劫。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "陈尽修",
+   "role": "南营守备"
+  },
+  {
+   "name": "张二",
+   "role": "案犯"
+  },
+  {
+   "name": "下二",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙",
+   "role": "案犯"
+  },
+  {
+   "name": "谢四",
+   "role": "案犯"
+  },
+  {
+   "name": "张大汉",
+   "role": "案犯"
+  },
+  {
+   "name": "刘二",
+   "role": "案犯"
+  },
+  {
+   "name": "刘胡子",
+   "role": "案犯"
+  },
+  {
+   "name": "常五",
+   "role": "案犯"
+  },
+  {
+   "name": "彭希孔",
+   "role": "失主"
+  }
+ ],
+ "places": [
+  "深州",
+  "山东",
+  "卢沟桥",
+  "南红门",
+  "杨各庄",
+  "古北口"
+ ],
+ "source_title": "步军统领隆科多奏报缉获抢劫民宅之伙盗折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81603,
+ "page_range": "1845-1846",
+ "_date_interpolated": true
+}

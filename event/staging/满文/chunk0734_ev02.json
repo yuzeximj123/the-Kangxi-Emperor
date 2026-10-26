@@ -1,0 +1,44 @@
+{
+ "source_no": 3542,
+ "title_guess": "抚远大将军筷祯奏为藏地情形折",
+ "reign_year": 58,
+ "month": 12,
+ "day_text": "康熙五十九年十二月十二日",
+ "event_role": "边疆事务",
+ "summary": "抚远大将军奏报询问员外郎常明珠所得藏地消息：青海王等带达赖喇嘛赴藏坐床，班禅额尔德尼拟来会，余无他讯。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "筷祯",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "常明珠",
+   "role": "员外郎"
+  },
+  {
+   "name": "罗卜藏丹津",
+   "role": "亲王"
+  },
+  {
+   "name": "达尔汉格隆",
+   "role": "罗卜藏丹津属下"
+  },
+  {
+   "name": "班禅额尔德尼",
+   "role": "班禅"
+  }
+ ],
+ "places": [
+  "木鲁乌苏",
+  "达木",
+  "招地",
+  "藏地"
+ ],
+ "source_title": "抚远大将军筷祯奏为藏地情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 73402,
+ "page_range": "1681-1682"
+}

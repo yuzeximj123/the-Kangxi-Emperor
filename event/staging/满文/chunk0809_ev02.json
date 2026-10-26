@@ -1,0 +1,46 @@
+{
+ "source_no": 4038,
+ "title_guess": "步军统领隆科多奏为拿获偷窃旧太仓老米之贼折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月初二日夜亮钟时分",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报拿获赵三、马龙江、明登、朱三等合伙越旧太仓墙盗取老米十二石，供认此前四次共盗米四十五石，已解交刑部严审。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "赵三",
+   "role": "盗贼"
+  },
+  {
+   "name": "马龙江",
+   "role": "盗贼"
+  },
+  {
+   "name": "明登",
+   "role": "盗贼"
+  },
+  {
+   "name": "朱三",
+   "role": "盗贼"
+  },
+  {
+   "name": "喜国柱",
+   "role": "番子"
+  }
+ ],
+ "places": [
+  "旧太仓"
+ ],
+ "source_title": "步军统领隆科多奏为拿获偷窃旧太仓老米之冉折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80902,
+ "page_range": "1831-1832",
+ "_date_interpolated": true
+}

@@ -1,0 +1,29 @@
+{
+ "source_no": 456,
+ "title_guess": "西安将军博宪等奏谢御批问好折",
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "二十四日",
+ "event_role": "请安谢恩",
+ "summary": "博宪等奏谢康熙于灾情折内朱笔垂问安好，设香案望阙谢恩。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批问朕安，并问尔等可好。",
+ "people": [
+  {
+   "name": "博宪",
+   "role": "西安将军"
+  },
+  {
+   "name": "商南多尔济",
+   "role": "西安将军同僚"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_title": "西安将军博宪等春谢御批问好折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12503,
+ "page_range": "463-464"
+}

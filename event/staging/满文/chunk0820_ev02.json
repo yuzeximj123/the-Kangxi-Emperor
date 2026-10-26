@@ -1,0 +1,32 @@
+{
+ "source_no": 4079,
+ "title_guess": "步军统领托和齐奏报满洲都统赌钱好酒折",
+ "reign_year": 3,
+ "month": 3,
+ "day_text": "二十三日",
+ "event_role": "弹劾参奏",
+ "summary": "托和齐奏报镶白满洲旗盗乱多，都统杨贷聚众赌钱、副都统鄂齐哩沉湎于酒。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称亦曾闻之，并提及杨贷。",
+ "people": [
+  {
+   "name": "杨贷",
+   "role": "镶白满洲旗都统"
+  },
+  {
+   "name": "鄂齐哩",
+   "role": "副都统"
+  },
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  }
+ ],
+ "places": [],
+ "source_title": "步军统领托和齐奏报满洲都统赠钱好酒折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82002,
+ "page_range": "1853-1854",
+ "_date_interpolated": true
+}

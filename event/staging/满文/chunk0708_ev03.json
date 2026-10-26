@@ -1,0 +1,29 @@
+{
+ "source_no": 3442,
+ "title_guess": "向祯转奏补放为西安将军宗札布谢恩折",
+ "reign_year": 58,
+ "month": 7,
+ "day_text": "二十六日",
+ "event_role": "人事任免",
+ "summary": "向祯转奏西安将军宗札布呈称蒙恩补放将军，感激谢恩，请大将军王转奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了；西安之军甚要，将宗札布速遣西安习练兵马、修整器械，王处有需即支取，数日内抵达。",
+ "people": [
+  {
+   "name": "向祯",
+   "role": "臣/转奏人"
+  },
+  {
+   "name": "宗札布",
+   "role": "西安将军"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_title": "向祯转泰补放为西安将军吨谢折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 70803,
+ "page_range": "1629-1630"
+}

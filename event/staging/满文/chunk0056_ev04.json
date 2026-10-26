@@ -1,0 +1,47 @@
+{
+ "source_no": 224,
+ "title_guess": "康熙帝谕皇太子驻跸黄河岸边各处围猎情形",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "初四日",
+ "event_role": "宫廷事务",
+ "summary": "康熙帝谕皇太子，述沿途驻跸围猎、黄河宽度与乘船逆流、鄂尔多斯王贝勒来会、天气转寒及归降厄鲁特工匠制鞍造枪等情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "善巴旺",
+   "role": "工匠"
+  },
+  {
+   "name": "塔布奇",
+   "role": "厄鲁特工匠"
+  }
+ ],
+ "places": [
+  "黎苏柏姓",
+  "胡坦之和硕",
+  "托托城",
+  "黄河",
+  "天津海河",
+  "归化城",
+  "杀虎口"
+ ],
+ "source_title": "康熙帝谕皇太子驻跸黄河岸边各处围猎情形",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5604,
+ "page_range": "325-326"
+}

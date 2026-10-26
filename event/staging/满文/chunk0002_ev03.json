@@ -1,0 +1,27 @@
+{
+ "source_no": null,
+ "title_guess": "康熙帝墨笔上谕",
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "十一月初十日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕盛京将军安珠瑚：所奏情由已悉；盛京等地诸矿除另有旨外，吉林宁古塔将军将特颁另旨；著将奏览原委及开采金银铜铅情形书写明白，酌情密咨吉林将军。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "安珠瑚",
+   "role": "盛京将军"
+  }
+ ],
+ "places": [
+  "盛京",
+  "吉林",
+  "宁古塔"
+ ],
+ "source_title": "康熙帝墨笔上谕",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 203,
+ "page_range": "217-218"
+}

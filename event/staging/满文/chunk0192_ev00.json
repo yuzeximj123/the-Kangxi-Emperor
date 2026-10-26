@@ -1,0 +1,45 @@
+{
+ "source_no": 777,
+ "title_guess": "上息社等奏贺鱼获丰收并报阴雨情形折",
+ "reign_year": 44,
+ "month": 8,
+ "day_text": "初二日",
+ "event_role": "宫廷事务",
+ "summary": "筷社等奏报捕鱼共得白鱼八万六千九百六十七尾、约值银六千两，并报初二夜阴、初三降雨大风转晴及保寿病愈、巴尔丹楚到京调治等情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "知礼",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "保寿",
+   "role": "患病者"
+  },
+  {
+   "name": "巴尔丹楚",
+   "role": "到京人员"
+  },
+  {
+   "name": "李颖汶",
+   "role": "大夫"
+  },
+  {
+   "name": "陈国臣",
+   "role": "大夫"
+  }
+ ],
+ "places": [
+  "花玉沟"
+ ],
+ "source_title": "和妃社等受锅鱼获丰收并报阴条信形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 19200,
+ "page_range": "597-598"
+}

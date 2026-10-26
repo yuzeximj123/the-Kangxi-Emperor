@@ -1,0 +1,31 @@
+{
+ "source_no": 3284,
+ "title_guess": "湖广总督满丕奏报驻省城荆州兵丁事折",
+ "reign_year": 57,
+ "month": 11,
+ "day_text": "十六日",
+ "event_role": "军务",
+ "summary": "满丕奏报荆州满兵一千调驻成都后，办理所遗官兵钱粮马匹、捐银犒赏并启程，并请将随额伦特之八十兵丁退回荆州披甲。",
+ "has_zhupi": true,
+ "zhupi_summary": "既然此八十兵丁额数无多，仍留腾前。",
+ "people": [
+  {
+   "name": "满丕",
+   "role": "湖广总督"
+  },
+  {
+   "name": "额伦特",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "荆州",
+  "成都",
+  "省城"
+ ],
+ "source_title": "湖广总督满丕奏报驻省城荆州兵丁事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 67001,
+ "page_range": "1553-1554"
+}

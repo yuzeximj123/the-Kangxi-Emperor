@@ -1,0 +1,35 @@
+{
+ "source_no": 4152,
+ "title_guess": "马维潘等奏报汤泉行宫田禾牲口情形折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "奏报汤泉园内庄稼牲口俱好，得小洋鸭七只；刘进启请近白露上热河。",
+ "has_zhupi": true,
+ "zhupi_summary": "不必来。",
+ "people": [
+  {
+   "name": "马维潘",
+   "role": "奏事官"
+  },
+  {
+   "name": "刘进启",
+   "role": "奏事官"
+  },
+  {
+   "name": "田成禄",
+   "role": "奏事官"
+  }
+ ],
+ "places": [
+  "汤泉行宫",
+  "热河"
+ ],
+ "source_title": "马维潘等奏报汤泉行官田禾和性口情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83308,
+ "page_range": "1879-1880",
+ "_date_interpolated": true
+}

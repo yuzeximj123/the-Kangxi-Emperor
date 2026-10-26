@@ -1,0 +1,29 @@
+{
+ "source_no": 3981,
+ "title_guess": "步军统领隆科多奏报京城雨水情形折",
+ "reign_year": 3,
+ "month": 6,
+ "day_text": "六月初一日、初二日",
+ "event_role": "灾情收成",
+ "summary": "隆科多奏报六月初一日成时雨至天明，初二日晨又盆倾雨，畅春园、海子得雨均同，雨水甚足甚透，有益作物。",
+ "has_zhupi": true,
+ "zhupi_summary": "热河已呈阴雨连绵之势，效天畏方好。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城",
+  "畅春园",
+  "海子",
+  "热河"
+ ],
+ "source_title": "步军统领隆科多奏报京城雨水情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80105,
+ "page_range": "1815-1816",
+ "_date_interpolated": true
+}

@@ -1,0 +1,41 @@
+{
+ "source_no": 3143,
+ "title_guess": "内务府奏由差巴彦改遣内管领折",
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "内务府遵旨复议吉祥门等三处贮冰差务，停差巴彦，改派内管领五哥、副内管领四哥暂拨库银办理，年终算明由双泉所储银补库。",
+ "has_zhupi": true,
+ "zhupi_summary": "斥前旨甚明又为何奏派巴彦，所议糊涂，令复议奏。",
+ "people": [
+  {
+   "name": "董典邦",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "额勒达色",
+   "role": "内管领"
+  },
+  {
+   "name": "巴什",
+   "role": "副内管领"
+  },
+  {
+   "name": "五哥",
+   "role": "内管领"
+  },
+  {
+   "name": "四哥",
+   "role": "副内管领"
+  }
+ ],
+ "places": [
+  "吉祥门"
+ ],
+ "source_title": "内务府奏由差巴彦改遗内管领折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 63202,
+ "page_range": "1477-1478"
+}

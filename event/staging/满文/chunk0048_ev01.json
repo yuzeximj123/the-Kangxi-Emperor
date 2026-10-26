@@ -1,0 +1,31 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 7,
+ "day_text": "初九日",
+ "event_role": "军务",
+ "summary": "运米侍郎王国昌等报称自太原府起程运米，经雁门关抵呼坦和硕，因大雨大风牲畜倒毙众多，请求大将军协助转奏以保兵米两全。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "王国昌",
+   "role": "运米侍郎"
+  }
+ ],
+ "places": [
+  "太原府",
+  "雁门关",
+  "呼坦和硕",
+  "卡伦",
+  "海柳图",
+  "郭多哩巴尔哈孙"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4801,
+ "page_range": "309-310",
+ "_date_interpolated": true
+}

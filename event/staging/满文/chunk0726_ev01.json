@@ -1,0 +1,42 @@
+{
+ "source_no": 3501,
+ "title_guess": "吏部尚书富宁安奏报所获消息折",
+ "reign_year": 59,
+ "month": 4,
+ "day_text": "十二日",
+ "event_role": "边疆事务",
+ "summary": "富宁安奏报派侍卫克希图等向策妄喇布坦使者哈希哈探询消息，得知招地、色楞及被看守人员等情况，并辨认汉人堪泰即凉州镇标游击石安泰。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批知道了，并指出所访消息多有缺漏不详，待抵京询问方能获知。",
+ "people": [
+  {
+   "name": "富宁安",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "克希图",
+   "role": "侍卫"
+  },
+  {
+   "name": "古鲁",
+   "role": "员外郎"
+  },
+  {
+   "name": "哈希哈",
+   "role": "策妄喇布坦使者"
+  },
+  {
+   "name": "石安泰",
+   "role": "凉州镇标游击"
+  }
+ ],
+ "places": [
+  "招地",
+  "凉州"
+ ],
+ "source_title": "更部尚书富宁安奏报所获消息折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 72601,
+ "page_range": "1665-1666"
+}

@@ -1,0 +1,49 @@
+{
+ "source_no": 3298,
+ "title_guess": "议政大臣鄂伦岱等奏为补放副都统之缺折",
+ "reign_year": 57,
+ "month": 12,
+ "day_text": "十二日",
+ "event_role": "人事任免",
+ "summary": "议政大臣会议西安右翼副都统马海病故，请以协领华色补放其缺，具奏请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：补放华色。",
+ "people": [
+  {
+   "name": "鄂伦岱",
+   "role": "议政大臣领侍卫内大臣公"
+  },
+  {
+   "name": "鄂海",
+   "role": "总督"
+  },
+  {
+   "name": "马海",
+   "role": "西安右翼副都统"
+  },
+  {
+   "name": "华色",
+   "role": "西安正黄旗协领"
+  },
+  {
+   "name": "马尔赛",
+   "role": "议政大臣领侍卫内大臣公"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元梦",
+   "role": "议政大臣工部尚书"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_title": "议政大臣加伦供等奏为补放三都统之仍折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 67203,
+ "page_range": "1557-1558"
+}

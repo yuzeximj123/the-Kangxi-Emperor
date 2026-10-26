@@ -1,0 +1,38 @@
+{
+ "source_no": 2139,
+ "title_guess": "内务府奏请二阿哥身边之女亡故安葬折",
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初八日",
+ "event_role": "宫廷事务",
+ "summary": "内务府奏报二阿哥身边一女病故，请照阿哥身边亡故之女之例送地坛后面茔地安葬，并请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝命仍照从前，合葬于其友处。",
+ "people": [
+  {
+   "name": "赫奕",
+   "role": "内务府总管"
+  },
+  {
+   "name": "马齐",
+   "role": "署理内务府总管事务佐领"
+  },
+  {
+   "name": "赛同礼",
+   "role": "总管"
+  },
+  {
+   "name": "曾奇",
+   "role": "副总管"
+  }
+ ],
+ "places": [
+  "地坛",
+  "曹八里屯"
+ ],
+ "source_title": "内务府奏请二阿哥身边之女亡故安大折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42901,
+ "page_range": "1071-1072"
+}

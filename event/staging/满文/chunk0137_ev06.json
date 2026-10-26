@@ -1,0 +1,31 @@
+{
+ "source_no": 500,
+ "title_guess": "川陕总督华显奏请颁御书折",
+ "reign_year": 41,
+ "month": 11,
+ "day_text": "二十日",
+ "event_role": "宫廷事务",
+ "summary": "川陕总督觉罗华显奏称曾读皇帝御书，见钦差侍卫海青等赍来颁给四川峨眉山御书及寺庙匾额单条字，不胜羡慕，越分乞请颁给匾额单条以敬刊府中传家。",
+ "has_zhupi": true,
+ "zhupi_summary": "给。",
+ "people": [
+  {
+   "name": "华显",
+   "role": "四川陕西总督"
+  },
+  {
+   "name": "海青",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "四川",
+  "陕西",
+  "峨眉山"
+ ],
+ "source_title": "川陕总督华显春请僻御书折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 13706,
+ "page_range": "487-488"
+}

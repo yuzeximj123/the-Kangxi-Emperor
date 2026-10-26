@@ -1,0 +1,41 @@
+{
+ "source_no": 4246,
+ "title_guess": "(佚名)奏报守备员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报四川建昌总兵标下、贵州提督标下前营、山西潞泽营、广西全州营等中军守备员缺，请旨补授。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批著以李努、林应奎、张卫平、王岩文分别补授各缺。",
+ "people": [
+  {
+   "name": "李努",
+   "role": "补授守备"
+  },
+  {
+   "name": "林应奎",
+   "role": "补授守备"
+  },
+  {
+   "name": "张卫平",
+   "role": "补授守备"
+  },
+  {
+   "name": "王岩文",
+   "role": "补授守备"
+  }
+ ],
+ "places": [
+  "四川建昌",
+  "贵州",
+  "山西潞泽营",
+  "广西全州营"
+ ],
+ "source_title": "(佚名)奏报守备员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85502,
+ "page_range": "1923-1924",
+ "_date_interpolated": true
+}

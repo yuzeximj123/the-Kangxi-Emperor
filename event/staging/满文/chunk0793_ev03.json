@@ -1,0 +1,26 @@
+{
+ "source_no": 3918,
+ "title_guess": "步军统领隆科多奏报本年谷物丰登市井太平及粮谷时价折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "灾情收成",
+ "summary": "奏报本年丰收粮足、京城太平，并开列老米、小米、高粱、麦子、面粉等时价。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏报本年谷物丰登市井太平及粮谷时价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79303,
+ "page_range": "1799-1800",
+ "_date_interpolated": true
+}

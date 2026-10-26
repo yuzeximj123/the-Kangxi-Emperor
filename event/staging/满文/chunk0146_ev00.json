@@ -1,0 +1,25 @@
+{
+ "source_no": 536,
+ "title_guess": "山西巡抚噶礼奏报秋收日期及粮价折",
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "二十五日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报山西沿河低洼田地六月被雨水稍损未成灾，七月以来雨水调匀秋禾甚好，八月初十起收割，目下小米每仓斗银六分八九厘，兵民乐业。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：朕体安善，粮食事知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西省"
+ ],
+ "source_title": "山西外抚噶礼考报秋收日期及粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 14600,
+ "page_range": "505-506"
+}

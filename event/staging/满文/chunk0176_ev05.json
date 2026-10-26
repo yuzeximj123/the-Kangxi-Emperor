@@ -1,0 +1,33 @@
+{
+ "source_no": 683,
+ "title_guess": "山西巡抚噶礼奏雨雪田禾情形并报审案日期折",
+ "reign_year": 43,
+ "month": 11,
+ "day_text": "十二日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报山西通省得雨雪、麦子生长及米价情形，并报将赴安邑县审理河东盐道尤丈等亏欠库银一案及起程日期。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，命此案丝毫不能徇情，务必赶紧偿还。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "尤丈",
+   "role": "原河东盐道"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原府",
+  "平阳府",
+  "安邑县",
+  "河东"
+ ],
+ "source_title": "山西巡抚噶礼奏雨雪田用情形并报审案日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 17605,
+ "page_range": "565-566"
+}

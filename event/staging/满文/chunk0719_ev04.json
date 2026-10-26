@@ -1,0 +1,55 @@
+{
+ "source_no": 3474,
+ "title_guess": "闽浙总督满保奏报复审民人抢劫案折",
+ "reign_year": 58,
+ "month": 11,
+ "day_text": "十八日",
+ "event_role": "司法案件",
+ "summary": "满保奏报复审薛颜文等聚众抢劫未遂案，拟首犯立绞、从犯发配，请旨是否省内了结。",
+ "has_zhupi": true,
+ "zhupi_summary": "事关人命，务必具奏。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "薛颜文",
+   "role": "首犯"
+  },
+  {
+   "name": "林志禧",
+   "role": "从犯"
+  },
+  {
+   "name": "张昭君",
+   "role": "从犯"
+  },
+  {
+   "name": "张兴国",
+   "role": "被诱入伙者"
+  },
+  {
+   "name": "何伯中",
+   "role": "被诱入伙者"
+  },
+  {
+   "name": "江田丈",
+   "role": "自首投案者"
+  },
+  {
+   "name": "董永文",
+   "role": "福建按察使"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "达磨山"
+ ],
+ "source_title": "闽浙总督满保故报复审民人抢劫案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 71904,
+ "page_range": "1651-1652"
+}

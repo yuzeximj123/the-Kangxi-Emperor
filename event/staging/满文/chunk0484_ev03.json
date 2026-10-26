@@ -1,0 +1,35 @@
+{
+ "source_no": 2485,
+ "title_guess": "两江总督赫寿奏闻上江秋收分数折",
+ "reign_year": 53,
+ "month": 8,
+ "day_text": "十五日",
+ "event_role": "灾情收成",
+ "summary": "两江总督赫寿奏报上江各府秋收分数，庐州凤阳部分州县被灾，因截留漕粮米价未涨。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "安庆府",
+  "徽州府",
+  "宁国府",
+  "池州府",
+  "太平府",
+  "庐州府",
+  "凤阳府",
+  "广德州",
+  "滁州",
+  "和州"
+ ],
+ "source_title": "两江总督赫寿奏闻上江秋收分数拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 48403,
+ "page_range": "1181-1182"
+}

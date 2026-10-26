@@ -1,0 +1,38 @@
+{
+ "source_no": 1802,
+ "title_guess": "杭州织造孙文成奏报遣人捉拿起事人折",
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "二十七日",
+ "event_role": "军务",
+ "summary": "孙文成奏报福建贼首陈武显未获而逃，众贼或降或散，总督巡抚令原任漳州知府赵万强赴漳州招抚余贼。",
+ "has_zhupi": true,
+ "zhupi_summary": "著复打听消息报来。再高您其人亦如贼也，尔勤加提防之。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "陈武显",
+   "role": "福建贼首"
+  },
+  {
+   "name": "童培年",
+   "role": "兴泉道员"
+  },
+  {
+   "name": "赵万强",
+   "role": "原任漳州府知府"
+  }
+ ],
+ "places": [
+  "福建",
+  "漳州"
+ ],
+ "source_title": "杭州织造孙文成奏报中人所拿起事人折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37305,
+ "page_range": "959-960"
+}

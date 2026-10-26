@@ -1,0 +1,51 @@
+{
+ "source_no": 4248,
+ "title_guess": "(佚名)奏报守备员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报江南江北漕运总督标下右营、湖广郧阳副将右营、浙江金华副将右营、四川维茂营、福建台湾南路营、广东将军标下右营等中军守备员缺。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批著以张寿义、康熙国、朱定国、冯春、陈平、余时骏分别补放各缺。",
+ "people": [
+  {
+   "name": "张寿义",
+   "role": "补放守备"
+  },
+  {
+   "name": "康熙国",
+   "role": "补放守备"
+  },
+  {
+   "name": "朱定国",
+   "role": "补放守备"
+  },
+  {
+   "name": "冯春",
+   "role": "补放守备"
+  },
+  {
+   "name": "陈平",
+   "role": "补放守备"
+  },
+  {
+   "name": "余时骏",
+   "role": "补放守备"
+  }
+ ],
+ "places": [
+  "江南江北",
+  "湖广郧阳",
+  "浙江金华",
+  "四川维茂营",
+  "福建台湾南路营",
+  "广东"
+ ],
+ "source_title": "(佚名)奏报守备员仍折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85504,
+ "page_range": "1923-1924",
+ "_date_interpolated": true
+}

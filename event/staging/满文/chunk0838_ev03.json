@@ -1,0 +1,50 @@
+{
+ "source_no": 4179,
+ "title_guess": "理藩院奏进致厄鲁特台吉色凌多尔济等咨文折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "理藩院致书厄鲁特台吉色凌多尔济、色凌敦多布，说明调兵系御守非征期之师，并奉旨将卓里克图、罗卜藏达西等遣回，抄录谕旨交付带去。",
+ "has_zhupi": true,
+ "zhupi_summary": "此甚善。依奏。",
+ "people": [
+  {
+   "name": "色凌多尔济",
+   "role": "厄鲁特台吉"
+  },
+  {
+   "name": "色凌敦多布",
+   "role": "厄鲁特台吉"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "卓里克图",
+   "role": "来青海贸易之人"
+  },
+  {
+   "name": "罗卜藏达西",
+   "role": "来青海贸易之人"
+  },
+  {
+   "name": "达呼扎尔固齐",
+   "role": "理藩院官员"
+  }
+ ],
+ "places": [
+  "哈密",
+  "阿尔泰",
+  "巴里坤",
+  "噶斯",
+  "青海"
+ ],
+ "source_title": "理藩院奏进致厄鲁特台吉色村多尔济等咨文折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83803,
+ "page_range": "1889-1890",
+ "_date_interpolated": true
+}

@@ -1,0 +1,96 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 46,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "此段为审讯陆升、王三、单鳌、乾修、左旋、智觉、妙觉、孙天禄、宗德、谢云、王太、王朝宗、周西梅等人的口供记录，涉及一念和尚谋为不轨、散发札付、纠合人众等情节，系前件奏折的续篇片段。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "陆升",
+   "role": "受审人犯"
+  },
+  {
+   "name": "王三",
+   "role": "受审人犯"
+  },
+  {
+   "name": "单鳌",
+   "role": "受审人犯"
+  },
+  {
+   "name": "乾修",
+   "role": "受审僧人"
+  },
+  {
+   "name": "左旋",
+   "role": "受审僧人"
+  },
+  {
+   "name": "智觉",
+   "role": "受审僧人"
+  },
+  {
+   "name": "妙觉",
+   "role": "受审僧人"
+  },
+  {
+   "name": "孙天禄",
+   "role": "受审人犯"
+  },
+  {
+   "name": "宗德",
+   "role": "受审人犯"
+  },
+  {
+   "name": "谢云",
+   "role": "受审人犯"
+  },
+  {
+   "name": "王太",
+   "role": "受审人犯"
+  },
+  {
+   "name": "王朝宗",
+   "role": "投到人犯"
+  },
+  {
+   "name": "周西梅",
+   "role": "受审人犯"
+  },
+  {
+   "name": "一念",
+   "role": "谋首僧人"
+  },
+  {
+   "name": "钱保",
+   "role": "同伙"
+  },
+  {
+   "name": "王柏",
+   "role": "同伙"
+  }
+ ],
+ "places": [
+  "四明山",
+  "刘河",
+  "天妃镇",
+  "昆山巴城",
+  "太仓",
+  "嘉定",
+  "江阴",
+  "普济寺",
+  "报本寺",
+  "常熟",
+  "吴县"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 27900,
+ "page_range": "771-772",
+ "_date_interpolated": true
+}

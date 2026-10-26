@@ -1,0 +1,31 @@
+{
+ "source_no": null,
+ "title_guess": "康熙帝朱谕著赫世享送羊角等物",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "康熙帝朱谕赫世享，令其将养心殿所存黄羊角等角类及棕皮二把随报送到，若养心殿无则查乾清宫头领处所存，先得先送不得等候。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "赫世享",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "养心殿",
+  "乾清宫"
+ ],
+ "source_title": "康熙帝朱谕著赫世享送羊角等物",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78900,
+ "page_range": "1791-1792",
+ "_date_interpolated": true
+}

@@ -1,0 +1,41 @@
+{
+ "source_no": 3948,
+ "title_guess": "步军统领隆科多奏报京城所获各案及正阳门菩萨庙失火折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "五月十五日以来",
+ "event_role": "司法案件",
+ "summary": "奏报拿获拐骗案四宗、逃人八名、窃盗四十一件，张二等盗马衣解部；正阳门菩萨庙因余香起火焚毁房屋。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "张二",
+   "role": "窃贼"
+  },
+  {
+   "name": "陈武",
+   "role": "守备"
+  },
+  {
+   "name": "阮智润",
+   "role": "道士"
+  }
+ ],
+ "places": [
+  "热河",
+  "二道河",
+  "红石丰子",
+  "正阳门"
+ ],
+ "source_title": "步军统领隆科多奏报京城所获各案及正阳门立萨庙失火折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79703,
+ "page_range": "1807-1808",
+ "_date_interpolated": true
+}

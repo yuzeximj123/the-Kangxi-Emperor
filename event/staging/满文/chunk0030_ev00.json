@@ -1,0 +1,38 @@
+{
+ "source_no": 134,
+ "title_guess": "川陕总督佛伦奏请宽免所拿回子折",
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "十七日",
+ "event_role": "司法案件",
+ "summary": "佛伦奏报拿获回子卡希等人及搜查噶尔丹印文未得，审讯后建议暂留其命以安众回子之心。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称佛伦所奏甚是，此事亦曾思及，到后再作处置。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "卡希",
+   "role": "回子教头"
+  },
+  {
+   "name": "韩弼",
+   "role": "总兵官"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔君主"
+  }
+ ],
+ "places": [
+  "西宁",
+  "西安"
+ ],
+ "source_title": "川陕总督佛伦奏请宽免所拿回子折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3000,
+ "page_range": "273-274"
+}

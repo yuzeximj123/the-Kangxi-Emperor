@@ -1,0 +1,27 @@
+{
+ "source_no": 3987,
+ "title_guess": "步军统领隆科多奏请万安折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "隆科多恭请皇上万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。览京城报雨各文不相同，难以确知是否透雨。口外各处雨水甚调，麦子将有十分收成，各类庄稼皆已扎根长高，已无须祈雨，若再下雨恐误耘灌。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城",
+  "口外"
+ ],
+ "source_title": "步军统领隆科多奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80203,
+ "page_range": "1817-1818",
+ "_date_interpolated": true
+}

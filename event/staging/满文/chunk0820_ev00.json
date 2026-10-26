@@ -1,0 +1,32 @@
+{
+ "source_no": 4077,
+ "title_guess": "步军统领托和齐奏请令盐商张琳修石路折",
+ "reign_year": 3,
+ "month": 2,
+ "day_text": "十一日",
+ "event_role": "弹劾参奏",
+ "summary": "托和齐奏报盐商张琳富而不仁、欺压兵民、私盐逃税、侵吞贡银等劣迹，并建议令其出资修广宁门外石路。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称深知此人名声不好，命托和齐慎密，奏折须薄纸封固、火漆加封后发回。",
+ "people": [
+  {
+   "name": "张琳",
+   "role": "天津大盐商、布政使"
+  },
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "天津",
+  "京城",
+  "广宁门"
+ ],
+ "source_title": "步军统领托和齐奏请令盐商张琳修石路折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82000,
+ "page_range": "1853-1854",
+ "_date_interpolated": true
+}

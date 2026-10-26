@@ -1,0 +1,47 @@
+{
+ "source_no": 1599,
+ "title_guess": "向社奏报遣管领往吊达尔汉亲王丧折",
+ "reign_year": 49,
+ "month": 6,
+ "day_text": "初七日",
+ "event_role": "外藩朝贡",
+ "summary": "向社遵旨派管领谢尼、钟舍木保及其妻由驿乘车往吊科尔沁达尔汉亲王丧并见公主。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "向社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "保柱",
+   "role": "内总管大臣"
+  },
+  {
+   "name": "谢尼",
+   "role": "管领"
+  },
+  {
+   "name": "钟舍木保",
+   "role": "管领"
+  },
+  {
+   "name": "达尔汉亲王",
+   "role": "科尔沁亲王"
+  },
+  {
+   "name": "公主",
+   "role": "公主"
+  }
+ ],
+ "places": [
+  "科尔沁",
+  "喜峰口",
+  "京城"
+ ],
+ "source_title": "筷社奏报遗管领往吊达尔汉亲王形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 34005,
+ "page_range": "893-894"
+}

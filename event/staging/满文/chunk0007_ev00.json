@@ -1,0 +1,45 @@
+{
+ "source_no": null,
+ "title_guess": "弹劾孙光祀折（片段）",
+ "reign_year": 29,
+ "month": 5,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "此为弹劾孙光祀折的残余片段，列举其纵子侄家人霸占当铺、违禁取利、砍伐祠树、招摇撞骗、奸淫致死、窝藏盗贼等多项罪状，并请旨定夺。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "孙光祀",
+   "role": "被弹劾官员"
+  },
+  {
+   "name": "孙光礼",
+   "role": "孙光祀亲属"
+  },
+  {
+   "name": "孙书杰",
+   "role": "孙光祀长子"
+  },
+  {
+   "name": "孙书仪",
+   "role": "孙光祀之子"
+  },
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "平阴县",
+  "肥城县",
+  "历城县",
+  "泰安州"
+ ],
+ "source_title": "弹劾孙光祀折（片段）",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 700,
+ "page_range": "227-228",
+ "_date_interpolated": true
+}

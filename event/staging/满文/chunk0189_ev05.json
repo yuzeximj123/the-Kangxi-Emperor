@@ -1,0 +1,41 @@
+{
+ "source_no": 765,
+ "title_guess": "筷社等奏报阴雨情形并僧图病势折",
+ "reign_year": 44,
+ "month": 7,
+ "day_text": "十六日",
+ "event_role": "宫廷事务",
+ "summary": "筷社等奏报十八日大雨一阵即止、保寿病势大好，并报侍卫僧图病势加重危急及大夫诊治情况。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。僧图若出事，阿哥等遣人往见之。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "僧图",
+   "role": "正白旗一等侍卫"
+  },
+  {
+   "name": "保寿",
+   "role": "患病官员"
+  },
+  {
+   "name": "李颖滋",
+   "role": "太医院御医"
+  },
+  {
+   "name": "刘声芳",
+   "role": "太医院御医"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "上筷社等奏报阴雨情形并僧图病势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 18905,
+ "page_range": "591-592"
+}

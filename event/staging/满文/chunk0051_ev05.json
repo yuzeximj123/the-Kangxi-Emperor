@@ -1,0 +1,39 @@
+{
+ "source_no": 200,
+ "title_guess": "皇太子奏为遣员于大同喂养官马驼事折",
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "康熙三十五年九月二十一日",
+ "event_role": "军务",
+ "summary": "皇太子奏请皇父万安，报降噶尔丹之谕旨刷印咨送及吏部、户部事，并议右卫所余八十六只官驼送大同交侍郎多奇喂养。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "费扬古",
+   "role": "抚远大将军、伯"
+  },
+  {
+   "name": "辛宝",
+   "role": "正卿"
+  },
+  {
+   "name": "多奇",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "大同",
+  "右卫",
+  "宣化府"
+ ],
+ "source_title": "皇太子奏为遣员于大同喂养官马驼事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5105,
+ "page_range": "315-316"
+}

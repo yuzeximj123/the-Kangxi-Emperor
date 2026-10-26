@@ -1,0 +1,28 @@
+{
+ "source_no": null,
+ "title_guess": "康熙帝朱谕一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "康熙帝谕皇后幸巡时著大夫刘声芳来，再派外科一名、内科一名，均算入人数内。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "刘声芳",
+   "role": "大夫"
+  },
+  {
+   "name": "皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [],
+ "source_title": "康熙帝朱谕一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78104,
+ "page_range": "1775-1776",
+ "_date_interpolated": true
+}

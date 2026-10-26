@@ -1,0 +1,75 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "片段：布克陶被授副都统后告知达布杜等人迁移，达布杜等定于正月初六、初十迁移；部分牛录不迁，并议安置盛京地方狭窄、距田远，宜在山海关外各城设城守尉、副都统兼管，著会同彼处各臣详议具奏。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "布克陶",
+   "role": "副都统"
+  },
+  {
+   "name": "达布杜",
+   "role": "迁移牛录首领"
+  },
+  {
+   "name": "杜牛",
+   "role": "迁移牛录首领"
+  },
+  {
+   "name": "诺海",
+   "role": "迁移牛录首领"
+  },
+  {
+   "name": "祁木那",
+   "role": "迁移牛录首领"
+  },
+  {
+   "name": "扎努路",
+   "role": "副都统"
+  },
+  {
+   "name": "瓦留",
+   "role": "副都统"
+  },
+  {
+   "name": "杜布达喀",
+   "role": "副都统"
+  },
+  {
+   "name": "阿布泰",
+   "role": "副都统"
+  },
+  {
+   "name": "巴尼特喀",
+   "role": "副都统"
+  },
+  {
+   "name": "图木珠",
+   "role": "副都统"
+  },
+  {
+   "name": "贾齐哈",
+   "role": "副都统"
+  },
+  {
+   "name": "那达纳",
+   "role": "半个牛录首领"
+  }
+ ],
+ "places": [
+  "盛京",
+  "山海关"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 200,
+ "page_range": "217-218",
+ "_date_interpolated": true
+}

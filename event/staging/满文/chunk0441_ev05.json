@@ -1,0 +1,51 @@
+{
+ "source_no": 2210,
+ "title_guess": "福建巡抚满保奏报民鲁田丈率众闹事折",
+ "reign_year": 52,
+ "month": 6,
+ "day_text": "二十六日",
+ "event_role": "司法案件",
+ "summary": "满保奏报顺昌县民鲁田丈父子聚众械斗、焚村抗官，官兵擒斩多人，正严缉首犯。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "鲁奇龙",
+   "role": "民人"
+  },
+  {
+   "name": "鲁田丈",
+   "role": "民人"
+  },
+  {
+   "name": "叶原香",
+   "role": "民人"
+  },
+  {
+   "name": "欧阳凯",
+   "role": "延平副将"
+  },
+  {
+   "name": "边世伟",
+   "role": "游击"
+  },
+  {
+   "name": "范时崇",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "顺昌县",
+  "延平府",
+  "水南西兰夺"
+ ],
+ "source_title": "福建巡抚满保奏报民鲁田丈率众益事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 44105,
+ "page_range": "1095-1096"
+}

@@ -1,0 +1,62 @@
+{
+ "source_no": 4176,
+ "title_guess": "兵部奏请署理正白旗护军统领印务折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "正白旗护军统领单丹补授镶黄蒙古旗都统后，请兵部转奏署理护军统领印务，兵部开列朱马喇等员职名具奏请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "著单丹署理。",
+ "people": [
+  {
+   "name": "单丹",
+   "role": "正白旗护军统领、镶黄蒙古旗都统"
+  },
+  {
+   "name": "苏克准",
+   "role": "护军统领"
+  },
+  {
+   "name": "朱马喇",
+   "role": "正白蒙古旗都统"
+  },
+  {
+   "name": "吴尔德黑",
+   "role": "满洲旗副都统"
+  },
+  {
+   "name": "保色",
+   "role": "副都统"
+  },
+  {
+   "name": "伯奇",
+   "role": "副都统"
+  },
+  {
+   "name": "何雅图",
+   "role": "副都统"
+  },
+  {
+   "name": "德勒深",
+   "role": "委司钥长"
+  },
+  {
+   "name": "苏赫",
+   "role": "委司钥长"
+  },
+  {
+   "name": "德克津额",
+   "role": "护军参领"
+  }
+ ],
+ "places": [
+  "围场"
+ ],
+ "source_title": "兵部奏请署理正和白旗护军统领印务折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83800,
+ "page_range": "1889-1890",
+ "_date_interpolated": true
+}

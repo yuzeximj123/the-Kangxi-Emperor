@@ -1,0 +1,31 @@
+{
+ "source_no": 336,
+ "title_guess": "皇太子胤礽奏请御批内勿写请示折",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十七日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子胤礽奏请皇父万安，报京城黄雀情形，并恳请御批内勿写请寄、请送等字样，称荣显富贵衣食生死皆仰蒙皇父之恩，难以承受此类语词。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批询问正值黄雀飞过时节京城不知如何，命寄信来。",
+ "people": [
+  {
+   "name": "胤礽",
+   "role": "皇太子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京城",
+  "瀛台",
+  "畅春园"
+ ],
+ "source_title": "皇太子向祈奏请御批内勿写请示折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8505,
+ "page_range": "383-384"
+}

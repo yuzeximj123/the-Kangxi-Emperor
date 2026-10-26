@@ -1,0 +1,30 @@
+{
+ "source_no": 2427,
+ "title_guess": "川陕总督鄂海请安折",
+ "reign_year": 53,
+ "month": 6,
+ "day_text": "初五日",
+ "event_role": "请安谢恩",
+ "summary": "鄂海恭请皇上万安；朱批告知苏州巡抚张伯行拿获散给凉帽伙党密审，令其速取信缮折奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：朕体安。苏州巡抚张伯行将由陕西前去散给凉帽伙党拿获密审，令鄂海速取信缮折奏闻。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "苏州巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "苏州"
+ ],
+ "source_title": "川陕总督畦海请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 47503,
+ "page_range": "1163-1164"
+}

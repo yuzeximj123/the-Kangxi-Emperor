@@ -1,0 +1,31 @@
+{
+ "source_no": 3063,
+ "title_guess": "杭州织造孙文成奏报钱塘江岸居民房失火折",
+ "reign_year": 56,
+ "month": 8,
+ "day_text": "初一日",
+ "event_role": "灾情收成",
+ "summary": "孙文成奏报七月二十六日夜钱塘县正阳门外钱塘江上岸居民何夫成烟铺燃灯失火，烧毁八十三户一百三十间房屋。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "何夫成",
+   "role": "失火烟铺居民"
+  }
+ ],
+ "places": [
+  "钱塘县",
+  "正阳门",
+  "钱塘江"
+ ],
+ "source_title": "杭州织造孙文盛奏报钱塘江岸居民房失火折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 60703,
+ "page_range": "1427-1428"
+}

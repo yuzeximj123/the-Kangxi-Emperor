@@ -1,0 +1,35 @@
+{
+ "source_no": 2102,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "初五日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕和素、李国屏，王昊之罪已拟斩免诛归隶于旗，令召原进士方苞来面试文章，并令王昊知之。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "和素",
+   "role": "官员"
+  },
+  {
+   "name": "李国屏",
+   "role": "官员"
+  },
+  {
+   "name": "王昊",
+   "role": "获罪之人"
+  },
+  {
+   "name": "方苞",
+   "role": "原进士"
+  }
+ ],
+ "places": [],
+ "source_title": "康熙帝琳洽",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42205,
+ "page_range": "1057-1058"
+}

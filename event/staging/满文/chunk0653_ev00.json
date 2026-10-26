@@ -1,0 +1,51 @@
+{
+ "source_no": 3210,
+ "title_guess": "理藩院奏报将离散蒙古人收归原旗折",
+ "reign_year": 57,
+ "month": 6,
+ "day_text": "二十八日",
+ "event_role": "边疆事务",
+ "summary": "理藩院奏报贝子沙津族人困迫，贫穷台吉典卖属民，拟派官查明离散蒙古人交原旗收养，典卖人口秋后赎回。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议，即行。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "尚书加四级"
+  },
+  {
+   "name": "特古忒",
+   "role": "右侍郎"
+  },
+  {
+   "name": "基古里",
+   "role": "员外郎"
+  },
+  {
+   "name": "三达坦克",
+   "role": "员外郎"
+  },
+  {
+   "name": "苏海",
+   "role": "主事"
+  },
+  {
+   "name": "沙津",
+   "role": "贝子"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "伯都讷",
+  "喀喇沁",
+  "扎赉特",
+  "郭尔罗斯",
+  "扎鲁特",
+  "杜尔伯特"
+ ],
+ "source_title": "理藩院奏报将离散蒙古人收归原旗折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 65300,
+ "page_range": "1519-1520"
+}

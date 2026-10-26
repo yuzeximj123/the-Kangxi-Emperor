@@ -1,0 +1,42 @@
+{
+ "source_no": 619,
+ "title_guess": "两江总督阿山奏参江西巡抚张志栋大计作弊折",
+ "reign_year": 43,
+ "month": 7,
+ "day_text": "初一日",
+ "event_role": "弹劾参奏",
+ "summary": "江南江西总督革职留任阿山奏陈去年江西省大计张志栋举荐不公，经部议革，李兴祖等诉称并无举荐马斌、石伟颂之处，实系张志栋作弊，奴才据实参奏。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "阿山",
+   "role": "江南江西总督革职留任"
+  },
+  {
+   "name": "张志栋",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "李兴祖",
+   "role": "被举荐官员"
+  },
+  {
+   "name": "马斌",
+   "role": "相关人员"
+  },
+  {
+   "name": "石伟颂",
+   "role": "相关人员"
+  }
+ ],
+ "places": [
+  "江西",
+  "江南"
+ ],
+ "source_title": "两江总督阿山奏参江西巡抚张志栋大计作刺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16106,
+ "page_range": "535-536"
+}

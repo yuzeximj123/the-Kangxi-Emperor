@@ -1,0 +1,55 @@
+{
+ "source_no": 3860,
+ "title_guess": "康熙帝上谕一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "初十日",
+ "event_role": "军务",
+ "summary": "康熙帝记抵西安府、渡黄河驻潼关所见民生粮价、军容齐整，抵西安时官民及青海诸王公迎接，述巡查西地山川险要及行军马驼肥壮之奇。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "扎西巴图鲁亲王",
+   "role": "青海亲王"
+  },
+  {
+   "name": "盆苏克台吉",
+   "role": "达赖汗之弟"
+  },
+  {
+   "name": "松喇布王",
+   "role": "鄂尔多斯王"
+  },
+  {
+   "name": "敦鲁布王",
+   "role": "鄂尔多斯王"
+  },
+  {
+   "name": "丹津台吉",
+   "role": "台吉"
+  },
+  {
+   "name": "达颜台吉",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "西安府",
+  "黄河",
+  "潼关",
+  "太原",
+  "卫辉府",
+  "青海"
+ ],
+ "source_title": "康熙帝上谕一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78509,
+ "page_range": "1783-1784",
+ "_date_interpolated": true
+}

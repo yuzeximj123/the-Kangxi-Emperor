@@ -1,0 +1,52 @@
+{
+ "source_no": 1047,
+ "title_guess": "山西巡抚噶礼奏请严审监察御史袁桥诬陷案折",
+ "reign_year": 46,
+ "month": 1,
+ "day_text": "十二日",
+ "event_role": "弹劾参奏",
+ "summary": "山西巡抚噶礼遵旨续奏袁桥、蔡煌等勾结巴哈布行贿诬参一案，详列季卫世、石玉桢、胡三等知情人和行贿银两情节，请旨严加查审。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "袁桥",
+   "role": "监察御史"
+  },
+  {
+   "name": "蔡煌",
+   "role": "原任郎中"
+  },
+  {
+   "name": "巴哈布",
+   "role": "原任山西按察使"
+  },
+  {
+   "name": "季卫世",
+   "role": "书办"
+  },
+  {
+   "name": "石玉桢",
+   "role": "快手"
+  },
+  {
+   "name": "胡三",
+   "role": "吏部书办"
+  }
+ ],
+ "places": [
+  "山西",
+  "京城",
+  "绍兴",
+  "大兴"
+ ],
+ "source_title": "山西巡抚噶礼奏请严审监察御史豆桥诬陷案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 24101,
+ "page_range": "695-696"
+}

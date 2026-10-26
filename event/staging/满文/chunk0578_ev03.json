@@ -1,0 +1,49 @@
+{
+ "source_no": 2911,
+ "title_guess": "理藩院奏报会审逃兵情形折",
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "二十二日",
+ "event_role": "司法案件",
+ "summary": "理藩院奏会审鄂尔多斯贝勒甘珠尔所参逃兵陈色等五人处斩、胁从舒尔哈等四十二人枷号鞭责发配，因枷号已满两月请旨从速发往盛京。",
+ "has_zhupi": true,
+ "zhupi_summary": "这奏的甚是。著将伊等从速发往盛京。",
+ "people": [
+  {
+   "name": "甘珠尔",
+   "role": "鄂尔多斯多罗贝勒"
+  },
+  {
+   "name": "陈色",
+   "role": "逃兵"
+  },
+  {
+   "name": "舒尔哈",
+   "role": "胁从"
+  },
+  {
+   "name": "纳木扎尔",
+   "role": "胁从"
+  },
+  {
+   "name": "诺木齐贷",
+   "role": "左侍郎"
+  },
+  {
+   "name": "乌尔虎岱",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "鄂尔多斯",
+  "杭州",
+  "江宁",
+  "荆州",
+  "盛京"
+ ],
+ "source_title": "理幕院奏报会审逃兵情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 57803,
+ "page_range": "1369-1370"
+}

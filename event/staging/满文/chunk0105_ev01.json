@@ -1,0 +1,26 @@
+{
+ "source_no": 420,
+ "title_guess": "两江总督阿山奏报江南麦收情形折",
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "十六日",
+ "event_role": "灾情收成",
+ "summary": "两江总督阿山奏报江南今春雨水调匀麦子丰收，总计约八九分收成，稻秧插完，秋粮可望，待收获时另行具奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：这麦收情形知道了，京城周围麦子大收，今雨水调匀田禾亦好，著秋后再报来。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_title": "两江总督阿山奏报江南考收情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 10501,
+ "page_range": "423-424"
+}

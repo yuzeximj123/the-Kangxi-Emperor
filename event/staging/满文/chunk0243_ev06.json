@@ -1,0 +1,29 @@
+{
+ "source_no": 1062,
+ "title_guess": "太医院大夫葛赤诊治书",
+ "reign_year": 46,
+ "month": 2,
+ "day_text": "十六日",
+ "event_role": "宫廷事务",
+ "summary": "太医院大夫葛赤奏报康熙四十五年十一月初二日奉旨随和硕纯禧公主回科尔沁，公主一路平安，十二月初（后文残缺）。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "葛赤",
+   "role": "太医院大方脉大夫"
+  },
+  {
+   "name": "和硕纯禧公主",
+   "role": "公主"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_title": "太医院大夫藉杰诊治将",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 24306,
+ "page_range": "699-700"
+}

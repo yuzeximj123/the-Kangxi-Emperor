@@ -1,0 +1,52 @@
+{
+ "source_no": 3914,
+ "title_guess": "兵部尚书逊柱奏请署理护军统领事务之人折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部尚书逊柱等奏，正红旗护军统领吴里布、署镶蓝旗护军统领雅亲请派署理护军统领随驾，遂开列满丕、骚达色、傅尔丹、达尔玛等名请旨简派。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批命庄王上执事布达硕里署正红旗护军统领印。",
+ "people": [
+  {
+   "name": "逊柱",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "吴里布",
+   "role": "正红旗护军统领"
+  },
+  {
+   "name": "雅亲",
+   "role": "署理镶蓝旗护军统领事务副都统"
+  },
+  {
+   "name": "满丕",
+   "role": "正红满洲旗副都统"
+  },
+  {
+   "name": "骚达色",
+   "role": "满洲补汉军旗副都统"
+  },
+  {
+   "name": "傅尔丹",
+   "role": "镶红蒙古旗副都统"
+  },
+  {
+   "name": "达尔玛",
+   "role": "镶蓝满洲旗副都统"
+  },
+  {
+   "name": "布达硕里",
+   "role": "庄王上执事"
+  }
+ ],
+ "places": [],
+ "source_title": "兵部尚书进柱奏请署理护军统领事务之人折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79206,
+ "page_range": "1797-1798",
+ "_date_interpolated": true
+}

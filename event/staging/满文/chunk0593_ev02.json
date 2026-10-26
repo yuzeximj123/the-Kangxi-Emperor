@@ -1,0 +1,49 @@
+{
+ "source_no": 3002,
+ "title_guess": "内务府奏报补修热河诸小工程所用银两折",
+ "reign_year": 56,
+ "month": 5,
+ "day_text": "十六日",
+ "event_role": "钱粮财政",
+ "summary": "内务府奏报补修热河船棚、莲花棚、流碑亭垫土、果树棚、鸟笼等工程共用银二千零一两，并请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：二千两仍过多；现自杨宗义取二千两交付，禁止借给。",
+ "people": [
+  {
+   "name": "杨宗义",
+   "role": "按察使"
+  },
+  {
+   "name": "尚民杰",
+   "role": "郎中"
+  },
+  {
+   "name": "苏成格",
+   "role": "奏事司库"
+  },
+  {
+   "name": "穆尔台",
+   "role": "内阁学士"
+  },
+  {
+   "name": "海章",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "页金泰",
+   "role": "员外郎"
+  },
+  {
+   "name": "麦图",
+   "role": "总管"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_title": "内务府奏报补修热河诸小工程所用银两折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 59302,
+ "page_range": "1399-1400"
+}

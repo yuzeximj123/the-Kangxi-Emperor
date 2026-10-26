@@ -1,0 +1,42 @@
+{
+ "source_no": 1422,
+ "title_guess": "和社等请安并奏恭闻万安折",
+ "reign_year": 48,
+ "month": 5,
+ "day_text": "初九日",
+ "event_role": "请安谢恩",
+ "summary": "和社等恭请皇父万安，奏报收到初六日请安折朱批知万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告身体安，京城来者言稍旱，此处雨水调和，初十日幸温泉已到彼处日暮大雨，若京城未雨则饬部祈雨，并将此谕送内廷看。",
+ "people": [
+  {
+   "name": "和社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "和祈",
+   "role": "奏事臣"
+  },
+  {
+   "name": "和保",
+   "role": "奏事臣"
+  },
+  {
+   "name": "凑徇",
+   "role": "奏事臣"
+  },
+  {
+   "name": "和祥",
+   "role": "奏事臣"
+  }
+ ],
+ "places": [
+  "京城",
+  "温泉"
+ ],
+ "source_title": "乱社等请安并秦蒜闻万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 31001,
+ "page_range": "833-834"
+}

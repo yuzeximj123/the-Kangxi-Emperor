@@ -1,0 +1,42 @@
+{
+ "source_no": 3133,
+ "title_guess": "兵部尚书逊柱等奏署理阿喇纳印务折",
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "二十六日",
+ "event_role": "人事任免",
+ "summary": "阿喇纳率京城之军前往西安，请兵部转奏署理其印务，逊柱等开具武格、延信等大臣职名请旨指定。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝命弘曙署理。",
+ "people": [
+  {
+   "name": "逊柱",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "阿喇纳",
+   "role": "掌左翼都统印务、镶黄满洲旗都统"
+  },
+  {
+   "name": "武格",
+   "role": "正白蒙古旗都统兼镶黄旗护军统领"
+  },
+  {
+   "name": "延信",
+   "role": "正蓝满洲旗都统、宗室"
+  },
+  {
+   "name": "弘曙",
+   "role": "奉命署理印务者"
+  }
+ ],
+ "places": [
+  "西安",
+  "京城"
+ ],
+ "source_title": "兵部尚书逊柱等奏署理阿喇纳印务折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 63002,
+ "page_range": "1473-1474"
+}

@@ -1,0 +1,32 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "记载贝勒、阿哥、福晋各一餐桌所需咸白菜、芥菜、瓜、茄子等菜品及减裁定额，属宫廷膳食则例片段。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "贝勒",
+   "role": "贝勒"
+  },
+  {
+   "name": "阿哥",
+   "role": "阿哥"
+  },
+  {
+   "name": "福晋",
+   "role": "福晋"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12003,
+ "page_range": "453-454",
+ "_date_interpolated": true
+}

@@ -1,0 +1,63 @@
+{
+ "source_no": 4192,
+ "title_guess": "理藩院大臣等奏请将准噶尔人驿送京城折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "理藩院奏报自准噶尔逃来巴图等所供与多尔济所言大致相同，请咨行大将军岳钟琪加谨防备，并将巴图等驿送京城询问安置。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "黑格",
+   "role": "官员"
+  },
+  {
+   "name": "巴图",
+   "role": "准噶尔逃来人"
+  },
+  {
+   "name": "多尔济",
+   "role": "先前来降者"
+  },
+  {
+   "name": "伊克车凌敦多布",
+   "role": "准噶尔台吉"
+  },
+  {
+   "name": "岳钟琪",
+   "role": "大将军"
+  },
+  {
+   "name": "托克托",
+   "role": "准噶尔逃来人"
+  },
+  {
+   "name": "扎纳额林布",
+   "role": "准噶尔逃来人"
+  },
+  {
+   "name": "锡喇",
+   "role": "准噶尔逃来人"
+  },
+  {
+   "name": "堆通",
+   "role": "准噶尔逃来人"
+  }
+ ],
+ "places": [
+  "均博克赛里",
+  "登阁尔济",
+  "巴里坤",
+  "青海",
+  "张家口",
+  "肃州"
+ ],
+ "source_title": "理藩院大臣等奏请将准噶尔人驿送京城折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84004,
+ "page_range": "1893-1894",
+ "_date_interpolated": true
+}

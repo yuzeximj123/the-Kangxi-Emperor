@@ -1,0 +1,27 @@
+{
+ "source_no": 3302,
+ "title_guess": "内务府奏为区处太监双泉等隐春折",
+ "reign_year": 57,
+ "month": 12,
+ "day_text": "十八日",
+ "event_role": "司法案件",
+ "summary": "此为前件奏折的朱批片段：双泉革职，免枷号鞭责；张朝锋既经询问无过失，免罪。",
+ "has_zhupi": true,
+ "zhupi_summary": "双泉革职，免枷号鞭责；张朝锋无过失，免罪。",
+ "people": [
+  {
+   "name": "双泉",
+   "role": "太监"
+  },
+  {
+   "name": "张朝锋",
+   "role": "被询问之人"
+  }
+ ],
+ "places": [],
+ "source_title": "内务府奏为区处太监双泉等隐春折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 67400,
+ "page_range": "1561-1562"
+}

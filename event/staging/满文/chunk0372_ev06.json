@@ -1,0 +1,25 @@
+{
+ "source_no": 1797,
+ "title_guess": "两江总督噶礼奏报收成并粮价情形折",
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "十七日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报江南地方今年夏麦丰收、秋禾生长甚好，目下各地皆已割完（原文至此为片段）。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_title": "两江总都噶礼考报收成并粮价情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37206,
+ "page_range": "957-958"
+}

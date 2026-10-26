@@ -1,0 +1,35 @@
+{
+ "source_no": 621,
+ "title_guess": "西安将军博霁奏请万安折",
+ "reign_year": 43,
+ "month": 7,
+ "day_text": "初一日",
+ "event_role": "请安谢恩",
+ "summary": "西安将军博霁奏报直隶、山东夏粮收成及降雨情形，并恭请皇上万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝告以身体安善、各地田禾甚好、山东麦收十分，并赏赐书扇、慰勉老臣不必琐念。",
+ "people": [
+  {
+   "name": "博霁",
+   "role": "西安将军"
+  },
+  {
+   "name": "辛泰",
+   "role": "提及之人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "山东",
+  "京城",
+  "盛京",
+  "乌拉",
+  "口外",
+  "西安府"
+ ],
+ "source_title": "西安将军博都秦请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16302,
+ "page_range": "539-540"
+}

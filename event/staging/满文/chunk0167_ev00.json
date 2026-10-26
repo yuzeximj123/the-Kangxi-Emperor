@@ -1,0 +1,27 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 43,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "朱批片段：口外连日阴雾无大雨但河水甚大，闻巴和岱携来之人被水淹，命诸阿哥速派人往通州河口查察。",
+ "has_zhupi": true,
+ "zhupi_summary": "口外阴雾无大雨而河水甚大，闻巴和岱携来之人被淹，命诸阿哥速派人往通州河口查察，急之勿迟。",
+ "people": [
+  {
+   "name": "巴和岱",
+   "role": "携人者"
+  }
+ ],
+ "places": [
+  "通州",
+  "口外"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16700,
+ "page_range": "547-548",
+ "_date_interpolated": true
+}

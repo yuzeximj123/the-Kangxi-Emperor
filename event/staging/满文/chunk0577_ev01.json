@@ -1,0 +1,46 @@
+{
+ "source_no": 2907,
+ "title_guess": "内务府奏报忻贵妃等丧仪折",
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "十一日",
+ "event_role": "宫廷事务",
+ "summary": "内务府奏请忻贵人满百日奉移慧妃陵及暂安板殿事宜，议定奉移、暂安日期、仪仗、致祭、修造板殿及夫役派遣等项，请旨。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "忻贵人",
+   "role": "妃嫔"
+  },
+  {
+   "name": "海章",
+   "role": "署理内务府总管郎中"
+  },
+  {
+   "name": "董砍邦",
+   "role": "署理内务府总管"
+  },
+  {
+   "name": "灰山",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "萨哈布",
+   "role": "礼部右侍郎"
+  },
+  {
+   "name": "孙渣齐",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [
+  "慧妃陵",
+  "二门外东侧"
+ ],
+ "source_title": "内务府奏报忻贵妃等囊仪折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 57701,
+ "page_range": "1367-1368"
+}

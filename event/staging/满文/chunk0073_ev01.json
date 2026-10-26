@@ -1,0 +1,27 @@
+{
+ "source_no": 291,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初四日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕：闻张鸿绪报皇太子旧疾复发，如病愈则行礼，否则遣臣前往。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "张鸿绪",
+   "role": "来报者"
+  },
+  {
+   "name": "皇太子",
+   "role": "患病者"
+  }
+ ],
+ "places": [],
+ "source_title": "康熙帝斥论",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 7301,
+ "page_range": "359-360"
+}

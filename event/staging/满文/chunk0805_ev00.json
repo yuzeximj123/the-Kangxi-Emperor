@@ -1,0 +1,28 @@
+{
+ "source_no": 4011,
+ "title_guess": "步军统领隆科多奏请万安折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "隆科多恭请皇上万安，朱批称自六月土王用事以来身体较前渐强。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕安，自六月土王用事以来身体较前渐强。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_title": "步军统领隆科多奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80500,
+ "page_range": "1823-1824",
+ "_date_interpolated": true
+}

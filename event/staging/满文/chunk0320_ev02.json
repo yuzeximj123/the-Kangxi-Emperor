@@ -1,0 +1,47 @@
+{
+ "source_no": 1481,
+ "title_guess": "和社等奏请赏赐栋子折",
+ "reign_year": 48,
+ "month": 8,
+ "day_text": "十九日",
+ "event_role": "请安谢恩",
+ "summary": "臣筷社等奏称接御封小包及旨寻大栋子，因京城及十三省难寻，请以新获核桃栗子中之大者代替，并恳多赐所存栋子数颗。",
+ "has_zhupi": true,
+ "zhupi_summary": "在此要子少，尔等所中之人皆已知之，送与尔等一次便完。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "臣"
+  },
+  {
+   "name": "筷祺",
+   "role": "臣"
+  },
+  {
+   "name": "仍祷",
+   "role": "臣"
+  },
+  {
+   "name": "筷裤",
+   "role": "臣"
+  },
+  {
+   "name": "优被",
+   "role": "臣"
+  },
+  {
+   "name": "骨宰",
+   "role": "臣"
+  }
+ ],
+ "places": [
+  "京城",
+  "口外",
+  "十三省"
+ ],
+ "source_title": "息社等奏请赏赐机子折尼",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32002,
+ "page_range": "853-854"
+}

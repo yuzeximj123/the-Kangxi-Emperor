@@ -1,0 +1,29 @@
+{
+ "source_no": null,
+ "title_guess": "谕大将军伯费扬古",
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "二月二十三日",
+ "event_role": "军务",
+ "summary": "康熙帝谕费扬古，因大军缩短日期，山西巡抚所助骡米未到，粮石关系重大，西路运粮难于中路数倍，特手书急谕令其顾全前后。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "康熙远",
+   "role": "总兵"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_title": "谕大将军伯费扬古",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4702,
+ "page_range": "307-308"
+}

@@ -1,0 +1,33 @@
+{
+ "source_no": 1217,
+ "title_guess": "筷社等奏奉命转进皇太后以奶皮子折",
+ "reign_year": 46,
+ "month": 10,
+ "day_text": "初一日",
+ "event_role": "宫廷事务",
+ "summary": "贞社等遵旨将乌珠称沁肥汤羊二只、干奶皮子四匣驰送皇太后，太后启匣品尝并称赞皇父孝心，臣等奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "贞社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巴林公主第"
+ ],
+ "source_title": "人筷社等考寿命转进皇太后以奶皮子折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 27300,
+ "page_range": "759-760"
+}

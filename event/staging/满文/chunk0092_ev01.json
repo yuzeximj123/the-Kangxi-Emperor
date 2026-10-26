@@ -1,0 +1,26 @@
+{
+ "source_no": 355,
+ "title_guess": "皇太子请安并奏允准赴行在迎驾折",
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "二十八日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子请安，庆贺噶尔丹自尽、其子就擒，奏报查验南苑马匹肥瘦情形，并请少携随从前赴行在以贺大捷，请示诸阿哥谁同行。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕安。皇太子可好？迎接之事已于本内夹片中写，三十日未时送到，初一日晨发回。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "南苑",
+  "行在"
+ ],
+ "source_title": "和皇太子请安并奏允准赴行在迎驾折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9201,
+ "page_range": "397-398"
+}

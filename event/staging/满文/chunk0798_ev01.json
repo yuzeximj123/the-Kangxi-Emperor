@@ -1,0 +1,58 @@
+{
+ "source_no": 3953,
+ "title_guess": "步军统领隆科多奏报京城七八月所获各案情折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "七月十四日至八月十四日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报七月十四日至八月十四日拿获窃盗割懒筋者十九人及拐骗、逃人等案，陆续解送刑部、内务府。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "乔庭章",
+   "role": "窃盗"
+  },
+  {
+   "name": "顾云站",
+   "role": "窃盗"
+  },
+  {
+   "name": "六十二",
+   "role": "家奴"
+  },
+  {
+   "name": "张大",
+   "role": "民"
+  },
+  {
+   "name": "雅图",
+   "role": "杭州织造孙文成家人"
+  },
+  {
+   "name": "高玉",
+   "role": "太监"
+  },
+  {
+   "name": "王明修",
+   "role": "太监"
+  }
+ ],
+ "places": [
+  "东鹿县",
+  "江南",
+  "杭州",
+  "武清县",
+  "乌拉"
+ ],
+ "source_title": "步军统领隆科多奏报京城七八月所获各案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79801,
+ "page_range": "1809-1810",
+ "_date_interpolated": true
+}

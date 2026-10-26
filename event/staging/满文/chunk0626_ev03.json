@@ -1,0 +1,54 @@
+{
+ "source_no": 3115,
+ "title_guess": "杭州织造孙文成奏报乡试作弊案折",
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "初一日",
+ "event_role": "司法案件",
+ "summary": "杭州织造孙文成奏报本年杭州乡试不公之弊，武举吴志奇等告发贡生陈凤池由秀才沈得代写文章，并抬神入孔子庙等情，巡抚朱轼派知府张惟正审理。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：著再打听切实报来。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "吴志奇",
+   "role": "武举"
+  },
+  {
+   "name": "陈凤池",
+   "role": "贡生"
+  },
+  {
+   "name": "沈得",
+   "role": "秀才"
+  },
+  {
+   "name": "张惟正",
+   "role": "杭州府知府"
+  },
+  {
+   "name": "朱轼",
+   "role": "巡抚"
+  },
+  {
+   "name": "索泰",
+   "role": "主考"
+  },
+  {
+   "name": "毛能",
+   "role": "副主考"
+  }
+ ],
+ "places": [
+  "杭州",
+  "孔子庙"
+ ],
+ "source_title": "杭州织造孙文盛考报乡试作坏案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 62603,
+ "page_range": "1465-1466"
+}

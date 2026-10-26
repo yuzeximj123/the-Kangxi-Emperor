@@ -1,0 +1,34 @@
+{
+ "source_no": 2725,
+ "title_guess": "议政大臣苏努等奏请另派大臣赫费扬古统领大军折",
+ "reign_year": 54,
+ "month": null,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "将军费扬古以病请交军事于他人，议政大臣议请另派大臣与祁里德同办军务，并奉朱批令其带右卫将军任慢慢前来。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕思数日，尔奏是。现右卫地方亦重要，尔带右卫将军之任，慢慢前来右卫。今年既不进兵。",
+ "people": [
+  {
+   "name": "苏努",
+   "role": "议政大臣固山贝子都统"
+  },
+  {
+   "name": "费扬古",
+   "role": "将军、辅国公"
+  },
+  {
+   "name": "祁里德",
+   "role": "闲散大臣"
+  }
+ ],
+ "places": [
+  "布赖特",
+  "右卫"
+ ],
+ "source_title": "议政大臣苏努等奏请另派大臣赫费扬古统领大军折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 53704,
+ "page_range": "1287-1288"
+}

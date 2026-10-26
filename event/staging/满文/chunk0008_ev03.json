@@ -1,0 +1,30 @@
+{
+ "source_no": 42,
+ "title_guess": "山东巡抚佛伦奏请停止总督巡抚巡查折",
+ "reign_year": 29,
+ "month": 10,
+ "day_text": "初二日",
+ "event_role": "谕旨决策",
+ "summary": "佛伦奏陈总督巡抚轻易出巡劳民无益，请停止巡查东三府之事，并请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "停止巡查甚宜；惟巡查无益劳民之处不可澄清，各省不同，或有查盗贼、防营伍等机要大事亦可借口，今竟成劳民之事，以后谁敢兴查，纵然具奏，科道亦以此为话柄。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "钱廷",
+   "role": "前任巡抚"
+  }
+ ],
+ "places": [
+  "东三府",
+  "省城"
+ ],
+ "source_title": "山东巡抚佛伦奏请停止总督巡抚巡查折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 803,
+ "page_range": "229-230"
+}

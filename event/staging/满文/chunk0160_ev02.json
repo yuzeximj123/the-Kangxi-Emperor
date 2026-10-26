@@ -1,0 +1,27 @@
+{
+ "source_no": null,
+ "title_guess": "大夫诊治书",
+ "reign_year": 43,
+ "month": 6,
+ "day_text": "十二日",
+ "event_role": "其他",
+ "summary": "太医院大夫金廷诏奏报为镶黄旗二等侍卫井四勒诊治伤寒发黄重症情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "金廷诏",
+   "role": "太医院大夫"
+  },
+  {
+   "name": "井四勒",
+   "role": "镶黄旗二等侍卫"
+  }
+ ],
+ "places": [],
+ "source_title": "大夫诊治书",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16002,
+ "page_range": "533-534"
+}

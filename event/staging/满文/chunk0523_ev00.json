@@ -1,0 +1,31 @@
+{
+ "source_no": 2661,
+ "title_guess": "内务府奏请杭州织造孙文成未及时报畏雨革职折",
+ "reign_year": 54,
+ "month": 8,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "summary": "内务府奏报孙文成未按月奏报晴雨、仅三月一奏不合规定，拟革职请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "孙文成著革职暂留任。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "官保",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "海章",
+   "role": "署理内务府总管事务郎中"
+  }
+ ],
+ "places": [],
+ "source_title": "内务府奏请杭州织造孙文成未及时报畏雨革职折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 52300,
+ "page_range": "1259-1260"
+}

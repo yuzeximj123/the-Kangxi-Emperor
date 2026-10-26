@@ -1,0 +1,61 @@
+{
+ "source_no": 28,
+ "title_guess": "内务府总管费扬古等议奏拨给被旱庄头粮米折",
+ "reign_year": 28,
+ "month": 11,
+ "day_text": "康熙二十八年十一月二十九日",
+ "event_role": "钱粮财政",
+ "summary": "内务府总管费扬古等遵旨议奏玉泉山稻厂庄头赵三源等因旱告称难养家口，议给口粮米，请旨。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "内务府总管"
+  },
+  {
+   "name": "班第",
+   "role": "内务府总管"
+  },
+  {
+   "name": "海拉逊",
+   "role": "内务府总管办理奉宸苑事务"
+  },
+  {
+   "name": "申保",
+   "role": "会计司郎中"
+  },
+  {
+   "name": "吴艾",
+   "role": "员外郎"
+  },
+  {
+   "name": "李",
+   "role": "奉宸苑掌印郎中"
+  },
+  {
+   "name": "满都布",
+   "role": "员外郎"
+  },
+  {
+   "name": "鄂罗示",
+   "role": "员外郎"
+  },
+  {
+   "name": "佳浑",
+   "role": "员外郎"
+  },
+  {
+   "name": "赵三源",
+   "role": "玉泉山稻厂庄头"
+  }
+ ],
+ "places": [
+  "玉泉山"
+ ],
+ "source_title": "内务府总管费扬二等议奏拨给被旱庄闫粮米折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 501,
+ "page_range": "223-224"
+}

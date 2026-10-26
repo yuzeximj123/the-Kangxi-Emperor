@@ -1,0 +1,35 @@
+{
+ "source_no": 163,
+ "title_guess": "康熙帝朱谕（康熙三十五年四月十一日）",
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "四月十一日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子，述巡至哨所所见水草丰足、马羊得苏，三旗同行八旗不误事；等候出古北口火器营汉军故驻中多日；噶尔丹在图拉，马畜甚瘦人食少缺；发土产供皇太后及各妃阅赏，并报身体安好。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  }
+ ],
+ "places": [
+  "古北口",
+  "图拉",
+  "哨所"
+ ],
+ "source_title": "康熙帝打论和",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3803,
+ "page_range": "289-290"
+}

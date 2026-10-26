@@ -1,0 +1,31 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": null,
+ "day_text": "十一日",
+ "event_role": "军务",
+ "summary": "记十一日次克勒和硕行六十五里，议政处议噶尔丹急逃，简选士卒留大炮追击，留护军火器营重炮于宿处，十二日追八十里至索依勤嘲图。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "克勒和硕",
+  "托诺山",
+  "索依勤嘲图"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4903,
+ "page_range": "311-312"
+}

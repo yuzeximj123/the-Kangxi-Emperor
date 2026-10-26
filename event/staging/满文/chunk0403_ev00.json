@@ -1,0 +1,47 @@
+{
+ "source_no": 1988,
+ "title_guess": "杭州织造孙文成奏报兵船遇贼船交战情形折",
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "十六日",
+ "event_role": "军务",
+ "summary": "孙文成奏报温州、黄岩总兵标下官兵巡海遇贼船交战，把总、游击及兵丁多人被杀，兵船枪炮被劫，并报朱批令再打听。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。著再打听报来。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "胡洋",
+   "role": "温州总兵"
+  },
+  {
+   "name": "万易安",
+   "role": "把总"
+  },
+  {
+   "name": "李进",
+   "role": "黄岩总兵"
+  },
+  {
+   "name": "严福玉",
+   "role": "游击"
+  },
+  {
+   "name": "张世祯",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "温州",
+  "黄岩",
+  "牛头门外乌石洋海"
+ ],
+ "source_title": "杭州织造孙文成奏报兵船遇贼船交战情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 40300,
+ "page_range": "1019-1020"
+}

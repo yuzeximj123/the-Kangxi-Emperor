@@ -1,0 +1,43 @@
+{
+ "source_no": 1824,
+ "title_guess": "理藩院奏请巴汉额木齐探父母并往西地折",
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "十四日",
+ "event_role": "边疆事务",
+ "summary": "理藩院转奏巴汉额木齐请往青海探视年老父母并往西地会见师傅达尔玛第，拟与喀尔喀咱雅班第达呼图克图同行，请旨交部议奏。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "巴汉额木齐",
+   "role": "喇嘛"
+  },
+  {
+   "name": "浩尚",
+   "role": "理藩院头等侍卫"
+  },
+  {
+   "name": "达尔玛第",
+   "role": "巴汉额木齐之师"
+  },
+  {
+   "name": "咱雅班第达呼图克图",
+   "role": "喀尔喀呼图克图"
+  },
+  {
+   "name": "戴青和绍齐",
+   "role": "青海首领"
+  }
+ ],
+ "places": [
+  "青海",
+  "西地",
+  "喀尔喀"
+ ],
+ "source_title": "理蒂院故请巴汉额木齐探父母并往西地折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37707,
+ "page_range": "967-968"
+}

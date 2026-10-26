@@ -1,0 +1,31 @@
+{
+ "source_no": null,
+ "title_guess": "大夫诊治书",
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "康熙四十五年九月十七日",
+ "event_role": "宫廷事务",
+ "summary": "大夫李德聪、戴君选奏八贝勒风热发疹之症，十四日奏后疹形渐化、脉症大减但有时虚烦，用心斟酌调理。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：本人有生以来好信医巫，被无赖小人哄骗，吃药太多，积毒太甚；此一举发若幸得痊愈乃有造化，倘毒气不静再用补济似难调治。",
+ "people": [
+  {
+   "name": "李德聪",
+   "role": "大夫"
+  },
+  {
+   "name": "戴君选",
+   "role": "大夫"
+  },
+  {
+   "name": "八贝勒",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_title": "大夫诊治书",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23206,
+ "page_range": "677-678"
+}

@@ -1,0 +1,45 @@
+{
+ "source_no": 3897,
+ "title_guess": "川陕总督博都奏报捐银情形及盗米案件折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "钱粮财政",
+ "summary": "博都奏报代捐米三十一万余石事九卿会议分歧，及大通桥盗米案查拿情形，并称因汉官党类多而奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "博都",
+   "role": "川陕总督"
+  },
+  {
+   "name": "希福纳",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "江葡",
+   "role": "汉副都御史"
+  },
+  {
+   "name": "江藻",
+   "role": "汉左粮厅"
+  },
+  {
+   "name": "江蒙",
+   "role": "副都御史"
+  }
+ ],
+ "places": [
+  "西安",
+  "大通桥",
+  "武清县",
+  "京城八仓"
+ ],
+ "source_title": "川陕总督博都奏报捐银情形及盗米案件折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79101,
+ "page_range": "1795-1796",
+ "_date_interpolated": true
+}

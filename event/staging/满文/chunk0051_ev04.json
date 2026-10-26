@@ -1,0 +1,38 @@
+{
+ "source_no": 199,
+ "title_guess": "抚远大将军费扬古知照理藩院为阿玉锡来归事",
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十日",
+ "event_role": "军务",
+ "summary": "抚远大将军费扬古咨行理藩院，报厄鲁特阿玉锡来归并供述丹济拉率众往掠翁金米粮被击败逃散情形，附朱批谕皇太子。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：谕皇太子。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军、领侍卫内大臣、伯"
+  },
+  {
+   "name": "阿玉锡",
+   "role": "来归厄鲁特"
+  },
+  {
+   "name": "丹济拉",
+   "role": "噶尔丹部属"
+  },
+  {
+   "name": "占柱",
+   "role": "理藩院笔帖式"
+  }
+ ],
+ "places": [
+  "翁金",
+  "阿济尔布都讷"
+ ],
+ "source_title": "抚远大将军费扬古知照理藩院为阿玉锡来归事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5104,
+ "page_range": "315-316"
+}

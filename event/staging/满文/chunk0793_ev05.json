@@ -1,0 +1,30 @@
+{
+ "source_no": 3920,
+ "title_guess": "步军统领隆科多奏报京城一带得雨情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "灾情收成",
+ "summary": "奏报近几日环城一带及城内得雨情形，畅春园一带雨大积水。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "德胜门",
+  "畅春园",
+  "西直门",
+  "宣武门",
+  "右安门"
+ ],
+ "source_title": "步军统领隆科多奏报京城一带得雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79305,
+ "page_range": "1799-1800",
+ "_date_interpolated": true
+}

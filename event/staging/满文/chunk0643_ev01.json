@@ -1,0 +1,46 @@
+{
+ "source_no": 3177,
+ "title_guess": "内务府奏为补放太监折",
+ "reign_year": 57,
+ "month": 4,
+ "day_text": "十一日",
+ "event_role": "宫廷事务",
+ "summary": "内务府奏报太监赵三、王国泰病故遗缺，请照前交总管太监等补放，署理内务府总管事务郎中海章、董邦具奏请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "将宁寿宫太监等内，会同十二阿哥陈奏。",
+ "people": [
+  {
+   "name": "阿哈尼堪",
+   "role": "管理殖富事务、掌关防郎中"
+  },
+  {
+   "name": "赵三",
+   "role": "太监"
+  },
+  {
+   "name": "阿林",
+   "role": "孝陵掌关防郎中"
+  },
+  {
+   "name": "王国泰",
+   "role": "太监"
+  },
+  {
+   "name": "海章",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "董邦",
+   "role": "署理内务府总管事务郎中"
+  }
+ ],
+ "places": [
+  "宁寿宫",
+  "孝陵"
+ ],
+ "source_title": "内务府秦为补放太监折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 64301,
+ "page_range": "1499-1500"
+}

@@ -1,0 +1,42 @@
+{
+ "source_no": null,
+ "title_guess": "内务府议奏铜商偿还节省银两折",
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "钱粮财政",
+ "summary": "此为前件奏折的续篇片段，内务府核算六户铜商自康熙四十年至五十四年节省银及欠项，议定以水运租银、马价银等分二年偿清余欠，并请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：此案甚干净妥当，依议，将此议咨行户部。",
+ "people": [
+  {
+   "name": "海章",
+   "role": "署理内务府总管事务"
+  },
+  {
+   "name": "董典邦",
+   "role": "署理内务府总管事务"
+  },
+  {
+   "name": "张常住",
+   "role": "总裁牛录章京"
+  },
+  {
+   "name": "王刚明",
+   "role": "铜商"
+  },
+  {
+   "name": "张生臣",
+   "role": "铜商"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_title": "内务府议奏铜商偿还节省银两折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 59900,
+ "page_range": "1411-1412",
+ "_date_interpolated": true
+}

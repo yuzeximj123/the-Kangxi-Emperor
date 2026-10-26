@@ -1,0 +1,47 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 55,
+ "month": 4,
+ "day_text": null,
+ "event_role": "灾情收成",
+ "summary": "此为前件奏折残余片段，内容为赈济蒙古事宜：捕鱼散赈、收取菱角作粮、查明无牲畜蒙古分别给米或停给，并开明米数人口具奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批斥责拉都浑拘泥粮米、未想到鄂尔多斯土豆等可食物，令其若不能拯救众蒙古则锁解来京；并令将喇嘛富有不捐赈之事缮文寄给拉都浑。",
+ "people": [
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣兼理尚书事务公"
+  },
+  {
+   "name": "钟佛保",
+   "role": "员外郎"
+  },
+  {
+   "name": "图真",
+   "role": "主事"
+  },
+  {
+   "name": "苏海",
+   "role": "主事"
+  },
+  {
+   "name": "拉都浑",
+   "role": "侍郎"
+  },
+  {
+   "name": "喇锡尔",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "黄河",
+  "鄂尔多斯"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55100,
+ "page_range": "1315-1316",
+ "_date_interpolated": true
+}

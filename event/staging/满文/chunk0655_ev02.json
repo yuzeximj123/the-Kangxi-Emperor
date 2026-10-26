@@ -1,0 +1,28 @@
+{
+ "source_no": 3220,
+ "title_guess": "两江总督长鼐奏报雨水并粮价折",
+ "reign_year": 57,
+ "month": 7,
+ "day_text": "二十一日",
+ "event_role": "灾情收成",
+ "summary": "两江总督长鼐奏报江南自夏入秋雨水调匀、田禾甚好、丰收在望，江宁米价每石七至八钱。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。今年京城、口外粮食长势茂盛，以仓斗每石不过三钱，收获后难知如何下降。",
+ "people": [
+  {
+   "name": "长鼐",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁",
+  "京城",
+  "口外"
+ ],
+ "source_title": "两江总督长鼐奏报雨水并粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 65502,
+ "page_range": "1523-1524"
+}

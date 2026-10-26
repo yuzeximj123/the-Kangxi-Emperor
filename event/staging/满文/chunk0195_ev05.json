@@ -1,0 +1,61 @@
+{
+ "source_no": 800,
+ "title_guess": "筷社等奏报八阿哥病势折",
+ "reign_year": 44,
+ "month": 9,
+ "day_text": "二十一日",
+ "event_role": "宫廷事务",
+ "summary": "臣等会议八阿哥病重，拟于二十七日迁移其住所，以免惊动太后与皇父，并附太医诊治书。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "筷社",
+   "role": "臣"
+  },
+  {
+   "name": "关祺",
+   "role": "臣"
+  },
+  {
+   "name": "向祯",
+   "role": "臣"
+  },
+  {
+   "name": "优禄",
+   "role": "臣"
+  },
+  {
+   "name": "鄂伦贷",
+   "role": "臣"
+  },
+  {
+   "name": "观保",
+   "role": "臣"
+  },
+  {
+   "name": "八阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "刘声芳",
+   "role": "大夫"
+  },
+  {
+   "name": "李德聪",
+   "role": "大夫"
+  },
+  {
+   "name": "戴君选",
+   "role": "大夫"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_title": "筷社等奏报八阿哥病势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 19505,
+ "page_range": "603-604"
+}

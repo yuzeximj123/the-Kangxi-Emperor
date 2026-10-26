@@ -1,0 +1,35 @@
+{
+ "source_no": 832,
+ "title_guess": "陕西巡抚鄂海奏请赐派蚀刻御书碑文医人折",
+ "reign_year": 45,
+ "month": 1,
+ "day_text": "二十六日",
+ "event_role": "其他",
+ "summary": "鄂海奏请派善刻之人镌刻华阴庙新建广仁寺御书碑文，以垂久远。",
+ "has_zhupi": true,
+ "zhupi_summary": "善刻文字匠人梅王峰打发去了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "博都",
+   "role": "总督"
+  },
+  {
+   "name": "梅王峰",
+   "role": "刻字匠人"
+  }
+ ],
+ "places": [
+  "华阴庙",
+  "广仁寺",
+  "西安"
+ ],
+ "source_title": "陕西巡抚鄂海奏请赐派蚀刻御书碑文医人折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 20302,
+ "page_range": "619-620"
+}

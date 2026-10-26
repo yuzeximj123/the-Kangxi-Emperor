@@ -1,0 +1,38 @@
+{
+ "source_no": 1810,
+ "title_guess": "杭州织造孙文成奏报起事人致书将军祖良璧折",
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "康熙五十年十月十八日",
+ "event_role": "军务",
+ "summary": "孙文成奏报福建贼首陈武昌派人致书将军祖良璧，称不向总督、巡抚、提督投降，若给免死牌文即来降；祖良璧已派守备往漳州招降。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "陈武昌",
+   "role": "福建贼首"
+  },
+  {
+   "name": "祖良璧",
+   "role": "将军"
+  },
+  {
+   "name": "华守备",
+   "role": "左营守备"
+  }
+ ],
+ "places": [
+  "福建",
+  "漳州"
+ ],
+ "source_title": "杭州织造朱文成考报起事人致书将军祖良事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37504,
+ "page_range": "963-964"
+}

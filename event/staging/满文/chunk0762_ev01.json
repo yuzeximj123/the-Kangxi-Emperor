@@ -1,0 +1,58 @@
+{
+ "source_no": 3668,
+ "title_guess": "敕谕策妄喇布坦交还拉藏汗妻子及被掠人财事",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "康熙帝敕谕策妄喇布坦，历数其犯哈密、拒使臣、杀拉藏汗、毁寺杀僧等罪，令其速将拉藏妻子、被掠人财及寺庙供品由巴里坤路完整送来，否则大军进讨。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "厄鲁特台吉"
+  },
+  {
+   "name": "拉藏汗",
+   "role": "西藏汗王"
+  },
+  {
+   "name": "哲布尊丹巴呼图克图",
+   "role": "喇嘛"
+  },
+  {
+   "name": "喇路楚阳托音",
+   "role": "使者"
+  },
+  {
+   "name": "策凌敦多布",
+   "role": "准噶尔将领"
+  },
+  {
+   "name": "科西图",
+   "role": "使臣"
+  },
+  {
+   "name": "保柱",
+   "role": "使臣"
+  }
+ ],
+ "places": [
+  "哈密",
+  "噶斯",
+  "西招",
+  "巴里坤",
+  "阿尔泰"
+ ],
+ "source_title": "救论策妄喇布坦交还拉藏证妻子及被掠人财事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76201,
+ "page_range": "1737-1738",
+ "_date_interpolated": true
+}

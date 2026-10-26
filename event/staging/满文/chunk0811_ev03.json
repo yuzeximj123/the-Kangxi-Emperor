@@ -1,0 +1,46 @@
+{
+ "source_no": 4049,
+ "title_guess": "步军统领隆科多奏报拿获再逃犯折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本年三月、九月初五日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报两次自乌拉逃回之贼夺九儿，奉旨解送正法途中于盛京白旗堡扭断铁索再逃，复经番子拿获，供认行窃，请交刑部严审。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "夺九儿",
+   "role": "逃犯"
+  },
+  {
+   "name": "李诚",
+   "role": "中营守备"
+  },
+  {
+   "name": "刘得路",
+   "role": "番子"
+  },
+  {
+   "name": "郎文生",
+   "role": "正白旗佐领"
+  }
+ ],
+ "places": [
+  "乌拉",
+  "关采",
+  "宁古塔",
+  "盛京白旗堡",
+  "陈福村"
+ ],
+ "source_title": "步军统领隆科多奏报拿获再逃犯折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81103,
+ "page_range": "1835-1836",
+ "_date_interpolated": true
+}

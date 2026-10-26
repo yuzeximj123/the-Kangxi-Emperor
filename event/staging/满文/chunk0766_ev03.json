@@ -1,0 +1,46 @@
+{
+ "source_no": 3685,
+ "title_guess": "论二公主从速回府迎候病归之额有事",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "五月",
+ "event_role": "宫廷事务",
+ "summary": "传谕二额驸在军营染病瘫痪，著送回本府，命公主速回博洛和屯迎候，并遣公主之女等追赶同往。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "喇锡",
+   "role": "乾清门头等侍卫"
+  },
+  {
+   "name": "魏柱",
+   "role": "太监"
+  },
+  {
+   "name": "傅尔丹",
+   "role": "将军"
+  },
+  {
+   "name": "二额驸",
+   "role": "额驸"
+  },
+  {
+   "name": "伊尔古克齐",
+   "role": "额驸之弟"
+  },
+  {
+   "name": "二公主",
+   "role": "公主"
+  }
+ ],
+ "places": [
+  "博洛和屯"
+ ],
+ "source_title": "论二公主从速回府迎候病上归之额有事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76603,
+ "page_range": "1745-1746",
+ "_date_interpolated": true
+}

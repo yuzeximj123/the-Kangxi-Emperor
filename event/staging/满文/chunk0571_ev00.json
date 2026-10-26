@@ -1,0 +1,35 @@
+{
+ "source_no": 2877,
+ "title_guess": "理藩院奏报尚书阿灵阿因病返家请另派大臣折",
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "十五日",
+ "event_role": "人事任免",
+ "summary": "此为前件奏折末尾片段，提及郎中特古特、员外郎马展、主事巴尔赛，并有朱批命暂由色和针署理。",
+ "has_zhupi": true,
+ "zhupi_summary": "著暂由色和针署理。",
+ "people": [
+  {
+   "name": "特古特",
+   "role": "郎中"
+  },
+  {
+   "name": "马展",
+   "role": "员外郎"
+  },
+  {
+   "name": "巴尔赛",
+   "role": "主事"
+  },
+  {
+   "name": "色和针",
+   "role": "署理官员"
+  }
+ ],
+ "places": [],
+ "source_title": "理藩院故报尚书阿灵阿因病返家请另派大臣折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 57100,
+ "page_range": "1355-1356"
+}

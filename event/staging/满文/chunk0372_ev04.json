@@ -1,0 +1,36 @@
+{
+ "source_no": 1795,
+ "title_guess": "两江总督噶礼奏报教诚官员兵民并灭蝗等情折",
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "十七日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报到任后约束文武官员、安抚兵民，江南连年有收民安兵裕；今夏秋淮安凤阳二府生蝗，遣官不分昼夜扑灭未伤田禾，并派知府刘瀚督民翻犁灭种。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "邵称布",
+   "role": "前任总督"
+  },
+  {
+   "name": "刘瀚",
+   "role": "江宁府知府"
+  }
+ ],
+ "places": [
+  "江南",
+  "淮安",
+  "凤阳",
+  "江宁"
+ ],
+ "source_title": "两江总督噶礼奏报教诚官员兵民并灭蝗等情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37204,
+ "page_range": "957-958"
+}

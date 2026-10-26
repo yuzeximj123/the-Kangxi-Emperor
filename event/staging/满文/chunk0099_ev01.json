@@ -1,0 +1,45 @@
+{
+ "source_no": 396,
+ "title_guess": "两江总督阿山奏请作何了结盐商孔文泰案折",
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "十九日",
+ "event_role": "司法案件",
+ "summary": "两江总督阿山奏报设计诱捕盐枭孔文泰，正欲严审，河督张鹏翮咨称孔文泰系其暗中招降之人，请旨如何了结。",
+ "has_zhupi": true,
+ "zhupi_summary": "既然张鹏翮亦奏明此事，交于尔等，则已了结了。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "孔文泰",
+   "role": "盐枭"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河道总督"
+  },
+  {
+   "name": "施朝辅",
+   "role": "江常镇道"
+  },
+  {
+   "name": "宋荦",
+   "role": "江宁巡抚"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "苏州",
+  "京口",
+  "江淮"
+ ],
+ "source_title": "两江总督阿山奏请作何了结盐商孔文泰案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9901,
+ "page_range": "411-412"
+}

@@ -1,0 +1,35 @@
+{
+ "source_no": 764,
+ "title_guess": "筷社等奏报收粮阴雨情形并官员病势折",
+ "reign_year": 44,
+ "month": 7,
+ "day_text": "初七日",
+ "event_role": "灾情收成",
+ "summary": "筷社等奏报京城一带田禾长势胜于往年、丰收在即，并报陈生恒患搭背疮经西洋大夫诊治情形及十五日微雨。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。未寄僧图消息。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "陈生恒",
+   "role": "患病官员"
+  },
+  {
+   "name": "孙志定",
+   "role": "医者"
+  }
+ ],
+ "places": [
+  "京城",
+  "热河",
+  "喀喇河屯"
+ ],
+ "source_title": "上息社等奏报收粮阴雨情形并官员病势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 18904,
+ "page_range": "591-592"
+}

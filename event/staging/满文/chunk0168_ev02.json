@@ -1,0 +1,39 @@
+{
+ "source_no": 643,
+ "title_guess": "山西巡抚噶礼为由兵部缚送四人事启本",
+ "reign_year": 43,
+ "month": 8,
+ "day_text": "初八日",
+ "event_role": "司法案件",
+ "summary": "噶礼启报接弟噶尔绚传皇太子批语，将铎霍、张和等四人由兵部乘驿送至太原，已锁铁索并派官看守。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "噶尔绚",
+   "role": "副都统"
+  },
+  {
+   "name": "铎霍",
+   "role": "人犯"
+  },
+  {
+   "name": "张和",
+   "role": "人犯"
+  }
+ ],
+ "places": [
+  "太原",
+  "山西",
+  "平阳府"
+ ],
+ "source_title": "山西巡抚噶礼为由兵部缚送四人事启本",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16802,
+ "page_range": "549-550"
+}

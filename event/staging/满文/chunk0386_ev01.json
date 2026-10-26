@@ -1,0 +1,25 @@
+{
+ "source_no": 1873,
+ "title_guess": "福建巡抚满保奏报稻秧插完并粮价折",
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "二十六日",
+ "event_role": "灾情收成",
+ "summary": "满保奏报福建自二月以来插秧已完，雨水调匀，米价每石银九钱至一两二三钱不等，尚属平稳。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_title": "福建巡抚满保奏报稻秧播种完并粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 38601,
+ "page_range": "985-986"
+}

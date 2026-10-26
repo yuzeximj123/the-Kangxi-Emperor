@@ -1,0 +1,35 @@
+{
+ "source_no": 183,
+ "title_guess": "皇太子奏为迎接康熙帝回宫折",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十四日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子奏请皇父万安，闻康熙帝定于六月初十日内回宫，拟办妥迎接太后等事后先往迎驾，并奏增驿站马匹、备冰及酸水等物、以马四百匹迎候。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称朕等马原好不致延误，天热肥马可惜，停用马迎接。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李玉",
+   "role": "太监"
+  },
+  {
+   "name": "杜斯赫尔",
+   "role": "上驷院侍卫"
+  }
+ ],
+ "places": [],
+ "source_title": "皇太子奏为迎接康熙帝回宫折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4401,
+ "page_range": "301-302"
+}

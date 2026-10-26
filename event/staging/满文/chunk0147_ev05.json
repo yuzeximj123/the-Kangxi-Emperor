@@ -1,0 +1,27 @@
+{
+ "source_no": 545,
+ "title_guess": "山西巡抚噶礼奏报田禾收成分数及粮价折",
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "二十八日",
+ "event_role": "灾情收成",
+ "summary": "奏报山西夏麦丰收、秋禾收成分数及小米粮价，并报捐送四川甘肃军饷银两已起运。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安善。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西",
+  "四川",
+  "甘肃"
+ ],
+ "source_title": "山西巡抚噶礼奏报田末收成分数及粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 14705,
+ "page_range": "507-508"
+}

@@ -1,0 +1,44 @@
+{
+ "source_no": 1291,
+ "title_guess": "江南总督邵穆布奏请题补江安粮道员缺折",
+ "reign_year": 47,
+ "month": 5,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "江南总督邵穆布因江安粮道陆登龙病故，请以苏州府知府李玉棠升补粮道，并请以原任江宁府知府陈鹏年补苏州府知府。",
+ "has_zhupi": true,
+ "zhupi_summary": "李玉棠之事著具题奏来；阿山为何疏参陈鹏年？",
+ "people": [
+  {
+   "name": "邵穆布",
+   "role": "江南总督"
+  },
+  {
+   "name": "陆登龙",
+   "role": "江安粮道"
+  },
+  {
+   "name": "李玉棠",
+   "role": "苏州府知府"
+  },
+  {
+   "name": "陈鹏年",
+   "role": "原任江宁府知府"
+  },
+  {
+   "name": "阿山",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "江南",
+  "江安",
+  "苏州",
+  "江宁"
+ ],
+ "source_title": "江南总督邵穆布奏请题补江安粮道员仙折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 28705,
+ "page_range": "787-788"
+}

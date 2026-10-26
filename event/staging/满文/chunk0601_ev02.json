@@ -1,0 +1,29 @@
+{
+ "source_no": 3030,
+ "title_guess": "总管内务府参奏迟送莲籽有关人员折",
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "初七日",
+ "event_role": "宫廷事务",
+ "summary": "内务府奏报各处莲籽迟送品尝，将管官员人等交慎刑司查议请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝指出瀛台等各池莲籽过天均尚未送来。",
+ "people": [
+  {
+   "name": "海章",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "吴兴超",
+   "role": "清茶房大太监"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_title": "总管内务府参奏迟送鞍籽有关人员折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 60102,
+ "page_range": "1415-1416"
+}

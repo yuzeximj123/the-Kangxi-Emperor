@@ -1,0 +1,54 @@
+{
+ "source_no": 934,
+ "title_guess": "胤祉等请安并报接阅御批折",
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "二十三日",
+ "event_role": "请安谢恩",
+ "summary": "胤祉等恭请皇父万安，报接阅御批知皇上二十二日起行往张三营。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：朕体安。二十五日将行抵八公主第。",
+ "people": [
+  {
+   "name": "胤祉",
+   "role": "皇子"
+  },
+  {
+   "name": "骨祺",
+   "role": "皇子"
+  },
+  {
+   "name": "筷祺",
+   "role": "皇子"
+  },
+  {
+   "name": "岂祷",
+   "role": "皇子"
+  },
+  {
+   "name": "和礼",
+   "role": "皇子"
+  },
+  {
+   "name": "乱祷",
+   "role": "皇子"
+  },
+  {
+   "name": "筷被",
+   "role": "皇子"
+  },
+  {
+   "name": "般宰",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "张三营",
+  "八公主第"
+ ],
+ "source_title": "胤祉等请安并报接阅御批折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 22103,
+ "page_range": "655-656"
+}

@@ -1,0 +1,50 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十月二十七日",
+ "event_role": "边疆事务",
+ "summary": "据保柱奏称，亲王扎西巴图鲁屡报拉藏兵备完毕将西去，而商南多尔济因已奏拉藏等将赴京羞于再奏，阿南达多次争执要奏；第巴于十月二十七日、十一月初九日两次咨文商南多尔济，商南多尔济以非要紧书匿而未奏。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "保柱",
+   "role": "员外郎"
+  },
+  {
+   "name": "扎西巴图鲁",
+   "role": "青海亲王"
+  },
+  {
+   "name": "拉藏",
+   "role": "台吉"
+  },
+  {
+   "name": "商南多尔济",
+   "role": "喇嘛"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "第巴",
+   "role": "第巴"
+  },
+  {
+   "name": "罗卜藏达木巴",
+   "role": "第巴属下"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12713,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

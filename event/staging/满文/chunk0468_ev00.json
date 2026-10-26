@@ -1,0 +1,49 @@
+{
+ "source_no": 2376,
+ "title_guess": "理藩院奏请派员看土谢图汗所贮米谷霉变与否折",
+ "reign_year": 53,
+ "month": 3,
+ "day_text": "二十三日",
+ "event_role": "边疆事务",
+ "summary": "理藩院因土谢图汗旺扎尔多尔济呈称额尔德尼昭所贮米谷年久不知可用，请派章京前往会同查看，霉烂者另派员丈量可用米谷记数遮盖交付扎萨克贮藏。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "旺扎尔多尔济",
+   "role": "土谢图汗"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣兼理尚书事公"
+  },
+  {
+   "name": "诺木齐岱",
+   "role": "左侍郎"
+  },
+  {
+   "name": "拉都浑",
+   "role": "侍郎"
+  },
+  {
+   "name": "特古特",
+   "role": "郎中"
+  },
+  {
+   "name": "展柱",
+   "role": "员外郎"
+  },
+  {
+   "name": "图真",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "额尔德尼昭"
+ ],
+ "source_title": "理藩院奏请派员看土谢图证所贮米谷霉变与否折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 46800,
+ "page_range": "1149-1150"
+}

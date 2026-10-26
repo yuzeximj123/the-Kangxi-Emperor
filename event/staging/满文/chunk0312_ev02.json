@@ -1,0 +1,29 @@
+{
+ "source_no": 1436,
+ "title_guess": "向社等奏报京城得雨情形折",
+ "reign_year": 48,
+ "month": 6,
+ "day_text": "十二日",
+ "event_role": "灾情收成",
+ "summary": "向社等详细奏报本月初九至十二日京城得雨情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称已将所大涝情形写文交阿迪尔根携往，命详问；今河水俱退，各处分散住宿彼此不通，尚未得消息，获悉后再写去。",
+ "people": [
+  {
+   "name": "向社",
+   "role": "奏报者"
+  },
+  {
+   "name": "向祺",
+   "role": "奏报者"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "筷社等奏报京城得雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 31202,
+ "page_range": "837-838"
+}

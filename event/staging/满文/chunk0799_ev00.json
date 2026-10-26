@@ -1,0 +1,26 @@
+{
+ "source_no": 3960,
+ "title_guess": "步军统领隆科多奏报京城雨水及谷物长势折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "五月初三日",
+ "event_role": "灾情收成",
+ "summary": "隆科多奏报五月初三日酉时微雨、二更大雨、三更止，挖地湿一寸，畅春园雨略大，高粱二三尺、谷子一尺余、麦粒皆好。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_title": "步军统领隆科多奏报京城雨水及谷物长势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79900,
+ "page_range": "1811-1812",
+ "_date_interpolated": true
+}

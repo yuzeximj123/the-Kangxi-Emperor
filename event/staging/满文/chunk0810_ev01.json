@@ -1,0 +1,54 @@
+{
+ "source_no": 4044,
+ "title_guess": "步军统领隆科多奏报拿获强盗送交刑部折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本年七月二十九日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报拿获强盗崔四、王福、张二、赵七等，据供伙同多人多次持棍抢劫固安、东安等地民家，因辛二出首被获，现将人犯解部。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "崔四",
+   "role": "强盗"
+  },
+  {
+   "name": "王福",
+   "role": "强盗"
+  },
+  {
+   "name": "张二",
+   "role": "强盗"
+  },
+  {
+   "name": "赵七",
+   "role": "强盗"
+  },
+  {
+   "name": "辛二",
+   "role": "出首者"
+  },
+  {
+   "name": "佟文玉",
+   "role": "北营守备"
+  }
+ ],
+ "places": [
+  "固安县",
+  "东安县",
+  "周家府村",
+  "刘杜村",
+  "陈村"
+ ],
+ "source_title": "步军统领隆科多奏报拿获强盗送交刑部折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81001,
+ "page_range": "1833-1834",
+ "_date_interpolated": true
+}

@@ -1,0 +1,27 @@
+{
+ "source_no": 150,
+ "title_guess": "两江总督范承勋奏报江南地方秋收情形折",
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "十三日",
+ "event_role": "灾情收成",
+ "summary": "范承勋奏报江南早稻收成九至十分、晚稻七八分、补种稻六分，总计八分以上，民人欢悦。",
+ "has_zhupi": true,
+ "zhupi_summary": "本年五六月闻江南粮讯曾为之愁，今奏闻收成，知道了。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "吴江",
+  "常熟"
+ ],
+ "source_title": "两江总督范承动奏报江南地方秋收情形拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3302,
+ "page_range": "279-280"
+}

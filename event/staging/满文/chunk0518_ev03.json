@@ -1,0 +1,34 @@
+{
+ "source_no": 2643,
+ "title_guess": "行在兵部尚书孙澄源奏请本部官员不敷折",
+ "reign_year": 54,
+ "month": 7,
+ "day_text": "十九日",
+ "event_role": "人事任免",
+ "summary": "奏称兵部官员因出差、军务、患病等仅剩少数，请将随围员外郎苏贺、富贵暂留驱使，入京后仍遣回原属地方。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。",
+ "people": [
+  {
+   "name": "孙澄源",
+   "role": "行在兵部尚书"
+  },
+  {
+   "name": "苏贺",
+   "role": "员外郎"
+  },
+  {
+   "name": "富贵",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "木兰",
+  "热河"
+ ],
+ "source_title": "行在兵部尚书孙澄源奏请本痢官员不数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 51803,
+ "page_range": "1249-1250"
+}

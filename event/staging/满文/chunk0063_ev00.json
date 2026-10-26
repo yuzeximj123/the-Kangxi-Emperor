@@ -1,0 +1,44 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 12,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "片段：列举龙所、董大诚、王华兴、穆廉、严光孝等所奏事及理藩院查奏二折，拟一并说奏。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "龙所",
+   "role": "奏事者"
+  },
+  {
+   "name": "董大诚",
+   "role": "陕西凉州总兵官"
+  },
+  {
+   "name": "王华兴",
+   "role": "陕西宁夏总兵"
+  },
+  {
+   "name": "穆廉",
+   "role": "给事中"
+  },
+  {
+   "name": "严光孝",
+   "role": "浙江等处学正"
+  }
+ ],
+ "places": [
+  "陕西凉州",
+  "陕西宁夏",
+  "浙江"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6300,
+ "page_range": "339-340",
+ "_date_interpolated": true
+}

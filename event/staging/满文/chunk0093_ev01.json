@@ -1,0 +1,43 @@
+{
+ "source_no": 360,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "十六日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子，报十五日夜接马思喀奏称噶尔丹于特勒尔吉遇费扬古兵战败，本迪供称噶尔丹兵不足五千、马瘦、众心离散，命奏闻皇太后并给宫内及诸臣看。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马思喀",
+   "role": "将军"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "本迪",
+   "role": "鄂尔坤人"
+  }
+ ],
+ "places": [
+  "巴头乌兰",
+  "特勒尔吉",
+  "鄂尔坤"
+ ],
+ "source_title": "康熙帝朱谕",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9301,
+ "page_range": "399-400"
+}

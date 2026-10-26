@@ -1,0 +1,41 @@
+{
+ "source_no": 4081,
+ "title_guess": "步军统领托和齐奏报承办部院事务者劣迹折",
+ "reign_year": 3,
+ "month": 4,
+ "day_text": "十三日",
+ "event_role": "弹劾参奏",
+ "summary": "托和齐奏报大理寺寺正刘子范即刘奇珍承办捐纳事务致富、闻南巡即告假赴苏州绍兴，以及公门杜治罪后仍勒索下属等劣迹。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "刘子范",
+   "role": "大理寺寺正，又名刘奇珍"
+  },
+  {
+   "name": "辛保",
+   "role": "仓场侍郎"
+  },
+  {
+   "name": "门杜",
+   "role": "镶蓝旗公"
+  },
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "西安",
+  "苏州",
+  "绍兴",
+  "山东"
+ ],
+ "source_title": "步军统领托和齐奏报承办部院事务者劣迹折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82004,
+ "page_range": "1853-1854",
+ "_date_interpolated": true
+}

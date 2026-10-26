@@ -1,0 +1,38 @@
+{
+ "source_no": 4270,
+ "title_guess": "奏报参将员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报参将员缺三名：陕西甘州城守营、四川维茂营、陕西固原城守营，并分别朱批补放郭成功、赵廉、为英。",
+ "has_zhupi": true,
+ "zhupi_summary": "著以郭成功补放甘州城守营参将，赵廉补放维茂营参将，为英补放固原城守营参将。",
+ "people": [
+  {
+   "name": "郭成功",
+   "role": "补放参将"
+  },
+  {
+   "name": "赵廉",
+   "role": "补放参将"
+  },
+  {
+   "name": "为英",
+   "role": "补放参将"
+  }
+ ],
+ "places": [
+  "陕西",
+  "甘州城守营",
+  "四川",
+  "维茂营",
+  "固原城守营"
+ ],
+ "source_title": "(佚名)奏报参将员仍折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85801,
+ "page_range": "1929-1930",
+ "_date_interpolated": true
+}

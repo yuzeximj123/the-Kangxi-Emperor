@@ -1,0 +1,26 @@
+{
+ "source_no": 3917,
+ "title_guess": "步军统领隆科多奏请万安折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "隆科多跪请皇上万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安。近来大热，京城人畜是否受伤，著查后奏来。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79302,
+ "page_range": "1799-1800",
+ "_date_interpolated": true
+}

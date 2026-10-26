@@ -1,0 +1,46 @@
+{
+ "source_no": 3112,
+ "title_guess": "兵部尚书逊柱等奏报赴西安等处军启程日期折",
+ "reign_year": 56,
+ "month": 9,
+ "day_text": "二十七日",
+ "event_role": "军务",
+ "summary": "兵部尚书逊柱等奏报，经钦天监择定，前往西安之军于十月二十四日启程，前往巴里坤之军于本月二十九日启程。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：好。",
+ "people": [
+  {
+   "name": "逊柱",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "党阿赖",
+   "role": "左侍郎"
+  },
+  {
+   "name": "窝赫",
+   "role": "郎中"
+  },
+  {
+   "name": "纳齐喀",
+   "role": "郎中"
+  },
+  {
+   "name": "阿金泰",
+   "role": "员外郎"
+  },
+  {
+   "name": "党和托",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "西安",
+  "巴里坤"
+ ],
+ "source_title": "兵部尚书避柱等奏报赴西安等处军往程日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 62600,
+ "page_range": "1465-1466"
+}

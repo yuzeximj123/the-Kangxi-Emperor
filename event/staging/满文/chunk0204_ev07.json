@@ -1,0 +1,32 @@
+{
+ "source_no": 844,
+ "title_guess": "山西巡抚噶礼奏报雨雪情形折",
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "二十一日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报平阳、潞安、汾州、泽州、辽州、忻州等地二月初八、九日得雪六七寸至一尺，太原府十九日得雨二寸余，已派人赴大同查看。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "平阳府",
+  "潞安府",
+  "汾州府",
+  "泽州",
+  "辽州",
+  "忻州",
+  "太原府",
+  "大同府"
+ ],
+ "source_title": "山西巡抚踢礼奏报雨雪情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 20407,
+ "page_range": "621-622"
+}

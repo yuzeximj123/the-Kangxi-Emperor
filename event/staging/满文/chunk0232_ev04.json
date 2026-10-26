@@ -1,0 +1,45 @@
+{
+ "source_no": 1000,
+ "title_guess": "筷社等奏报蒙古台吉等来朝请安贡物折",
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "十二日",
+ "event_role": "外藩朝贡",
+ "summary": "筷社等奏报五台山扎萨克达喇嘛丹增噶隆及厄鲁特车凌旺布等来朝请安贡马、狐皮、镜、狗等物，经查验分别收纳或却回。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。于保寿之事，给王母福晋内库银二千两，著五阿哥送去。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "丹增噶隆",
+   "role": "五台山扎萨克达喇嘛"
+  },
+  {
+   "name": "车凌旺布",
+   "role": "厄鲁特多罗和郡王"
+  },
+  {
+   "name": "色布腾诺木布",
+   "role": "台吉"
+  },
+  {
+   "name": "毛海",
+   "role": "厄鲁特辅国公"
+  },
+  {
+   "name": "噶隆",
+   "role": "诺颜"
+  }
+ ],
+ "places": [
+  "五台山"
+ ],
+ "source_title": "筷社等礁报蒙古台吉等来朝请安贡物折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23204,
+ "page_range": "677-678"
+}

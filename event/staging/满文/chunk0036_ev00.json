@@ -1,0 +1,31 @@
+{
+ "source_no": 157,
+ "title_guess": "皇太子筷初奏报捧接太后元旨并追捕前任总兵官折",
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "二十一日",
+ "event_role": "军务",
+ "summary": "皇太子奏报行军途中遇雨雪无妨，青草足供牲畜，并请皇太后万安，询问皇太子及索伦图克图戎到京情况。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "奏报人"
+  },
+  {
+   "name": "皇太后",
+   "role": "请安对象"
+  },
+  {
+   "name": "索伦图克图戎",
+   "role": "提及人物"
+  }
+ ],
+ "places": [],
+ "source_title": "皇太子筷初奏报捧接太后元旨并追捕前任总兵官折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3600,
+ "page_range": "285-286"
+}

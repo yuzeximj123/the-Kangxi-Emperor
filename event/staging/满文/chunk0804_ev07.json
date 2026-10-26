@@ -1,0 +1,30 @@
+{
+ "source_no": 4010,
+ "title_guess": "步军统领隆科多奏请疯见折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "隆科多奏称五月往鞠吨恩时蒙恩赏赐，曾请入木兰瞻仰圣颜奉旨临近再奏，今京城太平，请将印交避长滚泰署理，乘便前往瞻仰。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称尔之职守要紧，不必来。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "避长滚泰",
+   "role": "署理印务官员"
+  }
+ ],
+ "places": [
+  "木兰"
+ ],
+ "source_title": "步军统领隆科多奏请疯见折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80407,
+ "page_range": "1821-1822",
+ "_date_interpolated": true
+}

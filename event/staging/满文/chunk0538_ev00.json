@@ -1,0 +1,40 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "此为前件奏折残余片段，记将军大臣所统兵丁交付祁里德、塔布琳额骅格勒尔、白济、齐格等料理，并议另给将军印，又奉旨派都统称赛驰驿前往统领兵丁，进兵时另派大将军给印。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：是。",
+ "people": [
+  {
+   "name": "祁里德",
+   "role": "闲散大臣"
+  },
+  {
+   "name": "塔布琳额骅格勒尔",
+   "role": "喀喇沁"
+  },
+  {
+   "name": "白济",
+   "role": "黑龙江天都统"
+  },
+  {
+   "name": "齐格",
+   "role": "右卫副都统"
+  },
+  {
+   "name": "称赛",
+   "role": "都统"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 53800,
+ "page_range": "1289-1290",
+ "_date_interpolated": true
+}

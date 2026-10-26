@@ -1,0 +1,42 @@
+{
+ "source_no": 343,
+ "title_guess": "皇太子奏报日食分数等情折",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十九日",
+ "event_role": "宫廷事务",
+ "summary": "皇太子奏报接奉上谕、转交议政大臣阅视军务马驼等事，陈述日食观测与闵明鄂所言，并报宁尔江密奏及德尔格尔自哲布尊丹巴处回京情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批指出只言布里图、合图而未言明何旗驻牧之地，蒙古此类地名甚多。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "闵明鄂",
+   "role": "西洋人"
+  },
+  {
+   "name": "宁尔江",
+   "role": "监察御史"
+  },
+  {
+   "name": "德尔格尔",
+   "role": "员外郎"
+  },
+  {
+   "name": "哲布尊丹巴呼图克图",
+   "role": "呼图克图"
+  }
+ ],
+ "places": [
+  "布里图",
+  "合图"
+ ],
+ "source_title": "和皇太子奏报日食分数等情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8802,
+ "page_range": "389-390"
+}

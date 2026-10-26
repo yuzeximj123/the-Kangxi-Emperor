@@ -1,0 +1,39 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "记述青海亲王扎西巴图鲁等派三济达木巴商议欲遣拉藏、色布特扎尔往西地劝请班禅，作者以拉藏多疑无定劝阻，主张不如派往觐见皇上。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "扎西巴图鲁",
+   "role": "青海亲王"
+  },
+  {
+   "name": "三济达木巴",
+   "role": "使者"
+  },
+  {
+   "name": "拉藏",
+   "role": "台吉"
+  },
+  {
+   "name": "色布特扎尔",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "青海",
+  "西地"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12702,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

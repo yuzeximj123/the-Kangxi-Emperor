@@ -1,0 +1,34 @@
+{
+ "source_no": 482,
+ "title_guess": "两江总督阿山请安折",
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "初四日",
+ "event_role": "请安谢恩",
+ "summary": "两江总督阿山跪请圣安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批朕安，并长篇训谕君臣以大公无私为本，追述南巡降旨不许私派，驳斥阿山关于南巡颇费、张四教、曹寅取银等说法，称曹寅之事可惜至极断不宽恕。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "张四教",
+   "role": "官员"
+  },
+  {
+   "name": "曹寅",
+   "role": "织造官"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_title": "两江总督阿山请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 13403,
+ "page_range": "481-482"
+}

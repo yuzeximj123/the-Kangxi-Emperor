@@ -1,0 +1,31 @@
+{
+ "source_no": 4237,
+ "title_guess": "(佚名)奏报游击都司佥书员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报湖广南陵总兵标下右翼营游击员缺、浙江金华副将右翼营都司佥书员缺，朱批分别以吕角、黄廷先补放。",
+ "has_zhupi": true,
+ "zhupi_summary": "著以吕角补放游击，著以黄廷先补放都司佥书",
+ "people": [
+  {
+   "name": "吕角",
+   "role": "游击补放人选"
+  },
+  {
+   "name": "黄廷先",
+   "role": "都司佥书补放人选"
+  }
+ ],
+ "places": [
+  "湖广南陵",
+  "浙江金华"
+ ],
+ "source_title": "(佚名)奏报游击都司爹书员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85401,
+ "page_range": "1921-1922",
+ "_date_interpolated": true
+}

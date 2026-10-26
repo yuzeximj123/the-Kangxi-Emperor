@@ -1,0 +1,51 @@
+{
+ "source_no": 3825,
+ "title_guess": "肯社等奏报科尔沁公主遣员请安进物折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "二十九日",
+ "event_role": "外藩朝贡",
+ "summary": "肯社等奏报科尔沁和硕端静公主遣二等侍卫巴朗进请安折及万寿节礼物扇套，并奏吴林德依探母、贡马及海子硫长等马匹事。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了；并质问吴林德依既以母丧前去，何以仍称看望，著严查奏来。",
+ "people": [
+  {
+   "name": "肯社",
+   "role": "臣"
+  },
+  {
+   "name": "伊罗勒图",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "巴朗",
+   "role": "科尔沁二等侍卫"
+  },
+  {
+   "name": "吴林德依",
+   "role": "正白旗蓝翎"
+  },
+  {
+   "name": "德宁",
+   "role": "上驷院卿"
+  },
+  {
+   "name": "罗尔波提",
+   "role": "披甲"
+  },
+  {
+   "name": "菜色勒库",
+   "role": "披甲"
+  }
+ ],
+ "places": [
+  "科尔沁",
+  "海子"
+ ],
+ "source_title": "和候社等奏报科尔沁公主遗员请安进物折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78202,
+ "page_range": "1777-1778",
+ "_date_interpolated": true
+}

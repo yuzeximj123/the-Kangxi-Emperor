@@ -1,0 +1,24 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "此为前件奏折的残余片段，提及参劾官员赵琦一事，康熙朱批认为其情可恶、事关人命，故未在折内全批，拟派大臣与奏报者会审治罪，并令其间仍当严防。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称体安，认为赵琦情甚可恶，因事关人命未在折内全批，已与大臣商议派员会审治罪，令其间仍严防。",
+ "people": [
+  {
+   "name": "赵琦",
+   "role": "被参官员"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79200,
+ "page_range": "1797-1798",
+ "_date_interpolated": true
+}

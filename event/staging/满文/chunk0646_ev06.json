@@ -1,0 +1,42 @@
+{
+ "source_no": 3195,
+ "title_guess": "步军统领隆科多等奏为审理索诺木盗秸一案折",
+ "reign_year": 57,
+ "month": 5,
+ "day_text": "初八日",
+ "event_role": "司法案件",
+ "summary": "步军统领隆科多等奏报拿获翻墙盗秸之镶蓝蒙古旗另户马甲索诺木，会同都统永吉纳等复审供认，请依例割其一根懒筋处罚。",
+ "has_zhupi": true,
+ "zhupi_summary": "依奏",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "索诺木",
+   "role": "镶蓝蒙古旗另户马甲、盗秸案犯"
+  },
+  {
+   "name": "永吉纳",
+   "role": "都统"
+  },
+  {
+   "name": "拉色",
+   "role": "副都统"
+  },
+  {
+   "name": "李宏智",
+   "role": "番子"
+  }
+ ],
+ "places": [
+  "西便门内校场",
+  "河南"
+ ],
+ "source_title": "步军统领隆科多等秦为审理索诺木盗逢一案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 64606,
+ "page_range": "1505-1506"
+}

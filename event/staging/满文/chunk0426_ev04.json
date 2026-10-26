@@ -1,0 +1,31 @@
+{
+ "source_no": 2121,
+ "title_guess": "福建巡抚满保奏请出粜台湾仓粮折",
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "二十四日",
+ "event_role": "钱粮财政",
+ "summary": "满保奏请将台湾所贮陈粮除留二十万石备三年军粮外，其余四十余万石出粜，准福州等府商人携银赴台购买，以平粜接济民食。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "台湾",
+  "厦门",
+  "福州",
+  "兴化",
+  "漳州",
+  "泉州",
+  "江西"
+ ],
+ "source_title": "福建巡抚满保奏请出呆台湾仓粮折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42604,
+ "page_range": "1065-1066"
+}

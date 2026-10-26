@@ -1,0 +1,37 @@
+{
+ "source_no": 747,
+ "title_guess": "息社等奏报直隶蝗虫情形折",
+ "reign_year": 44,
+ "month": 6,
+ "day_text": "十五日",
+ "event_role": "灾情收成",
+ "summary": "息社等遵旨奏报京城、畅春园一带蝗虫飞过未落，天津以东及香河、宝坻一带有蝗从东南沿海飞来，并报近日无阴雨及保寿病情好转。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "奏报官员"
+  },
+  {
+   "name": "筷礼",
+   "role": "奏报官员"
+  },
+  {
+   "name": "保寿",
+   "role": "病人"
+  }
+ ],
+ "places": [
+  "京城",
+  "畅春园",
+  "天津",
+  "香河",
+  "宝坻"
+ ],
+ "source_title": "息社等奏报直隶蝗虫情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 18701,
+ "page_range": "587-588"
+}

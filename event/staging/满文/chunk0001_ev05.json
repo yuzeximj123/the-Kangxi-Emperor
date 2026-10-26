@@ -1,0 +1,47 @@
+{
+ "source_no": 9,
+ "title_guess": "康熙帝墨笔上谕",
+ "reign_year": 18,
+ "month": 1,
+ "day_text": "初五日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕盛京将军安珠瑚，转述宁古塔吉林将军巴海来文称迁往盛京之人不准充军、获罪照宁古塔例折狱五年、迁移之人加级恩赏，并授布克陶为副都统补鄂泰员缺。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "安珠瑚",
+   "role": "盛京将军"
+  },
+  {
+   "name": "巴海",
+   "role": "宁古塔吉林将军"
+  },
+  {
+   "name": "舍卫费优色",
+   "role": "官员"
+  },
+  {
+   "name": "杜依沁",
+   "role": "官员"
+  },
+  {
+   "name": "布克陶",
+   "role": "副都统"
+  },
+  {
+   "name": "鄂泰",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "盛京",
+  "宁古塔",
+  "吉林"
+ ],
+ "source_title": "康熙帝墨笔上谕",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 105,
+ "page_range": "215-216"
+}

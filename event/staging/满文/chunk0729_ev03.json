@@ -1,0 +1,30 @@
+{
+ "source_no": 3523,
+ "title_guess": "抚远大将军筷祯转奏总兵官请赏孔翎折",
+ "reign_year": 59,
+ "month": 7,
+ "day_text": "初十日",
+ "event_role": "军务",
+ "summary": "川北总兵官王云吉以进藏征战为荣，恳请赏戴孔雀翎，筷祯代其转奏请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "赏孔翎。",
+ "people": [
+  {
+   "name": "筷祯",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "王云吉",
+   "role": "川北总兵官"
+  }
+ ],
+ "places": [
+  "川北",
+  "西藏"
+ ],
+ "source_title": "抚远大将军候祯转秦总兵官请党孔淮钥折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 72903,
+ "page_range": "1671-1672"
+}

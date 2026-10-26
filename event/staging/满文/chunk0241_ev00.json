@@ -1,0 +1,30 @@
+{
+ "source_no": 1046,
+ "title_guess": "川陕总督博都奏请赴京瞻仰天颜折",
+ "reign_year": 46,
+ "month": 1,
+ "day_text": "初八日",
+ "event_role": "请安谢恩",
+ "summary": "川陕总督博都奏报接奉御批令其来年入见候旨，因巡抚鄂海外出办案、省城无人，暂未起程，待鄂海返回交印后拟轻骑赴京瞻仰天颜。",
+ "has_zhupi": true,
+ "zhupi_summary": "著从八月始奏请，现暂停止。",
+ "people": [
+  {
+   "name": "博都",
+   "role": "川陕总督"
+  },
+  {
+   "name": "鄂海",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "西安",
+  "兴安"
+ ],
+ "source_title": "川陕总督博都奏请赴京隐伸天颜折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 24100,
+ "page_range": "695-696"
+}

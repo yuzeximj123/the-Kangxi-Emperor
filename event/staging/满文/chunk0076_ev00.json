@@ -1,0 +1,49 @@
+{
+ "source_no": 300,
+ "title_guess": "博罗特寨桑和硕齐口供",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十一日",
+ "event_role": "边疆事务",
+ "summary": "博罗特寨桑和硕齐供述受噶尔丹命率兵顺克鲁伦河而下，遇清使道禅等持敕书前来，惊骇休战释还阿必达，后败于图拉，不知道禅去向。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "博罗特寨桑和硕齐",
+   "role": "被讯问之厄鲁特寨桑"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "道禅",
+   "role": "康熙帝使臣"
+  },
+  {
+   "name": "阿必达",
+   "role": "使臣"
+  },
+  {
+   "name": "乌尔占扎布",
+   "role": "厄鲁特人"
+  },
+  {
+   "name": "色楞",
+   "role": "乌尔占扎布之弟"
+  }
+ ],
+ "places": [
+  "克鲁伦",
+  "吉尔班图尔罕",
+  "库库车尔",
+  "图拉",
+  "乌兰布通"
+ ],
+ "source_title": "博罗特寨桑和硕齐口供",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 7600,
+ "page_range": "365-366"
+}

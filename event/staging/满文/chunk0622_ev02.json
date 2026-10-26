@@ -1,0 +1,48 @@
+{
+ "source_no": null,
+ "title_guess": "审问莫罗、穆里库、张二口供",
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "续审莫罗、穆里库、张二等，供认雇玉柱儿、李苍子盗卖猪羊鹿肉并分银，莫罗给银十七两及一两、钱一千七百，穆里库共得银十五两，张车炮收购赃肉出售。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "莫罗",
+   "role": "记掌"
+  },
+  {
+   "name": "穆里库",
+   "role": "记掌"
+  },
+  {
+   "name": "张二",
+   "role": "商人绰号张车炮"
+  },
+  {
+   "name": "玉柱儿",
+   "role": "闲散"
+  },
+  {
+   "name": "李苍子",
+   "role": "大兴县民"
+  },
+  {
+   "name": "匡头子",
+   "role": "随来民人"
+  },
+  {
+   "name": "守成",
+   "role": "随来民人"
+  }
+ ],
+ "places": [],
+ "source_title": "审问莫罗、穆里库、张二口供",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 62202,
+ "page_range": "1457-1458",
+ "_date_interpolated": true
+}

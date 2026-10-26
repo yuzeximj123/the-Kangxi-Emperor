@@ -1,0 +1,59 @@
+{
+ "source_no": 137,
+ "title_guess": "川陕总督佛伦请安折",
+ "reign_year": 33,
+ "month": 6,
+ "day_text": "二十九日",
+ "event_role": "请安谢恩",
+ "summary": "佛伦奏请万岁安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝告以身体安好、将于七月二十四日幸木兰围场，询问佛伦近况，并提及大学士伊桑阿议佛伦召入内阁事及徐乾学、郭琇参劾等情，又闻傅拉塔去世后徐乾学连饮三日庆贺。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "前大学士"
+  },
+  {
+   "name": "科尔坤",
+   "role": "官员"
+  },
+  {
+   "name": "徐乾学",
+   "role": "官员"
+  },
+  {
+   "name": "郭琇",
+   "role": "官员"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "傅拉塔",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "木兰围场",
+  "山东",
+  "江南"
+ ],
+ "source_title": "川陕总督佛伦请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3003,
+ "page_range": "273-274"
+}

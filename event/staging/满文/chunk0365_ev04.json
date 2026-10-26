@@ -1,0 +1,29 @@
+{
+ "source_no": 1754,
+ "title_guess": "息社等奏报京城阴雨情形折",
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "初十日",
+ "event_role": "灾情收成",
+ "summary": "息社等奏报本月初八日酉时天阴、夜四更降雨至五鼓止，初九日辰时天晴，初十日巳时阵雨一阵而止。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。此处雨大。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "舍祯",
+   "role": "奏事臣"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "筷社等奏报训城阴雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 36504,
+ "page_range": "943-944"
+}

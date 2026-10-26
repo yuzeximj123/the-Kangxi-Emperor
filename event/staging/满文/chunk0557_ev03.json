@@ -1,0 +1,38 @@
+{
+ "source_no": 2813,
+ "title_guess": "都统山丹等奏闻领旗官兵俸禄米石等情形折",
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "二十六日",
+ "event_role": "钱粮财政",
+ "summary": "都统山丹等奏报本旗官兵八月应领俸禄钱粮米石已从京城仓领完，通州仓尚余稻米二百八十八石三斗未领，待部通告后补领。",
+ "has_zhupi": true,
+ "zhupi_summary": "稻米如何给发之处，户部明奏。",
+ "people": [
+  {
+   "name": "山丹",
+   "role": "蒙古旗都统"
+  },
+  {
+   "name": "刁宝",
+   "role": "副都统"
+  },
+  {
+   "name": "巴图",
+   "role": "前锋护军校参领"
+  },
+  {
+   "name": "华色",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "京城",
+  "通州"
+ ],
+ "source_title": "都统山髓等奏闻领旗官兵俸禄米石等情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55703,
+ "page_range": "1327-1328"
+}

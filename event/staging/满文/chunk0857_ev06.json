@@ -1,0 +1,41 @@
+{
+ "source_no": 4268,
+ "title_guess": "奏报参将游击都司金书员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "开列浙江镇海营参将、直隶龙泉关游击、直隶九州营及龙门路都司金书员缺，朱批补放牛洪杰、严光武、回延祖、侥富。",
+ "has_zhupi": true,
+ "zhupi_summary": "著以牛洪杰补放镇海营参将、严光武补放龙泉关游击、回延祖补放九州营都司金书、侥富补放龙门路都司金书。",
+ "people": [
+  {
+   "name": "牛洪杰",
+   "role": "补放浙江镇海营参将"
+  },
+  {
+   "name": "严光武",
+   "role": "补放直隶龙泉关游击"
+  },
+  {
+   "name": "回延祖",
+   "role": "补放直隶九州营都司金书"
+  },
+  {
+   "name": "侥富",
+   "role": "补放直隶龙门路都司金书"
+  }
+ ],
+ "places": [
+  "浙江镇海营",
+  "直隶龙泉关",
+  "直隶九州营",
+  "直隶龙门路"
+ ],
+ "source_title": "(佚名)奏报参将游击都司爹书员癸折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85706,
+ "page_range": "1927-1928",
+ "_date_interpolated": true
+}

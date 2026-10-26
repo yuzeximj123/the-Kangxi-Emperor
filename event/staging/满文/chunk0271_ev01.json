@@ -1,0 +1,31 @@
+{
+ "source_no": 1205,
+ "title_guess": "川陕总督博霁奏报陕西秋粮收成分数折",
+ "reign_year": 46,
+ "month": 9,
+ "day_text": "十六日",
+ "event_role": "灾情收成",
+ "summary": "博霁奏报陕西西安等四府一州秋禾收割、收成七至十分不等，黄豆扁麦亦七八分，沿途麦已播种，来年夏粮可期丰收，甘肃秋粮亦好。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "博霁",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安",
+  "延安",
+  "凤翔",
+  "汉中",
+  "兴安",
+  "甘肃"
+ ],
+ "source_title": "川陕总督博雾辩报陕西秋粮收成分数",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 27101,
+ "page_range": "755-756"
+}

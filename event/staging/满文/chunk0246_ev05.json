@@ -1,0 +1,29 @@
+{
+ "source_no": 1076,
+ "title_guess": "息社等奏报京城降雨情形折",
+ "reign_year": 46,
+ "month": 3,
+ "day_text": "十四上日",
+ "event_role": "灾情收成",
+ "summary": "奏报京城十六日酉时天阴、十七日晨起微雨渐大至未时仍雨之情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "息社",
+   "role": "具奏臣"
+  },
+  {
+   "name": "凑祯",
+   "role": "具奏臣"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "仙社等奏报赢城降雨情形折忆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 24605,
+ "page_range": "705-706"
+}

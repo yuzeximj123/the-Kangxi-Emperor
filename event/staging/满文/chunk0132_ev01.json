@@ -1,0 +1,31 @@
+{
+ "source_no": 470,
+ "title_guess": "两江总督阿山请安折",
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "十七日",
+ "event_role": "请安谢恩",
+ "summary": "江南江西总督阿山向康熙帝请安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：朕安。并谕安徽布政使常名扬庸弱不谙典籍、年老不堪用，应令其以年老呈书免职。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "常名扬",
+   "role": "安徽布政使"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "安徽"
+ ],
+ "source_title": "两江总督阿山请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 13201,
+ "page_range": "477-478"
+}

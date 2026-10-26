@@ -1,0 +1,55 @@
+{
+ "source_no": 4018,
+ "title_guess": "步军统领隆科多奏报拿获在逃犯折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "隆科多奏报审讯杨世俊、任定元、李三、徐昆等，查明杨世俊系重犯往返热河并收留采矿人，将其及房内之人解送刑部严审。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。擒得好。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "杨世俊",
+   "role": "太监/重犯"
+  },
+  {
+   "name": "任定元",
+   "role": "采矿人"
+  },
+  {
+   "name": "李三",
+   "role": "家人"
+  },
+  {
+   "name": "徐昆",
+   "role": "采矿同伙"
+  },
+  {
+   "name": "偏图",
+   "role": "任定元之子"
+  },
+  {
+   "name": "胡布纳",
+   "role": "协领"
+  }
+ ],
+ "places": [
+  "热河",
+  "盛京",
+  "宁远守峪沟",
+  "京城",
+  "仓州",
+  "汤泉"
+ ],
+ "source_title": "步军统领隆科多奏报拿获在逃犯折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80600,
+ "page_range": "1825-1826",
+ "_date_interpolated": true
+}

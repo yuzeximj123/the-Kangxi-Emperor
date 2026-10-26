@@ -1,0 +1,31 @@
+{
+ "source_no": 855,
+ "title_guess": "川陕总督博霁奏报雨水情形折",
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "初三日",
+ "event_role": "灾情收成",
+ "summary": "博霁奏报闻京城雨水不调皇上为民焦劳，陕西自二月下雪后雨水稍迟，三月十五、二十四及四月初一初二得雨，西安近处沾足麦子秀实，甘肃亦得雨，夏麦可望有收。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "博霁",
+   "role": "川陕总督"
+  },
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "甘肃",
+  "西安"
+ ],
+ "source_title": "刚陕总督博都奏报雨水情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 20603,
+ "page_range": "625-626"
+}

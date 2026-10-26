@@ -1,0 +1,45 @@
+{
+ "source_no": 2166,
+ "title_guess": "两江总督赫寿奏荐参将员缺官员折",
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "二十七日",
+ "event_role": "人事任免",
+ "summary": "赫寿奏江宁城守营副将段绍告病员缺，荐原徐州营副将陈天培补放，称其人地相合，请旨引见。",
+ "has_zhupi": true,
+ "zhupi_summary": "缮本具奏。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "段绍",
+   "role": "江宁城守营副将"
+  },
+  {
+   "name": "陈天培",
+   "role": "原徐州营副将"
+  },
+  {
+   "name": "陈世凯",
+   "role": "原浙江提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁",
+  "徐州",
+  "宣化府",
+  "怀来",
+  "苏州"
+ ],
+ "source_title": "两江总督赫寿奏参将员缺官员折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 43205,
+ "page_range": "1077-1078"
+}

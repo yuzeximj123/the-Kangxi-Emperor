@@ -1,0 +1,34 @@
+{
+ "source_no": 1101,
+ "title_guess": "上社等奏报接阅御批谕旨折",
+ "reign_year": 46,
+ "month": 4,
+ "day_text": "十九日",
+ "event_role": "请安谢恩",
+ "summary": "上社等奏报接阅御批，闻皇父巡南省毕回銮不胜喜悦，称南省官民感念圣恩，恭候降旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称二十一日自苏州启行，风顺天晴，行近常州驻足，二十二日至镇江，二十三日至金山，或二十四五日至塔湾。",
+ "people": [
+  {
+   "name": "上社",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "责祯",
+   "role": "奏事大臣"
+  }
+ ],
+ "places": [
+  "杭州",
+  "苏州",
+  "常州",
+  "镇江",
+  "金山",
+  "塔湾"
+ ],
+ "source_title": "上社等奏报接阅御批论骨折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25205,
+ "page_range": "717-718"
+}

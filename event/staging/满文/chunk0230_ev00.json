@@ -1,0 +1,29 @@
+{
+ "source_no": 984,
+ "title_guess": "由社等奏请万安折",
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "二十四日",
+ "event_role": "请安谢恩",
+ "summary": "臣等恭请皇父万安，为此递奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安。初二日行抵二公主第。",
+ "people": [
+  {
+   "name": "由社",
+   "role": "臣"
+  },
+  {
+   "name": "筷社",
+   "role": "臣"
+  }
+ ],
+ "places": [
+  "二公主第"
+ ],
+ "source_title": "有筷社等奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23000,
+ "page_range": "673-674"
+}

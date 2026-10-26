@@ -1,0 +1,34 @@
+{
+ "source_no": 2301,
+ "title_guess": "杭州织造孙文成奏进仇兆鳌请安折及书章折",
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "十三日",
+ "event_role": "宫廷事务",
+ "summary": "杭州织造孙文成奏报前往苏州会见仇兆鳌，转交太监李玉带出书册令其详阅，并进呈请安折及书章（原文至此未完）。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "仇兆鳌",
+   "role": "官员"
+  },
+  {
+   "name": "李玉",
+   "role": "太监"
+  }
+ ],
+ "places": [
+  "苏州",
+  "枫桥"
+ ],
+ "source_title": "杭州织造孙文盛奏进仇兆效请安折及书章折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 45505,
+ "page_range": "1123-1124"
+}

@@ -1,0 +1,31 @@
+{
+ "source_no": 4296,
+ "title_guess": "在乌兰布通地方大败噶尔丹之歌",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "以诗歌颂扬康熙帝在乌兰布通等地大败噶尔丹，噶尔丹惨败逃回，喻其如狐狸、驴子不敌雄狮健马。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "天子皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "乌兰布通",
+  "克鲁伦河"
+ ],
+ "source_title": "在乌兰布通地方大败噶尔丹之歌",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 86103,
+ "page_range": "1935-1936",
+ "_date_interpolated": true
+}

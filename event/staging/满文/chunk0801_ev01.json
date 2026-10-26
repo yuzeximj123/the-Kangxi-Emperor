@@ -1,0 +1,28 @@
+{
+ "source_no": 3977,
+ "title_guess": "步军统领隆科多奏报京城得雨情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月初九日、初十日、十二日",
+ "event_role": "灾情收成",
+ "summary": "隆科多奏报初九日晚盆倾雨、水涨七尺，初十日晨雨后天晴，畅春园、海子及城四周沾足，庄稼生长旺盛。",
+ "has_zhupi": true,
+ "zhupi_summary": "此处雨甚足了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城",
+  "畅春园",
+  "海子"
+ ],
+ "source_title": "步军统领隆科多奏报京城得雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80101,
+ "page_range": "1815-1816",
+ "_date_interpolated": true
+}

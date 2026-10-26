@@ -1,0 +1,26 @@
+{
+ "source_no": 2989,
+ "title_guess": "署理湖广总督满丕奏两麦长势及粮价折",
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "十四日",
+ "event_role": "灾情收成",
+ "summary": "满丕奏报湖广雨水调匀、二麦丰收、稻已种竣及米麦价格平稳情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "满丕",
+   "role": "署理湖广总督"
+  }
+ ],
+ "places": [
+  "湖广",
+  "湖南"
+ ],
+ "source_title": "署理潮广总督满耕奏两麦长势及粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 59102,
+ "page_range": "1395-1396"
+}

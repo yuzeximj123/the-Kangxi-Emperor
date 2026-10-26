@@ -1,0 +1,40 @@
+{
+ "source_no": 227,
+ "title_guess": "康熙帝谕皇太子为噶尔丹势穷情形事",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "初八日",
+ "event_role": "边疆事务",
+ "summary": "康熙帝谕皇太子，据归附人报噶尔丹兵丁无食寒冷、逃散死者多，枪支弹丸已尽，令详问来降者并奏闻皇太后。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "布达里",
+   "role": "归附乌勒昆人"
+  },
+  {
+   "name": "土谢图诺尔布",
+   "role": "噶尔丹大寨桑"
+  }
+ ],
+ "places": [
+  "哈密",
+  "库伦伯勤齐尔",
+  "齐齐克空郭罗阿济尔干",
+  "鄂欣"
+ ],
+ "source_title": "康熙帝谕皇太子为噶尔丹势穷情形事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5703,
+ "page_range": "327-328"
+}

@@ -1,0 +1,51 @@
+{
+ "source_no": 1337,
+ "title_guess": "息社等奏得雨并报拿获一念和尚折",
+ "reign_year": 47,
+ "month": 8,
+ "day_text": "初七日",
+ "event_role": "灾情收成",
+ "summary": "臣息社等奏报京城自前月二十一日起连日得雨但不持久，雨水不多；又报初四日拿获一念和尚同伙一人，已行文侍郎穆丹暂停正法一念和尚以便质对。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "关祯",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "李进超",
+   "role": "副总管太监"
+  },
+  {
+   "name": "蘑可托",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "牛社讷",
+   "role": "侍郎"
+  },
+  {
+   "name": "穆丹",
+   "role": "侍郎"
+  },
+  {
+   "name": "一念和尚",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "张三营",
+  "京城",
+  "南城"
+ ],
+ "source_title": "其社等麦得雨并报拿获一念和尚折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 29700,
+ "page_range": "807-808"
+}

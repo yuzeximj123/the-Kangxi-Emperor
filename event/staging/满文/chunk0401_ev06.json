@@ -1,0 +1,41 @@
+{
+ "source_no": 1979,
+ "title_guess": "广东巡抚满丕奏闻察看虎头门及澳门情形折",
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "十二日",
+ "event_role": "军务",
+ "summary": "满丕奏报察看虎头门海防要地及澳门情形，训谕官兵补足操练、西洋人安分守生并退回收受方物。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "满丕",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "赵宏灿",
+   "role": "总督"
+  },
+  {
+   "name": "端梅",
+   "role": "虎头门副将"
+  },
+  {
+   "name": "尤贯光",
+   "role": "南雄副将"
+  }
+ ],
+ "places": [
+  "虎头门",
+  "澳门",
+  "香山县",
+  "南雄",
+  "广东省城"
+ ],
+ "source_title": "广东巡抚满耕奏闻察看虎头门及澳门情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 40106,
+ "page_range": "1015-1016"
+}

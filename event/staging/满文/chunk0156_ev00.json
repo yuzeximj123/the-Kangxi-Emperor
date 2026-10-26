@@ -1,0 +1,29 @@
+{
+ "source_no": 586,
+ "title_guess": "西安将军博霁奏请圣安折",
+ "reign_year": 43,
+ "month": 3,
+ "day_text": "二十二日",
+ "event_role": "请安谢恩",
+ "summary": "此为前件奏折残余片段，仅存康熙朱批，问候自身及对方与祖母安好，并提及在西安相识甚熟仍存念。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称自己身体安善，询问对方与祖母是否都好，并说自去西安相识甚熟仍存念。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "博霁",
+   "role": "西安将军"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_title": "西安将军博霁奏请圣安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 15600,
+ "page_range": "525-526"
+}

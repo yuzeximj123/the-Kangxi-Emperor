@@ -1,0 +1,33 @@
+{
+ "source_no": 2507,
+ "title_guess": "吉林将军孟俄洛奏误荐蓝鱼喀尔库请罪折",
+ "reign_year": 53,
+ "month": 10,
+ "day_text": "初四日",
+ "event_role": "弹劾参奏",
+ "summary": "吉林将军孟俄洛接兵部咨文，因误将喀尔库以汉仗好荐送，喀尔库在康熙面前推托不能效力，孟俄洛请将喀尔库立斩并自请交部治重罪。",
+ "has_zhupi": true,
+ "zhupi_summary": "已有旨了。倘致于杀，何不在此斩之？",
+ "people": [
+  {
+   "name": "孟俄洛",
+   "role": "吉林将军"
+  },
+  {
+   "name": "喀尔库",
+   "role": "蓝翎"
+  },
+  {
+   "name": "法诺",
+   "role": "台长"
+  }
+ ],
+ "places": [
+  "吉林"
+ ],
+ "source_title": "吉林将军孟俄洛麦误非蓝铺喀和尔库请罪折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 48900,
+ "page_range": "1191-1192"
+}

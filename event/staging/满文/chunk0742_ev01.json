@@ -1,0 +1,37 @@
+{
+ "source_no": 3574,
+ "title_guess": "抚远大将军向祯奏报厄鲁特兵侵犯吐鲁番折",
+ "reign_year": 60,
+ "month": 9,
+ "day_text": "十五日",
+ "event_role": "军务",
+ "summary": "抚远大将军向祯奏报：九月初二日厄鲁特二千贼兵来犯吐鲁番城，阿喇纳率兵两次击败，斩杀百余、生擒一人，追击败贼十余里，并赞圣上预派兵之英明。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "向祯",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "富宁安",
+   "role": "靖逆将军"
+  },
+  {
+   "name": "阿喇纳",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "准噶尔首领"
+  }
+ ],
+ "places": [
+  "吐鲁番"
+ ],
+ "source_title": "抚远大将军候祯奏报厄鲁特兵侵犯吐鲁番折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 74201,
+ "page_range": "1697-1698"
+}

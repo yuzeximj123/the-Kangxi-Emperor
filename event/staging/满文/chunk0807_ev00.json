@@ -1,0 +1,38 @@
+{
+ "source_no": 4022,
+ "title_guess": "步军统领隆科多奏请将流放逃犯赵七等解送刑部审理折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "此为前折片段：张万奇带张万年去湖广湘阴县任所，因无张万载供词虚实难断，高愈等供词混乱，请将已招出人名住址者解送刑部审理。",
+ "has_zhupi": true,
+ "zhupi_summary": "著尔等会同详审具奏。",
+ "people": [
+  {
+   "name": "张万奇",
+   "role": "涉案人"
+  },
+  {
+   "name": "张万年",
+   "role": "涉案人"
+  },
+  {
+   "name": "张万载",
+   "role": "涉案人"
+  },
+  {
+   "name": "高愈",
+   "role": "涉案人"
+  }
+ ],
+ "places": [
+  "湖广湘阴县"
+ ],
+ "source_title": "步军统领隆科多礁请将流放逃犯赵七等解送刑部审理折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80700,
+ "page_range": "1827-1828",
+ "_date_interpolated": true
+}

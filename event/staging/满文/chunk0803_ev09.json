@@ -1,0 +1,26 @@
+{
+ "source_no": 4002,
+ "title_guess": "步军统领隆科多奏请万安折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "隆科多跪请皇上万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙答安，称气色大好，告诫京城关系重大，隆科多虽日期未满，固守之事时刻不可懈怠。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80309,
+ "page_range": "1819-1820",
+ "_date_interpolated": true
+}

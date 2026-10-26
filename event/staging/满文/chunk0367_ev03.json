@@ -1,0 +1,42 @@
+{
+ "source_no": 1766,
+ "title_guess": "武英殿总监造和素奏报西洋人消息折",
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "二十二日",
+ "event_role": "宫廷事务",
+ "summary": "和素奏报询问西洋人苏琳等西洋消息，据称巡抚郎廷极家人送西洋人富生哲至淮安，数日内到京，并请旨安置。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：著交给博津。到来之后，尔等即往问之，看彼有何言。",
+ "people": [
+  {
+   "name": "和素",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "苏琳",
+   "role": "西洋人"
+  },
+  {
+   "name": "郎廷极",
+   "role": "巡抚"
+  },
+  {
+   "name": "富生哲",
+   "role": "西洋人"
+  },
+  {
+   "name": "博津",
+   "role": "西洋人"
+  }
+ ],
+ "places": [
+  "淮安",
+  "江西"
+ ],
+ "source_title": "武英殿总监造和素奏报西洋人消息折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 36703,
+ "page_range": "947-948"
+}

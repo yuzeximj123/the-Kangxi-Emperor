@@ -1,0 +1,33 @@
+{
+ "source_no": 612,
+ "title_guess": "上驷院奏报京城八旗人染病调治情形折",
+ "reign_year": 43,
+ "month": 6,
+ "day_text": "十四日",
+ "event_role": "其他",
+ "summary": "奏报京城八旗染病调治情形，询问步兵总管托和齐各处病势，并派大夫调治侍卫。",
+ "has_zhupi": true,
+ "zhupi_summary": "斥责此奏糊涂苟简，八旗皆有大夫，应询问旗中大夫，不应仅问托和齐，属疏略。",
+ "people": [
+  {
+   "name": "上驷院",
+   "role": "奏报官员"
+  },
+  {
+   "name": "托和齐",
+   "role": "步兵总管"
+  },
+  {
+   "name": "薛志军",
+   "role": "大夫"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "人筷社奏报京城八旗人染病调治情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16005,
+ "page_range": "533-534"
+}

@@ -1,0 +1,35 @@
+{
+ "source_no": 3081,
+ "title_guess": "署理湖广总督满丰奏报收成及米价情形折",
+ "reign_year": 56,
+ "month": 8,
+ "day_text": "十九日",
+ "event_role": "灾情收成",
+ "summary": "署理湖广总督满丰奏报湖北秋粮收七八分、米价每石六七钱，湖南秋粮十分、米价五六钱。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "满丰",
+   "role": "署理湖广总督"
+  },
+  {
+   "name": "杨方",
+   "role": "标下兵丁"
+  },
+  {
+   "name": "黄寿",
+   "role": "家丁"
+  }
+ ],
+ "places": [
+  "湖广省",
+  "湖北省",
+  "湖南省"
+ ],
+ "source_title": "署理湖广总督满丰奏报收成及米价情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 61102,
+ "page_range": "1435-1436"
+}

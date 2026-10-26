@@ -1,0 +1,36 @@
+{
+ "source_no": 967,
+ "title_guess": "陕西巡抚鄂海奏报秋禾生长情形折",
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "十六日",
+ "event_role": "灾情收成",
+ "summary": "鄂海奏报陕西雨水调匀、秋禾生长甚好可望十分收成，惟汉中府南郑、城固、兴安州等地因七月初大雨江水漫溢，农田数处被淹，已会同总督查勘。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "博者",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "延安府",
+  "汉中府",
+  "南郑县",
+  "城固县",
+  "兴安州",
+  "汉江"
+ ],
+ "source_title": "陕西入抚辑海奏报秋才生长情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 22702,
+ "page_range": "667-668"
+}

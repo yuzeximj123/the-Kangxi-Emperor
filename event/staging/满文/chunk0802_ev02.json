@@ -1,0 +1,24 @@
+{
+ "source_no": 3986,
+ "title_guess": "步军统领隆科多奏报京城粮价略降折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "钱粮财政",
+ "summary": "奏报近日麦子、谷米价格略有下降，并详列好老米、次老米、梭子米、仓谷米、小米、麦子、新麦子、高粱、黑豆、白面粉、切面等价格。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。麦价若略有贱下，则为麦子有收之证据也。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [],
+ "source_title": "步军统领隆科多奏报京城粮价略降折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80202,
+ "page_range": "1817-1818",
+ "_date_interpolated": true
+}

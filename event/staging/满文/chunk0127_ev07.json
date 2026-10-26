@@ -1,0 +1,38 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "作者辩称所谓与阿南达犯颜、拉藏不来则用兵等辞皆无稽之言，并质疑保柱所奏率兵布阵致青海人惊动之说，反问若惊动则戴青和硕齐岂能前来。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "保柱",
+   "role": "员外郎"
+  },
+  {
+   "name": "拉藏",
+   "role": "台吉"
+  },
+  {
+   "name": "戴青和硕齐",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "塔尔寺"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12707,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

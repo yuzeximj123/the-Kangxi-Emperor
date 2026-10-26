@@ -1,0 +1,33 @@
+{
+ "source_no": 741,
+ "title_guess": "川陕总督博雾奏报收粮分数并得雨日期折",
+ "reign_year": 44,
+ "month": 6,
+ "day_text": "十一日",
+ "event_role": "灾情收成",
+ "summary": "博雾奏报延安府属夏粮垂熟将收割，以及鄜州、肤施等十九州县及沿边各堡大麦麦子豌豆收成分数。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "博雾",
+   "role": "川陕总督"
+  },
+  {
+   "name": "孙川",
+   "role": "延安府知府"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "延安府",
+  "鄜州",
+  "肤施"
+ ],
+ "source_title": "川陕总督博都奏报收粮分数并得十日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 18505,
+ "page_range": "583-584"
+}

@@ -1,0 +1,57 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "此为前件奏折续篇片段，记青海台吉迁徙、拉藏西行及保柱与商南多尔济、阿南达互相参奏之供词，末尾称具奏闻。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "保柱",
+   "role": "员外郎"
+  },
+  {
+   "name": "商南多尔济",
+   "role": "喇嘛"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "拉藏",
+   "role": "青海台吉"
+  },
+  {
+   "name": "王扎西巴图鲁",
+   "role": "王"
+  },
+  {
+   "name": "戴青和硕齐",
+   "role": "台吉"
+  },
+  {
+   "name": "雷震",
+   "role": "通事"
+  },
+  {
+   "name": "常在",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "西宁",
+  "青海",
+  "西地",
+  "五台山"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12900,
+ "page_range": "471-472",
+ "_date_interpolated": true
+}

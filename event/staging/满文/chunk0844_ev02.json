@@ -1,0 +1,26 @@
+{
+ "source_no": 4208,
+ "title_guess": "内务府奏报京城雨水情形折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": "本月二十三日",
+ "event_role": "灾情收成",
+ "summary": "内务府奏报京城本月二十三日降雨及雨浸透四寸余情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称躬在郊野所知甚明，田禾萌发不必祈雨，唯麦略旱；二十二日大雨道路积水，已无须祈雨，并问内务府总管海拉。",
+ "people": [
+  {
+   "name": "海拉",
+   "role": "内务府总管"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "内务府奏报京城雨水情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84402,
+ "page_range": "1901-1902",
+ "_date_interpolated": true
+}

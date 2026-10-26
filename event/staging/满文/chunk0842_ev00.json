@@ -1,0 +1,59 @@
+{
+ "source_no": 4201,
+ "title_guess": "理藩院等部奏报台吉根敦等争辉堆等人口案折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": "康熙三十七年八月初八日",
+ "event_role": "司法案件",
+ "summary": "贝勒罗卜藏与台吉根敦争辉堆等人口牲畜，理藩院查讯阿必达、辉堆、察海等，议定派员会同扎萨克贝勒额尔德木图质审后再议。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "罗卜藏",
+   "role": "喀尔喀多罗贝勒"
+  },
+  {
+   "name": "根敦",
+   "role": "台吉"
+  },
+  {
+   "name": "阿必达",
+   "role": "郎中/扎尔固齐"
+  },
+  {
+   "name": "辉堆",
+   "role": "骁骑校"
+  },
+  {
+   "name": "察海",
+   "role": "参领"
+  },
+  {
+   "name": "索诺木",
+   "role": "贝勒"
+  },
+  {
+   "name": "额尔德木图",
+   "role": "土默特达尔罕贝勒"
+  },
+  {
+   "name": "喀兰图",
+   "role": "尚书"
+  },
+  {
+   "name": "阿称瑚瑶",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "喀尔喀",
+  "阿尔泰"
+ ],
+ "source_title": "理藩院等部奏报台吉根敦咖阁案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84200,
+ "page_range": "1897-1898",
+ "_date_interpolated": true
+}

@@ -1,0 +1,40 @@
+{
+ "source_no": 1750,
+ "title_guess": "两江总督噶礼奏报清船迟误等缘由折",
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "初四日",
+ "event_role": "弹劾参奏",
+ "summary": "噶礼遵御批查复：安徽巡抚叶九思年迈不能行走执笔；今年苏松漕船因巡抚张伯行、粮道臧大寿不紧催而迟误，臧大寿昏庸中风。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "叶九思",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "张伯行",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "臧大寿",
+   "role": "苏松常镇粮道"
+  }
+ ],
+ "places": [
+  "苏州府",
+  "松江府",
+  "常州府",
+  "安徽省"
+ ],
+ "source_title": "两江总督噶礼奏报清船迟误等缘由折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 36407,
+ "page_range": "941-942"
+}

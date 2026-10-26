@@ -1,0 +1,41 @@
+{
+ "source_no": 3173,
+ "title_guess": "工部郎中牛纽奏请整修通州二堤折",
+ "reign_year": 57,
+ "month": 4,
+ "day_text": "初二日",
+ "event_role": "河工水利",
+ "summary": "工部郎中牛纽奏请趁雨季前整修通州二堤，请暂借户部库银或交巴彦赶修，待丛潮、万经到后交接核销。",
+ "has_zhupi": true,
+ "zhupi_summary": "无另差人之处，尔即取用工部库银，巴彦到来后阅之。",
+ "people": [
+  {
+   "name": "牛纽",
+   "role": "工部郎中"
+  },
+  {
+   "name": "双全",
+   "role": "奏事六品官"
+  },
+  {
+   "name": "巴彦",
+   "role": "官员"
+  },
+  {
+   "name": "丛潮",
+   "role": "原提督学政"
+  },
+  {
+   "name": "万经",
+   "role": "原提督学政"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_title": "工部郎中牛纽考请整修通州二堤折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 64202,
+ "page_range": "1497-1498"
+}

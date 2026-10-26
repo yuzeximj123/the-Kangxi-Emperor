@@ -1,0 +1,61 @@
+{
+ "source_no": null,
+ "title_guess": "奏报查询自招地来人之情折（片段）",
+ "reign_year": 58,
+ "month": 7,
+ "day_text": "七月初十日",
+ "event_role": "边疆事务",
+ "summary": "此为前折残余片段，记询问自招地逃出之刘二、车凌敦朱克、马志道、刘臣等准噶尔情形及遣返喇嘛阿旺林臣等事。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "刘二",
+   "role": "跟役"
+  },
+  {
+   "name": "车凌敦朱克",
+   "role": "蒙古车凌敦朱克"
+  },
+  {
+   "name": "马志道",
+   "role": "民人"
+  },
+  {
+   "name": "刘臣",
+   "role": "民人"
+  },
+  {
+   "name": "阿旺林臣",
+   "role": "喇嘛"
+  },
+  {
+   "name": "丹巴喇布坦",
+   "role": "喇嘛"
+  },
+  {
+   "name": "罗卜藏丹津",
+   "role": "青海亲王"
+  },
+  {
+   "name": "察罕丹津",
+   "role": "郡王"
+  },
+  {
+   "name": "策旺诺尔布",
+   "role": "公"
+  }
+ ],
+ "places": [
+  "招地",
+  "西宁",
+  "察木多",
+  "木鲁乌苏",
+  "博罗和绍"
+ ],
+ "source_title": "奏报查询自招地来人之情折（片段）",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 71000,
+ "page_range": "1633-1634"
+}

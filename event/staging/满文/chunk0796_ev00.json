@@ -1,0 +1,28 @@
+{
+ "source_no": 3937,
+ "title_guess": "步军统领隆科多奏报京城六七月所获各案情折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "六月二十一日至七月二十一日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报六月二十一日至七月二十一日一月内获窃盗割懒筋者十人、拐骗案四宗、逃人三名，解送刑部，此外无别案。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "山东",
+  "江南",
+  "乌拉"
+ ],
+ "source_title": "步军统领隆科多奏报京城关七月所获各案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79600,
+ "page_range": "1805-1806",
+ "_date_interpolated": true
+}

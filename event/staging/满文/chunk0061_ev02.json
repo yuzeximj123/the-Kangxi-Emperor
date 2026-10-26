@@ -1,0 +1,39 @@
+{
+ "source_no": 242,
+ "title_guess": "皇太子奏为收到噶尔丹欲降之谕等事折",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十七日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子奏请皇父万安，报告收到噶尔丹欲降、行猎、擒获噶尔丹使者等谕旨，并转奏皇太后、宫内及阿哥等，另谢赏赐。",
+ "has_zhupi": true,
+ "zhupi_summary": "多处朱批'知道了'，另有朱批问安并言及塞外寒冷、行猎射箭等情。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴林",
+   "role": "梅勒章京"
+  },
+  {
+   "name": "达林",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "盛京",
+  "西安府",
+  "哈密"
+ ],
+ "source_title": "和皇太子息禄汇奏论和骨折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6102,
+ "page_range": "335-336"
+}

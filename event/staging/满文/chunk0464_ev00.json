@@ -1,0 +1,36 @@
+{
+ "source_no": 2352,
+ "title_guess": "福建巡抚满保奏报署理总督印务并地方情形折",
+ "reign_year": 53,
+ "month": 1,
+ "day_text": "二十六日",
+ "event_role": "其他",
+ "summary": "福建巡抚满保奏报已接署总督印务，并陈福建、浙江地方雨水、麦苗、民食、海防及赈济钱粮情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "范时崇",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "侯官县",
+  "处州",
+  "衢州",
+  "台州",
+  "温州",
+  "广东"
+ ],
+ "source_title": "福建巡抚满保奏报署理总督印务并地方情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 46400,
+ "page_range": "1141-1142"
+}

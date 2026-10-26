@@ -1,0 +1,36 @@
+{
+ "source_no": null,
+ "title_guess": "两江总督傅拉塔奏报蠲免灾民钱粮并蝗虫情形折",
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "康熙三十三年闰五月十二日",
+ "event_role": "钱粮财政",
+ "summary": "傅拉塔奏报钦遵蠲免盐城等五州县存水田地钱粮，并宣谕扑灭蝗虫及徐州等七州县蝗虫已尽行扑灭。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：知道了。",
+ "people": [
+  {
+   "name": "傅拉塔",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "盐城",
+  "高邮",
+  "宝应",
+  "淮安",
+  "徐州",
+  "凤阳",
+  "庐州",
+  "灵壁",
+  "虹县",
+  "宿迁",
+  "桃源",
+  "邳州"
+ ],
+ "source_title": "两江总督傅拉塔奏报蠲免灾民钱粮并蝗虫情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3002,
+ "page_range": "273-274"
+}

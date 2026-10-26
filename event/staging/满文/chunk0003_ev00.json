@@ -1,0 +1,36 @@
+{
+ "source_no": 14,
+ "title_guess": "康熙帝墨笔密论",
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "康熙二十年十二月初八日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝密谕奉天将军安珠瑚，云南平定天下太平，欲往盛京山陵致祭，命密遣副都统称泰等详察御路、行宫及佛阿拉至乌喇之路绘图来奏，并问将军身体。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安珠瑚",
+   "role": "奉天将军"
+  },
+  {
+   "name": "称泰",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "盛京",
+  "永陵",
+  "佛阿拉",
+  "乌喇"
+ ],
+ "source_title": "康熙帝墨笔密论",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 300,
+ "page_range": "219-220"
+}

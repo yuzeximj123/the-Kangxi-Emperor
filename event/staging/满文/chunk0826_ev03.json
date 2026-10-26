@@ -1,0 +1,44 @@
+{
+ "source_no": 4108,
+ "title_guess": "步军统领托和齐奏请取缔报恩寺集市等事折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "托和齐奏请取缔报恩寺连续四十日集市以防恶人聚集，并奏太监杨达志为非作歹及大阿哥外出行走之事。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：此人红且暴不可轻视，自有处置，令托和齐处严加约束并不时打听奏闻。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "杨达志",
+   "role": "太监"
+  },
+  {
+   "name": "讷雷",
+   "role": "侍卫"
+  },
+  {
+   "name": "十四阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "报恩寺",
+  "热河",
+  "畅春园"
+ ],
+ "source_title": "步军统领托和齐礁请取缔报恩寺集市等事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82603,
+ "page_range": "1865-1866",
+ "_date_interpolated": true
+}

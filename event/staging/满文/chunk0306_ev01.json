@@ -1,0 +1,39 @@
+{
+ "source_no": 1396,
+ "title_guess": "杭州织造孙文成奏报发朱批给诸臣观瞻折",
+ "reign_year": 48,
+ "month": 2,
+ "day_text": "康熙四十八年二月十六日",
+ "event_role": "宫廷事务",
+ "summary": "孙文成奏报家人萨喇宰带回朱批折子，奉旨将御体甚安、能骑马而行之谕给将军、总督、巡抚等观瞻，众皆欢忭，并遣人转送福建总督及浙江提督总兵等。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "萨喇宰",
+   "role": "孙文成家人"
+  },
+  {
+   "name": "诺尔布",
+   "role": "将军"
+  },
+  {
+   "name": "武国要",
+   "role": "署理巡抚印务按察使"
+  }
+ ],
+ "places": [
+  "杭州",
+  "福建",
+  "浙江"
+ ],
+ "source_title": "杭州织造孙文成奏报发朱批给诸臣观瞻折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 30601,
+ "page_range": "825-826"
+}

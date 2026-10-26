@@ -1,0 +1,47 @@
+{
+ "source_no": 4015,
+ "title_guess": "步军统领隆科多奏报查探太监赌博之事折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "隆科多奏报查探景山太监赌博消息，因热河寄报高玉景等得罪事皆惊惧，现无出宫赌博者，唯马太监等仍在吉庆家玩牌。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "高玉景",
+   "role": "太监"
+  },
+  {
+   "name": "马太监",
+   "role": "太监"
+  },
+  {
+   "name": "赵田裕",
+   "role": "太监"
+  },
+  {
+   "name": "郭佩",
+   "role": "太监"
+  },
+  {
+   "name": "耿太监",
+   "role": "太监"
+  }
+ ],
+ "places": [
+  "景山",
+  "热河"
+ ],
+ "source_title": "步军统领隆科多奏报查探太监赌博之事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80504,
+ "page_range": "1823-1824",
+ "_date_interpolated": true
+}

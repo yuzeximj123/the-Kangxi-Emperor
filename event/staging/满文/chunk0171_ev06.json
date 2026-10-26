@@ -1,0 +1,57 @@
+{
+ "source_no": 664,
+ "title_guess": "两江总督阿山条陈张鹏翮劣迹折",
+ "reign_year": 43,
+ "month": 9,
+ "day_text": "十六日",
+ "event_role": "弹劾参奏",
+ "summary": "阿山奏陈河道总督张鹏翮回奏不实、诬陷徐潮及己偏袒佟世禄，并条陈时家马头冲决及堵筑工料银两等情。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "阿山",
+   "role": "江南江西总督革职留任"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河道总督"
+  },
+  {
+   "name": "徐潮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "佟世禄",
+   "role": "厅官"
+  },
+  {
+   "name": "董安国",
+   "role": "原任河道总督"
+  },
+  {
+   "name": "于成龙",
+   "role": "原任河道总督"
+  },
+  {
+   "name": "冯佑",
+   "role": "河工道"
+  },
+  {
+   "name": "薛晋",
+   "role": "原淮扬道"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "河南",
+  "时家马头",
+  "运河"
+ ],
+ "source_title": "两江总督阿山条陈张胸表劣迹折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 17106,
+ "page_range": "555-556"
+}

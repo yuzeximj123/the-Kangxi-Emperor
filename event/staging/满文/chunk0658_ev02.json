@@ -1,0 +1,39 @@
+{
+ "source_no": 3238,
+ "title_guess": "步军统领隆科多奏为审理吉二盗售官铅案折",
+ "reign_year": 57,
+ "month": 8,
+ "day_text": "十三日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报缉获盛京工部官员盗售官铅案，吉二等人盗售造枪弹官铅三万二百九十四斤，请押送刑部严审并将铅交工部。",
+ "has_zhupi": true,
+ "zhupi_summary": "依奏。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "吉二",
+   "role": "盛京镶黄旗闲散，案犯"
+  },
+  {
+   "name": "七十八",
+   "role": "盛京工部郎中"
+  },
+  {
+   "name": "张士义",
+   "role": "正阳门外开店民人"
+  }
+ ],
+ "places": [
+  "盛京",
+  "京城",
+  "正阳门外"
+ ],
+ "source_title": "步军统领隆科多奏为审理吉二盗人官锚案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 65802,
+ "page_range": "1529-1530"
+}

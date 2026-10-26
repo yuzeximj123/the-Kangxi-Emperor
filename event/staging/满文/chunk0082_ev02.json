@@ -1,0 +1,51 @@
+{
+ "source_no": 324,
+ "title_guess": "来降之厄鲁特人格垒古英寨桑之口供",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初九日",
+ "event_role": "边疆事务",
+ "summary": "格垒古英寨桑供述携敕书见噶尔丹传宣谕旨，噶尔丹不肯跪受，丹济拉私下询问圣主对其评价，格垒劝其归降。",
+ "has_zhupi": true,
+ "zhupi_summary": "初十日晚到。",
+ "people": [
+  {
+   "name": "格垒古英寨桑",
+   "role": "来降厄鲁特使者"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "丹济拉",
+   "role": "噶尔丹属下"
+  },
+  {
+   "name": "诺颜噶隆",
+   "role": "噶尔丹属下"
+  },
+  {
+   "name": "乌尔占扎布",
+   "role": "噶尔丹属下"
+  },
+  {
+   "name": "博席希",
+   "role": "扎尔固齐"
+  },
+  {
+   "name": "阎寿",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "鄂尔多斯",
+  "托克托嘎尔城",
+  "黄河"
+ ],
+ "source_title": "来降之厄鲁特人格垒十英寨又之口供",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8202,
+ "page_range": "377-378"
+}

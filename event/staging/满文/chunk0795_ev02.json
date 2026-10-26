@@ -1,0 +1,35 @@
+{
+ "source_no": 3931,
+ "title_guess": "步军统领隆科多奏报京城五六月份所获各案情折",
+ "reign_year": 3,
+ "month": 6,
+ "day_text": "五月十七日至六月十七日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报五月十七日至六月十七日拿获窃盗割懒筋者七人、强盗五人及拐骗、假银、逃人等案，解送刑部。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "李麻子",
+   "role": "已正法强盗"
+  },
+  {
+   "name": "齐尔库",
+   "role": "强盗伙盗"
+  }
+ ],
+ "places": [
+  "定兴县",
+  "新安县"
+ ],
+ "source_title": "步军统领隆科多奏报京城五六月份所获各案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79502,
+ "page_range": "1803-1804",
+ "_date_interpolated": true
+}

@@ -1,0 +1,46 @@
+{
+ "source_no": 293,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初四日",
+ "event_role": "边疆事务",
+ "summary": "康熙帝谕皇太子：述渡黄河入陕西所见山川民情兵丁，鄂尔多斯蒙古来迎，噶尔丹之子塞布腾巴尔珠尔解京，命与满汉诸臣详议示众之礼。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "塞布腾巴尔珠尔",
+   "role": "噶尔丹之子，解京"
+  },
+  {
+   "name": "董鲁布王母",
+   "role": "来迎请安"
+  },
+  {
+   "name": "董鲁布王",
+   "role": "来迎请安"
+  },
+  {
+   "name": "王福晋",
+   "role": "来迎请安"
+  },
+  {
+   "name": "皇太子",
+   "role": "受谕者"
+  }
+ ],
+ "places": [
+  "黄河",
+  "陕西",
+  "神木县",
+  "边关",
+  "鄂尔多斯",
+  "京城"
+ ],
+ "source_title": "康熙帝谕",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 7303,
+ "page_range": "359-360"
+}

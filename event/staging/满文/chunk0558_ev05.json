@@ -1,0 +1,26 @@
+{
+ "source_no": 2820,
+ "title_guess": "两江总督赫寿奏报收成分数及米价折",
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "初十日",
+ "event_role": "灾情收成",
+ "summary": "赫寿奏报江南小麦丰收可望，因雨水稍足成色稍减，全省统计收成七八分，江宁米价每石银八九钱至一两不等。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示知道了。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁"
+ ],
+ "source_title": "两江总督赫寿奏报收成分数及米价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55805,
+ "page_range": "1329-1330"
+}

@@ -1,0 +1,42 @@
+{
+ "source_no": 175,
+ "title_guess": "平北大将军马思喀奏为解送噶尔丹属下人等折",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十五日",
+ "event_role": "军务",
+ "summary": "此为片段，记归降者告称丹济拉、阿喇布坦、噶尔丹等败后情形，噶尔丹仅率十余人逃往桑古尔源窝集，归降费扬古者二千余、马思喀者五百余，并询明卫马五后再寄信。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "丹济拉",
+   "role": "噶尔丹部属"
+  },
+  {
+   "name": "阿喇布坦",
+   "role": "噶尔丹部属"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "马思喀",
+   "role": "平北大将军"
+  }
+ ],
+ "places": [
+  "桑古尔源",
+  "克鲁伦"
+ ],
+ "source_title": "平北大将军马思喀奏为解送轨尔丹属下人等折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4300,
+ "page_range": "299-300"
+}

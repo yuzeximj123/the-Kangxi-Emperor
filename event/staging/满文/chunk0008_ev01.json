@@ -1,0 +1,33 @@
+{
+ "source_no": 40,
+ "title_guess": "山东巡抚佛伦奏请停本年秋审事宜折",
+ "reign_year": 29,
+ "month": 8,
+ "day_text": "二十九日",
+ "event_role": "司法案件",
+ "summary": "佛伦见皇上手谕知圣体大安，仍请颐养圣躬，并奏请停止本年秋审、暂停处斩情实人犯、减等赦免可疑人犯。",
+ "has_zhupi": true,
+ "zhupi_summary": "若参郭表，应与朕商议而后参；事虽公事，然原有参劾尔等之事，难免报仇之论；以后不可如此鲁莽。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭表",
+   "role": "被参劾者"
+  }
+ ],
+ "places": [
+  "省城"
+ ],
+ "source_title": "山东巡抚佛伦奏请停本年秋审事宜折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 801,
+ "page_range": "229-230"
+}

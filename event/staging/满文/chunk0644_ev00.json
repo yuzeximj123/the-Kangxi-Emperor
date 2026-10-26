@@ -1,0 +1,34 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 57,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "片段：尚书赫寿等署名及朱批，命速遣官员赈济，从太仆寺拣选官员一名共同赈济。",
+ "has_zhupi": true,
+ "zhupi_summary": "速遣官员赈济，太仆寺辖地拣选太仆寺官员一名共同赈济。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "尚书加四级"
+  },
+  {
+   "name": "特古趟",
+   "role": "右侍郎"
+  },
+  {
+   "name": "喀勤喀",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "太仆寺"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 64400,
+ "page_range": "1501-1502",
+ "_date_interpolated": true
+}

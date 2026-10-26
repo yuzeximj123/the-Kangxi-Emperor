@@ -1,0 +1,53 @@
+{
+ "source_no": 4068,
+ "title_guess": "步军统领隆科多奏报缉获偷盗清米各犯折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月二十四日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报缉获普济闸号闸长张大等盗取官米百余石案，讯明各犯及受贿巡捕营兵丁，请将张大等二十二人及张德等二十五人解刑部严审。",
+ "has_zhupi": true,
+ "zhupi_summary": "依奏。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "张大",
+   "role": "号闸长"
+  },
+  {
+   "name": "耿大",
+   "role": "撑船人"
+  },
+  {
+   "name": "李道",
+   "role": "碾房主"
+  },
+  {
+   "name": "张德",
+   "role": "南营步兵"
+  },
+  {
+   "name": "刘永",
+   "role": "北营步兵"
+  },
+  {
+   "name": "布占",
+   "role": "坐粮厅官"
+  }
+ ],
+ "places": [
+  "普济闸",
+  "仓场衙门",
+  "武道庙",
+  "通州"
+ ],
+ "source_title": "步军统领隆科多奏报缉获偷盗清米各犯折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81800,
+ "page_range": "1849-1850",
+ "_date_interpolated": true
+}

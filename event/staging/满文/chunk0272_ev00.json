@@ -1,0 +1,37 @@
+{
+ "source_no": 1210,
+ "title_guess": "筷社等奏库使回报口外鸭猎情形折",
+ "reign_year": 46,
+ "month": 9,
+ "day_text": "二十一日",
+ "event_role": "宫廷事务",
+ "summary": "筷社等奏报库使宝才回报皇上在木西匣色钦地方猎获堪达汉等野兽情形，并转述狩猎热闹趣事，表示喜悦并请安。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "宝才",
+   "role": "库使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [
+  "木西匣色钦"
+ ],
+ "source_title": "筷社等奏库使回报口外芍狂情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 27200,
+ "page_range": "757-758"
+}

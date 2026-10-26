@@ -1,0 +1,47 @@
+{
+ "source_no": 3227,
+ "title_guess": "两江总督长鼐奏报审案并洪水情形折",
+ "reign_year": 57,
+ "month": 7,
+ "day_text": "二十九日",
+ "event_role": "司法案件",
+ "summary": "长鼐奏报审理于章砚父子隐匿入官财产案，已催获银六万余两存库解部，余产造册另行具奏；并报徽州、宁国等山水冲田旋即水退情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "长鼐",
+   "role": "两江总督"
+  },
+  {
+   "name": "于章砚",
+   "role": "被参官员"
+  },
+  {
+   "name": "陈万宣",
+   "role": "首告人"
+  },
+  {
+   "name": "杨朝麟",
+   "role": "江苏布政使"
+  },
+  {
+   "name": "李艇",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "山东",
+  "河南",
+  "浙江",
+  "徽州",
+  "宁国"
+ ],
+ "source_title": "两江总督长鼐奏报审案并洪水情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 65601,
+ "page_range": "1525-1526"
+}

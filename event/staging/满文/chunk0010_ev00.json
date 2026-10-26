@@ -1,0 +1,27 @@
+{
+ "source_no": 48,
+ "title_guess": "山东巡抚佛伦奏报山东省麦子收成分数折",
+ "reign_year": 30,
+ "month": 6,
+ "day_text": "初十日",
+ "event_role": "灾情收成",
+ "summary": "佛伦奏报山东各府州县麦子收成分数，登州府合计七分，今春雨水调匀麦子丰收，五月下旬雨水稀少，秋粮作物长势尚好。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称山东麦子收成分数甚慰朕怀。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "登州府",
+  "宁海",
+  "文登"
+ ],
+ "source_title": "山东巡抚佛伦奏报山东省麦子收成分数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1000,
+ "page_range": "233-234"
+}

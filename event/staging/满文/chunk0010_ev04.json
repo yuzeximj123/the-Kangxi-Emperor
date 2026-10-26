@@ -1,0 +1,32 @@
+{
+ "source_no": 52,
+ "title_guess": "山东巡抚佛伦奏报秋粮收成分数折",
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "十六日",
+ "event_role": "灾情收成",
+ "summary": "佛伦奏报山东各府州县秋粮收成分数，济南、兖州、东昌、青州、莱州、登州各府合计七至八分余。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称奏报粮食情形知道了，闻路人云沂州郑城民粮才收生计维艰，令核查。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "济南府",
+  "兖州府",
+  "东昌府",
+  "青州府",
+  "莱州府",
+  "登州府",
+  "沂州",
+  "郑城"
+ ],
+ "source_title": "山东巡抚佛伦奏报秋粮收成分数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1004,
+ "page_range": "233-234"
+}

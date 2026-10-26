@@ -1,0 +1,38 @@
+{
+ "source_no": 4013,
+ "title_guess": "步军统领隆科多奏请将围场案于衙内了结折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月二十一日",
+ "event_role": "司法案件",
+ "summary": "太监李发库告称李柱、王国振等赴围场后王于本月初四日行一案，隆科多奏请由本衙门了结，朱批理应送部。",
+ "has_zhupi": true,
+ "zhupi_summary": "理应送部。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "李发库",
+   "role": "太监"
+  },
+  {
+   "name": "李柱",
+   "role": "涉案人"
+  },
+  {
+   "name": "王国振",
+   "role": "涉案人"
+  }
+ ],
+ "places": [
+  "围场"
+ ],
+ "source_title": "步军统领隆科多奏请将围场案于笨内了结折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80502,
+ "page_range": "1823-1824",
+ "_date_interpolated": true
+}

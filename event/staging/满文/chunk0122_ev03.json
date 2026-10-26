@@ -1,0 +1,36 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "记载乾清宫、毓庆宫、咸安宫及多罗四贝勒、多罗八贝勒、十二阿哥处女孩儿们人数及过冬鲜菜、盐、王瓜、茄子等供应，并逐项核减。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "多罗四贝勒",
+   "role": "贝勒"
+  },
+  {
+   "name": "多罗八贝勒",
+   "role": "贝勒"
+  },
+  {
+   "name": "十二阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "乾清宫",
+  "毓庆宫",
+  "咸安宫"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12203,
+ "page_range": "457-458",
+ "_date_interpolated": true
+}

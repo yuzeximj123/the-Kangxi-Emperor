@@ -1,0 +1,32 @@
+{
+ "source_no": 3638,
+ "title_guess": "山西巡抚德音奏报得雨及粮价情形折",
+ "reign_year": 61,
+ "month": 9,
+ "day_text": "二十四日",
+ "event_role": "灾情收成",
+ "summary": "德音奏报山西全省九月降雨沾足、庄稼收割完毕及各府州收成分数与粮价，粮价较前下跌。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "德音",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "太原",
+  "潞安",
+  "大同",
+  "泽州",
+  "辽州",
+  "平阳",
+  "汾州",
+  "沁州"
+ ],
+ "source_title": "出西巡抚德音考报得雨及粮价情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 75602,
+ "page_range": "1725-1726"
+}

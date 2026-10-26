@@ -1,0 +1,36 @@
+{
+ "source_no": 4129,
+ "title_guess": "都统巴里米特奏请大清门等由五旗摆牙喇看守折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "正白蒙古旗都统巴里米特奏请将大清门等门照紫禁城例改由下五旗摆牙喇看守，以严整观瞻。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批命旗大臣等议奏。",
+ "people": [
+  {
+   "name": "巴里米特",
+   "role": "正白蒙古旗都统"
+  }
+ ],
+ "places": [
+  "大清门",
+  "午门",
+  "东华门",
+  "西华门",
+  "神武门",
+  "东阙门",
+  "西阙门",
+  "东长安门",
+  "西长安门",
+  "内端门",
+  "天安门"
+ ],
+ "source_title": "都统巴里米特奏请大请门等由五族摆牙喇看守折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83003,
+ "page_range": "1873-1874",
+ "_date_interpolated": true
+}

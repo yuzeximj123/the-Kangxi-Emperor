@@ -1,0 +1,26 @@
+{
+ "source_no": 3963,
+ "title_guess": "步军统领隆科多奏报京城雨水情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月六日夜",
+ "event_role": "灾情收成",
+ "summary": "隆科多奏报本月六日夜打更后雷雨潇满，至二更雨降一寸，畅春园雨略小。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_title": "步军统领隆科多奏报京城雨水情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79903,
+ "page_range": "1811-1812",
+ "_date_interpolated": true
+}

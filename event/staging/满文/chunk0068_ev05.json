@@ -1,0 +1,33 @@
+{
+ "source_no": 271,
+ "title_guess": "康熙帝朱论",
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十一日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝再谕：诺尔布等自根敦戴青处返还，阿玉希来投言噶尔丹仅余三百余人，命给诸臣看，详细口供另文抄录。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺尔布",
+   "role": "理藩院主事"
+  },
+  {
+   "name": "阿玉希",
+   "role": "厄鲁特来投者"
+  }
+ ],
+ "places": [
+  "萨克萨图古里克"
+ ],
+ "source_title": "康熙帝剑论",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6805,
+ "page_range": "349-350"
+}

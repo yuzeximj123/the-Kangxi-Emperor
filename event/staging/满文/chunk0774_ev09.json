@@ -1,0 +1,45 @@
+{
+ "source_no": 3771,
+ "title_guess": "内务府总管何硕色奏为误报水沟修竣缘由折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "本月二十二日",
+ "event_role": "河工水利",
+ "summary": "何硕色遵旨查明紫禁城水沟修竣误报缘由：宁寿宫太监等称九月十五日左右完工、十九日回宫，实武英殿前淤泥至二十三日才清完，据实奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：回宫后再奏。",
+ "people": [
+  {
+   "name": "何硕色",
+   "role": "内务府总管"
+  },
+  {
+   "name": "李英贵",
+   "role": "主事"
+  },
+  {
+   "name": "赵弥林",
+   "role": "宁寿宫太监"
+  },
+  {
+   "name": "卢云",
+   "role": "大太监"
+  },
+  {
+   "name": "五贝勒",
+   "role": null
+  }
+ ],
+ "places": [
+  "紫禁城",
+  "宁寿宫",
+  "武英殿",
+  "兆祥所"
+ ],
+ "source_title": "内务府总管何硕色奏为误报水沟修竣缘由折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 77409,
+ "page_range": "1761-1762",
+ "_date_interpolated": true
+}

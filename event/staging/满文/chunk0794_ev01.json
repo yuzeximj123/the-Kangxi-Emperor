@@ -1,0 +1,40 @@
+{
+ "source_no": 3923,
+ "title_guess": "步军统领隆科多奏请畅春园园户盗窃太监值房送交刑部拟罪折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月十九日",
+ "event_role": "司法案件",
+ "summary": "畅春园园户赵武儿翻墙进入四执事太监值房，窃取衣服、香炉等物，出阜成门变卖时被拿获；隆科多请旨解送刑部严审治罪。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：从严交付。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "赵武儿",
+   "role": "畅春园园户"
+  },
+  {
+   "name": "侯宗州",
+   "role": "北营守备"
+  },
+  {
+   "name": "李丰祥",
+   "role": "畅春园大太监"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "高梁桥",
+  "阜成门"
+ ],
+ "source_title": "步军统领隆科多奏请畅春园园户盗窃太监值房送交刑部拟罪折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79401,
+ "page_range": "1801-1802",
+ "_date_interpolated": true
+}

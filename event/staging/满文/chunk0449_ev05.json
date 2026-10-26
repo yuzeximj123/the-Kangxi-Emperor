@@ -1,0 +1,43 @@
+{
+ "source_no": 2268,
+ "title_guess": "福建巡抚满保奏报灭虫并严惩抢劫人等事折",
+ "reign_year": 52,
+ "month": 8,
+ "day_text": "十五日",
+ "event_role": "司法案件",
+ "summary": "福建巡抚满保奏报福州府洼地生虫经雷雨死变、补栽冬收稻生长良好，并奏报审明翁英龙、石如达诱骗贫民出海一案，分别枷号惩处。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "翁英龙",
+   "role": "诱骗出海之刁民"
+  },
+  {
+   "name": "石如达",
+   "role": "诱骗出海之刁民"
+  },
+  {
+   "name": "林联",
+   "role": "闽安游击"
+  },
+  {
+   "name": "范时崇",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "福州",
+  "闽县",
+  "闽安"
+ ],
+ "source_title": "福建巡抚满保奏报无虫并严惩抢劫人等事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 44905,
+ "page_range": "1111-1112"
+}

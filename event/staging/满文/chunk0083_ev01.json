@@ -1,0 +1,39 @@
+{
+ "source_no": 325,
+ "title_guess": "噶尔丹使者拉玛扎布之口供",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初九日",
+ "event_role": "边疆事务",
+ "summary": "询问噶尔丹使者拉玛扎布，其转述噶尔丹奏请收众移营来降、请求给还投奔之人并施恩赏，拉玛扎布自陈愿投皇上。",
+ "has_zhupi": true,
+ "zhupi_summary": "初十日晚到。",
+ "people": [
+  {
+   "name": "拉玛扎布",
+   "role": "噶尔丹使者"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "阿喇布坦",
+   "role": "拉玛扎布部下"
+  },
+  {
+   "name": "车楼多尔济",
+   "role": "杜尔伯特台吉之子"
+  },
+  {
+   "name": "格垒古英",
+   "role": "原拟使者"
+  }
+ ],
+ "places": [],
+ "source_title": "噶尔丹使者拉玛扎布之口任",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8301,
+ "page_range": "379-380"
+}

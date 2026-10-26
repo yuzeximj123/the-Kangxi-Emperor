@@ -1,0 +1,33 @@
+{
+ "source_no": 1661,
+ "title_guess": "内务府奏报各处年迈病残之太监折",
+ "reign_year": 49,
+ "month": 11,
+ "day_text": "初十日",
+ "event_role": "宫廷事务",
+ "summary": "内务府总管何奕、保柱奏报各处年迈病残及有劣迹太监名单，请旨处理，奉旨革退。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "何奕",
+   "role": "内务府总管"
+  },
+  {
+   "name": "保柱",
+   "role": "内务府总管"
+  }
+ ],
+ "places": [
+  "养心殿",
+  "御花园",
+  "丰泽园",
+  "畅春园",
+  "圆明园"
+ ],
+ "source_title": "内务府奏报各处年迈病残之素监折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35003,
+ "page_range": "913-914"
+}

@@ -1,0 +1,32 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "片段：审问张四教关于每千加平费三十两及每两一分五厘添搭银的供词，张辩称添搭银用于公捐各项公用及巡抚规费，并无每千加三十两之事。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "张四教",
+   "role": "安徽布政使"
+  },
+  {
+   "name": "高巡抚",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "江宁",
+  "永定河",
+  "东岳庙"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 10900,
+ "page_range": "431-432",
+ "_date_interpolated": true
+}

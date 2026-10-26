@@ -1,0 +1,41 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 7,
+ "day_text": "五月初五日",
+ "event_role": "军务",
+ "summary": "中路大军五月初五日进，初六日至库库车尔泊，康熙会见西侧卡伦科尔沁贝勒巴克西胡尔、喀尔喀公车木楚克纳木扎勒、公阿玉锡等，训令占据阿思哈图山截敌哨卒。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴克西胡尔",
+   "role": "科尔沁贝勒"
+  },
+  {
+   "name": "车木楚克纳木扎勒",
+   "role": "喀尔喀公"
+  },
+  {
+   "name": "阿玉锡",
+   "role": "喀尔喀公"
+  }
+ ],
+ "places": [
+  "阿敦齐老",
+  "库库车尔泊",
+  "固尔班土拉噶",
+  "阿思哈图山"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4812,
+ "page_range": "309-310",
+ "_date_interpolated": true
+}

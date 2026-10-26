@@ -1,0 +1,88 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "此段为审理盗卖鹿肉案的供词与拟罪记录，涉及匡头子、守成、莫罗、穆里库、披甲李四等及买肉人张二、张六，审明历年盗卖官鹿肉情形，拟将莫罗绞监候秋后处决。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "匡头子",
+   "role": "光禄寺赶猪人/案犯"
+  },
+  {
+   "name": "守成",
+   "role": "跟随莫罗之人/案犯"
+  },
+  {
+   "name": "莫罗",
+   "role": "委署应掌/案犯"
+  },
+  {
+   "name": "穆里库",
+   "role": "应掌/案犯"
+  },
+  {
+   "name": "张二",
+   "role": "买肉商人"
+  },
+  {
+   "name": "张林",
+   "role": "张二之子"
+  },
+  {
+   "name": "李四",
+   "role": "披甲"
+  },
+  {
+   "name": "赵二",
+   "role": "披甲"
+  },
+  {
+   "name": "孙三",
+   "role": "披甲"
+  },
+  {
+   "name": "张六",
+   "role": "买肉人"
+  },
+  {
+   "name": "常载",
+   "role": "尚膳总领"
+  },
+  {
+   "name": "札克苏",
+   "role": "尚膳总领"
+  },
+  {
+   "name": "纪言",
+   "role": "尚膳总领"
+  },
+  {
+   "name": "保喜",
+   "role": "应丁"
+  },
+  {
+   "name": "六格",
+   "role": "应丁"
+  },
+  {
+   "name": "唐三",
+   "role": "应丁"
+  }
+ ],
+ "places": [
+  "海淀",
+  "热河",
+  "喀喇沱"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 62100,
+ "page_range": "1455-1456",
+ "_date_interpolated": true
+}

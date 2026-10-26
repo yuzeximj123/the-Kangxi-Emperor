@@ -1,0 +1,37 @@
+{
+ "source_no": 1226,
+ "title_guess": "和社等奏报收到物品后未回文缘由折",
+ "reign_year": 46,
+ "month": 10,
+ "day_text": "十三日",
+ "event_role": "宫廷事务",
+ "summary": "和社等奏报初三日进物未回文缘由，称五阿哥、十阿哥言已遵旨进献太后祖母并蒙喜爱，因已有请安折御批故未重奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝斥责不进奏殊属非是。",
+ "people": [
+  {
+   "name": "和社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "五阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "十阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "二阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "和候社等奏报收到物品后未回文缘由折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 27401,
+ "page_range": "761-762"
+}

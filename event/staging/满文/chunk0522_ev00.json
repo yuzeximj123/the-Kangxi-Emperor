@@ -1,0 +1,35 @@
+{
+ "source_no": 2656,
+ "title_guess": "福建巡抚满保奏请兵械何时送往京城折",
+ "reign_year": 54,
+ "month": 8,
+ "day_text": "初一日",
+ "event_role": "军务",
+ "summary": "福建巡抚满保与总督范时崇商议造枪三千、藤牌五百、挑刀五百送京备用，拟八月初一日起送；接御批后召集官员宣示，并请旨兵器是否仍用及何月送京。",
+ "has_zhupi": true,
+ "zhupi_summary": "枪不需要，藤牌、挑刀仍用，二三月左右运至为好。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "范时崇",
+   "role": "总督"
+  },
+  {
+   "name": "祖良壁",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "福建",
+  "京城",
+  "台湾"
+ ],
+ "source_title": "福建巡抚满保奏请兵械何时送往京城折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 52200,
+ "page_range": "1257-1258"
+}

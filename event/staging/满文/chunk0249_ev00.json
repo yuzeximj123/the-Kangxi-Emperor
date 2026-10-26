@@ -1,0 +1,28 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 46,
+ "month": 4,
+ "day_text": null,
+ "event_role": "灾情收成",
+ "summary": "片段：臣等奏报查看皇父所种麦子、菜花子长势肥壮，并比较宫内樱桃与京城樱桃大小，报告京城周围麦子生长及得雨情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批询问樱桃、麦子比较情形，并言原拟初十日起程、因官民恳请多留一日、十一日启行，这三日天气晴和。",
+ "people": [
+  {
+   "name": "皇父",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "丰泽园",
+  "京城",
+  "杭州"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 24900,
+ "page_range": "711-712",
+ "_date_interpolated": true
+}

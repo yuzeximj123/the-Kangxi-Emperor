@@ -1,0 +1,40 @@
+{
+ "source_no": 4053,
+ "title_guess": "步军统领隆科多奏请将所获太监送交内务府总管验定折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "奏报现获民人投充太监王家志、余盛、张力三名，请照例送交内务府总管验定。",
+ "has_zhupi": true,
+ "zhupi_summary": "照行。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "王家志",
+   "role": "太监"
+  },
+  {
+   "name": "余盛",
+   "role": "太监"
+  },
+  {
+   "name": "张力",
+   "role": "太监"
+  }
+ ],
+ "places": [
+  "河间府任丘县",
+  "天津卫",
+  "武清县杨柳青"
+ ],
+ "source_title": "步军统领隆科多奏请将所获太监送交内务府总管验定折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81202,
+ "page_range": "1837-1838",
+ "_date_interpolated": true
+}

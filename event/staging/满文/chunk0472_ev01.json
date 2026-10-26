@@ -1,0 +1,33 @@
+{
+ "source_no": 2405,
+ "title_guess": "内务府奏将做鱼质劣之饭上人关保议罪请旨折",
+ "reign_year": 53,
+ "month": 5,
+ "day_text": "十七日",
+ "event_role": "司法案件",
+ "summary": "内务府奏议饭上人关保往涨儿河带回之鱼腥硬质劣，拟枷号二月、鞭百、解饭上人任授伞上人，请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "关保解饭上人、授伞上人、枷号鞭责之处，宽免之。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "饭上人"
+  },
+  {
+   "name": "常载",
+   "role": "饭上头目"
+  },
+  {
+   "name": "海章",
+   "role": "署理内务府总管事务头等侍卫、郎中"
+  }
+ ],
+ "places": [
+  "涨儿河"
+ ],
+ "source_title": "内务府奏将做色质劣之饭上人关保议罪请旨折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 47201,
+ "page_range": "1157-1158"
+}

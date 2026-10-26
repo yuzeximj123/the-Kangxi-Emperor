@@ -1,0 +1,29 @@
+{
+ "source_no": 1221,
+ "title_guess": "傣社等奏报京城气候情形折",
+ "reign_year": 46,
+ "month": 10,
+ "day_text": "初七日",
+ "event_role": "其他",
+ "summary": "臣亿社等奏报京城自十月初三日申时起连阴三日，微雨微雪，天气渐寒，京城内俱着皮衣。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。初三日进物，但未回文。",
+ "people": [
+  {
+   "name": "亿社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "向祺",
+   "role": "奏事臣"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "其社等奏报京城气候情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 27304,
+ "page_range": "759-760"
+}

@@ -1,0 +1,29 @@
+{
+ "source_no": 313,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初五日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕皇太子，自述到宁夏近十日筹划兵马钱粮、途中劳苦，勉其勤于国事、阅览经史。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "谕示者"
+  },
+  {
+   "name": "皇太子",
+   "role": "受谕者"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_title": "康熙帝朱洽",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 7902,
+ "page_range": "371-372"
+}

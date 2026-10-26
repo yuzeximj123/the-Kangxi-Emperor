@@ -1,0 +1,38 @@
+{
+ "source_no": 106,
+ "title_guess": "两江总督傅拉塔奏请以张纯修授江南知府折",
+ "reign_year": 32,
+ "month": 7,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "summary": "傅拉塔遵旨简选应升官员，奏请以扬州府江防同知张纯修补授江南知府，并请圣训。",
+ "has_zhupi": true,
+ "zhupi_summary": "这很有理。",
+ "people": [
+  {
+   "name": "傅拉塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "张纯修",
+   "role": "扬州府江防同知"
+  },
+  {
+   "name": "高承爵",
+   "role": "巡抚"
+  },
+  {
+   "name": "傅泽洪",
+   "role": "泾县知县"
+  }
+ ],
+ "places": [
+  "江南",
+  "扬州"
+ ],
+ "source_title": "两江总督傅拉塔奏请以张纯修授江南知府折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 2302,
+ "page_range": "259-260"
+}

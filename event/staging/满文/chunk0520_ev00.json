@@ -1,0 +1,38 @@
+{
+ "source_no": 2647,
+ "title_guess": "户部尚书穆和伦奏请将欠部铜铅交付商人采买折",
+ "reign_year": 54,
+ "month": 7,
+ "day_text": "二十二日",
+ "event_role": "钱粮财政",
+ "summary": "奏折片段，续陈铜铅采买事宜，主张仍交商人王纲明等采买，并引康熙帝驳斥之旨及朱批，请求明鉴训示。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：此事断不可交付商人等。",
+ "people": [
+  {
+   "name": "穆和伦",
+   "role": "户部尚书"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "王纲明",
+   "role": "商人"
+  },
+  {
+   "name": "噶敏图",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "湖广",
+  "山西"
+ ],
+ "source_title": "户部尚书穆和伦奏请将欠部铜铅交付商人采买折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 52000,
+ "page_range": "1253-1254"
+}

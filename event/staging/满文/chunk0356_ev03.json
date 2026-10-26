@@ -1,0 +1,31 @@
+{
+ "source_no": 1699,
+ "title_guess": "山西巡抚苏克济奏请补授盐驿道员缺折",
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "二十二日",
+ "event_role": "人事任免",
+ "summary": "苏克济奏报大同府知府朱佐鼎已授江南盐驿道，大同府地方广阔兵民杂处且右卫有满洲兵驻守，请从纪录官员中简选贤能补授大同府员缺。",
+ "has_zhupi": true,
+ "zhupi_summary": "有和尔所知官员吗？著速写折奏来。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "朱佐鼎",
+   "role": "大同府知府"
+  }
+ ],
+ "places": [
+  "大同府",
+  "右卫",
+  "江南"
+ ],
+ "source_title": "山西巡抚苏克济奏请补授盐驿道员缺本",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35603,
+ "page_range": "925-926"
+}

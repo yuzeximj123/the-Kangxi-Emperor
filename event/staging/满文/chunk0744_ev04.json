@@ -1,0 +1,43 @@
+{
+ "source_no": 3584,
+ "title_guess": "两江总督长蒲奏为审理盐员张英兆收受礼银折",
+ "reign_year": 61,
+ "month": 1,
+ "day_text": "十二日",
+ "event_role": "司法案件",
+ "summary": "长蒲奏报奉旨审理张英兆案，讯问商人程廷关于加根银十六万两及礼物折银四万八千两等情，程廷供词反复。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "长蒲",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "张英兆",
+   "role": "盐员"
+  },
+  {
+   "name": "程廷",
+   "role": "商人头目"
+  },
+  {
+   "name": "王栋",
+   "role": "承差"
+  },
+  {
+   "name": "传哲洪",
+   "role": "署理盐道事务淮阳道员"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "淮阳"
+ ],
+ "source_title": "两江总督长蒲奏为审理盐员张英兆收受礼银折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 74404,
+ "page_range": "1701-1702"
+}

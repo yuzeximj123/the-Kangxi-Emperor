@@ -1,0 +1,41 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "片段：审问第二款，张四教被参借补库名色指派各州县共银十一万七千余两并扣解官役俸工，张供称系为预备圣驾南巡动库银，经督抚司道公议捐俸工补库，非私派。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "张四教",
+   "role": "安徽布政使"
+  },
+  {
+   "name": "李炜",
+   "role": "前司"
+  },
+  {
+   "name": "范督院",
+   "role": "总督"
+  },
+  {
+   "name": "宋抚院",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "江宁",
+  "丹阳",
+  "句容",
+  "龙潭"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 10904,
+ "page_range": "431-432",
+ "_date_interpolated": true
+}

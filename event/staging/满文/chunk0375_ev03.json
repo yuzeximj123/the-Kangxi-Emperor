@@ -1,0 +1,29 @@
+{
+ "source_no": 1809,
+ "title_guess": "嵩祝奏谢升授为礼部尚书折",
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "十三日",
+ "event_role": "人事任免",
+ "summary": "嵩祝奏谢皇上授其为礼部尚书，表示将竭尽犬马、勉力供职，并遵旨待署事人到后再行前来。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "嵩祝",
+   "role": "礼部尚书、署理盛京将军事务都统"
+  },
+  {
+   "name": "贝和诺",
+   "role": "礼部尚书（降级调用）"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_title": "帧祝奏谢升授为礼部尚书折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37503,
+ "page_range": "963-964"
+}

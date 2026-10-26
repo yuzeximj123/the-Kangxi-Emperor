@@ -1,0 +1,47 @@
+{
+ "source_no": 3376,
+ "title_guess": "内务府奏为修建传灯寺折",
+ "reign_year": 58,
+ "month": 4,
+ "day_text": "十三日",
+ "event_role": "宫廷事务",
+ "summary": "内务府遵旨议奏浙江会稽县平阳山传灯寺和尚苑良所奏事，因未陈明房顶房屋情形，议交杭州织造孙文成会同巡抚查明具奏。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "魏柱",
+   "role": "幼丁太监"
+  },
+  {
+   "name": "陈富",
+   "role": "幼丁太监"
+  },
+  {
+   "name": "苑良",
+   "role": "传灯寺和尚"
+  },
+  {
+   "name": "海章",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "董鞭邦",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  }
+ ],
+ "places": [
+  "浙江省绍兴府会稽县平阳山",
+  "传灯寺",
+  "杭州"
+ ],
+ "source_title": "内务府奏为修建传灯霉折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 69003,
+ "page_range": "1593-1594"
+}

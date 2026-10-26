@@ -1,0 +1,29 @@
+{
+ "source_no": 3050,
+ "title_guess": "杭州织造孙文成奏报闽浙总督衙门失火折",
+ "reign_year": 56,
+ "month": 7,
+ "day_text": "初二日",
+ "event_role": "其他",
+ "summary": "孙文成据闻奏报五月二十八日四更时闽浙总督满保衙内书房失火，大堂、穿堂、档房、御书楼、饭房皆被焚。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：早已闻知，这消息有误。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "满保",
+   "role": "闽浙总督"
+  }
+ ],
+ "places": [
+  "闽浙总督衙门"
+ ],
+ "source_title": "杭州织造孙文成替报冰浙总督箱门失火折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 60501,
+ "page_range": "1423-1424"
+}

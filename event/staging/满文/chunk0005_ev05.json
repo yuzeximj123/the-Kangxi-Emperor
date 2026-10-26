@@ -1,0 +1,51 @@
+{
+ "source_no": 32,
+ "title_guess": "山东巡抚佛伦奏报西洋人被民无端诬告案情折",
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "康熙二十九年三月初八日",
+ "event_role": "司法案件",
+ "summary": "佛伦查明西洋人汪儒望买王中奎空房建堂，王中莲诬告其聚众，拟照诬告拟流刑，并请准建堂居住严禁侵扰。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "汪儒望",
+   "role": "西洋人"
+  },
+  {
+   "name": "王中奎",
+   "role": "民人"
+  },
+  {
+   "name": "王中莲",
+   "role": "民人"
+  },
+  {
+   "name": "王中五",
+   "role": "民人"
+  },
+  {
+   "name": "王中硅",
+   "role": "民人"
+  },
+  {
+   "name": "柯石",
+   "role": "中证人"
+  }
+ ],
+ "places": [
+  "山东",
+  "东昌府",
+  "茌平县"
+ ],
+ "source_title": "山东巡抚佛伦奏报西洋人被民无端诬告案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 505,
+ "page_range": "223-224"
+}

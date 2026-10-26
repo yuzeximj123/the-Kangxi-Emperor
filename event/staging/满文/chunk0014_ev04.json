@@ -1,0 +1,33 @@
+{
+ "source_no": 69,
+ "title_guess": "山东巡抚佛伦奏谢恩赏鹿肉等物折",
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "初一日",
+ "event_role": "请安谢恩",
+ "summary": "佛伦奏谢皇上赏赐鹿肉、鹿尾、舌、后膛、肋骨、后腿肉等物，设香案叩领并与省城文武官员分尝。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "阿勤珠",
+   "role": "佛伦之子"
+  },
+  {
+   "name": "吴什",
+   "role": "传谕官员"
+  }
+ ],
+ "places": [
+  "省城"
+ ],
+ "source_title": "山东巡抚佛伦礁谢恩赏放肉等物折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1404,
+ "page_range": "241-242"
+}

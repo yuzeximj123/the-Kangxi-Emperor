@@ -1,0 +1,33 @@
+{
+ "source_no": 3553,
+ "title_guess": "理藩院奏请遭雹灾借粮折",
+ "reign_year": 60,
+ "month": 5,
+ "day_text": "二十日",
+ "event_role": "灾情收成",
+ "summary": "伊玛图等处喀喇沁三旗去年遭雹灾，今春无食，请借粮八百八十石八斗接济，秋后偿还。",
+ "has_zhupi": true,
+ "zhupi_summary": "需粮不多，有益于民，照所请拨给，明年获粮时偿还。",
+ "people": [
+  {
+   "name": "阿称呼朗",
+   "role": "捕盗章京"
+  },
+  {
+   "name": "特古戒",
+   "role": "右侍郎"
+  },
+  {
+   "name": "奈曼岱",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "伊玛图"
+ ],
+ "source_title": "理藩院考请遭蜀灾借粮折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 73602,
+ "page_range": "1685-1686"
+}

@@ -1,0 +1,44 @@
+{
+ "source_no": 2150,
+ "title_guess": "福建巡抚满保奏请择人暂署总兵副将二缺折",
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "二十一日",
+ "event_role": "人事任免",
+ "summary": "福建巡抚满保奏报总兵朱光术、副将叶国定互讼案审实，正议罪具奏，因金门厦门要地现值严巡海面，请择人暂行署理二缺并请早派可信之人。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称尔等会议之事，将有旨意。",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "朱光术",
+   "role": "总兵"
+  },
+  {
+   "name": "叶国定",
+   "role": "副将"
+  },
+  {
+   "name": "范时尝",
+   "role": "总督"
+  },
+  {
+   "name": "施世又",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "福建",
+  "金门",
+  "厦门",
+  "台湾"
+ ],
+ "source_title": "福建巡抚满保考请择人暂署总兵副将二仍折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 43006,
+ "page_range": "1073-1074"
+}

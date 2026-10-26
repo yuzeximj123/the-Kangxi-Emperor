@@ -1,0 +1,35 @@
+{
+ "source_no": 161,
+ "title_guess": "抚远大将军费扬古奏报征讨噶尔丹进军日期折",
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "四月初七日",
+ "event_role": "军务",
+ "summary": "费扬古奏报进军日期、途中雨雪泥泞耽搁及炮车粮车运输情况，并提及于成龙等至营地告称粮车出哨所。",
+ "has_zhupi": true,
+ "zhupi_summary": "抄录费扬古奏折。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "于成龙",
+   "role": "清运正卿"
+  },
+  {
+   "name": "范成烈",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [
+  "阿尔噶灵图",
+  "昭哈察汉和绍",
+  "翁金"
+ ],
+ "source_title": "抚远大将军费扬古奏报征讨噶尔丹进军日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3604,
+ "page_range": "285-286"
+}

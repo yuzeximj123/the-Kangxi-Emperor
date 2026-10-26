@@ -1,0 +1,43 @@
+{
+ "source_no": 1855,
+ "title_guess": "福建巡抚满保奏报原任提督蓝理罪情折",
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "十二日",
+ "event_role": "弹劾参奏",
+ "summary": "满保续奏蓝理贪暴劣迹，列二十罪参劾，请将赃物没官并交张鹏翮等查明，另附刊印劣迹书册奏览。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了，无另旨。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "蓝理",
+   "role": "原任提督"
+  },
+  {
+   "name": "范时崇",
+   "role": "前任总督"
+  },
+  {
+   "name": "董永文",
+   "role": "按察使"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "福建",
+  "泉州",
+  "漳州"
+ ],
+ "source_title": "福建巡抚满保奏报原任提督蓝理罪情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 38300,
+ "page_range": "979-980"
+}

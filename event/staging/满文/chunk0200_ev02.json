@@ -1,0 +1,43 @@
+{
+ "source_no": null,
+ "title_guess": "称达赖喇嘛之人致王扎西巴图鲁书",
+ "reign_year": 44,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "称达赖喇嘛者致书扎西巴图鲁，述拉藏征土伯特缘由、与第巴一心结仇拉藏，请转告多尔济喇嘛奏闻皇上。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "达赖喇嘛",
+   "role": "称达赖喇嘛之人"
+  },
+  {
+   "name": "扎西巴图鲁",
+   "role": "台吉"
+  },
+  {
+   "name": "拉藏",
+   "role": "拉藏汗"
+  },
+  {
+   "name": "第巴",
+   "role": "第巴"
+  },
+  {
+   "name": "多尔济喇嘛",
+   "role": "喇嘛"
+  }
+ ],
+ "places": [
+  "土伯特",
+  "招地"
+ ],
+ "source_title": "称达赖喇嘛之人致王扎西巴图鲁书",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 20002,
+ "page_range": "613-614",
+ "_date_interpolated": true
+}

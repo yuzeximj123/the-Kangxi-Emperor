@@ -1,0 +1,44 @@
+{
+ "source_no": 2375,
+ "title_guess": "川陕总督鄂海奏闻西固所口外生哈番全部归附折",
+ "reign_year": 53,
+ "month": 3,
+ "day_text": "十四日",
+ "event_role": "边疆事务",
+ "summary": "鄂海奏报西固所口外大山中生哈番头目甘哈章等三十七人来归，共七千余人全部归附，已给赏剃发遣回。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "富卫旭",
+   "role": "岷州卫守备"
+  },
+  {
+   "name": "杨如松",
+   "role": "土司"
+  },
+  {
+   "name": "甘哈章",
+   "role": "生哈番头目"
+  },
+  {
+   "name": "雍泰",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "西固所",
+  "岷州卫",
+  "西安",
+  "松潘"
+ ],
+ "source_title": "川陕总督辑海奏闻西固所口外生哈恤全部归附折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 46704,
+ "page_range": "1147-1148"
+}

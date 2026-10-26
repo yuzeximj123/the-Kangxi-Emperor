@@ -1,0 +1,35 @@
+{
+ "source_no": 123,
+ "title_guess": "两江总督傅拉塔奏请以观保为本衙门笔帖式折",
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "十五日",
+ "event_role": "人事任免",
+ "summary": "傅拉塔奏报笔帖式马齐病故，请以翰林院镶黄旗八品笔帖式观保补授本衙门笔帖式，并陈明观保系其岳父族弟之子，故知之详。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "傅拉塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "马齐",
+   "role": "正红旗八品笔帖式"
+  },
+  {
+   "name": "观保",
+   "role": "翰林院镶黄旗八品笔帖式"
+  },
+  {
+   "name": "达锡纳",
+   "role": "拨什库"
+  }
+ ],
+ "places": [],
+ "source_title": "两江总督傅拉塔奏请以观保为本升门笔帖式折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 2704,
+ "page_range": "267-268"
+}

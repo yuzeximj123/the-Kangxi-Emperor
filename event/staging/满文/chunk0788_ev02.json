@@ -1,0 +1,46 @@
+{
+ "source_no": 3879,
+ "title_guess": "武英殿总监造赫世享奏寻《诗韵》一书情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月二十二日",
+ "event_role": "宫廷事务",
+ "summary": "赫世享奏报奉旨寻《诗韵》一书，令吴涵等查找，吴涵称此书系南宋钱痒所编，已寄信嘉兴亲戚寻访，另得二卷诗韵呈览。",
+ "has_zhupi": true,
+ "zhupi_summary": "不是这本书，速即回。",
+ "people": [
+  {
+   "name": "赫世享",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "德林",
+   "role": "监视"
+  },
+  {
+   "name": "吴涵",
+   "role": "汉大臣"
+  },
+  {
+   "name": "钱痒",
+   "role": "南宋嘉兴人，编者"
+  },
+  {
+   "name": "郭世隆",
+   "role": "总督"
+  },
+  {
+   "name": "郭朝珍",
+   "role": "郭世隆之子"
+  }
+ ],
+ "places": [
+  "嘉兴"
+ ],
+ "source_title": "武英典总监造赫世享考寻《诗韵)一交情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78802,
+ "page_range": "1789-1790",
+ "_date_interpolated": true
+}

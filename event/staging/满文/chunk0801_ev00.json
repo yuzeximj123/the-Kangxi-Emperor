@@ -1,0 +1,32 @@
+{
+ "source_no": 3976,
+ "title_guess": "步军统领隆科多奏报京城得雨沾足折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月初九日、十一日、十二日、十三日",
+ "event_role": "灾情收成",
+ "summary": "隆科多奏报京城初九至十三日多次降雨，畅春园、卢沟桥、海子、孙河、清河均得雨沾足。",
+ "has_zhupi": true,
+ "zhupi_summary": "热河雨水早已沾足，庄稼好无须祈雨，故自十一日未祈雨；十四日午时雷雨至天明，现仍浓云密布，雨停才好，再下则过。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城",
+  "畅春园",
+  "卢沟桥",
+  "海子",
+  "孙河",
+  "清河",
+  "热河"
+ ],
+ "source_title": "步军统领隆科多奏报京城得雨沾足折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80100,
+ "page_range": "1815-1816",
+ "_date_interpolated": true
+}

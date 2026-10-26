@@ -1,0 +1,45 @@
+{
+ "source_no": 3498,
+ "title_guess": "抚远大将军筷祯奏为遣返贝子卢斌等人折",
+ "reign_year": 59,
+ "month": 3,
+ "day_text": "二十一日",
+ "event_role": "军务",
+ "summary": "筷祯奏报奉旨遣返贝子卢斌、广善、永前、景顺四人，伊等屡请留营效力并捐马驼，已收用于军务，令其三月二十四日启程返京。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "筷祯",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "卢斌",
+   "role": "贝子"
+  },
+  {
+   "name": "广善",
+   "role": "裕王之子"
+  },
+  {
+   "name": "永前",
+   "role": "简王之子"
+  },
+  {
+   "name": "景顺",
+   "role": "镇国将军"
+  },
+  {
+   "name": "噶什图",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "木鲁乌苏"
+ ],
+ "source_title": "抚远大将军优补考为遗返贝子卢斌等人折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 72504,
+ "page_range": "1663-1664"
+}

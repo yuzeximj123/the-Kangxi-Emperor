@@ -1,0 +1,43 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十月初九日",
+ "event_role": "边疆事务",
+ "summary": "据员外郎保柱奏称，商南多尔济曾言班禅不来难以复奏，须设计说服青海台吉带往京城以遮颜面；阿南达屡次劝阻，商南多尔济自领兵往塔尔寺立营布阵召拉藏等，致青海人惊动。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "商南多尔济",
+   "role": "喇嘛"
+  },
+  {
+   "name": "保柱",
+   "role": "员外郎"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "拉藏",
+   "role": "台吉"
+  },
+  {
+   "name": "戴青和硕齐",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "塔尔寺",
+  "西宁"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12705,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

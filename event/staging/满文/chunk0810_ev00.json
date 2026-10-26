@@ -1,0 +1,27 @@
+{
+ "source_no": 4043,
+ "title_guess": "步军统领隆科多奏请增添畅春园之守兵折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "隆科多奏报畅春园等处堆子共六十八处，现有马步兵不足，请增步兵八十、马兵四十，使兵足五百，并请交部议行。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "静明园"
+ ],
+ "source_title": "步军统领隆科多考请增添畅春园之守兵折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81000,
+ "page_range": "1833-1834",
+ "_date_interpolated": true
+}

@@ -1,0 +1,41 @@
+{
+ "source_no": 3310,
+ "title_guess": "闽浙总督满保奏请将浙江巡抚等留任效力折",
+ "reign_year": 58,
+ "month": 1,
+ "day_text": "初五日",
+ "event_role": "人事任免",
+ "summary": "满保奏报浙江陈凤池乡试舞弊案审结，外帘失察之巡抚、布政使、按察使等交部议处，并称巡抚朱轼清廉、按察使王之志公正，请恩准二人留原任效力。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：这奏的是。知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "朱轼",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "王之志",
+   "role": "浙江按察使"
+  },
+  {
+   "name": "王思轼",
+   "role": "侍郎"
+  },
+  {
+   "name": "陈凤池",
+   "role": "浙江举人"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_title": "浙浙总督满保奏请将浙江巡抚等留任效力折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 67603,
+ "page_range": "1565-1566"
+}

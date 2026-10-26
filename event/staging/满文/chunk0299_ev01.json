@@ -1,0 +1,34 @@
+{
+ "source_no": 1345,
+ "title_guess": "陕西巡抚鄂海奏报得雨并田禾情形折",
+ "reign_year": 47,
+ "month": 8,
+ "day_text": "三十日",
+ "event_role": "灾情收成",
+ "summary": "鄂海奏报陕西秋禾生长秀穗畅茂，七、八月得雨沾足，村民欢悦，预计丰收，收成分数待收割另奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "齐世武",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "汉中",
+  "延安",
+  "兴安州",
+  "陕西"
+ ],
+ "source_title": "陕西巡抚辑海奏报得雨并田儿情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 29901,
+ "page_range": "811-812"
+}

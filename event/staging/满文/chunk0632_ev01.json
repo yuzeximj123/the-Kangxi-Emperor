@@ -1,0 +1,36 @@
+{
+ "source_no": 3142,
+ "title_guess": "内务府奏为热河等处贮冰事折",
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初九日",
+ "event_role": "宫廷事务",
+ "summary": "内务府奏请今年热河等处贮冰差遣巴彦一名修冰窖房屋贮冰，援引康熙五十一年、五十六年旧例请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "谕令此等处不可差派巴彦，即交赫依、佛保等贮藏，用多少俱奏闻再办库银。",
+ "people": [
+  {
+   "name": "董典邦",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "官保",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "佛保",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "热河",
+  "窝赫城",
+  "莫浑岭",
+  "流碑亭"
+ ],
+ "source_title": "内务府奏为热河等处贮冰事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 63201,
+ "page_range": "1477-1478"
+}

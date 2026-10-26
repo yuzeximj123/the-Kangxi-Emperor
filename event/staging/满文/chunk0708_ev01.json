@@ -1,0 +1,43 @@
+{
+ "source_no": 3440,
+ "title_guess": "李国屏奏明误缮书名之缘由折",
+ "reign_year": 58,
+ "month": 7,
+ "day_text": "二十日",
+ "event_role": "宫廷事务",
+ "summary": "李国屏奏报将《对类书》改名为《分类资津》缮写，因校对官硕色扣压咨文三日致误缮书名，请赔偿另缮并请查硕色。",
+ "has_zhupi": true,
+ "zhupi_summary": "无庸改写，将前二册增写新名则已；将扣压三日之硕色执交；此事与尔无关。",
+ "people": [
+  {
+   "name": "李国屏",
+   "role": "奴才/奏报人"
+  },
+  {
+   "name": "硕色",
+   "role": "校对官"
+  },
+  {
+   "name": "李通钟",
+   "role": "克勤殿太监"
+  },
+  {
+   "name": "张长柱",
+   "role": "相关官员"
+  },
+  {
+   "name": "伊都里",
+   "role": "相关官员"
+  }
+ ],
+ "places": [
+  "热河",
+  "京城",
+  "养心殿"
+ ],
+ "source_title": "李国屏奏明误缮书名之缘由折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 70801,
+ "page_range": "1629-1630"
+}

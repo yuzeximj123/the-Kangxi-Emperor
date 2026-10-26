@@ -1,0 +1,36 @@
+{
+ "source_no": 1779,
+ "title_guess": "武英殿总监造和素奏报西洋人消息折",
+ "reign_year": 50,
+ "month": 7,
+ "day_text": "十八日",
+ "event_role": "其他",
+ "summary": "和素遵旨询问西洋人苏琳、吉利安，报称尚未得西洋消息，并转述澳门商人往小西洋等地贸易迟回之由。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。现在西洋人所言前后不相符，尔等理当防备。",
+ "people": [
+  {
+   "name": "和素",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "苏琳",
+   "role": "西洋人"
+  },
+  {
+   "name": "吉利安",
+   "role": "西洋人"
+  }
+ ],
+ "places": [
+  "澳门",
+  "小西洋",
+  "嘎拉巴",
+  "日宋"
+ ],
+ "source_title": "武英殿总监造和素奏报西洋人消息折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37001,
+ "page_range": "953-954"
+}

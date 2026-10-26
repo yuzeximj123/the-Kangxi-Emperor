@@ -1,0 +1,28 @@
+{
+ "source_no": 769,
+ "title_guess": "陕西巡抚鄂海奏报秋禾生长情形折",
+ "reign_year": 44,
+ "month": 8,
+ "day_text": "初二日",
+ "event_role": "灾情收成",
+ "summary": "鄂海奏报陕西今年雨水调匀、秋禾生长茂盛，高四五尺、穗大且多双穗，西安等四府州县田禾均好，可望丰收。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "汉中",
+  "延安"
+ ],
+ "source_title": "陕西和因抚辑海奏报秋才生长情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 19004,
+ "page_range": "593-594"
+}

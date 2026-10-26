@@ -1,0 +1,42 @@
+{
+ "source_no": 3187,
+ "title_guess": "兵部尚书逊柱等奏请将披甲德森特遣回原籍折",
+ "reign_year": 57,
+ "month": 5,
+ "day_text": "初一日",
+ "event_role": "人事任免",
+ "summary": "兵部奏报披甲德森特疯病经医治痊愈，请旨是否遣回原籍。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：将此不可遣返，在此处为步甲。",
+ "people": [
+  {
+   "name": "逊柱",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "党阿赖",
+   "role": "左侍郎"
+  },
+  {
+   "name": "德森特",
+   "role": "披甲"
+  },
+  {
+   "name": "高贵真",
+   "role": "大夫"
+  },
+  {
+   "name": "孟果",
+   "role": "正红满洲旗副都统"
+  }
+ ],
+ "places": [
+  "围场",
+  "京城"
+ ],
+ "source_title": "兵部尚书逊柱等麦请将披甲德森特遗回原籍折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 64503,
+ "page_range": "1503-1504"
+}

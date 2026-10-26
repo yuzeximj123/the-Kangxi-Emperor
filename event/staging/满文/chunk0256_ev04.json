@@ -1,0 +1,33 @@
+{
+ "source_no": 1120,
+ "title_guess": "陕西巡抚鄂海奏报夏粮收成分数折",
+ "reign_year": 46,
+ "month": 5,
+ "day_text": "三十日",
+ "event_role": "灾情收成",
+ "summary": "鄂海奏报陕西麦子、大麦、豌豆、菜子收割完毕及收成分数，西安等府州收成七八分至十余分不等，并报得雨秋禾生长情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "博雾",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "汉中",
+  "兴安",
+  "延安府"
+ ],
+ "source_title": "陕西巡抚加海奏报夏粮收成分数拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25604,
+ "page_range": "725-726"
+}

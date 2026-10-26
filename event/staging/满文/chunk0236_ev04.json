@@ -1,0 +1,37 @@
+{
+ "source_no": 1023,
+ "title_guess": "杭州织造孙文成奏报赍送高愈所进箱匣签折",
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "二十七日",
+ "event_role": "宫廷事务",
+ "summary": "奏报高愈差家人送进黄布箱、木匣、竹签等物，交王武赍送进呈。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "高愈",
+   "role": "进物人"
+  },
+  {
+   "name": "陈路",
+   "role": "高愈家人"
+  },
+  {
+   "name": "王武",
+   "role": "赍送人"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_title": "杭州织造孙文成堆报次送高傅所进箱匠签折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23604,
+ "page_range": "685-686"
+}

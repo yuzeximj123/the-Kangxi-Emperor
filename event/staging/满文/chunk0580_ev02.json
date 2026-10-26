@@ -1,0 +1,49 @@
+{
+ "source_no": 2923,
+ "title_guess": "刑部尚书赖都等奏报审理妄闻一案折",
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "初十日",
+ "event_role": "司法案件",
+ "summary": "刑部尚书赖都等奏报审理常明即闻一案，常明为父伸冤妄行呈状，拟枷号三月、杖一百解往将军处，请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "常明著杖一百，留京城当差。",
+ "people": [
+  {
+   "name": "赖都",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "张廷枢",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "阿锡鼐",
+   "role": "左侍郎"
+  },
+  {
+   "name": "艾芳曾",
+   "role": "左侍郎"
+  },
+  {
+   "name": "刘相",
+   "role": "右侍郎"
+  },
+  {
+   "name": "李华之",
+   "role": "右侍郎"
+  },
+  {
+   "name": "常明",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "雅图沟"
+ ],
+ "source_title": "刑部尚书赖都等奏报审理亡奸忠闻一案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 58002,
+ "page_range": "1373-1374"
+}

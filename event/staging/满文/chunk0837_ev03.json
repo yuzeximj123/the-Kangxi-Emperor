@@ -1,0 +1,35 @@
+{
+ "source_no": 4170,
+ "title_guess": "闵明鄂吉利安奏折译文",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "五月十二日",
+ "event_role": "其他",
+ "summary": "五月十二日闵明鄂、吉利安奏称本月初九日奉皇上算法手谕一张，细读后赞皇上精通七政皇历日食月食之理，惟杨秉一算法未载明经度来源不敢即奏，并议钦天监验算及日差增减、用表核对之法。",
+ "has_zhupi": true,
+ "zhupi_summary": "初六日夜、初七日子时、初八日子时日在何宫何度，加二宫之度而平分方得初七正午日之位置；若谓七政皇历无误，著将七政皇历分算奏来。",
+ "people": [
+  {
+   "name": "闵明鄂",
+   "role": "西洋人"
+  },
+  {
+   "name": "吉利安",
+   "role": "西洋人"
+  },
+  {
+   "name": "杨秉一",
+   "role": "算法家"
+  }
+ ],
+ "places": [
+  "京城",
+  "热河"
+ ],
+ "source_title": "阅明鄂吉利安奏折译文",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83703,
+ "page_range": "1887-1888",
+ "_date_interpolated": true
+}

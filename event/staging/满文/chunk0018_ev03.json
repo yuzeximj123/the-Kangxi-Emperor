@@ -1,0 +1,44 @@
+{
+ "source_no": 88,
+ "title_guess": "川陕总督佛伦奏陈陕西被灾情形折",
+ "reign_year": 32,
+ "month": 1,
+ "day_text": "十八日",
+ "event_role": "灾情收成",
+ "summary": "佛伦奏报西安、凤翔二府被灾后赈济蠲免情形，严饬查报流民返回情况，并亲赴灾区踏察田地耕种及麦豆生长情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "吴赫",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "潼关",
+  "耀州",
+  "宁羌州",
+  "广州",
+  "陇州",
+  "华亭",
+  "三水",
+  "宝鸡",
+  "江南",
+  "直隶",
+  "山西",
+  "河南",
+  "湖广",
+  "四川"
+ ],
+ "source_title": "川陕总督佛伦奏陈陕西被灾情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1803,
+ "page_range": "249-250"
+}

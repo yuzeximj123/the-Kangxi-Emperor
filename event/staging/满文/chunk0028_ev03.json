@@ -1,0 +1,42 @@
+{
+ "source_no": 128,
+ "title_guess": "两江总督傅拉塔奏请巡抚马如龙年老解任折",
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "十七日",
+ "event_role": "人事任免",
+ "summary": "傅拉塔奏称江西巡抚马如龙年高体衰、言语不清，请令其以老休致或调京，并荐山东巡抚桑额调补江西巡抚。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "傅拉塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "马如龙",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "桑额",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "江西",
+  "广东",
+  "福建",
+  "浙江",
+  "山东",
+  "江宁"
+ ],
+ "source_title": "两江总督傅拉塔奏请多抚马如龙年老解任折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 2803,
+ "page_range": "269-270"
+}

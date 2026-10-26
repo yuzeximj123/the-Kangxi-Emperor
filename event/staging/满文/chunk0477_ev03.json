@@ -1,0 +1,30 @@
+{
+ "source_no": 2441,
+ "title_guess": "广东巡抚满丕奏闻早禾丰收并进土产折",
+ "reign_year": 53,
+ "month": 6,
+ "day_text": "十三日",
+ "event_role": "灾情收成",
+ "summary": "广东巡抚满丕奏报因圣主减价粜米、雨水调匀，广东十府一州早禾普遍丰收，米价平贱，官民感戴，并进呈土产。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝谕知道了。",
+ "people": [
+  {
+   "name": "满丕",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "刘二",
+   "role": "家人"
+  }
+ ],
+ "places": [
+  "广东",
+  "江南"
+ ],
+ "source_title": "广东巡抚满玉奏闻早末丰收并进士产折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 47703,
+ "page_range": "1167-1168"
+}

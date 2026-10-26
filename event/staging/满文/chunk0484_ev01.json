@@ -1,0 +1,30 @@
+{
+ "source_no": 2483,
+ "title_guess": "内务府奏请十大牧群于何处喂养折",
+ "reign_year": 53,
+ "month": 8,
+ "day_text": "初八日",
+ "event_role": "宫廷事务",
+ "summary": "内务府奏请御马群及十大牧群喂养地点，请示照去年庄屯饲养或由户部领钱粮于杨村等处喂养。",
+ "has_zhupi": true,
+ "zhupi_summary": "照去年。",
+ "people": [
+  {
+   "name": "赫奕",
+   "role": "工部尚书兼管内务府总管"
+  }
+ ],
+ "places": [
+  "兰州",
+  "乐训县",
+  "保安州",
+  "宣化府",
+  "杨村",
+  "茜村"
+ ],
+ "source_title": "内务府奏请十大由群于何处喂养本",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 48401,
+ "page_range": "1181-1182"
+}

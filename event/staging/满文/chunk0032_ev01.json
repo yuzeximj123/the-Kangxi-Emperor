@@ -1,0 +1,31 @@
+{
+ "source_no": 143,
+ "title_guess": "两江总督范承勋请安折",
+ "reign_year": 34,
+ "month": 4,
+ "day_text": "十二日",
+ "event_role": "请安谢恩",
+ "summary": "两江总督范承勋具折恭请圣安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安。尔可好？江南地方不可与云南相比，应谨慎调养。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "云南"
+ ],
+ "source_title": "两江总督范永肌请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3201,
+ "page_range": "277-278"
+}

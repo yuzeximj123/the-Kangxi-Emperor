@@ -1,0 +1,45 @@
+{
+ "source_no": 3949,
+ "title_guess": "步军统领隆科多奏报六七月京城所获各案情折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "六月十四日至七月十四日",
+ "event_role": "司法案件",
+ "summary": "奏报六月十四日至七月十四日拿获窃盗割懒筋者十人、拐骗案三宗、假银案一宗、赌博案二宗、逃人二名等，解送刑部。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "备三",
+   "role": "窃贼"
+  },
+  {
+   "name": "严大",
+   "role": "窃贼"
+  },
+  {
+   "name": "王恒",
+   "role": "窃贼"
+  },
+  {
+   "name": "塔斯哈",
+   "role": "马尔干家人"
+  }
+ ],
+ "places": [
+  "南海淀",
+  "武清县",
+  "宣化府",
+  "乌拉"
+ ],
+ "source_title": "步军统领隆科多奏报六七月京城所获各案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79704,
+ "page_range": "1807-1808",
+ "_date_interpolated": true
+}

@@ -1,0 +1,48 @@
+{
+ "source_no": 1887,
+ "title_guess": "杭州织造孙文成奏报兵船遭袭击折",
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十七日",
+ "event_role": "军务",
+ "summary": "孙文成遵旨再探报：去年十一月贼船自外洋来袭松门，把总许文少被擒斩、兵丁阵亡，杨再文败逃，游击郭国自尽未遂后于十二月初十自刎，员外郎常明往勘后返杭。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "郭国",
+   "role": "黄岩游击"
+  },
+  {
+   "name": "许文少",
+   "role": "把总"
+  },
+  {
+   "name": "杨再文",
+   "role": "把总"
+  },
+  {
+   "name": "王世臣",
+   "role": "提督"
+  },
+  {
+   "name": "常明",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "松门",
+  "宁波府",
+  "黄岩",
+  "杭州"
+ ],
+ "source_title": "杭州织造孙文成奏报兵船遭袭击折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 38803,
+ "page_range": "989-990"
+}

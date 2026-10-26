@@ -1,0 +1,30 @@
+{
+ "source_no": 1674,
+ "title_guess": "两江总督噶礼奏报雨雪田禾并粮价情形折",
+ "reign_year": 49,
+ "month": 12,
+ "day_text": "二十七日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报江南地方连得大雪，麦子生长良好，米价每仓石七钱五六分至九钱不等，兵民乐业。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "甘泰",
+   "role": "笔帖式候缺"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁"
+ ],
+ "source_title": "两江总督噶礼奏报雨雪田用并粮价情形拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35204,
+ "page_range": "917-918"
+}

@@ -1,0 +1,31 @@
+{
+ "source_no": 4253,
+ "title_guess": "(佚名)奏报守备员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报直隶易水营、江南江北瓜州营、江西南闵总兵标下中军、湖广提督标下左营、四川成都城守营左营、江南新安卫等守备员缺。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批著以白万忠补授易水营守备，余者照常所签。",
+ "people": [
+  {
+   "name": "白万忠",
+   "role": "补授守备"
+  }
+ ],
+ "places": [
+  "直隶易水营",
+  "江南江北瓜州营",
+  "江西南闵",
+  "湖广",
+  "四川成都城守营",
+  "江南新安卫"
+ ],
+ "source_title": "(佚名)奏报守备员身折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85509,
+ "page_range": "1923-1924",
+ "_date_interpolated": true
+}

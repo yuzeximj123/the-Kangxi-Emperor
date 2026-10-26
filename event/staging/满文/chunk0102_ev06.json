@@ -1,0 +1,35 @@
+{
+ "source_no": 410,
+ "title_guess": "山西巡抚噶礼奏报游击随钦差侍郎前往四川折",
+ "reign_year": 40,
+ "month": 1,
+ "day_text": "初四日",
+ "event_role": "军务",
+ "summary": "山西巡抚噶礼请圣安，奏报钦差侍郎满丕率前锋前往四川，沿途预备马车，中军游击铁金城自愿随往效力，营务已委官署理。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕安。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "满丕",
+   "role": "钦差侍郎"
+  },
+  {
+   "name": "铁金城",
+   "role": "山西巡抚标下中军游击"
+  }
+ ],
+ "places": [
+  "山西",
+  "榆次县",
+  "四川"
+ ],
+ "source_title": "山西巡抚哎礼考报游击随钦盖侍郎前往四川折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 10206,
+ "page_range": "417-418"
+}

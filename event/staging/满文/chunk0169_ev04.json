@@ -1,0 +1,30 @@
+{
+ "source_no": 650,
+ "title_guess": "西安将军博霁奏请就近办理捐纳事宜折",
+ "reign_year": 43,
+ "month": 8,
+ "day_text": "二十五日",
+ "event_role": "钱粮财政",
+ "summary": "遵旨与巡抚齐世武商议甘肃常平仓捐纳积贮事，请令巡抚就近办理捐纳以多积仓粮。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "博霁",
+   "role": "西安将军"
+  },
+  {
+   "name": "齐世武",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "三边"
+ ],
+ "source_title": "西安将军博雾考请就近办理捐纳事宜折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16904,
+ "page_range": "551-552"
+}

@@ -1,0 +1,38 @@
+{
+ "source_no": 2426,
+ "title_guess": "川陕总督鄂海奏闻得雨日期及米价折",
+ "reign_year": 53,
+ "month": 6,
+ "day_text": "康熙五十三年六月初五日",
+ "event_role": "灾情收成",
+ "summary": "鄂海奏报甘肃被灾地方田禾生长、西安府一带夏收及雨水情形，并报粟米小麦大麦等时价。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "常泰",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "西安府",
+  "长武县",
+  "邠州",
+  "永寿县",
+  "乾州",
+  "兴平县",
+  "醴泉县",
+  "咸阳县",
+  "凤翔"
+ ],
+ "source_title": "川陕总督辑海考闻得十日期及米价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 47502,
+ "page_range": "1163-1164"
+}

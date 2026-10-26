@@ -1,0 +1,58 @@
+{
+ "source_no": 1592,
+ "title_guess": "息社等奏报京城等地阴雨并患病求医人员折",
+ "reign_year": 49,
+ "month": 5,
+ "day_text": "二十八日",
+ "event_role": "宫廷事务",
+ "summary": "奏报京城、畅春园二十五至二十七日阴雨情形，并汇奏二十四日以来求医人员华色、徐可贵、硕色等病情及诊治情况。",
+ "has_zhupi": true,
+ "zhupi_summary": "以前似此折子，曾不写尔等之名。",
+ "people": [
+  {
+   "name": "乱社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "向祺",
+   "role": "奏事臣"
+  },
+  {
+   "name": "天被",
+   "role": "奏事臣"
+  },
+  {
+   "name": "华色",
+   "role": "托沙喇哈番"
+  },
+  {
+   "name": "徐可贵",
+   "role": "闲员"
+  },
+  {
+   "name": "硕色",
+   "role": "食阿思哈尼哈番"
+  },
+  {
+   "name": "张绪",
+   "role": "大夫"
+  },
+  {
+   "name": "李德",
+   "role": "大夫"
+  },
+  {
+   "name": "刘声芳",
+   "role": "太医院右判"
+  }
+ ],
+ "places": [
+  "京城",
+  "畅春园"
+ ],
+ "source_title": "央社等奏报京城等地阴雨并患病求医人员折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33903,
+ "page_range": "891-892"
+}

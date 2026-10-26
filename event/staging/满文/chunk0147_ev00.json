@@ -1,0 +1,48 @@
+{
+ "source_no": 540,
+ "title_guess": "山东巡抚王国昌奏报海贼及运粮防范折",
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "十五日",
+ "event_role": "军务",
+ "summary": "奏报胶州、诸城等处海面有小贼船出没抢掠商船，已行文总兵等严查，并请降旨令运米大臣防范。",
+ "has_zhupi": true,
+ "zhupi_summary": "所奏知道了。询问海贼从何而来、船由何处制造，知其细情则击之甚易。",
+ "people": [
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "金国贞",
+   "role": "胶州副将"
+  },
+  {
+   "name": "张良德",
+   "role": "青州府知府"
+  },
+  {
+   "name": "王文雄",
+   "role": "总兵官"
+  },
+  {
+   "name": "张成起",
+   "role": "文登营副将"
+  },
+  {
+   "name": "赵宏变",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "胶州",
+  "青岛",
+  "诸城县",
+  "瑶琅台"
+ ],
+ "source_title": "山东扩抚王国昌考报旦粮及冉船情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 14700,
+ "page_range": "507-508"
+}

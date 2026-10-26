@@ -1,0 +1,26 @@
+{
+ "source_no": 3618,
+ "title_guess": "行在兵部咨呈抚远大将军王为撤军事",
+ "reign_year": 61,
+ "month": 5,
+ "day_text": "二十七日",
+ "event_role": "军务",
+ "summary": "行在兵部咨呈抚远大将军王，奉旨询问甘州肃州撤回绿营兵是否即大将军王所奏应撤之兵，若未撤则撤。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "甘州",
+  "肃州"
+ ],
+ "source_title": "行在兵部咨呈抚远大将军王为撤军事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 75203,
+ "page_range": "1717-1718"
+}

@@ -1,0 +1,43 @@
+{
+ "source_no": 82,
+ "title_guess": "川陕总督佛伦奏报布喀等员品行折",
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "二十一日",
+ "event_role": "弹劾参奏",
+ "summary": "佛伦奏报访查布喀奸诈暴虐、运米时多派车夫殴打官民、民怨载道，并覆奏查实王杰能干、张林人品必优，又奏宁夏兵撤回西安宜待来年春麦生长后再请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：甚是。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "布喀",
+   "role": "巡抚"
+  },
+  {
+   "name": "王杰",
+   "role": "河南府知府"
+  },
+  {
+   "name": "张林",
+   "role": "贵州道员"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "长武",
+  "邠州",
+  "陕西",
+  "西安",
+  "河南府",
+  "甘肃"
+ ],
+ "source_title": "川陕总督佛伦奏报布喀等员品行折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1702,
+ "page_range": "247-248"
+}

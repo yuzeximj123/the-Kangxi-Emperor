@@ -1,0 +1,51 @@
+{
+ "source_no": 4245,
+ "title_guess": "(佚名)奏报守备员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报直隶腾房堡、江西横冈营、江西南安营、陕西八营等守备员缺及广东潮州卫守备员缺，并请补授。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批分别以王佩、李然、任砾虎、郭金朝、郑开均补授各缺，另著以郑钦补授福建连江营守备。",
+ "people": [
+  {
+   "name": "王佩",
+   "role": "拟补守备"
+  },
+  {
+   "name": "李然",
+   "role": "拟补守备"
+  },
+  {
+   "name": "任砾虎",
+   "role": "拟补守备"
+  },
+  {
+   "name": "郭金朝",
+   "role": "拟补守备"
+  },
+  {
+   "name": "郑开均",
+   "role": "拟补卫守备"
+  },
+  {
+   "name": "郑钦",
+   "role": "补授福建连江营守备"
+  }
+ ],
+ "places": [
+  "直隶腾房堡",
+  "江西横冈营",
+  "江西南安营",
+  "陕西八营",
+  "广东潮州卫",
+  "福建连江营"
+ ],
+ "source_title": "(佚名)奏报守备员仍折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85501,
+ "page_range": "1923-1924",
+ "_date_interpolated": true
+}

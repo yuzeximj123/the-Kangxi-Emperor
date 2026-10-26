@@ -1,0 +1,45 @@
+{
+ "source_no": 2922,
+ "title_guess": "兵部尚书殷特布等奏请补授西安副都统员缺折",
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "初一日",
+ "event_role": "人事任免",
+ "summary": "兵部尚书殷特布等遵旨议奏西安副都统员缺，请以法锁补授正蓝满洲旗副都统所遗之缺，请旨定夺。",
+ "has_zhupi": true,
+ "zhupi_summary": "著该缺仍举荐。",
+ "people": [
+  {
+   "name": "殷特布",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "党阿赖",
+   "role": "左侍郎"
+  },
+  {
+   "name": "明富",
+   "role": "武选清吏司郎中"
+  },
+  {
+   "name": "多赞",
+   "role": "员外郎"
+  },
+  {
+   "name": "法锁",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "觉罗阿勒图",
+   "role": "正蓝满洲旗副都统"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_title": "兵部尚书股特布等麦请补授西安副都统员贞折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 58001,
+ "page_range": "1373-1374"
+}

@@ -1,0 +1,31 @@
+{
+ "source_no": null,
+ "title_guess": "大夫诊治书",
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "康熙四十五年九月初十日",
+ "event_role": "宫廷事务",
+ "summary": "大夫李德聪、戴君选启奏八贝勒自八月二十六日头疼腹痛、寒热似疟，初五日复感红疹、神气倦怠、脉息弦数无力，症险，议用德里鸦噶解毒化疹兼西瓜津清烦热。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "李德聪",
+   "role": "大夫"
+  },
+  {
+   "name": "戴君选",
+   "role": "大夫"
+  },
+  {
+   "name": "八贝勒",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_title": "大夫诊治书",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23201,
+ "page_range": "677-678"
+}

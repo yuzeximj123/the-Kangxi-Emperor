@@ -1,0 +1,30 @@
+{
+ "source_no": 907,
+ "title_guess": "筷社等请安并报接阅御批折",
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "二十八日",
+ "event_role": "请安谢恩",
+ "summary": "筷社等恭请皇父万安，报收到二十五日请安折并奉御批，为此说奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批：朕体安。初二日移至热河。今年较去岁凉，未知京城如何。捕鱼甚多，虽不及去岁，但每次约略七八千尾，已捕一万七千六百余尾，赐众人食之。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇父"
+  }
+ ],
+ "places": [
+  "热河",
+  "京城"
+ ],
+ "source_title": "筷社等请安并报接阅御批折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 21503,
+ "page_range": "643-644"
+}

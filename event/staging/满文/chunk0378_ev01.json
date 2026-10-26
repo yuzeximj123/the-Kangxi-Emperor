@@ -1,0 +1,34 @@
+{
+ "source_no": 1825,
+ "title_guess": "理藩院奏请接待俄罗斯商人折",
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "二十五日",
+ "event_role": "外藩朝贡",
+ "summary": "理藩院奏报俄罗斯商人头目科米萨尔等二百人将入张家口至京城，请照前例安排住房、看守、抽税及出入随行等事。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。并严饬看守章京兵丁，此次若仍懈怠则从重治罪。",
+ "people": [
+  {
+   "name": "阿尔法",
+   "role": "往迎俄罗斯之卿"
+  },
+  {
+   "name": "科米萨尔",
+   "role": "俄罗斯商人头目"
+  },
+  {
+   "name": "科布齐那",
+   "role": "前次俄罗斯商人头目"
+  }
+ ],
+ "places": [
+  "张家口",
+  "京城"
+ ],
+ "source_title": "理落院秦请接待俄罗斯商人折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37801,
+ "page_range": "969-970"
+}

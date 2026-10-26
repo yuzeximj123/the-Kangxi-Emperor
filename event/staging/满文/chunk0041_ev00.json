@@ -1,0 +1,49 @@
+{
+ "source_no": null,
+ "title_guess": "奏报宁夏运米及西路驿站马匹事折",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "此为前件奏折残余片段，奏报宁夏采购驼驴运送米粮接济西路官兵，并转报抚远大将军费扬古办理驿站马匹及蒙古兵驻驿事。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：朕每日忧虑军粮，妥为办理并无耽搁，西路之粮甚可忧惧，故朕亲率兵运米以备西路；又批知道了。",
+ "people": [
+  {
+   "name": "佟保",
+   "role": "将军"
+  },
+  {
+   "name": "吴赫",
+   "role": "川陕总督"
+  },
+  {
+   "name": "孙思克",
+   "role": "振武将军"
+  },
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "赛吉里",
+   "role": "按察使"
+  },
+  {
+   "name": "杨林",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "翁金",
+  "鄂尔多斯",
+  "甘肃"
+ ],
+ "source_title": "奏报宁夏运米及西路驿站马匹事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4100,
+ "page_range": "295-296",
+ "_date_interpolated": true
+}

@@ -1,0 +1,61 @@
+{
+ "source_no": 1031,
+ "title_guess": "筷社等请安并报官员病势折",
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "初九日",
+ "event_role": "请安谢恩",
+ "summary": "筷社等恭请皇父万安，遵旨派人看视并奏报吴达缠、海青、那尔善、喀瓦尔达等患病官员病势及调治情形，诸人感激皇恩并请安。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "吴达缠",
+   "role": "患病官员"
+  },
+  {
+   "name": "海青",
+   "role": "患病官员"
+  },
+  {
+   "name": "那尔善",
+   "role": "患病官员"
+  },
+  {
+   "name": "喀瓦尔达",
+   "role": "患病官员"
+  },
+  {
+   "name": "刘声芳",
+   "role": "大夫"
+  },
+  {
+   "name": "李玉",
+   "role": "太监"
+  },
+  {
+   "name": "刘炳斗",
+   "role": "大夫"
+  },
+  {
+   "name": "李之贤",
+   "role": "大夫"
+  },
+  {
+   "name": "七阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_title": "有笛社等请安并报官员病势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23704,
+ "page_range": "687-688"
+}

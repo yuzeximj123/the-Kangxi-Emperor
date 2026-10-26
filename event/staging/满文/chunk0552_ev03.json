@@ -1,0 +1,36 @@
+{
+ "source_no": 2790,
+ "title_guess": "内务府奏报祈雨得雨情形折",
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "二十八日",
+ "event_role": "宫廷事务",
+ "summary": "内务府奏报黑龙潭、满井、草桥、水头庄四处祈雨，自四月二十三日起连雨至二十七日大雨，遂停止祈雨。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示应继续祈雨，恐怕天又晴。",
+ "people": [
+  {
+   "name": "赫奕",
+   "role": "内务府总管兼工部尚书"
+  },
+  {
+   "name": "马齐",
+   "role": "署理内务府总管事务佐领"
+  },
+  {
+   "name": "特素",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "黑龙潭",
+  "满井",
+  "草桥",
+  "水头庄"
+ ],
+ "source_title": "内务府奏报祈雨得雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55203,
+ "page_range": "1317-1318"
+}

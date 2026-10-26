@@ -1,0 +1,34 @@
+{
+ "source_no": 3954,
+ "title_guess": "步军统领隆科多奏报将太监李环关押于崇文门牢内折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "八月初十日",
+ "event_role": "宫廷事务",
+ "summary": "隆科多遵王、贝子传谕，将太监李环带铁锁三条押送崇文门牢内严加看守，不令外人见面。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：此人很利害，看样子景祠又信而用之，著尔查明报来。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "李环",
+   "role": "太监"
+  },
+  {
+   "name": "董典邦",
+   "role": "署理内大臣事务郎中"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_title": "步军统领隆科多奏报将太监事环关押于崇文门牢肉折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79802,
+ "page_range": "1809-1810",
+ "_date_interpolated": true
+}

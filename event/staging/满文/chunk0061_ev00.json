@@ -1,0 +1,37 @@
+{
+ "source_no": 240,
+ "title_guess": "康熙帝为噶尔丹欲降实情奏皇太后折",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十三日",
+ "event_role": "边疆事务",
+ "summary": "奏报噶尔丹遣格刍古英都喇勤寨桑称降，暗中详问来使得知噶尔丹部众窘迫、人心离散、欲归降实情，并请安皇太后。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "丹济拉",
+   "role": "噶尔丹部众"
+  },
+  {
+   "name": "阿纳达",
+   "role": "将领"
+  },
+  {
+   "name": "土谢图诺尔布",
+   "role": "厄鲁特台吉"
+  }
+ ],
+ "places": [
+  "萨克萨图胡鲁克"
+ ],
+ "source_title": "康熙帝为噶尔丹欲降实情奏皇太后折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6100,
+ "page_range": "335-336"
+}

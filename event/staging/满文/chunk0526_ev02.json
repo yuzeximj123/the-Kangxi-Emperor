@@ -1,0 +1,30 @@
+{
+ "source_no": 2678,
+ "title_guess": "甘肃巡抚绰奇奏所需哈密瓜启运日期折",
+ "reign_year": 54,
+ "month": 9,
+ "day_text": "十二日",
+ "event_role": "宫廷事务",
+ "summary": "甘肃巡抚绰奇奏报内廷需用哈密瓜已派守备赵忠前往取运，九月初九运抵肃州，挑选六百个装车于十二日启运。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。今年本应停止。",
+ "people": [
+  {
+   "name": "绰奇",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "赵忠",
+   "role": "右营守备"
+  }
+ ],
+ "places": [
+  "哈密",
+  "肃州"
+ ],
+ "source_title": "肃巡抚绰奇奏所需哈密把启运日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 52602,
+ "page_range": "1265-1266"
+}

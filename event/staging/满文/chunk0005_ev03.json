@@ -1,0 +1,45 @@
+{
+ "source_no": 30,
+ "title_guess": "山东巡抚佛伦请安并缴朱批折",
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "初四上日",
+ "event_role": "请安谢恩",
+ "summary": "山东巡抚佛伦奏请皇上万安并缴回朱批谕旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：朕体安。询问前任巡抚品行，董诺、郭散等土豪比孙光礼、任克清如何，布政使卫既齐声名是否如所闻。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "董诺",
+   "role": "土豪"
+  },
+  {
+   "name": "郭散",
+   "role": "土豪"
+  },
+  {
+   "name": "孙光礼",
+   "role": "土豪"
+  },
+  {
+   "name": "任克清",
+   "role": "土豪"
+  },
+  {
+   "name": "卫既齐",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_title": "山东巡抚佛伦请安并缴朱批折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 503,
+ "page_range": "223-224"
+}

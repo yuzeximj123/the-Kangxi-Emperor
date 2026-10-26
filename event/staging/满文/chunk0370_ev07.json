@@ -1,0 +1,30 @@
+{
+ "source_no": 1785,
+ "title_guess": "漕运总督赫寿奏请万安并报漕船情形折",
+ "reign_year": 50,
+ "month": 8,
+ "day_text": "初八日",
+ "event_role": "请安谢恩",
+ "summary": "赫寿跪请圣安，报漕船已过淮安、济宁，并请圣主指示漕粮迟误事宜。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安善。今年照常去木兰围场了，气色较前又好些。今年漕船何故甚迟？",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "漕运总督"
+  },
+  {
+   "name": "张志栋",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "淮安",
+  "济宁"
+ ],
+ "source_title": "漕运总督赫寿奏请万安并报清船情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37007,
+ "page_range": "953-954"
+}

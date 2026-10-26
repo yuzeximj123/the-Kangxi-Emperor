@@ -1,0 +1,29 @@
+{
+ "source_no": 212,
+ "title_guess": "康熙帝奏请皇太后安片",
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "初九日",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝奏请皇太后安，并称所行稍慢、马匹无失，赏看风干鹿肉等物并限量饲喂。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：朕体安，尔好吗？述行程、马匹及喂饲鹿肉等情。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "奏报人"
+  },
+  {
+   "name": "皇太后",
+   "role": "受请安者"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_title": "康熙帝奏请皇太后安片",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5401,
+ "page_range": "321-322"
+}

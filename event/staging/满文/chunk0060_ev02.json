@@ -1,0 +1,40 @@
+{
+ "source_no": 237,
+ "title_guess": "康熙帝谕皇太子为于胡坦和硕地方围猎事",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十一日",
+ "event_role": "宫廷事务",
+ "summary": "康熙帝谕皇太子，述十八至二十日围猎猎获数目、驻跸胡坦和硕、赏鄂尔多斯人、赐药萨布素及巴林、送小刀等物，并令奏皇太后、告阿哥勿外传。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "萨布素",
+   "role": "将军"
+  },
+  {
+   "name": "巴林",
+   "role": "梅勒章京"
+  }
+ ],
+ "places": [
+  "胡坦和硕",
+  "胡苏台",
+  "黄河",
+  "归化城"
+ ],
+ "source_title": "康熙帝谕皇太子为于胡坦和硕地方围猎事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6002,
+ "page_range": "333-334"
+}

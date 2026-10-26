@@ -1,0 +1,38 @@
+{
+ "source_no": 4016,
+ "title_guess": "步军统领隆科多奏报京城六七月所获各案折",
+ "reign_year": 3,
+ "month": 7,
+ "day_text": "七月二十三日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报六月二十日以来拿获逃犯、赌博、拐骗、抄抢、窃盗等案犯解部，并报图克特讷醉入瓦哈礼家取秸持刀吓人被解刑部。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "索伦图克特讷",
+   "role": "正白旗侍卫"
+  },
+  {
+   "name": "瓦哈礼",
+   "role": "步甲"
+  },
+  {
+   "name": "肖氏",
+   "role": "瓦哈礼之媳"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏报京城六七月所获各案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80505,
+ "page_range": "1823-1824",
+ "_date_interpolated": true
+}

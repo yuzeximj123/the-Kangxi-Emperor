@@ -1,0 +1,53 @@
+{
+ "source_no": 1888,
+ "title_guess": "杭州织造孙文成奏报高愈近况折",
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十七日",
+ "event_role": "其他",
+ "summary": "此为高愈近况奏折的片段，记高愈闭门读经礼北斗、与地方官吏断绝往来，并述其亡弟之寡妻独居、四子三女及婚配情况。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "高愈",
+   "role": "奏报对象"
+  },
+  {
+   "name": "高衡",
+   "role": "高愈之侄"
+  },
+  {
+   "name": "高贷",
+   "role": "高愈长子"
+  },
+  {
+   "name": "高松",
+   "role": "高愈次子"
+  },
+  {
+   "name": "高桦",
+   "role": "高愈三子"
+  },
+  {
+   "name": "高横",
+   "role": "高愈四子"
+  },
+  {
+   "name": "张昭",
+   "role": "翰林，高愈长女婿"
+  },
+  {
+   "name": "蓝理",
+   "role": "原提督，高愈次女许配其子"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "杭州织造孙文成奏报高愈近况折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 38900,
+ "page_range": "991-992"
+}

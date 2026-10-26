@@ -1,0 +1,42 @@
+{
+ "source_no": 2976,
+ "title_guess": "康熙帝上谕",
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "二十三日",
+ "event_role": "谕旨决策",
+ "summary": "康熙五十六年三月二十三日议政时，康熙帝就进兵吐鲁番事降旨，谓依议，若大军进剿攻取或招降吐鲁番则如哈密为我属地，但仅此兵力似薄弱，凡事不可无预见，虑策妄喇布坦尽力来援。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "满泰",
+   "role": "侍卫"
+  },
+  {
+   "name": "朗泰",
+   "role": "侍卫"
+  },
+  {
+   "name": "科西图",
+   "role": "侍卫"
+  },
+  {
+   "name": "保柱",
+   "role": "侍卫"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "准噶尔首领"
+  }
+ ],
+ "places": [
+  "吐鲁番",
+  "哈密"
+ ],
+ "source_title": "康熙帝上谕",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 58807,
+ "page_range": "1389-1390"
+}

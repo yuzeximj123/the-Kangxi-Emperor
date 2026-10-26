@@ -1,0 +1,50 @@
+{
+ "source_no": 3819,
+ "title_guess": "顺社等奏请诸阿哥接班前赴行在所折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "初一日",
+ "event_role": "宫廷事务",
+ "summary": "臣候社等奏报诸阿哥接班事宜，遵旨安排五阿哥留、十二及十四阿哥回、四及九阿哥雨水前赶来，并恳请准臣等赴行在所。",
+ "has_zhupi": true,
+ "zhupi_summary": "即照此则好，都一样啊。",
+ "people": [
+  {
+   "name": "候社",
+   "role": "臣"
+  },
+  {
+   "name": "五阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "十二阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "十四阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "四阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "九阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "三阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "木兰围场"
+ ],
+ "source_title": "由社等奏请诸阿哥接班前赴行在所折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78105,
+ "page_range": "1775-1776",
+ "_date_interpolated": true
+}

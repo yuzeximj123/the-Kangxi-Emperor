@@ -1,0 +1,45 @@
+{
+ "source_no": 1151,
+ "title_guess": "李国屏等奏报赫世享病势折",
+ "reign_year": 46,
+ "month": 7,
+ "day_text": "初五日",
+ "event_role": "宫廷事务",
+ "summary": "李国屏、爱保奏报赫世享服药及食康熙所赐狗肉、黄雉后病情好转，附大夫诊治书。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙见奏欣慰，称已遣常明前往，若再好些则降旨；又赐雉、狗肉，嘱少食、心情愉悦勿烦闷。",
+ "people": [
+  {
+   "name": "李国屏",
+   "role": "奏报官员"
+  },
+  {
+   "name": "爱保",
+   "role": "奏报官员"
+  },
+  {
+   "name": "赫世享",
+   "role": "病人"
+  },
+  {
+   "name": "常明",
+   "role": "差遣官员"
+  },
+  {
+   "name": "张守",
+   "role": "大夫"
+  },
+  {
+   "name": "刘声芳",
+   "role": "大夫"
+  }
+ ],
+ "places": [
+  "武英殿"
+ ],
+ "source_title": "李国屏等奏报赫世享病势拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 26201,
+ "page_range": "737-738"
+}

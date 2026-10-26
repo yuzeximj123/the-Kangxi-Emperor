@@ -1,0 +1,32 @@
+{
+ "source_no": 3835,
+ "title_guess": "康熙帝朱论一纸",
+ "reign_year": 62,
+ "month": 10,
+ "day_text": "十月初三日",
+ "event_role": "宫廷事务",
+ "summary": "内总管大臣凌普为十月初三日进皇太后物品具奏，谕令由五阿哥、十阿哥带去奏进。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "凌普",
+   "role": "内总管大臣"
+  },
+  {
+   "name": "五阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "十阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_title": "康熙帝朱论一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78305,
+ "page_range": "1779-1780",
+ "_date_interpolated": true
+}

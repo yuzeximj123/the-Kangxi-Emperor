@@ -1,0 +1,33 @@
+{
+ "source_no": 1303,
+ "title_guess": "川陕总督齐世武等奏进新麦折",
+ "reign_year": 47,
+ "month": 6,
+ "day_text": "初三日",
+ "event_role": "请安谢恩",
+ "summary": "奴才齐世武请圣安，并拣选陕西省新麦十石、布政使苏克济十石、按察使满普十石共三十石恭进皇上，已送交内务府总管。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕安。尔可好？",
+ "people": [
+  {
+   "name": "齐世武",
+   "role": "川陕总督"
+  },
+  {
+   "name": "苏克济",
+   "role": "布政使"
+  },
+  {
+   "name": "满普",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_title": "川陕总督齐世武等奏进新麦折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 28905,
+ "page_range": "791-792"
+}

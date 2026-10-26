@@ -1,0 +1,34 @@
+{
+ "source_no": 598,
+ "title_guess": "山西巡抚噶礼请安并报遣人赴京接梅玉巍折",
+ "reign_year": 43,
+ "month": 5,
+ "day_text": "十五日",
+ "event_role": "请安谢恩",
+ "summary": "噶礼奏报已派家人硕泰赴京接梅玉峰，并附请安，朱批称身体安善。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安善。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "硕泰",
+   "role": "噶礼家人"
+  },
+  {
+   "name": "梅玉峰",
+   "role": "被接之人"
+  }
+ ],
+ "places": [
+  "京城",
+  "山西"
+ ],
+ "source_title": "山西巡抚噶礼请安并报遗人赴京接梅玉巍折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 15800,
+ "page_range": "529-530"
+}

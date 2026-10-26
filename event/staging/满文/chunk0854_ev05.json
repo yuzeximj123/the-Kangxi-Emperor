@@ -1,0 +1,31 @@
+{
+ "source_no": 4241,
+ "title_guess": "(佚名)奏报游击守备员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报山西蒲州营游击员缺、山西汾州营参将标下中军守备员缺，朱批分别以杨福士、杨到补授。",
+ "has_zhupi": true,
+ "zhupi_summary": "著以杨福士补授游击，著以杨到补授守备",
+ "people": [
+  {
+   "name": "杨福士",
+   "role": "游击补授人选"
+  },
+  {
+   "name": "杨到",
+   "role": "守备补授人选"
+  }
+ ],
+ "places": [
+  "山西蒲州营",
+  "山西汾州营"
+ ],
+ "source_title": "(佚名)奏报游击守备员徐折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85405,
+ "page_range": "1921-1922",
+ "_date_interpolated": true
+}

@@ -1,0 +1,35 @@
+{
+ "source_no": 4285,
+ "title_guess": "奏为择选向导折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "奏称不认识土尔扈特之克依鲁布，此类非大国管下暂居之人不必用作向导，大军抵伊犁后认路人随处可得。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "克依鲁布",
+   "role": "土尔扈特向导人选"
+  },
+  {
+   "name": "丹钟",
+   "role": "贝勒"
+  },
+  {
+   "name": "钟琪",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "伊犁",
+  "土尔扈特"
+ ],
+ "source_title": "(佚名)秦为择选向导折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85908,
+ "page_range": "1931-1932",
+ "_date_interpolated": true
+}

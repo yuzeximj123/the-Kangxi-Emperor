@@ -1,0 +1,42 @@
+{
+ "source_no": 308,
+ "title_guess": "皇太子筷初奏请圣安并报钦奉谕旨折",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十六日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子奏请皇父万安，报奉旨向皇太后请安、因邸抄延误自责，并奏塞布腾巴尔珠尔到京及费扬古报噶尔丹情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕安。皇太子可好？初一日由此批发邸抄，京城邸抄于初一初二日相继到此，故有意拖数日发回。",
+ "people": [
+  {
+   "name": "皇太子筷初",
+   "role": "皇太子"
+  },
+  {
+   "name": "塞布腾巴尔珠尔",
+   "role": "来归头目"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "博席希",
+   "role": "使臣"
+  },
+  {
+   "name": "格又",
+   "role": "使臣"
+  }
+ ],
+ "places": [
+  "京城",
+  "噶尔丹处"
+ ],
+ "source_title": "和皇太子筷初奏请圣安并报钦奉谕旨折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 7801,
+ "page_range": "369-370"
+}

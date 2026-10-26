@@ -1,0 +1,31 @@
+{
+ "source_no": 3980,
+ "title_guess": "步军统领隆科多奏报京城雨水粮价并中暑病患情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "五月、十八日、二十九日、六月初一日至初五日",
+ "event_role": "灾情收成",
+ "summary": "隆科多奏报雨水调匀、秋禾生长秀穗，京城粮价因放仓米而平，并报中暑病患及初四日有人中暑昏倒等情。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城",
+  "顺天",
+  "永平",
+  "右安门",
+  "鼓楼西大街",
+  "朝阳门内大街"
+ ],
+ "source_title": "步军统领隆科多奏报京城雨水粮价并中署病患情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80104,
+ "page_range": "1815-1816",
+ "_date_interpolated": true
+}

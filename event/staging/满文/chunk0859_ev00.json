@@ -1,0 +1,28 @@
+{
+ "source_no": 4277,
+ "title_guess": "奏请制备已逝贵人表仪折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "奏报已逝马贵人丧仪曾借用荣妃仪仗后补造，请示该贵人用何妃仪仗，朱批著用惠妃仪仗。",
+ "has_zhupi": true,
+ "zhupi_summary": "著用惠妃仪仗。",
+ "people": [
+  {
+   "name": "马贵人",
+   "role": "已逝贵人"
+  },
+  {
+   "name": "荣妃",
+   "role": "妃"
+  }
+ ],
+ "places": [],
+ "source_title": "(佚名)秦请制备已逝贵人表仪折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85900,
+ "page_range": "1931-1932",
+ "_date_interpolated": true
+}

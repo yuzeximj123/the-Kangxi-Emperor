@@ -1,0 +1,45 @@
+{
+ "source_no": 1935,
+ "title_guess": "理藩院奏请遗员吊丧折",
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "初六日",
+ "event_role": "边疆事务",
+ "summary": "理藩院奏报科尔沁头等台吉达希病故，请旨是否照例施恩致祭。",
+ "has_zhupi": true,
+ "zhupi_summary": "免予致祭；指出克依凌海一名似乎有误，令查明具奏。",
+ "people": [
+  {
+   "name": "达希",
+   "role": "已故头等台吉"
+  },
+  {
+   "name": "罗布藏固木布",
+   "role": "科尔沁和硕达尔汉亲王"
+  },
+  {
+   "name": "布尼",
+   "role": "辅国公、协理旗务"
+  },
+  {
+   "name": "克依凌海",
+   "role": "原头等台吉"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "达希之父"
+  },
+  {
+   "name": "讷呼图",
+   "role": "佐领"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_title": "理藩院奏请遗员吊形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 39600,
+ "page_range": "1005-1006"
+}

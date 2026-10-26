@@ -1,0 +1,37 @@
+{
+ "source_no": 271,
+ "title_guess": "康熙帝朱论",
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十一日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕皇太子：驻跸岔道日接到保柱奏报，抄发车克楚等呈文给议政大臣看，并借此请皇太后安。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "保柱",
+   "role": "员外郎"
+  },
+  {
+   "name": "车克楚",
+   "role": "向导"
+  }
+ ],
+ "places": [
+  "岔道"
+ ],
+ "source_title": "康熙帝剑论",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6804,
+ "page_range": "349-350"
+}

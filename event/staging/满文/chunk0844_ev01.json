@@ -1,0 +1,61 @@
+{
+ "source_no": 4207,
+ "title_guess": "内务府奏报武清县所属地方田亩被水情形折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": "本月十四日",
+ "event_role": "灾情收成",
+ "summary": "内务府奏报武清县黄花店、史各庄、刘道口、崔黄口、察光等处田亩被水淹死庄稼及勘查浮报情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批斥此等之事不汇总，繁杂无用，殊属不合。",
+ "people": [
+  {
+   "name": "噶达浑",
+   "role": "管领"
+  },
+  {
+   "name": "李文贵",
+   "role": "员外郎"
+  },
+  {
+   "name": "李甘如",
+   "role": "田主"
+  },
+  {
+   "name": "王国喜",
+   "role": "田主"
+  },
+  {
+   "name": "刘弹达",
+   "role": "捕鸭人"
+  },
+  {
+   "name": "刘文良",
+   "role": "捕鸭人"
+  },
+  {
+   "name": "蓝定裕",
+   "role": "田主"
+  },
+  {
+   "name": "陈家汉",
+   "role": "捕鸭人"
+  }
+ ],
+ "places": [
+  "武清县",
+  "黄花店",
+  "史各庄",
+  "刘道口",
+  "崔黄口",
+  "察光",
+  "双耳湾",
+  "王家府"
+ ],
+ "source_title": "内务府奏报武清县所属地方田亩被水情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84401,
+ "page_range": "1901-1902",
+ "_date_interpolated": true
+}

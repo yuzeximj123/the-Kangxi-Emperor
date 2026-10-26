@@ -1,0 +1,39 @@
+{
+ "source_no": 1119,
+ "title_guess": "川陕总督博雾奏报夏粮收成分数折",
+ "reign_year": 46,
+ "month": 5,
+ "day_text": "三十日",
+ "event_role": "灾情收成",
+ "summary": "博雾奏报陕西西安、凤翔、汉中、兴安等地夏粮收成分数，麦子大麦收成十余分至八九分不等，并报得雨及秋禾生长情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "博雾",
+   "role": "川陕总督"
+  },
+  {
+   "name": "圭海",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "汉中",
+  "兴安",
+  "延安府",
+  "平凉",
+  "庆阳",
+  "临洮",
+  "巩昌",
+  "西宁",
+  "甘肃"
+ ],
+ "source_title": "川陕总督博雾奏报夏粮收成分数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25603,
+ "page_range": "725-726"
+}

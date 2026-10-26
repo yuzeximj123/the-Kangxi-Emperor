@@ -1,0 +1,30 @@
+{
+ "source_no": 4123,
+ "title_guess": "议政王大臣等奏进咨行图理琛之文稿",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "议政王大臣等书致侍郎图理琛，责其向俄罗斯使者萨瓦信口胡言、不明大道理，且以无关紧要之事疲劳驿站，令其改过否则小心性命。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "图理琛",
+   "role": "侍郎"
+  },
+  {
+   "name": "萨瓦",
+   "role": "俄罗斯使者"
+  }
+ ],
+ "places": [
+  "俄罗斯"
+ ],
+ "source_title": "议政王大臣等奏进次行图理琛之文稿",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82904,
+ "page_range": "1871-1872",
+ "_date_interpolated": true
+}

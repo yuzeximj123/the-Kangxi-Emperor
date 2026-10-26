@@ -1,0 +1,44 @@
+{
+ "source_no": 4063,
+ "title_guess": "步军统领隆科多奏报拿获强盗折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "此为前折残余片段，记被动事主韩增才认领被抢衣物，将案犯郑赞骏、郭二要子、任二炮、耿大便等解送刑部，并奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "韩增才",
+   "role": "被动事主"
+  },
+  {
+   "name": "郑赞骏",
+   "role": "案犯"
+  },
+  {
+   "name": "郭二要子",
+   "role": "案犯"
+  },
+  {
+   "name": "任二炮",
+   "role": "案犯"
+  },
+  {
+   "name": "耿大便",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_title": "步军统领隆科多奏报拿获强盗折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81600,
+ "page_range": "1845-1846",
+ "_date_interpolated": true
+}

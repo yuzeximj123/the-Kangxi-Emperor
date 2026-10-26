@@ -1,0 +1,41 @@
+{
+ "source_no": 3564,
+ "title_guess": "杭州织造孙文成奏报台湾朱一贵聚众起兵折",
+ "reign_year": 60,
+ "month": 7,
+ "day_text": "初一日",
+ "event_role": "军务",
+ "summary": "孙文成奏闻台湾凤山县朱一贵聚众起兵，众皆漳泉潮三府之人，地方官曾杖责首告者，据闻奏报。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：尔所言无头绪，实在不明白。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "朱一贵",
+   "role": "起兵首领"
+  },
+  {
+   "name": "梁文宣",
+   "role": "道员"
+  },
+  {
+   "name": "欧阳遍",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "台湾",
+  "凤山县",
+  "漳州",
+  "泉州",
+  "潮州"
+ ],
+ "source_title": "杭州织造孙文盛奏报台湾朱一贵请众起兵折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 73903,
+ "page_range": "1691-1692"
+}

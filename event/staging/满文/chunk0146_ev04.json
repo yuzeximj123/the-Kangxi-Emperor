@@ -1,0 +1,38 @@
+{
+ "source_no": 540,
+ "title_guess": "山东巡抚王国昌奏报赈粮及贼船情形折",
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "十五日",
+ "event_role": "灾情收成",
+ "summary": "王国昌奏谢皇上蠲免钱粮、截留漕粮六十万石、遣京官赈济山东水灾，并报登州总兵王文雄等详称文登县威海卫交界刘公岛海面有小贼船情形（原文至此中断）。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "王文雄",
+   "role": "登州总兵官"
+  },
+  {
+   "name": "张胜庆",
+   "role": "登州府知府"
+  }
+ ],
+ "places": [
+  "山东",
+  "新台",
+  "登州",
+  "文登县",
+  "威海卫",
+  "刘公岛"
+ ],
+ "source_title": "山东扩抚王国昌考报旦粮及冉船情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 14604,
+ "page_range": "505-506"
+}

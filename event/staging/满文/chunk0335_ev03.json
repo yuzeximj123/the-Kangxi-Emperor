@@ -1,0 +1,31 @@
+{
+ "source_no": 1569,
+ "title_guess": "两江总督噶礼奏请简选贤能补授副将员缺折",
+ "reign_year": 49,
+ "month": 4,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "噶礼奏称标下中军副将李琳系前总督所用，请皇上简选贤能调补该紧要员缺。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：李琳并未离职，无缺难以调补。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "李琳",
+   "role": "中军副将"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "陕西"
+ ],
+ "source_title": "两江总督噶礼奏请简选贤能补授副将员秤折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33503,
+ "page_range": "883-884"
+}

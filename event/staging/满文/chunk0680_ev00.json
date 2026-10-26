@@ -1,0 +1,49 @@
+{
+ "source_no": 3326,
+ "title_guess": "内务府奏为制作祭佛用品折",
+ "reign_year": 58,
+ "month": 1,
+ "day_text": "二十一日",
+ "event_role": "宫廷事务",
+ "summary": "内务府总管奏请制作哲布尊丹巴呼图克图丹舒克所用佛、经、塔及颈瓶、盒子把碗等祭佛用品，请旨定夺。",
+ "has_zhupi": true,
+ "zhupi_summary": "命赵昌、王道化查库内现有者奏览，倘制作亦由伊等定模奏览。",
+ "people": [
+  {
+   "name": "内务府总管",
+   "role": "内务府总管"
+  },
+  {
+   "name": "喇锡",
+   "role": "乾清门头等侍卫"
+  },
+  {
+   "name": "丹巴格隆",
+   "role": "喇嘛"
+  },
+  {
+   "name": "海章",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "董典邦",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "赵昌",
+   "role": "官员"
+  },
+  {
+   "name": "王道化",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "中正殿"
+ ],
+ "source_title": "内务府奏为制作妹佛用品折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 68000,
+ "page_range": "1573-1574"
+}

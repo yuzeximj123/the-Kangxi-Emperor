@@ -1,0 +1,38 @@
+{
+ "source_no": 211,
+ "title_guess": "皇太子初奏为进献皇太后诞辰礼物事折",
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "初三日",
+ "event_role": "宫廷事务",
+ "summary": "皇太子奏请皇父万安，报遵朱批将银两事具奏皇太后并奉送奶皮子，皇太后喜悦；又奏闻皇父行程愉快围猎、宴请乌尔久噶札布之母福晋及养心殿造佛像模型等事。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批赏银百两、缎十匹。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  },
+  {
+   "name": "乌尔久噶札布",
+   "role": "外藩"
+  },
+  {
+   "name": "车凌扎布",
+   "role": "外藩"
+  }
+ ],
+ "places": [
+  "京城",
+  "养心殿"
+ ],
+ "source_title": "皇太子初奏为进献皇太后诞展礼物事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5304,
+ "page_range": "319-320"
+}

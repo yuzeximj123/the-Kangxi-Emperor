@@ -1,0 +1,42 @@
+{
+ "source_no": 2123,
+ "title_guess": "福建巡抚满保奏报擒获海上合伙行抢人折",
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "二十四日",
+ "event_role": "司法案件",
+ "summary": "奏报官兵擒获石如边等两股海上行抢贼伙，会审得贼首侈英龙伪称陈尚宜同伙，实为自备降旗伺机投降或行抢，另有十二贼东逃，游击林连核实，拟交按察司严审拟罪再奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：甚好。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "侈英龙",
+   "role": "贼首"
+  },
+  {
+   "name": "石如边",
+   "role": "贼伙"
+  },
+  {
+   "name": "陈尚宜",
+   "role": "被冒称同伙者"
+  },
+  {
+   "name": "林连",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "海上",
+  "东洋"
+ ],
+ "source_title": "福建巡抚满保奏报擒获海上合伙行抢人折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42700,
+ "page_range": "1067-1068"
+}

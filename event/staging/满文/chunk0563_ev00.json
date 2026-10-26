@@ -1,0 +1,34 @@
+{
+ "source_no": 2842,
+ "title_guess": "闽浙总督满保奏请被灾地方缓征钱粮折",
+ "reign_year": 55,
+ "month": 7,
+ "day_text": "二十二日",
+ "event_role": "钱粮财政",
+ "summary": "满保奏报浙江衢州等地得雨及秋稻杂粮生长情形，因民力耗损、赋税难征，请将本年钱粮缓征分二年兼征，并请严禁征收中的勒索。",
+ "has_zhupi": true,
+ "zhupi_summary": "浙江钱粮另有旨意，其余著奏来。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "衢州",
+  "严州",
+  "金华",
+  "杭州",
+  "嘉兴",
+  "湖州"
+ ],
+ "source_title": "闽浙总督满保泰请被灾地方缓征钱粮折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 56300,
+ "page_range": "1339-1340"
+}

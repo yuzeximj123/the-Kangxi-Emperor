@@ -1,0 +1,32 @@
+{
+ "source_no": 50,
+ "title_guess": "山东巡抚佛伦奏报运河水骤涨情形折",
+ "reign_year": 30,
+ "month": 6,
+ "day_text": "十二日",
+ "event_role": "河工水利",
+ "summary": "佛伦奏报运河水骤涨，德州知州报六月初十河水涨三扩余，漕船北驶无误，先行奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称京城雨水好庄稼好，通州河水无误，唯济宁以北稍有忧虑，闻之心甚畅快。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "徐四国",
+   "role": "德州知州"
+  }
+ ],
+ "places": [
+  "德州",
+  "临清",
+  "济宁",
+  "通州"
+ ],
+ "source_title": "山东巡抚佛伦奏报运河水骤涨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1002,
+ "page_range": "233-234"
+}

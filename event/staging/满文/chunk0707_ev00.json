@@ -1,0 +1,36 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 58,
+ "month": 7,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "此为前件奏折残余片段，记述萨木坦归降后赏给衣帽、护军参领钦雕请求只身解送萨木坦赴京朝觐，以及七月初九日启程解送等事。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "萨木坦",
+   "role": "归降之准噶尔人"
+  },
+  {
+   "name": "钦雕",
+   "role": "护军参领"
+  },
+  {
+   "name": "阿喇纳",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "青海",
+  "藏",
+  "京城"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 70700,
+ "page_range": "1627-1628",
+ "_date_interpolated": true
+}

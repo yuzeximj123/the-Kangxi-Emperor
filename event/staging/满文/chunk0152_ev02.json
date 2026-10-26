@@ -1,0 +1,58 @@
+{
+ "source_no": 568,
+ "title_guess": "川陕总督华显奏报病重折",
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十一日",
+ "event_role": "请安谢恩",
+ "summary": "华显奏报病情复发加重、泻痢不止，自感在世不久，托付诸子并荐举鄂海、鄂罗、祖荫洪等人。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "觉罗华显",
+   "role": "四川陕西总督"
+  },
+  {
+   "name": "富昌",
+   "role": "华显长子、内阁中书"
+  },
+  {
+   "name": "隆昌",
+   "role": "华显三子、牛录章京"
+  },
+  {
+   "name": "德昌",
+   "role": "华显次子"
+  },
+  {
+   "name": "庆昌",
+   "role": "华显四子"
+  },
+  {
+   "name": "明昌",
+   "role": "华显五子"
+  },
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "鄂罗",
+   "role": "西安布政使"
+  },
+  {
+   "name": "祖荫洪",
+   "role": "神木道"
+  }
+ ],
+ "places": [
+  "西安",
+  "山东"
+ ],
+ "source_title": "川陕总督华显奏报病重折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 15202,
+ "page_range": "517-518"
+}

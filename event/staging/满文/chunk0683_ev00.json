@@ -1,0 +1,33 @@
+{
+ "source_no": 3337,
+ "title_guess": "吏部尚书富宁安密奏将拿获厄鲁特暂留军营折",
+ "reign_year": 58,
+ "month": 1,
+ "day_text": "正月二十八日",
+ "event_role": "军务",
+ "summary": "富宁安密奏：原拟押解所获厄鲁特一名至策妄喇布坦处施法使其心惧，李庆安称既随其前往则不必施法，遂请旨将厄鲁特暂留军营。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：甚是。",
+ "people": [
+  {
+   "name": "富宁安",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "李庆安",
+   "role": "道士"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "准噶尔首领"
+  }
+ ],
+ "places": [
+  "军营"
+ ],
+ "source_title": "更部尚书富宁安密奏将拿获厄和鲁特暂留军营折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 68300,
+ "page_range": "1579-1580"
+}

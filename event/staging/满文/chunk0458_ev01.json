@@ -1,0 +1,30 @@
+{
+ "source_no": 2317,
+ "title_guess": "筷社等奏二公主病情及为二公主重新看房请旨折",
+ "reign_year": 52,
+ "month": 11,
+ "day_text": "二十五日",
+ "event_role": "宫廷事务",
+ "summary": "筷社等奏报二公主病情近日稍好、腹泻已止，并遵旨与内大臣查看广明殿东南阿哈展房及黄守义胡同托霍奇房两处，请旨择定迁居。",
+ "has_zhupi": true,
+ "zhupi_summary": "此二处房屋皆差。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "筷福",
+   "role": "奏事大臣"
+  }
+ ],
+ "places": [
+  "广明殿",
+  "黄守义胡同"
+ ],
+ "source_title": "上候社等奏二公主病情及为二公主重新看房请旨折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 45801,
+ "page_range": "1129-1130"
+}

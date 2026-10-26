@@ -1,0 +1,37 @@
+{
+ "source_no": null,
+ "title_guess": "康熙帝谕知木兰围猎情形",
+ "reign_year": 58,
+ "month": null,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "康熙帝谕知：二十六日自木兰启程，因大雨桥毁，八月初十方修竣急行至大雁岭，因兴安大旱停止哨鹿，改往乌里雅苏台围猎获鹿二三千只，众阿哥均哨鹿，惟三阿哥得一只、十六阿哥于外追捕。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "三阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "十六阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "木兰",
+  "大雁岭",
+  "兴安",
+  "乌里雅苏台",
+  "乌尔讼郭围场"
+ ],
+ "source_title": "康熙帝谕知木兰围猎情形",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 70301,
+ "page_range": "1619-1620"
+}

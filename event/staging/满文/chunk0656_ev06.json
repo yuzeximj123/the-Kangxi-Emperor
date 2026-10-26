@@ -1,0 +1,45 @@
+{
+ "source_no": 3232,
+ "title_guess": "理藩院奏黑龙江水灾及赈济情形折",
+ "reign_year": 57,
+ "month": 8,
+ "day_text": "初六日",
+ "event_role": "灾情收成",
+ "summary": "理藩院转奏黑龙江将军托留报打牲索伦、达呼尔三甲喇遭山洪，冲毁房屋二百九十间、淹死多人及大量牲畜，已派员详查。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "托留",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "萨音齐克",
+   "role": "总管"
+  },
+  {
+   "name": "松果托",
+   "role": "总管"
+  },
+  {
+   "name": "鄂嫩",
+   "role": "总管"
+  },
+  {
+   "name": "哈木毕喇",
+   "role": "副总管"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "齐齐哈尔城",
+  "嫩江",
+  "雅尔河",
+  "吉沁河"
+ ],
+ "source_title": "理藩院奏黑龙江水灾及赈济情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 65606,
+ "page_range": "1525-1526"
+}

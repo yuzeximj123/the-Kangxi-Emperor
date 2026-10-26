@@ -1,0 +1,36 @@
+{
+ "source_no": 2774,
+ "title_guess": "闽浙总督满保奏报雨水米价折",
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "初八日",
+ "event_role": "灾情收成",
+ "summary": "满保奏报福建、浙江各地雨水及稻秧播种情形，并报各地米价大体平稳。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "福建浙江总督"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "建宁",
+  "福州",
+  "兴化",
+  "泉州",
+  "漳州",
+  "湖州",
+  "台州",
+  "温州",
+  "杭州",
+  "衢州"
+ ],
+ "source_title": "闽浙总督满保奏报雨水米价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 54802,
+ "page_range": "1309-1310"
+}

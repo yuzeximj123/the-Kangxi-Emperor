@@ -1,0 +1,32 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "片段记载内饭房、翊庆宫饭房及贝勒阿哥福晋饭桌每月所用鲜菜定额，并逐月核减黄芽白菜、菠菜、萝卜、香菜等用量。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "贝勒",
+   "role": "宗室"
+  },
+  {
+   "name": "阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "福晋",
+   "role": "宗室眷属"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 11500,
+ "page_range": "443-444",
+ "_date_interpolated": true
+}

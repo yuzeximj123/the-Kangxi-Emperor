@@ -1,0 +1,42 @@
+{
+ "source_no": 3551,
+ "title_guess": "兵部尚书孙柱等奏请将佐领常寿开复原级折",
+ "reign_year": 60,
+ "month": 4,
+ "day_text": "二十七日",
+ "event_role": "人事任免",
+ "summary": "兵部尚书孙柱等据正黄旗牛录章京常寿呈请，因其降级已满三年且无罪过，奏请开复其原级。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "孙柱",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "许昌",
+   "role": "镇守奉天等处副都统"
+  },
+  {
+   "name": "常寿",
+   "role": "正黄旗牛录章京"
+  },
+  {
+   "name": "米进高",
+   "role": "哈达部属人"
+  },
+  {
+   "name": "桑格",
+   "role": "批本官"
+  }
+ ],
+ "places": [
+  "奉天",
+  "哈达部"
+ ],
+ "source_title": "兵部尚书孙柱等故请将佐领常寿开复原级折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 73505,
+ "page_range": "1683-1684"
+}

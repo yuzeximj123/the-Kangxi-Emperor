@@ -1,0 +1,39 @@
+{
+ "source_no": 3830,
+ "title_guess": "康熙帝朱论一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "灾情收成",
+ "summary": "康熙帝记述此处人皆好、田禾畅茂，详问驻河洲八百余人知河洲和途东为水所围，侍卫额访布、员外郎平安等脱身，水渐涨不可行。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额访布",
+   "role": "侍卫"
+  },
+  {
+   "name": "平安",
+   "role": "员外郎"
+  },
+  {
+   "name": "常保",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "河洲",
+  "和途东"
+ ],
+ "source_title": "康熙帝朱论一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78207,
+ "page_range": "1777-1778",
+ "_date_interpolated": true
+}

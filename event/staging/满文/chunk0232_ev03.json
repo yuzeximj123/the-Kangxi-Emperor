@@ -1,0 +1,39 @@
+{
+ "source_no": 999,
+ "title_guess": "山社等奏报遵旨出迎折",
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "十二日",
+ "event_role": "宫廷事务",
+ "summary": "山社等奏报遵旨接迎保寿事，将抵达之日告知福晋并启奏皇太后，请示迎娶之日可否摘绿及诸阿哥福晋去聚与否。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：十四阿哥之福晋即居宫内则不可去，在外诸阿哥之福晋亦不可，令在家诸阿哥之福晋等去；至摘绿之事，请皇太后旨。",
+ "people": [
+  {
+   "name": "山社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "七阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "十二阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "十四阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_title": "山社等奏报遵旨出迎折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23203,
+ "page_range": "677-678"
+}

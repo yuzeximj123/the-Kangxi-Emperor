@@ -1,0 +1,31 @@
+{
+ "source_no": 2438,
+ "title_guess": "两江总督赫寿奏闻秋审定于苏州举行折",
+ "reign_year": 53,
+ "month": 6,
+ "day_text": "十一日",
+ "event_role": "司法案件",
+ "summary": "两江总督赫寿奏报秋审人犯聚集常州，因张伯行不肯离苏州，拟将人犯带至苏州会审，并自六月十五日起程前往，兼察地方情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称赫寿此举甚是，讥张伯行恐惧可笑，谓其奏折屡言有人行刺，身为大员如此小气，书生可笑。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "江苏巡抚"
+  }
+ ],
+ "places": [
+  "常州",
+  "苏州",
+  "松江"
+ ],
+ "source_title": "两江总督赫寿考闻秋审定于苏州举行提",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 47700,
+ "page_range": "1167-1168"
+}

@@ -1,0 +1,61 @@
+{
+ "source_no": 4113,
+ "title_guess": "议政大臣议奏抚巴塘里塘等事折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "议政大臣会议四川总督年羹尧所奏，议定防备策凌敦多布、招抚里塘巴塘、派都统法拉领兵前往及处置送还人员等事宜。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：现经商议。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川总督"
+  },
+  {
+   "name": "高其佩",
+   "role": "道员"
+  },
+  {
+   "name": "法拉",
+   "role": "都统"
+  },
+  {
+   "name": "策凌敦多布",
+   "role": "准噶尔将领"
+  },
+  {
+   "name": "达克臣",
+   "role": "第巴"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "台吉"
+  },
+  {
+   "name": "武格",
+   "role": "都统"
+  },
+  {
+   "name": "宁固礼",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "里塘",
+  "巴塘",
+  "打箭炉",
+  "西藏",
+  "西宁",
+  "松潘",
+  "云南",
+  "察木多"
+ ],
+ "source_title": "议政大臣议奏抚巴塘里塘等事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82703,
+ "page_range": "1867-1868",
+ "_date_interpolated": true
+}

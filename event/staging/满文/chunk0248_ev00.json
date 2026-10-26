@@ -1,0 +1,30 @@
+{
+ "source_no": 1081,
+ "title_guess": "上乱社等奏京城阴雨情形并报接阅御批折",
+ "reign_year": 46,
+ "month": 3,
+ "day_text": "二十七日",
+ "event_role": "灾情收成",
+ "summary": "奏报京城得雨、麦子长势及播种情形，并报接阅御批、太后分赐新物等事。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "向社",
+   "role": "奏报人"
+  },
+  {
+   "name": "向祯",
+   "role": "奏报人"
+  }
+ ],
+ "places": [
+  "京城",
+  "松江"
+ ],
+ "source_title": "上乱社等奏京城阴雨情形并报接阅御批折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 24800,
+ "page_range": "709-710"
+}

@@ -1,0 +1,42 @@
+{
+ "source_no": 194,
+ "title_guess": "康熙帝论费扬古为噶尔丹饥寒交迫事",
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "初三日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕内大臣伯费扬古，闻噶尔丹处逃来人言其饥寒交迫，此良机不可再失；追述克鲁伦、巴颜乌兰及尹札纳等归返、移粮等事，悔未收聚逃散者，令两大将军会师后拣兵调马追击，并急盼噶尔丹消息。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "内大臣伯"
+  },
+  {
+   "name": "商南多尔济",
+   "role": "使者"
+  },
+  {
+   "name": "尹札纳",
+   "role": "侍卫"
+  },
+  {
+   "name": "额林沁",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "克鲁伦",
+  "巴颜乌兰"
+ ],
+ "source_title": "康熙帝论费扬古为噶尔丹饥寒交迫事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5005,
+ "page_range": "313-314"
+}

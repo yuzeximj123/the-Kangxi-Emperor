@@ -1,0 +1,27 @@
+{
+ "source_no": 250,
+ "title_guess": "两江总督范承勋奏请圣安折",
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "二十四日",
+ "event_role": "请安谢恩",
+ "summary": "两江总督范承勋奏请圣安，称皇上严寒亲幸口外，圣躬劳苦，臣坐立不安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：体安，问尔可好；虽寒冷出口外但事事如意，尽收厄鲁特余留人等，口外必将永久无事。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "口外"
+ ],
+ "source_title": "两江总督范承动秦请圣安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6305,
+ "page_range": "339-340"
+}

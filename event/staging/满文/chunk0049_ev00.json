@@ -1,0 +1,75 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": null,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "此为康熙亲征噶尔丹途中记事片段，记清军至燕图库列图缺水、遣使与噶尔丹交涉、哨所相对及初八日抵克鲁伦河布阵等事。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "杜棱旺扎西",
+   "role": "喀喇沁和硕额驸"
+  },
+  {
+   "name": "阿必达",
+   "role": "中书"
+  },
+  {
+   "name": "诺尔布",
+   "role": "理藩院领催"
+  },
+  {
+   "name": "沙津",
+   "role": "科尔沁土谢图亲王"
+  },
+  {
+   "name": "班第",
+   "role": "达尔汉亲王"
+  },
+  {
+   "name": "纳木扎勒",
+   "role": "喀尔喀车臣汗王"
+  },
+  {
+   "name": "锡达西哩",
+   "role": "贝勒"
+  },
+  {
+   "name": "盆楚克",
+   "role": "贝子"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "燕图库列图",
+  "克鲁伦河",
+  "阿思哈图山",
+  "额尔德尼托罗海山",
+  "巴尔泰哈",
+  "塔尔吉勤济河口",
+  "僧库尔河口"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4900,
+ "page_range": "311-312"
+}

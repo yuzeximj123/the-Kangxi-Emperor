@@ -1,0 +1,31 @@
+{
+ "source_no": 1813,
+ "title_guess": "两江总督噶礼奏谢赏赐鹿肉并鱼等物折",
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十二日",
+ "event_role": "请安谢恩",
+ "summary": "两江总督噶礼奏谢皇上赏赐鹿肉条、白肚鳝鱼、岚河鱼等物，表示感恩效力。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "硕泰",
+   "role": "噶礼家人"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "热河"
+ ],
+ "source_title": "两江总督噶礼奏谢赏赐庞肉并鱼等物折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37600,
+ "page_range": "965-966"
+}

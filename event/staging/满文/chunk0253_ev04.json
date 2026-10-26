@@ -1,0 +1,42 @@
+{
+ "source_no": 1106,
+ "title_guess": "山西巡抚噶礼奏报万寿圣诞诵经祝贺折",
+ "reign_year": 46,
+ "month": 4,
+ "day_text": "二十七日",
+ "event_role": "宫廷事务",
+ "summary": "噶礼奏报省城文武官民商贾于三月在圆通观诵经祝万寿，并派中军张玉桢赴五台山诵经祈祷，途中迎四公主至五台山，为万寿祈祷诵经后返省城。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "张玉桢",
+   "role": "中军"
+  },
+  {
+   "name": "四公主",
+   "role": "公主"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "省城",
+  "圆通观",
+  "五台山",
+  "雁门关",
+  "恒山店",
+  "归化城"
+ ],
+ "source_title": "山西巡抚噶礼奏报万寿圣诞请经祝贺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25304,
+ "page_range": "719-720"
+}

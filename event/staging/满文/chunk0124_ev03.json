@@ -1,0 +1,35 @@
+{
+ "source_no": 451,
+ "title_guess": "两江总督阿山奏请封印后赴京陛见折",
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "初二日",
+ "event_role": "请安谢恩",
+ "summary": "两江总督阿山谢圣主宽宥其冒奏张四教案之过并详加训示，又请封印后赴京陛见。",
+ "has_zhupi": true,
+ "zhupi_summary": "已有旨了，其余知道了。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "张四教",
+   "role": "被参官员"
+  },
+  {
+   "name": "高承计",
+   "role": "广东官员"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "广东"
+ ],
+ "source_title": "两江总督阿出考请封印后赴京陛见折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12403,
+ "page_range": "461-462"
+}

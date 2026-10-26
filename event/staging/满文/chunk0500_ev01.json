@@ -1,0 +1,42 @@
+{
+ "source_no": 2575,
+ "title_guess": "甘肃巡抚绰奇奏闻官兵已前往哈密救援等情折",
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "初六日",
+ "event_role": "军务",
+ "summary": "绰奇奏报策妄喇布坦兵抢掠哈密，肃州总兵路振声已率官兵出边救援，并令布政使等紧急运送口粮。",
+ "has_zhupi": true,
+ "zhupi_summary": "米谷钱粮甚要，称有陇延。",
+ "people": [
+  {
+   "name": "绰奇",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "师忒德",
+   "role": "甘肃提督"
+  },
+  {
+   "name": "额敏",
+   "role": "哈密扎萨克"
+  },
+  {
+   "name": "路振声",
+   "role": "肃州总兵官"
+  },
+  {
+   "name": "胡仁智",
+   "role": "肃州道"
+  }
+ ],
+ "places": [
+  "哈密",
+  "肃州"
+ ],
+ "source_title": "甘肃巡抚绰奇奏闻官兵已前往哈密救援等情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 50001,
+ "page_range": "1213-1214"
+}

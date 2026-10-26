@@ -1,0 +1,38 @@
+{
+ "source_no": 2566,
+ "title_guess": "两江总督赫寿奏闻审张伯行案情形折",
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十二日",
+ "event_role": "弹劾参奏",
+ "summary": "赫寿奏陈张伯行参奏之案经审俱系伪误，张伯行不能说明海贼之事，顾协义供认因词穷诬告，并报江南雪足麦茂、江宁米价。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "被参奏官员"
+  },
+  {
+   "name": "张令涛",
+   "role": "涉案人"
+  },
+  {
+   "name": "顾协义",
+   "role": "涉案人"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁"
+ ],
+ "source_title": "两江总督赫寿考闻审张伯行案情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 49804,
+ "page_range": "1209-1210"
+}

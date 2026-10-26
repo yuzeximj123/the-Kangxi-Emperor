@@ -1,0 +1,33 @@
+{
+ "source_no": 1022,
+ "title_guess": "杭州织造孙文成奏报送皮箱交付高愈折",
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "二十七日",
+ "event_role": "宫廷事务",
+ "summary": "奏报王武将黄布所裹皮箱一个交付高愈，遵旨办理。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "王武",
+   "role": "送箱人"
+  },
+  {
+   "name": "高愈",
+   "role": "收箱人"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_title": "杭州织造孙文成奏报送皮箱交付高合折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23603,
+ "page_range": "685-686"
+}

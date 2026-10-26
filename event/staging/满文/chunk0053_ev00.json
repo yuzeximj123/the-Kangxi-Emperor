@@ -1,0 +1,30 @@
+{
+ "source_no": 207,
+ "title_guess": "康熙帝奏为皇太后祝寿折",
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十七日",
+ "event_role": "宫廷事务",
+ "summary": "康熙帝自边外奏请为皇太后祝寿，因出征在外不能亲临，于松山遥拜祝寿，并差人送所获之物，贡物照例交皇太子初览。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "紫禁城",
+  "松山"
+ ],
+ "source_title": "康熙帝奏为皇太后祝寿折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5300,
+ "page_range": "319-320"
+}

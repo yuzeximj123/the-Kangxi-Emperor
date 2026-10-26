@@ -1,0 +1,35 @@
+{
+ "source_no": 1338,
+ "title_guess": "息社等转奏桑额在京恭候御驾回銮折",
+ "reign_year": 47,
+ "month": 8,
+ "day_text": "初七日",
+ "event_role": "请安谢恩",
+ "summary": "臣息社等转奏总督桑额于初五日到京，传宣谕旨后请安，称遵旨在京恭候圣驾，临近时再出边门迎接请安。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "关祯",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "桑额",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "天津",
+  "京城",
+  "河西务"
+ ],
+ "source_title": "息社等转故桑额在京蒜候御驾回讲折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 29701,
+ "page_range": "807-808"
+}

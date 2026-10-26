@@ -1,0 +1,52 @@
+{
+ "source_no": 4047,
+ "title_guess": "步军统领隆科多奏报拿获于热河沿路抢劫之贼折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月初七日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报拿获在热河沿途行窃抢劫的民人五十一、孙四、何三、袁七等，供认多次捆绑商人抢银、窃取下店商人银两，请送刑部与马匹案一并审明从重治罪。",
+ "has_zhupi": true,
+ "zhupi_summary": "著交付严加审理。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "五十一",
+   "role": "盗犯"
+  },
+  {
+   "name": "孙四",
+   "role": "盗犯"
+  },
+  {
+   "name": "何三",
+   "role": "盗犯"
+  },
+  {
+   "name": "袁七",
+   "role": "盗犯"
+  },
+  {
+   "name": "陈进修",
+   "role": "南车守备"
+  }
+ ],
+ "places": [
+  "广宁门外",
+  "牛栏山",
+  "胡塔哈谷三叉口",
+  "姚亭子",
+  "罗山",
+  "孙河",
+  "热河"
+ ],
+ "source_title": "步军统领隆科多奏报拿获于热河沿路抢劫之贼折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81101,
+ "page_range": "1835-1836",
+ "_date_interpolated": true
+}

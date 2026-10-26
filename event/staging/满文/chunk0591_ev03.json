@@ -1,0 +1,74 @@
+{
+ "source_no": 2990,
+ "title_guess": "署理湖广总督满丕奏闻官员声名事折",
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "十四日",
+ "event_role": "弹劾参奏",
+ "summary": "满丕遵旨奏陈湖南湖北巡抚、提督、总兵、副将等官员声名优劣及办事情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "满丕",
+   "role": "署理湖广总督"
+  },
+  {
+   "name": "李发甲",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "刘殿衡",
+   "role": "湖北巡抚"
+  },
+  {
+   "name": "高其位",
+   "role": "提督"
+  },
+  {
+   "name": "邵登云",
+   "role": "总兵官"
+  },
+  {
+   "name": "佟国弹",
+   "role": "总兵官"
+  },
+  {
+   "name": "韩永杰",
+   "role": "总兵官"
+  },
+  {
+   "name": "陈尚武",
+   "role": "总兵官"
+  },
+  {
+   "name": "马良灿",
+   "role": "副将"
+  },
+  {
+   "name": "王云吉",
+   "role": "副将"
+  },
+  {
+   "name": "舒明",
+   "role": "参将"
+  },
+  {
+   "name": "斐尝都",
+   "role": "岳常道"
+  }
+ ],
+ "places": [
+  "湖南",
+  "湖北",
+  "黄州",
+  "洞庭",
+  "襄阳",
+  "永州"
+ ],
+ "source_title": "署理湖广总督满丕奏闻官员骨名事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 59103,
+ "page_range": "1395-1396"
+}

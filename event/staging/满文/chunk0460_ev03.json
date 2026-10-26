@@ -1,0 +1,43 @@
+{
+ "source_no": 2336,
+ "title_guess": "山西巡抚苏克济奏闻百姓聚众抗交钱粮折",
+ "reign_year": 52,
+ "month": 12,
+ "day_text": "十一日",
+ "event_role": "司法案件",
+ "summary": "苏克济奏报临汾县光棍宋廉等聚众抗交钱粮、殴打衙役、毁坏房屋，已拘捕并另行查参。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "宋廉",
+   "role": "光棍"
+  },
+  {
+   "name": "宫茂凑",
+   "role": "临汾县知县"
+  },
+  {
+   "name": "郭顶",
+   "role": "把总"
+  },
+  {
+   "name": "张西",
+   "role": "典史"
+  }
+ ],
+ "places": [
+  "山西",
+  "临汾",
+  "平阳府"
+ ],
+ "source_title": "山西巡抚苏克济奏百姓聚众抗交钱粮折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 46003,
+ "page_range": "1133-1134"
+}

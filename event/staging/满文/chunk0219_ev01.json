@@ -1,0 +1,38 @@
+{
+ "source_no": 924,
+ "title_guess": "步军统领托和齐奏报京城盗案折",
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "十四日",
+ "event_role": "司法案件",
+ "summary": "托和齐奏报拿获飞贼吴回子等七十六名及山西张二、董庆等盗案、私贩宝泉局大钱案，解送刑部。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "张二",
+   "role": "盗贼"
+  },
+  {
+   "name": "董庆",
+   "role": "私贩大钱人犯"
+  }
+ ],
+ "places": [
+  "京城",
+  "山西",
+  "河南",
+  "柏乡",
+  "太原府",
+  "保安州"
+ ],
+ "source_title": "步军统领托和齐奏报京城盗案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 21901,
+ "page_range": "651-652"
+}

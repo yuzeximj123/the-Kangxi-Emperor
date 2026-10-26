@@ -1,0 +1,50 @@
+{
+ "source_no": 4297,
+ "title_guess": "在克鲁伦地方靖扫噶尔丹之歌",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "以诗歌颂扬康熙帝亲率诸阿哥、侍卫、尚书等出征克鲁伦、昭莫多、图拉等地，大败并剿灭噶尔丹部众凯旋。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "阿穆呼郎皇帝"
+  },
+  {
+   "name": "阿南达",
+   "role": "侍卫"
+  },
+  {
+   "name": "班第",
+   "role": "尚书"
+  },
+  {
+   "name": "桑额扎尔固齐",
+   "role": "扎尔固齐"
+  },
+  {
+   "name": "嘎尔玛",
+   "role": "助理台吉"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "克鲁伦河",
+  "昭莫多",
+  "图拉",
+  "北京",
+  "输斯哈和绍"
+ ],
+ "source_title": "在克和鲁伦地方靖扫噶尔丹之歌",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 86104,
+ "page_range": "1935-1936",
+ "_date_interpolated": true
+}

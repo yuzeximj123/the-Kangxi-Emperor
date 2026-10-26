@@ -1,0 +1,46 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "据保柱奏称，奉旨令商南多尔济带台吉拉藏等前来，旨到近两月商南多尔济反复派人威吓拉藏致其出逃，并每日向西宁总兵张岳搬兵遭拒而争论；商南多尔济辩称并无争斗。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "保柱",
+   "role": "员外郎"
+  },
+  {
+   "name": "商南多尔济",
+   "role": "喇嘛"
+  },
+  {
+   "name": "拉藏",
+   "role": "台吉"
+  },
+  {
+   "name": "戴青和硕齐",
+   "role": "台吉"
+  },
+  {
+   "name": "车臣台吉",
+   "role": "台吉"
+  },
+  {
+   "name": "张岳",
+   "role": "西宁总兵"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12711,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

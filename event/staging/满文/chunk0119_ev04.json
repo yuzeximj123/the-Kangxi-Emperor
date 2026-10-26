@@ -1,0 +1,24 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "记载皇上每餐整成白菜、芥菜、清着瓜、盐腌王瓜、芥混菜、芥菜茄子、炸香菜等用量，并减裁咸白菜、芥菜、去皮草菜、清着瓜、芥混菜、芥菜茄子、炸香菜、对汤酸菜等。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "皇上",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 11904,
+ "page_range": "451-452",
+ "_date_interpolated": true
+}

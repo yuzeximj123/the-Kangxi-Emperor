@@ -1,0 +1,35 @@
+{
+ "source_no": 2323,
+ "title_guess": "两江总督赫寿奏闻江南米装船启运折",
+ "reign_year": 52,
+ "month": 12,
+ "day_text": "初一日",
+ "event_role": "钱粮财政",
+ "summary": "赫寿奏报将江南捐纳米十万石分运福建、广东平粜，已装船一百一十九只并由总兵穆廷械率官兵护送，于十一月二十六日自上海启程，另报江南雨雪及江宁米价。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "穆廷械",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "上海县",
+  "福建",
+  "广东",
+  "京口",
+  "狼山",
+  "崇明",
+  "江宁"
+ ],
+ "source_title": "两江监督赫寿奏闻江南米装船启运折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 45807,
+ "page_range": "1129-1130"
+}

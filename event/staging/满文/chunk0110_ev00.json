@@ -1,0 +1,47 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "此为前件奏折续篇片段，记载对张四教办解白棉榜纸侵扣银两案的审讯问答，张四教辩称并无侵扣，系高巡抚勒索不遂而诬参。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "张四教",
+   "role": "被参官员"
+  },
+  {
+   "name": "高巡抚",
+   "role": "巡抚"
+  },
+  {
+   "name": "施师夏",
+   "role": "涉案人"
+  },
+  {
+   "name": "施长四",
+   "role": "槽户"
+  },
+  {
+   "name": "江通",
+   "role": "槽户"
+  }
+ ],
+ "places": [
+  "望江县",
+  "宁国府",
+  "宣城",
+  "泾县",
+  "宁国县",
+  "安庆府"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 11000,
+ "page_range": "433-434",
+ "_date_interpolated": true
+}

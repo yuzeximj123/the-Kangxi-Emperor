@@ -1,0 +1,37 @@
+{
+ "source_no": 1496,
+ "title_guess": "杭州织造孙文成奏报送匣子交高愈折",
+ "reign_year": 48,
+ "month": 9,
+ "day_text": "初八日",
+ "event_role": "宫廷事务",
+ "summary": "杭州织造孙文成奏报遵旨将黄布包裹板匣一个、黄布单被包裹十三斤木匣一个令王武送交高愈。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了；高愈此人有些乱，尔当多加防备。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "王武",
+   "role": "送匣人"
+  },
+  {
+   "name": "高愈",
+   "role": "收匣人"
+  },
+  {
+   "name": "胡金朝",
+   "role": "太监"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_title": "杭州织造孙文成天报送区子交高愈折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32204,
+ "page_range": "857-858"
+}

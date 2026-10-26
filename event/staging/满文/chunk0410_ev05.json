@@ -1,0 +1,48 @@
+{
+ "source_no": 2047,
+ "title_guess": "福建巡抚满保奏请补授布政使员缺折",
+ "reign_year": 51,
+ "month": 9,
+ "day_text": "十八日",
+ "event_role": "人事任免",
+ "summary": "福建巡抚满保奏陈布政使、按察使职任紧要，请破格提拔运使刘翰为布政使补缺，并请令按察使董永文降级留任效力。",
+ "has_zhupi": true,
+ "zhupi_summary": "具本来奏。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "金培生",
+   "role": "前任布政使"
+  },
+  {
+   "name": "刘翰",
+   "role": "运使"
+  },
+  {
+   "name": "武国楼",
+   "role": "新任布政使"
+  },
+  {
+   "name": "董永文",
+   "role": "按察使"
+  },
+  {
+   "name": "张月恶",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "福建",
+  "江宁",
+  "杭州",
+  "陕西"
+ ],
+ "source_title": "福建巡抚满保奏请补授布政使员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 41005,
+ "page_range": "1033-1034"
+}

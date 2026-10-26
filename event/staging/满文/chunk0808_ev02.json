@@ -1,0 +1,27 @@
+{
+ "source_no": 4031,
+ "title_guess": "步军统领隆科多奏为闻知圣躬渐次复元折",
+ "reign_year": 3,
+ "month": 8,
+ "day_text": "八月十七日",
+ "event_role": "请安谢恩",
+ "summary": "隆科多奏闻八月十七日接到御批，知圣体渐次强健、可骑马而行，并报本年粮食丰稳、京城太平。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。并质疑户部报来粮价未减，粮食丰收何以如此。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "木兰",
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏为闻知圣躬渐次复元折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80802,
+ "page_range": "1829-1830",
+ "_date_interpolated": true
+}

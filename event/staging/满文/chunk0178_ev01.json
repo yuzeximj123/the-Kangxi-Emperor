@@ -1,0 +1,34 @@
+{
+ "source_no": 692,
+ "title_guess": "山西巡抚噶礼奏报将人参送交学臣王浩折",
+ "reign_year": 43,
+ "month": 12,
+ "day_text": "二十日",
+ "event_role": "其他",
+ "summary": "噶礼奏报在安邑县审案时收到赏赐学臣王浩的人参匣，已将谕旨缮写汉文派家人送往甘肃考场，待王浩谢恩折到后同奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "王浩",
+   "role": "学臣"
+  },
+  {
+   "name": "硕泰",
+   "role": "噶礼家人"
+  }
+ ],
+ "places": [
+  "安邑县",
+  "甘肃"
+ ],
+ "source_title": "山西巡抚噶礼奏报将人参送交学臣王消折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 17801,
+ "page_range": "569-570"
+}

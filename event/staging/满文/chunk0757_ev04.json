@@ -1,0 +1,30 @@
+{
+ "source_no": 3645,
+ "title_guess": "内务府奏请审拟四案妥否折",
+ "reign_year": 61,
+ "month": 11,
+ "day_text": "十三日",
+ "event_role": "司法案件",
+ "summary": "内务府奏请审拟四案，首述康熙五十四年发配瓮山锄草太监李方扭断铁索出逃，拟枷号拘禁东直门永不释放，并载朱批免枷仍送瓮山；后接康熙五十七年常兴一案片段。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：著免枷号，仍送往瓮山。",
+ "people": [
+  {
+   "name": "李方",
+   "role": "太监"
+  },
+  {
+   "name": "常兴",
+   "role": "原管领夺尔泰之子"
+  }
+ ],
+ "places": [
+  "瓮山",
+  "东直门"
+ ],
+ "source_title": "内务府奏请审拟四案妥和否折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 75704,
+ "page_range": "1727-1728"
+}

@@ -1,0 +1,52 @@
+{
+ "source_no": 152,
+ "title_guess": "两江总督范承勋奏请将李玉皂命案交谁审讯折",
+ "reign_year": 34,
+ "month": 12,
+ "day_text": "十六日",
+ "event_role": "司法案件",
+ "summary": "范承勋奏报巡抚马如龙与按察使孙居混结仇、彼此攻讦参劾情形，请旨将李玉皂命案等交江南司道会审或由皇上派大臣审讯。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "马如龙",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "孙居混",
+   "role": "江西按察使"
+  },
+  {
+   "name": "李远犹",
+   "role": "南康知府"
+  },
+  {
+   "name": "李芳",
+   "role": "饶州府知府"
+  },
+  {
+   "name": "陆成候",
+   "role": "余干县知县"
+  },
+  {
+   "name": "吴邦宪",
+   "role": "都昌县知县"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "余干县",
+  "都昌县"
+ ],
+ "source_title": "两江总督范承助奏请将李玉皂命案交谁审讯折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3304,
+ "page_range": "279-280"
+}

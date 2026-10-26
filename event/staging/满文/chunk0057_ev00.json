@@ -1,0 +1,42 @@
+{
+ "source_no": 224,
+ "title_guess": "康熙帝谕皇太子驻跸黄河岸边各处围猎情形",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "初四日",
+ "event_role": "宫廷事务",
+ "summary": "康熙帝谕皇太子，述在黄河岸边驻跸围猎、试制厄鲁特鞍、送马匹食物及渡河察看冰情等情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "高玉庆",
+   "role": "送马人"
+  },
+  {
+   "name": "特古斯",
+   "role": "向导章京"
+  }
+ ],
+ "places": [
+  "黄河",
+  "什尔哈",
+  "博罗勤济",
+  "鄂尔多斯",
+  "宁夏",
+  "盛京"
+ ],
+ "source_title": "康熙帝谕皇太子驻跸黄河岸边各处围猎情形",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5700,
+ "page_range": "327-328"
+}

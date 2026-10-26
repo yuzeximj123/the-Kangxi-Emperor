@@ -1,0 +1,45 @@
+{
+ "source_no": 1491,
+ "title_guess": "和社等奏报京城周围无有御用柑子折",
+ "reign_year": 48,
+ "month": 9,
+ "day_text": "初二日",
+ "event_role": "宫廷事务",
+ "summary": "和社等遵旨寻大柑子，奏报京城周围绝无，欲从御赐柑子中择相同者充数又不敢假冒，愿领寻之不得之罪。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "和社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "筷祯",
+   "role": "奏事臣"
+  },
+  {
+   "name": "岂和",
+   "role": "奏事臣"
+  },
+  {
+   "name": "凑社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "筷被",
+   "role": "奏事臣"
+  },
+  {
+   "name": "骨宰",
+   "role": "奏事臣"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "乱社等奏报京城周围无有御用檬子折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32106,
+ "page_range": "855-856"
+}

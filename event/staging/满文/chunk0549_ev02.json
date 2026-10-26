@@ -1,0 +1,31 @@
+{
+ "source_no": 2778,
+ "title_guess": "闽浙总督满保奏请万安折",
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "初八日",
+ "event_role": "请安谢恩",
+ "summary": "满保跪请圣主万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称朕安，四月京城一带旱甚焦虚，五月得雨沾足如今好了，尔地遥远恐有误报谣传故特寄信，此谕亦给李光地看。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "闽浙总督"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "京城"
+ ],
+ "source_title": "闽浙总督满保奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 54902,
+ "page_range": "1311-1312"
+}

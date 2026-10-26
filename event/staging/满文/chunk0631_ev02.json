@@ -1,0 +1,33 @@
+{
+ "source_no": 3140,
+ "title_guess": "重绘霸州河画片",
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "十一月初九日",
+ "event_role": "河工水利",
+ "summary": "记录康熙五十六年二月初八日小太监陈福将霸州河画二张交付杨常柱、伊都礼转传谕旨，朱批令河水结冰时请旨遣人复绘。",
+ "has_zhupi": true,
+ "zhupi_summary": "与先绘者均不同。",
+ "people": [
+  {
+   "name": "陈福",
+   "role": "小太监"
+  },
+  {
+   "name": "杨常柱",
+   "role": "传旨人"
+  },
+  {
+   "name": "伊都礼",
+   "role": "传旨人"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_title": "重绘霸州河夯片",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 63102,
+ "page_range": "1475-1476"
+}

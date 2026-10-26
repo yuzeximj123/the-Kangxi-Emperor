@@ -1,0 +1,46 @@
+{
+ "source_no": 1815,
+ "title_guess": "湖广总督鄂海奏报镇筸地方苗民情形折",
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十八日",
+ "event_role": "边疆事务",
+ "summary": "湖广总督鄂海奏报会同巡抚、提督查看镇筸苗民情形，议移驻官兵、令苗纳贡、割草烧山防凶苗藏匿等事。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "湖广总督"
+  },
+  {
+   "name": "潘宗洛",
+   "role": "巡抚"
+  },
+  {
+   "name": "额伦特",
+   "role": "提督"
+  },
+  {
+   "name": "张国桢",
+   "role": "总兵官"
+  },
+  {
+   "name": "吴天星",
+   "role": "苗寨头目"
+  },
+  {
+   "name": "吴老三",
+   "role": "吴天星之弟"
+  }
+ ],
+ "places": [
+  "镇筸",
+  "毛都塘"
+ ],
+ "source_title": "湖广总督辑海考报镇地方苗民情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37602,
+ "page_range": "965-966"
+}

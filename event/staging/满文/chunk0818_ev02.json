@@ -1,0 +1,34 @@
+{
+ "source_no": 4070,
+ "title_guess": "理藩院尚书隆科多密奏江南总督长鄞等情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "隆科多密奏江南总督长鄞名声不佳、收规礼、逐散迎接生员等情，并称巡抚吴存礼居官和平。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "理藩院尚书"
+  },
+  {
+   "name": "长鄞",
+   "role": "江南总督"
+  },
+  {
+   "name": "吴存礼",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_title": "理藩院尚书隆科多密奏江南总督长鄞等情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81802,
+ "page_range": "1849-1850",
+ "_date_interpolated": true
+}

@@ -1,0 +1,36 @@
+{
+ "source_no": 620,
+ "title_guess": "两江总督阿山奏为禁止匣费折",
+ "reign_year": 43,
+ "month": 7,
+ "day_text": "初一日",
+ "event_role": "钱粮财政",
+ "summary": "阿山遵旨查明两淮盐务匣费积弊，将应留应禁各项另缮清册奏请钦定严禁，并请旨自今年或明年起禁止匣费。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝谕令从明年开始禁止为好，并令查明李风所奏之事密奏，不可令人知道。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "江南江西总督革职留任"
+  },
+  {
+   "name": "佟世禄",
+   "role": "涉案官员"
+  },
+  {
+   "name": "李风",
+   "role": "奏事官员"
+  }
+ ],
+ "places": [
+  "扬州",
+  "两淮",
+  "江南",
+  "江西"
+ ],
+ "source_title": "两江总督阿山奏为禁止量费折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16301,
+ "page_range": "539-540"
+}

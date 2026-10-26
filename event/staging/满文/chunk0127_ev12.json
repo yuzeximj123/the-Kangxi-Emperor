@@ -1,0 +1,39 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "二十四日",
+ "event_role": "军务",
+ "summary": "阿南达答称二十四日王使者拉锡来报将备兵阻止拉藏，遂与西宁总兵张岳议发兵，张岳以绿营无例拒之，后令备兵，次日闻王将至又令停止，二十九日前往镇海堡会议。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "拉锡",
+   "role": "王之使者"
+  },
+  {
+   "name": "张岳",
+   "role": "西宁总兵"
+  },
+  {
+   "name": "扎西巴图鲁",
+   "role": "青海亲王"
+  }
+ ],
+ "places": [
+  "西宁",
+  "镇海堡"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12712,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

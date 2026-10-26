@@ -1,0 +1,49 @@
+{
+ "source_no": 2943,
+ "title_guess": "议政大臣巴理贷等奏为四川备兵折",
+ "reign_year": 56,
+ "month": 1,
+ "day_text": "二十一日",
+ "event_role": "军务",
+ "summary": "议政大臣议复四川提督康泰等奏报松潘备兵、晓谕青海贝勒察罕丹津及分兵预备情形，请旨依议。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。",
+ "people": [
+  {
+   "name": "巴理贷",
+   "role": "议政大臣领侍卫内大臣"
+  },
+  {
+   "name": "康泰",
+   "role": "四川提督"
+  },
+  {
+   "name": "巴特玛",
+   "role": "主事"
+  },
+  {
+   "name": "陆振阳",
+   "role": "松潘总兵官"
+  },
+  {
+   "name": "察罕丹津",
+   "role": "青海贝勒"
+  },
+  {
+   "name": "年羹尧",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "松潘",
+  "西宁",
+  "建昌",
+  "青海",
+  "四川"
+ ],
+ "source_title": "议政大臣巴理贷等奏为四川备兵折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 58302,
+ "page_range": "1379-1380"
+}

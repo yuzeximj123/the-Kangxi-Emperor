@@ -1,0 +1,37 @@
+{
+ "source_no": 3535,
+ "title_guess": "抚远大将军胤祯等请安折",
+ "reign_year": 59,
+ "month": 9,
+ "day_text": "康熙五十九年九月二十八日",
+ "event_role": "请安谢恩",
+ "summary": "胤祯、弘曙、弘智、弘曦等恭请皇父万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：朕安。今年腿脚甚好，照常乘马，如先年哨鹿围猎，忍耐而行。此谕于密云行宫缮写发之。",
+ "people": [
+  {
+   "name": "胤祯",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "弘曙",
+   "role": "皇子"
+  },
+  {
+   "name": "弘智",
+   "role": "皇子"
+  },
+  {
+   "name": "弘曦",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "密云行宫"
+ ],
+ "source_title": "抚远大将军筷祝等请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 73202,
+ "page_range": "1677-1678"
+}

@@ -1,0 +1,40 @@
+{
+ "source_no": 1794,
+ "title_guess": "两江总督噶礼奏报海洋安静折",
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "十七日",
+ "event_role": "军务",
+ "summary": "噶礼奏报江南海上今年贼船实少、商船不绝，福建广东台湾商船六十余艘至镇江贸易，并述访闻贼首多已招安或拿获，海面平安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。吴郡原为名人。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "吴那",
+   "role": "浙江定海总兵官署理提督"
+  },
+  {
+   "name": "八十三",
+   "role": "广东首贼"
+  }
+ ],
+ "places": [
+  "江南",
+  "苏州",
+  "松江",
+  "镇江",
+  "福建",
+  "广东",
+  "台湾",
+  "上海关"
+ ],
+ "source_title": "两江总督噶礼奏报海洋安静折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37203,
+ "page_range": "957-958"
+}

@@ -1,0 +1,54 @@
+{
+ "source_no": 2786,
+ "title_guess": "内阁学士渣克旦等奏请处分太监李晋朝折",
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "二十四日",
+ "event_role": "司法案件",
+ "summary": "太监李晋朝换乘披甲坡廉之马不还，坡廉自刎身亡，渣克旦等拟杖一百追丧银十两，请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批认为所议过轻，令将李晋朝即于热河枷号三个月、杖一百，余依议。",
+ "people": [
+  {
+   "name": "渣克旦",
+   "role": "内阁学士"
+  },
+  {
+   "name": "傅柱",
+   "role": "郎中"
+  },
+  {
+   "name": "佛腾",
+   "role": "员外郎"
+  },
+  {
+   "name": "海章",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "五十一",
+   "role": "管领兼营造司主事"
+  },
+  {
+   "name": "李晋朝",
+   "role": "太监"
+  },
+  {
+   "name": "坡廉",
+   "role": "披甲"
+  },
+  {
+   "name": "札纳",
+   "role": "披甲"
+  }
+ ],
+ "places": [
+  "热河",
+  "和亭子"
+ ],
+ "source_title": "内阁学士渣克旦等奏请处分太监李晋朝折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55102,
+ "page_range": "1315-1316"
+}

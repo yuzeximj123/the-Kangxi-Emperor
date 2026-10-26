@@ -1,0 +1,35 @@
+{
+ "source_no": 4259,
+ "title_guess": "奏报守备员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报河南邓新营守备、江南川沙营参将中军守备、广西永中参将中军守备、广东澄海营副将右营守备、陕西凉州宁远堡守备、山东即墨营参将中军守备等员缺，其中部分朱批以杨尽忠补授。",
+ "has_zhupi": true,
+ "zhupi_summary": "著以吉奎、杨尽忠分别补授守备员缺",
+ "people": [
+  {
+   "name": "吉奎",
+   "role": "补授守备"
+  },
+  {
+   "name": "杨尽忠",
+   "role": "补授守备"
+  }
+ ],
+ "places": [
+  "河南邓新营",
+  "江南川沙营",
+  "广西永中",
+  "广东澄海营",
+  "陕西凉州宁远堡",
+  "山东即墨营"
+ ],
+ "source_title": "(佚各)奏报守备员和折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85605,
+ "page_range": "1925-1926",
+ "_date_interpolated": true
+}

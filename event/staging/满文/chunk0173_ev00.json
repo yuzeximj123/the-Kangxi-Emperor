@@ -1,0 +1,54 @@
+{
+ "source_no": null,
+ "title_guess": "河道总督张鹏翮疏辩并参佟世禄案查议折（残）",
+ "reign_year": 43,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "此为前件奏折续文，逐条辨析张鹏翮所奏西坎月堤、马家港东堤等河工赔修与钱粮追取之争，指其徇情隐匿、诬陷佟世禄，末尾附朱批。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：案情知道了。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "河道总督"
+  },
+  {
+   "name": "佟世禄",
+   "role": "被参官员"
+  },
+  {
+   "name": "达古礼",
+   "role": "承修官员"
+  },
+  {
+   "name": "金玉衡",
+   "role": "承修官员"
+  },
+  {
+   "name": "徐潮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "靳辅",
+   "role": "原河道总督"
+  },
+  {
+   "name": "于成龙",
+   "role": "原河道总督"
+  }
+ ],
+ "places": [
+  "西坎",
+  "藏家沟",
+  "马家港",
+  "张家港",
+  "藏家马头"
+ ],
+ "source_title": "河道总督张鹏翮疏辩并参佟世禄案查议折（残）",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 17300,
+ "page_range": "559-560",
+ "_date_interpolated": true
+}

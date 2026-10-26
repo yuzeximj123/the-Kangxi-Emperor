@@ -1,0 +1,45 @@
+{
+ "source_no": 882,
+ "title_guess": "武英殿总监造赫世亨等奏报向西洋人传谕旨折",
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "十三日",
+ "event_role": "宫廷事务",
+ "summary": "赫世亨、赵昌奏报向多罗传旨劝其八月启程、留高庭永治病，并传谕西洋人一视同仁及名号道理之辨，多罗跪听谢恩。",
+ "has_zhupi": true,
+ "zhupi_summary": "所奏知道了；高庭永待赫世亨、赵昌到后再定。",
+ "people": [
+  {
+   "name": "赫世亨",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "赵昌",
+   "role": "奏事臣"
+  },
+  {
+   "name": "多罗",
+   "role": "西洋人"
+  },
+  {
+   "name": "严当",
+   "role": "西洋人"
+  },
+  {
+   "name": "毕天祥",
+   "role": "天主教徒"
+  },
+  {
+   "name": "高庭永",
+   "role": "大夫"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "武英殿总监造赫世亨等奏报向西洋人传定论由折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 21104,
+ "page_range": "635-636"
+}

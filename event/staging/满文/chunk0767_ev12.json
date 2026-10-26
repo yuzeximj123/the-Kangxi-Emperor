@@ -1,0 +1,32 @@
+{
+ "source_no": 3701,
+ "title_guess": "康熙帝转发侍卫喇锡等呈文",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "侍卫喇锡、尚膳总领史家宝呈大将军王：十三日奉旨乌拉盛京所进稻鱼分七驮送王，令该管小心收存与阿哥等慢尝，青海人来则量赏糖。",
+ "has_zhupi": true,
+ "zhupi_summary": "奉旨分送稻鱼并赏青海人糖。",
+ "people": [
+  {
+   "name": "喇锡",
+   "role": "侍卫"
+  },
+  {
+   "name": "史家宝",
+   "role": "尚膳总领"
+  }
+ ],
+ "places": [
+  "乌拉",
+  "盛京",
+  "青海"
+ ],
+ "source_title": "康熙帝转发侍卫喇锡等星文",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76712,
+ "page_range": "1747-1748",
+ "_date_interpolated": true
+}

@@ -1,0 +1,37 @@
+{
+ "source_no": null,
+ "title_guess": "抚远大将军伯费扬古奏报军情疏",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "五月初二日",
+ "event_role": "军务",
+ "summary": "费扬古奏报率大军抵杭爱山喀喇托罗海口，遵旨议留陕西兵堵色楞格路，因兵力弱请仍一路进兵，并报闻噶尔丹顺克鲁伦而下已近御营大军。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军、领侍卫内大臣伯"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "扎纳",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "杭爱山",
+  "喀喇托罗海口",
+  "色楞格",
+  "克鲁伦",
+  "达尔罕奥拉"
+ ],
+ "source_title": "抚远大将军伯费扬古奏报军情疏",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4906,
+ "page_range": "311-312"
+}

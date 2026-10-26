@@ -1,0 +1,27 @@
+{
+ "source_no": 4008,
+ "title_guess": "步军统领隆科多奏请万安折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "隆科多跪请皇上万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称在木兰照常行猎，自热河出来时身体瘦得厉害，未曾想到，照常行猎后饮食步履如常、气色好多了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "木兰",
+  "热河"
+ ],
+ "source_title": "步军统领隆科多奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80405,
+ "page_range": "1821-1822",
+ "_date_interpolated": true
+}

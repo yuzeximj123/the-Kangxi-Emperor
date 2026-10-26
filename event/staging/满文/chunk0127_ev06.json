@@ -1,0 +1,51 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "记述商南多尔济与阿南达争执署名奏事，商南多尔济欲带台吉等前去并请领口粮邮符，阿南达拒绝署名；并述王扎西巴图鲁等会议欲遣拉藏、车臣台吉往西地促班禅前来，作者主张试探劝其往觐皇上。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "商南多尔济",
+   "role": "喇嘛"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "扎西巴图鲁",
+   "role": "青海亲王"
+  },
+  {
+   "name": "拉藏",
+   "role": "台吉"
+  },
+  {
+   "name": "车臣台吉",
+   "role": "台吉"
+  },
+  {
+   "name": "达赖计",
+   "role": "拉藏之父"
+  },
+  {
+   "name": "丹津旺扎尔",
+   "role": "拉藏之兄"
+  }
+ ],
+ "places": [
+  "西地",
+  "松山"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12706,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

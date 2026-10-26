@@ -1,0 +1,38 @@
+{
+ "source_no": 3712,
+ "title_guess": "内务府总管图巴奏报喇嘛鄂木布噶隆圆寂折",
+ "reign_year": 62,
+ "month": 6,
+ "day_text": "本月二十三日、六月初八日、六月初五日",
+ "event_role": "宫廷事务",
+ "summary": "奏报喇嘛鄂木布噶隆于本月二十三日圆寂，遗言感念太皇太后、皇上、皇太子隆恩，拟于六月初八日送遗骸往武台，并安排诵经等事。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕闻后甚恻然，特赐银二百两，酌情用之。",
+ "people": [
+  {
+   "name": "图巴",
+   "role": "内务府总管"
+  },
+  {
+   "name": "鄂木布噶隆",
+   "role": "喇嘛"
+  },
+  {
+   "name": "丹巴噶隆",
+   "role": "喇嘛"
+  },
+  {
+   "name": "墨尔根绰尔济",
+   "role": "喇嘛"
+  }
+ ],
+ "places": [
+  "武台"
+ ],
+ "source_title": "内务府总管图巴奏报喇嘛雷木布噶隆圆农折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76809,
+ "page_range": "1749-1750",
+ "_date_interpolated": true
+}

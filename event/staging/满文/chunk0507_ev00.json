@@ -1,0 +1,32 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 54,
+ "month": 5,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "此为前件残余片段，内容为康熙帝谕准噶尔首领策妄喇布坦，责其侵哈密、扣使臣，要求会面盟定或遣使议断，并命议政大臣详议两路兴兵事宜。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "策妄喇布坦",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "拉藏",
+   "role": "西藏汗"
+  }
+ ],
+ "places": [
+  "阿拉克山",
+  "额尔齐斯",
+  "哈密"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 50700,
+ "page_range": "1227-1228",
+ "_date_interpolated": true
+}

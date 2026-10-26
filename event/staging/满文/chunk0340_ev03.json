@@ -1,0 +1,45 @@
+{
+ "source_no": 1597,
+ "title_guess": "向社奏报已得知四阿哥等将返回折",
+ "reign_year": 49,
+ "month": 6,
+ "day_text": "初一日",
+ "event_role": "宫廷事务",
+ "summary": "向社奏称前月请安折内已奉旨待太后到后令四阿哥、五阿哥、九阿哥、十二阿哥还京，感佩皇父虑事周详，并遵旨不再将折子与病人折同装一封套。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "向社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "四阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "五阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "九阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "十二阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "向社奏报已得知四阿哥等将返回折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 34003,
+ "page_range": "893-894"
+}

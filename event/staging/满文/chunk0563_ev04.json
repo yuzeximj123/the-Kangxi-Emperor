@@ -1,0 +1,44 @@
+{
+ "source_no": 2846,
+ "title_guess": "闽浙总督满保奏报青水洋巡哨事宜折",
+ "reign_year": 55,
+ "month": 7,
+ "day_text": "二十五日",
+ "event_role": "军务",
+ "summary": "满保奏报青水洋一带海盗劫掠商船情形及金门、澎湖、海潭、南澳等处合力巡缉、限期擒贼的部署。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "黄英",
+   "role": "金门总兵"
+  },
+  {
+   "name": "施世",
+   "role": "提督"
+  },
+  {
+   "name": "倪国含",
+   "role": "提标参将"
+  }
+ ],
+ "places": [
+  "青水洋",
+  "厦门",
+  "澎湖",
+  "金门",
+  "海潭",
+  "南澳",
+  "台湾",
+  "广东"
+ ],
+ "source_title": "闽浙总督满保奏报青水洋近哨事宜折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 56304,
+ "page_range": "1339-1340"
+}

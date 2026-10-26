@@ -1,0 +1,43 @@
+{
+ "source_no": 4032,
+ "title_guess": "步军统领隆科多奏报张应诏侵扣银物等情折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "隆科多奏报查访两淮盐道刘之萌之子及家人，得知张应诏糊涂不理事、不能禁革私盐，并闻其屡将各物携回宅第，待查实再报。",
+ "has_zhupi": true,
+ "zhupi_summary": "令其勤加打听，并嘱咐此类密事应亲手书写，字不好无妨。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "张应诏",
+   "role": "官员"
+  },
+  {
+   "name": "刘之萌",
+   "role": "两淮盐道"
+  },
+  {
+   "name": "刘勋",
+   "role": "理藩院笔帖式"
+  },
+  {
+   "name": "刘之连",
+   "role": "副榜"
+  }
+ ],
+ "places": [
+  "两淮",
+  "江南"
+ ],
+ "source_title": "步军统领隆科多奏报张应语侵扣银物等情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80803,
+ "page_range": "1829-1830",
+ "_date_interpolated": true
+}

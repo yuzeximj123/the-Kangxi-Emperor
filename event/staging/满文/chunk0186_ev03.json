@@ -1,0 +1,25 @@
+{
+ "source_no": 744,
+ "title_guess": "陕西巡抚鄂海奏报各地粮价折",
+ "reign_year": 44,
+ "month": 6,
+ "day_text": "十一日",
+ "event_role": "钱粮财政",
+ "summary": "遵旨奏报陕西省城及州县麦子、小米、面、豌豆、粳米、大麦等仓石价及银钱兑换比价。",
+ "has_zhupi": true,
+ "zhupi_summary": "这仓石不知写何仓石。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "陕西省城"
+ ],
+ "source_title": "陕西巡抚鄂海奏报备地粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 18603,
+ "page_range": "585-586"
+}

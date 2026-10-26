@@ -1,0 +1,33 @@
+{
+ "source_no": 1099,
+ "title_guess": "川陕总督博霁奏报雨水田禾情形折",
+ "reign_year": 46,
+ "month": 4,
+ "day_text": "十八日",
+ "event_role": "灾情收成",
+ "summary": "川陕总督博霁奏报陕西西安、凤翔、汉中各属三月至四月降雨沾足，麦子大麦豌豆生长畅茂已秀，菜子结子，民望丰收，河西兰州亦降雨雪。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "博霁",
+   "role": "川陕总督"
+  },
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安",
+  "凤翔",
+  "汉中",
+  "河西兰州"
+ ],
+ "source_title": "川陕总督博雾奏报雨水田用情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25203,
+ "page_range": "717-718"
+}

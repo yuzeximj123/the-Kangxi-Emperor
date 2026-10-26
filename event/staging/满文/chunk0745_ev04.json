@@ -1,0 +1,44 @@
+{
+ "source_no": 3588,
+ "title_guess": "康熙帝论进伐伊犁战略事",
+ "reign_year": 61,
+ "month": 1,
+ "day_text": "十四日",
+ "event_role": "军务",
+ "summary": "康熙帝于乾清门谕论进伐伊犁方略，分析策妄喇布坦形势，主张一面进兵一面遣使由哲卜尊丹巴呼图克图处差喇嘛往谕。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇锡",
+   "role": "乾清门头等侍卫"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "策凌敦多布",
+   "role": "准噶尔将领"
+  },
+  {
+   "name": "哲卜尊丹巴呼图克图",
+   "role": "喇嘛"
+  }
+ ],
+ "places": [
+  "伊犁",
+  "招地",
+  "阿吉岭",
+  "吐鲁番"
+ ],
+ "source_title": "康熙帝论进伐伊犁战略于",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 74504,
+ "page_range": "1703-1704"
+}

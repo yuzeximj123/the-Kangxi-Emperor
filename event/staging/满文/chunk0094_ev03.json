@@ -1,0 +1,30 @@
+{
+ "source_no": 369,
+ "title_guess": "两江总督范承勋奏请各省开捐纳之例折",
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "初十日",
+ "event_role": "钱粮财政",
+ "summary": "范承勋以江南捐纳积储米不足，请仍开常平仓捐纳之例并准各省人等捐纳以补储备，请旨施行。",
+ "has_zhupi": true,
+ "zhupi_summary": "具题。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "两江总督"
+  },
+  {
+   "name": "宋荦",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_title": "两江总督范承动礁请各省开捐纳之例折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9403,
+ "page_range": "401-402"
+}

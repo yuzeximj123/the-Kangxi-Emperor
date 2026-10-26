@@ -1,0 +1,26 @@
+{
+ "source_no": 1603,
+ "title_guess": "筷社奏报京城阴雨情形折",
+ "reign_year": 49,
+ "month": 6,
+ "day_text": "十三日",
+ "event_role": "灾情收成",
+ "summary": "筷社详报京城初八至十三日阴雨情形，据地查看仅透土一寸，具折奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：此地十二日夜始雨、十四日晨盆倾雨，热河水涨三尺高低皆沾足，问京城何以未沾足，若仍旱则令具奏请旨祈雨。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏事臣"
+  }
+ ],
+ "places": [
+  "京城",
+  "热河"
+ ],
+ "source_title": "由社奏报京城阴雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 34103,
+ "page_range": "895-896"
+}

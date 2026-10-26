@@ -1,0 +1,30 @@
+{
+ "source_no": 968,
+ "title_guess": "陕西巡抚鄂海奏报官绅观看御书碑文情形折",
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "十六日",
+ "event_role": "宫廷事务",
+ "summary": "鄂海奏报御书广仁寺、华阴庙碑文已刻石建亭，官绅百姓争相观看称颂，并请留梅玉峰月余修理刻字。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "梅玉峰",
+   "role": "刻工"
+  }
+ ],
+ "places": [
+  "广仁寺",
+  "华阴庙"
+ ],
+ "source_title": "陕西巡抚鄂海考报官绅观看御书碑文情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 22703,
+ "page_range": "667-668"
+}

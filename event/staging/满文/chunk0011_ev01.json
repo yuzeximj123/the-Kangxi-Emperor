@@ -1,0 +1,33 @@
+{
+ "source_no": 56,
+ "title_guess": "山东巡抚佛伦奏谢恩赐鹿狍等物折",
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "初七日",
+ "event_role": "请安谢恩",
+ "summary": "佛伦谢恩赐鹿狍野鸡鹿尾，转述上谕及子阿勒珠来信，表示粉身难报，并请皇上节劳调养。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "阿勒珠",
+   "role": "佛伦之子"
+  },
+  {
+   "name": "吴什",
+   "role": "传谕者"
+  }
+ ],
+ "places": [
+  "省城"
+ ],
+ "source_title": "山东巡抚佛伦奏谢恩赐鹿犯等物折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1101,
+ "page_range": "235-236"
+}

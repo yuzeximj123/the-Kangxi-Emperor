@@ -1,0 +1,28 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "记载宫内主子、公主每饭桌整成白菜、间菜、清善瓜、盐腌王瓜、芥混菜、芥菜茄子、芥菜疙瘩、炸香菜等用量，并各减裁，其余照旧。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "宫内主子",
+   "role": "皇室成员"
+  },
+  {
+   "name": "公主",
+   "role": "皇室成员"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 11905,
+ "page_range": "451-452",
+ "_date_interpolated": true
+}

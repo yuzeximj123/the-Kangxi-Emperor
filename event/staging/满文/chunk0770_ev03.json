@@ -1,0 +1,38 @@
+{
+ "source_no": 3724,
+ "title_guess": "内务府总管海拉逊等奏为择选房屋折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "八月二十六日",
+ "event_role": "外藩朝贡",
+ "summary": "遵八月二十六日上谕，查看并择定皇城内达麻虎房屋供哲布尊丹巴呼图克图下榻、鄂博依房屋供土谢图汗下榻，加意整理。",
+ "has_zhupi": true,
+ "zhupi_summary": "好。",
+ "people": [
+  {
+   "name": "海拉逊",
+   "role": "内务府总管"
+  },
+  {
+   "name": "佛保",
+   "role": "郎中"
+  },
+  {
+   "name": "哲布尊丹巴呼图克图",
+   "role": "喀尔喀喇嘛"
+  },
+  {
+   "name": "土谢图汗",
+   "role": "喀尔喀汗"
+  }
+ ],
+ "places": [
+  "皇城"
+ ],
+ "source_title": "内务府总管海拉进等奏为择选房屋折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 77003,
+ "page_range": "1753-1754",
+ "_date_interpolated": true
+}

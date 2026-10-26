@@ -1,0 +1,40 @@
+{
+ "source_no": 4212,
+ "title_guess": "内务府奏报甄别养获鹏处柏唐阿名单",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "内务府甄别可用养鸦骼处柏唐阿五名，列赵光显、刘元凯、额尔青额、耿玉、宜延栋的出身、行走年限、年龄及才能。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批赵光显参领遇用、刘元凯武售、宜延栋文木缺，并有朱圈标记。",
+ "people": [
+  {
+   "name": "赵光显",
+   "role": "伙长兼佐领"
+  },
+  {
+   "name": "刘元凯",
+   "role": "柏唐阿兼五品官"
+  },
+  {
+   "name": "额尔青额",
+   "role": "三等侍卫、委署班领、佐领"
+  },
+  {
+   "name": "耿玉",
+   "role": "治仪正兼佐领"
+  },
+  {
+   "name": "宜延栋",
+   "role": "柏唐阿兼五品同知"
+  }
+ ],
+ "places": [],
+ "source_title": "内务府奏报桔别养禾体处柏唐阿名彰",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84501,
+ "page_range": "1903-1904",
+ "_date_interpolated": true
+}

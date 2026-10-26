@@ -1,0 +1,48 @@
+{
+ "source_no": 305,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十五日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕皇太子，报沿途水井泉水、降雨及驻跸情形，述塞布腾巴尔珠尔解京、抄送奏报迟误缘由，命将文书给满洲诸臣看。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "马齐",
+   "role": "勘地官员"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "塞布腾巴尔珠尔",
+   "role": "噶尔丹之子"
+  },
+  {
+   "name": "阿尔毕特胡",
+   "role": "带尼嘛唐呼图克图来者"
+  }
+ ],
+ "places": [
+  "安边口",
+  "定边",
+  "花马池",
+  "安定"
+ ],
+ "source_title": "康熙帝朱调和",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 7702,
+ "page_range": "367-368"
+}

@@ -1,0 +1,43 @@
+{
+ "source_no": 1870,
+ "title_guess": "漕运总督赫寿奏闻出查浅船折",
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "二十三日",
+ "event_role": "钱粮财政",
+ "summary": "漕运总督赫寿奏报漕粮米色被参、分赔议罪之忧，并请于会审噶礼张伯行案之外亲查浅船、催漕过淮，以兼顾审案与漕务。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示：此奏甚是，知道了。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "漕运总督"
+  },
+  {
+   "name": "噶礼",
+   "role": "总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "大学士"
+  },
+  {
+   "name": "梁呈羽",
+   "role": "广东雷州府同知"
+  }
+ ],
+ "places": [
+  "淮安",
+  "扬州",
+  "广东雷州"
+ ],
+ "source_title": "漕运总督赫寿奏闻出查浦船折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 38503,
+ "page_range": "983-984"
+}

@@ -1,0 +1,30 @@
+{
+ "source_no": 1709,
+ "title_guess": "两江总督噶礼请安折",
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "初一日",
+ "event_role": "请安谢恩",
+ "summary": "两江总督噶礼具折恭请圣安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：朕体安善；风闻清船今年甚迟，又闻常州府不肖书生侮辱学员，安徽巡抚叶九思年迈力衰不能行走，不知虚实。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "叶九思",
+   "role": "安徽巡抚"
+  }
+ ],
+ "places": [
+  "常州府",
+  "安徽"
+ ],
+ "source_title": "两江总督噶礼请安拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35803,
+ "page_range": "929-930"
+}

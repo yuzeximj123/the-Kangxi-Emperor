@@ -1,0 +1,38 @@
+{
+ "source_no": 2893,
+ "title_guess": "两江总督赫寿奏报赈恤情形及雨雪粮价折",
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "十六日",
+ "event_role": "灾情收成",
+ "summary": "赫寿奏报江南夏秋旱灾，捐银设厂煮粥赈济灾民，并疏浚河道以工代赈，报江宁米价及雨雪情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "吴存礼",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "梁世勋",
+   "role": "安徽巡抚"
+  }
+ ],
+ "places": [
+  "江宁",
+  "安徽",
+  "浦口",
+  "安庆",
+  "岱家楼",
+  "枞阳"
+ ],
+ "source_title": "两江总督赫寿礁报赈恤情形及两雪粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 57400,
+ "page_range": "1361-1362"
+}

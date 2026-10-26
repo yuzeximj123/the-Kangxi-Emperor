@@ -1,0 +1,54 @@
+{
+ "source_no": null,
+ "title_guess": "审讯索额图家人及宗人府王贝勒等口供折（残片）",
+ "reign_year": 42,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "臣等审讯宗人府王、贝勒、公等关于索额图拘禁、铁索层数及隔板门等情由，并请将索额图加戴九层铁锁严加查巡，另奏简魁梧父子交刑部拘禁。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：既经尔等严查无他故，所奏知道了。",
+ "people": [
+  {
+   "name": "索额图",
+   "role": "罪臣"
+  },
+  {
+   "name": "根度",
+   "role": "同禁之人"
+  },
+  {
+   "name": "齐克塔哈",
+   "role": "公"
+  },
+  {
+   "name": "善齐",
+   "role": "公"
+  },
+  {
+   "name": "海青",
+   "role": "申报者"
+  },
+  {
+   "name": "简魁梧",
+   "role": "皂隶"
+  },
+  {
+   "name": "乱社",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "乱祯",
+   "role": "奏事大臣"
+  }
+ ],
+ "places": [
+  "宗人府",
+  "刑部"
+ ],
+ "source_title": "审讯索额图家人及宗人府王贝勒等口供折（残片）",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 14400,
+ "page_range": "501-502"
+}

@@ -1,0 +1,51 @@
+{
+ "source_no": 2085,
+ "title_guess": "兵部等部奏报步军参领罗密晤闪案折",
+ "reign_year": 51,
+ "month": 12,
+ "day_text": "十三日",
+ "event_role": "司法案件",
+ "summary": "兵部等议原步军参领罗密呈控原总管托霍齐挟仇将其革职废世袭职官一案，查托霍齐曾参奏罗密狂妄不职奉旨革职，故罗密所控勿庸议。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：著复议具奏。",
+ "people": [
+  {
+   "name": "罗密",
+   "role": "原步军参领"
+  },
+  {
+   "name": "托霍齐",
+   "role": "原总管"
+  },
+  {
+   "name": "富宁安",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "孙柱",
+   "role": "吏部左侍郎"
+  },
+  {
+   "name": "傅绅",
+   "role": "吏部右侍郎"
+  },
+  {
+   "name": "颈特布",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "觉和托",
+   "role": "兵部左侍郎"
+  }
+ ],
+ "places": [
+  "九江府",
+  "杀虎口",
+  "昭莫多"
+ ],
+ "source_title": "兵部等部奏报步军参领罗密晤闪案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 41604,
+ "page_range": "1045-1046"
+}

@@ -1,0 +1,37 @@
+{
+ "source_no": 1507,
+ "title_guess": "李国屏奏报西洋人情形折",
+ "reign_year": 48,
+ "month": 9,
+ "day_text": "十四日",
+ "event_role": "其他",
+ "summary": "奏报苏琳、吉利安来报，住广东西洋人穆德俄七月十四日书信于本月十一日到，言有船数艘由海来，已令友人乘小船往迎探明。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "李国屏",
+   "role": "奏报官员"
+  },
+  {
+   "name": "苏琳",
+   "role": "来报人"
+  },
+  {
+   "name": "吉利安",
+   "role": "来报人"
+  },
+  {
+   "name": "穆德俄",
+   "role": "西洋人"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_title": "李国屏奏报西洋人情形拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32403,
+ "page_range": "861-862"
+}

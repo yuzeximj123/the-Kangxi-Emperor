@@ -1,0 +1,36 @@
+{
+ "source_no": 4294,
+ "title_guess": "喀尔喀归附天朝之歌",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "外藩朝贡",
+ "summary": "以诗歌形式颂扬喀尔喀部众脱离厄鲁特、噶尔丹侵扰，归附阿穆呼郎皇帝（康熙帝）后安居乐业、受赏得生路。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "阿穆呼郎皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特博硕克图汗"
+  }
+ ],
+ "places": [
+  "杭爱罕",
+  "库伦伯尔齐尔",
+  "察罕河",
+  "阿尔泰罕",
+  "呼惠",
+  "克和鲁伦河",
+  "图拉河"
+ ],
+ "source_title": "喀尔上归附天朝之歌",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 86101,
+ "page_range": "1935-1936",
+ "_date_interpolated": true
+}

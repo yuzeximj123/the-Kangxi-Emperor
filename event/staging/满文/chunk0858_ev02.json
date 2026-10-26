@@ -1,0 +1,32 @@
+{
+ "source_no": 4271,
+ "title_guess": "奏报参将员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报山西得胜路参将员缺，朱批著以莫什卫补放，并以张三营行官守备王鸿基为参将管理参将事务。",
+ "has_zhupi": true,
+ "zhupi_summary": "著以莫什卫补放得胜路参将；莫什卫之缺以张三营行官守备王鸿基为参将管理参将事务。",
+ "people": [
+  {
+   "name": "莫什卫",
+   "role": "补放参将"
+  },
+  {
+   "name": "王鸿基",
+   "role": "张三营行官守备，为参将管理参将事务"
+  }
+ ],
+ "places": [
+  "山西",
+  "得胜路",
+  "张三营"
+ ],
+ "source_title": "(佚名)奏报参将员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85802,
+ "page_range": "1929-1930",
+ "_date_interpolated": true
+}

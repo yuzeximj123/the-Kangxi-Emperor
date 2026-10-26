@@ -1,0 +1,45 @@
+{
+ "source_no": 3525,
+ "title_guess": "镇国公乌尔詹等奏查尔久谎称谕旨开户折",
+ "reign_year": 59,
+ "month": 7,
+ "day_text": "二十八日",
+ "event_role": "司法案件",
+ "summary": "乌尔集等会审查尔久谎称谕旨开户、取马取银等事，拟枷号责打交盛京服苦役，请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "新满洲索伦常有此类事，宽免查尔久枷号责打，发往盛京，余依议。",
+ "people": [
+  {
+   "name": "乌尔集",
+   "role": "署理领侍卫内大臣事务镇国公"
+  },
+  {
+   "name": "查尔久",
+   "role": "案犯"
+  },
+  {
+   "name": "马尔赛",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "阿尔苏阿",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "查强纳",
+   "role": "行在兵部右侍郎"
+  },
+  {
+   "name": "刘相",
+   "role": "行在刑部右侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_title": "镇国公乌尔储等秦查尔久谎称谕旨开户折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 73000,
+ "page_range": "1673-1674"
+}

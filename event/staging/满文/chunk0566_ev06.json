@@ -1,0 +1,34 @@
+{
+ "source_no": 2857,
+ "title_guess": "内务府郎中董殿邦奏报将炒米胡同官房拨为巡捕房折",
+ "reign_year": 55,
+ "month": 8,
+ "day_text": "十六日",
+ "event_role": "宫廷事务",
+ "summary": "内务府郎中董殿邦奏报：裕亲王保泰交待朱批，将炒米胡同籍没入官之史通额房屋一百二十八间拨为巡捕房。",
+ "has_zhupi": true,
+ "zhupi_summary": "好。",
+ "people": [
+  {
+   "name": "董殿邦",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "保泰",
+   "role": "裕亲王"
+  },
+  {
+   "name": "史通额",
+   "role": "籍没入官房主"
+  }
+ ],
+ "places": [
+  "炒米胡同",
+  "京城"
+ ],
+ "source_title": "内务府郎中董磺邦奏报将炒米胡同官房拨为巡捕房折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 56606,
+ "page_range": "1345-1346"
+}

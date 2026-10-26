@@ -1,0 +1,27 @@
+{
+ "source_no": 3985,
+ "title_guess": "步军统领隆科多奏报京城雨水并庄稼生长情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月十一日",
+ "event_role": "灾情收成",
+ "summary": "奏报接到圣谕垂询京城雨水，京城四月二十三日得雨沾足，五月初三、初六、十二、十三日得雨，麦子已收一半、颗粒饱满，高粱谷子生长良好。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。此处连连降雨，连草都沾足了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城",
+  "畅春园"
+ ],
+ "source_title": "步军统领隆科多奏报京城雨水并庄稼生长情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80201,
+ "page_range": "1817-1818",
+ "_date_interpolated": true
+}

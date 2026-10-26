@@ -1,0 +1,50 @@
+{
+ "source_no": 4105,
+ "title_guess": "步军统领托和齐奏陈国人议论官员情形折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "托和齐奏陈国人议论户部事务，揭陈胡班、邵宝、鲁一贵三人把持户部受贿，并参劾祖允图行为不端、声名狼藉。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "赵迈",
+   "role": "户部官员"
+  },
+  {
+   "name": "胡班",
+   "role": "户部郎中"
+  },
+  {
+   "name": "邵宝",
+   "role": "户部主事"
+  },
+  {
+   "name": "鲁一贵",
+   "role": "户部主事"
+  },
+  {
+   "name": "希福纳",
+   "role": "户部官员"
+  },
+  {
+   "name": "祖允图",
+   "role": "户部官员"
+  }
+ ],
+ "places": [
+  "湖口"
+ ],
+ "source_title": "步军统领托和齐礁陈国人议论官员情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82600,
+ "page_range": "1865-1866",
+ "_date_interpolated": true
+}

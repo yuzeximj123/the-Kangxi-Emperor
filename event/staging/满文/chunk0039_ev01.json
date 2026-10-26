@@ -1,0 +1,61 @@
+{
+ "source_no": 166,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "二十三日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子，详述整编队伍、进军克鲁伦、会师日期及沿途地理草类情形，并派员侦察噶尔丹动向。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "那木扎尔王",
+   "role": "王"
+  },
+  {
+   "name": "库齐赫恩",
+   "role": "王府长史"
+  },
+  {
+   "name": "博罗表",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "额林臣",
+   "role": "三等侍卫"
+  },
+  {
+   "name": "诺尔布",
+   "role": "理藩院拨什库"
+  },
+  {
+   "name": "奇旺",
+   "role": "向导"
+  },
+  {
+   "name": "索诺恩",
+   "role": "向导"
+  }
+ ],
+ "places": [
+  "克鲁伦",
+  "克勤",
+  "额古德哈尔嘎",
+  "塔尔吉尔吉",
+  "顾尔班图尔罕巴尔岱嘎"
+ ],
+ "source_title": "康熙希打府和",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3901,
+ "page_range": "291-292"
+}

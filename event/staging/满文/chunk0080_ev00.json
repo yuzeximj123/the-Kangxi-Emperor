@@ -1,0 +1,50 @@
+{
+ "source_no": 316,
+ "title_guess": "抚远大将军费扬古奏报使者返回折",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初六日",
+ "event_role": "边疆事务",
+ "summary": "费扬古奏报阿喇布坦等奏书及使者诺颜格隆藏布等乘驿起程，并派员外郎豪尚迎取奏书速送御营，黑色等奏折先呈御览。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "黑色",
+   "role": "笔帖式"
+  },
+  {
+   "name": "马尼图",
+   "role": "王府长史"
+  },
+  {
+   "name": "满丕",
+   "role": "议政侍郎"
+  },
+  {
+   "name": "豪尚",
+   "role": "理藩院员外郎"
+  },
+  {
+   "name": "阿喇布坦",
+   "role": "厄鲁特台吉"
+  },
+  {
+   "name": "丹津鄂林布",
+   "role": "厄鲁特台吉"
+  }
+ ],
+ "places": [
+  "喀喇木伦",
+  "御营"
+ ],
+ "source_title": "抚远大将军费扬十奏报使者返回折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8000,
+ "page_range": "373-374"
+}

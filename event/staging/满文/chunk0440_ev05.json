@@ -1,0 +1,42 @@
+{
+ "source_no": 2202,
+ "title_guess": "吉林将军孟俄洛奏遣人往围猎处听折",
+ "reign_year": 52,
+ "month": 6,
+ "day_text": "二十四日",
+ "event_role": "边疆事务",
+ "summary": "吉林将军觉罗孟俄洛奏报遵旨与马齐抵三姓后，派遣姓长、屯长、打牲男丁等往告坎岱等来吉林，坎岱等及扎哈拉等十六人愿随往围猎处瞻仰圣主，遂交付佐领纳留遣往。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：朕带领行走，察看完再降旨。",
+ "people": [
+  {
+   "name": "觉罗孟俄洛",
+   "role": "吉林将军"
+  },
+  {
+   "name": "马齐",
+   "role": "官员"
+  },
+  {
+   "name": "坎岱",
+   "role": "姓长"
+  },
+  {
+   "name": "扎哈拉",
+   "role": "姓长"
+  },
+  {
+   "name": "纳留",
+   "role": "佐领"
+  }
+ ],
+ "places": [
+  "吉林",
+  "三姓"
+ ],
+ "source_title": "吉林将军孟俄洛奏遣人往围猎处听折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 44005,
+ "page_range": "1093-1094"
+}

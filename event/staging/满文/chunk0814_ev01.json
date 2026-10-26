@@ -1,0 +1,49 @@
+{
+ "source_no": 4058,
+ "title_guess": "步军统领隆科多奏报拿获入室行窃之马甲关德折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "镶红蒙古旗马甲关德屡次越墙入室行窃，被守备罗永振访获，起出衣物六件、当票七十一张，经与都统复审供认不讳，隆科多请将其割去一侧懒筋。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：照行。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "关德",
+   "role": "马甲（窃盗）"
+  },
+  {
+   "name": "罗永振",
+   "role": "前营守备"
+  },
+  {
+   "name": "阿尔席",
+   "role": "都统"
+  },
+  {
+   "name": "吴舒",
+   "role": "副都统"
+  },
+  {
+   "name": "苏尔发",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "西城",
+  "西火场",
+  "草厂胡同",
+  "帘子胡同"
+ ],
+ "source_title": "步军统领隆科多奏报拿获入室行窃之马甲关德折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81401,
+ "page_range": "1841-1842",
+ "_date_interpolated": true
+}

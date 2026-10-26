@@ -1,0 +1,40 @@
+{
+ "source_no": 1814,
+ "title_guess": "两江总督噶礼奏荐凤庐道员缺折",
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十二日",
+ "event_role": "人事任免",
+ "summary": "噶礼奏报凤庐道员缺紧要，原道员孙文广被参革职，新授杨纲奉旨休致，请以江宁府知府刘瀚补授。",
+ "has_zhupi": true,
+ "zhupi_summary": "刘瀚已有旨了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "孙文广",
+   "role": "原凤庐道员"
+  },
+  {
+   "name": "杨纲",
+   "role": "新授凤庐道员"
+  },
+  {
+   "name": "刘瀚",
+   "role": "江宁府知府"
+  }
+ ],
+ "places": [
+  "江南",
+  "凤阳",
+  "庐州",
+  "江宁"
+ ],
+ "source_title": "两江总督噶礼奏磊凤庐道员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37601,
+ "page_range": "965-966"
+}

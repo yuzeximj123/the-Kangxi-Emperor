@@ -1,0 +1,32 @@
+{
+ "source_no": 3386,
+ "title_guess": "闽浙总督满保奏请题补副将参将游击员缺折",
+ "reign_year": 58,
+ "month": 4,
+ "day_text": "二十二日",
+ "event_role": "人事任免",
+ "summary": "满保奏请从京城选赏可补游击员缺之官十名，并荐蒙良调补福建绿营副将参将，请旨施行。",
+ "has_zhupi": true,
+ "zhupi_summary": "已有旨了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "蒙良",
+   "role": "福州将军标下正白旗甲喇章京"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "福州",
+  "京城"
+ ],
+ "source_title": "间浙总督满保奏请题补副将参将游击员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 69200,
+ "page_range": "1597-1598"
+}

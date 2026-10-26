@@ -1,0 +1,29 @@
+{
+ "source_no": 742,
+ "title_guess": "陕西巡抚鄂海奏报收到御书匾联等事折",
+ "reign_year": 44,
+ "month": 6,
+ "day_text": "十一日",
+ "event_role": "宫廷事务",
+ "summary": "奏报收到御书匾联碑文，率众跪迎悬挂，并请赐新建寺庙碑文及选送住持喇嘛。",
+ "has_zhupi": true,
+ "zhupi_summary": "选后打发去。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "博霁",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_title": "陕西巡抚辑海考报收到御书芽联等事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 18601,
+ "page_range": "585-586"
+}

@@ -1,0 +1,54 @@
+{
+ "source_no": 1206,
+ "title_guess": "川陕总督博霁奏报鞫讯贼案不公折",
+ "reign_year": 46,
+ "month": 9,
+ "day_text": "十六日",
+ "event_role": "司法案件",
+ "summary": "博霁奏商南、洛南等地山贼案，绰克托等复审将真贼从宽、良民黄坤等十八人诬为盗伙，定罪不公，请皇上睿鉴。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "博霁",
+   "role": "川陕总督"
+  },
+  {
+   "name": "绰克托",
+   "role": "左都御史"
+  },
+  {
+   "name": "二遍",
+   "role": "内阁学士"
+  },
+  {
+   "name": "魏学武",
+   "role": "贼首"
+  },
+  {
+   "name": "黄坤",
+   "role": "被诬良民"
+  },
+  {
+   "name": "林勋",
+   "role": "潼关参将"
+  },
+  {
+   "name": "李学仕",
+   "role": "周至营游击"
+  },
+  {
+   "name": "赵邦瑞",
+   "role": "标下游击"
+  }
+ ],
+ "places": [
+  "商南",
+  "洛南"
+ ],
+ "source_title": "川陕总督博都奏报鞠讯贼案不公折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 27102,
+ "page_range": "755-756"
+}

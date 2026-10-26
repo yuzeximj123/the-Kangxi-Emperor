@@ -1,0 +1,29 @@
+{
+ "source_no": 412,
+ "title_guess": "康熙帝上谕一纸",
+ "reign_year": 40,
+ "month": 1,
+ "day_text": "二十六日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕侍郎满丕：提督唐希顺等已克打箭炉，地方若底定，到后不可因前旨而放纵掳掠，以免大失人心，须酌情行事。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "满丕",
+   "role": "侍郎"
+  },
+  {
+   "name": "唐希顺",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "打箭炉"
+ ],
+ "source_title": "康熙帝上谕一纪",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 10301,
+ "page_range": "419-420"
+}

@@ -1,0 +1,37 @@
+{
+ "source_no": 202,
+ "title_guess": "康熙帝论费扬古为招降噶尔丹事折",
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十二日",
+ "event_role": "军务",
+ "summary": "康熙帝谕大将军费扬古，称祖良璧击败乌勒昆之奏已览，噶尔丹计穷，令以招降为重，善言劝入我方后一同谋事。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称自己安好喜悦而行，并问费扬古安好。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "祖良璧",
+   "role": "副都统"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "奔锡",
+   "role": "传谕官员"
+  }
+ ],
+ "places": [
+  "乌勒昆"
+ ],
+ "source_title": "康熙帝论费扬古为招降噶尔丹事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5202,
+ "page_range": "317-318"
+}

@@ -1,0 +1,34 @@
+{
+ "source_no": 166,
+ "title_guess": "康熙帝朱谕（康熙三十五年四月二十三日）",
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "二十三日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子，说明腾军迟缓缘由：费扬古前奏四月二十四日抵图拉，后改报五月初三日，腾原拟四月二十五日抵克鲁伦；因意见不一，齐集八旗各王及参赞大臣议，决定稍缓以观形势。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "费扬古",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "图拉",
+  "克鲁伦"
+ ],
+ "source_title": "康熙希打府和",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3806,
+ "page_range": "289-290"
+}

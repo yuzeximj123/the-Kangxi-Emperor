@@ -1,0 +1,26 @@
+{
+ "source_no": 1117,
+ "title_guess": "和社等请安并报接阅御批谕旨折",
+ "reign_year": 46,
+ "month": 5,
+ "day_text": "十四日",
+ "event_role": "请安谢恩",
+ "summary": "和社等恭请皇父万安，报接阅御批，知皇父十三日已到临清，臣等恭候二十日前后到来之消息。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安。照朕前谕，十八日晨已到天津。",
+ "people": [
+  {
+   "name": "和社",
+   "role": "皇子/臣"
+  }
+ ],
+ "places": [
+  "临清",
+  "天津"
+ ],
+ "source_title": "由社等请安并报接阅御批广骨折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25601,
+ "page_range": "725-726"
+}

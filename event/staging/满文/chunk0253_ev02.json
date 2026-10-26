@@ -1,0 +1,32 @@
+{
+ "source_no": 1104,
+ "title_guess": "山西巡抚噶礼奏请圣安折",
+ "reign_year": 46,
+ "month": 4,
+ "day_text": "二十五日",
+ "event_role": "请安谢恩",
+ "summary": "山西巡抚噶礼具折恭请圣主安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批报身体安善，述南巡所见江南浙江麦豆蚕豆等物长势及收成，称江南浙江似有十二分收成，地方太平民安，心中宽慰。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "浙江",
+  "山东",
+  "江北"
+ ],
+ "source_title": "山西巡抚噶礼奏请圣安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25302,
+ "page_range": "719-720"
+}

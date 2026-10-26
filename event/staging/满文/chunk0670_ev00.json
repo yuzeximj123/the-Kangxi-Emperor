@@ -1,0 +1,33 @@
+{
+ "source_no": 3283,
+ "title_guess": "议政大臣巴尔德等奏请为西征官兵再赏茶糕折",
+ "reign_year": 57,
+ "month": 11,
+ "day_text": "康熙五十七年十一月十六日",
+ "event_role": "军务",
+ "summary": "将军富宁安奏称所赏茶糕便于携带、官兵来年进兵时乞请再赏，议政大臣等议奏请旨，奉旨依议。",
+ "has_zhupi": true,
+ "zhupi_summary": "奉旨：依议。",
+ "people": [
+  {
+   "name": "富宁安",
+   "role": "靖逆将军"
+  },
+  {
+   "name": "巴尔德",
+   "role": "议政大臣领侍卫内大臣"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "巴里坤"
+ ],
+ "source_title": "议政大臣巴到德等考请为西征官兵再赏某折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 67000,
+ "page_range": "1553-1554"
+}

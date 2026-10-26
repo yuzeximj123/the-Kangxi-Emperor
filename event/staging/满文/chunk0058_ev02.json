@@ -1,0 +1,54 @@
+{
+ "source_no": 230,
+ "title_guess": "康熙帝谕皇太子噶尔丹困人迫情形事",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "初十日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕皇太子，详述归降者所述噶尔丹窘迫情形，判断其如圈内之兽自然灭亡，命将此事奏闻皇太后并告满洲大臣。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "纳玛善",
+   "role": "差遣官员"
+  },
+  {
+   "name": "乌勒昆",
+   "role": "归降者"
+  },
+  {
+   "name": "乌闭泰",
+   "role": "归降者"
+  },
+  {
+   "name": "察罕古英寨桑",
+   "role": "噶尔丹部属"
+  },
+  {
+   "name": "土谢图诺尔布",
+   "role": "噶尔丹大寨桑"
+  },
+  {
+   "name": "阿纳达",
+   "role": "梅勒章京"
+  }
+ ],
+ "places": [
+  "哈密",
+  "萨克赛图胡鲁克"
+ ],
+ "source_title": "康熙帝谕皇太子噶尔丹困人迫情形事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5802,
+ "page_range": "329-330"
+}

@@ -1,0 +1,31 @@
+{
+ "source_no": 152,
+ "title_guess": "两江总督范承动奏请将李玉皂命案交谁审讯折",
+ "reign_year": 34,
+ "month": 12,
+ "day_text": "十六日",
+ "event_role": "司法案件",
+ "summary": "此为范承动奏折残片，仅存开头及朱批，朱批指示孙居混之事应交江南官员审讯后由总督亲自复审。",
+ "has_zhupi": true,
+ "zhupi_summary": "孙居混之事京城亦有议论，尔奏得是，交江南官员审讯后尔亲自复审。",
+ "people": [
+  {
+   "name": "范承动",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "孙居混",
+   "role": "涉案人"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "京城"
+ ],
+ "source_title": "两江总督范承助奏请将李玉皂命案交谁审讯折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3400,
+ "page_range": "281-282"
+}

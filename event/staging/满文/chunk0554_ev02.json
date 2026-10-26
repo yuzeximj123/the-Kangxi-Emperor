@@ -1,0 +1,28 @@
+{
+ "source_no": 2800,
+ "title_guess": "内务府总管赫奕奏报祈雨得雨情形折",
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "十三日",
+ "event_role": "灾情收成",
+ "summary": "内务府总管赫奕奏报黑龙潭、满井、草桥、水头庄四处祈雨，自申时至五更大雨沾足，故停止祈雨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批指今日方十三日，此折非赫奕所奏，甚可疑，著严行查明奏来，并指写有得雨时分而无日期、十三等字也小。",
+ "people": [
+  {
+   "name": "赫奕",
+   "role": "工部尚书兼内务府总管"
+  }
+ ],
+ "places": [
+  "黑龙潭",
+  "满井",
+  "草桥",
+  "水头庄"
+ ],
+ "source_title": "内务府总管赫变奏报祈雨得雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55402,
+ "page_range": "1321-1322"
+}

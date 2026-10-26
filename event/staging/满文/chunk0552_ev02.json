@@ -1,0 +1,36 @@
+{
+ "source_no": 2789,
+ "title_guess": "署理湖广总督满丕奏报两省雨雪粮价折",
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "二十六日",
+ "event_role": "灾情收成",
+ "summary": "署理湖广总督满丕奏报抵任后劝农、雨水调和、麦收八九分，武昌汉阳米价略涨后开仓平粜回落，湖南湖北米价情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示知道了。",
+ "people": [
+  {
+   "name": "满丕",
+   "role": "署理湖广总督"
+  },
+  {
+   "name": "刘典衡",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "湖广",
+  "武昌府",
+  "汉阳府",
+  "江夏",
+  "湖南省",
+  "常德",
+  "岳州",
+  "华容"
+ ],
+ "source_title": "署理湖广总督满示奏报两省雨雪粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55202,
+ "page_range": "1317-1318"
+}

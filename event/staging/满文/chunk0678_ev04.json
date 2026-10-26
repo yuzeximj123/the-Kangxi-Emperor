@@ -1,0 +1,41 @@
+{
+ "source_no": 3323,
+ "title_guess": "由祯奏请康熙帝恕冒奏之徘折",
+ "reign_year": 58,
+ "month": 1,
+ "day_text": "十九日",
+ "event_role": "军务",
+ "summary": "筷祯奏陈前次冒昧具奏之悔恨，恳请皇父宽宥，并陈述率兵进藏或取吐鲁番、驻守巴里坤等军务意见，乞皇父训示。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "筷祯",
+   "role": "奏事臣"
+  },
+  {
+   "name": "讷尔苏",
+   "role": "平王"
+  },
+  {
+   "name": "弘曙",
+   "role": "阿哥"
+  },
+  {
+   "name": "色楞",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "藏地",
+  "吐鲁番",
+  "巴里坤",
+  "福宁安",
+  "青海"
+ ],
+ "source_title": "筷祯礁请康熙帝恕骨奏之罪折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 67804,
+ "page_range": "1569-1570"
+}

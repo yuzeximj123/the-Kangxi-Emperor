@@ -1,0 +1,37 @@
+{
+ "source_no": 1572,
+ "title_guess": "内阁侍读学士和素等奏为谢罪折",
+ "reign_year": 49,
+ "month": 5,
+ "day_text": "初四上日",
+ "event_role": "弹劾参奏",
+ "summary": "和素、常寿因保举狂妄无劳绩之喀尔楚浑送部授员外郎，奉旨召至内务府跪问，具折谢罪请死。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：著内务府严查议奏。",
+ "people": [
+  {
+   "name": "和素",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "常寿",
+   "role": "奏报臣"
+  },
+  {
+   "name": "喀尔楚浑",
+   "role": "被保举人"
+  },
+  {
+   "name": "保柱",
+   "role": "内务府总管"
+  }
+ ],
+ "places": [
+  "内务府"
+ ],
+ "source_title": "内阁侍读学士和素等秦为谢罪折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33601,
+ "page_range": "885-886"
+}

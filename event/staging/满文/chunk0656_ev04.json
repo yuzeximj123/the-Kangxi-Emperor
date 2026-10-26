@@ -1,0 +1,27 @@
+{
+ "source_no": 3230,
+ "title_guess": "墨笔传旨一道",
+ "reign_year": 57,
+ "month": 8,
+ "day_text": "初三日",
+ "event_role": "宫廷事务",
+ "summary": "膳房达太监赵震斗传旨：清茶房太监狐玉所炒大黄米面粉不佳且似掺面，著带铁锁交内务府总管、尚膳总领严刑追问面之去向及偷给谁吃。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "赵震斗",
+   "role": "膳房达太监"
+  },
+  {
+   "name": "狐玉",
+   "role": "清茶房太监"
+  }
+ ],
+ "places": [],
+ "source_title": "墨笔传谕一道",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 65604,
+ "page_range": "1525-1526"
+}

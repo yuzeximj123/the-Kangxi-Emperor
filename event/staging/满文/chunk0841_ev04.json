@@ -1,0 +1,50 @@
+{
+ "source_no": 4200,
+ "title_guess": "理藩院奏进辉特公巴济致扎尔布等书稿",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "辉特公巴济致书扎尔布等人，劝其勿投唐古特、回子、土尔扈特，可将牧地移至阿勒泰、额尔齐斯这边或派使者前来，诚心归附圣主。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：好。",
+ "people": [
+  {
+   "name": "巴济",
+   "role": "辉特公"
+  },
+  {
+   "name": "罗卜藏",
+   "role": "巴济之父"
+  },
+  {
+   "name": "扎尔布",
+   "role": "收信人"
+  },
+  {
+   "name": "车凌旺布",
+   "role": "阿喇布坦王之子"
+  },
+  {
+   "name": "多尔济色布滕",
+   "role": "丹济拉之子"
+  },
+  {
+   "name": "策凌",
+   "role": "额尔昆之子"
+  }
+ ],
+ "places": [
+  "青海",
+  "阿勒泰",
+  "额尔齐斯",
+  "唐古特",
+  "土尔扈特"
+ ],
+ "source_title": "理藩院奏进炮特公书济致扎尔布等书稿",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84104,
+ "page_range": "1895-1896",
+ "_date_interpolated": true
+}

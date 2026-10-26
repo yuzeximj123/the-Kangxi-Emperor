@@ -1,0 +1,30 @@
+{
+ "source_no": 3666,
+ "title_guess": "康熙帝为御前侍卫祁里德依起草书信",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "康熙帝命御前侍卫祁里德依书致喀喇沁王噶尔藏，令其照例派善射鸟枪人等供皇上出口避暑之用，本年虽有事务亦不可不派，若未派则书到速派。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "祁里德依",
+   "role": "御前侍卫"
+  },
+  {
+   "name": "噶尔藏",
+   "role": "喀喇沁王"
+  }
+ ],
+ "places": [
+  "喀喇沁"
+ ],
+ "source_title": "康熙帝为御前侍卫祁里德依起草书信",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76106,
+ "page_range": "1735-1736",
+ "_date_interpolated": true
+}

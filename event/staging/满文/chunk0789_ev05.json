@@ -1,0 +1,37 @@
+{
+ "source_no": 3886,
+ "title_guess": "武英殿总监造赫世享奏报西洋人上告折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "七八月",
+ "event_role": "其他",
+ "summary": "赫世享转奏闵明鄂称江西巡抚李基和严禁报房邮寄西洋人信件，恐误各省及广东信札，请皇上奏请宽禁。",
+ "has_zhupi": true,
+ "zhupi_summary": "著赫世享写文给李基和家人，打听禁止西洋人互通信札缘由，视其如何回复再奏明。",
+ "people": [
+  {
+   "name": "赫世享",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "闵明鄂",
+   "role": "西洋人"
+  },
+  {
+   "name": "李基和",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [
+  "江西",
+  "澳门",
+  "广东",
+  "京城"
+ ],
+ "source_title": "武英鞭总监造灰世享奏报西济人上告折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78905,
+ "page_range": "1791-1792",
+ "_date_interpolated": true
+}

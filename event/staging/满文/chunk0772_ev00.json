@@ -1,0 +1,38 @@
+{
+ "source_no": 3739,
+ "title_guess": "内务府总管凌普奏为误奏马武错误缘由折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "凌普奏报追查拜色行踪，因不知皇上派谁追捕而误奏马武未来，具折请罪。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：知错就好，若常常一错再错，则枉披人皮。",
+ "people": [
+  {
+   "name": "凌普",
+   "role": "内务府总管"
+  },
+  {
+   "name": "马武",
+   "role": "副都统"
+  },
+  {
+   "name": "拜色",
+   "role": "逃犯"
+  }
+ ],
+ "places": [
+  "平谷",
+  "张家庄",
+  "通州",
+  "固安",
+  "安肃"
+ ],
+ "source_title": "内务府总管凌普奏为误奏马武错误缘由折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 77200,
+ "page_range": "1757-1758",
+ "_date_interpolated": true
+}

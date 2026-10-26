@@ -1,0 +1,72 @@
+{
+ "source_no": 4063,
+ "title_guess": "步军统领隆科多奏报拿获强盗折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "八月初六日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报拿获往劫大兴县魏善庄韩增寿家之强盗郑赞骏，供出同伙，派员拿获郭二棍子等，赵大自尽，赵三等在逃，并解送赃物。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "郑赞骏",
+   "role": "强盗犯"
+  },
+  {
+   "name": "韩增寿",
+   "role": "事主"
+  },
+  {
+   "name": "赵大",
+   "role": "盗犯"
+  },
+  {
+   "name": "赵三",
+   "role": "盗犯"
+  },
+  {
+   "name": "郭二棍子",
+   "role": "盗犯"
+  },
+  {
+   "name": "秦四海",
+   "role": "盗犯"
+  },
+  {
+   "name": "李丙义",
+   "role": "盗犯"
+  },
+  {
+   "name": "任二炮",
+   "role": "盗犯"
+  },
+  {
+   "name": "耿大傻",
+   "role": "盗犯"
+  },
+  {
+   "name": "张存孝",
+   "role": "南营千总"
+  }
+ ],
+ "places": [
+  "大兴县",
+  "魏善庄",
+  "束鹿县",
+  "深州",
+  "正定府",
+  "费州",
+  "涿州"
+ ],
+ "source_title": "步军统领隆科多奏报拿获强盗折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81503,
+ "page_range": "1843-1844",
+ "_date_interpolated": true
+}

@@ -1,0 +1,30 @@
+{
+ "source_no": 3718,
+ "title_guess": "内务府总管海拉逊等奏请万安折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "内务府总管海拉逊、哈雅尔图跪请皇上万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安。著划景山草。",
+ "people": [
+  {
+   "name": "海拉逊",
+   "role": "内务府总管"
+  },
+  {
+   "name": "哈雅尔图",
+   "role": "内务府总管"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_title": "内务府监管海拉进等秦请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76905,
+ "page_range": "1751-1752",
+ "_date_interpolated": true
+}

@@ -1,0 +1,58 @@
+{
+ "source_no": 3933,
+ "title_guess": "步军统领隆科多奏报七八月京城所获各案情折",
+ "reign_year": 3,
+ "month": 8,
+ "day_text": "七月十八日至八月二十一日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报七月十八日至八月二十一日拿获窃盗割懒筋者二十七人及赌博、拐骗、盗白蜡、逃人等案，解送刑部。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "富遵忠",
+   "role": "旧衙门太监"
+  },
+  {
+   "name": "尼三",
+   "role": "太监家人"
+  },
+  {
+   "name": "沈巴尔",
+   "role": "壮丁"
+  },
+  {
+   "name": "毛四",
+   "role": "壮丁家人"
+  },
+  {
+   "name": "喜祥",
+   "role": "和尚"
+  },
+  {
+   "name": "张大",
+   "role": "山东民"
+  },
+  {
+   "name": "张三",
+   "role": "山东民"
+  }
+ ],
+ "places": [
+  "海子",
+  "青河",
+  "冷泉",
+  "采育",
+  "怀柔县"
+ ],
+ "source_title": "步军统领隆科多奏报七八月京城所获各案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79504,
+ "page_range": "1803-1804",
+ "_date_interpolated": true
+}

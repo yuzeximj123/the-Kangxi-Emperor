@@ -1,0 +1,55 @@
+{
+ "source_no": 3011,
+ "title_guess": "署理内务府总管事务董殴邦等奏庄头擅垦占地折",
+ "reign_year": 56,
+ "month": 5,
+ "day_text": "二十三日",
+ "event_role": "弹劾参奏",
+ "summary": "署理内务府总管事务郎中董式邦等议奏庄头侯景珠擅垦南苑官地多耕一顷五十九亩，拟枷号三月鞭责一百并追征粮石，督管官员玛尔干、巴喜纳拟罚俸。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "董式邦",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "官保",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "侯景珠",
+   "role": "南郊内庄头"
+  },
+  {
+   "name": "玛尔干",
+   "role": "督管南苑郎中"
+  },
+  {
+   "name": "巴喜纳",
+   "role": "督管南苑员外郎"
+  },
+  {
+   "name": "鞠克勋",
+   "role": "园头"
+  },
+  {
+   "name": "常索",
+   "role": "郎中"
+  },
+  {
+   "name": "都图",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "南苑",
+  "南红门",
+  "吴店"
+ ],
+ "source_title": "署理内务府总管事务董殴邦等奏庄头擅星占地折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 59502,
+ "page_range": "1403-1404"
+}

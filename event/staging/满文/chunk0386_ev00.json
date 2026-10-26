@@ -1,0 +1,41 @@
+{
+ "source_no": 1872,
+ "title_guess": "福建巡抚满保奏报搜捕起事人情形折",
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "二十六日",
+ "event_role": "司法案件",
+ "summary": "满保奏报漳州汀州延平三府调兵搜捕贼众，悬赏擒贼，审得贼首李月华等，贼众五百余人栖身九层岭山，散则为农，已密令查拿，并陈福建民风好斗、官员懈怠及请旨亲查等情。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：尔这奏的是。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "范时崇",
+   "role": "总督"
+  },
+  {
+   "name": "李月华",
+   "role": "贼首"
+  },
+  {
+   "name": "李二丈",
+   "role": "贼首"
+  }
+ ],
+ "places": [
+  "漳州",
+  "汀州",
+  "延平",
+  "漳平县",
+  "九层岭山"
+ ],
+ "source_title": "福建巡抚满保奏报搜捕起事人情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 38600,
+ "page_range": "985-986"
+}

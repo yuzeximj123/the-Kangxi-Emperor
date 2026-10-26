@@ -1,0 +1,43 @@
+{
+ "source_no": 3936,
+ "title_guess": "步军统领隆科多奏报京城五六月所获各案情折",
+ "reign_year": 3,
+ "month": 6,
+ "day_text": "五月二十一日至六月二十日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报五月二十一日至六月二十日拿获窃盗割懒筋者十二人及宝泉局窃铜、拐骗、逃人等案，解送刑部。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "马三",
+   "role": "武清县民"
+  },
+  {
+   "name": "化大",
+   "role": "宝泉局工匠"
+  },
+  {
+   "name": "梁麻子",
+   "role": "宝泉局工匠"
+  },
+  {
+   "name": "王胡子",
+   "role": "旗人"
+  }
+ ],
+ "places": [
+  "武清县",
+  "宝泉局"
+ ],
+ "source_title": "步军统领隆科多奏报京城五六月所获各案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79507,
+ "page_range": "1803-1804",
+ "_date_interpolated": true
+}

@@ -1,0 +1,27 @@
+{
+ "source_no": 1438,
+ "title_guess": "康熙帝朱论",
+ "reign_year": 48,
+ "month": 6,
+ "day_text": "十二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕杭州织造孙文成，普辽山二住持言因严禁粮米出海致寺粮少和尚散减，命与住持会议详定一年所需粮谷数目奏来，并防奸民借此杂粮贩卖他省致浙江粮价腾贵。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  }
+ ],
+ "places": [
+  "杭州",
+  "普辽山",
+  "浙江"
+ ],
+ "source_title": "康熙帝朱诊",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 31204,
+ "page_range": "837-838"
+}

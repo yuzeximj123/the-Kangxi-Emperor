@@ -1,0 +1,40 @@
+{
+ "source_no": 2114,
+ "title_guess": "山西巡抚苏克济奏请知州佟国龙留任折",
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "十六日",
+ "event_role": "人事任免",
+ "summary": "苏克济奏报泽州知州佟国龙居官甚佳、得民心，士民呈请留任，请旨准其留任原任，并请将现任知州王天锡另行补放或调补滋州知州。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：缮本具奏。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "佟国龙",
+   "role": "泽州知州"
+  },
+  {
+   "name": "刘康熙",
+   "role": "太行驿驿孙"
+  },
+  {
+   "name": "王天锡",
+   "role": "泽州现任知州"
+  }
+ ],
+ "places": [
+  "泽州",
+  "太行驿",
+  "山西",
+  "滋州"
+ ],
+ "source_title": "山西巡抚苏克济奏请知州佟国龙留任折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42502,
+ "page_range": "1063-1064"
+}

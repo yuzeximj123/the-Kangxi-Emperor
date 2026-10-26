@@ -1,0 +1,46 @@
+{
+ "source_no": 2055,
+ "title_guess": "杭州织造孙文成奏报办犯越狱折",
+ "reign_year": 51,
+ "month": 9,
+ "day_text": "二十六日",
+ "event_role": "司法案件",
+ "summary": "孙文成奏报福州府狱内海贼头目林当、黄煤、陈友率众越狱，官兵追获十四名，总督巡抚悬赏缉拿。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "林当",
+   "role": "海贼头目"
+  },
+  {
+   "name": "黄煤",
+   "role": "海贼头目"
+  },
+  {
+   "name": "陈友",
+   "role": "海贼头目"
+  },
+  {
+   "name": "范时尝",
+   "role": "总督"
+  },
+  {
+   "name": "满保",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "福建",
+  "福州"
+ ],
+ "source_title": "杭州织造孙文成奏报因犯越狱折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 41107,
+ "page_range": "1035-1036"
+}

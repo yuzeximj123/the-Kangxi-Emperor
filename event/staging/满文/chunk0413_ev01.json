@@ -1,0 +1,38 @@
+{
+ "source_no": 2063,
+ "title_guess": "吉林将军孟俄洛奏兵丁过失请交部议罪折",
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "二十一日",
+ "event_role": "弹劾参奏",
+ "summary": "吉林将军孟俄洛奏报领催哈克苏在围猎中不奋力围截、态度恶劣，已奉旨惩处，并自请交部议罪。",
+ "has_zhupi": true,
+ "zhupi_summary": "围场此等薄惩之法，平常事，此奏知道了。",
+ "people": [
+  {
+   "name": "孟俄洛",
+   "role": "吉林将军"
+  },
+  {
+   "name": "哈克苏",
+   "role": "领催"
+  },
+  {
+   "name": "萨布素",
+   "role": "原将军"
+  },
+  {
+   "name": "雅图",
+   "role": "萨布素之子"
+  }
+ ],
+ "places": [
+  "吉林乌拉",
+  "京城"
+ ],
+ "source_title": "吉林将军孟俄洛奏兵于过失请交部议罪折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 41301,
+ "page_range": "1039-1040"
+}

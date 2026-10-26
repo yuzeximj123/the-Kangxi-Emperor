@@ -1,0 +1,34 @@
+{
+ "source_no": 2815,
+ "title_guess": "山西巡抚苏克济奏追赵凤诏贪赃之物品情形折",
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "二十七日",
+ "event_role": "弹劾参奏",
+ "summary": "此为前折残余片段，苏克济奏报已咨文江宁巡抚前往带庄杰，并将自赵凤诏追加之物另文奏览。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示知道了，并询问赵凤诏现今说什么。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "庄杰",
+   "role": "被带往江宁之人"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "贪赃官员"
+  }
+ ],
+ "places": [
+  "江宁",
+  "山西"
+ ],
+ "source_title": "山西巡抚苏克济奏追赵凤诏贪赃之物品情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55800,
+ "page_range": "1329-1330"
+}

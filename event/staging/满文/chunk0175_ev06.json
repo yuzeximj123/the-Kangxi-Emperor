@@ -1,0 +1,29 @@
+{
+ "source_no": 676,
+ "title_guess": "陕西巡抚鄂海奏报秋粮收成分数折",
+ "reign_year": 43,
+ "month": 10,
+ "day_text": "初十日",
+ "event_role": "灾情收成",
+ "summary": "陕西巡抚鄂海奏报西安、延安、凤翔、汉中四府及兴安州秋粮收成七八分至十分不等，麦子生长茂盛，粮价仍贱，民情欢悦。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。闻此喜之不已。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "西安",
+  "延安",
+  "凤翔",
+  "汉中",
+  "兴安"
+ ],
+ "source_title": "陕西巡抚鄂海奏报秋粮收成分数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 17506,
+ "page_range": "563-564"
+}

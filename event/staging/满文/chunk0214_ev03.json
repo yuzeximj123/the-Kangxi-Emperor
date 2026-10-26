@@ -1,0 +1,30 @@
+{
+ "source_no": 902,
+ "title_guess": "兵部奏报赶马到达博洛和地日期折",
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "二十一日",
+ "event_role": "军务",
+ "summary": "兵部会议奏报换增马匹赶赴博洛和屯的路线与日期，请旨定于七月二十五日左右抵达。",
+ "has_zhupi": true,
+ "zhupi_summary": "二十五日到罢。",
+ "people": [
+  {
+   "name": "来保",
+   "role": "奏事傻子"
+  }
+ ],
+ "places": [
+  "博洛和屯",
+  "海拉苏台达巴汉",
+  "瑚尔齐勤",
+  "郭家屯",
+  "伊玛图",
+  "得尔格尔拜瑚达巴汉"
+ ],
+ "source_title": "兵部奏报赶马到达博洛和地日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 21403,
+ "page_range": "641-642"
+}

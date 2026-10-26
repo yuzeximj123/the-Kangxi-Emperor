@@ -1,0 +1,34 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "记载宁寿宫女儿们、正顺妃、温惠妃、色木肯母福晋之女儿们供给菜、萝卜等照旧情况。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "正顺妃",
+   "role": "妃"
+  },
+  {
+   "name": "温惠妃",
+   "role": "妃"
+  },
+  {
+   "name": "色木肯母福晋",
+   "role": "福晋"
+  }
+ ],
+ "places": [
+  "宁寿宫"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 11605,
+ "page_range": "445-446",
+ "_date_interpolated": true
+}

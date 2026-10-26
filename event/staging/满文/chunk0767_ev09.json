@@ -1,0 +1,30 @@
+{
+ "source_no": 3698,
+ "title_guess": "朱论一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "谕孙文成：石文变奏请回籍省亲，至杭州后从库存银内取百两赏之，记明在案。",
+ "has_zhupi": true,
+ "zhupi_summary": "准赏石文变银百两。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "受谕官员"
+  },
+  {
+   "name": "石文变",
+   "role": "奏请省亲官员"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_title": "朱论一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76709,
+ "page_range": "1747-1748",
+ "_date_interpolated": true
+}

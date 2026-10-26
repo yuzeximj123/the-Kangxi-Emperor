@@ -1,0 +1,32 @@
+{
+ "source_no": 357,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "三十日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕皇太子，自述过湖滩和朔、杀虎口经张家口回京行程，水草好未弃马驼，约五月十五日到京，令郡报从张家口奏、备冰块迎驾，勿带食物，并奏皇太后告知宫内。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "湖滩和朔",
+  "杀虎口",
+  "张家口",
+  "京城"
+ ],
+ "source_title": "康熙帝朱谕",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9203,
+ "page_range": "397-398"
+}

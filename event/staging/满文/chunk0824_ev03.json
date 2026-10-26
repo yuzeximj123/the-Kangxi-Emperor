@@ -1,0 +1,44 @@
+{
+ "source_no": 4097,
+ "title_guess": "步军统领托和齐奏报平郡王打伤步甲情形折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "奏报平郡王夜间非时行走，因步甲开栅栏稍迟而令属下殴打步甲，并威胁步甲头目，请将隐匿不报的步军校解部。",
+ "has_zhupi": true,
+ "zhupi_summary": "其有道理。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "恩特黑",
+   "role": "镶红满洲旗固山达"
+  },
+  {
+   "name": "平郡王",
+   "role": "郡王"
+  },
+  {
+   "name": "车克召",
+   "role": "三等侍卫"
+  },
+  {
+   "name": "连胜",
+   "role": "拨什库"
+  },
+  {
+   "name": "札木布",
+   "role": "步军校"
+  }
+ ],
+ "places": [],
+ "source_title": "步军统领托和齐奏报平郡王打伤步甲情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82403,
+ "page_range": "1861-1862",
+ "_date_interpolated": true
+}

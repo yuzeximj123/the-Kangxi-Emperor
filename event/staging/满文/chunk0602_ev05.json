@@ -1,0 +1,61 @@
+{
+ "source_no": 3041,
+ "title_guess": "步军统领隆科多奏为处理畅春园九经三事典一案折",
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "十七日",
+ "event_role": "司法案件",
+ "summary": "步军统领隆科多会同总管内务府复奏畅春园九经三事典越墙进入一案，详述发现、缉拿及审讯经过（文末残缺）。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "董典邦",
+   "role": "署理总管内务府大臣事务郎中"
+  },
+  {
+   "name": "何祥舒",
+   "role": "畅春园参将"
+  },
+  {
+   "name": "丙额",
+   "role": "苑副"
+  },
+  {
+   "name": "李凤祥",
+   "role": "总管太监"
+  },
+  {
+   "name": "李经孝",
+   "role": "养犬太监"
+  },
+  {
+   "name": "张四娃",
+   "role": "大太监"
+  },
+  {
+   "name": "李凤春",
+   "role": "守备"
+  },
+  {
+   "name": "金顶泉",
+   "role": "兵士"
+  },
+  {
+   "name": "林朝福",
+   "role": "兵士"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_title": "步军统领隆科多奏为处理畅春园万经三事臣一案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 60205,
+ "page_range": "1417-1418"
+}

@@ -1,0 +1,37 @@
+{
+ "source_no": 4254,
+ "title_guess": "奏报守备员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "开篇为前折残余片段，奏报军守备、长沙城守副将中军都司金书之中军守备、江南江北山徐高家堰河营守备等员缺，朱批分别以张启宪、茧成、胡天胜补授。",
+ "has_zhupi": true,
+ "zhupi_summary": "著以张启宪、茧成、胡天胜分别补授各守备员缺",
+ "people": [
+  {
+   "name": "张启宪",
+   "role": "补授守备"
+  },
+  {
+   "name": "茧成",
+   "role": "补授守备"
+  },
+  {
+   "name": "胡天胜",
+   "role": "补授守备"
+  }
+ ],
+ "places": [
+  "长沙",
+  "江南江北",
+  "山徐",
+  "高家堰"
+ ],
+ "source_title": "(佚名)奏报守备员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85600,
+ "page_range": "1925-1926",
+ "_date_interpolated": true
+}

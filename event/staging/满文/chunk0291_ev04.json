@@ -1,0 +1,33 @@
+{
+ "source_no": 1317,
+ "title_guess": "山西巡抚噶礼奏报雨水田禾并粮价折",
+ "reign_year": 47,
+ "month": 7,
+ "day_text": "初六日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报山西自五月末以来各府州陆续得雨，秋禾复苏秀实可期丰收，麦收亦好，粮价平稳，兵民乐业。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西省",
+  "太原",
+  "汾州",
+  "大同",
+  "潞安",
+  "泽州",
+  "辽州",
+  "沁州",
+  "平阳"
+ ],
+ "source_title": "量西巡抚噶礼奏报雨水田用并粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 29104,
+ "page_range": "795-796"
+}

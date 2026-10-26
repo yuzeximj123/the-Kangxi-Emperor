@@ -1,0 +1,52 @@
+{
+ "source_no": 1473,
+ "title_guess": "筷社等奏报和尚石诚忠疼案折",
+ "reign_year": 48,
+ "month": 8,
+ "day_text": "初七日",
+ "event_role": "司法案件",
+ "summary": "奏报和尚石诚向多人索银并诬告，经查其呈状所引书信非亲笔，与张廷枢等质对情形，请将石诚所举京城人犯交富宁安、穆和伦质对。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。石诚现在喀喇和屯，令来人带之去。",
+ "people": [
+  {
+   "name": "石诚",
+   "role": "和尚"
+  },
+  {
+   "name": "张廷枢",
+   "role": "尚书"
+  },
+  {
+   "name": "富宁安",
+   "role": "官员"
+  },
+  {
+   "name": "穆和伦",
+   "role": "官员"
+  },
+  {
+   "name": "徐青",
+   "role": "徒弟"
+  },
+  {
+   "name": "陆杰范",
+   "role": "翰林"
+  },
+  {
+   "name": "潘宗洛",
+   "role": "镶事副官"
+  }
+ ],
+ "places": [
+  "宜兴县",
+  "杭州天目山",
+  "报恩寺",
+  "喀喇和屯"
+ ],
+ "source_title": "筷社等奏报和尚石诚忠疼案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 31900,
+ "page_range": "851-852"
+}

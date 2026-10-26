@@ -1,0 +1,34 @@
+{
+ "source_no": 4071,
+ "title_guess": "都统阿喇纳等奏请往西安启程日期折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "二十四日",
+ "event_role": "军务",
+ "summary": "都统阿喇纳、副都统英柱、汤色奏请往西安启程日期并请训谕。",
+ "has_zhupi": true,
+ "zhupi_summary": "议政所议稍改，或同时启程或延期，由议政定夺。",
+ "people": [
+  {
+   "name": "阿喇纳",
+   "role": "都统"
+  },
+  {
+   "name": "英柱",
+   "role": "副都统"
+  },
+  {
+   "name": "汤色",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_title": "都统阿喇纳等奏请往西安启程日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81803,
+ "page_range": "1849-1850",
+ "_date_interpolated": true
+}

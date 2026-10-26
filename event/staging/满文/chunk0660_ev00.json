@@ -1,0 +1,30 @@
+{
+ "source_no": 3243,
+ "title_guess": "闽浙总督满保奏报巡抚陈玉病势折",
+ "reign_year": 57,
+ "month": 8,
+ "day_text": "二十六日",
+ "event_role": "人事任免",
+ "summary": "满保奏报福建巡抚陈玉年六十三岁，七月二十日起受风咳嗽头眩，仍能办事，两次咨请离职均被劝留调养，现仅虚弱并非重病。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：知道了，折内已批温旨。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "陈玉",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江"
+ ],
+ "source_title": "闽浙总督满保奏报巡抚陈病势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 66000,
+ "page_range": "1533-1534"
+}

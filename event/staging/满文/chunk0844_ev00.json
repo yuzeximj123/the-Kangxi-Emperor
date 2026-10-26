@@ -1,0 +1,40 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "片段：克图汗奏请达赖喇嘛事，提及遣使未成、为喀尔喀厄鲁特修好上奏，并录康熙谕理藩院咨行伊拉古克三呼图克图来投。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称曾优厚待伊拉古克三呼图克图，因其与扎勒邦呼图克图行恶而离去，若悔过来投则照常养之，著理藩院咨行。",
+ "people": [
+  {
+   "name": "克图汗",
+   "role": "奏请者"
+  },
+  {
+   "name": "达赖喇嘛",
+   "role": "喇嘛"
+  },
+  {
+   "name": "科西图",
+   "role": "钦差侍卫"
+  },
+  {
+   "name": "伊拉古克三呼图克图",
+   "role": "呼图克图"
+  },
+  {
+   "name": "扎勒邦呼图克图",
+   "role": "呼图克图"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84400,
+ "page_range": "1901-1902",
+ "_date_interpolated": true
+}

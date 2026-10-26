@@ -1,0 +1,42 @@
+{
+ "source_no": 2581,
+ "title_guess": "浙江巡抚徐元梦参奏官员亏空钱粮等情折",
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "康熙五十四年四月十九日",
+ "event_role": "弹劾参奏",
+ "summary": "徐元梦奏报王度昭居官中等、亏空银两已补大半，并参奏亏空钱粮之知县及杭州南卫守备张友良亏空仓粮，请严查。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "王度昭",
+   "role": "前任巡抚"
+  },
+  {
+   "name": "马林",
+   "role": "种州府知府"
+  },
+  {
+   "name": "张友良",
+   "role": "杭州南卫守备"
+  },
+  {
+   "name": "刘廷臣",
+   "role": "粮道"
+  }
+ ],
+ "places": [
+  "浙江",
+  "杭州"
+ ],
+ "source_title": "浙江巡抚徐元梦参考官员亏空钱粮等情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 50100,
+ "page_range": "1215-1216"
+}

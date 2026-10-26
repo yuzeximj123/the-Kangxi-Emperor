@@ -1,0 +1,41 @@
+{
+ "source_no": 760,
+ "title_guess": "息社等奏报遵旨派人迎病人并阴雨情形折",
+ "reign_year": 44,
+ "month": 7,
+ "day_text": "初一日",
+ "event_role": "宫廷事务",
+ "summary": "筷社等遵旨派人迎接患病侍卫僧图并派医诊治，同时奏报京城一带阴雨情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。纳尔苏等请安之文无用，勿再奏来。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "僧图",
+   "role": "乾清侍卫"
+  },
+  {
+   "name": "李颖滋",
+   "role": "大夫"
+  },
+  {
+   "name": "大希福",
+   "role": "正白旗舍卫"
+  },
+  {
+   "name": "豪尚",
+   "role": "僧图之侄"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "筷社等奏报遵骨派人迎病人并阴雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 18900,
+ "page_range": "591-592"
+}

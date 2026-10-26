@@ -1,0 +1,40 @@
+{
+ "source_no": 3706,
+ "title_guess": "内务府总管费扬古等奏请喂养堪达汉折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "本月十六日",
+ "event_role": "宫廷事务",
+ "summary": "黑龙江将军萨布素解送堪达汉仔子三只，途中死一只，费扬古等奏请将所到堪达汉送何处喂养。",
+ "has_zhupi": true,
+ "zhupi_summary": "著于畅春园喂养。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "内务府总管"
+  },
+  {
+   "name": "海拉逊",
+   "role": "内务府总管"
+  },
+  {
+   "name": "车尔德依",
+   "role": "佐领"
+  },
+  {
+   "name": "迈碌",
+   "role": "骁骑校"
+  }
+ ],
+ "places": [
+  "木兰围场",
+  "三河县",
+  "畅春园"
+ ],
+ "source_title": "内务府总管费扬击等秦请喂养堪达汉折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76803,
+ "page_range": "1749-1750",
+ "_date_interpolated": true
+}

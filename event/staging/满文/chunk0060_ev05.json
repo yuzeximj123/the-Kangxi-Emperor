@@ -1,0 +1,31 @@
+{
+ "source_no": 240,
+ "title_guess": "康熙帝为噶尔丹欲降实情奏皇太后折",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十三日",
+ "event_role": "军务",
+ "summary": "康熙帝奏皇太后，述夏季以来知噶尔丹必因窘迫而降，出塞收其属众、断其羽翼，遣人阻截哈密、布隆吉尔方向及卡伦诸处，厚待俘虏、屡遣招抚等情。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "哈密",
+  "布隆吉尔",
+  "归化城"
+ ],
+ "source_title": "康熙帝为噶尔丹欲降实情奏皇太后折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6005,
+ "page_range": "333-334"
+}

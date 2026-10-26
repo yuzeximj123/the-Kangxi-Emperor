@@ -1,0 +1,38 @@
+{
+ "source_no": 1341,
+ "title_guess": "息社等奏报遵旨查封寿成家产折",
+ "reign_year": 47,
+ "month": 8,
+ "day_text": "十六日",
+ "event_role": "司法案件",
+ "summary": "臣息社等遵旨查封寿成家产：搜出书籍、空白纸及信札档案银文书等皮箱三个，亲封用印交内总管太监翟林等，家产田庄查立档册封交内务府总管。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "筷祯",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "寿成",
+   "role": "被查管领"
+  },
+  {
+   "name": "翟林",
+   "role": "内总管太监"
+  }
+ ],
+ "places": [
+  "四公主牧场",
+  "萨哈廉"
+ ],
+ "source_title": "有筷社等奏报遵旨查封寿成家产折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 29704,
+ "page_range": "807-808"
+}

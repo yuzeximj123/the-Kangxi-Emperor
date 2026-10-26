@@ -1,0 +1,29 @@
+{
+ "source_no": null,
+ "title_guess": "理藩院奏请将拉藏所进鸟枪及来人驿送京城折",
+ "reign_year": 40,
+ "month": 1,
+ "day_text": "正月初八日",
+ "event_role": "边疆事务",
+ "summary": "理藩院奏请咨行将军博才等，将拉藏所进鸟枪及其来人一并驿送京城，奉旨依议并速拟敕书奏览。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。着速拟敕书奏览。",
+ "people": [
+  {
+   "name": "拉藏",
+   "role": "进贡鸟枪者"
+  },
+  {
+   "name": "博才",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "理藩院奏请将拉藏所进鸟枪及来人驿送京城折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12600,
+ "page_range": "465-466"
+}

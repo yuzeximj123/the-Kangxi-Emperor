@@ -1,0 +1,34 @@
+{
+ "source_no": 3728,
+ "title_guess": "内务府总管马思喀等奏报永定河石堤竣工折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "本月十九日",
+ "event_role": "河工水利",
+ "summary": "据监造郎中阿尔塞等报称，所监造永定河石堤已于本月十九日竣工，谨奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "马思喀",
+   "role": "内务府总管"
+  },
+  {
+   "name": "佛保",
+   "role": "郎中"
+  },
+  {
+   "name": "阿尔塞",
+   "role": "监造郎中"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_title": "内务府总管马思喀等奏报永定河石堤竣工折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 77007,
+ "page_range": "1753-1754",
+ "_date_interpolated": true
+}

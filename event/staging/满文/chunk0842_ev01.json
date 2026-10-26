@@ -1,0 +1,30 @@
+{
+ "source_no": 4202,
+ "title_guess": "理藩院奏报赏赐颇罗多银两折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "钱粮财政",
+ "summary": "奏请从扎郎阿延请达赖喇嘛所带留存西藏银两中动用一万两赏给颇罗。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：好。",
+ "people": [
+  {
+   "name": "颇罗",
+   "role": "受赏者"
+  },
+  {
+   "name": "扎郎阿",
+   "role": "延请达赖喇嘛官员"
+  }
+ ],
+ "places": [
+  "西藏"
+ ],
+ "source_title": "理蕃院奏报赏赐颇罗台银两折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84201,
+ "page_range": "1897-1898",
+ "_date_interpolated": true
+}

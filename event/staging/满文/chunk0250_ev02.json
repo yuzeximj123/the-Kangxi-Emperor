@@ -1,0 +1,34 @@
+{
+ "source_no": null,
+ "title_guess": "上谕一纸（谕诸阿哥）",
+ "reign_year": 46,
+ "month": 4,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "康熙谕诸阿哥：自八公主第起行，保寿病重，派大夫喇嘛医治无效，初八日病故，命尔等遣人往迎，到达日告福晋知并入奏皇太后。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "保寿",
+   "role": "病故官员"
+  },
+  {
+   "name": "可里德依",
+   "role": "侍卫"
+  },
+  {
+   "name": "王培",
+   "role": "大夫"
+  }
+ ],
+ "places": [
+  "八公主第",
+  "乌喇岱和洛"
+ ],
+ "source_title": "上谕一纸（谕诸阿哥）",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25002,
+ "page_range": "713-714"
+}

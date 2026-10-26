@@ -1,0 +1,38 @@
+{
+ "source_no": 640,
+ "title_guess": "山西巡抚噶礼奏报布政使雍泰等人情形折",
+ "reign_year": 43,
+ "month": 8,
+ "day_text": "初三日",
+ "event_role": "人事任免",
+ "summary": "噶礼遵旨奏报布政使雍泰为人鲠直、办事可以，绰奇调甘肃不悦且言多狂妄行止不端，赵凤诏较前平和、操守未改。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。此文断不能留。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "雍泰",
+   "role": "布政使"
+  },
+  {
+   "name": "绰奇",
+   "role": "调补甘肃官员"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山西",
+  "甘肃"
+ ],
+ "source_title": "山西巡抚噶礼奏报布政使秦泰等人情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16705,
+ "page_range": "547-548"
+}

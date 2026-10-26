@@ -1,0 +1,37 @@
+{
+ "source_no": 1363,
+ "title_guess": "杭州织造孙文成奏报赍送皮箱木匣折",
+ "reign_year": 47,
+ "month": 10,
+ "day_text": "二十二日",
+ "event_role": "宫廷事务",
+ "summary": "杭州织造孙文成奏报高愈差家人送来皮箱木匣等物，已交王武于二十二日送关。",
+ "has_zhupi": true,
+ "zhupi_summary": "著照送。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "高愈",
+   "role": null
+  },
+  {
+   "name": "陈苑",
+   "role": "家人"
+  },
+  {
+   "name": "王武",
+   "role": null
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_title": "杭州织造孙文成奏报责送皮箱木攻折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 30202,
+ "page_range": "817-818"
+}

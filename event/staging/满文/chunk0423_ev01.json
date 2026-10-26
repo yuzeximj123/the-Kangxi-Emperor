@@ -1,0 +1,33 @@
+{
+ "source_no": 2104,
+ "title_guess": "内务府奏请新庙所需物派富户预备折",
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "十六日",
+ "event_role": "宫廷事务",
+ "summary": "内务府议奏热河新修庙宇修佛所需席棚、车辆等项派富户预备，并请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "此处无汉大臣之名，复议。",
+ "people": [
+  {
+   "name": "赫奕",
+   "role": "内大臣"
+  },
+  {
+   "name": "马齐",
+   "role": "署理内大臣事务佐领"
+  },
+  {
+   "name": "海章",
+   "role": "署理内大臣事务郎中"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_title": "内务府奏请新让所需物派富户预备折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42301,
+ "page_range": "1059-1060"
+}

@@ -1,0 +1,31 @@
+{
+ "source_no": 319,
+ "title_guess": "噶尔丹奏书",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初七日",
+ "event_role": "边疆事务",
+ "summary": "噶尔丹奏称捧接敕书及使者口谕不胜欢欣，因大军所败四处离散，现留此地之人尚未商议，以谕旨为是，派格垒古英往奏诸情，并寄派拉玛扎布详细奏明。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：初七日到。",
+ "people": [
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "格垒古英杜喇尔",
+   "role": "使者"
+  },
+  {
+   "name": "拉玛扎布",
+   "role": "使者"
+  }
+ ],
+ "places": [],
+ "source_title": "嘲尔丹春将和",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8003,
+ "page_range": "373-374"
+}

@@ -1,0 +1,35 @@
+{
+ "source_no": 3814,
+ "title_guess": "筷社请安并奏未能随皇父同行折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "筷社恭请皇父万安，闻皇父到宁夏圣躬大安不胜喜悦，赞叹皇父狩猎丰获，因未能随行甚为悔恨。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：朕体安，尔好？到宁夏备足军粮马畜即启行，尔来亦无用，从内地来此时不可行，从外路来颇费力，办理军务处除寄皇太子外谕尔不必来。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "鄂尔多斯"
+ ],
+ "source_title": "筷社请安并奏未能随皇父同行折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78006,
+ "page_range": "1773-1774",
+ "_date_interpolated": true
+}

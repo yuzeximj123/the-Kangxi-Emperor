@@ -1,0 +1,34 @@
+{
+ "source_no": 359,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "初九日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子报噶尔丹败逃事，述所遣新满洲擒获鄂尔坤活口供称马乏众人欲弃之、噶尔丹闻大军编队争克鲁伦而卡伦人逃窜等情，并赏活口与中书阿必达同遣。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "阿必达",
+   "role": "中书"
+  }
+ ],
+ "places": [
+  "鄂尔坤",
+  "克鲁伦"
+ ],
+ "source_title": "康熙帝朱谕",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9205,
+ "page_range": "397-398"
+}

@@ -1,0 +1,31 @@
+{
+ "source_no": 2172,
+ "title_guess": "兵部尚书殷特布奏闻建水师营事折",
+ "reign_year": 52,
+ "month": 6,
+ "day_text": "初三日",
+ "event_role": "军务",
+ "summary": "殷特布奏报九卿议金州建水师营事，陈尚义等呈称南人不耐严寒、金州海口不能停船，愿冬往闽广、夏往金州巡查；殷特布训斥后奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "尔此奏甚是，朕亦明白。",
+ "people": [
+  {
+   "name": "殷特布",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "陈尚义",
+   "role": "水师营人员"
+  }
+ ],
+ "places": [
+  "金州",
+  "福建",
+  "广东"
+ ],
+ "source_title": "兵部尚书殷特布奏闻建水师营事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 43305,
+ "page_range": "1079-1080"
+}

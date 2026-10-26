@@ -1,0 +1,37 @@
+{
+ "source_no": 1721,
+ "title_guess": "杭州织造孙文成奏报赍送皮箱匣子折",
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "初十日",
+ "event_role": "宫廷事务",
+ "summary": "孙文成奏报高愈差家人朱荣送来黄布囊小皮箱一个、木匣三个，称系进呈圣主之物，已交王武于初十日赍送。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "高愈",
+   "role": "送物人"
+  },
+  {
+   "name": "朱荣",
+   "role": "高愈家人"
+  },
+  {
+   "name": "王武",
+   "role": "赍送人"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_title": "杭州织造孙文成奏报赍送皮箱图子折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 36003,
+ "page_range": "933-934"
+}

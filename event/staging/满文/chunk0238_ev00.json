@@ -1,0 +1,39 @@
+{
+ "source_no": 1029,
+ "title_guess": "大夫诊治书（附于请安折后）",
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "初九日",
+ "event_role": "宫廷事务",
+ "summary": "太医院御医刘炳斗、季之贤启奏正黄旗一等侍卫那尔善病情及用加减行气香苏饮、圣酒调治经过，系前件奏折之附诊治书片段。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "刘炳斗",
+   "role": "太医院御医加三级大方脉大夫"
+  },
+  {
+   "name": "季之贤",
+   "role": "大方脉大夫"
+  },
+  {
+   "name": "那尔善",
+   "role": "正黄旗一等侍卫（患病者）"
+  },
+  {
+   "name": "三贝勒",
+   "role": "传看病情者"
+  },
+  {
+   "name": "四贝勒",
+   "role": "传看病情者"
+  }
+ ],
+ "places": [],
+ "source_title": "向社等请安并灶素射殖一虎本",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23800,
+ "page_range": "689-690"
+}

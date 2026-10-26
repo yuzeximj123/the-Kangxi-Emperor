@@ -1,0 +1,33 @@
+{
+ "source_no": 2868,
+ "title_guess": "内务府奏参包衣牛录世仆鄂尔欢傲慢不恭治罪折",
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "初六日",
+ "event_role": "弹劾参奏",
+ "summary": "内务府参奏员外郎鄂尔欢系包衣牛录世仆，圣上垂问时傲慢可恶，请将其带铁锁解交兵部发配打牲乌拉充打牲人。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称鄂尔欢一事已有手谕，并讥讽此等俘虏之奴才岂能报其祖辈之仇。",
+ "people": [
+  {
+   "name": "鄂尔欢",
+   "role": "员外郎/包衣牛录世仆"
+  },
+  {
+   "name": "关保",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "海章",
+   "role": "署理内务府总管事务"
+  }
+ ],
+ "places": [
+  "打牲乌拉"
+ ],
+ "source_title": "内务府奏参包衣牛录世仆雷尔欢傲慢不堆治罪折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 56900,
+ "page_range": "1351-1352"
+}

@@ -1,0 +1,33 @@
+{
+ "source_no": 1150,
+ "title_guess": "李国屏等奏报赫世享病势折",
+ "reign_year": 46,
+ "month": 7,
+ "day_text": "初五日",
+ "event_role": "宫廷事务",
+ "summary": "大夫刘声芳、张蹇奏报赫世享病情及诊治用药，附加减归芍六君子汤方。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙询问病情是否又好些。",
+ "people": [
+  {
+   "name": "刘声芳",
+   "role": "大夫"
+  },
+  {
+   "name": "张蹇",
+   "role": "大夫"
+  },
+  {
+   "name": "赫世享",
+   "role": "病人"
+  }
+ ],
+ "places": [
+  "武英殿"
+ ],
+ "source_title": "李国屏等奏报赫世享病势拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 26200,
+ "page_range": "737-738"
+}

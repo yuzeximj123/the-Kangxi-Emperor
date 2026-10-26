@@ -1,0 +1,31 @@
+{
+ "source_no": 221,
+ "title_guess": "康熙帝奏为听皇太后恩事",
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "二十六日",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝奏皇太后，谢赐衣恩，述河水未冻、天气尚暖暂不穿新衣，已抵黄河鄂尔多斯处围猎喜悦而行，请太后勿念。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "黄河",
+  "鄂尔多斯",
+  "归化城"
+ ],
+ "source_title": "康熙帝奏为另皇太后恩事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5601,
+ "page_range": "325-326"
+}

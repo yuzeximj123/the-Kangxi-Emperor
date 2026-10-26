@@ -1,0 +1,33 @@
+{
+ "source_no": 2142,
+ "title_guess": "内务府奏请更新制做道服折",
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "十四日",
+ "event_role": "宫廷事务",
+ "summary": "内务府据掌仪司呈请，奏报诵经道士太监之服装已陈旧破坏，请照旧式重新制做一份，旧服贮存用于郊外诵经。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：照办。",
+ "people": [
+  {
+   "name": "赫奕",
+   "role": "内务府总管"
+  },
+  {
+   "name": "马齐",
+   "role": "署理内务府总管事务佐领"
+  },
+  {
+   "name": "李兴泰",
+   "role": "钦安殿道长太监"
+  }
+ ],
+ "places": [
+  "钦安殿"
+ ],
+ "source_title": "内务府奏请更新制做道服折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42904,
+ "page_range": "1071-1072"
+}

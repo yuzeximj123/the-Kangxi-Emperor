@@ -1,0 +1,36 @@
+{
+ "source_no": 2705,
+ "title_guess": "吏部尚书富宁安奏闻暂借粮给发满洲官兵等情折",
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "二十五日",
+ "event_role": "军务",
+ "summary": "吏部尚书富宁安奏报军粮运输延误，暂借额敏小麦拨给官兵，并催运粮石至巴里坤。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示知道了。",
+ "people": [
+  {
+   "name": "富宁安",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "额敏",
+   "role": "回子首领"
+  },
+  {
+   "name": "席柱",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "甘州",
+  "巴里坤",
+  "哈密",
+  "肃州"
+ ],
+ "source_title": "吏部尚书富宁安奏闻暂借粮给发满洲官兵等情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 53402,
+ "page_range": "1281-1282"
+}

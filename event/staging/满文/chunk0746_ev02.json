@@ -1,0 +1,45 @@
+{
+ "source_no": 3590,
+ "title_guess": "浙总督满保奏报台湾风灾情形折",
+ "reign_year": 61,
+ "month": 1,
+ "day_text": "二十一日",
+ "event_role": "灾情收成",
+ "summary": "觉罗满保奏报台湾、凤山等县去年遭风灾，收成略薄、房屋倒塌、人口伤亡及战船损毁，并报赈济、修船及查办盗卖营船官员等情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "浙总督"
+  },
+  {
+   "name": "蓝廷祯",
+   "role": "总兵"
+  },
+  {
+   "name": "王进",
+   "role": "千总"
+  },
+  {
+   "name": "方子",
+   "role": "千总"
+  },
+  {
+   "name": "林奎",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "台湾",
+  "凤山",
+  "竹罗",
+  "厦门",
+  "漳州"
+ ],
+ "source_title": "冰浙监督满保奏报台湾风灾情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 74602,
+ "page_range": "1705-1706"
+}

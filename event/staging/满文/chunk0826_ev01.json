@@ -1,0 +1,44 @@
+{
+ "source_no": 4106,
+ "title_guess": "康熙帝谕旨一纸",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝密谕托和齐，告以大阿哥党徒疑惧可能铤而走险，令其留心密探大阿哥消息并随时奏报，勿轻视关系全家性命。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "马齐",
+   "role": "大臣"
+  },
+  {
+   "name": "佛保",
+   "role": "包衣"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [],
+ "source_title": "康熙帝谕旨一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82601,
+ "page_range": "1865-1866",
+ "_date_interpolated": true
+}

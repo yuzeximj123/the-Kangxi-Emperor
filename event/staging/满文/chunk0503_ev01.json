@@ -1,0 +1,34 @@
+{
+ "source_no": 2589,
+ "title_guess": "议政大臣苏努等议复派兵驻扎噶斯口事折",
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "三十日",
+ "event_role": "军务",
+ "summary": "议政大臣苏努等遵旨议复，拟从西安调动的满洲兵一千名、绿旗兵一千名内派往噶斯口驻扎要隘，请旨指示带兵大臣。",
+ "has_zhupi": true,
+ "zhupi_summary": "令于与富宁安同去之人内拣选一员，于西安先赴噶斯之协领中拣选遣往，并于千名绿旗内遣派贤能副将。",
+ "people": [
+  {
+   "name": "苏努",
+   "role": "议政大臣固山贝子都统"
+  },
+  {
+   "name": "席柱",
+   "role": "西安将军"
+  },
+  {
+   "name": "富宁安",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "噶斯口",
+  "西安"
+ ],
+ "source_title": "议政大下苏努等议复派兵驻扎噶斯口事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 50301,
+ "page_range": "1219-1220"
+}

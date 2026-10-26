@@ -1,0 +1,37 @@
+{
+ "source_no": 3491,
+ "title_guess": "抚远大将军胤祯等请安折",
+ "reign_year": 59,
+ "month": 2,
+ "day_text": "十二日",
+ "event_role": "请安谢恩",
+ "summary": "胤祯、弘曙、弘智、弘曦等奏请皇父万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "二月初二日赴水猎，仍喜悦而行，气色较前好矣；京城甚太平，诸省均相似。",
+ "people": [
+  {
+   "name": "胤祯",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "弘曙",
+   "role": "前锋统领"
+  },
+  {
+   "name": "弘智",
+   "role": "皇子"
+  },
+  {
+   "name": "弘曦",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "抚远大将军候祯等请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 72403,
+ "page_range": "1661-1662"
+}

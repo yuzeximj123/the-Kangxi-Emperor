@@ -1,0 +1,44 @@
+{
+ "source_no": 3028,
+ "title_guess": "闽浙总督满保奏报近海情形折",
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "初七日",
+ "event_role": "军务",
+ "summary": "满保奏报官兵追剿贼船，生擒十六名贼人，内有旅顺逃贼，余贼乘船北逃，已行文浙闽二省严缉逃犯并解审所获贼人。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称许擒贼之功，表示知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "闽浙总督"
+  },
+  {
+   "name": "郑勤",
+   "role": "率船官兵"
+  },
+  {
+   "name": "于阿儿",
+   "role": "旅顺逃贼，中炮身亡"
+  },
+  {
+   "name": "阿基伟",
+   "role": "旅顺逃贼，被生擒"
+  },
+  {
+   "name": "陈俊园",
+   "role": "逃贼"
+  }
+ ],
+ "places": [
+  "台湾",
+  "旅顺",
+  "浙江",
+  "福建"
+ ],
+ "source_title": "闽浙总督满保奏报近海情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 60100,
+ "page_range": "1415-1416"
+}

@@ -1,0 +1,43 @@
+{
+ "source_no": 3669,
+ "title_guess": "敕谕厄鲁特台吉策妄喇布坦速来会盟事",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "康熙帝敕谕策妄喇布坦，追述其昔日窘困时朝廷予以照料收留，后其渐傲慢、犯哈密，朝廷仍恤念众生设界遣使，令其速来会盟。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "厄鲁特台吉"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "科西图",
+   "role": "使臣"
+  },
+  {
+   "name": "保柱",
+   "role": "使臣"
+  }
+ ],
+ "places": [
+  "额勒恩哈毕尔罕",
+  "哈密"
+ ],
+ "source_title": "救论大鲁特台吉策妄嘲布坦速来会盟事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76202,
+ "page_range": "1737-1738",
+ "_date_interpolated": true
+}

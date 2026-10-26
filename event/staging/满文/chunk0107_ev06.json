@@ -1,0 +1,35 @@
+{
+ "source_no": 440,
+ "title_guess": "两江总督阿山奏报承审高承爵参劾案情形折",
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "初九日",
+ "event_role": "司法案件",
+ "summary": "两江总督阿山奏陈承审安徽巡抚高承爵参劾丁忧布政使张四教一案情形，自陈公正详审，并陈明州县解银火耗等原委。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：有无荐助之人，朕心中明白，何必为此着急。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "高承爵",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "张四教",
+   "role": "丁忧布政使"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "安徽"
+ ],
+ "source_title": "两江总督阿山奏报承审高承醒参勃案情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 10706,
+ "page_range": "427-428"
+}

@@ -1,0 +1,38 @@
+{
+ "source_no": 3620,
+ "title_guess": "山西巡抚德音奏为偿还越齐代人捐纳银等事折",
+ "reign_year": 61,
+ "month": 6,
+ "day_text": "十二日",
+ "event_role": "钱粮财政",
+ "summary": "德音奏报查明赵齐代人捐纳未交银及潮银共二万七千余两，孙钻功、蓝廷芳等已照数偿还入库，并请圣裁是否参劾，另奏蓝廷芳熟悉驼务。",
+ "has_zhupi": true,
+ "zhupi_summary": "若已偿还完毕，理应免于参劾治罪。",
+ "people": [
+  {
+   "name": "德音",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "孙钻功",
+   "role": "雁平道员"
+  },
+  {
+   "name": "蓝廷芳",
+   "role": "大同府知府"
+  },
+  {
+   "name": "赵齐",
+   "role": "捐纳相关人"
+  }
+ ],
+ "places": [
+  "雁平",
+  "大同"
+ ],
+ "source_title": "山西巡抚德音奏为偿还越齐代人捐纳银等事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 75300,
+ "page_range": "1719-1720"
+}

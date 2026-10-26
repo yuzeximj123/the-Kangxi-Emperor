@@ -1,0 +1,41 @@
+{
+ "source_no": 746,
+ "title_guess": "川陕总督博霁等奏报捐送银两折",
+ "reign_year": 44,
+ "month": 6,
+ "day_text": "十一日",
+ "event_role": "人事任免",
+ "summary": "遵旨会同巡抚鄂海、布政使鄂罗、按察使赫记共捐银七千两送西宁总兵尹泰，并宣谕训旨令其赴任。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "博霁",
+   "role": "川陕总督"
+  },
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "鄂罗",
+   "role": "布政使"
+  },
+  {
+   "name": "赫记",
+   "role": "按察使"
+  },
+  {
+   "name": "尹泰",
+   "role": "西宁总兵"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_title": "用陕总督博雾等奏报捐送银两折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 18605,
+ "page_range": "585-586"
+}

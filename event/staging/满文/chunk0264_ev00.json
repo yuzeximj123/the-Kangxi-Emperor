@@ -1,0 +1,41 @@
+{
+ "source_no": 1159,
+ "title_guess": "李国屏等奏报赫世享病势折",
+ "reign_year": 46,
+ "month": 7,
+ "day_text": "十七日",
+ "event_role": "宫廷事务",
+ "summary": "片段：记康熙帝谕以健脾丸、理气健脾丸及饮食调理赫世享病情，赫世享服药后渐愈，和素、赫世享妻谢恩，王佳保启行；李国屏、爱保往视报赫世享较十三日更好。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称闻赫世享已大愈，责其未尽报，待回宫必不宽恕，将赫世享交与其妻折死。",
+ "people": [
+  {
+   "name": "赫世享",
+   "role": "患病官员"
+  },
+  {
+   "name": "李国屏",
+   "role": "奏报官员"
+  },
+  {
+   "name": "爱保",
+   "role": "奏报官员"
+  },
+  {
+   "name": "和素",
+   "role": "赫世享相关官员"
+  },
+  {
+   "name": "王佳保",
+   "role": "启行官员"
+  }
+ ],
+ "places": [
+  "御药房"
+ ],
+ "source_title": "李国屏等奏报赫世享病搜",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 26400,
+ "page_range": "741-742"
+}

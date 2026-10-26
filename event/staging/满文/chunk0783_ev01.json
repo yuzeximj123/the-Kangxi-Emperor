@@ -1,0 +1,36 @@
+{
+ "source_no": 3831,
+ "title_guess": "由社等奏请万安折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "本月初一日",
+ "event_role": "请安谢恩",
+ "summary": "臣等奏报初一日请安折于初三日收到，恭闻皇父万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：朕体安，初三日至初四日迎皇太后于花峪沟、喀喇和吼、热河，皇太后气色甚好；近日稍旱，令查明京城情形奏来。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "臣"
+  },
+  {
+   "name": "筷祥",
+   "role": "臣"
+  },
+  {
+   "name": "向祯",
+   "role": "臣"
+  }
+ ],
+ "places": [
+  "花峪沟",
+  "喀喇和吼",
+  "热河"
+ ],
+ "source_title": "所社等秦请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78301,
+ "page_range": "1779-1780",
+ "_date_interpolated": true
+}

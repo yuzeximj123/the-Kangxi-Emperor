@@ -1,0 +1,38 @@
+{
+ "source_no": 275,
+ "title_guess": "皇太子筷初请安并报备齐御用物品折",
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十五日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子请安，并奏报噶尔丹之子塞布腾巴尔珠尔已由肃州起解、噶尔丹遣往西土之人及书函俱获，另报备送稻皮、狼皮、缎匹、绳索等御用物品及颁给班第王敕谕事。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：从此往下来写。朕体安善，皇太子可好？",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "塞布腾巴尔珠尔",
+   "role": "噶尔丹之子"
+  },
+  {
+   "name": "阿南达",
+   "role": "官员"
+  },
+  {
+   "name": "班第",
+   "role": "内大臣"
+  }
+ ],
+ "places": [
+  "肃州",
+  "右卫"
+ ],
+ "source_title": "皇太子筷初请安并报备齐御用物品折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 7000,
+ "page_range": "353-354"
+}

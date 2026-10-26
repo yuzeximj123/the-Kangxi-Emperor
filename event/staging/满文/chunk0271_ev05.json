@@ -1,0 +1,61 @@
+{
+ "source_no": 1209,
+ "title_guess": "筷社等奏报七阿哥病势折",
+ "reign_year": 46,
+ "month": 9,
+ "day_text": "十九日",
+ "event_role": "宫廷事务",
+ "summary": "筷社等奏报七阿哥脸色如常、言语行动稍好、进食睡眠较前稍增，服药未见显效。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。七阿哥之事勿奏太后知，只说痊愈即可；太监若去，阿哥只跪请安，以宽待太监为好。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报人"
+  },
+  {
+   "name": "筷祺",
+   "role": "奏报人"
+  },
+  {
+   "name": "仍祺",
+   "role": "奏报人"
+  },
+  {
+   "name": "筷祷",
+   "role": "奏报人"
+  },
+  {
+   "name": "仍礼",
+   "role": "奏报人"
+  },
+  {
+   "name": "矢裤",
+   "role": "奏报人"
+  },
+  {
+   "name": "筷被",
+   "role": "奏报人"
+  },
+  {
+   "name": "舱宰",
+   "role": "奏报人"
+  },
+  {
+   "name": "骨祯",
+   "role": "奏报人"
+  },
+  {
+   "name": "七阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "海子"
+ ],
+ "source_title": "筷社等奏报七阿哥病势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 27105,
+ "page_range": "755-756"
+}

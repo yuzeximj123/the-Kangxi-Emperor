@@ -1,0 +1,39 @@
+{
+ "source_no": null,
+ "title_guess": "大将军伯费扬古奏报米车及宁夏兵情形折（残）",
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "四月二十六日",
+ "event_role": "军务",
+ "summary": "此为费扬古奏本片段，由商南多尔济携来，内容为于成龙报米车出卡伦、牲畜瘦弱，议定留十五日米于卡伦、运米至土拉，及孙思克报宁夏兵二月二十二日起程约三十八日抵翁金。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军领侍卫内大臣伯"
+  },
+  {
+   "name": "于成龙",
+   "role": "运米卿"
+  },
+  {
+   "name": "孙思克",
+   "role": "官员"
+  },
+  {
+   "name": "商南多尔济",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "卡伦",
+  "土拉",
+  "翁金"
+ ],
+ "source_title": "大将军伯费扬古奏报米车及宁夏兵情形折（残）",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4709,
+ "page_range": "307-308"
+}

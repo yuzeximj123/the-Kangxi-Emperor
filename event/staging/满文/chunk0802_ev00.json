@@ -1,0 +1,28 @@
+{
+ "source_no": 3984,
+ "title_guess": "步军统领隆科多奏报京城雨水粮价情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月二十三日夜",
+ "event_role": "灾情收成",
+ "summary": "奏报本月二十三日夜略降滴雨及海子外羊坊店、双桥门、马驹桥降雨约半寸，并详列各类米粮价格。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。二十六日至二十七日得雨沾足，现在天亦甚阴。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "海子外羊坊店",
+  "双桥门",
+  "马驹桥"
+ ],
+ "source_title": "步军统领隆科多奏报京城雨水粮价情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80200,
+ "page_range": "1817-1818",
+ "_date_interpolated": true
+}

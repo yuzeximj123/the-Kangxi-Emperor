@@ -1,0 +1,46 @@
+{
+ "source_no": 4142,
+ "title_guess": "苑丞尚志舜等奏报囚禁太监梁九功病情折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": "五月初九日",
+ "event_role": "宫廷事务",
+ "summary": "尚志舜等奏报囚禁太监梁九功额上生热疱、头脸俱肿，已传大夫何桂方、秦世禄诊视并附汉文药贴奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "宜服用理中丸。",
+ "people": [
+  {
+   "name": "尚志舜",
+   "role": "苑丞"
+  },
+  {
+   "name": "梁九功",
+   "role": "囚禁太监"
+  },
+  {
+   "name": "李玉",
+   "role": "太监"
+  },
+  {
+   "name": "僧保",
+   "role": "太监"
+  },
+  {
+   "name": "何桂方",
+   "role": "大方脉大夫"
+  },
+  {
+   "name": "秦世禄",
+   "role": "外国大夫"
+  }
+ ],
+ "places": [
+  "畅春园西花园"
+ ],
+ "source_title": "苑丞尚志倒等奏报因禁太监梁九功病情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83204,
+ "page_range": "1877-1878",
+ "_date_interpolated": true
+}

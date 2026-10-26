@@ -1,0 +1,45 @@
+{
+ "source_no": 3000,
+ "title_guess": "工部尚书孙札齐等奏为半月档内错字折",
+ "reign_year": 56,
+ "month": 5,
+ "day_text": "十四日",
+ "event_role": "人事任免",
+ "summary": "工部半月档册错字，吏部拟将员外郎李永降一级调用；孙札齐等以其督工未完请降级留任，请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：留任；升调不可含糊。",
+ "people": [
+  {
+   "name": "孙札齐",
+   "role": "工部尚书"
+  },
+  {
+   "name": "王项龄",
+   "role": "尚书"
+  },
+  {
+   "name": "常泰",
+   "role": "左侍郎"
+  },
+  {
+   "name": "郝林",
+   "role": "左侍郎"
+  },
+  {
+   "name": "李锡",
+   "role": "右侍郎"
+  },
+  {
+   "name": "李永",
+   "role": "营缮司汉员外郎"
+  }
+ ],
+ "places": [
+  "贡院"
+ ],
+ "source_title": "工部尚书孙札齐等奏为半月档内错字折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 59300,
+ "page_range": "1399-1400"
+}

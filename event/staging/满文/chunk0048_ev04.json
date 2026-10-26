@@ -1,0 +1,42 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "二月二十四日",
+ "event_role": "军务",
+ "summary": "抚远大将军费扬古等奏，准兵部咨称孙思克等议留一月米于翁金，请派巩昌按察使赛吉里、汉中副将杨琳等运送，师于二月二十二日自宁夏起程。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "孙思克",
+   "role": "振武将军"
+  },
+  {
+   "name": "赛吉里",
+   "role": "巩昌按察使"
+  },
+  {
+   "name": "杨琳",
+   "role": "汉中守城副将"
+  },
+  {
+   "name": "董少功",
+   "role": "涨临道"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "翁金"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4804,
+ "page_range": "309-310"
+}

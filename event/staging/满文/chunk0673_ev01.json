@@ -1,0 +1,59 @@
+{
+ "source_no": 3300,
+ "title_guess": "刑部尚书赖都等奏为德斯特等非属诸申折",
+ "reign_year": 57,
+ "month": 12,
+ "day_text": "十六日",
+ "event_role": "司法案件",
+ "summary": "刑部奏色色、德斯特自称非觉罗博奇图等所属诸申，讼告都统，经康熙面讯词穷，拟革职枷号责鞭，请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "依先折所奏。",
+ "people": [
+  {
+   "name": "赖都",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "刘相",
+   "role": "右侍郎"
+  },
+  {
+   "name": "张保",
+   "role": "山东司员外郎"
+  },
+  {
+   "name": "佛保",
+   "role": "员外郎"
+  },
+  {
+   "name": "孙柱",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "毕锡图",
+   "role": "武库司员外郎"
+  },
+  {
+   "name": "色色",
+   "role": "护军参领"
+  },
+  {
+   "name": "德斯特",
+   "role": "三等侍卫兼内府佐领"
+  },
+  {
+   "name": "阿林保",
+   "role": "副都统"
+  },
+  {
+   "name": "博奇图",
+   "role": "觉罗"
+  }
+ ],
+ "places": [],
+ "source_title": "刑部尚书赖都等奏为德斯特等非属诸申折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 67301,
+ "page_range": "1559-1560"
+}

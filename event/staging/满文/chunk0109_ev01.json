@@ -1,0 +1,37 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "片段：续审张四教，问其自去年八月至本年二月收添搭银若干及是否侵肥，张供称共收六十二万余两，添搭银九千余两俱用于捐解水脚、修庙、兵饷包封拆折等公用，并详列高巡抚及其妻、子勒索银物情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "张四教",
+   "role": "安徽布政使"
+  },
+  {
+   "name": "高巡抚",
+   "role": "巡抚"
+  },
+  {
+   "name": "高其伟",
+   "role": "翰林"
+  }
+ ],
+ "places": [
+  "江宁",
+  "东岳庙",
+  "洪武陵",
+  "金山寺"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 10901,
+ "page_range": "431-432",
+ "_date_interpolated": true
+}

@@ -1,0 +1,33 @@
+{
+ "source_no": 132,
+ "title_guess": "川陕总督佛伦奏请劣员赵良栋应速离本地折",
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "初八日",
+ "event_role": "弹劾参奏",
+ "summary": "佛伦据宁夏总兵王化兴报称赵良栋署理总兵时干预营务、官兵畏惧，奏请将赵良栋速离本地以保全边疆重地。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：朕亦有所考虑。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "赵良栋",
+   "role": "署理总兵官"
+  },
+  {
+   "name": "王化兴",
+   "role": "宁夏总兵官"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_title": "川陕总督佛伦奏请劣员赵良栋应速离本地本",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 2904,
+ "page_range": "271-272"
+}

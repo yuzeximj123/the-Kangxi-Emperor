@@ -1,0 +1,54 @@
+{
+ "source_no": 537,
+ "title_guess": "山西巡抚噶礼奏明未照索额图指示行事折",
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "二十五日",
+ "event_role": "弹劾参奏",
+ "summary": "噶礼遵旨回奏与索额图并无交好、未听其指示，列举参劾谢廷吉、李南、王福、边永宁等索额图、明珠之人，表明惟知效忠皇上。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "谢廷吉",
+   "role": "薄州知州"
+  },
+  {
+   "name": "李南",
+   "role": "官员"
+  },
+  {
+   "name": "王福",
+   "role": "道员"
+  },
+  {
+   "name": "边永宁",
+   "role": "道员"
+  },
+  {
+   "name": "范世泰",
+   "role": "大盐商"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西省",
+  "射虎川"
+ ],
+ "source_title": "山西巡抚噶礼考明未照索额图指示行事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 14601,
+ "page_range": "505-506"
+}

@@ -1,0 +1,53 @@
+{
+ "source_no": 4110,
+ "title_guess": "步军统领托和齐奏报官员情形折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "托和齐奏报齐世武居官清廉、声名好，绰奇张扬齐世武与石文桂结亲等事，并奏报审办盗米大光棍谭张三等案情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "齐世武",
+   "role": "尚书/总督"
+  },
+  {
+   "name": "绰奇",
+   "role": "官员"
+  },
+  {
+   "name": "石文桂",
+   "role": "官员"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚/江南总督"
+  },
+  {
+   "name": "谭张三",
+   "role": "盗米光棍"
+  },
+  {
+   "name": "张廷枢",
+   "role": "汉尚书"
+  }
+ ],
+ "places": [
+  "山西",
+  "江南",
+  "扬州",
+  "京城"
+ ],
+ "source_title": "步军统领托和齐寿报官员情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82700,
+ "page_range": "1867-1868",
+ "_date_interpolated": true
+}

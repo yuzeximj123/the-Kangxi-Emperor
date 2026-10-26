@@ -1,0 +1,41 @@
+{
+ "source_no": 3562,
+ "title_guess": "行在刑部右侍郎刘相等奏为审理殴毙家奴一案折",
+ "reign_year": 60,
+ "month": 6,
+ "day_text": "康熙六十年闰六月二十八日",
+ "event_role": "司法案件",
+ "summary": "刘相等奏审三等侍卫雅图拷打家奴阿什致死一案，验明木棍伤致死属实，依例拟罚俸一年请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：雅图殴打家奴至死但即自首报部，宽免其罪。",
+ "people": [
+  {
+   "name": "刘相",
+   "role": "行在刑部右侍郎"
+  },
+  {
+   "name": "雅图",
+   "role": "正黄旗三等侍卫"
+  },
+  {
+   "name": "阿什",
+   "role": "家奴"
+  },
+  {
+   "name": "佛保",
+   "role": "员外郎"
+  },
+  {
+   "name": "查弱纳",
+   "role": "行在兵部右侍郎"
+  }
+ ],
+ "places": [
+  "围场"
+ ],
+ "source_title": "行在刑部右侍郎刘相等秦为审理殴舱家航一案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 73901,
+ "page_range": "1691-1692"
+}

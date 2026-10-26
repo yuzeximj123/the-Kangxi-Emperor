@@ -1,0 +1,36 @@
+{
+ "source_no": 1682,
+ "title_guess": "两江总督噶礼奏报田禾粮价情形折",
+ "reign_year": 50,
+ "month": 1,
+ "day_text": "二二六日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报宁波、绍兴、杭州、嘉兴及苏常镇宁一带夏麦生长良好、米价及兵民生计情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "马三奇",
+   "role": "将军、原浙江提督"
+  }
+ ],
+ "places": [
+  "宁波",
+  "绍兴",
+  "杭州",
+  "嘉兴",
+  "苏州",
+  "常州",
+  "镇江",
+  "江宁"
+ ],
+ "source_title": "两江总督噶礼奏报田禾粮价情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35305,
+ "page_range": "919-920"
+}

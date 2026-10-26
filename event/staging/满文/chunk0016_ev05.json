@@ -1,0 +1,35 @@
+{
+ "source_no": 79,
+ "title_guess": "川陕总督佛伦奏谢颁旨折",
+ "reign_year": 31,
+ "month": 11,
+ "day_text": "二十五日",
+ "event_role": "请安谢恩",
+ "summary": "佛伦奏谢康熙于索额图抵省时传旨问安并免具题谢恩，称闻旨喜悦莫可言喻，乘便具奏谢恩。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙问巡抚布喀行情及陕西人议论，并询移驻宁夏满洲兵因病多可否撤回西安。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "布喀",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "西安",
+  "宁夏",
+  "陕西"
+ ],
+ "source_title": "川陕总督佛伦奏谢颁旨折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1605,
+ "page_range": "245-246"
+}

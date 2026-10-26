@@ -1,0 +1,31 @@
+{
+ "source_no": null,
+ "title_guess": "大夫询治书",
+ "reign_year": 49,
+ "month": 5,
+ "day_text": "五月二十七日",
+ "event_role": "宫廷事务",
+ "summary": "太医院刘声芳、李德陪奏报诊治镶黄旗硕色中风重症情形，议用御制酒兼祛风化疾汤竭力救治，并附药方。",
+ "has_zhupi": true,
+ "zhupi_summary": "用心治。",
+ "people": [
+  {
+   "name": "刘声芳",
+   "role": "太医院右判"
+  },
+  {
+   "name": "李德陪",
+   "role": "御医"
+  },
+  {
+   "name": "硕色",
+   "role": "食阿思哈尼哈番"
+  }
+ ],
+ "places": [],
+ "source_title": "大夫询治书",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33904,
+ "page_range": "891-892"
+}

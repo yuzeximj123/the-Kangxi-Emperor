@@ -1,0 +1,39 @@
+{
+ "source_no": 4057,
+ "title_guess": "步军统领隆科多奏报拿获偷捕五龙亭池鱼之人折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月十六日",
+ "event_role": "司法案件",
+ "summary": "太监胡杰家人李二用旋网在五龙亭池偷捕鲫鱼被番子拿获，李二供称系主子命其送鱼，胡杰拒不认供，隆科多将李二解送内务府。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：拿的好。知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "胡杰",
+   "role": "太监"
+  },
+  {
+   "name": "李二",
+   "role": "太监家人"
+  },
+  {
+   "name": "王永",
+   "role": "番子"
+  }
+ ],
+ "places": [
+  "地安门",
+  "五龙亭"
+ ],
+ "source_title": "步军统领隆科多奏报拿获偷捕五龙亭池鱼之人折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81400,
+ "page_range": "1841-1842",
+ "_date_interpolated": true
+}

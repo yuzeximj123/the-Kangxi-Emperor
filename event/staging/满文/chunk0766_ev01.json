@@ -1,0 +1,40 @@
+{
+ "source_no": 3683,
+ "title_guess": "论调萨布素及蒙古兵前往打听消息事",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "奉旨调萨布素五百兵及蒙古兵前往管金等地探信，截杀噶尔丹过往消息，并议米粟拨给、萨布素驻守库图收留来投厄鲁特。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "将军"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "敌方首领"
+  },
+  {
+   "name": "沙木巴",
+   "role": "王"
+  }
+ ],
+ "places": [
+  "管金",
+  "库图",
+  "西路"
+ ],
+ "source_title": "论调萨布素及蒙古兵前往打听消息事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76601,
+ "page_range": "1745-1746",
+ "_date_interpolated": true
+}

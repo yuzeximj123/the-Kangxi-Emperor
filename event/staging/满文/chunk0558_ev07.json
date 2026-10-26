@@ -1,0 +1,46 @@
+{
+ "source_no": 2822,
+ "title_guess": "步军统领隆科多奏报查获出逃太监李国泰折",
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "二十一日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报番子任齐龙等查获由热河脱逃太监李国泰，审讯供称因与首领争吵惧打而逃，藏匿于义兄之女李氏家，已解送内务府。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "李国泰",
+   "role": "出逃太监"
+  },
+  {
+   "name": "任齐龙",
+   "role": "番子"
+  },
+  {
+   "name": "陈齐泰",
+   "role": "总管太监"
+  },
+  {
+   "name": "王泰平",
+   "role": "首领太监"
+  },
+  {
+   "name": "李氏",
+   "role": "民人寡妇"
+  }
+ ],
+ "places": [
+  "热河",
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏报查获出逃太监李国泰折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55807,
+ "page_range": "1329-1330"
+}

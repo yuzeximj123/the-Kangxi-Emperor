@@ -1,0 +1,43 @@
+{
+ "source_no": 235,
+ "title_guess": "康熙帝谕皇太子于各处围猎情形",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "十七日",
+ "event_role": "宫廷事务",
+ "summary": "康熙帝记述十六日驻跸吉格苏泰设双层围场行猎，自猎一百二十二只，大阿哥等各有猎获，十七日不能猎驻跸，并令鄂尔多斯围场马匹歇息，将情由奏皇太后及宫内，勿告于外。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "三阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "八阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "裕亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [
+  "吉格苏泰",
+  "黄河",
+  "鄂尔多斯"
+ ],
+ "source_title": "康熙帝谕皇太子于各处围猎情形",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6000,
+ "page_range": "333-334"
+}

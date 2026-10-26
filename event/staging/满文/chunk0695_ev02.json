@@ -1,0 +1,58 @@
+{
+ "source_no": 3402,
+ "title_guess": "由祯密奏额伦特阵亡之战役详情折",
+ "reign_year": 58,
+ "month": 5,
+ "day_text": "十二日",
+ "event_role": "军务",
+ "summary": "密奏额伦特自青海进兵、于喀喇乌苏与噶尔丹贼交战及阵亡经过，并述官兵被围缺粮撤退情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "由祯",
+   "role": "密奏官员"
+  },
+  {
+   "name": "额伦特",
+   "role": "将军"
+  },
+  {
+   "name": "舒明",
+   "role": "参将"
+  },
+  {
+   "name": "色秩",
+   "role": "值班首领"
+  },
+  {
+   "name": "王教",
+   "role": "知州"
+  },
+  {
+   "name": "诺里勤达",
+   "role": "侍卫"
+  },
+  {
+   "name": "凤秀",
+   "role": "参将"
+  },
+  {
+   "name": "李右宁",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "青海",
+  "木鲁斯乌苏",
+  "多伦鄂洛木",
+  "齐伦郭勒",
+  "喀喇乌苏",
+  "小喀喇乌苏"
+ ],
+ "source_title": "和侦祯密奏额伦特阵之战役详情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 69502,
+ "page_range": "1603-1604"
+}

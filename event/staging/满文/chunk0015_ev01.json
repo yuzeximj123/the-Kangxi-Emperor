@@ -1,0 +1,30 @@
+{
+ "source_no": 70,
+ "title_guess": "山东巡抚佛伦奏请觐见折",
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "初一日",
+ "event_role": "请安谢恩",
+ "summary": "佛伦自述年老体衰，趁山东丰收、封印无事之际奏请赴京觐见皇上。",
+ "has_zhupi": true,
+ "zhupi_summary": "前日已有旨，仍遵前旨从速赴任，殊属要紧。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "阿勒珠",
+   "role": "佛伦之子"
+  }
+ ],
+ "places": [
+  "山东",
+  "京城"
+ ],
+ "source_title": "山东巡抚佛伦麦请岗见折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1501,
+ "page_range": "243-244"
+}

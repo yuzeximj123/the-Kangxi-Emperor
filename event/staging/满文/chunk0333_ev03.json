@@ -1,0 +1,29 @@
+{
+ "source_no": null,
+ "title_guess": "上谕山西巡抚苏克济",
+ "reign_year": 49,
+ "month": 1,
+ "day_text": "康熙四十九年正月二十四日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕山西巡抚苏克济，因皇太后七十诞辰将巡幸五台山，命地方官不得预备无用之物、聚集官民，否则降罪。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "五台山"
+ ],
+ "source_title": "上谕山西巡抚苏克济",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33303,
+ "page_range": "879-880"
+}

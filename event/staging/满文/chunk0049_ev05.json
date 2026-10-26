@@ -1,0 +1,31 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": null,
+ "day_text": "十三日",
+ "event_role": "军务",
+ "summary": "记十三日目送马思喀等起程追击，康熙亲领余兵返回，行六十五里次克呀和硕，并饬西路粮运接济。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马思喀",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "克鲁伦之克呀和硕",
+  "托陵",
+  "土拉"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4905,
+ "page_range": "311-312"
+}

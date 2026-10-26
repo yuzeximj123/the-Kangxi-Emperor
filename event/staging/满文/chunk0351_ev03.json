@@ -1,0 +1,39 @@
+{
+ "source_no": 1666,
+ "title_guess": "和社等奏报公颜尔盆病危折",
+ "reign_year": 49,
+ "month": 12,
+ "day_text": "初四日",
+ "event_role": "宫廷事务",
+ "summary": "据大夫孙之易、李德聪等报，公颇尔盆病自前月二十九日以来渐重、病势甚危，臣等受大夫等书奏闻，并附大夫诊治书。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：大夫等误人，以致如此。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "孙之易",
+   "role": "太医院院使"
+  },
+  {
+   "name": "段世臣",
+   "role": "外科大夫"
+  },
+  {
+   "name": "李德聪",
+   "role": "御医加四级"
+  },
+  {
+   "name": "颇尔盆",
+   "role": "正黄旗内大臣、公"
+  }
+ ],
+ "places": [],
+ "source_title": "筷社等奏报公颇和尔贫病危折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35103,
+ "page_range": "915-916"
+}

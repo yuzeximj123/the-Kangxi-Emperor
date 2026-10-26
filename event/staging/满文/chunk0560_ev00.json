@@ -1,0 +1,30 @@
+{
+ "source_no": 2826,
+ "title_guess": "湖广总督满丕奏请捐修江湖堤岸折",
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "二十八日",
+ "event_role": "河工水利",
+ "summary": "此为满丕奏折的结尾片段，请求圣主训示，拟会同湖北、湖南巡抚缮折具奏，并差家人杨寿列捧奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：很好。",
+ "people": [
+  {
+   "name": "满丕",
+   "role": "湖广总督"
+  },
+  {
+   "name": "杨寿列",
+   "role": "家人/差官"
+  }
+ ],
+ "places": [
+  "湖北",
+  "湖南"
+ ],
+ "source_title": "湖广间督满不秦请捐修江湖坦岸折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 56000,
+ "page_range": "1333-1334"
+}

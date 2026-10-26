@@ -1,0 +1,31 @@
+{
+ "source_no": 725,
+ "title_guess": "康熙帝上谕一纸",
+ "reign_year": 44,
+ "month": 5,
+ "day_text": "初六日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕尚书徐潮、革职留任阿山：河道总督张鹏翮虽被首告鞫审，但系现任之臣，不可犯话对质取供，应移咨取供。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "徐潮",
+   "role": "尚书"
+  },
+  {
+   "name": "阿山",
+   "role": "革职留任"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河道总督"
+  }
+ ],
+ "places": [],
+ "source_title": "康熙帝上谕一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 18302,
+ "page_range": "579-580"
+}

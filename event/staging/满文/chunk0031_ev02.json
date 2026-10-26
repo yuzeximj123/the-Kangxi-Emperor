@@ -1,0 +1,35 @@
+{
+ "source_no": 140,
+ "title_guess": "川陕总督佛伦奏报郭猴等人情形折",
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "二十七日",
+ "event_role": "弹劾参奏",
+ "summary": "佛伦遵旨奏报郭猴等小人议论徐乾学等事，称郭猴曾与徐乾学一同议论、钻营参劾。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "郭猴",
+   "role": "知县"
+  },
+  {
+   "name": "徐乾学",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山东",
+  "江南",
+  "京师"
+ ],
+ "source_title": "川陕总督佛伦奏报郭猴等人情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3102,
+ "page_range": "275-276"
+}

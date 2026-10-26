@@ -1,0 +1,46 @@
+{
+ "source_no": 1423,
+ "title_guess": "嵩祝奏报拿获偷控人参犯折",
+ "reign_year": 48,
+ "month": 5,
+ "day_text": "十三日",
+ "event_role": "司法案件",
+ "summary": "嵩祝遵旨到盛京查访姚姓道士与德琳合伙刨参事，报已拿获姚儿道，将军孟俄洛等正在审讯，同党及人参实数尚未供出。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，询问京城大臣所审案件如何了，令即写折奏来。",
+ "people": [
+  {
+   "name": "嵩祝",
+   "role": "奴才/钦差"
+  },
+  {
+   "name": "德琳",
+   "role": "闲散/案犯"
+  },
+  {
+   "name": "姚儿道",
+   "role": "道士/案犯"
+  },
+  {
+   "name": "孟俄洛",
+   "role": "将军"
+  },
+  {
+   "name": "杨福",
+   "role": "将军"
+  },
+  {
+   "name": "德特林",
+   "role": "章京"
+  }
+ ],
+ "places": [
+  "盛京",
+  "福陵"
+ ],
+ "source_title": "顺祝奏报拿获偷控人参犯折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 31002,
+ "page_range": "833-834"
+}

@@ -1,0 +1,29 @@
+{
+ "source_no": 507,
+ "title_guess": "西安将军博霁奏谢恩赏鹿尾野鸡折",
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "十八日",
+ "event_role": "请安谢恩",
+ "summary": "博霁奏称家人华喇于正月初九日抵西安，赍到皇上赏赐鹿尾、野鸡，恭设香案望阙谢恩，表示世世图报。",
+ "has_zhupi": true,
+ "zhupi_summary": "谢恩知道了。",
+ "people": [
+  {
+   "name": "博霁",
+   "role": "西安将军"
+  },
+  {
+   "name": "华喇",
+   "role": "博霁家人"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_title": "西安将军博霁奏谢恩赏鹿尾野鸡折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 13806,
+ "page_range": "489-490"
+}

@@ -1,0 +1,29 @@
+{
+ "source_no": 1627,
+ "title_guess": "奏报患病求医人员折",
+ "reign_year": 49,
+ "month": 7,
+ "day_text": "二十日",
+ "event_role": "宫廷事务",
+ "summary": "奏报本月十五日镶黄旗二等侍卫善福患痢疾求医、十六日正黄旗二等侍卫杜岱生漏疮求医。",
+ "has_zhupi": true,
+ "zhupi_summary": "询问京城痢疾患者多寡，并言此处亦有些。",
+ "people": [
+  {
+   "name": "善福",
+   "role": "镶黄旗二等侍卫"
+  },
+  {
+   "name": "杜岱",
+   "role": "正黄旗二等侍卫"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "人筷社等奏报患病求医人员折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 34505,
+ "page_range": "903-904"
+}

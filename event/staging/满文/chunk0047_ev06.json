@@ -1,0 +1,54 @@
+{
+ "source_no": null,
+ "title_guess": "谕大将军伯费扬古",
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "四月十三日",
+ "event_role": "军务",
+ "summary": "车克楚、奇萨等奏报在伊扎尔额尔济讷见噶尔丹踪影，遇沙津王所遣鄂齐尔等告称噶尔丹诱称率俄罗斯兵顺克鲁伦而下；康熙帝据此谕费扬古严防堵截，勿轻其来下游。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "车克楚",
+   "role": "摆牙喇甲喇章京"
+  },
+  {
+   "name": "奇萨",
+   "role": "前锋侍卫"
+  },
+  {
+   "name": "穆扎哈尔",
+   "role": "喀尔喀贝子彭楚克之侍卫"
+  },
+  {
+   "name": "沙津",
+   "role": "科尔沁土谢图亲王"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "使者"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "伊扎尔额尔济讷",
+  "克鲁伦",
+  "土拉",
+  "达尔罕奥拉",
+  "巴颜乌兰",
+  "翁金"
+ ],
+ "source_title": "谕大将军伯费扬古",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4706,
+ "page_range": "307-308"
+}

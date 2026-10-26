@@ -1,0 +1,56 @@
+{
+ "source_no": 271,
+ "title_guess": "康熙帝朱论",
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十一日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大将军费扬古，述已抵宣府、噶尔丹穷困，议令孙思克等领兵出嘉峪关或取道哈密、巴里坤，并欲亲往宁夏视军粮。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "博霁",
+   "role": "将军"
+  },
+  {
+   "name": "车克楚",
+   "role": "四喇章京"
+  },
+  {
+   "name": "僧图",
+   "role": "御前侍卫"
+  },
+  {
+   "name": "保柱",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "宣府",
+  "宁夏",
+  "萨克萨图古里克",
+  "格格特哈郎十特",
+  "伊克奥兰",
+  "嘉峪关",
+  "哈密",
+  "巴里坤"
+ ],
+ "source_title": "康熙帝剑论",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6901,
+ "page_range": "351-352"
+}

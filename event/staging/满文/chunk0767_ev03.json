@@ -1,0 +1,40 @@
+{
+ "source_no": 3692,
+ "title_guess": "康熙帝上谕一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "钱粮财政",
+ "summary": "赏富宁安银五千两，阿保、巴济各二千两，路振声一千两，前锋统领副都统各五百两，自绰奇处支给。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "富宁安",
+   "role": "受赏官员"
+  },
+  {
+   "name": "阿保",
+   "role": "受赏官员"
+  },
+  {
+   "name": "巴济",
+   "role": "受赏官员"
+  },
+  {
+   "name": "路振声",
+   "role": "受赏官员"
+  },
+  {
+   "name": "绰奇",
+   "role": "支给银两官员"
+  }
+ ],
+ "places": [],
+ "source_title": "康熙天上谕一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76703,
+ "page_range": "1747-1748",
+ "_date_interpolated": true
+}

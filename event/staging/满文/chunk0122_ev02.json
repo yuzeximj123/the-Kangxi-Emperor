@@ -1,0 +1,27 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "记载皇上、皇太子每餐饭桌及养心殿新满洲、太监喇嘛、讲官等各盘菜数，每盘三样菜及牌桌用菜，并裁去清酱瓜一项。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "皇上",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12202,
+ "page_range": "457-458",
+ "_date_interpolated": true
+}

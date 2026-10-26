@@ -1,0 +1,49 @@
+{
+ "source_no": 1753,
+ "title_guess": "息社等请安并报筷禄平安回京折",
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "初十日",
+ "event_role": "请安谢恩",
+ "summary": "息社等恭请皇父万安，报初九日收到初七日请安折回音，并称筷禄初八日到京、沿途甚好。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安，气色渐好。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "筷禄",
+   "role": "回京人员"
+  },
+  {
+   "name": "乱柱",
+   "role": "奏事臣"
+  },
+  {
+   "name": "凑福",
+   "role": "奏事臣"
+  },
+  {
+   "name": "关被",
+   "role": "奏事臣"
+  },
+  {
+   "name": "商祥",
+   "role": "奏事臣"
+  },
+  {
+   "name": "丙神",
+   "role": "奏事臣"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "项社等请安并报关禄平安回京折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 36503,
+ "page_range": "943-944"
+}

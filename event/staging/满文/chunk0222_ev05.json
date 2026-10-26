@@ -1,0 +1,31 @@
+{
+ "source_no": 941,
+ "title_guess": "息社等奏报大阿哥福晋病势折",
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "二十八日",
+ "event_role": "宫廷事务",
+ "summary": "奏报大阿哥福晋自二十六七日起突然出血、病势可危，并附大夫所呈汉字文书。",
+ "has_zhupi": true,
+ "zhupi_summary": "应遣彻医、喇嘛诊视。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "刘声芳",
+   "role": "大夫"
+  },
+  {
+   "name": "大阿哥福晋",
+   "role": "病人"
+  }
+ ],
+ "places": [],
+ "source_title": "筷社等奏报大阿哥福晋病势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 22205,
+ "page_range": "657-658"
+}

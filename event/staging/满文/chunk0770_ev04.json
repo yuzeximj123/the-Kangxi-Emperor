@@ -1,0 +1,26 @@
+{
+ "source_no": 3725,
+ "title_guess": "内务府总管哈雅尔图奏报景山草割完日期折",
+ "reign_year": 62,
+ "month": 8,
+ "day_text": "闰七月二十四日开始，八月初四日割完",
+ "event_role": "宫廷事务",
+ "summary": "奏报景山之草自闰七月二十四日开始刈割，八月初四日割完。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "哈雅尔图",
+   "role": "内务府总管"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_title": "内务府总管哈雅尔图奏报景山草割完日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 77004,
+ "page_range": "1753-1754",
+ "_date_interpolated": true
+}

@@ -1,0 +1,63 @@
+{
+ "source_no": 57,
+ "title_guess": "两江总督傅拉塔奏陈枉遭江苏巡抚郑端诬陷折",
+ "reign_year": 31,
+ "month": 1,
+ "day_text": "初十日",
+ "event_role": "弹劾参奏",
+ "summary": "傅拉塔奏陈江苏巡抚郑端凶险逢迎、施计诬陷自己，并述郑端审理嘉定县案及参劾按察使高承琐等情，自陈前不识郑端面目，据实奏闻。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "傅拉塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "郑端",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "官员"
+  },
+  {
+   "name": "徐乾学",
+   "role": "官员"
+  },
+  {
+   "name": "熊赐履",
+   "role": "汉臣重臣"
+  },
+  {
+   "name": "高承琐",
+   "role": "按察使"
+  },
+  {
+   "name": "王凤荣",
+   "role": "郑端旧友"
+  },
+  {
+   "name": "徐树敏",
+   "role": "徐乾学之子"
+  },
+  {
+   "name": "吴忠",
+   "role": "首告之民"
+  }
+ ],
+ "places": [
+  "常州府",
+  "嘉定县",
+  "苏州府"
+ ],
+ "source_title": "两江总督傅拉塔奏陈枉遭江苏巡抚郑端诬陷折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1200,
+ "page_range": "237-238"
+}

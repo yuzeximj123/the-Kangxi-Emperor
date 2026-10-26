@@ -1,0 +1,54 @@
+{
+ "source_no": 1335,
+ "title_guess": "江南总督邵穆布奏请宽留疏防文武各官折",
+ "reign_year": 47,
+ "month": 8,
+ "day_text": "初四日",
+ "event_role": "弹劾参奏",
+ "summary": "邵穆布奏陈会审盗案及拿获一念、朱三等情形，并请宽宥疏防文武各员留任以观后效。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批：说的是，照此具题奏来。",
+ "people": [
+  {
+   "name": "邵穆布",
+   "role": "江南总督"
+  },
+  {
+   "name": "穆丹",
+   "role": "侍郎"
+  },
+  {
+   "name": "张廷独",
+   "role": "原吴县知县"
+  },
+  {
+   "name": "朱三",
+   "role": "案犯"
+  },
+  {
+   "name": "于翔麟",
+   "role": "庐州府知府"
+  },
+  {
+   "name": "刘光美",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "赵世显",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江南",
+  "苏州",
+  "庐州",
+  "山东",
+  "杭州"
+ ],
+ "source_title": "江南总督邵穆布考请宽留朴防文武各家拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 29603,
+ "page_range": "805-806"
+}

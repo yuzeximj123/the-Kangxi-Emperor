@@ -1,0 +1,30 @@
+{
+ "source_no": 2865,
+ "title_guess": "甘肃巡抚绰奇奏报运哈密瓜往京城折",
+ "reign_year": 55,
+ "month": 8,
+ "day_text": "二十七日",
+ "event_role": "宫廷事务",
+ "summary": "绰奇奏报派守备赵仲赴哈密取瓜，抵肃州挑选六百个运往京城。",
+ "has_zhupi": true,
+ "zhupi_summary": "今正有军事之时，这不是有用之物，著暂停。",
+ "people": [
+  {
+   "name": "绰奇",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "赵仲",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "哈密",
+  "肃州"
+ ],
+ "source_title": "甘肃巡抚绰奇奏报运哈密瓜往京城折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 56804,
+ "page_range": "1349-1350"
+}

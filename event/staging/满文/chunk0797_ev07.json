@@ -1,0 +1,42 @@
+{
+ "source_no": 3952,
+ "title_guess": "步军统领隆科多奏请将擒贼不力官员视其轻重分别惩处折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "七月二十七日",
+ "event_role": "弹劾参奏",
+ "summary": "奏报拿获强盗魏国珍等十一贼，讯明各营官惧革职而不缉拿，请视轻重分别惩处。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "魏国珍",
+   "role": "强盗"
+  },
+  {
+   "name": "李英子",
+   "role": "大夫"
+  },
+  {
+   "name": "沈建双",
+   "role": "候九品缺"
+  },
+  {
+   "name": "朱廷强",
+   "role": "开银号者"
+  }
+ ],
+ "places": [
+  "三门关厢"
+ ],
+ "source_title": "步军统领隆科多奏请将擒贼不力官员视其轻重分别惩处折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79707,
+ "page_range": "1807-1808",
+ "_date_interpolated": true
+}

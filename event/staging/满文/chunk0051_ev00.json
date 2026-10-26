@@ -1,0 +1,41 @@
+{
+ "source_no": 195,
+ "title_guess": "噶尔丹博硕克图呈巴图尔台吉将",
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "初三日",
+ "event_role": "边疆事务",
+ "summary": "噶尔丹博硕克图汗致书巴图尔台吉，叙述与满洲使者往来及丹济拉等情，请求速传达赖喇嘛之旨并帮助诵经使者往返。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "噶尔丹博硕克图汗",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "丹济拉",
+   "role": "噶尔丹部属"
+  },
+  {
+   "name": "丹津旺布",
+   "role": "蒙古台吉"
+  },
+  {
+   "name": "喇克巴盆楚克格隆",
+   "role": "诵经喇嘛"
+  },
+  {
+   "name": "泽布丹",
+   "role": "使者"
+  }
+ ],
+ "places": [
+  "洪郭罗"
+ ],
+ "source_title": "噶尔丹博硕克图呈巴图尔台吉将",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5100,
+ "page_range": "315-316"
+}

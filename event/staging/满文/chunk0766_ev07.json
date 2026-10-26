@@ -1,0 +1,31 @@
+{
+ "source_no": 3689,
+ "title_guess": "康熙帝上谕一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "上谕将带来锡伯人等交户部会同带领大臣，勿分父子兄弟，均匀分给八旗，补德州等四城、昌平等十二城裁撤披甲之缺。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "班第",
+   "role": "内大臣"
+  },
+  {
+   "name": "费扬古",
+   "role": "公"
+  }
+ ],
+ "places": [
+  "德州",
+  "昌平"
+ ],
+ "source_title": "康熙希上谕一纺",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76607,
+ "page_range": "1745-1746",
+ "_date_interpolated": true
+}

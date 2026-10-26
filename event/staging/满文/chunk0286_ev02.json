@@ -1,0 +1,33 @@
+{
+ "source_no": 1281,
+ "title_guess": "山西巡抚噶礼奏报舒赫德呈请病退折",
+ "reign_year": 47,
+ "month": 3,
+ "day_text": "康熙四十七年闰三月十八日",
+ "event_role": "人事任免",
+ "summary": "山西巡抚噶礼奏报：奉旨雍泰之缺派妥员，舒赫德患病应停止；噶礼查舒赫德病不愈，故请退职，已具折上报。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "舒赫德",
+   "role": "患病官员"
+  },
+  {
+   "name": "雍泰",
+   "role": "出缺官员"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_title": "山西巡抚噶礼考报舒赫德呈请病生",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 28602,
+ "page_range": "785-786"
+}

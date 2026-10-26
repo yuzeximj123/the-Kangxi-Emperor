@@ -1,0 +1,35 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "片段：奏报擒获山东民赵三、王三、孙二强盗解送刑部，粮价平稳，京城太平无传言。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "赵三",
+   "role": "强盗"
+  },
+  {
+   "name": "王三",
+   "role": "强盗"
+  },
+  {
+   "name": "孙二",
+   "role": "强盗"
+  }
+ ],
+ "places": [
+  "狗尿河",
+  "板桥"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79700,
+ "page_range": "1807-1808",
+ "_date_interpolated": true
+}

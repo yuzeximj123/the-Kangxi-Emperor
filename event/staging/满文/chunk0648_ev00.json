@@ -1,0 +1,107 @@
+{
+ "source_no": null,
+ "title_guess": "内务府奏请审理赌钱太监案折",
+ "reign_year": 57,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "此为前件奏折残余片段，记载对容赌民人郑二、赌钱太监杨宏玉等及失察头目、内管领等的治罪拟议，并请旨定夺。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "郑二",
+   "role": "容赌民人"
+  },
+  {
+   "name": "杨宏玉",
+   "role": "赌钱太监"
+  },
+  {
+   "name": "朱文啸",
+   "role": "赌钱太监"
+  },
+  {
+   "name": "杨廷贵",
+   "role": "赌钱太监"
+  },
+  {
+   "name": "狄云",
+   "role": "赌钱太监"
+  },
+  {
+   "name": "赵国宁",
+   "role": "大太监"
+  },
+  {
+   "name": "罗志良",
+   "role": "大太监"
+  },
+  {
+   "name": "刘金灿",
+   "role": "大太监"
+  },
+  {
+   "name": "苏京",
+   "role": "大太监"
+  },
+  {
+   "name": "王金钟",
+   "role": "大太监"
+  },
+  {
+   "name": "刘守义",
+   "role": "大太监"
+  },
+  {
+   "name": "刘保柱",
+   "role": "内管领"
+  },
+  {
+   "name": "白玲",
+   "role": "内管领"
+  },
+  {
+   "name": "安布里",
+   "role": "内管领"
+  },
+  {
+   "name": "克色里",
+   "role": "副内管领"
+  },
+  {
+   "name": "董典邦",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "钟保",
+   "role": "慎刑司员外郎"
+  },
+  {
+   "name": "额勒泰",
+   "role": "慎刑司员外郎"
+  },
+  {
+   "name": "莫尔奇",
+   "role": "主事"
+  },
+  {
+   "name": "阿锡普",
+   "role": "刑部左侍郎兼署仓场衙门事务"
+  },
+  {
+   "name": "瓜喇",
+   "role": "督捕司郎中"
+  }
+ ],
+ "places": [
+  "热河",
+  "售山"
+ ],
+ "source_title": "内务府奏请审理赌钱太监案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 64800,
+ "page_range": "1509-1510",
+ "_date_interpolated": true
+}

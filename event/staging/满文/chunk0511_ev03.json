@@ -1,0 +1,33 @@
+{
+ "source_no": 2620,
+ "title_guess": "议政大臣苏努等奏请停遣王纳木札尔子弟往军中折",
+ "reign_year": 54,
+ "month": 6,
+ "day_text": "十四日",
+ "event_role": "边疆事务",
+ "summary": "喀尔喀郡王纳木札尔因眼疾请派子弟赴军效力并请兵器出口票文，议政大臣议停遣其子弟、于本旗预备，准其采买军器给票。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。",
+ "people": [
+  {
+   "name": "苏努",
+   "role": "议政大臣固山贝子都统"
+  },
+  {
+   "name": "纳木札尔",
+   "role": "喀尔喀扎萨克多罗郡王"
+  },
+  {
+   "name": "纳木卡尔",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_title": "议政大臣苏努等奏请停遗王纳木杞尔子弟往军中折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 51103,
+ "page_range": "1235-1236"
+}

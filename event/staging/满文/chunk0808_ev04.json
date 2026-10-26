@@ -1,0 +1,30 @@
+{
+ "source_no": 4033,
+ "title_guess": "步军统领隆科多奏报护军校保德前往热河等事折",
+ "reign_year": 3,
+ "month": 4,
+ "day_text": "四月内",
+ "event_role": "司法案件",
+ "summary": "隆科多奏闻景祠公包衣佐领下护军校保德于四月出逃、妻子已送部办禁，今保德前往热河，景祠公与康王属下人四处打听其消息。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "保德",
+   "role": "护军校"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_title": "步军统领隆科多奏报护宰校保德前往热河吨阀等事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80804,
+ "page_range": "1829-1830",
+ "_date_interpolated": true
+}

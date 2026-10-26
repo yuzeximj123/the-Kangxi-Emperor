@@ -1,0 +1,48 @@
+{
+ "source_no": 2294,
+ "title_guess": "福建巡抚满保奏陈审案有误缘由折",
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "二十一日",
+ "event_role": "司法案件",
+ "summary": "福建巡抚满保奏陈陈五显案复审情形，承认前审有误，议拟游击林发、周乐、守备申健发配边疆充军，并自陈未经核查即列名奏稿之罪。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "范时尝",
+   "role": "总督"
+  },
+  {
+   "name": "林发",
+   "role": "漳州游击"
+  },
+  {
+   "name": "周乐",
+   "role": "提标游击"
+  },
+  {
+   "name": "申健",
+   "role": "守备"
+  },
+  {
+   "name": "陈五显",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "福建",
+  "漳州",
+  "太湖崖",
+  "峡堤"
+ ],
+ "source_title": "福建负抚满保考陈审案有误缘由折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 45404,
+ "page_range": "1121-1122"
+}

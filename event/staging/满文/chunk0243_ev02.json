@@ -1,0 +1,43 @@
+{
+ "source_no": 1058,
+ "title_guess": "武英殿总监造赫世享等奏报西洋人感谢折",
+ "reign_year": 46,
+ "month": 2,
+ "day_text": "十一日",
+ "event_role": "外藩朝贡",
+ "summary": "赫世享、赵昌奏报闵明鄂等接龙安国、薄贤士信，西洋人感谢皇上洪恩并祈万寿无疆。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：知道了。",
+ "people": [
+  {
+   "name": "赫世享",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "赵昌",
+   "role": "奏事臣"
+  },
+  {
+   "name": "闵明鄂",
+   "role": "西洋人"
+  },
+  {
+   "name": "龙安国",
+   "role": "西洋人"
+  },
+  {
+   "name": "薄贤士",
+   "role": "西洋人"
+  }
+ ],
+ "places": [
+  "广东府",
+  "海口",
+  "西洋"
+ ],
+ "source_title": "武英暴总监造灰世享等考报西洋人感谢折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 24302,
+ "page_range": "699-700"
+}

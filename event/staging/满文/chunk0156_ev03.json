@@ -1,0 +1,31 @@
+{
+ "source_no": 589,
+ "title_guess": "山西巡抚噶礼奏请增建御书楼折",
+ "reign_year": 43,
+ "month": 4,
+ "day_text": "十八日",
+ "event_role": "宫廷事务",
+ "summary": "噶礼奏请增建御书楼并乞赐康熙楷书字勒石，又请准取梅玉峰来临摹御书。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称前造御书楼甚为宽大完全可容纳，着停止再行增建，于其中均匀放置即可；若来接梅玉峰则即遣之去。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "梅玉峰",
+   "role": "临摹御书者"
+  }
+ ],
+ "places": [
+  "山西",
+  "五台山",
+  "京城"
+ ],
+ "source_title": "山西巡抚噶礼奏请增建御书楼折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 15603,
+ "page_range": "525-526"
+}

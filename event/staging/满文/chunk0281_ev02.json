@@ -1,0 +1,29 @@
+{
+ "source_no": 1255,
+ "title_guess": "甘肃巡抚齐世武奏请万安折",
+ "reign_year": 47,
+ "month": 1,
+ "day_text": "二十六日",
+ "event_role": "请安谢恩",
+ "summary": "甘肃巡抚齐世武恭请皇上万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕安，尔好？宁夏总兵张开原有人言善有人言极劣，著以尔所知密折奏来。",
+ "people": [
+  {
+   "name": "齐世武",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "张开原",
+   "role": "宁夏总兵"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_title": "甘肃巡抚齐世武厌请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 28102,
+ "page_range": "775-776"
+}

@@ -1,0 +1,57 @@
+{
+ "source_no": 2373,
+ "title_guess": "川陕总督鄂海奏闻万民诵经仰祈圣寿折",
+ "reign_year": 53,
+ "month": 3,
+ "day_text": "十四日",
+ "event_role": "请安谢恩",
+ "summary": "川陕总督鄂海奏报西安满汉官民自三月初一起于广仁寺诵经敬祷圣寿，并会同将军、巡抚等赴华山诵经九日。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "席柱",
+   "role": "将军"
+  },
+  {
+   "name": "巴尔布",
+   "role": "副都统"
+  },
+  {
+   "name": "准泰",
+   "role": "巡抚"
+  },
+  {
+   "name": "噶尔毕",
+   "role": "副都统"
+  },
+  {
+   "name": "杨昌泰",
+   "role": "副都统"
+  },
+  {
+   "name": "陈吉范",
+   "role": "西凤县副将"
+  },
+  {
+   "name": "张梅",
+   "role": "凤翔府知府"
+  }
+ ],
+ "places": [
+  "西安",
+  "广仁寺",
+  "华山",
+  "凤翔府",
+  "武山"
+ ],
+ "source_title": "川陕总督吾海奏闻万民请经仲祈圣寿折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 46702,
+ "page_range": "1147-1148"
+}

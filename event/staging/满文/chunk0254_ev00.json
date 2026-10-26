@@ -1,0 +1,49 @@
+{
+ "source_no": 1107,
+ "title_guess": "山西巡抚噶礼奏报巴哈布财多人众折",
+ "reign_year": 46,
+ "month": 4,
+ "day_text": "二十七日",
+ "event_role": "弹劾参奏",
+ "summary": "噶礼奏称巴哈布与蔡煌勾结行贿袁桥参劾自己，指出张二、李才峰知情，巴哈布等匿不报，蔡煌、王军已死逃，请圣主睿鉴。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "巴哈布",
+   "role": "被参官员"
+  },
+  {
+   "name": "蔡煌",
+   "role": "涉案人员"
+  },
+  {
+   "name": "袁桥",
+   "role": "参劾者"
+  },
+  {
+   "name": "张二",
+   "role": "知情人"
+  },
+  {
+   "name": "李才峰",
+   "role": "知情人"
+  },
+  {
+   "name": "王军",
+   "role": "蔡煌家人"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_title": "山西巡抚噶礼奏报巴哈布财多人众折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25400,
+ "page_range": "721-722"
+}

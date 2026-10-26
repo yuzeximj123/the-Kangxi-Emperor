@@ -1,0 +1,33 @@
+{
+ "source_no": 4122,
+ "title_guess": "议政大臣奏进咨行总督年羹尧之文稿",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政大臣咨行总督年羹尧，责其奏折误写提督路振声之名及地名，且不奏军粮形势等要事，反以琐事劳驿站，令嗣后琐事候便报送。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "总督"
+  },
+  {
+   "name": "路振声",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "肃州",
+  "巴里坤",
+  "瓜州",
+  "沙州"
+ ],
+ "source_title": "议政大臣奏进次行总督年羹尧之文稿",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82903,
+ "page_range": "1871-1872",
+ "_date_interpolated": true
+}

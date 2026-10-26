@@ -1,0 +1,36 @@
+{
+ "source_no": 603,
+ "title_guess": "西安将军博霁奏报夏粮收成分数折",
+ "reign_year": 43,
+ "month": 5,
+ "day_text": "二十九日",
+ "event_role": "灾情收成",
+ "summary": "博霁奏报西安、凤翔、汉中、兴安等地夏粮收成八至十分，并报延安、甘肃雨水田禾情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "博霁",
+   "role": "西安将军"
+  },
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "汉中",
+  "兴安州",
+  "延安府",
+  "平凉",
+  "庆阳",
+  "河西"
+ ],
+ "source_title": "西安将军博雾考报夏粮收成分数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 15805,
+ "page_range": "529-530"
+}

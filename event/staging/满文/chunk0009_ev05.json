@@ -1,0 +1,29 @@
+{
+ "source_no": 48,
+ "title_guess": "山东巡抚佛伦奏报山东省麦子收成分数折",
+ "reign_year": 30,
+ "month": 6,
+ "day_text": "初十日",
+ "event_role": "灾情收成",
+ "summary": "佛伦遵旨奏报山东各府州县麦子收成分数：济南府合计五分余，兖州府七分，东昌府六分，青州府七分，莱州府部分州县六七分。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "济南府",
+  "兖州府",
+  "东昌府",
+  "青州府",
+  "莱州府"
+ ],
+ "source_title": "山东巡抚佛伦奏报山东省麦子收成分数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 905,
+ "page_range": "231-232"
+}

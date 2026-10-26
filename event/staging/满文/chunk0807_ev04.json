@@ -1,0 +1,40 @@
+{
+ "source_no": null,
+ "title_guess": "上谕：密访德林行止折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "上谕：盛京佛保之兄阿哈占之子德林行止不端狂妄，传闻已死但恐有隐情，其自海上来至天津、登州等地，令隆科多尽力密访，若在京即执之奏来。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "佛保",
+   "role": "盛京官员"
+  },
+  {
+   "name": "阿哈占",
+   "role": "佛保之兄"
+  },
+  {
+   "name": "德林",
+   "role": "阿哈占之子"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [
+  "盛京",
+  "天津",
+  "登州"
+ ],
+ "source_title": "上谕：密访德林行止折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80704,
+ "page_range": "1827-1828",
+ "_date_interpolated": true
+}

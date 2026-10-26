@@ -1,0 +1,42 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "七月十五日",
+ "event_role": "边疆事务",
+ "summary": "商南多尔济辩称班禅来觐事因班禅、达赖喇嘛、第巴皆已保题故亦奏其将来，并非为遮颜行事，唯期说服青海台吉往觐圣明效力；并述七月十五日与阿南达言及欲派拉藏等往西地之事。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "商南多尔济",
+   "role": "喇嘛"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "扎西巴图鲁",
+   "role": "青海亲王"
+  },
+  {
+   "name": "拉藏",
+   "role": "台吉"
+  },
+  {
+   "name": "车臣台吉",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "西地"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12708,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

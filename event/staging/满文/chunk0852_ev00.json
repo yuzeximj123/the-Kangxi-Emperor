@@ -1,0 +1,47 @@
+{
+ "source_no": 4233,
+ "title_guess": "为皇太后皇子公主等预备猪鹅鸡等数目清单",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "记载为皇太后、妃嫔、皇子公主及各色人等预备猪鹅鸡等肉食数目，并附驼车运输及广储司、掌仪司、药房、武备院、庆丰司所带物品清单。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  },
+  {
+   "name": "皇上",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "三阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "四阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "乾清宫"
+ ],
+ "source_title": "为皇太后皇子公主等预备猪锥鸡等数目清单",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85200,
+ "page_range": "1917-1918",
+ "_date_interpolated": true
+}

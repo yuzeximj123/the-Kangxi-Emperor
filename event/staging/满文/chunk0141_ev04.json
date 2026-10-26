@@ -1,0 +1,33 @@
+{
+ "source_no": 523,
+ "title_guess": "康熙帝抄谕一纸",
+ "reign_year": 42,
+ "month": 6,
+ "day_text": "十四日",
+ "event_role": "宫廷事务",
+ "summary": "康熙帝谕赫世享，闻外科医生软继训已故，令传集西洋人赏赐并速寻外科医生预备。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "赫世享",
+   "role": "官员"
+  },
+  {
+   "name": "软继训",
+   "role": "外科医生"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "澳门"
+ ],
+ "source_title": "康熙帝抄谕一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 14104,
+ "page_range": "495-496"
+}

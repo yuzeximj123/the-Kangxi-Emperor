@@ -1,0 +1,34 @@
+{
+ "source_no": 3614,
+ "title_guess": "山西巡抚德音奏报各地方多积贮粮米折",
+ "reign_year": 61,
+ "month": 5,
+ "day_text": "二十日",
+ "event_role": "钱粮财政",
+ "summary": "德音奏报直隶、山东、河南、山西积贮粮米数额，请将山西贡监捐纳之例再行一年以多贮粮米。",
+ "has_zhupi": true,
+ "zhupi_summary": "现军需处捐纳者甚多，若于山西捐纳是舍近求远，暂缓再观察。",
+ "people": [
+  {
+   "name": "德音",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "朱石",
+   "role": "承查大臣"
+  }
+ ],
+ "places": [
+  "直隶",
+  "山东",
+  "河南",
+  "山西",
+  "平阳",
+  "汾州"
+ ],
+ "source_title": "山西巡抚德音奏报各地方多积贮粮米折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 75106,
+ "page_range": "1715-1716"
+}

@@ -1,0 +1,44 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 58,
+ "month": 1,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "此为前一件奏折的残余片段，仅列和硕诚亲王凯社、贝子筷宰、议政大臣巴浑德、马齐、徐元梦、赫寿等王大臣及官员衔名，无正文内容。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "凯社",
+   "role": "和硕诚亲王"
+  },
+  {
+   "name": "筷宰",
+   "role": "固山贝子"
+  },
+  {
+   "name": "巴浑德",
+   "role": "议政大臣领侍卫内大臣"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元梦",
+   "role": "议政大臣工部尚书"
+  },
+  {
+   "name": "赫寿",
+   "role": "议政大臣理藩院尚书"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 67600,
+ "page_range": "1565-1566",
+ "_date_interpolated": true
+}

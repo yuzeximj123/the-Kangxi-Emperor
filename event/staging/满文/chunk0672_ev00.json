@@ -1,0 +1,34 @@
+{
+ "source_no": 3295,
+ "title_guess": "吏部尚书富宁安奏为道士称以神法进兵折",
+ "reign_year": 57,
+ "month": 12,
+ "day_text": "十二日",
+ "event_role": "军务",
+ "summary": "富宁安密奏李庆安称将率八百兵丁于三月先取吐鲁番、以神法进剿策妄喇布坦，富宁安质疑其轻率并请训示。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称将军之言甚是，命议政处会议后行文，令富宁安详加询议急速具奏。",
+ "people": [
+  {
+   "name": "富宁安",
+   "role": "吏部尚书/将军"
+  },
+  {
+   "name": "李庆安",
+   "role": "道士"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "敌酋"
+  }
+ ],
+ "places": [
+  "巴里坤",
+  "吐鲁番"
+ ],
+ "source_title": "吏部尚书富宁安奏为道士称以神法进兵折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 67200,
+ "page_range": "1557-1558"
+}

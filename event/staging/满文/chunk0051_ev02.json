@@ -1,0 +1,37 @@
+{
+ "source_no": 197,
+ "title_guess": "康熙帝论费扬古为办理噶尔丹战和事",
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "十六日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大将军费扬古，指示对丹济拉、噶尔丹来使的处置办法，令其速返招降并加意防备马匹，自述将于九月十九日出兵往归化城。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军、伯"
+  },
+  {
+   "name": "丹济拉",
+   "role": "噶尔丹部属"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_title": "康熙帝论费扬古为办理噶尔丹吉和事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5102,
+ "page_range": "315-316"
+}

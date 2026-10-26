@@ -1,0 +1,51 @@
+{
+ "source_no": 176,
+ "title_guess": "皇太子息初奏为赞颂康熙帝战功折",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十五日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子接谕旨后奏赞康熙帝战功，称厄鲁特内部交战败逃，请皇太后及皇父安，并报德木楚克台吉来告归降伯费扬古军者名单。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德木楚克台吉",
+   "role": "来告者"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "阿布都什汗",
+   "role": "归降回子"
+  },
+  {
+   "name": "车污札布台吉",
+   "role": "归降乌勒昆台吉"
+  },
+  {
+   "name": "巴图尔台殊",
+   "role": "归降者"
+  },
+  {
+   "name": "古鲁墨尔根台吉",
+   "role": "归降者"
+  }
+ ],
+ "places": [],
+ "source_title": "皇太子息初奏为村颂康熙帝战功折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4203,
+ "page_range": "297-298"
+}

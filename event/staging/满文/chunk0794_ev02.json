@@ -1,0 +1,35 @@
+{
+ "source_no": 3924,
+ "title_guess": "步军统领隆科多奏报只领朱批奏折及京城粮价折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月二十三日",
+ "event_role": "钱粮财政",
+ "summary": "隆科多奏报领到朱批及年羹尧奏折，京城宁靖无谣言，粮价平稳；朱批告知康熙身体大安并提及年羹尧、罗布藏丹津等事。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了，朕体大安；虽为太后母之事而情，思念皇父梓宫之心未释；二十四日后甚畅快；不要为朕发愁；外面情况顺善；并告知年羹尧奏报及罗布藏丹津事未完结等。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "年羹尧",
+   "role": "总督"
+  },
+  {
+   "name": "罗布藏丹津",
+   "role": "蒙古首领"
+  }
+ ],
+ "places": [
+  "京城",
+  "西宁"
+ ],
+ "source_title": "步军统领隆科多奏报只领朱批奏折及京城粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79402,
+ "page_range": "1801-1802",
+ "_date_interpolated": true
+}

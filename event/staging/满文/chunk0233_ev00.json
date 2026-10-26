@@ -1,0 +1,31 @@
+{
+ "source_no": null,
+ "title_guess": "大夫诊治书",
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "九月二十日",
+ "event_role": "宫廷事务",
+ "summary": "李德聪、戴君选奏报八贝勒病情及诊治经过，称其因多服药饵致险，现脉息时好时复，仍属险大。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：用心调理。",
+ "people": [
+  {
+   "name": "李德聪",
+   "role": "大夫"
+  },
+  {
+   "name": "戴君选",
+   "role": "大夫"
+  },
+  {
+   "name": "八贝勒",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_title": "大夫诊治书",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23300,
+ "page_range": "679-680"
+}

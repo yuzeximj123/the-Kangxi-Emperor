@@ -1,0 +1,32 @@
+{
+ "source_no": 1123,
+ "title_guess": "山西巡抚噶礼奏报大同知府李恕贪赃劣迹折",
+ "reign_year": 46,
+ "month": 6,
+ "day_text": "初四日",
+ "event_role": "弹劾参奏",
+ "summary": "噶礼参奏大同知府李恕纵属私派、向当铺取铜铸劣质元宝给兵、贪卖仓粮，已奉旨革职严问，但刑部久不移文，且李恕子辈出入江浙驻地，具折奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "李恕",
+   "role": "大同府知府"
+  }
+ ],
+ "places": [
+  "山西",
+  "大同",
+  "大兴县",
+  "平阳府"
+ ],
+ "source_title": "山西巡抚噶礼奏报大同知府李恕贪赃劣迹折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25701,
+ "page_range": "727-728"
+}

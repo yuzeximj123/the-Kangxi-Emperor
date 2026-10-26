@@ -1,0 +1,42 @@
+{
+ "source_no": 252,
+ "title_guess": "两江总督范承勋奏请全免江南灾区地丁钱粮折",
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "二十四日",
+ "event_role": "钱粮财政",
+ "summary": "范承勋奏陈淮安、扬州、徐州及泗州被水灾民困苦，请全免地丁钱粮、漕运粮米并开常平仓捐纳赈济，以副圣主爱民之意。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：尔所奏都知道了，腾将另有由。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "宋荦",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "陈汝器",
+   "role": "巡抚"
+  },
+  {
+   "name": "桑额",
+   "role": "漕运总督"
+  }
+ ],
+ "places": [
+  "淮安",
+  "扬州",
+  "徐州",
+  "泗州",
+  "江南",
+  "江西"
+ ],
+ "source_title": "两江总叔范承肌故请全免江南灾区地于钱粮折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6401,
+ "page_range": "341-342"
+}

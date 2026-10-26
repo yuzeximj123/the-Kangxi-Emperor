@@ -1,0 +1,33 @@
+{
+ "source_no": 1007,
+ "title_guess": "陕西巡抚鄂海奏报秋粮收成分数折",
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "初六日",
+ "event_role": "灾情收成",
+ "summary": "鄂海奏报陕西各府州秋粮收成，西安等府七八分至十分，延安府六七分至九分，粮价贱、百姓丰裕。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "博雷",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "汉中",
+  "兴安",
+  "延安"
+ ],
+ "source_title": "陕西巡抚畦海奏报秋粮收成分数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23306,
+ "page_range": "679-680"
+}

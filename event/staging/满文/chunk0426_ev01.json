@@ -1,0 +1,38 @@
+{
+ "source_no": 2118,
+ "title_guess": "杭州织造孙文成奏请总督遣官招抚海贼折",
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "二十日",
+ "event_role": "军务",
+ "summary": "孙文成奏报海贼头目张向锋派邓昌实向总督范时崇呈文，称有海贼一百八十余人乘船泊于浙江台山海面，请遣官招抚。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "张向锋",
+   "role": "海贼头目"
+  },
+  {
+   "name": "邓昌实",
+   "role": "海贼"
+  },
+  {
+   "name": "范时崇",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "浙江",
+  "台山"
+ ],
+ "source_title": "杭州织造孙文成秦请总督遗官招抚海贼折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42601,
+ "page_range": "1065-1066"
+}

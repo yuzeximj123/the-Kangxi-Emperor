@@ -1,0 +1,30 @@
+{
+ "source_no": 1350,
+ "title_guess": "山西巡抚噶礼奏报收成并劝民撙节积贮折",
+ "reign_year": 47,
+ "month": 9,
+ "day_text": "初四日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报山西五府三州收成多为九分十分以上，仅灵石等四处七八分，夏麦已种，米价平稳，并遵旨刊示劝民撙节积贮。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西",
+  "平阳府",
+  "灵石",
+  "汾西",
+  "赵城",
+  "霍州"
+ ],
+ "source_title": "山西巡抚噶社奏报收成并劲民措节积贮折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 30001,
+ "page_range": "813-814"
+}

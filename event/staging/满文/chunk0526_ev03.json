@@ -1,0 +1,33 @@
+{
+ "source_no": 2679,
+ "title_guess": "两江总督赫寿请安折",
+ "reign_year": 54,
+ "month": 9,
+ "day_text": "十三日",
+ "event_role": "请安谢恩",
+ "summary": "两江总督赫寿具折请圣主万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安。并告诫赫寿与赫卓关系甚密，赫卓言行狂妄、众人厌惧，应与之分离。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "赫卓",
+   "role": "官员"
+  },
+  {
+   "name": "洪之杰",
+   "role": "苏州巡抚"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "source_title": "两江总督赫寿请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 52603,
+ "page_range": "1265-1266"
+}

@@ -1,0 +1,37 @@
+{
+ "source_no": 4183,
+ "title_guess": "理藩院奏请接待来京贸易之俄罗斯国商人折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "理藩院奏报俄罗斯商人额费纳西·索弗罗讷奇等二百七十五人欲来京贸易，援引旧例请旨是否派员照看带来京城。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "喀起虎",
+   "role": "镇守黑龙江等处副都统"
+  },
+  {
+   "name": "马布贷",
+   "role": "齐齐哈尔城副都统"
+  },
+  {
+   "name": "额费纳西·索弗罗讷奇",
+   "role": "俄罗斯商人首领"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "齐齐哈尔城",
+  "尼布楚城",
+  "京城"
+ ],
+ "source_title": "理蓝院奏请接待来京贸易之俄罗斯国商人折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83900,
+ "page_range": "1891-1892",
+ "_date_interpolated": true
+}

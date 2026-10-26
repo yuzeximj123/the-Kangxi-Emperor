@@ -1,0 +1,32 @@
+{
+ "source_no": 3676,
+ "title_guess": "康熙帝朱论一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "谕理藩院，台吉德木楚克屡次随征效力，勘查水草、招抚青海诸部有功，应封为公、达尔罕以表彰勉励众人。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝谕令封台吉德木楚克为公、达尔罕。",
+ "people": [
+  {
+   "name": "德木楚克",
+   "role": "台吉"
+  },
+  {
+   "name": "济尔增布",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "乌勒呼尔尹扎",
+  "乌兰布通",
+  "青海"
+ ],
+ "source_title": "康熙关朱论一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76502,
+ "page_range": "1743-1744",
+ "_date_interpolated": true
+}

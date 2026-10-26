@@ -1,0 +1,45 @@
+{
+ "source_no": 1158,
+ "title_guess": "李国屏等进书扇折",
+ "reign_year": 46,
+ "month": 7,
+ "day_text": "十四日",
+ "event_role": "宫廷事务",
+ "summary": "李国屏、爱保奏进翰林等所编文字十五篇及王远启画扇二柄，并转送杨轩致陈廷敬书信至南书房。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "李国屏",
+   "role": "奏报人"
+  },
+  {
+   "name": "爱保",
+   "role": "奏报人"
+  },
+  {
+   "name": "王远启",
+   "role": "画扇者"
+  },
+  {
+   "name": "杨轩",
+   "role": "致书者"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  },
+  {
+   "name": "夏安",
+   "role": "太监"
+  }
+ ],
+ "places": [
+  "南书房"
+ ],
+ "source_title": "李国屏等进书局折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 26302,
+ "page_range": "739-740"
+}

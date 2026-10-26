@@ -1,0 +1,45 @@
+{
+ "source_no": 2795,
+ "title_guess": "理藩院奏请承袭喀尔喀扎萨克头等台吉折",
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "初五日",
+ "event_role": "人事任免",
+ "summary": "理藩院奏请以喀尔喀原扎萨克头等台吉纳木扎尔长子车凌万苏克承袭其职，或待其自军营返回引见后承袭，请旨定夺。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批著准车凌万苏克承袭。",
+ "people": [
+  {
+   "name": "纳木扎尔",
+   "role": "喀尔喀原扎萨克头等台吉"
+  },
+  {
+   "name": "车凌万苏克",
+   "role": "纳木扎尔长子"
+  },
+  {
+   "name": "根敦",
+   "role": "纳木扎尔次子，署理旗务"
+  },
+  {
+   "name": "诺木齐岱",
+   "role": "理藩院左侍郎"
+  },
+  {
+   "name": "达尔玛",
+   "role": "郎中"
+  },
+  {
+   "name": "额叶图",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_title": "理藩院奏请承袭喀和尔喀扎萨克头等台吾折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55303,
+ "page_range": "1319-1320"
+}

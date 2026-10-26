@@ -1,0 +1,27 @@
+{
+ "source_no": 3255,
+ "title_guess": "(佚名)奏报审理赖保未查超用钱粮银两一案折",
+ "reign_year": 57,
+ "month": 9,
+ "day_text": "初六日",
+ "event_role": "司法案件",
+ "summary": "审理赖保等管园头超用钱粮银一万一千七百余两未查出，请交内务府严加议罪并限期偿还，另请拨银供种园之用。",
+ "has_zhupi": true,
+ "zhupi_summary": "停偿此银，不拨钱粮；官保、赖保劳役十年。",
+ "people": [
+  {
+   "name": "赖保",
+   "role": "园头/被审人"
+  },
+  {
+   "name": "官保",
+   "role": "被罚人员"
+  }
+ ],
+ "places": [],
+ "source_title": "(佚名)奏报审理赖保未查超用钱粮银两一案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 66201,
+ "page_range": "1537-1538"
+}

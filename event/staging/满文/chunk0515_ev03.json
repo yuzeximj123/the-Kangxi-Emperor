@@ -1,0 +1,43 @@
+{
+ "source_no": 2628,
+ "title_guess": "两江总督赫寿奏请将巡抚印交张鹏翮折",
+ "reign_year": 54,
+ "month": 6,
+ "day_text": "康熙五十四年六月二十三日",
+ "event_role": "人事任免",
+ "summary": "赫寿奏报张伯行革职后巡抚印暂由己署理，询问张鹏翮审案未完期间江宁巡抚印应否送交张鹏翮，请旨定夺。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：无论如何需至彼时方能降旨，惟苏州积压之事应上紧办理。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "被革职巡抚"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "尚书"
+  },
+  {
+   "name": "李世仁",
+   "role": "布政使"
+  },
+  {
+   "name": "阿锡盖",
+   "role": "太仆寺官员"
+  }
+ ],
+ "places": [
+  "常州府",
+  "江宁",
+  "苏州"
+ ],
+ "source_title": "两江总督赫寿帮请将巡抚印交张胸天折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 51503,
+ "page_range": "1243-1244"
+}

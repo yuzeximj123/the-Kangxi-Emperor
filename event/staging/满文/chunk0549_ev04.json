@@ -1,0 +1,39 @@
+{
+ "source_no": 2780,
+ "title_guess": "湖广总督额伦特奏报署理将军事务折",
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "十四日",
+ "event_role": "军务",
+ "summary": "额伦特奏报奉旨署理陕西将军事务、会同总督鄂海协办钱粮，表示竭诚效力。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称将军席柱、提督师苑德等并非尽力之臣朕甚灰心，西安兵大变较前相去甚远皆将领卑劣属下不服所致，令尔勉之，并问席柱何如著据实奏来。",
+ "people": [
+  {
+   "name": "额伦特",
+   "role": "湖广总督"
+  },
+  {
+   "name": "鄂海",
+   "role": "总督"
+  },
+  {
+   "name": "席柱",
+   "role": "将军"
+  },
+  {
+   "name": "师苑德",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安",
+  "太原"
+ ],
+ "source_title": "湖广总督额伦特奏报署理将军事务折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 54904,
+ "page_range": "1311-1312"
+}

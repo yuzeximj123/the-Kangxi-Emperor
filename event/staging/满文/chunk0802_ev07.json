@@ -1,0 +1,27 @@
+{
+ "source_no": 3991,
+ "title_guess": "步军统领隆科多奏报京城田禾生长并得雨情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月初一日",
+ "event_role": "灾情收成",
+ "summary": "奏报接到圣主朱批谕旨，得知行在所降雨沾足、田禾甚好；京城各方皆云今岁田禾高粗穗大，初二日天明前有雨至晚初更天晴，田无存水，庄稼甚好，麦子已开镰收割。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城",
+  "行在"
+ ],
+ "source_title": "步军统领隆科多奏报京城田杀生长并得雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80207,
+ "page_range": "1817-1818",
+ "_date_interpolated": true
+}

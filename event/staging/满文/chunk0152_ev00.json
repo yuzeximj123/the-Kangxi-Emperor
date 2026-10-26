@@ -1,0 +1,30 @@
+{
+ "source_no": 566,
+ "title_guess": "川陕总督华显奏请万安折",
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "初十日",
+ "event_role": "请安谢恩",
+ "summary": "川陕总督觉罗华显奏请圣主万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批报自己安好，说明十六日经保定府、十九日入京城，人马均安，并命将此文给鄂海看。",
+ "people": [
+  {
+   "name": "觉罗华显",
+   "role": "四川陕西总督"
+  },
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "保定府",
+  "京城"
+ ],
+ "source_title": "川陕总督华显故请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 15200,
+ "page_range": "517-518"
+}

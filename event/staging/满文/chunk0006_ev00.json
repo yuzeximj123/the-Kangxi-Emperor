@@ -1,0 +1,26 @@
+{
+ "source_no": 33,
+ "title_guess": "山东巡抚佛伦奏请暂停巡查地方官员情形折",
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "初八日",
+ "event_role": "其他",
+ "summary": "佛伦奏报到任后访查官吏豪强情形，因农忙及大计之期，请暂停东巡，待秋收后十月再出巡，以免误农事。",
+ "has_zhupi": true,
+ "zhupi_summary": "收粮后查之甚是。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东",
+  "东三府"
+ ],
+ "source_title": "山东巡抚佛伦秦请暂停巡查地方官员情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 600,
+ "page_range": "225-226"
+}

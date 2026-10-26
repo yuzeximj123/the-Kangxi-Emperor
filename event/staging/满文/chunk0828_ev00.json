@@ -1,0 +1,40 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "此为前件奏折残余片段，内容涉及拨给钱粮器械、护送无用跟役回籍，以及乌木普扰害番人、年羹尧招抚里塘巴塘、都统法拉领兵进驻打箭炉等军务事宜，并令年羹尧详阅核定、知会大将军王。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "高其佩",
+   "role": "官员"
+  },
+  {
+   "name": "乌木普",
+   "role": "护军统领"
+  },
+  {
+   "name": "年羹尧",
+   "role": "总督"
+  },
+  {
+   "name": "法拉",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "里塘",
+  "巴塘",
+  "打箭炉"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82800,
+ "page_range": "1869-1870",
+ "_date_interpolated": true
+}

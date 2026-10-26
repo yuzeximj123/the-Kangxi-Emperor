@@ -1,0 +1,33 @@
+{
+ "source_no": 180,
+ "title_guess": "皇太子奏为于克鲁伦大捷事折",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十九日",
+ "event_role": "军务",
+ "summary": "皇太子奏闻克鲁伦败贼及费扬古兵击败噶尔丹之喜讯，拜天佛、集文武大臣通论喜讯，并请往迎皇父。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称欲使京城喜闻军务故兼程疾驰，今皆成功，唯急往宫中，无多言。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "克鲁伦"
+ ],
+ "source_title": "皇太子奏为于克和鲁伦天捷事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4304,
+ "page_range": "299-300"
+}

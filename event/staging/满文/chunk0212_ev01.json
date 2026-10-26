@@ -1,0 +1,38 @@
+{
+ "source_no": 885,
+ "title_guess": "康熙帝朱谕一纸",
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "十四日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕三阿哥、五阿哥、七阿哥：热河自初十起大雨不止至十四日，奏本未到，洪水汪洋，因预防无事但担忧京城，特遣新满洲侍卫急传谕旨。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "三阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "五阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "七阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "热河",
+  "京城"
+ ],
+ "source_title": "康熙帝朱谕一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 21201,
+ "page_range": "637-638"
+}

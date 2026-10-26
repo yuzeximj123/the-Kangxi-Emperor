@@ -1,0 +1,30 @@
+{
+ "source_no": 43,
+ "title_guess": "山东巡抚佛伦奏请赴京觐见皇上金颜折",
+ "reign_year": 29,
+ "month": 10,
+ "day_text": "十八日",
+ "event_role": "请安谢恩",
+ "summary": "佛伦奏请圣安并请颐养，遵旨停止出巡另行具奏，因久别皇上思念，欲单骑赴京觐见金颜。",
+ "has_zhupi": true,
+ "zhupi_summary": "著即奏来。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京城",
+  "山东"
+ ],
+ "source_title": "山东巡抚佛伦奏请赴京觐见皇上金颜折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 804,
+ "page_range": "229-230"
+}

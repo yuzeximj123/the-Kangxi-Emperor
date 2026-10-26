@@ -1,0 +1,35 @@
+{
+ "source_no": 2401,
+ "title_guess": "福建巡抚满保奏报福建浙江各府米价折",
+ "reign_year": 53,
+ "month": 5,
+ "day_text": "十三日",
+ "event_role": "钱粮财政",
+ "summary": "福建巡抚满保奏报福建春夏雨水调匀、稻禾长势及福州、泉州、漳州等地米价，并报浙江雨水与米价情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "福建",
+  "福州",
+  "泉州",
+  "漳州",
+  "延平",
+  "建宁",
+  "浙江",
+  "衢州",
+  "严州",
+  "金华",
+  "台州"
+ ],
+ "source_title": "福建巡抚满保奏报福建浙江各府米价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 47105,
+ "page_range": "1155-1156"
+}

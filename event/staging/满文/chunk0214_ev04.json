@@ -1,0 +1,50 @@
+{
+ "source_no": 903,
+ "title_guess": "向社等请安并报接阅御批折",
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "二十二日",
+ "event_role": "请安谢恩",
+ "summary": "筷社等奏报收到十九日请安折并恭闻皇父万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安。二十二日移至喀喇和屯，此地似少雨水，未知京城如何，著尔等亦从各处打听消息。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "皇子"
+  },
+  {
+   "name": "仍祯",
+   "role": "皇子"
+  },
+  {
+   "name": "凯祺",
+   "role": "皇子"
+  },
+  {
+   "name": "筷祷",
+   "role": "皇子"
+  },
+  {
+   "name": "乱礼岂福",
+   "role": "皇子"
+  },
+  {
+   "name": "向被",
+   "role": "皇子"
+  },
+  {
+   "name": "筷宰出祯",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "喀喇和屯",
+  "京城"
+ ],
+ "source_title": "息社等请安并报接阅御批折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 21404,
+ "page_range": "641-642"
+}

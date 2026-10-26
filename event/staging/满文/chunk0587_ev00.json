@@ -1,0 +1,26 @@
+{
+ "source_no": 2963,
+ "title_guess": "湖广总督额伦特请安折",
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "十四日",
+ "event_role": "请安谢恩",
+ "summary": "湖广总督额伦特奏请圣主万安，康熙朱批告知身体安好，西宁无大事，并叮嘱其与满汉提镇和好同心效力。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安。西宁地方无大事，巴里坤今定大军进征，将议坦尔往此向；满汉提督总兵等俱有不睦之情，非好事，尔若前往务使和好同心效力，不可忽略。",
+ "people": [
+  {
+   "name": "额伦特",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [
+  "西宁",
+  "巴里坤"
+ ],
+ "source_title": "湖广总督额伦将请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 58700,
+ "page_range": "1387-1388"
+}

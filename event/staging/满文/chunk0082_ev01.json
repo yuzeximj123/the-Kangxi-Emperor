@@ -1,0 +1,48 @@
+{
+ "source_no": 323,
+ "title_guess": "额林臣哈希哈之口供",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初九日",
+ "event_role": "边疆事务",
+ "summary": "额林臣哈希哈供述自台西里逃来经过，噶尔丹部众缺粮少弹、人心离散，丹济拉与噶尔丹离心，众人多欲投圣主。",
+ "has_zhupi": true,
+ "zhupi_summary": "初十日晨到。",
+ "people": [
+  {
+   "name": "额林臣哈希哈",
+   "role": "来降厄鲁特"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "丹济拉",
+   "role": "噶尔丹属下"
+  },
+  {
+   "name": "诺颜噶隆",
+   "role": "噶尔丹属下"
+  },
+  {
+   "name": "阿喇布坦",
+   "role": "厄鲁特台吉"
+  },
+  {
+   "name": "丹津旺布",
+   "role": "厄鲁特台吉"
+  }
+ ],
+ "places": [
+  "台西里",
+  "萨克萨特胡里克",
+  "洪郭罗",
+  "库克色尔克"
+ ],
+ "source_title": "额林臣险荐瞪之日佐",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8201,
+ "page_range": "377-378"
+}

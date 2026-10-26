@@ -1,0 +1,66 @@
+{
+ "source_no": 571,
+ "title_guess": "山西巡抚噶礼奏报监察御史无辜参劾折",
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十九日",
+ "event_role": "弹劾参奏",
+ "summary": "噶礼奏辩监察御史刘若参劾其移行昭著、官民怨忧等情，称系王福等盐商及被参官员挟怨诬陷，并陈述自己禁革私派、清查仓库等政绩。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "刘若",
+   "role": "监察御史"
+  },
+  {
+   "name": "王福",
+   "role": "被参官员"
+  },
+  {
+   "name": "彭喜孔",
+   "role": "怨恨噶礼者"
+  },
+  {
+   "name": "嗓国珍",
+   "role": "怨恨噶礼者"
+  },
+  {
+   "name": "巴颜",
+   "role": "怨恨噶礼者"
+  },
+  {
+   "name": "永宁",
+   "role": "怨恨噶礼者"
+  },
+  {
+   "name": "王来宾",
+   "role": "怨恨噶礼者"
+  },
+  {
+   "name": "鲁安",
+   "role": "怨恨噶礼者"
+  },
+  {
+   "name": "范世泰",
+   "role": "泽州大盐商"
+  },
+  {
+   "name": "李南",
+   "role": "曾被噶礼参劾者"
+  }
+ ],
+ "places": [
+  "山西",
+  "泽州"
+ ],
+ "source_title": "山西巡抚噶礼奏报监察御史无事参劾折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 15205,
+ "page_range": "517-518"
+}

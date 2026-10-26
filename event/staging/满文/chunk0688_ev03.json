@@ -1,0 +1,45 @@
+{
+ "source_no": 3368,
+ "title_guess": "人息祯等请安折",
+ "reign_year": 58,
+ "month": 3,
+ "day_text": "二十三日",
+ "event_role": "请安谢恩",
+ "summary": "大将军王祯等众臣联名恭请皇父万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：朕体安。四月十一日往热河。",
+ "people": [
+  {
+   "name": "祯",
+   "role": "大将军王"
+  },
+  {
+   "name": "讷尔苏",
+   "role": "平王"
+  },
+  {
+   "name": "卢彬",
+   "role": "贝子"
+  },
+  {
+   "name": "弘曙",
+   "role": "前锋统领"
+  },
+  {
+   "name": "弘智",
+   "role": "臣"
+  },
+  {
+   "name": "弘曦",
+   "role": "臣"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_title": "筷祯等请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 68803,
+ "page_range": "1589-1590"
+}

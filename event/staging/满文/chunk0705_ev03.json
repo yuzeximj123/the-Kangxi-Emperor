@@ -1,0 +1,38 @@
+{
+ "source_no": 3434,
+ "title_guess": "向祯奏闻蒙古回子叩谢皇上赏银折",
+ "reign_year": 58,
+ "month": 7,
+ "day_text": "初九日",
+ "event_role": "请安谢恩",
+ "summary": "向祯奏报回子达尔汉伯克博洛特等告称，去年随将军额伦特、色秩前往招地之蒙古回子十八人依例各赏银五两，众人感激叩谢皇恩。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "向祯",
+   "role": "奏报官员"
+  },
+  {
+   "name": "达尔汉伯克博洛特",
+   "role": "回子伯克"
+  },
+  {
+   "name": "额伦特",
+   "role": "将军"
+  },
+  {
+   "name": "色秩",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "招地",
+  "喀喇乌苏"
+ ],
+ "source_title": "筷祯秦闻蒙古回子趾谢皇上赏银折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 70503,
+ "page_range": "1623-1624"
+}

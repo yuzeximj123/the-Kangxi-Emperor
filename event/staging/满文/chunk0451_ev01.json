@@ -1,0 +1,41 @@
+{
+ "source_no": 2277,
+ "title_guess": "山西巡抚苏克济奏请升补平阳府知府折",
+ "reign_year": 52,
+ "month": 8,
+ "day_text": "二十四日",
+ "event_role": "人事任免",
+ "summary": "山西巡抚苏克济奏平阳府知府孔兴连升长芦运使后，请越例拔授夏州知州朱正为平阳府知府，以重钱粮繁务之地。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "孔兴连",
+   "role": "平阳府知府"
+  },
+  {
+   "name": "赵有奎",
+   "role": "巩昌府知府"
+  },
+  {
+   "name": "朱正",
+   "role": "夏州知州"
+  }
+ ],
+ "places": [
+  "平阳府",
+  "长芦",
+  "太原府",
+  "巩昌府",
+  "夏州"
+ ],
+ "source_title": "山西巡抚苏克济秦请升补平阳府知府拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 45101,
+ "page_range": "1115-1116"
+}

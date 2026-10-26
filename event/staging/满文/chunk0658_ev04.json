@@ -1,0 +1,61 @@
+{
+ "source_no": 3240,
+ "title_guess": "步军统领隆科多奏为缉审造谣惑众之罪犯折",
+ "reign_year": 57,
+ "month": 8,
+ "day_text": "十九日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报查拿编造无影之事写入小抄一案，审讯佟胜启、徐协文、阮玉平、沈明石、王二强、陈大利等人，追查谣言来源。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "佟胜启",
+   "role": "书办"
+  },
+  {
+   "name": "徐协文",
+   "role": "工部书办"
+  },
+  {
+   "name": "阮玉平",
+   "role": "行医民人"
+  },
+  {
+   "name": "沈明石",
+   "role": "吏科书办"
+  },
+  {
+   "name": "王二强",
+   "role": "民人"
+  },
+  {
+   "name": "陈大利",
+   "role": "民人"
+  },
+  {
+   "name": "卢日胜",
+   "role": "书办"
+  },
+  {
+   "name": "单洪文",
+   "role": "户科书办"
+  },
+  {
+   "name": "赵胜书",
+   "role": "副书办"
+  }
+ ],
+ "places": [
+  "绍兴府"
+ ],
+ "source_title": "步军统领隆科多奏为缉审造语惑众之罪犯折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 65804,
+ "page_range": "1529-1530"
+}

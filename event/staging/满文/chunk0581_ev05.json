@@ -1,0 +1,32 @@
+{
+ "source_no": 2932,
+ "title_guess": "广东巡抚法海奏闻江南总督赫寿操守折",
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "二十八日",
+ "event_role": "弹劾参奏",
+ "summary": "法海奏闻途经江南所见定远县旱荒及总督赫寿查赈情形，称未闻百姓称其善，惟官员称善，亦有属员被蒙蔽之处。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：甚是，朕所闻亦同，又闻和州已连种。",
+ "people": [
+  {
+   "name": "法海",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "赫寿",
+   "role": "江南总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "凤阳府",
+  "定远县",
+  "和州"
+ ],
+ "source_title": "广东巡抚法海奏闻江南总督赫寿操守折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 58105,
+ "page_range": "1375-1376"
+}

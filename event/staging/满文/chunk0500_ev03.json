@@ -1,0 +1,39 @@
+{
+ "source_no": 2577,
+ "title_guess": "甘肃巡抚绰奇奏请本人应否出边折",
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "十六日",
+ "event_role": "军务",
+ "summary": "绰奇奏报哈密官兵已与贼交战，自己由兰州启程催运军粮赴肃州，并请圣主指示本人应否出边。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。尚书富宁安业经前往。",
+ "people": [
+  {
+   "name": "绰奇",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "师元德",
+   "role": "甘肃提督"
+  },
+  {
+   "name": "路振声",
+   "role": "总兵"
+  },
+  {
+   "name": "富宁安",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "兰州",
+  "肃州",
+  "哈密"
+ ],
+ "source_title": "甘肃巡抚绰奇奏请本人应和否出壕折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 50003,
+ "page_range": "1213-1214"
+}

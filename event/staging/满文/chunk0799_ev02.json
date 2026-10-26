@@ -1,0 +1,24 @@
+{
+ "source_no": 3962,
+ "title_guess": "步军统领隆科多奏报京城粮价下跌折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "钱粮财政",
+ "summary": "隆科多奏报新粮收后小米、高粱、季米、黑豆等价格下跌，并详列老米、梭子米、仓谷、麦子、面粉等时价。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。此处粮价大降，高粱每仓石仅六钱。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [],
+ "source_title": "步军统领隆科多奏报京城粮价下路折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79902,
+ "page_range": "1811-1812",
+ "_date_interpolated": true
+}

@@ -1,0 +1,35 @@
+{
+ "source_no": 988,
+ "title_guess": "由社等请安并报接阅御批折",
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "二十九日",
+ "event_role": "请安谢恩",
+ "summary": "臣等恭请万安，报接阅御批，闻威拉虎山猎获兽猪三百余、桂勒尔河鱼丰，兵役商人均得食，不胜欢悦。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安。初五日驻跸木西匣色钦地方，围猎堪达汉十五只被围住，皇太子并诸阿哥各射一，又获鹿狍猪甚多；哨鹿共获十二只。",
+ "people": [
+  {
+   "name": "由社",
+   "role": "臣"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "诸阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "威拉虎山",
+  "桂勒尔河",
+  "木西匣色钦"
+ ],
+ "source_title": "由社等请安并报接阅御批折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23004,
+ "page_range": "673-674"
+}

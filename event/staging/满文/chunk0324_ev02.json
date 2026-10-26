@@ -1,0 +1,29 @@
+{
+ "source_no": 1506,
+ "title_guess": "上候社等奏报各庙念经情形折",
+ "reign_year": 48,
+ "month": 9,
+ "day_text": "十四日",
+ "event_role": "宫廷事务",
+ "summary": "奏报自前月二十一日至本月十二日各寺庙喇嘛诵经数目及施食等情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。此既好事，则装入请安封套内了。",
+ "people": [
+  {
+   "name": "候社",
+   "role": "奏报大臣"
+  }
+ ],
+ "places": [
+  "中正殿",
+  "永宁寺",
+  "圣化寺",
+  "广惹寺",
+  "北黄寺"
+ ],
+ "source_title": "筷社等奏报各让念经情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32402,
+ "page_range": "861-862"
+}

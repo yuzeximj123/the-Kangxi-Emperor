@@ -1,0 +1,30 @@
+{
+ "source_no": 3952,
+ "title_guess": "步军统领隆科多奏请将擒贼不力官员视其轻重分别惩处折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "隆科多奏陈京城失窃案定例及御史条陈兵部复议内容，请将擒贼不力官员分别惩处，并请圣主训示。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：朕回宫以后，著具本奏来。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "魏守齐",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏请将擒贼不力官员视其轻重分别惩处折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79800,
+ "page_range": "1809-1810",
+ "_date_interpolated": true
+}

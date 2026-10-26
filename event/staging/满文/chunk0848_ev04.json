@@ -1,0 +1,56 @@
+{
+ "source_no": 4223,
+ "title_guess": "赏赐物清单",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "赏给萨山之妻、奎风之妻等挂面各二十把，共一百六十把，朱批令尚额附、大学士二员、佛保之妻亦照此赏给。",
+ "has_zhupi": true,
+ "zhupi_summary": "尚额附、大学士二员、佛保之妻亦照此赏给。",
+ "people": [
+  {
+   "name": "萨山",
+   "role": "受赏者之夫"
+  },
+  {
+   "name": "奎风",
+   "role": "受赏者之夫"
+  },
+  {
+   "name": "海金",
+   "role": "受赏者之夫"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "受赏者之夫"
+  },
+  {
+   "name": "富尔丹",
+   "role": "受赏者之夫"
+  },
+  {
+   "name": "德宁",
+   "role": "受赏者之夫"
+  },
+  {
+   "name": "璨泰",
+   "role": "受赏者之夫"
+  },
+  {
+   "name": "孙扎齐",
+   "role": "受赏者之夫"
+  },
+  {
+   "name": "佛保",
+   "role": "受赏者之夫"
+  }
+ ],
+ "places": [],
+ "source_title": "赏赐物清单",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84804,
+ "page_range": "1909-1910",
+ "_date_interpolated": true
+}

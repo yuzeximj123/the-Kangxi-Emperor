@@ -1,0 +1,41 @@
+{
+ "source_no": 1574,
+ "title_guess": "顺社等奏报在各处祈雨并得雨情形折",
+ "reign_year": 49,
+ "month": 5,
+ "day_text": "十三日",
+ "event_role": "灾情收成",
+ "summary": "顺社等奏报奉旨勤催祈雨，自十二日起在畅春园龙王庙等处诵经祈雨七日，并报京城十一日雷雨一阵。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。著勤加祈雨。",
+ "people": [
+  {
+   "name": "顺社",
+   "role": "奏报臣"
+  },
+  {
+   "name": "岂祺",
+   "role": "奏报臣"
+  },
+  {
+   "name": "天被",
+   "role": "奏报臣"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "龙王庙",
+  "黑龙潭",
+  "东岳庙",
+  "真武庙",
+  "城隍庙",
+  "三官庙",
+  "白塔关帝庙",
+  "京城"
+ ],
+ "source_title": "乱社等奏报在各让祈雨并得雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33603,
+ "page_range": "885-886"
+}

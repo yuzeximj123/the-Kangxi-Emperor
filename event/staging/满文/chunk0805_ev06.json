@@ -1,0 +1,40 @@
+{
+ "source_no": 4017,
+ "title_guess": "步军统领隆科多奏报将醒酒伤人犯解部审理折",
+ "reign_year": 3,
+ "month": 6,
+ "day_text": "六月三十日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报新满洲护军永科酒醉持裁鞋底刀砍伤陈胜志、索柱，已拿解刑部，并提及梅保赌博案尚未审结。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "永科",
+   "role": "新满洲护军"
+  },
+  {
+   "name": "陈胜志",
+   "role": "被砍伤者"
+  },
+  {
+   "name": "索柱",
+   "role": "被砍伤者"
+  },
+  {
+   "name": "梅保",
+   "role": "涉案护军"
+  }
+ ],
+ "places": [],
+ "source_title": "步军统领隆科多奏报将醒酒伤人犯解部审理折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80506,
+ "page_range": "1823-1824",
+ "_date_interpolated": true
+}

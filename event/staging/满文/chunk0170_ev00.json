@@ -1,0 +1,53 @@
+{
+ "source_no": 651,
+ "title_guess": "步军统领托和齐奏报下五旗纪律松驰折",
+ "reign_year": 43,
+ "month": 8,
+ "day_text": "二十八日",
+ "event_role": "弹劾参奏",
+ "summary": "奏报原侍郎席木布、原郎中济木布等赴伯都讷时，张敏、常舒、阿世坦、苏海、大寿等送行并出言不逊，请旨查办。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "席木布",
+   "role": "原侍郎"
+  },
+  {
+   "name": "济木布",
+   "role": "原郎中"
+  },
+  {
+   "name": "张敏",
+   "role": "原任巡抚"
+  },
+  {
+   "name": "常舒",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "阿世坦",
+   "role": "内阁学士"
+  },
+  {
+   "name": "苏海",
+   "role": "原内阁供职"
+  },
+  {
+   "name": "大寿",
+   "role": "兵部郎中"
+  }
+ ],
+ "places": [
+  "伯都讷"
+ ],
+ "source_title": "步军统领托和齐奏报下五旗纪律松驰折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 17000,
+ "page_range": "553-554"
+}

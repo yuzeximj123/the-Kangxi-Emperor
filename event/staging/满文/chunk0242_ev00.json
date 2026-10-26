@@ -1,0 +1,29 @@
+{
+ "source_no": 1049,
+ "title_guess": "太医院大夫蒋赤诊治书",
+ "reign_year": 46,
+ "month": 1,
+ "day_text": "十三日",
+ "event_role": "宫廷事务",
+ "summary": "太医院大夫蒋赤奏报随和硕纯禧公主回科尔沁，公主途中平安，十二月十六日微有伤风，服参苏饮后次日脉息平和，现已停药饮食调理。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "蒋赤",
+   "role": "太医院大方脉大夫"
+  },
+  {
+   "name": "和硕纯禧公主",
+   "role": "公主"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_title": "太医院大夫藉赤诊治交",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 24200,
+ "page_range": "697-698"
+}

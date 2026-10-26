@@ -1,0 +1,50 @@
+{
+ "source_no": 2303,
+ "title_guess": "福建巡抚满保奏请牵连鲁田丈案内良民免罪折",
+ "reign_year": 52,
+ "month": 11,
+ "day_text": "初六日",
+ "event_role": "司法案件",
+ "summary": "满保奏报鲁田丈聚众报仇、放火抗官一案审结，请将不知姓名被胁良民免查拿，并参顺昌知县李天伟，请宽宥有功将吏。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "鲁田丈",
+   "role": "案犯"
+  },
+  {
+   "name": "叶原香",
+   "role": "原告"
+  },
+  {
+   "name": "李天伟",
+   "role": "顺昌县知县"
+  },
+  {
+   "name": "欧阳凯",
+   "role": "副将"
+  },
+  {
+   "name": "边世伟",
+   "role": "游击"
+  },
+  {
+   "name": "任宗延",
+   "role": "知府"
+  }
+ ],
+ "places": [
+  "福建",
+  "顺昌县"
+ ],
+ "source_title": "福建巡抚满保奏请牵连鲁田丈案内良民免罪折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 45602,
+ "page_range": "1125-1126"
+}

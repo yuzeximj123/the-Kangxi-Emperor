@@ -1,0 +1,35 @@
+{
+ "source_no": 1403,
+ "title_guess": "江南总督邵穆布奏请得人赴京请安折",
+ "reign_year": 48,
+ "month": 2,
+ "day_text": "二十四日",
+ "event_role": "请安谢恩",
+ "summary": "江南总督邵穆布奏报年前及正月率官兵斋戒诵经，遣家人双鼎赴京请安，并报二月十一日迎钦差吴尔虎、二十一日闻圣主幸赵北口后官民欢悦情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "邵穆布",
+   "role": "江南总督"
+  },
+  {
+   "name": "双鼎",
+   "role": "邵穆布家人"
+  },
+  {
+   "name": "吴尔虎",
+   "role": "内员外郎"
+  }
+ ],
+ "places": [
+  "江宁",
+  "九华山",
+  "赵北口"
+ ],
+ "source_title": "江南总督邵穆布麦请遗人赴京请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 30700,
+ "page_range": "827-828"
+}

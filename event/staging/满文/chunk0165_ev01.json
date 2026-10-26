@@ -1,0 +1,53 @@
+{
+ "source_no": 627,
+ "title_guess": "筷社等奏报病人治愈并求医人情形折",
+ "reign_year": 43,
+ "month": 7,
+ "day_text": "初四日",
+ "event_role": "宫廷事务",
+ "summary": "臣等奏报正黄旗侍卫札克丹等患病经大夫治愈或调治，西洋人聂云龙右户疼痛请派大夫诊视而不欲针灸，并报京城病人较前甚少。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。西洋人既不欲针灸，则听其便，勿得强迫。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报臣"
+  },
+  {
+   "name": "札克丹",
+   "role": "正黄旗三等侍卫"
+  },
+  {
+   "name": "玩桂芳",
+   "role": "大夫"
+  },
+  {
+   "name": "郭廉",
+   "role": "灸黄旗三等侍卫"
+  },
+  {
+   "name": "中超格",
+   "role": "镰黄旗包衣牛录拜他喇布勤哈番"
+  },
+  {
+   "name": "聂云龙",
+   "role": "西洋人"
+  },
+  {
+   "name": "凌易风",
+   "role": "大夫"
+  },
+  {
+   "name": "尹德",
+   "role": "大夫"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "筷社等奏报病人治愈并求医人情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16501,
+ "page_range": "543-544"
+}

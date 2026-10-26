@@ -1,0 +1,41 @@
+{
+ "source_no": 1867,
+ "title_guess": "理藩院奏请议定六世达赖喇嘛使臣待遇折",
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "二十日",
+ "event_role": "边疆事务",
+ "summary": "拉藏汗奏请照前世达赖喇嘛使臣之例赏给现世达赖喇嘛使臣盘缠等物，并报策妄喇布坦之人进入阿里地方；理藩院议覆称无庸议，拟咨行拉藏汗知会。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示：知道了。",
+ "people": [
+  {
+   "name": "拉藏汗",
+   "role": "西藏汗王"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "准噶尔台吉"
+  },
+  {
+   "name": "阿齐图",
+   "role": "侍卫"
+  },
+  {
+   "name": "玛喇噶",
+   "role": "驻西宁员外郎"
+  }
+ ],
+ "places": [
+  "阿里",
+  "沙札干",
+  "西宁",
+  "多巴",
+  "喀木"
+ ],
+ "source_title": "理藩院奏请议定六世达赖喇嘛使臣待遇折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 38500,
+ "page_range": "983-984"
+}

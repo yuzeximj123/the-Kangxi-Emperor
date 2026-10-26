@@ -1,0 +1,30 @@
+{
+ "source_no": 3704,
+ "title_guess": "兵部奏请副都统暂理将军事务折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "黑龙江将军萨布素因病卧床不能办事，兵部奏请在其病愈前由副都统喀特虎暂理将军事务。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "喀特虎",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_title": "兵部奏请副都统暂理将军事务折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76801,
+ "page_range": "1749-1750",
+ "_date_interpolated": true
+}

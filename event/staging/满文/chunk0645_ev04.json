@@ -1,0 +1,49 @@
+{
+ "source_no": 3188,
+ "title_guess": "内务府奏为请神主祭礼折",
+ "reign_year": 57,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "宫廷事务",
+ "summary": "内务府遵旨议奏举杆祭礼请神主出宫事宜，建议由掌仪司官员随从、侍卫导引，并停请神主于王家，改为各家悬帛帐祭。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：是。",
+ "people": [
+  {
+   "name": "董典邦",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "白路",
+   "role": "掌仪司郎中"
+  },
+  {
+   "name": "常保",
+   "role": "员外郎"
+  },
+  {
+   "name": "查尔布",
+   "role": "员外郎"
+  },
+  {
+   "name": "赛华",
+   "role": "员外郎"
+  },
+  {
+   "name": "雷玉春",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "热河",
+  "畅春园",
+  "堂子",
+  "东长安门",
+  "紫禁城"
+ ],
+ "source_title": "内务府奏为请神主妹礼折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 64504,
+ "page_range": "1503-1504"
+}

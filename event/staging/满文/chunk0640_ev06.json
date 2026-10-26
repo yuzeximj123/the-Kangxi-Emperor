@@ -1,0 +1,48 @@
+{
+ "source_no": 3171,
+ "title_guess": "内务府奏为修复避暑山庄破损景点折",
+ "reign_year": 57,
+ "month": 3,
+ "day_text": "二十七日",
+ "event_role": "宫廷事务",
+ "summary": "内务府奏报查明热河行宫去年补修欠缺之处，请仍遣恰金泰以未交待钱粮补修，今年应修处依旨自内库取银，并请旨后修建。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "巴赖",
+   "role": "办理热河事务郎中"
+  },
+  {
+   "name": "杨宗义",
+   "role": "原按察使"
+  },
+  {
+   "name": "恰金泰",
+   "role": "员外郎"
+  },
+  {
+   "name": "佛保",
+   "role": "官员"
+  },
+  {
+   "name": "赫奕",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "热河",
+  "避暑山庄",
+  "旷观园湖",
+  "松林峪",
+  "泉源石壁",
+  "梨花伴月",
+  "长河",
+  "龙王庙"
+ ],
+ "source_title": "内务府秦为修复避暑山庄秦损景点折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 64006,
+ "page_range": "1493-1494"
+}

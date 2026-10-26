@@ -1,0 +1,35 @@
+{
+ "source_no": 179,
+ "title_guess": "皇太子奏为击败噶尔丹皇太后喜悦折",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十八日",
+ "event_role": "宫廷事务",
+ "summary": "皇太子奏将谕旨奏览皇太后，皇太后闻噶尔丹败逃、费扬古兵初战即败之讯甚喜，拜天地佛并问皇帝安好。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [],
+ "source_title": "皇太子筷禄秦为击败噶尔丹皇太后喜悦折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4303,
+ "page_range": "299-300"
+}

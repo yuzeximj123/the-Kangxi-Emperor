@@ -1,0 +1,36 @@
+{
+ "source_no": 831,
+ "title_guess": "山西巡抚噶礼奏报捐银建斗姆阁并油画寺庙折",
+ "reign_year": 45,
+ "month": 1,
+ "day_text": "二十六日",
+ "event_role": "宫廷事务",
+ "summary": "噶礼奏报捐银交算命人罗光荣往扬州建斗姆阁为皇上祝寿，并拟亲赴五台山诵经、估算油画新建寺庙费用派员监督。",
+ "has_zhupi": true,
+ "zhupi_summary": "称这是好事，但不令官民受苦才好。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "罗光荣",
+   "role": "算命人"
+  },
+  {
+   "name": "丹增",
+   "role": "喇嘛"
+  }
+ ],
+ "places": [
+  "扬州",
+  "华山",
+  "太原",
+  "五台山"
+ ],
+ "source_title": "山西巡抚噶礼替报捐银建斗姆阁并油画寺庙折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 20301,
+ "page_range": "619-620"
+}

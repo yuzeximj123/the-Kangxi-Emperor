@@ -1,0 +1,38 @@
+{
+ "source_no": 1083,
+ "title_guess": "向社等奏报蒙古部遗使来朝折",
+ "reign_year": 46,
+ "month": 4,
+ "day_text": "初一日",
+ "event_role": "外藩朝贡",
+ "summary": "奏报郭尔罗斯台吉遣使进献海青、裕王福晋求医诊视出痘及多罗格格遣使请安求医等事。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：格格求医事有何要紧，尔等应遣医便罢，何必具奏；另谕三阿哥取天坛吉祥草来。",
+ "people": [
+  {
+   "name": "向社",
+   "role": "奏报人"
+  },
+  {
+   "name": "乌尔图那苏图",
+   "role": "郭尔罗斯四等台吉"
+  },
+  {
+   "name": "诺木图海",
+   "role": "牛录章京、使者"
+  },
+  {
+   "name": "赖塞",
+   "role": "使者"
+  }
+ ],
+ "places": [
+  "海子",
+  "天坛"
+ ],
+ "source_title": "乱社等奏报蒙古部遗使来朝折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 24802,
+ "page_range": "709-710"
+}

@@ -1,0 +1,36 @@
+{
+ "source_no": 4249,
+ "title_guess": "(佚名)奏报守备员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报直隶周四沟堡、湖广灰州城守营、湖广荆州卫等守备员缺，请旨补放。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批著以孙世达、席乔补放，荆州卫守备员缺著所月签。",
+ "people": [
+  {
+   "name": "孙世达",
+   "role": "补放守备"
+  },
+  {
+   "name": "席乔",
+   "role": "补放守备"
+  },
+  {
+   "name": "所月签",
+   "role": "补放卫守备"
+  }
+ ],
+ "places": [
+  "直隶周四沟堡",
+  "湖广灰州城守营",
+  "湖广荆州卫"
+ ],
+ "source_title": "(佚名)奏报和守备员躯折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85505,
+ "page_range": "1923-1924",
+ "_date_interpolated": true
+}

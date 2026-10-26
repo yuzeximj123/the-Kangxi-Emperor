@@ -1,0 +1,32 @@
+{
+ "source_no": 104,
+ "title_guess": "两江总督傅拉塔奏报田禾雨水情形折",
+ "reign_year": 32,
+ "month": 7,
+ "day_text": "初六日",
+ "event_role": "灾情收成",
+ "summary": "傅拉塔奏报江南旱情后七月初二至初五得雨，安徽合肥等八州县亦报旱，若再得雨似不致成灾，将派员踏勘核实灾情并会同巡抚据实奏报。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "傅拉塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "宋华",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "江南",
+  "安徽",
+  "合肥",
+  "无为州"
+ ],
+ "source_title": "两江总督传拉塔奏报田禾雨水情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 2300,
+ "page_range": "259-260"
+}

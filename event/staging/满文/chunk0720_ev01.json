@@ -1,0 +1,49 @@
+{
+ "source_no": 3477,
+ "title_guess": "向祯奏报陕西等地方官员献物品折",
+ "reign_year": 58,
+ "month": 12,
+ "day_text": "十一日",
+ "event_role": "其他",
+ "summary": "向祯奏报陕西总督鄂海、固原提督马建伯、陕西巡抚噶什图、署甘肃按察司富山、凉州营参将马龙等遣人问好献物，分别收受或却回，并训示来使。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "向祯",
+   "role": "奏事臣子"
+  },
+  {
+   "name": "鄂海",
+   "role": "陕西总督"
+  },
+  {
+   "name": "马建伯",
+   "role": "固原提督"
+  },
+  {
+   "name": "噶什图",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "富山",
+   "role": "署理甘肃按察司事务"
+  },
+  {
+   "name": "马龙",
+   "role": "凉州营参将"
+  }
+ ],
+ "places": [
+  "陕西",
+  "固原",
+  "甘肃",
+  "宁夏",
+  "凉州"
+ ],
+ "source_title": "由祯奏报陕西等地方官员献物品折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 72001,
+ "page_range": "1653-1654"
+}

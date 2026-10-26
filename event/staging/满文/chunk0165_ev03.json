@@ -1,0 +1,35 @@
+{
+ "source_no": null,
+ "title_guess": "大夫诊治书（附二）",
+ "reign_year": 43,
+ "month": 7,
+ "day_text": "七月初二日",
+ "event_role": "宫廷事务",
+ "summary": "太医院孙之易、刘声芳奉三贝勒传看正白旗二等侍卫拉布图病，到本家时已故，谨此启闻。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "孙之易",
+   "role": "太医院左院判"
+  },
+  {
+   "name": "刘声芳",
+   "role": "御医"
+  },
+  {
+   "name": "拉布图",
+   "role": "正白旗二等侍卫"
+  },
+  {
+   "name": "三贝勒",
+   "role": "传看者"
+  }
+ ],
+ "places": [],
+ "source_title": "大夫诊治书（附二）",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16503,
+ "page_range": "543-544"
+}

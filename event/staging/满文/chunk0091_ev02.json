@@ -1,0 +1,42 @@
+{
+ "source_no": 352,
+ "title_guess": "兵部奏请补授杀虎口外驿站侍卫员缺折",
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "十七日",
+ "event_role": "人事任免",
+ "summary": "兵部奏请补授杀虎口外第四驿侍卫席罗病故遗缺，议以席罗之子达尔哈岱驻驿或派托岱之子何尔德依替父驻驿，请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：驿站之事将毕，仍著席罗之子达尔哈岱驻驿，何尔德依所诉不准行。",
+ "people": [
+  {
+   "name": "席罗",
+   "role": "原正黄旗侍卫"
+  },
+  {
+   "name": "达尔哈岱",
+   "role": "席罗之子"
+  },
+  {
+   "name": "托岱",
+   "role": "原正黄旗副都统"
+  },
+  {
+   "name": "何尔德依",
+   "role": "托岱之子"
+  },
+  {
+   "name": "富苗",
+   "role": "托岱之子"
+  }
+ ],
+ "places": [
+  "杀虎口",
+  "第四驿"
+ ],
+ "source_title": "兵部奏请补授杀虎口外驿站侍卫员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9102,
+ "page_range": "395-396"
+}

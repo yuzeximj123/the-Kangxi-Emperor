@@ -1,0 +1,34 @@
+{
+ "source_no": 1964,
+ "title_guess": "武英殿总监造和素等奏遣员查看四书等情折",
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "二十七日",
+ "event_role": "宫廷事务",
+ "summary": "和素、李国屏奏报遵旨查看四书、五经稽疑，准备满汉全套五部交巴彦送热河，并派员查看翰林院藏书及淮南万毕事。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批斥责和素推托，称此书系刊刻颁行之书内书房武英殿有，五经未修竣者应直说缘由，不必以难推托。",
+ "people": [
+  {
+   "name": "和素",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "李国屏",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "巴彦",
+   "role": "送书官员"
+  }
+ ],
+ "places": [
+  "热河",
+  "翰林院"
+ ],
+ "source_title": "武英殿总监造和素等奏遣员查看四书等情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 39906,
+ "page_range": "1011-1012"
+}

@@ -1,0 +1,48 @@
+{
+ "source_no": 1707,
+ "title_guess": "湖广总督鄂海奏报将流民陈四等人拿获折",
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "二十九日",
+ "event_role": "司法案件",
+ "summary": "奏报派员密查陈四等自贵州返回湖广，将其男妇拿送武昌府，并密移河南巡抚锁禁苏满财等，请旨解京与潘汉杰对质审明。",
+ "has_zhupi": true,
+ "zhupi_summary": "就照此议为好。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "湖广总督"
+  },
+  {
+   "name": "陈四",
+   "role": "案犯"
+  },
+  {
+   "name": "苏满财",
+   "role": "案犯"
+  },
+  {
+   "name": "潘汉杰",
+   "role": "案犯"
+  },
+  {
+   "name": "额仑特",
+   "role": "提督"
+  },
+  {
+   "name": "鹿佑",
+   "role": "河南巡抚"
+  }
+ ],
+ "places": [
+  "贵州",
+  "湖广",
+  "武昌府",
+  "河南"
+ ],
+ "source_title": "湖广总督辑海奏报将流民陈四等人拿获折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35700,
+ "page_range": "927-928"
+}

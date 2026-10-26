@@ -1,0 +1,34 @@
+{
+ "source_no": 3686,
+ "title_guess": "论贝子阿喇布珠尔敕书",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "谕贝子阿喇布珠尔：前逃喇嘛已赐马粮遣回，今闻其伯父阿玉奇安好，遣属下四五人随俄罗斯人往原籍查明游牧生计。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "阿喇布珠尔",
+   "role": "贝子"
+  },
+  {
+   "name": "乌兰噶隆",
+   "role": "喇嘛"
+  },
+  {
+   "name": "阿玉奇",
+   "role": "阿喇布珠尔伯父"
+  }
+ ],
+ "places": [
+  "俄罗斯"
+ ],
+ "source_title": "论贝子阿喇布珠尔豆净",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76604,
+ "page_range": "1745-1746",
+ "_date_interpolated": true
+}

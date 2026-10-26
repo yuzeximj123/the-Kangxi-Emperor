@@ -1,0 +1,41 @@
+{
+ "source_no": 322,
+ "title_guess": "出使噶尔丹处之使者曼济之口供",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初九日",
+ "event_role": "边疆事务",
+ "summary": "使者曼济供述在噶尔丹处所见：丹济拉似有降意，诺颜噶隆询问圣主为人，乌尔占扎布之母劝噶尔丹归顺，并述满洲兵多富盛。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "曼济",
+   "role": "使者"
+  },
+  {
+   "name": "丹济拉",
+   "role": "噶尔丹属下"
+  },
+  {
+   "name": "诺颜噶隆",
+   "role": "噶尔丹属下"
+  },
+  {
+   "name": "乌尔占扎布",
+   "role": "噶尔丹属下"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "台西里"
+ ],
+ "source_title": "出使踢尔丹处之使者曼济之口供和",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8200,
+ "page_range": "377-378"
+}

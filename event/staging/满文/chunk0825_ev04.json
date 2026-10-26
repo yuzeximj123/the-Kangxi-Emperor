@@ -1,0 +1,35 @@
+{
+ "source_no": 4102,
+ "title_guess": "步军统领托和齐奏报云南金银矿折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "钱粮财政",
+ "summary": "托和齐奏报云南金、银、铜矿获利甚巨，总督、巡抚、司道官员、提督均有分润，云南巡抚佟毓秀自任以来甚富，并述其询问来人所言大概情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "佟毓秀",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "八国佐",
+   "role": "原安庆巡抚"
+  }
+ ],
+ "places": [
+  "云南",
+  "安庆"
+ ],
+ "source_title": "步军统领托和齐奏报云南金银矿折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82504,
+ "page_range": "1863-1864",
+ "_date_interpolated": true
+}

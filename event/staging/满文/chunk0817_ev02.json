@@ -1,0 +1,108 @@
+{
+ "source_no": 4068,
+ "title_guess": "步军统领隆科多奏报缉获偷盗漕米各犯折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月十五日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报缉获押运大役、撑船甲长等在普济闸地方合伙偷盗通州运至大通桥老米一百六十九石五斗，起获赃米并讯取各犯供词。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "李玉",
+   "role": "押米大役"
+  },
+  {
+   "name": "陈二",
+   "role": "撑船甲长"
+  },
+  {
+   "name": "薛回子",
+   "role": "撑船甲长"
+  },
+  {
+   "name": "白四",
+   "role": "撑船甲长"
+  },
+  {
+   "name": "刘大",
+   "role": "撑船甲长"
+  },
+  {
+   "name": "王大",
+   "role": "撑船甲长"
+  },
+  {
+   "name": "杨九",
+   "role": "撑船甲长"
+  },
+  {
+   "name": "李大",
+   "role": "粥铺店主"
+  },
+  {
+   "name": "张大",
+   "role": "闸长"
+  },
+  {
+   "name": "张四",
+   "role": "大役"
+  },
+  {
+   "name": "马四",
+   "role": "大役"
+  },
+  {
+   "name": "谭巴",
+   "role": "大役"
+  },
+  {
+   "name": "黄山",
+   "role": "大役"
+  },
+  {
+   "name": "左齐",
+   "role": "大役"
+  },
+  {
+   "name": "高老儿",
+   "role": "大役"
+  },
+  {
+   "name": "李春玉",
+   "role": "大役"
+  },
+  {
+   "name": "刘三",
+   "role": "大役"
+  },
+  {
+   "name": "张三",
+   "role": "大役"
+  },
+  {
+   "name": "赛四",
+   "role": "大役"
+  },
+  {
+   "name": "杨二",
+   "role": "撑船人"
+  }
+ ],
+ "places": [
+  "普济闸",
+  "通州",
+  "大通桥"
+ ],
+ "source_title": "步军统领隆科多奏报缉获偷盗清米各犯折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81702,
+ "page_range": "1847-1848",
+ "_date_interpolated": true
+}

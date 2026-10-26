@@ -1,0 +1,38 @@
+{
+ "source_no": 3829,
+ "title_guess": "康熙帝朱论一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝谕三阿哥等，京城若发洪水则皇太后速进京城，若被堵则加固浑河石堤、玉泉山北堤，抬起青龙桥木板，升高畅春园水闸，并奏皇太后阅览。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "三阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "京城",
+  "浑河石堤",
+  "玉泉山北堤",
+  "青龙桥",
+  "畅春园"
+ ],
+ "source_title": "康熙帝朱论一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78206,
+ "page_range": "1777-1778",
+ "_date_interpolated": true
+}

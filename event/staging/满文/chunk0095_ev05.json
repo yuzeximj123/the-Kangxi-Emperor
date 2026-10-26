@@ -1,0 +1,30 @@
+{
+ "source_no": 378,
+ "title_guess": "两江总督范承勋奏请将张志栋治罪留于原任折",
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "范承勋查报盐城等州县报灾不实官员职名，称布政使张志栋报期在赦后理应治罪，但居官尚好、才堪繁剧，乞宽宥留任。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "张志栋",
+   "role": "江苏布政使"
+  }
+ ],
+ "places": [
+  "江南",
+  "盐城"
+ ],
+ "source_title": "两江总督范承勋故请将张志栋治罪留于原任折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9505,
+ "page_range": "403-404"
+}

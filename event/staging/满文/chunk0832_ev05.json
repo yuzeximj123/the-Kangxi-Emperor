@@ -1,0 +1,56 @@
+{
+ "source_no": 4143,
+ "title_guess": "苑丞尚志舜奏报胜化寺被盗情形折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": "七月三十日",
+ "event_role": "司法案件",
+ "summary": "尚志舜奏报胜化寺观音阁北禅堂于七月三十日夜被盗，步军统领隆科多勘察擒获贼犯余方胜、双全儿并起获赃物，请将相关苑副、喇嘛、园户交内务府查议。",
+ "has_zhupi": true,
+ "zhupi_summary": "著交付之。",
+ "people": [
+  {
+   "name": "尚志舜",
+   "role": "苑丞"
+  },
+  {
+   "name": "赛济图",
+   "role": "苑副"
+  },
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "余方胜",
+   "role": "贼犯"
+  },
+  {
+   "name": "双全儿",
+   "role": "胜化寺园户"
+  },
+  {
+   "name": "格勒克扎木素",
+   "role": "守寺喇嘛"
+  },
+  {
+   "name": "齐二",
+   "role": "值宿园户"
+  },
+  {
+   "name": "庄杰",
+   "role": "值宿园户"
+  }
+ ],
+ "places": [
+  "胜化寺",
+  "观音阁",
+  "北禅堂"
+ ],
+ "source_title": "苑丞尚志和琶奏报胜化寺被盗情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83205,
+ "page_range": "1877-1878",
+ "_date_interpolated": true
+}

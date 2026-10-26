@@ -1,0 +1,26 @@
+{
+ "source_no": 13,
+ "title_guess": "康熙帝墨笔上谕",
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "初六日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕：封疆大吏应不避嫌怨、为国为民，人君断事持中；就安珠瑚奏盐务及请治罪、赦免盐案、偿还商物等事，认为事已完结、是非已明，不宜骤然反悔再降旨，故择要亲书密谕。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "安珠瑚",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "盛京",
+  "辽东"
+ ],
+ "source_title": "康熙帝黑笔上谕",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 205,
+ "page_range": "217-218"
+}

@@ -1,0 +1,40 @@
+{
+ "source_no": 3934,
+ "title_guess": "步军统领隆科多奏报京城九月所获各案情折",
+ "reign_year": 3,
+ "month": 9,
+ "day_text": "八月二十七日至九月二十六日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报八月二十七日至九月二十六日拿获窃盗割懒筋者十七人及假银、逃人等案，解送刑部。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "孙二",
+   "role": "河间府民"
+  },
+  {
+   "name": "张柱儿",
+   "role": "三河县民"
+  },
+  {
+   "name": "波儿",
+   "role": "河南民"
+  }
+ ],
+ "places": [
+  "河间府",
+  "三河县",
+  "河南"
+ ],
+ "source_title": "步军统领隆科多奏报京城九月所获各案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79505,
+ "page_range": "1803-1804",
+ "_date_interpolated": true
+}

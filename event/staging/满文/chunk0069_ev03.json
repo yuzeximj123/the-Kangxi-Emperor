@@ -1,0 +1,49 @@
+{
+ "source_no": 273,
+ "title_guess": "皇太子初请安并奏遵奉上谕折",
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十一日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子请安并奏遵旨抄发保柱、车克楚等奏文给议政大臣阅看，转请皇太后安，又述第巴推托之词及噶尔丹穷困、头目离散情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "保柱",
+   "role": "员外郎"
+  },
+  {
+   "name": "车克楚",
+   "role": "章京"
+  },
+  {
+   "name": "根敦戴青",
+   "role": "贝勒"
+  },
+  {
+   "name": "席尔布",
+   "role": "理藩院主事"
+  },
+  {
+   "name": "第巴",
+   "role": "西藏执政"
+  },
+  {
+   "name": "阿玉希",
+   "role": "供人"
+  }
+ ],
+ "places": [
+  "岔道"
+ ],
+ "source_title": "皇太子筷初请安并奏遵奉上谕折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6903,
+ "page_range": "351-352"
+}

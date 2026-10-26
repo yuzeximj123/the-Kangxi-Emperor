@@ -1,0 +1,28 @@
+{
+ "source_no": 1500,
+ "title_guess": "两江总督噶礼奏请赏赐驿马折",
+ "reign_year": 48,
+ "month": 9,
+ "day_text": "十二日",
+ "event_role": "其他",
+ "summary": "噶礼以两江事繁路远，奏请援四川陕西总督衙门例赏驿马二匹，以便赍奏紧要折子不致迟误。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批：给驿马二匹。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "四川",
+  "陕西"
+ ],
+ "source_title": "两江总督噶礼秦请赏赐又马拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32302,
+ "page_range": "859-860"
+}

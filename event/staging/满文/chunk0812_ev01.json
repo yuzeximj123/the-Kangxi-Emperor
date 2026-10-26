@@ -1,0 +1,41 @@
+{
+ "source_no": 4052,
+ "title_guess": "步军统领隆科多奏报拿获噶礼家管领之妻等事折",
+ "reign_year": 3,
+ "month": 11,
+ "day_text": "十一月二十七日",
+ "event_role": "司法案件",
+ "summary": "奏报拿获噶礼家管领戴留之妻二姐及四皮箱账本，载田产金银数目，请送该旗核查。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "戴留",
+   "role": "噶礼家管领"
+  },
+  {
+   "name": "二姐",
+   "role": "戴留之妻"
+  }
+ ],
+ "places": [
+  "长芦",
+  "凤村",
+  "柴口",
+  "杨家村",
+  "方良村",
+  "马跑泉",
+  "马家桃",
+  "高家口"
+ ],
+ "source_title": "步军统领隆科多奏报拿获噶礼家管领之妻等事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81201,
+ "page_range": "1837-1838",
+ "_date_interpolated": true
+}

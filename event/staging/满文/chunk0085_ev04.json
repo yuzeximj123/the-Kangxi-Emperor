@@ -1,0 +1,39 @@
+{
+ "source_no": 335,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十五日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕皇太子，告以十五日起程往白塔，命停由内地发送米粮改由关外运送，宁夏粮草就地贮存，说明远来为筹办粮饷进兵方略而非扰民，命给议政大臣俱览。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "杜楞公",
+   "role": "鄂尔多斯部公爵"
+  }
+ ],
+ "places": [
+  "白塔",
+  "黄河",
+  "鄂尔多斯",
+  "杀虎口",
+  "宁夏",
+  "贺兰山",
+  "察罕托辉"
+ ],
+ "source_title": "康熙希朱论",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8504,
+ "page_range": "383-384"
+}

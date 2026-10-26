@@ -1,0 +1,27 @@
+{
+ "source_no": 225,
+ "title_guess": "康熙帝谕告猎兔情形事",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "初六日",
+ "event_role": "宫廷事务",
+ "summary": "康熙帝谕问鄂尔多斯兔重达五斤、四斤八两以上者多，京城之兔是否有如此重者。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "鄂尔多斯",
+  "乌尼特",
+  "京城"
+ ],
+ "source_title": "康熙帝谕告猎情形事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5701,
+ "page_range": "327-328"
+}

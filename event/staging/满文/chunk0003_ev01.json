@@ -1,0 +1,27 @@
+{
+ "source_no": 15,
+ "title_guess": "康熙帝墨笔上谕",
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "康熙二十一年二月初二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕将军安珠瑚，所奏已阅，祭告平定云南大事不宜推迟，定于二月十五日启程，其余事宜由奏事人口传。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安珠瑚",
+   "role": "将军"
+  }
+ ],
+ "places": [],
+ "source_title": "康熙帝墨笔上谕",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 301,
+ "page_range": "219-220"
+}

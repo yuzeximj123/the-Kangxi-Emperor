@@ -1,0 +1,45 @@
+{
+ "source_no": 314,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初六日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕皇太子，报费扬古所遣博席希等至及英古自策妄喇布坦处返回所言，命朝臣会议，并问京城日食情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "谕示者"
+  },
+  {
+   "name": "皇太子",
+   "role": "受谕者"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "博席希",
+   "role": "员外郎"
+  },
+  {
+   "name": "英古",
+   "role": "司务"
+  },
+  {
+   "name": "常明",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "康熙帝朱诊",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 7903,
+ "page_range": "371-372"
+}

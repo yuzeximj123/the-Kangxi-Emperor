@@ -1,0 +1,62 @@
+{
+ "source_no": 3028,
+ "title_guess": "闽浙总督满保奏报巡海情形折",
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "初七日",
+ "event_role": "司法案件",
+ "summary": "满保奏报缉拿盛京旅顺口逃贼陈俊园等，浙江温州镇游击蓝廷祯海上缴获贼船杀四人生擒七贼，黄岩镇、闽安镇又获贼船，正严审对证。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "陈俊园",
+   "role": "逃贼"
+  },
+  {
+   "name": "蓝廷祯",
+   "role": "温州镇游击"
+  },
+  {
+   "name": "丁可宾",
+   "role": "逃贼"
+  },
+  {
+   "name": "孙胜",
+   "role": "贼人"
+  },
+  {
+   "name": "郑金新",
+   "role": "贼人"
+  },
+  {
+   "name": "郑空灯",
+   "role": "贼人"
+  },
+  {
+   "name": "郑勤",
+   "role": "烽火营游击"
+  },
+  {
+   "name": "游全兴",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "盛京旅顺口",
+  "浙江",
+  "温州",
+  "黄岩",
+  "闽安",
+  "东永海"
+ ],
+ "source_title": "闽浙总督满保奏报近海情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 60006,
+ "page_range": "1413-1414"
+}

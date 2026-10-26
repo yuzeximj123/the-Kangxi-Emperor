@@ -1,0 +1,60 @@
+{
+ "source_no": 3085,
+ "title_guess": "广东巡抚法海奏报缉捕龙门县山贼情形折",
+ "reign_year": 56,
+ "month": 8,
+ "day_text": "二十四日",
+ "event_role": "司法案件",
+ "summary": "法海奏报龙门县寅芬达山贼武信龙、贺卫龙等聚众劫掠，派副将、守备及知县乡勇缉捕，杀擒数贼并获贺卫龙，贼首武信龙等仍未获。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "法海",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "萧大成",
+   "role": "龙门县知县"
+  },
+  {
+   "name": "武信龙",
+   "role": "山贼首领"
+  },
+  {
+   "name": "贺卫龙",
+   "role": "山贼"
+  },
+  {
+   "name": "赖君路",
+   "role": "山贼"
+  },
+  {
+   "name": "刘十三",
+   "role": "山贼"
+  },
+  {
+   "name": "王生",
+   "role": "副将"
+  },
+  {
+   "name": "王泉载",
+   "role": "常宁县知县"
+  },
+  {
+   "name": "王达洪",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "龙门县",
+  "寅芬达山",
+  "常宁县",
+  "广州"
+ ],
+ "source_title": "广东巡抚法海考报缉捕龙门县山贼情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 61301,
+ "page_range": "1439-1440"
+}

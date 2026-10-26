@@ -1,0 +1,43 @@
+{
+ "source_no": 1768,
+ "title_guess": "武英殿总监造和素奏报西洋人到京折",
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "二十五日",
+ "event_role": "宫廷事务",
+ "summary": "和素奏报西洋人富生哲已到京，遵旨交博津处，并询问其来历及学易经情形，富生哲称病愈后再详阅博津所著易经。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "和素",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "王道化",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "富生哲",
+   "role": "西洋人"
+  },
+  {
+   "name": "博津",
+   "role": "西洋人"
+  },
+  {
+   "name": "郎廷极",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "淮安",
+  "福建",
+  "江西"
+ ],
+ "source_title": "武英殿总监造和素奏报西洋人到京折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 36705,
+ "page_range": "947-948"
+}

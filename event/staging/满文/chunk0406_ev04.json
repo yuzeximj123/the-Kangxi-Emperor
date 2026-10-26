@@ -1,0 +1,41 @@
+{
+ "source_no": 2014,
+ "title_guess": "理藩院奏请承袭鄂尔多斯固山贝子折",
+ "reign_year": 51,
+ "month": 8,
+ "day_text": "初八日",
+ "event_role": "人事任免",
+ "summary": "理藩院奏请鄂尔多斯已故固山贝子色秩喇希之承袭事，其妻请以长子图巴札布承袭，其母请以三子鲁木布承袭，请旨定夺。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：固山贝子以鲁木布承袭。",
+ "people": [
+  {
+   "name": "色秩喇希",
+   "role": "已故鄂尔多斯固山贝子"
+  },
+  {
+   "name": "图巴札布",
+   "role": "色秩喇希长子"
+  },
+  {
+   "name": "绰依杞布",
+   "role": "色秩喇希次子"
+  },
+  {
+   "name": "鲁木布",
+   "role": "色秩喇希三子、承袭固山贝子"
+  },
+  {
+   "name": "杜入",
+   "role": "已故贝子、色秩喇希之父"
+  }
+ ],
+ "places": [
+  "鄂尔多斯"
+ ],
+ "source_title": "理藩院奏请承缆鄂尔多斯固山贝子折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 40604,
+ "page_range": "1025-1026"
+}

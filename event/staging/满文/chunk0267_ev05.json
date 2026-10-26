@@ -1,0 +1,29 @@
+{
+ "source_no": 1179,
+ "title_guess": "筷社等奏已接御批折",
+ "reign_year": 46,
+ "month": 8,
+ "day_text": "初九日",
+ "event_role": "其他",
+ "summary": "筷社等奏报已接奉御批，将详细打听南方旱情消息后再行具奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：据报七月十三、十四、十五等日得雨。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报人"
+  },
+  {
+   "name": "优祯",
+   "role": "奏报人"
+  }
+ ],
+ "places": [
+  "南方"
+ ],
+ "source_title": "息社等考已接御批折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 26705,
+ "page_range": "747-748"
+}

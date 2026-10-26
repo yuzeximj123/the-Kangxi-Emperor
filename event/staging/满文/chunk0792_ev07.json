@@ -1,0 +1,34 @@
+{
+ "source_no": 3915,
+ "title_guess": "兵部尚书揣特布奏请不准有罪官员前往军前效力折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部尚书揣特布等奏，议政处议定自愿捐驼效力者记录议叙，今犯人王培旺书自愿捐驼四十只亲往湖滩河朔效力，查其系来归汉人王培欲出身为民改姓，此为片段。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "揣特布",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "王培旺书",
+   "role": "捐驼效力犯人"
+  },
+  {
+   "name": "王培",
+   "role": "来归汉人"
+  }
+ ],
+ "places": [
+  "湖滩河朔"
+ ],
+ "source_title": "兵部尚书角特布奏请不准有罪官员前往军前效力折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79207,
+ "page_range": "1797-1798",
+ "_date_interpolated": true
+}

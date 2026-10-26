@@ -1,0 +1,42 @@
+{
+ "source_no": 104,
+ "title_guess": "两江总督傅拉塔奏报田禾雨水情形折",
+ "reign_year": 32,
+ "month": 7,
+ "day_text": "初六日",
+ "event_role": "灾情收成",
+ "summary": "傅拉塔遵旨密奏江南田禾雨水情形，二麦丰收，五月至六月阴天多未降大雨，高地略旱，部分州县受旱待查。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "傅拉塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "张志栎",
+   "role": "江苏布政使"
+  },
+  {
+   "name": "宋伴昌",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "江南",
+  "苏州",
+  "松江",
+  "江宁",
+  "常州",
+  "淮安",
+  "扬州",
+  "凤阳",
+  "徽州",
+  "徐州"
+ ],
+ "source_title": "两江总督传拉塔奏报田禾雨水情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 2205,
+ "page_range": "257-258"
+}

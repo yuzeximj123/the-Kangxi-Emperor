@@ -1,0 +1,29 @@
+{
+ "source_no": 1582,
+ "title_guess": "奏请补授侍读学士员缺折",
+ "reign_year": 49,
+ "month": 5,
+ "day_text": "十九日",
+ "event_role": "人事任免",
+ "summary": "理藩院奏报驻扎责特固山贝子特固斯旗查盗办事之侍读学士阿尔法升调满一年请更换，开列差返官员职名请简派一员补缺。",
+ "has_zhupi": true,
+ "zhupi_summary": "阿尔法著留一年。",
+ "people": [
+  {
+   "name": "阿尔法",
+   "role": "侍读学士"
+  },
+  {
+   "name": "特固斯",
+   "role": "固山贝子"
+  }
+ ],
+ "places": [
+  "责特固山"
+ ],
+ "source_title": "理藩院考请补授侍读学土员贞折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33704,
+ "page_range": "887-888"
+}

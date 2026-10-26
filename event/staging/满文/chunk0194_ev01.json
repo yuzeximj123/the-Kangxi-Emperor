@@ -1,0 +1,36 @@
+{
+ "source_no": 789,
+ "title_guess": "山西巡抚噶礼奏报噶尔绚前往西安任所折",
+ "reign_year": 44,
+ "month": 9,
+ "day_text": "康熙四十四年九月初一日",
+ "event_role": "人事任免",
+ "summary": "山西巡抚噶礼奏报：原拟赴张家口迎驾，接御批令不必来，即遵旨返回；其弟噶尔绚赴西安任所前来辞行，兄弟感念皇恩，誓拼死效力。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "噶尔绚",
+   "role": "噶礼之弟，赴西安任职"
+  },
+  {
+   "name": "硕泰",
+   "role": "家人"
+  }
+ ],
+ "places": [
+  "张家口",
+  "忻州",
+  "忻口",
+  "西安"
+ ],
+ "source_title": "山西巡抚噶礼奏报噶尔绚前往西安任所折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 19401,
+ "page_range": "601-602"
+}

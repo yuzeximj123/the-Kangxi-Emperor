@@ -1,0 +1,46 @@
+{
+ "source_no": 1443,
+ "title_guess": "上岗社等奏报接旨传谕皇太后及诸臣情形折",
+ "reign_year": 48,
+ "month": 6,
+ "day_text": "十八日",
+ "event_role": "河工水利",
+ "summary": "上岗社等奏报接到御批，转奏皇太后阅旨后惊痛赞颂之语，并述水退、圣躬忧劳及群臣仰望之情。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安；此处安然无事，只是分散住宿，河水虽退但多处不能涉渡，尚未查明，且奏报很晚才到，下次再寄。",
+ "people": [
+  {
+   "name": "上岗社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "向祺",
+   "role": "奏事臣"
+  },
+  {
+   "name": "亿祷",
+   "role": "奏事臣"
+  },
+  {
+   "name": "向徇",
+   "role": "奏事臣"
+  },
+  {
+   "name": "知祯",
+   "role": "奏事臣"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "京城",
+  "畅春园"
+ ],
+ "source_title": "和候社等奏报接旨传论皇太后及诺臣情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 31302,
+ "page_range": "839-840"
+}

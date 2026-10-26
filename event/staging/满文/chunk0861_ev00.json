@@ -1,0 +1,24 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "朱批片段：康熙帝要求以后奏折都亲手书写呈进。",
+ "has_zhupi": true,
+ "zhupi_summary": "以后都亲手写来。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 86100,
+ "page_range": "1935-1936",
+ "_date_interpolated": true
+}

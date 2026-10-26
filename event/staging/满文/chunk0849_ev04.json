@@ -1,0 +1,56 @@
+{
+ "source_no": 4228,
+ "title_guess": "巡抚鹿祷等之进物清单",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "记录巡抚鹿祷、赵宏变、总兵路振生、李耀、张文焕、范时届、马见伯、将军潘育龙、席柱等进献挂面、面柜数目，并有朱批分别赏一百或两柜子。",
+ "has_zhupi": true,
+ "zhupi_summary": "分别赏一百把或两柜子。",
+ "people": [
+  {
+   "name": "鹿祷",
+   "role": "巡抚"
+  },
+  {
+   "name": "赵宏变",
+   "role": "官员"
+  },
+  {
+   "name": "路振生",
+   "role": "总兵"
+  },
+  {
+   "name": "李耀",
+   "role": "总兵"
+  },
+  {
+   "name": "张文焕",
+   "role": "提督"
+  },
+  {
+   "name": "范时届",
+   "role": "总兵"
+  },
+  {
+   "name": "马见伯",
+   "role": "总兵"
+  },
+  {
+   "name": "潘育龙",
+   "role": "将军"
+  },
+  {
+   "name": "席柱",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_title": "巡抚庵祈等之进物清音",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84904,
+ "page_range": "1911-1912",
+ "_date_interpolated": true
+}

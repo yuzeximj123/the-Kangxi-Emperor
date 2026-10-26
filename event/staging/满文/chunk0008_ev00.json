@@ -1,0 +1,35 @@
+{
+ "source_no": 39,
+ "title_guess": "山东巡抚佛伦奏请万安折",
+ "reign_year": 29,
+ "month": 8,
+ "day_text": "初四日",
+ "event_role": "请安谢恩",
+ "summary": "佛伦闻皇上亲幸口外避暑办理噶尔丹事宜后圣体违和，不胜战栗，冒昧奏请圣安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体大安了，仍幸畅春园调养。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "蒙古准噶尔部首领"
+  }
+ ],
+ "places": [
+  "口外",
+  "畅春园",
+  "省城"
+ ],
+ "source_title": "山东巡抚佛伦奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 800,
+ "page_range": "229-230"
+}

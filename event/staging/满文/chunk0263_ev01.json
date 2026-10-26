@@ -1,0 +1,45 @@
+{
+ "source_no": 1157,
+ "title_guess": "李国屏等奏报赫世享病势折",
+ "reign_year": 46,
+ "month": 7,
+ "day_text": "十四日",
+ "event_role": "宫廷事务",
+ "summary": "李国屏、爱保奏报赫世享病情进一步好转，转述康熙帝谕旨，和素阅大夫诊治书后议论，并附诊治书。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称赫世享既已活且病愈，令勿烦闷、好生调养；赐理气健脾丸，每早一钱用小米饭汤送服，禁饮一切补药及人参；又送去狗肉、猪肉、燕肉。",
+ "people": [
+  {
+   "name": "李国屏",
+   "role": "奏报人"
+  },
+  {
+   "name": "爱保",
+   "role": "奏报人"
+  },
+  {
+   "name": "赫世享",
+   "role": "患病官员"
+  },
+  {
+   "name": "和素",
+   "role": "阅诊治书者"
+  },
+  {
+   "name": "刘声芳",
+   "role": "大夫"
+  },
+  {
+   "name": "张堤",
+   "role": "大夫"
+  }
+ ],
+ "places": [
+  "武英殿"
+ ],
+ "source_title": "地国屏等奏报赫世享病势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 26301,
+ "page_range": "739-740"
+}

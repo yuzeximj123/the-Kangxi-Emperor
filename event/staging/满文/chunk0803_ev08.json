@@ -1,0 +1,24 @@
+{
+ "source_no": 4001,
+ "title_guess": "步军统领隆科多奏请万安折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "隆科多跪请皇上万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙答安，称仍照往年行围，哨鹿获二只，今年兽多。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [],
+ "source_title": "步军统领隆科多奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80308,
+ "page_range": "1819-1820",
+ "_date_interpolated": true
+}

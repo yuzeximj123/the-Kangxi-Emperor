@@ -1,0 +1,30 @@
+{
+ "source_no": 615,
+ "title_guess": "西安将军博霁奏进新麦折",
+ "reign_year": 43,
+ "month": 6,
+ "day_text": "三十日",
+ "event_role": "灾情收成",
+ "summary": "西安将军博霁奏报陕西省春夏雨水调匀，麦子、豌豆收成较往年倍多，百姓感念去年皇帝巡幸，因天热路远恐新面受潮，与巡抚鄂海各进新麦二十石送交内务府。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "博霁",
+   "role": "西安将军"
+  },
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安"
+ ],
+ "source_title": "西安将军博都秦进新者折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16102,
+ "page_range": "535-536"
+}

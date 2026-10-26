@@ -1,0 +1,35 @@
+{
+ "source_no": 3004,
+ "title_guess": "内务府奏请每月两次清理粪土折",
+ "reign_year": 56,
+ "month": 5,
+ "day_text": "十七日",
+ "event_role": "宫廷事务",
+ "summary": "简亲王雅尔江阿等转来太监山福所告阿哥之言，因天热人多粪土气味恶臭，请每月清理两次，内务府具奏请旨。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "雅尔江阿",
+   "role": "简亲王"
+  },
+  {
+   "name": "山寿",
+   "role": "副都统宗室"
+  },
+  {
+   "name": "山福",
+   "role": "太监"
+  },
+  {
+   "name": "董典邦",
+   "role": "署理内务府总管事务郎中"
+  }
+ ],
+ "places": [],
+ "source_title": "内务府奏请每月两次清理装填折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 59304,
+ "page_range": "1399-1400"
+}

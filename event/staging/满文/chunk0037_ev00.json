@@ -1,0 +1,47 @@
+{
+ "source_no": 161,
+ "title_guess": "抚远大将军费扬古奏报征讨噶尔丹进军日期折",
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "四月初六日",
+ "event_role": "军务",
+ "summary": "费扬古奏报大军口粮运输安排、宁夏兵行程及与噶尔丹作战进军计划，拟初十日前往土拉河。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "孙思克",
+   "role": "宁夏兵将领"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "尚纳多尔济",
+   "role": "赴朝人员"
+  }
+ ],
+ "places": [
+  "土拉河",
+  "归化城",
+  "翁金",
+  "锡拉呼鲁苏台",
+  "乌兰",
+  "阿拉克山",
+  "西克勒和硕"
+ ],
+ "source_title": "抚远大将军费扬古奏报征讨噶尔丹进军日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3700,
+ "page_range": "287-288"
+}

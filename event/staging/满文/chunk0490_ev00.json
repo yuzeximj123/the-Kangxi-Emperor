@@ -1,0 +1,37 @@
+{
+ "source_no": 2511,
+ "title_guess": "户部尚书穆和伦奏请准佐领尤温等捐纳折",
+ "reign_year": 53,
+ "month": 10,
+ "day_text": "十一日",
+ "event_role": "钱粮财政",
+ "summary": "奏请准满洲买卖人西吐库、孙国永等援王刚明例捐纳三品顶带空衔，并请准陕西例内满洲捐纳，请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：与前折同。",
+ "people": [
+  {
+   "name": "穆和伦",
+   "role": "户部尚书"
+  },
+  {
+   "name": "西吐库",
+   "role": "镶黄旗包衣买卖人"
+  },
+  {
+   "name": "孙国永",
+   "role": "正黄旗包衣买卖人"
+  },
+  {
+   "name": "王刚明",
+   "role": "内务府买卖人"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_title": "户部尚书穆和伦秦请准佐领尤温等捐纳折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 49000,
+ "page_range": "1193-1194"
+}

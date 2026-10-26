@@ -1,0 +1,54 @@
+{
+ "source_no": 3743,
+ "title_guess": "内务府总管凌普奏报追捕拜色之情形折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "六月初二日",
+ "event_role": "司法案件",
+ "summary": "凌普奏报闻拜色出逃后派人访查，据家人报称拜色经平谷、张家庄往通州，马武等分路追踪。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：责问马武未去何以写之；拜色背皇太子出逃可恶无耻，命将其妻子锁禁、家产封闭看守，不可疏忽。",
+ "people": [
+  {
+   "name": "凌普",
+   "role": "内务府总管"
+  },
+  {
+   "name": "拜色",
+   "role": "逃犯"
+  },
+  {
+   "name": "马武",
+   "role": "副都统"
+  },
+  {
+   "name": "老雅图",
+   "role": "主事"
+  },
+  {
+   "name": "张连方",
+   "role": "拜色家人"
+  },
+  {
+   "name": "二傻子",
+   "role": "拜色家人"
+  },
+  {
+   "name": "大小子",
+   "role": "拜色家人"
+  }
+ ],
+ "places": [
+  "平谷",
+  "张家庄",
+  "通州",
+  "安徐",
+  "固安"
+ ],
+ "source_title": "内务府总管凌普奏报追捕拜色之情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 77204,
+ "page_range": "1757-1758",
+ "_date_interpolated": true
+}

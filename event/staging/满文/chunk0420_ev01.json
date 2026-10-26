@@ -1,0 +1,46 @@
+{
+ "source_no": 2090,
+ "title_guess": "广东巡抚满丕奏咨行西洋信函已交付带往折",
+ "reign_year": 52,
+ "month": 1,
+ "day_text": "初十日",
+ "event_role": "宫廷事务",
+ "summary": "广东巡抚满丕奏报遵旨将咨行西洋信函交西洋人艾约瑟带往澳门，赶上返航西洋船交船长加罗谢，于正月初四日起航驶往大西洋。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "满丕",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "赵昌",
+   "role": "养心殿监督"
+  },
+  {
+   "name": "哈西太",
+   "role": "满丕之侄"
+  },
+  {
+   "name": "穆德奥",
+   "role": "西洋人"
+  },
+  {
+   "name": "艾约瑟",
+   "role": "西洋人"
+  },
+  {
+   "name": "加罗谢",
+   "role": "西洋船长"
+  }
+ ],
+ "places": [
+  "广东",
+  "澳门"
+ ],
+ "source_title": "广东巡抚满否堆咨行西洋信函已交付带往拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42001,
+ "page_range": "1053-1054"
+}

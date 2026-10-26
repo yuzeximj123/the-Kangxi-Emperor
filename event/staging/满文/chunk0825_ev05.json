@@ -1,0 +1,47 @@
+{
+ "source_no": 4103,
+ "title_guess": "步军统领托和齐奏请富豪之子可授职效力折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "托和齐奏陈原两淮盐道李灿之子李秉恒捐纳同知尚未得缺、李秉金李秉仁捐纳通判已赴任，请将其长子随意驱使于要职以效力。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "李灿",
+   "role": "原两淮盐道"
+  },
+  {
+   "name": "李永胜",
+   "role": "牛录"
+  },
+  {
+   "name": "李秉恒",
+   "role": "捐纳同知"
+  },
+  {
+   "name": "李秉金",
+   "role": "捐纳通判"
+  },
+  {
+   "name": "李秉仁",
+   "role": "捐纳通判"
+  }
+ ],
+ "places": [
+  "江南池州府",
+  "天津"
+ ],
+ "source_title": "步军统领托和齐秦请富豪之子可授职效力折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82505,
+ "page_range": "1863-1864",
+ "_date_interpolated": true
+}

@@ -1,0 +1,33 @@
+{
+ "source_no": 201,
+ "title_guess": "康熙帝论费扬古为沙克珠木等归降事折",
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十一日",
+ "event_role": "边疆事务",
+ "summary": "康熙帝谕示前日归降之沙克珠木、鄂新、达尔札等来归人员，令将其所骑之马送交御前，勿加逼迫，或可有用。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "沙克珠木",
+   "role": "归降头目"
+  },
+  {
+   "name": "鄂新",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "达尔札",
+   "role": "来归官员"
+  }
+ ],
+ "places": [
+  "克鲁伦"
+ ],
+ "source_title": "康熙帝论费扬古为沙克珠木等归降事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5201,
+ "page_range": "317-318"
+}

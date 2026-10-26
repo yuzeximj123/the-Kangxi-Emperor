@@ -1,0 +1,36 @@
+{
+ "source_no": null,
+ "title_guess": "康熙帝论噶尔丹处归降及军情朱批",
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝朱批记述二十日晚奏到、二十一日晨噶尔丹处二乌勒昆归降受赏、夫妻重逢等情，并详问丹济拉返归及噶尔丹窘迫、将往哈密取米等军情。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批叙述归降者受赏、夫妻相认众人落泪称喜事，详问丹济拉归告噶尔丹大军拦阻、穷途末路必获噶尔丹，并报二十一日至二十三日行程及马匹肥壮。",
+ "people": [
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "丹济拉",
+   "role": "噶尔丹部属"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "噶尔丹部属"
+  }
+ ],
+ "places": [
+  "库伦伯勒齐尔",
+  "哈密",
+  "黄河"
+ ],
+ "source_title": "康熙帝论噶尔丹处归降及军情朱批",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5501,
+ "page_range": "323-324",
+ "_date_interpolated": true
+}

@@ -1,0 +1,33 @@
+{
+ "source_no": null,
+ "title_guess": "谕噶礼知悉",
+ "reign_year": 50,
+ "month": 2,
+ "day_text": "康熙五十年二月十六日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝密谕噶礼：迎接皇子公主理所当然，其余公主格格不必预备；敏公主又去五台，因尔母身体不好，趁二公主在五台时速去任所，并告诫蒙古信物索要之事。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "地方大臣"
+  },
+  {
+   "name": "敏公主",
+   "role": "公主"
+  },
+  {
+   "name": "二公主",
+   "role": "公主"
+  }
+ ],
+ "places": [
+  "五台"
+ ],
+ "source_title": "谕噶礼知悉",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37202,
+ "page_range": "957-958"
+}

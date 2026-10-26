@@ -1,0 +1,34 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "此为前件奏折残余片段，涉及达赖喇嘛骨殖速送、诵经安排、班禅呼图克图请奏及第巴封号等事，并请求对四厄鲁特有益之处赐教。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "喇克巴盆楚克格隆",
+   "role": "喇嘛"
+  },
+  {
+   "name": "班禅呼图克图",
+   "role": "活佛"
+  },
+  {
+   "name": "第巴",
+   "role": "西藏执政"
+  }
+ ],
+ "places": [
+  "乌斯藏"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6700,
+ "page_range": "347-348",
+ "_date_interpolated": true
+}

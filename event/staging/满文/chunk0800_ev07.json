@@ -1,0 +1,26 @@
+{
+ "source_no": 3975,
+ "title_guess": "步军统领隆科多奏报京城雨水并庄稼生长情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "十九日、二十一日、二十二日、二十三日、二十四日",
+ "event_role": "灾情收成",
+ "summary": "隆科多奏报五月京城尚旱，本月初八后连得雨沾足，庄稼长势好，并报十九至二十四日雨情及无流言。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏报京城雨水并庄稼生长情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80007,
+ "page_range": "1813-1814",
+ "_date_interpolated": true
+}

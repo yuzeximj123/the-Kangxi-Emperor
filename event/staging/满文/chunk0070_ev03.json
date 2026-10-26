@@ -1,0 +1,32 @@
+{
+ "source_no": 279,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "二十四上日",
+ "event_role": "军务",
+ "summary": "康熙帝告知黄河涉渡处二月初旬冰解、湖滩河朔及宁夏尚未化冻，大军皆履冰渡河，马思喀所率兵马自十九日始进宁夏，令京城化冻情形乘便寄信告知。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马思喀",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "黄河",
+  "湖滩河朔",
+  "宁夏",
+  "京城"
+ ],
+ "source_title": "康熙帝环诡",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 7003,
+ "page_range": "353-354"
+}

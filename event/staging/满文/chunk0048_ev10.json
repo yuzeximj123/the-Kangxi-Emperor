@@ -1,0 +1,37 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 7,
+ "day_text": "二十四日",
+ "event_role": "军务",
+ "summary": "令御前头等侍卫喀瓦勒达、巴当阿、巴勒楚喀等带前锋往固尔班土拉噶一带侦察敌哨，二十四日奏称越巴尔泰哈山至东土拉噶山，见敌哨卒及克鲁伦烟，确认有厄鲁特。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "喀瓦勒达",
+   "role": "御前头等侍卫"
+  },
+  {
+   "name": "巴当阿",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "巴勒楚喀",
+   "role": "头等侍卫"
+  }
+ ],
+ "places": [
+  "固尔班土拉噶",
+  "巴尔泰哈山",
+  "东土拉噶山",
+  "克鲁伦"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4810,
+ "page_range": "309-310",
+ "_date_interpolated": true
+}

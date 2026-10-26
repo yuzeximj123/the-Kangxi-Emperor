@@ -1,0 +1,37 @@
+{
+ "source_no": 2005,
+ "title_guess": "福建巡抚满保奏报田禾粮价并请将蓝理送京城折",
+ "reign_year": 51,
+ "month": 8,
+ "day_text": "初三日",
+ "event_role": "灾情收成",
+ "summary": "福建巡抚满保奏报福建雨水调匀、稻谷收成及米价情况，并报漳州盗贼缉拿、地方安宁，请将原提督蓝理解送京城。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕旨一到，著速送蓝理至京城。",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "许峰",
+   "role": "总兵官"
+  },
+  {
+   "name": "蓝理",
+   "role": "原提督"
+  }
+ ],
+ "places": [
+  "福建",
+  "福州",
+  "台湾",
+  "漳州",
+  "泉州"
+ ],
+ "source_title": "福建巡抚满保奏报田采粮价并请将蓝理送京城折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 40502,
+ "page_range": "1023-1024"
+}

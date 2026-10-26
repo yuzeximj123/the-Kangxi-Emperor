@@ -1,0 +1,37 @@
+{
+ "source_no": 4273,
+ "title_guess": "奏报副将参将员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报副将员缺三名：直隶正定副将、山西杀虎口副将、湖广长沙副将，及陕西阳平关参将员缺，并有朱批。",
+ "has_zhupi": true,
+ "zhupi_summary": "正定副将著胡昆任内守制；杀虎口副将著以为迪补放；以下照例煞签。",
+ "people": [
+  {
+   "name": "胡昆",
+   "role": "正定副将任内守制"
+  },
+  {
+   "name": "为迪",
+   "role": "补放副将"
+  }
+ ],
+ "places": [
+  "直隶",
+  "正定",
+  "山西",
+  "杀虎口",
+  "湖广",
+  "长沙",
+  "陕西",
+  "阳平关"
+ ],
+ "source_title": "(佚名)奏报副将参将员身折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85804,
+ "page_range": "1929-1930",
+ "_date_interpolated": true
+}

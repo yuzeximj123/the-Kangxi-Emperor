@@ -1,0 +1,46 @@
+{
+ "source_no": 234,
+ "title_guess": "抚远大将军费扬古奏为接待厄鲁特来使折",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "十四日",
+ "event_role": "边疆事务",
+ "summary": "费扬古奏报喀尔喀王沙木巴所遣典仪伊伯格勤告称噶尔丹属下格伪古英都喇勒寨桑等二十人携马驼以礼相会，已将来使停于卡伦外库布地方，遵旨派人转达侍郎满丕接近来使取文或问明速报，请旨。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军、领侍卫内大臣、伯"
+  },
+  {
+   "name": "沙木巴",
+   "role": "喀尔喀王"
+  },
+  {
+   "name": "伊伯格勤",
+   "role": "典仪"
+  },
+  {
+   "name": "格伪古英都喇勒寨桑",
+   "role": "噶尔丹属下"
+  },
+  {
+   "name": "满丕",
+   "role": "侍郎"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "库布",
+  "卡伦"
+ ],
+ "source_title": "抚远大将军费扬古奏为接待厄鲁特来使折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5903,
+ "page_range": "331-332"
+}

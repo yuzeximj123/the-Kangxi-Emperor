@@ -1,0 +1,49 @@
+{
+ "source_no": 1156,
+ "title_guess": "李国屏等奏报赫世享病势折",
+ "reign_year": 46,
+ "month": 7,
+ "day_text": "十一日",
+ "event_role": "宫廷事务",
+ "summary": "李国屏、爱保奏报赫世享病情好转，转述康熙帝谕旨及赏赐，并附大夫诊治书。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称原以为赫世享病不能治，今闻大愈甚喜；疑其偷食燕肉，命取鲫鱼十尾少食；指出大夫诊治书未写稍愈之语，令给和素看。",
+ "people": [
+  {
+   "name": "李国屏",
+   "role": "奏报人"
+  },
+  {
+   "name": "爱保",
+   "role": "奏报人"
+  },
+  {
+   "name": "赫世享",
+   "role": "患病官员"
+  },
+  {
+   "name": "常明",
+   "role": "奉旨探视者"
+  },
+  {
+   "name": "和素",
+   "role": "阅诊治书者"
+  },
+  {
+   "name": "张壹",
+   "role": "大夫"
+  },
+  {
+   "name": "刘声芳",
+   "role": "大夫"
+  }
+ ],
+ "places": [
+  "武英殿"
+ ],
+ "source_title": "地国屏等奏报赫世享病势拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 26300,
+ "page_range": "739-740"
+}

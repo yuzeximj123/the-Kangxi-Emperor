@@ -1,0 +1,33 @@
+{
+ "source_no": 165,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "十六日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子，说明因恐皇太子忧虑而寄信告知噶尔丹情形，并命将谕内缘由奏闻皇太后及转告大学士、尚书等。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "费扬古",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "克鲁伦"
+ ],
+ "source_title": "康熙帝朱诊和",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3900,
+ "page_range": "291-292"
+}

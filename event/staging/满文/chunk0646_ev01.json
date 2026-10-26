@@ -1,0 +1,54 @@
+{
+ "source_no": 3190,
+ "title_guess": "兵部尚书逊柱等奏请派员署理旗务折",
+ "reign_year": 57,
+ "month": 5,
+ "day_text": "初五日",
+ "event_role": "人事任免",
+ "summary": "兵部尚书逊柱等据苏努来文，因其病赴热河调养，请派员署理镶红满洲旗旗务，开列苏勒发、努尔布、波尔吞请旨简派。",
+ "has_zhupi": true,
+ "zhupi_summary": "贝子免来",
+ "people": [
+  {
+   "name": "逊柱",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "苏努",
+   "role": "镶红满洲旗贝子、都统"
+  },
+  {
+   "name": "苏勒发",
+   "role": "镶红蒙古旗副都统"
+  },
+  {
+   "name": "努尔布",
+   "role": "满洲补放汉军副都统"
+  },
+  {
+   "name": "波尔吞",
+   "role": "副都统"
+  },
+  {
+   "name": "党阿赖",
+   "role": "左侍郎"
+  },
+  {
+   "name": "刘章",
+   "role": "武选清吏司掌印郎中"
+  },
+  {
+   "name": "党和托",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "西山",
+  "热河"
+ ],
+ "source_title": "兵部尚书逊柱等故请派员署理旗务折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 64601,
+ "page_range": "1505-1506"
+}

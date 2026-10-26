@@ -1,0 +1,35 @@
+{
+ "source_no": 2223,
+ "title_guess": "山西巡抚苏克济奏请调补平阳府知府折",
+ "reign_year": 52,
+ "month": 7,
+ "day_text": "初四日",
+ "event_role": "人事任免",
+ "summary": "苏克济奏平阳府知府孔兴连升长芦盐运使，其缺事务繁重，请将操守清廉、才技优长的陕西巩昌府知府赵有奎调补平阳府知府。",
+ "has_zhupi": true,
+ "zhupi_summary": "此业经放完之事，难复调用。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "孔兴连",
+   "role": "平阳府知府"
+  },
+  {
+   "name": "赵有奎",
+   "role": "陕西巩昌府知府"
+  }
+ ],
+ "places": [
+  "平阳府",
+  "长芦",
+  "陕西巩昌府"
+ ],
+ "source_title": "山西巡抚苏克济奏请调补平阳府知府折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 44304,
+ "page_range": "1099-1100"
+}

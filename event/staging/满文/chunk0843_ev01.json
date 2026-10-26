@@ -1,0 +1,39 @@
+{
+ "source_no": 4205,
+ "title_guess": "理藩院奏报策凌敦多布等情形折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "奏报策凌敦多布驻额尔齐斯河下游洪俄图诺尔一带，议派绰依探路及派兵捉生、分兵策应等事宜，并附朱谕及绰依身份、道路问答。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱谕询问策凌敦多布营地距离，命详思派绰依探路及派兵二千捉生事，并召多尔济详问奇林路及绰依情况。",
+ "people": [
+  {
+   "name": "策凌敦多布",
+   "role": "准噶尔将领"
+  },
+  {
+   "name": "绰依",
+   "role": "探路者"
+  },
+  {
+   "name": "多尔济",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "额尔齐斯河",
+  "洪俄图诺尔",
+  "阿尔泰山",
+  "博罗塔拉",
+  "奇林",
+  "奇兰"
+ ],
+ "source_title": "理藩院奏报策凌敦多布等情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84301,
+ "page_range": "1899-1900",
+ "_date_interpolated": true
+}

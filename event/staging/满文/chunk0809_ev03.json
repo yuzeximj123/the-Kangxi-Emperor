@@ -1,0 +1,38 @@
+{
+ "source_no": 4039,
+ "title_guess": "步军统领隆科多奏报寻获护军钱楚喀折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月初八日",
+ "event_role": "其他",
+ "summary": "隆科多奏报据永平府民何泛报称寻获长枪护军钱楚喀，见其两眼发直、言语不清，问之全然不知，已交该旗妥善照料。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "钱楚喀",
+   "role": "长枪护军"
+  },
+  {
+   "name": "何泛",
+   "role": "永平府民"
+  },
+  {
+   "name": "道胜",
+   "role": "委署步军校"
+  }
+ ],
+ "places": [
+  "永平府"
+ ],
+ "source_title": "步军统领隆科多奏报寻获护军钱楚喀折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80903,
+ "page_range": "1831-1832",
+ "_date_interpolated": true
+}

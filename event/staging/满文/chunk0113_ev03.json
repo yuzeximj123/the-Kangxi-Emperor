@@ -1,0 +1,32 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "片段载皇上一餐备用整咸白菜、芥菜、清酱瓜、盐腌王瓜、炸香菜等份例减量，及宫内主子、公主每餐桌备用各菜份例与对汤酸菜份例，末载内膳房正月每日用黄芽白菜等份例。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "皇上",
+   "role": "皇帝"
+  },
+  {
+   "name": "宫内主子",
+   "role": "主子"
+  },
+  {
+   "name": "公主",
+   "role": "公主"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 11303,
+ "page_range": "439-440",
+ "_date_interpolated": true
+}

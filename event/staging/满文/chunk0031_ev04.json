@@ -1,0 +1,44 @@
+{
+ "source_no": 142,
+ "title_guess": "川陕总督佛伦奏报边疆形势并秋粮收获情形折",
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "二十七日",
+ "event_role": "边疆事务",
+ "summary": "佛伦奏报蒙古绰依扎木苏等传言察罕阿喇布坦将赴班城与噶尔丹会师，已分防打探，并报陕西秋禾黄熟、收成可望十分有余。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "王化兴",
+   "role": "宁夏总兵官"
+  },
+  {
+   "name": "绰依扎木苏",
+   "role": "蒙古逃人"
+  },
+  {
+   "name": "察罕阿喇布坦",
+   "role": "蒙古首领"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "蒙古首领"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "班城",
+  "猜草泉",
+  "陕西"
+ ],
+ "source_title": "川陕总督佛伦奏报边疆形势并秋粮收获情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3104,
+ "page_range": "275-276"
+}

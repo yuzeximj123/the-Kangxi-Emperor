@@ -1,0 +1,41 @@
+{
+ "source_no": 2286,
+ "title_guess": "两江总督赫寿奏闻查看战船情形折",
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "初四日",
+ "event_role": "军务",
+ "summary": "赫寿奏报会同巡抚查看镇江战船，查明四十船及八十沙船来历修造情形，俟崇明查竣再议奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。此处之上或许多年。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "马三奇",
+   "role": "将军"
+  },
+  {
+   "name": "阿山",
+   "role": "原总督"
+  }
+ ],
+ "places": [
+  "镇江",
+  "高子江",
+  "京口",
+  "狼山",
+  "崇明"
+ ],
+ "source_title": "两江总督赫寿礁闻查看战船情形拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 45303,
+ "page_range": "1119-1120"
+}

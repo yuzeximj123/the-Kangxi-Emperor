@@ -1,0 +1,41 @@
+{
+ "source_no": 328,
+ "title_guess": "阿喇布坦奏为多加体恤折",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初十日",
+ "event_role": "边疆事务",
+ "summary": "阿喇布坦奏称仰蒙皇上体恤，离博硕克图汗后居阿尔泰地方，将遣使往策妄阿喇布坦处并与丹增旺布同往，祈请仁慈。",
+ "has_zhupi": true,
+ "zhupi_summary": "十一日晨到。",
+ "people": [
+  {
+   "name": "阿喇布坦",
+   "role": "厄鲁特台吉"
+  },
+  {
+   "name": "博硕克图汗",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "策妄阿喇布坦",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "丹增旺布",
+   "role": "同行台吉"
+  },
+  {
+   "name": "诺颜噶隆",
+   "role": "有口奏之语者"
+  }
+ ],
+ "places": [
+  "阿尔泰"
+ ],
+ "source_title": "阿喇布坦奏为多加体怕折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8304,
+ "page_range": "379-380"
+}

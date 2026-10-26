@@ -1,0 +1,63 @@
+{
+ "source_no": 3449,
+ "title_guess": "步军统领隆科多奏报强盗口供折",
+ "reign_year": 58,
+ "month": 7,
+ "day_text": "二十七日",
+ "event_role": "司法案件",
+ "summary": "步军统领隆科多奏报缉捕常忠等六名强盗合伙持械多次抢劫、审明口供并拟割懒筋解送刑部严审。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "常忠",
+   "role": "强盗"
+  },
+  {
+   "name": "杨三",
+   "role": "强盗"
+  },
+  {
+   "name": "白二",
+   "role": "强盗"
+  },
+  {
+   "name": "张二",
+   "role": "强盗"
+  },
+  {
+   "name": "周二",
+   "role": "强盗"
+  },
+  {
+   "name": "金二",
+   "role": "强盗"
+  },
+  {
+   "name": "王大",
+   "role": "窝藏者"
+  },
+  {
+   "name": "陈永图",
+   "role": "中营守备"
+  }
+ ],
+ "places": [
+  "广渠门外唐家洼",
+  "保定府",
+  "满井",
+  "朝阳门外徐家楼",
+  "广渠门外轿亭",
+  "左安门外十里河村",
+  "崇文门外花市"
+ ],
+ "source_title": "步军统领隆科多奏报强盗口供折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 71202,
+ "page_range": "1637-1638"
+}

@@ -1,0 +1,30 @@
+{
+ "source_no": 399,
+ "title_guess": "山西巡抚噶礼奏谢御赐鹿尾折",
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "初六日",
+ "event_role": "请安谢恩",
+ "summary": "山西巡抚噶礼奏谢御赐鹿尾等物，率省城文武官员望阙谢恩，共享克食，表示益加谨慎以报圣恩。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕安。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "色尔奇",
+   "role": "工部笔帖式"
+  }
+ ],
+ "places": [
+  "山西",
+  "省城"
+ ],
+ "source_title": "出西巡抚噶礼堆谢御赐鹿尾折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9904,
+ "page_range": "411-412"
+}

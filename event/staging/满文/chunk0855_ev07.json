@@ -1,0 +1,40 @@
+{
+ "source_no": 4251,
+ "title_guess": "(佚名)奏报守备员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报湖广永州总兵标下右营、张家口副将左营、张家口参将、湖北巡抚标下左营等中军守备员缺，请旨补放。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批纪录马步箭好，著以刘廷疾补放永州右营守备；著以王退补放张家口副将左营守备、郭富义补放张家口参将中军守备；湖北巡抚标下左营守备朱批邓克。",
+ "people": [
+  {
+   "name": "刘廷疾",
+   "role": "补放守备"
+  },
+  {
+   "name": "王退",
+   "role": "补放守备"
+  },
+  {
+   "name": "郭富义",
+   "role": "补放守备"
+  },
+  {
+   "name": "邓克",
+   "role": "朱批拟补"
+  }
+ ],
+ "places": [
+  "湖广永州",
+  "张家口",
+  "湖北"
+ ],
+ "source_title": "(佚名)奏报和守备员仍折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85507,
+ "page_range": "1923-1924",
+ "_date_interpolated": true
+}

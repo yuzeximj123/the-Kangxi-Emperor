@@ -1,0 +1,34 @@
+{
+ "source_no": 1710,
+ "title_guess": "两江总督噶礼奏请补放参将员缺折",
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "初一日",
+ "event_role": "人事任免",
+ "summary": "噶礼以镇江营参将员缺紧要，奏请将标下左营游击朱世治升授镇江营参将。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：朱世治曾在侍卫上行走，著尔具本奏来。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "薛世杰",
+   "role": "镇江营参将升陈州副将"
+  },
+  {
+   "name": "朱世治",
+   "role": "噶礼标下左营游击"
+  }
+ ],
+ "places": [
+  "镇江营",
+  "陈州"
+ ],
+ "source_title": "两江总督噶礼奏请补放参将员上藤折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35804,
+ "page_range": "929-930"
+}

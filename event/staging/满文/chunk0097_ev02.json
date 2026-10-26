@@ -1,0 +1,38 @@
+{
+ "source_no": 386,
+ "title_guess": "山西巡抚噶礼奏请调补知县以保钱粮完纳事折",
+ "reign_year": 39,
+ "month": 1,
+ "day_text": "二十八日",
+ "event_role": "人事任免",
+ "summary": "山西巡抚噶礼奏请调补浮山县知县卢承宗、太原县知县王寿至汾阳、平遥二县，以保钱粮完纳、仓库无亏。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批：这奏的是，将要施行。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "卢承宗",
+   "role": "浮山县知县"
+  },
+  {
+   "name": "王寿",
+   "role": "太原县知县"
+  }
+ ],
+ "places": [
+  "山西",
+  "汾州府",
+  "汾阳",
+  "平遥",
+  "浮山",
+  "太原"
+ ],
+ "source_title": "山西巡抚噶礼考请调补知县以保钱粮完纳事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9702,
+ "page_range": "407-408"
+}

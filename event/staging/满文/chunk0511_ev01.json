@@ -1,0 +1,30 @@
+{
+ "source_no": 2618,
+ "title_guess": "兵部尚书殷特布等奏请引见补缺官员折",
+ "reign_year": 54,
+ "month": 6,
+ "day_text": "十二日",
+ "event_role": "人事任免",
+ "summary": "永陵总管德成额因病休致，兵部会同领侍卫内大臣拣选八人拟送热河引见补缺，请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "著带来引见。",
+ "people": [
+  {
+   "name": "殷特布",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "德成额",
+   "role": "永陵总管"
+  }
+ ],
+ "places": [
+  "永陵",
+  "热河"
+ ],
+ "source_title": "兵部尚书股特布等秦请引见补缺官员折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 51101,
+ "page_range": "1235-1236"
+}

@@ -1,0 +1,28 @@
+{
+ "source_no": 4043,
+ "title_guess": "步军统领隆科多奏请增添畅春园之守兵折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "隆科多奏请增添畅春园守兵，称查得看守畅春园大墙、西场子、西花园之绿旗兵堆子二十五处、北花园堆子四处（片段，内容未完）。",
+ "has_zhupi": true,
+ "zhupi_summary": "该部议奏。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "西花园",
+  "北花园"
+ ],
+ "source_title": "步军统领隆科多考请增添畅春园之守兵折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80907,
+ "page_range": "1831-1832",
+ "_date_interpolated": true
+}

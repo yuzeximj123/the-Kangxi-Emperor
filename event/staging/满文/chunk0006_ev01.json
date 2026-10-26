@@ -1,0 +1,49 @@
+{
+ "source_no": 34,
+ "title_guess": "山东巡抚佛伦奏陈前任抚臣品行及乡绅劣迹折",
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "十九日",
+ "event_role": "弹劾参奏",
+ "summary": "佛伦遵密旨奏陈前任巡抚钱球操守尚可但罢软偏颇，并访查董诺、郭表、孙光礼、任克溥等乡绅劣迹及布政使卫既齐声名。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "钱球",
+   "role": "前任巡抚"
+  },
+  {
+   "name": "董诺",
+   "role": "乡绅"
+  },
+  {
+   "name": "郭表",
+   "role": "乡绅"
+  },
+  {
+   "name": "孙光礼",
+   "role": "乡绅"
+  },
+  {
+   "name": "任克溥",
+   "role": "乡绅"
+  },
+  {
+   "name": "卫既齐",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_title": "山东巡抚佛伦奏陈前任抚臣品行及乡绅劣迹折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 601,
+ "page_range": "225-226"
+}

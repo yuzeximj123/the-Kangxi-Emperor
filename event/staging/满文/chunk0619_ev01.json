@@ -1,0 +1,53 @@
+{
+ "source_no": 3098,
+ "title_guess": "理藩院奏蒙古章京等巡察围场折",
+ "reign_year": 56,
+ "month": 9,
+ "day_text": "初一日",
+ "event_role": "边疆事务",
+ "summary": "理藩院遵旨议奏停止新满洲侍卫巡察木兰围场，改由蒙古章京等巡察，列名请旨指定为首之人。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：伊等应各自奋力缉拿，所谓补放头目，反不勤奋督管。",
+ "people": [
+  {
+   "name": "蔡寿",
+   "role": "理藩院尚书"
+  },
+  {
+   "name": "特古趟",
+   "role": "右侍郎"
+  },
+  {
+   "name": "格尔布",
+   "role": "通政使司左通政使"
+  },
+  {
+   "name": "塔林",
+   "role": "郎中"
+  },
+  {
+   "name": "钟佛保",
+   "role": "员外郎"
+  },
+  {
+   "name": "享德",
+   "role": "员外郎"
+  },
+  {
+   "name": "世忠",
+   "role": "主事"
+  },
+  {
+   "name": "喇锡",
+   "role": "乾清门侍卫"
+  }
+ ],
+ "places": [
+  "木兰围场"
+ ],
+ "source_title": "理藩院奏蒙古章京等巡察围场折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 61901,
+ "page_range": "1451-1452"
+}

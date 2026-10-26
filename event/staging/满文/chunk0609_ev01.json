@@ -1,0 +1,29 @@
+{
+ "source_no": 3070,
+ "title_guess": "广东巡抚法海为传递奏折事折",
+ "reign_year": 56,
+ "month": 8,
+ "day_text": "初四日",
+ "event_role": "其他",
+ "summary": "广东巡抚法海遵旨将李乘忠奏折一件与己请安折一并具奏，朱批责其折中未言地方粮事、惟为传递李乘忠折子，甚属糊涂。",
+ "has_zhupi": true,
+ "zhupi_summary": "巡抚之责甚要，折子来地方粮事一字未缮，惟为李乘忠之折子驰递，甚属糊涂。",
+ "people": [
+  {
+   "name": "法海",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "李乘忠",
+   "role": "奏折具奏人"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_title": "广东巡抚法海为传递秦折事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 60901,
+ "page_range": "1431-1432"
+}

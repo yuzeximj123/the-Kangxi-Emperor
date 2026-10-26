@@ -1,0 +1,29 @@
+{
+ "source_no": 10,
+ "title_guess": "康熙帝墨笔上谕",
+ "reign_year": 18,
+ "month": 9,
+ "day_text": "十八日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝密谕奉天将军安珠瑚：因奏文未用印未批发；京城地震、钱价大涨，令严查详议；闻宁古塔、吉林、盛京、辽东等地有金银铜锡铅矿砂，令细加体访，可行与否详奏请旨。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "安珠瑚",
+   "role": "镇守奉天等处地方将军"
+  }
+ ],
+ "places": [
+  "京城",
+  "宁古塔",
+  "吉林",
+  "盛京",
+  "辽东"
+ ],
+ "source_title": "康熙帝墨笔上谕",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 201,
+ "page_range": "217-218"
+}

@@ -1,0 +1,37 @@
+{
+ "source_no": 2815,
+ "title_guess": "山西巡抚苏克济奏追赵凤诏贪赃之物品情形折",
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "二十七日",
+ "event_role": "司法案件",
+ "summary": "苏克济遵旨复奏追缴赵凤诏贪赃银物情形，称讯问时关门回避、未见脱空糊涂，追回物品交地方官，未获之物仍在追缴，并提及赵凤诏家人供称其婿庄杰带走物品。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "贪赃官员"
+  },
+  {
+   "name": "贾兴",
+   "role": "赵凤诏家人"
+  },
+  {
+   "name": "庄杰",
+   "role": "赵凤诏之婿"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_title": "山西巡抚苏克济奏追赵凤诏贪赃之物品情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55705,
+ "page_range": "1327-1328"
+}

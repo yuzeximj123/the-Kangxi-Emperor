@@ -1,0 +1,31 @@
+{
+ "source_no": 4238,
+ "title_guess": "(佚名)奏报副将员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报山东沂州副将员缺、湖广将军属下中军副将员缺，朱批分别以德高成、曹伟成补放。",
+ "has_zhupi": true,
+ "zhupi_summary": "著以德高成补放沂州副将，著以曹伟成补放湖广中军副将",
+ "people": [
+  {
+   "name": "德高成",
+   "role": "副将补放人选"
+  },
+  {
+   "name": "曹伟成",
+   "role": "副将补放人选"
+  }
+ ],
+ "places": [
+  "山东沂州",
+  "湖广"
+ ],
+ "source_title": "(佚名)奏报副将员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85402,
+ "page_range": "1921-1922",
+ "_date_interpolated": true
+}

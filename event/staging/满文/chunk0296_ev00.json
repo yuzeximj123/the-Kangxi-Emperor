@@ -1,0 +1,38 @@
+{
+ "source_no": 1332,
+ "title_guess": "秽社等奏报内外诸臣看视谷样情形折",
+ "reign_year": 47,
+ "month": 7,
+ "day_text": "二十七日",
+ "event_role": "灾情收成",
+ "summary": "秽社等奏报将皇上所赐谷样给京城内外诸臣看视，众人称谷高一丈、一梗四五穗，为亘古所无，颂扬圣德。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批：知道了。去年看视后也有此说，想来明年也会这样说。",
+ "people": [
+  {
+   "name": "秽社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "京城"
+ ],
+ "source_title": "凯社等奏报内外诸臣看视和谷样情形拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 29600,
+ "page_range": "805-806"
+}

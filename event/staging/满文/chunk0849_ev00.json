@@ -1,0 +1,64 @@
+{
+ "source_no": 4224,
+ "title_guess": "赏贵州提督张文焕等鹿肉干清单",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "赏赐贵州提督张文焕、总兵杜相维、副将杨谦等官员粗鹿肉干，共计一百七十七束，并有朱批命王文雄照总兵例赏给。",
+ "has_zhupi": true,
+ "zhupi_summary": "王文雄照总兵例赏给。",
+ "people": [
+  {
+   "name": "张文焕",
+   "role": "贵州提督"
+  },
+  {
+   "name": "杜相维",
+   "role": "总兵"
+  },
+  {
+   "name": "杨谦",
+   "role": "石峡副将"
+  },
+  {
+   "name": "杨宏德",
+   "role": "三屯营副将"
+  },
+  {
+   "name": "王安国",
+   "role": "山永副将"
+  },
+  {
+   "name": "马成章",
+   "role": "昌平参将"
+  },
+  {
+   "name": "张甫",
+   "role": "河屯营守备"
+  },
+  {
+   "name": "郝忠显",
+   "role": "密云县守备"
+  },
+  {
+   "name": "王文雄",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "贵州",
+  "石峡",
+  "三屯营",
+  "山永",
+  "昌平",
+  "河屯营",
+  "密云县"
+ ],
+ "source_title": "赏贵州提叔张文焕等庵肉干清单",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84900,
+ "page_range": "1911-1912",
+ "_date_interpolated": true
+}

@@ -1,0 +1,31 @@
+{
+ "source_no": 3839,
+ "title_guess": "局社等奏报到达日期并进猎物折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "初三日晚",
+ "event_role": "其他",
+ "summary": "奏报扎西传旨命速来，臣等缩短二日定于十三日到达，并在锡喇塔拉土城子周围行猎二日获雉三百余只，选肥者四十只进献。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "扎西",
+   "role": "传旨人"
+  },
+  {
+   "name": "布吗苏",
+   "role": "传旨人"
+  }
+ ],
+ "places": [
+  "锡喇塔拉",
+  "土城子"
+ ],
+ "source_title": "局社等奏报到达日期并进猎物折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78400,
+ "page_range": "1781-1782",
+ "_date_interpolated": true
+}

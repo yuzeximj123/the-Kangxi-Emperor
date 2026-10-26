@@ -1,0 +1,47 @@
+{
+ "source_no": 3919,
+ "title_guess": "步军统领隆科多奏报遣员往勘西山等地铜矿情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "奏报派千总陈永亮等往勘西山、易州、紫荆关外、完县、唐县等地铜铅银矿开采情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "陈永亮",
+   "role": "千总"
+  },
+  {
+   "name": "孙国柱",
+   "role": "番子"
+  },
+  {
+   "name": "萨尔求",
+   "role": "步甲"
+  }
+ ],
+ "places": [
+  "西山",
+  "易州神角",
+  "窗子沟",
+  "紫荆关",
+  "普陀峪",
+  "完县",
+  "代北村",
+  "唐县",
+  "布登子",
+  "花盆"
+ ],
+ "source_title": "步军统领隆科多奏报遣员往勘西山等地铀矿情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79304,
+ "page_range": "1799-1800",
+ "_date_interpolated": true
+}

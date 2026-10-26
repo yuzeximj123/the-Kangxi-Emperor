@@ -1,0 +1,38 @@
+{
+ "source_no": 2382,
+ "title_guess": "福建巡抚满保奏谢蠲免钱粮并报聚众闹事情形折",
+ "reign_year": 53,
+ "month": 4,
+ "day_text": "十三日",
+ "event_role": "司法案件",
+ "summary": "奏报台州黄岩县潘邦交等聚众借粮抢粮，派员查办，擒获为首者，赈济贫民，地方已平静。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称早已闻知此事，此奏知道了。",
+ "people": [
+  {
+   "name": "潘邦交",
+   "role": "聚众为首者"
+  },
+  {
+   "name": "李近",
+   "role": "总兵官"
+  },
+  {
+   "name": "曹重",
+   "role": "道员"
+  }
+ ],
+ "places": [
+  "台州",
+  "黄岩县",
+  "温州",
+  "处州",
+  "衢州",
+  "广东"
+ ],
+ "source_title": "福建巡抚满保奏谢蠲免钱粮并报聚众闹事情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 46900,
+ "page_range": "1151-1152"
+}

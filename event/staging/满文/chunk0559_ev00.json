@@ -1,0 +1,55 @@
+{
+ "source_no": 2823,
+ "title_guess": "浙江巡抚徐元梦奏倭子国不准无该国牙帖商人贸易折",
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "二十二日",
+ "event_role": "外藩朝贡",
+ "summary": "徐元梦奏报倭子国长崎地方以无该国牙帖为由不准中国商人贸易，请示是否交部议处，并附牙帖一张。",
+ "has_zhupi": true,
+ "zhupi_summary": "已交部议。",
+ "people": [
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "宝载",
+   "role": "浙江海关监督"
+  },
+  {
+   "name": "胡云科",
+   "role": "海商"
+  },
+  {
+   "name": "段志让",
+   "role": "布政使"
+  },
+  {
+   "name": "杨宗仁",
+   "role": "按察使"
+  },
+  {
+   "name": "范时崇",
+   "role": "原总督"
+  },
+  {
+   "name": "沃奇",
+   "role": "江南海关监督"
+  },
+  {
+   "name": "满保",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "浙江",
+  "倭子国长崎",
+  "江南"
+ ],
+ "source_title": "浙江巡抚徐元梦奏倭子国不准无该国牙帖商人贸易折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55900,
+ "page_range": "1331-1332"
+}

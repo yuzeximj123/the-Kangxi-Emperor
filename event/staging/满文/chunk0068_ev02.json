@@ -1,0 +1,39 @@
+{
+ "source_no": 269,
+ "title_guess": "向导车克楚奏报勘路情形并启程日期折",
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "初三日",
+ "event_role": "军务",
+ "summary": "车克楚奏报在宁夏询问向导，得知由宁夏通往伊克奥兰、巴罕奥兰之路，萨棱、卓锡希布称能忆起路线，估计可在指定日期前后到达，已于二月初三日起程。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批改“格塞讷”为“格斯宁”。",
+ "people": [
+  {
+   "name": "车克楚",
+   "role": "向导"
+  },
+  {
+   "name": "萨棱",
+   "role": "向导"
+  },
+  {
+   "name": "卓锡希布",
+   "role": "向导"
+  },
+  {
+   "name": "伊尔登和硕齐",
+   "role": "贝子察宇巴尔之弟"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "伊克奥兰",
+  "巴罕奥兰"
+ ],
+ "source_title": "向导车克楚奏报勘路情形并启程日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6802,
+ "page_range": "349-350"
+}

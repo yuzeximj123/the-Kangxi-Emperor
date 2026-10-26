@@ -1,0 +1,51 @@
+{
+ "source_no": 3688,
+ "title_guess": "论侍郎满柱速赴青海审案事",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "谕侍郎满柱乘驿赴青海查明祁里德依迷惑之事及扎西巴图尔听唆情由，秉公审理，并论办理蒙古事务应不偏不倚。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "祁里德依",
+   "role": "官员"
+  },
+  {
+   "name": "喇锡",
+   "role": "官员"
+  },
+  {
+   "name": "古木布",
+   "role": "官员"
+  },
+  {
+   "name": "满柱",
+   "role": "侍郎"
+  },
+  {
+   "name": "扎西巴图尔",
+   "role": "青海台吉"
+  },
+  {
+   "name": "拉藏",
+   "role": "西藏首领"
+  },
+  {
+   "name": "南冲",
+   "role": "乌喇特台吉"
+  }
+ ],
+ "places": [
+  "青海",
+  "唐古特"
+ ],
+ "source_title": "论侍部满柱速赴青海审案事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76606,
+ "page_range": "1745-1746",
+ "_date_interpolated": true
+}

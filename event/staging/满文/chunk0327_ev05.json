@@ -1,0 +1,27 @@
+{
+ "source_no": 1528,
+ "title_guess": "两江总督噶礼奏报雨水粮价折",
+ "reign_year": 48,
+ "month": 12,
+ "day_text": "初四日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报江南九月十月得雨数次有裨来年麦子，湖广江西米石因奉旨查察来米甚多，米价每仓斗银九分至一钱一分不等，较前大减。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "湖广",
+  "江西"
+ ],
+ "source_title": "两江总督噶礼奏报雨水粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32705,
+ "page_range": "867-868"
+}

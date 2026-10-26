@@ -1,0 +1,34 @@
+{
+ "source_no": 2550,
+ "title_guess": "福建巡抚满保奏报雨水米价折",
+ "reign_year": 54,
+ "month": 1,
+ "day_text": "二十八日",
+ "event_role": "灾情收成",
+ "summary": "福建巡抚满保奏报福建自正月以来雨水调匀、麦蔬生长良好，各地米价及台湾米价稍降、白糖杂粮收成好。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。尔等为米所奏折子事属紧急，将敕部速议。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "福建",
+  "福州",
+  "泉州",
+  "漳州",
+  "兴化",
+  "延平",
+  "建宁",
+  "邵武",
+  "汀州",
+  "台湾"
+ ],
+ "source_title": "福建巡抚满保奏报雨水米价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 49602,
+ "page_range": "1205-1206"
+}

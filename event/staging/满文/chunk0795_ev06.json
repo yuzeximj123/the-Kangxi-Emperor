@@ -1,0 +1,48 @@
+{
+ "source_no": 3935,
+ "title_guess": "步军统领隆科多奏报京城四五月份所获各案情折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "四月二十日至五月二十日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报四月二十日至五月二十日拿获窃盗割懒筋者七人及强盗余四伙内逃犯、拐骗、逃人等案，解送刑部。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "宝儿",
+   "role": "正蓝旗包衣闲散"
+  },
+  {
+   "name": "赖柱",
+   "role": "佐领"
+  },
+  {
+   "name": "余四",
+   "role": "强盗"
+  },
+  {
+   "name": "杨三",
+   "role": "民"
+  },
+  {
+   "name": "蒋四",
+   "role": "民"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "密云县",
+  "固安县"
+ ],
+ "source_title": "步军统领隆科多奏报京城四五月份所获各案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79506,
+ "page_range": "1803-1804",
+ "_date_interpolated": true
+}

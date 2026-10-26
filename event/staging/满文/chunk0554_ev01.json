@@ -1,0 +1,51 @@
+{
+ "source_no": 2799,
+ "title_guess": "理藩院奏请将监察御史顺塔撤回折",
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "十一日",
+ "event_role": "军务",
+ "summary": "理藩院据穆赛、齐里德来文，以顺塔无信息可报、驻之反扰驿站，请将驻推河之监察御史顺塔撤回，俟大军进兵再派员前往。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批斥此议糊涂，著交付阿灵阿。",
+ "people": [
+  {
+   "name": "顺塔",
+   "role": "监察御史"
+  },
+  {
+   "name": "穆赛",
+   "role": "都统"
+  },
+  {
+   "name": "齐里德",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "诺木齐",
+   "role": "左侍郎"
+  },
+  {
+   "name": "达尔玛",
+   "role": "郎中"
+  },
+  {
+   "name": "额叶图",
+   "role": "员外郎"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "朱批交付大臣"
+  }
+ ],
+ "places": [
+  "推河",
+  "拨鲁特口",
+  "布尔干口"
+ ],
+ "source_title": "理藩院秦请将监察御史上顺塔撤回折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55401,
+ "page_range": "1321-1322"
+}

@@ -1,0 +1,53 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 46,
+ "month": 3,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "此为前件奏折末尾残片，臣等闻旨喜乐，恭候皇父降旨，并列具名人员；附上谕一纸记行程及天气。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：朕体安。",
+ "people": [
+  {
+   "name": "岂社",
+   "role": "具奏臣"
+  },
+  {
+   "name": "般祯",
+   "role": "具奏臣"
+  },
+  {
+   "name": "关祺",
+   "role": "具奏臣"
+  },
+  {
+   "name": "关礼",
+   "role": "具奏臣"
+  },
+  {
+   "name": "关福",
+   "role": "具奏臣"
+  },
+  {
+   "name": "弘晋",
+   "role": "具奏臣"
+  },
+  {
+   "name": "弘内",
+   "role": "具奏臣"
+  }
+ ],
+ "places": [
+  "塔湾",
+  "镇江",
+  "江宁",
+  "龙潭"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 24600,
+ "page_range": "705-706",
+ "_date_interpolated": true
+}

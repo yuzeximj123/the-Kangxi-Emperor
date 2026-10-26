@@ -1,0 +1,46 @@
+{
+ "source_no": 4240,
+ "title_guess": "(佚名)奏报游击守备员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奏报江南苏州城守营游击员缺一、直隶四海冶堡等守备员缺四，朱批分别以何伯陆、刘可德、石开台、刘玉祥、吴天佐补授。",
+ "has_zhupi": true,
+ "zhupi_summary": "著以何伯陆补授游击；守备分别以刘可德、石开台、刘玉祥、吴天佐补授",
+ "people": [
+  {
+   "name": "何伯陆",
+   "role": "游击补授人选"
+  },
+  {
+   "name": "刘可德",
+   "role": "守备补授人选"
+  },
+  {
+   "name": "石开台",
+   "role": "守备补授人选"
+  },
+  {
+   "name": "刘玉祥",
+   "role": "守备补授人选"
+  },
+  {
+   "name": "吴天佐",
+   "role": "守备补授人选"
+  }
+ ],
+ "places": [
+  "江南苏州",
+  "直隶四海冶堡",
+  "湖广石州营",
+  "湖广两桂营",
+  "湖广汉阳城守营"
+ ],
+ "source_title": "(佚名)奏报游击守备员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 85404,
+ "page_range": "1921-1922",
+ "_date_interpolated": true
+}

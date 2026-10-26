@@ -1,0 +1,31 @@
+{
+ "source_no": 561,
+ "title_guess": "川陕总督华显奏谢赐医治病折",
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十七日",
+ "event_role": "请安谢恩",
+ "summary": "华显奏谢皇上赐医调治其病，并请特谕齐大夫尽力调治，因西洋大夫与齐大夫共议调治后病势稍愈但疮口深、毒素未减。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批已知谢恩，令齐大夫若有治方速调治，称西洋大夫不堪用，甚着急，已令其家人由驿急驰，齐大夫已有旨。",
+ "people": [
+  {
+   "name": "华显",
+   "role": "川陕总督"
+  },
+  {
+   "name": "齐大夫",
+   "role": "医生"
+  },
+  {
+   "name": "西洋大夫",
+   "role": "医生"
+  }
+ ],
+ "places": [],
+ "source_title": "川陕总督华显奏谢赐医治病折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 15101,
+ "page_range": "515-516"
+}

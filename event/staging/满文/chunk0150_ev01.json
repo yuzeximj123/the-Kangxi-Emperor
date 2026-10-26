@@ -1,0 +1,32 @@
+{
+ "source_no": 556,
+ "title_guess": "川陕总督华显奏为节省军费折",
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十七日",
+ "event_role": "钱粮财政",
+ "summary": "川陕总督华显奏陈茶马事务耗费甚巨，请自明年起暂停茶马官差、由巡抚兼管，限定四司每年换马一千二百匹并永禁给草料，以岁省草料银三四万两。",
+ "has_zhupi": true,
+ "zhupi_summary": "此事可行，自然具题才是。",
+ "people": [
+  {
+   "name": "觉罗华显",
+   "role": "四川陕西总督"
+  },
+  {
+   "name": "李学胜",
+   "role": "管理茶马事务大臣"
+  }
+ ],
+ "places": [
+  "洮州",
+  "岷州",
+  "西宁",
+  "庄浪"
+ ],
+ "source_title": "川陕总督华显奏为节省军费折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 15001,
+ "page_range": "513-514"
+}

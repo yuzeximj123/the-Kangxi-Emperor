@@ -1,0 +1,64 @@
+{
+ "source_no": 4069,
+ "title_guess": "步军统领隆科多奏报缉获行动之强盗折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本年五月十六日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报北营守备葛明新拿获行劫安定门外董泰家之强盗王二等，讯明多次结伙抢劫窃盗情由，请解刑部严审。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "王二",
+   "role": "强盗"
+  },
+  {
+   "name": "胡大",
+   "role": "强盗"
+  },
+  {
+   "name": "马二",
+   "role": "强盗"
+  },
+  {
+   "name": "黑子",
+   "role": "强盗"
+  },
+  {
+   "name": "草公",
+   "role": "强盗"
+  },
+  {
+   "name": "马拐子",
+   "role": "强盗"
+  },
+  {
+   "name": "董泰",
+   "role": "事主"
+  },
+  {
+   "name": "葛明新",
+   "role": "北营守备"
+  },
+  {
+   "name": "李锦中",
+   "role": "马兵"
+  }
+ ],
+ "places": [
+  "安定门外篇笛台村",
+  "昌平州大牛坊村",
+  "黄村"
+ ],
+ "source_title": "步军统领隆科多奏报缉获行动之强盗折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81801,
+ "page_range": "1849-1850",
+ "_date_interpolated": true
+}

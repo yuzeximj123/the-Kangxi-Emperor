@@ -1,0 +1,34 @@
+{
+ "source_no": 868,
+ "title_guess": "陕西巡抚鄂海奏报夏粮收成分数折",
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "二十四日",
+ "event_role": "灾情收成",
+ "summary": "陕西巡抚鄂海奏报陕西麦子大麦豌豆菜子陆续收割，西安凤翔汉中兴安等府州收成六七分至十分不等，百姓喜悦，五月降雨后齐播秋粮。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称知道了，询问粮麦时价与新定仓斗如何，命写明奏来。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "博者",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "延安府",
+  "西安",
+  "凤翔",
+  "汉中",
+  "兴安"
+ ],
+ "source_title": "陕西巡抚鄂海奏报夏粮收成分数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 20804,
+ "page_range": "629-630"
+}

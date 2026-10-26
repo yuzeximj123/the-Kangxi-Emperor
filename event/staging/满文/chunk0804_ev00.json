@@ -1,0 +1,34 @@
+{
+ "source_no": 4003,
+ "title_guess": "步军统领隆科多奏报京城得闻平定青海大捷威俱欢喜折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "片段：隆科多等遵旨召年遐龄至乾清门宣旨，给看朱批及年羹尧捷报，赏绸缎九十匹，年遐龄谢恩称全家蒙恩、此功由圣主指教而成。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称老来造化，除喜悦外别无他言。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "年遐龄",
+   "role": "年羹尧之父"
+  },
+  {
+   "name": "年羹尧",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_title": "步军统领隆科多奏报京城得闻平定青海大捷威俱欢喜折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80400,
+ "page_range": "1821-1822",
+ "_date_interpolated": true
+}

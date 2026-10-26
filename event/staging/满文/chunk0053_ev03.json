@@ -1,0 +1,33 @@
+{
+ "source_no": 210,
+ "title_guess": "皇太子初奏为皇太后圣诞献礼事折",
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "初二日",
+ "event_role": "宫廷事务",
+ "summary": "皇太子奏报初三日皇太后圣诞，张鸿绪往宁寿宫献圣上所进佛、奏书等物，皇太后感悦；又奏献礼银两事，皇太后以皇上出兵耗费钱粮令禁收银两，皇太子数次辞请收纳。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批此银乃皇太后一年所用、赏赐处多，恐用时耽搁，命将此语再具奏复送。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  },
+  {
+   "name": "张鸿绪",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "宁寿宫"
+ ],
+ "source_title": "皇太子初奏为皇太后圣诞献礼事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5303,
+ "page_range": "319-320"
+}

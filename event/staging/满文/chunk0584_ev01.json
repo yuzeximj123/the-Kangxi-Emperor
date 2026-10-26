@@ -1,0 +1,34 @@
+{
+ "source_no": 2947,
+ "title_guess": "湖广总督满丕请安折",
+ "reign_year": 56,
+ "month": 1,
+ "day_text": "二十九日",
+ "event_role": "请安谢恩",
+ "summary": "满丕跪请圣主万安，康熙帝朱批询问李发甲、刘典衡、提督声名及湖南湖北总兵副将参将情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安。闻巡抚李发甲声名很好，刘典衡声名甚劣，提督声名甚好，不知真伪，询问湖南湖北总兵、副将、参将等如何。",
+ "people": [
+  {
+   "name": "满丕",
+   "role": "湖广总督"
+  },
+  {
+   "name": "李发甲",
+   "role": "巡抚"
+  },
+  {
+   "name": "刘典衡",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "湖南",
+  "湖北"
+ ],
+ "source_title": "湖广总督满否请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 58401,
+ "page_range": "1381-1382"
+}

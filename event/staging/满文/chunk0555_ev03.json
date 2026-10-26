@@ -1,0 +1,26 @@
+{
+ "source_no": 2804,
+ "title_guess": "江宁将军鄂克逊奏请万安折",
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "二十日",
+ "event_role": "请安谢恩",
+ "summary": "江宁将军鄂克逊跪请圣主万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕安。询问将军久在地方，江南民生较朕巡幸江南时如何。",
+ "people": [
+  {
+   "name": "鄂克逊",
+   "role": "江宁将军"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南"
+ ],
+ "source_title": "江宁将军吾克进奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55503,
+ "page_range": "1323-1324"
+}

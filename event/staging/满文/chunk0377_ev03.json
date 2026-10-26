@@ -1,0 +1,32 @@
+{
+ "source_no": 1820,
+ "title_guess": "山西巡抚苏克济奏报开采铅矿折",
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十九日",
+ "event_role": "钱粮财政",
+ "summary": "苏克济奏报商人王岗明等呈请开采平阳府闻喜县、翼城县铅矿，拟亲赴勘察后再令开采。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "王岗明",
+   "role": "商人"
+  }
+ ],
+ "places": [
+  "平阳府",
+  "闻喜县",
+  "翼城县",
+  "山西"
+ ],
+ "source_title": "山西巡抚苏克济奏报开采锁栈折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37703,
+ "page_range": "967-968"
+}

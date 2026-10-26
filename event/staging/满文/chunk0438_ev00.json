@@ -1,0 +1,36 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "此为前一件奏折的残余片段，详列建筑营造做法、用料及各项工程银两核算，共需银八万九千九百九十八两余，请由广储司库领用，并列内务府总管赫奕、马齐等衔名。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：此所算之各项俱似超额。",
+ "people": [
+  {
+   "name": "赫奕",
+   "role": "内务府总管兼办奉宸苑事务加两级"
+  },
+  {
+   "name": "马齐",
+   "role": "署理内务府总管事务佐领加一级"
+  },
+  {
+   "name": "拜路",
+   "role": "员外郎加一级"
+  },
+  {
+   "name": "兆敏",
+   "role": "员外郎加一级"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 43800,
+ "page_range": "1089-1090",
+ "_date_interpolated": true
+}

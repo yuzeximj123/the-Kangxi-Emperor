@@ -1,0 +1,57 @@
+{
+ "source_no": 3316,
+ "title_guess": "筷祯奏太原等地诸官员所献马驼等折",
+ "reign_year": 58,
+ "month": 1,
+ "day_text": "初八日",
+ "event_role": "其他",
+ "summary": "筷祯奏报太原总兵金国征等官员所献马驼数目，照前例收取马驼，其余猪羊食物均却之。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "筷祯",
+   "role": "奏报人"
+  },
+  {
+   "name": "金国征",
+   "role": "太原总兵官"
+  },
+  {
+   "name": "常琳",
+   "role": "杀虎口驿站员外郎"
+  },
+  {
+   "name": "何清",
+   "role": "马坚县知县"
+  },
+  {
+   "name": "蓝廷芳",
+   "role": "大同府知府"
+  },
+  {
+   "name": "马建伯",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "刘风竹",
+   "role": "管理太原府粮务同知"
+  },
+  {
+   "name": "李虽岳",
+   "role": "太原府知府"
+  }
+ ],
+ "places": [
+  "太原",
+  "杀虎口",
+  "马坚县",
+  "大同府",
+  "天津"
+ ],
+ "source_title": "筷祯考太原等地诸官员所献马驼等折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 67701,
+ "page_range": "1567-1568"
+}

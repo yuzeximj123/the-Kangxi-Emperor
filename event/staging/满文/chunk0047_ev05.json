@@ -1,0 +1,28 @@
+{
+ "source_no": null,
+ "title_guess": "谕大将军伯费扬古",
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "三月十九日",
+ "event_role": "军务",
+ "summary": "康熙帝谕费扬古，告以朕队因雨雪稍误不能于二十四日前抵土拉，令其若误于三月十六日之雨则复算日期以奏，并询问军马、米车及宁夏兵信息。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  }
+ ],
+ "places": [
+  "奎苏",
+  "翁金",
+  "土拉",
+  "宁夏"
+ ],
+ "source_title": "谕大将军伯费扬古",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4705,
+ "page_range": "307-308"
+}

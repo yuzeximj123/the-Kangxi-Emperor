@@ -1,0 +1,45 @@
+{
+ "source_no": 3916,
+ "title_guess": "镶蓝汉军旗都统阿鲁奏为增驻岳州府官兵折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "阿鲁奏陈岳州府水路要地驻兵单弱，请酌减他处官兵增驻岳州府。",
+ "has_zhupi": true,
+ "zhupi_summary": "此事先曾有人条陈，询杨宗仁等谓无事乃止；今阿鲁复奏，命与李成龙、魏经国等详查议奏，朕无定夺，尔等应求实议之。",
+ "people": [
+  {
+   "name": "阿鲁",
+   "role": "镶蓝汉军旗都统"
+  },
+  {
+   "name": "杨宗仁",
+   "role": "官员"
+  },
+  {
+   "name": "李成龙",
+   "role": "官员"
+  },
+  {
+   "name": "魏经国",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "荆州",
+  "岳州府",
+  "襄阳府",
+  "夷陵州",
+  "长沙府",
+  "武昌府",
+  "谷城县",
+  "训阳府"
+ ],
+ "source_title": "镶蓝汉军都统阿鲁故为增驻后州府官兵折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79301,
+ "page_range": "1799-1800",
+ "_date_interpolated": true
+}

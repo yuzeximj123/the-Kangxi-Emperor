@@ -1,0 +1,26 @@
+{
+ "source_no": 2609,
+ "title_guess": "两江总督赫寿奏闻江南农情及米价折",
+ "reign_year": 54,
+ "month": 6,
+ "day_text": "初六日",
+ "event_role": "灾情收成",
+ "summary": "赫寿奏报江南小麦收成、稻田长势及江宁米价每石一两一钱。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。米价有降势否？",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁"
+ ],
+ "source_title": "两江总督赫寿奏闻江南农情及米价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 50803,
+ "page_range": "1229-1230"
+}

@@ -1,0 +1,26 @@
+{
+ "source_no": 4030,
+ "title_guess": "步军统领隆科多奏为闻知圣躬大安不胜欣慰折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "隆科多跪读御批，闻知皇上在围场照常行猎、渐感强壮、饮食步履如常，不胜欣喜。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "围场"
+ ],
+ "source_title": "步军统领隆科多奏为疗知圣躬大安不胜欣是折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80801,
+ "page_range": "1829-1830",
+ "_date_interpolated": true
+}

@@ -1,0 +1,42 @@
+{
+ "source_no": 228,
+ "title_guess": "皇太子奏为申谢康熙帝所赏之马石等事折",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "初九日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子奏报收到谕旨及所赏物品，询问布达里事另缮折遣送，并盼噶尔丹归降或倒毙消息，另奏大夫张茂功赴大同事。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批问候皇太子，称赞其理事详尽、孝顺，祝其长寿，并言围猎所获兔雉丰足、自身安好。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "高玉庆",
+   "role": "差遣官员"
+  },
+  {
+   "name": "常龄",
+   "role": "差遣官员"
+  },
+  {
+   "name": "张茂功",
+   "role": "大夫"
+  },
+  {
+   "name": "萨布素",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "大同",
+  "京城"
+ ],
+ "source_title": "皇太子奏为申谢康熙帝所赏之马石等事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5800,
+ "page_range": "329-330"
+}

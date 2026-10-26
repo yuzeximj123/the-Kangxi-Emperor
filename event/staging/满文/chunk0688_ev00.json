@@ -1,0 +1,33 @@
+{
+ "source_no": 3365,
+ "title_guess": "上息祯者为皇父赏物谢恩折",
+ "reign_year": 58,
+ "month": 3,
+ "day_text": "二十三日",
+ "event_role": "请安谢恩",
+ "summary": "臣祯奏谢皇父赏银十万两、绸五百匹，并转述大将军王启程时赏银携往西宁之事，表示感激图报。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "祯",
+   "role": "奏事臣"
+  },
+  {
+   "name": "牛伦",
+   "role": "内务府郎中"
+  },
+  {
+   "name": "策林",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_title": "由祯奏为皇父赏物谢有恩折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 68800,
+ "page_range": "1589-1590"
+}

@@ -1,0 +1,34 @@
+{
+ "source_no": 555,
+ "title_guess": "多罗直郡王禄奏报看护俄罗斯商人折",
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十六日",
+ "event_role": "边疆事务",
+ "summary": "多罗直郡王禄奏报城外俄罗斯商人约千人携货甚多，议派章京披甲看守馆门围墙、夜间传签巡查，并请由兵部开列副都统职名及封馆门等事宜。",
+ "has_zhupi": true,
+ "zhupi_summary": "外馆无房不曾料到，既系外国贸易之人，仍令照常住宿，惟设人看守而已。",
+ "people": [
+  {
+   "name": "禄",
+   "role": "多罗直郡王"
+  },
+  {
+   "name": "满都",
+   "role": "侍郎"
+  },
+  {
+   "name": "马兰泰",
+   "role": "吏部郎中"
+  }
+ ],
+ "places": [
+  "会同馆",
+  "两黄旗教场"
+ ],
+ "source_title": "多罗直郡王禄奏报看护俄罗斯商人折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 15000,
+ "page_range": "513-514"
+}

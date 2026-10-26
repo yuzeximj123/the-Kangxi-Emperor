@@ -1,0 +1,54 @@
+{
+ "source_no": 329,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初十日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝详述尼麻唐呼图克图等密奏老达赖喇嘛已圆寂、小达赖喇嘛十五岁之事，谕令密藏并于十月启封宣谕，另敕谕第巴布特达阿布迪。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尼麻唐呼图克图",
+   "role": "来奏喇嘛"
+  },
+  {
+   "name": "卓尔磨隆堪布",
+   "role": "来奏堪布"
+  },
+  {
+   "name": "第巴布特达阿布迪",
+   "role": "第巴"
+  },
+  {
+   "name": "济隆呼图克图",
+   "role": "喇嘛"
+  },
+  {
+   "name": "观保",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "海青",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "喇锡",
+   "role": "三等侍卫"
+  }
+ ],
+ "places": [
+  "哲蚌寺",
+  "土伯特"
+ ],
+ "source_title": "康熙帝朱论",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8305,
+ "page_range": "379-380"
+}

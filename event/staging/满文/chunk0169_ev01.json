@@ -1,0 +1,59 @@
+{
+ "source_no": 647,
+ "title_guess": "步军统领托和齐奏报部院情弊折",
+ "reign_year": 43,
+ "month": 8,
+ "day_text": "十九日",
+ "event_role": "弹劾参奏",
+ "summary": "奏报恶棍王五等行凶拐骗、部院拖延审理，及郎忠钻营复职、户部库郎中闻爱贪弊等情。",
+ "has_zhupi": true,
+ "zhupi_summary": "尔所奏俱实，知道了。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "王五",
+   "role": "恶棍"
+  },
+  {
+   "name": "石拉都",
+   "role": "原任镶黄旗拖沙喇哈番"
+  },
+  {
+   "name": "吴谦",
+   "role": "簿庆宫大夫"
+  },
+  {
+   "name": "郎忠",
+   "role": "原江西赣州府知府"
+  },
+  {
+   "name": "李楠",
+   "role": "都察院"
+  },
+  {
+   "name": "巩祥林",
+   "role": "监察御史"
+  },
+  {
+   "name": "王远",
+   "role": "给事中"
+  },
+  {
+   "name": "闻爱",
+   "role": "户部库郎中"
+  }
+ ],
+ "places": [
+  "刑部",
+  "河南归德府",
+  "陕西"
+ ],
+ "source_title": "步军统领托和齐奏报部院情坏折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16901,
+ "page_range": "551-552"
+}

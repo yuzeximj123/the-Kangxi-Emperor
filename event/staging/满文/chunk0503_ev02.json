@@ -1,0 +1,42 @@
+{
+ "source_no": 2590,
+ "title_guess": "步军统领隆科多等奏报礼科衙门被盗案折",
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "初五日",
+ "event_role": "司法案件",
+ "summary": "步军统领隆科多等奏报拿获潜入礼科偷窃衣物的另户马甲索柱，会同都统复审供认不讳，请照例割两脚懒筋。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "索柱",
+   "role": "窃盗（另户马甲）"
+  },
+  {
+   "name": "充固礼",
+   "role": "都统"
+  },
+  {
+   "name": "保色",
+   "role": "副都统"
+  },
+  {
+   "name": "松噶里",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "礼科衙门",
+  "皇城"
+ ],
+ "source_title": "步军统领隆科多等奏报礼科衙门被盗案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 50302,
+ "page_range": "1219-1220"
+}

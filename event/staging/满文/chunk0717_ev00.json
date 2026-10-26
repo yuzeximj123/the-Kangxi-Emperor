@@ -1,0 +1,46 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 58,
+ "month": 8,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "此为前件奏折残余片段，记述喇章纳木喀坚赞所述准噶尔在招地、青海等地情形及遣使阿喇布坦事，并奏赐马匹交都喇勒寨桑遣送。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "喇章纳木喀坚赞",
+   "role": "喇嘛"
+  },
+  {
+   "name": "阿喇布坦",
+   "role": "使者"
+  },
+  {
+   "name": "车凌敦多布",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "第巴达克擦",
+   "role": "第巴"
+  }
+ ],
+ "places": [
+  "招地",
+  "喀喇乌苏",
+  "贡布",
+  "里塘",
+  "巴塘"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 71700,
+ "page_range": "1647-1648",
+ "_date_interpolated": true
+}

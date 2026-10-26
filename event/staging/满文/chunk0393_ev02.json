@@ -1,0 +1,33 @@
+{
+ "source_no": 1916,
+ "title_guess": "包社等奏请由包社送妃母赴热河等情折",
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十一日",
+ "event_role": "宫廷事务",
+ "summary": "包社等奏：妃母十九日起程，九阿哥未前来迎接，臣等公议由包社往送，并奏轮流赴皇父前请安事。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了，现时雨水正多，不可不慎。",
+ "people": [
+  {
+   "name": "包社",
+   "role": "奏事臣"
+  },
+  {
+   "name": "九阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "妃母",
+   "role": "妃母"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_title": "筷社等奏请由觅被送妃母赴热河等情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 39302,
+ "page_range": "999-1000"
+}

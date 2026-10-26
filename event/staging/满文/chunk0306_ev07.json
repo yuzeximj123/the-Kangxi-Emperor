@@ -1,0 +1,38 @@
+{
+ "source_no": 1402,
+ "title_guess": "江南总督邵穆布为代进西洋人贡物折",
+ "reign_year": 48,
+ "month": 2,
+ "day_text": "二十四日",
+ "event_role": "外藩朝贡",
+ "summary": "邵穆布奏报遵旨将江宁天主堂西洋人林安所备葡萄酒十一瓶、鼻烟一瓶加封，遣家人额尔塞依星夜急送进京。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "邵穆布",
+   "role": "江南总督"
+  },
+  {
+   "name": "赵昌",
+   "role": "传谕官员"
+  },
+  {
+   "name": "林安",
+   "role": "西洋人"
+  },
+  {
+   "name": "额尔塞依",
+   "role": "邵穆布家人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "天主堂"
+ ],
+ "source_title": "江南总督邵穆布为代进西洋人贡贩折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 30607,
+ "page_range": "825-826"
+}

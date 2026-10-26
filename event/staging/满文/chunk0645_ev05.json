@@ -1,0 +1,33 @@
+{
+ "source_no": 3189,
+ "title_guess": "步军统领隆科多等奏请补放步军校折",
+ "reign_year": 57,
+ "month": 5,
+ "day_text": "初五日",
+ "event_role": "人事任免",
+ "summary": "步军统领隆科多等奏请补放镶黄满洲旗所减步军校缺，请旨差派何人会同都统等前往热河引见。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "艾哈纳",
+   "role": "左翼长"
+  },
+  {
+   "name": "伊希泰",
+   "role": "右翼长"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_title": "步军统领隆科多等秦请补放步军校折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 64505,
+ "page_range": "1503-1504"
+}

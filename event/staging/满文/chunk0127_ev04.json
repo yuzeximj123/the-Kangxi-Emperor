@@ -1,0 +1,40 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "作者辩称因阻止拉藏前往第巴处而遭诬陷，反问若果有威胁则戴青和硕齐、察罕丹津岂能前来；并询问头等侍卫副都统阿南达，阿南达称除派笔帖式取拉藏蒙文奏书来奏外别无他言。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "拉藏",
+   "role": "台吉"
+  },
+  {
+   "name": "戴青和硕齐",
+   "role": "台吉"
+  },
+  {
+   "name": "察罕丹津",
+   "role": "台吉"
+  },
+  {
+   "name": "阿南达",
+   "role": "头等侍卫副都统"
+  },
+  {
+   "name": "常",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12704,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

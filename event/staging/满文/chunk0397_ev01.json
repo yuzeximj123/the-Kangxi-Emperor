@@ -1,0 +1,30 @@
+{
+ "source_no": 1942,
+ "title_guess": "川陕总督殷泰奏闻病由折",
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "初十日",
+ "event_role": "其他",
+ "summary": "川陕总督殷泰奏陈自己因正直结怨于贪官，今患手麻、口牙关紧、言语不清、右半身抽动等病，不能执笔，命子呼伦泰代笔陈明病由。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "殷泰",
+   "role": "川陕总督"
+  },
+  {
+   "name": "呼伦泰",
+   "role": "殷泰之子"
+  }
+ ],
+ "places": [
+  "西安",
+  "川陕"
+ ],
+ "source_title": "川陕总督角泰奏闻病由折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 39701,
+ "page_range": "1007-1008"
+}

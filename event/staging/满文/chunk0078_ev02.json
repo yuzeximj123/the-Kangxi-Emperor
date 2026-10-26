@@ -1,0 +1,52 @@
+{
+ "source_no": 309,
+ "title_guess": "大将军费扬古等奏报厄鲁特人来归折",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十六日",
+ "event_role": "边疆事务",
+ "summary": "费扬古奏报厄鲁特人额林辰哈希哈自台席勒地方携家口来降，并供称丹济拉迁往齐察兰、噶尔丹驻萨克萨特胡里克等情。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军领侍卫内大臣伯"
+  },
+  {
+   "name": "满丕",
+   "role": "议政侍郎"
+  },
+  {
+   "name": "额林辰哈希哈",
+   "role": "来降厄鲁特人"
+  },
+  {
+   "name": "丹济拉",
+   "role": "厄鲁特台吉"
+  },
+  {
+   "name": "拉斯伦",
+   "role": "丹济拉之婿"
+  },
+  {
+   "name": "布尼塔尔",
+   "role": "达木林台吉之妻"
+  },
+  {
+   "name": "阿第",
+   "role": "归化城副都统"
+  }
+ ],
+ "places": [
+  "台席勒",
+  "萨克萨特胡里克",
+  "齐察兰",
+  "归化城"
+ ],
+ "source_title": "大将军费扬古等奏报厄和鲁特人来归折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 7802,
+ "page_range": "369-370"
+}

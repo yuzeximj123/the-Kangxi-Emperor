@@ -1,0 +1,43 @@
+{
+ "source_no": 2636,
+ "title_guess": "理藩院奏请将原公获罪之衮布扎布遣往军中效力折",
+ "reign_year": 54,
+ "month": 7,
+ "day_text": "初八日",
+ "event_role": "军务",
+ "summary": "理藩院奏请将获罪革退之原公衮布扎布遣往将军费扬古军中效力并捐马十五匹，请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "衮布扎布不可遣往，著停止遣往。",
+ "people": [
+  {
+   "name": "衮布扎布",
+   "role": "原乌珠穆沁公"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣兼理尚书事务公"
+  },
+  {
+   "name": "特古特",
+   "role": "郎中"
+  },
+  {
+   "name": "图真",
+   "role": "主事"
+  },
+  {
+   "name": "托西",
+   "role": "主事"
+  },
+  {
+   "name": "费扬古",
+   "role": "将军"
+  }
+ ],
+ "places": [],
+ "source_title": "理藩院奏请将原公获罪之变布扎布遣往军中效力折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 51701,
+ "page_range": "1247-1248"
+}

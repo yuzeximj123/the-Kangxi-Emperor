@@ -1,0 +1,71 @@
+{
+ "source_no": 4066,
+ "title_guess": "步军统领隆科多奏报缉获抢劫民宅之伙盗折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "隆科多奏报缉获彭希孔、朱大、张运等家抢劫案伙盗，起获赃物交还失主，将各犯解送刑部严审。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "彭希孔",
+   "role": "失主"
+  },
+  {
+   "name": "彭启杰",
+   "role": "失主之子"
+  },
+  {
+   "name": "张大汉",
+   "role": "盗犯"
+  },
+  {
+   "name": "刘三",
+   "role": "盗犯"
+  },
+  {
+   "name": "金一全",
+   "role": "盗犯"
+  },
+  {
+   "name": "金大",
+   "role": "盗犯"
+  },
+  {
+   "name": "朱大",
+   "role": "失主"
+  },
+  {
+   "name": "安大",
+   "role": "失主"
+  },
+  {
+   "name": "张运",
+   "role": "失主"
+  },
+  {
+   "name": "孙四",
+   "role": "未获盗犯"
+  },
+  {
+   "name": "严大秃子",
+   "role": "盗犯"
+  }
+ ],
+ "places": [
+  "海子以南新庄",
+  "山东"
+ ],
+ "source_title": "步军统领隆科多奏报缉获抢劫民宅之伙盗折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81700,
+ "page_range": "1847-1848",
+ "_date_interpolated": true
+}

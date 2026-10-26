@@ -1,0 +1,50 @@
+{
+ "source_no": 3646,
+ "title_guess": "议叙修理中官行宫事折",
+ "reign_year": 61,
+ "month": 11,
+ "day_text": "二十五日",
+ "event_role": "宫廷事务",
+ "summary": "议叙修理中官行宫人员：官保、能特各用银三万五千两，援例请补缺免差加级，并以能特修工银抵销应征银两。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "官保",
+   "role": "监察御史"
+  },
+  {
+   "name": "能特",
+   "role": "原任巡抚"
+  },
+  {
+   "name": "孙扎齐",
+   "role": "都统"
+  },
+  {
+   "name": "佛宝",
+   "role": "郎中"
+  },
+  {
+   "name": "李延喜",
+   "role": "员外郎"
+  },
+  {
+   "name": "讷赫",
+   "role": "监察御史"
+  },
+  {
+   "name": "雅责",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "中官",
+  "热河"
+ ],
+ "source_title": "议叙修理中官行宫事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 75801,
+ "page_range": "1729-1730"
+}

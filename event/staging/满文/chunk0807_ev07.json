@@ -1,0 +1,27 @@
+{
+ "source_no": 4028,
+ "title_guess": "步军统领隆科多奏报京城各处增兵严守折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月二十二日",
+ "event_role": "军务",
+ "summary": "隆科多捧接谕旨，官兵蒙赏俸禄行粮欢悦效力；京城太平无谣言，马价上涨，除照常严守堆子栅栏城门外，于城外关口及前三门内大街添兵驻守，参将游击守备轮值，不时巡察。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城",
+  "前三门"
+ ],
+ "source_title": "步军统领隆科多奏报京城各处增兵严守折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80707,
+ "page_range": "1827-1828",
+ "_date_interpolated": true
+}

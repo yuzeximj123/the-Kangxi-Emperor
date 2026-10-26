@@ -1,0 +1,65 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 51,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "审讯魏国柱、张金超、郭守义等太监关于借银查木布、采买侵吞官银及多报价银等情弊的连续记录片段。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "魏国柱",
+   "role": "总管三处达太监"
+  },
+  {
+   "name": "张金超",
+   "role": "太监"
+  },
+  {
+   "name": "郭守义",
+   "role": "永安厅达太监"
+  },
+  {
+   "name": "高宪",
+   "role": "达太监"
+  },
+  {
+   "name": "李典",
+   "role": "副太监"
+  },
+  {
+   "name": "钱培亮",
+   "role": "永安厅西部达太监"
+  },
+  {
+   "name": "查木布",
+   "role": "涉案人"
+  },
+  {
+   "name": "雅图",
+   "role": "副总管"
+  },
+  {
+   "name": "张义风",
+   "role": "缮写文书人"
+  },
+  {
+   "name": "梁九公",
+   "role": "总管达太监"
+  }
+ ],
+ "places": [
+  "吉祥门",
+  "永安厅",
+  "南府",
+  "冰窖"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 41900,
+ "page_range": "1051-1052",
+ "_date_interpolated": true
+}

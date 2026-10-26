@@ -1,0 +1,38 @@
+{
+ "source_no": 2123,
+ "title_guess": "福建巡抚满保奏报擒获海上合伙行抢人折",
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "二十四日",
+ "event_role": "军务",
+ "summary": "满保奏报已遵旨招抚海贼郭昌等十一船，并报入夏南风时严饬水师巡海缉贼，据头安镇游击林连报四月二十三日巡海见翁英龙等情（原文至此残）。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "郭昌",
+   "role": "海贼"
+  },
+  {
+   "name": "林连",
+   "role": "头安镇游击"
+  },
+  {
+   "name": "翁英龙",
+   "role": "海贼"
+  }
+ ],
+ "places": [
+  "福建",
+  "头安镇"
+ ],
+ "source_title": "福建巡抚满保奏报擒获海上合伙行抢人折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42606,
+ "page_range": "1065-1066"
+}

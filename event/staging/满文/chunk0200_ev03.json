@@ -1,0 +1,35 @@
+{
+ "source_no": null,
+ "title_guess": "称达赖喇嘛之人致青海众台吉书",
+ "reign_year": 44,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "称达赖喇嘛者致书青海众台吉，称拉藏借第巴罪行发兵征土伯特、专擅威权，请众台吉效力。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "达赖喇嘛",
+   "role": "称达赖喇嘛之人"
+  },
+  {
+   "name": "拉藏",
+   "role": "拉藏汗"
+  },
+  {
+   "name": "第巴",
+   "role": "第巴"
+  }
+ ],
+ "places": [
+  "青海",
+  "土伯特"
+ ],
+ "source_title": "称达赖喇嘛之人致青海众台吉书",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 20003,
+ "page_range": "613-614",
+ "_date_interpolated": true
+}

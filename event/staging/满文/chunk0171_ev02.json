@@ -1,0 +1,34 @@
+{
+ "source_no": 660,
+ "title_guess": "筷社等奏报粮面价折",
+ "reign_year": 43,
+ "month": 9,
+ "day_text": "十四日",
+ "event_role": "钱粮财政",
+ "summary": "筷社等奏报正阳门外、皇城内外米铺及市肆小米面摊的老米、梭米、小米、高粱、黑豆、干麦面、切面价格。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安；问送果品库使言干面十六钱、切面十四钱，因何异样，著问之。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报官员"
+  },
+  {
+   "name": "筷祺",
+   "role": "奏报官员"
+  },
+  {
+   "name": "筷祈",
+   "role": "奏报官员"
+  }
+ ],
+ "places": [
+  "正阳门外",
+  "皇城"
+ ],
+ "source_title": "筷社等考报粮面价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 17102,
+ "page_range": "555-556"
+}

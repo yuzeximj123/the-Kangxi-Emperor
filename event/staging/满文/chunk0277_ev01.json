@@ -1,0 +1,30 @@
+{
+ "source_no": 1245,
+ "title_guess": "川陕总督博霁奏请清查常平仓捐纳米折",
+ "reign_year": 46,
+ "month": 12,
+ "day_text": "初五日",
+ "event_role": "钱粮财政",
+ "summary": "奏报甘肃常平仓捐纳米五年共九十万余石未彻底清查，请令巡抚齐世武逐一清查银米、令亏欠者补赔。",
+ "has_zhupi": true,
+ "zhupi_summary": "命将此事具本来奏。",
+ "people": [
+  {
+   "name": "博霁",
+   "role": "川陕总督"
+  },
+  {
+   "name": "齐世武",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "西安"
+ ],
+ "source_title": "川陕总督博雾奏请清查常平仓捐纳米折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 27701,
+ "page_range": "767-768"
+}

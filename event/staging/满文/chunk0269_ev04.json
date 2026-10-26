@@ -1,0 +1,45 @@
+{
+ "source_no": 1195,
+ "title_guess": "江南总督邵穆布奏米价并报赈济灾民情形折",
+ "reign_year": 46,
+ "month": 8,
+ "day_text": "二十八日",
+ "event_role": "灾情收成",
+ "summary": "江南总督邵穆布奏报地方盗案、苏州米价骤涨及聚众抢米案已平息，并报得雨旱情消释、缓征钱粮赈济灾民。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。",
+ "people": [
+  {
+   "name": "邵穆布",
+   "role": "江南总督"
+  },
+  {
+   "name": "于准",
+   "role": "巡抚"
+  },
+  {
+   "name": "宜思秦",
+   "role": "江苏布政使"
+  },
+  {
+   "name": "张书申",
+   "role": "案犯"
+  },
+  {
+   "name": "唐士奇",
+   "role": "富民"
+  }
+ ],
+ "places": [
+  "江南",
+  "苏州",
+  "常州",
+  "芜湖",
+  "江宁"
+ ],
+ "source_title": "江南总督邵穆布奏米价并报岩济灾民情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 26904,
+ "page_range": "751-752"
+}

@@ -1,0 +1,31 @@
+{
+ "source_no": 1555,
+ "title_guess": "两江总督噶礼奏报雨水田禾并粮价情形折",
+ "reign_year": 49,
+ "month": 3,
+ "day_text": "初六日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报江南自二月初六得雨后二月二十三、二十五、二十七及三月初二得雨沾足、夏麦大有可期，湖广江西米石来多，江宁等府米价稍减，淮扬徐等府州仍一钱三四分。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "湖广",
+  "江宁",
+  "淮安",
+  "扬州",
+  "徐州"
+ ],
+ "source_title": "两江总督噶礼奏报雨水田采并粮价情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33206,
+ "page_range": "877-878"
+}

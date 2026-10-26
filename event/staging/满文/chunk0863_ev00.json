@@ -1,0 +1,38 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "这是《康熙朝满文硃批奏折全译》一书的编者后记片段，记述满文译稿的翻译、审校、出版经过及致谢，并非奏折或上谕。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "关孝廉",
+   "role": "总编审、研究馆员"
+  },
+  {
+   "name": "徐艺围",
+   "role": "馆长"
+  },
+  {
+   "name": "届六生",
+   "role": "满文部领导、研究馆员"
+  },
+  {
+   "name": "王喜",
+   "role": "后记作者"
+  }
+ ],
+ "places": [
+  "东厂胡同一号"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 86300,
+ "page_range": "1939-1939",
+ "_date_interpolated": true
+}

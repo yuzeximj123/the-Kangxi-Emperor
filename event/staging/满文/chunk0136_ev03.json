@@ -1,0 +1,36 @@
+{
+ "source_no": 491,
+ "title_guess": "山西巡抚噶礼奏报知府知县操守折",
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "十一日",
+ "event_role": "弹劾参奏",
+ "summary": "山西巡抚噶礼遵旨奏报太原府知府赵凤诏材技操守皆好、爱民称扬，猗氏县知县陶子越操守好但才能不及赵凤诏，并说明未列参劾之由。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：陶子越已有旨了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "太原府知府"
+  },
+  {
+   "name": "陶子越",
+   "role": "猗氏县知县"
+  }
+ ],
+ "places": [
+  "太原",
+  "猗氏县",
+  "平阳府",
+  "潼关"
+ ],
+ "source_title": "出西多抚噶礼奏报知府知县操守折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 13603,
+ "page_range": "485-486"
+}

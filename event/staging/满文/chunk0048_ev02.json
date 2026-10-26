@@ -1,0 +1,38 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 7,
+ "day_text": "初十日",
+ "event_role": "军务",
+ "summary": "臣咨复运米官员，令将应送米依前奏运三十五日米急速赶来尾随大军，并报大军自乌兰额尔吉起程抵察罕和硕，孙思克、博都、阿南达率兵赶到。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "振武将军"
+  },
+  {
+   "name": "博都",
+   "role": "西安将军"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "乌兰额尔吉",
+  "察罕和硕",
+  "土拉",
+  "翁金",
+  "郭多哩"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4802,
+ "page_range": "309-310",
+ "_date_interpolated": true
+}

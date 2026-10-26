@@ -1,0 +1,30 @@
+{
+ "source_no": 3720,
+ "title_guess": "内务府总管海拉逊奏请哈密葡萄交给何处折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "本月初六日",
+ "event_role": "宫廷事务",
+ "summary": "观保家人自哈密带来红白黑绿葡萄共二十一盆，本月初六日送到，已交奉宸苑暂存，请旨交何处植养。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕朝夕在宫。回宫后办理。",
+ "people": [
+  {
+   "name": "海拉逊",
+   "role": "内务府总管"
+  },
+  {
+   "name": "观保",
+   "role": "家人"
+  }
+ ],
+ "places": [
+  "哈密"
+ ],
+ "source_title": "内务府总管海拉进奏请哈密葡萄交给何处折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76907,
+ "page_range": "1751-1752",
+ "_date_interpolated": true
+}

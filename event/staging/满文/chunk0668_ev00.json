@@ -1,0 +1,41 @@
+{
+ "source_no": 3274,
+ "title_guess": "内务府奏为补放陵究尚腾总领折",
+ "reign_year": 57,
+ "month": 10,
+ "day_text": "二十四日",
+ "event_role": "人事任免",
+ "summary": "内务府遵旨议奏陵究尚腾总领赫色病故后其缺是否另补，查康熙五十一年已将四格补为额外尚腾总领，故请不必另补。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。",
+ "people": [
+  {
+   "name": "伯景",
+   "role": "掌陵究关防郎中"
+  },
+  {
+   "name": "赫色",
+   "role": "陵究尚腾总领"
+  },
+  {
+   "name": "四格",
+   "role": "陵究额外尚腾总领"
+  },
+  {
+   "name": "海章",
+   "role": "署理内务府总管事务郎中"
+  },
+  {
+   "name": "董败邦",
+   "role": "署理内务府总管事务郎中"
+  }
+ ],
+ "places": [
+  "陵究"
+ ],
+ "source_title": "内务府奏为补放陵得尚腾总领折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 66800,
+ "page_range": "1549-1550"
+}

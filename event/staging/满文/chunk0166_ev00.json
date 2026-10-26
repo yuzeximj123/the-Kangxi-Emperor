@@ -1,0 +1,30 @@
+{
+ "source_no": 630,
+ "title_guess": "甘肃巡抚齐世武奏请万安折",
+ "reign_year": 43,
+ "month": 7,
+ "day_text": "十五日",
+ "event_role": "请安谢恩",
+ "summary": "齐世武跪请皇上万安，朱批答以己身安好、秋收丰稔、各省无灾，并赐亲书扇一柄。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙答己安好，去岁山东大灾曾忧，今春秋收十分、每石银六钱，秋禾绝好，各省无报灾，甚宽慰；今夏口外凉爽、鱼兽丰，办事之余读书写字，赐亲书扇一柄，愿清风永在。",
+ "people": [
+  {
+   "name": "齐世武",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "口外"
+ ],
+ "source_title": "甘肃多抚齐世武奏请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 16600,
+ "page_range": "545-546"
+}

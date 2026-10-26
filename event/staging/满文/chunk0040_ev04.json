@@ -1,0 +1,31 @@
+{
+ "source_no": 170,
+ "title_guess": "皇太子奏为办理西路粮米马驼折",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "五月初六日",
+ "event_role": "钱粮财政",
+ "summary": "皇太子恭请皇父及诸阿哥安，奏送新姜、西洋药并依前造备补造，又据户部尚书马齐奏报行文盛京等处办理粮米马驼事。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "马齐",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [
+  "盛京",
+  "宁古塔",
+  "黑龙江"
+ ],
+ "source_title": "皇太子筷祈奏为办理西路粮米马驼折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4004,
+ "page_range": "293-294"
+}

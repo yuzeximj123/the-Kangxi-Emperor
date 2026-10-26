@@ -1,0 +1,41 @@
+{
+ "source_no": 1871,
+ "title_guess": "理藩院奏请遣员吊丧折",
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "二十三日",
+ "event_role": "外藩朝贡",
+ "summary": "理藩院奏报科尔沁头等台吉汉都病故，请旨是否照例施恩致祭。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示：著停止。",
+ "people": [
+  {
+   "name": "汉都",
+   "role": "科尔沁头等台吉"
+  },
+  {
+   "name": "罗布藏固木布",
+   "role": "科尔沁和硕达尔汉亲王"
+  },
+  {
+   "name": "布尼",
+   "role": "辅国公"
+  },
+  {
+   "name": "毕里衮达赖",
+   "role": "二等台吉"
+  },
+  {
+   "name": "阿尔宾",
+   "role": "佐领"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_title": "理藩院奏请遣员吊奠折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 38504,
+ "page_range": "983-984"
+}

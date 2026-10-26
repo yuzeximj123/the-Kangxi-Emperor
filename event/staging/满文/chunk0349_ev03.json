@@ -1,0 +1,45 @@
+{
+ "source_no": 1654,
+ "title_guess": "两江总督噶礼奏报运米赈济灾民折",
+ "reign_year": 49,
+ "month": 10,
+ "day_text": "初六日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报遵旨截留江南、浙江漕米三十万石运往福建赈济，并与督抚商定镇江、松江运米事宜及开仓收米情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "塔林泰",
+   "role": "钦差监督运米部臣"
+  },
+  {
+   "name": "桑额",
+   "role": "漕运总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "福建",
+  "漳州",
+  "泉州",
+  "镇江府",
+  "狼山",
+  "松江府",
+  "乍浦",
+  "江南",
+  "浙江"
+ ],
+ "source_title": "两江总督噶礼奏报运米赈济灾民折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 34903,
+ "page_range": "911-912"
+}

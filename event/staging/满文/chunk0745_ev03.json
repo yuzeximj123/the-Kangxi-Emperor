@@ -1,0 +1,47 @@
+{
+ "source_no": 3587,
+ "title_guess": "山西巡抚德音奏报各府州县亏空银两等情形折",
+ "reign_year": 61,
+ "month": 1,
+ "day_text": "十三日",
+ "event_role": "钱粮财政",
+ "summary": "山西巡抚德音奏报查明各府州县亏空银一百四五十万两，请将亏空官员革职留任限三年赔补，并奏报查抄苏克济家人赵齐财物及处置情形。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "德音",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "苏瞻",
+   "role": "布政使"
+  },
+  {
+   "name": "苏克济",
+   "role": "前任巡抚"
+  },
+  {
+   "name": "赵齐",
+   "role": "苏克济家人"
+  },
+  {
+   "name": "李庆岳",
+   "role": "知府"
+  },
+  {
+   "name": "蓝廷芳",
+   "role": "知府"
+  }
+ ],
+ "places": [
+  "太原",
+  "阳曲县",
+  "江南"
+ ],
+ "source_title": "山西巡抚德音故报各府州县亏空银两等情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 74503,
+ "page_range": "1703-1704"
+}

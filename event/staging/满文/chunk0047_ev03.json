@@ -1,0 +1,31 @@
+{
+ "source_no": null,
+ "title_guess": "谕大将军伯费扬古",
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "三月初一日",
+ "event_role": "军务",
+ "summary": "康熙帝谕费扬古，闻掘井易得甚悦，令其报行抵军台时估定到达翁金日期，并问喀尔喀向导估列至土拉日程地名以奏。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "阿玉锡",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "南口",
+  "翁金",
+  "土拉"
+ ],
+ "source_title": "谕大将军伯费扬古",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4703,
+ "page_range": "307-308"
+}

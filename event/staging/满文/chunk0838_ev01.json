@@ -1,0 +1,31 @@
+{
+ "source_no": 4177,
+ "title_guess": "行在兵部奏报以参将赵鸿基补河间副将员缺折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "行在兵部遵旨查河间副将员缺已补放固原城守参将赵鸿基，具奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "以陈尚武即补赵鸿基之缺。",
+ "people": [
+  {
+   "name": "赵鸿基",
+   "role": "固原城守参将、河间副将"
+  },
+  {
+   "name": "陈尚武",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "河间",
+  "固原"
+ ],
+ "source_title": "行在兵部奏报以参将赵鸿基补河间一将员身折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 83801,
+ "page_range": "1889-1890",
+ "_date_interpolated": true
+}

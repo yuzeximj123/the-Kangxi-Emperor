@@ -1,0 +1,38 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "此为行军日程及归降人询问记录片段：大将军马思喀起发厄鲁特来归之达木巴哈西哈等约二百户，详询噶尔丹败逃情形，并记正黄旗副都统阿南达来奏灭噶尔丹捷报及康熙帝追述乌兰布通旧恨、九十九日抵京等语。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "马思喀",
+   "role": "大将军"
+  },
+  {
+   "name": "阿南达",
+   "role": "正黄旗副都统"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "固图勒布拉克",
+  "西托陵",
+  "中托陵",
+  "乌兰布通",
+  "土拉",
+  "克鲁伦"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5003,
+ "page_range": "313-314"
+}

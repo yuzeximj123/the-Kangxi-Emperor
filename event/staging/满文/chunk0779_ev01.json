@@ -1,0 +1,30 @@
+{
+ "source_no": 3800,
+ "title_guess": "皇太子奏报尚书图纳脖子生疮折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "三月初五日",
+ "event_role": "其他",
+ "summary": "奏报尚书图纳因病请假去汤泉，三月初五日返回，本月二十三日起肚子生疮不适，已将大夫诊治书一并奏报。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称此人素喜用附子、肉桂、人参等补药，初请大夫时大夫俱欲给服补药，曾降旨切责，日后岂不生此疮；著皇太子查阅药房档案即知，并叹凡人喜补剂而不知补中有损。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "图纳",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "汤泉"
+ ],
+ "source_title": "皇太子奏报尚书图纳脖子生准折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 77901,
+ "page_range": "1771-1772",
+ "_date_interpolated": true
+}

@@ -1,0 +1,41 @@
+{
+ "source_no": null,
+ "title_guess": "大将军伯费扬古奏闻行抵卡伦及进兵日期折",
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "三月十四日",
+ "event_role": "军务",
+ "summary": "费扬古奏报三月十三日行抵卡伦，分编京师、右卫之兵，十五日分东西两路进兵，估计四月初三日抵翁金、二十四日抵土拉、二十七日抵巴颜乌兰，并报御赐炮八尊运至托哩呼。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军领侍卫内大臣伯"
+  },
+  {
+   "name": "觉罗舒恕",
+   "role": "扬威将军"
+  },
+  {
+   "name": "冯国祥",
+   "role": "副都统"
+  },
+  {
+   "name": "伊勤森",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "卡伦",
+  "托哩呼",
+  "翁金",
+  "土拉",
+  "巴颜乌兰"
+ ],
+ "source_title": "大将军伯费扬古奏闻行抵卡伦及进兵日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4704,
+ "page_range": "307-308"
+}

@@ -1,0 +1,41 @@
+{
+ "source_no": 340,
+ "title_guess": "议政大臣苏努等奏为擒拿伊拉古克三呼图克图折",
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "康熙三十六年闰三月十九日",
+ "event_role": "军务",
+ "summary": "议政大臣苏努等遵旨议奏前往擒拿伊拉古克三呼图克图之官兵乘骑马匹调配及口粮事宜，请旨准行。",
+ "has_zhupi": true,
+ "zhupi_summary": "奉旨依议。",
+ "people": [
+  {
+   "name": "苏努",
+   "role": "议政大臣镇国公都统"
+  },
+  {
+   "name": "观保",
+   "role": "御前头等侍卫"
+  },
+  {
+   "name": "伊拉古克三呼图克图",
+   "role": "擒拿对象"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "博霁",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "郭多里巴尔哈孙"
+ ],
+ "source_title": "议政大臣苏努等奏为擒拿伊拉击克三呼图克图折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 8702,
+ "page_range": "387-388"
+}

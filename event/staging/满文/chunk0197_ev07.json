@@ -1,0 +1,36 @@
+{
+ "source_no": 815,
+ "title_guess": "陕西巡抚鄂海奏请用建寺余银买田租种折",
+ "reign_year": 44,
+ "month": 11,
+ "day_text": "二十一日",
+ "event_role": "钱粮财政",
+ "summary": "陕西巡抚鄂海奏报迎领御书碑文，建议来年召匠敬刻，并请以建寺余银买田租种以供佛事及喇嘛生活。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "博雾",
+   "role": "川陕总督"
+  },
+  {
+   "name": "白喇木札木巴",
+   "role": "喇嘛"
+  }
+ ],
+ "places": [
+  "西安",
+  "华阴庙",
+  "广仁寺",
+  "开元寺"
+ ],
+ "source_title": "陕西巡抚辑海奏请用建寺祭银买田租种折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 19707,
+ "page_range": "607-608"
+}

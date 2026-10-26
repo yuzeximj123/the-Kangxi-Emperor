@@ -1,0 +1,48 @@
+{
+ "source_no": 4078,
+ "title_guess": "步军统领托和齐奏报佛保等人劣迹折",
+ "reign_year": 3,
+ "month": 3,
+ "day_text": "初四日",
+ "event_role": "弹劾参奏",
+ "summary": "托和齐奏报包衣牛录中佛保、官保、石图等人恃恩骄横、结党营私、怨言悖乱等劣迹。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示甚是，知道了。",
+ "people": [
+  {
+   "name": "佛保",
+   "role": "包衣牛录官员"
+  },
+  {
+   "name": "官保",
+   "role": "包衣牛录官员"
+  },
+  {
+   "name": "石图",
+   "role": "包衣牛录官员"
+  },
+  {
+   "name": "马齐",
+   "role": "户部尚书"
+  },
+  {
+   "name": "马武",
+   "role": "官员"
+  },
+  {
+   "name": "苏赫",
+   "role": "原户部尚书"
+  },
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  }
+ ],
+ "places": [],
+ "source_title": "步军统领托和齐奏报佛保等人劣迹折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82001,
+ "page_range": "1853-1854",
+ "_date_interpolated": true
+}

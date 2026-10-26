@@ -1,0 +1,41 @@
+{
+ "source_no": 2661,
+ "title_guess": "内务府奏请杭州织造孙文成未及时报晴雨革职折",
+ "reign_year": 54,
+ "month": 8,
+ "day_text": "初六日",
+ "event_role": "弹劾参奏",
+ "summary": "内务府遵旨议奏杭州织造孙文成迟报麦收及晴雨折子，议其职守地方应及时奏闻田雨情形，现议罪具奏（原文至此未完）。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造员外郎"
+  },
+  {
+   "name": "双全",
+   "role": "奏事员外郎"
+  },
+  {
+   "name": "苏成额",
+   "role": "司库"
+  },
+  {
+   "name": "张文斌",
+   "role": "奏事"
+  },
+  {
+   "name": "杨万成",
+   "role": "洗马"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_title": "内务府奏请杭州织造孙文成未及时报畏雨革职折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 52205,
+ "page_range": "1257-1258"
+}

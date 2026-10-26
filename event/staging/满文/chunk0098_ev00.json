@@ -1,0 +1,50 @@
+{
+ "source_no": 389,
+ "title_guess": "山西巡抚噶礼考审知府王福贪污受贿情形折",
+ "reign_year": 39,
+ "month": 5,
+ "day_text": "初五日",
+ "event_role": "弹劾参奏",
+ "summary": "噶礼续报查审平阳府知府王福贪污私派，王福自认得银四万余两并攀扯前任官员，噶礼请旨如何审结。",
+ "has_zhupi": true,
+ "zhupi_summary": "凡事不可预先定夺，须临事酌辨是非，不可事先指令，宜尽心公审具奏。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "王福",
+   "role": "平阳府知府"
+  },
+  {
+   "name": "倭伦",
+   "role": "前任巡抚"
+  },
+  {
+   "name": "齐世武",
+   "role": "前任布政使"
+  },
+  {
+   "name": "满都",
+   "role": "现任布政使"
+  },
+  {
+   "name": "谢廷极",
+   "role": "革职知州"
+  },
+  {
+   "name": "彭希孔",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "山西",
+  "平阳府"
+ ],
+ "source_title": "山西久抚噶礼考审知府王福贪污受贿情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9800,
+ "page_range": "409-410"
+}

@@ -1,0 +1,35 @@
+{
+ "source_no": 1359,
+ "title_guess": "江南总督邵穆布奏报百姓生计并粮价等情折",
+ "reign_year": 47,
+ "month": 9,
+ "day_text": "二十七日",
+ "event_role": "灾情收成",
+ "summary": "江南总督邵穆布遵旨奏报江南各地秋收、被灾州县抚慰情形及上下两江米价，称不致民人乏食。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "邵穆布",
+   "role": "江南总督"
+  }
+ ],
+ "places": [
+  "徐州",
+  "邳州",
+  "凤阳",
+  "安庆",
+  "宁国",
+  "池州",
+  "太平",
+  "苏州",
+  "松江",
+  "常州",
+  "镇江"
+ ],
+ "source_title": "江南总督邵穆布奏报百姓生计并粮价等情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 30103,
+ "page_range": "815-816"
+}

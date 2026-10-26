@@ -1,0 +1,35 @@
+{
+ "source_no": 3360,
+ "title_guess": "闽浙总督满保奏报族兵起程日期折",
+ "reign_year": 58,
+ "month": 3,
+ "day_text": "初六日",
+ "event_role": "军务",
+ "summary": "满保奏报遵旨调杭州满洲兵一千名赴云南，与将军塔拜、巡抚朱轼商议于二月二十五日起程，捐银一万三千两置办行装、拨船五百及船夫，官兵齐整起程。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "闽浙总督"
+  },
+  {
+   "name": "塔拜",
+   "role": "杭州将军"
+  },
+  {
+   "name": "朱轼",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "杭州",
+  "浙江",
+  "云南"
+ ],
+ "source_title": "闽浙总督满保奏报族兵起程日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 68701,
+ "page_range": "1587-1588"
+}

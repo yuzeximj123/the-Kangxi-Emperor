@@ -1,0 +1,44 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": null,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政会议追剿噶尔丹事，虑粮米不继、伯费扬古军无消息，议定以马思喀为大将军率精兵追五日直至土拉，并安排西路粮运。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "马思喀",
+   "role": "领侍卫内大臣、大将军"
+  },
+  {
+   "name": "刘遍",
+   "role": "按察使"
+  },
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  }
+ ],
+ "places": [
+  "托诺",
+  "托陵",
+  "土拉",
+  "克鲁伦"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4904,
+ "page_range": "311-312"
+}

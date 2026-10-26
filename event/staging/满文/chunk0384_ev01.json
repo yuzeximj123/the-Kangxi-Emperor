@@ -1,0 +1,48 @@
+{
+ "source_no": 1864,
+ "title_guess": "两江总督噶礼奏江南科场案本人无弊被诬折",
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "十九日",
+ "event_role": "弹劾参奏",
+ "summary": "两江总督噶礼奏辩江南科场案中自己并无舞弊，指张伯行、张鹏翮、陈鹏年等诬陷，并附访查不通文举人名单。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "陈鹏年",
+   "role": "官员"
+  },
+  {
+   "name": "赵晋",
+   "role": "江南副考官"
+  },
+  {
+   "name": "左必蕃",
+   "role": "监考官"
+  }
+ ],
+ "places": [
+  "江南",
+  "扬州",
+  "苏州",
+  "松江"
+ ],
+ "source_title": "两江总督噶礼奏江南科场案本人无坏被诬折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 38401,
+ "page_range": "981-982"
+}

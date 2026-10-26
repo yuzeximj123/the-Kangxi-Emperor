@@ -1,0 +1,39 @@
+{
+ "source_no": 2724,
+ "title_guess": "理藩院奏请增设佐领折",
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "十五日",
+ "event_role": "边疆事务",
+ "summary": "理藩院据黑龙江将军所请，议将索伦、达斡尔九佐领各分编为二佐领，候旨补放佐领人员。",
+ "has_zhupi": true,
+ "zhupi_summary": "著将补放佐领人员，来年与墨尔根等来木栏围场。",
+ "people": [
+  {
+   "name": "玛喀里",
+   "role": "署理黑龙江将军副都统"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣兼管尚书事务公"
+  },
+  {
+   "name": "诺木齐岱",
+   "role": "左侍郎"
+  },
+  {
+   "name": "拉都浑",
+   "role": "右侍郎"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "索伦",
+  "达斡尔"
+ ],
+ "source_title": "理藩院奏请增设佐领折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 53703,
+ "page_range": "1287-1288"
+}

@@ -1,0 +1,50 @@
+{
+ "source_no": 141,
+ "title_guess": "川陕总督佛伦奏陈徐乾学等人情形折",
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "二十七日",
+ "event_role": "弹劾参奏",
+ "summary": "佛伦奏陈闻傅拉塔去世而徐乾学宴饮庆贺、其子行恶、王燕等官员悖道及昆山嘉定民变等情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。又一折留中了。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "傅拉塔",
+   "role": "江南总督"
+  },
+  {
+   "name": "徐乾学",
+   "role": "官员"
+  },
+  {
+   "name": "宋华",
+   "role": "巡抚"
+  },
+  {
+   "name": "王燕",
+   "role": "布政使"
+  },
+  {
+   "name": "俞一漠",
+   "role": "督标副将"
+  }
+ ],
+ "places": [
+  "江南",
+  "昆山县",
+  "嘉定县",
+  "苏州",
+  "淮安",
+  "虎丘"
+ ],
+ "source_title": "川陕总督佛伦奏陈徐乾学等人情形拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 3103,
+ "page_range": "275-276"
+}

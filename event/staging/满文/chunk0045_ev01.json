@@ -1,0 +1,39 @@
+{
+ "source_no": 186,
+ "title_guess": "康熙帝论为送衣物食物等事",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十六日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕皇太子，言率兵前行喜悦返回、思念皇太子，送旧袍褂并命携肥鹅鸡猪等物迎至商都牧场，又述噶尔丹败逃情形及沿途地方荒凉。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "费扬古",
+   "role": "将军"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "商都牧场",
+  "拖调山",
+  "巴彦沟"
+ ],
+ "source_title": "康熙帝论为送衣物食禾等事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4501,
+ "page_range": "303-304"
+}

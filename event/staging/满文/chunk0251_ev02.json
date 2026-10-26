@@ -1,0 +1,31 @@
+{
+ "source_no": 1095,
+ "title_guess": "陕西巡抚鄂海奏报雨水田条生长情形折",
+ "reign_year": 46,
+ "month": 4,
+ "day_text": "十八日",
+ "event_role": "灾情收成",
+ "summary": "鄂海奏报陕西西安及凤翔、汉中等府州县三月至四月得雨，麦子、大麦、豌豆、菜子生长畅茂秀穗，预计有十余分收成。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "博考",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "汉中"
+ ],
+ "source_title": "陕西巡抚鄂海奏报雨水田条生长情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 25102,
+ "page_range": "715-716"
+}

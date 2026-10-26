@@ -1,0 +1,52 @@
+{
+ "source_no": 2777,
+ "title_guess": "闽浙总督满保奏县民潘邦蛟率众抢粮案折",
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "初八日",
+ "event_role": "司法案件",
+ "summary": "满保奏陈黄岩县民潘邦蛟等因米价上涨率众抢粮案原委，参劾知县、总兵、知府及原巡抚审办不当，请准免究随行者。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：这奏的是。知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "闽浙总督"
+  },
+  {
+   "name": "潘邦蛟",
+   "role": "首犯"
+  },
+  {
+   "name": "李廷元",
+   "role": "黄岩知县"
+  },
+  {
+   "name": "李进",
+   "role": "黄岩总兵"
+  },
+  {
+   "name": "张联元",
+   "role": "知府"
+  },
+  {
+   "name": "王度昭",
+   "role": "原浙江巡抚"
+  },
+  {
+   "name": "林贤高",
+   "role": "从犯"
+  }
+ ],
+ "places": [
+  "浙江",
+  "黄岩县",
+  "台州",
+  "福建"
+ ],
+ "source_title": "闽浙总督满保奏县民潘邦蛟率众抢粮案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 54901,
+ "page_range": "1311-1312"
+}

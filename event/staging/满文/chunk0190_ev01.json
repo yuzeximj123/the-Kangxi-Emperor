@@ -1,0 +1,34 @@
+{
+ "source_no": 766,
+ "title_guess": "筷社等奏报直隶下霜并秋收得雨情形折",
+ "reign_year": 44,
+ "month": 7,
+ "day_text": "十九日",
+ "event_role": "灾情收成",
+ "summary": "筷社等奏报京粮收割、口外田禾已收、二十七日下霜及唐山内外受冻情形，并报二十九日降雨、进送鹿狍及保寿病势。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "商礼",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "保寿",
+   "role": "患病官员"
+  }
+ ],
+ "places": [
+  "唐山营",
+  "京城"
+ ],
+ "source_title": "筷社等奏报直隶下霜并秋收得雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 19001,
+ "page_range": "593-594"
+}

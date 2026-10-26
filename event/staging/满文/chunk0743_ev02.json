@@ -1,0 +1,44 @@
+{
+ "source_no": 3577,
+ "title_guess": "抚远大将军筷祯奏为四额双等前往京城事折",
+ "reign_year": 60,
+ "month": 10,
+ "day_text": "初八日",
+ "event_role": "边疆事务",
+ "summary": "抚远大将军奏报四额骆、喇嘛、台吉等自招地归来经西宁赴甘州会见大将军王后前往京城，并述翁牛特兵护送及行文安排。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "筷祯",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "常寿",
+   "role": "侍郎/办理青海事务"
+  },
+  {
+   "name": "四额骆",
+   "role": "喇嘛使者"
+  },
+  {
+   "name": "策旺诺尔布",
+   "role": "公"
+  },
+  {
+   "name": "延信",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "西宁",
+  "甘州",
+  "招地",
+  "阿拉善山"
+ ],
+ "source_title": "抚远大将军息补考为四额等前往京城事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 74302,
+ "page_range": "1699-1700"
+}

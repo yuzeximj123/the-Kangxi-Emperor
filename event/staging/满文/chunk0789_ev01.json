@@ -1,0 +1,34 @@
+{
+ "source_no": 3882,
+ "title_guess": "武英殿总监造赫世享奏为查李起贺家人事",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月初九日",
+ "event_role": "司法案件",
+ "summary": "赫世享奉朱批查问禁止西洋人彼此通信缘由，传李起贺家人无获，查得李起贺在镶红旗牛录，其家人兄弟均不在京城，据实奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "著尔找一便人送信去。",
+ "people": [
+  {
+   "name": "赫世享",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "李起贺",
+   "role": "镶红旗牛录下人"
+  },
+  {
+   "name": "左维贵",
+   "role": "分得拨什库"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "武英殴间监造赫世享考为查李起贺家人事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78901,
+ "page_range": "1791-1792",
+ "_date_interpolated": true
+}

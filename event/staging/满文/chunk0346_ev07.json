@@ -1,0 +1,31 @@
+{
+ "source_no": 1635,
+ "title_guess": "鄂海奏报秋禾生长情形折",
+ "reign_year": 49,
+ "month": 7,
+ "day_text": "十六日",
+ "event_role": "灾情收成",
+ "summary": "鄂海奏报陕西西安、凤翔、汉中、延安四府秋禾生长秀穗甚好，七月得雨沾足，百姓欢悦，可望十余分收成，另奏收成分数。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。今年各处雨水甚调，粮食均大收。口外禾苗有高七尺者、长两穗者比比皆是，已送往京城给众臣看。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西官员"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安",
+  "凤翔",
+  "汉中",
+  "延安",
+  "口外",
+  "京城"
+ ],
+ "source_title": "吉海奏报秋禾生长情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 34607,
+ "page_range": "905-906"
+}

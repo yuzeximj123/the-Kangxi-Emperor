@@ -1,0 +1,27 @@
+{
+ "source_no": 499,
+ "title_guess": "西安将军博霁请安并奏请临幸西安城折",
+ "reign_year": 41,
+ "month": 11,
+ "day_text": "十八日",
+ "event_role": "请安谢恩",
+ "summary": "西安将军博霁请圣安，称已复元，并奏请皇上来年秋季若幸华山、终南山则亲临西安城，使兵民得瞻圣颜。",
+ "has_zhupi": true,
+ "zhupi_summary": "所奏知道了。",
+ "people": [
+  {
+   "name": "博霁",
+   "role": "西安将军"
+  }
+ ],
+ "places": [
+  "西安",
+  "华山",
+  "终南山"
+ ],
+ "source_title": "西安将军博雾请安并奏请临幸西安城折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 13705,
+ "page_range": "487-488"
+}

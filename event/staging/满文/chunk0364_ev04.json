@@ -1,0 +1,27 @@
+{
+ "source_no": null,
+ "title_guess": "大夫诊治书（附一）",
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "五月初十日",
+ "event_role": "宫廷事务",
+ "summary": "太医院外科大夫祁嘉钊奏报十三阿哥湿毒结于右腿膝上起泡成疮、时流稀脓水，用三仙汤外贴除湿拔毒膏调理。",
+ "has_zhupi": true,
+ "zhupi_summary": "此证终属不好。",
+ "people": [
+  {
+   "name": "祁嘉钊",
+   "role": "太医院外科大夫"
+  },
+  {
+   "name": "十三阿哥",
+   "role": "阿哥"
+  }
+ ],
+ "places": [],
+ "source_title": "大夫诊治书（附一）",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 36404,
+ "page_range": "941-942"
+}

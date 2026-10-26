@@ -1,0 +1,35 @@
+{
+ "source_no": 1533,
+ "title_guess": "两江总督噶礼奏请补授知府员缺折",
+ "reign_year": 48,
+ "month": 12,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "summary": "噶礼参奏凤阳知府王宣仁、常州通判候国彰贪劣，请简补清廉知府以治凤阳灾歉之地。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "王宣仁",
+   "role": "凤阳府知府"
+  },
+  {
+   "name": "候国彰",
+   "role": "常州府捕盗通判"
+  }
+ ],
+ "places": [
+  "凤阳府",
+  "常州府",
+  "安徽"
+ ],
+ "source_title": "两江总督噶礼奏请补授知府员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32804,
+ "page_range": "869-870"
+}

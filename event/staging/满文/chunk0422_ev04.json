@@ -1,0 +1,63 @@
+{
+ "source_no": 2101,
+ "title_guess": "福建巡抚满保奏报办案实情折",
+ "reign_year": 52,
+ "month": 3,
+ "day_text": "二十九日",
+ "event_role": "司法案件",
+ "summary": "福建巡抚满保奏谢天恩，陈述积粮、补官等奏请获准及陈五显案办理实情，辩明御史张世奇参劾其欺瞒之冤。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "董永文",
+   "role": "按察使"
+  },
+  {
+   "name": "张世奇",
+   "role": "监察御史"
+  },
+  {
+   "name": "陈五显",
+   "role": "流贼"
+  },
+  {
+   "name": "陈寿夺",
+   "role": "渠贼"
+  },
+  {
+   "name": "梁戎",
+   "role": "原任总督"
+  },
+  {
+   "name": "范时尝",
+   "role": "总督"
+  },
+  {
+   "name": "林二",
+   "role": "案犯"
+  },
+  {
+   "name": "陈燕",
+   "role": "案犯"
+  },
+  {
+   "name": "叶贵",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "福建",
+  "漳州",
+  "漳平县"
+ ],
+ "source_title": "福建凶抚满保奏报办案实情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42204,
+ "page_range": "1057-1058"
+}

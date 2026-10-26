@@ -1,0 +1,53 @@
+{
+ "source_no": 211,
+ "title_guess": "皇太子初奏为进献皇太后诞展礼物事折",
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "初三日",
+ "event_role": "宫廷事务",
+ "summary": "片段：奏报遵旨送射兔之弓及所造叉子箭五根，由太监能成功请安直送，并附吏部等各衙门具奏事目清单。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：留；另一折纪发。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "奏报人"
+  },
+  {
+   "name": "能成功",
+   "role": "随从太监"
+  },
+  {
+   "name": "沙纳海",
+   "role": "将军"
+  },
+  {
+   "name": "董安国",
+   "role": "总督"
+  },
+  {
+   "name": "高承和",
+   "role": "巡抚"
+  },
+  {
+   "name": "宋华",
+   "role": "巡抚"
+  },
+  {
+   "name": "线一信",
+   "role": "巡抚"
+  },
+  {
+   "name": "舒树",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_title": "皇太子初奏为进献皇太后诞展礼物事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5400,
+ "page_range": "321-322"
+}

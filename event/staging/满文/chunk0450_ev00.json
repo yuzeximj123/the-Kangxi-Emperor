@@ -1,0 +1,46 @@
+{
+ "source_no": 2269,
+ "title_guess": "步军统领隆科多奏报拿获杨世俊属下马贼折",
+ "reign_year": 52,
+ "month": 8,
+ "day_text": "十七日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报查获已正法太监杨世俊带来的马贼杨福环、石二等人，供认多次抢劫杀人，请解送刑部并催拿余党。",
+ "has_zhupi": true,
+ "zhupi_summary": "照所议务必速拿归案。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "杨世俊",
+   "role": "太监"
+  },
+  {
+   "name": "杨福环",
+   "role": "马贼/高炬"
+  },
+  {
+   "name": "石二",
+   "role": "马贼"
+  },
+  {
+   "name": "仁定远",
+   "role": "金脸王/伙犯"
+  }
+ ],
+ "places": [
+  "京城",
+  "黑龙江",
+  "永平府",
+  "文安县",
+  "永清县",
+  "三河县"
+ ],
+ "source_title": "步军统领隆克多奏报拿获杨世俊属下马贼折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 45000,
+ "page_range": "1113-1114"
+}

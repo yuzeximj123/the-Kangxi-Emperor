@@ -1,0 +1,35 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十九日",
+ "event_role": "边疆事务",
+ "summary": "片段：记述在硕罗岭登努力尔特依地方追及拉藏，询问其起程缘由，拉藏称因喇嘛商南多尔济逼迫无奈起程，并交付奏书鸟枪请转奏皇上。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "拉藏",
+   "role": "台吉"
+  },
+  {
+   "name": "商南多尔济",
+   "role": "喇嘛"
+  },
+  {
+   "name": "侍卫",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "硕罗岭",
+  "登努力尔特依"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12700,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

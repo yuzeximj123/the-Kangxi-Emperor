@@ -1,0 +1,64 @@
+{
+ "source_no": 4060,
+ "title_guess": "步军统领隆科多奏报拿获于通州西山等处抢劫之伙盗折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "隆科多奏报拿获寇国仁、马二家抢劫伙盗及何庄户窃银等案，审明各犯供词，请将已获各犯及赃物解刑部严审，未获者行文缉拿。",
+ "has_zhupi": true,
+ "zhupi_summary": "著交付刑部。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "寇国仁",
+   "role": "事主"
+  },
+  {
+   "name": "马二",
+   "role": "事主"
+  },
+  {
+   "name": "杨二",
+   "role": "盗犯"
+  },
+  {
+   "name": "张大",
+   "role": "盗犯"
+  },
+  {
+   "name": "刘五秃子",
+   "role": "盗犯"
+  },
+  {
+   "name": "庄二",
+   "role": "盗犯"
+  },
+  {
+   "name": "谭胡子",
+   "role": "盗犯"
+  }
+ ],
+ "places": [
+  "通州",
+  "小马家庄",
+  "西山",
+  "白家滩",
+  "太子府村",
+  "何庄户",
+  "涿州",
+  "蠡县",
+  "沙各庄",
+  "任丘县",
+  "陵成村"
+ ],
+ "source_title": "步军统领隆科多奏报拿获于通州西山等处抢劫之伙盗折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81500,
+ "page_range": "1843-1844",
+ "_date_interpolated": true
+}

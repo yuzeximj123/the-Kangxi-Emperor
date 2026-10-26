@@ -1,0 +1,51 @@
+{
+ "source_no": 3033,
+ "title_guess": "广东巡抚法海奏参缉捕海贼不力游击折",
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "初九日",
+ "event_role": "弹劾参奏",
+ "summary": "法海奏报广东军纪败坏，陈君原等自旅顺盗军器入广东海面，游击洪宾率船捕盗因病返回，法海咨总督杨琳参劾洪宾并严缉逃贼。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝认可其理。",
+ "people": [
+  {
+   "name": "法海",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "满保",
+   "role": "福建总督"
+  },
+  {
+   "name": "穆延杖",
+   "role": "提督"
+  },
+  {
+   "name": "陈君原",
+   "role": "盗军器海贼"
+  },
+  {
+   "name": "周世源",
+   "role": "南澳总兵"
+  },
+  {
+   "name": "洪宾",
+   "role": "游击"
+  },
+  {
+   "name": "杨琳",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "广东",
+  "旅顺",
+  "南澳"
+ ],
+ "source_title": "广东巡抚法海奏参缉捕海贼不力游击折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 60105,
+ "page_range": "1415-1416"
+}

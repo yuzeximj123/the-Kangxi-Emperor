@@ -1,0 +1,47 @@
+{
+ "source_no": 1792,
+ "title_guess": "两江总督噶礼奏报会试作弊折",
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "初四日",
+ "event_role": "弹劾参奏",
+ "summary": "噶礼奏报江南乡试副考官赵晋与内帘官作弊，巨富洪利进等二十五人文章不通却中榜，人心不服，附名单请圣鉴。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批：赵晋是福建人，文好字好，李光地也说此人不正，果然与李光地所言相合。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "叶九思",
+   "role": "巡抚"
+  },
+  {
+   "name": "左必著",
+   "role": "正考官"
+  },
+  {
+   "name": "赵晋",
+   "role": "副考官"
+  },
+  {
+   "name": "洪利进",
+   "role": "中榜巨富考生"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁",
+  "福建"
+ ],
+ "source_title": "两江总督噶礼奏报会试作坏折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37200,
+ "page_range": "957-958"
+}

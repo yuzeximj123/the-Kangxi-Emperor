@@ -1,0 +1,34 @@
+{
+ "source_no": 1656,
+ "title_guess": "两江总督噶礼奏请将赵成业等调往两江候缺折",
+ "reign_year": 49,
+ "month": 10,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "summary": "噶礼奏称先前任山西巡抚时曾奏请将太原营守备赵成业、千总李宗源调往其标下营候缺补用，现请皇上特旨施行。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "赵成业",
+   "role": "太原营守备"
+  },
+  {
+   "name": "李宗源",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原营"
+ ],
+ "source_title": "两江总督噶礼奏请将赵成业等调往两江候喘折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 34905,
+ "page_range": "911-912"
+}

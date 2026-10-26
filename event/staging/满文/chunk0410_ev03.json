@@ -1,0 +1,27 @@
+{
+ "source_no": 2045,
+ "title_guess": "和候社等奏闻知礼起程前往接妃母日期折",
+ "reign_year": 51,
+ "month": 9,
+ "day_text": "十七日",
+ "event_role": "宫廷事务",
+ "summary": "臣岂社等奏报本月十六日奉到敕书，遵旨于十七日令催礼起程前往接妃母。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "岂社",
+   "role": "奏报人"
+  },
+  {
+   "name": "催礼",
+   "role": "前往接妃母者"
+  }
+ ],
+ "places": [],
+ "source_title": "上仙社等奏闻仍礼起程前往接妃母日期折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 41003,
+ "page_range": "1033-1034"
+}

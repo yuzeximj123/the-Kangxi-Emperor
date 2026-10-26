@@ -1,0 +1,58 @@
+{
+ "source_no": 3075,
+ "title_guess": "步军统领隆科多奏报审讯马贼口供折",
+ "reign_year": 56,
+ "month": 8,
+ "day_text": "初十日",
+ "event_role": "司法案件",
+ "summary": "步军统领隆科多奏报拿获马贼常四、刘七，审讯供出伙同赖保兄弟等劫掠布商银两，拟割筋解送刑部严审。",
+ "has_zhupi": true,
+ "zhupi_summary": "依奏。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "常四",
+   "role": "马贼"
+  },
+  {
+   "name": "刘七",
+   "role": "马贼"
+  },
+  {
+   "name": "张存孝",
+   "role": "前营千总"
+  },
+  {
+   "name": "赖保",
+   "role": "贼伙"
+  },
+  {
+   "name": "牛自侠",
+   "role": "贼伙"
+  },
+  {
+   "name": "金拐子",
+   "role": "贼伙"
+  },
+  {
+   "name": "杨大统子",
+   "role": "贼伙"
+  }
+ ],
+ "places": [
+  "武双县",
+  "永清县",
+  "雄县",
+  "王克桥",
+  "博时县",
+  "束强县"
+ ],
+ "source_title": "步军统领隆科多奏报审讯马贼日供折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 61001,
+ "page_range": "1433-1434"
+}

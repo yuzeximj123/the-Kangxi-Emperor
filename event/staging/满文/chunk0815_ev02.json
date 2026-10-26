@@ -1,0 +1,31 @@
+{
+ "source_no": 4062,
+ "title_guess": "步军统领隆科多奏报拿获窃盗人数折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "十一月初十日至十二月初十日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报自十一月初十日至十二月初十日一个月内衙门拿获割懒筋窃盗十四人、夹杖放回小盗二十二人，窃盗较上月减少。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "黑四",
+   "role": "窃盗犯"
+  }
+ ],
+ "places": [
+  "直隶延庆州",
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏报拿获窃次人数折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81502,
+ "page_range": "1843-1844",
+ "_date_interpolated": true
+}

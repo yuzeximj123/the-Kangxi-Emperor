@@ -1,0 +1,44 @@
+{
+ "source_no": null,
+ "title_guess": "列名官员名单片段",
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "此为一份列载各旗副都统、六部侍郎、内阁侍读学士、都察院、通政使司、大理寺、詹事府、六科给事中、各道监察御史及两广总督赵宏灿等官员名单的片段，无奏事内容。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "赵宏灿",
+   "role": "广东广西总督"
+  },
+  {
+   "name": "徐元梦",
+   "role": "左都御史"
+  },
+  {
+   "name": "逊柱",
+   "role": "吏部左侍郎"
+  },
+  {
+   "name": "李旭生",
+   "role": "吏部左侍郎"
+  },
+  {
+   "name": "传绅",
+   "role": "吏部右侍郎"
+  },
+  {
+   "name": "汤右曾",
+   "role": "吏部右侍郎"
+  }
+ ],
+ "places": [],
+ "source_title": "列名官员名单片段",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 54600,
+ "page_range": "1305-1306",
+ "_date_interpolated": true
+}

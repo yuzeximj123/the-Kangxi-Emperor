@@ -1,0 +1,27 @@
+{
+ "source_no": 1351,
+ "title_guess": "山西巡抚噶礼奏报祈祷万寿无疆折",
+ "reign_year": 47,
+ "month": 9,
+ "day_text": "初四日",
+ "event_role": "请安谢恩",
+ "summary": "噶礼奏报每年九月初一至初九斋戒祝万寿无疆，期满后赴台山、恒山拈香，往返约半月。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批：知道了。尔应速回省城。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "台山",
+  "恒山",
+  "省城"
+ ],
+ "source_title": "山西多抚唱礼奏报祈祷万寿无杜折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 30002,
+ "page_range": "813-814"
+}

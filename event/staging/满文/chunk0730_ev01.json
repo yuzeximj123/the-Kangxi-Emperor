@@ -1,0 +1,45 @@
+{
+ "source_no": 3526,
+ "title_guess": "署理内务府印务襄泰等奏为审理盗窃布匹案折",
+ "reign_year": 59,
+ "month": 8,
+ "day_text": "初九日",
+ "event_role": "司法案件",
+ "summary": "庆泰奏审刘三等盗官布案，请将现获人犯押解刑部并严拿逃逸唆军张国振等。",
+ "has_zhupi": true,
+ "zhupi_summary": "该部严加查拿审明。",
+ "people": [
+  {
+   "name": "庆泰",
+   "role": "署理内务府印务翼长"
+  },
+  {
+   "name": "刘志锋",
+   "role": "库军"
+  },
+  {
+   "name": "刘三",
+   "role": "案犯"
+  },
+  {
+   "name": "张国振",
+   "role": "唆军长"
+  },
+  {
+   "name": "黑色",
+   "role": "员外郎"
+  },
+  {
+   "name": "官保",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "武清县"
+ ],
+ "source_title": "署理内务府印务襄泰等麦为审理盗窃布匹案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 73001,
+ "page_range": "1673-1674"
+}

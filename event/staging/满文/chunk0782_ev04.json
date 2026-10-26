@@ -1,0 +1,34 @@
+{
+ "source_no": 3827,
+ "title_guess": "康熙帝朱论一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "初三日、初四日、初五日、初六日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝记述初四至初六日行程，驻西湖建新房之所，游西湖、宝塔湾、金山、龙潭、虎丘等地，赞西湖景致秀丽，看完云栖、灵隐寺即返回。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "城隐山",
+  "校场",
+  "西湖",
+  "宝塔湾",
+  "金山",
+  "龙潭",
+  "虎丘",
+  "云栖",
+  "灵隐寺"
+ ],
+ "source_title": "康熙帝朱论一绑",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78204,
+ "page_range": "1777-1778",
+ "_date_interpolated": true
+}

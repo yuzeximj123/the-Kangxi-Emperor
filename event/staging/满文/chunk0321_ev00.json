@@ -1,0 +1,47 @@
+{
+ "source_no": 1485,
+ "title_guess": "杭州织造孙文成奏报福建渔船抢动案折",
+ "reign_year": 48,
+ "month": 8,
+ "day_text": "二十二日",
+ "event_role": "司法案件",
+ "summary": "孙文成奏报商人袁氏等乘船赴江南采买，途中遭福建渔船九人持刀棒抢劫伤人，商人赴宁县知县处诉告而不接状纸。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "袁氏",
+   "role": "商人"
+  },
+  {
+   "name": "戴君秋",
+   "role": "宁波民人/船主"
+  },
+  {
+   "name": "俞玉生",
+   "role": "镇海关衔人"
+  },
+  {
+   "name": "唐国英",
+   "role": "镇海关衔人"
+  }
+ ],
+ "places": [
+  "宁波",
+  "江南省",
+  "镇海",
+  "乍浦口",
+  "定海",
+  "七界梅山",
+  "宁县"
+ ],
+ "source_title": "杭州织造孙文成奏报福建渔船抢动案折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32100,
+ "page_range": "855-856"
+}

@@ -1,0 +1,29 @@
+{
+ "source_no": 199,
+ "title_guess": "抚远大将军费扬古知照理藩院为阿玉锡来归事",
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十日",
+ "event_role": "边疆事务",
+ "summary": "费扬古奏报郡王已于九月初十自归化城启程等情，并附朱批问安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝问安，称自己安好无事。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "郡王",
+   "role": "郡王"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_title": "抚远大将军费扬古知照理藩院为阿玉锡来归事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5200,
+ "page_range": "317-318"
+}

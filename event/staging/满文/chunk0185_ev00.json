@@ -1,0 +1,38 @@
+{
+ "source_no": 736,
+ "title_guess": "有僻社等奏报阴雨情形并保寿阿哥病势折",
+ "reign_year": 44,
+ "month": 5,
+ "day_text": "二十七日",
+ "event_role": "宫廷事务",
+ "summary": "奏报天气阴雨情况及保寿阿哥病情，称其脸虽消瘦但言语动作无妨，已派大夫刘声芳调治，并附各医诊治书。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕安。其余知道了。朕欲于雨水前起程，未再驻足，二十八日至两间房行宫。",
+ "people": [
+  {
+   "name": "保寿",
+   "role": "阿哥"
+  },
+  {
+   "name": "刘声芳",
+   "role": "太医院御医"
+  },
+  {
+   "name": "王培",
+   "role": "大夫"
+  },
+  {
+   "name": "李颖滋",
+   "role": "大夫"
+  }
+ ],
+ "places": [
+  "两间房行宫",
+  "凉水河花园"
+ ],
+ "source_title": "有僻社等奏报阴雨情形并保寿阿哥病势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 18500,
+ "page_range": "583-584"
+}

@@ -1,0 +1,31 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "片段：审问张四教为何先前不告发巡抚勒索，张供称惧其权势，因高巡抚索诈不遂反诬其重加平费，故不得不言，并述高巡抚要求每年加二万两规费等情。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "张四教",
+   "role": "安徽布政使"
+  },
+  {
+   "name": "高巡抚",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "安徽",
+  "河工"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 10902,
+ "page_range": "431-432",
+ "_date_interpolated": true
+}

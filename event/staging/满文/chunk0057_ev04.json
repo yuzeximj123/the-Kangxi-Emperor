@@ -1,0 +1,43 @@
+{
+ "source_no": 228,
+ "title_guess": "皇太子奏为申谢康熙帝所赏之马石等事折",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "初九日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子奏请皇父万安，谢赏马、牧场之石、羊角牙等物，并报高玉庆携来妇人相见及侍卫党龄等送布达里到后奏太后请安。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "高玉庆",
+   "role": "送赏人"
+  },
+  {
+   "name": "敏塔苏",
+   "role": "携来妇人"
+  },
+  {
+   "name": "达喜苏木齐",
+   "role": "敏塔苏之夫"
+  },
+  {
+   "name": "党龄",
+   "role": "侍卫"
+  },
+  {
+   "name": "布达里",
+   "role": "厄鲁特人"
+  }
+ ],
+ "places": [],
+ "source_title": "皇太子奏为申谢康熙帝所赏之马石等事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5704,
+ "page_range": "327-328"
+}

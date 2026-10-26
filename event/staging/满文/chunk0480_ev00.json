@@ -1,0 +1,39 @@
+{
+ "source_no": 2457,
+ "title_guess": "两江总督赫寿奏闻苏州地方情形折",
+ "reign_year": 53,
+ "month": 7,
+ "day_text": "初七日",
+ "event_role": "司法案件",
+ "summary": "两江总督赫寿奏报苏州城外王老卫村遭贼盛三等行抢，已拿获审明系贫苦船民，并报松江提督穆廷械会审及江南旱情、米价等情。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "穆廷械",
+   "role": "松江提督"
+  },
+  {
+   "name": "盛三",
+   "role": "贼首"
+  }
+ ],
+ "places": [
+  "苏州",
+  "松江",
+  "江宁",
+  "福建",
+  "广东",
+  "浙江",
+  "温州"
+ ],
+ "source_title": "两江总督赫寿奏闻苏州地方情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 48000,
+ "page_range": "1173-1174"
+}

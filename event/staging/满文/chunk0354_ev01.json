@@ -1,0 +1,44 @@
+{
+ "source_no": 1685,
+ "title_guess": "两江总督噶礼奏报遗员解海贼并进海图折",
+ "reign_year": 50,
+ "month": 2,
+ "day_text": "初六日",
+ "event_role": "军务",
+ "summary": "噶礼奏报遵旨出海搜贼，选派镇江营参将薛世杰、游击朱士之等及崇明知县王廷赞，并解送与海贼相好之福建人王肛等赴部，另进呈海防事务折及海图",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示知道了",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "薛世杰",
+   "role": "镇江营参将"
+  },
+  {
+   "name": "朱士之",
+   "role": "游击"
+  },
+  {
+   "name": "王廷赞",
+   "role": "崇明县知县"
+  },
+  {
+   "name": "王肛",
+   "role": "福建人、海贼相好者"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "镇江",
+  "崇明"
+ ],
+ "source_title": "两江总督噶礼奏报遗员解海贼并责进海图拆",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35401,
+ "page_range": "921-922"
+}

@@ -1,0 +1,44 @@
+{
+ "source_no": 3784,
+ "title_guess": "闽浙总督郭世隆奏陈各提督总兵官优劣折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "此为奏折末尾片段，郭世隆评陈陈龙、蓝理、李华、赵宏灿等提镇优劣，自谦才弱，请圣主鉴察。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "陈龙",
+   "role": "提督/总兵官"
+  },
+  {
+   "name": "蓝理",
+   "role": "浙江定海总兵官"
+  },
+  {
+   "name": "李华",
+   "role": "平阳总兵官"
+  },
+  {
+   "name": "赵宏灿",
+   "role": "黄岩总兵官"
+  }
+ ],
+ "places": [
+  "浙江定海",
+  "平阳",
+  "黄岩"
+ ],
+ "source_title": "闽浙总督郭世隆奏陈各提督总兵官优劣折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 77700,
+ "page_range": "1767-1768",
+ "_date_interpolated": true
+}

@@ -1,0 +1,42 @@
+{
+ "source_no": 3214,
+ "title_guess": "兵部尚书逊柱等奏请补放陵寝官员折",
+ "reign_year": 57,
+ "month": 7,
+ "day_text": "初一日",
+ "event_role": "人事任免",
+ "summary": "兵部尚书逊柱等再奏孝陵总管、翼长因罪革职，请咨行八旗取应补职名，会同领侍卫内大臣拣选引见补放。",
+ "has_zhupi": true,
+ "zhupi_summary": "现将骁骑章京由尔等都统、副都统会选署理速遣，再选续奏。",
+ "people": [
+  {
+   "name": "逊柱",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "刘章",
+   "role": "掌印郎中"
+  },
+  {
+   "name": "巴锡纳",
+   "role": "郎中"
+  },
+  {
+   "name": "觉和托",
+   "role": "员外郎"
+  },
+  {
+   "name": "三定",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "孝陵",
+  "热河"
+ ],
+ "source_title": "兵部尚书逊柱等奏请补放陵寝官员折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 65304,
+ "page_range": "1519-1520"
+}

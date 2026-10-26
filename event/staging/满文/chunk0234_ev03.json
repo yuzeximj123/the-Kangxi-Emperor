@@ -1,0 +1,35 @@
+{
+ "source_no": 1011,
+ "title_guess": "陕西巡抚鄂海奏请补授布政使折",
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十五日",
+ "event_role": "人事任免",
+ "summary": "鄂海奏报核查四十四年钱粮销算，库存盈余及捐纳银共一百零七万九千余两已照数存贮，并请简选识汉文谨慎有才者补授布政使以清理库内钱粮。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "鄂罗",
+   "role": "布政使"
+  },
+  {
+   "name": "博霁",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "山西",
+  "河南"
+ ],
+ "source_title": "陕西巡抚加海考请补授布政使折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 23403,
+ "page_range": "681-682"
+}

@@ -1,0 +1,42 @@
+{
+ "source_no": 2677,
+ "title_guess": "理藩院奏请巴特玛色布腾暂免来朝折",
+ "reign_year": 54,
+ "month": 9,
+ "day_text": "初一日",
+ "event_role": "外藩朝贡",
+ "summary": "理藩院奏青海台吉巴特玛色布腾请求本年赴京朝觐，因青海各台吉已备兵，议请暂免来朝，俟军事告结再与其母弟同来。",
+ "has_zhupi": true,
+ "zhupi_summary": "依议。",
+ "people": [
+  {
+   "name": "巴特玛色布腾",
+   "role": "青海台吉"
+  },
+  {
+   "name": "苏金泰",
+   "role": "驻西宁员外郎"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣兼理尚书事务"
+  },
+  {
+   "name": "特十特",
+   "role": "员外郎"
+  },
+  {
+   "name": "钟佛保",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "西宁",
+  "青海"
+ ],
+ "source_title": "理藩院奏请巴特玛色布腾暂免来朝折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 52601,
+ "page_range": "1265-1266"
+}

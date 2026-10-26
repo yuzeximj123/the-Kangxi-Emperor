@@ -1,0 +1,45 @@
+{
+ "source_no": 1613,
+ "title_guess": "息社等奏报喀尔喀部遣使来朝贡马折",
+ "reign_year": 49,
+ "month": 6,
+ "day_text": "二十二日",
+ "event_role": "外藩朝贡",
+ "summary": "奏报喀尔喀车臣汗母福晋、车臣汗、贝子阿喇布坦、镇国公车里木布木等遣使请安贡马，请示如何验收受纳。",
+ "has_zhupi": true,
+ "zhupi_summary": "此马若非驯服，令俱却之。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "赫达塞",
+   "role": "理藩院侍卫"
+  },
+  {
+   "name": "沱达哈",
+   "role": "喀尔喀车臣汗母福晋使者"
+  },
+  {
+   "name": "寨桑诺敏",
+   "role": "车臣汗使者"
+  },
+  {
+   "name": "席朗贵",
+   "role": "阿喇布坦使者"
+  },
+  {
+   "name": "绰克图",
+   "role": "车里木布木使者"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_title": "息社等奏报喀和尔喀部遗使来朝贡马折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 34303,
+ "page_range": "899-900"
+}

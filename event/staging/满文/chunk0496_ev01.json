@@ -1,0 +1,43 @@
+{
+ "source_no": 2549,
+ "title_guess": "两江总督赫寿奏闻张伯行案舆论并参劾张伯行折",
+ "reign_year": 54,
+ "month": 1,
+ "day_text": "二十二日",
+ "event_role": "弹劾参奏",
+ "summary": "两江总督赫寿遵旨奏报张伯行案舆论，称张伯行行事不合、牵连无辜商民，众人无称其善者，并据实参劾。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。今又如何？复奏。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "被参官员"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  },
+  {
+   "name": "张令涛",
+   "role": "张伯行幕僚"
+  },
+  {
+   "name": "张元龙",
+   "role": "商人"
+  }
+ ],
+ "places": [
+  "江南",
+  "苏州",
+  "上海"
+ ],
+ "source_title": "两江总督赫寿奏闻张伯行案伍论并参勃张伯行折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 49601,
+ "page_range": "1205-1206"
+}

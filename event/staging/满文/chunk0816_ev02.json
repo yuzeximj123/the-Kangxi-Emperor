@@ -1,0 +1,63 @@
+{
+ "source_no": 4065,
+ "title_guess": "步军统领隆科多奏报拿获盗窃骡马之伙贼折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "隆科多奏报缉获陈三、宋四、安明柱等开窗子盗窃皇城内外骡马之伙贼，据供与李六、和尚、黄大等合伙行窃三十余次，请将获犯解部严审并将李六等一并交部议处。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "陈三",
+   "role": "案犯"
+  },
+  {
+   "name": "宋四",
+   "role": "案犯"
+  },
+  {
+   "name": "安明柱",
+   "role": "案犯"
+  },
+  {
+   "name": "李六",
+   "role": "案犯"
+  },
+  {
+   "name": "和尚",
+   "role": "案犯"
+  },
+  {
+   "name": "黄大",
+   "role": "案犯"
+  },
+  {
+   "name": "宋二",
+   "role": "窝主"
+  },
+  {
+   "name": "陈永图",
+   "role": "中营守备"
+  }
+ ],
+ "places": [
+  "山东",
+  "皇城",
+  "兔儿山",
+  "西安门",
+  "景山",
+  "卢沟桥"
+ ],
+ "source_title": "步军统领隆科多奏报拿获盗窃骤马之伙冉折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81602,
+ "page_range": "1845-1846",
+ "_date_interpolated": true
+}

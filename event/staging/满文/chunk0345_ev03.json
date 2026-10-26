@@ -1,0 +1,34 @@
+{
+ "source_no": 1625,
+ "title_guess": "奏报兵房开始修葺折",
+ "reign_year": 49,
+ "month": 7,
+ "day_text": "十六日",
+ "event_role": "军务",
+ "summary": "山西巡抚苏克济奏报亲往右卫查看破坏兵房二千余间及倒塌围墙，已派员采买工料开工修葺，预计十月竣工，闰七月初六日回府。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "杨宗义",
+   "role": "延平道员"
+  },
+  {
+   "name": "赛隆阿",
+   "role": "西路同知"
+  }
+ ],
+ "places": [
+  "右卫",
+  "山西"
+ ],
+ "source_title": "山西巡抚苏克济奏报兵房开始修其折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 34503,
+ "page_range": "903-904"
+}

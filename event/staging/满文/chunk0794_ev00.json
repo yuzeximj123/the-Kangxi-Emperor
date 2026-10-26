@@ -1,0 +1,27 @@
+{
+ "source_no": 3922,
+ "title_guess": "步军统领隆科多奏报京城炎热并田禾情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "五月二十九日",
+ "event_role": "灾情收成",
+ "summary": "隆科多奏报京城五月末至六月初炎热，正阳门外一人中暑，此外无人畜中暑；初四夜降雨，初五天晴凉爽，庄稼长势良好。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城",
+  "正阳门外烂面胡同"
+ ],
+ "source_title": "步军统领隆科多奏报京城炎热并田禾情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79400,
+ "page_range": "1801-1802",
+ "_date_interpolated": true
+}

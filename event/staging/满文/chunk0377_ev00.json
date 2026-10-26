@@ -1,0 +1,39 @@
+{
+ "source_no": 1817,
+ "title_guess": "两江总督噶礼奏呈诗词折",
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十九日",
+ "event_role": "弹劾参奏",
+ "summary": "噶礼据布政使金世扬言，抄录陈鹏年游虎丘所赋诗词进呈御览，称其中一篇后四句极为背逆，并附原诗备对照。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。将尔家人之文一并留下了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "金世扬",
+   "role": "江苏布政使"
+  },
+  {
+   "name": "陈鹏年",
+   "role": "被参奏官员"
+  },
+  {
+   "name": "硕泰",
+   "role": "噶礼家人"
+  }
+ ],
+ "places": [
+  "虎丘",
+  "江南",
+  "江西"
+ ],
+ "source_title": "两江瘤督噶礼奉呈诗词折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 37700,
+ "page_range": "967-968"
+}

@@ -1,0 +1,46 @@
+{
+ "source_no": 238,
+ "title_guess": "康熙帝谕皇太子为拿获噶尔丹之喇嘛等事",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十三日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子，报已将噶尔丹之达赖喇嘛、索诺木喇锡等一百六十口于索尔河地方拿获，抄寄噶尔丹文书十四件，令奏皇太后、满大臣阅，并述噶尔丹多尔济遣使递书事。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "阿纳达",
+   "role": "御前侍卫"
+  },
+  {
+   "name": "索诺木喇锡",
+   "role": "喇嘛"
+  },
+  {
+   "name": "噶尔丹多尔济",
+   "role": "鄂齐尔图车臣汗之孙"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "青海",
+  "索尔河"
+ ],
+ "source_title": "康熙帝谕皇太子为拿获噶尔丹之喇嘛等事",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6003,
+ "page_range": "333-334"
+}

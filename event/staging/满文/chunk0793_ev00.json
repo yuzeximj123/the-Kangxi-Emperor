@@ -1,0 +1,54 @@
+{
+ "source_no": 3915,
+ "title_guess": "兵部尚书角特布奏请不准有罪官员前往军前效力折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "奏报王培、甘杜、苗童、姚鸿烈、金宣等重犯请求捐驼运米赴军前效力，议不准行，请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "姚鸿烈、金宣所欠银两如偿还完毕，可准其前往效力，其余依议。",
+ "people": [
+  {
+   "name": "王培",
+   "role": "捐纳州同"
+  },
+  {
+   "name": "甘杜",
+   "role": "原任佐领"
+  },
+  {
+   "name": "噶礼",
+   "role": "甘杜之父，凌迟案犯"
+  },
+  {
+   "name": "苗童",
+   "role": "罪犯"
+  },
+  {
+   "name": "苗明",
+   "role": "苗童之子，俊秀"
+  },
+  {
+   "name": "德林",
+   "role": "被正法之人"
+  },
+  {
+   "name": "姚鸿烈",
+   "role": "原任知州"
+  },
+  {
+   "name": "金宣",
+   "role": "原任运判"
+  }
+ ],
+ "places": [
+  "打竹乌拉"
+ ],
+ "source_title": "兵部尚书角特布奏请不准有罪官员前往军前效力折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79300,
+ "page_range": "1799-1800",
+ "_date_interpolated": true
+}

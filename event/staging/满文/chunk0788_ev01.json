@@ -1,0 +1,40 @@
+{
+ "source_no": 3878,
+ "title_guess": "武英殿总监造赫世享奏报抄写《历代府卫抄》一书折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月十五日",
+ "event_role": "宫廷事务",
+ "summary": "赫世享奏报奉旨再写一部《历代府卫抄》，因原稿被陈元龙带回家刊刻，请示或抄御前宋字书或取回原书抄写。",
+ "has_zhupi": true,
+ "zhupi_summary": "带去之书无须拿回，此处之书现有用处，俟进京后再定是否抄写。",
+ "people": [
+  {
+   "name": "赫世享",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "张常住",
+   "role": "官员"
+  },
+  {
+   "name": "李玉",
+   "role": "传旨太监"
+  },
+  {
+   "name": "陈元龙",
+   "role": "官员"
+  },
+  {
+   "name": "吴涵",
+   "role": "翰林"
+  }
+ ],
+ "places": [],
+ "source_title": "武英砍总监造赫世享奏报抄写(历代府卫抄》一书折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78801,
+ "page_range": "1789-1790",
+ "_date_interpolated": true
+}

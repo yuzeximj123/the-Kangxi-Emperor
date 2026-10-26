@@ -1,0 +1,31 @@
+{
+ "source_no": 22,
+ "title_guess": "大学士伊桑阿奏报崇文门外居民草棚失火折",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十五日",
+ "event_role": "灾情收成",
+ "summary": "本月十二日一更时分崇文门外花儿市居民李达草席棚失火，焚房五余间，无人伤亡，该城查明照题，谨具奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕已回到苏州，驻足一宿即往江宁，再无他事。朕体安。阿哥好？尔等均好？",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "李达",
+   "role": "居民"
+  }
+ ],
+ "places": [
+  "崇文门外花儿市",
+  "苏州",
+  "江宁"
+ ],
+ "source_title": "大学士伊桑阿奏报崇文门外居民草棚失火折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 402,
+ "page_range": "221-222"
+}

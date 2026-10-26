@@ -1,0 +1,44 @@
+{
+ "source_no": 171,
+ "title_guess": "康熙帝论皇太子初亲征噶尔丹等情形",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "初六日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子，告以亲征途中军情、车凌札布等台吉来投、噶尔丹败渡克鲁伦及赐石等事。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "车凌札布",
+   "role": "台吉"
+  },
+  {
+   "name": "纳木札勒",
+   "role": "台吉"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  }
+ ],
+ "places": [
+  "克鲁伦",
+  "鄂伦",
+  "乌勒昆",
+  "京城"
+ ],
+ "source_title": "康熙帝论皇太子顺初亲征晓尔丹等情形和",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4101,
+ "page_range": "295-296"
+}

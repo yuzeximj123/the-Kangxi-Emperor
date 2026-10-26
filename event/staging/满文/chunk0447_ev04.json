@@ -1,0 +1,42 @@
+{
+ "source_no": 2251,
+ "title_guess": "福建巡抚满保奏报擒获焚烧民舍者鲁田丈折",
+ "reign_year": 52,
+ "month": 7,
+ "day_text": "二十四日",
+ "event_role": "司法案件",
+ "summary": "满保奏报延平府顺昌县奸民鲁田丈借报私仇聚众焚民舍，被官兵杀败逃入山中；经官兵分段搜查，陆续查获其弟、妻子及同伙，七月二十日将鲁田丈擒获，地方安定。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "鲁田丈",
+   "role": "奸民首领"
+  },
+  {
+   "name": "欧阳凯",
+   "role": "延平副将"
+  },
+  {
+   "name": "边世伟",
+   "role": "游击"
+  },
+  {
+   "name": "任宗延",
+   "role": "知府"
+  }
+ ],
+ "places": [
+  "延平府",
+  "顺昌县"
+ ],
+ "source_title": "福建巡抚满保奏报擒获焚烧民舍者鲁田丈折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 44704,
+ "page_range": "1107-1108"
+}

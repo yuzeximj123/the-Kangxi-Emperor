@@ -1,0 +1,29 @@
+{
+ "source_no": null,
+ "title_guess": "理藩院奏报审问商南多尔济并请一并询问阿南达折",
+ "reign_year": 40,
+ "month": 1,
+ "day_text": "本月二十六日",
+ "event_role": "司法案件",
+ "summary": "理藩院审问商南多尔济后缮折具奏，奉旨令已到京城的阿南达一并接受询问后具奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "阿南达已到京城，亦问阿南达一并具奏。",
+ "people": [
+  {
+   "name": "商南多尔济",
+   "role": "喇嘛"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "理藩院奏报审问商南多尔济并请一并询问阿南达折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12604,
+ "page_range": "465-466"
+}

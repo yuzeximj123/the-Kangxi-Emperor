@@ -1,0 +1,55 @@
+{
+ "source_no": null,
+ "title_guess": "班禅、拉藏等奏书及使者口述情形奏闻",
+ "reign_year": 44,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "记述使者自扎什伦布至招地所见：班禅、拉藏、第巴及达赖喇嘛情形，拉藏杀第巴、土伯特人怨恨拉藏，并携来班禅、拉藏奏书及贡物。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "班禅",
+   "role": "班禅呼图克图"
+  },
+  {
+   "name": "拉藏",
+   "role": "拉藏汗"
+  },
+  {
+   "name": "第巴",
+   "role": "第巴"
+  },
+  {
+   "name": "达赖喇嘛",
+   "role": "达赖喇嘛"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "察罕丹津",
+   "role": "策妄喇布坦使者"
+  },
+  {
+   "name": "额尔克",
+   "role": "拉藏部下台吉"
+  }
+ ],
+ "places": [
+  "扎什伦布",
+  "招地",
+  "日喀贡噶尔",
+  "布达拉",
+  "达木",
+  "西宁"
+ ],
+ "source_title": "班禅、拉藏等奏书及使者口述情形奏闻",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 20000,
+ "page_range": "613-614",
+ "_date_interpolated": true
+}

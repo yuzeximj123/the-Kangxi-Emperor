@@ -1,0 +1,32 @@
+{
+ "source_no": 3632,
+ "title_guess": "山西巡抚德音奏报粮价折",
+ "reign_year": 61,
+ "month": 8,
+ "day_text": "八月二十八日",
+ "event_role": "灾情收成",
+ "summary": "德音奏报八月二十一日太原降雨、庄稼未收完，并报太原、大同、潞安、泽州、辽州、汾州、平阳、沁州等地粮价，称多数物价下跌。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "德音",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "太原府",
+  "大同府",
+  "潞安府",
+  "泽州",
+  "辽州",
+  "汾州府",
+  "平阳府",
+  "沁州"
+ ],
+ "source_title": "山西巡抚德音奏报粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 75406,
+ "page_range": "1721-1722"
+}

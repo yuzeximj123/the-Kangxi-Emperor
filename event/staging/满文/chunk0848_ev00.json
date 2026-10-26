@@ -1,0 +1,46 @@
+{
+ "source_no": 4219,
+ "title_guess": "赏赐扎鲁特旗各福晋等物品清单",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "赏赐扎鲁特旗贝勒毕力克图之妻等福晋、台吉之妻银两、官缎等物，其中镇国公巴图之母另有朱批加赏衣服一套。",
+ "has_zhupi": true,
+ "zhupi_summary": "镇国公巴图之母加赏衣服一套。",
+ "people": [
+  {
+   "name": "毕力克图",
+   "role": "扎鲁特多罗达尔汉贝勒"
+  },
+  {
+   "name": "巴图",
+   "role": "镇国公"
+  },
+  {
+   "name": "杜斯喀尔",
+   "role": "协理旗务二等台吉"
+  },
+  {
+   "name": "阿必达",
+   "role": "协理旗务四等台吉"
+  },
+  {
+   "name": "必鲁瓦",
+   "role": "扎鲁特多罗贝勒"
+  },
+  {
+   "name": "拉布克",
+   "role": "协理旗务一等台吉"
+  }
+ ],
+ "places": [
+  "扎鲁特"
+ ],
+ "source_title": "赏赐扎鲁特族各福晋等物品清单",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84800,
+ "page_range": "1909-1910",
+ "_date_interpolated": true
+}

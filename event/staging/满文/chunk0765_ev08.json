@@ -1,0 +1,32 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "此为奏事双全、张文彬、编修祁勒伦奏入后的奉旨记录，称依议，康熙帝更改一处，若有不明白可再请示。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批依议，并称已更改一处，若不明白可请示。",
+ "people": [
+  {
+   "name": "双全",
+   "role": "奏事"
+  },
+  {
+   "name": "张文彬",
+   "role": "奏事"
+  },
+  {
+   "name": "祁勒伦",
+   "role": "编修"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 76508,
+ "page_range": "1743-1744",
+ "_date_interpolated": true
+}

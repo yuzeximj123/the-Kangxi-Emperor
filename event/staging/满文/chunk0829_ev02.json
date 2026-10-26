@@ -1,0 +1,46 @@
+{
+ "source_no": 4121,
+ "title_guess": "议政大臣等奏进致总督额伦特等文稿",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政大臣等致书总督额伦特、领班色楞、公策旺诺尔布等，告两路兵相隔不远，令其会师取招地，若不成则详筹固守或调回以保全军队。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "额伦特",
+   "role": "总督"
+  },
+  {
+   "name": "色楞",
+   "role": "领班"
+  },
+  {
+   "name": "策旺诺尔布",
+   "role": "公"
+  },
+  {
+   "name": "胡希图",
+   "role": "都统"
+  },
+  {
+   "name": "阿齐图",
+   "role": "领班"
+  },
+  {
+   "name": "宗礼布",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "招地"
+ ],
+ "source_title": "议政大臣等奏进致总督额伦特等文稿",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 82902,
+ "page_range": "1871-1872",
+ "_date_interpolated": true
+}

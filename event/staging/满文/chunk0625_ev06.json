@@ -1,0 +1,38 @@
+{
+ "source_no": 3111,
+ "title_guess": "署理湖广总督满丕奏报办理兵丁启程事宜折",
+ "reign_year": 56,
+ "month": 9,
+ "day_text": "二十五日",
+ "event_role": "军务",
+ "summary": "满丕遵旨赴荆州会同将军办理荆州兵往成都驻防启程事宜，赐钱粮、购马补给，九月二十七日副都统宁古利率官兵启程。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：此所办启行事甚妥。知道了。",
+ "people": [
+  {
+   "name": "满丕",
+   "role": "署理湖广总督"
+  },
+  {
+   "name": "宁古利",
+   "role": "副都统"
+  },
+  {
+   "name": "祁仁杰",
+   "role": "左营千总"
+  },
+  {
+   "name": "刘二",
+   "role": "家丁"
+  }
+ ],
+ "places": [
+  "荆州",
+  "成都"
+ ],
+ "source_title": "署理湖广总督满耕奏报办理兵本启程事宜折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 62506,
+ "page_range": "1463-1464"
+}

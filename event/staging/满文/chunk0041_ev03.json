@@ -1,0 +1,38 @@
+{
+ "source_no": 173,
+ "title_guess": "康熙帝论皇太子初至噶尔丹驻处所见情形",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十三日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子，述初九、初十日至噶尔丹驻处所见穷困弃物情形及乌勒昆逃人来告噶尔丹行踪。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "阿喇布坦",
+   "role": "准噶尔将领"
+  }
+ ],
+ "places": [
+  "巴颜乌兰",
+  "乌勒昆"
+ ],
+ "source_title": "康熙帝论皇太子候杨至噶尔丹驻处所见情形",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4103,
+ "page_range": "295-296"
+}

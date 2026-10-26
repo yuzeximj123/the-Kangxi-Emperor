@@ -1,0 +1,37 @@
+{
+ "source_no": 236,
+ "title_guess": "皇太子奏为各部所奏折",
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子奏请皇父万安，并转奏吏部五事、户部一事、兵部四事及总督董安国、左都御史黄贡、理藩院、哈密回子头目达尔汉伯克等奏折文书。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批问皇太子安好，责其因遥远思念而反复写信却无一复信，并称此后不再多写。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "董安国",
+   "role": "总督"
+  },
+  {
+   "name": "黄贡",
+   "role": "左都御史"
+  },
+  {
+   "name": "达尔汉伯克",
+   "role": "哈密回子头目"
+  }
+ ],
+ "places": [
+  "哈密"
+ ],
+ "source_title": "皇太子奏为各部所奏折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6001,
+ "page_range": "333-334"
+}

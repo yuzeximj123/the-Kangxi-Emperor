@@ -1,0 +1,33 @@
+{
+ "source_no": 3204,
+ "title_guess": "闽浙总督满保奏报雨水田禾并粮价情形折",
+ "reign_year": 57,
+ "month": 6,
+ "day_text": "二十一日",
+ "event_role": "灾情收成",
+ "summary": "满保奏报福建雨水充沛，福州、兴化、泉州、漳州四府夏稻开始收割有八九分收成，延平、建宁等四府及台湾、浙江雨水田禾均好，各府米价平稳。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建浙江总督"
+  }
+ ],
+ "places": [
+  "福建",
+  "福州",
+  "兴化",
+  "泉州",
+  "漳州",
+  "延平",
+  "建宁",
+  "台湾",
+  "浙江"
+ ],
+ "source_title": "闽浙总督满保奏报雨水田禾并粮价情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 65103,
+ "page_range": "1515-1516"
+}

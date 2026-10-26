@@ -1,0 +1,46 @@
+{
+ "source_no": 3928,
+ "title_guess": "步军统领隆科多奏报七月京城所获各案情折",
+ "reign_year": 3,
+ "month": 7,
+ "day_text": "六月二十六日至七月二十七日",
+ "event_role": "司法案件",
+ "summary": "隆科多奏报六月二十六日至七月二十七日京城获窃盗割懒筋者十二人，并获强盗赵显荣等及鸟枪木棍等物，另有打小样钱、拐骗、逃人等案解送刑部。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "王达",
+   "role": "苹果庄居民"
+  },
+  {
+   "name": "赵显荣",
+   "role": "强盗"
+  },
+  {
+   "name": "周二贵",
+   "role": "贼犯"
+  },
+  {
+   "name": "刘玉明",
+   "role": "贼犯"
+  }
+ ],
+ "places": [
+  "京城",
+  "苹果庄",
+  "安平",
+  "东鹿县",
+  "深泽县"
+ ],
+ "source_title": "步军统领隆科多奏报七月京城所获各案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79406,
+ "page_range": "1801-1802",
+ "_date_interpolated": true
+}

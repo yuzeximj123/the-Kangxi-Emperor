@@ -1,0 +1,32 @@
+{
+ "source_no": 3883,
+ "title_guess": "武英殿总监造赫世享奏谢恩赏药方折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月二十日前",
+ "event_role": "请安谢恩",
+ "summary": "赫世享奏谢皇上赐药方使其子旺佳保病愈，并蒙降旨垂问，感激不尽，旺佳保已痊愈将于二十日前赶往。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "赫世享",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "旺佳保",
+   "role": "赫世享之子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_title": "武英丰总监造灰世享奏谢恩赏药方折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78902,
+ "page_range": "1791-1792",
+ "_date_interpolated": true
+}

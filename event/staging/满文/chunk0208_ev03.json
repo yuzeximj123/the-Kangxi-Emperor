@@ -1,0 +1,37 @@
+{
+ "source_no": 867,
+ "title_guess": "康熙帝朱谕一纸",
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "二十二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大阿哥，行抵喀喇莽葡哈毕尔噶前遇于成龙来文，沿途见粮车虽继至但车畜杂，命与明珠商量将沿途之米陆续售止，于大军抵达各地征收，以省驮载并让车畜歇息。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "喀喇莽葡哈毕尔噶"
+ ],
+ "source_title": "康熙帝朱论一颖",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 20803,
+ "page_range": "629-630"
+}

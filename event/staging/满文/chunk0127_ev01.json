@@ -1,0 +1,32 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "记述拉藏陈述：因与多尔济喇嘛不和、惧其而移营，并转述多尔济喇嘛关于班禅、第巴之言，请示此事如何处置。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "拉藏",
+   "role": "台吉"
+  },
+  {
+   "name": "多尔济喇嘛",
+   "role": "喇嘛"
+  },
+  {
+   "name": "第巴",
+   "role": "第巴"
+  }
+ ],
+ "places": [],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 12701,
+ "page_range": "467-468",
+ "_date_interpolated": true
+}

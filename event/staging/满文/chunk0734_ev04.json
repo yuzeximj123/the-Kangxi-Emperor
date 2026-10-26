@@ -1,0 +1,30 @@
+{
+ "source_no": 3544,
+ "title_guess": "抚远大将军筷祯奏为遣藏地官员事折",
+ "reign_year": 59,
+ "month": 12,
+ "day_text": "十二日",
+ "event_role": "人事任免",
+ "summary": "抚远大将军遵旨将监察御史陈装遣往藏地，令其查明运粮官员效力及抵达先后情形速报，已于十二月初九日自西宁启程。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "筷祯",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "陈装",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "西宁",
+  "藏地"
+ ],
+ "source_title": "抚远大将军筷祯考为遭藏地官员事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 73404,
+ "page_range": "1681-1682"
+}

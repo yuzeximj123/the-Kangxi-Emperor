@@ -1,0 +1,25 @@
+{
+ "source_no": 1615,
+ "title_guess": "筷社等奏报京城阴雨情形折",
+ "reign_year": 49,
+ "month": 6,
+ "day_text": "二十五日",
+ "event_role": "灾情收成",
+ "summary": "奏报京城二十二日至二十三日阴雨及放晴情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "雨沾足了吗？",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报大臣"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "上亿社等故报京城阴雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 34305,
+ "page_range": "899-900"
+}

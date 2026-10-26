@@ -1,0 +1,26 @@
+{
+ "source_no": 505,
+ "title_guess": "山西巡抚噶礼奏请修建万寿碑亭折",
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "二十一日",
+ "event_role": "宫廷事务",
+ "summary": "噶礼奏称山西士民感激皇恩，请于五台山建造万寿碑亭，工料俱备，屡请代奏，乞恩准并指示建造地点。",
+ "has_zhupi": true,
+ "zhupi_summary": "此事早令停止，断然不可，勿再具奏。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "五台山",
+  "山西"
+ ],
+ "source_title": "山西巡抚噶礼奉请修建万寿碑豪折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 13804,
+ "page_range": "489-490"
+}

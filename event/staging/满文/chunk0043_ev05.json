@@ -1,0 +1,41 @@
+{
+ "source_no": 181,
+ "title_guess": "康熙帝论皇太子为费扬古大败噶尔丹事",
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十日",
+ "event_role": "军务",
+ "summary": "康熙帝谕皇太子，称驻跸十屯布拉克时得马三奏报费扬古大败噶尔丹、丹巴哈什哈等率众归降，大事完竣，候费扬古奏书即回，并命奏闻皇太后及宫内总管大臣。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "丹巴哈什哈",
+   "role": "归降首领"
+  },
+  {
+   "name": "马三",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "十屯布拉克"
+ ],
+ "source_title": "康熙帝论皇太子为费扬古大败噶尔丹于和",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4305,
+ "page_range": "299-300"
+}

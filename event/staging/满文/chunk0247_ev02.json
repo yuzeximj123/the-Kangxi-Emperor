@@ -1,0 +1,31 @@
+{
+ "source_no": 1078,
+ "title_guess": "和臣社奏请指定建房地折",
+ "reign_year": 46,
+ "month": 3,
+ "day_text": "二十日",
+ "event_role": "宫廷事务",
+ "summary": "臣凯社奏请将所买水磨闸东南奎芳家邻接空地作为建房之地，交付佛保绘图呈览，趁工料价贱预备诸物。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：好。",
+ "people": [
+  {
+   "name": "凯社",
+   "role": "臣"
+  },
+  {
+   "name": "佛保",
+   "role": "绘图官"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "北新花园",
+  "水磨闸"
+ ],
+ "source_title": "和臣社奏请指定建房地折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 24702,
+ "page_range": "707-708"
+}

@@ -1,0 +1,47 @@
+{
+ "source_no": 5,
+ "title_guess": "内库郎中尚吉图等奏报太监等指称上谕领取物品折",
+ "reign_year": 12,
+ "month": 11,
+ "day_text": "康熙十二年十一月二十九日",
+ "event_role": "宫廷事务",
+ "summary": "内库郎中尚吉图等奏报十月初八至二十九日太监杨彻、男童纳尔泰、李世玉、顾太监、刘文生等指称上谕领取银鼠皮、银两及铜炉等物。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "尚吉图",
+   "role": "内库郎中"
+  },
+  {
+   "name": "马尔岱",
+   "role": "郎中降一级"
+  },
+  {
+   "name": "杨彻",
+   "role": "太监"
+  },
+  {
+   "name": "纳尔泰",
+   "role": "男童"
+  },
+  {
+   "name": "李世玉",
+   "role": "太监"
+  },
+  {
+   "name": "顾太监",
+   "role": "太监"
+  },
+  {
+   "name": "刘文生",
+   "role": "太监"
+  }
+ ],
+ "places": [],
+ "source_title": "内库郎中尚吉图等春报太监等指称上谕领取物曲折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 101,
+ "page_range": "215-216"
+}

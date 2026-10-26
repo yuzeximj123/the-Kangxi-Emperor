@@ -1,0 +1,30 @@
+{
+ "source_no": 1176,
+ "title_guess": "筷社等奏报得雨情形折",
+ "reign_year": 46,
+ "month": 8,
+ "day_text": "初三日",
+ "event_role": "灾情收成",
+ "summary": "筷社等奏报本月初一、初二日京城得雨情形，自卯时阴、午时微雨至夜间雨大。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了，据报南方旱，著尔等亦打听消息。",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报人"
+  },
+  {
+   "name": "筷入",
+   "role": "奏报人"
+  }
+ ],
+ "places": [
+  "京城",
+  "南方"
+ ],
+ "source_title": "人筷社等奏报得雨情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 26702,
+ "page_range": "747-748"
+}

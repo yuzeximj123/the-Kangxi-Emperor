@@ -1,0 +1,48 @@
+{
+ "source_no": 3624,
+ "title_guess": "山西巡抚德音奏报遵旨查访军中情形及拣补总兵官折",
+ "reign_year": 61,
+ "month": 7,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "summary": "德音遵旨查访总兵官金国正、马环及副将参将情形，奏报马环名声不佳、兵丁扰民等事，并请以杨鹏署理大同总兵官印务。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "德音",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "金国正",
+   "role": "总兵官"
+  },
+  {
+   "name": "马环",
+   "role": "总兵官"
+  },
+  {
+   "name": "第伯",
+   "role": "杀虎口副将"
+  },
+  {
+   "name": "陈国祥",
+   "role": "参将"
+  },
+  {
+   "name": "杨鹏",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "大同",
+  "汉源州",
+  "杀虎口",
+  "省城"
+ ],
+ "source_title": "山西巡抚德音奏报遵绾查访军中情形及拣补总兵官折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 75304,
+ "page_range": "1719-1720"
+}

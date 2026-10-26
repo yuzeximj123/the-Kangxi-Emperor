@@ -1,0 +1,31 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "记载皇上、皇太子一餐设桌备菜及乾清宫、庆宫女、咸安宫、四贝勒、八贝勒、九阿哥等女儿口数及供给过冬鲜菜、盐等减量情况。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "皇上",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "乾清宫",
+  "咸安宫"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 11601,
+ "page_range": "445-446",
+ "_date_interpolated": true
+}

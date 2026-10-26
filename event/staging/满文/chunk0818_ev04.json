@@ -1,0 +1,42 @@
+{
+ "source_no": 4072,
+ "title_guess": "步军统领托和齐参奏裕王狂妄并张廷枢徇情折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "正月初五日",
+ "event_role": "弹劾参奏",
+ "summary": "托和齐参奏裕王独领队伍、令侍卫前导属狂妄且虐待属下，并奏张廷枢劝齐世武驳回阿尔吉善之妻呈请归公花园等事。",
+ "has_zhupi": true,
+ "zhupi_summary": "甚是。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "步军统领"
+  },
+  {
+   "name": "裕王",
+   "role": "亲王"
+  },
+  {
+   "name": "张廷枢",
+   "role": "汉人尚书"
+  },
+  {
+   "name": "齐世武",
+   "role": "官员"
+  },
+  {
+   "name": "阿尔吉善",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "正阳门"
+ ],
+ "source_title": "步军统领托和齐参奏裕王狂妄并张廷概衔情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 81804,
+ "page_range": "1849-1850",
+ "_date_interpolated": true
+}

@@ -1,0 +1,29 @@
+{
+ "source_no": 1459,
+ "title_guess": "息社等奏请万安折",
+ "reign_year": 48,
+ "month": 7,
+ "day_text": "十五日",
+ "event_role": "请安谢恩",
+ "summary": "息社等恭请皇父万安，转述直隶巡抚奏报蝗虫在海子内，请严查参奏扑捕。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体安；据直隶巡抚奏蝗虫俱在海子内，著严查参奏并扑捕尽绝。",
+ "people": [
+  {
+   "name": "息社",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "直隶巡抚",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "海子"
+ ],
+ "source_title": "筷社等秦请万安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 31606,
+ "page_range": "845-846"
+}

@@ -1,0 +1,46 @@
+{
+ "source_no": 1853,
+ "title_guess": "杭州织造孙文成奏报兵船与商船交战情形折",
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "十二日",
+ "event_role": "军务",
+ "summary": "孙文成奏报黄岩总兵李近标下游击郭国率兵船出口察看贼船，遭假冒商船之贼前后夹击，兵败船焚，许把总被杀，杨把总跳水逃生，另报温州右营游击蓝四与贼交战有千总把总负伤。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：著再打听报来。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "李近",
+   "role": "黄岩总兵官"
+  },
+  {
+   "name": "郭国",
+   "role": "左营游击"
+  },
+  {
+   "name": "许把总",
+   "role": "把总"
+  },
+  {
+   "name": "杨把总",
+   "role": "把总"
+  },
+  {
+   "name": "蓝四",
+   "role": "温州右营游击"
+  }
+ ],
+ "places": [
+  "黄岩",
+  "温州"
+ ],
+ "source_title": "杭州织造孙文成奏报兵船与商船交战情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 38205,
+ "page_range": "977-978"
+}

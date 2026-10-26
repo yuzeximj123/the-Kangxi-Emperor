@@ -1,0 +1,45 @@
+{
+ "source_no": 16,
+ "title_guess": "内务府总管图巴等奏报太皇太后中风诊治折",
+ "reign_year": 24,
+ "month": 8,
+ "day_text": "二十九日",
+ "event_role": "宫廷事务",
+ "summary": "内务府总管图巴等奏报八月二十八日夜太皇太后中风，大夫张世良、李玉柏诊治，乃宁呼图克图诊断为不洁所致，命四十八喇嘛于花园诵经。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。朕赶紧去。",
+ "people": [
+  {
+   "name": "图巴",
+   "role": "内务府总管"
+  },
+  {
+   "name": "海拉逊",
+   "role": "内务府总管"
+  },
+  {
+   "name": "张世良",
+   "role": "大夫"
+  },
+  {
+   "name": "李玉柏",
+   "role": "大夫"
+  },
+  {
+   "name": "崔帮齐",
+   "role": "太监"
+  },
+  {
+   "name": "乃宁呼图克图",
+   "role": "喇嘛"
+  }
+ ],
+ "places": [
+  "花园"
+ ],
+ "source_title": "内务府总管图巴等奏报太皇太后中风诊治折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 302,
+ "page_range": "219-220"
+}

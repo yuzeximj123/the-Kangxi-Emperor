@@ -1,0 +1,49 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 7,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "臣等会议，依孙思克、博都所请选西安宁夏满洲兵二千、绿旗兵二千随行，余兵护运米石，留兵看守翁金米石，并奏报兵四千沿大军所进之路同行。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "振武将军"
+  },
+  {
+   "name": "博都",
+   "role": "西安将军"
+  },
+  {
+   "name": "赛吉里",
+   "role": "按察使"
+  },
+  {
+   "name": "锡尔哈达",
+   "role": "西安副都统"
+  },
+  {
+   "name": "祖良弹",
+   "role": "西安副都统"
+  },
+  {
+   "name": "张贤才",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "西安",
+  "宁夏",
+  "翁金",
+  "土拉"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4803,
+ "page_range": "309-310",
+ "_date_interpolated": true
+}

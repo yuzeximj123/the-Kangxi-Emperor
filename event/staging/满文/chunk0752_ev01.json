@@ -1,0 +1,30 @@
+{
+ "source_no": 3616,
+ "title_guess": "步军统领隆科多奏为补千总缺折",
+ "reign_year": 61,
+ "month": 5,
+ "day_text": "二十三日",
+ "event_role": "人事任免",
+ "summary": "隆科多奏请以山东满十年把总吴秀补授巡捕前营千总出缺。",
+ "has_zhupi": true,
+ "zhupi_summary": "依奏。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "吴秀",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "陕西马昌府",
+  "打箭炉"
+ ],
+ "source_title": "步军统领隆科多奏为补二总缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 75201,
+ "page_range": "1717-1718"
+}

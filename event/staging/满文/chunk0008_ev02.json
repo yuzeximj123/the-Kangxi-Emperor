@@ -1,0 +1,33 @@
+{
+ "source_no": 41,
+ "title_guess": "山东巡抚佛伦奏请圣躬好生颐养并自责奏事鲁莽折",
+ "reign_year": 29,
+ "month": 10,
+ "day_text": "初二日",
+ "event_role": "请安谢恩",
+ "summary": "佛伦闻圣躬欠安复奏请安，见手谕欣忭，请皇上大养圣躬勿劳累，并就郭英之事自责鲁莽具奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕体甚安，恢复如常；以后若遇此等事宜，应商议奏请。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭英",
+   "role": "被参劾者"
+  }
+ ],
+ "places": [
+  "外省"
+ ],
+ "source_title": "山东巡抚佛伦奏请圣躬好生调养并自责考事鲁莽折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 802,
+ "page_range": "229-230"
+}

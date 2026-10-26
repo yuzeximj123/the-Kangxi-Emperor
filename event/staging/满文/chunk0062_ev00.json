@@ -1,0 +1,54 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 12,
+ "day_text": null,
+ "event_role": "边疆事务",
+ "summary": "此为前件奏折残余片段，述四厄鲁特、回子未征伐哲布尊丹巴等，七旗喀尔喀内乱，经达赖喇嘛遣使议和，哲布尊丹巴、三音汗违旨分裂，今降仁旨甚喜，遣格又古英都喇勤具奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "著京城议政大臣等阅看众意如何，俟格仿古英都喇勤寨桑来后定夺。",
+ "people": [
+  {
+   "name": "哲布尊丹巴",
+   "role": "喇嘛"
+  },
+  {
+   "name": "三音汗",
+   "role": "喀尔喀汗"
+  },
+  {
+   "name": "扎萨克图汗",
+   "role": "喀尔喀汗"
+  },
+  {
+   "name": "达赖喇嘛",
+   "role": "喇嘛"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "希勒图",
+   "role": "大汗"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "尚书"
+  },
+  {
+   "name": "格又古英都喇勤",
+   "role": "使者"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6200,
+ "page_range": "337-338",
+ "_date_interpolated": true
+}

@@ -1,0 +1,36 @@
+{
+ "source_no": 3947,
+ "title_guess": "步军统领隆科多奏报京城拿获散发妖书之人折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "五月初十日以来",
+ "event_role": "司法案件",
+ "summary": "奏报拿获强盗、窃盗、拐骗、假银、赌博等案，并缉拿散发黄纸妖书之四儿、魏达，请解刑部惩治。",
+ "has_zhupi": true,
+ "zhupi_summary": "捉拿得很好，应穷究根源，使此等秘乱之人知惧。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "四儿",
+   "role": "散发妖书者"
+  },
+  {
+   "name": "魏达",
+   "role": "赶驴人"
+  }
+ ],
+ "places": [
+  "宛平县",
+  "卢沟桥",
+  "五里店"
+ ],
+ "source_title": "步军统领隆科多奏报京城拿获散发锋蔬之人折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79702,
+ "page_range": "1807-1808",
+ "_date_interpolated": true
+}

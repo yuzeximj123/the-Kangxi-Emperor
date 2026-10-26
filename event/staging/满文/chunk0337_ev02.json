@@ -1,0 +1,62 @@
+{
+ "source_no": 1580,
+ "title_guess": "奏报各侍卫名单请裁定折",
+ "reign_year": 49,
+ "month": 5,
+ "day_text": "十六日",
+ "event_role": "人事任免",
+ "summary": "领侍卫内大臣等奉旨派部臣、侍卫查整哈达路马群及养息牧草生咎群事，将各侍卫名单开列奏请钦定派遣。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "乱社",
+   "role": "臣"
+  },
+  {
+   "name": "乱祺",
+   "role": "臣"
+  },
+  {
+   "name": "乱被",
+   "role": "臣"
+  },
+  {
+   "name": "奇萨",
+   "role": "正黄旗头等侍卫"
+  },
+  {
+   "name": "赛音察克",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "杜思哈尔",
+   "role": "正白旗头等侍卫"
+  },
+  {
+   "name": "增升",
+   "role": "头等侍卫宗室"
+  },
+  {
+   "name": "常德",
+   "role": "正黄旗二等侍卫宗室"
+  },
+  {
+   "name": "佛保",
+   "role": "正黄旗二等侍卫"
+  },
+  {
+   "name": "硕尔岱",
+   "role": "正白旗二等侍卫"
+  }
+ ],
+ "places": [
+  "哈达路",
+  "养息牧"
+ ],
+ "source_title": "向社等奏报各侍卫名单请裁定折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 33702,
+ "page_range": "887-888"
+}

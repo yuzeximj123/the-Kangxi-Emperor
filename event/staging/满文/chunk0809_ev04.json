@@ -1,0 +1,24 @@
+{
+ "source_no": 4040,
+ "title_guess": "步军统领隆科多奏请择人署理印务折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "上元节",
+ "event_role": "人事任免",
+ "summary": "隆科多因其父多病需照料，且上元节夜间戏耍人多须严察城门街衢，奏请择人署理其步军统领之缺。",
+ "has_zhupi": true,
+ "zhupi_summary": "统领之职要紧，新手不明情由关系甚大，可交右翼要长管理印务，紧要事禀报隆科多，平常事令其办结。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [],
+ "source_title": "步军统领隆科多奏请择人署理印务折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80904,
+ "page_range": "1831-1832",
+ "_date_interpolated": true
+}

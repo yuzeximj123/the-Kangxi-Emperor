@@ -1,0 +1,26 @@
+{
+ "source_no": 1692,
+ "title_guess": "两江总督噶礼奏报雨水田禾并粮价情形折",
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初二日",
+ "event_role": "灾情收成",
+ "summary": "噶礼奏报江南自二月初三日起多次得雨，大麦秀穗、麦子结粒生长良好，米价每石八钱至一两未涨，江西雨水亦调匀，兵民乐业。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。京城周围现雨水调匀。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_title": "两江总督噶礼奏报雨水田条并粮价情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35502,
+ "page_range": "923-924"
+}

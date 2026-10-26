@@ -1,0 +1,39 @@
+{
+ "source_no": 767,
+ "title_guess": "筷社等奏报直郡王福晋病势折",
+ "reign_year": 44,
+ "month": 8,
+ "day_text": "初一日",
+ "event_role": "宫廷事务",
+ "summary": "筷社等奏报直郡王福晋自二十八日以来病势平和、脉息渐起，并附太医院刘声芳等诊治书。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。问太监到了没有？情况如何？",
+ "people": [
+  {
+   "name": "筷社",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "千祁",
+   "role": "奏报大臣"
+  },
+  {
+   "name": "刘声芳",
+   "role": "太医院御医"
+  },
+  {
+   "name": "张构功",
+   "role": "太医院御医"
+  },
+  {
+   "name": "直郡王福晋",
+   "role": "患病者"
+  }
+ ],
+ "places": [],
+ "source_title": "上姑社等奏报直郡王福晋病势折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 19002,
+ "page_range": "593-594"
+}

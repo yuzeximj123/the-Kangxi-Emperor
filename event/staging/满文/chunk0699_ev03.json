@@ -1,0 +1,31 @@
+{
+ "source_no": 3408,
+ "title_guess": "托留为兄吊丧请旨折",
+ "reign_year": 58,
+ "month": 5,
+ "day_text": "二十八日",
+ "event_role": "军务",
+ "summary": "托留接家信知其兄额伦特阵亡，欲尽兄弟之礼，因值军机之际奏请训旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称其请教甚是，令暂且隐忍等候；西宁大将军王未往，兄遗体等情本应降谕，因军机未晓谕，事成后再降旨，并追念其兄英勇效力。",
+ "people": [
+  {
+   "name": "托留",
+   "role": "将军"
+  },
+  {
+   "name": "额伦特",
+   "role": "托留之兄、总督"
+  }
+ ],
+ "places": [
+  "湖广",
+  "黑龙江",
+  "西宁"
+ ],
+ "source_title": "托留为兄吊形请由折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 69903,
+ "page_range": "1611-1612"
+}

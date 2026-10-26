@@ -1,0 +1,44 @@
+{
+ "source_no": 3877,
+ "title_guess": "武英殿总监造赫世享奏报侍卫病故并请赐名折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月初一日",
+ "event_role": "宫廷事务",
+ "summary": "赫世享奏报二等侍卫拉布图病故经过，并请示将德琳汉名高研改为高交或请皇上赐名。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。这名好。",
+ "people": [
+  {
+   "name": "赫世享",
+   "role": "武英殿总监造"
+  },
+  {
+   "name": "张常柱",
+   "role": "官员"
+  },
+  {
+   "name": "拉布图",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "诺金兰",
+   "role": "医者"
+  },
+  {
+   "name": "罗德完",
+   "role": "西洋外科大夫"
+  },
+  {
+   "name": "德琳",
+   "role": "监视"
+  }
+ ],
+ "places": [],
+ "source_title": "武英磺总监造赫世享奏报侍卫病故并请赐名折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78800,
+ "page_range": "1789-1790",
+ "_date_interpolated": true
+}

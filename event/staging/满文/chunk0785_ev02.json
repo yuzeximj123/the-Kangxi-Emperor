@@ -1,0 +1,27 @@
+{
+ "source_no": 3853,
+ "title_guess": "康熙帝上谕一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝言此处渐热、闻西宁凉爽，令将所缮文书酌情送赐，并令送托尔河所捕之鱼加盐防霉，又询问西宁田禾鸟兽菜果、时令寒暖及地方习俗。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西宁",
+  "托尔河"
+ ],
+ "source_title": "康熙帝上谕一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78502,
+ "page_range": "1783-1784",
+ "_date_interpolated": true
+}

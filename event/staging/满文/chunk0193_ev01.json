@@ -1,0 +1,42 @@
+{
+ "source_no": 782,
+ "title_guess": "总管托和齐报拿获盗马贼折",
+ "reign_year": 44,
+ "month": 8,
+ "day_text": "二十四日",
+ "event_role": "司法案件",
+ "summary": "奏报拿获旗人薛思、民人张四、韩二等盗马贼，讯明其随猎营盗马事实，将马送交上驷院，人犯附勘语送刑部。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "托和齐",
+   "role": "总管"
+  },
+  {
+   "name": "雅思哈",
+   "role": "后营守备"
+  },
+  {
+   "name": "薛思",
+   "role": "旗人盗马贼"
+  },
+  {
+   "name": "张四",
+   "role": "民人盗马贼"
+  },
+  {
+   "name": "韩二",
+   "role": "民人盗马贼"
+  }
+ ],
+ "places": [
+  "温泉",
+  "汗特木尔巴汉"
+ ],
+ "source_title": "总管托和齐故报拿获盗马贼折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 19301,
+ "page_range": "599-600"
+}

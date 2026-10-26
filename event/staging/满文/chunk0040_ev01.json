@@ -1,0 +1,47 @@
+{
+ "source_no": 168,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "二十七日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕皇太子，言驻察罕布尔噶接费扬古来约及擒厄鲁特二人讯噶尔丹移营事，因久不见奏事及皇太后安而悬念，附寄皇太后书。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "费扬古",
+   "role": "将军"
+  },
+  {
+   "name": "南多尔济喇嘛",
+   "role": "喇嘛"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "萨布素",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "察罕布尔噶",
+  "克鲁伦",
+  "巴彦乌兰"
+ ],
+ "source_title": "康熙帝朱渝和",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4001,
+ "page_range": "293-294"
+}

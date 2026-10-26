@@ -1,0 +1,30 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "初三日",
+ "event_role": "军务",
+ "summary": "朱批：述向迈达里移营后起程，初八日抵右卫，归途大寒，大阿哥等冻伤，皇上体幸无冻伤，并令皇太子勿远迎、照前奏闻。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝述移营起程、抵右卫及归途严寒冻伤情形，自谓体无冻伤，令皇太子勿远迎，此事照前奏闻，不得告诉外人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "右卫",
+  "迈达里"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 6301,
+ "page_range": "339-340"
+}

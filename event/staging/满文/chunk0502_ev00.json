@@ -1,0 +1,35 @@
+{
+ "source_no": 2583,
+ "title_guess": "甘肃巡抚绰奇奏闻由肃州往哈密运输军粮折",
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "二十六日",
+ "event_role": "军务",
+ "summary": "绰奇奏报提督、总兵率兵出口及贼已逃窜，自己前往肃州查看并运输军粮，事毕后视情况返回兰州。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示军粮钱粮关系重大不可耽延，勉励臣子效力。",
+ "people": [
+  {
+   "name": "绰奇",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "师喜德",
+   "role": "提督"
+  },
+  {
+   "name": "路振声",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "肃州",
+  "哈密",
+  "兰州"
+ ],
+ "source_title": "甘肃巡抚绰奇奏闻由肃州往哈密运输军粮折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 50200,
+ "page_range": "1217-1218"
+}

@@ -1,0 +1,42 @@
+{
+ "source_no": 2859,
+ "title_guess": "理藩院奏请哨兵等擅入围场割芦苇查办折",
+ "reign_year": 55,
+ "month": 8,
+ "day_text": "二十二日",
+ "event_role": "司法案件",
+ "summary": "理藩院奏报查办乌兰哈达驻哨佐领德尔格尔等准人入围场割芦苇筑窝棚一案，拟革职鞭责，请旨。",
+ "has_zhupi": true,
+ "zhupi_summary": "伊等所驻哨探所有地方处处处长满芦苇，为何去山上割？这口供不全，著再审具奏。",
+ "people": [
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣兼理尚书事务公"
+  },
+  {
+   "name": "特古特",
+   "role": "郎中"
+  },
+  {
+   "name": "马展",
+   "role": "员外郎"
+  },
+  {
+   "name": "巴尔赛",
+   "role": "主事"
+  },
+  {
+   "name": "德尔格尔",
+   "role": "驻哨佐领"
+  }
+ ],
+ "places": [
+  "乌兰哈达",
+  "沙冈围场"
+ ],
+ "source_title": "理藩院奏请哨兵等拉入围场割芦苇查办折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 56701,
+ "page_range": "1347-1348"
+}

@@ -1,0 +1,30 @@
+{
+ "source_no": 3995,
+ "title_guess": "步军统领隆科多奏报两淮盐商穷困不堪并张英昭送银回籍等事折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "钱粮财政",
+ "summary": "隆科多奏报询问两淮盐商，称张英昭裁撤巡查私盐之人五百名，私盐多而正盐难行，商人穷困；又张英昭曾以安葬父母为由派家人送银回原籍甚多。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称所闻情形亦如此，命再察明。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "张英昭",
+   "role": "两淮盐务官员"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_title": "步军统领隆科多奏报两准盐商穷困不堪并张英昭送银回籍等事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80302,
+ "page_range": "1819-1820",
+ "_date_interpolated": true
+}

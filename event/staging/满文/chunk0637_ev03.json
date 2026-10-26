@@ -1,0 +1,33 @@
+{
+ "source_no": 3155,
+ "title_guess": "将军拜音布奏报拣选兵马情形折",
+ "reign_year": 56,
+ "month": 12,
+ "day_text": "二十二日",
+ "event_role": "军务",
+ "summary": "奏报接旨后拣选兵丁二千、拣选军马、侍郎满丕周济官兵，于九月二十七日启程前往指示之地。",
+ "has_zhupi": true,
+ "zhupi_summary": "好，知道了。",
+ "people": [
+  {
+   "name": "拜音布",
+   "role": "将军"
+  },
+  {
+   "name": "满丕",
+   "role": "侍郎"
+  },
+  {
+   "name": "宁古利",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_title": "将军拜音布奏报拣选兵马情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 63703,
+ "page_range": "1487-1488"
+}

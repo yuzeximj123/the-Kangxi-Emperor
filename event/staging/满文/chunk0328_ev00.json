@@ -1,0 +1,50 @@
+{
+ "source_no": 1529,
+ "title_guess": "两江总督噶礼查报库银亏欠情形折",
+ "reign_year": 48,
+ "month": 12,
+ "day_text": "初六日",
+ "event_role": "钱粮财政",
+ "summary": "噶礼续报两江库银亏欠约三百万两，指曹寅、李煦、李斯丛及商人程卫高等侵用，请圣裁。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙认可所奏，称皇太子、诸阿哥多用曹寅、李煦等银，待曹寅到京问明运使库亏欠后再谕。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "曹寅",
+   "role": "织造"
+  },
+  {
+   "name": "李煦",
+   "role": "织造"
+  },
+  {
+   "name": "李斯丛",
+   "role": "运使"
+  },
+  {
+   "name": "程卫高",
+   "role": "商人"
+  },
+  {
+   "name": "相敬远",
+   "role": "商人"
+  },
+  {
+   "name": "王宙时",
+   "role": "商人"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_title": "两江总督噶礼查报库银亏欠情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 32800,
+ "page_range": "869-870"
+}

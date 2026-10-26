@@ -1,0 +1,36 @@
+{
+ "source_no": 3946,
+ "title_guess": "步军统领隆科多奏报京城四五月份所获各案情折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "四月十四日至五月十三日",
+ "event_role": "司法案件",
+ "summary": "奏报四月十四日至五月十三日拿获窃盗割懒筋者十一人、强盗张武、拐骗案二宗、逃人一名，陆续解送刑部。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "韩守贵",
+   "role": "窃贼"
+  },
+  {
+   "name": "张武",
+   "role": "强盗"
+  }
+ ],
+ "places": [
+  "河间府",
+  "热河",
+  "乌拉"
+ ],
+ "source_title": "步军统领隆科多奏报京城四五月份所获各案情折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 79701,
+ "page_range": "1807-1808",
+ "_date_interpolated": true
+}

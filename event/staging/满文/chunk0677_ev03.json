@@ -1,0 +1,69 @@
+{
+ "source_no": 3318,
+ "title_guess": "康熙帝为平定准噶尔所发上谕一道",
+ "reign_year": 58,
+ "month": 1,
+ "day_text": "十一日",
+ "event_role": "军务",
+ "summary": "康熙帝谕告去年征西招之军与准噶尔车凌敦多布等交战经过、伤亡情形及班禅调停议和、我军抵西宁等事，宣谕众人。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "喇锡",
+   "role": "乾清门头等侍卫传谕"
+  },
+  {
+   "name": "车凌敦多布",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "额伦特",
+   "role": "总督"
+  },
+  {
+   "name": "色楞",
+   "role": "侍卫"
+  },
+  {
+   "name": "汉秀",
+   "role": "副将"
+  },
+  {
+   "name": "策旺诺尔布",
+   "role": "公"
+  },
+  {
+   "name": "胡希图",
+   "role": "都统"
+  },
+  {
+   "name": "阿齐图",
+   "role": "侍卫"
+  },
+  {
+   "name": "班禅",
+   "role": "大喇嘛"
+  },
+  {
+   "name": "散吉",
+   "role": "斋桑"
+  },
+  {
+   "name": "策妄喇布坦",
+   "role": "准噶尔首领"
+  }
+ ],
+ "places": [
+  "西宁",
+  "喀喇乌苏",
+  "达木",
+  "木鲁斯河",
+  "土伯特"
+ ],
+ "source_title": "康熙帝为平定准噶尔所发上谕一道",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 67703,
+ "page_range": "1567-1568"
+}

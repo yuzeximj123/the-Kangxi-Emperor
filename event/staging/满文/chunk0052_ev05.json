@@ -1,0 +1,47 @@
+{
+ "source_no": 205,
+ "title_guess": "皇太子初奏为和尔托谢恩贡物事折",
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十六日",
+ "event_role": "请安谢恩",
+ "summary": "皇太子转奏正白旗三等牛录章京和尔托谢恩，请以孙哈希代效力并进贡马匹狐皮等物，请圣安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称知道了，令车凌扎布往京城相会，命皇太子仁待，并着喇锡充通事。",
+ "people": [
+  {
+   "name": "和尔托",
+   "role": "三等牛录章京"
+  },
+  {
+   "name": "哲勒尔德",
+   "role": "和尔托之子"
+  },
+  {
+   "name": "哈希",
+   "role": "骁骑校"
+  },
+  {
+   "name": "绰克托",
+   "role": "盛京将军"
+  },
+  {
+   "name": "车凌扎布",
+   "role": "官员"
+  },
+  {
+   "name": "喇锡",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [
+  "盛京",
+  "依吞",
+  "依春"
+ ],
+ "source_title": "皇太子初奏为和尔托谢恩贡物事折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 5205,
+ "page_range": "317-318"
+}

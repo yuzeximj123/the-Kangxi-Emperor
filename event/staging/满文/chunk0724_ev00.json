@@ -1,0 +1,31 @@
+{
+ "source_no": 3488,
+ "title_guess": "抚远大将军胤祯奏谢赏物折",
+ "reign_year": 59,
+ "month": 2,
+ "day_text": "初九日",
+ "event_role": "请安谢恩",
+ "summary": "胤祯奏谢康熙赏赐盛京野猪、鹿、鹿尾、雉及江南藕等物，称已分给塔尔寺及青海众人品尝，表示谨遵训示尽心图报。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "胤祯",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "常明珠",
+   "role": "理藩院员外郎"
+  }
+ ],
+ "places": [
+  "盛京",
+  "塔尔寺",
+  "江南"
+ ],
+ "source_title": "抚远大将军筷祯奏谢赏物折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 72400,
+ "page_range": "1661-1662"
+}

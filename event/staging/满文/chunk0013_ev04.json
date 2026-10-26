@@ -1,0 +1,29 @@
+{
+ "source_no": 64,
+ "title_guess": "山东巡抚佛伦奏报秋禾生长情形折",
+ "reign_year": 31,
+ "month": 7,
+ "day_text": "初四日",
+ "event_role": "灾情收成",
+ "summary": "佛伦奏报山东入夏雨水调匀、秋禾生长甚好，六月初阴雨致低洼田积水但禾苗无碍，小米高粱已开始收割。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称京城田禾为懂事以来所未见、已垂熟收割，皇帝大安舒畅，七月下旬出游木兰围场，并问佛伦可好。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东省",
+  "济南府",
+  "沾化",
+  "京城",
+  "木兰围场"
+ ],
+ "source_title": "山东巡抚佛伦奏报秋用生长情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1304,
+ "page_range": "239-240"
+}

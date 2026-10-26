@@ -1,0 +1,31 @@
+{
+ "source_no": 3861,
+ "title_guess": "康熙帝上谕一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "十六日、十七日、十八日、十九日、二十日",
+ "event_role": "军务",
+ "summary": "康熙帝谕直郡王等，记抵西安后连日阅官兵射箭、大阅二万余兵列阵十四里并亲射中的，施恩满汉官兵民人，因军民请留又驻跸。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "直郡王",
+   "role": "王"
+  }
+ ],
+ "places": [
+  "西安",
+  "达里克庙"
+ ],
+ "source_title": "康熙帝上谕一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78510,
+ "page_range": "1783-1784",
+ "_date_interpolated": true
+}

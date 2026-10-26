@@ -1,0 +1,37 @@
+{
+ "source_no": 2758,
+ "title_guess": "闽浙总督满保奏报雨水粮价折",
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "三十日",
+ "event_role": "灾情收成",
+ "summary": "满保奏报福建、浙江雨水充足、麦豆菜蔬长势良好及各地米价平稳情形。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "闽浙总督"
+  }
+ ],
+ "places": [
+  "福建",
+  "兴化",
+  "漳州",
+  "泉州",
+  "延平",
+  "建宁",
+  "浙江",
+  "杭州",
+  "嘉兴",
+  "湖州",
+  "温州",
+  "台州",
+  "衢州"
+ ],
+ "source_title": "冰浙总督满保奏报雨水粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 54402,
+ "page_range": "1301-1302"
+}

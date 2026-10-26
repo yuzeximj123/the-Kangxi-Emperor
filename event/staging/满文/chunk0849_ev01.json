@@ -1,0 +1,40 @@
+{
+ "source_no": 4225,
+ "title_guess": "各牧群进羊数目清单",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "记录达里刚责等牧群翼长进献退毛羊、汤羊数目，并有朱批令将送往陵寝之羊只另行奏来。",
+ "has_zhupi": true,
+ "zhupi_summary": "送往陵寝之羊只，另行奏来。",
+ "people": [
+  {
+   "name": "达里刚责",
+   "role": "牧群官员"
+  },
+  {
+   "name": "长布达",
+   "role": "马群翼长"
+  },
+  {
+   "name": "额林臣",
+   "role": "驼群翼长"
+  },
+  {
+   "name": "阿玉希",
+   "role": "驼群翼长"
+  },
+  {
+   "name": "吹扎布",
+   "role": "羊群翼长"
+  }
+ ],
+ "places": [],
+ "source_title": "各牧群进羊数目清单",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 84901,
+ "page_range": "1911-1912",
+ "_date_interpolated": true
+}

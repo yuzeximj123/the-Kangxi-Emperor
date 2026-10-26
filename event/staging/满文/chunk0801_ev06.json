@@ -1,0 +1,26 @@
+{
+ "source_no": 3982,
+ "title_guess": "步军统领隆科多奏报京城雨水情形折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月二十六日至二十七日、二十八日",
+ "event_role": "灾情收成",
+ "summary": "隆科多奏报二十六至二十七日得雨沾足，夜又降雨，二十八日阴，高粱长七八尺、谷子二尺余。",
+ "has_zhupi": true,
+ "zhupi_summary": "朕唱往京城之人回来俱奏了。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "步军统领隆科多奏报京城雨水情形折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80106,
+ "page_range": "1815-1816",
+ "_date_interpolated": true
+}

@@ -1,0 +1,29 @@
+{
+ "source_no": 1678,
+ "title_guess": "理藩院奏请传谕青海王扎席巴图鲁知悉折",
+ "reign_year": 50,
+ "month": 1,
+ "day_text": "十八日",
+ "event_role": "边疆事务",
+ "summary": "理藩院议奏青海亲王扎席巴图鲁表忠无他念，请降旨移咨知会，并附朱批说明其自始无事。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：自始迄今并无事，此其知之也。",
+ "people": [
+  {
+   "name": "扎席巴图鲁",
+   "role": "青海亲王"
+  },
+  {
+   "name": "祁里德",
+   "role": "乾清门头等侍卫"
+  }
+ ],
+ "places": [
+  "青海"
+ ],
+ "source_title": "理藩院秦请传论青海王扎席巴图鲁知悉折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35301,
+ "page_range": "919-920"
+}

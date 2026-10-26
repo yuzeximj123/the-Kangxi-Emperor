@@ -1,0 +1,40 @@
+{
+ "source_no": 4041,
+ "title_guess": "步军统领隆科多奏请将卖身太监应否交送内务府折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "宫廷事务",
+ "summary": "隆科多奏报查获新募及卖身太监王玉、董四林、李天福三人，据供因家贫入内需给银，故欲卖身，请旨是否交内务府总管或暂留本衙门。",
+ "has_zhupi": true,
+ "zhupi_summary": "交付之。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "王玉",
+   "role": "太监"
+  },
+  {
+   "name": "董四林",
+   "role": "太监"
+  },
+  {
+   "name": "李天福",
+   "role": "太监"
+  }
+ ],
+ "places": [
+  "天津卫",
+  "沧州",
+  "宛平县"
+ ],
+ "source_title": "步军统领隆科多奏请将卖身太监应否交送内务府折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80905,
+ "page_range": "1831-1832",
+ "_date_interpolated": true
+}

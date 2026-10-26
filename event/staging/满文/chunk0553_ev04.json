@@ -1,0 +1,41 @@
+{
+ "source_no": 2796,
+ "title_guess": "刑部尚书赖都等奏请将扎希塔是否仍发配黑龙江折",
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "初五日",
+ "event_role": "司法案件",
+ "summary": "刑部奏报扎希塔原发配黑龙江，因母老取回赡养，今母已故，请旨是否仍发配黑龙江或照固尔哈例免发配。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批著扎希塔充军效力，优返回再奏来。",
+ "people": [
+  {
+   "name": "赖都",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "张廷枢",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "李华之",
+   "role": "刑部右侍郎"
+  },
+  {
+   "name": "扎希塔",
+   "role": "罪犯"
+  },
+  {
+   "name": "固尔哈",
+   "role": "原护军参领"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_title": "刑部尚书赖都等奏请将扎希塔是否仍发配黑龙江折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 55304,
+ "page_range": "1319-1320"
+}

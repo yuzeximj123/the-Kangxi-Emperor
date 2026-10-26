@@ -1,0 +1,50 @@
+{
+ "source_no": 2886,
+ "title_guess": "古北口总兵保柱奏请罢免千总王敏史职折",
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "初一日",
+ "event_role": "弹劾参奏",
+ "summary": "古北口总兵觉罗保柱遵内务府议复，审问千总王敏史领银购木修葺行宫不善事，请革其职。",
+ "has_zhupi": true,
+ "zhupi_summary": "著革其职，仍留千总任内效力。",
+ "people": [
+  {
+   "name": "觉罗保柱",
+   "role": "古北口总兵官都督佥事"
+  },
+  {
+   "name": "王敏史",
+   "role": "千总"
+  },
+  {
+   "name": "王友鲁",
+   "role": "太监"
+  },
+  {
+   "name": "张富音",
+   "role": "太监"
+  },
+  {
+   "name": "王金玉",
+   "role": "大太监"
+  },
+  {
+   "name": "劳米",
+   "role": "员外郎"
+  },
+  {
+   "name": "陈希香",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "古北口",
+  "热河"
+ ],
+ "source_title": "十北口总兵名柱秦请罢免千总王敏史职折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 57204,
+ "page_range": "1357-1358"
+}

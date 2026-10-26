@@ -1,0 +1,50 @@
+{
+ "source_no": 3836,
+ "title_guess": "筷社等奏报京城酷热折",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "十一日",
+ "event_role": "灾情收成",
+ "summary": "臣等奏报京城初一至十三日酷热情形，并转奏谕旨询问。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：朕体安，此处数日亦热；令明白打听是否有人因热伤亡并缮写寄来。",
+ "people": [
+  {
+   "name": "优社",
+   "role": "臣"
+  },
+  {
+   "name": "贞福",
+   "role": "臣"
+  },
+  {
+   "name": "关祺",
+   "role": "臣"
+  },
+  {
+   "name": "毅祷",
+   "role": "臣"
+  },
+  {
+   "name": "舱社",
+   "role": "臣"
+  },
+  {
+   "name": "疝被",
+   "role": "臣"
+  },
+  {
+   "name": "疝简",
+   "role": "臣"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_title": "筷社等奏报京城酷热折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78306,
+ "page_range": "1779-1780",
+ "_date_interpolated": true
+}

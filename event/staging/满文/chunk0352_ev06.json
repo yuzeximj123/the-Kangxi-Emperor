@@ -1,0 +1,41 @@
+{
+ "source_no": 1676,
+ "title_guess": "山西巡抚苏克济奏请亲赴产铅地察视折",
+ "reign_year": 50,
+ "month": 1,
+ "day_text": "初二日",
+ "event_role": "钱粮财政",
+ "summary": "苏克济奏报户部议准开采湖南、山西铜山，因沁水县产铜地方山谷多、易藏匪类，请亲赴察视后再奏。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：去看。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "王岗明",
+   "role": "备办铜商人"
+  },
+  {
+   "name": "李贵军",
+   "role": "盐枭"
+  },
+  {
+   "name": "噶礼",
+   "role": "前任巡抚"
+  }
+ ],
+ "places": [
+  "山西",
+  "沁水县",
+  "泽州",
+  "湖南",
+  "太行山"
+ ],
+ "source_title": "出西巡抚苏克济奏请闲赴产铬地察视折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35206,
+ "page_range": "917-918"
+}

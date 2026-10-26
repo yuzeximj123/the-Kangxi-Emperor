@@ -1,0 +1,47 @@
+{
+ "source_no": 466,
+ "title_guess": "山西巡抚噶礼奏报部堂审案不公并请用省友折",
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "二十九日",
+ "event_role": "司法案件",
+ "summary": "噶礼遵旨密查柴绍周、侯安边一案，奏报部堂审拟不公、盐商行贿及吴达禅诬陷情由，并请仍用省友以平盐价，附朱批。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示知道了，此事现在议。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "柴绍周",
+   "role": "案犯"
+  },
+  {
+   "name": "侯安边",
+   "role": "案犯"
+  },
+  {
+   "name": "孙运成",
+   "role": "盐商候补州同"
+  },
+  {
+   "name": "吴达禅",
+   "role": "前任查盐监察御史"
+  },
+  {
+   "name": "绥徐",
+   "role": "部堂审官"
+  }
+ ],
+ "places": [
+  "山西",
+  "安邑",
+  "运城"
+ ],
+ "source_title": "山西巡抚噶社奏报部堂审案不公并请用省友折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 13101,
+ "page_range": "475-476"
+}

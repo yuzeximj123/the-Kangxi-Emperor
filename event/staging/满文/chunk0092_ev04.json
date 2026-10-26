@@ -1,0 +1,35 @@
+{
+ "source_no": 358,
+ "title_guess": "康熙帝朱谕",
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕皇太子，述经察哈尔地方中路而来、蒙古生计富裕来贺大捷者载道、获食狍肉甚快，并赐皇太后、内妃、皇太子狍只奶皮子黄花菜等物，言十五日内必到京城。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "归化城",
+  "察哈尔",
+  "京城"
+ ],
+ "source_title": "康熙帝朱谕",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 9204,
+ "page_range": "397-398"
+}

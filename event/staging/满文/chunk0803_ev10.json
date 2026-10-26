@@ -1,0 +1,28 @@
+{
+ "source_no": 4003,
+ "title_guess": "步军统领隆科多奏报京城得闻平定青海大捷咸俱欢喜折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": "本月初七日",
+ "event_role": "军务",
+ "summary": "隆科多奏报京城得雨后人皆安居乐业，又闻青海平定大功告成，京城喜气洋溢，王大臣等随御前欢乐；并报宫内水沟初七兴修初九完竣，诸阿哥住瀛台两日初九傍晚回宫。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙于奏报处朱批“猜想理应如此”，于羡慕王大臣处朱批“也应当这样想”。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "京城",
+  "青海",
+  "瀛台"
+ ],
+ "source_title": "步军统领隆科多奏报京城得闻平定青海大捷威俱欢喜折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80310,
+ "page_range": "1819-1820",
+ "_date_interpolated": true
+}

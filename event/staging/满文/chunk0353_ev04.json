@@ -1,0 +1,34 @@
+{
+ "source_no": 1681,
+ "title_guess": "两江总督噶礼奏请补授江南盐驿道员缺折",
+ "reign_year": 50,
+ "month": 1,
+ "day_text": "二十六日",
+ "event_role": "人事任免",
+ "summary": "噶礼奏请以山西大同府知府朱佐补授江南盐驿道员缺，以利驿站事宜。",
+ "has_zhupi": true,
+ "zhupi_summary": "朱批：知道了。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "魏芝",
+   "role": "原江南盐驿道员"
+  },
+  {
+   "name": "朱佐",
+   "role": "山西大同府知府"
+  }
+ ],
+ "places": [
+  "江南",
+  "山西大同府"
+ ],
+ "source_title": "两江总督噶礼奏请补授江南驿称道员缺折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 35304,
+ "page_range": "919-920"
+}

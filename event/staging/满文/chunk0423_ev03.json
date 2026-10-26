@@ -1,0 +1,30 @@
+{
+ "source_no": 2106,
+ "title_guess": "福建巡抚满保奏报试种西瓜并田禾粮价折",
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "二十六日",
+ "event_role": "灾情收成",
+ "summary": "满保奏报遵旨分送瓜子于福州、漳州、泉州、台湾试种，并报雨水调匀、稻麦生长及各地米价。",
+ "has_zhupi": true,
+ "zhupi_summary": "知道了。粮价不甚贵。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "福建",
+  "福州",
+  "洪塘",
+  "漳州",
+  "泉州",
+  "台湾"
+ ],
+ "source_title": "福建负抚满保奏报试种西瓜并田末粮价折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 42303,
+ "page_range": "1059-1060"
+}

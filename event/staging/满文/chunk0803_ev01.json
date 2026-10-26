@@ -1,0 +1,26 @@
+{
+ "source_no": 3994,
+ "title_guess": "步军统领隆科多奏请安折",
+ "reign_year": 3,
+ "month": 5,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "隆科多跪请皇上万安。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙答安，并命由隆科多衙门缉拿自盛京私带人参来卖之事。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_title": "步军统领隆科多奏请安折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80301,
+ "page_range": "1819-1820",
+ "_date_interpolated": true
+}

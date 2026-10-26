@@ -1,0 +1,36 @@
+{
+ "source_no": 4025,
+ "title_guess": "步军统领隆科多奏报参领收受囚犯馈银折",
+ "reign_year": 3,
+ "month": 12,
+ "day_text": "十二月初四日",
+ "event_role": "弹劾参奏",
+ "summary": "正蓝旗协领巴塞报哈尔图因妻丧收嘎尔藏银四十两，隆科多召问哈尔图供认收银但无央托传话，遂告诫哈尔图；疑嘎尔藏于禁所仍行贿有同党，将密查再参。",
+ "has_zhupi": true,
+ "zhupi_summary": "著勘打听之。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "巴塞",
+   "role": "正蓝旗满洲协领宗室"
+  },
+  {
+   "name": "哈尔图",
+   "role": "委署拖沙喇哈番"
+  },
+  {
+   "name": "嘎尔藏",
+   "role": "囚犯"
+  }
+ ],
+ "places": [],
+ "source_title": "步军统领隆科多奏报参领收受因犯镇银折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 80703,
+ "page_range": "1827-1828",
+ "_date_interpolated": true
+}

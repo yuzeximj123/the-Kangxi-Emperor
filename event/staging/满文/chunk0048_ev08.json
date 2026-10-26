@@ -1,0 +1,30 @@
+{
+ "source_no": null,
+ "title_guess": null,
+ "reign_year": 35,
+ "month": 7,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "复行会议以西二路兵合为一路，因兵疲可忧且闻俄罗斯兵六万，康熙谕称大军精齐人各效命，敌虽十万亦亲领征讨，议政众人议定遣使书明利害。",
+ "has_zhupi": true,
+ "zhupi_summary": "康熙谕：我队大军至此并未受苦，人马肥壮，正值精齐人各效命之时，敌虽十万之众，朕将亲领征讨，一面遣使，敌若势众听与我战，力若不支任其逃还。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "科和尔沁沙津王下属"
+  }
+ ],
+ "places": [
+  "克鲁伦"
+ ],
+ "source_title": null,
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 4808,
+ "page_range": "309-310",
+ "_date_interpolated": true
+}

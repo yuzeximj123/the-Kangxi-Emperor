@@ -1,0 +1,34 @@
+{
+ "source_no": 3862,
+ "title_guess": "康熙帝朱论一纸",
+ "reign_year": 62,
+ "month": 2,
+ "day_text": "十五日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕示皇太后不令阅看之事，称十五日抵西安府，十六日阅西安右翼满洲兵射箭无一劣者，随行人员和睦，并报自身安好、皇太子诸阿哥安好。",
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "西安府"
+ ],
+ "source_title": "康熙帝朱论一纸",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 78601,
+ "page_range": "1785-1786",
+ "_date_interpolated": true
+}

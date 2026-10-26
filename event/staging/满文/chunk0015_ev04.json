@@ -1,0 +1,36 @@
+{
+ "source_no": 73,
+ "title_guess": "川陕总督佛伦奏报遵旨即将起程赴任折",
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "初士日",
+ "event_role": "谕旨决策",
+ "summary": "佛伦奏谢调任川陕总督密谕，表示将移交事务后乘驿赴任，不徇情于布喀，并陈报在朝大臣阻挠等情。",
+ "has_zhupi": true,
+ "zhupi_summary": "著尔从速赴任，以茂腾所委之事。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "葛思泰",
+   "role": "总督"
+  },
+  {
+   "name": "布喀",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "四川",
+  "山东",
+  "京城"
+ ],
+ "source_title": "川陕总督佛伦奏报坦旨即将起程赴任折",
+ "source_corpus": "满文",
+ "source_vol": 1,
+ "order_index": 1504,
+ "page_range": "243-244"
+}
