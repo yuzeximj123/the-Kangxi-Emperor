@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十四日己巳",
+ "event_role": "人事任免",
+ "summary": "吏部题苏松、常镇道员缺，康熙帝命王缉调补苏松道，朱士杰调补右江道。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱士杰",
+   "role": "天津道"
+  },
+  {
+   "name": "王缉",
+   "role": "右江道"
+  }
+ ],
+ "places": [
+  "苏松",
+  "常镇",
+  "右江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11104,
+ "page_range": "232-233"
+}

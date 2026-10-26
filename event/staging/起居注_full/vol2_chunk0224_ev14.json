@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "十四日壬午",
+ "event_role": "弹劾参奏",
+ "summary": "福建巡抚金鋐题参同知陈启霖等七员，康熙帝论督抚入境即参属员之积习未当，令回京酌议，所参各官照票签批发。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金鋐",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "陈启霖",
+   "role": "同知"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22414,
+ "page_range": "491-492"
+}

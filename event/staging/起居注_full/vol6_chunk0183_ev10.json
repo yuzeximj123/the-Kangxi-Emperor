@@ -1,0 +1,36 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "初一日",
+ "event_role": "赏赐",
+ "summary": "赐喀喇沱多罗都棱和郡王扎西海青等及塔布吉以下官兵八百七十人白金有差。",
+ "people": [
+  {
+   "name": "扎西海青",
+   "role": "多罗都棱和郡王"
+  },
+  {
+   "name": "沙木巴喇西",
+   "role": "护国公"
+  },
+  {
+   "name": "王达",
+   "role": "一品塔布吉"
+  },
+  {
+   "name": "吉里地",
+   "role": "二品塔布囊"
+  },
+  {
+   "name": "卓里克图",
+   "role": "四品塔布"
+  }
+ ],
+ "places": [
+  "喀喇沱"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18310,
+ "page_range": "376-377"
+}

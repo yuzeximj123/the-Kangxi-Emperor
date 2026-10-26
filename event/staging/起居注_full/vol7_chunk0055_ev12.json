@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "二十九日甲成",
+ "event_role": "人事任免",
+ "summary": "理藩院题请将教养蒙古之吏部侍郎常书等各加二级，康熙帝令已用者不必议叙，余照常议叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "吏部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5512,
+ "page_range": "121-122"
+}

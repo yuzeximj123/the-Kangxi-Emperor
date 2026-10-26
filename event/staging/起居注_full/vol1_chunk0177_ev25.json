@@ -1,0 +1,25 @@
+{
+ "reign_year": 18,
+ "month": 2,
+ "day_text": "十九日甲申",
+ "event_role": "军务",
+ "summary": "抚远大将军公图海仍赴陕西，康熙帝命礼部侍郎杨正中携茶酒送至广宁门。",
+ "people": [
+  {
+   "name": "图海",
+   "role": "抚远大将军公"
+  },
+  {
+   "name": "杨正中",
+   "role": "礼部侍郎"
+  }
+ ],
+ "places": [
+  "陕西",
+  "广宁门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17725,
+ "page_range": "411-412"
+}

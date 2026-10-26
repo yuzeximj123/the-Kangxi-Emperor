@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝驻跸兖州府西关，谕大学士明珠周公制礼作乐垂示万世，今在曲阜应行致祭，命衙门会同礼部、翰林院详议来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "兖州府西关",
+  "曲阜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6000,
+ "page_range": "155-156"
+}

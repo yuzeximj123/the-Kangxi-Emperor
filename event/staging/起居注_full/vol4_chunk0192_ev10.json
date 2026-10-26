@@ -1,0 +1,32 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "十三日生辰",
+ "event_role": "人事任免",
+ "summary": "总河靳辅题济宁道韩作栋员缺，请以候补知府佟国聘补授，康熙帝准照所题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "韩作栋",
+   "role": "济宁道"
+  },
+  {
+   "name": "佟国聘",
+   "role": "候补知府"
+  }
+ ],
+ "places": [
+  "济宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19210,
+ "page_range": "396-397"
+}

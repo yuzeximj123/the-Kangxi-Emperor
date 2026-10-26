@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "二十日丙寅",
+ "event_role": "人事任免",
+ "summary": "康熙帝以沈朝聘居官好但衰老善忘，令降级留任，余依部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2617,
+ "page_range": "62-63"
+}

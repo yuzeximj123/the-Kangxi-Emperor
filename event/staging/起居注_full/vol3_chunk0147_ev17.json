@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初十日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部题补御史傅腊塔升任员缺，康熙帝以尹泰为奔竞之人，命关寿补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尹泰",
+   "role": "内阅侍读"
+  },
+  {
+   "name": "关寿",
+   "role": "太仆寺员外郎"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "王照",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14717,
+ "page_range": "329-330"
+}

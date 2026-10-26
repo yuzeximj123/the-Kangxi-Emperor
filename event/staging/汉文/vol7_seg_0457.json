@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十四年七月二十八日",
+ "reign_year": 54,
+ "month": 7,
+ "day": 28,
+ "event_role": "收到奏折",
+ "summary": "东巡侍郎李煦奏报江南江西总督范时崇等具折奏报江南等处得雨，并报臣等亦经具折奏报，现将前后奏报一并转奏。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "东巡侍郎，奏报人"
+  },
+  {
+   "name": "范时崇",
+   "role": "江南江西总督，具折奏报得雨"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 457
+}

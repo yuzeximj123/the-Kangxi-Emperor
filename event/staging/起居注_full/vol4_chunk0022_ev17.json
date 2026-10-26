@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "二十八日辛丑",
+ "event_role": "其他",
+ "summary": "康熙帝询问所拟第一卷丘升如何，梁清标、李天和约奏其文条达字精工。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "李天和约",
+   "role": "尚书"
+  },
+  {
+   "name": "丘升",
+   "role": "贡士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2217,
+ "page_range": "56-57"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部题修永定河塌工，康熙帝命给原任总督王继文兵部尚书衔，并宽免工所官员未完捐助银两追赔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王继文",
+   "role": "原任总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "吴瑞",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21701,
+ "page_range": "444-445"
+}

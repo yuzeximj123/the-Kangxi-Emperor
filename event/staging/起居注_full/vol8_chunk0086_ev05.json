@@ -1,0 +1,49 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝论于成龙办事之才汉军内无人能及，公孙征涉奏今不易得；又论杨琳才守俱优、赫寿居官好，王乒等奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "公孙征涉",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "杨琳",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "赫寿",
+   "role": "总督"
+  },
+  {
+   "name": "王乒",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8605,
+ "page_range": "183-184"
+}

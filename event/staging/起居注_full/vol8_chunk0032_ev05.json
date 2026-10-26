@@ -1,0 +1,42 @@
+{
+ "reign_year": 52,
+ "month": 7,
+ "day_text": "十六日辛西",
+ "event_role": "起居注官记录",
+ "summary": "康熙帝追述幼年与旧臣同理国事、十三岁亲政及冯溥奏事、额必伦公等听政旧事，温达、搂叙等奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "给事中"
+  },
+  {
+   "name": "额必伦公",
+   "role": "辅政大臣"
+  },
+  {
+   "name": "巴图鲁公",
+   "role": "辅政大臣"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "搂叙",
+   "role": "起居注左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3205,
+ "page_range": "75-76"
+}

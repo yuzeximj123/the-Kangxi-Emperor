@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙伍拾壹年陆月初叁日",
+ "reign_year": 51,
+ "month": 6,
+ "day": 3,
+ "event_role": "请安谢恩",
+ "summary": "福建陆路提督杨琳奏报赴省恭请圣安、回汛所见田禾丰盛雨水充足、地方宁靖，并遣家人进献荔枝。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "福建陆路提督，奏折具奏人"
+  },
+  {
+   "name": "觉和托",
+   "role": "钦差兵部侍郎，到福州审事"
+  },
+  {
+   "name": "吴英",
+   "role": "水师提督，同赴省恭请圣安"
+  },
+  {
+   "name": "李泰",
+   "role": "杨琳家人，奉命进献荔枝"
+  }
+ ],
+ "places": [
+  "福建",
+  "福州",
+  "兴化"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知自己安好，并称奏折已知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 70
+}

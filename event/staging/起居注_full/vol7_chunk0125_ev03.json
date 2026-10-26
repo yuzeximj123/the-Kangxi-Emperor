@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "江苏巡抚于准请将充军流徒人等照解逃人例递解，议不准行，康熙帝令另议具奏。",
+ "people": [
+  {
+   "name": "于准",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12503,
+ "page_range": "261-262"
+}

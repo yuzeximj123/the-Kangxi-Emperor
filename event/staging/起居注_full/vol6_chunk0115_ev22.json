@@ -1,0 +1,52 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "初九日癸酉",
+ "event_role": "人事任免",
+ "summary": "吏部覆巡抚贝和诺题长安等县俱系附郭要地，请补官员。",
+ "people": [
+  {
+   "name": "贝和诺",
+   "role": "巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴珊",
+   "role": "大学士"
+  },
+  {
+   "name": "李录予",
+   "role": "学士"
+  },
+  {
+   "name": "钱齐保",
+   "role": "学士"
+  },
+  {
+   "name": "胡会思",
+   "role": "学士"
+  },
+  {
+   "name": "特默德",
+   "role": "学士"
+  },
+  {
+   "name": "白硕色",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "长安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11522,
+ "page_range": "240-241"
+}

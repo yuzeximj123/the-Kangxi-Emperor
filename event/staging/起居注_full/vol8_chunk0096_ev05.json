@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "十六日辛效",
+ "event_role": "司法案件",
+ "summary": "刑部覆请山东巡抚题李臣与庚琳互殴致死案，康熙帝令将庚琳从宽免死，照例减等完结。",
+ "people": [
+  {
+   "name": "李臣",
+   "role": "死者"
+  },
+  {
+   "name": "庚琳",
+   "role": "案犯"
+  },
+  {
+   "name": "陈锡",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9605,
+ "page_range": "203-204"
+}

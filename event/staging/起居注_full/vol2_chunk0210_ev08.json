@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初二日辛丑",
+ "event_role": "其他",
+ "summary": "康熙帝论李芳述甚堪用且有劳绩，明珠奏其前在云南对阵时手指被鸟枪打折，授西宁总兵果足胜任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李芳述",
+   "role": "西宁总兵官"
+  }
+ ],
+ "places": [
+  "西宁",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21008,
+ "page_range": "463-464"
+}

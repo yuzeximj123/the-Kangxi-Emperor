@@ -1,0 +1,27 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部覆请大同总兵官张文焕所题北楼、平刑等营参将把总移驻繁峙县台怀镇等处，康熙帝不准行，命该抚会同总兵官确议具奏。",
+ "people": [
+  {
+   "name": "张文焕",
+   "role": "大同总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "北楼",
+  "平刑",
+  "繁峙县",
+  "台怀镇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21001,
+ "page_range": "431-432"
+}

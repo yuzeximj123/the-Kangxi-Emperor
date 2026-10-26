@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十一日癸亥",
+ "event_role": "谕旨决策",
+ "summary": "御史吕兆琳条奏天时亢旱应敕大小臣工实心修省，康熙帝谕内外大小臣工益加洗心涤虑实图修省并通行申饬。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吕兆琳",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5121,
+ "page_range": "145-146"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝向大臣说明自己从未令他人参官举官，并评论噶礼参奏陈鹏年虎丘诗并无悖谬，与诸臣公看其诗以显公正。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "陈鹏年",
+   "role": "原任官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23400,
+ "page_range": "479-480"
+}

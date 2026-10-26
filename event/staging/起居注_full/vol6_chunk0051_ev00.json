@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": "十三日甲实",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝驻跸行宫，和硕公主、和硕额驸噶尔臧及多罗都棱郡王扎西等备宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和硕公主",
+   "role": "公主"
+  },
+  {
+   "name": "噶尔臧",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "扎西",
+   "role": "多罗都棱郡王"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5100,
+ "page_range": "112-113"
+}

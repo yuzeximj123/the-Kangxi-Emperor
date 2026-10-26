@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 8,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "科尔沁和硕卓礼克图亲王巴戒马、土默特多罗贝勒罗普臧、哈密扎萨克一品达尔汉伯克额敏来请安进贡。",
+ "people": [
+  {
+   "name": "巴戒马",
+   "role": "科尔沁和硕卓礼克图亲王"
+  },
+  {
+   "name": "罗普臧",
+   "role": "土默特多罗贝勒"
+  },
+  {
+   "name": "额敏",
+   "role": "哈密扎萨克一品达尔汉伯克"
+  }
+ ],
+ "places": [
+  "科尔沁",
+  "土默特",
+  "哈密"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22900,
+ "page_range": "469-470"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 29,
+ "month": 1,
+ "day_text": "十一日癸卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝顾大学士伊桑阿等，斥户部尚书麻尔图为人甚尾，着带原降三级再降五级，随旗效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "麻尔图",
+   "role": "户部尚书"
+  },
+  {
+   "name": "顾八代",
+   "role": "官员"
+  },
+  {
+   "name": "苏赫",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9923,
+ "page_range": "210-211"
+}

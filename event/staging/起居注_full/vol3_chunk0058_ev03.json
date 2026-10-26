@@ -1,0 +1,21 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "十一日王申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝阅南岸烟墩险工，过白洋湖，数千老幼跪迎堤畔，帝赐年老贫寒者白金，众人感泣而去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南岸烟墩",
+  "白洋湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5803,
+ "page_range": "151-152"
+}

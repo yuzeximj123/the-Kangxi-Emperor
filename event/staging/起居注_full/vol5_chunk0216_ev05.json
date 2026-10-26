@@ -1,0 +1,38 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政大臣续奏总督吴赫购买马匹及平凉、宁夏等地满洲绿旗兵丁马驼驴数量及拨给大将军伯费扬古等情。",
+ "people": [
+  {
+   "name": "吴赫",
+   "role": "总督"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "副都统"
+  },
+  {
+   "name": "库勒纳",
+   "role": "尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "都御史"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  }
+ ],
+ "places": [
+  "平凉",
+  "宁夏",
+  "宁州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21605,
+ "page_range": "442-443"
+}

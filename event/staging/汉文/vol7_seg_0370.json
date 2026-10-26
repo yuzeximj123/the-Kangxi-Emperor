@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十五年五月十一日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 11,
+ "event_role": "请安谢恩",
+ "summary": "李煦向康熙帝跪请万安，康熙帝朱批问安，并命其访查南方能作诗文者回奏。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奴才，上奏请安者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "南方"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝先答朕安，随后命李煦访查南方能作诗文之人并回奏。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 370
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十年三月",
+ "reign_year": 40,
+ "month": 3,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦在康熙万寿时具折叩祝，并奏报苏州春景雨水麦收情形。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批知道了，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "39",
+ "source_title": "苏州织造李煦奏陈贺万寿折",
+ "order_index": 35
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十四日丙寅",
+ "event_role": "朝见受贺",
+ "summary": "古北口总兵官马进良等、古北口督理驿站员外郎郭丽等、防御顾尔拜等、古北路都司杨威等来朝。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "郭丽",
+   "role": "古北口督理驿站员外郎"
+  },
+  {
+   "name": "顾尔拜",
+   "role": "防御"
+  },
+  {
+   "name": "杨威",
+   "role": "古北路都司"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23017,
+ "page_range": "470-471"
+}

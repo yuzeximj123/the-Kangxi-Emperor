@@ -1,0 +1,21 @@
+{
+ "reign_year": 38,
+ "month": 1,
+ "day_text": "初十日庚辰",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝御太和殿，视祭祈谷坛祝版，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿",
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7417,
+ "page_range": "158-159"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "初一日成申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝酌留内大臣、侍卫于后随皇太子徐行，上先发，驻跸永平府西。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "永平府西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11811,
+ "page_range": "279-280"
+}

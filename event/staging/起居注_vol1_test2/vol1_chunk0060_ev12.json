@@ -1,0 +1,20 @@
+{
+ "reign_year": 12,
+ "month": 11,
+ "day_text": "十四日己卯",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝早赴天坛恭祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6012,
+ "page_range": "177-178"
+}

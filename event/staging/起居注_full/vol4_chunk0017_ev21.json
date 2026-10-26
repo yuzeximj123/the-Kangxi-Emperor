@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问于成龙所见柳枝何处，于成龙奏宿迁一带稍有柳枝而山东等省派取甚多所用甚少。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "宿迁",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1721,
+ "page_range": "46-47"
+}

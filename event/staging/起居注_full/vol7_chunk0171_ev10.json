@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝闻福建百姓聚集数千在泉州所属二县抢夺食物奔入山中，提督蓝理率兵进剿一路折挫，督抚提督未奏，将军祖良璧奏闻亦不明白，并得贼盗揭帖。",
+ "people": [
+  {
+   "name": "蓝理",
+   "role": "提督"
+  },
+  {
+   "name": "祖良璧",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "福建",
+  "泉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17110,
+ "page_range": "353-354"
+}

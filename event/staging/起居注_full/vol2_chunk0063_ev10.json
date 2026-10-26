@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "二十九日庚戌",
+ "event_role": "人事任免",
+ "summary": "总督哈占题补永宁副将王麒，部议不准，康熙帝询问其人后命照该督所请补授。",
+ "people": [
+  {
+   "name": "哈占",
+   "role": "总督"
+  },
+  {
+   "name": "王麒",
+   "role": "阿思哈尼哈番"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "永宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6310,
+ "page_range": "169-170"
+}

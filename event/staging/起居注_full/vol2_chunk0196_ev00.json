@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士等捧折本面奏，湖南巡抚韩世琦题请展限，康熙询问大学士意见，勒德洪等奏请一概不准展限。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "韩世琦",
+   "role": "湖南巡抚"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19600,
+ "page_range": "435-436"
+}

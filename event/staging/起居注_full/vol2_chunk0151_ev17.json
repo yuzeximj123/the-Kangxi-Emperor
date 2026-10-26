@@ -1,0 +1,38 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十三日再成",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝遣散秩大臣图尔巴、和硕额驸纳尔杜、散秩大臣桑格等祭奠出征云南病故都统赵廉、勒贝、希扎保。",
+ "people": [
+  {
+   "name": "图尔巴",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "纳尔杜",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "桑格",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "赵廉",
+   "role": "镶红旗都统"
+  },
+  {
+   "name": "勒贝",
+   "role": "正蓝旗都统"
+  },
+  {
+   "name": "希扎保",
+   "role": "正蓝旗都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15117,
+ "page_range": "345-346"
+}

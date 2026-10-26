@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "初五日甲拱",
+ "event_role": "其他",
+ "summary": "巳时康熙御瀛台紫光阁召读卷官大学士伊桑阿、王熙等赐坐，亲试武举骑射并考试步射、开弓、舞刀、掇石，申时回宫。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "瀛台紫光阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4119,
+ "page_range": "94-95"
+}

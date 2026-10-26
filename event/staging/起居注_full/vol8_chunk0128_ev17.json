@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 1,
+ "day_text": "初二日癸亥",
+ "event_role": "人事任免",
+ "summary": "兵部覆广西提督张朝午所题泗城副将倪业显员缺，或将桂林等员补授，原文至此未完。",
+ "people": [
+  {
+   "name": "张朝午",
+   "role": "广西提督"
+  },
+  {
+   "name": "倪业显",
+   "role": "泗城副将"
+  }
+ ],
+ "places": [
+  "广西",
+  "泗城",
+  "桂林"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12817,
+ "page_range": "267-268"
+}

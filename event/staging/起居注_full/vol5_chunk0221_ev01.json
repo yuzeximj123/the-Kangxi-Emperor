@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十二日王寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸黄河西岸环洞，命领侍卫内大臣公福善传谕众人车辆缓行，至白塔驻扎随后徐至。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  }
+ ],
+ "places": [
+  "黄河西岸环洞",
+  "白塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22101,
+ "page_range": "452-453"
+}

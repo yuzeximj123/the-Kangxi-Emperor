@@ -1,0 +1,38 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": "二十日戊成",
+ "event_role": "人事任免",
+ "summary": "礼部题经筵讲官缺员，遵旨选侍郎兼管翰林院事阿山等四人，康熙帝命努灰、三宝、罗察、阿山以原衔充经筵讲官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "原任刑部尚书"
+  },
+  {
+   "name": "阿山",
+   "role": "侍郎兼管翰林院事"
+  },
+  {
+   "name": "努灰",
+   "role": "官员"
+  },
+  {
+   "name": "三宝",
+   "role": "学士"
+  },
+  {
+   "name": "罗察",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 605,
+ "page_range": "22-23"
+}

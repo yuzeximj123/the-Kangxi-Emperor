@@ -1,0 +1,32 @@
+{
+ "reign_year": 18,
+ "month": 6,
+ "day_text": "二十三日丙辰",
+ "event_role": "司法案件",
+ "summary": "吏部郎中雅思哈、刑部郎中敦多礼自浙江审学道程改瑛事还，具奏勘问情罪，康熙帝详讯。",
+ "people": [
+  {
+   "name": "雅思哈",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "敦多礼",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "程改瑛",
+   "role": "浙江学道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18301,
+ "page_range": "423-424"
+}

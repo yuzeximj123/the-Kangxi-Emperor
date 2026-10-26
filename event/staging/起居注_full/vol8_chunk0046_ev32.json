@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": "十八日辛卯",
+ "event_role": "人事任免",
+ "summary": "宗人府题镇国公星海缘事革去公，照例降一等以其子唐福袭封辅国公，康熙帝命辅国公仍给与星尼。",
+ "people": [
+  {
+   "name": "星海",
+   "role": "镇国公"
+  },
+  {
+   "name": "唐福",
+   "role": "星海之子"
+  },
+  {
+   "name": "星尼",
+   "role": "辅国公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4632,
+ "page_range": "103-104"
+}

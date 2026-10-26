@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十年八月二十六日",
+ "reign_year": 50,
+ "month": 8,
+ "day": 26,
+ "event_role": "奏报灾情收成",
+ "summary": "湖广巡抚刘殿衡奏报抵任后楚北雨水调匀、早稻晚稻收成良好及米麦价格渐平，并恭请皇上、皇太子安。",
+ "people": [
+  {
+   "name": "刘殿衡",
+   "role": "湖广巡抚都察院右副都御史"
+  },
+  {
+   "name": "刘喜",
+   "role": "家人（差遣赍捧奏折者）"
+  }
+ ],
+ "places": [
+  "湖广",
+  "楚北",
+  "武汉"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批仅答“朕安”。",
+ "source_title": "湖廣巡撫劉殿衡奏報地方雨水收成及糧價摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "926",
+ "order_index": 220
+}

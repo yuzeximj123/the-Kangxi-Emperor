@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "松柱等以补授侍郎王原祁员缺问九卿，九卿请皇上简用，赵申乔辞不保举，康熙帝令再问赵申乔具奏。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "王原祁",
+   "role": "侍郎"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11507,
+ "page_range": "241-242"
+}

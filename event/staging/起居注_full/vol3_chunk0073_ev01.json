@@ -1,0 +1,46 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议政王等会议镶红旗病故护军统领佛可多员缺，康熙询问后以伯莽喀补授。",
+ "people": [
+  {
+   "name": "佛可多",
+   "role": "镶红旗护军统领，病故"
+  },
+  {
+   "name": "缪齐纳",
+   "role": "副都统，拟正推"
+  },
+  {
+   "name": "西伯黑",
+   "role": "拟陪推"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "莽喀",
+   "role": "伯"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "叶臣",
+   "role": "原任都统"
+  },
+  {
+   "name": "车尔布",
+   "role": "原任都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7301,
+ "page_range": "181-182"
+}

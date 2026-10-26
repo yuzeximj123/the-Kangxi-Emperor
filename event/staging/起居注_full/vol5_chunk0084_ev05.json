@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初七日丙申",
+ "event_role": "谕旨决策",
+ "summary": "鸿胪寺卿西哈纳奏主簿绥赫图为内大臣郎坦之胞弟，康熙问其降级缘由，尚书库坦纳奏因翻译考劣等降级。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "西哈纳",
+   "role": "鸿胪寺卿"
+  },
+  {
+   "name": "绥赫图",
+   "role": "主簿"
+  },
+  {
+   "name": "郎坦",
+   "role": "内大臣"
+  },
+  {
+   "name": "库坦纳",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8405,
+ "page_range": "178-179"
+}

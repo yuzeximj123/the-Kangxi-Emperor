@@ -1,0 +1,38 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙命常寿、费扬古驰驿前去会同河臣详议黄水入清口堵塞、清江闸闭绝、引河挑浚、更楼决口修治。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "侍郎"
+  },
+  {
+   "name": "费扬古",
+   "role": "员外郎"
+  },
+  {
+   "name": "桑格",
+   "role": "重臣"
+  },
+  {
+   "name": "于成龙",
+   "role": "河臣"
+  }
+ ],
+ "places": [
+  "清口",
+  "清江闸",
+  "更楼"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14405,
+ "page_range": "298-299"
+}

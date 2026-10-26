@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "群臣以蒙古诸国效顺、喀尔喀三汗归服称臣为旷古大典，奏请另加称贺，康熙帝谕令免行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "群臣",
+   "role": "朝臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14900,
+ "page_range": "310-311"
+}

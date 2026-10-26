@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十一年四月二十六日",
+ "reign_year": 51,
+ "month": 4,
+ "day": 25,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮具折奏谢皇帝赏赐御马等物，并奏报地方雨情以慰圣怀。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏折具奏人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "蒙古"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称已知各处雨情，并疑惑近日四外与蒙古地方同日出现雷雨的现象。",
+ "source_title": "直隸巡撫趙弘燮奏請以陳昶補授永清知縣摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "79",
+ "order_index": 193
+}

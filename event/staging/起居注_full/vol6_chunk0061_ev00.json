@@ -1,0 +1,34 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审议刘娃色、黑色、七儿偷窃库银案，问明首从，决定为首者正法，余免勾。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘娃色",
+   "role": "首犯"
+  },
+  {
+   "name": "黑色",
+   "role": "案犯"
+  },
+  {
+   "name": "七儿",
+   "role": "案犯"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6100,
+ "page_range": "132-133"
+}

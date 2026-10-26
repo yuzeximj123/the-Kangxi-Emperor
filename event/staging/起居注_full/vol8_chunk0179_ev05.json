@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐等以河间等三处副将员缺问九卿，九卿举出通州副将魏经国等七员，康熙帝命将参将保举。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "魏经国",
+   "role": "通州副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河间",
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17905,
+ "page_range": "369-370"
+}

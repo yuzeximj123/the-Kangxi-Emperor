@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "二十五日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论天文占验不足信，然天示灾异当警戒人主修省，命将邵泰衢本发回京师候回时再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邵泰衢",
+   "role": "钦天监监副"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9220,
+ "page_range": "227-228"
+}

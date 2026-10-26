@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "就苏州巡抚宋荦题请所欠米钱粮分年带征事，康熙帝准依所奏带征，并令豁免米麦。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋荦",
+   "role": "苏州巡抚"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15505,
+ "page_range": "320-321"
+}

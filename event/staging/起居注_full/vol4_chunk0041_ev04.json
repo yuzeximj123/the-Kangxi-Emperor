@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "二十九日成成",
+ "event_role": "人事任免",
+ "summary": "吏部题湖广复设总督开列满洲汉军汉人请旨，康熙以丁思孔在裁兵倡乱时甚著勤劳，升补湖广总督。",
+ "people": [
+  {
+   "name": "丁思孔",
+   "role": "湖广总督"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4104,
+ "page_range": "94-95"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "二十二日壬戌",
+ "event_role": "朝见受贺",
+ "summary": "兖州府知府朱天画、管河同知罗经、汶上县知县樊绍宦、济宁州副将王允昌等来朝见。",
+ "people": [
+  {
+   "name": "朱天画",
+   "role": "兖州府知府"
+  },
+  {
+   "name": "罗经",
+   "role": "管河同知"
+  },
+  {
+   "name": "樊绍宦",
+   "role": "汶上县知县"
+  },
+  {
+   "name": "王允昌",
+   "role": "济宁州副将"
+  }
+ ],
+ "places": [
+  "兖州府",
+  "汶上县",
+  "济宁州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8017,
+ "page_range": "170-171"
+}

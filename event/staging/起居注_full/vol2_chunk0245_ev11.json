@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "十四日辛亥",
+ "event_role": "司法案件",
+ "summary": "三法司议王好胜打死奸尼姑之僧人义然拟立绞，康熙帝以其情可悯改为秋后处决临期启奏从宽减等。",
+ "people": [
+  {
+   "name": "王好胜",
+   "role": "罪犯"
+  },
+  {
+   "name": "义然",
+   "role": "僧人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24511,
+ "page_range": "533-534"
+}

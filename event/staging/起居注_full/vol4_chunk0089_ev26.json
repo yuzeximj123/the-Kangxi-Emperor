@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "二十四日丁效",
+ "event_role": "人事任免",
+ "summary": "兵部题湖广革职巡抚杨素蕴员缺请旨，康熙帝以兵部侍郎吴瑞补授湖广巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴瑞",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8926,
+ "page_range": "190-191"
+}

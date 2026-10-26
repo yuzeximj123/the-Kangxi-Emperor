@@ -1,0 +1,23 @@
+{
+ "reign_year": 15,
+ "month": 12,
+ "day_text": "二十三日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝大设卤簿，由午门出正阳门，进南郊大红门，驻足西宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "南郊大红门",
+  "西宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12606,
+ "page_range": "309-310"
+}

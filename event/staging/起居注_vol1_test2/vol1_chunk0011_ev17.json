@@ -1,0 +1,25 @@
+{
+ "reign_year": 11,
+ "month": 3,
+ "day_text": "二十八日甲成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸巩华城；当日过八达岭时步行护持太和皇太后銮驾，太后再三令乘马，康熙帝仍步行至平地始乘马。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太和皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "巩华城",
+  "八达岭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1117,
+ "page_range": "79-80"
+}

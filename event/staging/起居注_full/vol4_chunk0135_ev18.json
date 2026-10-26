@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 11,
+ "day_text": "二十七日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "陕西提督孙思克以衰老乞解任，康熙帝以其长才伟略、久镇岩疆，命照旧供职。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "陕西提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13518,
+ "page_range": "282-283"
+}

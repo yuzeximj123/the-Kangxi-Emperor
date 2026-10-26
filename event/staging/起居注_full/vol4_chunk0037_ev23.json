@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 8,
+ "day_text": "十三日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令赈济齐特穷蒙古米粮银两，以拜察米五百石、银一千两遣官酌量赏赐，并用喀尔喀索诺木贝勒旗骆驼、克什克屯旗车辆运送。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀拉",
+   "role": "侍读学士"
+  },
+  {
+   "name": "马第",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "拜察"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3723,
+ "page_range": "86-87"
+}

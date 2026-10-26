@@ -1,0 +1,37 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初六日丁亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝御文华殿行经筵大典，罗察、熊赐履讲《四书》，舒略、韩英讲《易经》，毕宴诸臣于太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗察",
+   "role": "侍郎"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "舒略",
+   "role": "侍郎"
+  },
+  {
+   "name": "韩英",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "文华殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 909,
+ "page_range": "29-30"
+}

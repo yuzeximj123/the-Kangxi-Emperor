@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "遵化州城守营游击赵温、知州郑侨生来朝见。",
+ "people": [
+  {
+   "name": "赵温",
+   "role": "遵化州城守营游击"
+  },
+  {
+   "name": "郑侨生",
+   "role": "遵化州知州"
+  }
+ ],
+ "places": [
+  "遵化州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4604,
+ "page_range": "135-136"
+}

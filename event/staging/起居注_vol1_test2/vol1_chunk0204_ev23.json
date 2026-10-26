@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "初五日丙申",
+ "event_role": "谕旨决策",
+ "summary": "吏部尚书郝维讷奏云贵总督周有德请专设经略并奏阁臣不应预会议，臣等俱议不准行，康熙帝言阁臣原不会议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郝维讷",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "周有德",
+   "role": "云贵总督"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20423,
+ "page_range": "465-466"
+}

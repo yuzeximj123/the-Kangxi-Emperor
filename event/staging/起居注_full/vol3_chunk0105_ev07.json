@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十六日癸酉",
+ "event_role": "人事任免",
+ "summary": "宗人府以左宗正贝子张泰员缺开列贝子福善、苏尔法、兴尼等，康熙帝命将应补授之人查奏。",
+ "people": [
+  {
+   "name": "张泰",
+   "role": "贝子、左宗正"
+  },
+  {
+   "name": "福善",
+   "role": "贝子"
+  },
+  {
+   "name": "苏尔法",
+   "role": "贝子"
+  },
+  {
+   "name": "兴尼",
+   "role": "贝子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10507,
+ "page_range": "245-246"
+}

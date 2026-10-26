@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝问于成龙上河放水究系何人何处，水岂能欲放即放欲止即止，于成龙奏称实不知，得之传闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "奏对官员"
+  }
+ ],
+ "places": [
+  "上河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1514,
+ "page_range": "42-43"
+}

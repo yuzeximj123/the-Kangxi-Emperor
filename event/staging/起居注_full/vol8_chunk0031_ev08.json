@@ -1,0 +1,25 @@
+{
+ "reign_year": 52,
+ "month": 7,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "宁古塔将军觉罗蒙俄治奏三姓处库尔喀等编牛录事，康熙帝谕伊等本处不可迁徙，令会同议政大臣九卿议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗蒙俄治",
+   "role": "宁古塔将军"
+  }
+ ],
+ "places": [
+  "三姓",
+  "浑春"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3108,
+ "page_range": "73-74"
+}

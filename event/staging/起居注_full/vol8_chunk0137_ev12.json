@@ -1,0 +1,36 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "二十日庚辰",
+ "event_role": "河工水利",
+ "summary": "覆请工部覆监造修理通州堤境郎中牛钮所题暂借库银乘时修造，康熙帝命借与库银五万两，刘谦、臧大受暂免交部。",
+ "people": [
+  {
+   "name": "牛钮",
+   "role": "郎中"
+  },
+  {
+   "name": "吴卜雄",
+   "role": "原任学道"
+  },
+  {
+   "name": "刘谦",
+   "role": "原任左都御史"
+  },
+  {
+   "name": "臧大受",
+   "role": "原任学道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13712,
+ "page_range": "285-286"
+}

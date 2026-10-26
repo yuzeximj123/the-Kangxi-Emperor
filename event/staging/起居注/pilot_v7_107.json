@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "申时",
+ "event_role": "议政听政",
+ "summary": "大学士马齐等以折本请旨，议兵部查密云等县雇车解送武备院账房事，康熙帝令再明白议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "恩丕",
+   "role": "学士"
+  },
+  {
+   "name": "黑寿",
+   "role": "学士"
+  },
+  {
+   "name": "周钱",
+   "role": "原任密云知县升景州知州"
+  }
+ ],
+ "places": [
+  "密云",
+  "景州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3107
+}

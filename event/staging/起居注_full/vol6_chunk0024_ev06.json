@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "初四日庚戌",
+ "event_role": "人事任免",
+ "summary": "吏部题庶子陈论员缺，拟以沈朝初补授，康熙命问翰林院掌院学士具奏。",
+ "people": [
+  {
+   "name": "陈论",
+   "role": "庶子"
+  },
+  {
+   "name": "沈朝初",
+   "role": "拟补庶子"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2406,
+ "page_range": "58-59"
+}

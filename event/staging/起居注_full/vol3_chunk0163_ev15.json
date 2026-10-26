@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十五日戊寅",
+ "event_role": "司法案件",
+ "summary": "户部尚书科尔坤等热审死罪减等发落者一百五十余人，康熙帝询问此外尚有可轻者否，明珠等奏狱中死罪共三百余人，皇上免其大半。",
+ "people": [
+  {
+   "name": "科尔坤",
+   "role": "户部尚书"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16315,
+ "page_range": "361-362"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "初四日丁刻",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥盛京户部侍郎荐色不遵定例题补主事，命察议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "荐色",
+   "role": "盛京户部侍郎"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16602,
+ "page_range": "367-368"
+}

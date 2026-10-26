@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "初四日辛亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就《明史》论断事答奏，谓所阅之书甚多恐无暇亲为论断，万历以前尚易，万历以后殊为繁冗，论断亦难，并问库勒纳是否阅过、能否记忆。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "库勒纳",
+   "role": "侍郎管翰林院事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22121,
+ "page_range": "477-478"
+}

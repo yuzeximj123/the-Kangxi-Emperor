@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "湖广总督郭玫以老病乞休，康熙帝言湖广人强悍、郭玫不能管辖，令丈量地亩事竣再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭玫",
+   "role": "湖广总督"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2402,
+ "page_range": "59-60"
+}

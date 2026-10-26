@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十九日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "两广总督吴兴祚请以广州等七府沿海地亩招民耕种，康熙帝准奏，令遣大臣前往展界设防，勿误春耕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴兴祚",
+   "role": "两广总督"
+  }
+ ],
+ "places": [
+  "广州",
+  "浙江",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23113,
+ "page_range": "505-506"
+}

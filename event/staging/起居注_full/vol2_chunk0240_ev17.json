@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十八日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "户部奏销湖南康熙二十一年钱粮，康熙帝询问数目相符后，命传谕户部堂官严加厘剔以清弊源，否则照处分工部之法处之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24017,
+ "page_range": "523-524"
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十五年（缺具体日，接前文）",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "（缺）",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责赵世显不严拿私铸反请暂停钱禁并请开坊鼓铸，令九卿明白回奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵世显",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "九卿",
+   "role": "议政官员"
+  }
+ ],
+ "places": [
+  "山东",
+  "济南",
+  "临清"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3129
+}

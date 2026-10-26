@@ -1,0 +1,40 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初三日闫未",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫听政，大学士马齐等以折本请旨，议外官携带家口定额事，康熙帝认为旗员定额太少，命发回九卿另行确议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "铁图",
+   "role": "学士"
+  },
+  {
+   "name": "纪和尔塔浑",
+   "role": "学士"
+  },
+  {
+   "name": "刘子章",
+   "role": "御史"
+  },
+  {
+   "name": "佟国耀",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2004,
+ "page_range": "51-52"
+}

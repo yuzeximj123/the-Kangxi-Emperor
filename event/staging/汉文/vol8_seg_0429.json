@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙六十一年十一月",
+ "reign_year": 61,
+ "month": 11,
+ "day": 20,
+ "event_role": "奏报地方情形",
+ "summary": "姚筆奏报自厦门赴京沿途遇雨雪情形，并报厦门上白米、次白米每石价银。",
+ "people": [
+  {
+   "name": "姚筆",
+   "role": "奏报人"
+  }
+ ],
+ "places": [
+  "福建厦门",
+  "浦城县",
+  "江南丹阳县",
+  "山东红花埠",
+  "禹城县"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "姚筆奏報雨雪糧價軍……",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "3015",
+ "order_index": 429
+}

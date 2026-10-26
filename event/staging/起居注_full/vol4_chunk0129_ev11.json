@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 9,
+ "day_text": "初十日丁丁",
+ "event_role": "军务",
+ "summary": "兵部题张思蕉请沙船虎船留京口操练，康熙帝谕狼山镇标留船三十只，余如议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张思蕉",
+   "role": "原任镇海将军"
+  }
+ ],
+ "places": [
+  "京口",
+  "狼山镇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12911,
+ "page_range": "270-271"
+}

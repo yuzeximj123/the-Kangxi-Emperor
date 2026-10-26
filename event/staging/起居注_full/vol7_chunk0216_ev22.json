@@ -1,0 +1,33 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十二日甲戌",
+ "event_role": "人事任免",
+ "summary": "温达等奏遵旨以直隶巡抚赵弘党拣选题补大兴、宛平二县知县陈受连等问九卿，据云俱不知其人，以原疏覆请。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "陈受连",
+   "role": "新安县知县"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "大兴",
+  "宛平"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21622,
+ "page_range": "443-444"
+}

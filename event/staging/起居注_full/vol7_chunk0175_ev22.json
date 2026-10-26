@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "十七日乙亥",
+ "event_role": "人事任免",
+ "summary": "兵部题降调原任工部郎中杨国琳等捐银喂马请给还原官，康熙帝准议但马明礼捐银给回不给原官。",
+ "people": [
+  {
+   "name": "杨国琳",
+   "role": "原任工部郎中"
+  },
+  {
+   "name": "马明礼",
+   "role": "原任守备"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17522,
+ "page_range": "361-362"
+}

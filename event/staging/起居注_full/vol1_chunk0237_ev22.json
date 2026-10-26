@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十七日两成",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部主事，康熙帝询问二人后命以罗文现补授主事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗文现",
+   "role": "内阁中书，补刑部主事"
+  },
+  {
+   "name": "孙文光",
+   "role": "拟陪"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23722,
+ "page_range": "531-532"
+}

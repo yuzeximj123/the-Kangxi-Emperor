@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙问卢震居官何如，吴正治奏其颇优但贼乱时弃城而归有罪，勒德洪奏闻其居官甚佳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卢震",
+   "role": "官员"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4203,
+ "page_range": "119-120"
+}

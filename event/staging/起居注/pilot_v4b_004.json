@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙二十八年二月十七日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十七日乙卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕令巡抚金匀、布政使李之粹解任，俟原案完结另简授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金匀",
+   "role": "巡抚"
+  },
+  {
+   "name": "李之粹",
+   "role": "布政使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2004
+}

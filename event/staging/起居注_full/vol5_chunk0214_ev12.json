@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣会议进兵运米事宜，议定马思喀兵资两月行粮二千零十五石二斗等各项粮数及转运安排。",
+ "people": [
+  {
+   "name": "马思喀",
+   "role": "将军"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "西安副都统"
+  }
+ ],
+ "places": [
+  "白塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21412,
+ "page_range": "438-439"
+}

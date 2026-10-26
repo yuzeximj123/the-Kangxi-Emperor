@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅宋宁宗时李全等败绩论，谓金兵虽衰犹足敌宋，宋人不知彼知己，前车既覆而不悔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李全",
+   "role": "宋臣"
+  },
+  {
+   "name": "杜讷",
+   "role": "臣"
+  }
+ ],
+ "places": [
+  "东平"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11514,
+ "page_range": "242-243"
+}

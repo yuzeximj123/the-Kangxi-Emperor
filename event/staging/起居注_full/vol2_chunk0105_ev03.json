@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "十五日癸刻",
+ "event_role": "议政听政",
+ "summary": "翰林院学士陈廷敬、内阁学士张玉书至乾清门候旨，侍卫捧御制诗序出，群臣集太和殿下依次各赋诗九十三韵。",
+ "people": [
+  {
+   "name": "陈廷敬",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "内阁学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10503,
+ "page_range": "253-254"
+}

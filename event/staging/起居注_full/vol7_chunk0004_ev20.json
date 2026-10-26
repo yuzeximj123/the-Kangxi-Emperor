@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初四日丙辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝于高昌店村北停围，率皇太子、诸皇子及善射侍卫射，发矢皆中的，又令姚尚伦、高文烧射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "姚尚伦",
+   "role": "真定府副将"
+  },
+  {
+   "name": "高文烧",
+   "role": "河间府副将"
+  }
+ ],
+ "places": [
+  "高昌店村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 420,
+ "page_range": "19-20"
+}

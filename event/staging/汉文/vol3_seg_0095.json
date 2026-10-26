@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾年正月贰拾日",
+ "reign_year": 50,
+ "month": 1,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "江南提督师懿德奏谢康熙钦赐汤羊野鸡等物，并报巡查海口及地方晴雨调匀情形。",
+ "people": [
+  {
+   "name": "师懿德",
+   "role": "江南提督（奏折作者）"
+  },
+  {
+   "name": "师夔",
+   "role": "提督江南等处地方总兵官在任守制（正文署名）"
+  }
+ ],
+ "places": [
+  "松江",
+  "苏州府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "江南提督师懿德奏谢钦赐汤羊野鸡并报晴雨调匀摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "793",
+ "order_index": 95
+}

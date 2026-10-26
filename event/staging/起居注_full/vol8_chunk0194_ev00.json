@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就贵州巡抚刘荫枢奏章多次遗漏贴黄一事，命其明白回奏。",
+ "people": [
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19400,
+ "page_range": "399-400"
+}

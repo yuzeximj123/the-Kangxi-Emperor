@@ -1,0 +1,22 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "十七日乙西",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝至泰山，率文武诸臣向泰山行礼，从泰安州北门入，齐东绩庙峻极典，率文武诸臣行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "泰山",
+  "泰安州",
+  "东绩庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5322,
+ "page_range": "118-119"
+}

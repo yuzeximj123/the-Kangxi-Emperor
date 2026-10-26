@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十九日丙戌",
+ "event_role": "人事任免",
+ "summary": "议蒋伊捐纳加级事，康熙帝以蒋伊曾极言捐纳之非今又自为，不准加级。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蒋伊",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24106,
+ "page_range": "525-526"
+}

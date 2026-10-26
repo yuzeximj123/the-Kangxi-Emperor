@@ -1,0 +1,25 @@
+{
+ "reign_year": 15,
+ "month": 5,
+ "day_text": "十五日丙申",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿视朝，文武升转官员谢恩，俄罗斯察汉汗来使米库赖噶富里雷齐斯帕法礼等行礼，赐茶后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "米库赖噶富里雷齐斯帕法礼",
+   "role": "俄罗斯察汉汗来使"
+  }
+ ],
+ "places": [
+  "太和殿",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11509,
+ "page_range": "287-288"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "初一日了已",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝御保和殿，视祭社稷坛祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "社稷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14116,
+ "page_range": "294-295"
+}

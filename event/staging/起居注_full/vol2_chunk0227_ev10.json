@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "初七日甲辰",
+ "event_role": "人事任免",
+ "summary": "题补光禄寺署正席尔图升任员缺，康熙帝命以陪拟之赖道补授署正。",
+ "people": [
+  {
+   "name": "席尔图",
+   "role": "光禄寺署正"
+  },
+  {
+   "name": "觉罗巴哈布",
+   "role": "荫生"
+  },
+  {
+   "name": "赖道",
+   "role": "荫生"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22710,
+ "page_range": "497-498"
+}

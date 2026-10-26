@@ -1,0 +1,29 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "初四日乙丑",
+ "event_role": "军务",
+ "summary": "康熙帝召内阁大学士、学士至懋勤殿面商将军莽吉图擅许安南国王黎惟祯进讨莫元清事，谕令察明议奏。",
+ "people": [
+  {
+   "name": "莽吉图",
+   "role": "将军"
+  },
+  {
+   "name": "黎惟祯",
+   "role": "安南国王"
+  },
+  {
+   "name": "莫元清",
+   "role": "安南都统使"
+  }
+ ],
+ "places": [
+  "懋勤殿",
+  "安南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20929,
+ "page_range": "475-476"
+}

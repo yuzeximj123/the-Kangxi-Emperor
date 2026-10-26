@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十一日辛卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补授江南江西总督，康熙帝以张鹏翮居官清廉、大得民心，改授其为总督。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "尚书"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6308,
+ "page_range": "136-137"
+}

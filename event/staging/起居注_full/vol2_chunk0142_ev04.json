@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "二十六日辛丑",
+ "event_role": "请安谢恩",
+ "summary": "牛钮、陈廷敬奏言称颂皇上优待大臣，并奉命至宝寅宣布上旨，回奏冯溥谢恩之语。",
+ "people": [
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  },
+  {
+   "name": "二格",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "宝寅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14204,
+ "page_range": "327-328"
+}

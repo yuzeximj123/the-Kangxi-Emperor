@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "十四日戊辰",
+ "event_role": "军务",
+ "summary": "提督兼管古北口总兵事马进良奏请给发往喀喇城镇守兵丁钱粮，康熙帝准如所请。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "提督兼管古北口总兵事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "古北口",
+  "喀喇城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14008,
+ "page_range": "291-292"
+}

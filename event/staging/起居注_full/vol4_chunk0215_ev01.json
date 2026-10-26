@@ -1,0 +1,42 @@
+{
+ "reign_year": 31,
+ "month": 11,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "伊桑阿等奏报遵旨询问九卿关于总兵官人选及胡戴臣条奏之事，九卿称总兵官皆由皇上拣用、未闻劣声，胡戴臣所言未当，帝颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "李天馥",
+   "role": "大学士"
+  },
+  {
+   "name": "胡戴臣",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21501,
+ "page_range": "442-443"
+}

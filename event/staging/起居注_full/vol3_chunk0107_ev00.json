@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝就王康等打死人一案，将王奉教、景大成、王宪文改为秋后处决。",
+ "people": [
+  {
+   "name": "王康",
+   "role": "案犯"
+  },
+  {
+   "name": "王奉教",
+   "role": "案犯"
+  },
+  {
+   "name": "景大成",
+   "role": "案犯"
+  },
+  {
+   "name": "王宪文",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10700,
+ "page_range": "249-250"
+}

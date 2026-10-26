@@ -1,0 +1,20 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将解送京师的海贼多加照看，因天气炎热恐其患病，传谕部臣共同照料。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2300,
+ "page_range": "57-58"
+}

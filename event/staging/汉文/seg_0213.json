@@ -1,0 +1,43 @@
+{
+ "date_raw": "康熙四十七年正月十八日",
+ "reign_year": 47,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮奏请留任南岸分司皂保、更换衰老的北岸分司色图浑，并请复设永定河效力副笔帖式二十员以补河工正缺。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "皂保",
+   "role": "涉及人物"
+  },
+  {
+   "name": "色图浑",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李光地",
+   "role": "涉及人物"
+  },
+  {
+   "name": "效拜",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆关",
+  "永定河",
+  "郭家务"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "288",
+ "source_title": "直隶巡抚赵弘燮奏请揀员补授河工各缺事摺",
+ "order_index": 213
+}

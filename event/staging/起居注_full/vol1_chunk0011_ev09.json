@@ -1,0 +1,27 @@
+{
+ "reign_year": 11,
+ "month": 3,
+ "day_text": "二十二日戊搬",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召见总兵拜音达礼，谕令其与巡抚会议缉盗安民、正己率属、不得克扣军饷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "拜音达礼",
+   "role": "镇守宣府昌密等处总兵都督佥事"
+  }
+ ],
+ "places": [
+  "宣府",
+  "昌平",
+  "密云",
+  "石匣"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1109,
+ "page_range": "79-80"
+}

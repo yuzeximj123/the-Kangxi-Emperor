@@ -1,0 +1,32 @@
+{
+ "date_raw": "十五日己亥",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十五日己亥",
+ "event_role": "司法案件",
+ "summary": "押解流徙黑龙江罪犯丘虎山脱逃，议骁骑校他巴凯等罪，康熙帝以议尚轻令严议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "他巴凯",
+   "role": "骁骑校"
+  },
+  {
+   "name": "何密拉",
+   "role": "骁骑"
+  },
+  {
+   "name": "丘虎山",
+   "role": "脱逃罪犯"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3201
+}

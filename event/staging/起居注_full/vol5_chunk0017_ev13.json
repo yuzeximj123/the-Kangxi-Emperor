@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "二十三日庚寅",
+ "event_role": "人事任免",
+ "summary": "大学士等以折本请旨，奏原任巡抚吴瑞于今年十一月服阕；康熙帝命吴瑞升补湖广总督，俟服阕赴任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "吴瑞",
+   "role": "原任巡抚"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1713,
+ "page_range": "44-45"
+}

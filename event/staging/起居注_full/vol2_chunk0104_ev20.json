@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "十四日于成",
+ "event_role": "谕旨决策",
+ "summary": "宴毕夜色二鼓，康熙帝传内浆学士张玉书、翰林院掌院学士陈廷敬、学士张英近御座前，谕令仿柏梁体赋诗进览，诸臣奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "内浆学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "张英",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10420,
+ "page_range": "251-252"
+}

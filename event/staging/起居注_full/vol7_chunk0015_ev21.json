@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "十五日丙申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝驳御史刘子章条奏设恤刑官之议，准其外官不许许多带家口之奏，令详阅翻译具奏。",
+ "people": [
+  {
+   "name": "刘子章",
+   "role": "御史"
+  },
+  {
+   "name": "席尔达",
+   "role": "官员"
+  },
+  {
+   "name": "阿山",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1521,
+ "page_range": "41-42"
+}

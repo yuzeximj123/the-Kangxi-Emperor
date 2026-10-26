@@ -1,0 +1,21 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十六日壬申",
+ "event_role": "人事任免",
+ "summary": "兵部题请贵州安笼等四处总兵官员缺开列人选，康熙帝命议政王等会推具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州",
+  "安笼"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 309,
+ "page_range": "49-50"
+}

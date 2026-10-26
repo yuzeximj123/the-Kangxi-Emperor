@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "十八日癸未",
+ "event_role": "司法案件",
+ "summary": "防御马尔赛不访实情谎称王文成盗取官粮即行拘禁、擅离汛地率众喧闹，拟革职枷号鞭责；康熙帝改命监候秋后处决。",
+ "people": [
+  {
+   "name": "马尔赛",
+   "role": "防御"
+  },
+  {
+   "name": "王文成",
+   "role": "被诬者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4006,
+ "page_range": "90-91"
+}

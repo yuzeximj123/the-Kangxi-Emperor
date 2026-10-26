@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "二十六日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以监候缓决者甚多，令将免死重犯枷号三个月、鞭一百，分次发往黑龙江，并令会同九卿议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12106,
+ "page_range": "252-253"
+}

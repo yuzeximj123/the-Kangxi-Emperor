@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十五年二月初六日",
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "初六日辛酉",
+ "event_role": "议政听政",
+ "summary": "户部侍郎穆丹奏天津、临清钱价已长，五城换小钱者多，好净钱价未涨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "穆丹",
+   "role": "户部侍郎"
+  }
+ ],
+ "places": [
+  "天津",
+  "临清",
+  "五城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3071
+}

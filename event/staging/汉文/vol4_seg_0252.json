@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十二年六月初九日",
+ "reign_year": 52,
+ "month": 6,
+ "day": 9,
+ "event_role": "河工水利",
+ "summary": "苏州织造李煦奏报宝应县卢家直堤工堵筑情况，六月初三日风雨冲开新筑堤工四丈余，总河赵世显仍在督率人夫赶紧堵筑，约六月十二三日可完工。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "赵世显",
+   "role": "总河，督率堵筑堤工"
+  }
+ ],
+ "places": [
+  "扬州府",
+  "宝应县",
+  "卢家直"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了。",
+ "source_title": "苏州织造李煦奏报宝应县焦工冲决河堤现在堵筑摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 252
+}

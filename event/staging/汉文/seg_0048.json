@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙肆拾壹年陸月初壹日",
+ "reign_year": 41,
+ "month": 6,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "陆玮奏报凉宁甘肃四镇及兰州宁夏等地雨水禾稼情形，并请准仍以汉字具奏。",
+ "people": [
+  {
+   "name": "陆玮",
+   "role": "奏报人"
+  },
+  {
+   "name": "郭世隆",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "凉州",
+  "宁夏",
+  "甘州",
+  "肃州",
+  "西宁",
+  "兰州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "陸瑋奏雨水",
+ "order_index": 48
+}

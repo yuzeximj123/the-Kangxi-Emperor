@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十七年七月十六日",
+ "reign_year": 57,
+ "month": 7,
+ "day": 16,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报苏州御稻收割产量、进呈新米，并报福州及两淮商人所种御稻收割情形与禾苗长势。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "福州",
+  "两淮"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏進蘇州鄉紳第一次收稻細數册",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2659",
+ "order_index": 93
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "二十二日乙已",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门议覆私铸案，周三、薛文、高下二俱应立斩，张易、梁某等拟罪。",
+ "people": [
+  {
+   "name": "周三",
+   "role": "私铸案犯"
+  },
+  {
+   "name": "薛文",
+   "role": "私铸案犯"
+  },
+  {
+   "name": "高下二",
+   "role": "私铸案犯"
+  },
+  {
+   "name": "张易",
+   "role": "案犯"
+  },
+  {
+   "name": "梁某",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15520,
+ "page_range": "322-323"
+}

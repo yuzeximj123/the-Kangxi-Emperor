@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 1,
+ "day_text": "二十八日壬戌",
+ "event_role": "奏报地方情形",
+ "summary": "察哈尔协领李荣保题请察哈尔蒙古俸饷于大同宣化支领，康熙帝准行他事，惟俸饷仍于京师支给以免争竞。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李荣保",
+   "role": "察哈尔协领"
+  }
+ ],
+ "places": [
+  "大同",
+  "宣化",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13709,
+ "page_range": "284-285"
+}

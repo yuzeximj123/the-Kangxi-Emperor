@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "酉时",
+ "event_role": "司法案件",
+ "summary": "陕西民尤之魁等另闻言粮道黄明居官最优，康熙命开印后将民尤之魁等所闻及绥色所审之事交九卿再议具奏。",
+ "people": [
+  {
+   "name": "尤之魁",
+   "role": "陕西民"
+  },
+  {
+   "name": "黄明",
+   "role": "粮道"
+  },
+  {
+   "name": "席尔达",
+   "role": "总督"
+  },
+  {
+   "name": "绥色",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23215,
+ "page_range": "474-475"
+}

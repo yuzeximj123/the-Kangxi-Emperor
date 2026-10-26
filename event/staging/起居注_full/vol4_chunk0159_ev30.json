@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 8,
+ "day_text": "二十九日辛亥",
+ "event_role": "人事任免",
+ "summary": "兵部题满洲副都统伊勒慎员缺开列阿喇密等，康熙帝命阿哥王府长史黑硕色升补副都统。",
+ "people": [
+  {
+   "name": "伊勒慎",
+   "role": "满洲副都统"
+  },
+  {
+   "name": "阿喇密",
+   "role": "侍郎"
+  },
+  {
+   "name": "黑硕色",
+   "role": "阿哥王府长史，升补副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15930,
+ "page_range": "330-331"
+}

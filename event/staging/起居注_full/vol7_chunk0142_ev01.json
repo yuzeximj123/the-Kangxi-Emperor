@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝准马进良所题，补授马麟等古北口右营游击等缺，并留马守贵于古北口缺出补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马麟",
+   "role": "都司"
+  },
+  {
+   "name": "马守贵",
+   "role": "千总"
+  },
+  {
+   "name": "马进良",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14201,
+ "page_range": "295-296"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十五日庚午",
+ "event_role": "谕旨决策",
+ "summary": "工部议直隶巡抚于成龙奏各营送炮事，康熙帝以沿边道路险隘、居民甚少，命炮位仍留本处停其起送。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1520,
+ "page_range": "73-74"
+}

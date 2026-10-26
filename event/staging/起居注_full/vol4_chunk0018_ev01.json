@@ -1,0 +1,33 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝追问河道何处被坏，于成龙参奏靳辅偏听陈潢之言，分派柳枝累民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "大臣"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  },
+  {
+   "name": "陈潢",
+   "role": "幕僚"
+  }
+ ],
+ "places": [
+  "山东",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1801,
+ "page_range": "48-49"
+}

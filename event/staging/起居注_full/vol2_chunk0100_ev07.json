@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "二十日己雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙命勒德洪、明珠集议政王大臣等议加上徽号并传太皇太后谕，太皇太后初辞不受，经再三奏请方允照礼仪行。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "慈宁宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10007,
+ "page_range": "243-244"
+}

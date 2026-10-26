@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "初七日甲实",
+ "event_role": "人事任免",
+ "summary": "蔡钞茶题游击王振等行间效力有勤劳请召试录用，兵部议不准，康熙帝命依该督所请令其来京酌量补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王振",
+   "role": "游击"
+  },
+  {
+   "name": "王进宝",
+   "role": "标下官员所属将领"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11913,
+ "page_range": "281-282"
+}

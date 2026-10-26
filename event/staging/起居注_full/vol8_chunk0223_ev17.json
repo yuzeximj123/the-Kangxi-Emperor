@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院题御史内升外转，康熙帝命陈殊内升、田轩来外转。",
+ "people": [
+  {
+   "name": "陈殊",
+   "role": "御史"
+  },
+  {
+   "name": "田轩来",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22317,
+ "page_range": "457-458"
+}

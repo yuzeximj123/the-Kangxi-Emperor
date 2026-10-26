@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "二十一日庚午",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听部院各衙门官员面奏政事，部院官员退后，大学士、学士捧颁给新设巡仓御史敕书稿进呈御览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8000,
+ "page_range": "203-204"
+}

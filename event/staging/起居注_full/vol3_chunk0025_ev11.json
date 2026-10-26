@@ -1,0 +1,49 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "初四日",
+ "event_role": "人事任免",
+ "summary": "兵部题补台湾总兵官，康熙帝询问孙思克、杨文魁，最终命杨文魁补授台湾总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "孙思克",
+   "role": "总兵官"
+  },
+  {
+   "name": "杨文魁",
+   "role": "参领"
+  },
+  {
+   "name": "张勇",
+   "role": "提督"
+  },
+  {
+   "name": "巴泰",
+   "role": "原任都统"
+  },
+  {
+   "name": "张所知",
+   "role": "都统"
+  },
+  {
+   "name": "刘宗圣",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "台湾",
+  "秦地"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2511,
+ "page_range": "85-86"
+}

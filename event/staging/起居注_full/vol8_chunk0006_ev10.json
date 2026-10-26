@@ -1,0 +1,34 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "二十五日癸西",
+ "event_role": "司法案件",
+ "summary": "刑部等题邵文巍控告陶和气家人周三之子周启倩人代作文字中举属实，周三谋杀邵文卿应拟斩监候秋后处决。",
+ "people": [
+  {
+   "name": "邵文巍",
+   "role": "控告人"
+  },
+  {
+   "name": "陶和气",
+   "role": "官员"
+  },
+  {
+   "name": "周三",
+   "role": "陶和气家人"
+  },
+  {
+   "name": "周启",
+   "role": "周三之子"
+  },
+  {
+   "name": "邵文卿",
+   "role": "被害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 610,
+ "page_range": "23-24"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "二十四日戊戌",
+ "event_role": "祭祀典礼",
+ "summary": "日中晚刻二次上食时，康熙帝率随从王、贝勒、贝子、公、大臣、侍卫举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王",
+   "role": "宗室"
+  },
+  {
+   "name": "贝勒",
+   "role": "宗室"
+  },
+  {
+   "name": "贝子",
+   "role": "宗室"
+  },
+  {
+   "name": "公",
+   "role": "宗室"
+  },
+  {
+   "name": "大臣",
+   "role": "朝臣"
+  },
+  {
+   "name": "侍卫",
+   "role": "侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 628,
+ "page_range": "24-25"
+}

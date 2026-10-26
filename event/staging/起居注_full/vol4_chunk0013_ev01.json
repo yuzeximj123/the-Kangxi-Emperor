@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "已时康熙帝复御乾清门，两江总督董讷入见奏对河工事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董讷",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1301,
+ "page_range": "38-39"
+}

@@ -1,0 +1,23 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "初二日两子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论湖广陕西人多地少、百姓往四川开垦，四川荒田已尽开，按田起税可得钱粮三十余万两，国用已足不必苛求。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "陕西",
+  "四川",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3905,
+ "page_range": "89-90"
+}

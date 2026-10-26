@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "提督条奏海寇事，康熙帝称曾问张玉麒、蓝环，谓系内地逼海之人抢夺，并无海寇，命召两总兵官问明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉麒",
+   "role": "福宁州总兵官"
+  },
+  {
+   "name": "蓝环",
+   "role": "厦门总兵官"
+  }
+ ],
+ "places": [
+  "福宁州",
+  "厦门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3701,
+ "page_range": "85-86"
+}

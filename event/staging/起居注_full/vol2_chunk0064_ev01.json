@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补刑部侍郎，康熙帝谕令候补侍郎杜至补授此缺。",
+ "people": [
+  {
+   "name": "杜至",
+   "role": "候补侍郎，补授刑部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6401,
+ "page_range": "171-172"
+}

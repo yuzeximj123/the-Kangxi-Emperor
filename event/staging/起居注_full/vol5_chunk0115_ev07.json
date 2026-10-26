@@ -1,0 +1,34 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "十三日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙谕令扎萨克王台吉及喀尔喀王台吉俱驻扎一营，以科尔沁达尔汉王班第为总领照管。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  },
+  {
+   "name": "西喇",
+   "role": "侍郎"
+  },
+  {
+   "name": "喇锡",
+   "role": "侍读学士"
+  },
+  {
+   "name": "班第",
+   "role": "科尔沁达尔汉王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11507,
+ "page_range": "240-241"
+}

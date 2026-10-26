@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士王乒奏苦行清操之人难得，康熙帝称九卿保举之两淮盐运使张应诏操守亦好。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王乒",
+   "role": "大学士"
+  },
+  {
+   "name": "张应诏",
+   "role": "两淮盐运使"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12312,
+ "page_range": "257-258"
+}

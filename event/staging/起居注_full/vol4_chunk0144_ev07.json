@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "二十七日",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚郭世隆题请补授守道员缺，康熙称所奏为是。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "任现",
+   "role": "守道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14407,
+ "page_range": "300-301"
+}

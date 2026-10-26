@@ -1,0 +1,30 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "十三日辛已",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝分赐衍圣公孔航折、博士备贞仁、东野沛然等御书墨本。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孔航折",
+   "role": "衍圣公"
+  },
+  {
+   "name": "备贞仁",
+   "role": "博士"
+  },
+  {
+   "name": "东野沛然",
+   "role": "博士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5311,
+ "page_range": "118-119"
+}

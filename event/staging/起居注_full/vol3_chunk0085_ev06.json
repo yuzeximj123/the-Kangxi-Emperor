@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十八日戊子",
+ "event_role": "人事任免",
+ "summary": "内阁会同翰林院题庶子储振、郭葵员缺，选择论德顾江、侍读归允肃补授，康熙帝以所用多南人，命以北人参用，此二缺再行选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "储振",
+   "role": "庶子"
+  },
+  {
+   "name": "郭葵",
+   "role": "庶子"
+  },
+  {
+   "name": "顾江",
+   "role": "论德"
+  },
+  {
+   "name": "归允肃",
+   "role": "侍读"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8506,
+ "page_range": "205-206"
+}

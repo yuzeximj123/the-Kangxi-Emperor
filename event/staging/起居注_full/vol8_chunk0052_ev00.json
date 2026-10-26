@@ -1,0 +1,22 @@
+{
+ "reign_year": 53,
+ "month": 1,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝对噶礼案监禁待一年表示怀疑，认为凶徒不可再监禁一年，恐其希图侥幸，命本发回再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "涉案官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5200,
+ "page_range": "115-116"
+}

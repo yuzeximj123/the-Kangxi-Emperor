@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "三十日丁亥",
+ "event_role": "人事任免",
+ "summary": "吏部题补本部员外，康熙帝询问顾大位、金瑛才具，索额图称金瑛才优，康熙帝命补授金瑛此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "顾大位",
+   "role": "候缺拟补员外"
+  },
+  {
+   "name": "金瑛",
+   "role": "候缺拟陪员外"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25314,
+ "page_range": "563-564"
+}

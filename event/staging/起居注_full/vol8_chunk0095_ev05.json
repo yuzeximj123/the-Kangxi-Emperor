@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题大盗陈永兴等应即行正法，康熙令朱瑞龙即处斩，余俱减等发往黑龙江。",
+ "people": [
+  {
+   "name": "陈永兴",
+   "role": "大盗"
+  },
+  {
+   "name": "朱瑞龙",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9505,
+ "page_range": "201-202"
+}

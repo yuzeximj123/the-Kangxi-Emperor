@@ -1,0 +1,25 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "二十四日戊成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以德琳系满洲逃往山东胶州娶妻二三年地方官未查拿，令该抚将失察文武官拿送京师明审。",
+ "people": [
+  {
+   "name": "德琳",
+   "role": "罪犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "胶州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4218,
+ "page_range": "95-96"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十六日辛酉",
+ "event_role": "人事任免",
+ "summary": "吏部题刑部侍郎宋文运致仕员缺，康熙帝以副都御史马世济才具堪用，着即补授侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋文运",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "边声廷",
+   "role": "太仆寺卿"
+  },
+  {
+   "name": "马世济",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2311,
+ "page_range": "81-82"
+}

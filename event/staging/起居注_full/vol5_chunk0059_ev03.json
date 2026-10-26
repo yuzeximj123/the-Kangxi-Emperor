@@ -1,0 +1,25 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "十七日",
+ "event_role": "司法案件",
+ "summary": "理藩院题报盗马骆驼的杜尔伯特等八人拟斩，康熙帝谕令从宽免死，拿赴京城发往南方，并查拿其妻子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜尔伯特",
+   "role": "盗马骆驼案犯"
+  }
+ ],
+ "places": [
+  "京城",
+  "南方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5903,
+ "page_range": "128-129"
+}

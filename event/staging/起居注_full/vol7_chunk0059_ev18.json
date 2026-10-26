@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "初四日成申",
+ "event_role": "人事任免",
+ "summary": "吏部题都察院副都御史励杜讷员缺，开列王琐龄等职名，康熙帝命陈论补授副都御史。",
+ "people": [
+  {
+   "name": "励杜讷",
+   "role": "副都御史"
+  },
+  {
+   "name": "王琐龄",
+   "role": "宗人府府丞"
+  },
+  {
+   "name": "陈论",
+   "role": "补授副都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5918,
+ "page_range": "129-130"
+}

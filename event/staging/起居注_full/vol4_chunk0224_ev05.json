@@ -1,0 +1,28 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "初三日本丑",
+ "event_role": "人事任免",
+ "summary": "兵部题覆黑龙江将军萨布素疏，查库管理五处官屯有功，康熙帝准加二级令其回京。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "查库",
+   "role": "正白旗防御品级章京"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22405,
+ "page_range": "460-461"
+}

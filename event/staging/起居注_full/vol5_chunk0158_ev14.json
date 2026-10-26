@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十一日甲戌",
+ "event_role": "朝见受贺",
+ "summary": "延庆州知州武登科、永宁路守备张登第等来朝。",
+ "people": [
+  {
+   "name": "武登科",
+   "role": "延庆州知州"
+  },
+  {
+   "name": "张登第",
+   "role": "永宁路守备"
+  }
+ ],
+ "places": [
+  "延庆州",
+  "永宁路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15814,
+ "page_range": "326-327"
+}

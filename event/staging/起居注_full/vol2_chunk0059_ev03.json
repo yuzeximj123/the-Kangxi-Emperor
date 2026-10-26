@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "明珠奏该部已给一百九十万两又增拨二十万两，康熙以钱粮已足、伊凡前后请增三百余万两不合，命拟票严责。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "伊凡",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5903,
+ "page_range": "161-162"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十三日乙酉",
+ "event_role": "朝见受贺",
+ "summary": "紫荆关参将赵世泰、安肃县知县芒祖顺来朝。",
+ "people": [
+  {
+   "name": "赵世泰",
+   "role": "紫荆关参将"
+  },
+  {
+   "name": "芒祖顺",
+   "role": "安肃县知县"
+  }
+ ],
+ "places": [
+  "紫荆关",
+  "安肃县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7517,
+ "page_range": "161-162"
+}

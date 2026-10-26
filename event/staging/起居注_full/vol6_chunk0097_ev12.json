@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题关口守御琶多力抗违不遵丈量田亩议革职，康熙帝命会同盛京将军严加审拟。",
+ "people": [
+  {
+   "name": "琶多力",
+   "role": "关口守御"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9712,
+ "page_range": "204-205"
+}

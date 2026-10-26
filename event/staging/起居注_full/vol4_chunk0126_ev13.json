@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 7,
+ "day_text": "初九日戊戌",
+ "event_role": "人事任免",
+ "summary": "吏部题工部尚书张英转补员缺，康熙帝谕陈廷敬升补工部尚书，于成龙升补都察院左都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张英",
+   "role": "工部尚书"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "都察院左都御史升工部尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚升都察院左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12613,
+ "page_range": "264-265"
+}

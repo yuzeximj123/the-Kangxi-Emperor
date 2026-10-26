@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "二十三日辛卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝问总河王新命意见，王新命奏请支河口修一闸、骆马湖口作减水坝、修筑郑城县融王台以御水。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "支河口",
+  "骆马湖",
+  "郯城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5417,
+ "page_range": "120-121"
+}

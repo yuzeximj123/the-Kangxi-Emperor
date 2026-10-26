@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初五日辛已",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内洲宁居听政，吏部尚书富宁安等呈拟内阁撰文中书正白旗花善等员缺，拟正陪引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "富宁安",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "关福",
+   "role": "原任禁门笔帖式"
+  }
+ ],
+ "places": [
+  "畅春园内洲宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1900,
+ "page_range": "49-50"
+}

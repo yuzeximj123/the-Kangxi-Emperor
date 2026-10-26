@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "吏部题陕西学道江殴金等各省督抚题明称职，请照例开列请定一员内升京堂；康熙帝命问九卿。",
+ "people": [
+  {
+   "name": "江殴金",
+   "role": "陕西学道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1621,
+ "page_range": "43-44"
+}

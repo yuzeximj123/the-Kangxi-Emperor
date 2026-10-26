@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "督捕衙门左理事官王承祖升任员缺，将右理事官张鹏副转左，通政司参议劳之辩补授右理事官。",
+ "people": [
+  {
+   "name": "王承祖",
+   "role": "督捕衙门左理事官"
+  },
+  {
+   "name": "张鹏副",
+   "role": "右理事官"
+  },
+  {
+   "name": "劳之辩",
+   "role": "通政司参议"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24000,
+ "page_range": "515-516"
+}

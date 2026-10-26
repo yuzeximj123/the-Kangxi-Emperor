@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "十四日乙丑",
+ "event_role": "军务",
+ "summary": "兵部覆广东将军王永誉题请将尚之信所属人员编为十五佐领拨入上三旗，康熙帝令查原报丁册来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王永誉",
+   "role": "广东将军"
+  },
+  {
+   "name": "尚之信",
+   "role": "原藩王"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6704,
+ "page_range": "177-178"
+}

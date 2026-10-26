@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 1,
+ "day_text": "初九日丁刻",
+ "event_role": "谕旨决策",
+ "summary": "诸王、贝勒、贝子、公等满汉大臣奏请康熙帝暂停亲祭天地、祈谷坛，遣官代祭，康熙帝谕以郊天祭地乃己之事，必亲祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傻子",
+   "role": "治仪正"
+  },
+  {
+   "name": "双全",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7,
+ "page_range": "11-12"
+}

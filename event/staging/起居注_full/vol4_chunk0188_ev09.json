@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": "十二日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "南阳总兵官史孔笔奏请病后留亲丁百名于本标食粮，康熙帝念其西边效力，命病故后家口给引回籍、亲丁仍于镇标食粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "史孔笔",
+   "role": "南阳总兵官"
+  }
+ ],
+ "places": [
+  "南阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18809,
+ "page_range": "388-389"
+}

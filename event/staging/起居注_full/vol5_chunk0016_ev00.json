@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论某人性情暴戾，因拆毁民房、严责放花爆之民等事，询问和尔等是否知其行事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "和尔等",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1600,
+ "page_range": "42-43"
+}

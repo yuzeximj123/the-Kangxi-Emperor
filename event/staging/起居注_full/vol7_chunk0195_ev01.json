@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初七日王辰",
+ "event_role": "其他",
+ "summary": "康熙帝赐西安副都统杨长泰较马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨长泰",
+   "role": "西安副都统"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19501,
+ "page_range": "401-402"
+}

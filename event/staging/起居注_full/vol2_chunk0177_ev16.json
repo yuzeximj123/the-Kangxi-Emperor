@@ -1,0 +1,33 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十三日乙卯",
+ "event_role": "人事任免",
+ "summary": "江南督抚荐举江苏布政使丁思孔，部议钱粮未完不准，康熙帝以其勤慎有声准为卓异。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "丁思孔",
+   "role": "江苏布政使"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南",
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17716,
+ "page_range": "397-398"
+}

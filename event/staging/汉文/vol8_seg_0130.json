@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十七年閏八月二十二日",
+ "reign_year": 57,
+ "month": null,
+ "day": 22,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州、扬州雨水调匀，各路庄农已秋收，年景十分，并报米价上号九钱、次号七钱五分。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人，自称奴才"
+  }
+ ],
+ "places": [
+  "福州",
+  "扬州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報江防同知移駐三江營等情",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2698",
+ "order_index": 130
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十六年十二月十三日",
+ "reign_year": 56,
+ "month": 12,
+ "day": 13,
+ "event_role": "奏报地方情形",
+ "summary": "江西巡抚白潢奏报省城及各府属十月二十六七等日降雪，积雪四五寸至五六寸不等，百姓欢悦，并遣把总王定祥赍摺奏闻。",
+ "people": [
+  {
+   "name": "白潢",
+   "role": "江西巡抚，奏报人"
+  },
+  {
+   "name": "王定祥",
+   "role": "标下把总，赍捧奏摺之人"
+  }
+ ],
+ "places": [
+  "江西",
+  "省城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "江西巡撫白潢奏為地方得雪情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2555",
+ "order_index": 10
+}

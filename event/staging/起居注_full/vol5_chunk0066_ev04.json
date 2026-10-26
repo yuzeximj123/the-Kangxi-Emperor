@@ -1,0 +1,23 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "十三日甲成",
+ "event_role": "河工水利",
+ "summary": "康熙帝阅视新修的页儿渡、小王家甫、西王家甫、大王家甫堤岸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "页儿渡",
+  "小王家甫",
+  "西王家甫",
+  "大王家甫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6604,
+ "page_range": "142-143"
+}

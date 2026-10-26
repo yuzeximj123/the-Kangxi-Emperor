@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝指出常平仓日久弊生，各省所积米谷多无实贮，遇饥荒难以实济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3105,
+ "page_range": "72-73"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初八日甲子",
+ "event_role": "人事任免",
+ "summary": "内阁侍读学士员缺，康熙帝询问监察御史范承勋学问，命考试应升官员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "范承勋",
+   "role": "监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 203,
+ "page_range": "47-48"
+}

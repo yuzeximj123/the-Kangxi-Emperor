@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "十一日甲子",
+ "event_role": "其他",
+ "summary": "康熙帝赐良乡县防守御胡什巴马、防御麻色等马匹及兵丁每人银各三两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡什巴马",
+   "role": "良乡县防守御"
+  },
+  {
+   "name": "麻色",
+   "role": "防御"
+  }
+ ],
+ "places": [
+  "良乡县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20720,
+ "page_range": "425-426"
+}

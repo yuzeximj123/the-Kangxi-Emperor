@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十九年閏七月初二日",
+ "reign_year": 49,
+ "month": null,
+ "day": null,
+ "event_role": "贸易漕运",
+ "summary": "直隶巡抚赵弘燮奏报因河南秋收歉收、入冬阴雨路难行致粮商减少米价未平，请将放官米之期暂改至十二月一次以平抑京城米价。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏报人"
+  }
+ ],
+ "places": [
+  "保定",
+  "河南",
+  "京城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并指示须严禁烧锅（酿酒耗粮）。",
+ "source_title": "江寧織造曹寅奏請聖安並報雨水及米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "706",
+ "order_index": 261
+}

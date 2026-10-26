@@ -1,0 +1,49 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "event_role_note": null,
+ "summary": "大学士等遵旨就顺天府尹员缺，以钱晋锡等二十人引见，康熙询问人选。",
+ "people": [
+  {
+   "name": "钱晋锡",
+   "role": "候选官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "刘光美",
+   "role": "汉军官员"
+  },
+  {
+   "name": "萧永藻",
+   "role": "官员"
+  },
+  {
+   "name": "赵世芳",
+   "role": "被保举官员"
+  },
+  {
+   "name": "甘国枢",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14300,
+ "page_range": "296-297"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十三年十一月二十六日",
+ "reign_year": 53,
+ "month": 11,
+ "day": 26,
+ "event_role": "收到奏折",
+ "summary": "苏州织造李煦奏报差满自扬州起身进京复命，并代初次具折的新任盐臣李陈常差家人进呈奏折。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "李陈常",
+   "role": "新任盐臣"
+  }
+ ],
+ "places": [
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏為進京復命並著家人進呈李陳常奏摺摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1690",
+ "order_index": 332
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "十九日丙寅",
+ "event_role": "人事任免",
+ "summary": "福建将军马九玉自请罢职，议政王大臣会议准其解任归族，康熙帝以其曾哭劝耿精忠、归正后效力甚多，命以原官解任来京。",
+ "people": [
+  {
+   "name": "马九玉",
+   "role": "福建将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "耿精忠",
+   "role": "叛臣"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12116,
+ "page_range": "285-286"
+}

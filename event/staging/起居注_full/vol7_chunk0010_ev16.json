@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "二十日辛丑",
+ "event_role": "人事任免",
+ "summary": "覆直隶巡抚李光地题请以知县高茂宣补授漳河同知，议不准行，康熙帝特命高茂宣补授同知。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "高茂宣",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "漳河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1016,
+ "page_range": "31-32"
+}

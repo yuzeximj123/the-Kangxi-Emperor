@@ -1,0 +1,36 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "两江总督傅腊塔题高邮州士民商贾呈请知州谢廷瑞留任，康熙询问王掞、李楠后，以谢廷瑞居官好，命照总督所题留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "两江总督"
+  },
+  {
+   "name": "谢廷瑞",
+   "role": "高邮州知州"
+  },
+  {
+   "name": "王掞",
+   "role": "奏对官员"
+  },
+  {
+   "name": "李楠",
+   "role": "奏对官员"
+  }
+ ],
+ "places": [
+  "高邮州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2804,
+ "page_range": "66-67"
+}

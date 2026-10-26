@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命以汉字询问现到朝鲜国人及奉天、船厂将军，查明岛梦金曙足、岛沙也叱九味等地或近金州或近何处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "金州",
+  "岛梦金曙足",
+  "岛沙也叱九味"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15403,
+ "page_range": "319-320"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "十四日癸亥",
+ "event_role": "谕旨决策",
+ "summary": "萨木哈条奏停补八旗兵丁、裁减绿旗兵，户部议覆，康熙帝以绿旗裁兵恐生乱，命云南底定后差大臣查明裁汰，本留中。",
+ "people": [
+  {
+   "name": "萨木哈",
+   "role": "左都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7812,
+ "page_range": "199-200"
+}

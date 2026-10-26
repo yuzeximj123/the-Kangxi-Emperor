@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十三日甲拱",
+ "event_role": "人事任免",
+ "summary": "兵部题补盛京副都统佟宝升任员缺，康熙帝命以护军参领保定补授副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟宝",
+   "role": "盛京副都统"
+  },
+  {
+   "name": "保定",
+   "role": "护军参领"
+  },
+  {
+   "name": "色赫",
+   "role": "吏部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6418,
+ "page_range": "163-164"
+}

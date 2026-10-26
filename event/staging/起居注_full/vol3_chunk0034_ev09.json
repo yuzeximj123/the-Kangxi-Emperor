@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "初十日甲成",
+ "event_role": "其他",
+ "summary": "康熙帝赐公嘲尔马、参领品级章京阿芜等八人缎袍外套，副章京阿玉西等二十二人缎匹，护军校兵丁及御塘官兵绸缎银两布匹有差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "嘲尔马",
+   "role": "公"
+  },
+  {
+   "name": "阿芜",
+   "role": "参领品级章京"
+  },
+  {
+   "name": "阿玉西",
+   "role": "副章京"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3409,
+ "page_range": "103-104"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "十六日乙本",
+ "event_role": "军务",
+ "summary": "兵部尚书席尔达奏请自浙江以北六站拨浙省满兵设塘随行，康熙帝令不必设兵扈从，并谕勿损麦田、百姓聚观不必禁止。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "存住",
+   "role": "奏事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "京口",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8313,
+ "page_range": "176-177"
+}

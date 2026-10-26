@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "十一日丁亥",
+ "event_role": "其他",
+ "summary": "康熙帝赐护军统领宗室札尔图、副都统厄衣图马各一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "札尔图",
+   "role": "护军统领宗室"
+  },
+  {
+   "name": "厄衣图",
+   "role": "副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2013,
+ "page_range": "51-52"
+}

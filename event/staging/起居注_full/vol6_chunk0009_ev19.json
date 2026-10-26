@@ -1,0 +1,41 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": "二十二日已已",
+ "event_role": "人事任免",
+ "summary": "兵部题黑龙江左翼副都统拉子员缺，康熙帝以关保年壮人优且本地人易管辖，命升补副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "陶贷",
+   "role": "侍郎"
+  },
+  {
+   "name": "关保",
+   "role": "防守御"
+  },
+  {
+   "name": "萨布素",
+   "role": "前将军"
+  },
+  {
+   "name": "拉子",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "博尔得城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 919,
+ "page_range": "28-29"
+}

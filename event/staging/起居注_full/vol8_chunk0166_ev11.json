@@ -1,0 +1,29 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "二十二日成实",
+ "event_role": "朝见受贺",
+ "summary": "遵化州知州刘之琨、游击赵国民、罗文峪防御张武等前来朝见。",
+ "people": [
+  {
+   "name": "刘之琨",
+   "role": "知州"
+  },
+  {
+   "name": "赵国民",
+   "role": "游击"
+  },
+  {
+   "name": "张武",
+   "role": "防御"
+  }
+ ],
+ "places": [
+  "遵化州",
+  "罗文峪"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16611,
+ "page_range": "343-344"
+}

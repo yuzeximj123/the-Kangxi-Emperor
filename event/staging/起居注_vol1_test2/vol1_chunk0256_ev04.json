@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "初十日丁西",
+ "event_role": "谕旨决策",
+ "summary": "浙江巡抚李本晨题福建大兵所乘浙省船只递换事，康熙帝命再议酌量交换以免迟误扰累。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李本晨",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25604,
+ "page_range": "569-570"
+}

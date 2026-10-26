@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 7,
+ "day_text": "十九日本丑",
+ "event_role": "其他",
+ "summary": "康熙帝赐巴林王、翁牛特部落杜棱王牛五头、羊五十五只。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴林王",
+   "role": "蒙古王公"
+  },
+  {
+   "name": "杜棱王",
+   "role": "翁牛特部落王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10009,
+ "page_range": "235-236"
+}

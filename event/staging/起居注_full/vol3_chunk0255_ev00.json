@@ -1,0 +1,25 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": "初一日乙巳",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝因太皇太后圣体违和，亲率诸王贝勒及文武官员自乾清宫步至天坛致祭，祈求太皇太后万安，读祝时涕泪交颐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "受祭祈福对象"
+  }
+ ],
+ "places": [
+  "乾清宫",
+  "天坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25500,
+ "page_range": "545-546"
+}

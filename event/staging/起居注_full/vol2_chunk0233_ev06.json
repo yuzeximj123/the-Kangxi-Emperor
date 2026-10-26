@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十四日辛酉",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听部院官员面奏政事，议御史噶尔泰条奏张家口添设章京等，命议政王大臣会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "噶尔泰",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23306,
+ "page_range": "509-510"
+}

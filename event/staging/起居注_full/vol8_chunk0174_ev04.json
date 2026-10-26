@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以翰林院学士紧要，命浙江巡抚徐元梦补授都察院左都御史兼翰林院学士，并问九卿。",
+ "people": [
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17404,
+ "page_range": "359-360"
+}

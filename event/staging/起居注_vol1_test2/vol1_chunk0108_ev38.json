@@ -1,0 +1,24 @@
+{
+ "reign_year": 15,
+ "month": 1,
+ "day_text": "二十一日甲搬",
+ "event_role": "朝见受贺",
+ "summary": "是日，拱极城都司金书复国柱、千总薛光德来朝。",
+ "people": [
+  {
+   "name": "复国柱",
+   "role": "拱极城都司金书"
+  },
+  {
+   "name": "薛光德",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "拱极城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10838,
+ "page_range": "273-274"
+}

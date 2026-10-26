@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "大学士马齐等以浙江巡抚朱轼参中式举人陈凤翰代倩作文一事遵旨问九卿，九卿请行文该督查实具奏，康熙帝依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "朱轼",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "陈凤翰",
+   "role": "中式举人"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21905,
+ "page_range": "449-450"
+}

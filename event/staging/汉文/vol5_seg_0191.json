@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十三年四月十八日",
+ "reign_year": 53,
+ "month": 4,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "两广总督赵弘灿奏报广东自春入夏雨水调匀、田禾丰盛、米价每石九钱至一两有零，广西河水涨满但未成灾，并请皇上圣安。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督，奏报人"
+  },
+  {
+   "name": "刘士杰",
+   "role": "赵弘灿家人，专差递摺者"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "京师",
+  "通州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "兩廣總督趙弘燦奏報雨水米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1554",
+ "order_index": 191
+}

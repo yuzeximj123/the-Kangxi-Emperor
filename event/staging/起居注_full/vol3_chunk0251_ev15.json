@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": "初九日甲申",
+ "event_role": "人事任免",
+ "summary": "明珠奏问索诺和称索济良常，康熙帝以索济庸常命解大理寺任，以原品补用旗缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "索诺和",
+   "role": "大理寺卿"
+  },
+  {
+   "name": "索济",
+   "role": "大理寺少卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25115,
+ "page_range": "537-538"
+}

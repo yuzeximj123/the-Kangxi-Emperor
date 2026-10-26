@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 9,
+ "day_text": "十七日己酉",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门覆吏部尚书张鹏翮所题原任江苏巡抚张伯行一案（原文未完）。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "张伯行",
+   "role": "原任江苏巡抚"
+  }
+ ],
+ "places": [
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10633,
+ "page_range": "223-224"
+}

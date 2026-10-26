@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十四日辛巳",
+ "event_role": "人事任免",
+ "summary": "吏部题补光禄寺卿荣国神解任员缺，康熙帝从明珠议，命内升布政使蘑柱斗补授。",
+ "people": [
+  {
+   "name": "荣国神",
+   "role": "光禄寺卿"
+  },
+  {
+   "name": "陈寿",
+   "role": "左通政"
+  },
+  {
+   "name": "徐元瑞",
+   "role": "右通政"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "蘑柱斗",
+   "role": "布政使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23919,
+ "page_range": "521-522"
+}

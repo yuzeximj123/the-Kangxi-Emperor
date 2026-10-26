@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 6,
+ "day_text": "二十一日庚辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补原任大学士兼管翰林院掌院学士徐元文员缺，康熙帝命张英兼管翰林院事。",
+ "people": [
+  {
+   "name": "徐元文",
+   "role": "原任大学士兼管翰林院掌院学士"
+  },
+  {
+   "name": "张英",
+   "role": "尚书"
+  },
+  {
+   "name": "张玉书",
+   "role": "尚书"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12503,
+ "page_range": "262-263"
+}

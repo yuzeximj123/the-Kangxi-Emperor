@@ -1,0 +1,30 @@
+{
+ "reign_year": 53,
+ "month": 3,
+ "day_text": "初九日",
+ "event_role": "人事任免",
+ "summary": "都察院题两浙盐差开列监察御史常保等，康熙帝命问九卿举出如李陈常者，并令长芦河东等处亦举清廉能员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常保",
+   "role": "监察御史"
+  },
+  {
+   "name": "李陈常",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "两浙",
+  "长芦",
+  "河东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5606,
+ "page_range": "123-124"
+}

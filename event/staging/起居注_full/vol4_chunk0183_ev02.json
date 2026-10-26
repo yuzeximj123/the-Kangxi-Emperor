@@ -1,0 +1,34 @@
+{
+ "reign_year": 31,
+ "month": 1,
+ "day_text": "二十九日己卯",
+ "event_role": "弹劾参奏",
+ "summary": "大学士伊桑阿、阿兰泰、王熙、张玉书同汉九卿以熊赐履看阅《明史》议论偏颇，具折题参。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "被参者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18302,
+ "page_range": "378-379"
+}

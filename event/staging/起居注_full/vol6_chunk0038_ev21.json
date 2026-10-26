@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": "初十日甲寅",
+ "event_role": "人事任免",
+ "summary": "西安副都统年昌安赴任请训旨，康熙帝谕其听博济指授协谋从事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "年昌安",
+   "role": "西安副都统"
+  },
+  {
+   "name": "博济",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3821,
+ "page_range": "86-87"
+}

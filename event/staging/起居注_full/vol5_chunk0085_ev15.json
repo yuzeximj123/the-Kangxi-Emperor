@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "十七日丙午",
+ "event_role": "其他",
+ "summary": "康熙帝赐江宁将军鄂罗顺马箭、撒袋、蟒级、披领。",
+ "people": [
+  {
+   "name": "鄂罗顺",
+   "role": "江宁将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8515,
+ "page_range": "180-181"
+}

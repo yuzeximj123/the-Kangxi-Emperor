@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "二十一日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "伍什八、伊锡泰请面论山西边耀山开采银矿事，康熙帝令详察来奏并严禁恶棍借端妄行。",
+ "people": [
+  {
+   "name": "伍什八",
+   "role": "户部郎中"
+  },
+  {
+   "name": "伊锡泰",
+   "role": "员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西边耀山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14702,
+ "page_range": "337-338"
+}

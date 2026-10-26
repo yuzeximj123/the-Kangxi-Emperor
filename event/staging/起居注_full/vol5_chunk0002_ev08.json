@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝责于成龙昔言靳辅糜费、今却照靳辅所修而行，于成龙自认从前无知妄奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "靳辅",
+   "role": "前总河"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 208,
+ "page_range": "14-15"
+}

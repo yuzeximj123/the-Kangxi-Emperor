@@ -1,0 +1,60 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "二十五日成辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门，大学士伊桑阿、梁清标及学士齐色等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "齐色",
+   "role": "学士"
+  },
+  {
+   "name": "卢琦",
+   "role": "学士"
+  },
+  {
+   "name": "觉罗老拜",
+   "role": "学士"
+  },
+  {
+   "name": "赵山",
+   "role": "学士"
+  },
+  {
+   "name": "石文桂",
+   "role": "学士"
+  },
+  {
+   "name": "拜礼",
+   "role": "学士"
+  },
+  {
+   "name": "阿喇密",
+   "role": "学士"
+  },
+  {
+   "name": "王封汉",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1120,
+ "page_range": "34-35"
+}

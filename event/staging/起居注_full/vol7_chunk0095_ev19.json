@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "十八日本未",
+ "event_role": "朝见受贺",
+ "summary": "霸州驻防协领二济图、知州刘天观、游击林达来朝。",
+ "people": [
+  {
+   "name": "二济图",
+   "role": "霸州驻防协领"
+  },
+  {
+   "name": "刘天观",
+   "role": "霸州知州"
+  },
+  {
+   "name": "林达",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9519,
+ "page_range": "201-202"
+}

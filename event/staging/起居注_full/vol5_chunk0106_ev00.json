@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将奏事敦住转奏的关于大军至喀伦炮位迟延一事交议政大臣收贮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "喀伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10600,
+ "page_range": "222-223"
+}

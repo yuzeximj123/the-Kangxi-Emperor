@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕吏户兵工四部，说明因黄淮两河关系运道民生，将轻装南下亲阅河工，并严禁沿途供帐科派、馈遗生事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河臣"
+  }
+ ],
+ "places": [
+  "徐州",
+  "黄淮",
+  "海口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3101,
+ "page_range": "73-74"
+}

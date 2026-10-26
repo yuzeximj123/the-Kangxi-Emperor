@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "十六日丙申",
+ "event_role": "其他",
+ "summary": "康熙帝赐西安副都统阿兰台、祖良强鞍马各一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰台",
+   "role": "西安副都统"
+  },
+  {
+   "name": "祖良强",
+   "role": "西安副都统"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17707,
+ "page_range": "366-367"
+}

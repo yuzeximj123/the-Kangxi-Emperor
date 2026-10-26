@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十日甲辰",
+ "event_role": "人事任免",
+ "summary": "都察院题两浙盐差开列监察御史温达等，明珠等奏都御史佛伦等公举温达、图纳哈、马光、刘光美。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "监察御史"
+  },
+  {
+   "name": "图纳哈",
+   "role": "官员"
+  },
+  {
+   "name": "马光",
+   "role": "官员"
+  },
+  {
+   "name": "刘光美",
+   "role": "官员"
+  },
+  {
+   "name": "佛伦",
+   "role": "都御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15504,
+ "page_range": "345-346"
+}

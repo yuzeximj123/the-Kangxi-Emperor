@@ -1,0 +1,22 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "二十七日",
+ "event_role": "起居注官记录",
+ "summary": "记录本日起居注官为傅继祖、席米图。",
+ "people": [
+  {
+   "name": "傅继祖",
+   "role": "起居注官"
+  },
+  {
+   "name": "席米图",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18625,
+ "page_range": "384-385"
+}

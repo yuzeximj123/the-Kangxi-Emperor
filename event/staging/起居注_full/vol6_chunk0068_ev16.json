@@ -1,0 +1,22 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初十日庚戌",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门覆奏竹天锡刺杀张乃文拟秋后处决，康熙帝以竹天锡跟随三世似家奴，命发回刑部再行确拟，并谕妇人非正犯不必拘审。",
+ "people": [
+  {
+   "name": "竹天锡",
+   "role": "案犯"
+  },
+  {
+   "name": "张乃文",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6816,
+ "page_range": "146-147"
+}

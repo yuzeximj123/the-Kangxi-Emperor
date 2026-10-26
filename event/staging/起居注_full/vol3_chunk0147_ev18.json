@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初十日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称苏州巡抚汤斌居官廉洁、可大用，命会同九卿议奏，并传谕整饬詹事府官员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "苏州巡抚"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14718,
+ "page_range": "329-330"
+}

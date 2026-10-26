@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "初四日乙丑",
+ "event_role": "人事任免",
+ "summary": "总督范承勋题降调之凤阳府知府沈进居官清廉乞留任，部议不允，康熙帝照所请准其留任。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "总督"
+  },
+  {
+   "name": "沈进",
+   "role": "凤阳府知府"
+  }
+ ],
+ "places": [
+  "凤阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6509,
+ "page_range": "140-141"
+}

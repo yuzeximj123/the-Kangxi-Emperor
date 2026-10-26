@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "二十四日戊成",
+ "event_role": "司法案件",
+ "summary": "刑部题窃盗孙四等屡次抢夺商人银两并捆缚塞口，拟斩监候等，康熙帝以其可恶令照大盗例另议具奏。",
+ "people": [
+  {
+   "name": "孙四",
+   "role": "窃盗首犯"
+  },
+  {
+   "name": "五十一",
+   "role": "从犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4219,
+ "page_range": "95-96"
+}

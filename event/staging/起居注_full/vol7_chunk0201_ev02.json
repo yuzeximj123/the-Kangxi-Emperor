@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "温达等遵旨询问九卿补授浙江粮道员缺人选，九卿荐湖州府知府陈一殴、平阳府知府孔兴天、广西桂林府知府张棠，康熙命陈一殴升补浙江粮道。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "陈一殴",
+   "role": "湖州府知府"
+  },
+  {
+   "name": "孔兴天",
+   "role": "平阳府知府"
+  },
+  {
+   "name": "张棠",
+   "role": "广西桂林府知府"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20102,
+ "page_range": "413-414"
+}

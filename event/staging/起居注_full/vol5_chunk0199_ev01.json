@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "宁夏总兵官王化行口奏，谢恩并称所部官兵盔甲器械全备，请康熙帝阅视，又请于花马池行围猎兽。",
+ "people": [
+  {
+   "name": "王化行",
+   "role": "宁夏总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "花马池"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19901,
+ "page_range": "408-409"
+}

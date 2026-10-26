@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "二十八日乙丁",
+ "event_role": "起居注官记录",
+ "summary": "记录随从起居注官为法良、搂氢。",
+ "people": [
+  {
+   "name": "法良",
+   "role": "起居注官"
+  },
+  {
+   "name": "搂氢",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20103,
+ "page_range": "412-413"
+}

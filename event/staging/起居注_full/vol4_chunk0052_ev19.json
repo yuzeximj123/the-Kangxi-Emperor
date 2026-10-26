@@ -1,0 +1,38 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "初九日丁丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕马齐等，恐有司派民修路烦劳百姓，命通行严禁，马齐等议请令督抚严饬地方官停止修治，奉旨依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "都御史"
+  },
+  {
+   "name": "天拜",
+   "role": "侍郎"
+  },
+  {
+   "name": "凯音布",
+   "role": "学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  },
+  {
+   "name": "西安泰",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5219,
+ "page_range": "116-117"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "十一日乙雍",
+ "event_role": "弹劾参奏",
+ "summary": "安徽巡抚李锁遵旨回奏，康熙帝以其染病不堪理事，命察议具奏。",
+ "people": [
+  {
+   "name": "李锁",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13910,
+ "page_range": "288-289"
+}

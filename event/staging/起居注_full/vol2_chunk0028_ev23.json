@@ -1,0 +1,33 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十三日戊成",
+ "event_role": "司法案件",
+ "summary": "护军毕露津因四川盘龙山失陷妻改嫁来色，还京控告求复还其妻，康熙帝命给银另娶，令拟票签再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "毕露津",
+   "role": "护军"
+  },
+  {
+   "name": "来色",
+   "role": "娶毕露津妻者"
+  }
+ ],
+ "places": [
+  "四川",
+  "盘龙山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2823,
+ "page_range": "99-100"
+}

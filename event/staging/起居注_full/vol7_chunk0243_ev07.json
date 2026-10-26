@@ -1,0 +1,34 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅沙木巴醉后与沙克都尔争执被踢死、其家人喀尔马被捆绑杀死案，以事已年久姑免勾。",
+ "people": [
+  {
+   "name": "沙木巴",
+   "role": "死者"
+  },
+  {
+   "name": "沙克都尔",
+   "role": "案犯"
+  },
+  {
+   "name": "喀尔马",
+   "role": "死者/沙木巴家人"
+  },
+  {
+   "name": "阿育席",
+   "role": "帮凶"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24307,
+ "page_range": "497-498"
+}

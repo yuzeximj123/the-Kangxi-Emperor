@@ -1,0 +1,26 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿奏九卿议靳辅治河有裨益，康熙帝命给予靳辅谥号。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "靳辅",
+   "role": "治河官员，予谥"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22003,
+ "page_range": "452-453"
+}

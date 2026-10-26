@@ -1,0 +1,37 @@
+{
+ "reign_year": 32,
+ "month": 11,
+ "day_text": "十七日再辰",
+ "event_role": "谕旨决策",
+ "summary": "吏部题苏州府知府卢腾龙等未完运官粮事，康熙帝斥推委掩饰，命交都察院严加察议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "卢腾龙",
+   "role": "苏州府知府"
+  },
+  {
+   "name": "杜立本",
+   "role": "访州府知府"
+  },
+  {
+   "name": "姚应凤",
+   "role": "苏州府同知"
+  }
+ ],
+ "places": [
+  "苏州府",
+  "访州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24807,
+ "page_range": "508-509"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "松柱等以陈耽荐举文武官员问九卿，九卿保举知州高铎、千总黄曾荣等居官好，康熙帝命交该部于贤能官员内记名。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "陈耽",
+   "role": "官员"
+  },
+  {
+   "name": "高铎",
+   "role": "知州"
+  },
+  {
+   "name": "许湄",
+   "role": "知县"
+  },
+  {
+   "name": "庄清度",
+   "role": "通判"
+  },
+  {
+   "name": "黄曾荣",
+   "role": "千总"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13702,
+ "page_range": "285-286"
+}

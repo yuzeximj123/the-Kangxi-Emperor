@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十八年十二月十六日",
+ "reign_year": 58,
+ "month": 12,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "山东巡抚李树德向康熙帝请安，康熙朱批报安并告诫其效法前任巡抚的好名声，留心任事。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "前任抚臣",
+   "role": "前任山东巡抚（未具名）"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝报平安，并称前任巡抚声名甚好，命李树德留心效法其行事。",
+ "source_title": "山東巡撫李樹德奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2838",
+ "order_index": 230
+}

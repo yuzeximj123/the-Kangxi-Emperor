@@ -1,0 +1,42 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝命张便及皇三子、皇四子、皇五子、皇七子、皇八子同射，中四箭三箭不等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张便",
+   "role": "官员"
+  },
+  {
+   "name": "皇三子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇四子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇五子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇七子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇八子",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23607,
+ "page_range": "507-508"
+}

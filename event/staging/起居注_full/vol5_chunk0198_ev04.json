@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "康熙率侍卫等射箭，又令副将刘官统等射；马武传谕兵部记博罗营守备段佳德之名，并赐鄂尔多斯蒙古白金。",
+ "people": [
+  {
+   "name": "刘官统",
+   "role": "副将"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "段佳德",
+   "role": "博罗营守备"
+  }
+ ],
+ "places": [
+  "博罗营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19804,
+ "page_range": "406-407"
+}

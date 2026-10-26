@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论风闻言事系明末陋习，若开此例恐不肖言官借端挟制、颠倒是非，言官得人则所言自当理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "左都御史"
+  },
+  {
+   "name": "赵祥星",
+   "role": "被参官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19012,
+ "page_range": "437-438"
+}

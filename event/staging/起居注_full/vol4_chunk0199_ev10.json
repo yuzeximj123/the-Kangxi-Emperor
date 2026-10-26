@@ -1,0 +1,32 @@
+{
+ "reign_year": 31,
+ "month": 6,
+ "day_text": "初二日庚辰",
+ "event_role": "奏报灾情收成",
+ "summary": "兵部尚书索诺和、内学士德珠回奏查勘山陕灾情，报西安雨少、山西麦获及米价民情。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索诺和",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "德珠",
+   "role": "内学士"
+  }
+ ],
+ "places": [
+  "西安",
+  "山西",
+  "平阳府",
+  "宁夏",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19910,
+ "page_range": "410-411"
+}

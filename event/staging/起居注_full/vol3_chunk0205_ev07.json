@@ -1,0 +1,21 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "二十八日戊寅",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝因岁暮亲往太庙致祭，完毕后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20507,
+ "page_range": "445-446"
+}

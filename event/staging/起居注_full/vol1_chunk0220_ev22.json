@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初九日己巳",
+ "event_role": "人事任免",
+ "summary": "康熙帝议补授日讲官，强调讲官职掌紧要须选学问优长者，询问索额图等所开各员，索额图荐阿哈达有才干。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "阿哈达",
+   "role": "被荐者"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22022,
+ "page_range": "497-498"
+}

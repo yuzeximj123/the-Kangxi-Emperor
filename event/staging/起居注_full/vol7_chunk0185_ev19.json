@@ -1,0 +1,36 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "二十日丙午",
+ "event_role": "司法案件",
+ "summary": "覆请刑部等衙门所题盛京镶白旗老格佐领下隆生告姚二道私采人参追银一案。",
+ "people": [
+  {
+   "name": "隆生",
+   "role": "镶白旗老格佐领下人"
+  },
+  {
+   "name": "姚二道",
+   "role": "隆生伯父"
+  },
+  {
+   "name": "传思库",
+   "role": "笔帖式"
+  },
+  {
+   "name": "彭寿",
+   "role": "脱逃人"
+  },
+  {
+   "name": "傅色纳",
+   "role": "章京"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18519,
+ "page_range": "381-382"
+}

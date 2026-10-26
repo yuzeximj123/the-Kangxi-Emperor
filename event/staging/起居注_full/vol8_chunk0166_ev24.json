@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "二十九日乙本",
+ "event_role": "弹劾参奏",
+ "summary": "户部覆御史上赂图参大兴、宛平二县知县隐匿铺面房租侵蚀事，帝令交户部、顺天府尹会同查明议奏。",
+ "people": [
+  {
+   "name": "上赂图",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "大兴",
+  "宛平"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16624,
+ "page_range": "343-344"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝述自西宁、江南、陕西回来之人所言沿途禾苗茂盛，惟真定稍有积水，黄河水比往年洪大。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福纳",
+   "role": "侍讲学士，自陕西运米回来"
+  }
+ ],
+ "places": [
+  "西宁",
+  "江南",
+  "京",
+  "真定",
+  "陕西",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3110,
+ "page_range": "72-73"
+}

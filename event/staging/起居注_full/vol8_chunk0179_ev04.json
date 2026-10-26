@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "大学士马齐等将保善议罪之处问九卿及赵申乔，康熙帝命本发还再议，并增入保善并非满洲之语。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "保善",
+   "role": "涉案人员"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17904,
+ "page_range": "369-370"
+}

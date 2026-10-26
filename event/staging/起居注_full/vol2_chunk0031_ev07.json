@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "二十二日本未",
+ "event_role": "军务",
+ "summary": "云贵总督赵良栋题请以陕西兵补总兵朱衣客缺额，康熙帝以大军已进取云南、补额不及用，令赵良栋统现有兵丁前进。",
+ "people": [
+  {
+   "name": "赵良栋",
+   "role": "云贵总督"
+  },
+  {
+   "name": "朱衣客",
+   "role": "总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南",
+  "成都",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3107,
+ "page_range": "105-106"
+}

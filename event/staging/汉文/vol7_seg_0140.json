@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十五年六月十三日",
+ "reign_year": 55,
+ "month": 6,
+ "day": 13,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造主事曹頫向康熙请安，并奏报江南太平无事、雨水调匀、禾苗长势良好、秋收可望，以及米价丝价行情，并呈五月晴雨录。",
+ "people": [
+  {
+   "name": "曹頫",
+   "role": "江宁织造主事，奏报人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 140
+}

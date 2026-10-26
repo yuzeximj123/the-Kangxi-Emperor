@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初十日甲午",
+ "event_role": "谕旨决策",
+ "summary": "朝鲜国民违禁渡江斫取木皮，礼部议罚朝鲜国王李焞银一万两，康熙帝以事小命从宽免罚。",
+ "people": [
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3727,
+ "page_range": "117-118"
+}

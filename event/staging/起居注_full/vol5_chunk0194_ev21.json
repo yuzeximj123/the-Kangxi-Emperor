@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初二日癸丑",
+ "event_role": "奏报地方情形",
+ "summary": "党爱奏总督吴赫将李杰带至宁夏，待圣驾过后与总督会议具奏。",
+ "people": [
+  {
+   "name": "党爱",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "吴赫",
+   "role": "总督"
+  },
+  {
+   "name": "李杰",
+   "role": "西安府知府"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19421,
+ "page_range": "398-399"
+}

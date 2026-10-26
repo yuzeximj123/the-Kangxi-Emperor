@@ -1,0 +1,39 @@
+{
+ "date_raw": "康熙五十六年正月初八日",
+ "reign_year": 56,
+ "month": null,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "凉州总兵官路振声进摺恭祝康熙帝万寿无疆并叩请圣安，另进献马匹以表微忱。",
+ "people": [
+  {
+   "name": "张弘印",
+   "role": "火定总兵官（题名所署）"
+  },
+  {
+   "name": "路振声",
+   "role": "陕西凉州总兵官，进摺人"
+  },
+  {
+   "name": "韩翁特",
+   "role": "广州副都统，进马者"
+  },
+  {
+   "name": "李煦",
+   "role": "原任两淮盐法道，奏摺者"
+  }
+ ],
+ "places": [
+  "陕西",
+  "凉州",
+  "塞外",
+  "广州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "火定總兵官張弘印奏賀萬壽並請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2207",
+ "order_index": 304
+}

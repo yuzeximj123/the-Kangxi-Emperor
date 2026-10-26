@@ -1,0 +1,25 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": "十八日丁酉",
+ "event_role": "议政听政",
+ "summary": "康熙帝问靳辅黄河南岸毛城铺一带闸坝可否闭塞，靳辅答可暂塞一年，春夏减水十分之四、秋冬减二分。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "毛城铺",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20811,
+ "page_range": "451-452"
+}

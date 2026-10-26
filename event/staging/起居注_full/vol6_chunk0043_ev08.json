@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "宗人府拟门度承袭公画，康熙帝以其祖为辅国公，令门度袭辅国公。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "门度",
+   "role": "宗室"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4308,
+ "page_range": "96-97"
+}

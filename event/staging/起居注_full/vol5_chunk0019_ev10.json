@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初九日丙午",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题覆盗铸私钱案，首犯高君宠拟立斩、从犯祝九思等拟立绞，康熙帝命从宽免死减等，发黑龙江新满洲披甲之人为奴。",
+ "people": [
+  {
+   "name": "高君宠",
+   "role": "盗铸私钱首犯"
+  },
+  {
+   "name": "祝九思",
+   "role": "从犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1910,
+ "page_range": "48-49"
+}

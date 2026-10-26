@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "吏部题参司官韦珊贤等议降二级调用，兵部题参额尔毕纳等分别降级，康熙帝令白特、额尔毕纳等随旗上朝候缺补用，韦郑贤依部议。",
+ "people": [
+  {
+   "name": "韦珊贤",
+   "role": "司官"
+  },
+  {
+   "name": "额尔毕纳",
+   "role": "司官"
+  },
+  {
+   "name": "白特",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 704,
+ "page_range": "49-50"
+}

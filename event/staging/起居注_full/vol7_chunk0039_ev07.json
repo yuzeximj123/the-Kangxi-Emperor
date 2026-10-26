@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": "初十日",
+ "event_role": "司法案件",
+ "summary": "伊桑阿等奏两江总督阿山审拟光棍汪锭，传问江南在京各官称其肆恶已极，康熙帝命照该督所拟定罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "汪锭",
+   "role": "光棍"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3907,
+ "page_range": "89-90"
+}

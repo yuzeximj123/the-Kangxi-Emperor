@@ -1,0 +1,36 @@
+{
+ "reign_year": 16,
+ "month": 5,
+ "day_text": "二十九日甲辰",
+ "event_role": "其他",
+ "summary": "康熙帝御弘德殿，讲官喇沙里、陈廷若、叶方区、张英进讲先生以仁义说秦楚之王等章，帝亲讲毕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷若",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方区",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13820,
+ "page_range": "333-334"
+}

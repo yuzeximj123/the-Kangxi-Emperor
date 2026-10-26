@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十九日己丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补升任庶子郭苯员缺，拟洗马田喜需补；丁忧庶子储振员缺，拟侍读李录予补，康熙帝命俱着补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郭苯",
+   "role": "庶子"
+  },
+  {
+   "name": "田喜需",
+   "role": "洗马"
+  },
+  {
+   "name": "储振",
+   "role": "庶子"
+  },
+  {
+   "name": "李录予",
+   "role": "侍读"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8512,
+ "page_range": "205-206"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十六日庚成",
+ "event_role": "谕旨决策",
+ "summary": "礼部议原任江宁巡抚汤斌题补酌用先贤言优后裔应不准行，康熙帝询问后命交九卿、詹事、科、道会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "原任江宁巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15615,
+ "page_range": "347-348"
+}

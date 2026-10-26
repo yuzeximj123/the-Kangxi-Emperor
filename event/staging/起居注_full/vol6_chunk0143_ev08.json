@@ -1,0 +1,34 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "其他",
+ "event_role_note": null,
+ "summary": "伊桑阿奏遵旨询问九卿河南巡抚李国亮、浙江巡抚张惑居官贤否，据云未闻善恶，康熙颔之。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "李国亮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "张惑",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14308,
+ "page_range": "296-297"
+}

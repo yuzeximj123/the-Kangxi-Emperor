@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 11,
+ "day_text": "初九日癸丑",
+ "event_role": "其他",
+ "summary": "巳时，康熙帝御畅春园内西厂阅武举步射、挽劲弓、舞大刀、掇石，命七班后次日进试，并亲射每发悉中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "殷特布",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "金鲁",
+   "role": "武举"
+  }
+ ],
+ "places": [
+  "畅春园内西厂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4413,
+ "page_range": "99-100"
+}

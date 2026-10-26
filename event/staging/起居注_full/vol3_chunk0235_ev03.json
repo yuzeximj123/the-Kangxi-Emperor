@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "初十日丙辰",
+ "event_role": "人事任免",
+ "summary": "议政王大臣会推广东副都统巴喀员缺，拟正受图、拟陪法喀，康熙帝以广东边疆紧要，命于部院郎中内选年久效力者补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴喀",
+   "role": "广东副都统"
+  },
+  {
+   "name": "受图",
+   "role": "正黄旗参领"
+  },
+  {
+   "name": "法喀",
+   "role": "镶红旗参领"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23503,
+ "page_range": "505-506"
+}

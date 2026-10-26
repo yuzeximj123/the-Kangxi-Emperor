@@ -1,0 +1,21 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "十五日丙子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻足静海县所属白塘口对岸船上。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "静海县",
+  "白塘口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6611,
+ "page_range": "142-143"
+}

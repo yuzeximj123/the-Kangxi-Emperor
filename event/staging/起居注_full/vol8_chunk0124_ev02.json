@@ -1,0 +1,33 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题正白旗满洲都统崇古礼将雅图饮酒行凶送部审实，拟发三姓处当差，康熙改发江南当差。",
+ "people": [
+  {
+   "name": "崇古礼",
+   "role": "正白旗满洲都统"
+  },
+  {
+   "name": "达普秀",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "雅图",
+   "role": "闲散人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三姓处",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12402,
+ "page_range": "259-260"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 7,
+ "day_text": "二十八日壬戌",
+ "event_role": "人事任免",
+ "summary": "吏部题江宁巡抚洪之杰清理狱办草率具题拟革职，康熙帝命从宽免革职，降四级留任。",
+ "people": [
+  {
+   "name": "洪之杰",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8015,
+ "page_range": "172-173"
+}

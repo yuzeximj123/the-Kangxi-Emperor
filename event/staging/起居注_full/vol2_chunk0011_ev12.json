@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十六日壬子",
+ "event_role": "谕旨决策",
+ "summary": "户部题覆浙江总督李之芳请销赏给官兵银两事，康熙询问该部意见，明珠奏应与该督捐助银两一并议覆，康熙令再加详议具奏。",
+ "people": [
+  {
+   "name": "李之芳",
+   "role": "浙江总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1112,
+ "page_range": "65-66"
+}

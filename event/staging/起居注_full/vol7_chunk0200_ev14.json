@@ -1,0 +1,40 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "酉时",
+ "event_role": "皇帝行止",
+ "summary": "酉时，康熙帝御乾清宫，大学士温达、陈廷敬、萧永藻，学士王思轼、彭等入见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "王思轼",
+   "role": "学士"
+  },
+  {
+   "name": "彭",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20014,
+ "page_range": "411-412"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "十六日丙寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙闻皇太后违和，急从西直门进神武门至宁寿宫问安后回宫。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  },
+  {
+   "name": "王图炳",
+   "role": "起居注官"
+  },
+  {
+   "name": "海保",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "西直门",
+  "神武门",
+  "宁寿宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22106,
+ "page_range": "453-454"
+}

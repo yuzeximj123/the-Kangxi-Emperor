@@ -1,0 +1,35 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "初三日了刻",
+ "event_role": "河工水利",
+ "summary": "差回萨木哈等会同江南督抚题请停止下河工程，康熙帝传问九卿，众议应停，遂命停止。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨木哈",
+   "role": "差回大臣"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "下河",
+  "海口",
+  "串场河",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13807,
+ "page_range": "311-312"
+}

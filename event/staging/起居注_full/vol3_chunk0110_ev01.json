@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "户部题报山东兖州、青州二府属州县被水灾，请踏勘覆奏再议。",
+ "people": [
+  {
+   "name": "张觅",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "兖州府",
+  "青州府",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11001,
+ "page_range": "255-256"
+}

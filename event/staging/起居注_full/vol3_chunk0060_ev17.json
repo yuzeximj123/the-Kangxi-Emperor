@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "二十八日己丑",
+ "event_role": "请安谢恩",
+ "summary": "午时皇太子率皇长子、皇三子及留京内大臣、侍卫、大学士、学士等出南苑南红门迎圣驾请安。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇长子"
+  },
+  {
+   "name": "皇三子",
+   "role": "皇三子"
+  }
+ ],
+ "places": [
+  "南苑南红门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6017,
+ "page_range": "155-156"
+}

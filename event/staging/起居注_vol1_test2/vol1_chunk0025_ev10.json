@@ -1,0 +1,25 @@
+{
+ "reign_year": 11,
+ "month": 10,
+ "day_text": "初三日甲辰",
+ "event_role": "皇帝行止",
+ "summary": "卯时，康熙帝前往太皇太后行宫；辰时奉太皇太后驾回京，驻足明月山前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "祖母"
+  }
+ ],
+ "places": [
+  "太皇太后行宫",
+  "明月山前"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2510,
+ "page_range": "107-108"
+}

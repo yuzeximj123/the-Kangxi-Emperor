@@ -1,0 +1,34 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "明珠等奏报会议结果，称天时亢旱但政务无可更改厘定，康熙帝驳斥并令臣工直言陈奏。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  },
+  {
+   "name": "科尔坤",
+   "role": "大臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22000,
+ "page_range": "475-476"
+}

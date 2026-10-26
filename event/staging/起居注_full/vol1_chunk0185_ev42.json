@@ -1,0 +1,25 @@
+{
+ "reign_year": 18,
+ "month": 7,
+ "day_text": "十五日",
+ "event_role": "皇帝行止",
+ "summary": "和硕纯亲王隆禧病笃奏闻，康熙帝自巩华城急驰还京，亲赴王第视疾并传医调治祈祷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "隆禧",
+   "role": "和硕纯亲王"
+  }
+ ],
+ "places": [
+  "巩华城",
+  "纯亲王第"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18542,
+ "page_range": "427-428"
+}

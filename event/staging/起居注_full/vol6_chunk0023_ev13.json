@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "三十日丙午",
+ "event_role": "人事任免",
+ "summary": "吏部题福陵提督舒恕员缺，康熙帝命以副都统齐兰布补授。",
+ "people": [
+  {
+   "name": "舒恕",
+   "role": "福陵提督"
+  },
+  {
+   "name": "齐兰布",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "福陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2313,
+ "page_range": "56-57"
+}

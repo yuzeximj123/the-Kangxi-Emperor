@@ -1,0 +1,21 @@
+{
+ "reign_year": 16,
+ "month": 1,
+ "day_text": "初五日王午",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝素服率内大臣、侍卫、大学士、尚书、三品以上官员至陵寝门外行礼举哀，各官随行礼举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "五洞桥",
+  "陵寝门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12808,
+ "page_range": "313-314"
+}

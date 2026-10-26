@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十五年闰三月十二日",
+ "reign_year": 55,
+ "month": 3,
+ "day": 12,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报福州近日米价照常，上号每石一两一钱、次号一两左右，并附进三月晴雨录，供圣鉴。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人，臣"
+  }
+ ],
+ "places": [
+  "福州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批答知道了，并就不暗节气、闰月占春及春寒未兆等语作训示。",
+ "source_title": "奏报福州米价",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 295
+}

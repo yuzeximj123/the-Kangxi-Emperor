@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "十八日甲午",
+ "event_role": "朝见受贺",
+ "summary": "八旗王、贝勒、贝子、公及文武诸臣齐集乾清门，马齐等转奏请上尊号，康熙帝传谕毋庸烦奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "存住",
+   "role": "奏事治仪正"
+  },
+  {
+   "name": "来保",
+   "role": "奏事蓝钾"
+  },
+  {
+   "name": "温达",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4312,
+ "page_range": "97-98"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十八日丁巳",
+ "event_role": "司法案件",
+ "summary": "唐朝东辩称张仲举前为知府有兵丁鼓噪无才，保举者皆同姓恐有私弊；李宗孔疏侵魏象枢，李仙根具疏申辩，俱下部察议。",
+ "people": [
+  {
+   "name": "唐朝东",
+   "role": "广西道御史"
+  },
+  {
+   "name": "魏象枢",
+   "role": "官员"
+  },
+  {
+   "name": "李宗孔",
+   "role": "吏科掌印给事中"
+  },
+  {
+   "name": "李仙根",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23018,
+ "page_range": "517-518"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "署甘肃提督事雷继尊题请以中军副将方凯补授山东沂州副将并留原任，康熙命方凯以沂州副将品级留管甘肃提督标下副将事。",
+ "people": [
+  {
+   "name": "雷继尊",
+   "role": "署甘肃提督事"
+  },
+  {
+   "name": "方凯",
+   "role": "中军副将"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "山东沂州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16704,
+ "page_range": "344-345"
+}

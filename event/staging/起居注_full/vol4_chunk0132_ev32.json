@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 10,
+ "day_text": "十九日丙子",
+ "event_role": "司法案件",
+ "summary": "兵部题怀来路升参将哈什库因酷刑拷打良民诬陷为盗应革职，康熙帝以其人材壮健且年久，谕旨内容原文未完。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈什库",
+   "role": "怀来路升参将"
+  }
+ ],
+ "places": [
+  "怀来路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13232,
+ "page_range": "276-277"
+}

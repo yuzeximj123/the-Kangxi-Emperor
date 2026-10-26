@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "两广总督郭世隆等题请将林世春留原任，以参将管大鹏营游击事，康熙帝准行并命另拟饶州营参将。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "两广总督"
+  },
+  {
+   "name": "林世春",
+   "role": "原任广东大鹏营游击"
+  }
+ ],
+ "places": [
+  "江西饶州",
+  "广东大鹏营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10701,
+ "page_range": "225-226"
+}

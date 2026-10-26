@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 9,
+ "day_text": "初七日甲午",
+ "event_role": "其他",
+ "summary": "康熙帝遣皇长子、四皇子迎接阵亡佟国纲丧，一宿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  },
+  {
+   "name": "四皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "佟国纲",
+   "role": "阵亡大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12908,
+ "page_range": "270-271"
+}

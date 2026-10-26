@@ -1,0 +1,38 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "初一日甲成",
+ "event_role": "人事任免",
+ "summary": "大学士等会同礼部以日讲起居注官缺具奏，康熙帝命冯云驻、陆肯堂以原衔充日讲起居注官。",
+ "people": [
+  {
+   "name": "冯云驻",
+   "role": "编修"
+  },
+  {
+   "name": "陆肯堂",
+   "role": "编修"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "库勒纳",
+   "role": "礼部侍郎管翰林院事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1221,
+ "page_range": "36-37"
+}

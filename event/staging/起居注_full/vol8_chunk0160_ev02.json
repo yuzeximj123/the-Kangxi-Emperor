@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "吏部条奏崇明海岛官兵钱粮由知县等微员监放不能管束，请移江常镇道驻崇明兼管，总兵官胡骏求移调陆路不准，康熙帝令将胡骏所奏另为一本分别具奏。",
+ "people": [
+  {
+   "name": "胡骏",
+   "role": "总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "崇明",
+  "江常镇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16002,
+ "page_range": "331-332"
+}

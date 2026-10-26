@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谓伊等未细阅不过依傍人言，自述南巡亲见黄河南北两岸皆有柳枝，伊桑阿及九卿称难逃圣鉴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1723,
+ "page_range": "46-47"
+}

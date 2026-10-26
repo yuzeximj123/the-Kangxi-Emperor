@@ -1,0 +1,21 @@
+{
+ "reign_year": 30,
+ "month": 3,
+ "day_text": "二十二日戊申",
+ "event_role": "皇帝行止",
+ "summary": "申时康熙由西直门进西华门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西直门",
+  "西华门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14525,
+ "page_range": "302-303"
+}

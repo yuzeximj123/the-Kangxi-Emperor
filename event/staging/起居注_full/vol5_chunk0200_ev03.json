@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝依议准行，命将济隆库图克图务必送来，噶尔丹之女不得留于呼户诺尔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "济隆库图克图",
+   "role": "被送者"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "逆首"
+  }
+ ],
+ "places": [
+  "呼户诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20003,
+ "page_range": "410-411"
+}

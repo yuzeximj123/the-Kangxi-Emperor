@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题镶白旗副都统党受员缺开列护军参领阿哈布等，康熙帝称皆平常，命升补噶珠为副都统。",
+ "people": [
+  {
+   "name": "党受",
+   "role": "镶白旗副都统"
+  },
+  {
+   "name": "阿哈布",
+   "role": "护军参领"
+  },
+  {
+   "name": "噶珠",
+   "role": "前任副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7404,
+ "page_range": "158-159"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "初二日戊子",
+ "event_role": "人事任免",
+ "summary": "兵部议覆四川提督唐希顺请以守备王满江等补授南、北二营游击员缺，议不准行，康熙帝令照所题补授，后必引见。",
+ "people": [
+  {
+   "name": "唐希顺",
+   "role": "四川提督"
+  },
+  {
+   "name": "王满江",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20111,
+ "page_range": "412-413"
+}

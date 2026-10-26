@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "十一日壬戌",
+ "event_role": "司法案件",
+ "summary": "三法司议行劫范宝家强贼朱三风子等十六人应立斩，康熙帝详阅后依部议，门宣同谋分赃不可宥。",
+ "people": [
+  {
+   "name": "朱三风子",
+   "role": "强贼"
+  },
+  {
+   "name": "门宣",
+   "role": "同谋犯"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6609,
+ "page_range": "175-176"
+}

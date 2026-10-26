@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "十九日癸酉",
+ "event_role": "起居注官记录",
+ "summary": "记此行部院奏章日送内阁、内阁三日一次递送行宫听理，康熙遣请皇太后安九次，扈从起居注官为把叙、常寿。",
+ "people": [
+  {
+   "name": "把叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "常寿",
+   "role": "起居注官"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19915,
+ "page_range": "409-410"
+}

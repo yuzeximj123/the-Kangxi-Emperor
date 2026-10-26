@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "四川巡抚贝和诺题降调成都县知县田轩来应否留任请旨，康熙帝命以所降品级留任，并称贝和诺声名茂著。",
+ "people": [
+  {
+   "name": "贝和诺",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "田轩来",
+   "role": "成都县知县"
+  }
+ ],
+ "places": [
+  "四川",
+  "成都"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2107,
+ "page_range": "53-54"
+}

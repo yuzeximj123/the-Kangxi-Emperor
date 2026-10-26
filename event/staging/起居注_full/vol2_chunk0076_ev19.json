@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "二十八日成申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御东宫后典，大学士明珠等捧折本面奏请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "噶尔图",
+   "role": "学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7619,
+ "page_range": "195-196"
+}

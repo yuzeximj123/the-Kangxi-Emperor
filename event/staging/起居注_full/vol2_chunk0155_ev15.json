@@ -1,0 +1,27 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初九日壬子",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝由东直门进东华门，往太皇太后、皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "东直门",
+  "东华门",
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15515,
+ "page_range": "353-354"
+}

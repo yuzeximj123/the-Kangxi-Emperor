@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十五日丙午",
+ "event_role": "谕旨决策",
+ "summary": "刑部覆给事中杨尔淑条奏军流人犯请照流徙例严寒暂停发遣，议不准行，康熙命过严寒之时发遣。",
+ "people": [
+  {
+   "name": "杨尔淑",
+   "role": "给事中"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "尚阳堡",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6506,
+ "page_range": "165-166"
+}

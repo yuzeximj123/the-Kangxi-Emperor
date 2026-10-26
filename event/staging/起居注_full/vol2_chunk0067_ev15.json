@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "十六日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "巡抚韩世琦题湖南漕粮已征完供应大兵无起运京城，户部覆请议处，康熙帝令严加议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩世琦",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6715,
+ "page_range": "177-178"
+}

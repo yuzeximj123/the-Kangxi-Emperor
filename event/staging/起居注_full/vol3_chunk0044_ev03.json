@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "御史李时谦条奏请停止秋审，九卿会议准行，康熙帝从之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李时谦",
+   "role": "御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4403,
+ "page_range": "123-124"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就孙塔哈、方额处分降旨，孙塔哈从宽降三级留任并罚俸一年，方额划去所加一级仍降一级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙塔哈",
+   "role": "被处分官员"
+  },
+  {
+   "name": "方额",
+   "role": "被处分官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21300,
+ "page_range": "469-470"
+}

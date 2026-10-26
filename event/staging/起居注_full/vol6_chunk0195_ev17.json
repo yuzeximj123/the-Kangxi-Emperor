@@ -1,0 +1,33 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "二十一日戊申",
+ "event_role": "人事任免",
+ "summary": "顺天府府尹钱晋锡题宛平县知县管承业员缺请补，康熙命行文直隶巡抚李光地于所属知县内选择具奏。",
+ "people": [
+  {
+   "name": "钱晋锡",
+   "role": "顺天府府尹"
+  },
+  {
+   "name": "管承业",
+   "role": "宛平县知县"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宛平县",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19517,
+ "page_range": "400-401"
+}

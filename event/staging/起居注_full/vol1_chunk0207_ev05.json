@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "十三日甲辰",
+ "event_role": "谕旨决策",
+ "summary": "直隶巡抚金世德请捐免地震被灾钱粮，康熙帝准如所请，即与捐免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金世德",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20705,
+ "page_range": "471-472"
+}

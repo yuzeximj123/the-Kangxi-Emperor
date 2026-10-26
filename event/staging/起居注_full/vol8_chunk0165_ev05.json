@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题闲散人阁喜之妻自缢身死，康熙命阁喜枷号三个月、鞭一百、发往白都诺当差。",
+ "people": [
+  {
+   "name": "阁喜",
+   "role": "闲散人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "白都诺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16505,
+ "page_range": "341-342"
+}

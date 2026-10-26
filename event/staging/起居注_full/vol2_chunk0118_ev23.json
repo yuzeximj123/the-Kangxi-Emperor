@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "初五日王子",
+ "event_role": "军务",
+ "summary": "靖逆将军张勇题请新添兵丁不必裁撤、提标步兵改马兵，部两议，康熙帝令问明前议官员意见来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张勇",
+   "role": "靖逆将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "甘州",
+  "宁夏",
+  "河州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11823,
+ "page_range": "279-280"
+}

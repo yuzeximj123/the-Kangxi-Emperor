@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "初十日己未",
+ "event_role": "人事任免",
+ "summary": "兵部题四川提督员缺请旨开列，康熙帝以四川提督紧要，命杨茂勋暂管提督事务，从容另行选补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杨茂勋",
+   "role": "暂管提督事务"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2803,
+ "page_range": "99-100"
+}

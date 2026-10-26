@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "十九日癸卯",
+ "event_role": "起居注官记录",
+ "summary": "记录起居注官把叙、耕廷锡。",
+ "people": [
+  {
+   "name": "把叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "耕廷锡",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13312,
+ "page_range": "277-278"
+}

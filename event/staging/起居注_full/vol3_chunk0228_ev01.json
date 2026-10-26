@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士明珠等奏复九卿对董汉臣条奏各款的详议，逐条说明舍己从人、达四聪、广言路、逃人、风俗等事皇上已有施行。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "董汉臣",
+   "role": "灵台郎"
+  },
+  {
+   "name": "李之芳",
+   "role": "官员"
+  },
+  {
+   "name": "张鹏云",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22801,
+ "page_range": "491-492"
+}

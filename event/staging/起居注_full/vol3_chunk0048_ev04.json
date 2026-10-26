@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "十七日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "直隶巡抚阿哈达陛辞请训，康熙帝询问病情并训谕其正己和辑军民、尽力除豪强扰害。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿哈达",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4804,
+ "page_range": "131-132"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙六十年八月初八日",
+ "reign_year": 60,
+ "month": 8,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "福州将军黄秉钺奏报福州七月下旬得雨、秋成有望及米价稍贵情形，并进呈七月晴雨录。",
+ "people": [
+  {
+   "name": "黄秉钺",
+   "role": "福州将军，奏报人"
+  },
+  {
+   "name": "李维",
+   "role": "督臣"
+  }
+ ],
+ "places": [
+  "福州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報蘇州得雨並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2952",
+ "order_index": 344
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": "初六日甲午",
+ "event_role": "司法案件",
+ "summary": "兵部题盛京将军绰克托等散给兵丁粮米不计人口浮算，议解任革职；康熙帝从宽免解任革职，各罚俸一年。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "绰克托",
+   "role": "盛京将军公"
+  },
+  {
+   "name": "称泰",
+   "role": "副将都统"
+  },
+  {
+   "name": "薄昂",
+   "role": "副将都统"
+  },
+  {
+   "name": "由海",
+   "role": "户部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9211,
+ "page_range": "194-195"
+}

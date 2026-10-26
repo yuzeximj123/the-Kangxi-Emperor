@@ -1,0 +1,27 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "初三日壬午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝进东直门入东华门，率皇太子、皇子问安太皇太后、皇太后毕回宫。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "随行"
+  },
+  {
+   "name": "皇子",
+   "role": "随行"
+  }
+ ],
+ "places": [
+  "东直门",
+  "东华门",
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9321,
+ "page_range": "229-230"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝谕令将泰州知州施世纶从优升补为扬州府知府，并传谕总督加以训勉，令其病后更加洁己爱民。",
+ "people": [
+  {
+   "name": "施世纶",
+   "role": "泰州知州"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "泰州",
+  "扬州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6200,
+ "page_range": "136-137"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "十三日癸未",
+ "event_role": "起居注官记录",
+ "summary": "记注此行部院各衙门奏章每日交送内阁，由内阁三日一次递送行宫办理；起居注官阿山、华显、揆叙记录。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "起居注官"
+  },
+  {
+   "name": "华显",
+   "role": "起居注官"
+  },
+  {
+   "name": "揆叙",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6033,
+ "page_range": "130-131"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝令龙虎山道官孔明德等三人在黑龙神处祷雨三日，初三自实时降雨，题知此事。",
+ "people": [
+  {
+   "name": "孔明德",
+   "role": "龙虎山道官"
+  }
+ ],
+ "places": [
+  "黑龙神"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6600,
+ "page_range": "144-145"
+}

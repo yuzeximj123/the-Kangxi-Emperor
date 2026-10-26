@@ -1,0 +1,43 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "户部题迟报广东米价增长请将总督赵弘灿、巡抚满丕革职，康熙帝令收贮待赵申乔到日再定。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "广东总督"
+  },
+  {
+   "name": "满丕",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "苏努",
+   "role": "盛京将军"
+  }
+ ],
+ "places": [
+  "广东",
+  "福建",
+  "盛京",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2606,
+ "page_range": "63-64"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "十六日己巳",
+ "event_role": "祭祀典礼",
+ "summary": "礼部题请吏部尚书鄂尔多给与全葬银两、致祭一次，康熙帝嘉其笃诚，命问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂尔多",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15714,
+ "page_range": "326-327"
+}

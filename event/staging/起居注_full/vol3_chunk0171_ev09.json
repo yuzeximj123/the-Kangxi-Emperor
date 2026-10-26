@@ -1,0 +1,56 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "初四日丙辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台勤政殿听政，部院官员面奏后，大学士等以折本请旨。",
+ "people": [
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "学士"
+  },
+  {
+   "name": "禅布",
+   "role": "学士"
+  },
+  {
+   "name": "韩菊",
+   "role": "学士"
+  },
+  {
+   "name": "赛绚汉",
+   "role": "学士"
+  },
+  {
+   "name": "葛思泰",
+   "role": "学士"
+  },
+  {
+   "name": "徐廷优",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "瀛台勤政殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17109,
+ "page_range": "377-378"
+}

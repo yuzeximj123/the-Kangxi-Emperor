@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "二十日甲戌",
+ "event_role": "人事任免",
+ "summary": "吏部覆浙江巡抚王度昭题参粮道陈延才力不及应降二级调用，康熙依议，命粮道员缺问九卿举人明日具奏。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "陈延",
+   "role": "粮道"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19919,
+ "page_range": "409-410"
+}

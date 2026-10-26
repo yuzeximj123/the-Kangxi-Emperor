@@ -1,0 +1,22 @@
+{
+ "reign_year": 53,
+ "month": 11,
+ "day_text": "十六日甲实",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝由午门出正阳门，亲祭天坛，奏上新定乐律毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "天坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7809,
+ "page_range": "167-168"
+}

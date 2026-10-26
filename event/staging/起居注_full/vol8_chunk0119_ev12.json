@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "二十三日乙卯",
+ "event_role": "人事任免",
+ "summary": "大学士松柱等奏司道官员内升，九卿举出湖北按察司张连登、直隶等员。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "张连登",
+   "role": "湖北按察司"
+  }
+ ],
+ "places": [
+  "湖北",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11912,
+ "page_range": "249-250"
+}

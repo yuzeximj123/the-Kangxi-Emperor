@@ -1,0 +1,33 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "初四日辛卯",
+ "event_role": "人事任免",
+ "summary": "大学士马齐等奉旨议补云南巡抚，请于布政使中简择；康熙称高启桂厚重，令将本于晚奏时送进。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "高启桂",
+   "role": "布政使"
+  },
+  {
+   "name": "徐潮",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10313,
+ "page_range": "217-218"
+}

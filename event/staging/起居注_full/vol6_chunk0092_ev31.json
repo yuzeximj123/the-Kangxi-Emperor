@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "二十五日甲子",
+ "event_role": "其他",
+ "summary": "赐苏州府云泉寺僧特藻御书“慧业寺”三大字、“精舍”二大字及《金刚经》二卷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "特藻",
+   "role": "云泉寺僧"
+  }
+ ],
+ "places": [
+  "苏州府云泉寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9231,
+ "page_range": "194-195"
+}

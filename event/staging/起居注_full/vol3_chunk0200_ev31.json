@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "初四日甲寅",
+ "event_role": "司法案件",
+ "summary": "刑部题楞皮因私债将刘七弟兄折算为奴并奸占刘七之妻，拟立斩；步军统领麻勒吉不即送部瞻徇，议降二级调用。",
+ "people": [
+  {
+   "name": "楞皮",
+   "role": "罪犯"
+  },
+  {
+   "name": "刘七",
+   "role": "受害人"
+  },
+  {
+   "name": "刘氏",
+   "role": "受害人"
+  },
+  {
+   "name": "麻勒吉",
+   "role": "步军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20031,
+ "page_range": "435-436"
+}

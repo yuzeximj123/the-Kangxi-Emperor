@@ -1,0 +1,20 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论积谷赈济，指出地方官未照数买补、直隶未奏请发赈，积谷徒有虚名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 200,
+ "page_range": "14-15"
+}

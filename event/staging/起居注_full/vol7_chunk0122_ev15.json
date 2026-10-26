@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "二十九日甲申",
+ "event_role": "人事任免",
+ "summary": "汇题事内告病山西泽州知州陶自悦议令休致，康熙帝以其居官好、所学优着来京，并询问掌院把叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陶自悦",
+   "role": "山西泽州知州"
+  },
+  {
+   "name": "把叙",
+   "role": "翰林院掌院"
+  }
+ ],
+ "places": [
+  "山西泽州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12215,
+ "page_range": "255-256"
+}

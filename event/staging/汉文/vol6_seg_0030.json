@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十四年三月初十日",
+ "reign_year": 54,
+ "month": 3,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州雨水调匀、麦苗秀发、春熟可期及米价情况，并进呈三月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "福州",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報蘇州雨水米價並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1746",
+ "order_index": 30
+}

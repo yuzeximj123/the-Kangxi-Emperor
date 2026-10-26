@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十三日庚午",
+ "event_role": "河工水利",
+ "summary": "户部尚书伊桑阿等奉差勘验河工请旨，康熙帝谕令秉公详画、不得徇私欺罔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "宋文运",
+   "role": "侍郎"
+  },
+  {
+   "name": "靳辅",
+   "role": "河臣"
+  },
+  {
+   "name": "崔维雅",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "淮安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12306,
+ "page_range": "289-290"
+}

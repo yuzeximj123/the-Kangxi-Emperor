@@ -1,0 +1,38 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "锦州佐领西扎布、小凑河佐领吴应元、李维及锦州府知府陶锟、绵县知县李拱乾等来朝。",
+ "people": [
+  {
+   "name": "西扎布",
+   "role": "锦州佐领"
+  },
+  {
+   "name": "吴应元",
+   "role": "小凑河佐领"
+  },
+  {
+   "name": "李维",
+   "role": "小凑河佐领"
+  },
+  {
+   "name": "陶锟",
+   "role": "锦州府知府"
+  },
+  {
+   "name": "李拱乾",
+   "role": "绵县知县"
+  }
+ ],
+ "places": [
+  "锦州",
+  "小凑河",
+  "绵县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6000,
+ "page_range": "130-131"
+}

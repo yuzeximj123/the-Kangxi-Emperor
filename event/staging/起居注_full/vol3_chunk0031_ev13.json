@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "十七日辛效",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶蓝旗马世泰分编佐领拟罗密，康熙帝以其系军机革职之人、徇庇起用有罪之人，命另拟并严察议处。",
+ "people": [
+  {
+   "name": "罗密",
+   "role": "亲军校"
+  },
+  {
+   "name": "马世泰",
+   "role": "镶蓝旗"
+  },
+  {
+   "name": "图梅",
+   "role": "乌林人"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3113,
+ "page_range": "97-98"
+}

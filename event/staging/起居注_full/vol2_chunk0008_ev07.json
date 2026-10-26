@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初七日癸巳",
+ "event_role": "其他",
+ "summary": "广西阵亡镶黄旗戏骑章京何托、镶白族戏骑章京韩除翰丧至，康熙帝遣头等侍卫喇哈、色勒各携茶酒至丧次致奠。",
+ "people": [
+  {
+   "name": "何托",
+   "role": "广西阵亡镶黄旗戏骑章京"
+  },
+  {
+   "name": "韩除翰",
+   "role": "广西阵亡镶白族戏骑章京"
+  },
+  {
+   "name": "喇哈",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "色勒",
+   "role": "头等侍卫"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 807,
+ "page_range": "59-60"
+}

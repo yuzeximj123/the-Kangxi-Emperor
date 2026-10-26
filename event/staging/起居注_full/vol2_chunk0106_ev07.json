@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "侍讲学士严我斯、孙在丰、卢琦等侍讲，翰墨书香。",
+ "people": [
+  {
+   "name": "严我斯",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "孙在丰",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "卢琦",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10607,
+ "page_range": "255-256"
+}

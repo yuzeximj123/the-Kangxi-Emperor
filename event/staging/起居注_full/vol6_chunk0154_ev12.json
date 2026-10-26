@@ -1,0 +1,20 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": "二十一日癸丑",
+ "event_role": "司法案件",
+ "summary": "刑部题强盗黄天画等九十一人拟即正法，康熙帝命为首数人立决，其余从宽免死发往黑龙江充水手差役。",
+ "people": [
+  {
+   "name": "黄天画",
+   "role": "强盗"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15412,
+ "page_range": "318-319"
+}

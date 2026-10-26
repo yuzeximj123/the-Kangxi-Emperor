@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十二年",
+ "reign_year": 52,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "大学士李光地具折恭请皇上万安，康熙朱批报安并论其来书理明识定，嘱其待回京面谕及遵旨停止领兵等事。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，具折请安之臣"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙报自己安好，称赞李光地来书理明识定、此书非其不能辨，并称待回京面谕，令其择定后遵旨停止领兵。",
+ "source_title": "大學士李光地奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1495",
+ "order_index": 130
+}

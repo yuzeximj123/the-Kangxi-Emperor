@@ -1,0 +1,38 @@
+{
+ "reign_year": 56,
+ "month": 12,
+ "day_text": "十八日戊戌",
+ "event_role": "请安谢恩",
+ "summary": "显亲王衍潢等内大臣满汉文武大臣九卿詹事科道奏请皇上于方春节哀调摄宽怀颐养，奉旨知道了。",
+ "people": [
+  {
+   "name": "衍潢",
+   "role": "显亲王"
+  },
+  {
+   "name": "内大臣",
+   "role": "大臣"
+  },
+  {
+   "name": "满汉文武大臣",
+   "role": "大臣"
+  },
+  {
+   "name": "九卿",
+   "role": "官员"
+  },
+  {
+   "name": "詹事",
+   "role": "官员"
+  },
+  {
+   "name": "科道官员",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22812,
+ "page_range": "467-468"
+}

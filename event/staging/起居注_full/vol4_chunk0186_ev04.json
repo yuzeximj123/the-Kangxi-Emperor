@@ -1,0 +1,36 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "十九日",
+ "event_role": "祭祀典礼",
+ "summary": "未时康熙帝御文华殿举行经筵大典，讲官席尔达、陈廷敬讲《四书》，傅腊塔、张英讲《书经》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18604,
+ "page_range": "384-385"
+}

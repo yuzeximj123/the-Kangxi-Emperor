@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "十四日庚午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸青城，因天阴暂行驻扎，谕马匹加意看护，于上驷院侍卫马什所指引地方放牧。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马什",
+   "role": "上驷院侍卫"
+  }
+ ],
+ "places": [
+  "青城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10511,
+ "page_range": "220-221"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题奏偷采人参之李永寿等拟绞，康熙帝令免死，枷号三个月、鞭一百，发往杭州给穷军为奴。",
+ "people": [
+  {
+   "name": "李永寿",
+   "role": "偷采人参犯人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11500,
+ "page_range": "240-241"
+}

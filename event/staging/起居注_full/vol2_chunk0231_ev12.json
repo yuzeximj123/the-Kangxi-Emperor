@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十九日丙辰",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚格尔古德请降调州同高荣留原任，吏部议不准，康熙帝以该抚深知其人着留原任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "格尔古德",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "高荣",
+   "role": "通州州同"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23112,
+ "page_range": "505-506"
+}

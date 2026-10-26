@@ -1,0 +1,54 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令和詹事府、太仆寺、蛮仪卫等无事衙门人员不必开列拣选，并指陈查海浮躁、满语不熟等情。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "论德杨住中",
+   "role": "官员"
+  },
+  {
+   "name": "公托尔惠",
+   "role": "官员"
+  },
+  {
+   "name": "西平",
+   "role": "员外郎"
+  },
+  {
+   "name": "查林布",
+   "role": "主事"
+  },
+  {
+   "name": "二郎保",
+   "role": "理蒂院员外郎"
+  },
+  {
+   "name": "诺木齐泰",
+   "role": "官员"
+  },
+  {
+   "name": "查海",
+   "role": "主事"
+  },
+  {
+   "name": "班第几",
+   "role": "尚书"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8305,
+ "page_range": "176-177"
+}

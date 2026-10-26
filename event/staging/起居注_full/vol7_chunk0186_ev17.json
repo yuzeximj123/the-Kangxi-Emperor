@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "二十六日",
+ "event_role": "司法案件",
+ "summary": "刑部等题缓决案内浑他喇用小刀致死获尔查，康熙令浑他喇改为情真。",
+ "people": [
+  {
+   "name": "浑他喇",
+   "role": "案犯"
+  },
+  {
+   "name": "获尔查",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18617,
+ "page_range": "383-384"
+}

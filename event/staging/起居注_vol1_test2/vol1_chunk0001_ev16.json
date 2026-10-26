@@ -1,0 +1,20 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "二十五日癸酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸铁岭县，地方文武官员来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "铁岭县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 116,
+ "page_range": "59-60"
+}

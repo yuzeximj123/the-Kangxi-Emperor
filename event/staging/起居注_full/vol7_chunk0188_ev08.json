@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记录是日起居注官为励廷仪、常竹。",
+ "people": [
+  {
+   "name": "励廷仪",
+   "role": "起居注官"
+  },
+  {
+   "name": "常竹",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18808,
+ "page_range": "387-388"
+}

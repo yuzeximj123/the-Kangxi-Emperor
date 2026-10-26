@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 1,
+ "day_text": "二十六日癸未",
+ "event_role": "谕旨决策",
+ "summary": "盛京兵部侍郎傅继祖赴任请训旨，康熙帝谕以盛京连年米谷丰收、民生甚裕，命其勤力尽职，若能勤勉仍将调回京用。",
+ "people": [
+  {
+   "name": "傅继祖",
+   "role": "盛京兵部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9813,
+ "page_range": "206-207"
+}

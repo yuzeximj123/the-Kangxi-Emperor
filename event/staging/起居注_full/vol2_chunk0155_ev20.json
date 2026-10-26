@@ -1,0 +1,38 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初十日癸丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补兵部尚书员缺，康熙帝谕以浙江总督李之芳升补兵部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李之芳",
+   "role": "浙江总督"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "左都御史"
+  },
+  {
+   "name": "魏象枢",
+   "role": "侍郎"
+  },
+  {
+   "name": "朱之弼",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15520,
+ "page_range": "353-354"
+}

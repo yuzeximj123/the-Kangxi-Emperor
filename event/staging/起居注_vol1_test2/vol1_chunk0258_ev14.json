@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十二日己酉",
+ "event_role": "人事任免",
+ "summary": "吏部题补本部侍郎，康熙帝令萨木哈转吏部左侍郎，屯泰不准转。",
+ "people": [
+  {
+   "name": "屯泰",
+   "role": "侍郎"
+  },
+  {
+   "name": "萨木哈",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25814,
+ "page_range": "573-574"
+}

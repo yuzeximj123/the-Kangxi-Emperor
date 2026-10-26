@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "十五日甲成",
+ "event_role": "河工水利",
+ "summary": "康熙帝阅雅地里河湾，谕北岸地势崇高无害，南岸地堤须加意坚筑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦拜",
+   "role": "分司"
+  }
+ ],
+ "places": [
+  "雅地里河湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17609,
+ "page_range": "362-363"
+}

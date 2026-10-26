@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十四年五月",
+ "reign_year": 44,
+ "month": 5,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "江宁巡抚奏报江南雨水充足、麦收及插秧情况，并预计秋成可望。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江南",
+  "大江以南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知自身安好，京中雨晴适时、麦黍有收，口外情形亦好。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "104",
+ "source_title": "江寧巡撫宋犖奏報目下江南雨足秋成可望摺",
+ "order_index": 77
+}

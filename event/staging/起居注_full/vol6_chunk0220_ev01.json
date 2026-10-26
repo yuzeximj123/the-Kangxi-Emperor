@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等呈报李光地一案及孔秘璋情由，康熙帝指出部议有误，命问明吏部具奏。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "原任官员"
+  },
+  {
+   "name": "孔秘璋",
+   "role": "原任霸州知州"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22001,
+ "page_range": "450-451"
+}

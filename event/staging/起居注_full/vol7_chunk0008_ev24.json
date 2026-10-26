@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十九日辛已",
+ "event_role": "起居注官记录",
+ "summary": "记载此行部院各衙门奏章每日交送内阁，由内阁三日一次递送行宫办理，扈从起居注官为法良、揆叙、阿金、传森。",
+ "people": [
+  {
+   "name": "法良",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "揆叙",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "阿金",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "传森",
+   "role": "扈从起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 824,
+ "page_range": "27-28"
+}

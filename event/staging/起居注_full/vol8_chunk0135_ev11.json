@@ -1,0 +1,29 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初六日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部题贵州巡抚刘萌枢员缺，以内阁学士葵升元等职名开列，康熙帝令白江护理贵州巡抚事务速行赴任，湖北布政使另拟具奏。",
+ "people": [
+  {
+   "name": "刘萌枢",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "葵升元",
+   "role": "内阁学士"
+  },
+  {
+   "name": "白江",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "贵州",
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13511,
+ "page_range": "281-282"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "二十六日丙子",
+ "event_role": "人事任免",
+ "summary": "巡抚法海以按察使武廷适因病乞休应准告退一疏，九卿称法海居官好微有性气，请上裁。",
+ "people": [
+  {
+   "name": "法海",
+   "role": "巡抚"
+  },
+  {
+   "name": "武廷适",
+   "role": "按察使"
+  },
+  {
+   "name": "九卿",
+   "role": "议奏"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22413,
+ "page_range": "459-460"
+}

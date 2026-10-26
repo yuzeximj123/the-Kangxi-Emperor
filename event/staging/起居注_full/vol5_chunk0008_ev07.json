@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "初十日戊实",
+ "event_role": "人事任免",
+ "summary": "兵部题云南永顺、楚姚蒙景总兵官员缺，开列八旗汉军参领管源忠等职名。",
+ "people": [
+  {
+   "name": "偏图",
+   "role": "云南永顺总兵官"
+  },
+  {
+   "name": "何应元",
+   "role": "楚姚蒙景总兵官"
+  },
+  {
+   "name": "管源忠",
+   "role": "八旗汉军参领"
+  }
+ ],
+ "places": [
+  "云南永顺",
+  "楚姚蒙景"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 807,
+ "page_range": "26-27"
+}

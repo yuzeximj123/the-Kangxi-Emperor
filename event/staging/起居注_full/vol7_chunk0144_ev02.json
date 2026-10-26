@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "汇题案内押解流徙宁古塔人犯脱逃，拟佐领努夏等降二级调用、拨什库阿尔拜等枷号鞭责，康熙帝以其情罪可恶、所议尚轻，命再严议具奏。",
+ "people": [
+  {
+   "name": "努夏",
+   "role": "佐领"
+  },
+  {
+   "name": "苏尔登",
+   "role": "官兵"
+  },
+  {
+   "name": "阿尔拜",
+   "role": "拨什库"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14402,
+ "page_range": "299-300"
+}

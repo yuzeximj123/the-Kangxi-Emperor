@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "军务",
+ "summary": "康熙帝谕五处驿站人及马匹留于原任尚书杭爱处，前途设站人员马匹照常带往安设。",
+ "people": [
+  {
+   "name": "杭爱",
+   "role": "原任尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "克勒和朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12514,
+ "page_range": "260-261"
+}

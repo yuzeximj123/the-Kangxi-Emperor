@@ -1,0 +1,25 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "二十三日辛丑",
+ "event_role": "朝见受贺",
+ "summary": "前卫驻防佐领金榜鬼、条子边上高台堡章京满丕等来朝。",
+ "people": [
+  {
+   "name": "金榜鬼",
+   "role": "佐领"
+  },
+  {
+   "name": "满丕",
+   "role": "章京"
+  }
+ ],
+ "places": [
+  "前卫",
+  "条子边上高台堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11410,
+ "page_range": "271-272"
+}

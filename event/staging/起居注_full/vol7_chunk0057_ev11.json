@@ -1,0 +1,34 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "十二日丁雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就红苗抢掠隐匿不报案作出处置：郭表、林本植革职，金下降四级调用，总兵雷如革职留任效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭表",
+   "role": "官员"
+  },
+  {
+   "name": "林本植",
+   "role": "官员"
+  },
+  {
+   "name": "金下",
+   "role": "官员"
+  },
+  {
+   "name": "雷如",
+   "role": "总兵"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5711,
+ "page_range": "125-126"
+}

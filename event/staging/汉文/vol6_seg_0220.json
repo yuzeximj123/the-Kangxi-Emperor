@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十四年十二月初十日",
+ "reign_year": 54,
+ "month": 12,
+ "day": 5,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦跪奏谢恩，感谢皇上免其死罪、不加处分，并准两淮巡盐御史李陈常以余银分年代补，表示粉身碎骨难报天恩。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏折作者，自称奴才"
+  },
+  {
+   "name": "李陈常",
+   "role": "两淮巡盐御史，奏请以余银分年代补"
+  }
+ ],
+ "places": [
+  "苏州",
+  "淮安关",
+  "两淮"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏謝淮安關稅減免并請代進貢物捐",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1955",
+ "order_index": 220
+}

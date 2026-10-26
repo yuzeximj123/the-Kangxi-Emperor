@@ -1,0 +1,22 @@
+{
+ "reign_year": 53,
+ "month": 1,
+ "day_text": "初九日辛雍",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝由午门出正阳门，祭祈谷坛完毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5100,
+ "page_range": "113-114"
+}

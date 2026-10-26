@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "通州知州边声扬等、宝应县把总萧宠来朝见康熙帝。",
+ "people": [
+  {
+   "name": "边声扬",
+   "role": "通州知州"
+  },
+  {
+   "name": "萧宠",
+   "role": "宝应县把总"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "扬州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5406,
+ "page_range": "143-144"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "十八日甲子",
+ "event_role": "其他",
+ "summary": "是日赐诸大臣、侍卫、护军及扈从诸汉大臣、翰林等官野味，并赐分司齐苏寺御书诗一幅。",
+ "people": [
+  {
+   "name": "诸大臣侍卫护军",
+   "role": "受赐者"
+  },
+  {
+   "name": "汉大臣翰林等官",
+   "role": "受赐者"
+  },
+  {
+   "name": "齐苏寺",
+   "role": "分司"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4820,
+ "page_range": "107-108"
+}

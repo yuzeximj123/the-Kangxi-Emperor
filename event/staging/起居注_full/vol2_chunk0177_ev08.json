@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十二日甲实",
+ "event_role": "人事任免",
+ "summary": "会推荆州左翼副都统，拟噶达洪、陪察哈达，康熙帝以其人皆不及令另推。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶达洪",
+   "role": "拟骁骑参领"
+  },
+  {
+   "name": "察哈达",
+   "role": "陪拟"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17708,
+ "page_range": "397-398"
+}

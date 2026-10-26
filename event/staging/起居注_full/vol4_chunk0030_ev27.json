@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "十一日于午",
+ "event_role": "人事任免",
+ "summary": "兵部题西安驻防协领缺，康熙帝令西图补授，并谕嗣后驻防协领、佐领缺出停止将军坐名，由该部选取引见补授。",
+ "people": [
+  {
+   "name": "西图",
+   "role": "拖沙喇哈番管佐领"
+  },
+  {
+   "name": "巨尔达",
+   "role": "佐领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3027,
+ "page_range": "72-73"
+}

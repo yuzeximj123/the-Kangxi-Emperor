@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "初三日两宝",
+ "event_role": "司法案件",
+ "summary": "刑部等题武生李应奈告永定河笔帖式南达礼扣克工价、因冲突拟军罪，康熙帝以所告俱实，令从宽免治罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李应奈",
+   "role": "武生"
+  },
+  {
+   "name": "南达礼",
+   "role": "永定河笔帖式"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14725,
+ "page_range": "304-305"
+}

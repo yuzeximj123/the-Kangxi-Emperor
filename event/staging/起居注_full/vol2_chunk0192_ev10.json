@@ -1,0 +1,22 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "初一日壬寅",
+ "event_role": "皇帝行止",
+ "summary": "申时，康熙帝自玉泉山进西直门，移驻瀛台。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "玉泉山",
+  "西直门",
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19210,
+ "page_range": "427-428"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "务关营参将冯廷辅等、香河县知县俞宗诠等来朝。",
+ "people": [
+  {
+   "name": "冯廷辅",
+   "role": "务关营参将"
+  },
+  {
+   "name": "俞宗诠",
+   "role": "香河县知县"
+  }
+ ],
+ "places": [
+  "务关营",
+  "香河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8802,
+ "page_range": "187-188"
+}

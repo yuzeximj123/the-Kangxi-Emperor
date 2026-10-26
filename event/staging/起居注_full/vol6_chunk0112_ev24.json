@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "二十三日成午",
+ "event_role": "司法案件",
+ "summary": "九卿遵旨会审杨凤起、赵国殖拟罪具奏，康熙帝命暂留内阅，行文总督郭琇详查并题奏其居官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨凤起",
+   "role": "案犯"
+  },
+  {
+   "name": "赵国殖",
+   "role": "案犯"
+  },
+  {
+   "name": "郭琇",
+   "role": "总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11224,
+ "page_range": "234-235"
+}

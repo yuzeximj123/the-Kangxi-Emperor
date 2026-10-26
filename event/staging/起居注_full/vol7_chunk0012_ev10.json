@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "十一日王成",
+ "event_role": "人事任免",
+ "summary": "巡抚鄂海请以清润县知县温为调补临道县知县，康熙帝命照所请调补。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "巡抚"
+  },
+  {
+   "name": "温为",
+   "role": "清润县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "清润县",
+  "临道县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1210,
+ "page_range": "35-36"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 11,
+ "month": 7,
+ "day_text": "十六日已丑",
+ "event_role": "谕旨决策",
+ "summary": "翰林院掌院学士传达礼、熊赐履引见庶吉士毕，康熙帝命于本月二十五日进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "传达礼",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "翰林院掌院学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2023,
+ "page_range": "97-98"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十日丁丑",
+ "event_role": "人事任免",
+ "summary": "云贵总督赵良栋请以道员金星中为四川按察使，康熙帝以金星中曾效力军前，命议叙具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵良栋",
+   "role": "云贵总督"
+  },
+  {
+   "name": "金星中",
+   "role": "道员"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25113,
+ "page_range": "559-560"
+}

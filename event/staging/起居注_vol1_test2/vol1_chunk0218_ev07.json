@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十七日己巳",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶红旗参领，引见阿纳库等，康熙帝问履历并称赞其胆力可嘉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿纳库",
+   "role": "拜他喇布勒哈番品级"
+  },
+  {
+   "name": "朱尔素",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "保宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21807,
+ "page_range": "493-494"
+}

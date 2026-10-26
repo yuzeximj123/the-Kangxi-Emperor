@@ -1,0 +1,44 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "十五日己未",
+ "event_role": "司法案件",
+ "summary": "刑部覆江苏巡抚宋荦题杨茂殴死陆子文一案拟斩，部议改拟凌迟，康熙询问大学士意见，张玉书等请圣裁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋荦",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "杨茂",
+   "role": "案犯"
+  },
+  {
+   "name": "陆子文",
+   "role": "死者"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6028,
+ "page_range": "131-132"
+}

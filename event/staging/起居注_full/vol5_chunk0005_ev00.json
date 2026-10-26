@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以和桑格年迈不宜南方酷热，将高承古调补广东巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和桑格",
+   "role": "官员"
+  },
+  {
+   "name": "高承古",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 500,
+ "page_range": "20-21"
+}

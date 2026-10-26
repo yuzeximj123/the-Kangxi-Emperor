@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十四年五月",
+ "reign_year": 44,
+ "month": 5,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "河南巡抚赵弘燮奏报各属有雨无蝗蝻，并委官细查防范，另报省城六月初二大雨待查。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "周联芳",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "河南",
+  "山东",
+  "省城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "105",
+ "source_title": "河南巡撫趙弘燮奏報河南雨足秋成可望摺",
+ "order_index": 78
+}

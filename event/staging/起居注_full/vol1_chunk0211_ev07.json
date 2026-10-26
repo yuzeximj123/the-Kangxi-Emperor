@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "十二日",
+ "event_role": "人事任免",
+ "summary": "福建总督姚启圣题请以副将曾诚补授总兵，康熙帝依所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "曾诚",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21107,
+ "page_range": "479-480"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十四日乙丑",
+ "event_role": "奏报灾情收成",
+ "summary": "山东巡抚王国昌遵旨回奏，康熙帝指其与刘蜂将赈银收贮库内致饥民流亡，令查明民数送还原籍并察议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "刘蜂",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山东",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8320,
+ "page_range": "177-178"
+}

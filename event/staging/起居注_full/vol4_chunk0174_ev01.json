@@ -1,0 +1,42 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "伊桑阿等奏补授蒙古侍读学士人选，康熙帝评论喇西、来福等人品学，命问来福所学。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "巴图赖",
+   "role": "教习唐古特书副教官"
+  },
+  {
+   "name": "喇西",
+   "role": "郎中"
+  },
+  {
+   "name": "来福",
+   "role": "员外郎"
+  },
+  {
+   "name": "诺木齐泰",
+   "role": "官员"
+  },
+  {
+   "name": "马第",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17401,
+ "page_range": "360-361"
+}

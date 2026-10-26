@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士松柱等奏张伯行员缺，九卿请皇上特简，康熙以巡抚内不知者多，命再问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "张伯行",
+   "role": "原任巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11410,
+ "page_range": "239-240"
+}

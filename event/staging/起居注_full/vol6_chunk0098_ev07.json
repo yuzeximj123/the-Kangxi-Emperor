@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "总河于成龙题请淮安卫守备马怀仁调补迁缺，部议准行，康熙以马怀仁曾随中路出兵、人材矫健但稍狂，令遇直隶缺补用。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "马怀仁",
+   "role": "淮安卫守备"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "淮安",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9807,
+ "page_range": "206-207"
+}

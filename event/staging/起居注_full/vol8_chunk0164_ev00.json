@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问河南巡抚李锡居官情形，张鹏翮奏其平常，帝言李锡、梁世勋收受属员节礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李锡",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "尚书"
+  },
+  {
+   "name": "梁世勋",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16400,
+ "page_range": "339-340"
+}

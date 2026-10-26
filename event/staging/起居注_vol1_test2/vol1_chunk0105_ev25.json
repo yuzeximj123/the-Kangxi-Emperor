@@ -1,0 +1,23 @@
+{
+ "reign_year": 14,
+ "month": 12,
+ "day_text": "初一日甲实",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出南苑大红门，大设宴席由正阳门进午门，赴太皇太后宫问安，已时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南苑大红门",
+  "正阳门",
+  "午门",
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10525,
+ "page_range": "267-268"
+}

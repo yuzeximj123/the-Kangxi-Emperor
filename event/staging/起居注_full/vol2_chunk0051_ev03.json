@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补内阁侍读员缺，正拟田住、陪拟石留柱，康熙帝命衙门会同吏部选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "田住",
+   "role": "正拟光禄寺署正"
+  },
+  {
+   "name": "石留柱",
+   "role": "陪拟主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5103,
+ "page_range": "145-146"
+}

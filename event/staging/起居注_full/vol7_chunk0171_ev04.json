@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题奏浙江粮道程变私折漕粮银两、亏空漕粮五万余石，康熙帝遣部院堂官会同总漕详查明确具奏。",
+ "people": [
+  {
+   "name": "程变",
+   "role": "浙江粮道"
+  },
+  {
+   "name": "李斌",
+   "role": "运粮千总"
+  },
+  {
+   "name": "李二",
+   "role": "相关人员"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17104,
+ "page_range": "353-354"
+}

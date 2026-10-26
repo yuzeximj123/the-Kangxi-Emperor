@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "二十三日丙辰",
+ "event_role": "人事任免",
+ "summary": "吏部题四川巡抚员缺，康熙帝命仍令章世武署理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章世武",
+   "role": "署理四川巡抚"
+  },
+  {
+   "name": "于养志",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "高承本",
+   "role": "原任巡抚"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14603,
+ "page_range": "302-303"
+}

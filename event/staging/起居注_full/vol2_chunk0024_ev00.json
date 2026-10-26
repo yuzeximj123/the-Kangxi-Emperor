@@ -1,0 +1,37 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论崇尚清节为治要，询问于成龙居官及京官清廉者，冯溥荐宋文运，帝言清廉不在贫富而在居心。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "宋文运",
+   "role": "顺天府尹"
+  }
+ ],
+ "places": [
+  "直隶",
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2400,
+ "page_range": "91-92"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十六日辛丑",
+ "event_role": "人事任免",
+ "summary": "兵部题补正蓝旗护军参领，拟沙克笃礼、观音保，康熙帝提及三等护卫俄罗肛真美材并询问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙克笃礼",
+   "role": "一等护卫"
+  },
+  {
+   "name": "观音保",
+   "role": "二等护卫"
+  },
+  {
+   "name": "俄罗肛真",
+   "role": "三等护卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2920,
+ "page_range": "101-102"
+}

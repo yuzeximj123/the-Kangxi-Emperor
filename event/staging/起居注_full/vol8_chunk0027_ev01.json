@@ -1,0 +1,38 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题请将控告巴锡之子甘生家人进宝致逃的小校阿思哈等援赦宽免，及六勒之妻告夫死甘生家事，康熙帝斥审理不明，命月内审明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "甘生",
+   "role": "巴锡之子"
+  },
+  {
+   "name": "进宝",
+   "role": "甘生家人"
+  },
+  {
+   "name": "阿思哈",
+   "role": "小校"
+  },
+  {
+   "name": "六勒",
+   "role": "小校"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2701,
+ "page_range": "65-66"
+}

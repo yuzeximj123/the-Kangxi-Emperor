@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "喀尔喀和硕恪靖公主、教汉多罗郡王垂木盆尔、多罗郡王鄂尔齐图遣使来请安。",
+ "people": [
+  {
+   "name": "恪靖公主",
+   "role": "喀尔喀和硕公主"
+  },
+  {
+   "name": "垂木盆尔",
+   "role": "教汉多罗郡王"
+  },
+  {
+   "name": "鄂尔齐图",
+   "role": "多罗郡王"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17608,
+ "page_range": "363-364"
+}

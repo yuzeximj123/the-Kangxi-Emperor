@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "二十一日丁酉",
+ "event_role": "谕旨决策",
+ "summary": "就孙草条奏殉难三品以下官员应与谥号、耿精忠尚之信属下不应任地方官事，康熙帝令该部议奏。",
+ "people": [
+  {
+   "name": "孙草",
+   "role": "给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "耿精忠",
+   "role": "被提及叛臣"
+  },
+  {
+   "name": "尚之信",
+   "role": "被提及叛臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12905,
+ "page_range": "301-302"
+}

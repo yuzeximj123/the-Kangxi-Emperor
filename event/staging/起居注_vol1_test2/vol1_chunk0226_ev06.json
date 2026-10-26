@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初六日乙未",
+ "event_role": "谕旨决策",
+ "summary": "严自明请遣其婚入川收其家被难遗骨并访其孙踪迹，康熙准其亲赴四川随大兵入云、贵访求完聚。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "严自明",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "四川",
+  "云",
+  "贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22606,
+ "page_range": "509-510"
+}

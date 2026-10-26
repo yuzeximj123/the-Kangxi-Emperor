@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "十八日壬寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论广东盐差积弊，出盐政数款折交九卿议并发行巡抚范时崇。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范时崇",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13309,
+ "page_range": "277-278"
+}

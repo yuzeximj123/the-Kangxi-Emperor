@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 4,
+ "day_text": "十六日丁亥",
+ "event_role": "弹劾参奏",
+ "summary": "松柱等奏九卿议原任总督噶礼断不可留，康熙帝责其赃银甚多无人劾奏，将本留中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "噶礼",
+   "role": "原任总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5907,
+ "page_range": "129-130"
+}

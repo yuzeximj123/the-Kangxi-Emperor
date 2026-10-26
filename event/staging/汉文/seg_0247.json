@@ -1,0 +1,42 @@
+{
+ "date_raw": "康熙贰拾柒年闰贰月初玖日",
+ "reign_year": 27,
+ "month": 2,
+ "day": 9,
+ "event_role": "请安谢恩",
+ "summary": "蒋陈锡、赵弘燮奏谢皇上准予封赠外祖父母，并陈明吏部驳议及遭台臣参奏之孤立处境。",
+ "people": [
+  {
+   "name": "蒋陈锡",
+   "role": "奏报人"
+  },
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "王与曾",
+   "role": "涉及人物"
+  },
+  {
+   "name": "许图拭",
+   "role": "涉及人物"
+  },
+  {
+   "name": "于成龙",
+   "role": "联署人"
+  }
+ ],
+ "places": [
+  "山东",
+  "直隶",
+  "清苑县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "奏谢封赠外祖父母事",
+ "order_index": 247
+}

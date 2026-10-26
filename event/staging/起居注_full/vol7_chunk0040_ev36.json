@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": "二十五日壬申",
+ "event_role": "河工水利",
+ "summary": "工部覆浙江巡抚赵申乔题重修禹陵议令捐助，康熙帝命织造官会同地方官酌量支用修理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "禹陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4036,
+ "page_range": "91-92"
+}

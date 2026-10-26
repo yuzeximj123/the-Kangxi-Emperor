@@ -1,0 +1,36 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部侍郎巴颜柱审孙二控告夏铺偷创人参案拟结，康熙帝以其糊涂，命另遣大臣审明。",
+ "people": [
+  {
+   "name": "巴颜柱",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "孙二",
+   "role": "山东民"
+  },
+  {
+   "name": "夏铺",
+   "role": "商人"
+  },
+  {
+   "name": "小八儿",
+   "role": "头目"
+  },
+  {
+   "name": "李宪龙",
+   "role": "商人"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 702,
+ "page_range": "25-26"
+}

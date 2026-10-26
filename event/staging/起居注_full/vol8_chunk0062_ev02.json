@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 6,
+ "day_text": "初六日两子",
+ "event_role": "人事任免",
+ "summary": "吏部题补江苏布政使员缺，康熙命三按察使随到随奏引见，勿令等候。",
+ "people": [
+  {
+   "name": "件钦元",
+   "role": "江苏布政使"
+  },
+  {
+   "name": "张伯玉",
+   "role": "河南按察使"
+  }
+ ],
+ "places": [
+  "江苏",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6202,
+ "page_range": "135-136"
+}

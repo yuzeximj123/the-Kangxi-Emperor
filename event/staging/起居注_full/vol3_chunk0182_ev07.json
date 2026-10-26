@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "二十九日辛刻",
+ "event_role": "皇帝行止",
+ "summary": "早，康熙帝巡视口外，由东华门设卤簿，在京诸王以下文武各官服蟒袍两翼跪送，出东直门，驻跸密云县河神庄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "东直门",
+  "密云县河神庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18207,
+ "page_range": "399-400"
+}

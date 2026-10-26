@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 6,
+ "day_text": "十三日辛西",
+ "event_role": "人事任免",
+ "summary": "刑部尚书傅腊塔进前奏事，康熙帝谕以刑部事关人命，勉其效法图纳勤勉供职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "图纳",
+   "role": "前任刑部尚书"
+  },
+  {
+   "name": "绥色",
+   "role": "官员"
+  },
+  {
+   "name": "迈图",
+   "role": "司官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 103,
+ "page_range": "12-13"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十二日王子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝问郝惟讷科道一等内升二等外转之说，郝惟讷、伊桑阿、魏象枢等各奏，帝斥其议与世祖以来所行相违。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郝惟讷",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "魏象枢",
+   "role": "左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21611,
+ "page_range": "489-490"
+}

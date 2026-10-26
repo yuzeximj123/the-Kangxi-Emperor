@@ -1,0 +1,21 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "十七日王寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸顺义县东大东庄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺义县",
+  "大东庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15112,
+ "page_range": "314-315"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十九日甲实",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕满丕须严盗禁，并述归化城盗案比前甚少，警告山后有盗案将并议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "满丕",
+   "role": "侍邮"
+  },
+  {
+   "name": "阿迪",
+   "role": "副都统"
+  },
+  {
+   "name": "厄尔德布",
+   "role": "贝勒"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11207,
+ "page_range": "234-235"
+}

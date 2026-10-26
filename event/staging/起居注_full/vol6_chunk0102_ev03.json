@@ -1,0 +1,36 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问沿途有无居官好、为民感戴者，刚五达奏报汉阳府知府黄国材居官好、操守清，布政使王道钻居官有声。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刚五达",
+   "role": "郎中"
+  },
+  {
+   "name": "黄国材",
+   "role": "汉阳府知府"
+  },
+  {
+   "name": "金笨",
+   "role": "巡抚"
+  },
+  {
+   "name": "王道钻",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "汉阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10203,
+ "page_range": "214-215"
+}

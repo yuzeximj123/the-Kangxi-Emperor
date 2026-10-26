@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初二日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论治天下以宽为本，不可吹毛求疵，并以饮酒用烟为喻，告诫大臣不可轻易参人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16004,
+ "page_range": "331-332"
+}

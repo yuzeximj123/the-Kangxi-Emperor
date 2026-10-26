@@ -1,0 +1,38 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "初四日辛雍",
+ "event_role": "人事任免",
+ "summary": "大学士等以折本请旨，康熙帝命原任大学士熊赐履之子熊志回原籍调养。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "原任大学士"
+  },
+  {
+   "name": "熊志",
+   "role": "监生"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1408,
+ "page_range": "39-40"
+}

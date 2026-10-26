@@ -1,0 +1,42 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "诸王、贝勒、贝子、公、内大臣、大学士、尚书等奏请康熙帝行幸郊外以舒郁闷，或肩舆徐行视奉安梓宫工程。",
+ "people": [
+  {
+   "name": "诸王",
+   "role": "宗室"
+  },
+  {
+   "name": "贝勒",
+   "role": "宗室"
+  },
+  {
+   "name": "贝子",
+   "role": "宗室"
+  },
+  {
+   "name": "公",
+   "role": "宗室"
+  },
+  {
+   "name": "内大臣",
+   "role": "大臣"
+  },
+  {
+   "name": "大学士",
+   "role": "大臣"
+  },
+  {
+   "name": "尚书",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 618,
+ "page_range": "24-25"
+}

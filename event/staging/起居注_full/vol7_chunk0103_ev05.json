@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "初一日戊子",
+ "event_role": "议政听政",
+ "summary": "翰林院掌院学士把叙以黄折开列庶吉士姓名交奏事传奏散馆事，奉旨交大学士拟题考试。",
+ "people": [
+  {
+   "name": "把叙",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "沙孜",
+   "role": "奏事"
+  },
+  {
+   "name": "来保",
+   "role": "奏事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10305,
+ "page_range": "217-218"
+}

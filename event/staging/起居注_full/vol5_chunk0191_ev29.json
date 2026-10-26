@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十七日戊成",
+ "event_role": "朝见受贺",
+ "summary": "山西巡抚倭伦、布政使甘度等、总兵官俞益席等来朝。",
+ "people": [
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "甘度",
+   "role": "布政使"
+  },
+  {
+   "name": "俞益席",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19129,
+ "page_range": "392-393"
+}

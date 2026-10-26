@@ -1,0 +1,32 @@
+{
+ "reign_year": 16,
+ "month": 4,
+ "day_text": "初七日癸丑",
+ "event_role": "皇帝行止",
+ "summary": "辰时，康熙帝御弘德磺，讲官喇沙里、陈廷敬、叶方议进讲《汤三使往聘之三节》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方议",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德磺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13404,
+ "page_range": "325-326"
+}

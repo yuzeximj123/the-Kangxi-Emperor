@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十五年二月",
+ "reign_year": 55,
+ "month": 2,
+ "day": null,
+ "event_role": "朝见受贺",
+ "summary": "太原总兵金国正因万寿节身在外疆不能入京朝贺，特具折恭祝康熙皇帝万寿无疆，并遣家人张世亨赍捧奏折进呈。",
+ "people": [
+  {
+   "name": "金国正",
+   "role": "太原总兵官署都督佥事，具奏人"
+  },
+  {
+   "name": "张世亨",
+   "role": "金国正家人，赍捧奏折进京"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "太原總兵金國正奏賀萬壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "2029",
+ "order_index": 281
+}

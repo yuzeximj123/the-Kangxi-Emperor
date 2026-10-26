@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "十一日壬辰",
+ "event_role": "司法案件",
+ "summary": "九卿以刑部侍郎绥色等勘问黄明一案不公拟革职，康熙帝令将噶礼查柴绍周事一并交九卿等严议。",
+ "people": [
+  {
+   "name": "绥色",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  },
+  {
+   "name": "柴绍周",
+   "role": "山西盐商"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1510,
+ "page_range": "41-42"
+}

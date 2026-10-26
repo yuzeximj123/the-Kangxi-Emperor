@@ -1,0 +1,56 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "初四日甲午",
+ "event_role": "人事任免",
+ "summary": "康熙帝采纳询问结果，将张霖升补为安徽按察使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张霖",
+   "role": "升补安徽按察使"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "问九郡",
+   "role": "安徽按察使"
+  },
+  {
+   "name": "孟世泰",
+   "role": "道员"
+  },
+  {
+   "name": "王之麟",
+   "role": "道员"
+  },
+  {
+   "name": "索诺和",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "杜到",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "翁权元",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "李振容",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6801,
+ "page_range": "146-147"
+}

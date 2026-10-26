@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十四日甲戌",
+ "event_role": "司法案件",
+ "summary": "刑部议郭二达子、张二回子诈朝鲜贡使银两应照光棍例即行处斩，康熙帝从明珠议，命监候秋决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郭二达子",
+   "role": "罪犯"
+  },
+  {
+   "name": "张二回子",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22119,
+ "page_range": "499-500"
+}

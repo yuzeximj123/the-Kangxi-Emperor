@@ -1,0 +1,33 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "初八日丙辰",
+ "event_role": "朝见受贺",
+ "summary": "涿州知州赵光茉、守备游弘龙、固安县防守御伍勒、知县郑善述等来朝。",
+ "people": [
+  {
+   "name": "赵光茉",
+   "role": "涿州知州"
+  },
+  {
+   "name": "游弘龙",
+   "role": "守备"
+  },
+  {
+   "name": "伍勒",
+   "role": "固安县防守御"
+  },
+  {
+   "name": "郑善述",
+   "role": "固安县知县"
+  }
+ ],
+ "places": [
+  "涿州",
+  "固安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 512,
+ "page_range": "21-22"
+}

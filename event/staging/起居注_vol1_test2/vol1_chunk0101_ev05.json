@@ -1,0 +1,28 @@
+{
+ "reign_year": 14,
+ "month": 9,
+ "day_text": "二十日乙巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御弘德典，讲官喇沙里、张英进讲孟子离娄之明至遵先王之法而过者未之有也。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德典"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10105,
+ "page_range": "259-260"
+}

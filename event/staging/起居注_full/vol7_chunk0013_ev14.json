@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "二十二日本",
+ "event_role": "人事任免",
+ "summary": "总河张鹏翮遵旨查奏赵世显人品，康熙帝称其堪任事，令仍留河工。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "赵世显",
+   "role": "河工官员"
+  },
+  {
+   "name": "赵申乔",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河工"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1314,
+ "page_range": "37-38"
+}

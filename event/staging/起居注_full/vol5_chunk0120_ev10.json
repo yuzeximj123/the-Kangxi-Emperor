@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "费扬古移覆王国昌，令将三十五日口粮速赶至大兵尾后随行，并给空闲骆驼帮助。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "内大臣伯"
+  },
+  {
+   "name": "王国昌",
+   "role": "运米侍郎"
+  }
+ ],
+ "places": [
+  "郭多里",
+  "翁金",
+  "土喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12010,
+ "page_range": "250-251"
+}

@@ -1,0 +1,46 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十八日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部尚书胡异责、工部尚书陈廷敬员缺，康熙询问丁忧侍郎并令察明限期具奏。",
+ "people": [
+  {
+   "name": "胡异责",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "工部尚书"
+  },
+  {
+   "name": "董讷",
+   "role": "左都御史"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "侍郎"
+  },
+  {
+   "name": "张玉书",
+   "role": "侍郎"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21407,
+ "page_range": "463-464"
+}

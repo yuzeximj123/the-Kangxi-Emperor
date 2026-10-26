@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "初二日辛巳",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部员外郎，康熙帝命魏成格暂留钦天监监副任，以迈图补授刑部员外郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏成格",
+   "role": "钦天监监副"
+  },
+  {
+   "name": "迈图",
+   "role": "理藩院主事"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8202,
+ "page_range": "207-208"
+}

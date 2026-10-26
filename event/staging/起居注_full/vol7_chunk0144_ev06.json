@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "十三日丁酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸较匠屯，是日手殪二豹，以赐和硕显亲王颜瑛、多罗贝勒延寿。",
+ "people": [
+  {
+   "name": "颜瑛",
+   "role": "和硕显亲王"
+  },
+  {
+   "name": "延寿",
+   "role": "多罗贝勒"
+  }
+ ],
+ "places": [
+  "较匠屯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14406,
+ "page_range": "299-300"
+}

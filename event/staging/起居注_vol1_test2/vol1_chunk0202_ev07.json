@@ -1,0 +1,42 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕定伊礼布、哈克山、噶尔度、色黑、郭色、门度、那穆浑等出丧时会送大臣侍卫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国维",
+   "role": "内大臣"
+  },
+  {
+   "name": "福善",
+   "role": "内大臣公"
+  },
+  {
+   "name": "坡尔喷",
+   "role": "内大臣公"
+  },
+  {
+   "name": "新玉",
+   "role": "内大臣伯"
+  },
+  {
+   "name": "津晋",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "桑格",
+   "role": "散秩大臣侯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20207,
+ "page_range": "461-462"
+}

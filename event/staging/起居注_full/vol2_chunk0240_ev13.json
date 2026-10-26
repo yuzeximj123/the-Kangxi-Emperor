@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十七日甲申",
+ "event_role": "司法案件",
+ "summary": "兵部题覆马化龙等辱骂杭严道王梁应监候秋后处决，康熙帝以所议允当，但将军所辖兵丁家人未严行约束，命再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马化龙",
+   "role": "案犯"
+  },
+  {
+   "name": "王梁",
+   "role": "杭严道"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24013,
+ "page_range": "523-524"
+}

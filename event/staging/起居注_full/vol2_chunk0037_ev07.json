@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初七日辛卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补佥都御史员缺，康熙帝命以余国柱补授。",
+ "people": [
+  {
+   "name": "余国柱",
+   "role": "拟补佥都御史"
+  },
+  {
+   "name": "熊一请",
+   "role": "拟右通政"
+  },
+  {
+   "name": "马世济",
+   "role": "陪拟大理寺少卿"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3707,
+ "page_range": "117-118"
+}

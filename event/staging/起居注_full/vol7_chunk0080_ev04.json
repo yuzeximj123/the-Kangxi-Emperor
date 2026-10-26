@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十一日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至黄河岸率皇太子、诸皇子射箭皆中，令山西官员及扈从文臣射论，由阔河渡河。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8004,
+ "page_range": "171-172"
+}

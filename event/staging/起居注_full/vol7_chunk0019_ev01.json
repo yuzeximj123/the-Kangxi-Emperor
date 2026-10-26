@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "十三日癸玄",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝在中行宫，巳时出行宫外率皇太子、诸皇子及善射侍卫射箭，发矢皆中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "随行"
+  },
+  {
+   "name": "诸皇子",
+   "role": "随行"
+  },
+  {
+   "name": "善射侍卫",
+   "role": "随行"
+  }
+ ],
+ "places": [
+  "中行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1901,
+ "page_range": "49-50"
+}

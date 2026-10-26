@@ -1,0 +1,36 @@
+{
+ "reign_year": 39,
+ "month": 8,
+ "day_text": "初九日己巳",
+ "event_role": "人事任免",
+ "summary": "吏部题三等阿达哈哈番巴尔纳获罪斥革停袭，康熙帝以其父有功令其自承袭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "满都",
+   "role": "学士"
+  },
+  {
+   "name": "邵称布",
+   "role": "学士"
+  },
+  {
+   "name": "巴尔纳",
+   "role": "三等阿达哈哈番"
+  }
+ ],
+ "places": [
+  "沅江府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16515,
+ "page_range": "340-341"
+}

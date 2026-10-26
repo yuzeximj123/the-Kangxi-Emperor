@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "二十五日丁卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补通政使席兰泰升任员缺，康熙帝命将侍读学士、侍讲学士、少詹及四品官等职名一同开列来看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席兰泰",
+   "role": "通政使"
+  },
+  {
+   "name": "图纳",
+   "role": "詹事"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16909,
+ "page_range": "381-382"
+}

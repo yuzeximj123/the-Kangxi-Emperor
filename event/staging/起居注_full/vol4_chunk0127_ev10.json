@@ -1,0 +1,33 @@
+{
+ "reign_year": 29,
+ "month": 7,
+ "day_text": "十七日丙午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士伊桑阿、尚书顾巴代，命侍郎赛吃汉丈量口以北至坡赖村践割田亩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "顾巴代",
+   "role": "尚书"
+  },
+  {
+   "name": "赛吃汉",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "蒂匠屯",
+  "坡赖村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12710,
+ "page_range": "266-267"
+}

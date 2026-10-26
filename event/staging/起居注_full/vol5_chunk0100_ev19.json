@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "二十八日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命各部院本章停其驰奏，凡事俱着皇太子听理，重大紧要之事由诸大臣会同议定启奏皇太子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10019,
+ "page_range": "210-211"
+}

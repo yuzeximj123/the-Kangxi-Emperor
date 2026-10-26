@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "十六日癸亥",
+ "event_role": "人事任免",
+ "summary": "吏部题太常寺少卿沙木哈员缺，拟以阴宝珠正、阿喇陪，康熙帝命于曾任太常寺者内公同选择具奏。",
+ "people": [
+  {
+   "name": "沙木哈",
+   "role": "太常寺少卿"
+  },
+  {
+   "name": "阴宝珠",
+   "role": "中允"
+  },
+  {
+   "name": "阿喇",
+   "role": "拟陪"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1513,
+ "page_range": "40-41"
+}

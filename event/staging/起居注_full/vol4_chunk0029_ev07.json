@@ -1,0 +1,35 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕图纳等，自述听政二十余年阅历，命其会同总河王新命详看茅城铺、高加堰等处并海口，先陈大略。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "王新命",
+   "role": "总河"
+  },
+  {
+   "name": "佛伦",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "茅城铺",
+  "高加堰",
+  "海口",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2907,
+ "page_range": "70-71"
+}

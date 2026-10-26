@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初三日闫未",
+ "event_role": "谕旨决策",
+ "summary": "户部覆山西巡抚噶礼题右卫官兵浮给草束银两应追还，康熙帝认为追赔殊为可悯，命免追赔准其销算。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西",
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2008,
+ "page_range": "51-52"
+}

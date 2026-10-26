@@ -1,0 +1,26 @@
+{
+ "reign_year": 11,
+ "month": 6,
+ "day_text": "十一日乙本",
+ "event_role": "皇帝行止",
+ "summary": "卯时，康熙帝向太皇太后宫问安毕，前往南苑，驻跸西宣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "南苑",
+  "西宣"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1607,
+ "page_range": "89-90"
+}

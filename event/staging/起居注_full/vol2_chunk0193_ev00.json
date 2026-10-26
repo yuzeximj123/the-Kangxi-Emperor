@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题报经略莫洛等在宁羌州阵亡议叙事，康熙命察明主事桑阿布从阵亡处逃出至宝鸡事，余依部议。",
+ "people": [
+  {
+   "name": "莫洛",
+   "role": "经略"
+  },
+  {
+   "name": "桑阿布",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "宁羌州",
+  "宝鸡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19300,
+ "page_range": "429-430"
+}

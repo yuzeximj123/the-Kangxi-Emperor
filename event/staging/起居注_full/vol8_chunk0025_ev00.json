@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论用人当以真实为尚，评额伦特、张伯行等人长短，告诫臣下勿以喜怒待人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额伦特",
+   "role": "总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2500,
+ "page_range": "61-62"
+}

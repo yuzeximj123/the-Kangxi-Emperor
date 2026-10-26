@@ -1,0 +1,42 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "初九日甲申",
+ "event_role": "人事任免",
+ "summary": "吏部议拨船管夫官员加级，拟裁减粮道鲍复昌等十八人议叙，康熙帝命将坐粮厅江藻添入议叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "舒略",
+   "role": "侍郎"
+  },
+  {
+   "name": "鲍复昌",
+   "role": "粮道"
+  },
+  {
+   "name": "江藻",
+   "role": "坐粮厅"
+  },
+  {
+   "name": "辛保",
+   "role": "仓场侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5615,
+ "page_range": "123-124"
+}

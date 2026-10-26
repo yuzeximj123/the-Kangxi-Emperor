@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命九卿举荐光禄寺卿人选，吴刺奏开列官员皆可用，康熙帝以张贮条奏克慎，命补授光禄寺卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴刺",
+   "role": "大臣"
+  },
+  {
+   "name": "张贮",
+   "role": "光禄寺卿候补"
+  },
+  {
+   "name": "张壹联",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21800,
+ "page_range": "446-447"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十一日癸酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自新兴起行，沿途百姓数千人执香跪迎瞻仰天颜，是日于安州冯村登舟，至新安县段村泊舟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "新兴",
+  "安州",
+  "冯村",
+  "新安县",
+  "段村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 720,
+ "page_range": "25-26"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十一日王午",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆浙闽总督金世荣题渔船限定尺丈及水师派官看守，康熙命照该督所请议奏。",
+ "people": [
+  {
+   "name": "金世荣",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8510,
+ "page_range": "181-182"
+}

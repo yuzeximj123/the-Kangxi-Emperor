@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "初二日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "户部题覆郎中色楞格议福建设炉二十座铸钱并销毁明季旧钱，康熙帝令九卿酌议，主张听其从容毁去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色楞格",
+   "role": "郎中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9205,
+ "page_range": "219-220"
+}

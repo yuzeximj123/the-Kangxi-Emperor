@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "初六日于午",
+ "event_role": "谕旨决策",
+ "summary": "礼部郎中仲古尔代等来奏安厝皇子事宜，康熙帝恐太皇太后闻知，召至僻静处垂泪面谕安厝事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "仲古尔代",
+   "role": "礼部郎中"
+  }
+ ],
+ "places": [
+  "太皇太后行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 823,
+ "page_range": "73-74"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "二十七日癸巳",
+ "event_role": "司法案件",
+ "summary": "胡通文中闻请给王永年等十三员恩恤，吏部议不准，康熙帝命查其子弟未反者袭官职再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王永年",
+   "role": "请恤官员"
+  },
+  {
+   "name": "孙延龄",
+   "role": "挟仇杀人者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 217,
+ "page_range": "39-40"
+}

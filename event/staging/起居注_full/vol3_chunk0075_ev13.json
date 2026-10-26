@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙谕许贞务加意绥辑使兵民两安，又谕崔证直隶旗民杂处须抚义得宜、洁己率属。",
+ "people": [
+  {
+   "name": "许贞",
+   "role": "广东提督"
+  },
+  {
+   "name": "崔证",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7513,
+ "page_range": "185-186"
+}

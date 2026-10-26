@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 6,
+ "day_text": "十九日全已",
+ "event_role": "人事任免",
+ "summary": "奉天府府尹王国安题奉天府通判常学良员缺，请以精通满汉文、熟练旗下事务之人补授，康熙帝着交吏部选择具奏。",
+ "people": [
+  {
+   "name": "王国安",
+   "role": "奉天府府尹"
+  },
+  {
+   "name": "常学良",
+   "role": "奉天府通判"
+  }
+ ],
+ "places": [
+  "奉天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6337,
+ "page_range": "137-138"
+}

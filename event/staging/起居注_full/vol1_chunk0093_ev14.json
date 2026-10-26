@@ -1,0 +1,25 @@
+{
+ "reign_year": 14,
+ "month": 5,
+ "day_text": "十一日戊戌",
+ "event_role": "其他",
+ "summary": "康熙帝召刑部员外郎张鹏翮至懋勤殿，问其满语满文所学，命书写汉字呈览，赐茶于乾清门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "刑部员外郎"
+  }
+ ],
+ "places": [
+  "懋勤殿",
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9314,
+ "page_range": "243-244"
+}

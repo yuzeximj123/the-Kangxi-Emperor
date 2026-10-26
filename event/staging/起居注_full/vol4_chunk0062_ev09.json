@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "初七日甲成",
+ "event_role": "人事任免",
+ "summary": "康熙帝阅寿州营副将杨元弱步射，见其材力壮健，命兵部记名后用为总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨元弱",
+   "role": "寿州营副将"
+  }
+ ],
+ "places": [
+  "寿州营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6209,
+ "page_range": "136-137"
+}

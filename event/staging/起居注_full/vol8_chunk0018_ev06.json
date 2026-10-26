@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初三日己卯",
+ "event_role": "人事任免",
+ "summary": "兵部题杭州副都统道福色员缺，康熙帝命以杭州佐领嘴什补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "道福色",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "孙柱",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "嘴什",
+   "role": "杭州佐领"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1806,
+ "page_range": "47-48"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十四日甲申",
+ "event_role": "谕旨决策",
+ "summary": "工部题覆湖广总督徐国相请减修随征二营兵丁盔甲器械银两并令赔偿，康熙帝以陈珀阵亡、王度冲效力行间，命免赔再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐国相",
+   "role": "湖广总督"
+  },
+  {
+   "name": "陈珀",
+   "role": "阵亡者"
+  },
+  {
+   "name": "王度冲",
+   "role": "效力行间者"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8405,
+ "page_range": "203-204"
+}

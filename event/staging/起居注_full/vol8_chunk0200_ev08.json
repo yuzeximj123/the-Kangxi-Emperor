@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请原任太原府知府赵凤诏拟斩立决及未完赃银变价赔补事，康熙帝斥其欺君贪赃，命交伊父兄杀之，此事收贮进京时再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "原任太原府知府"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "陕西",
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20008,
+ "page_range": "411-412"
+}

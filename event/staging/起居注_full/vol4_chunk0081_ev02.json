@@ -1,0 +1,29 @@
+{
+ "reign_year": 28,
+ "month": 8,
+ "day_text": "初九日",
+ "event_role": "谕旨决策",
+ "summary": "兵部题覆四川巡抚所奏番人阿所侵边杀吏，康熙帝令兵部贤能官员会同四川委官前往东川安氏禄世豪处令献出阿所察审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔图",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "禄世豪",
+   "role": "东川安氏土司"
+  }
+ ],
+ "places": [
+  "四川",
+  "东川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8102,
+ "page_range": "174-175"
+}

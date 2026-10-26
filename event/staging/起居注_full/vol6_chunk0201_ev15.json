@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "初七日吴巳",
+ "event_role": "人事任免",
+ "summary": "吏部题通政司参议员缺拟以候补五品官徐延入补授，康熙帝以其协理河工无效，令以原品随旗行走、对品补用。",
+ "people": [
+  {
+   "name": "徐延入",
+   "role": "候补五品官"
+  },
+  {
+   "name": "张鹏副",
+   "role": "总河"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20115,
+ "page_range": "412-413"
+}

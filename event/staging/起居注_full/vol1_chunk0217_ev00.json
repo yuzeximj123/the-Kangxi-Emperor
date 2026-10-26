@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就曾寅条奏盐课事表示情弊未必全无，应遣官往察，因索额图等言姑从部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "曾寅",
+   "role": "专司盐课官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21700,
+ "page_range": "491-492"
+}

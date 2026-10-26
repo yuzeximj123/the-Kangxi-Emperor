@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "降附厄鲁特人讲述噶尔丹溃逃后，伏兵擒获七名哨骑时忽起旋风使七人不知所向，先前库即根等探报此事众人未信，至是始知果真。",
+ "people": [
+  {
+   "name": "库即根",
+   "role": "喀尔喀纳木酒尔王之长史"
+  },
+  {
+   "name": "讷尔布",
+   "role": "拨什库"
+  }
+ ],
+ "places": [
+  "克鲁伦河",
+  "塔尔吉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13401,
+ "page_range": "278-279"
+}

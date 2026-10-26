@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十日丙午",
+ "event_role": "起居注官记录",
+ "summary": "本日起居注官库勒纳、牛钮记录，讲官库勒纳、牛钮、常书进讲谦卦，康熙帝亲讲。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "起居注官"
+  },
+  {
+   "name": "牛钮",
+   "role": "起居注官"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1013,
+ "page_range": "63-64"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "下关管河同知丁健、邳州知州孙居误、守备姚国干等来朝。",
+ "people": [
+  {
+   "name": "丁健",
+   "role": "管河同知"
+  },
+  {
+   "name": "孙居误",
+   "role": "邳州知州"
+  },
+  {
+   "name": "姚国干",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "下关",
+  "邳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6303,
+ "page_range": "138-139"
+}

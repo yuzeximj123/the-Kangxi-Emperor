@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十八日乙卯",
+ "event_role": "赏赐",
+ "summary": "康熙帝谕大学士传集九卿、科道及日讲官于瀛台，颁赐瀛台河内所产莲子、菱、芡，并令不必谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25916,
+ "page_range": "575-576"
+}

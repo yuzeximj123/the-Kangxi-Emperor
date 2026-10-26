@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初六日丁亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙论盛京乌喇谷贱、直隶米价未减及今年少雨，强调预为积贮之备。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京",
+  "乌喇",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 918,
+ "page_range": "29-30"
+}

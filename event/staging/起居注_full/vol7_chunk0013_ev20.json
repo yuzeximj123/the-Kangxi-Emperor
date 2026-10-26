@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "二十五日丙子",
+ "event_role": "谕旨决策",
+ "summary": "内大臣坡尔盆等以会鞠喀尔喀成四十九旗事请训，康熙帝谕令酌受蒙古所给物件、不得索取马匹并留心访察盗贼。",
+ "people": [
+  {
+   "name": "坡尔盆",
+   "role": "内大臣公"
+  },
+  {
+   "name": "心裕",
+   "role": "领侍卫内大臣伯"
+  },
+  {
+   "name": "哈雅尔图",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1320,
+ "page_range": "37-38"
+}

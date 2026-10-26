@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝与大学士马齐等议溜准套开河事，认为此河宜急开，但工程甚大，归仁堤出水逼近河身处尚须详酌。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "溜准套",
+  "归仁堤"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14600,
+ "page_range": "303-304"
+}

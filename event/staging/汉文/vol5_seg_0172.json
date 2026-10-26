@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙五十三年二月二十八日",
+ "reign_year": 53,
+ "month": 2,
+ "day": 28,
+ "event_role": "贸易漕运",
+ "summary": "漕运总督郎廷极奏报漕粮过淮船数、催儹北上情形，并报淮城雨水调匀、二麦可望有收及米麦价値平稳、民情安静。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "漕运总督"
+  }
+ ],
+ "places": [
+  "淮城",
+  "山东",
+  "河南",
+  "徐属"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并询问米价为何上涨。",
+ "source_title": "漕运总督郎廷极奏报漕船过淮日期并淮雨水米价摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 172
+}

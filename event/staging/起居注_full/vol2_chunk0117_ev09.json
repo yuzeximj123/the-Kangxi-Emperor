@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 4,
+ "day_text": "初七日甲申",
+ "event_role": "人事任免",
+ "summary": "礼部题请遣往册封琉球国王，以检讨汪楫为正使、中书林麟焻为副使，康熙帝询问二人才学后颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汪楫",
+   "role": "检讨、正使"
+  },
+  {
+   "name": "林麟焻",
+   "role": "中书、副使"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "库勒纳",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "琉球"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11709,
+ "page_range": "277-278"
+}

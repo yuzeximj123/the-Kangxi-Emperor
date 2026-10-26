@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十一日癸亥",
+ "event_role": "人事任免",
+ "summary": "兵部题补昭陵总管，康熙帝询问密雅纳为人，勒德洪称其人亦可，康熙帝命密雅纳补授总管。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "密雅纳",
+   "role": "补授昭陵总管"
+  }
+ ],
+ "places": [
+  "昭陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5118,
+ "page_range": "145-146"
+}

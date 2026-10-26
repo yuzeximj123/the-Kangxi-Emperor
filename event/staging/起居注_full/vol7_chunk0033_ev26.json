@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "初二日已印",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝由景州城内便过开福寺，量寺塔并赐寺僧白金，当日驻跸景州城南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "景州城",
+  "开福寺",
+  "景州城南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3326,
+ "page_range": "77-78"
+}

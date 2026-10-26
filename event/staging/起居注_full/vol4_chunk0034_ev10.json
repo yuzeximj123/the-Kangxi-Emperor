@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 6,
+ "day_text": "二十二日癸刻",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝裁决常官保免鞭责、康巴儿枷号三月鞭一百给乌喇打牲之人为奴，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常官保",
+   "role": "被宽免侍卫"
+  },
+  {
+   "name": "康巴儿",
+   "role": "被处罚职官"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3410,
+ "page_range": "80-81"
+}

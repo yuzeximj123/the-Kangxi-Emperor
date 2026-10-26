@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问两淮运使李陈常操守，众臣奏其操守好且有才，张鹏翮称两淮盐务非得此人不可。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李陈常",
+   "role": "两淮运使"
+  },
+  {
+   "name": "王掞",
+   "role": "大臣"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3709,
+ "page_range": "85-86"
+}

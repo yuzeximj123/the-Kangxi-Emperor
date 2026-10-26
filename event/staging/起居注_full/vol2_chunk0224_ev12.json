@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "十四日壬午",
+ "event_role": "议政听政",
+ "summary": "议兵部四品官吴朗阿伤发病故给银事，康熙帝以其非阵伤且无劳绩，令传问当日同伍将士再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴朗阿",
+   "role": "四品官"
+  },
+  {
+   "name": "程福亮",
+   "role": "将领（被提及）"
+  }
+ ],
+ "places": [
+  "汉中府",
+  "擂鼓台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22412,
+ "page_range": "491-492"
+}

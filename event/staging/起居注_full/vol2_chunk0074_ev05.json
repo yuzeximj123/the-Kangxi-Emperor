@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "十五日乙未",
+ "event_role": "谕旨决策",
+ "summary": "户部启奏大同运米，康熙帝议令每佐领出车两辆转运，余米差贤能司官赴大同相近地方采买。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7405,
+ "page_range": "191-192"
+}

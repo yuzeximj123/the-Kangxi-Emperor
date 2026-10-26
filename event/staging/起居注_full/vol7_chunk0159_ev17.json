@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初一日庚寅",
+ "event_role": "人事任免",
+ "summary": "偏沅巡抚赵申乔题高铎因盗案降级但为人勤慎，请留任，康熙帝令带所降之级留任靖州知州。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "高铎",
+   "role": "靖州知州"
+  }
+ ],
+ "places": [
+  "常德府",
+  "靖州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15917,
+ "page_range": "329-330"
+}

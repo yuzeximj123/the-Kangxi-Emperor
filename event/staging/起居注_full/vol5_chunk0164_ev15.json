@@ -1,0 +1,33 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "十一日甲午",
+ "event_role": "谕旨决策",
+ "summary": "侍卫关保传谕大学士阿兰泰、尚书马齐，归化城谷收价贱，从者十日粮给价银自买，存留积米备师行调遣。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "归化城",
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16415,
+ "page_range": "338-339"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆两江总督噶礼参原品休致中军副将李林请在边疆效力不准行，康熙令将这本着暂收贮。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "李林",
+   "role": "原品休致中军副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16302,
+ "page_range": "337-338"
+}

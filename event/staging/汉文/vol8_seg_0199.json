@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十八年六月十九日",
+ "reign_year": 58,
+ "month": 6,
+ "day": 19,
+ "event_role": "奏报灾情收成",
+ "summary": "湖广巡抚张连登奏报湖北早稻收割过半、收成十分，米价平贱，并称二麦丰收，具折恭慰圣怀。",
+ "people": [
+  {
+   "name": "张连登",
+   "role": "湖广巡抚，奏报人"
+  }
+ ],
+ "places": [
+  "湖广",
+  "湖北",
+  "湖南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知悉，引俗语“湖广熟，天下足”，称湖北如此湖南亦可知，并言今岁北方麦大收、秋成十分有余，颇为好年。",
+ "source_title": "湖廣巡撫張連登奏報早稻收成分數摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2788",
+ "order_index": 199
+}

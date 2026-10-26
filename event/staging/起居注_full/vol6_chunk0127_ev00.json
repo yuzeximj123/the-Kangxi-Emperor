@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝就湖南盗贼拟知州赵国宣罪案及总督郭静察参往审郎中刚五达等所行事迹作出谕示，命将刚五达等锁拿交九卿夹询。",
+ "people": [
+  {
+   "name": "赵国宣",
+   "role": "拟知州"
+  },
+  {
+   "name": "郭静察",
+   "role": "总督"
+  },
+  {
+   "name": "刚五达",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12700,
+ "page_range": "264-265"
+}

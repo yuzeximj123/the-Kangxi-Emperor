@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "酉时",
+ "event_role": "人事任免",
+ "summary": "题公费扬古世职照例准长子鄂租承袭，康熙命与其次子陈泰承袭。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "公"
+  },
+  {
+   "name": "鄂租",
+   "role": "三等侍卫"
+  },
+  {
+   "name": "陈泰",
+   "role": "费扬古次子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23213,
+ "page_range": "474-475"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十四日丙子",
+ "event_role": "司法案件",
+ "summary": "两广总督赵弘灿题解送自首海贼陈辅中途病故，卢阿乾等取保释放俟拿获陈泰哥质审，康熙帝照该督所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "两广总督"
+  },
+  {
+   "name": "陈辅",
+   "role": "自首海贼"
+  },
+  {
+   "name": "卢阿乾",
+   "role": "伙贼"
+  },
+  {
+   "name": "陈泰哥",
+   "role": "未获案犯"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11018,
+ "page_range": "231-232"
+}

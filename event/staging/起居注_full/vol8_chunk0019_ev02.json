@@ -1,0 +1,42 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初五日辛已",
+ "event_role": "人事任免",
+ "summary": "大学士温达等以折本请旨，请补吏部尚书吴一坡所遗员缺，开列户部尚书张鹏副职名。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "王拨",
+   "role": "大学士"
+  },
+  {
+   "name": "吴一坡",
+   "role": "原吏部尚书"
+  },
+  {
+   "name": "张鹏副",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1902,
+ "page_range": "49-50"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "event_summary": "康熙帝以庸劣罢免太仆寺少卿胡木、布席秦、光禄卿荣国放、太仆卿崔官、大理少卿张尚礼五人，令随旗上朝。",
+ "people": [
+  {
+   "name": "胡木",
+   "role": "太仆寺少卿"
+  },
+  {
+   "name": "布席秦",
+   "role": "太仆寺少卿"
+  },
+  {
+   "name": "荣国放",
+   "role": "光禄卿"
+  },
+  {
+   "name": "崔官",
+   "role": "太仆卿"
+  },
+  {
+   "name": "张尚礼",
+   "role": "大理少卿"
+  },
+  {
+   "name": "色冷",
+   "role": "太仆寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23702,
+ "page_range": "517-518"
+}

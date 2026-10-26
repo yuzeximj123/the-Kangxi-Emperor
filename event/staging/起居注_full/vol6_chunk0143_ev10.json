@@ -1,0 +1,23 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "event_role_note": null,
+ "summary": "是日起居注官阿山、揆叙记录。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "起居注官"
+  },
+  {
+   "name": "揆叙",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14310,
+ "page_range": "296-297"
+}

@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十九日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "马齐等议奏首告席尔达之胡喇代等交内务府安置，康熙帝以开家奴告主之端，令发往乌喇。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "胡喇代",
+   "role": "首告家奴"
+  },
+  {
+   "name": "席尔达",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3122
+}

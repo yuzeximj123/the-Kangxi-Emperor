@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初五日己巳",
+ "event_role": "司法案件",
+ "summary": "恶棍首告管诚之田守礼冲突仪仗拟流徒，康熙帝令从宽免罪释放，并令将李双灿等所定罪案勿准折赎、管诚情节问明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "田守礼",
+   "role": "被告"
+  },
+  {
+   "name": "李双灿",
+   "role": "挖田守礼目睛者"
+  },
+  {
+   "name": "管诚",
+   "role": "被告"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12620,
+ "page_range": "262-263"
+}

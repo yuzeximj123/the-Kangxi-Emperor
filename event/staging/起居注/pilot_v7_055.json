@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十五年十四日戊辰",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十四日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕两淮盐务积欠甚多，曹寅、李煦每年得银二十四万两，令每年取十万两补旧欠，与户部会议来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "曹寅",
+   "role": "两淮盐务官员"
+  },
+  {
+   "name": "李煦",
+   "role": "两淮盐务官员"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3055
+}

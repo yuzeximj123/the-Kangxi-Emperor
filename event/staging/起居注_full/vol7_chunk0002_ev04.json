@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "理藩院题瑚呼诺尔贝勒那纳木洼尔厄尔德尼请更地游牧议不准行，康熙帝以彼处难居、贺兰山水草茂盛，令发回该部另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "那纳木洼尔厄尔德尼",
+   "role": "瑚呼诺尔贝勒"
+  }
+ ],
+ "places": [
+  "瑚呼诺尔",
+  "贺兰山",
+  "西喇塔拉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 204,
+ "page_range": "15-16"
+}

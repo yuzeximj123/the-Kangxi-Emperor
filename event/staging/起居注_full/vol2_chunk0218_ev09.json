@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十三日",
+ "event_role": "人事任免",
+ "summary": "工部题琉璃、黑窑两窑差，拟用员外郎张圣业等，康熙帝命该部选择贤能司员具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张圣业",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "琉璃窑",
+  "黑窑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21809,
+ "page_range": "479-480"
+}

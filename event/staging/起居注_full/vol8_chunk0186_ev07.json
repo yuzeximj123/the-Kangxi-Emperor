@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "二",
+ "event_role": "人事任免",
+ "summary": "将管牛羊群员外郎巴洼尔留京城俄罗斯官学两处行走缮折具奏，康熙帝谕令依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴洼尔",
+   "role": "管牛羊群员外郎"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18607,
+ "page_range": "383-384"
+}

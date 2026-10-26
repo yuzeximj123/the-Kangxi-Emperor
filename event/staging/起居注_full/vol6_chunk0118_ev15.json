@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "十三日丁丑",
+ "event_role": "朝见受贺",
+ "summary": "康熙驻足葛家屯，旧州营都司周方等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "周方",
+   "role": "旧州营都司"
+  }
+ ],
+ "places": [
+  "葛家屯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11815,
+ "page_range": "246-247"
+}

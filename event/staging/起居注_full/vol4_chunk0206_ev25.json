@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 9,
+ "day_text": "十五日辛西",
+ "event_role": "人事任免",
+ "summary": "兵部题大同总兵官王有员缺请旨；康熙帝以康调元人材壮健、河南事务简少，命调补并驰驿速往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "康调元",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "大同",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20625,
+ "page_range": "424-425"
+}

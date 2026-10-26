@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "初一日庚成",
+ "event_role": "军务",
+ "summary": "议政大臣等查奏大臣官员等可用骆驼共三百二十六头，康熙帝命明早起行，着内大臣明珠、都统噶尔马、王永誉带领送至两狼山。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "噶尔马",
+   "role": "都统"
+  },
+  {
+   "name": "王永誉",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "两狼山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22417,
+ "page_range": "458-459"
+}

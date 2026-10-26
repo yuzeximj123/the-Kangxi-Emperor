@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "二十二日戊申",
+ "event_role": "人事任免",
+ "summary": "兵部为福陵总管齐兰布员缺开列总尉孙柱等具奏，康熙帝以孙柱人材矫健授为总管。",
+ "people": [
+  {
+   "name": "齐兰布",
+   "role": "福陵总管"
+  },
+  {
+   "name": "孙柱",
+   "role": "总尉"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11613,
+ "page_range": "243-244"
+}

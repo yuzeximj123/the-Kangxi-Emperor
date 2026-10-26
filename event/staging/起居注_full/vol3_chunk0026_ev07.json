@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十二日",
+ "event_role": "司法案件",
+ "summary": "兵部议将杀死总兵官王怀忠之王可成等三人交刑部立斩，康熙帝以人命关系最重，命兵、刑二部会同令原任总兵官对质定案。",
+ "people": [
+  {
+   "name": "王怀忠",
+   "role": "总兵官"
+  },
+  {
+   "name": "王可成",
+   "role": "犯人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2607,
+ "page_range": "87-88"
+}

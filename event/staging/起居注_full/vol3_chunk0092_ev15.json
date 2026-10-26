@@ -1,0 +1,52 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "初九日戊辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫，大学士等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "丹代",
+   "role": "学士"
+  },
+  {
+   "name": "禅布",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9215,
+ "page_range": "219-220"
+}

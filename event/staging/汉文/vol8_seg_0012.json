@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十六年十一月十五日",
+ "reign_year": 56,
+ "month": 11,
+ "day": 15,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦因京抄传闻皇上腿疾未进宫而忧惧，具折恭请万安，并祈皇太后安康。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏折具奏人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后，奏中提及偶得疾"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙自述夏天身体亦不甚好，又兼忧愁，故如此。",
+ "source_title": "蘇州織造李煦奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2557",
+ "order_index": 12
+}

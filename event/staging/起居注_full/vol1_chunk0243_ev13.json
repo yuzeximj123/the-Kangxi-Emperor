@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "十七日乙巳",
+ "event_role": "河工水利",
+ "summary": "山东巡抚施维翰题报总河靳辅丁忧，康熙帝以河工关系重大工程未完不准守制，命工成之日自行题请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施维翰",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24313,
+ "page_range": "543-544"
+}

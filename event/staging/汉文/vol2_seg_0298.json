@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十九年四月十六日",
+ "reign_year": 49,
+ "month": 4,
+ "day": 10,
+ "event_role": "请安谢恩",
+ "summary": "广东巡抚范时崇奏请圣安，并陈述自己奉命兼理盐政三年余，已具疏辞任并蒙俞允，又报将盐斤督销等事具摺奏闻。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "盐臣"
+  },
+  {
+   "name": "张天觉",
+   "role": "盐案相关人物"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "廣東巡撫范時崇奏為再陳辭兼鹽兼差緣由摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "653",
+ "order_index": 298
+}

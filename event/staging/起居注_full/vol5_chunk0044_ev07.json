@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "初八日壬寅",
+ "event_role": "司法案件",
+ "summary": "大学士伊桑阿等奏遵旨问步军统领凯音布，步军校张席因所差步军毛二扒城恐罪归己而抢回毛二，罪不可免，但人材壮健曾多效力，请旨。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "步军统领"
+  },
+  {
+   "name": "张席",
+   "role": "步军校"
+  },
+  {
+   "name": "毛二",
+   "role": "步军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4407,
+ "page_range": "98-99"
+}

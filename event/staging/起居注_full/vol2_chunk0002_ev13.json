@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十二日戊辰",
+ "event_role": "人事任免",
+ "summary": "广东巡抚金俊请以游击张忆补授副将，部议不允，康熙帝以其军前效力有名命依所题补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金俊",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "张忆",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 213,
+ "page_range": "47-48"
+}

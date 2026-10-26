@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "二十五日甲寅",
+ "event_role": "军务",
+ "summary": "佛伦奏黑龙江米粮原少，康熙既多积米粮又遣萨海于和披处屯田，今岁田禾茂盛，大兵征罗刹回爱浑粮不可胜用。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "侍郎"
+  },
+  {
+   "name": "萨海",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "和披",
+  "爱浑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9814,
+ "page_range": "231-232"
+}

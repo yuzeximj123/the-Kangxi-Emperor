@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "二十四日甲申",
+ "event_role": "人事任免",
+ "summary": "吏部题补工部侍郎徐旭龄升任员缺，康熙帝询问开列人员，命兵部侍郎陈一炳以原衔管工部侍郎事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "陈一炳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7107,
+ "page_range": "177-178"
+}

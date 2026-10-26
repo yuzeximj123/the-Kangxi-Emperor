@@ -1,0 +1,20 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "初二日甲戌",
+ "event_role": "其他",
+ "summary": "午时，康熙帝复诣太皇太后宫，作乐大宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16609,
+ "page_range": "375-376"
+}

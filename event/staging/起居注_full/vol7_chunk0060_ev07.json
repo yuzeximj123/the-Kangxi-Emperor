@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "初六日庚戌",
+ "event_role": "祭祀典礼",
+ "summary": "自本日起因夏至有事于方泽，康熙帝开始斋戒三日。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "方泽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6007,
+ "page_range": "131-132"
+}

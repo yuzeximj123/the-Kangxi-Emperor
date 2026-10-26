@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "二十二日丙寅",
+ "event_role": "人事任免",
+ "summary": "马齐等奏问原任侍郎任克溥应否给尚书空衔，康熙帝令给以尚书之衔。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "任克溥",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6207,
+ "page_range": "135-136"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十四日丁卯",
+ "event_role": "人事任免",
+ "summary": "户部覆仓场侍郎辛保等题请升任坐粮厅江藻暂留办事议不准，康熙帝命江藻暂留任，钱粮销算完再赴新任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "辛保",
+   "role": "仓场侍郎"
+  },
+  {
+   "name": "江藻",
+   "role": "坐粮厅"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7005,
+ "page_range": "151-152"
+}

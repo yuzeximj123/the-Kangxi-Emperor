@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "三十日丙辰",
+ "event_role": "起居注官记录",
+ "summary": "起居注官评论康熙帝德教远播、噶尔丹悖逆，亲统六师声罪致讨，军容谋略亘古未有。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10105,
+ "page_range": "212-213"
+}

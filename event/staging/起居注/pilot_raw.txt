@@ -1,0 +1,401 @@
+[
+  {
+    "date_raw": "康熙十年九月初一日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "朔己酉",
+    "event_role": "祭祀典礼",
+    "summary": "康熙帝以寰宇一统，遣官告祭太祖、太宗山陵行告成礼。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["太祖山陵", "太宗山陵"]
+  },
+  {
+    "date_raw": "康熙十年九月初三日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "初三日辛亥",
+    "event_role": "皇帝行止",
+    "summary": "卯时康熙帝素服出午门，王以下官员跪送，出朝阳门驻跸三河县。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["午门", "朝阳门", "三河县"]
+  },
+  {
+    "date_raw": "康熙十年九月初四日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "初四日壬子",
+    "event_role": "皇帝行止",
+    "summary": "康熙帝驻跸别山，地方文武官员来朝见。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["别山"]
+  },
+  {
+    "date_raw": "康熙十年九月初五日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "初五日癸丑",
+    "event_role": "朝见受贺",
+    "summary": "康熙帝驻跸沙里河，科尔沁部镇国公都思哈儿等来朝。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"},
+      {"name": "都思哈儿", "role": "科尔沁部镇国公"}
+    ],
+    "places": ["沙里河"]
+  },
+  {
+    "date_raw": "康熙十年九月初六日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "初六日甲寅",
+    "event_role": "皇帝行止",
+    "summary": "康熙帝驻跸梯子镇，地方文武官员来朝见。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["梯子镇"]
+  },
+  {
+    "date_raw": "康熙十年九月初七日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "初七日乙卯",
+    "event_role": "皇帝行止",
+    "summary": "康熙帝驻跸范家店，地方文武官员来朝见。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["范家店"]
+  },
+  {
+    "date_raw": "康熙十年九月初八日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "初八日丙辰",
+    "event_role": "皇帝行止",
+    "summary": "康熙帝驻跸榆关，地方文武官员来朝见。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["榆关"]
+  },
+  {
+    "date_raw": "康熙十年九月初九日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "初九日丁巳",
+    "event_role": "皇帝行止",
+    "summary": "康熙帝出山海关，驻跸姜女寺。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["山海关", "姜女寺"]
+  },
+  {
+    "date_raw": "康熙十年九月初十日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "初十日戊午",
+    "event_role": "皇帝行止",
+    "summary": "康熙帝驻跸狗儿河。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["狗儿河"]
+  },
+  {
+    "date_raw": "康熙十年九月十一日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "十一日己未",
+    "event_role": "朝见受贺",
+    "summary": "康熙帝驻跸烟台河，喀喇沁部郡王班达尔沙、镇国公乌忒巴喇等来朝。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"},
+      {"name": "班达尔沙", "role": "喀喇沁部多罗杜棱郡王"},
+      {"name": "乌忒巴喇", "role": "喀喇沁部镇国公"}
+    ],
+    "places": ["烟台河"]
+  },
+  {
+    "date_raw": "康熙十年九月十二日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "十二日庚申",
+    "event_role": "朝见受贺",
+    "summary": "康熙帝驻跸连山，土默特部贝子顾稳及台吉等来朝。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"},
+      {"name": "顾稳", "role": "土默特部贝子"}
+    ],
+    "places": ["连山"]
+  },
+  {
+    "date_raw": "康熙十年九月十三日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "十三日辛酉",
+    "event_role": "朝见受贺",
+    "summary": "康熙帝驻跸小陵河，土默特部三等台吉沙克都儿来朝。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"},
+      {"name": "沙克都儿", "role": "土默特部三等台吉"}
+    ],
+    "places": ["小陵河"]
+  },
+  {
+    "date_raw": "康熙十年九月十四日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "十四日壬戌",
+    "event_role": "朝见受贺",
+    "summary": "康熙帝驻跸榆林堡，敖汉部和硕额驸齐伦巴图等来朝。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"},
+      {"name": "齐伦巴图", "role": "敖汉部和硕额驸"}
+    ],
+    "places": ["榆林堡"]
+  },
+  {
+    "date_raw": "康熙十年九月十五日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "十五日癸亥",
+    "event_role": "朝见受贺",
+    "summary": "康熙帝驻跸盘山堡，奈曼部三等台吉鄂齐儿等来朝。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"},
+      {"name": "鄂齐儿", "role": "奈曼部三等台吉"}
+    ],
+    "places": ["盘山堡"]
+  },
+  {
+    "date_raw": "康熙十年九月十六日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "十六日甲子",
+    "event_role": "朝见受贺",
+    "summary": "康熙帝驻跸小河山，科尔沁国多罗秉图郡王额机因等来朝。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"},
+      {"name": "额机因", "role": "科尔沁国多罗秉图郡王"}
+    ],
+    "places": ["小河山"]
+  },
+  {
+    "date_raw": "康熙十年九月十七日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "十七日乙丑",
+    "event_role": "朝见受贺",
+    "summary": "康熙帝驻跸双台，敖汉部郡王布达、土默特部贝勒卓里克图等来朝。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"},
+      {"name": "布达", "role": "敖汉部多罗郡王"},
+      {"name": "卓里克图", "role": "土默特部多罗达尔汉贝勒"}
+    ],
+    "places": ["双台"]
+  },
+  {
+    "date_raw": "康熙十年九月十八日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "十八日丙寅",
+    "event_role": "朝见受贺",
+    "summary": "康熙帝渡辽河驻跸，科尔沁国卓里克图亲王鄂齐儿、达尔汉亲王班第等来朝。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"},
+      {"name": "鄂齐儿", "role": "科尔沁国和硕卓里克图亲王"},
+      {"name": "班第", "role": "科尔沁国和硕达尔汉亲王"},
+      {"name": "布达里", "role": "多罗郡王"},
+      {"name": "鄂齐儿", "role": "多罗贝勒"},
+      {"name": "图纳黑", "role": "辅国公"}
+    ],
+    "places": ["辽河"]
+  },
+  {
+    "date_raw": "康熙十年九月十九日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "十九日丁卯",
+    "event_role": "祭祀典礼",
+    "summary": "康熙帝至盛京，谒福陵、昭陵行三跪九叩礼并三献，众皆举哀，入城观宫殿。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["盛京", "福陵", "昭陵"]
+  },
+  {
+    "date_raw": "康熙十年九月二十日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十日戊辰",
+    "event_role": "祭祀典礼",
+    "summary": "康熙帝率诸王大臣于福陵设牺牲酒帛读祝，行告成礼。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["福陵"]
+  },
+  {
+    "date_raw": "康熙十年九月二十一日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十一日己巳",
+    "event_role": "祭祀典礼",
+    "summary": "康熙帝于福陵设牲帛读祝举哀行三献礼，祭毕回盛京周视城池。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["福陵", "盛京"]
+  },
+  {
+    "date_raw": "康熙十年九月二十一日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十一日己巳",
+    "event_role": "谕旨决策",
+    "summary": "康熙帝赐盛京城内外年老孤寡者银两，并谕盛京将军察奏披甲伤老病退之人。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"},
+      {"name": "阿木儿图", "role": "盛京将军"}
+    ],
+    "places": ["盛京"]
+  },
+  {
+    "date_raw": "康熙十年九月二十一日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十一日己巳",
+    "event_role": "朝见受贺",
+    "summary": "科尔沁国头等台吉鄂齐儿等来朝。",
+    "people": [
+      {"name": "鄂齐儿", "role": "科尔沁国头等台吉"}
+    ],
+    "places": []
+  },
+  {
+    "date_raw": "康熙十年九月二十二日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十二日庚午",
+    "event_role": "祭祀典礼",
+    "summary": "康熙帝率诸王大臣于昭陵设牺牲酒帛读祝，行告成礼。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["昭陵"]
+  },
+  {
+    "date_raw": "康熙十年九月二十二日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十二日庚午",
+    "event_role": "朝见受贺",
+    "summary": "科尔沁国多罗郡王朱尔扎哈、扎鲁特部镇国公毛奇塔等来朝。",
+    "people": [
+      {"name": "朱尔扎哈", "role": "科尔沁国多罗郡王"},
+      {"name": "毛奇塔", "role": "扎鲁特部镇国公"}
+    ],
+    "places": []
+  },
+  {
+    "date_raw": "康熙十年九月二十三日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十三日辛未",
+    "event_role": "祭祀典礼",
+    "summary": "康熙帝于昭陵设牲帛读祝举哀行三献礼，遣王贝子内大臣往永陵致祭。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["昭陵", "永陵"]
+  },
+  {
+    "date_raw": "康熙十年九月二十三日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十三日辛未",
+    "event_role": "朝见受贺",
+    "summary": "礼成后康熙帝御清宁宫大清门大宴颁赏盛京文武官员及三陵总管等。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["盛京", "清宁宫", "大清门"]
+  },
+  {
+    "date_raw": "康熙十年九月二十三日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十三日辛未",
+    "event_role": "谕旨决策",
+    "summary": "康熙帝召将军都统等赐酒，谕以抚绥军民、劝课农桑、开垦耕种。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"},
+      {"name": "阿木儿图", "role": "盛京将军"},
+      {"name": "叶儿苏", "role": "副都统"},
+      {"name": "纳桑阿", "role": "侍郎"},
+      {"name": "杭爱", "role": "侍郎"}
+    ],
+    "places": ["盛京"]
+  },
+  {
+    "date_raw": "康熙十年九月二十三日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十三日辛未",
+    "event_role": "谕旨决策",
+    "summary": "康熙帝谕守陵总管虔诚祭品以尽诚敬，并命发银二万两赏宁古塔兵丁。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["宁古塔"]
+  },
+  {
+    "date_raw": "康熙十年九月二十三日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十三日辛未",
+    "event_role": "司法案件",
+    "summary": "康熙帝谕户刑衙门减免奉天宁古塔死罪以下及军徒杖罪，蠲免钱粮。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["奉天", "宁古塔", "山海关"]
+  },
+  {
+    "date_raw": "康熙十年九月二十三日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十三日辛未",
+    "event_role": "祭祀典礼",
+    "summary": "康熙帝遣官致祭诸王及功臣墓。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": []
+  },
+  {
+    "date_raw": "康熙十年九月二十四日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十四日壬申",
+    "event_role": "皇帝行止",
+    "summary": "告祭礼毕，康熙帝展时起行周览盛京形胜，驻跸误路。",
+    "people": [
+      {"name": "康熙帝", "role": "皇帝"}
+    ],
+    "places": ["盛京", "误路"]
+  },
+  {
+    "date_raw": "康熙十年九月二十四日",
+    "reign_year": 10,
+    "month": 9,
+    "day_text": "二十四日壬申",
+    "event_role": "朝见受贺",
+    "summary": "康熙帝赐来朝蒙古王贝子台吉等貂帽袍衫等物，扎鲁特部贝勒巴

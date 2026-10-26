@@ -1,0 +1,40 @@
+{
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "十四日壬寅",
+ "event_role": "议政听政",
+ "summary": "巳时康熙帝御行宫，大学士马齐、兵部侍郎查绚纳、学士酒克旦、萨哈布、尼雅达以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "查绚纳",
+   "role": "兵部侍郎仍于学士处行走"
+  },
+  {
+   "name": "酒克旦",
+   "role": "学士"
+  },
+  {
+   "name": "萨哈布",
+   "role": "学士"
+  },
+  {
+   "name": "尼雅达",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14720,
+ "page_range": "305-306"
+}

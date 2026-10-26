@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十四日辛未",
+ "event_role": "人事任免",
+ "summary": "兵部议原宜都营游击严维加都督同知、来京以总兵补用，康熙帝命严弘仍于本地员缺补用。",
+ "people": [
+  {
+   "name": "严维",
+   "role": "原宜都营游击"
+  },
+  {
+   "name": "严弘",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宜都"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24916,
+ "page_range": "555-556"
+}

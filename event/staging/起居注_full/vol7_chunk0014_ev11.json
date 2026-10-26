@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "初六日丁雍",
+ "event_role": "人事任免",
+ "summary": "西宁总兵官刘体义题请将游击兴凤鸣等随带于新任议不准行，康熙帝以刘体义年高居官甚善，照所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘体义",
+   "role": "西宁总兵官"
+  },
+  {
+   "name": "兴凤鸣",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1411,
+ "page_range": "39-40"
+}

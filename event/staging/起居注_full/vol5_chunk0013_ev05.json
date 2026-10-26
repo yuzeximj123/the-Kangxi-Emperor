@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问《明史》纂修情况，谕令陆续看阅进呈，并令先编万历以后之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1305,
+ "page_range": "36-37"
+}

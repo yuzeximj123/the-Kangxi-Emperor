@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议政王大臣会议奏都统根特擅拘提督佟徽年、不进重庆等罪应革职，康熙以其才具颇优从宽降级留任。",
+ "people": [
+  {
+   "name": "根特",
+   "role": "都统"
+  },
+  {
+   "name": "佟徽年",
+   "role": "提督"
+  },
+  {
+   "name": "谭弘",
+   "role": "将领"
+  },
+  {
+   "name": "彭世享",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "重庆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11000,
+ "page_range": "263-264"
+}

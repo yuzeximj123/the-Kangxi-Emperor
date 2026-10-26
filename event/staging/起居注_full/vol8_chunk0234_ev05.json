@@ -1,0 +1,28 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": "二十三日壬申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝在汤泉行宫正门斥责齐什秉性不安静、奸谋诡计，并责其删去增寿之名进呈佐领缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐什",
+   "role": "都统"
+  },
+  {
+   "name": "增寿",
+   "role": "齐什兄之子袭公者"
+  }
+ ],
+ "places": [
+  "汤泉行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23405,
+ "page_range": "479-480"
+}

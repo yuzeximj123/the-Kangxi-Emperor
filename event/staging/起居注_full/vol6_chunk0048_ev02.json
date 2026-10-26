@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "苏州织造衙门司库李永寿家人孙云率众殴打原任国子监监丞陆经远，因系旗下人不便审究，特请旨。",
+ "people": [
+  {
+   "name": "李永寿",
+   "role": "苏州织造衙门司库"
+  },
+  {
+   "name": "孙云",
+   "role": "李永寿家人"
+  },
+  {
+   "name": "陆经远",
+   "role": "原任国子监监丞"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4802,
+ "page_range": "106-107"
+}

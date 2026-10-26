@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部议宿迁、桃源回空船只冻阻缘由，将同知李灿等交吏兵二部察议，康熙帝以天寒冻早与往年不同，令李灿等免议。",
+ "people": [
+  {
+   "name": "李灿",
+   "role": "同知"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宿迁",
+  "桃源"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 705,
+ "page_range": "49-50"
+}

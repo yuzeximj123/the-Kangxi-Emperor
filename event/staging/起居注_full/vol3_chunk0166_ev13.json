@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "初九日王辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读学士徐廷阜升任员缺，拟王国昌正、石文桂陪，康熙帝询问人选。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐廷阜",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "王国昌",
+   "role": "监察御史"
+  },
+  {
+   "name": "石文桂",
+   "role": "拟陪官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16613,
+ "page_range": "367-368"
+}

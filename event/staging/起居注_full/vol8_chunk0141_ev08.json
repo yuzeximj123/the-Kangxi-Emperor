@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "十三日壬寅",
+ "event_role": "司法案件",
+ "summary": "宗人府参镇国公景顺、杨桑阿、苏尔金革退公爵，请旨安置其佐领，康熙命原系王所辖佐领仍着王管领，景顺、杨桑阿等各留一佐领。",
+ "people": [
+  {
+   "name": "景顺",
+   "role": "镇国公"
+  },
+  {
+   "name": "杨桑阿",
+   "role": "镇国公"
+  },
+  {
+   "name": "苏尔金",
+   "role": "镇国公"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14108,
+ "page_range": "293-294"
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十二年六月十一日",
+ "reign_year": 52,
+ "month": 6,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "贵州巡抚刘荫枢遵旨据实奏报前任提镇操守，并恭谢皇上恩赐御制避暑山庄诗序图画，恭请圣躬万安。",
+ "people": [
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "施世纶",
+   "role": "奏报早禾收成分数等事之臣"
+  }
+ ],
+ "places": [
+  "贵州",
+  "浙江",
+  "畿内"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸巡撫趙弘燮奏報當日盛京恭請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1592",
+ "order_index": 229
+}

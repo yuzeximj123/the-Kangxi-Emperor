@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝与学士牛钮议论常书、傅腊塔学问，决定将年久者傅腊塔升补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "常书",
+   "role": "官员"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23600,
+ "page_range": "515-516"
+}

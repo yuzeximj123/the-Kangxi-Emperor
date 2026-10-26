@@ -1,0 +1,32 @@
+{
+ "reign_year": 14,
+ "month": 4,
+ "day_text": "初九日丁酉",
+ "event_role": "其他",
+ "summary": "辰时，康熙帝御弘德殿，讲官喇沙里、孙在丰、张英进讲《孟子》三章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8907,
+ "page_range": "235-236"
+}

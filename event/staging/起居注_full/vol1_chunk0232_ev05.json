@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初二日辛酉",
+ "event_role": "军务",
+ "summary": "四川总兵官朱衣客因所统官兵半在赵良栋标下，请亲随赵良栋前进，部议不允，康熙帝准其随赵良栋前进。",
+ "people": [
+  {
+   "name": "朱衣客",
+   "role": "四川总兵官"
+  },
+  {
+   "name": "赵良栋",
+   "role": "将领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23205,
+ "page_range": "521-522"
+}

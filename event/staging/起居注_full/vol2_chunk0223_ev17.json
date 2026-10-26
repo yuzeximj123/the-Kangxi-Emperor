@@ -1,0 +1,33 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初十日戊实",
+ "event_role": "人事任免",
+ "summary": "吏部题补江苏布政使丁思孔升任员缺，康熙帝以江苏钱粮浩繁，命九卿、詹事、科、道会推具奏。",
+ "people": [
+  {
+   "name": "丁思孔",
+   "role": "江苏布政使"
+  },
+  {
+   "name": "李世昌",
+   "role": "拟正湖北按察使"
+  },
+  {
+   "name": "金镇",
+   "role": "拟陪江苏按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江苏",
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22317,
+ "page_range": "489-490"
+}

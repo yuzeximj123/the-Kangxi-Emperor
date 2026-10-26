@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "二十四日癸亥",
+ "event_role": "人事任免",
+ "summary": "兵部等衙门以江宁兵丁马匹不堪有误进剿，议将军博济、副都统邬黑各降一级调用，康熙帝命降一级从宽留任。",
+ "people": [
+  {
+   "name": "博济",
+   "role": "将军"
+  },
+  {
+   "name": "邬黑",
+   "role": "副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4418,
+ "page_range": "100-101"
+}

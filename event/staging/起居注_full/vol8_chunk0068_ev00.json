@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士松柱等奏报宗人府查复觉罗阿哈纳、乌达哈已出嗣承业，康熙帝询问其意愿后令附入本族。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "阿哈纳",
+   "role": "觉罗"
+  },
+  {
+   "name": "乌达哈",
+   "role": "觉罗"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宗人府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6800,
+ "page_range": "147-148"
+}

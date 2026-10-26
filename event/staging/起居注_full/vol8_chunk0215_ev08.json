@@ -1,0 +1,21 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请镇江城守营参将员缺，拟补古北口总兵标下中军游击马龙，马龙现在军前，议俟回军日引见。",
+ "people": [
+  {
+   "name": "马龙",
+   "role": "古北口总兵官标下中军游击"
+  }
+ ],
+ "places": [
+  "镇江",
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21508,
+ "page_range": "441-442"
+}

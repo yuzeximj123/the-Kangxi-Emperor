@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十八日丙寅",
+ "event_role": "人事任免",
+ "summary": "康熙询问户部侍郎王日藻，王熙、余国柱奏其能任事，康熙称其果优。",
+ "people": [
+  {
+   "name": "王日藻",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21408,
+ "page_range": "463-464"
+}

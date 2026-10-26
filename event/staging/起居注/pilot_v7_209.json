@@ -1,0 +1,46 @@
+{
+ "date_raw": "十六日庚子",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十六日庚子",
+ "event_role": "司法案件",
+ "summary": "刑部复议翅子王五拟立斩，郎中富保身死不议，员外郝善等拟罪，康熙帝令王五即斩、何多礼即绞。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王五",
+   "role": "翅子"
+  },
+  {
+   "name": "富保",
+   "role": "郎中"
+  },
+  {
+   "name": "郝善",
+   "role": "员外"
+  },
+  {
+   "name": "何多礼",
+   "role": "笔帖式"
+  },
+  {
+   "name": "郑克誉",
+   "role": "佐领"
+  },
+  {
+   "name": "王伦",
+   "role": "佐领"
+  },
+  {
+   "name": "佛保",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3209
+}

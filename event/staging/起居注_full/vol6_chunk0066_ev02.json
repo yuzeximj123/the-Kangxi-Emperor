@@ -1,0 +1,34 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝评桑格居心平和为人诚实但遇事迟钝易被人欺，故不即允其开滩下河之奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6602,
+ "page_range": "142-143"
+}

@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十年五月二十二日",
+ "reign_year": 50,
+ "month": 5,
+ "day": 22,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报社仓捐输成效有限、民情多不愿、地方官奉行不善，请求再展限三年试行，恭请圣裁。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "巡抚直隶等处地方管辖紫荆等关隘提督军务兼理粮饷都察院右副都御史"
+  }
+ ],
+ "places": [
+  "直隶",
+  "真定"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批为“是”，表示认可所奏。",
+ "source_title": "直隸巡撫趙弘燮奏請展限設立新倉摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "863",
+ "order_index": 171
+}

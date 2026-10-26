@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十五日戊寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自胡思泰起行，噶尔丹使人格垒沾英至，帝引其近坐赐茶，详问噶尔丹情事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "格垒沾英",
+   "role": "噶尔丹使人"
+  }
+ ],
+ "places": [
+  "胡思泰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17515,
+ "page_range": "360-361"
+}

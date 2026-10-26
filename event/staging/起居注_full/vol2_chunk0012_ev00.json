@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝与臣下议工部员外郎吴兴祖补授刑部员外郎缺，认为吴兴祖在工部胜任，可补此缺。",
+ "people": [
+  {
+   "name": "金瑛",
+   "role": "官员"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "工部员外郎"
+  },
+  {
+   "name": "孙冈",
+   "role": "侍读"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1200,
+ "page_range": "67-68"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": "初一日己已",
+ "event_role": "谕旨决策",
+ "summary": "覆请户部议总督杰寿请于江南开捐，康熙帝着交九卿议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杰寿",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7232,
+ "page_range": "155-156"
+}

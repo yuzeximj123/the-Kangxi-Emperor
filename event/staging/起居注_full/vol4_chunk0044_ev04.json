@@ -1,0 +1,27 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "二十日己未",
+ "event_role": "谕旨决策",
+ "summary": "直抚于成龙题请顺永保河等府拨补被围田地仍照现年钱粮征收，部议不准，康熙帝命照该抚所题行。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "直抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺天府",
+  "永平府",
+  "保定府",
+  "河间府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4404,
+ "page_range": "100-101"
+}

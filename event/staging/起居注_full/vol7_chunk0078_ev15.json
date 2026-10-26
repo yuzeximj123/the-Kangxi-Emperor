@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十八日庚子",
+ "event_role": "谕旨决策",
+ "summary": "户部题山东巡抚王国昌查送七旬以上人数事，康熙帝令交部另行清察具题后严察议奏。",
+ "people": [
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7815,
+ "page_range": "167-168"
+}

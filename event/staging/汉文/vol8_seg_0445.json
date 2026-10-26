@@ -1,0 +1,30 @@
+{
+ "date_raw": "正月十三日",
+ "reign_year": null,
+ "month": 1,
+ "day": 13,
+ "event_role": "祭祀典礼",
+ "summary": "王鸿绪奏报其家人于普陀山进香斋僧、虔祝康熙圣寿，并述及万寿殿前石工开工情形。",
+ "people": [
+  {
+   "name": "王鸿绪",
+   "role": "奏报人，臣"
+  },
+  {
+   "name": "心明",
+   "role": "和尚，受请拈香设斋"
+  }
+ ],
+ "places": [
+  "普陀山",
+  "合山寺",
+  "万寿殿"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "王鸿绪奏陈于普陀山进香祝贺万寿折",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 445
+}

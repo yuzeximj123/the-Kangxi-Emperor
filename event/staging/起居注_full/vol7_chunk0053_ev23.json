@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "初五日庚戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自支家口登舟，过邳州界。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "支家口",
+  "邳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5323,
+ "page_range": "117-118"
+}

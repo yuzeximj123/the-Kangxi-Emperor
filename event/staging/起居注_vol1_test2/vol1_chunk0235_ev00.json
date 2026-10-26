@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与叶方蔼等讨论典学勤政，库勒纳奏《书经》讲毕，请自明日进讲《易经》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23500,
+ "page_range": "527-528"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问杨异宝、江吉身份，李光地称其为海贼投诚最不良之人，帝命将二人速遣来京。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "学士"
+  },
+  {
+   "name": "杨异宝",
+   "role": "海贼投诚者"
+  },
+  {
+   "name": "江吉",
+   "role": "海贼投诚者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3800,
+ "page_range": "119-120"
+}

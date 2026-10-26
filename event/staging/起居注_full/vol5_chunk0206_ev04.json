@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初三日",
+ "event_role": "谕旨决策",
+ "summary": "康熙准议，命将马匹送至察罕托海与达里善等马匹一处牧放，余依议。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "达里善",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "察罕托海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20604,
+ "page_range": "422-423"
+}

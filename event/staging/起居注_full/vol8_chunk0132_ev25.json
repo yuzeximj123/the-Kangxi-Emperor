@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初九日庚子",
+ "event_role": "其他",
+ "summary": "记述此行各部院奏章日送内阁、内阁三日一次递送行宫听理，康熙帝随报请皇太后安六次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "受请安者"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13225,
+ "page_range": "275-276"
+}

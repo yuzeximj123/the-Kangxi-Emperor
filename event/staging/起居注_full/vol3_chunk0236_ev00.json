@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝命皇长子讲格物致知、皇三子讲《论语·乡党》首章，二人逐字疏解并融贯大义。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇长子",
+   "role": "讲官"
+  },
+  {
+   "name": "皇三子",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23600,
+ "page_range": "507-508"
+}

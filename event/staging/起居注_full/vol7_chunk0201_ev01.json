@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "温达等遵旨询问九卿补授江苏按察使员缺人选，九卿荐直隶守道祁国术、天津道刘桨、四川建昌道卢询，康熙命卢询升补江苏按察使。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "祁国术",
+   "role": "直隶守道"
+  },
+  {
+   "name": "刘桨",
+   "role": "天津道"
+  },
+  {
+   "name": "卢询",
+   "role": "四川建昌道"
+  }
+ ],
+ "places": [
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20101,
+ "page_range": "413-414"
+}

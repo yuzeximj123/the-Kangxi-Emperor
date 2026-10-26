@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "十六日己巳",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士员缺开列王守才等，康熙帝询问张玉书，李霨称其谨慎，遂命张玉书补学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "补学士"
+  },
+  {
+   "name": "王守才",
+   "role": "候选学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4320,
+ "page_range": "129-130"
+}

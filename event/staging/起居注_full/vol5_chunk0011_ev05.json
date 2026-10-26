@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝提及夏估龙有事时由捕盗同知选补湖广知府，并询问王辅等一同选择久任者尚有几人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "夏估龙",
+   "role": "官员"
+  },
+  {
+   "name": "王辅",
+   "role": "黄州府知府"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1105,
+ "page_range": "32-33"
+}

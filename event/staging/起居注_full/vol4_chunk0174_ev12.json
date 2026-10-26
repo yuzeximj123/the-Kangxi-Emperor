@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "初三日癸未",
+ "event_role": "司法案件",
+ "summary": "议李元振条奏令督抚自陈事，九卿认为不必，康熙帝命该部察议李元振。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "李元振",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17412,
+ "page_range": "360-361"
+}

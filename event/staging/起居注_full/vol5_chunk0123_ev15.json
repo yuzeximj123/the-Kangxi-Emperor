@@ -1,0 +1,40 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "三十日乙卯",
+ "event_role": "请安谢恩",
+ "summary": "郭尔罗思扎萨克四等台吉吴尔图纳苏图等遣托诺奏进马匹助军，由侍郎西喇等转奏。",
+ "people": [
+  {
+   "name": "吴尔图纳苏图",
+   "role": "扎萨克四等台吉"
+  },
+  {
+   "name": "毕立滚俄七里",
+   "role": "二等台吉"
+  },
+  {
+   "name": "托诺",
+   "role": "附丁"
+  },
+  {
+   "name": "西喇",
+   "role": "侍郎"
+  },
+  {
+   "name": "喇锡",
+   "role": "侍读学士"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "土谢图王旗"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12315,
+ "page_range": "256-257"
+}

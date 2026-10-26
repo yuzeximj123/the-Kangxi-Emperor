@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请以宗人府府丞江球等开列副都御史余正健员缺，康熙帝认为江球等三人平常，命问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "江球",
+   "role": "宗人府府丞"
+  },
+  {
+   "name": "余正健",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18102,
+ "page_range": "373-374"
+}

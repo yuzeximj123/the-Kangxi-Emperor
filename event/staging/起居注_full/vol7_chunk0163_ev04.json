@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门覆宁古塔将军觉罗备俄洛题孟阿图殴伤倪喀他致死拟绞监候，康熙令交该将军照新例正法。",
+ "people": [
+  {
+   "name": "觉罗备俄洛",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "孟阿图",
+   "role": "案犯"
+  },
+  {
+   "name": "倪喀他",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16304,
+ "page_range": "337-338"
+}

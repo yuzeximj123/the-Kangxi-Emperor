@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "十三日了已",
+ "event_role": "人事任免",
+ "summary": "吏部侍郎傅继祖遵旨引见拟正湖北按察使之何显祖，康熙帝详问后以其尚可用，着补授湖北按察使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅继祖",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "何显祖",
+   "role": "拟正湖北按察使"
+  }
+ ],
+ "places": [
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6514,
+ "page_range": "141-142"
+}

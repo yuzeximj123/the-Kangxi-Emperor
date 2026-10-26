@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题常州府知府员缺，康熙命将山东、河南、江南能员调补，令九卿举出能员补授。",
+ "people": [
+  {
+   "name": "张廷桢",
+   "role": "候选官员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "常州府",
+  "吴县",
+  "吴江县",
+  "山东",
+  "河南",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12400,
+ "page_range": "259-260"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝命侍卫海青询问天津总兵官蓝理对军容的看法，蓝理盛赞兵威精锐、操练娴熟，为神兵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海青",
+   "role": "侍卫"
+  },
+  {
+   "name": "蓝理",
+   "role": "天津总兵官"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22600,
+ "page_range": "462-463"
+}

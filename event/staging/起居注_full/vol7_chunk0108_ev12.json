@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初四日辛酉",
+ "event_role": "司法案件",
+ "summary": "刑部议太监窦明用药迷拐拟立绞，康熙帝以窦明显系逃走而该部不议逃走情由，命遍问该部堂司官并详核汇题诸案。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "窦明",
+   "role": "太监"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10812,
+ "page_range": "227-228"
+}

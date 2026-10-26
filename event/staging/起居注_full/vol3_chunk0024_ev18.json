@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "初一日丙寅",
+ "event_role": "人事任免",
+ "summary": "看守南苑章京胡通格以年老乞休，康熙帝欲给拖沙喇哈番仍留原任，令兵部议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡通格",
+   "role": "看守南苑章京"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2418,
+ "page_range": "83-84"
+}

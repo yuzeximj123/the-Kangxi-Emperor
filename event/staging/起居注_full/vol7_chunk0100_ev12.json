@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "十七日乙亥",
+ "event_role": "贸易漕运",
+ "summary": "广善库郎中德成格奉差封闸请训旨，康熙帝谕从上流封闸蓄水、水满开闸过粮船，禁运船纲首诈害商民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德成格",
+   "role": "广善库郎中"
+  },
+  {
+   "name": "陈锡",
+   "role": "天津道"
+  }
+ ],
+ "places": [
+  "临清",
+  "天妃闸",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10012,
+ "page_range": "211-212"
+}

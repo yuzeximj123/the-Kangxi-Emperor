@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "初六日戊申",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝由东华门出朝阳门至大行太皇太后梓宫前，晚哭举哀，居于殡宫之侧。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "朝阳门",
+  "殡宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2505,
+ "page_range": "62-63"
+}

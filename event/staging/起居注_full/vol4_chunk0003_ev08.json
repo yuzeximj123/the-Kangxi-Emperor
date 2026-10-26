@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "九卿、詹事、科道合词奏请康熙帝回宫摄养，疏称皇上步送梓宫哀号跪伏、居幕次寒霜冷地，为古所未有之礼。",
+ "people": [
+  {
+   "name": "九卿",
+   "role": "官员"
+  },
+  {
+   "name": "詹事",
+   "role": "官员"
+  },
+  {
+   "name": "科道",
+   "role": "言官"
+  }
+ ],
+ "places": [
+  "郊园殡宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 308,
+ "page_range": "18-19"
+}

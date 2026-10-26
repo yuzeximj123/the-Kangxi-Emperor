@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "初九日戊子",
+ "event_role": "人事任免",
+ "summary": "翰林院题补日讲官沈涵员缺开列少詹王奕清等，康熙帝令会同翰林院拣选人品端正学问优者引见。",
+ "people": [
+  {
+   "name": "沈涵",
+   "role": "日讲官"
+  },
+  {
+   "name": "王奕清",
+   "role": "少詹"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23912,
+ "page_range": "489-490"
+}

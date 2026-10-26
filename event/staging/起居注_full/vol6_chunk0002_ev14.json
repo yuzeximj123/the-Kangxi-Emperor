@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 6,
+ "day_text": "二十六日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "四川总兵官马子云题请会同回子国喀扎喀领兵追擒噶尔丹，康熙以回子国无义、本朝兵足用为由不准，并晓示马子云。",
+ "people": [
+  {
+   "name": "马子云",
+   "role": "四川总兵官"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川",
+  "回子国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 214,
+ "page_range": "14-15"
+}

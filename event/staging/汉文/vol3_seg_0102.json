@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十年正月",
+ "reign_year": 50,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "浙江巡抚王度昭遵旨亲赴西湖行宫察看，奏报行宫各处坚固完好，仅有瓦片淋漏，修整所费无多，并未累民。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚，奏报人"
+  },
+  {
+   "name": "郑尽心",
+   "role": "海贼，被查阅对象"
+  }
+ ],
+ "places": [
+  "浙江",
+  "西湖行宫",
+  "宁波府",
+  "大门",
+  "窰巷苦房园亭"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "浙江巡撫王度昭奏報察看西湖行宮情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "799",
+ "order_index": 102
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以安达礼年老衰惫，命吏部令其休致，另简人引见。",
+ "people": [
+  {
+   "name": "安达礼",
+   "role": "甘肃布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13400,
+ "page_range": "279-280"
+}

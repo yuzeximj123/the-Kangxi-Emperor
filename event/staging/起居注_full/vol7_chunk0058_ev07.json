@@ -1,0 +1,36 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "二十三日戊成",
+ "event_role": "人事任免",
+ "summary": "吏部题贵州学道柴廷望员缺，拟庄廷伟、陈迁鹤请旨，康熙帝以陈迁鹤平常，命另行具折启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "柴廷望",
+   "role": "贵州学道"
+  },
+  {
+   "name": "庄廷伟",
+   "role": "户部郎中"
+  },
+  {
+   "name": "陈迁鹤",
+   "role": "侍讲"
+  },
+  {
+   "name": "把叙",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5807,
+ "page_range": "127-128"
+}

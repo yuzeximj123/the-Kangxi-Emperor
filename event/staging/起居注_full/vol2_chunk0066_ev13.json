@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "十二日癸亥",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部郎中，正拟魏大善、陪拟马蓝，康熙帝询问后命达苏喀补授郎中。",
+ "people": [
+  {
+   "name": "魏大善",
+   "role": "拟正员外郎"
+  },
+  {
+   "name": "马蓝",
+   "role": "拟陪"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "达苏喀",
+   "role": "补授郎中"
+  },
+  {
+   "name": "陶讲和",
+   "role": "保举官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6613,
+ "page_range": "175-176"
+}

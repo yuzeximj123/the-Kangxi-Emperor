@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "河南巡抚徐潮、泰安州知州祁国诈、参将徐登甲等来朝。",
+ "people": [
+  {
+   "name": "徐潮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "祁国诈",
+   "role": "泰安州知州"
+  },
+  {
+   "name": "徐登甲",
+   "role": "参将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5003,
+ "page_range": "111-112"
+}

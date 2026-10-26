@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十六年九月十九日",
+ "reign_year": 56,
+ "month": 9,
+ "day": 9,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报南方雨旸时若、米价甚贱、嘉谷即将丰收，民心欢悦，并称所种第二次御稻将于九月二十四五收割，届时再报收数。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "南方",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報南方兩季禾稻收成情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2124",
+ "order_index": 514
+}

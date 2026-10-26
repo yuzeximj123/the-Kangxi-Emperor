@@ -1,0 +1,34 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论言官条奏多琐碎，并论及约翔、鲍复盛，伊桑阿奏议罪案内有鲍复盛。",
+ "people": [
+  {
+   "name": "王申",
+   "role": "奏事官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "约翔",
+   "role": "言官"
+  },
+  {
+   "name": "鲍复盛",
+   "role": "获罪官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15200,
+ "page_range": "314-315"
+}

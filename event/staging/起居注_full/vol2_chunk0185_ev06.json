@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初六日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "吴三桂属下家口请暂停搬移，兵部议不准，康熙帝命速令陆续就道不得展限，并令酌议蠲免钱粮以纾民困。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴三桂",
+   "role": "原藩王"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18506,
+ "page_range": "413-414"
+}

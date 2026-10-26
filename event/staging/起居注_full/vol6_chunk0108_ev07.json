@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 8,
+ "day_text": "十八日全未",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士伊桑阿、阿兰泰、学士钱齐保以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "钱齐保",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10807,
+ "page_range": "226-227"
+}

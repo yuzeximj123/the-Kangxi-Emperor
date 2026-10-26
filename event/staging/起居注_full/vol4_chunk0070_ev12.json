@@ -1,0 +1,20 @@
+{
+ "reign_year": 28,
+ "month": 4,
+ "day_text": "十七日癸未",
+ "event_role": "皇帝行止",
+ "summary": "因文皇后忌辰，康熙帝不御乾清门听政。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7012,
+ "page_range": "152-153"
+}

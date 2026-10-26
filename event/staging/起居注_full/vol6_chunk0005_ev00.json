@@ -1,0 +1,38 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝阅卷后评定名次，认为姜英之文淳朴胜于汪士安，徐树本字佳而文气尚弱，命张玉书定名次并赐诸臣茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姜英",
+   "role": "贡士"
+  },
+  {
+   "name": "汪士安",
+   "role": "贡士"
+  },
+  {
+   "name": "徐树本",
+   "role": "贡士"
+  },
+  {
+   "name": "张虞停",
+   "role": "贡士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 500,
+ "page_range": "20-21"
+}

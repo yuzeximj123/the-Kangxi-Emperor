@@ -1,0 +1,28 @@
+{
+ "reign_year": 15,
+ "month": 3,
+ "day_text": "初七日己丑",
+ "event_role": "其他",
+ "summary": "辰时康熙帝御弘德殿，讲官喇沙里、孙在丰、张英进讲《孟子》天将降大任于是人也一章。",
+ "people": [
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11129,
+ "page_range": "279-280"
+}

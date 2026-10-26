@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "大学士等会同九卿、于成龙议奏安守仁等系投降之人，为从者请宽免，为首者听圣裁。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "安守仁",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "赞皇县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5005,
+ "page_range": "110-111"
+}

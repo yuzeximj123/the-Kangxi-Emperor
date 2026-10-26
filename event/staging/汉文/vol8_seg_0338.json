@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙六十年八月初二日",
+ "reign_year": 60,
+ "month": 8,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "川陕总督年羹尧到任后察访陕西西延凤汉四府及兴安州亏空钱粮情形，分析亏空积弊三条，并请旨分别限期完补、参究调用。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川陕西总督，奏报人"
+  },
+  {
+   "name": "萨穆哈",
+   "role": "原任布政使，亏空司库钱粮"
+  },
+  {
+   "name": "噶世图",
+   "role": "抚臣（陕西巡抚），到任即赴军前未暇清查"
+  }
+ ],
+ "places": [
+  "四川",
+  "陕西",
+  "西延凤汉四府",
+  "兴安州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "川陝總督年羹堯奏為酌量通融題補川陝武員弁摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2946",
+ "order_index": 338
+}

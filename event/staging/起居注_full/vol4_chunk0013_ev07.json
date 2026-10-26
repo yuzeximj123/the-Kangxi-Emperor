@@ -1,0 +1,27 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "董讷奏洪泽湖受诸处山水由清口出黄河，又益以睢水，从周桥、愤坝等处决入高邮、宝应、邵伯诸湖。",
+ "people": [
+  {
+   "name": "董讷",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "洪泽湖",
+  "清口",
+  "黄河",
+  "周桥",
+  "愤坝",
+  "高邮",
+  "宝应",
+  "邵伯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1307,
+ "page_range": "38-39"
+}

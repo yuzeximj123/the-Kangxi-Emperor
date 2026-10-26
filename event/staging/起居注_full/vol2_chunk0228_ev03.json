@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆安徽巡抚徐国相题在籍编修黄土坝等因坟地争告，康熙以地方官难从公审断，命差吏、刑二部贤能司官各一员前往察审。",
+ "people": [
+  {
+   "name": "徐国相",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "黄土坝",
+   "role": "在籍编修"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22803,
+ "page_range": "499-500"
+}

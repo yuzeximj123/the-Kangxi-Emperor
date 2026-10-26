@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "二十四日庚午",
+ "event_role": "军务",
+ "summary": "康熙帝在玉泉山西南列八旗红衣大炮及马步鸟枪军士阅阵，九进九止后连环枪炮齐发，来朝蒙古台吉等惊叹兵威。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "扎西巴图尔",
+   "role": "呼户诺尔台吉"
+  }
+ ],
+ "places": [
+  "玉泉山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2708,
+ "page_range": "64-65"
+}

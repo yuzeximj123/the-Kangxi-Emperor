@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": "十二日已丑",
+ "event_role": "议政听政",
+ "summary": "兵部题请护理甘肃巡抚事务布政司折尔金于今岁武乡试请做巡抚岳拜考试，议准行，康熙帝命本著发还该部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "折尔金",
+   "role": "护理甘肃巡抚事务布政司"
+  },
+  {
+   "name": "岳拜",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 909,
+ "page_range": "29-30"
+}

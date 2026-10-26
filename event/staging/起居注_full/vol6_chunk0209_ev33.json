@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "十五日庚子",
+ "event_role": "朝见受贺",
+ "summary": "荣宪公主备食献康熙帝及皇太子诸皇子，并食诸大臣侍卫等。",
+ "people": [
+  {
+   "name": "荣宪公主",
+   "role": "公主"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20933,
+ "page_range": "428-429"
+}

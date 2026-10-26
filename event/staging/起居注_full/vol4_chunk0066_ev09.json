@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "初八日乙巳",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门，大学士伊桑阿等以折本请旨，工部议仓场侍郎洪尼堪题修五闸剥船宜行。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "洪尼堪",
+   "role": "仓场侍郎"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6609,
+ "page_range": "144-145"
+}

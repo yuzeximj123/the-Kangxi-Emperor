@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十五日辛已",
+ "event_role": "人事任免",
+ "summary": "詹事府右中允石柱病故员缺，考试进呈五卷；康熙帝从明珠议，命徐元梦升补中允。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "石柱",
+   "role": "病故右中允"
+  },
+  {
+   "name": "徐元梦",
+   "role": "升补中允"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1315,
+ "page_range": "61-62"
+}

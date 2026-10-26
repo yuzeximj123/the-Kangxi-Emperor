@@ -1,0 +1,33 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部议覆浙江巡抚王度昭题请追缴浮估银两修筑海塘并交原修官员修筑，康熙帝认为部议不合，命再议。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "李应蛟",
+   "role": "乌程县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "平湖",
+  "海盐",
+  "海宁",
+  "杭州",
+  "嘉兴",
+  "湖州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17501,
+ "page_range": "361-362"
+}

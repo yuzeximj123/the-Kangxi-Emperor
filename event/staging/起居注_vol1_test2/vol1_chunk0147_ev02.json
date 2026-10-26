@@ -1,0 +1,21 @@
+{
+ "reign_year": 16,
+ "month": 10,
+ "day_text": "初六日已酉",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率大臣、侍卫往孝陵祭奠，驻跸林河西。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵",
+  "林河西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14702,
+ "page_range": "351-352"
+}

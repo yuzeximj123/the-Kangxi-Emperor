@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "太常寺奏岁暮祭太庙事，康熙帝以惠兰、舒书、公费扬古有足疾，命嗣后祭礼不必开列，另派人员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "惠兰",
+   "role": "都统"
+  },
+  {
+   "name": "舒书",
+   "role": "官员"
+  },
+  {
+   "name": "公费扬古",
+   "role": "公"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6901,
+ "page_range": "148-149"
+}

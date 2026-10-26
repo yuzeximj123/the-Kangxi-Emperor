@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "十五日己丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥卫既齐捏词谎奏、言行不符，命传旨九卿会议具奏，并查出其条陈自比文字与九卿看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卫既齐",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "库勒纳",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "陈奇",
+   "role": "提督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21815,
+ "page_range": "448-449"
+}

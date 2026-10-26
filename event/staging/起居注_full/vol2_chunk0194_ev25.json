@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "十四日乙卯",
+ "event_role": "皇帝行止",
+ "summary": "早康熙帝至五龙亭向太皇太后请安，随后奉太皇太后还芝宁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "五龙亭",
+  "芝宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19425,
+ "page_range": "431-432"
+}

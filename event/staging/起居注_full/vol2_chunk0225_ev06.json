@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "二十日戊子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕阿兰泰察明村民所备米豆用途，阿兰泰回奏系给价预备，帝令此后不必再行责送。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "内阅学士管兵部事"
+  },
+  {
+   "name": "赵继晋",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "五台",
+  "直隶",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22506,
+ "page_range": "493-494"
+}

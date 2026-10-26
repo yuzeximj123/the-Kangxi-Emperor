@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "十五日甲实",
+ "event_role": "谕旨决策",
+ "summary": "江宁通省布按道员等官乞请御书，康熙帝以中有不识面者，命总督张鹏副会同巡抚宋芝选优者具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏副",
+   "role": "总督"
+  },
+  {
+   "name": "宋芝",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9017,
+ "page_range": "190-191"
+}

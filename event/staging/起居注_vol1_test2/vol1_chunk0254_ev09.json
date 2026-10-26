@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "初四日辛卯",
+ "event_role": "司法案件",
+ "summary": "刑部题正白旗参领马奇妻打死其夫侍妾议枷号折赎事，康熙帝以其可恶所议尚轻，命再严议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "马奇",
+   "role": "正白旗参领"
+  },
+  {
+   "name": "马奇之妻",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25409,
+ "page_range": "565-566"
+}

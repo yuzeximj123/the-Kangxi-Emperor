@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "二十一日壬申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命塔达、费扬古、耿昭忠、张英传谕诸臣畅饮极欢，毋拘谈笑。",
+ "people": [
+  {
+   "name": "塔达",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "费扬古",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "耿昭忠",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "张英",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6816,
+ "page_range": "179-180"
+}

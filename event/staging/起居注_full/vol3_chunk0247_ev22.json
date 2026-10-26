@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 9,
+ "day_text": "二十八日癸卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补詹事府正詹汤二升任员缺，开列候补正詹王网昌等；康熙帝以詹事职任紧要，命张英以礼部侍郎兼管詹事府事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤二",
+   "role": "詹事府正詹"
+  },
+  {
+   "name": "王网昌",
+   "role": "候补正詹"
+  },
+  {
+   "name": "张英",
+   "role": "礼部侍郎兼管詹事府事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24722,
+ "page_range": "529-530"
+}

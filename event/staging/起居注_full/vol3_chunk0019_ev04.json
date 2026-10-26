@@ -1,0 +1,36 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初九日甲拱",
+ "event_role": "议政听政",
+ "summary": "九卿、科、道会议将崇明提督裁去照前设总兵官，明珠奏海上已平似应裁提督，康熙颔之。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "金改祥",
+   "role": "学士"
+  },
+  {
+   "name": "图纳",
+   "role": "记从学士"
+  }
+ ],
+ "places": [
+  "崇明"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1904,
+ "page_range": "73-74"
+}

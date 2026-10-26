@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "二十七日丙成",
+ "event_role": "司法案件",
+ "summary": "覆请刑部议披甲常德用石灰揉瞎家人王承之目一案，康熙帝令枷号鞭责后发往黑龙江当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常德",
+   "role": "披甲人"
+  },
+  {
+   "name": "王承之",
+   "role": "家人"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14611,
+ "page_range": "303-304"
+}

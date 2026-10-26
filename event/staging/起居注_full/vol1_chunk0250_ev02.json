@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问席格是否见尚之信，席格奏称往南宁时曾见，回至河南始闻其就执，相见时未觉异样，彼时尚未饮酒。",
+ "people": [
+  {
+   "name": "席格",
+   "role": "员外郎"
+  },
+  {
+   "name": "尚之信",
+   "role": "藩王"
+  }
+ ],
+ "places": [
+  "南宁",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25002,
+ "page_range": "557-558"
+}

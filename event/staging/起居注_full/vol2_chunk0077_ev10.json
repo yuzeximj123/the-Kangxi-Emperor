@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "初五日甲跨",
+ "event_role": "朝见受贺",
+ "summary": "天津道李天等、总兵官陈奇等来朝见。",
+ "people": [
+  {
+   "name": "李天",
+   "role": "天津道"
+  },
+  {
+   "name": "陈奇",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7710,
+ "page_range": "197-198"
+}

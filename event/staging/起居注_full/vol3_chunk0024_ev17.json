@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "初一日丙寅",
+ "event_role": "人事任免",
+ "summary": "兵部题正黄旗副都统张所知升任员缺，康熙帝称杨文魁甚优，令询明其族属及效力之处来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张所知",
+   "role": "正黄旗副都统"
+  },
+  {
+   "name": "李伦",
+   "role": "参领"
+  },
+  {
+   "name": "杨文魁",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2417,
+ "page_range": "83-84"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "二十三日甲子",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗蒙古副都统员缺，康熙帝以长史博济为人颇优，命补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博济",
+   "role": "长史"
+  },
+  {
+   "name": "吴努春",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19704,
+ "page_range": "437-438"
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 54,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士松柱奏河南按察使张伯玉、湖南按察使王朝因员缺，九卿举毛文狂、祁国宦等六员，康熙令俱引见。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "张伯玉",
+   "role": "河南按察使"
+  },
+  {
+   "name": "王朝因",
+   "role": "湖南按察使"
+  },
+  {
+   "name": "毛文狂",
+   "role": "候补按察使"
+  },
+  {
+   "name": "祁国宦",
+   "role": "现任霸昌道"
+  }
+ ],
+ "places": [
+  "河南",
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10606,
+ "page_range": "223-224"
+}

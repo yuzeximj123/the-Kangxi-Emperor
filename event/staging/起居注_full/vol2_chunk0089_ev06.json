@@ -1,0 +1,54 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "初三日壬子",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗前锋参领员缺，康熙询问后命将格思特补授前锋参领。",
+ "people": [
+  {
+   "name": "德尔德",
+   "role": "拟护军参领"
+  },
+  {
+   "name": "巴格",
+   "role": "陪拟"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "希布臣",
+   "role": "都统"
+  },
+  {
+   "name": "衣巴汉",
+   "role": "前锋统领"
+  },
+  {
+   "name": "达克萨喀",
+   "role": "副都统"
+  },
+  {
+   "name": "噶布喇",
+   "role": "本旗人员"
+  },
+  {
+   "name": "噶尔马",
+   "role": "本旗人员"
+  },
+  {
+   "name": "格思特",
+   "role": "前锋护卫"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8906,
+ "page_range": "221-222"
+}

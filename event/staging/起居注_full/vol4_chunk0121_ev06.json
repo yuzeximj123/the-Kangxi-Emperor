@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 5,
+ "day_text": "初四日甲午",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，九卿开列保举知县彭鹏等职名，帝称所知者惟彭鹏、邵嗣尧、陆陇其三入。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭鹏",
+   "role": "知县"
+  },
+  {
+   "name": "邵嗣尧",
+   "role": "知县"
+  },
+  {
+   "name": "陆陇其",
+   "role": "知县"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12106,
+ "page_range": "254-255"
+}

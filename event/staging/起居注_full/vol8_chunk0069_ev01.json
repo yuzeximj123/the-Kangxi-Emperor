@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝论海红自登州至铁山航程及福建广东般至盛京、盛京红不能至江南等情形。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "登州",
+  "铁山",
+  "福建",
+  "广东",
+  "盛京",
+  "锦州",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6901,
+ "page_range": "149-150"
+}

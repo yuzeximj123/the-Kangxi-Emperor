@@ -1,0 +1,45 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "弹劾参奏",
+ "summary": "湖广提督俞益谟奏陈巡抚赵申乔屡次借公事参劾、罚俸，并指其纵容属员、收受盐商规礼等情，自辩空粮之由，痛哭乞皇上明察。",
+ "people": [
+  {
+   "name": "俞益谟",
+   "role": "提督湖广总兵官，奏折作者"
+  },
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚，被参劾对象"
+  },
+  {
+   "name": "王许",
+   "role": "常德府知府，赵申乔腹心"
+  },
+  {
+   "name": "俞子易",
+   "role": "盐商，曾向赵申乔送规礼"
+  },
+  {
+   "name": "杨迁",
+   "role": "俞益谟家人，赍捧奏折者"
+  }
+ ],
+ "places": [
+  "湖广",
+  "常德",
+  "卫州河下",
+  "长沙",
+  "淮扬",
+  "大同"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批称已有旨意，命俞益谟回奏。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 224
+}

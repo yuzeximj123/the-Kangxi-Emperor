@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初四日辛酉",
+ "event_role": "军务",
+ "summary": "大将军顺承郡王勒尔金奏兵丁步行甚难请暂回荆州，康熙帝命兵丁暂回荆州，置办马匹后由贤能大臣率往重庆，并令该王速往重庆。",
+ "people": [
+  {
+   "name": "勒尔金",
+   "role": "大将军顺承郡王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "荆州",
+  "重庆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24613,
+ "page_range": "549-550"
+}

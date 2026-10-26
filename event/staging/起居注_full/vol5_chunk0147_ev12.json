@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "三十日甲实",
+ "event_role": "人事任免",
+ "summary": "西安副都统巴麟员缺，康熙帝命取览镶蓝旗参领马云直应征噶尔丹条奏原本。",
+ "people": [
+  {
+   "name": "巴麟",
+   "role": "西安副都统"
+  },
+  {
+   "name": "克齐",
+   "role": "护军参领"
+  },
+  {
+   "name": "马云直",
+   "role": "镶蓝旗参领"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14712,
+ "page_range": "304-305"
+}

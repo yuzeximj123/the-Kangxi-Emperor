@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十四日丁卯",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等奏察董学志一事，康熙帝指出董学礼系旗下非宁夏人，命再察明具奏。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "董学志",
+   "role": "总兵官"
+  },
+  {
+   "name": "董学礼",
+   "role": "旗下人员"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22014,
+ "page_range": "450-451"
+}

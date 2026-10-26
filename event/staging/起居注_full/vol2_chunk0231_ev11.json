@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十九日丙辰",
+ "event_role": "司法案件",
+ "summary": "九卿等会议工部题参司官硕色等仍照八法议处，康熙帝从九卿议，令病参官员随旗上朝或专管一事并稽察。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "硕色",
+   "role": "工部司官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23111,
+ "page_range": "505-506"
+}

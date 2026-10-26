@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "初一日丙申",
+ "event_role": "朝见受贺",
+ "summary": "古北口管驿站员外郎罗音泰、署管驿站同知梁永、都司孙梦麟、关口守御布泰等来朝。",
+ "people": [
+  {
+   "name": "罗音泰",
+   "role": "古北口管驿站员外郎"
+  },
+  {
+   "name": "梁永",
+   "role": "署管驿站同知"
+  },
+  {
+   "name": "孙梦麟",
+   "role": "都司"
+  },
+  {
+   "name": "布泰",
+   "role": "关口守御"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9508,
+ "page_range": "201-202"
+}

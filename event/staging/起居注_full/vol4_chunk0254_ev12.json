@@ -1,0 +1,22 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝崇文教，命皇子肃将蚊祀，阅里庙箔易新，使海内外知师道之尊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇子",
+   "role": "奉命祭祀"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25412,
+ "page_range": "520-521"
+}

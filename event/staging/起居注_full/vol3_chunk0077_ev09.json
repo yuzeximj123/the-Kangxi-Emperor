@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初一日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问讲官阿山关于赵山学问，阿山奏其记问颇多、常阅经史，康熙帝颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "讲官"
+  },
+  {
+   "name": "赵山",
+   "role": "刑部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7709,
+ "page_range": "189-190"
+}

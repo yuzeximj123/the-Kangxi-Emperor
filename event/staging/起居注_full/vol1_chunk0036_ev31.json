@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 2,
+ "day_text": "三十日庚午",
+ "event_role": "谕旨决策",
+ "summary": "学士传达礼等奏《大学衍义》存剩二十二部请旨，奉旨分给八旗官学各一部以资肄习，余由衙门暂收。",
+ "people": [
+  {
+   "name": "传达礼",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "八旗官学"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3631,
+ "page_range": "129-130"
+}

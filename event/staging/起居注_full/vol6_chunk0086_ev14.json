@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十七日丙申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论文章本源，称朱熹学问富、今用所学本朱熹，满洲内揆叙所学甚优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱熹",
+   "role": "宋儒"
+  },
+  {
+   "name": "揆叙",
+   "role": "满洲学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8614,
+ "page_range": "182-183"
+}

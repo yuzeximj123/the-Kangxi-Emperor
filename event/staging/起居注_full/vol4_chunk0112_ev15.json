@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读狄仁杰卒太后泣云朝堂空论，称赞狄仁杰为诸臣第一、尽诚为国。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "狄仁杰",
+   "role": "唐臣"
+  },
+  {
+   "name": "武则天",
+   "role": "唐太后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11215,
+ "page_range": "236-237"
+}

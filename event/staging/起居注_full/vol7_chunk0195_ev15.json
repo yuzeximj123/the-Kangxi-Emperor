@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初十日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕内阁，说明因腹内微痛曾准遣官代祭天坛，今身体大安仍亲行礼，六旬之人行礼时着人扶掖。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傻子",
+   "role": "奏事员外郎"
+  }
+ ],
+ "places": [
+  "天坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19515,
+ "page_range": "401-402"
+}

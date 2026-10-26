@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初一日颁已",
+ "event_role": "朝见受贺",
+ "summary": "任丘县知县邓文源、千总赵应臣来朝。",
+ "people": [
+  {
+   "name": "邓文源",
+   "role": "任丘县知县"
+  },
+  {
+   "name": "赵应臣",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "任丘县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5113,
+ "page_range": "137-138"
+}

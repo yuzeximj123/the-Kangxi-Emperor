@@ -1,0 +1,32 @@
+{
+ "reign_year": 18,
+ "month": 5,
+ "day_text": "十七日庚戌",
+ "event_role": "其他",
+ "summary": "辰时康熙帝御弘德殿，讲官喇沙里、叶方蔼、张玉书进讲《书经》一节，上亲讲毕，讲官照常进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18222,
+ "page_range": "421-422"
+}

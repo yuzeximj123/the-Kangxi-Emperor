@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部覆请奉天将军衙门二司事务由武官办理及拣选管档主事，康熙帝命部院现任主事选择引见，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松住",
+   "role": "暂行管理奉天将军事务"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15603,
+ "page_range": "323-324"
+}

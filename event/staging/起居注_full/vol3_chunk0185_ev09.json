@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "初五日丙戌",
+ "event_role": "朝见受贺",
+ "summary": "康熙御太和门视朝，升转文武官员谢恩，朝鲜国谢恩陈奏正使南九万、副使李奎龄等行礼并赐茶。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "南九万",
+   "role": "朝鲜正使左议政"
+  },
+  {
+   "name": "李奎龄",
+   "role": "朝鲜副使右参赞"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18509,
+ "page_range": "405-406"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝议论会试房考刘下、杨名时二人，称刘焉已补江宁府知府，差杨名时去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "法良",
+   "role": "起居注官"
+  },
+  {
+   "name": "刘下",
+   "role": "会试房考"
+  },
+  {
+   "name": "杨名时",
+   "role": "会试房考"
+  },
+  {
+   "name": "刘焉",
+   "role": "江宁府知府"
+  }
+ ],
+ "places": [
+  "江宁府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 300,
+ "page_range": "17-18"
+}

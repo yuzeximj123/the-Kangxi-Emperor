@@ -1,0 +1,27 @@
+{
+ "reign_year": 12,
+ "month": 5,
+ "day_text": "二十三日壬戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝又赴太皇太后宫问安，由午门出正阳门，进南苑大红门，回东宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "南苑大红门",
+  "东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4203,
+ "page_range": "141-142"
+}

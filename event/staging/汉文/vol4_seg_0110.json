@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾壹年玖月",
+ "reign_year": 51,
+ "month": 9,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "浙江巡抚王度昭奏报江苏、浙江两省秋收分数、早禾晚禾收成及局部夏灾水灾情形，并称米价平稳、民生乐业、地方宁谧。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "巡抚浙江"
+  }
+ ],
+ "places": [
+  "江苏",
+  "浙江",
+  "大江南北",
+  "两浙",
+  "江淮",
+  "淮徐",
+  "山阳",
+  "邳州",
+  "安吉",
+  "诸暨"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 110
+}

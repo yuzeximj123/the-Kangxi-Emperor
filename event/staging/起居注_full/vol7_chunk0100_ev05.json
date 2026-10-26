@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "十三日辛未",
+ "event_role": "司法案件",
+ "summary": "都察院议花色赔补内库缺少缎匹并议开复，康熙帝斥其徇情，命逮问内务府总管、革职拿问司官王弘烈，交都察院再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "花色",
+   "role": "官员"
+  },
+  {
+   "name": "保住",
+   "role": "郎中"
+  },
+  {
+   "name": "王弘烈",
+   "role": "司官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10005,
+ "page_range": "211-212"
+}

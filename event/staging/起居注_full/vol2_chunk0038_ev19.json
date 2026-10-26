@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十三日丁酉",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝询问大同饥民近况，魏象枢奏去年十一二月民生困苦、剥食草根木皮，赈济后流散方止，但缺谷种耕牛。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "刑部尚书"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3819,
+ "page_range": "119-120"
+}

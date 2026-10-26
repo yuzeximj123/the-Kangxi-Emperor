@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十八日戊寅",
+ "event_role": "人事任免",
+ "summary": "兵部为延绥总兵员缺请旨开列，康熙帝命以现任副将列名具奏，并令传李承恩等三人来京面试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李承恩",
+   "role": "副将"
+  },
+  {
+   "name": "陈梦肠",
+   "role": "副将"
+  },
+  {
+   "name": "吉孙略",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "延绥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22219,
+ "page_range": "501-502"
+}

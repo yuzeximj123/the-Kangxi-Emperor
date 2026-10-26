@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "二十四日乙亥",
+ "event_role": "人事任免",
+ "summary": "九卿会推山西按察使布雅努升任员缺，正拟吏部郎中萨毕图、陪拟兵部郎中刻黑，康熙询问后命萨毕图升补按察使。",
+ "people": [
+  {
+   "name": "布雅努",
+   "role": "山西按察使"
+  },
+  {
+   "name": "萨毕图",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "刻黑",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "徐廷乍",
+   "role": "学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19315,
+ "page_range": "421-422"
+}

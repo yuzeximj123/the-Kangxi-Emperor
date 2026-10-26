@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初八日己亥",
+ "event_role": "人事任免",
+ "summary": "明珠奏查邵甘世职，康熙帝着邵甘照拖沙喇哈番品级行走。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "邵甘",
+   "role": "总兵"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6218,
+ "page_range": "159-160"
+}

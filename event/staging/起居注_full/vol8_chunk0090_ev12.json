@@ -1,0 +1,21 @@
+{
+ "reign_year": 54,
+ "month": 3,
+ "day_text": "初九日乙巳",
+ "event_role": "皇帝行止",
+ "summary": "辰时康熙帝由畅春园启行，驻跸汤泉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9012,
+ "page_range": "191-192"
+}

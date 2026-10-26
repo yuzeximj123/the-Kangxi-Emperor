@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "十七日匡丑",
+ "event_role": "朝见受贺",
+ "summary": "顺义县防守御卓博尔图、知县杨方义、怀柔县守备许天德等来朝。",
+ "people": [
+  {
+   "name": "卓博尔图",
+   "role": "顺义县防守御"
+  },
+  {
+   "name": "杨方义",
+   "role": "顺义县知县"
+  },
+  {
+   "name": "许天德",
+   "role": "怀柔县守备"
+  }
+ ],
+ "places": [
+  "顺义县",
+  "怀柔县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10524,
+ "page_range": "220-221"
+}

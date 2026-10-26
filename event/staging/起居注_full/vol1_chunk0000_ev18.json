@@ -1,0 +1,20 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "十九日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至盛京，盛京及守陵文武官员在城外十里跪迎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18,
+ "page_range": "57-58"
+}

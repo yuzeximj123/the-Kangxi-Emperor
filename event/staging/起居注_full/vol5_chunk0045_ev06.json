@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题缓决事，上以拜狂系巡抚韩世琦之子，父子皆极钻营，命改为情真。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "拜狂",
+   "role": "犯人"
+  },
+  {
+   "name": "韩世琦",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4506,
+ "page_range": "100-101"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "工部覆请直隶巡抚赵弘尝所题子牙河分司黄秉忠三年已满议叙，康熙帝命黄秉忠着议叙，员缺另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘尝",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "黄秉忠",
+   "role": "子牙河分司"
+  }
+ ],
+ "places": [
+  "子牙河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13403,
+ "page_range": "279-280"
+}

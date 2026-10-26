@@ -1,0 +1,33 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "古北口总兵官马进良题补守备署游击李默为昌平营参将，议不准行，康熙帝以其材力矫健准照所请补授。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "许登申",
+   "role": "昌平营参将（员缺）"
+  },
+  {
+   "name": "李默",
+   "role": "守备署游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "古北口",
+  "昌平营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4601,
+ "page_range": "102-103"
+}

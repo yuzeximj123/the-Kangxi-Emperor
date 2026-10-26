@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 3,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝因修葺宫室暂驻瀛台，称若欲游览可不时来游，但值亢旱无心游玩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达礼",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3800,
+ "page_range": "133-134"
+}

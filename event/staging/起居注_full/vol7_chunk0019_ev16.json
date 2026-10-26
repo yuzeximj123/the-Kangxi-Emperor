@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十三日癸西",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士马齐等以折本请旨，吏部题刑部侍郎吴涵员缺，康熙帝命问在京阁臣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "铁图",
+   "role": "学士"
+  },
+  {
+   "name": "纪和尔塔浑",
+   "role": "学士"
+  },
+  {
+   "name": "吴涵",
+   "role": "刑部侍郎"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1916,
+ "page_range": "49-50"
+}

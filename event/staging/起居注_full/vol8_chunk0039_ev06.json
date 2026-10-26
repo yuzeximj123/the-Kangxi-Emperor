@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "初二日两子",
+ "event_role": "河工水利",
+ "summary": "康熙帝论直隶永定河冲决处百姓筑舍居住、斥卤变膏腴，江南黄河堤间空地百姓耕种，皆未令起科。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "苑家口",
+  "永定河",
+  "江南",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3906,
+ "page_range": "89-90"
+}

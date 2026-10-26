@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 7,
+ "day_text": "十三日壬实",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御保和殿赐达赖喇嘛使者及噶尔丹使者等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿礼克喀木扎木巴",
+   "role": "达赖喇嘛徒济隆枯图克图使者"
+  },
+  {
+   "name": "达尔汉格龙",
+   "role": "噶尔丹博朔克图使者"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12702,
+ "page_range": "266-267"
+}

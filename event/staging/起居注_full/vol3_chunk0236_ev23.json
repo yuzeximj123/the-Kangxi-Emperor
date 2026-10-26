@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十一日己巳",
+ "event_role": "议政听政",
+ "summary": "皇太子复坐无逸斋，授汤斌《四书》一部令检出难者讲解，汤斌检出数章，皇太子讲解词不繁而精义毕露。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "汤斌",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "无逸斋"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23623,
+ "page_range": "507-508"
+}

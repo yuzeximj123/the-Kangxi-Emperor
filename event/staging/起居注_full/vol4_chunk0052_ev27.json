@@ -1,0 +1,34 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "十一日己卯",
+ "event_role": "朝见受贺",
+ "summary": "保定府道、交河县知县、献县知县、把总等来朝见。",
+ "people": [
+  {
+   "name": "董世琦",
+   "role": "保定府道"
+  },
+  {
+   "name": "卢询",
+   "role": "交河县知县"
+  },
+  {
+   "name": "白元训",
+   "role": "献县知县"
+  },
+  {
+   "name": "张成功",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "保定府",
+  "交河县",
+  "献县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5227,
+ "page_range": "116-117"
+}

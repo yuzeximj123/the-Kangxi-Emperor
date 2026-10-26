@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "二十一日丙子",
+ "event_role": "司法案件",
+ "summary": "刑部议广东总督金光祖参道员任埃赃银十五万两，巡抚金俊审仅百金，前后参差，康熙帝命遣部中才能司官会同督抚察审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金光祖",
+   "role": "广东总督"
+  },
+  {
+   "name": "任埃",
+   "role": "道员"
+  },
+  {
+   "name": "金俊",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1708,
+ "page_range": "77-78"
+}

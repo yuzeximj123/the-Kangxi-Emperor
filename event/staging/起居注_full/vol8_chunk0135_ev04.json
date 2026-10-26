@@ -1,0 +1,29 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "四川巡抚年羹尧题成都府同知黄元英员缺，请以中江县知县李来益补授，康熙帝照所请准补。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "黄元英",
+   "role": "成都府同知"
+  },
+  {
+   "name": "李来益",
+   "role": "中江县知县"
+  }
+ ],
+ "places": [
+  "成都府",
+  "中江县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13504,
+ "page_range": "281-282"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 50,
+ "month": 8,
+ "day_text": "十四日辛未",
+ "event_role": "司法案件",
+ "summary": "大学士温达等覆请刑部所题偷马贼葛穆勒、卓代黑子随围偷马数次拟立斩，胖色只同偷一次拟刺字发黑龙江为奴。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "满保",
+   "role": "学士"
+  },
+  {
+   "name": "巴格",
+   "role": "学士"
+  },
+  {
+   "name": "葛穆勒",
+   "role": "偷马贼"
+  },
+  {
+   "name": "卓代黑子",
+   "role": "偷马贼"
+  },
+  {
+   "name": "胖色只",
+   "role": "偷马贼"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18204,
+ "page_range": "375-376"
+}

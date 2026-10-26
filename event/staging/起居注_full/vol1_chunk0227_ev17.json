@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十三日壬寅",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题额尔得尼和硕齐抢掠吴喇忒部落马匹牲畜事，康熙着依所议行，并嘉奖督捕理事官喇都虎尽心察审。",
+ "people": [
+  {
+   "name": "额尔得尼和硕齐",
+   "role": "抢掠者"
+  },
+  {
+   "name": "喇都虎",
+   "role": "督捕理事官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "吴喇忒部落"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22717,
+ "page_range": "511-512"
+}

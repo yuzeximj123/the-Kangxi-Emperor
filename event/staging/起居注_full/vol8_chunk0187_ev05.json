@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部题请更换淮安关监督常德、江南海关监督萨哈员缺，康熙帝命查明二关钱粮有无亏欠具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常德",
+   "role": "淮安关监督"
+  },
+  {
+   "name": "萨哈",
+   "role": "江南海关监督"
+  }
+ ],
+ "places": [
+  "淮安关",
+  "江南海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18705,
+ "page_range": "385-386"
+}

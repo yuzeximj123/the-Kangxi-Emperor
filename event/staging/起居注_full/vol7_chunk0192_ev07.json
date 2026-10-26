@@ -1,0 +1,40 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题山东省缓决一案，康熙命刘三等监候缓决，朱大九等改为可矜照例减等发落。",
+ "people": [
+  {
+   "name": "刘三",
+   "role": "案犯"
+  },
+  {
+   "name": "王二",
+   "role": "案犯"
+  },
+  {
+   "name": "朱明贤",
+   "role": "案犯"
+  },
+  {
+   "name": "朱大九",
+   "role": "案犯"
+  },
+  {
+   "name": "张明善",
+   "role": "案犯"
+  },
+  {
+   "name": "田好道",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19207,
+ "page_range": "395-396"
+}

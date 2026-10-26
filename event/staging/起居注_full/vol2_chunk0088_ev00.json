@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就镇浙将军马哈达题奏逃人事务表态，认为仍交将军可行，命明珠等公同详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马哈达",
+   "role": "镇浙将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8800,
+ "page_range": "219-220"
+}

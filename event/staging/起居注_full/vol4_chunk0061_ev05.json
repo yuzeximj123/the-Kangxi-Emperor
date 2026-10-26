@@ -1,0 +1,40 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十九日己卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责问总督傅腊塔、布政使郑端为何又结彩预备船只，二人奏称系百姓常规。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "总督"
+  },
+  {
+   "name": "郑端",
+   "role": "布政使"
+  },
+  {
+   "name": "图纳",
+   "role": "臣子"
+  },
+  {
+   "name": "苏赫",
+   "role": "臣子"
+  },
+  {
+   "name": "马齐",
+   "role": "臣子"
+  }
+ ],
+ "places": [
+  "秦淮江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6105,
+ "page_range": "134-135"
+}

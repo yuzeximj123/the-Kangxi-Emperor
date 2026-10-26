@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "覆请长芦盐商张霖名下盐引由李天福代领带销，每年节省银两交内库，不能完结则交内务府治罪追产，康熙依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张霖",
+   "role": "长芦盐商"
+  },
+  {
+   "name": "李天福",
+   "role": "内务府买卖人"
+  }
+ ],
+ "places": [
+  "长芦",
+  "融州",
+  "宛平",
+  "青县",
+  "静海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16202,
+ "page_range": "335-336"
+}

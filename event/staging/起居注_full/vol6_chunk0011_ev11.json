@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "十八日乙未",
+ "event_role": "人事任免",
+ "summary": "喀尔喀贝子阿南达之妻苏么达喇请以第三子丹金承袭，康熙帝令照所请，长子滚桔克若欲另为扎萨克可另行封之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿南达",
+   "role": "喀尔喀贝子"
+  },
+  {
+   "name": "苏么达喇",
+   "role": "阿南达之妻"
+  },
+  {
+   "name": "丹金",
+   "role": "阿南达第三子"
+  },
+  {
+   "name": "滚桔克",
+   "role": "阿南达长子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1111,
+ "page_range": "32-33"
+}

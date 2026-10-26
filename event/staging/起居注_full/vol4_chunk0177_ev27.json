@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "二十二日王寅",
+ "event_role": "人事任免",
+ "summary": "兵部题汉军副都统苏赫员缺开列侍郎萨称哈等，康熙帝以参领冯国相人材壮健，着升补副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏赫",
+   "role": "汉军副都统"
+  },
+  {
+   "name": "萨称哈",
+   "role": "侍郎"
+  },
+  {
+   "name": "冯国相",
+   "role": "参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17727,
+ "page_range": "366-367"
+}

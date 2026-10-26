@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙伍拾三年十二月拾玖日",
+ "reign_year": 53,
+ "month": 12,
+ "day": 19,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮奏谢康熙帝赐金扇及御书诗作，表达感激之情，并另疏恭谢。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "巡抚直隶等处地方、兵部右侍郎兼都察院右副都御史"
+  },
+  {
+   "name": "李煦",
+   "role": "两淮巡盐御史"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "保"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 85
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "二十九日甲实",
+ "event_role": "人事任免",
+ "summary": "康熙帝称内阁侍读学士德音年少超升，其父现任尚书，用为大人其父心不安，马齐奏请效力几年后再请旨开列。",
+ "people": [
+  {
+   "name": "德音",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17919,
+ "page_range": "369-370"
+}

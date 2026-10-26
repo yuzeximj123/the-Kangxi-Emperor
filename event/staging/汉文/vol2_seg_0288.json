@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十九年三月二十二日",
+ "reign_year": 49,
+ "month": 3,
+ "day": 19,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏报已遵旨刷印《御批资治通鉴纲目》六百部并由水路解运进呈，同时恭请圣安。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "管理扬州织造郎中兼巡视两淮盐课监察御史，奏报人"
+  },
+  {
+   "name": "曹寅",
+   "role": "传宣谕旨者（见题名）"
+  }
+ ],
+ "places": [
+  "扬州",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "直隸巡撫趙弘燮奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "644",
+ "order_index": 288
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "初八日壬子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝于中和殿视方泽祝版毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "方泽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6010,
+ "page_range": "131-132"
+}

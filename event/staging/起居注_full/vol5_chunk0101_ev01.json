@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "三十日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝先前召见沙津，密令其遣人诱噶尔丹近地，噶尔丹果沿克鲁伦河而下掠喀尔喀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙津",
+   "role": "科尔沁土谢图亲王"
+  }
+ ],
+ "places": [
+  "木兰行猎之地",
+  "克鲁伦河",
+  "巴颜乌兰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10101,
+ "page_range": "212-213"
+}

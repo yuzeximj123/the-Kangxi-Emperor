@@ -1,0 +1,44 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "十六日庚子",
+ "event_role": "议政听政",
+ "summary": "康熙帝与大学士马齐议论法良、郎奇、辛保、穆丹、钱齐保及兵部司官宝善等人品行政绩，马齐逐一奏对。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "法良",
+   "role": "学士"
+  },
+  {
+   "name": "郎奇",
+   "role": "官员"
+  },
+  {
+   "name": "辛保",
+   "role": "学士"
+  },
+  {
+   "name": "穆丹",
+   "role": "官员"
+  },
+  {
+   "name": "钱齐保",
+   "role": "原任学士"
+  },
+  {
+   "name": "宝善",
+   "role": "兵部司官"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21415,
+ "page_range": "438-439"
+}

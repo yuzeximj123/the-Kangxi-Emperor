@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十九日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "议云南驿传道郭廷纤等解送赖塔军前马匹违限未报应议处，康熙帝以路远马毙属实，命免赔补并免议处。",
+ "people": [
+  {
+   "name": "郭廷纤",
+   "role": "云南驿传道"
+  },
+  {
+   "name": "赖塔",
+   "role": "将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南",
+  "福建",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17920,
+ "page_range": "401-402"
+}

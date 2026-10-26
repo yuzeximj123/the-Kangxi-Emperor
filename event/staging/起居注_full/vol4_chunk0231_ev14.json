@@ -1,0 +1,29 @@
+{
+ "reign_year": 32,
+ "month": 4,
+ "day_text": "十四日丁亥",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚郭世隆题三河县知县张筋才堪肆应，乞升授涿州知州，康熙照所题升授。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "张筋",
+   "role": "三河县知县"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "涿州",
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23114,
+ "page_range": "474-475"
+}

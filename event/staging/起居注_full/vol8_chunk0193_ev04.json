@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙召徐元梦、阿尔赛，谕科场之事尽为大臣主持，大臣不应为子弟钻营、预科场之事。",
+ "people": [
+  {
+   "name": "徐元梦",
+   "role": "起居注左都御史"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "检讨"
+  },
+  {
+   "name": "刘谦",
+   "role": "会试主考"
+  },
+  {
+   "name": "储在文",
+   "role": "同考官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19304,
+ "page_range": "397-398"
+}

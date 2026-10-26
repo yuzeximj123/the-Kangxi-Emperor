@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "十六日己卯",
+ "event_role": "司法案件",
+ "summary": "缓决重犯张国栋等五十三人，明珠等奏十九人分别随签，康熙帝命再加搜求详阅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张国栋",
+   "role": "重犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19210,
+ "page_range": "419-420"
+}

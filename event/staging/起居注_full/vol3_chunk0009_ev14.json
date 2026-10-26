@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "二十九日乙丑",
+ "event_role": "人事任免",
+ "summary": "兵部题补步军统领费扬古解任员缺，康熙帝斥麻勒吉无劳绩且行事乖戾，命麻尔图补授统领效力赎罪。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "步军统领（解任）"
+  },
+  {
+   "name": "麻勒吉",
+   "role": "官员"
+  },
+  {
+   "name": "麻尔图",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 914,
+ "page_range": "53-54"
+}

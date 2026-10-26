@@ -1,0 +1,46 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "十九日甲辰",
+ "event_role": "人事任免",
+ "summary": "都察院再议云南等学道称职具题事，请将尚书鄂尔多等降级调用，康熙帝分别降级、解任、宽留任。",
+ "people": [
+  {
+   "name": "鄂尔多",
+   "role": "尚书"
+  },
+  {
+   "name": "张士标",
+   "role": "尚书"
+  },
+  {
+   "name": "沙海",
+   "role": "左侍郎"
+  },
+  {
+   "name": "李振裕",
+   "role": "左侍郎"
+  },
+  {
+   "name": "赵士鲁",
+   "role": "右侍郎"
+  },
+  {
+   "name": "法喀",
+   "role": "郎中"
+  },
+  {
+   "name": "梁钦构",
+   "role": "郎中"
+  },
+  {
+   "name": "王敏政",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15116,
+ "page_range": "314-315"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "二十九日庚辰",
+ "event_role": "祭祀典礼",
+ "summary": "太常寺请旨祭社稷坛亲祭或遣大臣，康熙帝令问明病目患疾者可否斋戒，并令会同礼部查例具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "太常寺官员"
+  }
+ ],
+ "places": [
+  "社稷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7017,
+ "page_range": "183-184"
+}

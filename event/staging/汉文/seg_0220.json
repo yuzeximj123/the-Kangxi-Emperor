@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十七年二月二十日",
+ "reign_year": 47,
+ "month": 2,
+ "day": 20,
+ "event_role": "奏报地方情形",
+ "summary": "江西巡抚奏报入春雨水调匀、省城及各地米价平稳、地方盗贼稀少百姓安宁。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "奏报人"
+  }
+ ],
+ "places": [
+  "江西",
+  "省城",
+  "赣州",
+  "袁州",
+  "江浙",
+  "福建",
+  "广东",
+  "湖南",
+  "湖北"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "297",
+ "source_title": "江西巡撫郎廷極奏報雨水米價地方寧謐摺",
+ "order_index": 220
+}

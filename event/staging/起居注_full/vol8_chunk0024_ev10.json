@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙称正蓝旗佐领教拜学问优、翻译好、人品高，与把叙、徐元梦相等，并询问把叙及学士等是否闻其学问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "禅布",
+   "role": "原任副都统"
+  },
+  {
+   "name": "教拜",
+   "role": "佐领"
+  },
+  {
+   "name": "把叙",
+   "role": "起居注左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2410,
+ "page_range": "59-60"
+}

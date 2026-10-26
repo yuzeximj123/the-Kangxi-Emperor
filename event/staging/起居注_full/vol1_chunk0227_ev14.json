@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十三日壬寅",
+ "event_role": "人事任免",
+ "summary": "吏部议原任编修陈梦雷具呈展辩、福建巡抚吴兴宦代题事，康熙从轻议，命陈梦雷仍着来京。",
+ "people": [
+  {
+   "name": "陈梦雷",
+   "role": "原任编修"
+  },
+  {
+   "name": "吴兴宦",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "哈占",
+   "role": "前总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22714,
+ "page_range": "511-512"
+}

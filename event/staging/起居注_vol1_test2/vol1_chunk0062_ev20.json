@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 12,
+ "day_text": "初九日甲质",
+ "event_role": "人事任免",
+ "summary": "康熙帝御观德殿命升补宁夏西宁总兵官员缺，陈福、王进宝射箭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈福",
+   "role": "镇守四川赣州右都督管副将事"
+  },
+  {
+   "name": "王进宝",
+   "role": "镇守甘肃永固城参将管副将事"
+  }
+ ],
+ "places": [
+  "观德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6220,
+ "page_range": "181-182"
+}

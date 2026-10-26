@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "辰时",
+ "event_role": "其他",
+ "summary": "康熙帝与魏象枢论崔蔚林所进讲义，谓意有善有恶须存诚工夫，蔚林所言太易。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "崔蔚林",
+   "role": "进讲义者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20105,
+ "page_range": "459-460"
+}

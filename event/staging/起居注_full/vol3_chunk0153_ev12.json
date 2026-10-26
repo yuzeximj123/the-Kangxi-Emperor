@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初九日癸巳",
+ "event_role": "司法案件",
+ "summary": "刑部题马鸣镶打死方新拟绞监候秋决，康熙帝以其率众故杀，命再确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马鸣镶",
+   "role": "拟绞监候者"
+  },
+  {
+   "name": "方新",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15312,
+ "page_range": "341-342"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "初二日已已",
+ "event_role": "议政听政",
+ "summary": "兵部题广州将军卢崇耀请于标下添设中军副将议不准行，康熙帝以他省皆有而广州独无，令查明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卢崇耀",
+   "role": "广州将军"
+  }
+ ],
+ "places": [
+  "广州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10010,
+ "page_range": "210-211"
+}

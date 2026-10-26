@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 11,
+ "day_text": "二十一日甲寅",
+ "event_role": "人事任免",
+ "summary": "礼部题镇守福州将军佟国瑶病故请赐恤典，康熙帝以其镇守福建和辑兵民，准与谥号并加祭一次。",
+ "people": [
+  {
+   "name": "佟国瑶",
+   "role": "镇守福州等处将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福州",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9211,
+ "page_range": "196-197"
+}

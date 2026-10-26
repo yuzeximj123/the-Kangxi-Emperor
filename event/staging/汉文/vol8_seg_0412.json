@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙六十一年十月",
+ "reign_year": 61,
+ "month": 10,
+ "day": 29,
+ "event_role": "奏报地方情形",
+ "summary": "凉州镇总兵述明到任后查报凉州标协营路军装器械、马匹短缺大半，营伍废弛严重，据实陈明。",
+ "people": [
+  {
+   "name": "述明",
+   "role": "凉州镇总兵"
+  }
+ ],
+ "places": [
+  "凉州镇",
+  "凉州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "涼州總兵述明奏為據實陳明營務廢弛事摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "3011",
+ "order_index": 412
+}

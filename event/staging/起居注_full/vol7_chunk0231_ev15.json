@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 9,
+ "day_text": "二十八日戊申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸密云县，密云县知县朱英等、守备蔡崇印等、抽木税兵部郎中尼唐阿等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱英",
+   "role": "密云县知县"
+  },
+  {
+   "name": "蔡崇印",
+   "role": "守备"
+  },
+  {
+   "name": "尼唐阿",
+   "role": "兵部郎中"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23115,
+ "page_range": "473-474"
+}

@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙六十一年十月二十三日",
+ "reign_year": 61,
+ "month": 10,
+ "day": null,
+ "event_role": "弹劾参奏",
+ "summary": "刑部尚书张鹏等参奏甘肃巡抚花善，指其在修造九公主之子吴福房屋一事中推诿不行修理，并审拟其供词。",
+ "people": [
+  {
+   "name": "托赖",
+   "role": "刑部尚书，领衔奏参"
+  },
+  {
+   "name": "张鹏",
+   "role": "刑部尚书，具奏"
+  },
+  {
+   "name": "花善",
+   "role": "原任署理巡抚，被参审拟对象"
+  },
+  {
+   "name": "吴福",
+   "role": "九公主之子，房屋修造相关人"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "刑部尚書托賴等奏參推薦不辨文工之甘肅巡撫摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "3010",
+ "order_index": 401
+}

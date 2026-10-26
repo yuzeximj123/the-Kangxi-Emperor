@@ -1,0 +1,20 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "初三日戊子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸五十间房。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "五十间房"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12311,
+ "page_range": "257-258"
+}

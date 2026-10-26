@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "古北口总兵官马进良题请留原任三屯营副将刘汉业，康熙帝称其居官优长，着留三屯营任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马进良",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "刘汉业",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "三屯营",
+  "古北口",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20008,
+ "page_range": "410-411"
+}

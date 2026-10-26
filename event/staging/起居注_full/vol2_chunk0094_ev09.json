@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "初六日乙酉",
+ "event_role": "人事任免",
+ "summary": "兵部请补授陈茂林等五人虎门头等处副将，康熙帝指李懋珠可恶不可为外官，令入旗下另拟。",
+ "people": [
+  {
+   "name": "陈茂林",
+   "role": "拟补副将"
+  },
+  {
+   "name": "李懋珠",
+   "role": "拟补副将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9409,
+ "page_range": "231-232"
+}

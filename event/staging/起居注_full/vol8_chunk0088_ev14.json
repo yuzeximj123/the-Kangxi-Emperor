@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十六日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "户部覆奉天府尹郝林条奏禁止卖身互占田土，康熙帝令回銮后会同九卿议奏旗民分处事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郝林",
+   "role": "奉天府府尹"
+  }
+ ],
+ "places": [
+  "奉天",
+  "锦州",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8814,
+ "page_range": "187-188"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十七日己亥",
+ "event_role": "司法案件",
+ "summary": "户部议刘裕封等庄头霸占案，请秋后质问，康熙帝命即令郎中齐世前往质对详审完结。",
+ "people": [
+  {
+   "name": "刘裕封",
+   "role": "民人"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "齐世",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19113,
+ "page_range": "425-426"
+}

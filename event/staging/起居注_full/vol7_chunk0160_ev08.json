@@ -1,0 +1,34 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初二日辛卯",
+ "event_role": "人事任免",
+ "summary": "温达等遵旨询问书办之子员外郎姓名，康熙帝命吴琳芳等依拟用，书办之子朱构烈以员外郎原品解任。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "张觅翻",
+   "role": "官员"
+  },
+  {
+   "name": "朱构烈",
+   "role": "书办之子员外郎"
+  },
+  {
+   "name": "吴琳芳",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16008,
+ "page_range": "331-332"
+}

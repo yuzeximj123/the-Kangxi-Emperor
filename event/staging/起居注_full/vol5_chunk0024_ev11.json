@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初七日癸酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙言熊赐履所著《道统》一书，王鸿绪代请刊刻颁行学宫、高士奇作序，因书内杂统过当、小人赞扬太过，未命刊刻。",
+ "people": [
+  {
+   "name": "熊赐履",
+   "role": "著书者"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "代奏者"
+  },
+  {
+   "name": "高士奇",
+   "role": "作序者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2411,
+ "page_range": "58-59"
+}

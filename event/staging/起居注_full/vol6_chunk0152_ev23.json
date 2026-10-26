@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": "初十日壬寅",
+ "event_role": "河工水利",
+ "summary": "康熙问侍郎常寿挑引河处所及清水能否出，常寿奏张福口地势情形。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "张福口",
+  "清河县",
+  "烂泥浅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15223,
+ "page_range": "314-315"
+}

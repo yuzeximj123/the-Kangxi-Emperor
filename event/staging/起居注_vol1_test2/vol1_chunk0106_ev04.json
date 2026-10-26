@@ -1,0 +1,21 @@
+{
+ "reign_year": 14,
+ "month": 12,
+ "day_text": "十一日甲子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御太和殿视礼天祝版，又御中和殿视地、太庙、社稷、奉先殿、仁孝皇后祝版。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿",
+  "中和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10604,
+ "page_range": "269-270"
+}

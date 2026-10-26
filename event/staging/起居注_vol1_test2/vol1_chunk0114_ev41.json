@@ -1,0 +1,22 @@
+{
+ "reign_year": 15,
+ "month": 5,
+ "day_text": "初十日辛卯",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御中和殿，视方泽坛祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "方泽坛",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11441,
+ "page_range": "285-286"
+}

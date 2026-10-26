@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "十九日己未",
+ "event_role": "朝见受贺",
+ "summary": "喀喇沁多罗杜棱郡王塞楞、一品他布囊塞布、二品他布囊诺木齐、四品他布囊普克孙来请安进贡。",
+ "people": [
+  {
+   "name": "塞楞",
+   "role": "喀喇沁多罗杜棱郡王"
+  },
+  {
+   "name": "塞布",
+   "role": "一品他布囊"
+  },
+  {
+   "name": "诺木齐",
+   "role": "二品他布囊"
+  },
+  {
+   "name": "普克孙",
+   "role": "四品他布囊"
+  }
+ ],
+ "places": [
+  "喀喇沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2026,
+ "page_range": "51-52"
+}

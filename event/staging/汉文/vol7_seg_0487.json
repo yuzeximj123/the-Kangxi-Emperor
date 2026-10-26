@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十六年八月初九日",
+ "reign_year": 56,
+ "month": 8,
+ "day": 9,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州、扬州等府雨水调匀、田禾茂盛，米价上号一两一钱、次号九钱五分，并进呈七月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批叮嘱米价不可过贱。",
+ "source_title": "蘇州織造李煦奏報蘇揚米價並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2499",
+ "order_index": 487
+}

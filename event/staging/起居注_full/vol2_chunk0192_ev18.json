@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "初四日乙巳",
+ "event_role": "人事任免",
+ "summary": "吏部会同工部选择镶蓝旗分主事引见，康熙帝以拖罗曾隐蔽傅弘烈行事、非可用之人，不予任用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希弗纳",
+   "role": "司库拟正"
+  },
+  {
+   "name": "拖罗",
+   "role": "署牌拟陪"
+  },
+  {
+   "name": "傅弘烈",
+   "role": "原任"
+  },
+  {
+   "name": "科尔坤",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19218,
+ "page_range": "427-428"
+}

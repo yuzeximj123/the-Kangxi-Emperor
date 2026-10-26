@@ -1,0 +1,20 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "初十日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸左卫城。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "左卫城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17815,
+ "page_range": "366-367"
+}

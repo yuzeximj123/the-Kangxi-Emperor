@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部汇题李天才诓骗王二银两，拟枷号四十日鞭一百，康熙帝依议并令挑去李天才脚筋。",
+ "people": [
+  {
+   "name": "李天才",
+   "role": "案犯"
+  },
+  {
+   "name": "王二",
+   "role": "受害人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16009,
+ "page_range": "331-332"
+}

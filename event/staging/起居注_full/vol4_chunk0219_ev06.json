@@ -1,0 +1,22 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "十七日辛卯",
+ "event_role": "请安谢恩",
+ "summary": "是日康熙帝向皇太后问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "受问安者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21906,
+ "page_range": "450-451"
+}

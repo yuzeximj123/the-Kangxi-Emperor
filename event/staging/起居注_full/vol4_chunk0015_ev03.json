@@ -1,0 +1,32 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "佛伦奏辩会议经过，称众人画一议定后由董讷亲笔写看语稿并画题，并无改稿之事。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "会议大臣"
+  },
+  {
+   "name": "董讷",
+   "role": "奏对官员"
+  },
+  {
+   "name": "汤研",
+   "role": "提及官员"
+  },
+  {
+   "name": "萨木哈",
+   "role": "提及官员"
+  }
+ ],
+ "places": [
+  "宿迁县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1503,
+ "page_range": "42-43"
+}

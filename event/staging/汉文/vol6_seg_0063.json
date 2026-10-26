@@ -1,0 +1,30 @@
+{
+ "date_raw": "伍月初捌日",
+ "reign_year": null,
+ "month": 5,
+ "day": 8,
+ "event_role": "人事任免",
+ "summary": "赵弘燮接邸报得知凉州镇臣袁钤奏报贼众未退，因身负京畿重寄不能亲赴疆场，拟举荐可用之材效力边圉。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚（具奏人）"
+  },
+  {
+   "name": "袁钤",
+   "role": "凉州镇臣"
+  }
+ ],
+ "places": [
+  "凉州",
+  "直隶",
+  "京畿"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（赵弘燮举荐将弁）",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 63
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 11,
+ "day_text": "十二日己亥",
+ "event_role": "人事任免",
+ "summary": "吏部题解任尚书张英员缺，开列左都御史于成龙等，康熙帝命熊赐履补授礼部尚书。",
+ "people": [
+  {
+   "name": "张英",
+   "role": "解任尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  },
+  {
+   "name": "熊赐履",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13405,
+ "page_range": "280-281"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "二十一日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "贵州提督赵赖题请留原总兵刘文起等效力，奏内涉及纳尔泰代奏；康熙以纳尔泰未奉命探访、不合，令该部察明具奏。",
+ "people": [
+  {
+   "name": "赵赖",
+   "role": "贵州提督"
+  },
+  {
+   "name": "刘文起",
+   "role": "原任总兵官"
+  },
+  {
+   "name": "纳尔泰",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "贵州",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7513,
+ "page_range": "193-194"
+}

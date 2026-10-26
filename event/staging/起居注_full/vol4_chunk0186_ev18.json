@@ -1,0 +1,34 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "二十三日癸卯",
+ "event_role": "人事任免",
+ "summary": "吏部请补陕西巡抚萨纤图员缺，康熙帝命调布喀补陕西巡抚，升甘肃布政使吴赫为甘肃巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨纤图",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "布喀",
+   "role": "调补陕西巡抚"
+  },
+  {
+   "name": "吴赫",
+   "role": "甘肃布政使"
+  }
+ ],
+ "places": [
+  "陕西",
+  "甘肃",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18618,
+ "page_range": "384-385"
+}

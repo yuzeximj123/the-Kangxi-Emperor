@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问保举董奇修事，张鹏翮奏因才具拣选，并言户部钱粮易惑人心。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "尚书"
+  },
+  {
+   "name": "董奇修",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15901,
+ "page_range": "329-330"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "谕令莽牛河水势大涨即报开所塞之处，仍照常听其流入六里河；永定河水势大涨则备朝以防回注。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "莽牛河",
+  "六里河",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19900,
+ "page_range": "408-409"
+}

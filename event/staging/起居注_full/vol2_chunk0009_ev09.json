@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十一日",
+ "event_role": "祭祀典礼",
+ "summary": "议独猴副将徐升耀恤典，康熙帝以其屡次效力被贼害，命遣官致祭，待云南开复后妻子迎回骨衬再遣祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "徐升耀",
+   "role": "独猴副将"
+  }
+ ],
+ "places": [
+  "四川",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 909,
+ "page_range": "61-62"
+}

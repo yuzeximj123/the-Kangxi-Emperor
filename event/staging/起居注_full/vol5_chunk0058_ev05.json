@@ -1,0 +1,22 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "初九日辛丑",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题拟杀主之七十儿立决，康熙帝以其主称其为善仆且因酒醉杀之，命免死枷责交还其主。",
+ "people": [
+  {
+   "name": "七十儿",
+   "role": "杀主犯人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5805,
+ "page_range": "126-127"
+}

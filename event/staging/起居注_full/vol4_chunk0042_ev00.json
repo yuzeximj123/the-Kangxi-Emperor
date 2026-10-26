@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "翰林院掌院事侍郎库勒纳参奏大学士梁清标在柴光阁阅武举骑射时侍坐垂头闭目失体，请交部察议。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "翰林院掌院事侍郎"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "柴光阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4200,
+ "page_range": "96-97"
+}

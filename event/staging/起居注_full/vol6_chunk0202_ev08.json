@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "十三日己亥",
+ "event_role": "人事任免",
+ "summary": "提督李林盛奏请参将彭良相等八员带往新任，康熙准其带往。",
+ "people": [
+  {
+   "name": "李林盛",
+   "role": "提督"
+  },
+  {
+   "name": "彭良相",
+   "role": "参将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20208,
+ "page_range": "414-415"
+}

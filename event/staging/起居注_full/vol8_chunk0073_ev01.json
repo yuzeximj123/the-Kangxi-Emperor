@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "礼部议镶红旗监生德寿倩江南无锡监生张登瀛代作文字作弊，拟革监生、徒杖，康熙帝以其太轻，发还再议。",
+ "people": [
+  {
+   "name": "德寿",
+   "role": "镶红旗马兰泰佐领下监生"
+  },
+  {
+   "name": "张登瀛",
+   "role": "江南无锡县监生"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南无锡县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7301,
+ "page_range": "157-158"
+}

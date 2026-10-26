@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "湖广提督俞益谟题请补授吴均等天柱参将等缺，康熙帝准照所请补授，并令要紧缺出用其素知之人。",
+ "people": [
+  {
+   "name": "俞益谟",
+   "role": "湖广提督"
+  },
+  {
+   "name": "吴均",
+   "role": "原任大同总兵标下游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "天柱"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6103,
+ "page_range": "133-134"
+}

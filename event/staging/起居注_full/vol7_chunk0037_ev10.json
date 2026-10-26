@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "三十日",
+ "event_role": "司法案件",
+ "summary": "九卿以直隶情真内可矜罪犯具题，康熙帝以于仲之情更觉可悯，着从宽免充配，杖三十完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于仲",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3710,
+ "page_range": "85-86"
+}

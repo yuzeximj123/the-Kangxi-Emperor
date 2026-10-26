@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十八日壬寅",
+ "event_role": "人事任免",
+ "summary": "吏部题直隶巡抚于成龙应兼职衔，康熙帝准照部议，并命将其前罚俸五年照旧给与以济其贫。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14206,
+ "page_range": "319-320"
+}

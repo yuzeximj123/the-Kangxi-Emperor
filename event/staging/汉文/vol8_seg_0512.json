@@ -1,0 +1,34 @@
+{
+ "date_raw": "二月初二日",
+ "reign_year": null,
+ "month": 2,
+ "day": 2,
+ "event_role": "请安谢恩",
+ "summary": "李光地奏报启程赴京贺万寿，因疥疮未愈恐行程迟滞，并进呈元版《周易会通》等旧书以备御览。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "董真卿",
+   "role": "元儒，《周易会通》作者"
+  },
+  {
+   "name": "成德",
+   "role": "刻书者"
+  },
+  {
+   "name": "徐乾学",
+   "role": "刻书者"
+  }
+ ],
+ "places": [],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "李光地奏贺万寿并进书",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 512
+}

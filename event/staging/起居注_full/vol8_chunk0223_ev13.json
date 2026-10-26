@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "川陕总督鄂海题郭廷栋殴死崔功拟绞监候，康熙帝以崔功先持斧打人，命从宽免死减等完结。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "郭廷栋",
+   "role": "案犯"
+  },
+  {
+   "name": "崔功",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22313,
+ "page_range": "457-458"
+}

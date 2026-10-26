@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙伍拾壹年辛酉月日",
+ "reign_year": 51,
+ "month": null,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "署理直隶巡抚于成龙奏报昌平州知州到任，并报该州自春至秋雨泽调匀、禾苗秀实、无蝗蝻，收成有九分以上。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "署理直隶巡抚事务臣"
+  },
+  {
+   "name": "昌平州知州",
+   "role": "昌平州知州"
+  }
+ ],
+ "places": [
+  "昌平州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，表示自己安好。",
+ "source_title": "于成龙奏报昌平州收成",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 251
+}

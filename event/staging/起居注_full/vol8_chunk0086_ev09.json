@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝谕大学士等，命甘国壁升补云南巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "甘国壁",
+   "role": "云南巡抚"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8609,
+ "page_range": "183-184"
+}

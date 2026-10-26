@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十一日乙巳",
+ "event_role": "谕旨决策",
+ "summary": "礼部议赏朝鲜人金俊捞取水底犀角等物，康熙帝令停解京及苏木折价。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金俊",
+   "role": "朝鲜人"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13317,
+ "page_range": "277-278"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 32,
+ "month": 1,
+ "day_text": "三十日甲成",
+ "event_role": "皇帝行止",
+ "summary": "未时，康熙帝由安定门进神武门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安定门",
+  "神武门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22319,
+ "page_range": "458-459"
+}

@@ -1,0 +1,35 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "宁古塔副都统瓦里虎自请往爱浑、呼马尔效力，康熙帝嘉其志但令仍驻守本处。",
+ "people": [
+  {
+   "name": "瓦里虎",
+   "role": "宁古塔副都统"
+  },
+  {
+   "name": "巴海",
+   "role": "将军"
+  },
+  {
+   "name": "萨布苏",
+   "role": "副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乌喇",
+  "宁古塔",
+  "爱浑",
+  "呼马尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17502,
+ "page_range": "393-394"
+}

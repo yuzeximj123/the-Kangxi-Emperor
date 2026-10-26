@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙四十年十月",
+ "reign_year": 40,
+ "month": 10,
+ "day": null,
+ "event_role": "贸易漕运",
+ "summary": "苏州织造李煦奏报杭州织造莫尔森出洋事毕返回，已由苏州启程进京。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "莫尔森",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "杭州",
+  "宁波"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并称今年苏州年成极好、万民欢悦，归功于皇上洪福。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "46",
+ "source_title": "蘇州織造李煦奏報莫爾森出洋已回現己由蘇州進京摺",
+ "order_index": 42
+}

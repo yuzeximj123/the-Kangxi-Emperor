@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十七日己丑",
+ "event_role": "朝见受贺",
+ "summary": "真定府知府郭治等、定州守备张德等来朝见。",
+ "people": [
+  {
+   "name": "郭治",
+   "role": "真定府知府"
+  },
+  {
+   "name": "张德",
+   "role": "定州守备"
+  }
+ ],
+ "places": [
+  "真定府",
+  "定州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7611,
+ "page_range": "163-164"
+}

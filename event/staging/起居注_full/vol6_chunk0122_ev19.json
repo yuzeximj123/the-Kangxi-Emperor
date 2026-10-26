@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "初五日已刻",
+ "event_role": "人事任免",
+ "summary": "康熙帝命哈雅尔图补授都察院左都御史仍兼内务府总管事，陈廷黎补授吏部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈雅尔图",
+   "role": "左都御史"
+  },
+  {
+   "name": "陈廷黎",
+   "role": "吏部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12219,
+ "page_range": "254-255"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十日戊辰",
+ "event_role": "人事任免",
+ "summary": "吏部题广西左江道李世仁请终养，康熙帝准行，命其亲终服满之日仍以广西原缺补用。",
+ "people": [
+  {
+   "name": "李世仁",
+   "role": "广西左江道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3116,
+ "page_range": "73-74"
+}

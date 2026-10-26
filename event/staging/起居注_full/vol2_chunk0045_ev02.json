@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补孝陵总管，康熙帝命明珠会同兵部选择八旗章京官员具奏，可于行幸之处酌定。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "舒她",
+   "role": "噶喇大"
+  }
+ ],
+ "places": [
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4502,
+ "page_range": "133-134"
+}

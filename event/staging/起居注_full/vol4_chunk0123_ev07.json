@@ -1,0 +1,38 @@
+{
+ "reign_year": 29,
+ "month": 6,
+ "day_text": "二十九日己未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以内府所印四书五经发交大学士等阅看，命如善则发该部，愿印者听其印取。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12307,
+ "page_range": "258-259"
+}

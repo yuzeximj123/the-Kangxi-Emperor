@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等覆总督赵弘沟所题大盗刘大投首减等完结议驳回，康熙问何必驳回，命该部即定拟具奏。",
+ "people": [
+  {
+   "name": "赵弘沟",
+   "role": "总督管理直隶巡抚事务"
+  },
+  {
+   "name": "刘大",
+   "role": "大盗"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11205,
+ "page_range": "235-236"
+}

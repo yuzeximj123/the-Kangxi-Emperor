@@ -1,0 +1,54 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "初十日甲成",
+ "event_role": "人事任免",
+ "summary": "康熙命内大臣鄂伦岱等视来朝官员射艺，据奏优劣，命预备次日亲视。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂伦岱",
+   "role": "内大臣公"
+  },
+  {
+   "name": "阿什滩",
+   "role": "伯"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "陆承养",
+   "role": "游击"
+  },
+  {
+   "name": "马色",
+   "role": "章京"
+  },
+  {
+   "name": "范兴",
+   "role": "把总"
+  },
+  {
+   "name": "高茂宣",
+   "role": "游击"
+  },
+  {
+   "name": "常寿",
+   "role": "章京"
+  },
+  {
+   "name": "朱定国",
+   "role": "把总"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11711,
+ "page_range": "244-245"
+}

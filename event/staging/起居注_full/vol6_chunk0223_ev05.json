@@ -1,0 +1,56 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "补授凉庄道，康熙帝命鞠宕咨补授，并移文张鹏翮、李光地等举荐清廉爱民之道员以下知县以上官员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鞠宕",
+   "role": "凉庄道"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "郭考",
+   "role": "官员"
+  },
+  {
+   "name": "彭鹏",
+   "role": "官员"
+  },
+  {
+   "name": "桑格",
+   "role": "官员"
+  },
+  {
+   "name": "华显",
+   "role": "官员"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  },
+  {
+   "name": "徐潮",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "凉庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22305,
+ "page_range": "456-457"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十三日己未",
+ "event_role": "起居注官记录",
+ "summary": "十三日早皇太子在无逸斋读书，汤斌入行礼侍立，起居注官傅叔元、博济侍立，皇太子命诸臣坐。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  },
+  {
+   "name": "傅叔元",
+   "role": "起居注官"
+  },
+  {
+   "name": "博济",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "无逸斋"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23713,
+ "page_range": "509-510"
+}

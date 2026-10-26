@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十五日甲子",
+ "event_role": "朝见受贺",
+ "summary": "驻防三河县防御纳楞格等、三河营守备巴普等、知县于孝昌等来朝。",
+ "people": [
+  {
+   "name": "纳楞格",
+   "role": "驻防三河县防御"
+  },
+  {
+   "name": "巴普",
+   "role": "三河营守备"
+  },
+  {
+   "name": "于孝昌",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9123,
+ "page_range": "225-226"
+}

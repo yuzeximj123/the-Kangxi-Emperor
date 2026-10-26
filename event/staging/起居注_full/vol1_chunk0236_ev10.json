@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十日己卯",
+ "event_role": "谕旨决策",
+ "summary": "原任贵州总兵吴启丰妻子家口陷于辰州，因地方恢复请遣人往访，康熙帝命吴启丰亲往辰州随大兵前进云贵访寻团聚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴启丰",
+   "role": "原任贵州总兵"
+  }
+ ],
+ "places": [
+  "辰州",
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23610,
+ "page_range": "529-530"
+}

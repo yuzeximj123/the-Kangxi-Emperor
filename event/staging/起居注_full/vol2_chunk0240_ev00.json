@@ -1,0 +1,22 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就南怀仁所撰书及部覆本表态，认为知识记忆系于头脑之说于理实为外谬，命部覆本不必发南怀仁，所撰书着发还。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "南怀仁",
+   "role": "撰书人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24000,
+ "page_range": "523-524"
+}

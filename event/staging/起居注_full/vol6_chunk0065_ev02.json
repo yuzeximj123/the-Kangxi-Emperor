@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问钱齐保任内茶易马匹数目、毛色及喂养处，钱齐保奏共五千余匹，已交临泪等五处喂养。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钱齐保",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "临泪"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6502,
+ "page_range": "140-141"
+}

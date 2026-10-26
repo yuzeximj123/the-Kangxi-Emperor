@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十一日辛丑",
+ "event_role": "议政听政",
+ "summary": "康熙询问马齐九卿对李振裕之事的意见，马齐奏旨意发去尚未题覆。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "李振裕",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2217,
+ "page_range": "55-56"
+}

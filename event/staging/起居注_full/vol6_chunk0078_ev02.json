@@ -1,0 +1,22 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙决定李斯义内升、王敏政外转。",
+ "people": [
+  {
+   "name": "李斯义",
+   "role": "御史"
+  },
+  {
+   "name": "王敏政",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7802,
+ "page_range": "166-167"
+}

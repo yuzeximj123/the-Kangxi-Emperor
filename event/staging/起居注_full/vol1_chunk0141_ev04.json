@@ -1,0 +1,28 @@
+{
+ "reign_year": 16,
+ "month": 7,
+ "day_text": "初五日庚辰",
+ "event_role": "朝见受贺",
+ "summary": "早，康熙帝御太和殿视朝，文武升转官员谢恩，朝鲜国正使福昌君李祯、副使权大载等行礼，赐茶毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李祯",
+   "role": "朝鲜国正使福昌君"
+  },
+  {
+   "name": "权大载",
+   "role": "朝鲜国副使议政府右参赞"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14104,
+ "page_range": "339-340"
+}

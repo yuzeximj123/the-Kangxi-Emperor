@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十九年十月十五日",
+ "reign_year": 49,
+ "month": 10,
+ "day": 16,
+ "event_role": "请安谢恩",
+ "summary": "江宁巡抚张伯行奏谢康熙钦赐鹿肉条鱼及东珠凉帽，表示感恩图报。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚，奏折作者"
+  },
+  {
+   "name": "毕万",
+   "role": "张伯行家人，自京带回赏赐"
+  }
+ ],
+ "places": [
+  "江宁",
+  "京"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧巡撫張伯行奏謝欽賜鹿肉條摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "753",
+ "order_index": 52
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "翰林院题补内阁学士图纳、学士席尔达经筵讲官员缺，开列吏部尚书达哈塔等，康熙帝命开列官员俱着试讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "内阁学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "达哈塔",
+   "role": "吏部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11604,
+ "page_range": "267-268"
+}

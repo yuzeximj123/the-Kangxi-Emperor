@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "十八日丁亥",
+ "event_role": "人事任免",
+ "summary": "兵部题散骑郎孟几解任员缺，拟邬尔德黑正、苏尼克陪，康熙以某魁人材壮健命仍留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孟几",
+   "role": "散骑郎（解任）"
+  },
+  {
+   "name": "邬尔德黑",
+   "role": "佐领（拟正）"
+  },
+  {
+   "name": "苏尼克",
+   "role": "拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4721,
+ "page_range": "106-107"
+}

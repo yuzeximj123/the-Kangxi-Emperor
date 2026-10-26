@@ -1,0 +1,36 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "十八日丁未",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，讲官常书等向奉事敦住转奏，赞圣学高深并请宽程限。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  },
+  {
+   "name": "敦住",
+   "role": "奉事"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8820,
+ "page_range": "211-212"
+}

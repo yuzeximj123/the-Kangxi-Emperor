@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "二十三日甲成",
+ "event_role": "人事任免",
+ "summary": "吏部拟补工部主事员缺，正拟秋官正杨为梓、陪拟中书李遇时，康熙帝以钦天监官员习学天文不宜弃所学，命问监正等官再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨为梓",
+   "role": "拟正秋官正"
+  },
+  {
+   "name": "李遇时",
+   "role": "拟陪中书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6907,
+ "page_range": "181-182"
+}

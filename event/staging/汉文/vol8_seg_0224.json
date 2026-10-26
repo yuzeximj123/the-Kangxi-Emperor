@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十八年九月二十五日",
+ "reign_year": 58,
+ "month": 9,
+ "day": null,
+ "event_role": "其他",
+ "summary": "江西巡抚白潢因年老目昏，奏明此后奏折由儿子白映槐代书，并请皇上鉴谅其子年幼字迹未工。",
+ "people": [
+  {
+   "name": "白潢",
+   "role": "江西巡抚，奏折具奏人"
+  },
+  {
+   "name": "白映槐",
+   "role": "白潢之子，代书奏折者"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江西巡撫白潢奏陳年老目昏嗣後由兒子代書奏摺摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2821",
+ "order_index": 224
+}

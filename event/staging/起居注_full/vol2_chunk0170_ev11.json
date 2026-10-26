@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初三日乙亥",
+ "event_role": "人事任免",
+ "summary": "大计直隶各省布政使以下官七百八十三员照八法议处，从贼官五百二十二员议革职，康熙帝准依议行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17011,
+ "page_range": "383-384"
+}

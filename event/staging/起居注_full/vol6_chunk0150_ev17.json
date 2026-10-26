@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "二十一日甲申",
+ "event_role": "人事任免",
+ "summary": "康熙帝问杨村管河通判金协广居官如何，李光地奏称安静，康熙帝命金协广从宽降级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "金协广",
+   "role": "杨村管河通判"
+  }
+ ],
+ "places": [
+  "杨村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15017,
+ "page_range": "310-311"
+}

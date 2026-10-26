@@ -1,0 +1,27 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": "初八日了卯",
+ "event_role": "河工水利",
+ "summary": "康熙帝自火烧屯乘舟往阅匡儿港减水坝，指示主事牛钮在引河前崖及减水坝前建挑水坝，长三丈或四丈，高如旧坝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "火烧屯",
+  "匡儿港",
+  "减水坝",
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15527,
+ "page_range": "321-322"
+}

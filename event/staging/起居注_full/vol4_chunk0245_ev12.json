@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "十八日戊子",
+ "event_role": "人事任免",
+ "summary": "礼部题已故辅国公瓦山之女照例请封，康熙命封为县君，其配与额林臣之县君加封为郡君。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "瓦山",
+   "role": "已故辅国公"
+  },
+  {
+   "name": "额林臣",
+   "role": "额驸"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24512,
+ "page_range": "502-503"
+}

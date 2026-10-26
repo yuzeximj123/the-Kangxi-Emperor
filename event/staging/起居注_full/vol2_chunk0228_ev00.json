@@ -1,0 +1,33 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补广西巡抚郝浴病故员缺，康熙询问明珠等意见，明珠荐山东布政使施天裔，康熙命以施天裔补授。",
+ "people": [
+  {
+   "name": "郝浴",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "施天裔",
+   "role": "山东布政使"
+  },
+  {
+   "name": "王守才",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "广西",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22800,
+ "page_range": "499-500"
+}

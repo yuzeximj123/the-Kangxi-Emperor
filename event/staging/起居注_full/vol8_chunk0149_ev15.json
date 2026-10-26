@@ -1,0 +1,36 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿、户部侍郎吕履便、刑部侍郎李华之、御史周术显同举云南布政使卢询操守清廉，康熙帝以员缺已补，令调卢询来引见。",
+ "people": [
+  {
+   "name": "卢询",
+   "role": "云南布政使"
+  },
+  {
+   "name": "吕履便",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "李华之",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "周术显",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14915,
+ "page_range": "309-310"
+}

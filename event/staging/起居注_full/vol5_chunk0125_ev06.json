@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "军务",
+ "summary": "康熙帝驻跸拖陵布喇克，谕内大臣常泰指授绿旗兵、汉军炮位鸟枪及满兵炮位的阵势排列，命与议政大臣会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常泰",
+   "role": "内大臣公"
+  }
+ ],
+ "places": [
+  "拖陵布喇克"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12506,
+ "page_range": "260-261"
+}

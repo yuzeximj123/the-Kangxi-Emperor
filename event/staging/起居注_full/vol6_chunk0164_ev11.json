@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 8,
+ "day_text": "二十九日庚申",
+ "event_role": "朝见受贺",
+ "summary": "署石匣营副将事游击胡洋、守备林秀、千总马臣、把总路金龙等来朝。",
+ "people": [
+  {
+   "name": "胡洋",
+   "role": "署石匣营副将事游击"
+  },
+  {
+   "name": "林秀",
+   "role": "守备"
+  },
+  {
+   "name": "马臣",
+   "role": "千总"
+  },
+  {
+   "name": "路金龙",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "石匣营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16411,
+ "page_range": "338-339"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十七日乙丑",
+ "event_role": "请安谢恩",
+ "summary": "博济泣奏谢恩后离去，康熙帝遣都统郎坦等往吊，奠茶酒毕，博济至行宫谢恩。",
+ "people": [
+  {
+   "name": "博济",
+   "role": "江宁将军"
+  },
+  {
+   "name": "郎坦",
+   "role": "都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6010,
+ "page_range": "132-133"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论于成龙任直隶巡抚居官好但胆大好胜，奏捐纳徇人情面，荐扬多人欲结党市恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "董世琦",
+   "role": "官员"
+  },
+  {
+   "name": "胡献征",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 215,
+ "page_range": "14-15"
+}

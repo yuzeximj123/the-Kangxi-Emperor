@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "十六日癸卯",
+ "event_role": "军务",
+ "summary": "兵部为署理甘肃提督吴洪题制造兵本不足绵甲请令各官捐助，康熙帝令陕西督抚甘肃巡抚捐助速造解送。",
+ "people": [
+  {
+   "name": "吴洪",
+   "role": "署理甘肃提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10508,
+ "page_range": "221-222"
+}

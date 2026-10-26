@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十四日乙未",
+ "event_role": "谕旨决策",
+ "summary": "谕陕西道路甚宽无甚修理处，如有应修令地方官修理，并令常寿、法保布达等验视。",
+ "people": [
+  {
+   "name": "常寿",
+   "role": "侍郎"
+  },
+  {
+   "name": "法保布达",
+   "role": "乡导章京"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19108,
+ "page_range": "392-393"
+}

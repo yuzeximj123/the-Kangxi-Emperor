@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 1,
+ "day_text": "二十八日壬戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕满都前往盛京审理人参案须详审，重在查获为首收揽人参之人，勿滥刑穷犯。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "满都",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13704,
+ "page_range": "284-285"
+}

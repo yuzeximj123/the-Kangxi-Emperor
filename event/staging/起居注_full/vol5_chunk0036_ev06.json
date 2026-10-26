@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "二十七日癸巳",
+ "event_role": "其他",
+ "summary": "康熙帝赐古北口总兵官何应元银二百两、石匣营副将马进良银一百五十两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何应元",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "马进良",
+   "role": "石匣营副将"
+  }
+ ],
+ "places": [
+  "古北口",
+  "石匣营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3606,
+ "page_range": "82-83"
+}

@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙十年九月十六日甲子",
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "十六日甲子",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝驻跸小河山，科尔沁国多罗秉图郡王额机因及台吉塔布吉等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额机因",
+   "role": "科尔沁国多罗秉图郡王"
+  }
+ ],
+ "places": [
+  "小河山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14
+}

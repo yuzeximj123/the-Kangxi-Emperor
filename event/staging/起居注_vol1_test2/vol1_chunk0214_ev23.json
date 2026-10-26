@@ -1,0 +1,20 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "初十日康子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝于保和殿视祈谷祝版后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21423,
+ "page_range": "485-486"
+}

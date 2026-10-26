@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初八日庚申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝令取所献果品少许，传谕百姓停止建万寿亭，准其请经。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡必图",
+   "role": "伊都额真"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 507,
+ "page_range": "21-22"
+}

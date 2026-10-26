@@ -1,0 +1,21 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "二十七日丁未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝进入罗文峪，驻跸孤山西南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "罗文峪",
+  "孤山西南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20013,
+ "page_range": "435-436"
+}

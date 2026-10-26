@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "两广总督石琳因病乞休，康熙帝以其才品优长着原品解任，调郭世隆补两广总督，金世荣补授浙闽总督仍管将军事。",
+ "people": [
+  {
+   "name": "石琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "郭世隆",
+   "role": "调补两广总督"
+  },
+  {
+   "name": "金世荣",
+   "role": "补授浙闽总督"
+  }
+ ],
+ "places": [
+  "两广",
+  "浙闽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3700,
+ "page_range": "85-86"
+}

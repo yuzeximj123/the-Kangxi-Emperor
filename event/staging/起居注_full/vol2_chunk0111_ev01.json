@@ -1,0 +1,22 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论原任巡抚慕天颜交代职务事，指其自任巡抚以来并未清廉，所奏自诩清廉殊属不合，命票发此意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "慕天颜",
+   "role": "原任巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11101,
+ "page_range": "265-266"
+}

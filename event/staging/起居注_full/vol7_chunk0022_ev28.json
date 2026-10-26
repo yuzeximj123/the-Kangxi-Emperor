@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十七日丁未",
+ "event_role": "议政听政",
+ "summary": "已时康熙御行宫，马齐等以折本请旨，吏部题广东按察使员缺开列道员许顺兴等。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "铁图",
+   "role": "学士"
+  },
+  {
+   "name": "纪尔塔浑",
+   "role": "学士"
+  },
+  {
+   "name": "许顺兴",
+   "role": "道员"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2228,
+ "page_range": "55-56"
+}

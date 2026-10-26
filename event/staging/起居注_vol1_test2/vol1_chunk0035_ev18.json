@@ -1,0 +1,36 @@
+{
+ "reign_year": 12,
+ "month": 2,
+ "day_text": "十三日壬丑",
+ "event_role": "祭祀典礼",
+ "summary": "巳时康熙帝御保和殿举行经筵大典，讲官进讲《论语》《书经》，讲毕赐宴如例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常薄",
+   "role": "讲官"
+  },
+  {
+   "name": "徐元文",
+   "role": "讲官"
+  },
+  {
+   "name": "折库讷",
+   "role": "讲官"
+  },
+  {
+   "name": "梁清标",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3518,
+ "page_range": "127-128"
+}

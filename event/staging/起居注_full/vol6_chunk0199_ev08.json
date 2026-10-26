@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "十一日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "总漕桑格题请将截留湖广米谷给散军士，康熙帝令照该督所请行。",
+ "people": [
+  {
+   "name": "桑格",
+   "role": "总漕"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19908,
+ "page_range": "408-409"
+}

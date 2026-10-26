@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "十一日甲午",
+ "event_role": "军务",
+ "summary": "传谕黑龙江兵行粮可至十一月初五日，至归化城时应派察哈尔兵五百、新满洲人一百给马匹粮粮前往代之。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16416,
+ "page_range": "338-339"
+}

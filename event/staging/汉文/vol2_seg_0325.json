@@ -1,0 +1,25 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "河南巡抚鹿祐奏报豫省雨旸时若、甘霖频降、通省霑足，麦价顿减，秋禾茂盛。",
+ "people": [
+  {
+   "name": "鹿祐",
+   "role": "河南巡抚"
+  }
+ ],
+ "places": [
+  "河南",
+  "豫省"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "河南巡抚鹿祐奏报雨泽麦价摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "904",
+ "order_index": 325
+}

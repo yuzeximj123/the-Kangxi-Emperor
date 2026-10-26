@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "十九晶成子",
+ "event_role": "谕旨决策",
+ "summary": "奏事存住传谕，扈从汉翰林官中多苏松人不必随至浙江，可归家省亲展墓；掌院学士韩菊等奏谢。",
+ "people": [
+  {
+   "name": "存住",
+   "role": "奏事"
+  },
+  {
+   "name": "韩菊",
+   "role": "掌院学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "苏松",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8418,
+ "page_range": "178-179"
+}

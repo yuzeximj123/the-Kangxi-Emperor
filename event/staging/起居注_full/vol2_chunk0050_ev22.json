@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "初八日庚申",
+ "event_role": "人事任免",
+ "summary": "礼部题请原任云贵总督甘文焜应否与谥，康熙帝从明珠议准予给谥。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "甘文焜",
+   "role": "原任云贵总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5022,
+ "page_range": "143-144"
+}

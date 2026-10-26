@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "十六日壬申",
+ "event_role": "司法案件",
+ "summary": "刑部题原任巡抚穆尔赛贪银拟立绞，布政使纳薄等拟绞监候，康熙以赃数不符，改为监候秋后处决。",
+ "people": [
+  {
+   "name": "穆尔赛",
+   "role": "原任巡抚"
+  },
+  {
+   "name": "纳薄",
+   "role": "布政使"
+  },
+  {
+   "name": "库尔康",
+   "role": "按察使"
+  },
+  {
+   "name": "李现",
+   "role": "知府"
+  },
+  {
+   "name": "毛文铣",
+   "role": "知县"
+  },
+  {
+   "name": "宋思了",
+   "role": "知县"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12207,
+ "page_range": "279-280"
+}

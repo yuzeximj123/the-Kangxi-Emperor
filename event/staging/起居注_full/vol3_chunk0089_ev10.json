@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "二十日己本",
+ "event_role": "祭祀典礼",
+ "summary": "太常寺会同礼部议文华殿供设伏羲、神农、黄帝、尧、舜、禹、汤、文、武、周公、孔子牌位，康熙帝命照前代例举行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "文华殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8910,
+ "page_range": "213-214"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": "初五日康辰",
+ "event_role": "人事任免",
+ "summary": "兵部题山东兖州营参将董义员缺，拟补韩显宗，康熙帝令调来引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董义",
+   "role": "兖州营参将"
+  },
+  {
+   "name": "韩显宗",
+   "role": "拟补参将"
+  }
+ ],
+ "places": [
+  "山东兖州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3519,
+ "page_range": "80-81"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": "初八日辛卯",
+ "event_role": "司法案件",
+ "summary": "刑部汇题河南优师县赵五哥与陈英和争告主仆一案，康熙帝以该部不行审结致原告监毙、草率议罪，命吏部会同都察院严察议奏。",
+ "people": [
+  {
+   "name": "赵五哥",
+   "role": "原告"
+  },
+  {
+   "name": "陈英和",
+   "role": "被告"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南",
+  "优师县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21012,
+ "page_range": "431-432"
+}

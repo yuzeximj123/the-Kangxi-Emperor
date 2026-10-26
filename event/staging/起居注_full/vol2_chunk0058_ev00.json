@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "礼部将张鹏所奏不准，康熙认为殊为不合，命再详议具奏。",
+ "people": [
+  {
+   "name": "张鹏",
+   "role": "奏事官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5800,
+ "page_range": "159-160"
+}

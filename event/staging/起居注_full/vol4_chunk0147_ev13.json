@@ -1,0 +1,25 @@
+{
+ "reign_year": 30,
+ "month": 4,
+ "day_text": "十三日戊搬",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝驻密云古北口等处，抽分员外郎洪提、密云县捕盗同知赵邦牧等来朝见。",
+ "people": [
+  {
+   "name": "洪提",
+   "role": "抽分员外郎"
+  },
+  {
+   "name": "赵邦牧",
+   "role": "捕盗同知"
+  }
+ ],
+ "places": [
+  "密云",
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14713,
+ "page_range": "306-307"
+}

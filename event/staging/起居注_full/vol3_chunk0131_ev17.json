@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十二日戊戌",
+ "event_role": "军务",
+ "summary": "兵部议恢复保宁府时满洲夹攻官兵不准议叙，康熙命发回该部将王进宝攻取、满兵夹攻缘由明白开载。",
+ "people": [
+  {
+   "name": "王进宝",
+   "role": "将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保宁府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13117,
+ "page_range": "297-298"
+}

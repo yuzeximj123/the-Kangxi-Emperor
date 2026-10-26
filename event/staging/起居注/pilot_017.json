@@ -1,0 +1,23 @@
+{
+ "date_raw": "康熙十年九月十九日丁卯",
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "十九日丁卯",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝至盛京，谒福陵、昭陵行三跪九叩礼并三献，众皆举哀，遂入盛京城观宫殿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "福陵",
+  "昭陵",
+  "盛京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17
+}

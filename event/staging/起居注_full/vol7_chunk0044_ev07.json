@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "十九日乙未",
+ "event_role": "人事任免",
+ "summary": "康熙帝以广东地方紧要，调浙江提督赵弘灿补广东提督，升王世臣补赵弘灿员缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "浙江提督"
+  },
+  {
+   "name": "王世臣",
+   "role": "区陵总兵官"
+  }
+ ],
+ "places": [
+  "广东",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4407,
+ "page_range": "99-100"
+}

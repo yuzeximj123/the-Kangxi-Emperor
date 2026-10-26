@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "十九日",
+ "event_role": "人事任免",
+ "summary": "吏部奏陕西省商道任观瀛员缺，康熙帝令九卿于知府内居官善者荐举。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "任观瀛",
+   "role": "陕西省商道"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4305,
+ "page_range": "96-97"
+}

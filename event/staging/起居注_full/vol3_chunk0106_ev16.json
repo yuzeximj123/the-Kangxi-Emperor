@@ -1,0 +1,46 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十九日两子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论惩贪之要，指穆尔赛居官不善、事迹贪秽，责九卿回奏不实，命伊桑阿、达哈塔等往听回奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "贪官"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "尚书"
+  },
+  {
+   "name": "达哈塔",
+   "role": "左都御史"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10616,
+ "page_range": "247-248"
+}

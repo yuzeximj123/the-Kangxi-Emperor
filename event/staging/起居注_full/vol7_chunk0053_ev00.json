@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "朱玛喇搜捕于七未获，首告者诬指生员藏匿于七，朱玛喇杀之，首告者自陈报仇，朱玛喇又杀之。",
+ "people": [
+  {
+   "name": "朱玛喇",
+   "role": "官员"
+  },
+  {
+   "name": "首告之人",
+   "role": "诬告者"
+  },
+  {
+   "name": "生员",
+   "role": "被诬告者"
+  }
+ ],
+ "places": [
+  "村中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5300,
+ "page_range": "117-118"
+}

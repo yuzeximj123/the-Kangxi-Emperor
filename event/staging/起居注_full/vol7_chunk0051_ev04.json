@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "初五日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令在陶家庄以下杨家庄地方挑浚引河，令中河之水从此而出，并暂停修筑仲庄石闸。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "仲庄",
+  "黄河",
+  "陶家庄",
+  "杨家庄",
+  "运口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5104,
+ "page_range": "113-114"
+}

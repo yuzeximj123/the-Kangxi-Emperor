@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命海青传谕巡抚李光地，令其不时稽查永定河工程物料，合式桩木收贮葛家坞西，短小者交李国亮用于东，苇草贮干燥处，未完处仍交王新命修筑保三年。",
+ "people": [
+  {
+   "name": "海青",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "李国亮",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "葛家坞"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17703,
+ "page_range": "364-365"
+}

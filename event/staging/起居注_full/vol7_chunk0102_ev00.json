@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝斥责张大有条奏纷更，张大有不能对，叩头而出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张大有",
+   "role": "条奏官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10200,
+ "page_range": "215-216"
+}

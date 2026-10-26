@@ -1,0 +1,37 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "明珠奏议开展沿海边界事宜，康熙帝命两省遣一大臣会同督抚详酌定议，并开列职名具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郑克埃",
+   "role": "海寇归化者"
+  },
+  {
+   "name": "库勒纳",
+   "role": "前遣大臣"
+  }
+ ],
+ "places": [
+  "江南",
+  "浙江",
+  "福建",
+  "广东",
+  "云南",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23202,
+ "page_range": "507-508"
+}

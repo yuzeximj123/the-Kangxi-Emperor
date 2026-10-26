@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十九年九月初三日",
+ "reign_year": 49,
+ "month": 9,
+ "day": 3,
+ "event_role": "奏报灾情收成",
+ "summary": "湖广巡抚陈诜续报楚省晚禾丰收、米价低廉、民生乐业，并谢皇上朱批。",
+ "people": [
+  {
+   "name": "陈诜",
+   "role": "湖广巡抚，奏报人"
+  },
+  {
+   "name": "陈世倌",
+   "role": "陈诜之子，翰林院编修，奉命赴行宫请安"
+  }
+ ],
+ "places": [
+  "湖广",
+  "楚省",
+  "楚北"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已知悉奏报。",
+ "source_title": "湖廣巡撫陳詵奏爲續報楚省晚禾豐收摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "732",
+ "order_index": 33
+}

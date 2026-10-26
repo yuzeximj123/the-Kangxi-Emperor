@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "初四日乙已",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝遣领侍卫内大臣和硕额驸尚之隆致祭女娲氏陵。",
+ "people": [
+  {
+   "name": "尚之隆",
+   "role": "领侍卫内大臣和硕额驸"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "女娲氏陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7833,
+ "page_range": "167-168"
+}

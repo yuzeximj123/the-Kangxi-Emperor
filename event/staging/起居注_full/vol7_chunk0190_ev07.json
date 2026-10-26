@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士温达等奏问调补台湾总兵官人选，康熙帝裁定姚堂调补台湾总兵官。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "姚堂",
+   "role": "调补台湾总兵官"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19007,
+ "page_range": "391-392"
+}

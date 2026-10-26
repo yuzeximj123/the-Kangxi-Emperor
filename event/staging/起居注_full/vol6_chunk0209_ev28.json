@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "十三日戊戌",
+ "event_role": "赏赐",
+ "summary": "康熙帝赐乌朱穆秦亲王色登敦多卜等蟒补服缎及闪绢缎匹白金等物有差，并赐台吉等银缎及献汤羊等物人白金。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色登敦多卜",
+   "role": "乌朱穆秦亲王"
+  }
+ ],
+ "places": [
+  "乌朱穆秦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20928,
+ "page_range": "428-429"
+}

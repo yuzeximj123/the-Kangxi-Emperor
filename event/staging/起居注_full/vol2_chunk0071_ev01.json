@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初二日壬午",
+ "event_role": "人事任免",
+ "summary": "因和硕庄亲王博果铎患病不能趋事，请罢其议政职任，康熙帝令拟平常票签罢其议政。",
+ "people": [
+  {
+   "name": "博果铎",
+   "role": "和硕庄亲王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7101,
+ "page_range": "185-186"
+}

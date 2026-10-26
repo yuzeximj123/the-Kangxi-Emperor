@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "十六日王子",
+ "event_role": "人事任免",
+ "summary": "太原布政使满都赴任请训旨，康熙谕其到任须敬以供职。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "满都",
+   "role": "太原布政使"
+  }
+ ],
+ "places": [
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10513,
+ "page_range": "220-221"
+}

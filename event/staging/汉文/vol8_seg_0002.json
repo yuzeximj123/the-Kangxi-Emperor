@@ -1,0 +1,79 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "其他",
+ "summary": "《康熙朝汉文朱批奏折汇编》第八册目录，列出第三〇八四至三一〇六号奏折的题名及页码。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "漕运总督"
+  },
+  {
+   "name": "管源忠",
+   "role": "广州将军"
+  },
+  {
+   "name": "蔡升元",
+   "role": "学士、礼部尚书"
+  },
+  {
+   "name": "谢瑛",
+   "role": "湖州总兵"
+  },
+  {
+   "name": "祖良弼",
+   "role": "福建将军"
+  },
+  {
+   "name": "李煦",
+   "role": "苏州织造"
+  },
+  {
+   "name": "赖都",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "军畴",
+   "role": "鸿胪寺少卿"
+  },
+  {
+   "name": "祖秉衡",
+   "role": "副都统"
+  },
+  {
+   "name": "俞元祺",
+   "role": "翰林院庶吉士"
+  },
+  {
+   "name": "杨琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "朱轼",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广州",
+  "湖州",
+  "福建",
+  "苏州",
+  "畿",
+  "两广",
+  "惠潮二府",
+  "避暑山庄"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "康熙朝汉文朱批奏折汇编第八册目录",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 2
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "十二日辛丑",
+ "event_role": "司法案件",
+ "summary": "宗人府题闻人常禄捏告其主和硕康亲王春泰拟立绞，康熙命从宽免死发往黑龙江当差。",
+ "people": [
+  {
+   "name": "常禄",
+   "role": "闻人"
+  },
+  {
+   "name": "春泰",
+   "role": "和硕康亲王"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9428,
+ "page_range": "199-200"
+}

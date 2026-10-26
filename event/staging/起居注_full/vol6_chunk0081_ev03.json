@@ -1,0 +1,22 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝指示黄河南岸太黄堤工完时堵塞时家马头，待再观河势，并言河底深时仍宜培筑归仁堤，命诸臣会同详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄河南岸",
+  "时家马头",
+  "归仁堤"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8103,
+ "page_range": "172-173"
+}

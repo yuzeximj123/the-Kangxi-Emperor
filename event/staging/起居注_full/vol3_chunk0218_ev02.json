@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十四日壬辰",
+ "event_role": "人事任免",
+ "summary": "吏部题监察御史凯音布升任员缺，拟佛保为正、哈克山泰为陪，康熙帝命吏部会同都察院选择。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凯音布",
+   "role": "监察御史"
+  },
+  {
+   "name": "佛保",
+   "role": "户部员外郎"
+  },
+  {
+   "name": "哈克山泰",
+   "role": "督捕员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21802,
+ "page_range": "471-472"
+}

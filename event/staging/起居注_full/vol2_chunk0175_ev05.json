@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "二十四日丙申",
+ "event_role": "请安谢恩",
+ "summary": "山西巡抚穆尔赛、按察使库尔康奏请赐地名立碑，康熙帝赐名射虎川。",
+ "people": [
+  {
+   "name": "穆尔赛",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "库尔康",
+   "role": "按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "长城岭",
+  "射虎川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17505,
+ "page_range": "393-394"
+}

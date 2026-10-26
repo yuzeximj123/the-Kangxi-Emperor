@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "初八日乙丑",
+ "event_role": "弹劾参奏",
+ "summary": "御史钱廷遵旨将山西巡抚穆尔赛劣迹逐一指实陈奏，并请将穆尔赛离任审理。",
+ "people": [
+  {
+   "name": "钱廷",
+   "role": "御史"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10310,
+ "page_range": "241-242"
+}

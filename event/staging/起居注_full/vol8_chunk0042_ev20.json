@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "二十四日戊成",
+ "event_role": "弹劾参奏",
+ "summary": "工部题直隶巡抚赵弘党参承修遵化州城员外德琳迟延，请降一级留任限修，康熙帝以议轻令再议具奏。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "德琳",
+   "role": "宗人府员外"
+  },
+  {
+   "name": "黄文",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "遵化州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4220,
+ "page_range": "95-96"
+}

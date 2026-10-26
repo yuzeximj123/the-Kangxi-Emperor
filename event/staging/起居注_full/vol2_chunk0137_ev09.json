@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "初七日壬午",
+ "event_role": "人事任免",
+ "summary": "议奉天府府丞员缺，拟以左参议张胶转补，康熙帝令将汉军补用并查问应升官员启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张胶",
+   "role": "左参议"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13709,
+ "page_range": "317-318"
+}

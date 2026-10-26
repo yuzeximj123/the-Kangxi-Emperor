@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请将雍柱革退佐领，康熙帝准议并命查问雍柱子孙及世袭官情况。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雍柱",
+   "role": "佐领"
+  },
+  {
+   "name": "歼柱",
+   "role": "佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16900,
+ "page_range": "349-350"
+}

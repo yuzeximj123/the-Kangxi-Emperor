@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "初三日两宝",
+ "event_role": "人事任免",
+ "summary": "兵部题奉天将军贝子苏多在任二年将满、原缺应补授，康熙帝令苏努再留一年。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏多",
+   "role": "奉天将军贝子"
+  },
+  {
+   "name": "苏努",
+   "role": "贝子"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14724,
+ "page_range": "304-305"
+}

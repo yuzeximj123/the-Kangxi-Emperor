@@ -1,0 +1,42 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "十三日丙子",
+ "event_role": "人事任免",
+ "summary": "翰林院侍讲学士员缺，考试拟定名次候简用；康熙询问尹泰等各员优劣，命俱传来引见，未定次序者十四员一并引见。",
+ "people": [
+  {
+   "name": "尹泰",
+   "role": "侍讲"
+  },
+  {
+   "name": "德格勒",
+   "role": "第二"
+  },
+  {
+   "name": "传继祖",
+   "role": "第三"
+  },
+  {
+   "name": "明图",
+   "role": "第四"
+  },
+  {
+   "name": "禅布",
+   "role": "第五"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4710,
+ "page_range": "129-130"
+}

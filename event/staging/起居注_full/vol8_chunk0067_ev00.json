@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝认为徐圣瑞、李茂芝一案议罪颠倒，命交都察院彻底查明并审拟具奏。",
+ "people": [
+  {
+   "name": "徐圣瑞",
+   "role": "拟徒三年者"
+  },
+  {
+   "name": "李茂芝",
+   "role": "无良议者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6700,
+ "page_range": "145-146"
+}

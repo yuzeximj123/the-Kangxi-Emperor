@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "侍郎安布禄转奏喇麻所遗绥本阿拉木占木巴等传认众人愿赴盟，善巴等请钦差初八日前后到会。",
+ "people": [
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "存柱",
+   "role": "批本"
+  },
+  {
+   "name": "善巴凑堪布",
+   "role": "来使"
+  },
+  {
+   "name": "罗布臧喇旺",
+   "role": "来使"
+  }
+ ],
+ "places": [
+  "西宁",
+  "绥本",
+  "阿拉木占木巴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20900,
+ "page_range": "428-429"
+}

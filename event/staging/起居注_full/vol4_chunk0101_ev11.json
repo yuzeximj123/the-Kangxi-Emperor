@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 1,
+ "day_text": "二十四日丙辰",
+ "event_role": "人事任免",
+ "summary": "总河王新命请以熟谙河务的通判冯佑补同知丁建革职之缺，帝命照该督所题补授。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "总河"
+  },
+  {
+   "name": "丁建",
+   "role": "同知"
+  },
+  {
+   "name": "冯佑",
+   "role": "通判"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10111,
+ "page_range": "214-215"
+}

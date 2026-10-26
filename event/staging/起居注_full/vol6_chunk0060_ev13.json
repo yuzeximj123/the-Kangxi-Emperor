@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "初四日甲戌",
+ "event_role": "其他",
+ "summary": "康熙帝赐义州城守御巴拉米趟上用表补、表帽、银鼠褂，并赐其年老解任之兄辛柱御用稻罕、貂帽等物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴拉米趟",
+   "role": "义州城守御"
+  },
+  {
+   "name": "辛柱",
+   "role": "巴拉米趟之兄"
+  }
+ ],
+ "places": [
+  "义州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6013,
+ "page_range": "130-131"
+}

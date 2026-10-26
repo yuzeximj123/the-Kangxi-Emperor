@@ -1,0 +1,30 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝指刑部郎中宫梦能名声不好、行止不端、包揽事务，命即革退，并令部院参奏类似之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宫梦能",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "富宁安",
+   "role": "尚书"
+  },
+  {
+   "name": "孙征濒",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8201,
+ "page_range": "175-176"
+}

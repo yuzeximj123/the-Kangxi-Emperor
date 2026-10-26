@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "十九日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部题补本部主事三缺，开列中书舍人霍之玉、卫秦龙等，康熙帝询问如何铨补使所用得人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "霍之玉",
+   "role": "中书舍人"
+  },
+  {
+   "name": "卫秦龙",
+   "role": "中书舍人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13311,
+ "page_range": "309-310"
+}

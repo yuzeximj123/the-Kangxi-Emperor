@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "二十三日甲拱",
+ "event_role": "人事任免",
+ "summary": "浙江巡抚王度昭题请丹徒县知县李成梁因缉贼限满未获降二级调用，请带所降之级留任，康熙帝照所请准其留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "李成梁",
+   "role": "丹徒县知县"
+  }
+ ],
+ "places": [
+  "丹徒县",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22715,
+ "page_range": "465-466"
+}

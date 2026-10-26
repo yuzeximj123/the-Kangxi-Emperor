@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问九卿所议，尚书科尔坤奏董汉臣应议处、强盗杨长儿不宜宽免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "科尔坤",
+   "role": "尚书"
+  },
+  {
+   "name": "董汉臣",
+   "role": "条奏官员"
+  },
+  {
+   "name": "杨长儿",
+   "role": "强盗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23008,
+ "page_range": "495-496"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "二十九日甲子",
+ "event_role": "军务",
+ "summary": "兵部覆张家口总兵官司九经等题请行间效力，康熙帝准其所请，命在杀虎口预备，余俟后。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "司九经",
+   "role": "张家口总兵官"
+  }
+ ],
+ "places": [
+  "张家口",
+  "杀虎口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9706,
+ "page_range": "205-206"
+}

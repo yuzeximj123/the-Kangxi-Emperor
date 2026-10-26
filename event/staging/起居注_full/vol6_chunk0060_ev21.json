@@ -1,0 +1,22 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "初八日戊寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝谒孝陵，驻跸丰润县属任子口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵",
+  "丰润县",
+  "任子口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6021,
+ "page_range": "130-131"
+}

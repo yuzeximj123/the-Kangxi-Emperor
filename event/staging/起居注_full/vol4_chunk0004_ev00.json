@@ -1,0 +1,56 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "十七日辛卯",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率诸王大臣及外藩王公等在大行太皇太后梓宫前举哀三次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诸王",
+   "role": "宗室"
+  },
+  {
+   "name": "贝勒",
+   "role": "宗室"
+  },
+  {
+   "name": "贝子",
+   "role": "宗室"
+  },
+  {
+   "name": "公",
+   "role": "宗室"
+  },
+  {
+   "name": "外藩诸王",
+   "role": "外藩"
+  },
+  {
+   "name": "台吉",
+   "role": "外藩"
+  },
+  {
+   "name": "塔布圳",
+   "role": "外藩"
+  },
+  {
+   "name": "大臣",
+   "role": "官员"
+  },
+  {
+   "name": "侍卫",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "大行太皇太后梓宫前"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 400,
+ "page_range": "20-21"
+}

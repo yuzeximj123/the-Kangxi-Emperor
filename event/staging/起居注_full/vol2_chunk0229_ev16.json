@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "葛巴库因困人迫不能还银与硕色商议谋死净免一案，康熙帝以硕色非造意之人，情有可原。",
+ "people": [
+  {
+   "name": "葛巴库",
+   "role": "案犯"
+  },
+  {
+   "name": "硕色",
+   "role": "同案犯"
+  },
+  {
+   "name": "净免",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22916,
+ "page_range": "501-502"
+}

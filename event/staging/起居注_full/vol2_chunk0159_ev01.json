@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "议政王大臣会议原任广西巡抚陈洪明降贼呈送关防敕书事，拟革职永不叙用，康熙以其反叛从贼是真、情罪可恶，斥所议甚轻，命从重议处。",
+ "people": [
+  {
+   "name": "陈洪明",
+   "role": "原任广西巡抚"
+  },
+  {
+   "name": "莽吉图",
+   "role": "将军"
+  },
+  {
+   "name": "吴三桂",
+   "role": "叛臣"
+  },
+  {
+   "name": "尚之信",
+   "role": "叛臣"
+  }
+ ],
+ "places": [
+  "广西",
+  "肇庆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15901,
+ "page_range": "361-362"
+}

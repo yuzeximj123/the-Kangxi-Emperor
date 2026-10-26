@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚李光地题请将理事通判朝琦补授司道等官督理河务仍兼理事通判，康熙帝准奏。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "朝琦",
+   "role": "理事通判"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "漳河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13000,
+ "page_range": "270-271"
+}

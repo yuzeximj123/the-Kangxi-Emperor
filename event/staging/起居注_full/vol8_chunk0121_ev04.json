@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等覆审张伯行妄奏海贼、以良民为窝藏盗贼题参一案拟斩监候，康熙令从宽免死，并命于有钱粮小衙门补用。",
+ "people": [
+  {
+   "name": "张鹏副",
+   "role": "尚书"
+  },
+  {
+   "name": "张伯行",
+   "role": "原任江苏巡抚"
+  },
+  {
+   "name": "张元隆",
+   "role": "良民"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12104,
+ "page_range": "253-254"
+}

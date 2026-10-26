@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "十二日戊子",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝御瀛台内流杯亭，赐进贡的科尔沁国辅国公和硕额驸图纳黑、一品台吉博称博齐等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳黑",
+   "role": "科尔沁国辅国公和硕额驸"
+  },
+  {
+   "name": "博称博齐",
+   "role": "一品台吉"
+  }
+ ],
+ "places": [
+  "瀛台内流杯亭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12705,
+ "page_range": "297-298"
+}

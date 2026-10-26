@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "二十八日癸酉",
+ "event_role": "人事任免",
+ "summary": "吏部题补内务府蒙古侍读学士员缺，拟郎中拜礼正、色冷陪，康熙帝询问后准补拜礼。",
+ "people": [
+  {
+   "name": "拜礼",
+   "role": "郎中，拟正"
+  },
+  {
+   "name": "色冷",
+   "role": "拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13503,
+ "page_range": "313-314"
+}

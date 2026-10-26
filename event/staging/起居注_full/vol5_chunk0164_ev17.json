@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "十一日甲午",
+ "event_role": "谕旨决策",
+ "summary": "传谕至归化城时，张家口至归化城所设平常驿站外，中间所设之驿尽行撤回，兵部马直抵杀虎口安设。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "张家口",
+  "归化城",
+  "杀虎口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16417,
+ "page_range": "338-339"
+}

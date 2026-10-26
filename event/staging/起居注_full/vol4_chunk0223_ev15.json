@@ -1,0 +1,28 @@
+{
+ "reign_year": 32,
+ "month": 1,
+ "day_text": "二十二日丙寅",
+ "event_role": "人事任免",
+ "summary": "兵部题授右卫将军，康熙帝以都统希福熟详军机授为右卫将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "都统"
+  },
+  {
+   "name": "马思哈",
+   "role": "镶黄旗副都统"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22315,
+ "page_range": "458-459"
+}

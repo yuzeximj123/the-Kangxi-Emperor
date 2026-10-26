@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝问学士酒克旦家世，酒克旦奏为原任副都统商基图之子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "酒克旦",
+   "role": "学士"
+  },
+  {
+   "name": "商基图",
+   "role": "原任副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16904,
+ "page_range": "349-350"
+}

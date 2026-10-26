@@ -1,0 +1,47 @@
+{
+ "date_raw": "康熙五十七年二月初三日",
+ "reign_year": 57,
+ "month": 2,
+ "day": 3,
+ "event_role": "收到奏折",
+ "summary": "四川巡抚年羹尧代副都统宁古礼进呈奏折，报告荆州满兵抵达阿西地方安营及起程日期。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚革职留任効力，代赍奏摺者"
+  },
+  {
+   "name": "宁古礼",
+   "role": "副都统，带领荆州满兵前往松潘口外助威"
+  },
+  {
+   "name": "路振扬",
+   "role": "驻臣"
+  },
+  {
+   "name": "巴忒鸣",
+   "role": "主事"
+  },
+  {
+   "name": "存住",
+   "role": "年羹尧家人，赍捧奏摺进呈"
+  },
+  {
+   "name": "李成刚",
+   "role": "标右营马兵，赍捧奏摺进呈"
+  }
+ ],
+ "places": [
+  "四川",
+  "荆州",
+  "松潘",
+  "阿西"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "四川巡撫年羹堯奏爲代進副都統寧古禮奏摺事摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2587",
+ "order_index": 33
+}

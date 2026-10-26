@@ -1,0 +1,38 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问甘州提督吴洪、西宁总兵官急特、大同总兵官张文焕居官如何，舒兰奏俱优，帝评旋特人材甚伟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "舒兰",
+   "role": "官员"
+  },
+  {
+   "name": "吴洪",
+   "role": "甘州提督"
+  },
+  {
+   "name": "急特",
+   "role": "西宁总兵官"
+  },
+  {
+   "name": "张文焕",
+   "role": "大同总兵官"
+  }
+ ],
+ "places": [
+  "甘州",
+  "西宁",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12506,
+ "page_range": "261-262"
+}

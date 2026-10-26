@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部覆请准山西太原总兵官金国正捐造子母炮二十二位分给各营操练，康熙以子母炮系八旗火器、各省概造断不可，斥部议不合，命再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金国正",
+   "role": "山西太原总兵官"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11401,
+ "page_range": "239-240"
+}

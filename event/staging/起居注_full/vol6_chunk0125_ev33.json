@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "二十八日于成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸吕阁庄，赐总兵官潘育龙、马进良、副将刘汉裔等鹿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "潘育龙",
+   "role": "总兵官"
+  },
+  {
+   "name": "马进良",
+   "role": "总兵官"
+  },
+  {
+   "name": "刘汉裔",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "吕阁庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12533,
+ "page_range": "260-261"
+}

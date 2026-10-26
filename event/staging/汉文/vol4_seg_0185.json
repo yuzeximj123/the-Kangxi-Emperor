@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙伍拾贰年正月日",
+ "reign_year": 52,
+ "month": 1,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "直隶巡抚赵弘燮奏请于康熙六旬万寿之年，自三月初一至月底停刑一月，并请此后每遇十年大庆照例通行各省。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏请人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "真定府",
+  "龙兴寺",
+  "保定府",
+  "玉清观"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示令将所请通行各省一体遵照之处察明议奏。",
+ "source_title": "直隶巡抚赵弘燮奏请万寿圣诞停刑壹月摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 185
+}

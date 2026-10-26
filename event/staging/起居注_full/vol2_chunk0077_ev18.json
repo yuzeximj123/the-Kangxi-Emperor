@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "初九日成午",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝召霸州知州吴鉴问水灾情形，吴鉴奏浑河口决、被灾十分、民生困苦，已报巡抚一次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴鉴",
+   "role": "霸州知州"
+  }
+ ],
+ "places": [
+  "霸州",
+  "南熏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7718,
+ "page_range": "197-198"
+}

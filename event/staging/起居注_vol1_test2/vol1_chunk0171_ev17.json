@@ -1,0 +1,24 @@
+{
+ "reign_year": 17,
+ "month": 10,
+ "day_text": "十九日",
+ "event_role": "议政听政",
+ "summary": "康熙帝率内大臣、侍卫射毕，命三屯营副将兰泗、守备、千总等官射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "兰泗",
+   "role": "三屯营副将"
+  }
+ ],
+ "places": [
+  "三屯营城南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17117,
+ "page_range": "399-400"
+}

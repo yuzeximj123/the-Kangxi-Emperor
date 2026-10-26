@@ -1,0 +1,34 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十九日己卯",
+ "event_role": "人事任免",
+ "summary": "刑部尚书、工部尚书员缺，明珠奏张玉书、王鸿绪限期已满，康熙以张玉书学问优补授刑部尚书。",
+ "people": [
+  {
+   "name": "张玉书",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21416,
+ "page_range": "463-464"
+}

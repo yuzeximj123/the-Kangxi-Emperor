@@ -1,0 +1,40 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初八日庚申",
+ "event_role": "其他",
+ "summary": "申时康熙帝出行宫，率皇太子、诸皇子及内大臣侍卫射箭，并令随行护军校护军及来朝山西文武各官射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "内大臣",
+   "role": "内大臣"
+  },
+  {
+   "name": "侍卫",
+   "role": "侍卫"
+  },
+  {
+   "name": "嘲礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 505,
+ "page_range": "21-22"
+}

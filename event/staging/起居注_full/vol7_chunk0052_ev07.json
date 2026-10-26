@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "十八日癸巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自杭州登舟回銮，泊于仁和县属塘栖。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "杭州",
+  "仁和县",
+  "塘栖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5207,
+ "page_range": "115-116"
+}

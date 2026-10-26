@@ -1,0 +1,40 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "巳时康熙帝御乾清宫，讲官牛钮、陈廷敬、孙在丰进讲《象》日及井卦初六等节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "起居注官"
+  },
+  {
+   "name": "常书",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18906,
+ "page_range": "421-422"
+}

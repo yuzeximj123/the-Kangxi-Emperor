@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 7,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝因纯亲王去世欲亲临其丧，太皇太后再三劝谏，遂留太皇太后宫中劝慰竟夕未还宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "祖母"
+  },
+  {
+   "name": "纯亲王",
+   "role": "世祖第七子"
+  }
+ ],
+ "places": [
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18600,
+ "page_range": "429-430"
+}

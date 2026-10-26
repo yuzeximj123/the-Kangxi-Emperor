@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 4,
+ "day_text": "二十日本西",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝遣内大臣公坡尔喷于东京达尔汗巴吐鲁亲王墓、和硕额驸纳尔都于卓尔图贝勒墓致奠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "坡尔喷",
+   "role": "内大臣公"
+  },
+  {
+   "name": "纳尔都",
+   "role": "和硕额驸"
+  }
+ ],
+ "places": [
+  "东京",
+  "卓尔图贝勒墓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11737,
+ "page_range": "277-278"
+}

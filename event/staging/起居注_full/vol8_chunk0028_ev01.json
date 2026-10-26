@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "山东巡抚奏原任参将董应举等四人在外立业不能回籍，部议不准，康熙令停其逐回原籍。",
+ "people": [
+  {
+   "name": "董应举",
+   "role": "原任山东参将"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2801,
+ "page_range": "67-68"
+}

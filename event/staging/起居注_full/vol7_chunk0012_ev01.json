@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命胡会恩调左侍郎，履粹忠授兵部右侍郎。",
+ "people": [
+  {
+   "name": "胡会恩",
+   "role": "左侍郎"
+  },
+  {
+   "name": "履粹忠",
+   "role": "大理寺少卿，授兵部右侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1201,
+ "page_range": "35-36"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅和尚黄大、李六开马室子偷盗骡马卖银分赃案，以未伤人着免勾。",
+ "people": [
+  {
+   "name": "黄大",
+   "role": "和尚/案犯"
+  },
+  {
+   "name": "李六",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24302,
+ "page_range": "497-498"
+}

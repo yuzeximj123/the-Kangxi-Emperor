@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十九日本丑",
+ "event_role": "请安谢恩",
+ "summary": "河间府武进士三等侍卫陈栋之父陈养心请安，康熙帝赐白金。",
+ "people": [
+  {
+   "name": "陈养心",
+   "role": "陈栋之父"
+  },
+  {
+   "name": "陈栋",
+   "role": "河间府武进士三等侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河间府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3312,
+ "page_range": "77-78"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "二十九日甲子",
+ "event_role": "河工水利",
+ "summary": "总河于成龙题请令原任侍郎多奇等十人修黄河赎罪，康熙帝以无济于事，改令修永定河赎罪，交部议奏。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "多奇",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄河",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11408,
+ "page_range": "238-239"
+}

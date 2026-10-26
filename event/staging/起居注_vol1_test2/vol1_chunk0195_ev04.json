@@ -1,0 +1,25 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "初四日乙丑",
+ "event_role": "人事任免",
+ "summary": "署岳州府事守备黄明失察驿递疲困，部议降二级，康熙帝以其在岳州、云南有劳绩免降级。",
+ "people": [
+  {
+   "name": "黄明",
+   "role": "署岳州府事守备"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "岳州",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19504,
+ "page_range": "447-448"
+}

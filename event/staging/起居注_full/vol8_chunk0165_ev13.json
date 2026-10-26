@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "十二日成辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙询问科场更改题目事，命马齐即查奏，并谕出题不必隐僻，去年会场策题问新旧唐书致士子不知。",
+ "people": [
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "王抄",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16513,
+ "page_range": "341-342"
+}

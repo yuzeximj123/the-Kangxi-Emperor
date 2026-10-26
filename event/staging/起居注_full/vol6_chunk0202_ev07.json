@@ -1,0 +1,41 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "十三日己亥",
+ "event_role": "人事任免",
+ "summary": "山西巡抚噶礼题补阳曲县知县罗伦、临汾县知县秦棠员缺，康熙准以黄应中、赵凤诏调补。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "罗伦",
+   "role": "阳曲县知县"
+  },
+  {
+   "name": "黄应中",
+   "role": "知县"
+  },
+  {
+   "name": "秦棠",
+   "role": "临汾县知县"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "阳曲县",
+  "临汾县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20207,
+ "page_range": "414-415"
+}

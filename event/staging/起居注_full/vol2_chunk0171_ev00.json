@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝提出副都统员缺应将在京应升之人一体选择补用，命议政王、贝勒、大臣会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿称瑚琅",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17100,
+ "page_range": "385-386"
+}

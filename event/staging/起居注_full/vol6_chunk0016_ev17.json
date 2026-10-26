@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "二十四日辛未",
+ "event_role": "人事任免",
+ "summary": "吏部题宗人府理事官法良员缺，拟正龙官、拟陪索尔笔，康熙帝以其人材俱劣且年老，命解任另行开列具奏。",
+ "people": [
+  {
+   "name": "法良",
+   "role": "宗人府理事官"
+  },
+  {
+   "name": "龙官",
+   "role": "刑部员外郎"
+  },
+  {
+   "name": "索尔笔",
+   "role": "户部员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1617,
+ "page_range": "42-43"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初八日丙子",
+ "event_role": "人事任免",
+ "summary": "甘肃提督张勇告病请休，康熙帝以其劳绩卓著，命照旧供职，并将劳绩写入票签。",
+ "people": [
+  {
+   "name": "张勇",
+   "role": "甘肃提督"
+  },
+  {
+   "name": "王进宝",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "秦省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22304,
+ "page_range": "489-490"
+}

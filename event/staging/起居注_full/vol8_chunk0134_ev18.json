@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初三日癸亥",
+ "event_role": "司法案件",
+ "summary": "兵部题原任广西新台营参将王起云打仗身死应照阵亡例议叙，康熙帝认为太过，命本发还量给恩典议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王起云",
+   "role": "原任广西新台营参将"
+  }
+ ],
+ "places": [
+  "广西",
+  "万承州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13418,
+ "page_range": "279-280"
+}

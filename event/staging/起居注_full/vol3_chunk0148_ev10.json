@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "十三日本卯",
+ "event_role": "人事任免",
+ "summary": "大学士等遵旨将汤斌议授礼部尚书管詹事府事、朱马泰等议解任之上谕呈览，康熙帝命改朱马泰以对品调补，喇巴、色度随旗行走。",
+ "people": [
+  {
+   "name": "汤斌",
+   "role": "苏州巡抚"
+  },
+  {
+   "name": "朱马泰",
+   "role": "詹事"
+  },
+  {
+   "name": "喇巴",
+   "role": "少詹事"
+  },
+  {
+   "name": "色度",
+   "role": "少詹事"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14810,
+ "page_range": "331-332"
+}

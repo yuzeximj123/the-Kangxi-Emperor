@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐等奏议补授顺天府丞，拟升光禄寺少卿王度昭但越级，康熙命将品级相当官员调补具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王度昭",
+   "role": "光禄寺少卿"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺天府",
+  "奉天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10902,
+ "page_range": "229-230"
+}

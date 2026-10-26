@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "马齐等遵旨查闲散人哥尔布控告其兄达尔华分家四十余年希得田产一案，该旗大臣及巴浑德等称控告不合，康熙帝依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "哥尔布",
+   "role": "闲散人"
+  },
+  {
+   "name": "达尔华",
+   "role": "哥尔布之兄"
+  },
+  {
+   "name": "巴浑德",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21908,
+ "page_range": "449-450"
+}

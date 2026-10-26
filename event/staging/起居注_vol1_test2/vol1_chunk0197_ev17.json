@@ -1,0 +1,25 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "十三日甲成",
+ "event_role": "祭祀典礼",
+ "summary": "永兴县阵亡病故将士丧至，康熙帝特遣内大臣塔达等携酒迎于杨村致奠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "塔达",
+   "role": "内大臣"
+  }
+ ],
+ "places": [
+  "永兴县",
+  "杨村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19717,
+ "page_range": "451-452"
+}

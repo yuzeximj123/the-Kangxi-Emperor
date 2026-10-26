@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "伊桑阿等奏问原任总兵官林贤，康熙帝命加赠曾于台湾效力的林贤。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "林贤",
+   "role": "原任总兵官"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25201,
+ "page_range": "516-517"
+}

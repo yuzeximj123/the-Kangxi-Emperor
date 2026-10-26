@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问达哈塔情况，明珠等奏其眼昏看字不真，康熙帝命朱马泰、阿山充补经筵讲官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达哈塔",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "朱马泰",
+   "role": "经筵讲官"
+  },
+  {
+   "name": "阿山",
+   "role": "经筵讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11801,
+ "page_range": "271-272"
+}

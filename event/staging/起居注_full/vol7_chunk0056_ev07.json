@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问《渊鉴类函》校阅情况，张玉书奏卷帙浩繁尚未校完，帝命专责数人修辑、众力助之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5607,
+ "page_range": "123-124"
+}

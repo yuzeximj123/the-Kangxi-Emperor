@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "初一日辛卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝率诸王、贝子、公、内大臣、大学士、都统、尚书、精奇尼哈番、侍卫等至太皇太后宫、皇太后宫行礼后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21401,
+ "page_range": "485-486"
+}

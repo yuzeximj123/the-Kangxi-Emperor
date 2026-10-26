@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十三年十二月",
+ "reign_year": 43,
+ "month": 12,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "宋荦奏请圣安，进呈竹纸刷印御製诗集及江南冬笋，并报校进旨已交织造处收贮。",
+ "people": [
+  {
+   "name": "宋荦",
+   "role": "奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江寧",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并赐御製诗一张、御笔字一张及御笔金字扇。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "93",
+ "source_title": "江寧織造曹寅奏進竹紙御製詩集並冬笋摺",
+ "order_index": 66
+}

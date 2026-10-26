@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十一年九月十六日",
+ "reign_year": 51,
+ "month": 9,
+ "day": 16,
+ "event_role": "奏报地方情形",
+ "summary": "福建陆路提督杨琳奏报闽省早稻丰收、晚稻雨水及漳泉沿海得雨情形，并报地方宁靖、盗案稀少、米价平稳，附进文旦。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "福建陆路提督，奏报人"
+  }
+ ],
+ "places": [
+  "福建",
+  "漳州",
+  "泉州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，已知所奏，并叮嘱以后元旦进献二百即足。",
+ "source_title": "福建陸路提督楊琳奏報閩省稻米雨水情形並地方寧謐摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1899",
+ "order_index": 107
+}

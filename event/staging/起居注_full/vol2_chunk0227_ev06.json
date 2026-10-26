@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "初四日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝奉太皇太后驻跸易州大方地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  }
+ ],
+ "places": [
+  "易州大方地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22706,
+ "page_range": "497-498"
+}

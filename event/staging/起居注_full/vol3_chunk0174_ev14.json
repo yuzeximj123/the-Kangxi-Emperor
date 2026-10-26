@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "十七日己巳",
+ "event_role": "人事任免",
+ "summary": "大学士等会同詹事府奏议皇太子讲官员缺，称能赐瑛谨慎行优可调补、徐潮操守学问俱优，康熙帝命徐潮进讲。",
+ "people": [
+  {
+   "name": "汤斌",
+   "role": "管詹事府事尚书"
+  },
+  {
+   "name": "尹泰",
+   "role": "詹事"
+  },
+  {
+   "name": "舒怨",
+   "role": "少詹事"
+  },
+  {
+   "name": "觉罗僧参",
+   "role": "少詹事"
+  },
+  {
+   "name": "能赐瑛",
+   "role": "日讲官"
+  },
+  {
+   "name": "徐潮",
+   "role": "论德（进讲）"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17414,
+ "page_range": "383-384"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问汉九卿意见，李天馥、张玉书、陈廷敬等均称未看或未深知崔维雅治河书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李天馥",
+   "role": "工部尚书"
+  },
+  {
+   "name": "张玉书",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "刑部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1805,
+ "page_range": "48-49"
+}

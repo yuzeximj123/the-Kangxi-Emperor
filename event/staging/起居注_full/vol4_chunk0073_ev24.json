@@ -1,0 +1,21 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "十五日庚戌",
+ "event_role": "朝见受贺",
+ "summary": "早，康熙帝御中和殿升座，二十七年十月内领赏内大臣、侍卫、内阁、翰林院、詹事府及执事官员谢恩毕，上御太和门升座。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7324,
+ "page_range": "158-159"
+}

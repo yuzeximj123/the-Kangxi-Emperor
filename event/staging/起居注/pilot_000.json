@@ -1,0 +1,21 @@
+{
+ "date_raw": "康熙十年九月初一日己酉",
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "朔己酉",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以寰宇一统，遣官告祭太祖、太宗山陵，行告成礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太祖山陵",
+  "太宗山陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 0
+}

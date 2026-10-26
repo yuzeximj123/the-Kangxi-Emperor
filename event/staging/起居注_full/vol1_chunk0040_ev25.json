@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 4,
+ "day_text": "初四日癸卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝御观德殿，命推升四川重庆总兵官、原任云南沅江副将王起龙及陕西解州副将林忠射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王起龙",
+   "role": "原任云南沅江副将，推升四川重庆总兵官"
+  },
+  {
+   "name": "林忠",
+   "role": "陕西解州副将"
+  }
+ ],
+ "places": [
+  "观德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4025,
+ "page_range": "137-138"
+}

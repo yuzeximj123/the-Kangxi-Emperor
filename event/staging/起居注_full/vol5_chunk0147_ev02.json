@@ -1,0 +1,33 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "福建水师提督施琅病故，康熙帝命江南提督张旺补授福建水师提督，张云辟调补江南提督。",
+ "people": [
+  {
+   "name": "施琅",
+   "role": "已故福建水师提督"
+  },
+  {
+   "name": "张旺",
+   "role": "授福建水师提督"
+  },
+  {
+   "name": "张云辟",
+   "role": "调补江南提督"
+  },
+  {
+   "name": "张勇",
+   "role": "张云辟之父"
+  }
+ ],
+ "places": [
+  "福建",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14702,
+ "page_range": "304-305"
+}

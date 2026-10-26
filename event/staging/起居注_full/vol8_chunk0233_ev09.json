@@ -1,0 +1,26 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": "二十一日庚午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论前立二阿哥时礼仪皆索额图所定，服用仪仗太为过制与皇帝相等，致二阿哥习坏，皆索额图教之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "定礼仪者"
+  },
+  {
+   "name": "二阿哥",
+   "role": "皇太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23309,
+ "page_range": "477-478"
+}

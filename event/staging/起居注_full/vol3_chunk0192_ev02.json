@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "明珠等奏副都御史赵之思年入、巡抚张鹏、赵士鹿亦可，康熙帝询问赵之轩居乡情况。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "赵之思",
+   "role": "副都御史"
+  },
+  {
+   "name": "张鹏",
+   "role": "巡抚"
+  },
+  {
+   "name": "赵士鹿",
+   "role": "巡抚"
+  },
+  {
+   "name": "赵之轩",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19202,
+ "page_range": "419-420"
+}

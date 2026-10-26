@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "二十七日庚申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝训谕唐光尧回任实心办事、时练军伍、不可克扣钱粮亏空军旅、军民一体视之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐光尧",
+   "role": "广东琼州府总兵官"
+  }
+ ],
+ "places": [
+  "琼州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14702,
+ "page_range": "304-305"
+}

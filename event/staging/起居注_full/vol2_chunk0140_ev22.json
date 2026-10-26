@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "二十二日丁酉",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶蓝旗护军参领员缺，拟噶尔图、尼堪，康熙询问后命仍问本都统。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "噶尔图",
+   "role": "拟补骁骑参领"
+  },
+  {
+   "name": "尼堪",
+   "role": "拟陪"
+  }
+ ],
+ "places": [
+  "四川",
+  "保宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14022,
+ "page_range": "323-324"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "十八日乙未",
+ "event_role": "人事任免",
+ "summary": "巡抚倭伦题降级调用阳曲县知县唐廉请留任，议不准行，康熙帝以其为人愿厚令留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭伦",
+   "role": "巡抚"
+  },
+  {
+   "name": "唐廉",
+   "role": "阳曲县知县"
+  }
+ ],
+ "places": [
+  "阳曲县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1105,
+ "page_range": "32-33"
+}

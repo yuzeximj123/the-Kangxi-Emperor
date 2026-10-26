@@ -1,0 +1,34 @@
+{
+ "reign_year": 35,
+ "month": 1,
+ "day_text": "二十六日癸未",
+ "event_role": "人事任免",
+ "summary": "兵部题正红旗蒙古都统齐世员缺，开列护军统领苏丹等职名，康熙帝以苏丹等年幼令在护军统领职任效力，命公彭春补授蒙古都统。",
+ "people": [
+  {
+   "name": "齐世",
+   "role": "正红旗蒙古都统"
+  },
+  {
+   "name": "苏丹",
+   "role": "护军统领"
+  },
+  {
+   "name": "彭春",
+   "role": "公"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9818,
+ "page_range": "206-207"
+}

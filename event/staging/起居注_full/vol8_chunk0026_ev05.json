@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑科参刑部注销档册逾限，康熙帝以本部大人既有言行文至科，着宽免主事俞存仁等处分。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "法尔萨",
+   "role": "刑科给事中"
+  },
+  {
+   "name": "俞存仁",
+   "role": "刑部主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2605,
+ "page_range": "63-64"
+}

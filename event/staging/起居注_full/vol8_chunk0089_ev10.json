@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十七日甲午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸新衙门，赐直隶巡抚赵弘沁、提督杜呈泗、穆廷醋及地方文武大小官员等免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘沁",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "杜呈泗",
+   "role": "提督"
+  },
+  {
+   "name": "穆廷醋",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "新衙门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8910,
+ "page_range": "189-190"
+}

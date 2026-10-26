@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初四日己未",
+ "event_role": "其他",
+ "summary": "辰时，康熙帝御懋勤殿进讲《易经》责卦，亲讲象曰山下有火一节，讲官进讲初九、六二各节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方广",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2527,
+ "page_range": "93-94"
+}

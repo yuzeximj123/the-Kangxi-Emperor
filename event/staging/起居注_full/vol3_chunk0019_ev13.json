@@ -1,0 +1,42 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十一日丙午",
+ "event_role": "人事任免",
+ "summary": "明珠奏问明袁景星为人襄厚才具平常，康熙命以顺天府府丞张鹏补授通政司右通政员缺。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "袁景星",
+   "role": "太常寺少卿"
+  },
+  {
+   "name": "张鹏",
+   "role": "顺天府府丞"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "金涩祥",
+   "role": "学士"
+  },
+  {
+   "name": "图纳",
+   "role": "雇从学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1913,
+ "page_range": "73-74"
+}

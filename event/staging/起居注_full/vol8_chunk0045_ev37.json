@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 11,
+ "day_text": "二十三日丁卯",
+ "event_role": "朝见受贺",
+ "summary": "喜峰口管站员外郎作十四、关口守御萨克查等、游击李三宝等来朝。",
+ "people": [
+  {
+   "name": "作十四",
+   "role": "喜峰口管站员外郎"
+  },
+  {
+   "name": "萨克查",
+   "role": "关口守御"
+  },
+  {
+   "name": "李三宝",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "喜峰口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4537,
+ "page_range": "101-102"
+}

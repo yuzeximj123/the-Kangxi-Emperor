@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十七年十月十五日",
+ "reign_year": 57,
+ "month": 10,
+ "day": 15,
+ "event_role": "奏报地方情形",
+ "summary": "河南巡抚杨宗义奏报南阳府裕州扬河地方荒地开垦及争讼情形，请将拐河地亩概给驻防兵丁管业以防匪类，恭请圣裁。",
+ "people": [
+  {
+   "name": "杨宗义",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "李国亮",
+   "role": "前抚臣"
+  },
+  {
+   "name": "李先石",
+   "role": "李国亮家人，掌管开垦事务"
+  }
+ ],
+ "places": [
+  "河南",
+  "南阳府",
+  "裕州",
+  "扬河",
+  "拐河"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "河南巡撫楊宗義奏為請將南陽揚河地畝概給駐防兵丁管業摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2711",
+ "order_index": 140
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "理藩院奉旨移文滚占之妻诺浑达喇子车凑多和尔，劝其来归，勿与噶尔丹和好，并许其往投策旺拉布滩或奔呼户诺尔。",
+ "people": [
+  {
+   "name": "诺浑达喇",
+   "role": "滚占之妻"
+  },
+  {
+   "name": "车凑多和尔",
+   "role": "诺浑达喇之子"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "敌对首领"
+  },
+  {
+   "name": "策旺拉布滩",
+   "role": "蒙古首领"
+  }
+ ],
+ "places": [
+  "呼户诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21502,
+ "page_range": "440-441"
+}

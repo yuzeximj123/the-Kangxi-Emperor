@@ -1,0 +1,42 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "二十二日辛玄",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝因暑热传谕随驾人员不可妄饮水，应远寻好水饮用。",
+ "people": [
+  {
+   "name": "双全",
+   "role": "奏事"
+  },
+  {
+   "name": "张文彬",
+   "role": "奏事"
+  },
+  {
+   "name": "杨万程",
+   "role": "洗马"
+  },
+  {
+   "name": "奇勒伦",
+   "role": "编修"
+  },
+  {
+   "name": "吕伦贷",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "马尔赛",
+   "role": "领侍卫内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14203,
+ "page_range": "295-296"
+}

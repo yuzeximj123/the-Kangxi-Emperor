@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十九日已亥",
+ "event_role": "人事任免",
+ "summary": "吏部覆盛京户部理事官叶臣年老请致仕，议准；康熙帝命叶臣致仕，哈第改授，铁图住补哈第员缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶臣",
+   "role": "盛京户部理事官"
+  },
+  {
+   "name": "哈第",
+   "role": "盛京礼部理事官"
+  },
+  {
+   "name": "铁图住",
+   "role": "太常寺少卿"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6507,
+ "page_range": "140-141"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "二十一日丙午",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听部院各衙门官员面奏政事，学士希福等奏查明京城三营老弱兵丁事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2215,
+ "page_range": "87-88"
+}

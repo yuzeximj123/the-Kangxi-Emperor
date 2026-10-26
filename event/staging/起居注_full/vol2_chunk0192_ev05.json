@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十八日庚子",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗护军统领色格升任员缺，康熙帝以蟒吉禄厚重谨慎，命即补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色格",
+   "role": "镶白旗护军统领升任"
+  },
+  {
+   "name": "蟒吉禄",
+   "role": "副都统拟补"
+  },
+  {
+   "name": "索诺木",
+   "role": "副都统"
+  },
+  {
+   "name": "达克萨喀",
+   "role": "副都统"
+  },
+  {
+   "name": "赛喀纳",
+   "role": "副都统"
+  },
+  {
+   "name": "显亲王",
+   "role": "曾举荐蟒吉禄"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19205,
+ "page_range": "427-428"
+}

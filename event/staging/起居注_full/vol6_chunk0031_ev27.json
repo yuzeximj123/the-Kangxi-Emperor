@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "初二日本未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令保定满汉官员于皇帝回时较射，文武各官优劣着问近抚沈朝聘具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "保定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3127,
+ "page_range": "72-73"
+}

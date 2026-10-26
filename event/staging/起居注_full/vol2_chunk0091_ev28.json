@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十七日丙实",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御行幄，随驾大学士觉罗勒德洪、学士噶尔图、格尔古德捧折本面奏请旨，为宗人府题固山贝子古尔玛洪应否与谥事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "噶尔图",
+   "role": "学士"
+  },
+  {
+   "name": "格尔古德",
+   "role": "学士"
+  },
+  {
+   "name": "古尔玛洪",
+   "role": "固山贝子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9128,
+ "page_range": "225-226"
+}

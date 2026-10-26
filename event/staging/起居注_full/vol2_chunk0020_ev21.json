@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十三日戊戌",
+ "event_role": "人事任免",
+ "summary": "兵部题补正白旗都统，康熙帝以內大臣阿密达补授都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "桑格",
+   "role": "护军统领"
+  },
+  {
+   "name": "杭奇",
+   "role": "副都统"
+  },
+  {
+   "name": "阿密达",
+   "role": "内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2021,
+ "page_range": "83-84"
+}

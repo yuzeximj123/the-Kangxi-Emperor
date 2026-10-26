@@ -1,0 +1,21 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": "二十二日庚午",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝论巡行所知南北风俗，北方收麦胜于秋谷，南方去年麦丰而人仍窘迫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "北方",
+  "南方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15029,
+ "page_range": "311-312"
+}

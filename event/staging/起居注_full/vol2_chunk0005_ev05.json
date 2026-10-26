@@ -1,0 +1,23 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十二日戊寅",
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚于成龙题顺天、真定、河间、顺德四府属被夏灾请蠲免钱粮，康熙令速遣户部司官踏勘详察。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "顺天",
+  "真定",
+  "河间",
+  "顺德"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 505,
+ "page_range": "53-54"
+}

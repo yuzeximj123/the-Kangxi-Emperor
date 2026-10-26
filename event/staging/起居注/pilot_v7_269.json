@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十五年二十日甲戌",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "二十日甲戌",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫，大学士马齐、学士阿世坦以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "阿世坦",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3269
+}

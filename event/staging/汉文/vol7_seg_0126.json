@@ -1,0 +1,40 @@
+{
+ "date_raw": "康熙五十五年十月初二日",
+ "reign_year": 55,
+ "month": 10,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报御稻早稻收成、稻种畅发情形，并请示明岁可否广传民间，附进新米及伏读御序缘由。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "魏廷珍",
+   "role": "书中恭奉圣旨者"
+  },
+  {
+   "name": "满保",
+   "role": "总督，代奏奏折"
+  },
+  {
+   "name": "公刘",
+   "role": "古代周族先祖，喻指"
+  },
+  {
+   "name": "后稷",
+   "role": "古代农官，喻指"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏【報】秋收【成】【分】數摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "239",
+ "order_index": 126
+}

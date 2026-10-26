@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": "十六日甲午",
+ "event_role": "谕旨决策",
+ "summary": "康熙论治河如用兵须先机制胜彻底周详，并问张鹏翮河势及靳辅、于成龙治河优劣。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "靳辅",
+   "role": "前河道总督"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 418,
+ "page_range": "18-19"
+}

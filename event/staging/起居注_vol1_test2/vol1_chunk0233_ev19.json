@@ -1,0 +1,33 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初六日乙丑",
+ "event_role": "奏报地方情形",
+ "summary": "总督殖航荣奏恢复清浪、北溶及伪将军祖述舜投诚事，康熙帝以前后不符命察明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "祖述舜",
+   "role": "伪将军"
+  },
+  {
+   "name": "祖泽清",
+   "role": "人名"
+  }
+ ],
+ "places": [
+  "清浪",
+  "北溶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23319,
+ "page_range": "523-524"
+}

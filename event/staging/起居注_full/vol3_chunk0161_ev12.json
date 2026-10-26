@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十一日甲戌",
+ "event_role": "朝见受贺",
+ "summary": "礼部尚书汤斌由江苏巡抚升任至京，陛见乾清门，康熙嘉其洁己率属、克践前言并加超擢。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16112,
+ "page_range": "357-358"
+}

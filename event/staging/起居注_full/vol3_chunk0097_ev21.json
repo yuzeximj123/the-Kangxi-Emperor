@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "十九日成申",
+ "event_role": "人事任免",
+ "summary": "吏部题赞善布达礼升任员缺，拟中书尹布珠正、阿里马陪，康熙帝以尹布珠庸劣，令另行选择。",
+ "people": [
+  {
+   "name": "布达礼",
+   "role": "赞善"
+  },
+  {
+   "name": "尹布珠",
+   "role": "中书"
+  },
+  {
+   "name": "阿里马",
+   "role": "中书"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9721,
+ "page_range": "229-230"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾壹年拾月",
+ "reign_year": 51,
+ "month": 10,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏谢康熙赏赐鹿肉，并报告福建地方雨顺民安、自己恪尽职守，表示感激皇恩、勉力效忠。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏折作者"
+  },
+  {
+   "name": "林茂",
+   "role": "李煦家人，赍捧奏折进京"
+  }
+ ],
+ "places": [
+  "苏州",
+  "闽疆"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示知道了。",
+ "source_title": "奏谢恩赐鹿肉并报地方情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 534
+}

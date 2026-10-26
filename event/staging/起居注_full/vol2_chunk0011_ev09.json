@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十四日庚戌",
+ "event_role": "人事任免",
+ "summary": "题补广东副都统员缺，正拟金世荣、陪拟丹拜，明珠称金世荣可用，康熙令于现任副都统及品大各员内另举具奏。",
+ "people": [
+  {
+   "name": "金世荣",
+   "role": "参领"
+  },
+  {
+   "name": "丹拜",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1109,
+ "page_range": "65-66"
+}

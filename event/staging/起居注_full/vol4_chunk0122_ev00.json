@@ -1,0 +1,42 @@
+{
+ "reign_year": 29,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "简英、胡简思等胡简敬家人拟杖徒，巡抚洪之杰因徇情不速审被议降三级调用。",
+ "people": [
+  {
+   "name": "简英",
+   "role": "拟杖徒者"
+  },
+  {
+   "name": "胡简思",
+   "role": "拟杖徒者"
+  },
+  {
+   "name": "胡简亮",
+   "role": "拟杖徒者"
+  },
+  {
+   "name": "胡简奇",
+   "role": "拟杖徒者"
+  },
+  {
+   "name": "胡简易",
+   "role": "拟杖徒者"
+  },
+  {
+   "name": "胡正",
+   "role": "拟杖徒者"
+  },
+  {
+   "name": "洪之杰",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12200,
+ "page_range": "256-257"
+}

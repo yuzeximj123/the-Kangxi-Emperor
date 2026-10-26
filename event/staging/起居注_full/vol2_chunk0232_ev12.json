@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十三日庚申",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁学士阿兰泰升任员缺，康熙帝询问后命阿哈达升补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "内阁学士"
+  },
+  {
+   "name": "阿哈达",
+   "role": "詹事"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23212,
+ "page_range": "507-508"
+}

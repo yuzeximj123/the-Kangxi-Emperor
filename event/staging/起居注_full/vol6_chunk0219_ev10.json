@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初九日壬戌",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等呈蠲免江苏钱粮上谕，康熙帝命增入不肖官员借端营私即行正法之语具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21910,
+ "page_range": "448-449"
+}

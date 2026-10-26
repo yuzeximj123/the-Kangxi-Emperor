@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "十一日癸卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士明珠，令于孔子小天下处建亭悬“普照乾坤”额、极顶处摩崖勒“云峰”二字，并免本年泰山香税用以修山顶各庙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "孔子小天下处",
+  "泰山极顶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5220,
+ "page_range": "139-140"
+}

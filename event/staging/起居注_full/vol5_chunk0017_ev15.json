@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "二十三日庚寅",
+ "event_role": "司法案件",
+ "summary": "三法司题乌喇打牲人巴瑚礼妻与家人赖色通奸，家人王四持斧砍死赖色并殴主母，拟绞监候；康熙帝以王四念主豢养之恩，从宽免罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王四",
+   "role": "家人"
+  },
+  {
+   "name": "赖色",
+   "role": "家人"
+  },
+  {
+   "name": "巴瑚礼",
+   "role": "打牲人"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1715,
+ "page_range": "44-45"
+}

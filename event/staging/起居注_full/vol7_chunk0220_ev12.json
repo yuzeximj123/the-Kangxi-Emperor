@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十日壬寅",
+ "event_role": "议政听政",
+ "summary": "覆请黑龙江将军杨福等题于拉林口添设庄屯事，谕令议政大臣、九卿会议具奏，将充发人等分类安插。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨福",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "拉林口",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22012,
+ "page_range": "451-452"
+}

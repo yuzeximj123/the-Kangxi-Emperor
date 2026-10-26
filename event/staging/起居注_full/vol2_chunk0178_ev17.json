@@ -1,0 +1,41 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十六日戊午",
+ "event_role": "议政听政",
+ "summary": "云南提督赵赖题议叙土司安胜祖授文职事，康熙帝询问学士佛伦，佛伦奏安胜祖接济大兵有裨益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵赖",
+   "role": "云南提督"
+  },
+  {
+   "name": "安胜祖",
+   "role": "土司"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "阿五",
+   "role": "安胜祖家人"
+  },
+  {
+   "name": "龙天佑",
+   "role": "土司"
+  }
+ ],
+ "places": [
+  "云南",
+  "平远府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17817,
+ "page_range": "399-400"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "二十三日全未",
+ "event_role": "人事任免",
+ "summary": "兵部题补福陵协领库拜病故员缺，拟萨克正、席清格陪，康熙帝认为二人平常，命察彼处贤能官员具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库拜",
+   "role": "福陵协领"
+  },
+  {
+   "name": "萨克",
+   "role": "原任护军参领"
+  },
+  {
+   "name": "席清格",
+   "role": "拟陪官员"
+  }
+ ],
+ "places": [
+  "福陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7105,
+ "page_range": "177-178"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十一日己巳",
+ "event_role": "皇帝行止",
+ "summary": "早，康熙帝率皇太子迎太皇太后至畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23611,
+ "page_range": "507-508"
+}

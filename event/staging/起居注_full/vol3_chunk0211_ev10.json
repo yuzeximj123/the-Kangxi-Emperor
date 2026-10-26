@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "初六日甲寅",
+ "event_role": "司法案件",
+ "summary": "康熙帝以希福等谎奏僧参家仆萨尔班夹后第四日身死为第八日身死、虚回殊甚，命照部议完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "尚书"
+  },
+  {
+   "name": "觉罗僧参",
+   "role": "少詹事"
+  },
+  {
+   "name": "萨尔班",
+   "role": "家仆"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21110,
+ "page_range": "457-458"
+}

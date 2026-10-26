@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙伍拾年拾月贰拾日",
+ "reign_year": 50,
+ "month": 10,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "直隶总督赵弘燮遵旨不再于奏事封内请安，今专折差家人赍捧恭请皇上圣躬万安。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "总督管理直隶巡抚事务、兵部右侍郎兼都察院右副都御史加三级，具奏请安"
+  },
+  {
+   "name": "贾应虎",
+   "role": "赵弘燮家人，赍捧奏折进京"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "谕示平常折内请安无妨，但报实奏本人命等事时请安即不合。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 144
+}

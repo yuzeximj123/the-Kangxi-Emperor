@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 7,
+ "day_text": "三十日癸亥",
+ "event_role": "人事任免",
+ "summary": "吏部左侍郎孙柱引见补授山西布政使、兵部郎中员缺正陪官员，康熙帝命苏占补授山西布政使，余以正拟人员补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙柱",
+   "role": "吏部左侍郎"
+  },
+  {
+   "name": "苏占",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10415,
+ "page_range": "219-220"
+}

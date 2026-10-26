@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "初三日",
+ "event_role": "人事任免",
+ "summary": "康熙帝顾大学士马齐，命将不娴马步射的管兵官把总张武革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张武",
+   "role": "把总"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19116,
+ "page_range": "392-393"
+}

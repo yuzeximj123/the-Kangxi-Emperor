@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部郎中达苏喀升任员缺，拟正秦齐喇、拟陪僧格，康熙帝命将拟陪僧格补授。",
+ "people": [
+  {
+   "name": "达苏喀",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "秦齐喇",
+   "role": "员外郎拟正"
+  },
+  {
+   "name": "僧格",
+   "role": "拟陪补授"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13000,
+ "page_range": "295-296"
+}

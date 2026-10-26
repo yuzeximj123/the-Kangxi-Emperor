@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "十二日己亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝令行文山、陕、直隶督抚严查紧要关口擒拿贩运大制钱之人，从重治罪、钱入官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西",
+  "陕西",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10414,
+ "page_range": "219-220"
+}

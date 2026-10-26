@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与王熙等阅殿试策卷，评论文章优劣及赈济、吏治等政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  },
+  {
+   "name": "合叔元",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1300,
+ "page_range": "36-37"
+}

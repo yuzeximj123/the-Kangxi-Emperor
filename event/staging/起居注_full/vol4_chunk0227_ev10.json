@@ -1,0 +1,25 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "初二日丙午",
+ "event_role": "司法案件",
+ "summary": "九卿题覆卫既齐启衅边疆、杀残无辜苗民、谎奏军功，议即处斩，康熙帝从宽免死发往黑龙江。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卫既齐",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [
+  "贵州",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22710,
+ "page_range": "466-467"
+}

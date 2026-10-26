@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆奏原京口副都统崔士英遗本，请将其子崔钠章等留京口披甲，康熙帝准崔士英之子留京口披甲效力，余依议。",
+ "people": [
+  {
+   "name": "崔士英",
+   "role": "原任京口副都统"
+  },
+  {
+   "name": "崔钠章",
+   "role": "崔士英之子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15801,
+ "page_range": "327-328"
+}

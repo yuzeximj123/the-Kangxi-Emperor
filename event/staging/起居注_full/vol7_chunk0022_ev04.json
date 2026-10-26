@@ -1,0 +1,41 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙引宋柱等面奏广东总督石琳、巡抚彭鹏、张志栋馈送及席尔达分受万金事，质疑议处标准。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋柱",
+   "role": "官员"
+  },
+  {
+   "name": "石琳",
+   "role": "总督"
+  },
+  {
+   "name": "彭鹏",
+   "role": "巡抚"
+  },
+  {
+   "name": "张志栋",
+   "role": "巡抚"
+  },
+  {
+   "name": "席尔达",
+   "role": "吏部尚书"
+  }
+ ],
+ "places": [
+  "广东",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2204,
+ "page_range": "55-56"
+}

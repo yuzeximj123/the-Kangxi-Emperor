@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "二十九日癸卯",
+ "event_role": "起居注官记录",
+ "summary": "部院各衙门本章交送内阁，本日起居注官为彭孙通、戴通。",
+ "people": [
+  {
+   "name": "彭孙通",
+   "role": "起居注官"
+  },
+  {
+   "name": "戴通",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "内阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 800,
+ "page_range": "28-29"
+}

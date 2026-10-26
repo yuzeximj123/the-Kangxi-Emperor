@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "二十五日癸西",
+ "event_role": "人事任免",
+ "summary": "吏部题补左都御史阿兰泰升任员缺，康熙帝以侍郎操守清廉、历任亦久，命升补左都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "左都御史"
+  },
+  {
+   "name": "萨海",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21511,
+ "page_range": "465-466"
+}

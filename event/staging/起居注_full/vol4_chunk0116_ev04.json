@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读元世祖纪称伯颜不妄杀、劳而不伐事，论伯颜与宋曹彬可并称，其劳而不伐卓然独步。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伯颜",
+   "role": "元大将"
+  },
+  {
+   "name": "曹彬",
+   "role": "宋将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11604,
+ "page_range": "244-245"
+}

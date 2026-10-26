@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "会同赵申乔议李魁元打死杨士奎拟绞监候一案，康熙帝令问赵申乔具奏，并查出刘芳声等案对看。",
+ "people": [
+  {
+   "name": "李魁元",
+   "role": "案犯"
+  },
+  {
+   "name": "杨士奎",
+   "role": "死者"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "刘芳声",
+   "role": "案内人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17704,
+ "page_range": "365-366"
+}

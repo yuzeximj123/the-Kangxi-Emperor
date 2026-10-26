@@ -1,0 +1,21 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "二十六日庚辰",
+ "event_role": "其他",
+ "summary": "康熙帝赐暂安奉殿、孝陵、陵上官兵鹿、兔、雉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "暂安奉殿",
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14207,
+ "page_range": "295-296"
+}

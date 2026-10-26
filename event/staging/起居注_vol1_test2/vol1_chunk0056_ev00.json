@@ -1,0 +1,34 @@
+{
+ "reign_year": 12,
+ "month": 10,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "木苏等四子部落、克什克屯部落台吉及归化城土默特部落台吉等进贡食物。",
+ "people": [
+  {
+   "name": "木苏",
+   "role": "台吉"
+  },
+  {
+   "name": "毛奇塔披",
+   "role": "四子部落四品台吉"
+  },
+  {
+   "name": "班第",
+   "role": "克什克屯部落四品台吉"
+  },
+  {
+   "name": "那尔布",
+   "role": "归化城土默特部落二品台吉"
+  }
+ ],
+ "places": [
+  "四子部落",
+  "克什克屯部落",
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5600,
+ "page_range": "169-170"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "二十三日壬寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补佥副都御史员缺，开列席兰泰、舒恕，康熙帝令将小京堂卿员及年久郎中等开列来奏亲阅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席兰泰",
+   "role": "通政使"
+  },
+  {
+   "name": "舒恕",
+   "role": "卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10114,
+ "page_range": "245-246"
+}

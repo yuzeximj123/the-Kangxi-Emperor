@@ -1,0 +1,42 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "议政听政",
+ "summary": "闽浙总督范时崇奏请圣裁，反对户部令巡盐御史赔补盐课缺额之例，认为此例将误国课、开派食之端，请免御史赔补。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "闽浙总督，奏折作者"
+  },
+  {
+   "name": "魏赫",
+   "role": "两淮、广东盐臣，来咨提及者"
+  },
+  {
+   "name": "常泰",
+   "role": "盐课未完一万六千余两的官员"
+  },
+  {
+   "name": "谷御史",
+   "role": "范时崇任广东时查审的御史"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "粤东",
+  "广东",
+  "两淮",
+  "河东",
+  "两浙"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙认为此系一面之词难以评信，令其具题后交众议。",
+ "source_title": "闽浙总督范时崇奏为恭请圣裁事摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "928",
+ "order_index": 226
+}

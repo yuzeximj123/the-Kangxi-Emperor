@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十二年六月初九日",
+ "reign_year": 52,
+ "month": 6,
+ "day": 9,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州自三月下旬连得甘雨、扬州五月下旬缺雨影响山田插秧及灶盐煎办，并报米价丝价。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造兼江南布政使，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州",
+  "江南",
+  "福州",
+  "仪真"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批两次“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報蘇州雨水調勻揚州缺雨摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1590",
+ "order_index": 227
+}

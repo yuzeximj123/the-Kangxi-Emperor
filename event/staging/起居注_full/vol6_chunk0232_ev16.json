@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "酉时",
+ "event_role": "人事任免",
+ "summary": "以遗祭朝鲜国王李灶之妃闵氏，将翰林院侍讲满保等开列呈览，康熙命满保为正使，副使该部另拟具奏。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "翰林院侍讲"
+  },
+  {
+   "name": "李灶",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "闵氏",
+   "role": "朝鲜国王之妃"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23216,
+ "page_range": "474-475"
+}

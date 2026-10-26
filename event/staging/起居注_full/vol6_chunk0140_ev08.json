@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "二十一日乙相",
+ "event_role": "人事任免",
+ "summary": "吏部题海伦、迈图收米不端议革职，康熙帝令枷号三月、鞭一百、编入内府佐领当差。",
+ "people": [
+  {
+   "name": "海伦",
+   "role": "御史"
+  },
+  {
+   "name": "迈图",
+   "role": "内阅侍读"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14008,
+ "page_range": "290-291"
+}

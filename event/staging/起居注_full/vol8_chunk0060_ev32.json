@@ -1,0 +1,30 @@
+{
+ "reign_year": 53,
+ "month": 5,
+ "day_text": "初九日己酉",
+ "event_role": "其他",
+ "summary": "召贝勒、贝子、大臣等人赐食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "贝勒",
+   "role": "贝勒"
+  },
+  {
+   "name": "贝子",
+   "role": "贝子"
+  },
+  {
+   "name": "大臣",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6032,
+ "page_range": "131-132"
+}

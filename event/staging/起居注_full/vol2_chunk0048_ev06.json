@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "十四日丁酉",
+ "event_role": "其他",
+ "summary": "康熙帝赐喀喇沁部落王札锡、公吴特巴喇、王子绰衣尔札木苏油衣。",
+ "people": [
+  {
+   "name": "札锡",
+   "role": "喀喇沁部落王"
+  },
+  {
+   "name": "吴特巴喇",
+   "role": "公"
+  },
+  {
+   "name": "绰衣尔札木苏",
+   "role": "王子"
+  }
+ ],
+ "places": [
+  "喀喇沁部落"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4806,
+ "page_range": "139-140"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "十九日辛亥",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸桃源县众兴集。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "桃源县众兴集"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5320,
+ "page_range": "141-142"
+}

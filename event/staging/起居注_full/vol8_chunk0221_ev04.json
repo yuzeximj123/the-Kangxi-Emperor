@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初七日",
+ "event_role": "司法案件",
+ "summary": "刑部题胡绍良救父用棍击胡英致死，照例处斩，康熙改为监候秋后处决。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡绍良",
+   "role": "犯人"
+  },
+  {
+   "name": "胡英",
+   "role": "小功叔"
+  },
+  {
+   "name": "胡仁赐",
+   "role": "胡绍良之父"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22104,
+ "page_range": "453-454"
+}

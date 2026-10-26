@@ -1,0 +1,31 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "十六日甲成",
+ "event_role": "谕旨决策",
+ "summary": "温达等奏问刑部尚书齐世武关于盛京等处发遣黑龙江、江宁、杭州之罪例，康熙帝颔之。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "齐世武",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "黑龙江",
+  "江宁",
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16609,
+ "page_range": "343-344"
+}

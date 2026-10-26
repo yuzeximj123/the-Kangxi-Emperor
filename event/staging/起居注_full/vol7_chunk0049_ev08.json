@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "二十一日本卯",
+ "event_role": "人事任免",
+ "summary": "兵部奏云南提标中军参将员缺，康熙帝命施为展回原任，以刘显贵补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施为展",
+   "role": "江南柳河营游击"
+  },
+  {
+   "name": "刘显贵",
+   "role": "拟补参将"
+  }
+ ],
+ "places": [
+  "云南",
+  "江南柳河营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4908,
+ "page_range": "109-110"
+}

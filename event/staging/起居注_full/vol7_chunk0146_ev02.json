@@ -1,0 +1,40 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝御乾清宫，吏部尚书温达同马齐遵旨引见华色等四人，授华色太仆寺正卿仍兼翰林院侍读学士行走。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "华色",
+   "role": "太仆寺正卿兼翰林院侍读学士"
+  },
+  {
+   "name": "筷达礼",
+   "role": "内务府郎中"
+  },
+  {
+   "name": "法海",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14602,
+ "page_range": "303-304"
+}

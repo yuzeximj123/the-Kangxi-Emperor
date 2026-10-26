@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十二年閏五月十一日",
+ "reign_year": 52,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "原任闽浙总督梁鼐奏报赴京叩祝康熙六旬万寿、蒙赐衣帽宴席并准展期，返里后设香案率家叩谢天恩。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "原任福建浙江总督，奏折作者"
+  },
+  {
+   "name": "武如升",
+   "role": "梁鼐家人，代捧奏折"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "阙庭",
+  "里门"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "原任閩浙總督梁鼐奏為叩祝萬壽事畢由京返里謝恩摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "335",
+ "order_index": 232
+}

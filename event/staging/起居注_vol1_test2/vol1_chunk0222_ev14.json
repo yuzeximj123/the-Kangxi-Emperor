@@ -1,0 +1,21 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十八日戊寅",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝于保和殿视朝日坛祝版毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "日坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22214,
+ "page_range": "501-502"
+}

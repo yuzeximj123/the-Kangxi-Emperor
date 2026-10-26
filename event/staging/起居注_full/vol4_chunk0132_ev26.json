@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 10,
+ "day_text": "十七日甲戌",
+ "event_role": "人事任免",
+ "summary": "兵部题补正白旗阵亡副都统迈图员缺，康熙帝命原任前锋统领硕代从优补授副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "硕代",
+   "role": "原任前锋统领"
+  },
+  {
+   "name": "迈图",
+   "role": "副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13226,
+ "page_range": "276-277"
+}

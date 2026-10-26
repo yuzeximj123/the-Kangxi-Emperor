@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "二十二日辛刻",
+ "event_role": "司法案件",
+ "summary": "兵、刑二部题黑儿擅入流杯亭门拟绞、守门护军校革职、护军等各鞭九十；康熙帝令黑儿免死减等发落，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黑儿",
+   "role": "擅入禁地者"
+  }
+ ],
+ "places": [
+  "流杯亭门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9013,
+ "page_range": "215-216"
+}

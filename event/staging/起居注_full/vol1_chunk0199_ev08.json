@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "十九日庚辰",
+ "event_role": "司法案件",
+ "summary": "三法司议瓦尔喀杀死三命应凌迟处死，康熙以口供称所杀二哥系养子，事关人命重案，令再行确议。",
+ "people": [
+  {
+   "name": "瓦尔喀",
+   "role": "案犯"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19908,
+ "page_range": "455-456"
+}

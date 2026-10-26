@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "二十八日壬辰",
+ "event_role": "人事任免",
+ "summary": "兵部题施琅请以吴起蛟补总兵、陈昌补总兵员缺，康熙帝令暂收候一并请旨。",
+ "people": [
+  {
+   "name": "施琅",
+   "role": "提督"
+  },
+  {
+   "name": "吴起蛟",
+   "role": "侍卫"
+  },
+  {
+   "name": "陈昌",
+   "role": "铜山总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "台湾",
+  "铜山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3717,
+ "page_range": "109-110"
+}

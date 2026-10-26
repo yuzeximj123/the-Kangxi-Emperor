@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "十九日己未",
+ "event_role": "请安谢恩",
+ "summary": "温达缮折奏报宣读御制序诗后群臣感激挥泪，请将序文及诗发往京师宣示，奉旨允行。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "傻子",
+   "role": "奏事"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17011,
+ "page_range": "351-352"
+}

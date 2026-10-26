@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙以直隶今年水灾严重，命将顺天、永平、保定、河间、宣府五府来年钱粮全免，令缮旨呈览。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "顺天",
+  "永平",
+  "保定",
+  "河间",
+  "宣府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11201,
+ "page_range": "235-236"
+}

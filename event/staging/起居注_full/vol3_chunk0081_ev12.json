@@ -1,0 +1,33 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "十四日甲戌",
+ "event_role": "人事任免",
+ "summary": "总河靳辅题淮安知府高成美为淮扬道，康熙帝以其颇优准补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "高成美",
+   "role": "淮安知府"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "淮安",
+  "淮扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8112,
+ "page_range": "197-198"
+}

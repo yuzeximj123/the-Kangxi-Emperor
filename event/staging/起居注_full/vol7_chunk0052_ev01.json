@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝临幸教场，率皇太子、诸皇子及善射侍卫射箭，帝发矢皆中，又阅护军校、护军及杭州驻防官兵射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "教场"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5201,
+ "page_range": "115-116"
+}

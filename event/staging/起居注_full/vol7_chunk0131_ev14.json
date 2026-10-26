@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "初九日癸巳",
+ "event_role": "司法案件",
+ "summary": "刑部议保住喝令家人打死西白西达拟绞监候，康熙帝命秋审时勿令宽用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "保住",
+   "role": "案犯"
+  },
+  {
+   "name": "西白西达",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13114,
+ "page_range": "273-274"
+}

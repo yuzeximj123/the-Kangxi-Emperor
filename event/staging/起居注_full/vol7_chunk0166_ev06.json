@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "十六日甲成",
+ "event_role": "人事任免",
+ "summary": "康熙帝准滕国祥、陈重俱照该镇所请补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "滕国祥",
+   "role": "补授官员"
+  },
+  {
+   "name": "陈重",
+   "role": "补授官员"
+  }
+ ],
+ "places": [
+  "山东登州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16606,
+ "page_range": "343-344"
+}

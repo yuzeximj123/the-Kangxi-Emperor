@@ -1,0 +1,22 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "十六日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "兵部题给事中王雍条奏各省驿站草料画一议不准行，康熙帝以驿站大小远近不同难以画一，命发还并察明造册具奏。",
+ "people": [
+  {
+   "name": "王雍",
+   "role": "给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13012,
+ "page_range": "270-271"
+}

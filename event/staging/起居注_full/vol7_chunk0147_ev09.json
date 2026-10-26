@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "太常寺为礼祈谷坛请遣大臣行礼，康熙帝令巴浑德代行礼。",
+ "people": [
+  {
+   "name": "巴浑德",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14709,
+ "page_range": "305-306"
+}

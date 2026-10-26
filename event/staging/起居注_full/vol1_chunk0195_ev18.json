@@ -1,0 +1,33 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "初六日己卯",
+ "event_role": "人事任免",
+ "summary": "察议甘肃巡抚巴锡应降二级调用，康熙帝询问其素行后，姑着留任。",
+ "people": [
+  {
+   "name": "巴锡",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "噶尔图",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19518,
+ "page_range": "447-448"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十二日甲戌",
+ "event_role": "人事任免",
+ "summary": "兵部题右卫护军统领费扬古员缺，开列镶黄旗副都统崇古礼等，康熙帝令护军统领苏赫调用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "右卫护军统领"
+  },
+  {
+   "name": "崇古礼",
+   "role": "镶黄旗副都统"
+  },
+  {
+   "name": "苏赫",
+   "role": "护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18319,
+ "page_range": "376-377"
+}

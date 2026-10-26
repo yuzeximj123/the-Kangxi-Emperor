@@ -1,0 +1,20 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "初八日戊实",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早幸南苑，酉时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24404,
+ "page_range": "500-501"
+}

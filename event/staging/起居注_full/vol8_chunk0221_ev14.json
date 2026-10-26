@@ -1,0 +1,33 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "二十四日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙在乾清宫东暖阁召汉大学士、学士、九卿等议师懿德不肯进兵一折，论用兵之道变化不测。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "师懿德",
+   "role": "将领"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "官员"
+  },
+  {
+   "name": "赵良栋",
+   "role": "老臣"
+  }
+ ],
+ "places": [
+  "乾清宫",
+  "西边"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22114,
+ "page_range": "453-454"
+}

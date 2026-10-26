@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆福建柯乞夺刀戳死大功兄柯进案拟立决，康熙帝改为秋后，令详研求其生路。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄秉中",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "柯乞",
+   "role": "案犯"
+  },
+  {
+   "name": "柯进",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15909,
+ "page_range": "329-330"
+}

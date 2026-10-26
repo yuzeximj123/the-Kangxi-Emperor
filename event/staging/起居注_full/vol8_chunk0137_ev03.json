@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "松柱等查明朝会典及礼部现行例，善字画之人无给谥号之例，唯康熙二十三年沈茎特旨给文恪谥号，具折请旨，康熙帝命问九卿。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "王原祁",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "沈茎",
+   "role": "原任詹事加礼部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13703,
+ "page_range": "285-286"
+}

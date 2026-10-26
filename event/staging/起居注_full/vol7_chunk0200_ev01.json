@@ -1,0 +1,20 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "吏部题请追夺以贪酷革职的原任江南苏松粮道贾朴等封诰，康熙帝命贾朴封诰从宽免追夺，余依议。",
+ "people": [
+  {
+   "name": "贾朴",
+   "role": "原任江南苏松粮道"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20001,
+ "page_range": "411-412"
+}

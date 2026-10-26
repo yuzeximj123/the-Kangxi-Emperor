@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "初三日庚辰",
+ "event_role": "朝见受贺",
+ "summary": "河督张鹏翮、河北总兵官王应统请安来朝，康熙帝命张鹏翮入行宫问河工事，事毕赐食。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "河督"
+  },
+  {
+   "name": "王应统",
+   "role": "河北总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3330,
+ "page_range": "77-78"
+}

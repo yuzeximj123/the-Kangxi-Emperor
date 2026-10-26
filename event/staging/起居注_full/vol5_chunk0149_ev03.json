@@ -1,0 +1,36 @@
+{
+ "reign_year": 35,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "阿兰泰等奏问靳辅应否建祠，康熙帝以董安国系靳辅属官、汉人结党为由，批知道了发出。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "靳辅",
+   "role": "已故河道总督"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "董安国",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14903,
+ "page_range": "308-309"
+}

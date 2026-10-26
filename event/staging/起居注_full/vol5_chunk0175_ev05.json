@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十一日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命亲近侍卫关保传谕大学士阿兰泰，各省大臣来京陛见者不必至塞外请安，着在京等候，并移文京师。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "折固思台",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17505,
+ "page_range": "360-361"
+}

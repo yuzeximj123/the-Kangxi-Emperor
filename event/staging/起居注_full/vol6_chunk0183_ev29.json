@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "初八日",
+ "event_role": "人事任免",
+ "summary": "吏部题詹事府正詹徐秉义升任员缺开列少詹陈论等，康熙帝命徐秉义仍兼管詹事府事。",
+ "people": [
+  {
+   "name": "徐秉义",
+   "role": "詹事府正詹"
+  },
+  {
+   "name": "陈论",
+   "role": "少詹"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18329,
+ "page_range": "376-377"
+}

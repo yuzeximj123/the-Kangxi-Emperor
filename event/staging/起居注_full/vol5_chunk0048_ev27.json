@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": "十二日丙子",
+ "event_role": "人事任免",
+ "summary": "吏部题补户部尚书王尽员缺，康熙帝命服阅之陈廷敬补授户部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "候补官员"
+  },
+  {
+   "name": "王尽",
+   "role": "户部尚书"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4827,
+ "page_range": "106-107"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十二日戊实",
+ "event_role": "人事任免",
+ "summary": "大学士等为日讲员缺引见多奇、邬黑，康熙帝询问后命多奇补充日讲官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "多奇",
+   "role": "正黄旗侍读学士"
+  },
+  {
+   "name": "邬黑",
+   "role": "镶黄旗侍讲学士"
+  },
+  {
+   "name": "顾巴代",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1205,
+ "page_range": "59-60"
+}

@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十五年五月二十日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 20,
+ "event_role": "其他",
+ "summary": "福建水师提督施世騄遵旨奏闻有关渔船需索事宜，请求圣裁。",
+ "people": [
+  {
+   "name": "施世騄",
+   "role": "福建水师提督"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "福建水師提督施世騄奏為遵旨奏聞伏【乞】需索漁船摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "124",
+ "order_index": 100
+}

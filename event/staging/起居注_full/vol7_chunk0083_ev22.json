@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十四日乙丑",
+ "event_role": "议政听政",
+ "summary": "马齐奏报询问总督华显、巡抚齐世武关于甘肃兵丁补给钱粮事，康熙帝令行文详问该部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "华显",
+   "role": "总督"
+  },
+  {
+   "name": "齐世武",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8322,
+ "page_range": "177-178"
+}

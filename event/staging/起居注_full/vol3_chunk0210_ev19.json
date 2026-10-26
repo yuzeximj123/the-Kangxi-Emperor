@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "初二日庚成",
+ "event_role": "其他",
+ "summary": "康熙帝赐朝鲜国王李灶备鞍马二匹、表里织二十匹、银一千两，正使郎善君李焙、副使金德远等赐马、纳级、银两、布匹有差。",
+ "people": [
+  {
+   "name": "李灶",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "李焙",
+   "role": "正使郎善君"
+  },
+  {
+   "name": "金德远",
+   "role": "副使议政府右参赞"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21019,
+ "page_range": "455-456"
+}

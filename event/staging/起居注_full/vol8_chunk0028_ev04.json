@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "正红旗包衣陈世杰等殴打二哥致死，裤袜等逃脱，康熙令交部限一月严拿审结，迟延则议处。",
+ "people": [
+  {
+   "name": "陈世杰",
+   "role": "闲散"
+  },
+  {
+   "name": "二哥",
+   "role": "死者"
+  },
+  {
+   "name": "裤袜",
+   "role": "在逃"
+  },
+  {
+   "name": "老哥",
+   "role": "在逃"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2804,
+ "page_range": "67-68"
+}

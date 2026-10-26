@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "二十六日庚午",
+ "event_role": "军务",
+ "summary": "湖广提督俞益谟题请亲赴镇筸地方看视苗民情状，康熙帝谕此事尚早，曾谕赵申乔待其题奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俞益谟",
+   "role": "湖广提督"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "镇筸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6614,
+ "page_range": "143-144"
+}

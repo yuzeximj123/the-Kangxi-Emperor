@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "初六日乙酉",
+ "event_role": "弹劾参奏",
+ "summary": "户部题参浙江、江南、江西督抚及各官不速交兑开帮致漕船守冻，请将迟误各官题参。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8223,
+ "page_range": "207-208"
+}

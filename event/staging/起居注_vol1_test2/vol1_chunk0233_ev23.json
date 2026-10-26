@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初七日丙实",
+ "event_role": "人事任免",
+ "summary": "吏部题湖广巡抚员缺开列应升官员，康熙帝询问侍郎张问政患风疾是否属实。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张问政",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23323,
+ "page_range": "523-524"
+}

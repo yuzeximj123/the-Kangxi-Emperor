@@ -1,0 +1,34 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "初七日丙申",
+ "event_role": "司法案件",
+ "summary": "大学士松柱以谋杀表兄张虎臣之高明道等即行正法事问刑部，因异姓之亲与族亲不同，康熙帝命九卿、詹事、科、道会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "高明道",
+   "role": "案犯"
+  },
+  {
+   "name": "高明应",
+   "role": "案犯"
+  },
+  {
+   "name": "张虎臣",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14014,
+ "page_range": "291-292"
+}

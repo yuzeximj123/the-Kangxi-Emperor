@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "初三日王扶",
+ "event_role": "谕旨决策",
+ "summary": "都察院左都御史陈廷敬、兵部侍郎佛伦启奏钱局一年差满事，康熙帝问钱价不能减之故，命问九卿来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "佛伦",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8606,
+ "page_range": "207-208"
+}

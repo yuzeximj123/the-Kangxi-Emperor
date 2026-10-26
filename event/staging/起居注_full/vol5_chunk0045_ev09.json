@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "十八日",
+ "event_role": "请安谢恩",
+ "summary": "陕西按察使吉吉理陛辞请训，上谕以洁己效力，吉吉理奏谢皇上养育之恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吉吉理",
+   "role": "陕西按察使"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4509,
+ "page_range": "100-101"
+}

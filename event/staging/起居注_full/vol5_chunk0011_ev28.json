@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "十六日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称傅继祖诚能勤加教习、两三日一次考试，即七八岁童子教之学字三年亦可有成，翰林院衙门原极清贵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅继祖",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1128,
+ "page_range": "32-33"
+}

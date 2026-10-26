@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "十四日丁丑",
+ "event_role": "人事任免",
+ "summary": "吏部题侍郎张士村升任员缺开列焦簿瑞等，康熙询问李天和栈，明珠等称圣见甚当，命李天和栈调补吏部侍郎。",
+ "people": [
+  {
+   "name": "张士村",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "焦簿瑞",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "李天和栈",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4716,
+ "page_range": "129-130"
+}

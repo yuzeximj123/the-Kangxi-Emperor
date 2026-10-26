@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "二十一日辛已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝指出太庙祭毕执事官捧福胙从两神位间趋走不合尊祖敬宗之意，命学士席尔达等查旧例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "葛思泰",
+   "role": "太常卿"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7101,
+ "page_range": "177-178"
+}

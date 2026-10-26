@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 12,
+ "day_text": "十一日辛卯",
+ "event_role": "起居注官记录",
+ "summary": "记是日起居注官徐元梦、汤右曾、华色、阿尔赛、海宝。",
+ "people": [
+  {
+   "name": "徐元梦",
+   "role": "起居注官"
+  },
+  {
+   "name": "汤右曾",
+   "role": "起居注官"
+  },
+  {
+   "name": "华色",
+   "role": "起居注官"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "起居注官"
+  },
+  {
+   "name": "海宝",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22723,
+ "page_range": "465-466"
+}

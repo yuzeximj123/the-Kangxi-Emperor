@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝阅违式、沈琪等三人之卷，以空白、错字多、文章不堪，命俱革去进士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈琪",
+   "role": "举子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5604,
+ "page_range": "123-124"
+}

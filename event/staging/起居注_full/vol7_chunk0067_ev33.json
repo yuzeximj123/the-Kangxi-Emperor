@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "十五日戊子",
+ "event_role": "其他",
+ "summary": "康熙帝赐诸大臣、侍卫、喀喇沁王扎西额驸噶尔藏食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "扎西",
+   "role": "喀喇沁王"
+  },
+  {
+   "name": "噶尔藏",
+   "role": "额驸"
+  }
+ ],
+ "places": [
+  "喀喇沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6733,
+ "page_range": "145-146"
+}

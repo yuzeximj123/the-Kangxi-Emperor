@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "初九日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "大学士松柱等以折本请旨，康熙帝批评陈玉条奏皆现行例内之事，空谈无益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永蒙",
+   "role": "大学士"
+  },
+  {
+   "name": "王找",
+   "role": "大学士"
+  },
+  {
+   "name": "陈玉",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11604,
+ "page_range": "243-244"
+}

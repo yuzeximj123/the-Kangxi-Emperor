@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "福建水师提督吴英奏海坛、烽火门二游击员缺，请简授，康熙命问李光地、蓝理具奏。",
+ "people": [
+  {
+   "name": "吴英",
+   "role": "福建水师提督"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "蓝理",
+   "role": "总兵"
+  }
+ ],
+ "places": [
+  "海坛",
+  "烽火门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8501,
+ "page_range": "181-182"
+}

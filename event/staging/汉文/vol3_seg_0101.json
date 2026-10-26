@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十年正月",
+ "reign_year": 50,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "浙江巡抚王度昭陛辞离京逾三月，于宁波四次修摺恭请圣安，差家人曹鹏赍奏，朱批朕安。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚，奏请圣安者"
+  },
+  {
+   "name": "曹鹏",
+   "role": "王度昭家人，赍奏差官"
+  }
+ ],
+ "places": [
+  "浙江",
+  "宁波"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，表示自己安好。",
+ "source_title": "浙江巡撫王度昭奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "798",
+ "order_index": 101
+}

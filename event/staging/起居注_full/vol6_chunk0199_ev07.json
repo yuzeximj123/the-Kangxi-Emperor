@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "十一日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士，去年曾令郭隆丈量田地速行查明具奏，今已经年尚未具题，着移文问明郭隆具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭隆",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19907,
+ "page_range": "408-409"
+}

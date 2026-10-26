@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初四日癸巳",
+ "event_role": "司法案件",
+ "summary": "大学士伊桑阿等奏遵旨问九卿，九卿称赵山议罪甚当，康熙帝令从宽免交刑部，着九卿会同从轻议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "赵山",
+   "role": "督捕侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8314,
+ "page_range": "176-177"
+}

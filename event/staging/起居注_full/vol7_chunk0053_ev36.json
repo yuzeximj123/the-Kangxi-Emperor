@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "十五日庚申",
+ "event_role": "皇帝行止",
+ "summary": "午时康熙帝至畅春园，诣皇太后问安，驻跸畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5336,
+ "page_range": "117-118"
+}

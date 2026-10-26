@@ -1,0 +1,23 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十二日戊戌",
+ "event_role": "贸易漕运",
+ "summary": "礼部覆朝鲜国王请于中江贸易米粮，康熙念朝鲜荒歉，命将盛京积贮米粮运至凤凰城贸易，交礼部确问具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜",
+  "中江",
+  "盛京",
+  "凤凰城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2015,
+ "page_range": "50-51"
+}

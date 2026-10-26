@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "十九日乙丑",
+ "event_role": "朝见受贺",
+ "summary": "河间府知府许天榴、沧州城守尉常明、河间营守备张正国等来朝见。",
+ "people": [
+  {
+   "name": "许天榴",
+   "role": "河间府知府"
+  },
+  {
+   "name": "常明",
+   "role": "沧州城守尉"
+  },
+  {
+   "name": "张正国",
+   "role": "河间营守备"
+  }
+ ],
+ "places": [
+  "河间府",
+  "沧州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4901,
+ "page_range": "109-110"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": "二十日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部题员外郎张絮等六员补授道府，康熙帝命刘深等依议用，张正休致回籍，河东道员缺选择具奏。",
+ "people": [
+  {
+   "name": "张絮",
+   "role": "员外郎"
+  },
+  {
+   "name": "刘深",
+   "role": "官员"
+  },
+  {
+   "name": "张正",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "河东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6317,
+ "page_range": "136-137"
+}

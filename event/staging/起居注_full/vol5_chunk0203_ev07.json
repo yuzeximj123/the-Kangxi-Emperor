@@ -1,0 +1,40 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝颁敕王布忒达阿布地，宽宥其前过，令擒送济隆库图克图、解送噶尔丹之女，并择定班禅来期。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王布忒达阿布地",
+   "role": "受敕者"
+  },
+  {
+   "name": "济隆库图克图",
+   "role": "达赖喇嘛特使"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "保住",
+   "role": "正使"
+  },
+  {
+   "name": "萨哈连",
+   "role": "副使"
+  }
+ ],
+ "places": [
+  "呼户诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20307,
+ "page_range": "416-417"
+}

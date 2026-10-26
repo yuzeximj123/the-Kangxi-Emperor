@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "初八日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝询问记注官朱马泰学士库勒纳是否到家及病情，朱马泰奏其昨已到家、病稍愈但体弱未能行动。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱马泰",
+   "role": "记注官"
+  },
+  {
+   "name": "库勒纳",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9506,
+ "page_range": "233-234"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "初二日丙成",
+ "event_role": "司法案件",
+ "summary": "礼部题朝鲜国王李焞未严禁本国人民，致韩得完等三十一人违禁渡江偷采人参并打伤画地图人员，应罚银二万两，康熙帝命依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "韩得完",
+   "role": "违禁人犯"
+  }
+ ],
+ "places": [
+  "朝鲜",
+  "江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13803,
+ "page_range": "311-312"
+}

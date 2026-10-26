@@ -1,0 +1,20 @@
+{
+ "reign_year": 17,
+ "month": 7,
+ "day_text": "初一日己北",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以孟秋躬诣太庙致祭，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16436,
+ "page_range": "385-386"
+}

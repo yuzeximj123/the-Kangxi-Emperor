@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "十七日辛巳",
+ "event_role": "河工水利",
+ "summary": "康熙帝询问黄河改移北移之事及当地人民意见，常绥奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常绥",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "清河县",
+  "中河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13102,
+ "page_range": "272-273"
+}

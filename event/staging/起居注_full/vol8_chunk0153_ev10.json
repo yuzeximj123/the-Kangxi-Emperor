@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题打死妻之喀郎凯拟绞监候，康熙令依议且秋审时毋得宽免。",
+ "people": [
+  {
+   "name": "喀郎凯",
+   "role": "案犯"
+  },
+  {
+   "name": "西伯",
+   "role": "相关人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15310,
+ "page_range": "317-318"
+}

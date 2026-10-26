@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥责和尔等不知河务却妄言，命其回京，并令传谕刑部尚书图纳、左都御史马齐记于起居注。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和尔等",
+   "role": "大臣"
+  },
+  {
+   "name": "图纳",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "马齐",
+   "role": "都察院左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2700,
+ "page_range": "66-67"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "十六日乙刻",
+ "event_role": "人事任免",
+ "summary": "康熙帝召大学士马齐，谕分司敦拜护守河堤甚善，着额外补授侍读学士仍管分司事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "敦拜",
+   "role": "分司"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17611,
+ "page_range": "362-363"
+}

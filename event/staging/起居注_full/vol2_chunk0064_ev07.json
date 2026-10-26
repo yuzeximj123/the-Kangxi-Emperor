@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "初二日",
+ "event_role": "人事任免",
+ "summary": "兵部题补昭陵噶喇大员缺，拟韩楚汉、努尔忒，康熙帝以其庸常，命该将军另选陵官另拟具奏。",
+ "people": [
+  {
+   "name": "韩楚汉",
+   "role": "拟正佐领"
+  },
+  {
+   "name": "努尔忒",
+   "role": "拟陪"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "昭陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6407,
+ "page_range": "171-172"
+}

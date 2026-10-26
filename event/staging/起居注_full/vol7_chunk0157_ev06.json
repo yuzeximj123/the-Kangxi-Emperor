@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝追述张鹏翮任总河时训谕其守成规遵训而行，并述改置仲庄闸于杨家闸、亲持木锤指授修御坝，坝成后清黄二水会流入海。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "海青",
+   "role": "侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "仲庄闸",
+  "杨家闸",
+  "御坝"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15706,
+ "page_range": "325-326"
+}

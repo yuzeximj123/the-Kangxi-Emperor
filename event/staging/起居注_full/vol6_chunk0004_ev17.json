@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": "十六日甲午",
+ "event_role": "议政听政",
+ "summary": "戌时殿试读卷官伊桑阿等进呈策试贡士十卷请旨，康熙灯下详览并评论河工对策。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 417,
+ "page_range": "18-19"
+}

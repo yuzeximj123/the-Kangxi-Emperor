@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "大学士马齐等以抄写记注之陈璋、赵能诏问九卿，九卿请交刑部严加治罪，康熙令从宽免交刑部，革职仍在原处效力行走。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "陈璋",
+   "role": "起居注抄写人员"
+  },
+  {
+   "name": "赵能诏",
+   "role": "起居注抄写人员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18506,
+ "page_range": "381-382"
+}

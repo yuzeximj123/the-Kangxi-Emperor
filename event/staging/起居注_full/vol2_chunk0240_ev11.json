@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十七日甲申",
+ "event_role": "谕旨决策",
+ "summary": "就广东督粮道蒋伊捐纳加级事，康熙帝以其贫寒何能捐纳多金，命察蒋伊为御史时条陈本章来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蒋伊",
+   "role": "广东督粮道"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24011,
+ "page_range": "523-524"
+}

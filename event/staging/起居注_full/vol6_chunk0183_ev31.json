@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "初八日",
+ "event_role": "司法案件",
+ "summary": "刑部题周二喜醉后杀兄拟正法，其母罗氏呈留养亲，康熙帝命交九卿议奏。",
+ "people": [
+  {
+   "name": "周二喜",
+   "role": "犯人"
+  },
+  {
+   "name": "罗氏",
+   "role": "周二喜之母"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18331,
+ "page_range": "376-377"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "十九日壬午",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫，讲官常书、孙在丰、归允肃进讲神也者妙万物而为言者也一章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4813,
+ "page_range": "131-132"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官花色、张廷玉记录。",
+ "people": [
+  {
+   "name": "花色",
+   "role": "起居注官"
+  },
+  {
+   "name": "张廷玉",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16308,
+ "page_range": "337-338"
+}

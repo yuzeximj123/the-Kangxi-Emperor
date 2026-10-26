@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十七日戊午",
+ "event_role": "军务",
+ "summary": "康熙帝幸城内教场，率皇太子、诸皇子及善射侍卫射，发矢皆中，又阅西安驻防官兵射，记其善射者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "城内教场",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8107,
+ "page_range": "173-174"
+}

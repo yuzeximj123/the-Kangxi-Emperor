@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十五年十九日",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "癸酉",
+ "event_role": "人事任免",
+ "summary": "吏部奏刑部尚书员缺，康熙帝命带革职衔以阿山补授刑部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安布禄",
+   "role": "刑部尚书（原任）"
+  },
+  {
+   "name": "耿格",
+   "role": "都察院都御史"
+  },
+  {
+   "name": "阿山",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3144
+}

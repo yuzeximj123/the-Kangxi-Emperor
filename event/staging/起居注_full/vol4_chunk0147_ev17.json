@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 4,
+ "day_text": "十五日庚午",
+ "event_role": "军务",
+ "summary": "康熙帝令古北口总兵官蔡元标下官兵布阵，观其军容整齐有序并嘉善之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蔡元",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14717,
+ "page_range": "306-307"
+}

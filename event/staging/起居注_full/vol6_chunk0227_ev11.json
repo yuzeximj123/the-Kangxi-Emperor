@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十四日丁酉",
+ "event_role": "人事任免",
+ "summary": "吏部题甘肃巡抚喀拜员缺，康熙帝命齐世武调甘肃巡抚，华显员缺将应升人员开列呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀拜",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "齐世武",
+   "role": "调任甘肃巡抚"
+  },
+  {
+   "name": "华显",
+   "role": "员缺官员"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22711,
+ "page_range": "464-465"
+}

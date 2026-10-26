@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十八日甲辰",
+ "event_role": "军务",
+ "summary": "议叙广东韶州击败马宝、广西新村击破吴世琮军功，康熙帝令各加一等。",
+ "people": [
+  {
+   "name": "马宝",
+   "role": "逆贼"
+  },
+  {
+   "name": "吴世琮",
+   "role": "逆贼"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东韶州",
+  "广西新村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13220,
+ "page_range": "299-300"
+}

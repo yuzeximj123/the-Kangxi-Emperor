@@ -1,0 +1,34 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "初一日戊申",
+ "event_role": "人事任免",
+ "summary": "康熙念鳌拜功劳显著应给世职，但其子纳称辅所生达里善、达福行止不端不可袭，应于诸兄弟中承袭。",
+ "people": [
+  {
+   "name": "鳌拜",
+   "role": "巴图鲁大臣"
+  },
+  {
+   "name": "纳称辅",
+   "role": "鳌拜之子"
+  },
+  {
+   "name": "达里善",
+   "role": "鳌拜之孙"
+  },
+  {
+   "name": "达福",
+   "role": "鳌拜之孙"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1320,
+ "page_range": "37-38"
+}

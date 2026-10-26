@@ -1,0 +1,39 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "孙思克、博济等奏报所领绿旗兵及满汉兵因风雨马匹迟误落后，议选兵赶赴大兵同行并分运米粮、留兵看守。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "博济",
+   "role": "将军"
+  },
+  {
+   "name": "西尔哈达",
+   "role": "西安副都统"
+  },
+  {
+   "name": "祖良壁",
+   "role": "西安副都统"
+  },
+  {
+   "name": "张宪载",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "翁金",
+  "土喇",
+  "西安",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12100,
+ "page_range": "252-253"
+}

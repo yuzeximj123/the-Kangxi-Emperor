@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "二十八日己卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝念徐元文纂修《明史》已成大半，命从宽免革职，降四级仍候补用，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元文",
+   "role": "原任左都御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19413,
+ "page_range": "423-424"
+}

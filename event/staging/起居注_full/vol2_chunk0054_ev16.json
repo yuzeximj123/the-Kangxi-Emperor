@@ -1,0 +1,33 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十一日",
+ "event_role": "人事任免",
+ "summary": "吏部题补顺天府尹，正拟王继祯、陪拟张吉午，康熙询张吉午为人后命另拟妥再奏。",
+ "people": [
+  {
+   "name": "王继祯",
+   "role": "太仆寺正卿"
+  },
+  {
+   "name": "张吉午",
+   "role": "左通政"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺天府",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5416,
+ "page_range": "151-152"
+}

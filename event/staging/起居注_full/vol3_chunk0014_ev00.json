@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "会推革职杭州副都统俄申巴图鲁员缺，拟正朱山、拟陪傅哈，康熙询问后命朱山补授副都统。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "朱山",
+   "role": "镶蓝旗总尉，拟正"
+  },
+  {
+   "name": "傅哈",
+   "role": "正黄旗戏骑参领，拟陪"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1400,
+ "page_range": "63-64"
+}

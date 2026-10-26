@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "初六日丁雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕尚书马齐等，数年来取中武进士无所成就，今年中式武进士情愿为侍卫效力者问明具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "林本植",
+   "role": "武进士"
+  },
+  {
+   "name": "王化行",
+   "role": "武进士"
+  },
+  {
+   "name": "张英奇",
+   "role": "武进士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16419,
+ "page_range": "340-341"
+}

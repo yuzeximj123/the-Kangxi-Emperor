@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "议恤被叛逆喀尔喀所害的博尔和代，康熙命照副都统例赐恤议奏。",
+ "people": [
+  {
+   "name": "博尔和代",
+   "role": "牧地方参领品级加二级、副都统"
+  },
+  {
+   "name": "吴丹",
+   "role": "差往厄鲁特官员"
+  },
+  {
+   "name": "塞尔济",
+   "role": "差往厄鲁特官员"
+  }
+ ],
+ "places": [
+  "厄鲁特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14400,
+ "page_range": "300-301"
+}

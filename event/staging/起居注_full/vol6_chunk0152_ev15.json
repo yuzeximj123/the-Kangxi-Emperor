@@ -1,0 +1,48 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": "初六日戊戌",
+ "event_role": "人事任免",
+ "summary": "康熙御保和殿简选庶吉士，选张成遇等四十三人为庶吉士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "张英",
+   "role": "大学士"
+  },
+  {
+   "name": "张成遇",
+   "role": "进士"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15215,
+ "page_range": "314-315"
+}

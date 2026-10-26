@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初五日辛已",
+ "event_role": "司法案件",
+ "summary": "兵部题招抚海贼候选知县葡文等所乘船水手林兴等议赏银三十两，康熙帝以系错雇命发还原本改正再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葡文",
+   "role": "候选知县"
+  },
+  {
+   "name": "林兴",
+   "role": "水手"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1907,
+ "page_range": "49-50"
+}

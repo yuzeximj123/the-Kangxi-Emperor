@@ -1,0 +1,36 @@
+{
+ "reign_year": 27,
+ "month": 12,
+ "day_text": "初五日甲扶",
+ "event_role": "人事任免",
+ "summary": "吏部题御史刘维祯所题知府员缺应急补授议不准行，康熙帝与郭玫、王熙议后决定开列翰林及汉军汉人郎中、同知名引见补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘维祯",
+   "role": "御史"
+  },
+  {
+   "name": "郭玫",
+   "role": "学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4923,
+ "page_range": "110-111"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "四川巡抚年效尧题请捐银买米运赴松潘并修筑城垣，康熙帝嘉奖其实心办理，命暂停修筑城垣、不必添兵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "年效尧",
+   "role": "四川巡抚"
+  }
+ ],
+ "places": [
+  "松潘",
+  "黄胜关",
+  "打箭炉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18105,
+ "page_range": "373-374"
+}

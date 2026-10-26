@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请原任太原府知府赵凤诏欠赃银、查变家产及赵申乔家产还项一案，康熙令将前议立斩之本查出并具奏。",
+ "people": [
+  {
+   "name": "赵凤诏",
+   "role": "原任太原府知府"
+  },
+  {
+   "name": "赵申乔",
+   "role": "赵凤诏之父"
+  }
+ ],
+ "places": [
+  "太原府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19205,
+ "page_range": "395-396"
+}

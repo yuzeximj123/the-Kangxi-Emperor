@@ -1,0 +1,38 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": "初二日辛未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论都察院议处吏部误革知府卢腾龙等职一事，认为所议甚当，并论人有过错即宜承认，不可文饰。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "官员"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "图海",
+   "role": "大学士"
+  },
+  {
+   "name": "卢腾龙",
+   "role": "知府"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25008,
+ "page_range": "512-513"
+}

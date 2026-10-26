@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十四日丙子",
+ "event_role": "司法案件",
+ "summary": "刑部题盛京秋审缓决案内七十四、刘芳誉、高建一，康熙帝以其小刀戳死人情状可恶，本发还再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "七十四",
+   "role": "案犯"
+  },
+  {
+   "name": "刘芳誉",
+   "role": "案犯"
+  },
+  {
+   "name": "高建一",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11022,
+ "page_range": "231-232"
+}

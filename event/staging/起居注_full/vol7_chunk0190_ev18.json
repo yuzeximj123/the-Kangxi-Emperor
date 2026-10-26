@@ -1,0 +1,40 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十日乙亥",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题江南省缓决一案，康熙帝裁定汪氏等监候缓决，吴进改为可矜照例减等发落。",
+ "people": [
+  {
+   "name": "汪氏",
+   "role": "案犯"
+  },
+  {
+   "name": "戴三",
+   "role": "案犯"
+  },
+  {
+   "name": "倪端甫",
+   "role": "案犯"
+  },
+  {
+   "name": "杨凤",
+   "role": "案犯"
+  },
+  {
+   "name": "王楚珍",
+   "role": "案犯"
+  },
+  {
+   "name": "吴进",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "江南省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19018,
+ "page_range": "391-392"
+}

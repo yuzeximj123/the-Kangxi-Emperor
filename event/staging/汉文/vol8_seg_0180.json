@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十八年四月二十六日",
+ "reign_year": 58,
+ "month": 4,
+ "day": 26,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏谢康熙帝赐药赐人参、体恤病体及恩及子孙，并报四月二十三日已回苏州、九十二岁老母欣喜迎孙。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏折具奏人"
+  },
+  {
+   "name": "李鼎",
+   "role": "李煦之子，蒙恩受恤"
+  },
+  {
+   "name": "文氏",
+   "role": "李煦之母，九十二岁"
+  },
+  {
+   "name": "邹氏",
+   "role": "李煦家中长辈"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2755",
+ "order_index": 180
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "二十三日乙未",
+ "event_role": "人事任免",
+ "summary": "西安正黄旗防御萨尔图员缺，该督咨送蓝翎萨尔泰拟正，将军博济保荐骁骑校默拟陪。",
+ "people": [
+  {
+   "name": "萨尔图",
+   "role": "西安正黄旗防御"
+  },
+  {
+   "name": "萨尔泰",
+   "role": "蓝翎"
+  },
+  {
+   "name": "博济",
+   "role": "将军"
+  },
+  {
+   "name": "默",
+   "role": "骁骑校"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4830,
+ "page_range": "106-107"
+}

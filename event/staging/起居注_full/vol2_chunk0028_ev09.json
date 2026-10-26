@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十一日丙申",
+ "event_role": "人事任免",
+ "summary": "兵部题补正红旗护军参领，康熙帝以阿哈尼堪屡奏军机详明，命即补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿哈尼堪",
+   "role": "一等护卫"
+  },
+  {
+   "name": "察尔奇",
+   "role": "佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2809,
+ "page_range": "99-100"
+}

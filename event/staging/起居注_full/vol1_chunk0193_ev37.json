@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 9,
+ "day_text": "二十四日丙辰",
+ "event_role": "司法案件",
+ "summary": "都统祖永烈等因祖泽清背叛自行引罪，康熙帝以其不与祖泽清同在一所、不知反谋，命不必坐罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "祖永烈",
+   "role": "都统"
+  },
+  {
+   "name": "祖泽清",
+   "role": "叛臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19337,
+ "page_range": "443-444"
+}

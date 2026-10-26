@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "十二日成辰",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门覆浙江巡抚徐元梦题项三九打死小功服叔项三百拟斩一案，康熙改为斩监候秋后处决。",
+ "people": [
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "项三九",
+   "role": "罪犯"
+  },
+  {
+   "name": "项三百",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16511,
+ "page_range": "341-342"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十二日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部遵旨题补四川官员，康熙帝以四川新经开复、用人最急，令速行推补，并将赵良栋请补官员本一并再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵良栋",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22907,
+ "page_range": "515-516"
+}

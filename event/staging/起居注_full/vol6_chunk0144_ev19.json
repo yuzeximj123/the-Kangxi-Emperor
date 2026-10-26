@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "十四日本未",
+ "event_role": "议政听政",
+ "summary": "康熙御畅春园内渊宁居听政，简亲王雅布入奏宗人府事。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "雅布",
+   "role": "简亲王"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "渊宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14419,
+ "page_range": "298-299"
+}

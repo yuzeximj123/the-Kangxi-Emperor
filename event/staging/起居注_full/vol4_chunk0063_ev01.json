@@ -1,0 +1,29 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕王新命中河工尚未成，须留心善后事宜，随处修治遥堤、减水坝，并赞靳辅修挑水坝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "大臣"
+  },
+  {
+   "name": "靳辅",
+   "role": "河臣"
+  }
+ ],
+ "places": [
+  "中河",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6301,
+ "page_range": "138-139"
+}

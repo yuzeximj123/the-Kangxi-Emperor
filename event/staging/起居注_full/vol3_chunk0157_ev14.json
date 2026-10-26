@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初二日乙卯",
+ "event_role": "弹劾参奏",
+ "summary": "川陕总督希福出巡四川题报回署日期并称巡抚姚缔钻居官甚善，康熙斥其瞻徇情面，命拟严旨来奏。",
+ "people": [
+  {
+   "name": "希福",
+   "role": "川陕总督"
+  },
+  {
+   "name": "姚缔钻",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15714,
+ "page_range": "349-350"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "二十七日辛酉",
+ "event_role": "朝见受贺",
+ "summary": "赐朝鲜国王李焞进贡礼物，正使朴绚成、副使吴道一及书状官等鞍马、缎匹、银两等物。",
+ "people": [
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "朴绚成",
+   "role": "正使锦平尉"
+  },
+  {
+   "name": "吴道一",
+   "role": "副使议政府参赞"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4715,
+ "page_range": "104-105"
+}

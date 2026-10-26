@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初三日乙卯",
+ "event_role": "人事任免",
+ "summary": "传谕镇国公宗室蒲折等，保定府防御布拉克骑射不堪着革职。",
+ "people": [
+  {
+   "name": "蒲折",
+   "role": "镇国公宗室"
+  },
+  {
+   "name": "布拉克",
+   "role": "保定府防御"
+  }
+ ],
+ "places": [
+  "保定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 417,
+ "page_range": "19-20"
+}

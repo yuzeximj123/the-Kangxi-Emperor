@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初三日癸丑",
+ "event_role": "司法案件",
+ "summary": "兵部议副将张陈武遣家人控告官兵被苗人擒去事，康熙帝命抵销加级纪录从宽免降调。",
+ "people": [
+  {
+   "name": "张陈武",
+   "role": "副将"
+  },
+  {
+   "name": "郭静",
+   "role": "总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1712,
+ "page_range": "45-46"
+}

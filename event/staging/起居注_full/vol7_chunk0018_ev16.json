@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初八日戊午",
+ "event_role": "军务",
+ "summary": "兵部覆总督华显题游击任世本员缺拟补守备治大正不准，康熙帝命照华显题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "华显",
+   "role": "总督"
+  },
+  {
+   "name": "任世本",
+   "role": "游击"
+  },
+  {
+   "name": "治大正",
+   "role": "守备"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1816,
+ "page_range": "47-48"
+}

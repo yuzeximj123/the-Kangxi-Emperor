@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "初六日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "户部侍郎穆丹奏天津临清钱价及五城换用小钱事，康熙帝命将五城官员、九门提督、府尹交都察院严加议处。",
+ "people": [
+  {
+   "name": "穆丹",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "天津",
+  "临清",
+  "五城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11909,
+ "page_range": "249-250"
+}

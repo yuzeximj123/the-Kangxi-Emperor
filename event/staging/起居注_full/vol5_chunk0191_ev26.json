@@ -1,0 +1,21 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十七日戊成",
+ "event_role": "谕旨决策",
+ "summary": "奉旨情愿效力之十三人着自湖滩河朔以至宁夏均分为十三站，将安站之期移知大将军费扬古，其赎罪五十七人俱着自边外前往。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "湖滩河朔",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19126,
+ "page_range": "392-393"
+}

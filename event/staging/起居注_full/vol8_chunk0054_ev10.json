@@ -1,0 +1,30 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": "二十四日丙申",
+ "event_role": "司法案件",
+ "summary": "覆请刑部所题私创人参李二、王三、李四等拟绞监候秋后处决；康熙帝以监内此类罪犯多、秋审释放后仍为奸，命割去脚筋。",
+ "people": [
+  {
+   "name": "李二",
+   "role": "案犯"
+  },
+  {
+   "name": "王三",
+   "role": "案犯"
+  },
+  {
+   "name": "李四",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5410,
+ "page_range": "119-120"
+}

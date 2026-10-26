@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 1,
+ "day_text": "二十九日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕赵申乔浙省财赋之区钱粮渐多蒙混，当秉公察核使库帑不致亏空、小民不致泣累。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "浙江布政使"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19016,
+ "page_range": "390-391"
+}

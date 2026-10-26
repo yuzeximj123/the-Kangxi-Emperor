@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十一日甲实",
+ "event_role": "人事任免",
+ "summary": "兵部题补爱浑地方镶蓝旗防御等官及骁骑校，康熙帝称原任巡抚张德地素行乖张、极酷虚之人，命改为管理船只水手微员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张德地",
+   "role": "原任巡抚"
+  }
+ ],
+ "places": [
+  "爱浑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4017,
+ "page_range": "115-116"
+}

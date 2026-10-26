@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十六年十二月二十一日",
+ "reign_year": 46,
+ "month": 12,
+ "day": 21,
+ "event_role": "请安谢恩",
+ "summary": "偏沅巡抚赵申乔谢赏鹿肉等物，并奏报湖南雨顺米贱、南岳殿工告竣。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "奏报人"
+  },
+  {
+   "name": "赵熊诏",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "湖南",
+  "南岳"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "279",
+ "source_title": "偏沅巡抚赵申乔奏谢赏赐食物并报湖南雨水米价折",
+ "order_index": 206
+}

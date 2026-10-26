@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "二十四日成实",
+ "event_role": "其他",
+ "summary": "申时康熙帝出行宫，率皇太子及善射人员射，续使诸王、贝勒、贝子、公射，又使段腾龙、马进良标下推升人员射。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "段腾龙",
+   "role": "三屯营副将"
+  },
+  {
+   "name": "马进良",
+   "role": "古北口提督管总兵官事"
+  }
+ ],
+ "places": [
+  "白润行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14124,
+ "page_range": "293-294"
+}

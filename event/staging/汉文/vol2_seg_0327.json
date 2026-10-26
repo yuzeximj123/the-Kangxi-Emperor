@@ -1,0 +1,32 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "管理两淮盐政张伯行奏报江南各地二麦收成分数，称淮徐邳及江淮扬徐等处麦收十分九分不等，苏松等府五月初雨泽调匀，合计所属米麦约有七八分收成。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "管理两淮盐政巡视两淮盐政监察御史"
+  }
+ ],
+ "places": [
+  "江南",
+  "淮",
+  "徐",
+  "邳",
+  "江淮",
+  "扬",
+  "徐",
+  "常镇",
+  "苏松"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "管理两淮盐政张伯行奏报二麦收成分数摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "906",
+ "order_index": 327
+}

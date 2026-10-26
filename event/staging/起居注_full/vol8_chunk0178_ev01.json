@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥刘荫枢所奏军前之事虚妄，称雪深米粮难运等语不实，粮已运到马亦肥壮，刘荫枢当惭愧。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "奏事官员"
+  },
+  {
+   "name": "颜布",
+   "role": "将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17801,
+ "page_range": "367-368"
+}

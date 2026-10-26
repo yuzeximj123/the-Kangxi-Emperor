@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "覆请原任提督管古北口总兵官马进良遗本，康熙帝称其效力多年，命查例具奏恤典。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "原任提督管古北口总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17903,
+ "page_range": "369-370"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝认为马世济为人颇佳，命调补吏部右侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马世济",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19200,
+ "page_range": "419-420"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "十七日丙申",
+ "event_role": "司法案件",
+ "summary": "康熙帝阅四雅图持小刀连戳刘老儿三刀致死案，着勾去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "四雅图",
+   "role": "罪犯"
+  },
+  {
+   "name": "刘老儿",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24114,
+ "page_range": "493-494"
+}

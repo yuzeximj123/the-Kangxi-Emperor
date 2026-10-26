@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "直隶巡抚李光地题参永定河分司吴禄礼、笔帖式济兰不竭力防河，应交部议处。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "吴禄礼",
+   "role": "永定河分司"
+  },
+  {
+   "name": "济兰",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10305,
+ "page_range": "216-217"
+}

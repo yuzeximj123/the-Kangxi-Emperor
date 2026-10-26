@@ -1,0 +1,20 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "二十日丙子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸中和尔博，谕今日天气阴星，马匹俱加意看护。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和尔博"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10809,
+ "page_range": "226-227"
+}

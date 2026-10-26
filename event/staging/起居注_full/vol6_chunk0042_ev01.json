@@ -1,0 +1,20 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝闻汾州府百姓荒歉，命询问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汾州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4201,
+ "page_range": "94-95"
+}

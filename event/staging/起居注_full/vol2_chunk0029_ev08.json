@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十四日己雍",
+ "event_role": "人事任免",
+ "summary": "议驻防杭州参领李九思请病及将军马哈达代题事，康熙帝令李九思以原职衔解任，马哈达依部议罚俸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李九思",
+   "role": "驻防杭州参领"
+  },
+  {
+   "name": "马哈达",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2908,
+ "page_range": "101-102"
+}

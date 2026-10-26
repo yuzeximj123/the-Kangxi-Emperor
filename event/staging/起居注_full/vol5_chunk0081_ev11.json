@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十八日",
+ "event_role": "朝见受贺",
+ "summary": "琉球国王尚贞进贡，正使翁敬德、副使华应瑞、都通事梁成要等照例赏赐绸匹等物。",
+ "people": [
+  {
+   "name": "尚贞",
+   "role": "琉球国王"
+  },
+  {
+   "name": "翁敬德",
+   "role": "正使耳目官"
+  },
+  {
+   "name": "华应瑞",
+   "role": "副使正议大夫"
+  },
+  {
+   "name": "梁成要",
+   "role": "都通事"
+  }
+ ],
+ "places": [
+  "琉球"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8111,
+ "page_range": "172-173"
+}

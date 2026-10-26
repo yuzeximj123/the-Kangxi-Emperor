@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 5,
+ "day_text": "二十五日甲子",
+ "event_role": "议政听政",
+ "summary": "康熙帝御前殿，讲官傅达礼、史鹤龄、编修张英进讲季文子三思而后行章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "讲官"
+  },
+  {
+   "name": "史鹤龄",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "编修"
+  }
+ ],
+ "places": [
+  "前殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4205,
+ "page_range": "141-142"
+}

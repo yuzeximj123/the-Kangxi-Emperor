@@ -1,0 +1,38 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问九卿布政、按察中居官好者，赵申乔荐举王朝恩、甘国壁，并奏甘国壁已由安徽按察使升山东布政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  },
+  {
+   "name": "王朝恩",
+   "role": "官员"
+  },
+  {
+   "name": "甘国壁",
+   "role": "山东布政使"
+  },
+  {
+   "name": "甘国斑",
+   "role": "河南按察使"
+  }
+ ],
+ "places": [
+  "安徽",
+  "山东",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8604,
+ "page_range": "183-184"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "二十五日丙午",
+ "event_role": "朝见受贺",
+ "summary": "山西偏关营参将王卓等、管粮同知王抑等来朝。",
+ "people": [
+  {
+   "name": "王卓",
+   "role": "山西偏关营参将"
+  },
+  {
+   "name": "王抑",
+   "role": "管粮同知"
+  }
+ ],
+ "places": [
+  "偏关营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19316,
+ "page_range": "396-397"
+}

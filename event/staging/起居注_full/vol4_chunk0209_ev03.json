@@ -1,0 +1,22 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "初一日丙子",
+ "event_role": "司法案件",
+ "summary": "刑部题将强盗刘二和尚即行正法，康熙帝令三法司核拟具奏，并令照绿旗阵伤例给赏受伤兵丁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘二和尚",
+   "role": "强盗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20903,
+ "page_range": "430-431"
+}

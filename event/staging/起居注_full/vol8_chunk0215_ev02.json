@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士马齐等以折本请旨，覆请户部议覆李煦所奏江宁苏州织造衙门欠银已全还，请将还完银两候部拨充军饷并严行运使全交。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "李煦",
+   "role": "苏州织造"
+  }
+ ],
+ "places": [
+  "江宁",
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21502,
+ "page_range": "441-442"
+}

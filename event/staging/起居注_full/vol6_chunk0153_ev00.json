@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝认为陶岱难信，但居官江南称职，命改补仓场总督，两江总督特行补授。",
+ "people": [
+  {
+   "name": "陶岱",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南",
+  "仓场",
+  "两江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15300,
+ "page_range": "316-317"
+}

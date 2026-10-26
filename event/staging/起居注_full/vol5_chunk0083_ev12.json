@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初四日癸巳",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清门听政，礼部尚书库勒纳将保举贤能员外郎顾拉哈等十二员拟补郎中员缺引见，帝令按历俸年久及出缺前后升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "顾拉哈",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8312,
+ "page_range": "176-177"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙伍拾伍年伍月貳拾伍日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 25,
+ "event_role": "请安谢恩",
+ "summary": "护理贵州巡抚布政使白潢奏报自己奉命护理贵州巡抚事务，因贵州地处边远、民苗杂处，责任重大，请求皇上训示并准其进呈奏折请示机宜。",
+ "people": [
+  {
+   "name": "白潢",
+   "role": "护理贵州巡抚事务、布政使"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "皇上表示自己安好，并准许白潢进呈奏折。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 54
+}

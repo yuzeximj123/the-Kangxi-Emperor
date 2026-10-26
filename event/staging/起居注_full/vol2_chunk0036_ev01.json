@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝谕大学士将赵之鼎内升、蒋伊外转。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵之鼎",
+   "role": "官员"
+  },
+  {
+   "name": "蒋伊",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3601,
+ "page_range": "115-116"
+}

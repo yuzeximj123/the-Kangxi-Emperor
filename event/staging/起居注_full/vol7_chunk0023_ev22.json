@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "初七日丙辰",
+ "event_role": "议政听政",
+ "summary": "户部覆山东巡抚王国昌条奏五事，议准官兵米石动库银采买秋收补还一款，康熙帝以部议有误命另议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2322,
+ "page_range": "57-58"
+}

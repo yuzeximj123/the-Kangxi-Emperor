@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问浙江将军副都统及前任将军郭丰居官如何，张鹏翮奏称查木杨平实、丹代居官亦好、郭丰历练而有性气。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "臣工"
+  },
+  {
+   "name": "查木杨",
+   "role": "浙江将军副都统"
+  },
+  {
+   "name": "丹代",
+   "role": "官员"
+  },
+  {
+   "name": "郭丰",
+   "role": "前任将军"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 504,
+ "page_range": "20-21"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "初十日已丑",
+ "event_role": "其他",
+ "summary": "康熙帝赐河南南涩总兵官郭文魁芝马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭文魁",
+   "role": "河南南涩总兵官"
+  }
+ ],
+ "places": [
+  "河南南涩"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19120,
+ "page_range": "394-395"
+}

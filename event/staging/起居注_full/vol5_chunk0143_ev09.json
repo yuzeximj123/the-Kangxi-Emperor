@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "初六日庚寅",
+ "event_role": "朝见受贺",
+ "summary": "赤城县知县张弱、守备张德化、雕鹗堡把总杨尚武来朝。",
+ "people": [
+  {
+   "name": "张弱",
+   "role": "知县"
+  },
+  {
+   "name": "张德化",
+   "role": "守备"
+  },
+  {
+   "name": "杨尚武",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "赤城县",
+  "雕鹗堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14309,
+ "page_range": "296-297"
+}

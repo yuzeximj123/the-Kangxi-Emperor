@@ -1,0 +1,59 @@
+{
+ "date_raw": "康熙肆拾柒年捌月初玖日",
+ "reign_year": 47,
+ "month": 8,
+ "day": 9,
+ "event_role": "司法案件",
+ "summary": "奏报西宁县拏获要犯李宾阳，并转报山东拏获王老先生等要犯押解浙江审理。",
+ "people": [
+  {
+   "name": "李宾阳",
+   "role": "涉及人物"
+  },
+  {
+   "name": "王正一",
+   "role": "涉及人物"
+  },
+  {
+   "name": "赵世显",
+   "role": "涉及人物"
+  },
+  {
+   "name": "王老先生",
+   "role": "涉及人物"
+  },
+  {
+   "name": "王孟发",
+   "role": "涉及人物"
+  },
+  {
+   "name": "张挺",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李朋来",
+   "role": "涉及人物"
+  },
+  {
+   "name": "何芬",
+   "role": "涉及人物"
+  },
+  {
+   "name": "吴成格",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "西宁县",
+  "郭家庄",
+  "汶上县",
+  "浙江省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示山东的奏折已到，已知悉此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "奏报拏获要犯事",
+ "order_index": 246
+}

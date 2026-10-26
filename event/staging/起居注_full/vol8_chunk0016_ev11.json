@@ -1,0 +1,23 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "十五日",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝由神武门出西直门至畅春园，诣谦尊堂问安，驻跸畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神武门",
+  "西直门",
+  "畅春园",
+  "谦尊堂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1611,
+ "page_range": "43-44"
+}

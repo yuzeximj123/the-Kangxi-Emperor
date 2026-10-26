@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "浙江布政使徐柄员缺，以四川按察使沙木哈等开列请旨，康熙帝命将前面开列五人令来引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐柄",
+   "role": "浙江布政使"
+  },
+  {
+   "name": "沙木哈",
+   "role": "四川按察使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2106,
+ "page_range": "53-54"
+}

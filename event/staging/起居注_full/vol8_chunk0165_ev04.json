@@ -1,0 +1,44 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆安徽巡抚梁世勋题程伊打死项正拟绞监候一案，康熙命发回会同赵申乔等会议具奏。",
+ "people": [
+  {
+   "name": "梁世勋",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "程伊",
+   "role": "罪犯"
+  },
+  {
+   "name": "程梅",
+   "role": "罪犯"
+  },
+  {
+   "name": "项正",
+   "role": "死者"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "刘芳声",
+   "role": "涉案人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16504,
+ "page_range": "341-342"
+}

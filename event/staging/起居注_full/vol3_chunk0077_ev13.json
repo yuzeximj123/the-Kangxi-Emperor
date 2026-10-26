@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初一日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "礼部议覆左都御史陈廷敬请定服式事，康熙帝论奢侈之习及俭朴之道，命议政王、贝勒、大臣、九卿、詹事、科、道会同详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "左都御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7713,
+ "page_range": "189-190"
+}

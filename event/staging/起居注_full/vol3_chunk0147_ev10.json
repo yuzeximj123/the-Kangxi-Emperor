@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初九日吴亥",
+ "event_role": "司法案件",
+ "summary": "吏部、三法司覆审程富等杀死程九案，康熙帝指出周之昂主谋系冤，命将原审堂司各官严察议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "程富",
+   "role": "案犯"
+  },
+  {
+   "name": "程九",
+   "role": "死者"
+  },
+  {
+   "name": "周之昂",
+   "role": "被冤者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14710,
+ "page_range": "329-330"
+}

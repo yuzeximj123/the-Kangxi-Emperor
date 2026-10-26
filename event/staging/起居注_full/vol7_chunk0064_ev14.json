@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 6,
+ "day_text": "二十九日癸卯",
+ "event_role": "皇帝行止",
+ "summary": "戌时，康熙帝至密云县入行宫坐，待诸大臣、侍卫渡河。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "密云县",
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6414,
+ "page_range": "139-140"
+}

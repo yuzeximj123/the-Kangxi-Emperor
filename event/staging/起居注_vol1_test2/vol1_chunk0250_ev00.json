@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "员外郎席格自广西估粮草价值还，康熙帝询问柳州府情形，席格奏报柳州城小民众、米谷匮乏，周围村庄米粮被马承萌掠入城内。",
+ "people": [
+  {
+   "name": "席格",
+   "role": "员外郎"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "马承萌",
+   "role": "叛将"
+  }
+ ],
+ "places": [
+  "广西",
+  "柳州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25000,
+ "page_range": "557-558"
+}

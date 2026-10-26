@@ -1,0 +1,27 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": "十八日丁酉",
+ "event_role": "议政听政",
+ "summary": "康熙帝论闭塞黄河南坝则黄水不入洪泽湖，高家堰坝亦可塞，靳辅称圣见极当并议古沟、唐二等坝闭塞期限。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "洪泽湖",
+  "高家堰",
+  "古沟",
+  "唐二"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20812,
+ "page_range": "451-452"
+}

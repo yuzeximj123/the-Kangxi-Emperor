@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅宋钦宗以李纲为东京留守论，谓李纲诚有过人处，但靖康时国势已不可为，尽行其言亦未必有济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李纲",
+   "role": "宋臣"
+  },
+  {
+   "name": "杜讷",
+   "role": "臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11503,
+ "page_range": "242-243"
+}

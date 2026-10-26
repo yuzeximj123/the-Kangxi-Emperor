@@ -1,0 +1,36 @@
+{
+ "reign_year": 32,
+ "month": 4,
+ "day_text": "十四日丁亥",
+ "event_role": "人事任免",
+ "summary": "郭世隆保题迟误买米降调之同知韩镶、卢询、知县钱式庄带降级留任，康熙准其照题留任。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "韩镶",
+   "role": "同知"
+  },
+  {
+   "name": "卢询",
+   "role": "同知"
+  },
+  {
+   "name": "钱式庄",
+   "role": "知县"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23115,
+ "page_range": "474-475"
+}

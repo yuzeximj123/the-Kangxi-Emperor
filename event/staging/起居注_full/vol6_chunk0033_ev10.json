@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "十五日廊申",
+ "event_role": "人事任免",
+ "summary": "康熙谕席哈纳询问定州知州于班为人办事，沈朝聘奏其说厚安静办事优，康熙称知道了。",
+ "people": [
+  {
+   "name": "席哈纳",
+   "role": "官员"
+  },
+  {
+   "name": "于班",
+   "role": "定州知州"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "官员"
+  },
+  {
+   "name": "存住",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "定州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3310,
+ "page_range": "76-77"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "十七日辛酉",
+ "event_role": "皇帝行止",
+ "summary": "申时康熙帝自玉泉山还宫，随后赴太皇太后、皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "玉泉山",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14603,
+ "page_range": "335-336"
+}

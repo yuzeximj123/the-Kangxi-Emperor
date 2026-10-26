@@ -1,0 +1,27 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝视察通州两岸堤工，指示牛钮依标修筑，堤岸略低处照旧修理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "监修通州两岸工部郎中"
+  }
+ ],
+ "places": [
+  "通州",
+  "坝",
+  "挑水坝",
+  "鸡嘴坝"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8800,
+ "page_range": "187-188"
+}

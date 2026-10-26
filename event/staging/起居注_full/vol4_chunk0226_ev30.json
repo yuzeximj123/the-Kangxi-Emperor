@@ -1,0 +1,21 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "二十六日良子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝巳时由正阳门进午门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "正阳门",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22630,
+ "page_range": "464-465"
+}

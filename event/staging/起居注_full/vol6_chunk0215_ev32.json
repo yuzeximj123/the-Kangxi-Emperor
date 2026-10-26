@@ -1,0 +1,37 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十六日庚成",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御文华殿行经筵大典，讲官傅继祖、陈廷族讲《四书》，法良、韩菊讲《易经》，毕赐宴太和门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅继祖",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷族",
+   "role": "讲官"
+  },
+  {
+   "name": "法良",
+   "role": "讲官"
+  },
+  {
+   "name": "韩菊",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21532,
+ "page_range": "440-441"
+}

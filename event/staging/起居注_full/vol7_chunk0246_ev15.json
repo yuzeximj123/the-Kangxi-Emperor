@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": "十七日丙寅",
+ "event_role": "其他",
+ "summary": "康熙帝赐领侍卫内大臣公海金阿尔赛、护军统领苏克准、亲近侍卫关保马各一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海金阿尔赛",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "苏克准",
+   "role": "护军统领"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24615,
+ "page_range": "503-504"
+}

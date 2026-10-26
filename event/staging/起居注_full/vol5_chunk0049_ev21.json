@@ -1,0 +1,36 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": "十八日壬午",
+ "event_role": "司法案件",
+ "summary": "三法司议甘肃巡抚严泰题马四等窃乔士礼家财物转为强劫，拟立斩，康熙帝命马四立斩，殷三等免死减等发黑龙江为奴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "严泰",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "马四",
+   "role": "案犯"
+  },
+  {
+   "name": "殷三",
+   "role": "案犯"
+  },
+  {
+   "name": "乔士礼",
+   "role": "失主"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4921,
+ "page_range": "108-109"
+}

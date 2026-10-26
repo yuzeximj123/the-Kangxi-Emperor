@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "初一日庚寅",
+ "event_role": "朝见受贺",
+ "summary": "顺义县驻防防守尉巴朗、知县钟交远来朝。",
+ "people": [
+  {
+   "name": "巴朗",
+   "role": "顺义县驻防防守尉"
+  },
+  {
+   "name": "钟交远",
+   "role": "顺义县知县"
+  }
+ ],
+ "places": [
+  "顺义县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9509,
+ "page_range": "225-226"
+}

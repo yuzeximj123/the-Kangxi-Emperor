@@ -1,0 +1,31 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "兵部覆云南巡抚甘国壁题开化等处边地武官照广西文官例三年升用事，康熙命交云贵总督葛陈锡查明议奏。",
+ "people": [
+  {
+   "name": "甘国壁",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "葛陈锡",
+   "role": "云贵总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "开化",
+  "广西",
+  "云南",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16501,
+ "page_range": "341-342"
+}

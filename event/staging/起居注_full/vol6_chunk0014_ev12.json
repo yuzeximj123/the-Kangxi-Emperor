@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "初七日甲寅",
+ "event_role": "祭祀典礼",
+ "summary": "巳时于太和殿前传胪，赐武举人缴煜章、葛焕、胡琨一甲进士，王璋等七人二甲进士，夏林等九十一人三甲进士。",
+ "people": [
+  {
+   "name": "缴煜章",
+   "role": "一甲进士"
+  },
+  {
+   "name": "葛焕",
+   "role": "一甲进士"
+  },
+  {
+   "name": "胡琨",
+   "role": "一甲进士"
+  },
+  {
+   "name": "王璋",
+   "role": "二甲进士"
+  },
+  {
+   "name": "夏林",
+   "role": "三甲进士"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1412,
+ "page_range": "38-39"
+}

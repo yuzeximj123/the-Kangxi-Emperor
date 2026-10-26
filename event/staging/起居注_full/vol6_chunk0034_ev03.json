@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部议河南巡抚李国亮题菜泽县北城墙逼近黄河应迁移至荣阳，康熙帝命照巡抚所请行。",
+ "people": [
+  {
+   "name": "李国亮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南",
+  "菜泽县",
+  "荣阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3403,
+ "page_range": "78-79"
+}

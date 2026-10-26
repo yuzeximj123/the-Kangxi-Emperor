@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "十五日庚子",
+ "event_role": "朝见受贺",
+ "summary": "土默特多罗贝勒马尼旗下附居喀尔喀多罗贝勒老臧、喀尔喀一品台吉顾勒尔德来贡。",
+ "people": [
+  {
+   "name": "老臧",
+   "role": "喀尔喀多罗贝勒"
+  },
+  {
+   "name": "顾勒尔德",
+   "role": "喀尔喀一品台吉"
+  }
+ ],
+ "places": [
+  "土默特",
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12417,
+ "page_range": "259-260"
+}

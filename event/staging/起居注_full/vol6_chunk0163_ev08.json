@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": "二十四日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕布泰等盛京政务渐不堪，刑部关系人命，令其效力供职，并允所请于保举人员内补授司官。",
+ "people": [
+  {
+   "name": "布泰",
+   "role": "盛京刑部侍郎"
+  },
+  {
+   "name": "刘柱",
+   "role": "理事官"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16308,
+ "page_range": "336-337"
+}

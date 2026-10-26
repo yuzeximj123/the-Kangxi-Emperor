@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十四日吴未",
+ "event_role": "谕旨决策",
+ "summary": "朱都纳等奏请酌减散给兵米数目并给至四月，康熙帝命照先前数目散给、勿行减省，给至四月并亲加详查。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱都纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "松柱",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8010,
+ "page_range": "170-171"
+}

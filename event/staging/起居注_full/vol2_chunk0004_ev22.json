@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十一日本丑",
+ "event_role": "人事任免",
+ "summary": "山西巡抚土克善请病，康熙闻其有病是实且不通汉文常为乡绅所轻，命令解任，明珠奏仍下部议，康熙是之。",
+ "people": [
+  {
+   "name": "土克善",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 422,
+ "page_range": "51-52"
+}

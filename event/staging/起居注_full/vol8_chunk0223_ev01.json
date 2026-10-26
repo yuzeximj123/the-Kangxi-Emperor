@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请广东粮道等缺，康熙帝命杨本植依拟用，停其引见。",
+ "people": [
+  {
+   "name": "杨本植",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22301,
+ "page_range": "457-458"
+}

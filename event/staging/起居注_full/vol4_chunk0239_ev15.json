@@ -1,0 +1,32 @@
+{
+ "reign_year": 32,
+ "month": 8,
+ "day_text": "初十日辛巳",
+ "event_role": "人事任免",
+ "summary": "兵部题福陵总管称敦员缺，康熙帝以称敦三世效力，令将其子弟及族属带来引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "称敦",
+   "role": "福陵总管"
+  },
+  {
+   "name": "尹戴吴布图",
+   "role": "福陵噶喇大"
+  },
+  {
+   "name": "雅住",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "福陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23915,
+ "page_range": "490-491"
+}

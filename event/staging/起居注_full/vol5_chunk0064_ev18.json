@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": "二十八日己未",
+ "event_role": "人事任免",
+ "summary": "吏部题河南巡抚顾沂员缺，康熙帝谕李辉祖为人颇优，着补授河南巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "顾沂",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "李辉祖",
+   "role": "官员"
+  },
+  {
+   "name": "李炜",
+   "role": "布政司"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6418,
+ "page_range": "138-139"
+}

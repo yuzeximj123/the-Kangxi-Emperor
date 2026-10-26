@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初二日己未",
+ "event_role": "谕旨决策",
+ "summary": "湖广提督徐治都辩明入蜀迟误及粮饷不继，康熙帝以其克取巫山归州无贻误，命注销从重议处一案交部议奏。",
+ "people": [
+  {
+   "name": "徐治都",
+   "role": "湖广提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巫山",
+  "归州",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24602,
+ "page_range": "549-550"
+}

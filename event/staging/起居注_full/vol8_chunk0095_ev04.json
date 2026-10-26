@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部汇题顺承郡王所送色克图充发事，康熙令问诺罗布具奏。",
+ "people": [
+  {
+   "name": "色克图",
+   "role": "涉案人"
+  },
+  {
+   "name": "诺罗布",
+   "role": "被询问者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9504,
+ "page_range": "201-202"
+}

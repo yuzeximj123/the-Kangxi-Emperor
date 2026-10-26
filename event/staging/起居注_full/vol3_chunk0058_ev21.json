@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "十七日成袖",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝先谕学士常书、侍读学士朱马泰，将幸阙里行礼讲学，令先至曲阜择能讲经义者拟《大学之道》《易经·天尊地卑》讲章二篇来看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "学士"
+  },
+  {
+   "name": "朱马泰",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [
+  "曲阜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5821,
+ "page_range": "151-152"
+}

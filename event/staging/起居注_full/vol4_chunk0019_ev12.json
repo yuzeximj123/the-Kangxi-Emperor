@@ -1,0 +1,33 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "十二日乙本",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥董讷、莫天颜、孙在丰等身为大臣事前不题参、事后具陈、全无定见，令下河海口应行挑浚，各闸坝待海口挑完再定塞留。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董讷",
+   "role": "大臣"
+  },
+  {
+   "name": "莫天颜",
+   "role": "大臣"
+  },
+  {
+   "name": "孙在丰",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "下河",
+  "海口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1912,
+ "page_range": "50-51"
+}

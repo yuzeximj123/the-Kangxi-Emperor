@@ -1,0 +1,21 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十五日乙未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自宁夏起行，驻跸尧甫堡东北。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "尧甫堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21901,
+ "page_range": "448-449"
+}

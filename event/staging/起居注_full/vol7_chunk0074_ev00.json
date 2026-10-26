@@ -1,0 +1,46 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论武举取才，欲广武会试名额以鼓励武进士，并论文武官任用及边疆武臣关系重大。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俞益席",
+   "role": "前科武进士"
+  },
+  {
+   "name": "刘官励",
+   "role": "前科武进士"
+  },
+  {
+   "name": "喇哈达",
+   "role": "都统"
+  },
+  {
+   "name": "施琅",
+   "role": "水师将领"
+  },
+  {
+   "name": "尚宣",
+   "role": "总兵"
+  },
+  {
+   "name": "马进良",
+   "role": "总兵"
+  }
+ ],
+ "places": [
+  "台湾",
+  "海上",
+  "沿海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7400,
+ "page_range": "159-160"
+}

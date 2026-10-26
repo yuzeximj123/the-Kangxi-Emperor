@@ -1,0 +1,39 @@
+{
+ "date_raw": "康熙伍拾年玖月",
+ "reign_year": 50,
+ "month": 9,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "镇海将军马三奇奏报两翼副都统周良相、刘起芳到任办事情形，并请求将笔帖式王之腾留任海疆及补用旗缺，另奏闽广浙海面小贼情形。",
+ "people": [
+  {
+   "name": "马三奇",
+   "role": "镇海将军一等侯，奏报人"
+  },
+  {
+   "name": "周良相",
+   "role": "两翼副都统"
+  },
+  {
+   "name": "刘起芳",
+   "role": "两翼副都统"
+  },
+  {
+   "name": "王之腾",
+   "role": "镶黄旗笔帖式"
+  }
+ ],
+ "places": [
+  "京口",
+  "闽广",
+  "浙省",
+  "台温"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 231
+}

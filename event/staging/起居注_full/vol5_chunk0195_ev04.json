@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初五日",
+ "event_role": "其他",
+ "summary": "赐给密国进贡回子首领达尔汉伯克之子伯奇郭帕伯克马四十匹，并赏贫民及鄂尔多斯贫穷蒙古银钱。",
+ "people": [
+  {
+   "name": "达尔汉伯克",
+   "role": "密国进贡回子首领"
+  },
+  {
+   "name": "伯奇郭帕伯克",
+   "role": "达尔汉伯克之子"
+  }
+ ],
+ "places": [
+  "鄂尔多斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19504,
+ "page_range": "400-401"
+}

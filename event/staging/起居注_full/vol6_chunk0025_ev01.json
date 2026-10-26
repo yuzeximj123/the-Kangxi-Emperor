@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝向大学士论为将之道，谓军务须相机而行，不可急亦不可缓，举阿尔尼、吉尔塔布过急致败，马思喀过缓致伊拉十克三逃脱为戒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "将领"
+  },
+  {
+   "name": "吉尔塔布",
+   "role": "将领"
+  },
+  {
+   "name": "马思喀",
+   "role": "将领"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "昭莫多"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2501,
+ "page_range": "60-61"
+}

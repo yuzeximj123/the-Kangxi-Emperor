@@ -1,0 +1,20 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "盛京将军与各部堂官议席尔图升补理事官，到任后办事好则已，否则题参。",
+ "people": [
+  {
+   "name": "席尔图",
+   "role": "理事官"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7800,
+ "page_range": "166-167"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初五日庚子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问《实录》诸书纂辑进度，明珠奏《实录》《圣训》渐次脱稿，《方略》《明史》未能即竣，康熙帝命以次呈阅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1814,
+ "page_range": "71-72"
+}

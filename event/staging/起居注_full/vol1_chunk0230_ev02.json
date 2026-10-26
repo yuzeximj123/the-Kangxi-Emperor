@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补翰林院侍讲，康熙帝询问思格则为人与学问，索额图、明珠奏对后命以思格则补授侍讲。",
+ "people": [
+  {
+   "name": "思格则",
+   "role": "补授翰林院侍讲"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23002,
+ "page_range": "517-518"
+}

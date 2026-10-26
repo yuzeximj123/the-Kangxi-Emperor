@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十五日",
+ "event_role": "朝见受贺",
+ "summary": "抽木税监督户部主事诺敏、密云县知县朱英、守备黄国清等来朝。",
+ "people": [
+  {
+   "name": "诺敏",
+   "role": "抽木税监督户部主事"
+  },
+  {
+   "name": "朱英",
+   "role": "密云县知县"
+  },
+  {
+   "name": "黄国清",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11103,
+ "page_range": "233-234"
+}

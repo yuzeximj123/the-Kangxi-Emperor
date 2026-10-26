@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "十八日乙未",
+ "event_role": "人事任免",
+ "summary": "吏部题工部郎中凯齐力员缺，拟正李宝、拟陪包格，康熙帝以李宝甚劣令革职，补授包格。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李宝",
+   "role": "员外郎"
+  },
+  {
+   "name": "包格",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1103,
+ "page_range": "32-33"
+}

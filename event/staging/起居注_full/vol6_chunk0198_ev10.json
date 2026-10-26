@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "初七日甲子",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆荆州将军蟒吉禄题请督抚一员驻扎荆州，康熙帝令将司道官员一员驻扎荆州分贮库银，着另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蟒吉禄",
+   "role": "荆州将军"
+  }
+ ],
+ "places": [
+  "荆州",
+  "武昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19810,
+ "page_range": "406-407"
+}

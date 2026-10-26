@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十九年閏七月初十日",
+ "reign_year": 49,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "肃州总兵路振声奏报边兵官兵才略单薄，并代家人黄婕跪请皇上圣安，进献扁担面等食品。",
+ "people": [
+  {
+   "name": "路振声",
+   "role": "肃州总兵，奏折具奏人"
+  },
+  {
+   "name": "黄婕",
+   "role": "路振声家人，代其跪请圣安"
+  }
+ ],
+ "places": [
+  "肃州",
+  "口外"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称边远之地并无浮屠驰劳之事，亦非朕所为。",
+ "source_title": "肅州總兵路振聲奏請天安並進扁擔麵等食品摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "708",
+ "order_index": 0
+}

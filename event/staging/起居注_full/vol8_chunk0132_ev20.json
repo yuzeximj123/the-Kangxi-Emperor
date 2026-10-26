@@ -1,0 +1,33 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初七日戊戌",
+ "event_role": "人事任免",
+ "summary": "川陕总督鄂海题报松潘总兵官程正李病故，康熙帝令以汉中副将路振扬补授并速赴任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "程正李",
+   "role": "松潘总兵官"
+  },
+  {
+   "name": "路振扬",
+   "role": "汉中副将"
+  }
+ ],
+ "places": [
+  "松潘",
+  "汉中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13220,
+ "page_range": "275-276"
+}

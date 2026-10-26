@@ -1,0 +1,28 @@
+{
+ "reign_year": 16,
+ "month": 5,
+ "day_text": "二十五日庚子",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿视朝，文武升转官员谢恩，喀尔喀部落巴图尔台吉来使沙布塔儿等三十五人行礼赐茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴图尔台吉",
+   "role": "喀尔喀部落台吉"
+  },
+  {
+   "name": "沙布塔儿",
+   "role": "来使"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13804,
+ "page_range": "333-334"
+}

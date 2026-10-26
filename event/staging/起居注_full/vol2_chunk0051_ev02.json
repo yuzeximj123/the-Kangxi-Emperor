@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "因李霨、杜立德及勒德洪、明珠均称余国柱甚优，康熙帝命余国柱补授副都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "余国柱",
+   "role": "补授副都御史"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "汉大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "满大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5102,
+ "page_range": "145-146"
+}

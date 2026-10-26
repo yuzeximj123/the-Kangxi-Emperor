@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "十一日壬戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸赣州城内，赣州知府杨天祷、都司韩三奇来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨天祷",
+   "role": "赣州知府"
+  },
+  {
+   "name": "韩三奇",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "赣州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16017,
+ "page_range": "332-333"
+}

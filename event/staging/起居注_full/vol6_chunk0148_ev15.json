@@ -1,0 +1,36 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "初十日癸酉",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门覆奏仓场侍郎德珠所参通惠河分司晋布及运丁等案，康熙帝以桑格审事徇庇，将晋布革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "总宪"
+  },
+  {
+   "name": "德珠",
+   "role": "仓场侍郎"
+  },
+  {
+   "name": "晋布",
+   "role": "通惠河分司"
+  },
+  {
+   "name": "吴文炳",
+   "role": "衙役"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14815,
+ "page_range": "306-307"
+}

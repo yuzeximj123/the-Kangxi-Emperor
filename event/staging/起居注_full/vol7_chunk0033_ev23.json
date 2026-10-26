@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "初一日成实",
+ "event_role": "其他",
+ "summary": "酉时康熙帝出行宫，率诸皇子及善射侍卫射，又命保定营参将师就射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "师就",
+   "role": "保定营参将"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3323,
+ "page_range": "77-78"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "十二日己未",
+ "event_role": "人事任免",
+ "summary": "吏部题补浙江巡抚李本最员缺，开列布政使施天裔等，康熙帝以无人堪任巡抚，命九卿、詹事、科道会推具奏。",
+ "people": [
+  {
+   "name": "施天裔",
+   "role": "布政使"
+  },
+  {
+   "name": "李本最",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12102,
+ "page_range": "285-286"
+}

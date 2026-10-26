@@ -1,0 +1,27 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论噶尔丹败亡，称西路兵应期夹攻可使其匹马只轮难脱，赞西路以疫困之众战胜势如破竹实为可嘉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "敌酋"
+  }
+ ],
+ "places": [
+  "土喇",
+  "巴颜乌兰",
+  "察罕布喇克",
+  "旺拖陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17701,
+ "page_range": "364-365"
+}

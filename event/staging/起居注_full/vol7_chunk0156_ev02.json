@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "酉时康熙帝御行宫，大学士温达等以折本请旨，处理吏部等衙门题奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "噶敏图",
+   "role": "学士"
+  },
+  {
+   "name": "瓦尔达",
+   "role": "学士"
+  },
+  {
+   "name": "觉和托",
+   "role": "学士"
+  },
+  {
+   "name": "博音代",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15602,
+ "page_range": "323-324"
+}

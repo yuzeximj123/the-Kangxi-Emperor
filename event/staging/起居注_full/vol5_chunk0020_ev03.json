@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十三日庚成",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题黑龙江将军萨布素请缉拿俄罗斯打貂皮人，康熙帝谕令差司官前往，令萨布素写书与俄罗斯国交涉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "东海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2003,
+ "page_range": "50-51"
+}

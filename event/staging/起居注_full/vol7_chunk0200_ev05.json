@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题打死西德之喇尔费燕照新例正法、巴酒儿照律鞭八十，康熙帝指部议错谬，发还再议具奏。",
+ "people": [
+  {
+   "name": "喇尔费燕",
+   "role": "案犯"
+  },
+  {
+   "name": "巴酒儿",
+   "role": "案犯"
+  },
+  {
+   "name": "西德",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20005,
+ "page_range": "411-412"
+}

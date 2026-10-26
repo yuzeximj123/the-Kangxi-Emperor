@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初二日甲午",
+ "event_role": "人事任免",
+ "summary": "兵部题云南临元征江总兵官马山以病请解任，康熙帝询问后命马山仍留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "马山",
+   "role": "云南临元征江总兵官"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5117,
+ "page_range": "137-138"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": "二十九日成实",
+ "event_role": "人事任免",
+ "summary": "镇守古北口等处总兵官题请以候推守备唐成补授守备任全忠员缺，康熙帝准照该镇题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐成",
+   "role": "候推守备"
+  },
+  {
+   "name": "任全忠",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19016,
+ "page_range": "392-393"
+}

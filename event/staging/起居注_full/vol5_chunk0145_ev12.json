@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "二十日甲辰",
+ "event_role": "人事任免",
+ "summary": "偏沅巡抚杨凤起请以原任同知董绍舒补授宝庆府知府，议不准行；康熙以该抚屡次奏请，命照所请补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨凤起",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "董绍舒",
+   "role": "原任同知"
+  }
+ ],
+ "places": [
+  "宝庆府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14512,
+ "page_range": "300-301"
+}

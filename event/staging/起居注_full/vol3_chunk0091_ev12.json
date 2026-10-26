@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "二十八日戊己",
+ "event_role": "司法案件",
+ "summary": "刑部等题拟逆犯王于玉凌迟处死，康熙帝询问可否从轻，明珠等奏法外施恩无所不可，康熙帝命改为立斩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王于玉",
+   "role": "逆犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9112,
+ "page_range": "217-218"
+}

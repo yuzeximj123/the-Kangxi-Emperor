@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "十八日壬戌",
+ "event_role": "人事任免",
+ "summary": "吏部议招抚贵州黄九畴应照周昌例以佥事道用，康熙帝以其系王辅臣心腹素行狂诈不宜录用，命凡投贼复降之人概不准用，着该部再议。",
+ "people": [
+  {
+   "name": "黄九畴",
+   "role": "招抚对象"
+  },
+  {
+   "name": "王辅臣",
+   "role": "原平西王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14606,
+ "page_range": "335-336"
+}

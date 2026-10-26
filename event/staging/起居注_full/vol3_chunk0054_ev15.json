@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "二十三日乙卯",
+ "event_role": "人事任免",
+ "summary": "礼部题直隶巡抚格尔古德应否给谥请旨，康熙帝以其居官清廉命从优赐恤再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "格尔古德",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5415,
+ "page_range": "143-144"
+}

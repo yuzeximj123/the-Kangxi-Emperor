@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十七年八月初十日",
+ "reign_year": 47,
+ "month": 8,
+ "day": 10,
+ "event_role": "弹劾参奏",
+ "summary": "闽浙总督梁鼐上奏参劾浙江布政使黄明食纵不法情事。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "闽浙总督，参劾者"
+  },
+  {
+   "name": "黄明食",
+   "role": "浙江布政使，被参劾者"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "闽浙总督梁鼐奏参浙江布政使黄明食纵不法情事折｜康熙四十七年八月初十日",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 385
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "十四日戊戌",
+ "event_role": "人事任免",
+ "summary": "吏部题江西抚州府同知等员缺拟补，康熙帝依拟用郭一奇等，并命选补江南邳州知州。",
+ "people": [
+  {
+   "name": "郭一奇",
+   "role": "内浆办事中书拟补"
+  }
+ ],
+ "places": [
+  "江西抚州府",
+  "江南邳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14413,
+ "page_range": "298-299"
+}

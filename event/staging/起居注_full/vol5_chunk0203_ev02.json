@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "遣侍郎席尔达致祭贺兰山之神。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贺兰山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20302,
+ "page_range": "416-417"
+}

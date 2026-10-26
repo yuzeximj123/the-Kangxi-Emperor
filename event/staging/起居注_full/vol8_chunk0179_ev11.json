@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "二十九日甲实",
+ "event_role": "司法案件",
+ "summary": "刑部汇题案内以九钱作一两放债之骁骑校诺木图议革职枷号两月鞭一百，康熙帝命枷号责完日发往三姓处当差。",
+ "people": [
+  {
+   "name": "诺木图",
+   "role": "骁骑校"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三姓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17911,
+ "page_range": "369-370"
+}

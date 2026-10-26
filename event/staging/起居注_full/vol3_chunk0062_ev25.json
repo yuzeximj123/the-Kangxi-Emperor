@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初九日庚子",
+ "event_role": "司法案件",
+ "summary": "刑部议赢朝臣等称伊主张风扬冤抑另闻，将赢朝臣等各枷号三个月。",
+ "people": [
+  {
+   "name": "赢朝臣",
+   "role": "当事人"
+  },
+  {
+   "name": "张风扬",
+   "role": "当事人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6225,
+ "page_range": "159-160"
+}

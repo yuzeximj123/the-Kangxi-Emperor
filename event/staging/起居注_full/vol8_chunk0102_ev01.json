@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门覆请黄兰总兵官所题游击郭果报海详遇贼对敌官兵阵亡败逃一案，拟把总杨再文等分别斩、流、徒，康熙帝命被贼所伤官兵仍照例给赏，余依议。",
+ "people": [
+  {
+   "name": "郭果",
+   "role": "游击"
+  },
+  {
+   "name": "杨再文",
+   "role": "把总"
+  },
+  {
+   "name": "何茂",
+   "role": "兵丁"
+  },
+  {
+   "name": "陈广扬",
+   "role": "兵丁"
+  },
+  {
+   "name": "陈双升",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "海详"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10201,
+ "page_range": "215-216"
+}

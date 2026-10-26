@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "十三日壬寅",
+ "event_role": "人事任免",
+ "summary": "吏部以保奏年老知县谢延历之河南巡抚李国亮拟革职，康熙命李国亮以原品解任，并称李国亮、张蔓居官皆不好。",
+ "people": [
+  {
+   "name": "李国亮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "谢延历",
+   "role": "年老知县"
+  },
+  {
+   "name": "张蔓",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16722,
+ "page_range": "344-345"
+}

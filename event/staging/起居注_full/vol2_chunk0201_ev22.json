@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "二十三日甲午",
+ "event_role": "司法案件",
+ "summary": "早康熙帝御行幄，兵部议三等侍卫哈喇扣寅夜擅出入皇城禁门应革职，康熙帝以其情属可恶令革职交刑部严加议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈喇扣",
+   "role": "三等侍卫"
+  }
+ ],
+ "places": [
+  "皇城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20122,
+ "page_range": "445-446"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初四日丙子",
+ "event_role": "人事任免",
+ "summary": "吏部题礼部尚书帅颜保告病员缺，康熙帝以吏部事务烦剧、介山年迈，命将介山调补礼部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "帅颜保",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "介山",
+   "role": "左都御史"
+  },
+  {
+   "name": "喀尔图",
+   "role": "左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17015,
+ "page_range": "383-384"
+}

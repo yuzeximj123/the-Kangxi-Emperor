@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝言穆和伦年老误备、所办之事人不服，旗下又严参其部两事，且巴图善系其姻亲；马齐奏议政处相机定议、户部有定例可循。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "穆和伦",
+   "role": "官员"
+  },
+  {
+   "name": "巴图善",
+   "role": "穆和伦姻亲"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21003,
+ "page_range": "431-432"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "十五日丙子",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝问各省饥荒蠲免钱粮几何，伊桑阿奏江南等省约五十万，帝令逐一察明使百姓沾实惠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21118,
+ "page_range": "479-480"
+}

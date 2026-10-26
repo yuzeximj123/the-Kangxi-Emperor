@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请刑部等衙门朝审情真、缓决内折角四案，康熙帝逐一阅论，谓今年京师情真罪犯甚少，可再宥数人，并令问九卿是否停刑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蔡升元",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11501,
+ "page_range": "241-242"
+}

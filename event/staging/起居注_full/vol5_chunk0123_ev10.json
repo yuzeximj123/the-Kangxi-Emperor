@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "三十日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令车陵酒卜等免往出征，各带眷属牲口往达里冈阿之东居住，并严行禁约防盗。",
+ "people": [
+  {
+   "name": "吴达禅",
+   "role": "侍卫"
+  },
+  {
+   "name": "吴什",
+   "role": "侍卫"
+  },
+  {
+   "name": "阿喇锡达什",
+   "role": "侍卫"
+  },
+  {
+   "name": "车陵酒卜",
+   "role": "扎萨克一等台吉"
+  }
+ ],
+ "places": [
+  "达里冈阿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12310,
+ "page_range": "256-257"
+}

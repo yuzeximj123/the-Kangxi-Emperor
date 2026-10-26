@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十八年七月初六日",
+ "reign_year": 58,
+ "month": 7,
+ "day": 6,
+ "event_role": "军务",
+ "summary": "云南巡抚甘国璧奏报将每年养廉银存剩三万两解进，以佐军需之用，并请皇上恩准批示。",
+ "people": [
+  {
+   "name": "甘国璧",
+   "role": "云南巡抚，奏折作者"
+  },
+  {
+   "name": "先臣",
+   "role": "甘国璧之父，由难荫授职知州，历升同知府道"
+  }
+ ],
+ "places": [
+  "云南",
+  "滇"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批仅一字“罢”，驳回甘国璧解进养廉银佐军需之请。",
+ "source_title": "雲南巡撫甘國璧奏將每年所得養廉銀上佐軍需摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2804",
+ "order_index": 208
+}

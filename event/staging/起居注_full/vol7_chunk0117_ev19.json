@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "二十八日甲实",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问自山东来者，奏称今年山东麦禾俱大佳，直隶麦儿亦好但不如山东，马齐奏各省所报禾麦大概俱佳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11719,
+ "page_range": "245-246"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "十四日成辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕各衙门堂司官员须悉心料理职掌，并责户部司官擅署堂官职名参奏事，令一并交吏部议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨木苏",
+   "role": "将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "爱浑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14815,
+ "page_range": "331-332"
+}

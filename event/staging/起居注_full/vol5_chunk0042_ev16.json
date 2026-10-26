@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十九日甲午",
+ "event_role": "奏报地方情形",
+ "summary": "思格则、薄昂呈查勘盛京饥民折，奏今年田谷胜于去年，查勘饥民九千余口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "思格则",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "薄昂",
+   "role": "盛京副都统"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4216,
+ "page_range": "94-95"
+}

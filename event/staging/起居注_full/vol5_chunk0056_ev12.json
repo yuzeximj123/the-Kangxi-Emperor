@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 1,
+ "day_text": "二十六日戊子",
+ "event_role": "人事任免",
+ "summary": "钦天监监正戈枚等选择祭太庙日期不遵选择之书，康熙帝命戈枚革职，常额等降三级从宽留任。",
+ "people": [
+  {
+   "name": "戈枚",
+   "role": "钦天监监正"
+  },
+  {
+   "name": "常额",
+   "role": "监副"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5612,
+ "page_range": "122-123"
+}

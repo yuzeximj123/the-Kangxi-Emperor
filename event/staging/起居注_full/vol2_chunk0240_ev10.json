@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十七日甲申",
+ "event_role": "人事任免",
+ "summary": "吏部题补翻译汤古忒国书添设教习，正拟郎中班第、陪拟中书巴图赖，康熙帝询问后命班第添补教习。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班第",
+   "role": "郎中"
+  },
+  {
+   "name": "巴图赖",
+   "role": "中书"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24010,
+ "page_range": "523-524"
+}

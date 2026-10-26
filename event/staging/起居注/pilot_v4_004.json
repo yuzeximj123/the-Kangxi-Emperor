@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙二十八年二月初九日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "初九日丁未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸杭州府城，杭州防守御林应福、通判王进椒、原任侍郎杨雍建等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "林应福",
+   "role": "杭州防守御"
+  },
+  {
+   "name": "王进椒",
+   "role": "杭州府通判"
+  },
+  {
+   "name": "谢酋儒",
+   "role": "副将"
+  },
+  {
+   "name": "杨雍建",
+   "role": "原任侍郎"
+  }
+ ],
+ "places": [
+  "杭州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1004
+}

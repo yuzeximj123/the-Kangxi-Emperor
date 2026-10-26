@@ -1,0 +1,25 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "十二日乙丑",
+ "event_role": "军务",
+ "summary": "四川陕西总督葛思泰请将陕西官兵驻防地方酌时更调迁移，康熙帝以兵民根本、久安长治之道在爱兵恤民为由不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葛思泰",
+   "role": "四川陕西总督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15710,
+ "page_range": "326-327"
+}

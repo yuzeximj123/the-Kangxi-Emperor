@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初十日甲午",
+ "event_role": "弹劾参奏",
+ "summary": "刑部尚书魏象枢以荐举雷虎不当引罪请罢，康熙帝谕荐举偶有失当不必引罪，旨内票明。",
+ "people": [
+  {
+   "name": "魏象枢",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "雷虎",
+   "role": "被荐举者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3726,
+ "page_range": "117-118"
+}

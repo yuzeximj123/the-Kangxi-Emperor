@@ -1,0 +1,37 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "二十二日辛亥",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御文华殿行经筵大典，命讲官熊赐履、常寿讲《四书》，张英、法良讲《易经》，毕赐宴太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "常寿",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  },
+  {
+   "name": "法良",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17018,
+ "page_range": "350-351"
+}

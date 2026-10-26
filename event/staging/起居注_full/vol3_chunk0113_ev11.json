@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "十二日己亥",
+ "event_role": "司法案件",
+ "summary": "九卿詹事科道会议广东秋审情真犯人耿文明，康熙命查往年贪禁官役按赃数多寡定罪之例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "耿文明",
+   "role": "秋审情真犯人"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11311,
+ "page_range": "261-262"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "三十日辛亥",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝于中和殿视祭太庙祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1109,
+ "page_range": "33-34"
+}

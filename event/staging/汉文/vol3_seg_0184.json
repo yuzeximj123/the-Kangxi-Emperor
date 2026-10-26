@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙五十年六月初六日",
+ "reign_year": 50,
+ "month": 6,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "甘肃提督江琦奏报康熙五十年春季至六月初甘肃各地雨水调匀、禾谷茂盛及甘州米粮价格情形。",
+ "people": [
+  {
+   "name": "江琦",
+   "role": "提督甘肃总兵官"
+  }
+ ],
+ "places": [
+  "甘州",
+  "凉州",
+  "宁夏",
+  "西宁",
+  "肃州",
+  "庄浪",
+  "兰州",
+  "巩昌",
+  "兆",
+  "岷",
+  "河州",
+  "阶州",
+  "秦州",
+  "临兆"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "甘肅提督江琦奏報雨水情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "876",
+ "order_index": 184
+}

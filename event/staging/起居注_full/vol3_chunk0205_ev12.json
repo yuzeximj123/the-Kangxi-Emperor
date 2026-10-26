@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "二十九日已卯",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝命副都统、侍郎、学士、侍卫及喀尔喀土谢图来使等至殿前阶下赐酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博罗厄尔克",
+   "role": "喀尔喀土谢图来使"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20512,
+ "page_range": "445-446"
+}

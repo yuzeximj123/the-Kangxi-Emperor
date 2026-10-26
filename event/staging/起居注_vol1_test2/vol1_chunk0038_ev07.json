@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 3,
+ "day_text": "初八日戊寅",
+ "event_role": "其他",
+ "summary": "辰时康熙帝复御瀛台，讲官傅达礼、熊赐履、孙在丰进讲《子曰周监于二代》一章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "讲官"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3807,
+ "page_range": "133-134"
+}

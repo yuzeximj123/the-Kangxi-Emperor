@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 9,
+ "day_text": "初七日癸西",
+ "event_role": "谕旨决策",
+ "summary": "户部侍郎达都请旨，康熙帝谕令其查看贫民开荒田地及皇庄、马厂、王大臣庄田房屋，不足则就近酌量。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达都",
+   "role": "户部侍郎"
+  }
+ ],
+ "places": [
+  "山海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5224,
+ "page_range": "161-162"
+}

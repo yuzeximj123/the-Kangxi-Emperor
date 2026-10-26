@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "二十七日癸卯",
+ "event_role": "谕旨决策",
+ "summary": "就孙草条奏都察院、通政司、大理寺三衙门须用学问优长练达之人事，康熙帝与大学士勒德洪、明珠议其辞明简，已定难改。",
+ "people": [
+  {
+   "name": "孙草",
+   "role": "科臣"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12930,
+ "page_range": "301-302"
+}

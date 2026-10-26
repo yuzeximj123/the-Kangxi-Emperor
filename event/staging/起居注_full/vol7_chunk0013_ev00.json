@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝就宁远县盗案谕令不必派京师大臣，着河南巡抚徐潮速赴详审具奏。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "徐潮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁远县",
+  "河南",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1300,
+ "page_range": "37-38"
+}

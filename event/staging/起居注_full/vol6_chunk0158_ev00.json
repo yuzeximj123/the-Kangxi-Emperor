@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙命户工二部司官赴镇江等处察勘现有检船及未修完枫船数目，并令浙江、江西、湖广三省督抚提镇查明船数报部，未修者速修。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "镇江",
+  "尝明",
+  "太湖",
+  "浙江",
+  "江西",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15800,
+ "page_range": "326-327"
+}

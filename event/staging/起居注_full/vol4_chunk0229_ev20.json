@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 3,
+ "day_text": "二十六日庚午",
+ "event_role": "司法案件",
+ "summary": "三法司会议陈玉同叔陈天瑞催租令之弱死一案，拟斩监候，康熙帝以情殊可恶命再议具奏。",
+ "people": [
+  {
+   "name": "陈玉",
+   "role": "案犯"
+  },
+  {
+   "name": "陈天瑞",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "屯庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22920,
+ "page_range": "470-471"
+}

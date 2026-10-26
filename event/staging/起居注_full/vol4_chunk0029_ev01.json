@@ -1,0 +1,41 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝指靳辅阻挠开王河、以民余田作屯田为非，命图纳、马齐等往看河工，公详勘定是非虚实。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  },
+  {
+   "name": "图纳",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "马齐",
+   "role": "左都御史"
+  },
+  {
+   "name": "慕天颜",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "王河",
+  "河工"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2901,
+ "page_range": "70-71"
+}

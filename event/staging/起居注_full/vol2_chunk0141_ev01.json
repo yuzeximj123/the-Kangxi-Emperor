@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "工部侍郎党古里等题奏修造盛京八门城楼估银八千七百余两，较前估减省三万余两，康熙帝命工部议奏、都察院察议前估浮冒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "党古里",
+   "role": "工部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14101,
+ "page_range": "325-326"
+}

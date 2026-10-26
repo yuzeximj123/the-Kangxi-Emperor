@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "十三日甲午",
+ "event_role": "请安谢恩",
+ "summary": "未时康熙赴太皇太后、皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6111,
+ "page_range": "165-166"
+}

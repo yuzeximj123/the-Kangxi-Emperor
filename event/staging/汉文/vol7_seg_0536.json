@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十六年十月二十日",
+ "reign_year": 56,
+ "month": 10,
+ "day": 20,
+ "event_role": "奏报灾情收成",
+ "summary": "江西巡抚白潢奏报御稻在江西试种收成情形，将剩余稻种所收稻谷碾米进呈御览，并分发各府来春布种。",
+ "people": [
+  {
+   "name": "白潢",
+   "role": "江西巡抚，奏报人"
+  },
+  {
+   "name": "佟国勷",
+   "role": "前江西巡抚，领到御稻并组织栽种"
+  },
+  {
+   "name": "李申",
+   "role": "标下把总，负责进呈稻米"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示知道了，命明年所种只报稻谷日期，不必进呈实物。",
+ "source_title": "江西巡抚白潢奏报御稻收成情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "1130",
+ "order_index": 536
+}

@@ -1,0 +1,46 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初九日壬子",
+ "event_role": "其他",
+ "summary": "康熙帝遣总管内务府噶鲁、费扬古等赐银一万两、缎百匹、鞍马十匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶鲁",
+   "role": "总管内务府"
+  },
+  {
+   "name": "费扬古",
+   "role": "总管内务府"
+  },
+  {
+   "name": "罗奇",
+   "role": "衣都额真"
+  },
+  {
+   "name": "噶汉泰",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "黄海",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "海青",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "萨称哈",
+   "role": "蓝翎侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15517,
+ "page_range": "353-354"
+}

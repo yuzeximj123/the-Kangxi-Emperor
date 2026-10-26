@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾年正月",
+ "reign_year": 50,
+ "month": 1,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "甘肃提督总兵官江琦奏请圣安，感谢皇上赐赉，并逢圣寿之辰遥祝万寿，遣家人进献藏香、库缎等物。",
+ "people": [
+  {
+   "name": "江琦",
+   "role": "提督甘肃总兵官，奏折作者"
+  },
+  {
+   "name": "张廷杰",
+   "role": "江琦家人，赍摺进献"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批报朕安，并署康熙五十年正月及提督江南全省军务总兵官江琦。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 100
+}

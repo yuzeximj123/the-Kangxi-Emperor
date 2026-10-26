@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "二十八日",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝往仁孝皇后、孝昭皇后陵，命皇子保清及大臣侍卫等行礼奠酒举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "保清",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "仁孝皇后陵",
+  "孝昭皇后陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4618,
+ "page_range": "135-136"
+}

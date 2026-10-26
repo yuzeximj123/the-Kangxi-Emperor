@@ -1,0 +1,21 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十三日",
+ "event_role": "谕旨决策",
+ "summary": "谕令速移文陕西总督、巡抚、提督、总兵等官，收取边外多巴西喇古尔等处噶尔丹所属之人，并命尚书图纳驰驿赴陕西会同料理，勿误收非噶尔丹之人。",
+ "people": [
+  {
+   "name": "图纳",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "陕西",
+  "多巴西喇古尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13701,
+ "page_range": "284-285"
+}

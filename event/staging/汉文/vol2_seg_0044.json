@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙四十七年八月初十日",
+ "reign_year": 47,
+ "month": 8,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "安徽巡抚刘光美奏报上江沿江近湖地方夏雨淹没田禾、后补种收成及秋成分数，并进呈御览。",
+ "people": [
+  {
+   "name": "王世臣",
+   "role": "提督江南等处地方总兵官左都督带管苏州等处水师总兵官事"
+  },
+  {
+   "name": "刘光美",
+   "role": "安徽巡抚"
+  }
+ ],
+ "places": [
+  "江南",
+  "苏州",
+  "安徽",
+  "上江"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "安徽巡撫劉光美奏報秋成分數摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "385",
+ "order_index": 44
+}

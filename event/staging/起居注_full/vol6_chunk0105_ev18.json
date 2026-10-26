@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "十六日王子",
+ "event_role": "人事任免",
+ "summary": "兵部题总兵官潘育龙请调旧州营都司周方补王庆坨都司，康熙以其人平常发回另行保题。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "潘育龙",
+   "role": "总兵官"
+  },
+  {
+   "name": "周方",
+   "role": "旧州营都司"
+  }
+ ],
+ "places": [
+  "旧州营",
+  "王庆坨"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10518,
+ "page_range": "220-221"
+}

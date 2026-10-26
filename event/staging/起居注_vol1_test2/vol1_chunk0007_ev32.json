@@ -1,0 +1,25 @@
+{
+ "reign_year": 11,
+ "month": 1,
+ "day_text": "二十五日于申",
+ "event_role": "皇帝行止",
+ "summary": "驻跸南口，太皇太后行宫未成，康熙帝驰往亲视设备毕回奏并送至宫内，随后出居庸关亲阅道路。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "南口",
+  "居庸关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 732,
+ "page_range": "71-72"
+}

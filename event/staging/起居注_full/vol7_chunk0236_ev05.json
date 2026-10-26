@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "十五日乙丑",
+ "event_role": "司法案件",
+ "summary": "刑部覆直隶巡抚赵弘党所题砍死小功尊属新名成之新鹏雷拟立斩一案，康熙帝以人命关系重大，命九卿、詹事、科、道会议具奏。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "新鹏雷",
+   "role": "案犯"
+  },
+  {
+   "name": "新名成",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23605,
+ "page_range": "483-484"
+}

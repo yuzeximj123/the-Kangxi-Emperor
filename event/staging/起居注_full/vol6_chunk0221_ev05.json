@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝评唐希顺人才矫健但品行鄙细，命九卿问岳昇龙居官优劣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐希顺",
+   "role": "提督"
+  },
+  {
+   "name": "岳昇龙",
+   "role": "前四川提督"
+  }
+ ],
+ "places": [
+  "昭莫多",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22105,
+ "page_range": "452-453"
+}

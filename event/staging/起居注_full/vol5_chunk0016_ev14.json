@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "十三日庚辰",
+ "event_role": "司法案件",
+ "summary": "三法司题正蓝旗原任江南佐领杜尼克之妻等打死前妻之子二住一案，康熙帝改拟阿丁、长生斩监候，杜尼克妻枷号不准折赎，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜尼克",
+   "role": "原任江南佐领"
+  },
+  {
+   "name": "二住",
+   "role": "死者"
+  },
+  {
+   "name": "马尔苏",
+   "role": "族人"
+  },
+  {
+   "name": "长生",
+   "role": "杜尼克亲子"
+  },
+  {
+   "name": "阿丁",
+   "role": "家奴"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1614,
+ "page_range": "42-43"
+}

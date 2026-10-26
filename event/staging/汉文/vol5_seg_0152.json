@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙五十三年正月二十日",
+ "reign_year": 53,
+ "month": null,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦向康熙请安，并奏报新岁正月天气晴明、米价平稳及进呈福州扬州晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造郎中，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "江宁",
+  "福州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批告知自己安好，并表示已知道所奏事项。",
+ "source_title": "蘇州織造李煦奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1514",
+ "order_index": 152
+}

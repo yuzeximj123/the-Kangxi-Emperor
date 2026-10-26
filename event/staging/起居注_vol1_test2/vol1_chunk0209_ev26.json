@@ -1,0 +1,20 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "初三日甲子",
+ "event_role": "请安谢恩",
+ "summary": "午时，诸王、大臣同至乾清门请皇上安，并请皇太子安。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20926,
+ "page_range": "475-476"
+}

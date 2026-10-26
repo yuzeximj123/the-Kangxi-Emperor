@@ -1,0 +1,38 @@
+{
+ "reign_year": 17,
+ "month": 8,
+ "day_text": "二十八日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "讲章单错写应讲章节，讲官欲检举认罪，康熙帝遣侍卫传谕称系小错不必认罪，后又传谕不必谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  },
+  {
+   "name": "尔格",
+   "role": "侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16605,
+ "page_range": "389-390"
+}

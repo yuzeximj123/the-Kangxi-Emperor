@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": "初九日庚子",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内洲宁居听政，部院各衙门官员面奏，吏部以候补给事中屠粹忠引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "屠粹忠",
+   "role": "候补给事中"
+  }
+ ],
+ "places": [
+  "畅春园内洲宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6215,
+ "page_range": "134-135"
+}

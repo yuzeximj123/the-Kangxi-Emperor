@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "司法案件",
+ "summary": "理藩院题请将盗马人犯顾幕严加看守，待厄鲁特厄尔克鄂木布到时质审，康熙帝命即议结以惩不肖。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "顾幕",
+   "role": "盗马人犯"
+  },
+  {
+   "name": "厄尔克鄂木布",
+   "role": "厄鲁特部落"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2504,
+ "page_range": "85-86"
+}

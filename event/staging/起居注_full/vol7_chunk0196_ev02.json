@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙命问九卿钱名世、王式丹、贾国维、贾兆凤四人为人如何，具奏。",
+ "people": [
+  {
+   "name": "钱名世",
+   "role": "翰林"
+  },
+  {
+   "name": "王式丹",
+   "role": "翰林"
+  },
+  {
+   "name": "贾国维",
+   "role": "翰林"
+  },
+  {
+   "name": "贾兆凤",
+   "role": "翰林"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19602,
+ "page_range": "403-404"
+}

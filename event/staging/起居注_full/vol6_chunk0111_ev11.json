@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十六日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁侍读学士员缺，康熙帝命内务府郎中法亮补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "法亮",
+   "role": "内务府郎中"
+  },
+  {
+   "name": "鄂奇",
+   "role": "郎中"
+  },
+  {
+   "name": "惑贝",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11111,
+ "page_range": "232-233"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十二日甲子",
+ "event_role": "议政听政",
+ "summary": "礼部覆浙江将军马哈达奏庆贺行礼及坐位班次事，康熙帝以礼部所议陋劣，命九卿会同确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马哈达",
+   "role": "浙江将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18005,
+ "page_range": "403-404"
+}

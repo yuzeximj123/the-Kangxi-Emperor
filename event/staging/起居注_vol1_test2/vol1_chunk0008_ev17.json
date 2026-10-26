@@ -1,0 +1,26 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "初四日庚扶",
+ "event_role": "司法案件",
+ "summary": "路旁二人持状跪呼御前，侍卫欲治其犯跸之罪，康熙帝以其民无知且值严寒，令勿治。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "侍卫",
+   "role": "侍卫"
+  },
+  {
+   "name": "持状二人",
+   "role": "百姓"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 817,
+ "page_range": "73-74"
+}

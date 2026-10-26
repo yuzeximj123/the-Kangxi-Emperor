@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "初七日乙酉",
+ "event_role": "人事任免",
+ "summary": "吏部题礼部侍郎图尔宸升任员缺，康熙帝决定升补顾八代为礼部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "顾八代",
+   "role": "官员"
+  },
+  {
+   "name": "图尔宸",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "禅布",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21621,
+ "page_range": "467-468"
+}

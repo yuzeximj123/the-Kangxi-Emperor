@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "尚书图纳奏称奔席曾带往右卫审事，长于事情是实。",
+ "people": [
+  {
+   "name": "图纳",
+   "role": "尚书"
+  },
+  {
+   "name": "奔席",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8205,
+ "page_range": "174-175"
+}

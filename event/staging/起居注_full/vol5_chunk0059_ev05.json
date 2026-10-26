@@ -1,0 +1,36 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "十八日",
+ "event_role": "司法案件",
+ "summary": "兵部题广东巡抚朱弘祚奏韩佐周与张改宣互讦事，康熙帝斥韩佐周生性贪酷，命遣部院堂官会同该督察审具奏。",
+ "people": [
+  {
+   "name": "韩佐周",
+   "role": "原任碍石总兵官"
+  },
+  {
+   "name": "张改宣",
+   "role": "中军游击"
+  },
+  {
+   "name": "朱弘祚",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5905,
+ "page_range": "128-129"
+}

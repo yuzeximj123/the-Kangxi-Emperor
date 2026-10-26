@@ -1,0 +1,44 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初九日甲午",
+ "event_role": "司法案件",
+ "summary": "朝审缓决人犯请旨，康熙帝令吴寺木济缓决监候，吴格从宽免死发黑龙江当差，小赵儿等改为可矜减等完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴寺木济",
+   "role": "人犯"
+  },
+  {
+   "name": "吴格",
+   "role": "人犯"
+  },
+  {
+   "name": "小赵儿",
+   "role": "人犯"
+  },
+  {
+   "name": "俞四",
+   "role": "人犯"
+  },
+  {
+   "name": "范义",
+   "role": "人犯"
+  },
+  {
+   "name": "董五",
+   "role": "人犯"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19508,
+ "page_range": "401-402"
+}

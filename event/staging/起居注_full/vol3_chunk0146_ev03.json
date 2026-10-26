@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初二日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "九卿会议湖广布政使张仲举条奏请裁存留钱粮议准，康熙帝谕令票出令督抚详议具奏。",
+ "people": [
+  {
+   "name": "张仲举",
+   "role": "湖广布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14603,
+ "page_range": "327-328"
+}

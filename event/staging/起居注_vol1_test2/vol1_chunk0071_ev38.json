@@ -1,0 +1,24 @@
+{
+ "reign_year": 13,
+ "month": 5,
+ "day_text": "初五日戊搬",
+ "event_role": "祭祀典礼",
+ "summary": "已时，康熙帝迁送大行皇后梓宫于紫禁城西，诸王以下及文武各官、王妃公主格格以下、八旗二品命妇以上齐集梓宫前举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "大行皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [
+  "紫禁城西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7138,
+ "page_range": "199-200"
+}

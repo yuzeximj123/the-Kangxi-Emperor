@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十八日甲申",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问常书席米图为人，常书奏其可用办事亦好，曾从大将军图海出兵被保举。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "起居注官"
+  },
+  {
+   "name": "席米图",
+   "role": "翰林院侍读学士"
+  },
+  {
+   "name": "图海",
+   "role": "大将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2615,
+ "page_range": "62-63"
+}

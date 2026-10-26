@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 8,
+ "day_text": "二十六日",
+ "event_role": "谕旨决策",
+ "summary": "前锋统领吴达禅传谕领侍卫内大臣等，附近三家店道旁沟水不得取饮，误饮即成霍乱，遍谕文武官员军士知之。",
+ "people": [
+  {
+   "name": "吴达禅",
+   "role": "前锋统领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三家店"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16405,
+ "page_range": "338-339"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论总督奏折途中被拆改，谕嗣后督抚奏折俱令钤关防以防更改。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "噶敏图",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17908,
+ "page_range": "369-370"
+}

@@ -1,0 +1,40 @@
+{
+ "date_raw": "康熙伍拾壹年柒月初柒日",
+ "reign_year": 51,
+ "month": 7,
+ "day": 7,
+ "event_role": "人事任免",
+ "summary": "提督江南总兵官师懿德奏请破格以石匣营游击赵武补授吴淞营参将，以重海疆要地。",
+ "people": [
+  {
+   "name": "师懿德",
+   "role": "提督江南等处地方总兵官"
+  },
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "路振扬",
+   "role": "吴淞营参将，升补九江营副将"
+  },
+  {
+   "name": "赵武",
+   "role": "石匣营游击，拟补吴淞营参将"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "吴淞营",
+  "九江营",
+  "石匣营"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示阅知。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 119
+}

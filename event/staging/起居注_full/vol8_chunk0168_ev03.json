@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "十二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论各关监督缺额之弊，命大学士马齐等会议笔帖式羡余备用之处具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "葛陈锡",
+   "role": "原任巡抚"
+  },
+  {
+   "name": "蒋陈锡",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "临清"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16803,
+ "page_range": "347-348"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "九卿会同赵申乔议刘芳声、金二仍拟绞监候，徐彩官改拟妻流徙，康熙令金二、徐彩官不可减等，再议。",
+ "people": [
+  {
+   "name": "刘芳声",
+   "role": "案犯"
+  },
+  {
+   "name": "金二",
+   "role": "案犯"
+  },
+  {
+   "name": "徐彩官",
+   "role": "案犯"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19302,
+ "page_range": "397-398"
+}

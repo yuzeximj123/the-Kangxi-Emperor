@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕扈从部院诸臣，说明巡幸江宁地方情形已熟，因阅河之便复来，地方官预备舟船皆出官银采办，不许派取民间，命将空备船只拆毁物料应用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6001,
+ "page_range": "132-133"
+}

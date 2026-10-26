@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙肆拾年柒月初三日",
+ "reign_year": 40,
+ "month": 7,
+ "day": 3,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚邵嗣尧奏报皇上在口外水泥中虔诚祈祷使水势消退、百余人获救，赞颂皇上至诚动天，并恭请圣安。",
+ "people": [
+  {
+   "name": "邵嗣尧",
+   "role": "巡抚直隶等处地方提督军务兼理粮饷"
+  },
+  {
+   "name": "宋荦",
+   "role": "江南江宁等处巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "口外",
+  "东门滩",
+  "江南",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知。",
+ "source_title": "恭请圣安仰祈睿鉴",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 193
+}

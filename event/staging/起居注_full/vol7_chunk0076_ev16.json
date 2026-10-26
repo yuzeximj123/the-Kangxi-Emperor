@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十八日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "户部题山东巡抚王国昌、总河张鹏翮等擅动常平仓米谷赈济拟降级赔补，帝令查明原谕及奏折具奏。",
+ "people": [
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "桑格",
+   "role": "总得"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7616,
+ "page_range": "163-164"
+}

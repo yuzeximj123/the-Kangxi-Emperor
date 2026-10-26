@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "酉时",
+ "event_role": "朝见受贺",
+ "summary": "赐朝鲜国王李入所遗奏让进表来使陪臣礼曹参判宋廷奎等缎、茧级、白金等物。",
+ "people": [
+  {
+   "name": "宋廷奎",
+   "role": "礼曹参判"
+  },
+  {
+   "name": "李入",
+   "role": "朝鲜国王"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23217,
+ "page_range": "474-475"
+}

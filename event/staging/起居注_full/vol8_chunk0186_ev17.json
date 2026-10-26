@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "十一日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝与张伯行论祈雨及《春秋繁露》，谓凡事不外乎一诚，又论雨雪地方时候不同、风雨占验等事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "云贵",
+  "四川",
+  "广西",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18617,
+ "page_range": "383-384"
+}

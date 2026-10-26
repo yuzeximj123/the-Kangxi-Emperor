@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "十四日壬午",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士等捧折本面奏，议吏部、工部题参司属官员唐翰稚等才力不及降调、老疾休致事，帝令大学士等酌议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "内阁学士"
+  },
+  {
+   "name": "石柱",
+   "role": "内阁学士"
+  },
+  {
+   "name": "图纳",
+   "role": "内阁学士"
+  },
+  {
+   "name": "唐翰稚",
+   "role": "司属官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22410,
+ "page_range": "491-492"
+}

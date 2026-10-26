@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "十三日丙午",
+ "event_role": "祭祀典礼",
+ "summary": "太常寺题请暂安奉裕亲王致和祭，康熙帝命皇太子前往行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5109,
+ "page_range": "112-113"
+}

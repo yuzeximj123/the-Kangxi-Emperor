@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初一日乙酉",
+ "event_role": "人事任免",
+ "summary": "内净学士雷虎因病请罢，康熙帝斥其庸懦虚伪、假冒清廉，命吏部会同都察院严察议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雷虎",
+   "role": "内净学士"
+  },
+  {
+   "name": "魏象枢",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3514,
+ "page_range": "113-114"
+}

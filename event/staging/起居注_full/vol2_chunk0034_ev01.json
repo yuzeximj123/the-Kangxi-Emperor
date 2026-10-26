@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "为纠参朱本忠等遵旨回奏事，康熙命将朱本忠等具题之日再行启奏该本。",
+ "people": [
+  {
+   "name": "朱本忠",
+   "role": "被纠参官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3401,
+ "page_range": "111-112"
+}

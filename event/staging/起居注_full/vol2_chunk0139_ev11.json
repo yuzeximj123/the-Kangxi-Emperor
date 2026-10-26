@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十五日庚寅",
+ "event_role": "人事任免",
+ "summary": "明珠奏广西巡抚于浴请留丁忧左江道佟耀年，查郝浴曾奏停题补且官员不准在任守制，康熙帝令饬行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "于浴",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "佟耀年",
+   "role": "左江道"
+  },
+  {
+   "name": "郝浴",
+   "role": "前御史"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13911,
+ "page_range": "321-322"
+}

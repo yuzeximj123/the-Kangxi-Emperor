@@ -1,0 +1,40 @@
+{
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "十一日癸亥",
+ "event_role": "司法案件",
+ "summary": "刑部汇题陈二等殴打护军校吴八十拟枷号杖责，康熙帝令枷责完后发黑龙江与披甲新满洲为奴。",
+ "people": [
+  {
+   "name": "陈二",
+   "role": "案犯"
+  },
+  {
+   "name": "张秃子",
+   "role": "案犯"
+  },
+  {
+   "name": "宋二",
+   "role": "案犯"
+  },
+  {
+   "name": "马五使",
+   "role": "案犯"
+  },
+  {
+   "name": "刘五缘",
+   "role": "案犯"
+  },
+  {
+   "name": "吴八十",
+   "role": "护军校"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22313,
+ "page_range": "457-458"
+}

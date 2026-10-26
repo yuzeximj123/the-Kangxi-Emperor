@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "二十九日壬申",
+ "event_role": "军务",
+ "summary": "康熙帝详述康熙十七年三月初一长沙攻战情形，指安亲王官兵与穆占官兵互相树敌，并述前锋杀败逆贼、护军骁骑前进及临河损伤等事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安亲王",
+   "role": "领兵亲王"
+  },
+  {
+   "name": "穆占",
+   "role": "领兵将领"
+  }
+ ],
+ "places": [
+  "长沙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15819,
+ "page_range": "359-360"
+}

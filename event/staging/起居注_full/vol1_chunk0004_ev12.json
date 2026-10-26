@@ -1,0 +1,32 @@
+{
+ "reign_year": 10,
+ "month": 12,
+ "day_text": "十一日戊子",
+ "event_role": "司法案件",
+ "summary": "康熙帝遣郎中宜昌阿、程可则、宣桑阿往审大同总兵官赵良栋忠闻一事，面谕须精详公直。",
+ "people": [
+  {
+   "name": "宜昌阿",
+   "role": "郎中"
+  },
+  {
+   "name": "程可则",
+   "role": "郎中"
+  },
+  {
+   "name": "宣桑阿",
+   "role": "郎中"
+  },
+  {
+   "name": "赵良栋",
+   "role": "大同总兵官"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 412,
+ "page_range": "65-66"
+}

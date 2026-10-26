@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "十三日甲成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝阅河堤毕，驻足郯城县沙沟地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "郯城县沙沟"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5807,
+ "page_range": "151-152"
+}

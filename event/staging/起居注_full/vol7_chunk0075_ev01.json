@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部奏李住吃闻告伊主牙云一案，拟李住枷号三个月、鞭一百，康熙帝准照所议行，并命革退笔帖式牙云令在旗下行走。",
+ "people": [
+  {
+   "name": "李住",
+   "role": "案犯"
+  },
+  {
+   "name": "牙云",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7501,
+ "page_range": "161-162"
+}

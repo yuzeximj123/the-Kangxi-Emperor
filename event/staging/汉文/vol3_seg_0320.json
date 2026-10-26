@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十一年正月十六日",
+ "reign_year": 51,
+ "month": null,
+ "day": 16,
+ "event_role": "贸易漕运",
+ "summary": "苏州织造李煦奏报回南空粮船只已尽过扬州、各赴水次兑粮，并进呈苏州扬州康熙五十年十二月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "噶礼",
+   "role": "委派江镇道马团固沿途催行漕船"
+  },
+  {
+   "name": "马团固",
+   "role": "江镇道，奉命沿途催行回南漕船"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報會回漕船已過揚州摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "1018",
+ "order_index": 320
+}

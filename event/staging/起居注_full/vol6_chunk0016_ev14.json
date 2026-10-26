@@ -1,0 +1,22 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "二十三日庚午",
+ "event_role": "谕旨决策",
+ "summary": "传谕温泉以东之山照常禁止，温泉以西之山及遵化州至马兰峪及野处不必禁止，命守陵人等演习射猎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "温泉",
+  "遵化州",
+  "马兰峪"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1614,
+ "page_range": "42-43"
+}

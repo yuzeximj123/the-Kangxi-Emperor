@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十六年六月初三日",
+ "reign_year": 56,
+ "month": 6,
+ "day": 3,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报扬州、苏州雨水调匀、米价平稳及新丝价格，并称御稻长势良好，进呈五月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "扬州",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報蘇州米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2441",
+ "order_index": 444
+}

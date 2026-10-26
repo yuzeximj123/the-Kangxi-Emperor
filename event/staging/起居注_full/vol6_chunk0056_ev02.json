@@ -1,0 +1,21 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "伊桑阿奏偷采东珠一案，询问黑龙江将军及山谨总管安置人犯事宜。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "山谨"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5602,
+ "page_range": "122-123"
+}

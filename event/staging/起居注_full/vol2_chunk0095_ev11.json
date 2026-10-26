@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "初九日戊子",
+ "event_role": "谕旨决策",
+ "summary": "监察御史何嘉估奏请加上太皇太后、皇太后徽号及皇上尊号，康熙帝以天下荡平非一人功德、所奏无益，明珠请交九卿议奏，帝从之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何嘉估",
+   "role": "监察御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9511,
+ "page_range": "233-234"
+}

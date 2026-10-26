@@ -1,0 +1,29 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论卫既齐受国恩至厚却言行不符、虚报军功、生事边境，令将其传至午门外同九卿问之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "卫既齐",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [
+  "贵州",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22701,
+ "page_range": "466-467"
+}

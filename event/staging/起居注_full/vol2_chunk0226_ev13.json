@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "二十七日乙未",
+ "event_role": "司法案件",
+ "summary": "兵部议前锋校光图等坐赌博应革职枷号鞭责，康熙帝如部议，并令将五品官尚为人于结案时流徙乌喇地方。",
+ "people": [
+  {
+   "name": "光图",
+   "role": "前锋校"
+  },
+  {
+   "name": "尚为人",
+   "role": "五品官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22613,
+ "page_range": "495-496"
+}

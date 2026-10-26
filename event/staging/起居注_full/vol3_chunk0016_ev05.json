@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "二十五日痒卯",
+ "event_role": "人事任免",
+ "summary": "太常寺寺簿范达礼被参解任员缺，康熙帝令以赞礼郎宋古浑补授。",
+ "people": [
+  {
+   "name": "范达礼",
+   "role": "太常寺寺簿"
+  },
+  {
+   "name": "素住",
+   "role": "助教"
+  },
+  {
+   "name": "华凤",
+   "role": "司务"
+  },
+  {
+   "name": "宋古浑",
+   "role": "赞礼郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1605,
+ "page_range": "67-68"
+}

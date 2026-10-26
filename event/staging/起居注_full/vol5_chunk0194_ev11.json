@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十九日庚成",
+ "event_role": "朝见受贺",
+ "summary": "陕西神木道张衡、延安府知府张伟、陕西黄十营游击郝国瑞等来朝。",
+ "people": [
+  {
+   "name": "张衡",
+   "role": "陕西神木道"
+  },
+  {
+   "name": "张伟",
+   "role": "延安府知府"
+  },
+  {
+   "name": "郝国瑞",
+   "role": "陕西黄十营游击"
+  }
+ ],
+ "places": [
+  "府谷县城南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19411,
+ "page_range": "398-399"
+}

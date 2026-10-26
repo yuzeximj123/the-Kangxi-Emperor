@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "二十六日本丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补礼部郎中员缺，康熙帝询问马莫为人后，以其在部年久着即补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马莫",
+   "role": "拟补礼部郎中"
+  },
+  {
+   "name": "苏札鲁",
+   "role": "陪拟"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7001,
+ "page_range": "183-184"
+}

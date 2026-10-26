@@ -1,0 +1,22 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": "十八日乙未",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝由神武门出西直门，驻跸畅春园，沿途王以下满汉文武官员、直省耆老士庶跪送。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神武门",
+  "西直门",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1011,
+ "page_range": "31-32"
+}

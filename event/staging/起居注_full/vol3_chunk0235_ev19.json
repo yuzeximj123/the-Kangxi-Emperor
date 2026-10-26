@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "汤斌奏皇上教皇太子过严、暑天功课太多，康熙帝答皇太子读书寒暑无间并不劳苦，命尹泰、德格勒传谕宫中无不读书之子。",
+ "people": [
+  {
+   "name": "汤斌",
+   "role": "讲官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尹泰",
+   "role": "詹事"
+  },
+  {
+   "name": "德格勒",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23519,
+ "page_range": "505-506"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝向阿海台吉等说明承平之世不忘武备、整军试火器乃本朝常制。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "传谕官员"
+  },
+  {
+   "name": "阿海台吉",
+   "role": "蒙古台吉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12300,
+ "page_range": "281-282"
+}

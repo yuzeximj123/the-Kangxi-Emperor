@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "二十四日庚辰",
+ "event_role": "军务",
+ "summary": "苏松水师营总兵官胡骏求调补陆路极边苦地，九卿议应将道员移驻崇明亲身放饷，康熙帝称所议甚好命交部条奏并令胡骏来京引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡骏",
+   "role": "苏松水师营总兵官"
+  }
+ ],
+ "places": [
+  "苏松",
+  "崇明"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15620,
+ "page_range": "323-324"
+}

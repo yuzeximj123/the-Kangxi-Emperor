@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "二十三日壬寅",
+ "event_role": "朝见受贺",
+ "summary": "议政王大臣、九卿等遵太皇太后圣旨会议，以皇上功德请上尊号，康熙帝以意已定决不允受。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10113,
+ "page_range": "245-246"
+}

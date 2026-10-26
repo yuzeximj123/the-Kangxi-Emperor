@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十四年八月初五日",
+ "reign_year": 54,
+ "month": 8,
+ "day": 5,
+ "event_role": "军务",
+ "summary": "广西巡抚陈元龙奏报听闻朝廷对哈密用兵，因地方僻远不能效力，自愿捐银四千两以助军粮转运，请交户部查收。",
+ "people": [
+  {
+   "name": "陈元龙",
+   "role": "广西巡抚、兵部左侍郎兼都察院右副都御史，奏报人及捐银者"
+  },
+  {
+   "name": "泽旺阿喇布坦",
+   "role": "在哈密地方窃掠、被朝廷征剿的对象"
+  }
+ ],
+ "places": [
+  "广西",
+  "哈密"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "廣西巡撫陳元龍奏報土司捐銀以助對敵洋匪阿喇衮之用兵摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1859",
+ "order_index": 128
+}

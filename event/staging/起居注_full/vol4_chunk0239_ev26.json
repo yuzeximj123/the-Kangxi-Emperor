@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 8,
+ "day_text": "十四日乙西",
+ "event_role": "奏报地方情形",
+ "summary": "古北口总兵官王廷彪奏闻原任石匣副将升授登州总兵官吕八音于本月初九日病故。",
+ "people": [
+  {
+   "name": "王廷彪",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "吕八音",
+   "role": "登州总兵官"
+  }
+ ],
+ "places": [
+  "古北口",
+  "石匣",
+  "登州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23926,
+ "page_range": "490-491"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "二十五日庚子",
+ "event_role": "谕旨决策",
+ "summary": "奉使琉球正使汪楫、副使林麟焻陛辞，康熙帝谕以持大体、待以宽和，并指示通贡事报部听议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汪楫",
+   "role": "奉使琉球正使翰林院检讨"
+  },
+  {
+   "name": "林麟焻",
+   "role": "副使内阁中书"
+  }
+ ],
+ "places": [
+  "琉球"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14110,
+ "page_range": "325-326"
+}

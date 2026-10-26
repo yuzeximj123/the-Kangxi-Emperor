@@ -1,0 +1,21 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝念去年巡行见高唐、济宁民生艰难，今又水灾，命速遣能员踏勘并议赈济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "高唐",
+  "济宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11002,
+ "page_range": "255-256"
+}

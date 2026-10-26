@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "二十八日乙巳",
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚沈朝聘题霸州等五十七州县卫田地被秋灾，康熙帝认为沈朝聘精力不及、不能详核，命差部院能员偕往阅勘。",
+ "people": [
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1307,
+ "page_range": "36-37"
+}

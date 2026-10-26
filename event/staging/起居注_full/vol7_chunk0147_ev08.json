@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议正红旗喀济礼奸妻及称罕不孝等事，康熙帝以该部徇庇，令本发还另议具奏。",
+ "people": [
+  {
+   "name": "喀济礼",
+   "role": "原任助教"
+  },
+  {
+   "name": "称罕",
+   "role": "喀济礼前妻之子"
+  },
+  {
+   "name": "穆善",
+   "role": "喀济礼继母幼子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14708,
+ "page_range": "305-306"
+}

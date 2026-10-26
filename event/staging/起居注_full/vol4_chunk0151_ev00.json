@@ -1,0 +1,20 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕四十九旗王、贝勒等，边外盗贼日滋，令各严察禁止，使盗贼永息。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "边外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15100,
+ "page_range": "314-315"
+}

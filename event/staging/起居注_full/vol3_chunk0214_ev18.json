@@ -1,0 +1,40 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十九日己卯",
+ "event_role": "人事任免",
+ "summary": "少詹事卢琦升任员缺拟补王封滩，康熙询问其为人，余国柱奏守分，康熙改以合相元补授少詹事。",
+ "people": [
+  {
+   "name": "卢琦",
+   "role": "少詹事"
+  },
+  {
+   "name": "王封滩",
+   "role": "侍读学士"
+  },
+  {
+   "name": "合相元",
+   "role": "官员"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21418,
+ "page_range": "463-464"
+}

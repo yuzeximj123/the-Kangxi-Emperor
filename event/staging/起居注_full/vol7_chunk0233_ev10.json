@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "初六日两辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论治天下莫要于至公，称张伯行居官清廉、天下共知，噶礼操守不可信，若不清官保全则读书何益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23310,
+ "page_range": "477-478"
+}

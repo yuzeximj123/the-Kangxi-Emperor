@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "十四日乙丑",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝由西直门进西华门，赴太皇太后宫问安后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西直门",
+  "西华门",
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19125,
+ "page_range": "417-418"
+}

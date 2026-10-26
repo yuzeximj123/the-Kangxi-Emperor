@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "三十日丙戌",
+ "event_role": "司法案件",
+ "summary": "刑部题陆有吉诱取商人财物拟立斩、从犯杨士奇拟绞，康熙帝以罪似过重，命该部议减等发落。",
+ "people": [
+  {
+   "name": "陆有吉",
+   "role": "案犯"
+  },
+  {
+   "name": "杨士奇",
+   "role": "从犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12710,
+ "page_range": "289-290"
+}

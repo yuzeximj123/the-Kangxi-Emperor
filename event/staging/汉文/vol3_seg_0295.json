@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十年十一月初一日",
+ "reign_year": 50,
+ "month": 11,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "大学士李光地奏报病情好转，感谢皇上赐海水洗濯及恩准坐汤，并请求来月初二日赴畅春园叩谢天恩、求赐觐见。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，奏折作者"
+  },
+  {
+   "name": "存住",
+   "role": "奏事官，差家人赍奉旨问病"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙叮嘱李光地早忌最为要紧不可疏忽，来时应谨避风寒，见驾后仍回汤泉完成早忌。",
+ "source_title": "大學士李光地奏請赴暢春園觀見摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "995",
+ "order_index": 295
+}

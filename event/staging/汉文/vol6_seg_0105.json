@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十四年七月初七日",
+ "reign_year": 54,
+ "month": 7,
+ "day": 7,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州六月至七月雨水情况、低田积水及禾苗补种情形，并报米价与张伯行审案已完、正拜疏。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "审事大人，在镇江府审问张伯行"
+  },
+  {
+   "name": "张伯行",
+   "role": "被审问官员"
+  }
+ ],
+ "places": [
+  "苏州",
+  "镇江府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報蘇州雨水米價并報張伯行已審完摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1835",
+ "order_index": 105
+}

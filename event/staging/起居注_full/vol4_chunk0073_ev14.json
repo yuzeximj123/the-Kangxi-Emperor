@@ -1,0 +1,46 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "十三日戊申",
+ "event_role": "人事任免",
+ "summary": "吏部题补监察御史吴尔社解任员缺，康熙帝询问考试员外郎人选后命喀拜补授。",
+ "people": [
+  {
+   "name": "吴尔社",
+   "role": "监察御史"
+  },
+  {
+   "name": "增寿",
+   "role": "员外郎"
+  },
+  {
+   "name": "齐什",
+   "role": "员外郎"
+  },
+  {
+   "name": "喀拜",
+   "role": "侍读"
+  },
+  {
+   "name": "萨音布",
+   "role": "员外郎"
+  },
+  {
+   "name": "纪保",
+   "role": "员外郎"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7314,
+ "page_range": "158-159"
+}

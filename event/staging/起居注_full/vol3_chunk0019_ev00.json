@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请以袁景星补授升任通政司右通政赵之昂员缺，康熙命问明袁景星为人并开列次应升之人。",
+ "people": [
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "赵之昂",
+   "role": "通政司右通政"
+  },
+  {
+   "name": "袁景星",
+   "role": "太常寺少卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1900,
+ "page_range": "73-74"
+}

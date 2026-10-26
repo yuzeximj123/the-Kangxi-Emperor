@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十四年三月初七日",
+ "reign_year": 54,
+ "month": 3,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "直隶总督赵弘燮奏谢皇上赏加总督衔并屡赐御制诗文、御书扁句及内府珍品，表示感激图报。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督，奏谢者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，赏加总督衔并赐物"
+  }
+ ],
+ "places": [
+  "直隶",
+  "畿辅",
+  "海子"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸巡撫趙弘燮奏謝賞加總督銜摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1743",
+ "order_index": 26
+}

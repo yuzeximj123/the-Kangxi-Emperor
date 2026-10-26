@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十一日辛卯",
+ "event_role": "人事任免",
+ "summary": "大学士伊桑阿奏蔡钞构病已痊愈，康熙帝命授京口副都统。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "蔡钞构",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6310,
+ "page_range": "136-137"
+}

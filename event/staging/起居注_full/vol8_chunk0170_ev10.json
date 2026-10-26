@@ -1,0 +1,36 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝责问部院为何未参奏声名不好之司官，王岳奏称吏部郎中张有光、直隶学院张逸少果然声名不好。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王岳",
+   "role": "大学士"
+  },
+  {
+   "name": "张有光",
+   "role": "吏部文选司郎中"
+  },
+  {
+   "name": "张逸少",
+   "role": "直隶学院"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17010,
+ "page_range": "351-352"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十二日本未",
+ "event_role": "弹劾参奏",
+ "summary": "总督德珠等题参通惠河监督晋布及运丁等，康熙斥晋布劣迹，命该部严加议罪。",
+ "people": [
+  {
+   "name": "德珠",
+   "role": "总督"
+  },
+  {
+   "name": "晋布",
+   "role": "通惠河监督"
+  }
+ ],
+ "places": [
+  "通惠河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11015,
+ "page_range": "230-231"
+}

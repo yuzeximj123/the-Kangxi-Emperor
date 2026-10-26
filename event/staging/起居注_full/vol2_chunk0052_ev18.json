@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十三日乙丑",
+ "event_role": "人事任免",
+ "summary": "兵部题镶白旗蒙古参领员缺，正拟色勒木素、陪拟赵纳斯图，康熙帝命查明二人劳绩具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色勒木素",
+   "role": "佐领、正拟参领"
+  },
+  {
+   "name": "赵纳斯图",
+   "role": "陪拟参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5218,
+ "page_range": "147-148"
+}

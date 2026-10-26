@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "二十七日丁亥",
+ "event_role": "谕旨决策",
+ "summary": "都察院副都御史张可前条奏请将康熙帝历年听政汇集成书刊刻昭示，康熙帝命衙门同翰林院会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张可前",
+   "role": "都察院副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7111,
+ "page_range": "177-178"
+}

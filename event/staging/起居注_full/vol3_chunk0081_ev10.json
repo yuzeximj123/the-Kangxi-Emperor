@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "十四日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题蒙古阵亡病故官兵宜加优恤，康熙帝命侍郎喇巴克前往颁赏，明珠请令其阅看蒙古文移，帝准奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇巴克",
+   "role": "理藩院侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8110,
+ "page_range": "197-198"
+}

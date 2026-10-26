@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "讲章引贾谊事，康熙帝与讲官讨论贾谊治安策可否施行于后世。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "贾谊",
+   "role": "汉代政论家"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14902,
+ "page_range": "341-342"
+}

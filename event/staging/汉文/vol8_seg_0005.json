@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十六年十二月十一日",
+ "reign_year": 56,
+ "month": 12,
+ "day": 27,
+ "event_role": "贸易漕运",
+ "summary": "直隶总督赵弘燮奏报天津关一年差期将满，正税、铜斤水脚及赢余银两尚未统算，待满日分别题解户部与奏缴内库。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督，奏报人"
+  }
+ ],
+ "places": [
+  "天津关",
+  "内库"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸總督趙弘燮奏為宣收天津關贏餘差期將滿等情摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2552",
+ "order_index": 5
+}

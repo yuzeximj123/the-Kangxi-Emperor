@@ -1,0 +1,28 @@
+{
+ "reign_year": 17,
+ "month": 8,
+ "day_text": "十八日丙戌",
+ "event_role": "其他",
+ "summary": "康熙帝命高士奇捧《御制诗集》至南书房，赐陈廷敬等三人及张英、高士奇同观。",
+ "people": [
+  {
+   "name": "高士奇",
+   "role": "中书"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "官员"
+  },
+  {
+   "name": "张英",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "南书房"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16731,
+ "page_range": "391-392"
+}

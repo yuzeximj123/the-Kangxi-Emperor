@@ -1,0 +1,36 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "初五日戊戌",
+ "event_role": "议政听政",
+ "summary": "晚间康熙帝御行宫，大学士伊桑阿等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "学士"
+  },
+  {
+   "name": "迈图",
+   "role": "学士"
+  },
+  {
+   "name": "西安",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8403,
+ "page_range": "180-181"
+}

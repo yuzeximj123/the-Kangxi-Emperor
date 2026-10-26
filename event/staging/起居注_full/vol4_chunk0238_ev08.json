@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 7,
+ "day_text": "二十七日已已",
+ "event_role": "司法案件",
+ "summary": "理藩院等题抢掠正白旗游牧阿纳达等驼马米茶首犯绰会、阿喇善拟立绞，康熙帝以未伤人令杀首犯绰会、阿喇善从宽免死。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "绰会",
+   "role": "首犯"
+  },
+  {
+   "name": "阿喇善",
+   "role": "从犯"
+  },
+  {
+   "name": "阿纳达",
+   "role": "正白旗游牧"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23808,
+ "page_range": "488-489"
+}

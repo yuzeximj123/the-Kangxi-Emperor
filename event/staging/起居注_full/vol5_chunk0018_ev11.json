@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初一日戊成",
+ "event_role": "谕旨决策",
+ "summary": "步军统领凯音布奏请派绿旗兵看守新修之路，康熙帝以修路便民、派兵禁行不合朕意，命停止派兵、听人照常行走。",
+ "people": [
+  {
+   "name": "凯音布",
+   "role": "步军统领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "萨木哈",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1811,
+ "page_range": "46-47"
+}

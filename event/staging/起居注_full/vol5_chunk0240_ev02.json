@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "十七日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部题刑部尚书图纳员缺，康熙帝命左都御史傅腊塔升补刑部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "左都御史升刑部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24002,
+ "page_range": "490-491"
+}

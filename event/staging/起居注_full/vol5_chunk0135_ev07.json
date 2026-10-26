@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "亲近侍卫关保传谕，原任员外关布着复原职，柏成栋以道员缺先用，二人皆赍大将军马思喀奏章来之人。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "关布",
+   "role": "原任员外"
+  },
+  {
+   "name": "柏成栋",
+   "role": "以道员缺先用"
+  },
+  {
+   "name": "马思喀",
+   "role": "大将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13507,
+ "page_range": "280-281"
+}

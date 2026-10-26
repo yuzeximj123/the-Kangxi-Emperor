@@ -1,0 +1,33 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "二十二日癸丑",
+ "event_role": "军务",
+ "summary": "江西巡抚安世办请撤原调河南官兵回本省，康熙帝与大学士议留兵效力及补伍事，命一并再议具奏。",
+ "people": [
+  {
+   "name": "安世办",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江西",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20812,
+ "page_range": "473-474"
+}

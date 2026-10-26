@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十八日痒卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读学士员缺，康熙帝以正陪拟色勒布、色黑为人平常，命查明应升官员具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色勒布",
+   "role": "郎中"
+  },
+  {
+   "name": "色黑",
+   "role": "陪拟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16314,
+ "page_range": "369-370"
+}

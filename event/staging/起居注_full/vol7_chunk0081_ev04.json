@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "马齐、揆叙奏请文王、武王祭文不必书御名，康熙帝以文王武王为古圣君，谕仍书御名致祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "揆叙",
+   "role": "翰林院掌院学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8104,
+ "page_range": "173-174"
+}

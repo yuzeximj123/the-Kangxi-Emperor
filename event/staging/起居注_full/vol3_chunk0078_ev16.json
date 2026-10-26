@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初三日癸北",
+ "event_role": "谕旨决策",
+ "summary": "台湾投诚郑克志、郑崇请议叙，康熙帝询问大学士后令九卿、詹事、科道会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郑克志",
+   "role": "台湾投诚人员"
+  },
+  {
+   "name": "郑崇",
+   "role": "台湾投诚人员"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7816,
+ "page_range": "191-192"
+}

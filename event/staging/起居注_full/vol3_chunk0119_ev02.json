@@ -1,0 +1,40 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "初二日成午",
+ "event_role": "司法案件",
+ "summary": "大学士等以折本请旨，刑部等会审山西巡抚穆尔赛等照例拟绞，康熙帝以其贪酷显著令即行正法。",
+ "people": [
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11902,
+ "page_range": "273-274"
+}

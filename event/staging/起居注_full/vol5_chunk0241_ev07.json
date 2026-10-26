@@ -1,0 +1,21 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙述统兵中路多方筹画转运米粮，旋师无一人受馁且资给西路之兵俱获全还。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中路",
+  "西路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24107,
+ "page_range": "492-493"
+}

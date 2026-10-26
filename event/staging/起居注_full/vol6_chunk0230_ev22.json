@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十六日戊辰",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题强盗黄双儿等拟立正法，康熙帝命黄双儿立决，陆三、马二、朱三儿从宽免死减等发往黑龙江，余依议。",
+ "people": [
+  {
+   "name": "黄双儿",
+   "role": "强盗"
+  },
+  {
+   "name": "陆三",
+   "role": "强盗"
+  },
+  {
+   "name": "马二",
+   "role": "强盗"
+  },
+  {
+   "name": "朱三儿",
+   "role": "强盗"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23022,
+ "page_range": "470-471"
+}

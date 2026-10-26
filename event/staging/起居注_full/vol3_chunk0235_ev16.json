@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "皇太子温诵《礼记》数节、经义一篇各一百二十遍，诵毕问汤斌太皇太后明日幸畅春园、自己应否随去，汤斌请旨定夺。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "汤斌",
+   "role": "讲官"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23516,
+ "page_range": "505-506"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十五日庚子",
+ "event_role": "军务",
+ "summary": "广东巡抚金俊题留尚之信标下官兵二千一百名，兵部议不准，康熙帝令仍留守地方交部另议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金俊",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "尚之信",
+   "role": "已故平南王"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2912,
+ "page_range": "101-102"
+}

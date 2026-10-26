@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "二十三日丙午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝进达希喀布齐尔口，喀喇沁部落王札锡、公吴特巴喇率部下官员跪送。",
+ "people": [
+  {
+   "name": "札锡",
+   "role": "喀喇沁部落王"
+  },
+  {
+   "name": "吴特巴喇",
+   "role": "公"
+  }
+ ],
+ "places": [
+  "达希喀布齐尔口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4904,
+ "page_range": "141-142"
+}

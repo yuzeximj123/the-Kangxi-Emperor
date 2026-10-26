@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题发遣罪人张继富脱逃，拟将打牲乌拉总管称克登降二级调用、骁骑校海度革职，康熙帝令称克登从宽免革职罚俸。",
+ "people": [
+  {
+   "name": "张继富",
+   "role": "发遣罪人"
+  },
+  {
+   "name": "称克登",
+   "role": "打牲乌拉总管"
+  },
+  {
+   "name": "海度",
+   "role": "骁骑校"
+  }
+ ],
+ "places": [
+  "打牲乌拉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13501,
+ "page_range": "281-282"
+}

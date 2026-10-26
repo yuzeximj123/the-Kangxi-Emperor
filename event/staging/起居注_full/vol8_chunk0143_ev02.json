@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "初一日庚申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士松柱，密云至边外雨水沾足，近京仍旱，端阳节近禁止会饮，命松柱写旨速发京城。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "密云",
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14302,
+ "page_range": "297-298"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "初四日辛未",
+ "event_role": "弹劾参奏",
+ "summary": "伊桑阿奏巡抚张鹏翮题请蠲免输谷事不合，康熙帝以其与听民乐输之语自相矛盾，令严加议处并照所论票拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1511,
+ "page_range": "40-41"
+}

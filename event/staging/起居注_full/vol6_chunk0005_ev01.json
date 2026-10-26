@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝于阅卷之际询问张鹏翮浙江前任巡抚王维珍居官如何，张鹏翮答平常，与现任线一信相同。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "臣工"
+  },
+  {
+   "name": "王维珍",
+   "role": "前任浙江巡抚"
+  },
+  {
+   "name": "线一信",
+   "role": "现任浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 501,
+ "page_range": "20-21"
+}

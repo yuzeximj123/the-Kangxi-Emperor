@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "展时",
+ "event_role": "人事任免",
+ "summary": "镇远将军管贵州提督事李芳述请以游击李能补中军副将，康熙帝允所请，杨弘基留贵州候补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李芳述",
+   "role": "镇远将军管贵州提督事"
+  },
+  {
+   "name": "李能",
+   "role": "游击"
+  },
+  {
+   "name": "杨弘基",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3032
+}

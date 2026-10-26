@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "十三日庚子",
+ "event_role": "军务",
+ "summary": "议政王等议云南提督桑格标下兵丁自袁州逃回处分，康熙帝命遣部院堂官一员前往察审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "云南提督"
+  }
+ ],
+ "places": [
+  "云南",
+  "袁州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25616,
+ "page_range": "569-570"
+}

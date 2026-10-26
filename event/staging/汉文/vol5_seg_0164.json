@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙伍拾叁年贰月拾日",
+ "reign_year": 53,
+ "month": 2,
+ "day": 10,
+ "event_role": "请安谢恩",
+ "summary": "湖广巡抚刘殿衡奏谢皇上减免其应出王府油饰银两、仅由部给发一万两之恩，表示感激并捐糜图报。",
+ "people": [
+  {
+   "name": "刘殿衡",
+   "role": "巡抚湖广都察院右副都御史，奏折作者"
+  },
+  {
+   "name": "高启桂",
+   "role": "原任巡抚，此前负责盖造王府工程"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "巡抚湖广都察院右副都御史刘殿衡奏为恭谢天恩事",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1528",
+ "order_index": 164
+}

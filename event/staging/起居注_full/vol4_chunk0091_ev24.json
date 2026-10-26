@@ -1,0 +1,29 @@
+{
+ "reign_year": 28,
+ "month": 11,
+ "day_text": "十七日庚戌",
+ "event_role": "奏报灾情收成",
+ "summary": "湖广巡抚杨素列题德安等六府县被灾，户部郎中舒书等查勘被灾分数勘实奏闻，康熙帝令将今岁未征及来岁上半年钱粮蠲免。",
+ "people": [
+  {
+   "name": "杨素列",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "舒书",
+   "role": "户部郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "德安",
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9124,
+ "page_range": "194-195"
+}

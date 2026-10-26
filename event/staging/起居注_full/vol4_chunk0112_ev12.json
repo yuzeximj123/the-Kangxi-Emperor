@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读唐太宗时杀华州刺史李君羡论，批评谶纬之说不足据、疑诛失体。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐太宗",
+   "role": "唐朝皇帝"
+  },
+  {
+   "name": "李君羡",
+   "role": "华州刺史"
+  }
+ ],
+ "places": [
+  "华州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11212,
+ "page_range": "236-237"
+}

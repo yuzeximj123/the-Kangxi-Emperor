@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 1,
+ "day_text": "三十日已丑",
+ "event_role": "司法案件",
+ "summary": "宗人府奏赵格诬告其主马喀纳一案，达哈台代兄首告各款皆虚，拟鞭一百发往黑龙江；康熙帝令交都察院详审。",
+ "people": [
+  {
+   "name": "赵格",
+   "role": "诬告者"
+  },
+  {
+   "name": "马喀纳",
+   "role": "宗室被告"
+  },
+  {
+   "name": "达哈台",
+   "role": "代兄首告者"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士会讯"
+  },
+  {
+   "name": "二格",
+   "role": "学士会讯"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9313,
+ "page_range": "197-198"
+}

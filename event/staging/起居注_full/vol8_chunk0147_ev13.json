@@ -1,0 +1,20 @@
+{
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "十一日己亥",
+ "event_role": "其他",
+ "summary": "康熙帝赐大臣官员、执事人员、护军、七省官兵西瓜、香瓜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14713,
+ "page_range": "305-306"
+}

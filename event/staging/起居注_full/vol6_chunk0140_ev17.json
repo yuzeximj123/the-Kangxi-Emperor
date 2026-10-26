@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "二十七日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥凯音布徇私保举吴禄礼及己子，称自己甄别贤否不似其私昵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凯音布",
+   "role": "步军统领"
+  },
+  {
+   "name": "吴禄礼",
+   "role": "被保举人"
+  },
+  {
+   "name": "纪山",
+   "role": "右翼步军总尉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14017,
+ "page_range": "290-291"
+}

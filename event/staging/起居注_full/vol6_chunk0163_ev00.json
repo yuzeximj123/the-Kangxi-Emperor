@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命王九龄升补少詹事，徐秉义以礼部侍郎兼管詹事府事，孙后颂以礼部侍郎仍兼管国子监事。",
+ "people": [
+  {
+   "name": "王九龄",
+   "role": "升补少詹事"
+  },
+  {
+   "name": "徐秉义",
+   "role": "礼部侍郎兼管詹事府事"
+  },
+  {
+   "name": "孙后颂",
+   "role": "礼部侍郎仍兼管国子监事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16300,
+ "page_range": "336-337"
+}

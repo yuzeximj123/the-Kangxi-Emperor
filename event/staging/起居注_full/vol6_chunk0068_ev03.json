@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初八日戊申",
+ "event_role": "人事任免",
+ "summary": "郎中阿兰泰、检讨阿金为往审云贵擅自开矿光棍田士诚等事请训旨，康熙帝训谕阿兰泰系九卿保奏之人、阿金年少须思立品上进。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "郎中"
+  },
+  {
+   "name": "阿金",
+   "role": "检讨"
+  },
+  {
+   "name": "田士诚",
+   "role": "光棍"
+  }
+ ],
+ "places": [
+  "云贵",
+  "水西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6803,
+ "page_range": "146-147"
+}

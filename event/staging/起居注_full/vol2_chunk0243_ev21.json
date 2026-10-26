@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "初九日丙午",
+ "event_role": "司法案件",
+ "summary": "逃人牙住拟立绞事，康熙帝询问明珠等意见。",
+ "people": [
+  {
+   "name": "牙住",
+   "role": "逃人"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24321,
+ "page_range": "529-530"
+}

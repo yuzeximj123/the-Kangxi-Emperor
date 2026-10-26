@@ -1,0 +1,33 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初六日戊实",
+ "event_role": "奏报地方情形",
+ "summary": "山西布政使那利奏采买米石估价事，康熙帝询问冒销积弊。",
+ "people": [
+  {
+   "name": "那利",
+   "role": "山西布政使"
+  },
+  {
+   "name": "席兰泰",
+   "role": "官员"
+  },
+  {
+   "name": "苏赫臣",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太原",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17111,
+ "page_range": "385-386"
+}

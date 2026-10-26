@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 12,
+ "day_text": "初六日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召八旗都统、副都统、六部尚书谕以满洲为国家根本，宜爱惜节俭、禁止嬉游、严行禁止家人披甲并酌量归并佐领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图海",
+   "role": "都统"
+  },
+  {
+   "name": "明珠",
+   "role": "尚书"
+  },
+  {
+   "name": "莫阁",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6211,
+ "page_range": "181-182"
+}

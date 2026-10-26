@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "伊桑阿奏报遵旨验看许隆年老疾发不能举动，康熙命另拟员缺具奏。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "许隆",
+   "role": "被验看官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20300,
+ "page_range": "416-417"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "初三日戊酉",
+ "event_role": "议政听政",
+ "summary": "康熙帝询问顺天学院杨大鹤居官情况，与吴珊、王熙论学政优劣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨大鹤",
+   "role": "顺天学院"
+  },
+  {
+   "name": "吴珊",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "前学院"
+  },
+  {
+   "name": "张鹏副",
+   "role": "学政"
+  }
+ ],
+ "places": [
+  "顺天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12209,
+ "page_range": "254-255"
+}

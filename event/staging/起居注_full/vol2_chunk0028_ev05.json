@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "初十日己未",
+ "event_role": "司法案件",
+ "summary": "三法司议受道札过功弘等四人拟斩，康熙帝令察明过功弘是否即过公子，若系过公子则应俱行除避。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "过功弘",
+   "role": "拟斩人犯"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2805,
+ "page_range": "99-100"
+}

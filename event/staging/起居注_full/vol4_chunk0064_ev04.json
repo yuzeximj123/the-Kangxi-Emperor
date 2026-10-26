@@ -1,0 +1,38 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "兵部题杭州副都统员缺，帝命解朱山任，以穆维秦补授，杨元弱升补海坛总兵官缺。",
+ "people": [
+  {
+   "name": "董元卿",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "王国安",
+   "role": "侍郎"
+  },
+  {
+   "name": "朱山",
+   "role": "副都统"
+  },
+  {
+   "name": "穆维秦",
+   "role": "海坛总兵官"
+  },
+  {
+   "name": "杨元弱",
+   "role": "寿春营副将"
+  }
+ ],
+ "places": [
+  "杭州",
+  "海坛",
+  "寿春营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6404,
+ "page_range": "140-141"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "十一日癸未",
+ "event_role": "谕旨决策",
+ "summary": "荆州将军噶尔汉请带笔帖式舒淑等四人，康熙帝准带舒淑，余不准，令该部照例补授发往。",
+ "people": [
+  {
+   "name": "噶尔汉",
+   "role": "荆州将军"
+  },
+  {
+   "name": "舒淑",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18707,
+ "page_range": "417-418"
+}

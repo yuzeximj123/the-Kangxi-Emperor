@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "初一日庚午",
+ "event_role": "议政听政",
+ "summary": "康熙帝召大学士伊桑阿、阿兰泰、张玉书，尚书马齐、席尔达等议事。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "席尔达",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8033,
+ "page_range": "170-171"
+}

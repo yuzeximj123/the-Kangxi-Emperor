@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 4,
+ "day_text": "二十五日丙成",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御乾清门听政，吏部尚书鄂尔多等题太常寺少卿高层云病故员缺，以通政司参议钱三锡等引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂尔多",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "高层云",
+   "role": "太常寺少卿"
+  },
+  {
+   "name": "钱三锡",
+   "role": "通政司参议"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11905,
+ "page_range": "250-251"
+}

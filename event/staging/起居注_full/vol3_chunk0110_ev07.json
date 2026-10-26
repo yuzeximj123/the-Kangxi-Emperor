@@ -1,0 +1,40 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "三十日",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏毕，大学士等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11007,
+ "page_range": "255-256"
+}

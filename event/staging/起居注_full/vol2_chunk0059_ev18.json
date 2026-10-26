@@ -1,0 +1,40 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初八日己丑",
+ "event_role": "议政听政",
+ "summary": "大学士、学士面奏事宜，康熙叹王雅谨慎病故，勒德洪、明珠、李霨、杜立德等奏其忠厚朴实，康熙问其籍贯为浙江。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  },
+  {
+   "name": "王雅",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5918,
+ "page_range": "161-162"
+}

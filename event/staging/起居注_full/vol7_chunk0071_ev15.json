@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十八日辛未",
+ "event_role": "其他",
+ "summary": "赐西安副都统法喀鞍马一匹。",
+ "people": [
+  {
+   "name": "法喀",
+   "role": "西安副都统"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7115,
+ "page_range": "153-154"
+}

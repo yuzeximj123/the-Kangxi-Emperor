@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "初七日壬辰",
+ "event_role": "人事任免",
+ "summary": "吏部议革职伊萨哈之职不准承袭，康熙帝令除去其本身所得拖沙喇哈番及恩诏加官，留其祖原授二等阿达哈哈番与伊萨哈效力行走。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊萨哈",
+   "role": "革职官员"
+  },
+  {
+   "name": "伊尔格德",
+   "role": "伊萨哈之祖"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12319,
+ "page_range": "257-258"
+}

@@ -1,0 +1,20 @@
+{
+ "date_raw": "康熙十年九月初八日丙辰",
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "初八日丙辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸榆关，地方文武官员来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "榆关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6
+}

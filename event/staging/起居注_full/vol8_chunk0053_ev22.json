@@ -1,0 +1,34 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": "十三日乙西",
+ "event_role": "司法案件",
+ "summary": "覆请刑部议赵晋身死一案，应将管狱典史金鹤革职、知府赵弘煜罚俸一年、知县王先罚俸三月事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金鹤",
+   "role": "管狱典史"
+  },
+  {
+   "name": "赵弘煜",
+   "role": "知府"
+  },
+  {
+   "name": "王先",
+   "role": "知县"
+  },
+  {
+   "name": "赵晋",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5322,
+ "page_range": "117-118"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初八日戊午",
+ "event_role": "军务",
+ "summary": "兵部覆宁古塔将军杨福参劾北都纳驻防协领叶尔德等庸劣议革职，康熙帝命安世保从宽免革，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨福",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "叶尔德",
+   "role": "驻防协领"
+  },
+  {
+   "name": "安世保",
+   "role": "安朱虎之子"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "北都纳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1815,
+ "page_range": "47-48"
+}

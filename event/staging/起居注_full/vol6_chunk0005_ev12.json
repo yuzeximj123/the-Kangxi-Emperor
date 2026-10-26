@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "照例赐朝鲜国王李焞及陪臣议政官崔锡蔓、吏判书崔奎瑞等对马、银匹等物。",
+ "people": [
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "崔锡蔓",
+   "role": "陪臣议政官"
+  },
+  {
+   "name": "崔奎瑞",
+   "role": "吏判书"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 512,
+ "page_range": "20-21"
+}

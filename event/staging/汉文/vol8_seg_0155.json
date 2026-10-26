@@ -1,0 +1,39 @@
+{
+ "date_raw": "康熙五十八年正月初一日",
+ "reign_year": 58,
+ "month": null,
+ "day": 24,
+ "event_role": "其他",
+ "summary": "浙江巡抚朱轼与杭州织造孙文成遵旨为普陀山普济、法雨二寺购石立碑，恭撰碑文进呈御览，并奏报碑石尺寸。",
+ "people": [
+  {
+   "name": "朱轼",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  },
+  {
+   "name": "心明",
+   "role": "普陀僧人"
+  },
+  {
+   "name": "十二阿哥",
+   "role": "会同议政的皇子"
+  }
+ ],
+ "places": [
+  "浙江",
+  "普陀",
+  "普济寺",
+  "法雨寺"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“是，知道了”，表示知晓并认可所奏。",
+ "source_title": "浙江巡撫朱軾等奏為敬陳普陀錢糧碑記恭呈御覽摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2731",
+ "order_index": 155
+}

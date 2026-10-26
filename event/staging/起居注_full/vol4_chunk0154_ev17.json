@@ -1,0 +1,32 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "初五日戊子",
+ "event_role": "司法案件",
+ "summary": "礼部议覆朝鲜进贡正使李沉等随员盗买《一统志》一案，康熙从宽免革李沉、徐文重、权仪职，余依议。",
+ "people": [
+  {
+   "name": "李沉",
+   "role": "朝鲜进贡正使"
+  },
+  {
+   "name": "张蛇",
+   "role": "同伴通官"
+  },
+  {
+   "name": "徐文重",
+   "role": "副使"
+  },
+  {
+   "name": "权仪",
+   "role": "书状官"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15417,
+ "page_range": "320-321"
+}

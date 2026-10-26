@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初七日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部题奉天府府丞重世泰员缺，拟以通政司左参议郝惟刘补授，康熙帝以其年老命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "重世泰",
+   "role": "奉天府府丞"
+  },
+  {
+   "name": "郝惟刘",
+   "role": "通政司左参议"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16102,
+ "page_range": "333-334"
+}

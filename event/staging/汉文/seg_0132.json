@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙四十五年七月三十日",
+ "reign_year": 45,
+ "month": 7,
+ "day": 30,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报固安等县呈送瑞谷，并称各府秋禾茂盛，进呈御览。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "秦安世",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "顺天府",
+  "固安"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道”，表示已阅知此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "183",
+ "source_title": "直隶巡抚赵弘燮奏为恭进瑞谷事摺",
+ "order_index": 132
+}

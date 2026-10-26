@@ -1,0 +1,40 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "二十一日己卯",
+ "event_role": "谕旨决策",
+ "summary": "奏事傻子、双全传旨大学士温达，据总督范时崇等奏山完尽皆平服，令速行文招抚官员回京。",
+ "people": [
+  {
+   "name": "傻子",
+   "role": "奏事"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "范时崇",
+   "role": "总督"
+  },
+  {
+   "name": "黄秉中",
+   "role": "巡抚"
+  },
+  {
+   "name": "祖良壁",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "山完"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17619,
+ "page_range": "363-364"
+}

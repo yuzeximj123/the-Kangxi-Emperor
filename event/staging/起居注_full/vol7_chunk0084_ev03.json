@@ -1,0 +1,36 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "二十八日己巳",
+ "event_role": "议政听政",
+ "summary": "酉时皇帝御行宫，大学士马齐等以折本请旨，户部题乌喇将军杨福请给乌喇虞人粮议不准行。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "避穆布",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "色德里",
+   "role": "学士"
+  },
+  {
+   "name": "满丰",
+   "role": "学士"
+  },
+  {
+   "name": "杨福",
+   "role": "乌喇将军"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8403,
+ "page_range": "179-180"
+}

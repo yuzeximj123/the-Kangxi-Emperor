@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": "二十日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙谕称喇占所奏殊属无益，米行加税苦累商民，不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇占",
+   "role": "监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3406,
+ "page_range": "111-112"
+}

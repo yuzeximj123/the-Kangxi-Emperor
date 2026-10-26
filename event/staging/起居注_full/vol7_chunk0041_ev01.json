@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "广东将军卢崇耀补授都统后久不具奏谢恩，康熙帝斥其恋缺迟延，命作速来京。",
+ "people": [
+  {
+   "name": "卢崇耀",
+   "role": "广东将军、补授都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4101,
+ "page_range": "93-94"
+}

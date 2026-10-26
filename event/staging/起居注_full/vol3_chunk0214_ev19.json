@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十九日己卯",
+ "event_role": "谕旨决策",
+ "summary": "户部题洗墅关监督桑格溢额二万余两，康熙以其居官甚劣、额外多收苦累百姓，令详议具奏。",
+ "people": [
+  {
+   "name": "桑格",
+   "role": "洗墅关监督"
+  },
+  {
+   "name": "德伯色",
+   "role": "监督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "洗墅关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21419,
+ "page_range": "463-464"
+}

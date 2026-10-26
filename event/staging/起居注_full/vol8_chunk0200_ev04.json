@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "覆请兵部议广东广西总督杨琳题请简选护军处当差兵丁分班以千总把总叙用事，部议不准，康熙帝指出部中不知原题本意，命发回再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨琳",
+   "role": "广东广西总督"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20004,
+ "page_range": "411-412"
+}

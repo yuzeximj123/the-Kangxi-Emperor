@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "三十日丙辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝启行前分遣内大臣国舅佟国维等告祭天、地、宗庙、社稷、太岁坛，宣读祝文。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国维",
+   "role": "内大臣国舅"
+  }
+ ],
+ "places": [
+  "天坛",
+  "地坛",
+  "宗庙",
+  "社稷坛",
+  "太岁坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10103,
+ "page_range": "212-213"
+}

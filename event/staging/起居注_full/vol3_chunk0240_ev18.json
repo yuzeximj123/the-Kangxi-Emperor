@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": "十五日辛卯",
+ "event_role": "司法案件",
+ "summary": "刑部题浙江民张迟吧闻应发该抚审理，康熙帝令仍着刑部选择贤能官往审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张迟吧",
+   "role": "浙江民"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24018,
+ "page_range": "515-516"
+}

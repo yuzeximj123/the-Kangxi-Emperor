@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "初一日庚午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝奉皇太后舟渡河，驻跸清河口，率福善、伊桑阿、阿兰泰往视高家堰等堤。",
+ "people": [
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "清河口",
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8032,
+ "page_range": "170-171"
+}

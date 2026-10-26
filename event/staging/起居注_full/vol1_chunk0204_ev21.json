@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "初五日丙申",
+ "event_role": "朝见受贺",
+ "summary": "早，康熙帝御太和殿视朝，文武升转官员谢恩行礼，厄鲁特部落噶尔当薄朔克免汗贡使卫征车臣阿木布等行礼，赐茶毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卫征车臣阿木布",
+   "role": "厄鲁特贡使"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20421,
+ "page_range": "465-466"
+}

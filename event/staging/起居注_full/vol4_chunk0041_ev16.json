@@ -1,0 +1,36 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "初四日癸卯",
+ "event_role": "朝见受贺",
+ "summary": "是日照例赐进贡琉球国王尚贞及正使魏应伯、副使曾益都、通事官化应祥等表里组布等物有差。",
+ "people": [
+  {
+   "name": "尚贞",
+   "role": "琉球国王"
+  },
+  {
+   "name": "魏应伯",
+   "role": "正使耳目官"
+  },
+  {
+   "name": "曾益都",
+   "role": "副使正议大夫"
+  },
+  {
+   "name": "化应祥",
+   "role": "通事官"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "琉球"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4116,
+ "page_range": "94-95"
+}

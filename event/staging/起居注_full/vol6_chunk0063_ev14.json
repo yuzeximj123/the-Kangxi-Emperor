@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十二日王搬",
+ "event_role": "人事任免",
+ "summary": "礼部题致祭盛京陵寝开列盛京大臣职名，康熙帝以苏赫纳矫饰自大、持论颠倒，着撤回学士任，其缺以白尔克补授。",
+ "people": [
+  {
+   "name": "苏赫纳",
+   "role": "盛京侍郎"
+  },
+  {
+   "name": "白尔克",
+   "role": "盛京理事官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6314,
+ "page_range": "136-137"
+}

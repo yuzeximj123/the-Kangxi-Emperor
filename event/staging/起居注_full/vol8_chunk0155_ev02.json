@@ -1,0 +1,34 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题打死张四之王二拟绞监候、起衅之彭五因伤免死，康熙以起衅之人未拟罪将本发回，令与刘芳声、徐彩官等案两议大臣会同再议具奏。",
+ "people": [
+  {
+   "name": "王二",
+   "role": "拟绞监候犯人"
+  },
+  {
+   "name": "张四",
+   "role": "被打死者"
+  },
+  {
+   "name": "彭五",
+   "role": "起衅之人"
+  },
+  {
+   "name": "刘芳声",
+   "role": "两议大臣"
+  },
+  {
+   "name": "徐彩官",
+   "role": "两议大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15502,
+ "page_range": "321-322"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初六日甲子",
+ "event_role": "人事任免",
+ "summary": "伊桑阿奏问常书、张英称郝善人甚不及，康熙帝命郝善革职。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "常书",
+   "role": "掌翰林院事侍郎"
+  },
+  {
+   "name": "张英",
+   "role": "尚书"
+  },
+  {
+   "name": "郝善",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8812,
+ "page_range": "186-187"
+}

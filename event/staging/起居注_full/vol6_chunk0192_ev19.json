@@ -1,0 +1,21 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "二十八日丙成",
+ "event_role": "司法案件",
+ "summary": "三法司题广东强盗曾自成等拟立决，康熙帝令将为首数人正法，其余免死发往黑龙江。",
+ "people": [
+  {
+   "name": "曾自成",
+   "role": "强盗"
+  }
+ ],
+ "places": [
+  "广东",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19219,
+ "page_range": "394-395"
+}

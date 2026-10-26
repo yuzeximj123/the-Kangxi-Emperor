@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "二十八日甲申",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝至畅春园，前往镜峰问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "镜峰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15704,
+ "page_range": "325-326"
+}

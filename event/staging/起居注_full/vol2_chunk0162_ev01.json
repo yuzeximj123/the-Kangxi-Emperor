@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十一日甲申",
+ "event_role": "谕旨决策",
+ "summary": "户部会同内务府御马监议山海关外大凌河展拓牧场，康熙帝询问圈内民田坟茔，命将民地尽行开除再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马锡",
+   "role": "管牧御马侍卫"
+  }
+ ],
+ "places": [
+  "山海关外大凌河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16201,
+ "page_range": "367-368"
+}

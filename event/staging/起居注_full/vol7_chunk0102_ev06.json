@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "朱拉哈随铜商刘世泰往广东打死百总陈其略拟绞，家主冯京供不知情，康熙帝命发还并议冯京罪。",
+ "people": [
+  {
+   "name": "朱拉哈",
+   "role": "凶手"
+  },
+  {
+   "name": "刘世泰",
+   "role": "铜商"
+  },
+  {
+   "name": "陈其略",
+   "role": "百总"
+  },
+  {
+   "name": "冯京",
+   "role": "家主"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10206,
+ "page_range": "215-216"
+}

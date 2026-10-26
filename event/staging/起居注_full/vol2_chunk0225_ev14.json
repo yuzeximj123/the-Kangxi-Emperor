@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "二十二日庚寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自车萨顶出迎太皇太后圣驾，留内大臣等修治道路。",
+ "people": [
+  {
+   "name": "佟国维",
+   "role": "内大臣"
+  },
+  {
+   "name": "福善",
+   "role": "公"
+  }
+ ],
+ "places": [
+  "车萨顶",
+  "长城岭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22514,
+ "page_range": "493-494"
+}

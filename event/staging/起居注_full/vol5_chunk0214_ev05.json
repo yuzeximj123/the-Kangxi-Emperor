@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命舒恕代理费扬古驻扎地方军务，侍郎满丕仍留原处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "舒恕",
+   "role": "代理军务"
+  },
+  {
+   "name": "满丕",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21405,
+ "page_range": "438-439"
+}

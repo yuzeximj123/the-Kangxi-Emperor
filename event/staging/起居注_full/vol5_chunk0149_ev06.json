@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 7,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "监察御史吕琨条陈乡试事，部议不准，康熙帝以其正当考试时渎奏，命不准行或交九卿议奏。",
+ "people": [
+  {
+   "name": "吕琨",
+   "role": "监察御史"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14906,
+ "page_range": "308-309"
+}

@@ -1,0 +1,31 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝对马齐言商州有贼作乱已发兵往捕，认为小贼兵到即擒，并指民乱由督抚不加实惠所致。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "博济",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "商州",
+  "陕西",
+  "南阳",
+  "兴安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14505,
+ "page_range": "301-302"
+}

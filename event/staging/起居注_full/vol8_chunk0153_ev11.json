@@ -1,0 +1,33 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆署理两广总督杨琳题将投诚海贼黄信香等照例安插广东，康熙令黄信香解京、本发回再议。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "署理广东广西总督事务巡抚"
+  },
+  {
+   "name": "黄信香",
+   "role": "投诚海贼"
+  },
+  {
+   "name": "徐荣",
+   "role": "招抚海贼先例"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15311,
+ "page_range": "317-318"
+}

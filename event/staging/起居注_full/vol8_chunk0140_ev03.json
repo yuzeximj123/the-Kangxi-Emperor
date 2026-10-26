@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部奏神木营副将王世荣员缺，拟补雷世杰，因未写明缘由受责，康熙帝命吏部察议，雷世杰照前议补授，考世位暂扣仍留原任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王世荣",
+   "role": "神木营副将"
+  },
+  {
+   "name": "雷世杰",
+   "role": "拟补副将"
+  },
+  {
+   "name": "考世位",
+   "role": "拟补人员"
+  }
+ ],
+ "places": [
+  "神木营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14003,
+ "page_range": "291-292"
+}

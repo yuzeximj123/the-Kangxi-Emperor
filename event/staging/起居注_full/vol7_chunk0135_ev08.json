@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十三日",
+ "event_role": "司法案件",
+ "summary": "康熙帝言今年山西情真罪犯极少，各省较往年俱少，又问李光地直隶重犯数目，李光地奏今年更少。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13508,
+ "page_range": "281-282"
+}

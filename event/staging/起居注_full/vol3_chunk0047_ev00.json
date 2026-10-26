@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政王大臣会议议萨布素等失误军机应严加议处，因现领大兵临罗刹之境，姑待事竣再议，来岁进兵事宜遵前旨行。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "罗刹"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4700,
+ "page_range": "129-130"
+}

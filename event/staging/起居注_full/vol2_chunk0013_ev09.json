@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "初四日己未",
+ "event_role": "人事任免",
+ "summary": "吏部题补山西布政使，康熙帝询问那蔓、巴锡优劣，采纳勒德洪、明珠意见，命将那蔓补授。",
+ "people": [
+  {
+   "name": "那蔓",
+   "role": "工科给事中"
+  },
+  {
+   "name": "巴锡",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1309,
+ "page_range": "69-70"
+}

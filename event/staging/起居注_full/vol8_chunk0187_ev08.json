@@ -1,0 +1,46 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐等遵旨问翰林院日讲官陈璋等员缺，康熙帝命李统、稽曾移、秦道然、王图炳、何国宗以原衔充日讲官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "陈璋",
+   "role": "日讲官"
+  },
+  {
+   "name": "李统",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "稽曾移",
+   "role": "日讲官"
+  },
+  {
+   "name": "秦道然",
+   "role": "日讲官"
+  },
+  {
+   "name": "王图炳",
+   "role": "日讲官"
+  },
+  {
+   "name": "何国宗",
+   "role": "日讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18708,
+ "page_range": "385-386"
+}

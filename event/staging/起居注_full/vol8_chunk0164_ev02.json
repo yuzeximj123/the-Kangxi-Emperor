@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝召云贵总督鄂陈锡询问梁世勋、李锡居官情形，鄂陈锡奏梁世勋忠厚、李锡平常。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂陈锡",
+   "role": "云贵总督"
+  },
+  {
+   "name": "梁世勋",
+   "role": "官员"
+  },
+  {
+   "name": "李锡",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16402,
+ "page_range": "339-340"
+}

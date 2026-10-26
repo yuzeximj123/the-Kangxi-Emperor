@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "初四日乙西",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕西安距京师二三千里，米粮难转运，宜于本地购买，若应赈则动支积贮米谷或发正项银两采买，并着问九卿具奏。",
+ "people": [
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16409,
+ "page_range": "340-341"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿会推西安布政使希格革职员缺，康熙帝准以御史傅腊塔升补，并批评满洲御史只图盐差安享。",
+ "people": [
+  {
+   "name": "傅腊塔",
+   "role": "御史，拟正升补西安布政使"
+  },
+  {
+   "name": "色冷格",
+   "role": "郎中，拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14300,
+ "page_range": "321-322"
+}

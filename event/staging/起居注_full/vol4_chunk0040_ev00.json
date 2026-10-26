@@ -1,0 +1,36 @@
+{
+ "reign_year": 27,
+ "month": 9,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝与兵部尚书张玉书、侍郎成其范、工部尚书苏赫及九卿等议中河立三闸事，众人皆以为同，图纳奏立闸可减泄大水，上颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "成其范",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "苏赫",
+   "role": "工部尚书"
+  },
+  {
+   "name": "图纳",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "中河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4000,
+ "page_range": "92-93"
+}

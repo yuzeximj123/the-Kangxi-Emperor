@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "二十二日己酉",
+ "event_role": "河工水利",
+ "summary": "康熙帝议高宝等州县下河工程，主张将涸出田亩给民耕种，不必令纳价偿还，并称若能救百万苍生不惜钱粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨穆哈",
+   "role": "九卿"
+  },
+  {
+   "name": "杜臻",
+   "role": "九卿"
+  }
+ ],
+ "places": [
+  "高宝"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11611,
+ "page_range": "267-268"
+}

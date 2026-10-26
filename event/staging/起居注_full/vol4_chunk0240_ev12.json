@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 8,
+ "day_text": "二十六日丁丁",
+ "event_role": "谕旨决策",
+ "summary": "户部覆广东、广西盐院太常寺少卿沙拜奏销广西三十一年盐课银两事，议令广西加增盐课，康熙帝以广西地瘠民贫令不必加增。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙拜",
+   "role": "太常寺少卿"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24012,
+ "page_range": "492-493"
+}

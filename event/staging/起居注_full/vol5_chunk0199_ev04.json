@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "安边副将马良和等及延绥西路同知胡绍来朝。",
+ "people": [
+  {
+   "name": "马良和",
+   "role": "安边副将"
+  },
+  {
+   "name": "胡绍",
+   "role": "延绥西路同知"
+  }
+ ],
+ "places": [
+  "安边",
+  "延绥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19904,
+ "page_range": "408-409"
+}

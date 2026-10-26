@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论祖允图现今居官虽好亦因上司所制，须始终如一方为善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "祖允图",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1104,
+ "page_range": "32-33"
+}

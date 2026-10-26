@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "二十七日丙午",
+ "event_role": "人事任免",
+ "summary": "吏部题内净侍读学士戴通员缺，拟努黑正、额席黑陪，康熙帝以汉文侍读学士职任紧要，命考试人选及通汉文者一并引见补授。",
+ "people": [
+  {
+   "name": "努黑",
+   "role": "拟正郎中"
+  },
+  {
+   "name": "额席黑",
+   "role": "拟陪"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19521,
+ "page_range": "402-403"
+}

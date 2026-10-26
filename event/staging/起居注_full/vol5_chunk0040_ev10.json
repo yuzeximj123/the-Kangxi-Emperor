@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "十九日甲申",
+ "event_role": "人事任免",
+ "summary": "兵部题亲王王府参领员缺，康熙帝以所拟正和尚等庸劣，命会同都统副都统试骑射另拟具奏，三等侍卫照常补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "正和尚",
+   "role": "拟补参领者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4010,
+ "page_range": "90-91"
+}

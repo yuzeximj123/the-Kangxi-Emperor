@@ -1,0 +1,21 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "二十三日壬申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝进龙井关口，驻跸汉儿庄西南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "龙井关口",
+  "汉儿庄西南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9215,
+ "page_range": "227-228"
+}

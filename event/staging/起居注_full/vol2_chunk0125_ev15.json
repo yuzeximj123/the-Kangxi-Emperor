@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "初四日庚辰",
+ "event_role": "人事任免",
+ "summary": "左都御史达都条奏盛京知县以上官员应用满洲，吏部议不准，康熙帝询问明珠后命从部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达都",
+   "role": "左都御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12515,
+ "page_range": "293-294"
+}

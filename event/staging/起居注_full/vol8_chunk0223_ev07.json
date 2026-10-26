@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题归化城都统辛太员缺，康熙帝命楚仲补授归化城右翼都统。",
+ "people": [
+  {
+   "name": "辛太",
+   "role": "归化城都统"
+  },
+  {
+   "name": "勒式浑",
+   "role": "正黄旗护军统领"
+  },
+  {
+   "name": "楚仲",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22307,
+ "page_range": "457-458"
+}

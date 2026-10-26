@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "明珠等奏已将皇太子出阁读书事传谕汉大学士，王申奏称皇太子读书有成，请下谕礼部、詹事府详察出阁典礼择吉具奏，康熙帝颔之。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14302,
+ "page_range": "321-322"
+}

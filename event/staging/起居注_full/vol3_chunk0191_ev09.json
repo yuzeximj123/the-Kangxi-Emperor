@@ -1,0 +1,29 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "初四日乙卯",
+ "event_role": "人事任免",
+ "summary": "兵部题河南河北总兵官汉德昌调补员缺，命林宝升补，并记参将何应元。",
+ "people": [
+  {
+   "name": "汉德昌",
+   "role": "河南河北总兵官"
+  },
+  {
+   "name": "林宝",
+   "role": "升补总兵官"
+  },
+  {
+   "name": "何应元",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "河南",
+  "河北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19109,
+ "page_range": "417-418"
+}

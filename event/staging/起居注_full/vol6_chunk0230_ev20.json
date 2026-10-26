@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十五日丁卯",
+ "event_role": "朝见受贺",
+ "summary": "霸昌道郎廷标、古北口监督员外郎图巴海、密云知县周钱、守备严一林等来朝。",
+ "people": [
+  {
+   "name": "郎廷标",
+   "role": "霸昌道"
+  },
+  {
+   "name": "图巴海",
+   "role": "古北口监督员外郎"
+  },
+  {
+   "name": "周钱",
+   "role": "密云知县"
+  },
+  {
+   "name": "严一林",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23020,
+ "page_range": "470-471"
+}

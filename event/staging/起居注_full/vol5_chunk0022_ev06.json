@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记从起居注官常书、三宝。",
+ "people": [
+  {
+   "name": "常书",
+   "role": "起居注官"
+  },
+  {
+   "name": "三宝",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2206,
+ "page_range": "54-55"
+}

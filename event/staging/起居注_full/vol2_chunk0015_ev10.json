@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十四日己巳",
+ "event_role": "奏报灾情收成",
+ "summary": "户部郎中额尔黑图察勘直隶州县灾荒，议交河等县照巡抚题报数目蠲免，东安等县官议处，康熙帝命俱照原报分数蠲免、官职名不必查议。",
+ "people": [
+  {
+   "name": "额尔黑图",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [
+  "直隶",
+  "交河",
+  "东安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1510,
+ "page_range": "73-74"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "二十七日戊午",
+ "event_role": "河工水利",
+ "summary": "伊桑阿等遵旨询问勘河诸臣及靳辅，覆奏南旺湖水若偏入北河则南运河必至水浅，康熙帝命总河善后酌行开闭。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "靳辅",
+   "role": "河臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南旺湖",
+  "南运河",
+  "北运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10906,
+ "page_range": "230-231"
+}

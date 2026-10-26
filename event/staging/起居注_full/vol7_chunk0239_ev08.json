@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "初九日戊子",
+ "event_role": "司法案件",
+ "summary": "刑部题步军花子打死步军小校巴雅尔图拟绞监候，康熙帝令问明是否另户或家人后依新例具奏。",
+ "people": [
+  {
+   "name": "巴雅尔图",
+   "role": "步军小校"
+  },
+  {
+   "name": "花子",
+   "role": "步军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23908,
+ "page_range": "489-490"
+}

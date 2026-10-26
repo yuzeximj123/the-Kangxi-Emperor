@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "十二日戊子",
+ "event_role": "人事任免",
+ "summary": "吏部题补郎中员缺，拟布雅努为正、那秦为陪，康熙帝询问布雅努为人，命详查其家口及有无规避再奏。",
+ "people": [
+  {
+   "name": "布雅努",
+   "role": "盛京郎中"
+  },
+  {
+   "name": "那秦",
+   "role": "员外郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12704,
+ "page_range": "297-298"
+}

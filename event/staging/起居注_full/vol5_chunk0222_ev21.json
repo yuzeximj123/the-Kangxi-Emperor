@@ -1,0 +1,31 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣等会议陕西提督李林隆疏称肃州兵至即同阿南达领兵进发，请将先调标下二千兵停往孙思克处仍还固原，奏入奉旨依议。",
+ "people": [
+  {
+   "name": "李林隆",
+   "role": "陕西提督"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "肃州",
+  "甘州",
+  "甘肃",
+  "固原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22221,
+ "page_range": "454-455"
+}

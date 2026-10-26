@@ -1,0 +1,34 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "二十三日戊成",
+ "event_role": "人事任免",
+ "summary": "翰林院题庶吉士分别读满汉书，康熙帝命赵普仍读汉书，沈宗敬、励廷仪授编修，杨玉复原职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵普",
+   "role": "庶吉士"
+  },
+  {
+   "name": "沈宗敬",
+   "role": "庶吉士"
+  },
+  {
+   "name": "励廷仪",
+   "role": "庶吉士"
+  },
+  {
+   "name": "杨玉",
+   "role": "原任编修"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5813,
+ "page_range": "127-128"
+}

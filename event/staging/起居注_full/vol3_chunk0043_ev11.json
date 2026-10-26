@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "三十日癸亥",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶黄旗蒙古都统员缺，开列护军统领巴图等，康熙帝以侍郎阿尔尼为人颇优且系旧族，着补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴图",
+   "role": "护军统领"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4311,
+ "page_range": "121-122"
+}

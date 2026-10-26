@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十二日甲戌",
+ "event_role": "其他",
+ "summary": "赐广东巡抚萧永薄蒂马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萧永薄",
+   "role": "广东巡抚"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18323,
+ "page_range": "376-377"
+}

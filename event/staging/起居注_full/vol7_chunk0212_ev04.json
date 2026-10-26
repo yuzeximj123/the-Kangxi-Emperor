@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": "二十日癸卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御大西门出题，亲试新中进士及赵申乔所荐落卷四人，试毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "大西门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21204,
+ "page_range": "435-436"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问国子监司业鲁环员缺拟升补编修黄叔琳的籍贯学问，吴涵、揆叙、傅继祖等奏其文章好、御试二等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴涵",
+   "role": "大学士"
+  },
+  {
+   "name": "揆叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "傅继祖",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "黄叔琳",
+   "role": "编修"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7100,
+ "page_range": "153-154"
+}

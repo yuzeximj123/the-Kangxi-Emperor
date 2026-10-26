@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "十三日甲寅",
+ "event_role": "司法案件",
+ "summary": "吏部议给事中索泰、莫大勋及御史李见龙违例妄奏应革职，康熙帝以部议稍过，令待该抚审明题到再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勤德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "李需",
+   "role": "汉大学士"
+  },
+  {
+   "name": "索泰",
+   "role": "给事中"
+  },
+  {
+   "name": "莫大勋",
+   "role": "给事中"
+  },
+  {
+   "name": "李见龙",
+   "role": "御史"
+  },
+  {
+   "name": "李傅",
+   "role": "控告人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19421,
+ "page_range": "431-432"
+}

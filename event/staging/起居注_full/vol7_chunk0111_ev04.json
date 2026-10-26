@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "马齐奏称皇上节俭无浮费，因直隶河间府、山东数州县屡荒，已谕户部查奏蠲免。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶河间府",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11104,
+ "page_range": "233-234"
+}

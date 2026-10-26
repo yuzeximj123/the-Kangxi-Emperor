@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "十三日甲成",
+ "event_role": "司法案件",
+ "summary": "和硕安亲王题擒获伪太子朱慈灿请旨处置，康熙帝疑其非真，令带来京师再定夺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和硕安亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "朱慈灿",
+   "role": "伪太子"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21111,
+ "page_range": "479-480"
+}

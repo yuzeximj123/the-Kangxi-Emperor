@@ -1,0 +1,27 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "二十三日王实",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕以噶尔丹已平，天下无事，惟以吏治民生为要务，勉九卿推举得人，并痛恨贪污之吏甚于噶尔丹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温保",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江南",
+  "山东",
+  "山陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24208,
+ "page_range": "494-495"
+}

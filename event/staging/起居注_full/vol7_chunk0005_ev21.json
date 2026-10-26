@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十二日甲子",
+ "event_role": "请安谢恩",
+ "summary": "驾出山西，昔州广灵等县民数千人跪献万民衣，奏谢免钱粮赈济之恩并恳请收受。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海青",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "广灵等县百姓",
+   "role": "百姓"
+  }
+ ],
+ "places": [
+  "山西",
+  "昔州",
+  "广灵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 521,
+ "page_range": "21-22"
+}

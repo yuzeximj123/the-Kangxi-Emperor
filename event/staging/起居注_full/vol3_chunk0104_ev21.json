@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十五日于申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝顾问吏书科和尔坤前谓稳尔赛为人老实不生事系谁倡此语，科尔坤奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和尔坤",
+   "role": "吏书科"
+  },
+  {
+   "name": "稳尔赛",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10421,
+ "page_range": "243-244"
+}

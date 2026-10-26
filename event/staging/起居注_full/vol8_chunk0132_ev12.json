@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初六日丁酉",
+ "event_role": "朝见受贺",
+ "summary": "固安县防守御武勒、知县郑善述等来朝。",
+ "people": [
+  {
+   "name": "武勒",
+   "role": "固安县防守御"
+  },
+  {
+   "name": "郑善述",
+   "role": "固安县知县"
+  }
+ ],
+ "places": [
+  "固安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13212,
+ "page_range": "275-276"
+}

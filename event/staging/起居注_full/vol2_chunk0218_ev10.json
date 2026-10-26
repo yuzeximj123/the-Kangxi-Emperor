@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十三日",
+ "event_role": "人事任免",
+ "summary": "议升补中允，明珠等奏秦松龄品优学裕，康熙帝准升此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "学士"
+  },
+  {
+   "name": "秦松龄",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21810,
+ "page_range": "479-480"
+}

@@ -1,0 +1,27 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "十九日己卯",
+ "event_role": "军务",
+ "summary": "章泰贝子题请回京官兵未得月粮马匹草料于荆州、常德补给，户部议移文湖广巡抚补给，康熙帝令再详议以防重领之弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章泰贝子",
+   "role": "贝子"
+  }
+ ],
+ "places": [
+  "荆州",
+  "常德",
+  "湖广",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10714,
+ "page_range": "257-258"
+}

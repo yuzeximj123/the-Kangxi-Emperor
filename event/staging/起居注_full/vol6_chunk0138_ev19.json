@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "初十日甲成",
+ "event_role": "河工水利",
+ "summary": "康熙帝谕李光地、朝奇，于间、留二庄之间建石闸，水大时开闸减泄，水小时闭闸使水由王家口旧河直出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "朝奇",
+   "role": "分司"
+  }
+ ],
+ "places": [
+  "间庄",
+  "留庄",
+  "王家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13819,
+ "page_range": "286-287"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "初一日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部题礼部侍郎张玉书丁忧员缺，开列学士王鸿绪等职名，康熙帝询问大学士意见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4318,
+ "page_range": "121-122"
+}

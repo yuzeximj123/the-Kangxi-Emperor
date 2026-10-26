@@ -1,0 +1,42 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十一日庚辰",
+ "event_role": "人事任免",
+ "summary": "吏部题国子监祭酒孙岳颁与司业花善互参事，康熙帝询问博济后以吏部两边皆议处不合，命发回再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "戴通",
+   "role": "学士"
+  },
+  {
+   "name": "松柱",
+   "role": "学士"
+  },
+  {
+   "name": "博济",
+   "role": "学士"
+  },
+  {
+   "name": "孙岳颁",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "花善",
+   "role": "国子监司业"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7930,
+ "page_range": "168-169"
+}

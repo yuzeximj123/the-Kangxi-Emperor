@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十六日己巳",
+ "event_role": "人事任免",
+ "summary": "吏部题太常寺卿明舒员缺，拟山西布政使满都为正、太仆寺卿喇锡为陪，康熙帝称明舒才学优长难得。",
+ "people": [
+  {
+   "name": "明舒",
+   "role": "太常寺卿"
+  },
+  {
+   "name": "满都",
+   "role": "山西布政使"
+  },
+  {
+   "name": "喇锡",
+   "role": "太仆寺卿"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7106,
+ "page_range": "153-154"
+}

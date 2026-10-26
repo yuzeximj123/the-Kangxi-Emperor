@@ -1,0 +1,20 @@
+{
+ "reign_year": 11,
+ "month": 7,
+ "day_text": "十九日",
+ "event_role": "议政听政",
+ "summary": "康熙帝于辰时早御乾清门，听部院各衙门官员面奏政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2100,
+ "page_range": "99-100"
+}

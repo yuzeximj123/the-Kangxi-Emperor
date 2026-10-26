@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "十七日丙午",
+ "event_role": "司法案件",
+ "summary": "刑部覆广东巡抚萧永藻题强盗杨三等不分首从尽行处斩，康熙命为首者正法，为从陈相等免死减等发黑龙江为奴。",
+ "people": [
+  {
+   "name": "萧永藻",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "杨三",
+   "role": "强盗首犯"
+  },
+  {
+   "name": "陈相",
+   "role": "从犯"
+  }
+ ],
+ "places": [
+  "广东",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16808,
+ "page_range": "346-347"
+}

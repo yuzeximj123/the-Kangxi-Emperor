@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 5,
+ "day_text": "十五日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝训示差往湖滩、渡口地方造船的兵部郎中圳吉理等，令其专心勤勉、修造坚固，以免中途损坏误事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "圳吉理",
+   "role": "兵部郎中"
+  }
+ ],
+ "places": [
+  "湖滩",
+  "渡口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19722,
+ "page_range": "406-407"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初三日癸未",
+ "event_role": "谕旨决策",
+ "summary": "工部奏销修造景山内房屋用过钱粮事，康熙帝以万福阁、寿皇殿等处修造草率、用银太多，令工部会同内务府详查确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "景山",
+  "万福阁",
+  "寿皇殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7108,
+ "page_range": "185-186"
+}

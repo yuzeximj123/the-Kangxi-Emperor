@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初五日甲质",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早御太和门视朝，升转文武官员谢恩，喀尔喀部落贡使行礼毕赐茶，召拜汉尔等至阶下赐之，驾回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "拜汉尔",
+   "role": "喀尔喀部落伊喇古克山诺颜贡使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21100,
+ "page_range": "465-466"
+}

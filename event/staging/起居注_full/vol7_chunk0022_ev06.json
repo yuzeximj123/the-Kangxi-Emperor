@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙疑王度昭挟仇参劾，令九卿、詹事、科道会同令王度昭面质详问定议具奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "王度昭",
+   "role": "监察御史"
+  },
+  {
+   "name": "李振裕",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2206,
+ "page_range": "55-56"
+}

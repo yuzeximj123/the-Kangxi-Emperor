@@ -1,0 +1,21 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "十八日癸未",
+ "event_role": "谕旨决策",
+ "summary": "户部题冬三月照例令五城官员煮粥赈饥，康熙帝命照往年增一倍、展限两个月，令五城御史亲行散给。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京城",
+  "五城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4007,
+ "page_range": "90-91"
+}

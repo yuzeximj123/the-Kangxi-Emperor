@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 1,
+ "day_text": "十七日甲戌",
+ "event_role": "议政听政",
+ "summary": "内阁汉大学士以下、九卿以上及科道等官齐集畅春园东门外，因皇上欲亲行出师具疏请留，由奏事敦住转奏。",
+ "people": [
+  {
+   "name": "敦住",
+   "role": "奏事"
+  },
+  {
+   "name": "汉大学士",
+   "role": "官员"
+  },
+  {
+   "name": "九卿",
+   "role": "官员"
+  },
+  {
+   "name": "科道官",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "畅春园东门外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9711,
+ "page_range": "204-205"
+}

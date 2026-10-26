@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": "十一日甲实",
+ "event_role": "谕旨决策",
+ "summary": "户部覆山西巡抚倭伦题湖滩河朔运米船只应变价，议不准行，康熙帝以倭伦曾面奏，令照所请行。",
+ "people": [
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西",
+  "湖滩河朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4520,
+ "page_range": "100-101"
+}

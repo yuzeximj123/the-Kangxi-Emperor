@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十六日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论孙在丰不能与靳辅相抗，闭塞滚水坝两难，令会同九卿详看靳辅前奏定议具奏。",
+ "people": [
+  {
+   "name": "孙在丰",
+   "role": "监修下河侍郎"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "郑都",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20310,
+ "page_range": "441-442"
+}

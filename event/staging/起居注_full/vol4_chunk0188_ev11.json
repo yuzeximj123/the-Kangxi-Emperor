@@ -1,0 +1,36 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": "十二日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝举吴逆变乱时岳州湖中九船官员相约齐进却互相观望之事，说明阵战当争先前进，并斥扎喇克图弃众先奔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "扎喇克图",
+   "role": "护军参领"
+  },
+  {
+   "name": "查库",
+   "role": "护军参领"
+  },
+  {
+   "name": "韩奇",
+   "role": "原任护军统领"
+  },
+  {
+   "name": "鄂恤",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "岳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18811,
+ "page_range": "388-389"
+}

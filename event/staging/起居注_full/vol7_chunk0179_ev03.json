@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "总漕赫寿题报漕艘过淮一疏，康熙帝以粮船过淮迟滞，令各督抚明白回奏并严察议奏。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "总漕"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "淮安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17903,
+ "page_range": "369-370"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十五日两子",
+ "event_role": "议政听政",
+ "summary": "诸大臣会议赵良栋、陈福应遣皇长子、大臣往吊致祭，奉旨依议并派定往吊大臣侍卫。",
+ "people": [
+  {
+   "name": "赵良栋",
+   "role": "功臣"
+  },
+  {
+   "name": "陈福",
+   "role": "功臣"
+  },
+  {
+   "name": "额欠尚之隆",
+   "role": "内大臣"
+  },
+  {
+   "name": "阿密达",
+   "role": "内大臣"
+  },
+  {
+   "name": "颇尔彭",
+   "role": "内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20113,
+ "page_range": "412-413"
+}

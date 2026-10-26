@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "吏部题两广运使杨茂祖员缺，康熙帝命于保举引见知府内拣选俸深者升补。",
+ "people": [
+  {
+   "name": "杨茂祖",
+   "role": "两广运使"
+  },
+  {
+   "name": "姜承基",
+   "role": "应升知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1603,
+ "page_range": "42-43"
+}

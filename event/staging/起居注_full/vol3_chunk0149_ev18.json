@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "二十日甲戌",
+ "event_role": "人事任免",
+ "summary": "佥都御史房廷祯解任员缺，康熙帝以袁景星、郑重俱平常，命从公另举正直之人。",
+ "people": [
+  {
+   "name": "房廷祯",
+   "role": "佥都御史"
+  },
+  {
+   "name": "袁景星",
+   "role": "左通政"
+  },
+  {
+   "name": "郑重",
+   "role": "右通政"
+  },
+  {
+   "name": "张集",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14918,
+ "page_range": "333-334"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙驳宁尔讲请回讲擒贼及增兵陕西四十万之奏，言已洞悉蒙古路径遣兵围困，噶尔丹穷迫饮药死。",
+ "people": [
+  {
+   "name": "宁尔讲",
+   "role": "官员"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "蒙古首领"
+  }
+ ],
+ "places": [
+  "塞外",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24110,
+ "page_range": "492-493"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "初二日",
+ "event_role": "司法案件",
+ "summary": "刑部审锦州拨什库石图首告城守尉陶赖多取税银，拟陶赖革职、石图枷号鞭责，康熙帝准所议并令石图发白得纳当差。",
+ "people": [
+  {
+   "name": "苏努",
+   "role": "贝子"
+  },
+  {
+   "name": "石图",
+   "role": "拨什库"
+  },
+  {
+   "name": "陶赖",
+   "role": "锦州城守尉"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "锦州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11805,
+ "page_range": "247-248"
+}

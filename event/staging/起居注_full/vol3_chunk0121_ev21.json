@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "十四日庚午",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清门听政，部院各衙门官员面奏，大学士勒德洪等以折本请旨。",
+ "people": [
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12121,
+ "page_range": "277-278"
+}

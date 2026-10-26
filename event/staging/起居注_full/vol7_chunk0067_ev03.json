@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部遵旨将窃盗张五等减等议罪，康熙帝称改议甚当，命依议完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张五",
+   "role": "窃盗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6703,
+ "page_range": "145-146"
+}

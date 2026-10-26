@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙伍拾贰年拾贰月初拾日",
+ "reign_year": 52,
+ "month": 12,
+ "day": 10,
+ "event_role": "请安谢恩",
+ "summary": "贵州巡抚刘荫枢奏谢其侄刘之垣被选授户部山西司员外郎，感念祖孙父子叔侄三代蒙恩，表示自励图报。",
+ "people": [
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚，奏折作者"
+  },
+  {
+   "name": "刘之垣",
+   "role": "刘荫枢之侄，新授户部山西司员外郎"
+  }
+ ],
+ "places": [
+  "贵州",
+  "湖北",
+  "川东",
+  "山西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "恭谢天恩事",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 322
+}

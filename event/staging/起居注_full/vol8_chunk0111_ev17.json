@@ -1,0 +1,20 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十九日",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝至畅春园，询镜峰问安，驻跸畅春园。",
+ "people": [
+  {
+   "name": "镜峰",
+   "role": "问安对象"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11117,
+ "page_range": "233-234"
+}

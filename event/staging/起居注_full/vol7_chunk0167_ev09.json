@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "二十五日癸未",
+ "event_role": "朝见受贺",
+ "summary": "石匣营副将杨铸、游击赵武、守备孙德明等来朝。",
+ "people": [
+  {
+   "name": "杨铸",
+   "role": "石匣营副将"
+  },
+  {
+   "name": "赵武",
+   "role": "游击"
+  },
+  {
+   "name": "孙德明",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "石匣营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16709,
+ "page_range": "345-346"
+}

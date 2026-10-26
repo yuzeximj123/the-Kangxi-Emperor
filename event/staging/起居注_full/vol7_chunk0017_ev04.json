@@ -1,0 +1,37 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝览李光地修理永定河石堤折子，称欲试行石堤，若成再兴南河工，并议于黄河徐州至清口筑石堤。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "永定河",
+  "南河",
+  "黄河",
+  "徐州",
+  "清口",
+  "吕梁山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1704,
+ "page_range": "45-46"
+}

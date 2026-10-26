@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝述巡抚王度昭所奏北新关监督事，强调恤商则货物自至、钱粮得足，并论抽税官员当善恤商。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "巡抚"
+  },
+  {
+   "name": "做色",
+   "role": "北新关监督"
+  }
+ ],
+ "places": [
+  "北新关",
+  "古北口",
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20402,
+ "page_range": "419-420"
+}

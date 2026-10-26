@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "初二日庚成",
+ "event_role": "谕旨决策",
+ "summary": "兵部题请追回陶和气等十七员诰封，康熙帝以察进之母曾蒙恩、任内米数余出、追封事未明，命查明具奏。",
+ "people": [
+  {
+   "name": "陶和气",
+   "role": "被题请追封者"
+  },
+  {
+   "name": "察进",
+   "role": "南新仓监督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南新仓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 304,
+ "page_range": "17-18"
+}

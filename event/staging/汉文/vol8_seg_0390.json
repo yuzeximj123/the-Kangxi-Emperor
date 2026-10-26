@@ -1,0 +1,28 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "残件记载正白旗护军统领华显员缺的拣选调补事宜，涉及华显、鄂伦岱等人多次调补授职，内容重复残缺。",
+ "people": [
+  {
+   "name": "华显",
+   "role": "调任旗满洲都统、将军、正白旗护军统领、正白旗蒙古都统、员外郎等职"
+  },
+  {
+   "name": "鄂伦岱",
+   "role": "原任江宁将军"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（残件）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 390
+}

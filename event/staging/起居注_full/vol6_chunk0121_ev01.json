@@ -1,0 +1,21 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "二十三日",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，九卿呈各省采买物件折，帝谕广东牛角道路辽远无用，令查明细茶并速裁减各衙门纸张。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "江浙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12101,
+ "page_range": "252-253"
+}

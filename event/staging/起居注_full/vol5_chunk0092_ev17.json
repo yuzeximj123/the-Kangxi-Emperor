@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": "初八日丙申",
+ "event_role": "司法案件",
+ "summary": "大学士等遵旨问盗犯护军伯什里，其父色楞曾披甲出兵阵亡；康熙帝命将伯什里免死，枷责发入黑龙江。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伯什里",
+   "role": "护军"
+  },
+  {
+   "name": "色楞",
+   "role": "伯什里之父"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9217,
+ "page_range": "194-195"
+}

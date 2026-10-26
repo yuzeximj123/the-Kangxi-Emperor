@@ -1,0 +1,36 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "初一日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将管驿站之阿临、甘应选、白奇交领侍卫内大臣拿送京城赔马。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  },
+  {
+   "name": "阿临",
+   "role": "管驿站官员"
+  },
+  {
+   "name": "甘应选",
+   "role": "管驿站官员"
+  },
+  {
+   "name": "白奇",
+   "role": "管驿站官员"
+  }
+ ],
+ "places": [
+  "胡什木克"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14210,
+ "page_range": "294-295"
+}

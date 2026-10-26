@@ -1,0 +1,28 @@
+{
+ "reign_year": 14,
+ "month": 6,
+ "day_text": "十六日癸西",
+ "event_role": "其他",
+ "summary": "未时康熙帝御乾清门，赐进贡秦曼部落一品台吉鄂齐儿、二品台吉吴勒穆济等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂齐儿",
+   "role": "秦曼部落进贡一品台吉"
+  },
+  {
+   "name": "吴勒穆济",
+   "role": "秦曼部落进贡二品台吉"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9521,
+ "page_range": "247-248"
+}

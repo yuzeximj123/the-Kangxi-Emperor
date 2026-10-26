@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "十九日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论大臣居乡多强占民地、霸据贸易要津，惟卫周祚、黄机居乡不生事，予以称善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卫周祚",
+   "role": "前大学士"
+  },
+  {
+   "name": "黄机",
+   "role": "大学士"
+  },
+  {
+   "name": "王钠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18910,
+ "page_range": "421-422"
+}

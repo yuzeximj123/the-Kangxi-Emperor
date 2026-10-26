@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十三日乙雍",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御舟停泊于新安县郭里口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "新安县",
+  "郭里口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 801,
+ "page_range": "27-28"
+}

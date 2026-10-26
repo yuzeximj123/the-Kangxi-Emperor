@@ -1,0 +1,20 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初六日丁酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸良渠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "良渠"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13211,
+ "page_range": "275-276"
+}

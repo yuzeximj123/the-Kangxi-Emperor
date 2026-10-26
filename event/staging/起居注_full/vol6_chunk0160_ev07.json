@@ -1,0 +1,37 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "九卿覆张鹏翮条奏河工事宜议准行，康熙帝论浚直河曲、冲沙深河之法，命照所议速行。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "河道官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "河臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "邳州",
+  "吕梁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16007,
+ "page_range": "330-331"
+}

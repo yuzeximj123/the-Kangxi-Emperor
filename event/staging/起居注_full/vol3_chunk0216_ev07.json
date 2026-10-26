@@ -1,0 +1,44 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "初三日辛已",
+ "event_role": "人事任免",
+ "summary": "陕西按察使布喀升任员缺，康熙帝询问后决定升补兵部郎中乌赫为陕西按察使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "乌赫",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "噶尔萨",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "布喀",
+   "role": "陕西按察使"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21607,
+ "page_range": "467-468"
+}

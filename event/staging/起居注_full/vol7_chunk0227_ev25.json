@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "二十七日成申",
+ "event_role": "其他",
+ "summary": "申时赐胡呼诺尔贝勒塞普腾占尔等食物，康熙帝出东门受塞普腾占尔朝觐礼后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "塞普腾占尔",
+   "role": "胡呼诺尔贝勒"
+  }
+ ],
+ "places": [
+  "胡呼诺尔",
+  "东门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22725,
+ "page_range": "465-466"
+}

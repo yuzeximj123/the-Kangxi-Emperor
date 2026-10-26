@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门议覆浙江巡抚王度昭题，王七六打死小功兄王伯齐拟立斩，康熙命九卿詹事科道会议具奏。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "王七六",
+   "role": "案犯"
+  },
+  {
+   "name": "王伯齐",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7502,
+ "page_range": "161-162"
+}

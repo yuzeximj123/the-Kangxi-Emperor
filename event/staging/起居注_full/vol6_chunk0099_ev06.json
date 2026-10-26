@@ -1,0 +1,40 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝详阅吴秉谦案称有数处可疑，伊桑阿等奏籽粒银两事查无侵蚀证据，康熙帝命在京可结即议结否则赴陕西详议。",
+ "people": [
+  {
+   "name": "吴秉谦",
+   "role": "涉案官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "官员"
+  },
+  {
+   "name": "布喀",
+   "role": "告发者"
+  },
+  {
+   "name": "贝和诺",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9906,
+ "page_range": "208-209"
+}

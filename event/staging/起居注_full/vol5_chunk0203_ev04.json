@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十九日",
+ "event_role": "其他",
+ "summary": "阅操时赐总兵官王化行、白斌等食及御酒，并按品赐众官酒、赐兵丁御用之物。",
+ "people": [
+  {
+   "name": "王化行",
+   "role": "总兵官"
+  },
+  {
+   "name": "白斌",
+   "role": "总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20304,
+ "page_range": "416-417"
+}

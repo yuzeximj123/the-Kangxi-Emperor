@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "二十七日庚成",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率皇太子、诸皇子及扈从王大臣等诣暂安奉殿行三跪九叩礼、三奠酒举哀，又诣孝陵行礼举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "暂安奉殿",
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22915,
+ "page_range": "468-469"
+}

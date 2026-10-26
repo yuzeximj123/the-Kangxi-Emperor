@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "二十三日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论河道须亲历方可议，称南巡亲勘高家堰南北各一百八十里，反对重堤困民及屯田害民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈潢",
+   "role": "幕客"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "清口",
+  "高邮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 513,
+ "page_range": "22-23"
+}

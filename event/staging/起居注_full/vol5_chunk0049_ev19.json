@@ -1,0 +1,33 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": "十八日壬午",
+ "event_role": "司法案件",
+ "summary": "户部题陕西司档子房失火延烧三间，拟责五儿、章维德，康熙帝命将二人俱发奉天地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "五儿",
+   "role": "看司人"
+  },
+  {
+   "name": "章维德",
+   "role": "书办"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "陕西",
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4919,
+ "page_range": "108-109"
+}

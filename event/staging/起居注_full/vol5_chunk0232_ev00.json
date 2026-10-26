@@ -1,0 +1,21 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "臣等与巡抚倭伦议定，将随驾船只一百零一只按大小拨运米五千石，余米运至乏米处减价售卖，交倭伦派官转运并造册报部。",
+ "people": [
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "保德州",
+  "湖滩河朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23200,
+ "page_range": "474-475"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十五日癸巳",
+ "event_role": "司法案件",
+ "summary": "吏部议中城御史德穆图等因鲜鱼口失火各降一级罚俸一年，康熙帝命德穆图降一级随旗行走，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德穆图",
+   "role": "中城御史"
+  }
+ ],
+ "places": [
+  "鲜鱼口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21805,
+ "page_range": "471-472"
+}

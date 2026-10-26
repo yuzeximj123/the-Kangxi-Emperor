@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十一日辛未",
+ "event_role": "皇帝行止",
+ "summary": "因孝康章皇后忌辰，康熙帝不理政事，驻跸东宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孝康章皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [
+  "东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22107,
+ "page_range": "499-500"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": "二十日壬申",
+ "event_role": "人事任免",
+ "summary": "大学士马齐遵旨以河南、山东、山西三省正副考官问九卿，九卿举出吕谦恒等十一人，康熙帝令票签进呈并严旨惩贿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "吕谦恒",
+   "role": "编修"
+  }
+ ],
+ "places": [
+  "河南",
+  "山东",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20208,
+ "page_range": "415-416"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 4,
+ "day_text": "十五日甲实",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝因天热身少志和，欲暂幸南苑数日，学士傅达礼启奏时谕之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4123,
+ "page_range": "139-140"
+}

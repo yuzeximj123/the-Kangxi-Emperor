@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 1,
+ "day_text": "初二日甲子",
+ "event_role": "谕旨决策",
+ "summary": "礼部题覆顺天府府丞汪晋征疏请每年修理国子监时并修府学，康熙帝以府学关系京师文教甚重，令礼部会同工部再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汪晋征",
+   "role": "顺天府府丞"
+  }
+ ],
+ "places": [
+  "顺天府",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10217,
+ "page_range": "216-217"
+}

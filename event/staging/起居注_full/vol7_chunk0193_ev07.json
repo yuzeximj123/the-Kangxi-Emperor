@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十七日",
+ "event_role": "议政听政",
+ "summary": "康熙帝召副都统音达评论齐世武，音达附和称其不堪，康熙帝斥齐世武为最无用之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "音达",
+   "role": "副都统"
+  },
+  {
+   "name": "齐世武",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19307,
+ "page_range": "397-398"
+}

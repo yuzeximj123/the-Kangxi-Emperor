@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十二年十月十六日",
+ "reign_year": 52,
+ "month": 10,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮奏报地方年景情形，并恭请圣躬万安，提及在白河涧恭迎圣驾、仰见天颜。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏报人"
+  },
+  {
+   "name": "李树德",
+   "role": "山东巡抚，署衔奏请圣躬万安"
+  }
+ ],
+ "places": [
+  "直隶",
+  "山东",
+  "紫荆",
+  "密云",
+  "白河涧"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸巡撫趙弘燮奏報地方年景情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1454",
+ "order_index": 87
+}

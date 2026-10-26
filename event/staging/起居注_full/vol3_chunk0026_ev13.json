@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十三日戊寅",
+ "event_role": "人事任免",
+ "summary": "都察院副都御史员缺开列其次应升边声廷等，康熙帝命再开其次应升官员，并询问何以不列崔泪，明珠奏崔泪因降级未列，康熙帝称崔泪谨慎居官亦善。",
+ "people": [
+  {
+   "name": "边声廷",
+   "role": "应升官员"
+  },
+  {
+   "name": "崔泪",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2613,
+ "page_range": "87-88"
+}

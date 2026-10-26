@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "初一日庚申",
+ "event_role": "皇帝行止",
+ "summary": "辰时，康熙帝御保和殿遴选庶吉士，翰林院引见二甲进士张希良等四十名、三甲进士诸来姑等一百十八名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张希良",
+   "role": "二甲进士"
+  },
+  {
+   "name": "诸来姑",
+   "role": "三甲进士"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9122,
+ "page_range": "217-218"
+}

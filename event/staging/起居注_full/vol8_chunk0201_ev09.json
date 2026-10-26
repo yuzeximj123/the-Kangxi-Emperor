@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": "十六日成辰",
+ "event_role": "司法案件",
+ "summary": "行在刑部所题中后所等处大盗张三等三人交古北口总兵官保柱即行正法，康熙帝命交刑部会同三法司严审定议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "保柱",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "张三",
+   "role": "大盗"
+  }
+ ],
+ "places": [
+  "中后所",
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20109,
+ "page_range": "413-414"
+}

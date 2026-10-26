@@ -1,0 +1,36 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "初五日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部、都察院察议盛京礼部侍郎哈尔松阿、工部侍郎沙赖照才力不及例降二级调用，康熙帝命留任。",
+ "people": [
+  {
+   "name": "哈尔松阿",
+   "role": "盛京礼部侍郎"
+  },
+  {
+   "name": "沙赖",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19513,
+ "page_range": "447-448"
+}

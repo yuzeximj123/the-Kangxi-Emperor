@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "初二日戊子",
+ "event_role": "谕旨决策",
+ "summary": "礼部议覆御史郑惟孜请察冒籍等事条奏，康熙帝询问其意图，王熙奏称郑惟孜系直隶人恐中额为外省所占，康熙帝令交九卿议奏。",
+ "people": [
+  {
+   "name": "郑惟孜",
+   "role": "御史"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20110,
+ "page_range": "412-413"
+}

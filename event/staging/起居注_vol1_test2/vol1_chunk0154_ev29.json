@@ -1,0 +1,32 @@
+{
+ "reign_year": 17,
+ "month": 1,
+ "day_text": "二十二日甲午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝命学士喇沙里传谕陈廷敬、王士祯携诗进呈，御懋勤殿召见命各赋诗二首并赐膳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "学士"
+  },
+  {
+   "name": "王士祯",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15429,
+ "page_range": "365-366"
+}

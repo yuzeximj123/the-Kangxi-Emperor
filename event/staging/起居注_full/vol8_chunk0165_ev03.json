@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题朝审案内因赌博拟斩之王子兰等议减等，康熙命白以陈等十六人依议减等，王子兰、张正享不准减等。",
+ "people": [
+  {
+   "name": "王子兰",
+   "role": "罪犯"
+  },
+  {
+   "name": "张正享",
+   "role": "罪犯"
+  },
+  {
+   "name": "白以陈",
+   "role": "罪犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16503,
+ "page_range": "341-342"
+}

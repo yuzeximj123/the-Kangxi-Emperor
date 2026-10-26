@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十七年九月二十五日",
+ "reign_year": 47,
+ "month": 9,
+ "day": 25,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦向康熙请安，奏报江南天气晴明、人民乐业、地方安静无事，并进献新出冬笋。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "管理扬州织造、大理寺卿兼巡视两淮盐课监察御史，奏报人"
+  }
+ ],
+ "places": [
+  "江南",
+  "扬州",
+  "苏州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏進冬笋摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "404",
+ "order_index": 66
+}

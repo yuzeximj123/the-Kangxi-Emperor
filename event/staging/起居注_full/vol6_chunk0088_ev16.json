@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "初五日甲辰",
+ "event_role": "其他",
+ "summary": "康熙帝赐华山和尚敏唐御书匾额及字幅，赐祥符寺僧纪萌御书。",
+ "people": [
+  {
+   "name": "敏唐",
+   "role": "华山和尚"
+  },
+  {
+   "name": "纪萌",
+   "role": "祥符寺僧"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "华山",
+  "祥符寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8816,
+ "page_range": "186-187"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": "十一日甲实",
+ "event_role": "军务",
+ "summary": "将昭莫多翁金地方击贼振武将军孙思克等八十九员议各加二级，康熙帝令西路满洲官员及守备以上给拖沙喇哈番承袭一次。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "振武将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "昭莫多",
+  "翁金"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4522,
+ "page_range": "100-101"
+}

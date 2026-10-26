@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "二十六日甲午",
+ "event_role": "朝见受贺",
+ "summary": "安州知州罗守疆等、把总马国保来朝。",
+ "people": [
+  {
+   "name": "罗守疆",
+   "role": "安州知州"
+  },
+  {
+   "name": "马国保",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "安州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 842,
+ "page_range": "26-27"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "十五日癸卯",
+ "event_role": "其他",
+ "summary": "康熙帝命领侍卫内大臣公福善、乾清门侍郎马武视察帅颜、金洪振、吴开奇等马步射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍郎"
+  },
+  {
+   "name": "帅颜",
+   "role": "防守御"
+  },
+  {
+   "name": "金洪振",
+   "role": "副将"
+  },
+  {
+   "name": "吴开奇",
+   "role": "都司"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18135,
+ "page_range": "372-373"
+}

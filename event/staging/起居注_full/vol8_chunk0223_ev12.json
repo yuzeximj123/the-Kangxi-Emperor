@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题检讨郭孙顺家人王有郎打死主母徐氏，康熙帝命即凌迟处死。",
+ "people": [
+  {
+   "name": "郭孙顺",
+   "role": "检讨"
+  },
+  {
+   "name": "王有郎",
+   "role": "家人"
+  },
+  {
+   "name": "徐氏",
+   "role": "主母"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22312,
+ "page_range": "457-458"
+}

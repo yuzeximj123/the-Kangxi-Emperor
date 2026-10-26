@@ -1,0 +1,29 @@
+{
+ "reign_year": 14,
+ "month": 8,
+ "day_text": "十三日成辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出南苑西红门，过延禧郡王幕，遣内大臣赖塔库、二等侍卫巴山致祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赖塔库",
+   "role": "内大臣"
+  },
+  {
+   "name": "巴山",
+   "role": "二等侍卫"
+  }
+ ],
+ "places": [
+  "南苑西红门",
+  "延禧郡王幕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9812,
+ "page_range": "253-254"
+}

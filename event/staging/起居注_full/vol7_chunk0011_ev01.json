@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "通政司右参议程文殊员缺，拟以王启元补授，康熙帝以其曾任学士、居官无状且年迈，命以参议品级休致。",
+ "people": [
+  {
+   "name": "程文殊",
+   "role": "通政司右参议"
+  },
+  {
+   "name": "王启元",
+   "role": "拟补参议"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1101,
+ "page_range": "33-34"
+}

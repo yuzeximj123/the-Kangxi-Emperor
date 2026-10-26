@@ -1,0 +1,21 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自仪真江口渡江，至镇江府西门外驻跸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "仪真江口",
+  "镇江府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5416,
+ "page_range": "143-144"
+}

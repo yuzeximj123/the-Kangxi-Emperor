@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十年十月初三日",
+ "reign_year": 50,
+ "month": 10,
+ "day": 3,
+ "event_role": "奏报地方情形",
+ "summary": "两广总督赵弘灿奏报广东夏收丰稔、秋禾成熟登场，并进献香橙、橘红、蝴蝶兰等物，恭请皇上圣安。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督，奏折具奏人"
+  },
+  {
+   "name": "柴逢智",
+   "role": "赵弘灿家人，差遣进献物品"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“朕安”，并署康熙五十年十月三日。",
+ "source_title": "兩廣總督趙弘燦奏進香橙等物摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "114",
+ "order_index": 254
+}

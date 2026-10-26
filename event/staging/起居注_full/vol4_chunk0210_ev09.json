@@ -1,0 +1,33 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "初六日辛巳",
+ "event_role": "朝见受贺",
+ "summary": "三河县防守御马库、知县张葡、守备周渭、获州知州杨天佑等来朝。",
+ "people": [
+  {
+   "name": "马库",
+   "role": "三河县防守御"
+  },
+  {
+   "name": "张葡",
+   "role": "三河县知县"
+  },
+  {
+   "name": "周渭",
+   "role": "守备"
+  },
+  {
+   "name": "杨天佑",
+   "role": "获州知州"
+  }
+ ],
+ "places": [
+  "三河县",
+  "获州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21009,
+ "page_range": "432-433"
+}

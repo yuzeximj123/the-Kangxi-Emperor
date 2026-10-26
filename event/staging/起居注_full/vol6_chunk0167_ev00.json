@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "九卿议仍移咨该督会同监修河道大臣议奏，康熙命撤回监修高家堰范承勋等九员，监修之处交总河张鹏翮，余依议。",
+ "people": [
+  {
+   "name": "淳春",
+   "role": "议政大臣"
+  },
+  {
+   "name": "范承勋",
+   "role": "监修高家堰大臣"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16700,
+ "page_range": "344-345"
+}

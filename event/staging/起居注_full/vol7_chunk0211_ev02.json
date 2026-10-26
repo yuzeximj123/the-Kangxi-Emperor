@@ -1,0 +1,46 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "谕令卢炳、往郧禄以科员用，李景迪、施云翔、李楠、李天、成文运以道员用。",
+ "people": [
+  {
+   "name": "卢炳",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "往郧禄",
+   "role": "官员"
+  },
+  {
+   "name": "李景迪",
+   "role": "官员"
+  },
+  {
+   "name": "施云翔",
+   "role": "官员"
+  },
+  {
+   "name": "李楠",
+   "role": "官员"
+  },
+  {
+   "name": "李天",
+   "role": "官员"
+  },
+  {
+   "name": "成文运",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21102,
+ "page_range": "433-434"
+}

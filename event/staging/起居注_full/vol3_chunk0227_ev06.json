@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "十三日庚寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听部院各衙门面奏政事，库勒纳奏报未考翰林阅看试卷意见，帝答知道了。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "侍郎管翰林院事"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22706,
+ "page_range": "489-490"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述幼年种树南郊内河两岸，今已合抱，因河迁树间成平地，并论赵申乔奏请涸出地亩免粮之非。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "左都御史/曾任湖南巡抚"
+  }
+ ],
+ "places": [
+  "南郊内河",
+  "长沙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17401,
+ "page_range": "359-360"
+}

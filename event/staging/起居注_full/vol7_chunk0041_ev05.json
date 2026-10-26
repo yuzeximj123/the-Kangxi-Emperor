@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补巩昌府知府黄志璋升涉由道员缺，康熙帝详询引见官员履历，以马世因补授。",
+ "people": [
+  {
+   "name": "黄志璋",
+   "role": "巩昌府知府"
+  },
+  {
+   "name": "马世因",
+   "role": "补授官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巩昌府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4105,
+ "page_range": "93-94"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "初四日戊午",
+ "event_role": "司法案件",
+ "summary": "刑部覆题正黄旗汉军闲散人崔延昌告佐领耿衍赌钱典地，拟将耿衍革职枷号，康熙帝以未审出同赌之人发还严审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔延昌",
+   "role": "闲散人"
+  },
+  {
+   "name": "耿衍",
+   "role": "佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19712,
+ "page_range": "405-406"
+}

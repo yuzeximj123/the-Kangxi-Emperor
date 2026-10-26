@@ -1,0 +1,33 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "费扬古移文马思喀，通报昭莫多之战击败噶尔丹，阵斩二千余人、生获百余人，现率兵向皇上处前进。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军领侍卫内大臣伯"
+  },
+  {
+   "name": "马思喀",
+   "role": "平北大将军领侍卫内大臣"
+  },
+  {
+   "name": "纪卜",
+   "role": "台吉"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "昭莫多",
+  "特勒尔即口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13600,
+ "page_range": "282-283"
+}

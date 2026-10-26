@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十一日戊辰",
+ "event_role": "奏报灾情收成",
+ "summary": "户部议复直隶巡抚崔澄题报所属二十七州县被水灾，康熙帝命遣贤能司官速行踏勘回奏。",
+ "people": [
+  {
+   "name": "崔澄",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10328,
+ "page_range": "241-242"
+}

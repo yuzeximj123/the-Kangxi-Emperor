@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题广东琼州总兵官孙成龙员缺开列杨长泰等，康熙帝命以肇庆副将何国云补授琼州总兵官。",
+ "people": [
+  {
+   "name": "孙成龙",
+   "role": "广东琼州总兵官"
+  },
+  {
+   "name": "杨长泰",
+   "role": "镶黄旗汉军参领"
+  },
+  {
+   "name": "何国云",
+   "role": "广东肇庆副将"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "前总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "琼州",
+  "肇庆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16804,
+ "page_range": "347-348"
+}

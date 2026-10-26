@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "初七日于寅",
+ "event_role": "谕旨决策",
+ "summary": "马武传谕福善、尚宣，保安等处四把总员缺，令会同拣选高选等二十人以守备职衔补授把总，才力果足者可不次擢用。",
+ "people": [
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "尚宣",
+   "role": "总兵官"
+  },
+  {
+   "name": "高选",
+   "role": "功加守备"
+  }
+ ],
+ "places": [
+  "保安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11003,
+ "page_range": "230-231"
+}

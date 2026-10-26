@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题请台湾、澎湖等处员缺，以各省保题熟习水性副将等职名开列，康熙帝令将熟习水性之员签发江南、浙江、福建、广东四省候缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾",
+  "澎湖",
+  "江南",
+  "浙江",
+  "福建",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12201,
+ "page_range": "255-256"
+}

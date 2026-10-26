@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十二年五月初六日",
+ "reign_year": 52,
+ "month": 5,
+ "day": 6,
+ "event_role": "奏报地方情形",
+ "summary": "揆叙奏报五月初六日天气情况，称日出寅时有黑云起自东南方，至未时止，并据北路巡检张曙呈报具奏。",
+ "people": [
+  {
+   "name": "揆叙",
+   "role": "日讲官起居注官记注起居事、翰林院侍讲学士兼管局事，奏报人"
+  },
+  {
+   "name": "张曙",
+   "role": "北路巡检，呈报天气情况"
+  }
+ ],
+ "places": [
+  "东南方"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知自己安好，并称所奏已知悉。",
+ "source_title": "揆叙奏报天气摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 226
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "三十日辛亥",
+ "event_role": "司法案件",
+ "summary": "吏部议覆刑部保举贪赃员外郎硕伦，将尚书魏象枢、侍郎禅塔海等降级留任，康熙帝以地动后定有重处之例，命察例。",
+ "people": [
+  {
+   "name": "硕伦",
+   "role": "员外郎"
+  },
+  {
+   "name": "魏象枢",
+   "role": "尚书"
+  },
+  {
+   "name": "禅塔海",
+   "role": "侍郎"
+  },
+  {
+   "name": "陈一炳",
+   "role": "侍郎"
+  },
+  {
+   "name": "冯苏",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6314,
+ "page_range": "169-170"
+}

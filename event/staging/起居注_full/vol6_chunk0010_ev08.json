@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": "二十七日甲戌",
+ "event_role": "议政听政",
+ "summary": "大学士阿兰泰、学士罗察以折本请旨，吏部题陕西庆阳府宁州知州缺出，康熙帝命将保举官员内历俸深者补授。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "罗察",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "陕西",
+  "庆阳府",
+  "宁州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1008,
+ "page_range": "30-31"
+}

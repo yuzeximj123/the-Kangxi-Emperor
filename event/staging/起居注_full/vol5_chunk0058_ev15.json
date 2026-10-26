@@ -1,0 +1,36 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "十二日甲辰",
+ "event_role": "人事任免",
+ "summary": "户部题崇文门监督费扬古员缺，康熙帝询问费扬古行事，命开列应差满洲官员十员选用。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "崇文门监督"
+  },
+  {
+   "name": "张景留",
+   "role": "工部员外郎"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5815,
+ "page_range": "126-127"
+}

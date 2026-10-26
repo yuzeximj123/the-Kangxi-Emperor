@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": "二十八日辛刻",
+ "event_role": "贸易漕运",
+ "summary": "户部尚书马齐奏海道运米官拜都已至，康熙帝问拜都渡海可惧处，拜都奏顺风无可惧、逆风震荡可惧，曾回泊守候顺风。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "户部尚书"
+  },
+  {
+   "name": "拜都",
+   "role": "海道运米官"
+  }
+ ],
+ "places": [
+  "三岔口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15326,
+ "page_range": "316-317"
+}

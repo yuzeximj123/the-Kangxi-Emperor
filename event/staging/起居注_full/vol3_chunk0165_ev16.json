@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "初二日乙酉",
+ "event_role": "人事任免",
+ "summary": "勒德洪等请旨理水院侍郎员缺，康熙帝命调补和孙果为理沙院侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "乌喇代拜里",
+   "role": "内阅侍读学士"
+  },
+  {
+   "name": "喀喇额尔黑免",
+   "role": "郎中"
+  },
+  {
+   "name": "和孙果",
+   "role": "原任侍卫，调补理沙院侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16516,
+ "page_range": "365-366"
+}

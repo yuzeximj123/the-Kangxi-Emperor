@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十八日再子",
+ "event_role": "朝见受贺",
+ "summary": "河间府知府许天栈、河间县知县任奕敖等来朝见。",
+ "people": [
+  {
+   "name": "许天栈",
+   "role": "河间府知府"
+  },
+  {
+   "name": "任奕敖",
+   "role": "河间县知县"
+  }
+ ],
+ "places": [
+  "河间府",
+  "河间县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3310,
+ "page_range": "77-78"
+}

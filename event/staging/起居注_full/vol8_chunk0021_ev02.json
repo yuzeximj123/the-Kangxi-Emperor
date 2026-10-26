@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请以福保等承袭额宜都巴图鲁一等精奇尼哈番世职，康熙帝命详查太祖、太宗时效力功绩缮本具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔纳",
+   "role": "镶白旗都统"
+  },
+  {
+   "name": "额宜都巴图鲁",
+   "role": "受封者"
+  },
+  {
+   "name": "福保",
+   "role": "二等侍卫兼佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2102,
+ "page_range": "53-54"
+}

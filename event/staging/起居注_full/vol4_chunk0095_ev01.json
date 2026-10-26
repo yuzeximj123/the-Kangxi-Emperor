@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题报浙江提督陈世凯病故员缺请旨，康熙命总兵官金世荣升补浙江提督。",
+ "people": [
+  {
+   "name": "陈世凯",
+   "role": "浙江提督"
+  },
+  {
+   "name": "金世荣",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9501,
+ "page_range": "202-203"
+}

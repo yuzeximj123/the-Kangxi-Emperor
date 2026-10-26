@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初三日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以泗州等处水灾最大民甚苦，命侍郎苏赫就近踏勘情形具奏。",
+ "people": [
+  {
+   "name": "苏赫",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "泗州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11028,
+ "page_range": "255-256"
+}

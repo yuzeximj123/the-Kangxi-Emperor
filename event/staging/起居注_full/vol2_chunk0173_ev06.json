@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝御景山内前殿，赐山东巡抚徐旭龄、狼山总兵官姚仪食，并谕徐旭龄实心任事、言行相符。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "姚仪",
+   "role": "狼山总兵官"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17306,
+ "page_range": "389-390"
+}

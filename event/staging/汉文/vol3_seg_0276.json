@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十年十一月初六日",
+ "reign_year": 50,
+ "month": 11,
+ "day": 24,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮具折恭请皇上圣躬万安，并感谢此前朱批告知圣体安好、精神饮食起居皆佳。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏折具奏人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸巡撫趙弘燮奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "981",
+ "order_index": 276
+}

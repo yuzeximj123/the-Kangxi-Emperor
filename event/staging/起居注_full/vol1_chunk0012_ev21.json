@@ -1,0 +1,25 @@
+{
+ "reign_year": 11,
+ "month": 4,
+ "day_text": "初九日甲申",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御乾清门听政完毕，召熊赐履至弘德殿御座侧，详问湖广百姓疾苦及一路地方年岁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "日讲官起居注翰林院掌院学士兼礼部侍郎"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1221,
+ "page_range": "81-82"
+}

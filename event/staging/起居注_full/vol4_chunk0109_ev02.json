@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部议覆董讷所题运河沿北水浅、请早放南旺湖水以济漕运，康熙帝允行并命查明南旺湖分水情形回奏。",
+ "people": [
+  {
+   "name": "董讷",
+   "role": "总漕"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "河臣"
+  }
+ ],
+ "places": [
+  "南旺湖",
+  "分水龙王庙",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10902,
+ "page_range": "230-231"
+}

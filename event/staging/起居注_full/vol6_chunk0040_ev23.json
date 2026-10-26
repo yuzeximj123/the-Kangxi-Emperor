@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": "二十九日癸西",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝由东华门出崇文门，巡幸浅河要儿渡等堤岸，御舟驻通州崔家楼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "崇文门",
+  "浅河",
+  "要儿渡",
+  "通州",
+  "崔家楼"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4023,
+ "page_range": "90-91"
+}

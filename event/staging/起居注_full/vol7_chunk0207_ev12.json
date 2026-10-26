@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "初八日辛酉",
+ "event_role": "司法案件",
+ "summary": "刑部题偷创人参之王三拟绞、从犯刘二张二入辛者库，康熙帝令查明具奏，并令内务府查明从前入辛者库之人安插何处速奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王三",
+   "role": "偷创人参犯"
+  },
+  {
+   "name": "刘二",
+   "role": "从犯"
+  },
+  {
+   "name": "张二",
+   "role": "从犯"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20712,
+ "page_range": "425-426"
+}

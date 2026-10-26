@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十七日己丑",
+ "event_role": "其他",
+ "summary": "令大同总兵张文焕、太原总兵马伯等射箭。",
+ "people": [
+  {
+   "name": "张文焕",
+   "role": "大同总兵"
+  },
+  {
+   "name": "马伯",
+   "role": "太原总兵"
+  }
+ ],
+ "places": [
+  "大同",
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7609,
+ "page_range": "163-164"
+}

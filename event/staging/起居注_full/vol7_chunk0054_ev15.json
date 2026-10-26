@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "二十一日丙寅",
+ "event_role": "人事任免",
+ "summary": "滦州将军莽机禄以年老乞休，康熙帝命以原品致仕。",
+ "people": [
+  {
+   "name": "莽机禄",
+   "role": "滦州将军"
+  }
+ ],
+ "places": [
+  "滦州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5415,
+ "page_range": "119-120"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "二十五日癸未",
+ "event_role": "军务",
+ "summary": "康熙帝言福建督抚将军奏泉州抢夺奔逃上山贼盗已招降二千余，贼首四人获三，陈五显脱逃，令一并问明回奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈五显",
+   "role": "贼首"
+  },
+  {
+   "name": "蓝理",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "福建",
+  "泉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17629,
+ "page_range": "363-364"
+}

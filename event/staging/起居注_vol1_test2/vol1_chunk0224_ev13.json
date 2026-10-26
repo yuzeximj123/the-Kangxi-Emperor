@@ -1,0 +1,27 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十四日甲申",
+ "event_role": "司法案件",
+ "summary": "三法司议福建越禁出洋人犯三十三人拟斩，康熙帝以海上机宜正在筹划，命此本暂留勿发。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建",
+  "金门",
+  "厦门",
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22413,
+ "page_range": "505-506"
+}

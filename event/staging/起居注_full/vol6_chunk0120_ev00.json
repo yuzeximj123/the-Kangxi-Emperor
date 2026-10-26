@@ -1,0 +1,52 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿等以折本请旨，康熙帝就各省采买土产事谕令应采买者着折子启奏。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴珊",
+   "role": "大学士"
+  },
+  {
+   "name": "李录予",
+   "role": "学士"
+  },
+  {
+   "name": "钱齐保",
+   "role": "学士"
+  },
+  {
+   "name": "胡会恩",
+   "role": "学士"
+  },
+  {
+   "name": "特鸣德",
+   "role": "学士"
+  },
+  {
+   "name": "白硕色",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "各省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12000,
+ "page_range": "250-251"
+}

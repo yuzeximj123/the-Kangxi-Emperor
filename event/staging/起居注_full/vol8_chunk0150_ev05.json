@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": "十一日戊辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸行宫，巳时御东门，赐达赖喇嘛、班禅拉藏使者筵宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "行宫",
+  "东门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15005,
+ "page_range": "311-312"
+}

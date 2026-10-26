@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "二十四日奖丑",
+ "event_role": "人事任免",
+ "summary": "覆请都察院题更换长芦盐差御史杨保一案，康熙帝命将列名人员问明具奏。",
+ "people": [
+  {
+   "name": "杨保",
+   "role": "长芦盐差御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "长芦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14214,
+ "page_range": "295-296"
+}

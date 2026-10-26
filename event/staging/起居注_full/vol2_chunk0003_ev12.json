@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十六日壬申",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御瀛台前亭，赐吴喇忒、扎萨克、喀喇沁、阿霸垓等部落台吉茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇马",
+   "role": "吴喇忒部落四品台吉"
+  },
+  {
+   "name": "戴布",
+   "role": "扎萨克四品台吉"
+  },
+  {
+   "name": "巴图尔",
+   "role": "喀喇沁部落四品塔布囊"
+  },
+  {
+   "name": "嘲尔马",
+   "role": "阿霸垓部落四品台吉"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 312,
+ "page_range": "49-50"
+}

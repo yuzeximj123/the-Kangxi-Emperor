@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "二十二日庚子",
+ "event_role": "朝见受贺",
+ "summary": "山海关抽分吏部员外郎达虎礼、城守尉募成格、参将严梅等来朝。",
+ "people": [
+  {
+   "name": "达虎礼",
+   "role": "吏部员外郎"
+  },
+  {
+   "name": "募成格",
+   "role": "城守尉"
+  },
+  {
+   "name": "严梅",
+   "role": "城守参将"
+  }
+ ],
+ "places": [
+  "山海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11407,
+ "page_range": "271-272"
+}

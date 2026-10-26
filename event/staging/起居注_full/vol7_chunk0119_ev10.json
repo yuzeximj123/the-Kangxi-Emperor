@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "初六日辛酉",
+ "event_role": "人事任免",
+ "summary": "马齐请旨昌平营参将员缺补授人选，康熙帝命以进士侍卫马惠伯补授。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "马惠伯",
+   "role": "进士侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "昌平营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11910,
+ "page_range": "249-250"
+}

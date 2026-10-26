@@ -1,0 +1,33 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题满常控告佐领七十谎报阵亡冒领银米情真拟斩监候，康熙命依议并严禁七十、朝奇。",
+ "people": [
+  {
+   "name": "满常",
+   "role": "小校"
+  },
+  {
+   "name": "七十",
+   "role": "佐领"
+  },
+  {
+   "name": "朝奇",
+   "role": "原任布政司"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乌栏布通",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19206,
+ "page_range": "395-396"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补西安右翼副都统，康熙帝准以参领佟嘉年补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟嘉年",
+   "role": "参领，补授副都统"
+  },
+  {
+   "name": "杨文奎",
+   "role": "陪拟官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "赖塔",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18903,
+ "page_range": "421-422"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "event_summary": "康熙论总兵官黄大来效力行间、劳绩素著且有勇略，应于重要之地用之，明珠等赞同圣论。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄大来",
+   "role": "总兵官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11101,
+ "page_range": "257-258"
+}

@@ -1,0 +1,56 @@
+{
+ "date_raw": "五月十七日",
+ "reign_year": null,
+ "month": 5,
+ "day": 17,
+ "event_role": "司法案件",
+ "summary": "河南巡抚杨宗义奏报南阳府淅川县知县崔锡查拿赛会赌博民人，遭南阳镇标把总罗士英率兵夺犯，知府沈渊提审时兵丁又聚闹教场，现发按察司提审并奏报情形。",
+ "people": [
+  {
+   "name": "杨宗义",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "崔锡",
+   "role": "淅川县知县"
+  },
+  {
+   "name": "杨四",
+   "role": "赛会赌博民人"
+  },
+  {
+   "name": "金五",
+   "role": "赛会赌博民人"
+  },
+  {
+   "name": "罗士英",
+   "role": "南阳镇标右营驻防判紫关把总"
+  },
+  {
+   "name": "沈渊",
+   "role": "南阳府知府"
+  },
+  {
+   "name": "王洪道",
+   "role": "该营游击"
+  },
+  {
+   "name": "高成",
+   "role": "该镇总兵"
+  }
+ ],
+ "places": [
+  "河南",
+  "南阳府",
+  "淅川县",
+  "判紫关",
+  "教场"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 58
+}

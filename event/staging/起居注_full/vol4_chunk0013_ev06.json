@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "董讷奏祠堂湖开坝放水致湖堤溃决，康熙帝言水从堤上漫入洪泽湖亦知之。",
+ "people": [
+  {
+   "name": "董讷",
+   "role": "两江总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "祠堂湖",
+  "洪泽湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1306,
+ "page_range": "38-39"
+}

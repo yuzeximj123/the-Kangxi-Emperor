@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十八年五月初二日",
+ "reign_year": 58,
+ "month": 5,
+ "day": 2,
+ "event_role": "请安谢恩",
+ "summary": "江南提督赵珀奏请御赐匾额对联并请恩免所借藩库银两，同时进献笔墨扇纸茶叶等物，恳求赏收。",
+ "people": [
+  {
+   "name": "赵珀",
+   "role": "江南提督，奏折作者"
+  },
+  {
+   "name": "孙番",
+   "role": "万寿家人，赍捧奏折"
+  },
+  {
+   "name": "董有福",
+   "role": "千总，赍捧奏折"
+  }
+ ],
+ "places": [
+  "江南",
+  "热河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示已知晓，匾额对联扇子写好后带去，并令不必具本谢恩。",
+ "source_title": "江南提督趙珀奏報海島被寇情形并報地方年成雨水摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2761",
+ "order_index": 185
+}

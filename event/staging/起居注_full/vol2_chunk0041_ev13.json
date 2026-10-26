@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "二十六日庚成",
+ "event_role": "谕旨决策",
+ "summary": "修理通州仓厂迟缓，监修员外郎页禄等议罚，康熙帝闻修造甚好，令免议。",
+ "people": [
+  {
+   "name": "页禄",
+   "role": "监修员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4113,
+ "page_range": "125-126"
+}

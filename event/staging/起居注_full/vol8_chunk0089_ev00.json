@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题参采育防守御常寿参劾防御式木儿狂妄不能管人，又以萨哈连为证后复参萨哈连，议罚常寿、式木儿，康熙帝斥所议颠倒，命兵部侍郎觉和托往审。",
+ "people": [
+  {
+   "name": "常寿",
+   "role": "采育防守御"
+  },
+  {
+   "name": "式木儿",
+   "role": "防御"
+  },
+  {
+   "name": "萨哈连",
+   "role": "防御"
+  },
+  {
+   "name": "觉和托",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "采育"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8900,
+ "page_range": "189-190"
+}

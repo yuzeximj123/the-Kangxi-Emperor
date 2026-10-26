@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝赐遣往详巴处主事保住污鞍一副、署主事萨哈廉皮坐鞍一副。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "保住",
+   "role": "主事"
+  },
+  {
+   "name": "萨哈廉",
+   "role": "署主事"
+  }
+ ],
+ "places": [
+  "详巴处"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20704,
+ "page_range": "424-425"
+}

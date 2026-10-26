@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "初四日戊午",
+ "event_role": "人事任免",
+ "summary": "吏部题山东运使黄朝凤员缺，以应升知府蒋申锡等开列请旨，康熙帝令查奏九卿保题两淮运使人员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄朝凤",
+   "role": "山东运使"
+  },
+  {
+   "name": "蒋申锡",
+   "role": "应升知府"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19708,
+ "page_range": "405-406"
+}

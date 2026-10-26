@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初六日成午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸提平县属王块镇村，知县史匡经前来朝见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "史匡经",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "提平县",
+  "王块镇村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 500,
+ "page_range": "21-22"
+}

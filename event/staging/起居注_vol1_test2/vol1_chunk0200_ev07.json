@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "二十二日癸未",
+ "event_role": "司法案件",
+ "summary": "兵部尚书郭四海奏李之芳请释放浙省被掠人口，议兵丁所掠人口难以追求，康熙帝责李之芳当时不即言。",
+ "people": [
+  {
+   "name": "郭四海",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "李之芳",
+   "role": "浙江总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20007,
+ "page_range": "457-458"
+}

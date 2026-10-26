@@ -1,0 +1,21 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "三十日已未",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝因备冬亲御中和殿视太庙祝版，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17200,
+ "page_range": "354-355"
+}

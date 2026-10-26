@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "十六日甲寅",
+ "event_role": "人事任免",
+ "summary": "吏部题户部尚书王璧询附同官于成龙有失大臣之体应革职，康熙帝从宽免革职，着照原品休致。",
+ "people": [
+  {
+   "name": "王璧询",
+   "role": "户部尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1118,
+ "page_range": "32-33"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "十二日辛西",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚李光地等议通州副将员缺拟参将丁爽升补，康熙帝准照所题升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "丁爽",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2412,
+ "page_range": "59-60"
+}

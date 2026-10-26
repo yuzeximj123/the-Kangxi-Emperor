@@ -1,0 +1,38 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝称马进良人材矫健居官优但年迈不宜南方卑湿，升补可惜，又问梁盘如何，伊桑阿奏梁盘好，康熙帝以梁甫系梁化凤之子人材矫健，命补授提督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马进良",
+   "role": "总兵官"
+  },
+  {
+   "name": "梁盘",
+   "role": "官员"
+  },
+  {
+   "name": "梁甫",
+   "role": "提督候补"
+  },
+  {
+   "name": "梁化凤",
+   "role": "前朝将领"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21807,
+ "page_range": "446-447"
+}

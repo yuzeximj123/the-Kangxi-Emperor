@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十二年正月十三日",
+ "reign_year": 52,
+ "month": null,
+ "day": 13,
+ "event_role": "祭祀典礼",
+ "summary": "贵州巡抚刘荫枢奏报因圣寿庆典在贵州设坛建醮、率属官士民兵丁焚香祝祷并进献方物，以申祝贺之诚。",
+ "people": [
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚都察院右副都御史加三级，奏报人"
+  },
+  {
+   "name": "陈奇",
+   "role": "提督贵州等处地方总兵官都督佥事，列名奏报"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知朕安并知道了，表示已阅知此事。",
+ "source_title": "貴州巡撫劉蔭樞奏報建設難以為祝賀聖壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1177",
+ "order_index": 178
+}

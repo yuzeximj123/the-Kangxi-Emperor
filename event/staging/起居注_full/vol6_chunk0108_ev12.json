@@ -1,0 +1,36 @@
+{
+ "reign_year": 38,
+ "month": 8,
+ "day_text": "十八日全未",
+ "event_role": "司法案件",
+ "summary": "刑部题陶岱疏称贪禁侵渔案，孙居混与罗永王容对审无受贿处，部议驳回，康熙帝令照部议批出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陶岱",
+   "role": "署两江总督事侍郎"
+  },
+  {
+   "name": "孙居混",
+   "role": "原任按察司"
+  },
+  {
+   "name": "罗永王容",
+   "role": "逃犯"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "邳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10812,
+ "page_range": "226-227"
+}

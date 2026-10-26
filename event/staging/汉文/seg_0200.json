@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十六年十一月二十一日",
+ "reign_year": 46,
+ "month": 11,
+ "day": 21,
+ "event_role": "请安谢恩",
+ "summary": "四川提督岳昇龙奏谢康熙遣人传问并赏赐鹿肉鱼干等食品，表示分颁将士共沐恩波。",
+ "people": [
+  {
+   "name": "岳昇龙",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "四川",
+  "十六台"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙询问提督安好，并说明塞外行围所获鹿鱼赐予提督食用。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "273",
+ "source_title": "四川提督岳昇龍奏謝溫旨傳問並賜食品摺",
+ "order_index": 200
+}

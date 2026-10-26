@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十九年十月日",
+ "reign_year": 59,
+ "month": 10,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "江南提督师懿德因水土不服患病，且母柩停厝，具摺请假扶柩回籍安葬。",
+ "people": [
+  {
+   "name": "师懿德",
+   "role": "江南提督，奏请人"
+  },
+  {
+   "name": "刘声远",
+   "role": "师懿德家人，赍捧奏摺进呈"
+  }
+ ],
+ "places": [
+  "江南",
+  "西秦",
+  "畿辅"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示知道了，待奏本到时再准其请假，并叮嘱其饮食起居十分小心。",
+ "source_title": "江南提督师懿德奏陈水土不服请给假扶母柩归葬摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "129",
+ "order_index": 60
+}

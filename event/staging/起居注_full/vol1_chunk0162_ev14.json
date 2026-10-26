@@ -1,0 +1,32 @@
+{
+ "reign_year": 17,
+ "month": 5,
+ "day_text": "十九日戊午",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御东宫前殿，讲官喇沙里、张玉书、牛钮进讲《尚书》畴咨若予工等节，帝亲讲毕，讲官照常进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "东宫前殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16214,
+ "page_range": "381-382"
+}

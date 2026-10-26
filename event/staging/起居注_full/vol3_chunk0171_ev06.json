@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "初三日乙卯",
+ "event_role": "贸易漕运",
+ "summary": "议福建海税及外番船只抽税照广东例，康熙帝命问九卿关于海税累民及海上捕鱼船只受阻等情形。",
+ "people": [
+  {
+   "name": "吴锡巴",
+   "role": "郎中，题请外番船只抽税照广东例"
+  }
+ ],
+ "places": [
+  "福建",
+  "广东",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17106,
+ "page_range": "377-378"
+}

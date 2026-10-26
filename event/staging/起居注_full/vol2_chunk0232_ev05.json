@@ -1,0 +1,48 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十二日已未",
+ "event_role": "人事任免",
+ "summary": "刑部为广西察审钱粮引见郎中希福、杨茂伦等，康熙帝以希福年老新从兵间来，命遣辛宝往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "郎中"
+  },
+  {
+   "name": "杨茂伦",
+   "role": "郎中"
+  },
+  {
+   "name": "辛宝",
+   "role": "员外"
+  },
+  {
+   "name": "杜林",
+   "role": "员外"
+  },
+  {
+   "name": "喀尔图",
+   "role": "尚书"
+  },
+  {
+   "name": "禅塔海",
+   "role": "侍郎"
+  },
+  {
+   "name": "佛伦",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23205,
+ "page_range": "507-508"
+}

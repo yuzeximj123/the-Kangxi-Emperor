@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "十五日癸亥",
+ "event_role": "弹劾参奏",
+ "summary": "吏部覆巡抚李光地参通州知州祖应世亏空钱粮议革职，康熙帝以巡视永定河曾闻此人、工程已完，疑所参舛错，命问明具奏。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "祖应世",
+   "role": "通州知州"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通州",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3017,
+ "page_range": "71-72"
+}

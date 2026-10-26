@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙伍拾壹年伍月日",
+ "reign_year": 51,
+ "month": 5,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "镇绥将军仍管陕西提督事务潘育龙奏报其子潘祥被授翰林院中书，恭谢皇恩并请圣安。",
+ "people": [
+  {
+   "name": "潘育龙",
+   "role": "镇绥将军仍管陕西提督事务、奏折具奏人"
+  },
+  {
+   "name": "潘祥",
+   "role": "潘育龙之子，新授翰林中书"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，所奏之事已知晓。",
+ "source_title": "鎮綏將軍謝恩",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 62
+}

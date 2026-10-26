@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十三日成申",
+ "event_role": "谕旨决策",
+ "summary": "康熙论湖南百姓雕散皆由督抚不职，命将杨凤起同赵国列严加刑讯明白议奏。",
+ "people": [
+  {
+   "name": "李辉祖",
+   "role": "原任总督"
+  },
+  {
+   "name": "杨凤起",
+   "role": "原任巡抚"
+  },
+  {
+   "name": "赵国列",
+   "role": "原任知州"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11018,
+ "page_range": "230-231"
+}

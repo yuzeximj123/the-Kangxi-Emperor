@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "初四日乙亥",
+ "event_role": "朝见受贺",
+ "summary": "修武县知县黄亮可等、千总郭义等来朝。",
+ "people": [
+  {
+   "name": "黄亮可",
+   "role": "修武县知县"
+  },
+  {
+   "name": "郭义",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "修武县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8421,
+ "page_range": "179-180"
+}

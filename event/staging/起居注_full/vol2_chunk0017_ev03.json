@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议五十儿打死进财应抵偿，康熙帝以其素无仇隙、因相戏致死，命免抵偿并票明情由。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "五十儿",
+   "role": "罪犯"
+  },
+  {
+   "name": "进财",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1703,
+ "page_range": "77-78"
+}

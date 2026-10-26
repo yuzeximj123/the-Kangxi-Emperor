@@ -1,0 +1,36 @@
+{
+ "reign_year": 26,
+ "month": 9,
+ "day_text": "十三日戊子",
+ "event_role": "人事任免",
+ "summary": "兵部题正白旗蒙古都统阿密达调补员缺，康熙帝以郎潭在雅克萨曾有效力处，命补授都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿密达",
+   "role": "正白旗蒙古都统"
+  },
+  {
+   "name": "德尔得",
+   "role": "前锋统领拟正"
+  },
+  {
+   "name": "罗奇",
+   "role": "副都统拟陪"
+  },
+  {
+   "name": "郎潭",
+   "role": "补授都统"
+  }
+ ],
+ "places": [
+  "雅克萨"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24621,
+ "page_range": "527-528"
+}

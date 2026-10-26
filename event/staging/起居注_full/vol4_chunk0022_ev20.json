@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "二十八日辛丑",
+ "event_role": "其他",
+ "summary": "康熙帝问汪需是否知沈廷文，汪需奏未识其人，闻是诸修之士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汪需",
+   "role": "记注官"
+  },
+  {
+   "name": "沈廷文",
+   "role": "贡士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2220,
+ "page_range": "56-57"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补苏松总兵官梁黎员缺，开列广东香山副将朱明等，康熙帝以朱笔圈出者调来引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁黎",
+   "role": "苏松总兵官"
+  },
+  {
+   "name": "朱明",
+   "role": "广东香山副将"
+  }
+ ],
+ "places": [
+  "苏松",
+  "广东香山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22303,
+ "page_range": "456-457"
+}

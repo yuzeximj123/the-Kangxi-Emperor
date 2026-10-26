@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "十二日丁亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命大学士马齐、张玉书传谕偏沅巡抚赵申乔，令严饬属员痛改前非、力减加耗、尽革私征，以苏湖南民困。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5120,
+ "page_range": "113-114"
+}

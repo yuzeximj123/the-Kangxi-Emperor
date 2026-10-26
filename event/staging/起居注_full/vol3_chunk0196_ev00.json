@@ -1,0 +1,36 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问孔兴范籍贯及荐举人，王女奏其为山东人、由图纳和马齐所荐，康熙命引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孔兴范",
+   "role": "官员"
+  },
+  {
+   "name": "王女",
+   "role": "奏对官员"
+  },
+  {
+   "name": "图纳",
+   "role": "荐举人"
+  },
+  {
+   "name": "马齐",
+   "role": "荐举人"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19600,
+ "page_range": "427-428"
+}

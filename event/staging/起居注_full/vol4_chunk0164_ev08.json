@@ -1,0 +1,25 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "初四日乙西",
+ "event_role": "谕旨决策",
+ "summary": "户部覆陕西巡抚萨绚图请开捐纳以赈西安府属被灾州县，康熙帝以捐纳为一时权宜、利于富者而不准行。",
+ "people": [
+  {
+   "name": "萨绚图",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "西安府",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16408,
+ "page_range": "340-341"
+}

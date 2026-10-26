@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "吏部题补工部员外郎员缺，康熙帝询问鹿哈为人，以其庸劣令随旗行走，改补伊图。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鹿哈",
+   "role": "拟补主事"
+  },
+  {
+   "name": "伊图",
+   "role": "拟陪官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "葛思泰",
+   "role": "记注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24111,
+ "page_range": "525-526"
+}

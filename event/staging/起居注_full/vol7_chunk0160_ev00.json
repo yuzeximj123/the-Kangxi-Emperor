@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝因赫素、徐元梦翻译本章甚佳，命授为大学士衙门侍读学士改本，温达奏谢。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "赫素",
+   "role": "翻译官"
+  },
+  {
+   "name": "徐元梦",
+   "role": "翻译官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16000,
+ "page_range": "331-332"
+}

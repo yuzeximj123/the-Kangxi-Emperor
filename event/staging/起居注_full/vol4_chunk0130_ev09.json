@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 9,
+ "day_text": "十七日甲辰",
+ "event_role": "奏报地方情形",
+ "summary": "偏沅巡抚于养志陛见，奏报湖广、河南米谷丰收、地方安静无盗贼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于养志",
+   "role": "偏沅巡抚"
+  }
+ ],
+ "places": [
+  "湖广",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13009,
+ "page_range": "272-273"
+}

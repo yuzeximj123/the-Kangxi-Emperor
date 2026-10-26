@@ -1,0 +1,37 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "户部议覆临清关监督武格题馆陶县知县高琨串通光棍商人拦截木税案，请差大臣审理，康熙帝令交该抚审理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "武格",
+   "role": "临清关监督"
+  },
+  {
+   "name": "高琨",
+   "role": "馆陶县知县"
+  },
+  {
+   "name": "曹盛甫",
+   "role": "光棍"
+  },
+  {
+   "name": "王大宗",
+   "role": "商人"
+  }
+ ],
+ "places": [
+  "馆陶县",
+  "临清关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7105,
+ "page_range": "153-154"
+}

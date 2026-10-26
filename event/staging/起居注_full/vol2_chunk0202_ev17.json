@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "初五日乙巳",
+ "event_role": "司法案件",
+ "summary": "兵部议原任将军巴海将流徒人犯陈洪明等擅留乌喇拟革职，康熙帝令仍发宁古塔并再议巴海处分。",
+ "people": [
+  {
+   "name": "巴海",
+   "role": "原任将军"
+  },
+  {
+   "name": "陈洪明",
+   "role": "流徒人犯"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20217,
+ "page_range": "447-448"
+}

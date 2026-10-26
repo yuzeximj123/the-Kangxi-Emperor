@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十一日丙申",
+ "event_role": "弹劾参奏",
+ "summary": "给事中雅齐纳劾通政司参议虞世年衰迈宜解任，康熙帝令免交部议，解任以原品食俸。",
+ "people": [
+  {
+   "name": "雅齐纳",
+   "role": "给事中"
+  },
+  {
+   "name": "虞世",
+   "role": "通政司参议"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2011,
+ "page_range": "83-84"
+}

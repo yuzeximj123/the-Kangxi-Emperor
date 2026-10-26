@@ -1,0 +1,44 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "九卿官员朝议湖口泊船及迁移之事，伊桑阿、郭四海、介山、帅颜保等各陈意见。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "官员"
+  },
+  {
+   "name": "吴正治",
+   "role": "官员"
+  },
+  {
+   "name": "宋德宜",
+   "role": "官员"
+  },
+  {
+   "name": "魏象枢",
+   "role": "官员"
+  },
+  {
+   "name": "郭四海",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "介山",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "帅颜保",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "湖口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11300,
+ "page_range": "269-270"
+}

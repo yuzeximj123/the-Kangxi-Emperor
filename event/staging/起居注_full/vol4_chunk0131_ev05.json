@@ -1,0 +1,38 @@
+{
+ "reign_year": 29,
+ "month": 10,
+ "day_text": "初三日庚申",
+ "event_role": "司法案件",
+ "summary": "三法司题王启优、颜四、黄迪谋杀贾钦俱应立斩，康熙帝询问大学士意见后准如所议。",
+ "people": [
+  {
+   "name": "王启优",
+   "role": "案犯"
+  },
+  {
+   "name": "颜四",
+   "role": "案犯"
+  },
+  {
+   "name": "黄迪",
+   "role": "案犯"
+  },
+  {
+   "name": "贾钦",
+   "role": "被害人"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13105,
+ "page_range": "274-275"
+}

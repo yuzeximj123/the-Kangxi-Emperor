@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十六日丙申",
+ "event_role": "司法案件",
+ "summary": "吏部题东岳庙失火，拟将监察御史江球等罚俸一年、兵马司官员革职，康熙帝以官员未居庙内，令再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "江球",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "东岳庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6411,
+ "page_range": "138-139"
+}

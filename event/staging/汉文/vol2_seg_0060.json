@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十七年九月十九日",
+ "reign_year": 47,
+ "month": 9,
+ "day": 19,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报扬州、苏州九月米价因客米南来又降，百姓安心地方宁静，并进呈苏州八月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "管理苏州织造、大理寺卿兼巡视两淮盐课监察御史"
+  }
+ ],
+ "places": [
+  "扬州",
+  "苏州",
+  "湖广",
+  "江西",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知奏报内容。",
+ "source_title": "蘇州織造李煦奏報蘇揚米價又降並進蘇州晴雨冊摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "399",
+ "order_index": 60
+}

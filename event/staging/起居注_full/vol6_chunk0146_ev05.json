@@ -1,0 +1,36 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "二十三日丙辰",
+ "event_role": "人事任免",
+ "summary": "兵部题巡捕营游击员缺，康熙帝论凯音布保题之弊，命会同保题。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "九门提督"
+  },
+  {
+   "name": "佟国臣",
+   "role": "巡捕营游击"
+  },
+  {
+   "name": "盛天社",
+   "role": "应升官"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14605,
+ "page_range": "302-303"
+}

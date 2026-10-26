@@ -1,0 +1,21 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "初三日己酉",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝于保和殿视天坛谢雨祝版，毕后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "天坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23206,
+ "page_range": "499-500"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "理藩院题鄂尔多斯固山贝子鲁母布母病故，请以其长子他尔巴承袭固山贝子或镇国公，康熙令会同领侍卫大臣、理藩院问明具奏。",
+ "people": [
+  {
+   "name": "鲁母布母",
+   "role": "鄂尔多斯固山贝子"
+  },
+  {
+   "name": "他尔巴",
+   "role": "鲁母布母长子"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "鄂尔多斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18504,
+ "page_range": "381-382"
+}

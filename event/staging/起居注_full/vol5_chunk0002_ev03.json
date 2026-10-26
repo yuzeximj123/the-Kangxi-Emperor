@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿奏捐纳居官者必剥削百姓偿债；尚书熊赐履奏捐纳为陕西荒旱一时权宜。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 203,
+ "page_range": "14-15"
+}

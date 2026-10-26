@@ -1,0 +1,33 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部郎中倭伦修平阳府城署仓库工毕，康熙帝以其节省钱粮着优旨，应升缺出先用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭伦",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "朱马喇",
+   "role": "原任都统"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "平阳府",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14607,
+ "page_range": "302-303"
+}

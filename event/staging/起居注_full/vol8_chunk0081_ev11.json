@@ -1,0 +1,29 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": "二十四日于辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝命九卿简选广东、湖南巡抚及各省布政使、按察使可用之人，满洲大臣不知外官贤否者勿举。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "尚书"
+  },
+  {
+   "name": "刘谦",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "广东",
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8111,
+ "page_range": "173-174"
+}

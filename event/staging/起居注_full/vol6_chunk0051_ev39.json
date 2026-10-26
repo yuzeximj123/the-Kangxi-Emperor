@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": "二十三日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召领侍卫内大臣索额图入行宫，谕称科尔沁诸王历代为国戚，端贞长公主、比称长公主俱系朕亲姑，和硕达尔汗巴图鲁亲王曾于开创时效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5139,
+ "page_range": "112-113"
+}

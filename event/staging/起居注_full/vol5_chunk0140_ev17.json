@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十八日全未",
+ "event_role": "谕旨决策",
+ "summary": "亲近侍卫海青传谕，令将运米来之人于驿站酌量给米，遣往三岔口。",
+ "people": [
+  {
+   "name": "海青",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三岔口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14017,
+ "page_range": "290-291"
+}

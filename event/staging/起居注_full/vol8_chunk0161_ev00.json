@@ -1,0 +1,29 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "张鹏翮奏称原任苏州知府陈鹏年熟习河务，可否遣往河工效力，康熙询问其年龄，张鹏翮答五十五岁。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "大学士"
+  },
+  {
+   "name": "陈鹏年",
+   "role": "原任苏州知府"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "苏州",
+  "河工"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16100,
+ "page_range": "333-334"
+}

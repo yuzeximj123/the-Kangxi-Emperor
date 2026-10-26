@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "二十五日辛刻",
+ "event_role": "人事任免",
+ "summary": "河南巡抚徐潮遵旨查原任道员周锭元居官优长具奏，康熙令留原任。",
+ "people": [
+  {
+   "name": "徐潮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "周锭元",
+   "role": "原任道员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20314,
+ "page_range": "416-417"
+}

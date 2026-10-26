@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "总河赵世显题留外河同知刘世奇在任守制，康熙帝命照所请在任守制。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵世显",
+   "role": "总河"
+  },
+  {
+   "name": "刘世奇",
+   "role": "外河同知"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15610,
+ "page_range": "323-324"
+}

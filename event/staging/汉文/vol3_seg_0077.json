@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十九年十一月 日具",
+ "reign_year": 49,
+ "month": 11,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "致仕吏部尚书宋荦奏请皇上、皇太子安，并谢恩其第五子宋致奉旨升补四川布政使，表示将寄书勉子尽职安民以报皇恩。",
+ "people": [
+  {
+   "name": "宋荦",
+   "role": "致仕吏部尚书加三级，奏折作者"
+  },
+  {
+   "name": "宋致",
+   "role": "宋荦第五子，由汀漳道佥事超擢臬司后升补四川布政使"
+  }
+ ],
+ "places": [
+  "四川",
+  "汀漳"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "致仕尚书宋荦奏谢",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 77
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "十九日乙卯",
+ "event_role": "人事任免",
+ "summary": "兵部题狼山总兵官姚仪丁忧员缺，康熙帝谕于台湾副将、参将中察明有功劳者具奏，以示鼓励。",
+ "people": [
+  {
+   "name": "姚仪",
+   "role": "狼山总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾",
+  "狼山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 818,
+ "page_range": "51-52"
+}

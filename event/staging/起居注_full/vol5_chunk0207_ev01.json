@@ -1,0 +1,55 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "甘肃巡抚郭洪奏报肃州预备满兵马匹、拨留兵丁及进兵起程日期等军务事宜。",
+ "people": [
+  {
+   "name": "郭洪",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "博济",
+   "role": "将军"
+  },
+  {
+   "name": "锡尔哈达",
+   "role": "副都统"
+  },
+  {
+   "name": "马云震",
+   "role": "副都统"
+  },
+  {
+   "name": "李学圣",
+   "role": "监督茶马郎中"
+  },
+  {
+   "name": "金乘伦",
+   "role": "道官"
+  },
+  {
+   "name": "哈雅尔图",
+   "role": "侍郎"
+  },
+  {
+   "name": "存柱",
+   "role": "批本"
+  }
+ ],
+ "places": [
+  "肃州",
+  "甘州",
+  "西宁",
+  "庄浪"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20701,
+ "page_range": "424-425"
+}

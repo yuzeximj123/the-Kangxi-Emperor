@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初十日丁未",
+ "event_role": "其他",
+ "summary": "是日赏右卫驻防副都统方格等、宁古塔副都统耿额鞍马各一匹。",
+ "people": [
+  {
+   "name": "方格",
+   "role": "右卫驻防副都统"
+  },
+  {
+   "name": "耿额",
+   "role": "宁古塔副都统"
+  }
+ ],
+ "places": [
+  "右卫",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1914,
+ "page_range": "48-49"
+}

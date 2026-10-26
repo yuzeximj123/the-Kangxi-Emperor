@@ -1,0 +1,46 @@
+{
+ "reign_year": 51,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "大学士等遵旨会同九卿议处总督噶礼、巡抚张伯行、主考左必蕃赵晋等案，康熙帝命穆和伦、张廷枢前去严加审明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "左必蕃",
+   "role": "主考"
+  },
+  {
+   "name": "赵晋",
+   "role": "主考"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "穆和伦",
+   "role": "官员"
+  },
+  {
+   "name": "张廷枢",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22401,
+ "page_range": "459-460"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 30,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "云贵总督范承勋奏请来京觐见，康熙以云南地方遥远、两省事务紧要为由令其不必来京。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "云南贵州总督"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15401,
+ "page_range": "320-321"
+}

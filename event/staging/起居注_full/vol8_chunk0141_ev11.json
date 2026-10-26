@@ -1,0 +1,22 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "十三日壬寅",
+ "event_role": "司法案件",
+ "summary": "都察院题押送军前骆驼之兵清保托病雇人代送，议枷号三个月、鞭一百，康熙以其情由可恶，命照军前躲懒定例再议具奏。",
+ "people": [
+  {
+   "name": "清保",
+   "role": "押送骆驼兵丁"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14111,
+ "page_range": "293-294"
+}

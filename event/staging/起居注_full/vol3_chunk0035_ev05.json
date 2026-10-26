@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙问江南总督于成龙居官，石柱奏其清廉但轻信属员，康熙称其廉洁为百姓所称。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "石柱",
+   "role": "奏对官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "江南总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3505,
+ "page_range": "105-106"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝定武进士名次，以王应统为一甲一名、林云汉为一甲二名、吴开十为一甲三名。",
+ "people": [
+  {
+   "name": "王应统",
+   "role": "武进士一甲一名"
+  },
+  {
+   "name": "林云汉",
+   "role": "武进士一甲二名"
+  },
+  {
+   "name": "吴开十",
+   "role": "武进士一甲三名"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4209,
+ "page_range": "96-97"
+}

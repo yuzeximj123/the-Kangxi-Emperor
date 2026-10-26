@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十八日庚寅",
+ "event_role": "司法案件",
+ "summary": "兵部覆审贵州威宁总兵孟大志革职拟徒，帝令革去总兵，留拖沙喇哈番之职，罪款从宽免。",
+ "people": [
+  {
+   "name": "孟大志",
+   "role": "贵州威宁总兵"
+  },
+  {
+   "name": "温达",
+   "role": "都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州威宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7618,
+ "page_range": "163-164"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "十二日本卯",
+ "event_role": "人事任免",
+ "summary": "兵部为荆州右翼副都统关保员缺开列礼部侍郎邵称布等职名具奏，康熙帝令调额伦式为荆州右翼副都统。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "荆州右翼副都统"
+  },
+  {
+   "name": "邵称布",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "额伦式",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12625,
+ "page_range": "263-264"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": "二十七日己未",
+ "event_role": "朝见受贺",
+ "summary": "江南江西总督阿山、陕西巡抚华显赴任前请训旨，康熙帝谕以实心任事、砥砺名节，并令少待另有密谕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "华显",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15513,
+ "page_range": "320-321"
+}

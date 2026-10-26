@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 8,
+ "day_text": "初九日己巳",
+ "event_role": "司法案件",
+ "summary": "吏部题知县彭铭失察杀伤人命拟降留，康熙帝质疑引例不明，令问明在京诸臣具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭铭",
+   "role": "原任孝丰县知县"
+  },
+  {
+   "name": "巡抚",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "孝丰县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16517,
+ "page_range": "340-341"
+}

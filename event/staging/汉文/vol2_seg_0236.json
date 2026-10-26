@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十八年十月初三日",
+ "reign_year": 48,
+ "month": 10,
+ "day": 3,
+ "event_role": "请安谢恩",
+ "summary": "江宁织造曹寅奏请圣安，并报告江南太平无事，呈送九月分江宁、扬州晴雨录供御览。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏报人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "扬州",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧織造曹寅奏請聖安並進晴雨録摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "584",
+ "order_index": 236
+}

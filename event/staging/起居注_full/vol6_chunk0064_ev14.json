@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十六日丙申",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等奏问户部华阴等县捐纳钱粮展限事，户部称展限已七年无益，康熙帝称户部之言亦是。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "华阴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6414,
+ "page_range": "138-139"
+}

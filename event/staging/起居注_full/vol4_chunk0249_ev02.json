@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 11,
+ "day_text": "二十七日丙寅",
+ "event_role": "人事任免",
+ "summary": "鸿胪寺卿员缺，引见翰林院侍读尹泰等十员，康熙帝以郎中阿尔大人材优长、办事亦善，着补授鸿胪寺卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布达礼",
+   "role": "鸿胪寺卿（员缺）"
+  },
+  {
+   "name": "尹泰",
+   "role": "翰林院侍读"
+  },
+  {
+   "name": "阿尔大",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24902,
+ "page_range": "510-511"
+}

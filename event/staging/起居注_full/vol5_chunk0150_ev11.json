@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": "初一日甲申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内洲宁居听政，部院各衙门官员面奏完毕，督运粮饷侍郎李铺以运米事具折呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李铺",
+   "role": "督运中路大兵粮饷侍郎"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15011,
+ "page_range": "310-311"
+}

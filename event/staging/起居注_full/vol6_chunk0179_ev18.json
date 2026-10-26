@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "初二日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题鄂尔折图哈滩巴图尔移置宁夏给粮等事，康熙帝照所议行，并命差部院堂官一员查视沿途驿站。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂尔折图哈滩巴图尔",
+   "role": "蒙古首领"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "陕西",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17918,
+ "page_range": "368-369"
+}

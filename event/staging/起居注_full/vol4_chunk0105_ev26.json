@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 2,
+ "day_text": "二十五日丁雍",
+ "event_role": "人事任免",
+ "summary": "吏部题都察院左都御史郭玫调员缺，康熙帝谕陈廷敬为人老成，可补授左都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭玫",
+   "role": "左都御史"
+  },
+  {
+   "name": "张集",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10526,
+ "page_range": "222-223"
+}

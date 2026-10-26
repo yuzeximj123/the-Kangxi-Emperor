@@ -1,0 +1,23 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十四日癸刻",
+ "event_role": "皇帝行止",
+ "summary": "卯时，康熙帝诣陵祭告，由东华门出东直门过通州，是日驻跸蓟州邦均西。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "东直门",
+  "通州",
+  "蓟州邦均西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9119,
+ "page_range": "225-226"
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿举出福建按察使董永区等七人补安徽布政使张圣佐员缺，康熙帝命年希鞠补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张圣佐",
+   "role": "安徽布政使"
+  },
+  {
+   "name": "董永区",
+   "role": "福建按察使"
+  },
+  {
+   "name": "年希鞠",
+   "role": "补授者"
+  }
+ ],
+ "places": [
+  "安徽",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17009,
+ "page_range": "351-352"
+}

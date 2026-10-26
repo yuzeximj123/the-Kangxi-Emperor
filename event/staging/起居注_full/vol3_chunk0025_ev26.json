@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "兵部题补正黄旗护军统领诺敏升任员缺，康熙帝命前锋统领沙纳哈补授，其缺于右翼四旗内选择。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺敏",
+   "role": "护军统领"
+  },
+  {
+   "name": "沙纳哈",
+   "role": "前锋统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2526,
+ "page_range": "85-86"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十二日壬寅",
+ "event_role": "请安谢恩",
+ "summary": "散秩大臣鄂罗自陵寝请安至，康熙赐御书及对联诗字，并赐桑格、喀都礼等御书对联诗字。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂罗",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "桑格",
+   "role": "一等侍卫加太常寺卿"
+  },
+  {
+   "name": "喀都礼",
+   "role": "二等阿达哈哈番"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2220,
+ "page_range": "55-56"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 13,
+ "month": 3,
+ "day_text": "十七日辛巳",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝复御乾清门，赐云南总兵官刘文居、四川总兵官陈奇并等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘文居",
+   "role": "云南总兵官"
+  },
+  {
+   "name": "陈奇并",
+   "role": "四川总兵官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6846,
+ "page_range": "193-194"
+}

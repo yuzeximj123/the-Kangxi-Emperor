@@ -1,0 +1,30 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙询问武举马步射及开弓舞刀掇石之制始于何时，李需、叶方蓝奏对，康熙论今之试法似皆具文，杨永宁奏将在谋不在勇，康熙颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "叶方蓝",
+   "role": "学士"
+  },
+  {
+   "name": "杨永宁",
+   "role": "吏部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19604,
+ "page_range": "449-450"
+}

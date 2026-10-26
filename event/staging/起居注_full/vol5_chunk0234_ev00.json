@@ -1,0 +1,38 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "副都统阿南达移文山西巡抚，报告滚布查罕等厄鲁特人归附及安置事宜，请旨定夺。",
+ "people": [
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "滚布查罕",
+   "role": "归附台吉"
+  },
+  {
+   "name": "阿拉布坦",
+   "role": "台吉"
+  },
+  {
+   "name": "德伦",
+   "role": "寨桑"
+  },
+  {
+   "name": "吴巴什",
+   "role": "寨桑"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "大同",
+  "齐金诺儿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23400,
+ "page_range": "478-479"
+}

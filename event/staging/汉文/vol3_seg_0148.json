@@ -1,0 +1,33 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "署理江南提督吴郡奏陈受恩深重，遣其弟吴天祚赴京代其效力，并提及子吴兴业复还原级补用等事。",
+ "people": [
+  {
+   "name": "吴郡",
+   "role": "署理江南提督事务、总督浙江定海等处地方、充提督官左都督衔管"
+  },
+  {
+   "name": "吴天祚",
+   "role": "吴郡之弟，奉命赴京效力并赍捧奏折"
+  },
+  {
+   "name": "吴兴业",
+   "role": "吴郡之子，以把总驻州"
+  }
+ ],
+ "places": [
+  "江南",
+  "浙江定海"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "署理江南提督吴郡奏陈遣弟赴京效力摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "415",
+ "order_index": 148
+}

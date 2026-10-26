@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆原任提督殷化行遗疏请以拖沙喇哈番与长孙王宾承袭不准行，康熙帝命照所请给伊长孙王宾承袭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "殷化行",
+   "role": "原任提督"
+  },
+  {
+   "name": "王宾",
+   "role": "长孙"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15608,
+ "page_range": "323-324"
+}

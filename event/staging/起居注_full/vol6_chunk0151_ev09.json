@@ -1,0 +1,22 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "二十六日己丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早启行，自武清县杨村登舟，至渔家湾江儿港等处舍舟临视新挑之河，复登舟驻跸武清县中邓家庄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "武清县杨村",
+  "渔家湾江儿港",
+  "武清县中邓家庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15109,
+ "page_range": "312-313"
+}

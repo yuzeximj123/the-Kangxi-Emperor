@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十二日丙午",
+ "event_role": "弹劾参奏",
+ "summary": "江苏巡抚于准题请分十年带征拖欠钱粮，康熙帝斥其要誉百姓、蓄心不良，命发还切责。",
+ "people": [
+  {
+   "name": "于准",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13408,
+ "page_range": "279-280"
+}

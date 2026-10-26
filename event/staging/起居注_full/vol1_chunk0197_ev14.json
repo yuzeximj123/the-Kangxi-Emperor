@@ -1,0 +1,29 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "十三日甲成",
+ "event_role": "奏报地方情形",
+ "summary": "刑部员外达岱自湖广恤刑还复命，奏报湖广年岁、米价及百姓生计。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达岱",
+   "role": "刑部员外"
+  }
+ ],
+ "places": [
+  "湖广",
+  "河南",
+  "西平",
+  "遂平",
+  "卫辉",
+  "彰德"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19714,
+ "page_range": "451-452"
+}

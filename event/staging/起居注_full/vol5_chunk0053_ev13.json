@@ -1,0 +1,23 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "先发通仓积粟，次发霸州等十州县及天津积粟，令直隶诸郡积粟概行平粜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通仓",
+  "霸州",
+  "天津",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5313,
+ "page_range": "116-117"
+}

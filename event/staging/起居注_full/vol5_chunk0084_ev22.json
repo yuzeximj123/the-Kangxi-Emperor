@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "十一日庚子",
+ "event_role": "人事任免",
+ "summary": "翰林院题日讲官尹泰升任员缺，将侍讲学士希福纳等职名开列，康熙命问翰林院掌院学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尹泰",
+   "role": "日讲官"
+  },
+  {
+   "name": "希福纳",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8422,
+ "page_range": "178-179"
+}

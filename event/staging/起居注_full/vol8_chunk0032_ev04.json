@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 7,
+ "day_text": "十六日辛西",
+ "event_role": "谕旨决策",
+ "summary": "大学士李光地等因吏部题庶子净锡本等封典事错票认罪请改正，康熙帝命改正。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "净锡本",
+   "role": "庶子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3204,
+ "page_range": "75-76"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官为扔和叙、满保。",
+ "people": [
+  {
+   "name": "扔和叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "满保",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4802,
+ "page_range": "107-108"
+}

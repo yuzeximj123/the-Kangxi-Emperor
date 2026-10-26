@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "十七日壬申",
+ "event_role": "起居注官记录",
+ "summary": "康熙帝对皇太子言卫齐得口鼻歪斜之疾，谕其归家，卫齐以公主下嫁例设官专掌之事坚辞不归。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "卫齐",
+   "role": "光禄寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12029,
+ "page_range": "251-252"
+}

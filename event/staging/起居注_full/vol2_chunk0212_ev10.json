@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初十日己酉",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题达胡里、哈纳、乌尔等告贫苦来投内地，康熙帝命准编入旗下，务令安插得所。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达胡里",
+   "role": "来投者"
+  },
+  {
+   "name": "哈纳",
+   "role": "来投者"
+  },
+  {
+   "name": "乌尔",
+   "role": "来投者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21210,
+ "page_range": "467-468"
+}

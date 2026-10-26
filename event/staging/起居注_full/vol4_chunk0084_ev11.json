@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "初五日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述太宗收定蒙古及苏尼特腾济思往事，表示不忍喀尔喀流离，特遣大臣收集流亡使其安插得所，伊桑阿等奏赞圣论。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "腾济思",
+   "role": "苏尼特部落"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8411,
+ "page_range": "180-181"
+}

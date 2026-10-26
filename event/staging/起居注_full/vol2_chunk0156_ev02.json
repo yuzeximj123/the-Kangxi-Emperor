@@ -1,0 +1,38 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部参六宫宝座估价浮冒，康熙帝命萨穆哈、朱之绚、党古里降五级留任，图移等降五级调用，雅图革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨穆哈",
+   "role": "工部尚书"
+  },
+  {
+   "name": "朱之绚",
+   "role": "工部尚书"
+  },
+  {
+   "name": "党古里",
+   "role": "侍郎"
+  },
+  {
+   "name": "图移",
+   "role": "司官"
+  },
+  {
+   "name": "雅图",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15602,
+ "page_range": "355-356"
+}

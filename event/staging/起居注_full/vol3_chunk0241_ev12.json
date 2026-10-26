@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": "二十三日己亥",
+ "event_role": "司法案件",
+ "summary": "刑部郎中阿西谭、员外郎伊独立奉命往审浙江张亲吃闻事，面请谕旨，康熙帝谕令公平确审，不得徇私偏听。",
+ "people": [
+  {
+   "name": "阿西谭",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "伊独立",
+   "role": "员外郎"
+  },
+  {
+   "name": "张亲",
+   "role": "浙江案涉人"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24112,
+ "page_range": "517-518"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题广西秋审情真案内斩犯冯章等，康熙令冯章等六人处斩、黄老三等十五人改为缓决。",
+ "people": [
+  {
+   "name": "冯章",
+   "role": "斩犯"
+  },
+  {
+   "name": "黄老三",
+   "role": "缓决犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15312,
+ "page_range": "317-318"
+}

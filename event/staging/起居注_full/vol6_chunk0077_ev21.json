@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "初二日壬寅",
+ "event_role": "人事任免",
+ "summary": "康熙帝以詹事府尹泰不到衙门致官员松弛，着以原品解任仍纂修书籍，詹事府另补专官，席尔图着另用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尹泰",
+   "role": "詹事府官员"
+  },
+  {
+   "name": "席尔图",
+   "role": "盛京理事官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7721,
+ "page_range": "164-165"
+}

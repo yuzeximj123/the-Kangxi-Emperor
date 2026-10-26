@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "初五日已效",
+ "event_role": "人事任免",
+ "summary": "吏部题监察御史江有良升任员缺，拟郎中马君宠正、备世泰陪，康熙帝命吏部会同都察院另行选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "江有良",
+   "role": "监察御史"
+  },
+  {
+   "name": "马君宠",
+   "role": "郎中"
+  },
+  {
+   "name": "备世泰",
+   "role": "拟陪官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3002,
+ "page_range": "95-96"
+}

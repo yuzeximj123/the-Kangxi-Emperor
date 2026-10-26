@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "广东提督王文雄题碍石总兵官标下中军游击员缺，请以守备田华补授，康熙帝准田华补授。",
+ "people": [
+  {
+   "name": "王文雄",
+   "role": "广东提督"
+  },
+  {
+   "name": "田华",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "碍石"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13506,
+ "page_range": "281-282"
+}

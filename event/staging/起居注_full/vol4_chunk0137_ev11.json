@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "初十日丙寅",
+ "event_role": "人事任免",
+ "summary": "兵部题升任江南京口水师总兵官陈奇员缺，康熙帝命候补总兵官林本直补授。",
+ "people": [
+  {
+   "name": "陈奇",
+   "role": "江南京口水师总兵官"
+  },
+  {
+   "name": "林本直",
+   "role": "候补总兵官"
+  }
+ ],
+ "places": [
+  "江南京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13711,
+ "page_range": "286-287"
+}

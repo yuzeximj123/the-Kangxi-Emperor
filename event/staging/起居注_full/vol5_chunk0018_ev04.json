@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "伊桑阿等遵旨移咨宁古塔将军佟宝询问巴尔达，佟宝回称其马步射俱善但居官办事平常。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "佟宝",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "巴尔达",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1804,
+ "page_range": "46-47"
+}

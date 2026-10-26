@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "十一日庚寅",
+ "event_role": "奏报地方情形",
+ "summary": "户部员外郎苏黑差回，尚书伊桑阿、侍郎额库里引见，康熙帝询问大同米粮收成及百姓生计、流民归集等情形。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏黑",
+   "role": "户部员外郎"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "额库里",
+   "role": "户部侍郎"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8324,
+ "page_range": "209-210"
+}

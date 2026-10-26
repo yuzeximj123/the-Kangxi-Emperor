@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十二年正月",
+ "reign_year": 52,
+ "month": 1,
+ "day": null,
+ "event_role": "朝见受贺",
+ "summary": "陕西巡抚路振声恭贺康熙帝六旬万寿，因未获准进京，遣家人代叩并进献藏香、挂面、石器、狐皮等土物。",
+ "people": [
+  {
+   "name": "路振声",
+   "role": "陕西巡抚贝子，奏折作者"
+  },
+  {
+   "name": "王国兴",
+   "role": "路振声家人，代其进京叩贺"
+  }
+ ],
+ "places": [
+  "陕西",
+  "兰州",
+  "潇州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "陕西巡抚路振声奏贺万寿并进土物摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 184
+}

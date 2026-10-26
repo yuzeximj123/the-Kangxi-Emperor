@@ -1,0 +1,27 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "初十日全未",
+ "event_role": "谕旨决策",
+ "summary": "四川巡抚于养志题请东川等处土司改设流官，康熙帝命移文三省总督巡抚选员详勘具奏，勿使迁延。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于养志",
+   "role": "四川巡抚"
+  }
+ ],
+ "places": [
+  "东川",
+  "云南",
+  "贵州",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4123,
+ "page_range": "92-93"
+}

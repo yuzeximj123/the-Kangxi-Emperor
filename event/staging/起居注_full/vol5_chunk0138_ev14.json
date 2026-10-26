@@ -1,0 +1,36 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十二日丁丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕行文大将军费扬古、马思喀等遍行传谕，查明收取达赖喇嘛、班禅等与噶尔丹交通文书送御营。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "马思喀",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "御营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13814,
+ "page_range": "286-287"
+}

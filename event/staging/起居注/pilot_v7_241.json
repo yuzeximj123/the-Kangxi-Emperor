@@ -1,0 +1,40 @@
+{
+ "date_raw": "康熙四十五年十九日癸卯",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十九日癸卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝御乾清宫引见华色等四人，授华色太仆寺正卿仍兼翰林院侍读学士行走。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "华色",
+   "role": "授太仆寺正卿"
+  },
+  {
+   "name": "揆达礼",
+   "role": "被评懒惰"
+  },
+  {
+   "name": "法海",
+   "role": "被评无能"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3241
+}

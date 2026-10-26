@@ -1,0 +1,21 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "二十五日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸迁安县所属白布店村北深河岸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "迁安县白布店村",
+  "深河岸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4605,
+ "page_range": "135-136"
+}

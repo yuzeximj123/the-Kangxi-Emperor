@@ -1,0 +1,36 @@
+{
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "二十三日甲拱",
+ "event_role": "谕旨决策",
+ "summary": "左都御史赵申乔奏审知府陈弘道之妻王氏等案，因艾芳曾等口供未到请先奏明，康熙帝命交赵申乔速行审明。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "左都御史"
+  },
+  {
+   "name": "陈弘道",
+   "role": "知府"
+  },
+  {
+   "name": "王氏",
+   "role": "陈弘道之妻"
+  },
+  {
+   "name": "艾芳曾",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22717,
+ "page_range": "465-466"
+}

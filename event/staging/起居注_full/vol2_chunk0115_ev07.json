@@ -1,0 +1,37 @@
+{
+ "reign_year": 21,
+ "month": 3,
+ "day_text": "初八日丙辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率皇太子及诸王、大臣、官员等至昭陵献玉龟，读祝文，祭隆恩殿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸王",
+   "role": "宗室"
+  },
+  {
+   "name": "大臣",
+   "role": "官员"
+  },
+  {
+   "name": "官员",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "昭陵",
+  "隆恩殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11507,
+ "page_range": "273-274"
+}

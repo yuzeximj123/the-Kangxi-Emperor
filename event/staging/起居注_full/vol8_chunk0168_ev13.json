@@ -1,0 +1,33 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "十八日",
+ "event_role": "谕旨决策",
+ "summary": "户部覆浙闽总督满保所题裁减档案、进表照例等事，康熙帝命进表限三品以上官员并令九卿议奏。",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "研山",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "查绚纳",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "浙江",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16813,
+ "page_range": "347-348"
+}

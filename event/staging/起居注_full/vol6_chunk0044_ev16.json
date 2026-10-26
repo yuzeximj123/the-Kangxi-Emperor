@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "二十八日辛丑",
+ "event_role": "司法案件",
+ "summary": "内务府题郎中额席赫等所审庄头衡有觉打死人命用犯禁物、衡有邻截人手足俱拟立斩，康熙帝以其凶恶已极令再审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额席赫",
+   "role": "郎中"
+  },
+  {
+   "name": "衡有觉",
+   "role": "庄头"
+  },
+  {
+   "name": "衡有邻",
+   "role": "犯人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4416,
+ "page_range": "98-99"
+}

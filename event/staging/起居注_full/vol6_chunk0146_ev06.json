@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "二十三日丙辰",
+ "event_role": "司法案件",
+ "summary": "刑部题魏齐等控告伊尔格图私掺黄丹红土修饰卓瓦，康熙帝命大学士及都察院会同另议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏齐",
+   "role": "翰林院侍读学士"
+  },
+  {
+   "name": "伊尔格图",
+   "role": "通政司左参议"
+  },
+  {
+   "name": "萨木哈",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14606,
+ "page_range": "302-303"
+}

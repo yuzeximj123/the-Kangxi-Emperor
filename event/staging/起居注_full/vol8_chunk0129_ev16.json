@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "初八日已已",
+ "event_role": "司法案件",
+ "summary": "康熙提及赵晋已死未死之处，前令张伯行确查，张伯行奏赵晋未死。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵晋",
+   "role": "官员"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12916,
+ "page_range": "269-270"
+}

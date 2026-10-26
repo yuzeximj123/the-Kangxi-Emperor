@@ -1,0 +1,29 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "十五日己丑",
+ "event_role": "人事任免",
+ "summary": "兵部题补陕西凉州永固营等四处副将员缺，康熙帝命将提督孙思克等所保举壮健人员补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "提督"
+  },
+  {
+   "name": "郑云",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "陕西凉州",
+  "永固营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22609,
+ "page_range": "464-465"
+}

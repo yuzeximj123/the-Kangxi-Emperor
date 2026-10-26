@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初二日己丑",
+ "event_role": "谕旨决策",
+ "summary": "户部题索伦进贡貂皮不堪，请停赏并议处扎木苏等；康熙帝以索伦设驿站效力未暇猎貂，姑免议仍照例给赏。",
+ "people": [
+  {
+   "name": "扎木苏",
+   "role": "索伦副都统品级"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "索伦",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11021,
+ "page_range": "255-256"
+}

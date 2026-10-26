@@ -1,0 +1,29 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "弹劾参奏",
+ "summary": "学士蔡升元奏陈参劾贵州巡抚刘荫枢狂妄沽名、妄报塞上雪深欺君等罪状，并请将两摺下部议处，另附条奏科场事宜候旨施行。",
+ "people": [
+  {
+   "name": "蔡升元",
+   "role": "学士，奏折作者，参劾者"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚，被参劾者"
+  }
+ ],
+ "places": [
+  "贵州",
+  "塞上"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批谕称两摺内容一样，未知主意所在。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 492
+}

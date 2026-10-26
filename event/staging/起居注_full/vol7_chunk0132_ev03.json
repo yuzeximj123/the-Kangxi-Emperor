@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "左都御史希福纳员缺，康熙帝命以黑龙江副都统耿格补授都察院左都御史。",
+ "people": [
+  {
+   "name": "希福纳",
+   "role": "原左都御史"
+  },
+  {
+   "name": "杜敏",
+   "role": "侍郎"
+  },
+  {
+   "name": "耿格",
+   "role": "黑龙江副都统，补左都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13203,
+ "page_range": "275-276"
+}

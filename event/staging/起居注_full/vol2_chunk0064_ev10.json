@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "初三日",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读学士，拟色勒布、色黑，康熙帝询问后命尔衙门会同吏部拣选具奏。",
+ "people": [
+  {
+   "name": "色勒布",
+   "role": "拟正郎中"
+  },
+  {
+   "name": "色黑",
+   "role": "拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6410,
+ "page_range": "171-172"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十六日乙丑",
+ "event_role": "军务",
+ "summary": "辰时，大将军章泰等题奏云南克复捷报至，传集随驾王、大臣、侍卫，康熙帝亲读汉文，皇太子宣读满文，诸臣欢跃叹异。",
+ "people": [
+  {
+   "name": "章泰",
+   "role": "大将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9124,
+ "page_range": "225-226"
+}

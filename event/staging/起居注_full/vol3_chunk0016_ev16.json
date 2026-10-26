@@ -1,0 +1,36 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "二十七日癸巳",
+ "event_role": "人事任免",
+ "summary": "吏部题太仆寺卿边声廷升任员缺，康熙帝以陈涩器年少轻率补太仆寺卿，赵之鼎补佥都御史。",
+ "people": [
+  {
+   "name": "边声廷",
+   "role": "太仆寺卿"
+  },
+  {
+   "name": "陈涩器",
+   "role": "佥都御史"
+  },
+  {
+   "name": "赵之鼎",
+   "role": "通政"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "满城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1616,
+ "page_range": "67-68"
+}

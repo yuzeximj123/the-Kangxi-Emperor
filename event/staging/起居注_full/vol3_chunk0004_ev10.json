@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初一日本西",
+ "event_role": "人事任免",
+ "summary": "刑部革职郎中宋俄伦员缺，正拟巴布纳、陪拟吴什哈，康熙帝以巴布纳平常命另选具奏。",
+ "people": [
+  {
+   "name": "宋俄伦",
+   "role": "刑部革职郎中"
+  },
+  {
+   "name": "巴布纳",
+   "role": "兵部督捕员外郎"
+  },
+  {
+   "name": "吴什哈",
+   "role": "太仆寺员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 410,
+ "page_range": "43-44"
+}

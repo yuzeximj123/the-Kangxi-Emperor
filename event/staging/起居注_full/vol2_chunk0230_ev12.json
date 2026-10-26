@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十七日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "刑部题督抚参贪官参多审少应定处分条例，满汉大学士意见不一，康熙帝命九卿、詹事、科道会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23012,
+ "page_range": "503-504"
+}

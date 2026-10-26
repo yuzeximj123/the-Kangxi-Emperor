@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "二十二日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "议政王大臣会议将马承萌等五十二人革职并家口入包衣，康熙帝令将其分散各处、再行确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马承萌",
+   "role": "议政王大臣会议议处人员"
+  },
+  {
+   "name": "张吉午",
+   "role": "都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10106,
+ "page_range": "245-246"
+}

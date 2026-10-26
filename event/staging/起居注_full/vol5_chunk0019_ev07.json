@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初八日乙巳",
+ "event_role": "司法案件",
+ "summary": "吏部题请将已革三等阿达哈哈番苏黑官职给其亲相之子刘格，康熙帝不准，命世袭仍留苏黑并罚俸三年、交佐领重责。",
+ "people": [
+  {
+   "name": "苏黑",
+   "role": "已革三等阿达哈哈番"
+  },
+  {
+   "name": "刘格",
+   "role": "苏黑亲相之子"
+  },
+  {
+   "name": "图壳赫",
+   "role": "苏黑之父、阵亡官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1907,
+ "page_range": "48-49"
+}

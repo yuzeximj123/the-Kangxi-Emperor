@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 8,
+ "day_text": "十三日丙子",
+ "event_role": "其他",
+ "summary": "赐大学士松柱、尚书公孙征法御书单条，并赐哈密佐领马母里野母等缎、银。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "公孙征法",
+   "role": "尚书"
+  },
+  {
+   "name": "马母里野母",
+   "role": "哈密佐领"
+  }
+ ],
+ "places": [
+  "哈密"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10513,
+ "page_range": "221-222"
+}

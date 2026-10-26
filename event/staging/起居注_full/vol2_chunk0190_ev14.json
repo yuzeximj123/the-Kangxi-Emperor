@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十三日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙谕简亲王长史索拜与王同败北另有失龙纛败回之事，命另拟罪，若与惠兰等一同拟罪则奏明请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索拜",
+   "role": "简亲王长史"
+  },
+  {
+   "name": "惠兰",
+   "role": "辅国将军"
+  },
+  {
+   "name": "墨梅",
+   "role": "辅国将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19014,
+ "page_range": "423-424"
+}

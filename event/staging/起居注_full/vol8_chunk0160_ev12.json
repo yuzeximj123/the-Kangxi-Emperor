@@ -1,0 +1,34 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "大学士马齐等以尚书赵申乔等所议打死张四之王二折子呈览，康熙帝令将折发还，与交付会议之事一并具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "赵申乔",
+   "role": "尚书"
+  },
+  {
+   "name": "王二",
+   "role": "案犯"
+  },
+  {
+   "name": "张四",
+   "role": "受害人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16012,
+ "page_range": "331-332"
+}

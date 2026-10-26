@@ -1,0 +1,24 @@
+{
+ "reign_year": 53,
+ "month": 5,
+ "day_text": "十八日戊午",
+ "event_role": "人事任免",
+ "summary": "覆请兵部议甘肃提督江琦将世袭官请袭与第四子江志弘一事。",
+ "people": [
+  {
+   "name": "江琦",
+   "role": "甘肃提督"
+  },
+  {
+   "name": "江志弘",
+   "role": "江琦第四子"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6046,
+ "page_range": "131-132"
+}

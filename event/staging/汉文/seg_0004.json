@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙四十二年十二月十五日",
+ "reign_year": 42,
+ "month": 12,
+ "day": 15,
+ "event_role": "请安谢恩",
+ "summary": "李煦奏报弋腔教习叶国桢已到苏州，并叩谢皇恩，承诺戏班学成后送京。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "叶国桢",
+   "role": "涉及人物"
+  },
+  {
+   "name": "佛保",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知晓此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "5",
+ "source_title": "苏州织造李煦奏为弋腔教习叶国桢已到苏州摺",
+ "order_index": 4
+}

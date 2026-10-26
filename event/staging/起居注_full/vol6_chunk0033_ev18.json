@@ -1,0 +1,48 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "二十日乙丑",
+ "event_role": "皇帝行止",
+ "summary": "御舟驻跸霸州袁家口，霸州知州萧士表等官员来朝。",
+ "people": [
+  {
+   "name": "萧士表",
+   "role": "霸州知州"
+  },
+  {
+   "name": "霍巨光",
+   "role": "宝坛县知县"
+  },
+  {
+   "name": "许天栈",
+   "role": "文安县知县"
+  },
+  {
+   "name": "多器",
+   "role": "霸州防守御"
+  },
+  {
+   "name": "马普利",
+   "role": "章京"
+  },
+  {
+   "name": "杭苏",
+   "role": "章京"
+  },
+  {
+   "name": "万世译",
+   "role": "霸州营游击"
+  },
+  {
+   "name": "能开云",
+   "role": "文安营游击"
+  }
+ ],
+ "places": [
+  "霸州袁家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3318,
+ "page_range": "76-77"
+}

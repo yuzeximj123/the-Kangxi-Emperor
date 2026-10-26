@@ -1,0 +1,37 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "二十一日戊申",
+ "event_role": "人事任免",
+ "summary": "广西巡抚萧永藻赴任请训，康熙谕其效法彭鹏居官，并责其前任广东时盗案多、荐人不当。",
+ "people": [
+  {
+   "name": "萧永藻",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭鹏",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "广西",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19511,
+ "page_range": "400-401"
+}

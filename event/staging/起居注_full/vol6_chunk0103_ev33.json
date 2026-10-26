@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "初六日壬寅",
+ "event_role": "人事任免",
+ "summary": "山西巡抚噶礼赴任请训旨，康熙帝谕其勤劳爱民、居官若好即超擢否则罢黜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10333,
+ "page_range": "216-217"
+}

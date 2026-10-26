@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "二十八日己亥",
+ "event_role": "其他",
+ "summary": "辰时康熙帝幸教场，赐诸王、大臣、侍卫及蒙古诸王、台吉、萨布素、沙纳海及大小官员宴。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "沙纳海",
+   "role": "宁古塔将军"
+  }
+ ],
+ "places": [
+  "教场"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5628,
+ "page_range": "122-123"
+}

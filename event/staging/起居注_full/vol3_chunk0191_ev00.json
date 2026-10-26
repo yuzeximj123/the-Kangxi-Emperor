@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "议处张英、德格勒记注不实，命交吏部严加议处并改正记注。",
+ "people": [
+  {
+   "name": "张英",
+   "role": "记注官"
+  },
+  {
+   "name": "德格勒",
+   "role": "记注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19100,
+ "page_range": "417-418"
+}

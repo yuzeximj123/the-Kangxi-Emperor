@@ -1,0 +1,38 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": "初十日壬寅",
+ "event_role": "人事任免",
+ "summary": "吏部题仓场侍郎德珠员缺开列学士布泰等，康熙询问署总督陶岱居官何如。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德珠",
+   "role": "仓场侍郎"
+  },
+  {
+   "name": "布泰",
+   "role": "学士"
+  },
+  {
+   "name": "陶岱",
+   "role": "署总督事侍郎"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15227,
+ "page_range": "314-315"
+}

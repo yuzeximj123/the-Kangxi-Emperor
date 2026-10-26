@@ -1,0 +1,38 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "初二日戊实",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士员缺，康熙帝询问崔蔚林、王国安等人，命王国安补学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "崔蔚林",
+   "role": "应升官员"
+  },
+  {
+   "name": "王国安",
+   "role": "应升官员"
+  },
+  {
+   "name": "金世鉴",
+   "role": "应升官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12503,
+ "page_range": "293-294"
+}

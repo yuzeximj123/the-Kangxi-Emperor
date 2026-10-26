@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "初十日癸亥",
+ "event_role": "朝见受贺",
+ "summary": "三河县知县任训、防守尉纳棱格等来朝。",
+ "people": [
+  {
+   "name": "任训",
+   "role": "三河县知县"
+  },
+  {
+   "name": "纳棱格",
+   "role": "防守尉"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4220,
+ "page_range": "127-128"
+}

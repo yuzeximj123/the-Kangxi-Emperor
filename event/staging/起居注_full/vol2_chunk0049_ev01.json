@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赐都统巴札儿蟒袍佩刀各一，参领俄尔最、佐领塔尔巴、蒙固齐织袍佩刀各一，骑校罗洛、多布等十七人弓一张箭五枝。",
+ "people": [
+  {
+   "name": "巴札儿",
+   "role": "都统"
+  },
+  {
+   "name": "俄尔最",
+   "role": "参领"
+  },
+  {
+   "name": "塔尔巴",
+   "role": "佐领"
+  },
+  {
+   "name": "蒙固齐",
+   "role": "佐领"
+  },
+  {
+   "name": "罗洛",
+   "role": "骑校"
+  },
+  {
+   "name": "多布",
+   "role": "骑校"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4901,
+ "page_range": "141-142"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议政王等会推镶蓝旗蒙古都统公瓦山调补满洲都统员缺，康熙帝询问诸王大臣意见后命巴海补授都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "巴海",
+   "role": "候补都统"
+  },
+  {
+   "name": "瓦山",
+   "role": "镶蓝旗蒙古都统公"
+  },
+  {
+   "name": "额黑纳",
+   "role": "护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2801,
+ "page_range": "91-92"
+}

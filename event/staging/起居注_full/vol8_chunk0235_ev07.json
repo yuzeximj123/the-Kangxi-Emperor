@@ -1,0 +1,21 @@
+{
+ "reign_year": 57,
+ "month": 2,
+ "day_text": "二十一日庚子",
+ "event_role": "人事任免",
+ "summary": "大学士等以议政之事入奏，康熙帝命西安右卫、福建将军员缺照补授杭州将军之例，由诸王、议政大臣会同举出具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "西安",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23507,
+ "page_range": "481-482"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "二十四日辛酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸通州所属尘县马头。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通州",
+  "尘县马头"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2202,
+ "page_range": "54-55"
+}

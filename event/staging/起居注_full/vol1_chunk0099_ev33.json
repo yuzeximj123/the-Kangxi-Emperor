@@ -1,0 +1,28 @@
+{
+ "reign_year": 14,
+ "month": 9,
+ "day_text": "初三日戊子",
+ "event_role": "朝见受贺",
+ "summary": "是日，昌平道沈志礼、昌平州城守博罗、参将林进等来朝。",
+ "people": [
+  {
+   "name": "沈志礼",
+   "role": "昌平道"
+  },
+  {
+   "name": "博罗",
+   "role": "昌平州城守拜他喇布勒哈番品级"
+  },
+  {
+   "name": "林进",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "昌平州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9933,
+ "page_range": "255-256"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将茶易马匹驱送荆州、江宁、杭州各一千给散军士，余二千送京，并派部院贤能官员沿途喂养护送。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "荆州",
+  "江宁",
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6503,
+ "page_range": "140-141"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 9,
+ "day_text": "二十九日己酉",
+ "event_role": "人事任免",
+ "summary": "陕西巡抚永泰题总督殷泰患病不能动转，康熙帝命殷泰在任调摄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "永泰",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "殷泰",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23118,
+ "page_range": "473-474"
+}

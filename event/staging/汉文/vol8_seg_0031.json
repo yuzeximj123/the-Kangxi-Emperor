@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十七年正月十五日",
+ "reign_year": 57,
+ "month": null,
+ "day": 15,
+ "event_role": "请安谢恩",
+ "summary": "两广总督杨琳闻皇太后宾天，因远在岭海不能哭临，上摺奏慰皇上，恳请保重圣躬勿过哀，并遣人叩请进京叩谒。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "张天禄",
+   "role": "标下千总"
+  },
+  {
+   "name": "陈奇贵",
+   "role": "家人"
+  }
+ ],
+ "places": [
+  "岭海"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "兩廣總督楊琳奏爲進京叩謁太后天顏恭請旨摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2585",
+ "order_index": 31
+}

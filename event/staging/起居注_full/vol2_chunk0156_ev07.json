@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "十二日乙卯",
+ "event_role": "贸易漕运",
+ "summary": "康熙帝询问催漕船郎中色克、鄂齐礼漕船行至何地，二人奏报头帮已抵通州、尾船抵杨村，并称河冻行船危险。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色克",
+   "role": "郎中"
+  },
+  {
+   "name": "鄂齐礼",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "通州",
+  "杨村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15607,
+ "page_range": "355-356"
+}

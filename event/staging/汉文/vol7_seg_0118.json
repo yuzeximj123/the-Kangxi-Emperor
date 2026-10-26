@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙伍拾肆年【伍】月【貳】拾【玖】日",
+ "reign_year": 54,
+ "month": 5,
+ "day": 29,
+ "event_role": "人事任免",
+ "summary": "吏部题请补授员缺，请求皇上圣念准予补授，使部务得人办理。",
+ "people": [
+  {
+   "name": "穆和伦",
+   "role": "吏部尚书致仕仍着原任行走加贰级"
+  },
+  {
+   "name": "赵申乔",
+   "role": "尚书兼管钱法事务降壹级"
+  },
+  {
+   "name": "敦拜",
+   "role": "经筵讲官右侍郎即加贰级"
+  },
+  {
+   "name": "吕履恒",
+   "role": "右侍郎"
+  }
+ ],
+ "places": [],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "吏部題請補授員缺摺（殘）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 118
+}

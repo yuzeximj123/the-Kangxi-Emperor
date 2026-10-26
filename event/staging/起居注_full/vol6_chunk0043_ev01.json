@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题陕西提督李林隆员缺，康熙帝令于各总兵官内择最优长者补授，并问九卿举荐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李林隆",
+   "role": "陕西提督"
+  },
+  {
+   "name": "喻维邦",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "陕西",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4301,
+ "page_range": "96-97"
+}

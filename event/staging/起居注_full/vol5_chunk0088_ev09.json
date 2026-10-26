@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初六日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部题通政使司左参议佛保员缺，拟严大逊正、伊施泰陪引见，康熙帝以严大逊不谙事令解御史任，以旗员参领行走。",
+ "people": [
+  {
+   "name": "佛保",
+   "role": "通政使司左参议"
+  },
+  {
+   "name": "严大逊",
+   "role": "监察御史"
+  },
+  {
+   "name": "伊施泰",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8809,
+ "page_range": "186-187"
+}

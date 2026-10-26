@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙论外任官员少不受贿，理应知足，财物不必过求积聚，并顾麻尔图言麻勒吉、麻尔图家计甚贷当知足。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "麻尔图",
+   "role": "官员"
+  },
+  {
+   "name": "麻勒吉",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 502,
+ "page_range": "45-46"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "初八日辛未",
+ "event_role": "司法案件",
+ "summary": "刑部题强盗王二等拟立决，康熙帝令只将为首者立决，余从宽免死发往黑龙江。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王二",
+   "role": "强盗"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14807,
+ "page_range": "306-307"
+}

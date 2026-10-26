@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝说明皇五子由皇太后宫中育养，未读汉书只习清书，今已能通晓清书，命其读清书一篇。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇五子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23601,
+ "page_range": "507-508"
+}

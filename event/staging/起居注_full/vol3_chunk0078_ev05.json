@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初二日王成",
+ "event_role": "谕旨决策",
+ "summary": "吏部覆奏御史郑为坦条奏请改撰诰命敕命文章，康熙帝询问大学士后准依议改撰。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郑为坦",
+   "role": "江南道监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7805,
+ "page_range": "191-192"
+}

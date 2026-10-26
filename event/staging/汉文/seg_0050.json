@@ -1,0 +1,44 @@
+{
+ "date_raw": "康熙四十二年四月",
+ "reign_year": 42,
+ "month": 4,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "福建提督梁鼐奏报苏州菜麦收成及漳州长泰安溪奸民聚众夺食已被拿获处置情形。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "奏报人"
+  },
+  {
+   "name": "陈十二",
+   "role": "涉及人物"
+  },
+  {
+   "name": "刘俞",
+   "role": "涉及人物"
+  },
+  {
+   "name": "陈料",
+   "role": "涉及人物"
+  },
+  {
+   "name": "陈挺",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "苏州",
+  "泉州府",
+  "漳州",
+  "长泰",
+  "安溪"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批指示与提督商议此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "55",
+ "source_title": "福建提督梁鼐奏报苏州地方菜麦收成好摺",
+ "order_index": 50
+}

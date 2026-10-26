@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "二十八日甲申",
+ "event_role": "其他",
+ "summary": "赐科尔沁二品台吉毕力克图家人吴尔库满及乞丐老娼白金。",
+ "people": [
+  {
+   "name": "毕力克图",
+   "role": "科尔沁二品台吉"
+  },
+  {
+   "name": "吴尔库满",
+   "role": "毕力克图家人"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20811,
+ "page_range": "426-427"
+}

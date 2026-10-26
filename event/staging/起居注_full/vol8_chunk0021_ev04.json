@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "副都御史瓦尔达员缺，以通政使刘相等开列请旨，康熙帝命将内交学士、讲读学士开列具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "瓦尔达",
+   "role": "副都御史"
+  },
+  {
+   "name": "刘相",
+   "role": "通政使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2104,
+ "page_range": "53-54"
+}

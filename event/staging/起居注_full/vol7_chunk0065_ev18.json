@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "十三日了已",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆湖广提督俞益席题严禁鼓噪兵丁，议通论各省，康熙帝以其不详审事宜，着发回另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俞益席",
+   "role": "湖广提督"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6518,
+ "page_range": "141-142"
+}

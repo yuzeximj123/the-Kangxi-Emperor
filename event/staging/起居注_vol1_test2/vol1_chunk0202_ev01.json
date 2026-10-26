@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部侍郎，康熙帝命将魏象枢所荐高珀补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "左都御史"
+  },
+  {
+   "name": "高珀",
+   "role": "被荐补刑部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20201,
+ "page_range": "461-462"
+}

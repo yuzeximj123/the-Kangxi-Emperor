@@ -1,0 +1,33 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初四日癸巳",
+ "event_role": "人事任免",
+ "summary": "西安副都统巴麟、广东副都统牛钮赴任请训旨，康熙帝谕以职任紧要宜勤勉供职，二人奏谢。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴麟",
+   "role": "西安副都统"
+  },
+  {
+   "name": "牛钮",
+   "role": "广东副都统"
+  },
+  {
+   "name": "胡图",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "西安",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8313,
+ "page_range": "176-177"
+}

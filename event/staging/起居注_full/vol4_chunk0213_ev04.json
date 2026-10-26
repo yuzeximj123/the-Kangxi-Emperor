@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 11,
+ "day_text": "三十日乙已",
+ "event_role": "人事任免",
+ "summary": "江宁理事同知石禄员缺，拟以中书宝善拟正、司库纳林拟陪，康熙帝令会同吏部选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宝善",
+   "role": "中书科中书"
+  },
+  {
+   "name": "纳林",
+   "role": "司库"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21304,
+ "page_range": "438-439"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "牙免、五子、豆二、李二、七儿等偷盗仓米一案，康熙帝命止将为首牙免正法。",
+ "people": [
+  {
+   "name": "牙免",
+   "role": "首犯"
+  },
+  {
+   "name": "五子",
+   "role": "案犯"
+  },
+  {
+   "name": "豆二",
+   "role": "案犯"
+  },
+  {
+   "name": "李二",
+   "role": "案犯"
+  },
+  {
+   "name": "七儿",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22913,
+ "page_range": "501-502"
+}

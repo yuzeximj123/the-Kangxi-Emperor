@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十四年正月二十八日",
+ "reign_year": 54,
+ "month": null,
+ "day": 18,
+ "event_role": "请安谢恩",
+ "summary": "永州总兵陈尚武奏报永州苗民杂处、地方宁谧、雨泽调匀、年成丰稔，并逢万寿昌期率属遥祝，专差叩请圣安。",
+ "people": [
+  {
+   "name": "陈尚武",
+   "role": "镇守湖广永州等处地方副将管总兵官事加一级奴才，奏折作者"
+  },
+  {
+   "name": "姜庆",
+   "role": "陈尚武家人，专差赴京递折"
+  }
+ ],
+ "places": [
+  "湖广",
+  "永州",
+  "楚省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "永州總兵陳尚武奏報苗民情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "178",
+ "order_index": 1
+}

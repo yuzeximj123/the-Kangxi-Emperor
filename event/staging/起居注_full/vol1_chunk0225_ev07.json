@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十九日己丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御弘德殿，讲官库勒纳、叶方葡、张玉书进讲，康熙亲讲后讲官照常进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方葡",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22507,
+ "page_range": "507-508"
+}

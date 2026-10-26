@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "明珠等公议陕西提督何传调补云南提督，福建提督万正色调补，康熙帝命万正色调补云南提督，所遗员缺着张云翼补授。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "何传",
+   "role": "陕西提督"
+  },
+  {
+   "name": "万正色",
+   "role": "福建提督"
+  },
+  {
+   "name": "张云翼",
+   "role": "补授官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "云南",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15601,
+ "page_range": "347-348"
+}

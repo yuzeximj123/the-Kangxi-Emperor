@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "二十八日甲午",
+ "event_role": "人事任免",
+ "summary": "吏部题补侍郎员缺，康熙帝命陈廷敬调补，并论陈一炳平常、高尔位渐误。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "调补侍郎"
+  },
+  {
+   "name": "陈一炳",
+   "role": "被评论官员"
+  },
+  {
+   "name": "高尔位",
+   "role": "被评论官员"
+  },
+  {
+   "name": "马汶驴",
+   "role": "开列职名官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 302,
+ "page_range": "41-42"
+}

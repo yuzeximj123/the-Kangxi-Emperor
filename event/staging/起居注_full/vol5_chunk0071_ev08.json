@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "二十五日乙卯",
+ "event_role": "人事任免",
+ "summary": "学士陆莱以年老奏请解任，康熙询问后准其致仕。",
+ "people": [
+  {
+   "name": "陆莱",
+   "role": "学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7108,
+ "page_range": "152-153"
+}

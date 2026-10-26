@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初五日己未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕吴源起条奏詹事府添设宫僚等事无益，令其奏折批知道了。",
+ "people": [
+  {
+   "name": "吴源起",
+   "role": "礼科给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14614,
+ "page_range": "327-328"
+}

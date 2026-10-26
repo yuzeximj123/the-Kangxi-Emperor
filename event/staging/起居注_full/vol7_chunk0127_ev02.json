@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮题三河县知县净毅丁忧员缺，请调知州孔秒璋补任，康熙帝以三河紧要，令净毅在任守制。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "净毅",
+   "role": "三河县知县"
+  },
+  {
+   "name": "孔秒璋",
+   "role": "知州"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12702,
+ "page_range": "265-266"
+}

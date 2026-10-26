@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十四日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "督理粮饷内阁学士佛伦、督捕侍郎金匀面请谕旨，康熙帝谕大兵进取云贵须严禁骚扰、安辑百姓，以裕军粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "督理粮饷内阁学士"
+  },
+  {
+   "name": "金匀",
+   "role": "督捕侍郎"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22919,
+ "page_range": "515-516"
+}

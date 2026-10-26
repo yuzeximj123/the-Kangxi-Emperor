@@ -1,0 +1,27 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "初十日甲实",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝率皇太子由午门出正阳门，幸南苑，驻跸旧宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "南苑",
+  "旧宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14518,
+ "page_range": "333-334"
+}

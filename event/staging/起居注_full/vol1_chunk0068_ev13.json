@@ -1,0 +1,26 @@
+{
+ "reign_year": 13,
+ "month": 3,
+ "day_text": "初六日庚午",
+ "event_role": "弹劾参奏",
+ "summary": "监察御史宁尔讲奏称吴三桂反叛不足为患，但虑民心不安；康熙帝答以安辑民心在地方官平日抚绥有法。",
+ "people": [
+  {
+   "name": "宁尔讲",
+   "role": "监察御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴三桂",
+   "role": "叛臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6813,
+ "page_range": "193-194"
+}

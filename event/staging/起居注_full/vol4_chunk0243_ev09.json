@@ -1,0 +1,34 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "初二日壬申",
+ "event_role": "人事任免",
+ "summary": "吏部题监察御史观音布员缺，康熙帝以刑部郎中常在练达事务，着调补监察御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "观音布",
+   "role": "监察御史"
+  },
+  {
+   "name": "郭里",
+   "role": "员外郎"
+  },
+  {
+   "name": "必勒孙",
+   "role": "拟陪"
+  },
+  {
+   "name": "常在",
+   "role": "刑部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24309,
+ "page_range": "498-499"
+}

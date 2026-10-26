@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初三日甲申",
+ "event_role": "人事任免",
+ "summary": "礼部郎中员缺，正拟员外郎傅成格、陪拟魏大善，康熙以傅成格历年久命即补授。",
+ "people": [
+  {
+   "name": "傅成格",
+   "role": "员外郎"
+  },
+  {
+   "name": "魏大善",
+   "role": "陪拟官员"
+  },
+  {
+   "name": "郭四海",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5807,
+ "page_range": "159-160"
+}

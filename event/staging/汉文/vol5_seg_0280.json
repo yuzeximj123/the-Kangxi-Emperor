@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十二年八月二十日",
+ "reign_year": 52,
+ "month": 8,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏报其妻韩氏病故，并代奏韩氏临终感激皇恩、愿世世犬马报答之意。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "韩氏",
+   "role": "李煦之妻，病故者"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示知道了。",
+ "source_title": "苏州织造李煦奏进苏州晴雨录折",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 280
+}

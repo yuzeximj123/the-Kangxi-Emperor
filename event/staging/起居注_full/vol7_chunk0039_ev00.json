@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝批评赵申乔居乡素行及任浙江巡抚时听讼偏袒、行事苛细，命拟票申饬，并论总督不宜滥受民词。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江",
+  "常州府",
+  "杭州",
+  "江南",
+  "江西",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3900,
+ "page_range": "89-90"
+}

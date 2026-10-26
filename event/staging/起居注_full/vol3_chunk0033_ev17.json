@@ -1,0 +1,36 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "初五日己巳",
+ "event_role": "司法案件",
+ "summary": "康熙帝就理藩院议噶札尔图等射死副都统塞根等一案，命照阿尔尼等所议拟票签送来。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "侍郎"
+  },
+  {
+   "name": "噶札尔图",
+   "role": "台吉下属人"
+  },
+  {
+   "name": "塞根",
+   "role": "副都统"
+  },
+  {
+   "name": "舒勒黑",
+   "role": "莫侯"
+  }
+ ],
+ "places": [
+  "科和尔泥国宜拉固克山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3317,
+ "page_range": "101-102"
+}

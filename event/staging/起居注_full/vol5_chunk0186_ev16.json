@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "初六日丁亥",
+ "event_role": "朝见受贺",
+ "summary": "康熙赐浙江提督马三奇玲珑撒袋；昌平州防守御穆锡泰、霸昌道高必弘、参将徐登甲等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马三奇",
+   "role": "浙江提督"
+  },
+  {
+   "name": "穆锡泰",
+   "role": "昌平州防守御"
+  },
+  {
+   "name": "高必弘",
+   "role": "霸昌道"
+  },
+  {
+   "name": "徐登甲",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "昌平州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18616,
+ "page_range": "382-383"
+}

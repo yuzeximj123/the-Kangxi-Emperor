@@ -1,0 +1,20 @@
+{
+ "reign_year": 16,
+ "month": 11,
+ "day_text": "十八日辛卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝早御乾清门，听部院各衙门官员面奏政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15020,
+ "page_range": "357-358"
+}

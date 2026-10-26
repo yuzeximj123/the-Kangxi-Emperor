@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚李光地题请将革职同知霄连相补授东路同知，康熙帝令照所题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "霄连相",
+   "role": "革职同知"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20006,
+ "page_range": "410-411"
+}

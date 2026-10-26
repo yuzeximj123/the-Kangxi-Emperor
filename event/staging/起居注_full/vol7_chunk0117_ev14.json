@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "二十八日甲实",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称能泰建桥成功甚好，有利于兵民行路，着加能泰五级，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "能泰",
+   "role": "四川巡抚"
+  }
+ ],
+ "places": [
+  "安乐"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11714,
+ "page_range": "245-246"
+}

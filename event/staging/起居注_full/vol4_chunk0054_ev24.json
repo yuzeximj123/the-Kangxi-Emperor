@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "二十五日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以江南通省百姓积年拖欠钱粮征收苦累，谕江南江西总督傅腊塔、江苏巡抚洪之杰、安徽巡抚江有良特予蠲免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "洪之杰",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "江有良",
+   "role": "安徽巡抚"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5424,
+ "page_range": "120-121"
+}

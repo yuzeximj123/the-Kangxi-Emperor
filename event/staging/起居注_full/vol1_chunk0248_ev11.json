@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初九日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部题江南学道员缺拟升礼部郎中张鹏副，康熙以江南大省须学问优长之人，命将应升官员通列引见。",
+ "people": [
+  {
+   "name": "张鹏副",
+   "role": "礼部郎中"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24811,
+ "page_range": "553-554"
+}

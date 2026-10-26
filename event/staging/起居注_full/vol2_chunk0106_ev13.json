@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "司经局洗马田喜堵等导从骏云，参议赵士及、赵之晶等侍从。",
+ "people": [
+  {
+   "name": "田喜堵",
+   "role": "司经局洗马"
+  },
+  {
+   "name": "赵士及",
+   "role": "参议"
+  },
+  {
+   "name": "赵之晶",
+   "role": "参议"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10613,
+ "page_range": "255-256"
+}

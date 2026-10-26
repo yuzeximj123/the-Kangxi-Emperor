@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初一日本已",
+ "event_role": "人事任免",
+ "summary": "兵部议广西提督折尔肯与尚之信结亲应革职，康熙帝命革职留任、图功赎罪。",
+ "people": [
+  {
+   "name": "折尔肯",
+   "role": "广西提督"
+  },
+  {
+   "name": "尚之信",
+   "role": "藩王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3,
+ "page_range": "43-44"
+}

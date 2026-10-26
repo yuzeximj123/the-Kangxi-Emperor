@@ -1,0 +1,22 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十四日吴未",
+ "event_role": "奏报灾情收成",
+ "summary": "户部题霸州等十州县被灾田地应免钱粮照例请免，康熙帝命香河、宝坻二县被灾甚重，今年未完钱粮通行蠲免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "霸州",
+  "香河",
+  "宝坻"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8012,
+ "page_range": "170-171"
+}

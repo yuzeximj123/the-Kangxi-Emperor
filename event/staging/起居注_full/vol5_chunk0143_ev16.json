@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "初九日癸巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自清河起行，大设卤簿，皇太子率诸皇子及在京文武官员出郊迎接，士民夹道欢呼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [
+  "清河",
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14316,
+ "page_range": "296-297"
+}

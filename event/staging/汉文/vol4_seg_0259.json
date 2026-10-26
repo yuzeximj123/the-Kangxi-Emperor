@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾贰年陆月拾伍日",
+ "reign_year": 52,
+ "month": 6,
+ "day": 15,
+ "event_role": "请安谢恩",
+ "summary": "兰州总兵官李孺源遣家人黄焕代其跪请圣安，并奏报地方丰稔、汉彝安乐及建昌州区奸婪肆恶事。",
+ "people": [
+  {
+   "name": "李孺源",
+   "role": "兰州总兵官，奏折具奏人"
+  },
+  {
+   "name": "黄焕",
+   "role": "李孺源家人，代其赴京请安"
+  },
+  {
+   "name": "路振声",
+   "role": "陕西兰州总兵官，落款署名者"
+  }
+ ],
+ "places": [
+  "兰州",
+  "建昌州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，表示自己安好。",
+ "source_title": "残句",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 259
+}

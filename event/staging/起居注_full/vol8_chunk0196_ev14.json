@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "初十日癸巳",
+ "event_role": "司法案件",
+ "summary": "兵部题捕缉贩卖私盐于大麻子等案将失察参将李辉等革职总兵李鹿降五级调用，康熙帝令李鹿降五级留任余依议。",
+ "people": [
+  {
+   "name": "于大麻子",
+   "role": "私盐贩"
+  },
+  {
+   "name": "李辉",
+   "role": "参将"
+  },
+  {
+   "name": "李鹿",
+   "role": "总兵"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19614,
+ "page_range": "403-404"
+}

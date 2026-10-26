@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十二日丙午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝令询问近抚噶礼知州张灿居官如何具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "近抚"
+  },
+  {
+   "name": "张灿",
+   "role": "知州"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21513,
+ "page_range": "440-441"
+}

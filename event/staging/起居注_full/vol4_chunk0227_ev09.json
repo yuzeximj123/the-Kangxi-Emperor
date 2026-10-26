@@ -1,0 +1,29 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "初二日丙午",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝召礼部尚书顾巴代等，谕陕西连年遭旱民甚困苦，停止遣官祭华山，着皇长子前往致祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "顾巴代",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "陕西",
+  "华山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22709,
+ "page_range": "466-467"
+}

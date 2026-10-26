@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十七日己卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝命曹贞吉年老解任回籍，所参张溶停其补授，余俱照部用不可更换。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "曹贞吉",
+   "role": "学道"
+  },
+  {
+   "name": "张溶",
+   "role": "工部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18414,
+ "page_range": "378-379"
+}

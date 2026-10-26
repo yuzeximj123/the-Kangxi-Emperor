@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "初三日两宝",
+ "event_role": "人事任免",
+ "summary": "广西提督张旺题革职副将杨抱居官素优、士民公呈请留任，康熙帝令查档案，若果记名则革职留任效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张旺",
+   "role": "广西提督"
+  },
+  {
+   "name": "杨抱",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14728,
+ "page_range": "304-305"
+}

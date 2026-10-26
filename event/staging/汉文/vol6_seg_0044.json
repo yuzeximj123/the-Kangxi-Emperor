@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十四年四月初九日",
+ "reign_year": 54,
+ "month": 4,
+ "day": 9,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报赣州三月以来雨水调匀、二麦将熟、米价照常、地方宁谧，并呈三月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "赣州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報蘇州雨水調勻摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1763",
+ "order_index": 44
+}

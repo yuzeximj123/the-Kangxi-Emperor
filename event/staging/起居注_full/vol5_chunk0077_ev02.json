@@ -1,0 +1,40 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿奏报金云凤与鄂齐尔等关于搭桥备料的口供，康熙帝命将二人口供重加究读具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "金云凤",
+   "role": "道员"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "章京郎中"
+  },
+  {
+   "name": "孙国辅",
+   "role": "密云县知县"
+  },
+  {
+   "name": "于成龙",
+   "role": "前巡抚"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7702,
+ "page_range": "164-165"
+}

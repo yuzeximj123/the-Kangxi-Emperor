@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十四日辛亥",
+ "event_role": "人事任免",
+ "summary": "礼部题请原任内大臣哈达应否予谥，康熙帝以其效力行间、劳绩显著且人优，命给予谥号。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈达",
+   "role": "原任内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25902,
+ "page_range": "575-576"
+}

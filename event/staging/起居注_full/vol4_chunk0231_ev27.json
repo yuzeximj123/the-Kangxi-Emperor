@@ -1,0 +1,36 @@
+{
+ "reign_year": 32,
+ "month": 4,
+ "day_text": "十八日辛卯",
+ "event_role": "人事任免",
+ "summary": "兵部题黑龙江副都统温代员缺，开列侍郎思格则、骁骑参领硕色等，康熙言索伦总管喀图瑚材力壮健、为人亦优。",
+ "people": [
+  {
+   "name": "温代",
+   "role": "黑龙江副都统"
+  },
+  {
+   "name": "思格则",
+   "role": "侍郎"
+  },
+  {
+   "name": "硕色",
+   "role": "骁骑参领"
+  },
+  {
+   "name": "喀图瑚",
+   "role": "索伦总管"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23127,
+ "page_range": "474-475"
+}

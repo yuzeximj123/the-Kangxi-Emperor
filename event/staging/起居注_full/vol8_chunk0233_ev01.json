@@ -1,0 +1,30 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "将朱都满、戴保拿至审问，其供词牵连副都统常责、原任学士金宝，遂将常责、金宝一并拿至。",
+ "people": [
+  {
+   "name": "朱都满",
+   "role": "被拿审问者"
+  },
+  {
+   "name": "戴保",
+   "role": "被拿审问者"
+  },
+  {
+   "name": "常责",
+   "role": "副都统，被牵连拿问"
+  },
+  {
+   "name": "金宝",
+   "role": "原任学士，被牵连拿问"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23301,
+ "page_range": "477-478"
+}

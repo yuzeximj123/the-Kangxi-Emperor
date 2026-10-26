@@ -1,0 +1,33 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十二日甲戌",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝论巡历山西所见通省无一好官，入直隶界则居官者皆善，巡抚温保迎至边外动作不妥，所保举优考无一人可用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温保",
+   "role": "巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18317,
+ "page_range": "376-377"
+}

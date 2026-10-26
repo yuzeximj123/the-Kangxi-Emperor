@@ -1,0 +1,36 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请广西布政使黄国材员缺，开列按察使武廷适等职名，康熙命问九卿。",
+ "people": [
+  {
+   "name": "查弱纳",
+   "role": "行走"
+  },
+  {
+   "name": "酒克旦",
+   "role": "学士"
+  },
+  {
+   "name": "穆尔泰",
+   "role": "学士"
+  },
+  {
+   "name": "黄国材",
+   "role": "广西布政使"
+  },
+  {
+   "name": "武廷适",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21400,
+ "page_range": "439-440"
+}

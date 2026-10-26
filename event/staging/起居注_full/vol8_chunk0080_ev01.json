@@ -1,0 +1,38 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕王恒茂、宋福熙、周旦文、朱起云依拟绞监候处决；道员王光现、孔兴天居官俱好，着带所降之级遇缺即用。",
+ "people": [
+  {
+   "name": "王恒茂",
+   "role": "案犯"
+  },
+  {
+   "name": "宋福熙",
+   "role": "案犯"
+  },
+  {
+   "name": "周旦文",
+   "role": "案犯"
+  },
+  {
+   "name": "朱起云",
+   "role": "案犯"
+  },
+  {
+   "name": "王光现",
+   "role": "道员"
+  },
+  {
+   "name": "孔兴天",
+   "role": "道员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8001,
+ "page_range": "171-172"
+}

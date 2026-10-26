@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 8,
+ "day_text": "十三日成辰",
+ "event_role": "人事任免",
+ "summary": "贵州都匀府知府员缺，康熙帝命将李费宗补授。",
+ "people": [
+  {
+   "name": "张国祯",
+   "role": "江西广信府知府"
+  },
+  {
+   "name": "李费宗",
+   "role": "新任贵州都匀府知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州都匀府",
+  "江西广信府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21204,
+ "page_range": "434-435"
+}

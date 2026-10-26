@@ -1,0 +1,34 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十八日己未",
+ "event_role": "其他",
+ "summary": "康熙帝召原任将军冯尼勒之子厄伦特近前，以其父子效力行间亲赐酒，又赐镶蓝旗协领辛泰及副将康泰、韩忠酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "厄伦特",
+   "role": "协领"
+  },
+  {
+   "name": "辛泰",
+   "role": "镶蓝旗协领"
+  },
+  {
+   "name": "康泰",
+   "role": "副将"
+  },
+  {
+   "name": "韩忠",
+   "role": "副将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8117,
+ "page_range": "173-174"
+}

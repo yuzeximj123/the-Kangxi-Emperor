@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十三日己卯",
+ "event_role": "司法案件",
+ "summary": "三法司议强盗唐进恩等应即处斩，康熙以邓秃子屡审未招、仅以佩刀为据未当，命监候秋后处决。",
+ "people": [
+  {
+   "name": "唐进恩",
+   "role": "强盗"
+  },
+  {
+   "name": "邓秃子",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 513,
+ "page_range": "53-54"
+}

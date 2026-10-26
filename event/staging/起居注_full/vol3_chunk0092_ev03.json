@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "初二日辛酉",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫，讲官常书、孙在丰、归允肃进讲《硕人》等章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9203,
+ "page_range": "219-220"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 6,
+ "day_text": "三十日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "山西巡抚倭伦代题请修万寿龙亭刻圣谕以垂永远，康熙以大同田薄民穷命停止建龙亭。",
+ "people": [
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 220,
+ "page_range": "14-15"
+}

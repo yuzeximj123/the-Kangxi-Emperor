@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论赵凤诏曾面奏为官不要钱，今贪赃百余万为天下第一贪官，萧永藻、张鹏翮曾奏其居官不好。",
+ "people": [
+  {
+   "name": "赵凤诏",
+   "role": "官员"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11503,
+ "page_range": "241-242"
+}

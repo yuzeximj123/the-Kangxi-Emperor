@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "初六日己丑",
+ "event_role": "司法案件",
+ "summary": "刑部议伪朱三太子朱郧满反叛案中知情不首之童二善已死、其妻王氏免流徙事，康熙帝以律无正条命再议具奏。",
+ "people": [
+  {
+   "name": "朱郧满",
+   "role": "伪朱三太子"
+  },
+  {
+   "name": "童二善",
+   "role": "知情不首者"
+  },
+  {
+   "name": "王氏",
+   "role": "童二善之妻"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4707,
+ "page_range": "137-138"
+}

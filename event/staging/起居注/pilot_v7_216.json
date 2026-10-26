@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙四十五年（未标月份）初九日癸巳",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "初九日癸巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸热河，亲射一豹，并赐热河驻防千总张弘功细羊裘一",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张弘功",
+   "role": "热河驻防千总"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3216
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十一年十一月初三日",
+ "reign_year": 51,
+ "month": 11,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "两江总督董蓝等具题，称因圣主行幸口外，不胜瞻依，遣家人潘安赍奏折代进，叩请圣安并进献自造烧饼、薄粥、米面酱、藏香等物。",
+ "people": [
+  {
+   "name": "董蓝",
+   "role": "两江总督，领衔具题请安进物"
+  },
+  {
+   "name": "潘安",
+   "role": "董蓝家人，持赍奏折代进"
+  }
+ ],
+ "places": [
+  "口外",
+  "行宫"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批报平安，并表示已闻知所奏。",
+ "source_title": "蘇州織造李煦奏報蘇州私鹽獲利案請歸併地方官查緝摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1234",
+ "order_index": 74
+}

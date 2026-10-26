@@ -1,0 +1,42 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十七日庚辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士王起元升任员缺，康熙帝与明珠等商议汉军员缺可用之人，问及徐廷筷、江有良、净兴邦等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王起元",
+   "role": "内阁学士"
+  },
+  {
+   "name": "郭葵",
+   "role": "给事中"
+  },
+  {
+   "name": "徐廷筷",
+   "role": "官员"
+  },
+  {
+   "name": "江有良",
+   "role": "官员"
+  },
+  {
+   "name": "净兴邦",
+   "role": "光禄寺正卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16412,
+ "page_range": "363-364"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": "初五日康辰",
+ "event_role": "请安谢恩",
+ "summary": "山东巡抚李钙赴任奏请训旨，康熙帝问其病体并谕以廉洁爱民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李钙",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3517,
+ "page_range": "80-81"
+}

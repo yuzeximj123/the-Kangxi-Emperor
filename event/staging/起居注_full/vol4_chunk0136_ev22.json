@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "初五日辛酉",
+ "event_role": "朝见受贺",
+ "summary": "三河县防守御马库、防御章京阿兰泰等、知县张攻、守备周伟、千总程英来朝。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "防御章京"
+  },
+  {
+   "name": "张攻",
+   "role": "知县"
+  },
+  {
+   "name": "周伟",
+   "role": "守备"
+  },
+  {
+   "name": "程英",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13622,
+ "page_range": "284-285"
+}

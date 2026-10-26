@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初四日乙酉",
+ "event_role": "请安谢恩",
+ "summary": "刑部侍郎冯苏请离任往江南安庆迎母通骨还乡与父合葬，康熙询问大学士后命定限前往迎取母通归葬。",
+ "people": [
+  {
+   "name": "冯苏",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "汉大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南安庆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5816,
+ "page_range": "159-160"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十二日丁酉",
+ "event_role": "弹劾参奏",
+ "summary": "巡抚齐世武题参提督李林盛，康熙帝以李林盛系有功旧臣、所参事毫无关涉，从宽批发；马齐奏齐世武动辄参劾徒生事端甚为不合。",
+ "people": [
+  {
+   "name": "齐世武",
+   "role": "巡抚"
+  },
+  {
+   "name": "李林盛",
+   "role": "提督"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5222,
+ "page_range": "115-116"
+}

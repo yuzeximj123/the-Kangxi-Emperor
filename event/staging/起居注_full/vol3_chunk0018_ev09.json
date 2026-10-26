@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初五日庚子",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御乾清宫，讲官牛钮、孙在丰、归允肃进讲劳谦君子有终吉一节，康熙帝亲讲亢龙有悔一节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1809,
+ "page_range": "71-72"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十日壬申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝起行，于博野县城北道旁停围，亲率皇太子扶犁耕田良久，又率皇太子、诸皇子射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "博野县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 709,
+ "page_range": "25-26"
+}

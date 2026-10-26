@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝与李光地议朱名竹缓决及王子明改拟缓决事，康熙认为王子明曾受奸不得谓可矜，应拟缓决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "朱名竹",
+   "role": "罪犯"
+  },
+  {
+   "name": "王子明",
+   "role": "罪犯"
+  },
+  {
+   "name": "姚禄",
+   "role": "罪犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13700,
+ "page_range": "285-286"
+}

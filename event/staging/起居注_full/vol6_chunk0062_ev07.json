@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "十六日",
+ "event_role": "人事任免",
+ "summary": "兵部题京口副都统员缺，康熙帝以参领蓝秒杰材力壮健补授，命召视其病，愈则赴任，未愈另补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蓝秒杰",
+   "role": "参领"
+  },
+  {
+   "name": "喻成龙",
+   "role": "督捕侍郎"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6207,
+ "page_range": "134-135"
+}

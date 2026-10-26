@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十四年十月初七日",
+ "reign_year": 54,
+ "month": 10,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "直隶总督赵弘燮奏报，据吏部咨称原任行唐县知县祖允焕提出控告，现查无相关奏参摺件，特此奏明。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督管理直隶巡抚事务兵部右侍郎兼都察院右副都御史"
+  },
+  {
+   "name": "祖允焕",
+   "role": "原任行唐县知县，控告人"
+  }
+ ],
+ "places": [
+  "行唐县"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸總督趙弘燮奏為查無原任知縣祖允煥奏參摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1901",
+ "order_index": 169
+}

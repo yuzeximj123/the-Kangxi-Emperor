@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "九卿奏覆长芦巡盐御史田文镜条奏加增未完盐引事，自认从前未查李购所奏，康熙帝是其奏发还原本。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "田文镜",
+   "role": "长芦巡盐御史"
+  },
+  {
+   "name": "李购",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "长芦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18710,
+ "page_range": "385-386"
+}

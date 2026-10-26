@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "初六日壬子",
+ "event_role": "弹劾参奏",
+ "summary": "国子监祭酒德伯色等题参助教额尔图、学正李祯才力不及，请以后助教等缺用正途出身，康熙帝谕以洁己率属。",
+ "people": [
+  {
+   "name": "德伯色",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "额尔图",
+   "role": "助教"
+  },
+  {
+   "name": "李祯才",
+   "role": "学正"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23214,
+ "page_range": "499-500"
+}

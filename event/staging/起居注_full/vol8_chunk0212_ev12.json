@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "初五日乙酉",
+ "event_role": "司法案件",
+ "summary": "刑部议拉布他孙等控告佐领色楞五十儿一案，康熙帝命查色楞五十儿系何人子孙另行开折具奏。",
+ "people": [
+  {
+   "name": "拉布他孙",
+   "role": "原告"
+  },
+  {
+   "name": "色楞五十儿",
+   "role": "佐领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21212,
+ "page_range": "435-436"
+}

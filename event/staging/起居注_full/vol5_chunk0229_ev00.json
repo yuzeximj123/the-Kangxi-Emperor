@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将黑龙江兵丁发回，并令议政大臣就阿南达一路兵丁发回之事速行会议具奏。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "阿南达",
+   "role": "领兵大臣"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22900,
+ "page_range": "468-469"
+}

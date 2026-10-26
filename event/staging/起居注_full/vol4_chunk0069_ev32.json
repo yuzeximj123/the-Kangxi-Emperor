@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 4,
+ "day_text": "十三日己卯",
+ "event_role": "谕旨决策",
+ "summary": "大学士伊桑阿等奏李光地文字草率，康熙帝谕凡为亲朋作文亦宜尽心，不可草率至此。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "汉掌院学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6932,
+ "page_range": "150-151"
+}

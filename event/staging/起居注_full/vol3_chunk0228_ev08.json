@@ -1,0 +1,40 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "十六日",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏完毕，大学士勒德洪等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22808,
+ "page_range": "491-492"
+}

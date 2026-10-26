@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "十二日本卯",
+ "event_role": "弹劾参奏",
+ "summary": "吏部议御史蔡珍参山西提督学政邹士保奏巡抚噶礼，拟将邹士降二级调用，康熙帝令待噶礼事完结再奏。",
+ "people": [
+  {
+   "name": "蔡珍",
+   "role": "御史"
+  },
+  {
+   "name": "邹士",
+   "role": "山西提督学政"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12622,
+ "page_range": "263-264"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十六日己巳",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等遵旨保举道员王缉、施世纶、董廷恩补湖南按察使缺，康熙帝评三人优劣。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王缉",
+   "role": "道员"
+  },
+  {
+   "name": "施世纶",
+   "role": "道员"
+  },
+  {
+   "name": "董廷恩",
+   "role": "道员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22110,
+ "page_range": "452-453"
+}

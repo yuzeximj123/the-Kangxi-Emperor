@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "二十六日辛亥",
+ "event_role": "司法案件",
+ "summary": "议政王大臣会议勒尔锦、察尼等出师湖广罪案，康熙帝斥其敛财贻误国事，命将旨传谕议政王大臣等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒尔锦",
+   "role": "多罗顺承郡王"
+  },
+  {
+   "name": "察尼",
+   "role": "多罗贝勒"
+  }
+ ],
+ "places": [
+  "湖广",
+  "岳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2407,
+ "page_range": "91-92"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初六日戊实",
+ "event_role": "奏报地方情形",
+ "summary": "浙江布政使石琳奏请南粮征收及银朱采买事，康熙帝责其以琐事塞责。",
+ "people": [
+  {
+   "name": "石琳",
+   "role": "浙江布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17112,
+ "page_range": "385-386"
+}

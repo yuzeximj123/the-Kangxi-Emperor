@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问督抚馈遗藩臬道府情形，问吴琠是否可尽称廉吏，吴琠奏称皇上洞鉴诚然。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8711,
+ "page_range": "185-186"
+}

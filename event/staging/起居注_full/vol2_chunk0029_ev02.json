@@ -1,0 +1,44 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝御乾清宫，赐宴进贡的蒙古各部王公台吉等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "毕礼滚达赖",
+   "role": "多罗杜棱郡王"
+  },
+  {
+   "name": "那木布尔",
+   "role": "二品台吉"
+  },
+  {
+   "name": "沙里",
+   "role": "三品台吉"
+  },
+  {
+   "name": "额尔德尼",
+   "role": "四品台吉"
+  },
+  {
+   "name": "巴布克",
+   "role": "四品台吉"
+  },
+  {
+   "name": "阿喇纳",
+   "role": "二品塔布吉"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2902,
+ "page_range": "101-102"
+}

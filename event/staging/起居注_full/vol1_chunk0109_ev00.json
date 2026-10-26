@@ -1,0 +1,44 @@
+{
+ "reign_year": 15,
+ "month": 2,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝在景山内前典赐宴进贡的喀尔喀、苏尼忒、四子部落台吉及喇嘛等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索诺木",
+   "role": "喀尔喀多罗贝勒"
+  },
+  {
+   "name": "萨马的",
+   "role": "喀尔喀公"
+  },
+  {
+   "name": "厄尔格布西",
+   "role": "喀尔喀二品台吉"
+  },
+  {
+   "name": "毛",
+   "role": "苏尼忒一品台吉"
+  },
+  {
+   "name": "邦德",
+   "role": "四子部落三品台吉"
+  },
+  {
+   "name": "迈达理库土克土",
+   "role": "喇嘛"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10900,
+ "page_range": "275-276"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "十四日庚午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝赐扎鲁特旗分台吉达尔汗、达尔玛等因其父阵亡各给牛。",
+ "people": [
+  {
+   "name": "达尔汗",
+   "role": "一品台吉"
+  },
+  {
+   "name": "达尔玛",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "扎鲁特旗分"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20621,
+ "page_range": "422-423"
+}

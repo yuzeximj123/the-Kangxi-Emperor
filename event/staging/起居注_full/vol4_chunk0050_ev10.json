@@ -1,0 +1,23 @@
+{
+ "reign_year": 27,
+ "month": 12,
+ "day_text": "初十日已本",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自新城启行，诣孝陵行礼举哀，又至皇后陵察举哀，驻跸汤泉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "新城",
+  "孝陵",
+  "皇后陵",
+  "汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5010,
+ "page_range": "112-113"
+}

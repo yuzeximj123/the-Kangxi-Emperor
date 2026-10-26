@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "十七日乙亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责问工部侍郎穆和伦雇役之病是否已改，斥其请移民、除喇嘛之奏不可行，穆和伦免冠叩首谢罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "穆和伦",
+   "role": "工部侍郎"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10011,
+ "page_range": "211-212"
+}

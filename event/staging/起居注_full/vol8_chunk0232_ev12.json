@@ -1,0 +1,26 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": "二十日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论旗人心性无定者多，以齐什为例言其聪明太过、心性内灼、反复无常，无人能信。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐什",
+   "role": "旗人"
+  },
+  {
+   "name": "巴浑德",
+   "role": "奏事者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23212,
+ "page_range": "475-476"
+}

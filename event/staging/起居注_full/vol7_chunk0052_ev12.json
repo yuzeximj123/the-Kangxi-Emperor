@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝向马齐称赞学士色德里为人颇优、长于办事、请旨熟练，系原任少詹色图之子，马齐奏称其原任票签中书极其熟练。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "色德里",
+   "role": "学士"
+  },
+  {
+   "name": "色图",
+   "role": "原任少詹"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5212,
+ "page_range": "115-116"
+}

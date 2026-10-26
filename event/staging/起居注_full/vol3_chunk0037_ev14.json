@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "二十八日壬辰",
+ "event_role": "人事任免",
+ "summary": "吏部题直隶巡抚印务交守道李阶护理，康熙帝令速补授赴任。",
+ "people": [
+  {
+   "name": "李阶",
+   "role": "守道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3714,
+ "page_range": "109-110"
+}

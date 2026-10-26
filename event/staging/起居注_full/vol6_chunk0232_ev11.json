@@ -1,0 +1,40 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "酉时",
+ "event_role": "议政听政",
+ "summary": "康熙复御乾清宫西暖阁，大学士等以折本请旨，吏部题补科道开列李永绍等职名。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "傅伸",
+   "role": "学士"
+  },
+  {
+   "name": "来道",
+   "role": "学士"
+  },
+  {
+   "name": "赖都",
+   "role": "学士"
+  },
+  {
+   "name": "李永绍",
+   "role": "额外主事"
+  }
+ ],
+ "places": [
+  "乾清宫西暖阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23211,
+ "page_range": "474-475"
+}

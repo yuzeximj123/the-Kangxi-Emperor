@@ -1,0 +1,36 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初六日丙午",
+ "event_role": "人事任免",
+ "summary": "江苏布政使张志栋升任员缺，康熙不取拟正之李成林，特令居官有声的刘殿衡优升江苏布政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张志栋",
+   "role": "江苏布政使，升任"
+  },
+  {
+   "name": "李成林",
+   "role": "按察使，拟正"
+  },
+  {
+   "name": "佟国囊",
+   "role": "拟陪"
+  },
+  {
+   "name": "刘殿衡",
+   "role": "优升江苏布政使"
+  }
+ ],
+ "places": [
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6705,
+ "page_range": "144-145"
+}

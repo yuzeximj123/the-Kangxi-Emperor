@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "初五日癸丑",
+ "event_role": "司法案件",
+ "summary": "刑部题盛京马义隆偷刨人参拟绞监候，康熙帝以本内佐领无名佛天保者，命查奏。",
+ "people": [
+  {
+   "name": "马义隆",
+   "role": "犯人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 408,
+ "page_range": "19-20"
+}

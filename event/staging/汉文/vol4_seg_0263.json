@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾贰年陆月拾贰日",
+ "reign_year": 52,
+ "month": 6,
+ "day": 12,
+ "event_role": "其他",
+ "summary": "提督江南总兵官奏报因病暂缓调治，待秋冬再整治，并拟与钦差周起渭前往营汛散给皇赏兵丁，另奏家生子赵之凤随身无泄密之虞。",
+ "people": [
+  {
+   "name": "周起渭",
+   "role": "钦差巡事臣"
+  },
+  {
+   "name": "赵之凤",
+   "role": "家生子，自幼随身之人"
+  },
+  {
+   "name": "懿德",
+   "role": "提督江南等处地方总兵官"
+  }
+ ],
+ "places": [
+  "松",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批表示知道了。",
+ "source_title": "残页",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 263
+}

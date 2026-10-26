@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十三日戊午",
+ "event_role": "其他",
+ "summary": "康熙帝赐湖广总兵官获元鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "获元",
+   "role": "湖广总兵官"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2220,
+ "page_range": "79-80"
+}

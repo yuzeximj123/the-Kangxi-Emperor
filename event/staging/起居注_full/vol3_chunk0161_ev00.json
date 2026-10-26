@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙就戴纯案指出太监张进忠干预妄控、冒认尸亲欲吓诈财物，命三法司严审具奏。",
+ "people": [
+  {
+   "name": "戴纯",
+   "role": "涉案人"
+  },
+  {
+   "name": "汤明亮",
+   "role": "涉案人"
+  },
+  {
+   "name": "张进忠",
+   "role": "太监"
+  },
+  {
+   "name": "李时谦",
+   "role": "奏章者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16100,
+ "page_range": "357-358"
+}

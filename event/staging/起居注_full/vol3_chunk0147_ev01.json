@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "陕西巡抚鄂恺题参泾阳知县常学易加征火耗七八分共得银一百五十八两七钱有奇。",
+ "people": [
+  {
+   "name": "鄂恺",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "常学易",
+   "role": "泾阳知县"
+  }
+ ],
+ "places": [
+  "陕西",
+  "泾阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14701,
+ "page_range": "329-330"
+}

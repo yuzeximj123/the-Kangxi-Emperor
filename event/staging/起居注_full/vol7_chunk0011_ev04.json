@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "伊桑阿等遵旨补授理藩院侍郎，请旨简用一人，康熙帝命补授侍读学士伊道，并斥太仆寺卿拉锡品行不端不宜部院。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "伊道",
+   "role": "侍读学士"
+  },
+  {
+   "name": "拉锡",
+   "role": "太仆寺卿"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1104,
+ "page_range": "33-34"
+}

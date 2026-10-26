@@ -1,0 +1,21 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "初九日己丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸雄县所属十里铺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "雄县",
+  "十里铺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18515,
+ "page_range": "382-383"
+}

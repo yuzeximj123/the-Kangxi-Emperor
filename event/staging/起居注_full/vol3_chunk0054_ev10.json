@@ -1,0 +1,23 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至扬州，登览蜀冈栖灵寺、平山堂诸胜，御书“怡情”二字留题平山堂。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "扬州",
+  "蜀冈",
+  "栖灵寺",
+  "平山堂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5410,
+ "page_range": "143-144"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "贼船上张三研伤失主手指逃走未杀人劫财，康熙改为监候缓决。",
+ "people": [
+  {
+   "name": "张三",
+   "role": "贼船案犯"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11209,
+ "page_range": "235-236"
+}

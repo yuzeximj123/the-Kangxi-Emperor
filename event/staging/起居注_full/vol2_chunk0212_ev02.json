@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初八日丁未",
+ "event_role": "人事任免",
+ "summary": "兵部尚书杭爱调补员缺，康熙帝以总督哈占老成厚重、行间有劳绩，命即补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杭爱",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "希福",
+   "role": "左都御史"
+  },
+  {
+   "name": "哈占",
+   "role": "总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21202,
+ "page_range": "467-468"
+}

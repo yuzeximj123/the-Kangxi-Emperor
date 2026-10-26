@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": "初七日甲实",
+ "event_role": "人事任免",
+ "summary": "吏部题盛京户部郎中倪雅达员缺，拟额尔赫为正、拜察礼为陪，康熙帝令待其进京时引见。",
+ "people": [
+  {
+   "name": "倪雅达",
+   "role": "盛京户部郎中"
+  },
+  {
+   "name": "额尔赫",
+   "role": "盛京工部员外郎，拟正"
+  },
+  {
+   "name": "拜察礼",
+   "role": "盛京刑部员外郎，拟陪"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 807,
+ "page_range": "26-27"
+}

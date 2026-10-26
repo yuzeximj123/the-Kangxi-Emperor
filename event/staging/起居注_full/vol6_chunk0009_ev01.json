@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "正黄旗给事中员缺，李宝拟正、迈色拟陪，康熙帝以李宝甚劣改令保举萨尔泰补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李宝",
+   "role": "员外郎"
+  },
+  {
+   "name": "迈色",
+   "role": "员外郎"
+  },
+  {
+   "name": "萨尔泰",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 901,
+ "page_range": "28-29"
+}

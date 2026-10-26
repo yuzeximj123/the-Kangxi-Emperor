@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十三日乙雍",
+ "event_role": "谕旨决策",
+ "summary": "议准李长庚等所奏，于皇上万寿正诞加一科以鼓舞士子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李长庚",
+   "role": "举人"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21706,
+ "page_range": "445-446"
+}

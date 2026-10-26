@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十七日业卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕查西巴图尔等，称其祖父自太宗以来进贡输诚，命其遵旨来见，并许相抱而见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "查西巴图尔",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2206,
+ "page_range": "54-55"
+}

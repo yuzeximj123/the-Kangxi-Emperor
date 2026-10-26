@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "初四日已已",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫，派读卷官松柱等择十卷呈览，并议同考官一房两人及错规矩四卷再考事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  },
+  {
+   "name": "汤右曾",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9207,
+ "page_range": "195-196"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十四日乙酉",
+ "event_role": "朝见受贺",
+ "summary": "石匣营游击李昂、石塘路都司王来宣等来朝。",
+ "people": [
+  {
+   "name": "李昂",
+   "role": "石匣营游击"
+  },
+  {
+   "name": "王来宣",
+   "role": "石塘路都司"
+  }
+ ],
+ "places": [
+  "石匣营",
+  "石塘路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20109,
+ "page_range": "445-446"
+}

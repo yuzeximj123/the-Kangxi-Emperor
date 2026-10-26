@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏科题给事中内升外转，康熙帝命郭徽术内升，外转停止一次。",
+ "people": [
+  {
+   "name": "郭徽术",
+   "role": "给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22318,
+ "page_range": "457-458"
+}

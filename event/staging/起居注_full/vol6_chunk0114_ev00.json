@@ -1,0 +1,21 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝巡视河道后回到江南，亲临明太祖陵祭拜，行三跪拜礼并御书匾额。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "明太祖陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11400,
+ "page_range": "238-239"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 8,
+ "day_text": "十三日生辰",
+ "event_role": "谕旨决策",
+ "summary": "户部议西安巡抚鄂海题捐纳人员所从米石请移甘肃补捐，康熙帝令总督华显明白具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂海",
+   "role": "西安巡抚"
+  },
+  {
+   "name": "华显",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2622,
+ "page_range": "63-64"
+}

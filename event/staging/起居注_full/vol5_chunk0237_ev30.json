@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "初十日已丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕大学士及部院大臣，斥责温保为晋抚扰民致反、常书丈路逼乡导自刎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温保",
+   "role": "晋抚"
+  },
+  {
+   "name": "常书",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "平阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23730,
+ "page_range": "484-485"
+}

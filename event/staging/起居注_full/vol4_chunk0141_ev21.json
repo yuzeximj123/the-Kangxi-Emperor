@@ -1,0 +1,32 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "初二日成午",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝赐朝鲜国王李焞谢恩贡进礼物正使李沉、副使徐文重、书状官等鞍马、彩缎、银两等物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "李沉",
+   "role": "正使"
+  },
+  {
+   "name": "徐文重",
+   "role": "副使"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14121,
+ "page_range": "294-295"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "泰天府尹高尔位奏销修补巨流河渡龙船桐油价值，工部议准，康熙帝以船只无用、循例修补徒费钱粮，令充作民船置渡口备官用。",
+ "people": [
+  {
+   "name": "高尔位",
+   "role": "泰天府尹"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巨流河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12700,
+ "page_range": "297-298"
+}

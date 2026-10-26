@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十二日丙午",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝言盛京丰收米价甚贱，宁夏等处亦好，惟归化城稍旱。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "宁夏",
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21517,
+ "page_range": "440-441"
+}

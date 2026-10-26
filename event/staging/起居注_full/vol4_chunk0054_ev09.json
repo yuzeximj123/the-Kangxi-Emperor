@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "二十一日已丑",
+ "event_role": "朝见受贺",
+ "summary": "东充道李炜、署理沂州事同知李兴祖、守备孙玉等来朝。",
+ "people": [
+  {
+   "name": "李炜",
+   "role": "东充道"
+  },
+  {
+   "name": "李兴祖",
+   "role": "署理沂州事同知"
+  },
+  {
+   "name": "孙玉",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "沂州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5409,
+ "page_range": "120-121"
+}

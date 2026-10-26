@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十三年十月初六日",
+ "reign_year": 53,
+ "month": 10,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州、扬州九月以来天气晴和、庄稼收割完毕、地方宁静、百姓乐业，并报上号米每石一两四五分、次号米每石九钱二三分，同时进呈九月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報蘇揚米價並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1661",
+ "order_index": 301
+}

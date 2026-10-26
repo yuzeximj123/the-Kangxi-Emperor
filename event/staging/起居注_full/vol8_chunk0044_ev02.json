@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 11,
+ "day_text": "三十日甲辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝将庶吉士、散馆卷子交大学士学士，命习清书者留翰林院，习汉文者除一等卷外其余十一卷俱革去，并调整名次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国炳",
+   "role": "庶吉士"
+  }
+ ],
+ "places": [
+  "翰林院"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4402,
+ "page_range": "99-100"
+}

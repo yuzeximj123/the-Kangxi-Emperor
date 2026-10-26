@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "初五日戊子",
+ "event_role": "人事任免",
+ "summary": "宗人府题请承袭顺承郡王诺罗布王功，列其子吉兰泰、席保柱之名，康熙问二子内谁康佳，令问贝子苏努及随驾大臣。",
+ "people": [
+  {
+   "name": "诺罗布",
+   "role": "顺承郡王"
+  },
+  {
+   "name": "吉兰泰",
+   "role": "诺罗布之子"
+  },
+  {
+   "name": "席保柱",
+   "role": "诺罗布之子"
+  },
+  {
+   "name": "苏努",
+   "role": "贝子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19513,
+ "page_range": "401-402"
+}

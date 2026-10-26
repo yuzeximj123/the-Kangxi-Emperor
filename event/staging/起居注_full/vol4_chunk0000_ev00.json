@@ -1,0 +1,21 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "初一日乙效",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝因元旦令节，诸王大臣屡请回宫，乃暂驻慈宁宫前院，诏王以下哭临一日，各官于午门外齐集。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "慈宁宫前院",
+  "午门外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 0,
+ "page_range": "12-13"
+}

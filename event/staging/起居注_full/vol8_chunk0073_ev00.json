@@ -1,0 +1,27 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就户部议覆顺天府府尹王葡条奏陕西捐纳路远难至、请拨山西河南银两买米散赈一事，谕令议不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王葡",
+   "role": "顺天府府尹"
+  }
+ ],
+ "places": [
+  "陕西",
+  "山西",
+  "河南",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7300,
+ "page_range": "157-158"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "原任古北口提督马进良向康熙帝上奏请安，康熙帝朱批回复自己安好，并询问其在林泉的生活情况。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "原任古北口提督，上奏请安者"
+  },
+  {
+   "name": "朕",
+   "role": "康熙帝，朱批回复者"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，并询问马进良在林泉的生活想必很好。",
+ "source_title": "（原任古北口提督请安）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 462
+}

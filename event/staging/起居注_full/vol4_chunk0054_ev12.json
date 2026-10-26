@@ -1,0 +1,40 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "二十二日庚寅",
+ "event_role": "朝见受贺",
+ "summary": "总河王新命、江宁巡抚洪之杰、同知朱琦、郯城县知县方殿元、千总刘轧、原任侍郎张鹏等来朝。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "总河"
+  },
+  {
+   "name": "洪之杰",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "朱琦",
+   "role": "同知"
+  },
+  {
+   "name": "方殿元",
+   "role": "郯城县知县"
+  },
+  {
+   "name": "刘轧",
+   "role": "千总"
+  },
+  {
+   "name": "张鹏",
+   "role": "原任侍郎"
+  }
+ ],
+ "places": [
+  "郯城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5412,
+ "page_range": "120-121"
+}

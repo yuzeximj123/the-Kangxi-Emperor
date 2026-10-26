@@ -1,0 +1,33 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初四日丙子",
+ "event_role": "其他",
+ "summary": "康熙帝问大学士李需何故不至，明珠奏因魏象枢等奏高阳百姓侵占安州地亩事涉李需族中子弟，李需俟事结方入直。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "魏象枢",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "高阳",
+  "安州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18320,
+ "page_range": "409-410"
+}

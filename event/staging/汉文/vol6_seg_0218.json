@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十四年十二月初七日",
+ "reign_year": 54,
+ "month": 12,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹頫奏报江南太平、米价每石六钱至七钱余，并说明江宁二次所种稻因种迟未能成实之缘由，附十一月晴雨录。",
+ "people": [
+  {
+   "name": "曹頫",
+   "role": "江宁织造主事，具奏人"
+  },
+  {
+   "name": "李煦",
+   "role": "曹頫母舅，来信传示批旨"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南",
+  "京里"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧織造曹寅奏報江南米價及二次稻種未能成實緣由捐",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1953",
+ "order_index": 218
+}

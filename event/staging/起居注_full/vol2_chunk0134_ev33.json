@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "二十七日壬申",
+ "event_role": "司法案件",
+ "summary": "兵部题尚之信属下许弘德等、耿精忠属下吕云翔等因附从受伪衔应革职，世职不准承袭。",
+ "people": [
+  {
+   "name": "许弘德",
+   "role": "精奇尼哈番"
+  },
+  {
+   "name": "吕云翔",
+   "role": "精奇尼哈番"
+  },
+  {
+   "name": "尚之信",
+   "role": "藩王"
+  },
+  {
+   "name": "耿精忠",
+   "role": "藩王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13433,
+ "page_range": "311-312"
+}

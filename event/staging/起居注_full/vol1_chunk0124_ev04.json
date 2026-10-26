@@ -1,0 +1,32 @@
+{
+ "reign_year": 15,
+ "month": 10,
+ "day_text": "二十四日癸西",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝御弘德殿，讲官进讲孟子一章后，谕令拣择《通鉴》讲章进讲，与四书参讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "徐元文",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12404,
+ "page_range": "305-306"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十六日丙申",
+ "event_role": "河工水利",
+ "summary": "康熙帝论河工，称曾召于成龙、王新命议河事未能明白指陈，且户部有库银何必开捐纳，令九卿科道中扬州淮安人奏陈。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  },
+  {
+   "name": "王新命",
+   "role": "原任总河"
+  }
+ ],
+ "places": [
+  "扬州",
+  "淮安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6408,
+ "page_range": "138-139"
+}

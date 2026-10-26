@@ -1,0 +1,26 @@
+{
+ "reign_year": 11,
+ "month": 12,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝命一等侍卫衣都额真鄂尔多等探视大学士卫周宦的疾病。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂尔多",
+   "role": "一等侍卫衣都额真"
+  },
+  {
+   "name": "卫周宦",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3000,
+ "page_range": "117-118"
+}

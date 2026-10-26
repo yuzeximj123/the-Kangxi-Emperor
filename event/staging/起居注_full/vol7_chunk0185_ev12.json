@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "二十日丙午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕：噶尔图曾祖武功郡王效力甚多，三次恩诏所得世职不准承袭，所剩拜他喇布勒哈番着议应袭之人承袭具奏。",
+ "people": [
+  {
+   "name": "噶尔图",
+   "role": "原任护军统领"
+  },
+  {
+   "name": "武功郡王",
+   "role": "噶尔图曾祖"
+  }
+ ],
+ "places": [
+  "永陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18512,
+ "page_range": "381-382"
+}

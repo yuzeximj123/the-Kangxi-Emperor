@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "初一日庚寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝由东华门出东直门，驻跸三家店。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "东直门",
+  "三家店"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9508,
+ "page_range": "225-226"
+}

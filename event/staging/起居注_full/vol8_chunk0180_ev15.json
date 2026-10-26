@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "初五日庚申",
+ "event_role": "奏报地方情形",
+ "summary": "康熙问原任安徽巡抚梁世勋、江南总督赫寿是否闻有假冒王差之事，赫寿等奏不闻。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁世勋",
+   "role": "原任安徽巡抚"
+  },
+  {
+   "name": "赫寿",
+   "role": "江南总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18015,
+ "page_range": "371-372"
+}

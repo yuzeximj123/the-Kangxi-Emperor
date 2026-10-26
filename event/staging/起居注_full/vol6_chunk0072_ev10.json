@@ -1,0 +1,21 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "二十八日戊辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御保和殿，视岁除致祭太庙祝版，毕后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7210,
+ "page_range": "154-155"
+}

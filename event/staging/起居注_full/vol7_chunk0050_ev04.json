@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十七日业西",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸新泰县属浮丘地界。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "新泰县",
+  "浮丘"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5004,
+ "page_range": "111-112"
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙伍拾叁年捌月贰拾陆日",
+ "reign_year": 53,
+ "month": 8,
+ "day": 26,
+ "event_role": "收到奏折",
+ "summary": "福州将军黄秉钺奏报收到御批原折，表示遵旨留心旗营事务、逐渐整理，以报圣恩。",
+ "people": [
+  {
+   "name": "黄秉钺",
+   "role": "福州将军"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福州",
+  "闽省",
+  "口外"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知北方今年收成很好，口外更佳，小米每石不过三钱。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 115
+}

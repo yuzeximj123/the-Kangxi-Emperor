@@ -1,0 +1,44 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初二日甲午",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，与大学士明珠、王熙等阅折本请旨，议詹事府论德秦松龄革职员缺补授事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "秦松龄",
+   "role": "詹事府论德"
+  },
+  {
+   "name": "刘芳车",
+   "role": "国子监司业"
+  }
+ ],
+ "places": [
+  "河间府行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5115,
+ "page_range": "137-138"
+}

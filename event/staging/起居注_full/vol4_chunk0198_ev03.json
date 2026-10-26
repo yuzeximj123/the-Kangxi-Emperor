@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 5,
+ "day_text": "十六日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝批评前任尚书魏象枢、屈旦皆沽名之人，引吴三桂叛时魏象枢奏请修德之言，指图取虚名无益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "前任尚书"
+  },
+  {
+   "name": "屈旦",
+   "role": "前任尚书"
+  },
+  {
+   "name": "吴三桂",
+   "role": "叛臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19803,
+ "page_range": "408-409"
+}

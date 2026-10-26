@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "川陕总督葛思泰题请以中军守备李应龙升补病故游击黄瑞之缺，兵部以品级不符议驳，康熙帝准其照督臣所题补授。",
+ "people": [
+  {
+   "name": "葛思泰",
+   "role": "川陕总督"
+  },
+  {
+   "name": "黄瑞",
+   "role": "洪德城营游击"
+  },
+  {
+   "name": "李应龙",
+   "role": "中军守备"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "洪德城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10900,
+ "page_range": "230-231"
+}

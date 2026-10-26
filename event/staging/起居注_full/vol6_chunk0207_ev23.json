@@ -1,0 +1,33 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "二十三日己卯",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚李光地题补治河口守备徐起芳员缺，请以武进士缆成遂补授，康熙帝即照所题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "徐起芳",
+   "role": "治河口守备"
+  },
+  {
+   "name": "缆成遂",
+   "role": "武进士"
+  }
+ ],
+ "places": [
+  "直隶",
+  "治河口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20723,
+ "page_range": "424-425"
+}

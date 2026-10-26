@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿会议推举安徽按察使于成龙员缺人选，康熙采纳明珠意见，以多弘安补授。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "安徽按察使"
+  },
+  {
+   "name": "多弘安",
+   "role": "淮扬道，拟正推"
+  },
+  {
+   "name": "李之桩",
+   "role": "浙江驿盐道，拟陪推"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "安徽",
+  "淮扬",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7300,
+ "page_range": "181-182"
+}

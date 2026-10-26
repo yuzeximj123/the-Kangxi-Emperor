@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十四日乙卯",
+ "event_role": "祭祀典礼",
+ "summary": "遣领侍卫内大臣和硕额驸尚之隆致祭汉文帝陵。",
+ "people": [
+  {
+   "name": "尚之隆",
+   "role": "领侍卫内大臣和硕额驸"
+  }
+ ],
+ "places": [
+  "汉文帝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8020,
+ "page_range": "171-172"
+}

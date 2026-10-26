@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "十九日戊子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸鞍匠屯东北，并于偏岭狩猎射杀一虎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "鞍匠屯东北",
+  "偏岭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20705,
+ "page_range": "457-458"
+}

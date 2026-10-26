@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "初一日壬子",
+ "event_role": "皇帝行止",
+ "summary": "辰时康熙帝诣太皇太后宫问安，幸玉泉山，酉时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "玉泉山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19014,
+ "page_range": "415-416"
+}

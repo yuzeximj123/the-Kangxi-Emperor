@@ -1,0 +1,37 @@
+{
+ "reign_year": 11,
+ "month": 10,
+ "day_text": "初四日乙巳",
+ "event_role": "皇帝行止",
+ "summary": "驻跸颜家公；闻皇后病重，康熙帝召学士傅达礼论示，申时起驾连夜驰行回京。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "学士"
+  },
+  {
+   "name": "武超众",
+   "role": "太医院官"
+  },
+  {
+   "name": "皇后",
+   "role": "皇帝正妻"
+  },
+  {
+   "name": "太皇太后",
+   "role": "祖母"
+  }
+ ],
+ "places": [
+  "颜家公",
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2511,
+ "page_range": "107-108"
+}

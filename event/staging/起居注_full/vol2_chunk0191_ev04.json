@@ -1,0 +1,40 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十五日丁酉",
+ "event_role": "议政听政",
+ "summary": "康熙帝御玉泉山内前亭，大学士勒德洪等捧折本面奏请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  },
+  {
+   "name": "席柱",
+   "role": "学士"
+  },
+  {
+   "name": "王守才",
+   "role": "学士"
+  },
+  {
+   "name": "萨海",
+   "role": "捧折本"
+  }
+ ],
+ "places": [
+  "玉泉山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19104,
+ "page_range": "425-426"
+}

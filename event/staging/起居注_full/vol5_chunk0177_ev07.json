@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "命侍读学士伊道等送噶尔丹所使格公沽英至喀伦，令厄鲁特车凌、伊拉古克三所使之人持文还报。",
+ "people": [
+  {
+   "name": "伊道",
+   "role": "侍读学士"
+  },
+  {
+   "name": "格公沽英",
+   "role": "噶尔丹使者"
+  },
+  {
+   "name": "车凌",
+   "role": "厄鲁特"
+  },
+  {
+   "name": "伊拉古克三",
+   "role": "厄鲁特"
+  }
+ ],
+ "places": [
+  "喀伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17707,
+ "page_range": "364-365"
+}

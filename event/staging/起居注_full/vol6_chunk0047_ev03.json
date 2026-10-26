@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "初六日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "兵部议总兵张仕选家属往广东食粮及选用参将林翰等不准，康熙帝命依所请令其妻子居广东，林翰等不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张仕选",
+   "role": "总兵"
+  },
+  {
+   "name": "林翰",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4703,
+ "page_range": "104-105"
+}

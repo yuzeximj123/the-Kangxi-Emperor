@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议覆广东巡抚法海题大盗苏朝宗、邓号三等照例即行处斩，康熙帝命仍照前着大学士会同三法司议奏。",
+ "people": [
+  {
+   "name": "法海",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "苏朝宗",
+   "role": "大盗"
+  },
+  {
+   "name": "邓号三",
+   "role": "大盗"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20914,
+ "page_range": "429-430"
+}

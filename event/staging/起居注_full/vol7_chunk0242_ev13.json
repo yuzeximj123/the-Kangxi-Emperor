@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅王四将保儿强行鸡奸案，以未杀人令免勾。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王四",
+   "role": "案犯"
+  },
+  {
+   "name": "保儿",
+   "role": "被害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24213,
+ "page_range": "495-496"
+}

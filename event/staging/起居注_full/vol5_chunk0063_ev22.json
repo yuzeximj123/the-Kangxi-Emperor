@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": "二十一日生子",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等奏遵旨将河南巡抚顾沂问九卿，九卿云其居官平常，康熙帝谓顾沂居官无善状。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "顾沂",
+   "role": "河南巡抚"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6322,
+ "page_range": "136-137"
+}

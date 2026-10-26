@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "十七日戊午",
+ "event_role": "请安谢恩",
+ "summary": "甘肃布政使巴锡陛辞请训，康熙帝谕其到任实心任事，巴锡奏遵谕竭力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "甘肃布政使"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19513,
+ "page_range": "433-434"
+}

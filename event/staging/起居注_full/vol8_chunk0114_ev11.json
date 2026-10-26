@@ -1,0 +1,37 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "松柱等奏为审赵凤诏派出堂官，九卿请皇上派出，康熙命湖广总督额伦式、河南巡抚李锡驰驿速往会同该抚审讯。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "被审官员"
+  },
+  {
+   "name": "额伦式",
+   "role": "湖广总督"
+  },
+  {
+   "name": "李锡",
+   "role": "河南巡抚"
+  }
+ ],
+ "places": [
+  "湖广",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11411,
+ "page_range": "239-240"
+}

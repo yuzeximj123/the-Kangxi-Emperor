@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅黄二捆吊已故王弘绪并持砖打其头颅肩背案，以首犯刘四已正法、黄二为从，令免勾。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄二",
+   "role": "从犯"
+  },
+  {
+   "name": "王弘绪",
+   "role": "死者"
+  },
+  {
+   "name": "刘四",
+   "role": "首犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24219,
+ "page_range": "495-496"
+}

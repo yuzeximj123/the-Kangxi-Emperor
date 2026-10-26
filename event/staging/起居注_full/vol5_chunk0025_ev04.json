@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初十日丙子",
+ "event_role": "人事任免",
+ "summary": "吏部题请将大城县知县祖延泰升补霸州知州，康熙帝准行并免其任内罚俸，命该抚选拟大城县知县缺员。",
+ "people": [
+  {
+   "name": "祖延泰",
+   "role": "大城县知县"
+  },
+  {
+   "name": "郭世隆",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "大城县",
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2504,
+ "page_range": "60-61"
+}

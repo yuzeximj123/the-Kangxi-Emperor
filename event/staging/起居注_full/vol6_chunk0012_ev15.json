@@ -1,0 +1,21 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "二十四日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "部院各衙门无奏章，康熙帝不御乾清门，未时御保和殿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1215,
+ "page_range": "34-35"
+}

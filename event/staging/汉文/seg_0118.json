@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十五年三月日",
+ "reign_year": 45,
+ "month": 3,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报苏州米价因福建商人高价购米出海而腾贵，并请皇上万安。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "福建",
+  "乍浦"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知自己身体安善，肯定所奏，并追问另道上谕是否已由家人送到、不可迟误。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": null,
+ "order_index": 118
+}

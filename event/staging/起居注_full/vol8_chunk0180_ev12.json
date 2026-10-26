@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "初五日庚申",
+ "event_role": "谕旨决策",
+ "summary": "康熙论假借诚亲王巡视五省招摇一事关系甚大，年羹尧虽奏闻而不即缉拿亦有不是，已差人各省查拿务获问明。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "诚亲王",
+   "role": "被假冒者"
+  },
+  {
+   "name": "年羹尧",
+   "role": "被提及官员"
+  }
+ ],
+ "places": [
+  "各省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18012,
+ "page_range": "371-372"
+}

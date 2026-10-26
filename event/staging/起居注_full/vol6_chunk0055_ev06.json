@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "十一日壬午",
+ "event_role": "其他",
+ "summary": "巳时康熙帝出行宫南门外率皇子及善射侍卫射箭，并观看黑龙江将军萨布素、宁古塔将军沙那海及军士射箭，射毕赐食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "沙那海",
+   "role": "宁古塔将军"
+  }
+ ],
+ "places": [
+  "行宫南门外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5506,
+ "page_range": "120-121"
+}

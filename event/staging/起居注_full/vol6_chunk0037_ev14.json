@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": "二十四日己雍",
+ "event_role": "人事任免",
+ "summary": "福建将军金世荣赴任恭请训旨，康熙帝谕以福建宁谧并论补授外省旗员之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金世荣",
+   "role": "福建将军"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3714,
+ "page_range": "84-85"
+}

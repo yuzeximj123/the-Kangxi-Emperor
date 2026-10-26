@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "初六日庚子",
+ "event_role": "人事任免",
+ "summary": "酉时康熙帝御乾清宫西暖阁拆弥封，亲定卓日玮等十名次第，余照读卷官所拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "读卷官大学士"
+  },
+  {
+   "name": "卓日玮",
+   "role": "武进士"
+  }
+ ],
+ "places": [
+  "乾清宫西暖阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4322,
+ "page_range": "96-97"
+}

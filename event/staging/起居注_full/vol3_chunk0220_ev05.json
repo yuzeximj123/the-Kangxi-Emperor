@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "二十六日甲戌",
+ "event_role": "人事任免",
+ "summary": "江南水师提督杨捷年老请休致，康熙帝以其严肃兵丁、效力年久，命留任并拟温旨。",
+ "people": [
+  {
+   "name": "杨捷",
+   "role": "江南水师提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22005,
+ "page_range": "475-476"
+}

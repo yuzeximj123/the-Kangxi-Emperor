@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "辰时",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驾至，皇太子率诸臣阶下迎接，帝升座问起居注官皇太子读书如何，彭孙通奏赞，帝取皇太子楷书细观。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "彭孙通",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23506,
+ "page_range": "505-506"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题镶黄旗护军校二格骂祖殴母拟绞，其祖母求免，康熙以其不孝顽劣，命依议交族中永行锁禁严加看守。",
+ "people": [
+  {
+   "name": "二格",
+   "role": "护军校"
+  },
+  {
+   "name": "弥哈纳",
+   "role": "二格之父"
+  },
+  {
+   "name": "萨哈纳",
+   "role": "二格叔父"
+  },
+  {
+   "name": "佛伦岱",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乌兰布通"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2403,
+ "page_range": "59-60"
+}

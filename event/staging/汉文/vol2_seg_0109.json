@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十八年正月十五日",
+ "reign_year": 48,
+ "month": null,
+ "day": 2,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮奏报此前请安得朱批知皇上身体大好，表达欢欣与恋主之情。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批告知皇上身体已大好，并提及服药调养之事。",
+ "source_title": "直隸巡撫趙弘燮奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "444",
+ "order_index": 109
+}

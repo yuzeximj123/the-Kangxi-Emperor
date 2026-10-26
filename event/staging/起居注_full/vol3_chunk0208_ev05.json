@@ -1,0 +1,21 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝驳海水倒灌之虑，以庙湾口通海为例担保挑浚下河无倒灌之患。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "庙湾口",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20805,
+ "page_range": "451-452"
+}

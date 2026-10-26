@@ -1,0 +1,20 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "初五日辛酉",
+ "event_role": "朝见受贺",
+ "summary": "长安岭守备程世雄来朝。",
+ "people": [
+  {
+   "name": "程世雄",
+   "role": "长安岭守备"
+  }
+ ],
+ "places": [
+  "长安岭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10310,
+ "page_range": "216-217"
+}

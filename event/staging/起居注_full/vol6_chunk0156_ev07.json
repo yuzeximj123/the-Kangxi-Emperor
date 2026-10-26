@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "初四日乙丑",
+ "event_role": "人事任免",
+ "summary": "署两江总督陶岱题请广德州知州陈衷义留任，康熙帝以其称职，令降一级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陶岱",
+   "role": "署两江总督"
+  },
+  {
+   "name": "陈衷义",
+   "role": "广德州知州"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "原任江南总督"
+  }
+ ],
+ "places": [
+  "广德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15607,
+ "page_range": "322-323"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "初六日两辰",
+ "event_role": "奏报地方情形",
+ "summary": "户部侍郎塔进泰奏称前岁路经苏州，闻百姓说张伯行做官好但办事平常。",
+ "people": [
+  {
+   "name": "塔进泰",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "福建",
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23312,
+ "page_range": "477-478"
+}

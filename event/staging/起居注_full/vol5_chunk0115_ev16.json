@@ -1,0 +1,34 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "十六日辛丑",
+ "event_role": "其他",
+ "summary": "康熙赐总兵官白斌御用帽及袍，副将施世骠、参将张维、焦相圣袍禄各一袭。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "白斌",
+   "role": "总兵官"
+  },
+  {
+   "name": "施世骠",
+   "role": "副将"
+  },
+  {
+   "name": "张维",
+   "role": "参将"
+  },
+  {
+   "name": "焦相圣",
+   "role": "参将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11516,
+ "page_range": "240-241"
+}

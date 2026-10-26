@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": "十一日丙戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就御史李炳条奏清查四川田亩一事，以四川凋残方加抚养，断不可行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李炳",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25122,
+ "page_range": "537-538"
+}

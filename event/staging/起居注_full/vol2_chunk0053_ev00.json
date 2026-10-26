@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士勒德洪、明珠奏郎廷枢才品优长堪以升任，康熙帝命郎廷枢补广东按察使。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郎廷枢",
+   "role": "补广东按察使"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5300,
+ "page_range": "149-150"
+}

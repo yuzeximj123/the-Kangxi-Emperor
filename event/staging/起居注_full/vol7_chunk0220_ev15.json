@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十日壬寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕湖广百姓往四川开垦者甚多、争讼房产，令两省巡抚造册移送对阅稽查，俟潘宗洛题到交大学士九卿确议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "潘宗洛",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖广",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22015,
+ "page_range": "451-452"
+}

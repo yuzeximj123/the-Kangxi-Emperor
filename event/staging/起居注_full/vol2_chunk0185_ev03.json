@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初六日戊寅",
+ "event_role": "人事任免",
+ "summary": "因大理寺卿员缺，吏部开列应升之人具奏，康熙帝询问崔滞为人后，命以崔滞补授大理寺卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔滞",
+   "role": "大理寺卿"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王辕",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18503,
+ "page_range": "413-414"
+}

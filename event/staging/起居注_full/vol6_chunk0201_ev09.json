@@ -1,0 +1,34 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "初二日戊子",
+ "event_role": "司法案件",
+ "summary": "吏、刑等衙门以原任通事戴保威逼通事常寿致死拟绞监候，宁十塔章京丹达等失报拟罪，康熙帝分别裁决。",
+ "people": [
+  {
+   "name": "戴保",
+   "role": "原任通事"
+  },
+  {
+   "name": "常寿",
+   "role": "通事"
+  },
+  {
+   "name": "丹达",
+   "role": "宁十塔章京"
+  },
+  {
+   "name": "佛尔佛",
+   "role": "骁骑校"
+  },
+  {
+   "name": "默尔歌楚",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20109,
+ "page_range": "412-413"
+}

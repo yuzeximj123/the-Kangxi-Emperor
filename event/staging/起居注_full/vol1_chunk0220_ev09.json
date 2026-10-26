@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初五日乙丑",
+ "event_role": "人事任免",
+ "summary": "礼部题原任副都统徐大贵应否与谥，康熙帝以其为太宗旧臣且有劳绩，命与谥。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐大贵",
+   "role": "原任副都统"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "锦州",
+  "松山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22009,
+ "page_range": "497-498"
+}

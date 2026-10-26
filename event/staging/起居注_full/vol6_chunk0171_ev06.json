@@ -1,0 +1,36 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "总督张鹏副题重滩新河，康熙帝以其言为是，论挑河出水、筑石堤与滚水坝事，命问明赵世显及常绥明日启奏。",
+ "people": [
+  {
+   "name": "张鹏副",
+   "role": "总督"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "赵世显",
+   "role": "官员"
+  },
+  {
+   "name": "常绥",
+   "role": "阅河官员"
+  }
+ ],
+ "places": [
+  "五家墩",
+  "白马湖",
+  "高邮湖",
+  "邵伯湖",
+  "清江浦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17106,
+ "page_range": "352-353"
+}

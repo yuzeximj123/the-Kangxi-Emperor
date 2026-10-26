@@ -1,0 +1,25 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "初四日丁丑",
+ "event_role": "军务",
+ "summary": "福建水师提督施琅奏请自行进剿台湾，康熙帝令议政王大臣会议具奏。",
+ "people": [
+  {
+   "name": "施琅",
+   "role": "福建水师提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14908,
+ "page_range": "341-342"
+}

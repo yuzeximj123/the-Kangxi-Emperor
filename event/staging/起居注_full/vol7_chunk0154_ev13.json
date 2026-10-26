@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 1,
+ "day_text": "二十三日王子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就禁捕鱼及朝鲜人杀中国人二事指出所议未周详，本发还，认为被杀者必是偷采人参之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李焘",
+   "role": "朝鲜国王"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15413,
+ "page_range": "319-320"
+}

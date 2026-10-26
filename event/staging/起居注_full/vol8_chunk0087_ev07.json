@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "初六日癸西",
+ "event_role": "朝见受贺",
+ "summary": "保定府知府张安世、新城县知县李之秀、守备李申明等来朝。",
+ "people": [
+  {
+   "name": "张安世",
+   "role": "保定府知府"
+  },
+  {
+   "name": "李之秀",
+   "role": "新城县知县"
+  },
+  {
+   "name": "李申明",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "保定府",
+  "新城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8707,
+ "page_range": "185-186"
+}

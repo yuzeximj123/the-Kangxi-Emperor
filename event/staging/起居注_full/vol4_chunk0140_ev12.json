@@ -1,0 +1,21 @@
+{
+ "reign_year": 30,
+ "month": 1,
+ "day_text": "十五日辛丑",
+ "event_role": "朝见受贺",
+ "summary": "未时，康熙帝御畅春园含店堂，大宴朝正外藩蒙古左右两翼王、贝勒、贝子、公、台吉及内大臣等，进酒作乐并赐酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "含店堂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14012,
+ "page_range": "292-293"
+}

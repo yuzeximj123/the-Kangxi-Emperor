@@ -1,0 +1,34 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "二十二日辛丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台内丰泽园洽怀堂，大学士伊桑阿等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "瀛台",
+  "丰泽园",
+  "洽怀堂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19415,
+ "page_range": "400-401"
+}

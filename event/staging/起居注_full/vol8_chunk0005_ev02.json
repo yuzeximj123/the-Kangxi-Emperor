@@ -1,0 +1,25 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士李光地奏称西洋人皆由海道至中国，不知另有陆路可通，康熙帝遂论及陆路间隔鄂罗斯诸国及西洋与鄂罗斯接壤交战之事。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "鄂罗斯",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 502,
+ "page_range": "21-22"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补杭州副都统员缺，康熙帝命护军参领胡什布升补副都统。",
+ "people": [
+  {
+   "name": "索洛希",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "布颜图",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "胡什布",
+   "role": "护军参领"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25301,
+ "page_range": "518-519"
+}

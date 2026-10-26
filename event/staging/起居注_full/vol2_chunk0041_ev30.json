@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初二日乙卯",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御行宫，大学士明珠捧折本面奏请旨。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4130,
+ "page_range": "125-126"
+}

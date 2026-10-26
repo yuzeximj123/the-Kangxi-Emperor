@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "初九日壬戌",
+ "event_role": "朝见受贺",
+ "summary": "良乡县防守御胡什巴等、知县彭其位等、拱极城游击吴启相等来朝。",
+ "people": [
+  {
+   "name": "胡什巴",
+   "role": "良乡县防守御"
+  },
+  {
+   "name": "彭其位",
+   "role": "良乡县知县"
+  },
+  {
+   "name": "吴启相",
+   "role": "拱极城游击"
+  }
+ ],
+ "places": [
+  "良乡县",
+  "拱极城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20716,
+ "page_range": "425-426"
+}

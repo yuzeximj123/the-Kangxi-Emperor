@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": "初七日甲实",
+ "event_role": "起居注官记录",
+ "summary": "康熙帝询问学士罗察年岁及目力，罗察答四十七岁已昏花，阿兰泰答六十岁目昏数年，康熙帝自言目光如常尚能灯下阅细字。",
+ "people": [
+  {
+   "name": "罗察",
+   "role": "学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "关保",
+   "role": "近侍"
+  },
+  {
+   "name": "佛保",
+   "role": "近侍"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 810,
+ "page_range": "26-27"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "山海关监督太常寺读祝官和米乞请展限一年并请管理旧关台喜峰口等口一年以多收课银，康熙命该部详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和米",
+   "role": "山海关监督、太常寺读祝官"
+  }
+ ],
+ "places": [
+  "山海关",
+  "喜峰口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11407,
+ "page_range": "239-240"
+}

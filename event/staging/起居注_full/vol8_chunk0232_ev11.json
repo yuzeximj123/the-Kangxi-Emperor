@@ -1,0 +1,38 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": "二十日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝向大臣论述自太祖太宗以来宗室患疯疾者不绝，列举武英郡王、公景禧、普奇、三官保、楚仲等心性无定之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "武英郡王",
+   "role": "宗室"
+  },
+  {
+   "name": "公景禧",
+   "role": "宗室"
+  },
+  {
+   "name": "普奇",
+   "role": "宗室"
+  },
+  {
+   "name": "三官保",
+   "role": "公"
+  },
+  {
+   "name": "楚仲",
+   "role": "宗室"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23211,
+ "page_range": "475-476"
+}

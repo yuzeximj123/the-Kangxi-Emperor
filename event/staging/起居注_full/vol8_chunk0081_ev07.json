@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": "二十二日庚寅",
+ "event_role": "人事任免",
+ "summary": "康熙帝以沈涵不晓事，命即革退。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈涵",
+   "role": "官员"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8107,
+ "page_range": "173-174"
+}

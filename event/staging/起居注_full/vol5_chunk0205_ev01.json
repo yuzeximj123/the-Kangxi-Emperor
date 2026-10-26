@@ -1,0 +1,33 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "阿南达移送行在理政院，报噶尔丹部下台吉滚布查罕来降，诉盆楚克截留人畜，经查盆楚克处尚存三十八人、马二十四匹等情。",
+ "people": [
+  {
+   "name": "阿南达",
+   "role": "官员"
+  },
+  {
+   "name": "滚布查罕",
+   "role": "来降台吉"
+  },
+  {
+   "name": "盆楚克",
+   "role": "台吉"
+  },
+  {
+   "name": "巴赖",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "鄂伦布拉克",
+  "呼户诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20501,
+ "page_range": "420-421"
+}

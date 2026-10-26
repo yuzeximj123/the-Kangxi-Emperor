@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 6,
+ "day_text": "初二日庚成",
+ "event_role": "人事任免",
+ "summary": "吏部题翰林院学士员缺，康熙帝以盛京侍郎阿山为人郑重、办事贞确，命以礼部侍郎管翰林院掌院学士事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "盛京侍郎，升礼部侍郎管翰林院掌院学士事"
+  },
+  {
+   "name": "努赫",
+   "role": "礼部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4,
+ "page_range": "10-11"
+}

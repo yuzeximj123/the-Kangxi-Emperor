@@ -1,0 +1,36 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": "二十六日庚午",
+ "event_role": "人事任免",
+ "summary": "兵部题盛京将军绰克度员缺开列副都统鄂齐礼等，康熙帝以费扬古患病，令贝子苏努补授整理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "绰克度",
+   "role": "将军"
+  },
+  {
+   "name": "鄂齐礼",
+   "role": "副都统"
+  },
+  {
+   "name": "费扬古",
+   "role": "公"
+  },
+  {
+   "name": "苏努",
+   "role": "贝子"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4011,
+ "page_range": "90-91"
+}

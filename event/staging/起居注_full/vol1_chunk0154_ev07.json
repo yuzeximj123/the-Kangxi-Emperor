@@ -1,0 +1,30 @@
+{
+ "reign_year": 17,
+ "month": 1,
+ "day_text": "十四日两成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士索额图、明珠，以宽免之旨将董重民免死释放，同解罪人亦宽免释放交兵部议养。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "董重民",
+   "role": "原吴三桂下护卫伪总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15407,
+ "page_range": "365-366"
+}

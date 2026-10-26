@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "十四日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部题请补授都察院左都御史满都员缺，开列吏部侍卫孙柱等职名，康熙帝命本收贮，并询问穆丹病情。",
+ "people": [
+  {
+   "name": "满都",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "孙柱",
+   "role": "吏部侍卫"
+  },
+  {
+   "name": "穆丹",
+   "role": "左都御史"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21916,
+ "page_range": "449-450"
+}

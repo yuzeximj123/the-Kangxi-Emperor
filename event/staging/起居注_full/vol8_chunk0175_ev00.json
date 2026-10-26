@@ -1,0 +1,23 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "初一日丙成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝在畅春园放镜峰问安，巳时从畅春园启行巡视霸州等处，驻跸管笛房。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "镜峰",
+  "霸州",
+  "管笛房"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17500,
+ "page_range": "361-362"
+}

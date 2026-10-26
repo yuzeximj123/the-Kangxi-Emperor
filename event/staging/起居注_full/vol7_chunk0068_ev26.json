@@ -1,0 +1,36 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "二十八日辛丑",
+ "event_role": "议政听政",
+ "summary": "申时康熙帝御行宫，大学士席哈纳、学士常寿以折本请旨，刑部议隐匿正法吴子孝家人案，拟将李良柱等之妻离婚入官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "常寿",
+   "role": "学士"
+  },
+  {
+   "name": "李良柱",
+   "role": "罪犯"
+  },
+  {
+   "name": "吴子孝",
+   "role": "正法之人"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6826,
+ "page_range": "147-148"
+}

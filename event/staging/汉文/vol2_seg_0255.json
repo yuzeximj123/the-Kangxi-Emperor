@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙四十八年十一月十九日",
+ "reign_year": 48,
+ "month": 11,
+ "day": 12,
+ "event_role": "请安谢恩",
+ "summary": "浙江巡抚黄秉中向康熙帝叩请圣安，康熙朱批告知京中米价昂贵，命其细访察明奏闻。",
+ "people": [
+  {
+   "name": "黄秉中",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "京中"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知奏请，并称近日京中米价昂贵，命黄秉中细访察明缘由奏闻。",
+ "source_title": "直隸巡撫趙弘燮奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "604",
+ "order_index": 255
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "二十日甲午",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等奏浙闽总督难择人，康熙帝以广东巡抚朱弘检居官颇优，命升授浙闽总督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "朱弘检",
+   "role": "广东巡抚"
+  }
+ ],
+ "places": [
+  "浙闽",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21918,
+ "page_range": "450-451"
+}

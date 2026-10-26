@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "十四日戊戌",
+ "event_role": "贸易漕运",
+ "summary": "康熙帝与马齐议贝和诺封闸蓄水使漕船早到天津之事，命每年特遣官员前往。",
+ "people": [
+  {
+   "name": "贝和诺",
+   "role": "大理寺卿"
+  },
+  {
+   "name": "马齐",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14411,
+ "page_range": "298-299"
+}

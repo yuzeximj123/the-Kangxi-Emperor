@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "二十八日己卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论《续资治通鉴纲目》远逊《朱子纲目》且草率，询问《明史》纂修进度，王熙奏本纪至弘治年、列传渐次拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19414,
+ "page_range": "423-424"
+}

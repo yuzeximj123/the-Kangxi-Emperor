@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "初十日乙丑",
+ "event_role": "人事任免",
+ "summary": "吏部开列职名题补理六院侍郎员缺，康熙帝命以长于办事的一等侍卫阿尔尼补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1408,
+ "page_range": "71-72"
+}

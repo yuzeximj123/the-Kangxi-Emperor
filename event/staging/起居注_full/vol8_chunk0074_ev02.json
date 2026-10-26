@@ -1,0 +1,64 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "部院各衙门奏毕，大学士松柱等以折本请旨，请户部题差崇文门监督。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "王拨",
+   "role": "大学士"
+  },
+  {
+   "name": "蔡升元",
+   "role": "学士"
+  },
+  {
+   "name": "彭始技",
+   "role": "学士"
+  },
+  {
+   "name": "邹士事",
+   "role": "学士"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "学士"
+  },
+  {
+   "name": "查弱纳",
+   "role": "学士"
+  },
+  {
+   "name": "关保",
+   "role": "学士"
+  },
+  {
+   "name": "敦拜",
+   "role": "学士"
+  },
+  {
+   "name": "漂克旦",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7402,
+ "page_range": "159-160"
+}

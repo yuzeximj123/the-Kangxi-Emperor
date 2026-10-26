@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "翰林院题原任左都御史郭玫、经筵讲官员缺，开列尚书张士杜等职名，康熙帝命以陈廷敬充补。",
+ "people": [
+  {
+   "name": "郭玫",
+   "role": "原任左都御史"
+  },
+  {
+   "name": "张士杜",
+   "role": "尚书"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "补任经筵讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10602,
+ "page_range": "224-225"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "侍卫巴海、赖希、侍郎张世下等赴福建招安泉州山寇请训，康熙帝命张告示晓谕并惩为首者。",
+ "people": [
+  {
+   "name": "巴海",
+   "role": "一等侍卫宜都额真"
+  },
+  {
+   "name": "赖希",
+   "role": "三等侍卫"
+  },
+  {
+   "name": "张世下",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "泉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17502,
+ "page_range": "361-362"
+}

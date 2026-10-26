@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初六日辛酉",
+ "event_role": "人事任免",
+ "summary": "兵部尚书宋德宜言陕西、四川各设总督无用，宜以陕西总督哈占为川陕总督统理两省。",
+ "people": [
+  {
+   "name": "宋德宜",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "哈占",
+   "role": "陕西总督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2611,
+ "page_range": "95-96"
+}

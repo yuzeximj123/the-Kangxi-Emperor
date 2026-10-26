@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "初八日甲午",
+ "event_role": "司法案件",
+ "summary": "理藩院题安北大将军伯费扬古所拿送盗大兵马匹之央达西拟立斩，康熙帝就达西事有所谕示。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "安北大将军领侍卫内大臣伯"
+  },
+  {
+   "name": "达西",
+   "role": "盗马匹者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9928,
+ "page_range": "208-209"
+}

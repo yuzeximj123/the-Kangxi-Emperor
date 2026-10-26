@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "初八日癸亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕领侍卫内大臣索额图，转述车陈汗、喀喇泥王扎西奏请追剿噶尔丹事，令会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "车陈汗",
+   "role": "蒙古首领"
+  },
+  {
+   "name": "扎西",
+   "role": "喀喇泥王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12911,
+ "page_range": "268-269"
+}

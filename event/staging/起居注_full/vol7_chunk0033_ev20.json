@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十九日本丑",
+ "event_role": "河工水利",
+ "summary": "都御史李楠条奏河工，康熙帝命待南巡到河工日将此本问张鹏翮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李楠",
+   "role": "都御史"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3320,
+ "page_range": "77-78"
+}

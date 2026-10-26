@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "初三日",
+ "event_role": "司法案件",
+ "summary": "九卿题太原府知府赵凤诏由知县超升知府后肆行贪小，拟即行处斩，康熙以其不忠不孝应斩，令追赃交库备军需。",
+ "people": [
+  {
+   "name": "赵凤诏",
+   "role": "太原府知府"
+  },
+  {
+   "name": "赵申乔",
+   "role": "赵凤诏之父"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "太原府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13907,
+ "page_range": "289-290"
+}

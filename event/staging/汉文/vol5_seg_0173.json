@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十二年三月初一日",
+ "reign_year": 52,
+ "month": 3,
+ "day": 1,
+ "event_role": "人事任免",
+ "summary": "苏州织造李煦奏请将两淮运使李陈常量加职衔署理盐院三年，以整顿盐法、疏通积引、裕课培商，并附众商呈词请圣裁。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏请人"
+  },
+  {
+   "name": "李陈常",
+   "role": "两淮运使，被保举署理盐院"
+  }
+ ],
+ "places": [
+  "苏州",
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示此事依李煦等人所言办理。",
+ "source_title": "苏州织造李煦奏为保举运使李陈常留督理盐院摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 173
+}

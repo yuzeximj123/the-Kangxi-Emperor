@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "十五日乙亥",
+ "event_role": "谕旨决策",
+ "summary": "兵部题左都督张琳、黄德、李升、罗当等议叙四事俱议不准行，康熙帝以其效力行间命该部另行议叙具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张琳",
+   "role": "左都督"
+  },
+  {
+   "name": "黄德",
+   "role": "左都督"
+  },
+  {
+   "name": "李升",
+   "role": "左都督"
+  },
+  {
+   "name": "罗当",
+   "role": "左都督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8118,
+ "page_range": "197-198"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "十一日已已",
+ "event_role": "人事任免",
+ "summary": "康熙帝以平阳府知府职任紧要，命通州知州王光席升授平阳府知府。",
+ "people": [
+  {
+   "name": "王光席",
+   "role": "通州知州"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "平阳府",
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8910,
+ "page_range": "188-189"
+}

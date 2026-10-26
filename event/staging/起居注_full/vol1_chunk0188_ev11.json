@@ -1,0 +1,20 @@
+{
+ "reign_year": 18,
+ "month": 8,
+ "day_text": "初六日成辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝前往社种坛致祭，完毕后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "社种坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18811,
+ "page_range": "433-434"
+}

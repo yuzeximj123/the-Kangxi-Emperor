@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "初七日癸巳",
+ "event_role": "军务",
+ "summary": "安郡王马尔浑、辅国公来信、副都统雅图往归化城驻防请训旨，康熙帝谕令张兵势、重侦探、同心协力，王公与雅图商酌而行。",
+ "people": [
+  {
+   "name": "马尔浑",
+   "role": "安郡王"
+  },
+  {
+   "name": "来信",
+   "role": "辅国公"
+  },
+  {
+   "name": "雅图",
+   "role": "副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9925,
+ "page_range": "208-209"
+}

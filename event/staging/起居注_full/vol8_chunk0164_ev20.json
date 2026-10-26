@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "初九日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "户部覆盛京户部侍郎董国礼所题盛京等处五十三年、五十四年未交完米粮草豆请带完，康熙帝命免追取，交盛京各部大臣官员照数赔补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董国礼",
+   "role": "盛京户部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16420,
+ "page_range": "339-340"
+}

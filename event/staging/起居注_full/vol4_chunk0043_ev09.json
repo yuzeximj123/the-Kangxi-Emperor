@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "十二日辛刻",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕三河县知县彭鹏，因其居官有贤声赐银三百两为需用之资，彭鹏奏谢。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭鹏",
+   "role": "三河县知县"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4309,
+ "page_range": "98-99"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十六日辛刻",
+ "event_role": "奏报灾情收成",
+ "summary": "工部郎中舒书查估河南河工回京复命，奏报河南饥民得赈济雨水、二麦渐长、饥困稍苏。",
+ "people": [
+  {
+   "name": "舒书",
+   "role": "工部郎中"
+  },
+  {
+   "name": "王日藻",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2020,
+ "page_range": "75-76"
+}

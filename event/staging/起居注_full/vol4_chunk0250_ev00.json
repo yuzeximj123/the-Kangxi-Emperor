@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝谕令将才力不及且懒惰的太仆寺卿色冷革职，照佐领随旗行走，并升少卿杨舒为太仆寺卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色冷",
+   "role": "太仆寺卿"
+  },
+  {
+   "name": "杨舒",
+   "role": "太仆寺少卿"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25000,
+ "page_range": "512-513"
+}

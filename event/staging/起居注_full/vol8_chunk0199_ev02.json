@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题山东民椰二等因李四举出伙盗吕四而怀恨，以灰揉瞎李四之目，拟枷号发往三姓地方为奴，康熙帝以其情可恶所议尚轻令再议。",
+ "people": [
+  {
+   "name": "椰二等",
+   "role": "山东民"
+  },
+  {
+   "name": "李四",
+   "role": "天津卫民"
+  },
+  {
+   "name": "吕四",
+   "role": "伙盗"
+  }
+ ],
+ "places": [
+  "山东",
+  "天津卫",
+  "三姓地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19902,
+ "page_range": "409-410"
+}

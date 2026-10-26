@@ -1,0 +1,26 @@
+{
+ "date_raw": "今月十三日",
+ "reign_year": null,
+ "month": null,
+ "day": 13,
+ "event_role": "请安谢恩",
+ "summary": "王掞奏报自己病泄寒颤、服药渐愈，恳请皇上颁赐健脾神药，并请求暂解内阁机务、专司编辑之事。",
+ "people": [
+  {
+   "name": "王掞",
+   "role": "奏事大臣，自称忝预机务"
+  },
+  {
+   "name": "皇上",
+   "role": "康熙帝，颁赐御药并朱批"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙令王掞多休息数日不必入署，告知所请之药已传两省，并提及治红痢神方载于本草，又言自己偶患手疼字不成字。",
+ "source_title": "王掞奏請賜藥並暫解閣務摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 152
+}

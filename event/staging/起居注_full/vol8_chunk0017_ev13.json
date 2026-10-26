@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "二十八日乙亥",
+ "event_role": "人事任免",
+ "summary": "吏部题鳌拜、厄都、顺科沙等勋臣后裔授职事，康熙帝命查议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鳌拜",
+   "role": "巴图鲁"
+  },
+  {
+   "name": "厄都",
+   "role": "巴图鲁"
+  },
+  {
+   "name": "安费扬",
+   "role": "顺科沙巴图鲁"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1713,
+ "page_range": "45-46"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "伊桑阿等奏问转补吏部文选司郎中事，康熙帝令将谈九乾转补。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "库勒纳",
+   "role": "官员"
+  },
+  {
+   "name": "谈九乾",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3403,
+ "page_range": "78-79"
+}

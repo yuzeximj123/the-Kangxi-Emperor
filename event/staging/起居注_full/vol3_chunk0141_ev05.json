@@ -1,0 +1,40 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十三日丁酉",
+ "event_role": "弹劾参奏",
+ "summary": "吏部题监察御史黄斐参布政使刘显第贪婪，康熙帝令督抚查明再议，明珠等建议令总督希福会同巡抚姚缔虞严审。",
+ "people": [
+  {
+   "name": "黄斐",
+   "role": "监察御史"
+  },
+  {
+   "name": "刘显第",
+   "role": "布政使"
+  },
+  {
+   "name": "希福",
+   "role": "总督"
+  },
+  {
+   "name": "姚缔虞",
+   "role": "巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "川省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14105,
+ "page_range": "317-318"
+}

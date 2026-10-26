@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "十三日丁酉",
+ "event_role": "弹劾参奏",
+ "summary": "九卿议覆御史袁桥劾山西巡抚噶礼事，康熙帝命分别是非，以此论九卿，本发还另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "袁桥",
+   "role": "御史"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13124,
+ "page_range": "273-274"
+}

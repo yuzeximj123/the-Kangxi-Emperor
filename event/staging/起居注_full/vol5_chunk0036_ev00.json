@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命速行文仓场侍郎，将通州仓贮米一万五千石运至密云县、五千石运至顺义县，趁水速运收贮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "仓场侍郎",
+   "role": "受命官员"
+  }
+ ],
+ "places": [
+  "通州仓",
+  "密云县",
+  "顺义县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3600,
+ "page_range": "82-83"
+}

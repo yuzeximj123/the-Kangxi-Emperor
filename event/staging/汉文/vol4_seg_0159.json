@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十一年",
+ "reign_year": 51,
+ "month": null,
+ "day": null,
+ "event_role": "其他",
+ "summary": "大学士李光地奏报《朱子全书》校订告竣，共八十三卷装成八套进呈御览，并开列奉旨改正条目及请旨改定理气门类细目次序。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，奏折作者，承修《朱子全书》"
+  },
+  {
+   "name": "朱子",
+   "role": "《朱子全书》作者，宋代大儒"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批认可李光地所拟改的理气门类细目次序，命全部换过，并注明二十五六年发回。",
+ "source_title": "大學士李光地奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1161",
+ "order_index": 159
+}

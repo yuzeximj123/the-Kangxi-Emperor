@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "初七日戊成",
+ "event_role": "人事任免",
+ "summary": "理藩院题苏尼特部落亡故协理都统事务四等台吉额思达纳员缺，康熙帝谕令调祁塔特管左翼事等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额思达纳",
+   "role": "四等台吉"
+  },
+  {
+   "name": "祁塔特",
+   "role": "四等台吉"
+  },
+  {
+   "name": "多尔记思哈普",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "苏尼特部落"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10701,
+ "page_range": "226-227"
+}

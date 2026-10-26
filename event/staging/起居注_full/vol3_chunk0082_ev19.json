@@ -1,0 +1,42 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十一日辛巳",
+ "event_role": "人事任免",
+ "summary": "吏部题补论德德格勒升任员缺，康熙帝询问后令哈山升补论德。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "德格勒",
+   "role": "论德"
+  },
+  {
+   "name": "尼雅汉",
+   "role": "员外郎"
+  },
+  {
+   "name": "班代",
+   "role": "陪拟"
+  },
+  {
+   "name": "徐元梦",
+   "role": "中人"
+  },
+  {
+   "name": "哈山",
+   "role": "吏部员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8219,
+ "page_range": "199-200"
+}

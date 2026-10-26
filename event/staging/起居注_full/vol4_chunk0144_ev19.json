@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 3,
+ "day_text": "初二日戊子",
+ "event_role": "皇帝行止",
+ "summary": "康熙由西华门出西直门，驻足畅春园，部院面奏事务照旧，其余章奏送内阁转送畅春园听理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西华门",
+  "西直门",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14419,
+ "page_range": "300-301"
+}

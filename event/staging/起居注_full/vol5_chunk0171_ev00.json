@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝遣和硕扎萨克图亲王长史马尼图等赍敕招安厄鲁特阿拉布坦台吉和丹津汪布。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马尼图",
+   "role": "和硕扎萨克图亲王长史"
+  },
+  {
+   "name": "阿拉布坦",
+   "role": "厄鲁特台吉"
+  },
+  {
+   "name": "丹津汪布",
+   "role": "厄鲁特台吉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17100,
+ "page_range": "352-353"
+}

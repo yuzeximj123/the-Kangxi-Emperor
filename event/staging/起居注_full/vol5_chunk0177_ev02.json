@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "费扬古奏称军机皆遵皇上密旨而行，西路兵粮乏马疲，闻皇上亲至克鲁伦众官兵奋发冒死进前克敌，并请未能生擒噶尔丹之罪。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "敌酋"
+  }
+ ],
+ "places": [
+  "克鲁伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17702,
+ "page_range": "364-365"
+}

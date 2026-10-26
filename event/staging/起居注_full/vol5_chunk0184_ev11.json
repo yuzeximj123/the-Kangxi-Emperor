@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十七日己卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝命副将俞益谟补授大同总兵官缺，令速赴新任。",
+ "people": [
+  {
+   "name": "俞益谟",
+   "role": "副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18411,
+ "page_range": "378-379"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十九日戊子",
+ "event_role": "人事任免",
+ "summary": "右翼步军总尉安泰员缺，康熙帝以二等侍卫纪山人才壮健、为人慎重，从优升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安泰",
+   "role": "右翼步军总尉"
+  },
+  {
+   "name": "纪山",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8114,
+ "page_range": "172-173"
+}

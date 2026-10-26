@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 8,
+ "day_text": "初四日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命亲近侍卫吴什传谕大学士伊桑阿、阿兰泰，闻巴林人等因饥荡失散，着大学士等晚刻面议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴什",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "巴林"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10711,
+ "page_range": "224-225"
+}

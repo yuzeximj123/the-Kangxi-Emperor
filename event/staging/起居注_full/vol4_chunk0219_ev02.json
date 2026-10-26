@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "就山东按察使喻成龙等司道卓异及原任尚书能一潇等事，康熙帝命再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喻成龙",
+   "role": "山东按察使"
+  },
+  {
+   "name": "能一潇",
+   "role": "原任尚书"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21902,
+ "page_range": "450-451"
+}

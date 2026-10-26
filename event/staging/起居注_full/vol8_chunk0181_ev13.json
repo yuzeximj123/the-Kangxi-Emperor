@@ -1,0 +1,23 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "初九日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论私盐妨碍官盐，地方官不严缉，并因盐船想到粮船可自河南直达西安城下。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三门",
+  "河南",
+  "渭河",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18113,
+ "page_range": "373-374"
+}

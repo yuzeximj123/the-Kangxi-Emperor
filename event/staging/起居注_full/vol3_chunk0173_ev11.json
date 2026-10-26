@@ -1,0 +1,42 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "十一日癸北",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶黄旗汉军副都统马思文员缺，康熙询问都统佟国纲意见后命田象坤升授副都统。",
+ "people": [
+  {
+   "name": "马思文",
+   "role": "镶黄旗汉军副都统"
+  },
+  {
+   "name": "萨海",
+   "role": "侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佟国纲",
+   "role": "都统"
+  },
+  {
+   "name": "田象坤",
+   "role": "参领"
+  },
+  {
+   "name": "卢崇峻",
+   "role": "火器营协领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17311,
+ "page_range": "381-382"
+}

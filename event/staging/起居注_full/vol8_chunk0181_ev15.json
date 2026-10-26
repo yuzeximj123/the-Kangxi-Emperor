@@ -1,0 +1,36 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "初九日甲子",
+ "event_role": "人事任免",
+ "summary": "兵部题重庆总兵官韩成员缺，开列白云鸿、朱杰等，康熙帝言已批张自成，命问九卿举荐知者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩成",
+   "role": "重庆总兵官"
+  },
+  {
+   "name": "白云鸿",
+   "role": "镶黄旗汉军参领"
+  },
+  {
+   "name": "朱杰",
+   "role": "副将"
+  },
+  {
+   "name": "张自成",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "重庆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18115,
+ "page_range": "373-374"
+}

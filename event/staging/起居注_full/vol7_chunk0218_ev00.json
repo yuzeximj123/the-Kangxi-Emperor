@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论总督股泰与人不睦，预言将来必似噶礼、张伯行互相揭参，令诸大臣记之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "股泰",
+   "role": "总督"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21800,
+ "page_range": "447-448"
+}

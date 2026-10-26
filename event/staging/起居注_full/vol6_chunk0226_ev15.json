@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十二日乙未",
+ "event_role": "弹劾参奏",
+ "summary": "都察院因误将原任知州获佳选议和人辛者库移文刑部，议处副都统孙正浩、尚书傅腊塔等，都统鄂伦代待回日再议，帝命问明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙正浩",
+   "role": "副都统"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "尚书"
+  },
+  {
+   "name": "鄂伦代",
+   "role": "都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22615,
+ "page_range": "462-463"
+}

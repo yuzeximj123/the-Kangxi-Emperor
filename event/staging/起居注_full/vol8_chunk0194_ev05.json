@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "广西巡抚陈元龙题游击周兴等十一人满三年无过应升用，康熙帝命以应升之缺即用，满三年后再引见，本发回再议。",
+ "people": [
+  {
+   "name": "陈元龙",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "周兴",
+   "role": "游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19405,
+ "page_range": "399-400"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十二日甲子",
+ "event_role": "谕旨决策",
+ "summary": "广西巡抚郝浴报二十一年捐输谷米，户部议造报再议，康熙帝命定例考成、确议具奏，务令实心奉行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郝浴",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18004,
+ "page_range": "403-404"
+}

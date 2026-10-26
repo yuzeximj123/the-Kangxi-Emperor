@@ -1,0 +1,41 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "十四日成申",
+ "event_role": "朝见受贺",
+ "summary": "通州坐粮厅、通仓监督、副将、驻防顺义防御等官员来朝。",
+ "people": [
+  {
+   "name": "江藻",
+   "role": "通州坐粮厅郎中"
+  },
+  {
+   "name": "邵扣",
+   "role": "员外郎"
+  },
+  {
+   "name": "马尔汉",
+   "role": "通仓监督员外郎"
+  },
+  {
+   "name": "祖良卿",
+   "role": "通仓监督员外郎"
+  },
+  {
+   "name": "陈经刨",
+   "role": "副将"
+  },
+  {
+   "name": "戴音布",
+   "role": "驻防顺义防御"
+  }
+ ],
+ "places": [
+  "通州",
+  "顺义"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12419,
+ "page_range": "258-259"
+}

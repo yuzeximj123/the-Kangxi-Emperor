@@ -1,0 +1,20 @@
+{
+ "reign_year": 34,
+ "month": 1,
+ "day_text": "初九日辛未",
+ "event_role": "祭祀典礼",
+ "summary": "清晨，康熙帝亲诣祈谷坛行致祭礼，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5417,
+ "page_range": "118-119"
+}

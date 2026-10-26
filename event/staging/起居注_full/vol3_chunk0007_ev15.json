@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "十四日庚成",
+ "event_role": "司法案件",
+ "summary": "三法司议宫殿持票吓诈照为首例处斩、田五等五人拟绞监候，康熙帝改宫殿为拟斩、田五等监候秋后处决。",
+ "people": [
+  {
+   "name": "宫殿",
+   "role": "犯人"
+  },
+  {
+   "name": "田五",
+   "role": "犯人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 715,
+ "page_range": "49-50"
+}

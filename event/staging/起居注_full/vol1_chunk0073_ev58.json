@@ -1,0 +1,29 @@
+{
+ "reign_year": 13,
+ "month": 6,
+ "day_text": "二十七日庚申",
+ "event_role": "谕旨决策",
+ "summary": "辰时，康熙帝御太和门，遣康亲王杰淑、庄亲王博果铎赍册宝前往巩华城。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杰淑",
+   "role": "康亲王"
+  },
+  {
+   "name": "博果铎",
+   "role": "庄亲王"
+  }
+ ],
+ "places": [
+  "太和门",
+  "巩华城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7358,
+ "page_range": "203-204"
+}

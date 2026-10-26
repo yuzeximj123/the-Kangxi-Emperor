@@ -1,0 +1,22 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户、刑等衙门，奉天、宁古塔等处死罪减等，军徙徒杖等罪宽免，并蠲免钱粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "奉天",
+  "宁古塔",
+  "山海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 111,
+ "page_range": "59-60"
+}

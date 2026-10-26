@@ -1,0 +1,46 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题汤斌所荐耿介应照何品级补用请旨，康熙帝询问耿介原任官职品级后，命以侍讲学士用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "耿介",
+   "role": "被荐官员"
+  },
+  {
+   "name": "汤斌",
+   "role": "荐举人"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22201,
+ "page_range": "479-480"
+}

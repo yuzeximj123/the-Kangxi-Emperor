@@ -1,0 +1,21 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "十一日乙雍",
+ "event_role": "河工水利",
+ "summary": "康熙帝谕称亲御小舟遍视郎城等处，确认河当移于柳岔，郎城之河沙淤渐高来年可耕为田，水口所关重大非亲临不可轻断，并责治河大臣退缩陈奏不可行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "郎城",
+  "柳岔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13913,
+ "page_range": "288-289"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大同总兵官张文焕题请以臣标中营守备郭寿域调补天城城守守备，所遗员缺以蓝翎侍卫刘章补授，康熙帝照所请行。",
+ "people": [
+  {
+   "name": "张文焕",
+   "role": "大同总兵官"
+  },
+  {
+   "name": "郭寿域",
+   "role": "臣标中营守备"
+  },
+  {
+   "name": "刘章",
+   "role": "蓝翎侍卫"
+  }
+ ],
+ "places": [
+  "大同",
+  "天城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17107,
+ "page_range": "353-354"
+}

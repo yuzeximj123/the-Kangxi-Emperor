@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 7,
+ "day_text": "十六日辛西",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆请山东巡抚陈锡所题原任副将惠占春等在山东置产入籍事，康熙帝谕现任武官不许于任所置产入籍，已故者不必追究。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈锡",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "惠占春",
+   "role": "原任副将"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3201,
+ "page_range": "75-76"
+}

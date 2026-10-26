@@ -1,0 +1,33 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "初三日壬申",
+ "event_role": "朝见受贺",
+ "summary": "龙江关监督员外郎孙世奇、淮安府知府李经政、参将康承祖、原任道员刘谦吉等来朝。",
+ "people": [
+  {
+   "name": "孙世奇",
+   "role": "龙江关监督员外郎"
+  },
+  {
+   "name": "李经政",
+   "role": "淮安府知府"
+  },
+  {
+   "name": "康承祖",
+   "role": "参将"
+  },
+  {
+   "name": "刘谦吉",
+   "role": "原任道员"
+  }
+ ],
+ "places": [
+  "龙江关",
+  "淮安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8109,
+ "page_range": "172-173"
+}

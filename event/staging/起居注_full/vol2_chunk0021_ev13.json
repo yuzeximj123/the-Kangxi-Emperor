@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十五日庚子",
+ "event_role": "司法案件",
+ "summary": "理藩院议鄂尔多斯贝子属下斩犯达里萨汗以牲口赎罪事，康熙帝令另罚人口方可完聚，着再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "顾木布尔",
+   "role": "固山贝子"
+  },
+  {
+   "name": "达里萨汗",
+   "role": "斩犯"
+  }
+ ],
+ "places": [
+  "鄂尔多斯部落"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2113,
+ "page_range": "85-86"
+}

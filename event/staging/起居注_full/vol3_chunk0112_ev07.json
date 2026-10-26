@@ -1,0 +1,46 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "戌时皇帝御懋勤殿阅卷，指试卷文意不贯书法不佳，命取徐宪武等三卷亲批为一甲三名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "孙在丰",
+   "role": "学士"
+  },
+  {
+   "name": "徐宪武",
+   "role": "武举"
+  },
+  {
+   "name": "陈廷侍",
+   "role": "武举"
+  },
+  {
+   "name": "李载",
+   "role": "武举"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11207,
+ "page_range": "259-260"
+}

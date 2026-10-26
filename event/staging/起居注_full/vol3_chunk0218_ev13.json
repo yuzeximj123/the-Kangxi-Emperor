@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十七日乙未",
+ "event_role": "人事任免",
+ "summary": "刑部员外郎员缺拟阿萨里为正、塞得理为陪，康熙帝命吏刑二部不拘品级一并选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿萨里",
+   "role": "拟正员外郎"
+  },
+  {
+   "name": "塞得理",
+   "role": "拟陪员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21813,
+ "page_range": "471-472"
+}

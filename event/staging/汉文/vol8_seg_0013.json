@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十六年十一月十五日",
+ "reign_year": 56,
+ "month": 11,
+ "day": 15,
+ "event_role": "人事任免",
+ "summary": "苏州织造李煦奏报再次奉命巡视两淮盐课，已于十一月十三日接任视事，并报本年盐运足额、余盐可备明年新纲。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造、巡视两淮盐课官员"
+  },
+  {
+   "name": "曹寅",
+   "role": "轮视淮鹾官员"
+  }
+ ],
+ "places": [
+  "苏州",
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示阅知。",
+ "source_title": "蘇州織造李煦奏報再命巡視兩淮鹽課現已接任視事摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2558",
+ "order_index": 13
+}

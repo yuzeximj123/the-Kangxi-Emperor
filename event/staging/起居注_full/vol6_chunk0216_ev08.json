@@ -1,0 +1,41 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十八日",
+ "event_role": "司法案件",
+ "summary": "直隶盛京秋审重罪人犯，康熙帝以罗同受未分财物、潘存诚未杀人等情俱着缓决，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗同受",
+   "role": "强盗"
+  },
+  {
+   "name": "陈四",
+   "role": "罪犯"
+  },
+  {
+   "name": "陈国昌",
+   "role": "罪犯"
+  },
+  {
+   "name": "潘存诚",
+   "role": "罪犯"
+  },
+  {
+   "name": "吴氏",
+   "role": "被害人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21608,
+ "page_range": "442-443"
+}

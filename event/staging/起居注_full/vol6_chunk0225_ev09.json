@@ -1,0 +1,52 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "初七日庚寅",
+ "event_role": "议政听政",
+ "summary": "辰时康熙御南苑旧宫，大学士伊桑阿、马齐等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "范承烈",
+   "role": "学士"
+  },
+  {
+   "name": "辛保",
+   "role": "学士"
+  },
+  {
+   "name": "傅伸",
+   "role": "学士"
+  },
+  {
+   "name": "来道",
+   "role": "学士"
+  },
+  {
+   "name": "常寿",
+   "role": "学士"
+  },
+  {
+   "name": "赖都",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "南苑旧宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22509,
+ "page_range": "460-461"
+}

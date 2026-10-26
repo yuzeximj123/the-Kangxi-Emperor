@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "温达等呈御史董弘彪保举山西蔓宁道彭腾胡问九卿折子，九卿以彭腾胡声名不好未保举。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "董弘彪",
+   "role": "御史"
+  },
+  {
+   "name": "彭腾胡",
+   "role": "山西蔓宁道"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4009,
+ "page_range": "91-92"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "安徽巡抚叶九思题请将原任寿春营副将尚售革职审拟，康熙帝命遣部院堂官一员前往察审具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶九思",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "尚售",
+   "role": "原任寿春营副将"
+  }
+ ],
+ "places": [
+  "安徽",
+  "寿春营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16701,
+ "page_range": "345-346"
+}

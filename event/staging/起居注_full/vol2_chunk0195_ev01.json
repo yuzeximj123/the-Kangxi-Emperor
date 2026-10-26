@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "江宁巡抚余国柱题报康熙十二年差巡检顾需等四员解银十三万两往云贵被劫，户部议驳回行察，康熙帝以银被贼劫、巡检性命不保，令该部即行议结具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "余国柱",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "顾需",
+   "role": "巡检"
+  }
+ ],
+ "places": [
+  "江宁",
+  "云",
+  "贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19501,
+ "page_range": "433-434"
+}

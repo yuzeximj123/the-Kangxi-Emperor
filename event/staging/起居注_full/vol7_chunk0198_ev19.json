@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "十三日丁卯",
+ "event_role": "人事任免",
+ "summary": "因工部郎中巴什纳等取用纺丝五千余匹二年未还，康熙帝命巴什纳等解任，交该旗勒限严追。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴什纳",
+   "role": "工部郎中"
+  },
+  {
+   "name": "胡颁色克",
+   "role": "官员"
+  },
+  {
+   "name": "白保住",
+   "role": "官员"
+  },
+  {
+   "name": "吴礼布",
+   "role": "官员"
+  },
+  {
+   "name": "雅图",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19819,
+ "page_range": "407-408"
+}

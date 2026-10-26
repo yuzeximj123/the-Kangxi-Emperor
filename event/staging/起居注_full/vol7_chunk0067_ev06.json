@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "初一日甲成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕大学士席哈纳，令山东合省官员停升转，待民生复苏再开复，老病乞休者来京引见，命吏部议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "奏事治仪正"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6706,
+ "page_range": "145-146"
+}

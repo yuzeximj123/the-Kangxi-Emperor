@@ -1,0 +1,29 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "草州参赞军务蒙古三品台吉温布率所属将士凯旋，康熙遣散秩大臣博罗特等迎劳于天津。",
+ "people": [
+  {
+   "name": "温布",
+   "role": "蒙古三品台吉"
+  },
+  {
+   "name": "博罗特",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "草州",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19901,
+ "page_range": "455-456"
+}

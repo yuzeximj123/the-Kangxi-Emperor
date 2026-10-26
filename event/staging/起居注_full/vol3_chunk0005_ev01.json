@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "礼部请旨巡抚杭爱应否与谥，康熙以其居官素劣但兵兴有劳绩，姑准与谥以劝将来效力者。",
+ "people": [
+  {
+   "name": "杭爱",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 501,
+ "page_range": "45-46"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "初十日全已",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题喀尔喀照四十九旗编为旗分并遵行相关事宜，康熙帝命俟三年后依议行，折布尊丹巴胡图克图亦着贡九白。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "土谢图汗",
+   "role": "喀尔喀汗"
+  },
+  {
+   "name": "车臣汗",
+   "role": "喀尔喀汗"
+  },
+  {
+   "name": "折布尊丹巴胡图克图",
+   "role": "喇嘛"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15505,
+ "page_range": "322-323"
+}

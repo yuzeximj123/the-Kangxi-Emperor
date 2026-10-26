@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初五日丁丑",
+ "event_role": "司法案件",
+ "summary": "刑部题已正法叛犯杜学之子杜弘勋、杜弘业应处斩，康熙帝命从宽免死，家产交该管衙门。",
+ "people": [
+  {
+   "name": "杜弘勋",
+   "role": "叛犯之子"
+  },
+  {
+   "name": "杜弘业",
+   "role": "叛犯之子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18411,
+ "page_range": "411-412"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十五日庚申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝召喀尔喀来使阿尔达礼塔布囊、多尔济什村楚杨下至阶下赐茶，毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔达礼塔布囊",
+   "role": "喀尔喀来使"
+  },
+  {
+   "name": "多尔济什村楚杨下",
+   "role": "喀尔喀来使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2301,
+ "page_range": "81-82"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": "二十八日丁西",
+ "event_role": "人事任免",
+ "summary": "兵部议覆福建将军祖良壁题补游击守备员缺，康熙帝不准行，命将陈君荣、王朝武具题引见。",
+ "people": [
+  {
+   "name": "祖良壁",
+   "role": "福建将军"
+  },
+  {
+   "name": "刘世纲",
+   "role": "右营游击"
+  },
+  {
+   "name": "陈君荣",
+   "role": "左营守备"
+  },
+  {
+   "name": "王朝武",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7003,
+ "page_range": "151-152"
+}

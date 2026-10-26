@@ -1,0 +1,20 @@
+{
+ "reign_year": 25,
+ "month": 8,
+ "day_text": "十六日成辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸黄陂杨川。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄陂杨川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18304,
+ "page_range": "401-402"
+}

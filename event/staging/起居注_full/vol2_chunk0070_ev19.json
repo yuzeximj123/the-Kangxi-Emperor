@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初一日辛已",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台门听部院各衙门官员面奏政事，大学士、学士捧折本面奏请旨，礼部、太常寺官员同进。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "瀛台门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7019,
+ "page_range": "183-184"
+}

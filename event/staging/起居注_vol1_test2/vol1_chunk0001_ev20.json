@@ -1,0 +1,24 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "二十八日丙子",
+ "event_role": "其他",
+ "summary": "康熙帝遣侍卫往宁古塔，赐将军巴海貂帽、蟒袍、天马皮褂、镀金刀等物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴海",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 120,
+ "page_range": "59-60"
+}

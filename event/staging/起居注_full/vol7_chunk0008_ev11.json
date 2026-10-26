@@ -1,0 +1,37 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十七日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题福建按察使郎廷极员缺，康熙帝命将贵州按察使范时尝调补，余缺交九卿保举。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "福建按察使"
+  },
+  {
+   "name": "王之锯",
+   "role": "副使拟正"
+  },
+  {
+   "name": "腾天绥",
+   "role": "拟陪"
+  },
+  {
+   "name": "范时尝",
+   "role": "贵州按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 811,
+ "page_range": "27-28"
+}

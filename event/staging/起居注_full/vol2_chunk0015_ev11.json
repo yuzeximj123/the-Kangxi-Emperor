@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十四日己巳",
+ "event_role": "人事任免",
+ "summary": "兵部题正红旗患病解任护军校苏马喇应否支给半俸，康熙帝以其军前有劳绩命给与半俸。",
+ "people": [
+  {
+   "name": "苏马喇",
+   "role": "正红旗护军校"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "鄂诺",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "岳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1511,
+ "page_range": "73-74"
+}

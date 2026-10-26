@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝询问席格是否见将军莽吉图，席格奏报莽吉图等俱安并请太皇太后、皇太后、皇上及皇太子万安，莽吉图言柳州可攻但地方险恶，主张受降马承萌或围困绝粮。",
+ "people": [
+  {
+   "name": "席格",
+   "role": "员外郎"
+  },
+  {
+   "name": "莽吉图",
+   "role": "将军"
+  },
+  {
+   "name": "马承萌",
+   "role": "叛将"
+  }
+ ],
+ "places": [
+  "柳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25001,
+ "page_range": "557-558"
+}

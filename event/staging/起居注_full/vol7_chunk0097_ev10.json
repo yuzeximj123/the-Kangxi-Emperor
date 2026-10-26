@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "初二日庚申",
+ "event_role": "皇帝行止",
+ "summary": "午时康熙帝由神武门出西直门，至畅春园驻跸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神武门",
+  "西直门",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9710,
+ "page_range": "205-206"
+}

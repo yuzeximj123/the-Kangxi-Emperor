@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初七日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "礼部题编修王席为其父侍郎王原祁请谥不准，康熙帝令查明朝工于字画者与谥之例具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王席",
+   "role": "编修"
+  },
+  {
+   "name": "王原祁",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13216,
+ "page_range": "275-276"
+}

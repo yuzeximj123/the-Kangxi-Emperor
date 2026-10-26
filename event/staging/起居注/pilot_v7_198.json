@@ -1,0 +1,32 @@
+{
+ "date_raw": "十五日己亥",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十五日己亥",
+ "event_role": "收到奏折",
+ "summary": "户部题广东巡抚范时崇奏前任巡盐御史鄂洛等课银提报商欠，议发广东质审并查张天觉盐斤分年带销。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范时崇",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "鄂洛",
+   "role": "前任巡盐御史"
+  },
+  {
+   "name": "张天觉",
+   "role": "盐商"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3198
+}

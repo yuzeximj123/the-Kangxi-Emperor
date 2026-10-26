@@ -1,0 +1,46 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "大学士等都察院工部会议会试主考李录予等取中不堪试卷，拟离任革职交刑部严审，康熙帝准行。",
+ "people": [
+  {
+   "name": "李录予",
+   "role": "会试主考官"
+  },
+  {
+   "name": "彭会洪",
+   "role": "会试主考官"
+  },
+  {
+   "name": "李绅文",
+   "role": "同考官"
+  },
+  {
+   "name": "谢藩",
+   "role": "同考官"
+  },
+  {
+   "name": "净中宽",
+   "role": "同考官"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10201,
+ "page_range": "215-216"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "初一日丁巳",
+ "event_role": "军务",
+ "summary": "康熙帝就阿的等视水草回奏，谕用兵以速为贵，行期不可缓，并遣阿玉条等往喀伦外掘井。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿的",
+   "role": "副都统"
+  },
+  {
+   "name": "阿玉条",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "喀伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10116,
+ "page_range": "212-213"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十一日庚寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸谢村地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "谢村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8500,
+ "page_range": "180-181"
+}

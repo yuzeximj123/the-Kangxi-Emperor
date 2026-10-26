@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十四日辛已",
+ "event_role": "人事任免",
+ "summary": "吏部题山西巡抚穆尔赛解任员缺开列学士图纳等，康熙命九卿、詹事、科道详慎会推廉正之人具奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10812,
+ "page_range": "251-252"
+}

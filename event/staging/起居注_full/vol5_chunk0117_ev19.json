@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "询问乡导万舒克等，言自阿喇克山之克勒和朔前行八宿第九日至巴颜乌兰，噶尔丹若由巴颜乌兰后逃有去路，等候期远，我军似应前进酌量而行，请旨定夺。",
+ "people": [
+  {
+   "name": "万舒克",
+   "role": "乡导"
+  }
+ ],
+ "places": [
+  "阿喇克山",
+  "克勒和朔",
+  "巴颜乌兰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11719,
+ "page_range": "244-245"
+}

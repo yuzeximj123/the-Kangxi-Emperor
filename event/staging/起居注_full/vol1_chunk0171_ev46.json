@@ -1,0 +1,33 @@
+{
+ "reign_year": 17,
+ "month": 11,
+ "day_text": "初五日",
+ "event_role": "议政听政",
+ "summary": "讲官陈廷若、叶方落、张玉书等至乾清门请安，并奏郊天斋戒应暂停讲，上报闻，随传至南书房赐食并赐野雉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈廷若",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方落",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "南书房"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17146,
+ "page_range": "399-400"
+}

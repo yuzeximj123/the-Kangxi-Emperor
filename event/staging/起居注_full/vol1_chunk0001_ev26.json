@@ -1,0 +1,24 @@
+{
+ "reign_year": 10,
+ "month": 10,
+ "day_text": "初三日辛巳",
+ "event_role": "议政听政",
+ "summary": "康熙帝召宁古塔将军巴海入内，询问宁古塔及瓦儿喀、胡尔哈人民风俗。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴海",
+   "role": "宁古塔将军"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 126,
+ "page_range": "59-60"
+}

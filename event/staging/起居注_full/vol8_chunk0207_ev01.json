@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请马六因救生母戳死养子马世仁应斩，康熙帝以其母年老无养，着九卿詹事科道会同详议。",
+ "people": [
+  {
+   "name": "马六",
+   "role": "案犯"
+  },
+  {
+   "name": "马世仁",
+   "role": "死者"
+  },
+  {
+   "name": "白氏",
+   "role": "马六生母"
+  },
+  {
+   "name": "赵弘党",
+   "role": "总督管理直隶巡抚事务"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20701,
+ "page_range": "425-426"
+}

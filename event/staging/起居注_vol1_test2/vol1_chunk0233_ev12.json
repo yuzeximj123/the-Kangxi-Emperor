@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初五日甲子",
+ "event_role": "人事任免",
+ "summary": "将军王进宝请以本标把总王成智补授守备，部议不允，康熙帝命照该将军所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王进宝",
+   "role": "将军"
+  },
+  {
+   "name": "王成智",
+   "role": "把总"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23312,
+ "page_range": "523-524"
+}

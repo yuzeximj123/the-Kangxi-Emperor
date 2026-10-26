@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "十六日辛效",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝闻山东麦子甚好、麦价小米价皆贱，松柱奏山西麦子亦好，康熙帝言各处麦子俱好。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9611,
+ "page_range": "203-204"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政大臣等奏称本月初七日谕索额图、明珠，大兵起程前应遣使招抚噶尔丹及丹济喇，使者不用我处之人。",
+ "people": [
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "丹济喇",
+   "role": "噶尔丹部属"
+  },
+  {
+   "name": "色布腾巴尔珠尔",
+   "role": "被获者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21008,
+ "page_range": "430-431"
+}

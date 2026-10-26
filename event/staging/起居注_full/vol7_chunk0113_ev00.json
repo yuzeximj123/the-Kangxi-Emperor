@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "能泰题报捐造沾河铁索桥告成，康熙帝称此桥于地方有益、商旅往来甚便，并嘉奖能泰实心任事。",
+ "people": [
+  {
+   "name": "能泰",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "沾河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11300,
+ "page_range": "237-238"
+}

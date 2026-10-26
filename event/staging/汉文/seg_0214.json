@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十七年正月十八日",
+ "reign_year": 47,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报所属社仓捐存米谷数目无多，请再试行一二年再议通行。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "金世扬",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "直隶",
+  "蓟东县",
+  "高阳县",
+  "冀州",
+  "宝寿",
+  "大城"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "289",
+ "source_title": "直隶巡抚赵弘燮奏报所属捐社会米谷情形摺",
+ "order_index": 214
+}

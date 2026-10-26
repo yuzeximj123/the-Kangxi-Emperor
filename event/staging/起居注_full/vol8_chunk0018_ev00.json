@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就敖拜列于厄都、安费扬古之前一事认为倒置，命将奏本发还再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敖拜",
+   "role": "官员"
+  },
+  {
+   "name": "厄都",
+   "role": "官员"
+  },
+  {
+   "name": "安费扬古",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1800,
+ "page_range": "47-48"
+}

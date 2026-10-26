@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "二十五日丙午",
+ "event_role": "人事任免",
+ "summary": "礼部开列典试江南、陕西正副主考，康熙帝以开列各官可遣者少且须回避本省，令照常送内候选。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6211,
+ "page_range": "167-168"
+}

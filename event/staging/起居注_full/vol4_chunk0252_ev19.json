@@ -1,0 +1,22 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": "二十一日庚寅",
+ "event_role": "奏报地方情形",
+ "summary": "户部题云贵总督范承勋奏贵州普安等处亏阙盐课一万九千余两，追征三年无着落，请豁免，并请减免普安等处盐斤、免升盐价。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "云贵总督"
+  }
+ ],
+ "places": [
+  "贵州",
+  "普安",
+  "滇省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25219,
+ "page_range": "516-517"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "初三日已已",
+ "event_role": "人事任免",
+ "summary": "吏部题升任太仆寺卿张可前员缺，拟左通政陈寿、右通政徐元殿，康熙以右通政边声廷办事有才补授此缺。",
+ "people": [
+  {
+   "name": "张可前",
+   "role": "太仆寺卿"
+  },
+  {
+   "name": "陈寿",
+   "role": "左通政"
+  },
+  {
+   "name": "徐元殿",
+   "role": "右通政"
+  },
+  {
+   "name": "边声廷",
+   "role": "右通政"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1004,
+ "page_range": "55-56"
+}

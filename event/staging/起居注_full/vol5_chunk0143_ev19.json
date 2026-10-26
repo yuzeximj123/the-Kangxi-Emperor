@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "起居注臣等伏惟称颂康熙帝圣神文武、威德广被，追述平定三逆及征讨噶尔丹之武功。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "乌兰布通",
+  "巴颜乌兰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14319,
+ "page_range": "296-297"
+}

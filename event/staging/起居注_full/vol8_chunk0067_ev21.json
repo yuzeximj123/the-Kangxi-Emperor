@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 7,
+ "day_text": "二十七日丙寅",
+ "event_role": "司法案件",
+ "summary": "刑部议瘦子拾取福陵禁山树枝应枷号杖责，康熙帝认为部议殊纪，令行查再奏。",
+ "people": [
+  {
+   "name": "瘦子",
+   "role": "拾取树枝者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福陵",
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6721,
+ "page_range": "145-146"
+}

@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十二年九月初二日",
+ "reign_year": 52,
+ "month": 9,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹顒奏报江南今年丰收、民情安乐、米价每石八九钱，并呈报八月晴雨录，恭请圣安。",
+ "people": [
+  {
+   "name": "曹顒",
+   "role": "江宁织造主事，奏报人"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧織造曹顒奏報年景米價等情摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1428",
+ "order_index": 60
+}

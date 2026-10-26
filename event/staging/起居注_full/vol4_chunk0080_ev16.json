@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 7,
+ "day_text": "二十八日壬戌",
+ "event_role": "人事任免",
+ "summary": "浙江粮道刘晓患病属实应准休致回籍，康熙帝以其曾于军前效力，命病痊之日仍准起用。",
+ "people": [
+  {
+   "name": "刘晓",
+   "role": "浙江粮道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8016,
+ "page_range": "172-173"
+}

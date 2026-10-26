@@ -1,0 +1,33 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请直隶巡抚赵弘过题盐商王便虚等劈东偷取课银私改缓征一案，拟绞监候，天津道王光责、盐法道孔兴天以徇庇题参应降三级调用。",
+ "people": [
+  {
+   "name": "赵弘过",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "王便虚",
+   "role": "盐商"
+  },
+  {
+   "name": "王光责",
+   "role": "天津道"
+  },
+  {
+   "name": "孔兴天",
+   "role": "盐法道"
+  }
+ ],
+ "places": [
+  "直隶",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8000,
+ "page_range": "171-172"
+}

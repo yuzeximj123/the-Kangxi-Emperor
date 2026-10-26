@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "翰林院掌院学士揆叙拟周文王以下帝王祭文呈览，康熙帝谕照所拟致祭，文王、武王祭文内可书御名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "揆叙",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "存住",
+   "role": "奏事治仪正"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8103,
+ "page_range": "173-174"
+}

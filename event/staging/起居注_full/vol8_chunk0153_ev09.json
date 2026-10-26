@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题闲散人延喜所娶觉罗索诺木之女钾死，拟枷号三个月鞭一百，康熙以所审糊涂不明令再详审。",
+ "people": [
+  {
+   "name": "延喜",
+   "role": "案犯"
+  },
+  {
+   "name": "觉罗索诺木",
+   "role": "女方之父"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15309,
+ "page_range": "317-318"
+}

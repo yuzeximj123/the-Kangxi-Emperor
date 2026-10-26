@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 8,
+ "day_text": "二十九日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部题贵州巡抚田雯员缺请旨，康熙帝命卫既齐升补巡抚，令速赴边疆要地贵州任。",
+ "people": [
+  {
+   "name": "田雯",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "卫既齐",
+   "role": "升补贵州巡抚"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15928,
+ "page_range": "330-331"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "未时",
+ "event_role": "人事任免",
+ "summary": "马齐奏巡抚噶礼请将汾西县知县徐煌调补临晋县并带来引见，康熙帝命不必引见，照该抚所请对品调补。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "徐煌",
+   "role": "汾西县知县，调补临晋县"
+  }
+ ],
+ "places": [
+  "汾西县",
+  "临晋县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7920,
+ "page_range": "169-170"
+}

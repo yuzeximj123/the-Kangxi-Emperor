@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题失察贩卖私盐之于大麻子等，将总兵官李鹿等议罪，并请发回原本再议，康熙帝命本发回。",
+ "people": [
+  {
+   "name": "于大麻子",
+   "role": "贩卖私盐者"
+  },
+  {
+   "name": "李鹿",
+   "role": "总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19404,
+ "page_range": "399-400"
+}

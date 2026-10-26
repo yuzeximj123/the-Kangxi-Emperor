@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初四日己未",
+ "event_role": "人事任免",
+ "summary": "左都御史魏象枢因荐举侍郎高鲁引罪回奏，高鲁以衰老自请解任，康熙帝令以原官解任。",
+ "people": [
+  {
+   "name": "魏象枢",
+   "role": "左都御史"
+  },
+  {
+   "name": "高鲁",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2526,
+ "page_range": "93-94"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "十五日戊子",
+ "event_role": "朝见受贺",
+ "summary": "喀尔喀土谢图汗多尔济之母福金、土谢图汗及贝勒席地西里等来朝。",
+ "people": [
+  {
+   "name": "多尔济",
+   "role": "喀尔喀土谢图汗"
+  },
+  {
+   "name": "福金",
+   "role": "土谢图汗之母"
+  },
+  {
+   "name": "席地西里",
+   "role": "贝勒"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6734,
+ "page_range": "145-146"
+}

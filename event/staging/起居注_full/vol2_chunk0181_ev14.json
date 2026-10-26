@@ -1,0 +1,33 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十五日辛卯",
+ "event_role": "弹劾参奏",
+ "summary": "顺天提督学政董讷题参青县知县武送等行贿武童事，康熙帝嘉奖并令审明后票发优旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董讷",
+   "role": "顺天等处提督学政"
+  },
+  {
+   "name": "武送",
+   "role": "河间府青县知县"
+  },
+  {
+   "name": "武克捷",
+   "role": "武童"
+  }
+ ],
+ "places": [
+  "顺天",
+  "河间府青县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18114,
+ "page_range": "405-406"
+}

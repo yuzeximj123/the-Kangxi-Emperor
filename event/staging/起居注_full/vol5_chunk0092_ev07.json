@@ -1,0 +1,33 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": "初六日甲午",
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿等因康熙帝灼艾未愈、大风严寒，请暂停乾清门临御，平常事交送内阅，应引见者进乾清宫引见。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "翁鄂礼",
+   "role": "仪度额真"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9207,
+ "page_range": "194-195"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论汉人史芝、朱大业、宋骏业、张志栋等无耻结党，念宋骏业内廷效力姑给半葬。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "史芝",
+   "role": "官员"
+  },
+  {
+   "name": "朱大业",
+   "role": "官员"
+  },
+  {
+   "name": "宋骏业",
+   "role": "官员"
+  },
+  {
+   "name": "张志栋",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2608,
+ "page_range": "63-64"
+}

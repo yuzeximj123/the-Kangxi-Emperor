@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十八日甲辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝查出十八年谕旨，令将王公大臣仆人干预词讼者从重治罪，并察议其主，嘉奖王维珍举首。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王维珍",
+   "role": "府丞"
+  },
+  {
+   "name": "康亲王",
+   "role": "王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13223,
+ "page_range": "299-300"
+}

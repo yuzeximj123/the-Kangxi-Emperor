@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾玖年陆月初叁日",
+ "reign_year": 59,
+ "month": 6,
+ "day": 3,
+ "event_role": "河工水利",
+ "summary": "直隶巡抚赵弘燮奏报永定河南北两岸大堤漫口情形，并报自己亲赴河工查勘督催堵筑。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "两淮巡盐御史，奏报夏雨沾足"
+  }
+ ],
+ "places": [
+  "永定河",
+  "南戈奕",
+  "洋家庄",
+  "董家务",
+  "许家庄",
+  "戈家"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隶巡抚赵弘燮奏报雨水沾足并呈晴雨录摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 224
+}

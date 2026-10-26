@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十五日己巳",
+ "event_role": "人事任免",
+ "summary": "议政王等推举草州将军，康熙帝准以正红旗满洲都统噶尔汉补将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔汉",
+   "role": "正红旗满洲都统，补将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "巴图",
+   "role": "镶黄旗护军统领，陪拟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17807,
+ "page_range": "399-400"
+}

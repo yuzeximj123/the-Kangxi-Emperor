@@ -1,0 +1,44 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "奴才奏报访闻颍州知州王承勋揭详安徽布政司年希尧一案，钦差审理后年希尧各款皆虚，蒋国祯各款有虚有实，王承勋因亏空库银而捏揭，今审事已完，钦差将往淮扬阅看河工。",
+ "people": [
+  {
+   "name": "王承勋",
+   "role": "颍州知州，揭详者"
+  },
+  {
+   "name": "年希尧",
+   "role": "安徽布政司，被揭详者"
+  },
+  {
+   "name": "王盛文",
+   "role": "前任知州，亏空钱粮"
+  },
+  {
+   "name": "蒋国祯",
+   "role": "凤阳知府，被题参并情愿代赔"
+  },
+  {
+   "name": "奴才",
+   "role": "奏报者"
+  }
+ ],
+ "places": [
+  "颍州",
+  "安徽",
+  "滁州",
+  "凤阳",
+  "淮扬"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "颍州王承勋案",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 480
+}

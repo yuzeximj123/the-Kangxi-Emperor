@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十四日己西",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御保和殿，赐喀尔喀土谢图汗族弟阿海代青那颜及厄鲁特噶尔当博硕克图汗来使等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿海代青那颜",
+   "role": "喀尔喀土谢图汗族弟"
+  },
+  {
+   "name": "葛雷顾英都喇尔",
+   "role": "厄鲁特来使"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2010,
+ "page_range": "75-76"
+}

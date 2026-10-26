@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "二十日丁亥",
+ "event_role": "司法案件",
+ "summary": "盛京刑部题骁骑校备古诬告其媳齐三妻与披甲阿里麻通奸，拟枷号两月、鞭一百。",
+ "people": [
+  {
+   "name": "备古",
+   "role": "骁骑校"
+  },
+  {
+   "name": "齐三妻",
+   "role": "被诬告者"
+  },
+  {
+   "name": "阿里麻",
+   "role": "披甲"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10313,
+ "page_range": "216-217"
+}

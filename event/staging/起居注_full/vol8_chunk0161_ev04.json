@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "户部题江南常州府知府王员衍报送新籼米一事覆请，康熙问所送籼米作何用处，着查奏。",
+ "people": [
+  {
+   "name": "王员衍",
+   "role": "江南常州府知府"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "常州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16104,
+ "page_range": "333-334"
+}

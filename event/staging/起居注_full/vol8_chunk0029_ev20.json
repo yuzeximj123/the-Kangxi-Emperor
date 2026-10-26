@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": "二十九日甲帮",
+ "event_role": "谕旨决策",
+ "summary": "大学士温达等覆请巡抚岳拜所奏陕西五十一年蠲免钱粮、甘肃卫应征米粮未蠲请酌减事，康熙帝命将议折与岳拜奏折交其家人带回。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "岳拜",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2920,
+ "page_range": "69-70"
+}

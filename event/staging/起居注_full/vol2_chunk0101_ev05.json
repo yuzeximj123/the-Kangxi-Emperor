@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "二十二日辛丑",
+ "event_role": "司法案件",
+ "summary": "御史裘充美回奏刑部所审案件事同而处分互异，九卿会议无良议，康熙帝令裘充美再行明白回奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "裘充美",
+   "role": "御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10105,
+ "page_range": "245-246"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十二日丁丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕同知常国佐所运米一百石留于席喇布里图驿，待大兵到时散给兵丁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常国佐",
+   "role": "同知"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  }
+ ],
+ "places": [
+  "席喇布里图驿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13810,
+ "page_range": "286-287"
+}

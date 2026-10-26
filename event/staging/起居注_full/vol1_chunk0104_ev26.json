@@ -1,0 +1,26 @@
+{
+ "reign_year": 14,
+ "month": 11,
+ "day_text": "十七日辛丑",
+ "event_role": "司法案件",
+ "summary": "康熙帝谕刑部尚书艾元征、侍郎郭丕，令速审结久系罪人；艾元征等遵旨当即审理速结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "艾元征",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "郭丕",
+   "role": "刑部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10426,
+ "page_range": "265-266"
+}

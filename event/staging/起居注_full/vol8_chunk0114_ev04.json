@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆福建巡抚觉罗满保所题李年奇打死强麻服叔李万荣拟斩监候一案，康熙以李年奇救父情急命九卿、科、道会同再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "李年奇",
+   "role": "案犯"
+  },
+  {
+   "name": "李万荣",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11404,
+ "page_range": "239-240"
+}

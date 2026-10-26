@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "初五日辛卯",
+ "event_role": "人事任免",
+ "summary": "吏部题詹事府詹事宋大业员缺，开列少詹史志等具奏，康熙帝命詹事府詹事着杨玉兼理。",
+ "people": [
+  {
+   "name": "宋大业",
+   "role": "詹事府詹事"
+  },
+  {
+   "name": "史志",
+   "role": "少詹"
+  },
+  {
+   "name": "杨玉",
+   "role": "詹事府詹事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11331,
+ "page_range": "237-238"
+}

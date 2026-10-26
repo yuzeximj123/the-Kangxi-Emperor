@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "十一日甲辰",
+ "event_role": "司法案件",
+ "summary": "吏部议武进县知县武俊将拿获逃人枷责，降一级调用，康熙认为凡逃走之人不用刑讯必不实招，定例不许地方官员私行刑审旗下人殊为不便，令回京请旨另行商酌。",
+ "people": [
+  {
+   "name": "武俊",
+   "role": "武进县知县"
+  }
+ ],
+ "places": [
+  "武进县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3822,
+ "page_range": "111-112"
+}

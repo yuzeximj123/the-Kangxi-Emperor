@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙四十二年八月",
+ "reign_year": 42,
+ "month": 8,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "曹寅奏报江南各地秋收丰歉与米价情形，并请圣安。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南",
+  "上江",
+  "山左"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示江南米价低廉、收成好，自己身体安善，对此甚为喜悦。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "63",
+ "source_title": "江宁织造曹寅奏报所访各处秋收丰歉及米价情形摺",
+ "order_index": 56
+}

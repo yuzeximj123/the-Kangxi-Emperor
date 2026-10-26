@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "二十七日癸巳",
+ "event_role": "朝见受贺",
+ "summary": "管理古北口驿站员外郭里、古北口防御古尔拜、古北口总兵官何应元等来朝见。",
+ "people": [
+  {
+   "name": "郭里",
+   "role": "管理古北口驿站员外"
+  },
+  {
+   "name": "古尔拜",
+   "role": "古北口防御"
+  },
+  {
+   "name": "何应元",
+   "role": "古北口总兵官"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3609,
+ "page_range": "82-83"
+}

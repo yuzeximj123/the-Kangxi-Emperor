@@ -1,0 +1,33 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "十七日辛巳",
+ "event_role": "人事任免",
+ "summary": "大学士等以折本请旨，吏部题补学院事，康熙帝询问江南主考人选后命差姜柄为浙江学院。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "张廷枢",
+   "role": "正主考"
+  },
+  {
+   "name": "姜柄",
+   "role": "副主考"
+  }
+ ],
+ "places": [
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13104,
+ "page_range": "272-273"
+}

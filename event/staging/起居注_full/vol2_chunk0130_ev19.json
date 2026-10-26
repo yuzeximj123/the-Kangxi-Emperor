@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "初三日成申",
+ "event_role": "贸易漕运",
+ "summary": "理藩院奏厄鲁特丹津鄂木布来使额尔克虾等因无噶尔丹博硕克图汗票文不许进关，康熙帝令务实不必虚拘票文，仍着来贸易。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额尔克虾",
+   "role": "来使"
+  },
+  {
+   "name": "丹津鄂木布",
+   "role": "厄鲁特部落"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13019,
+ "page_range": "303-304"
+}

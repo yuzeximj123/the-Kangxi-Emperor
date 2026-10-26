@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初三日庚申",
+ "event_role": "人事任免",
+ "summary": "吏部题补光禄寺卿员缺，康熙帝询问张吉午其人，命另推具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王继祯",
+   "role": "拟正大理寺少卿"
+  },
+  {
+   "name": "张吉午",
+   "role": "拟陪通政司左通政"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24606,
+ "page_range": "549-550"
+}

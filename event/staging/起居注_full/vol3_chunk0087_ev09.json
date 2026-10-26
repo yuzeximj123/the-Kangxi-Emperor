@@ -1,0 +1,42 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "初八日丁丁",
+ "event_role": "人事任免",
+ "summary": "议政王等会议镶蓝旗蒙古副都统赛毕汉转补员缺，正推马奇、陪推隆席库，康熙帝命马奇升补副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "马奇",
+   "role": "升补副都统"
+  },
+  {
+   "name": "隆席库",
+   "role": "陪推"
+  },
+  {
+   "name": "安亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "厄黑纳",
+   "role": "都统"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8709,
+ "page_range": "209-210"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "二十三日庚戌",
+ "event_role": "人事任免",
+ "summary": "康熙帝以敦多礼经九卿保举，令补授太常寺卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦多礼",
+   "role": "太常寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11715,
+ "page_range": "269-270"
+}

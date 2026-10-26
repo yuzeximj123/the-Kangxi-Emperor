@@ -1,0 +1,36 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十二日乙刻",
+ "event_role": "人事任免",
+ "summary": "吏部题广西巡抚范承勋升任员缺开列候补，康熙询问董国兴，王熙奏其平常，康熙命停其开列。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "董国兴",
+   "role": "候补巡抚"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16212,
+ "page_range": "359-360"
+}

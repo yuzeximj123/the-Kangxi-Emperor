@@ -1,0 +1,24 @@
+{
+ "reign_year": 53,
+ "month": 11,
+ "day_text": "二十日成午",
+ "event_role": "朝见受贺",
+ "summary": "顺义县防守御常遵等、知县杨棠等来朝。",
+ "people": [
+  {
+   "name": "常遵",
+   "role": "顺义县防守御"
+  },
+  {
+   "name": "杨棠",
+   "role": "顺义县知县"
+  }
+ ],
+ "places": [
+  "顺义县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7820,
+ "page_range": "167-168"
+}

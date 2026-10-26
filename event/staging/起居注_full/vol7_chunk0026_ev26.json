@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 8,
+ "day_text": "十三日生辰",
+ "event_role": "人事任免",
+ "summary": "两广总督石琳以衰老乞请解任，康熙帝询问其病状，令留本衙门，俟回京时遣人往视。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "传继祖",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2626,
+ "page_range": "63-64"
+}

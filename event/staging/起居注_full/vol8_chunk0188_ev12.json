@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "十六日庚子",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝论雨泽，言今早小雨未足，望十八、二十、二十二日大雨，并询江南山东河南雨情收成。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "山东",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18812,
+ "page_range": "387-388"
+}

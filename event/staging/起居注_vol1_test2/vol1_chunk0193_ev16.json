@@ -1,0 +1,21 @@
+{
+ "reign_year": 18,
+ "month": 9,
+ "day_text": "十八日庚成",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝因地震亲赴天坛祈祷，自西天门下马步行入坛行礼，祷毕步行出西天门乘马回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天坛",
+  "西天门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19316,
+ "page_range": "443-444"
+}

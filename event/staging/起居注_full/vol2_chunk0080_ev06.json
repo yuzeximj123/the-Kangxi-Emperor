@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "二十二日辛未",
+ "event_role": "贸易漕运",
+ "summary": "明珠奏臣等会同户部并仓场侍郎议本年迟滞漕米收贮德州、临清仓及来年转运事，康熙帝命仓场侍郎前往阅看仓厂。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "德州",
+  "临清"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8006,
+ "page_range": "203-204"
+}

@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十三年三月十七日",
+ "reign_year": 53,
+ "month": 3,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "天津总兵杜呈泗奏报天津三月十一日至十九日得雨沾足，百姓欢腾，颂扬皇上敬天勤民、祈祷立应。",
+ "people": [
+  {
+   "name": "杜呈泗",
+   "role": "镇守直隶天津等处地方总兵官、都督佥事降二级留任，奏报人"
+  }
+ ],
+ "places": [
+  "天津",
+  "直隶",
+  "京中"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批知悉，并称京城雨量也已充足。",
+ "source_title": "天津總兵杜呈泗奏報天津得雨百姓歡騰摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1539",
+ "order_index": 176
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "十三日庚申",
+ "event_role": "司法案件",
+ "summary": "兵部题副都统祖良因等遇敌侦探不明、逃回妄报应处斩，康熙帝从宽免死，发往乌龙江。",
+ "people": [
+  {
+   "name": "祖良因",
+   "role": "副都统"
+  },
+  {
+   "name": "布尔哈图奇泰",
+   "role": "守粮兵"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乌龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1503,
+ "page_range": "40-41"
+}

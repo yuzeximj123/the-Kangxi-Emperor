@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 7,
+ "day_text": "二十四日己已",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸张三营，赐护军统领颜母布马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "颜母布",
+   "role": "护军统领"
+  }
+ ],
+ "places": [
+  "张三营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3216,
+ "page_range": "75-76"
+}

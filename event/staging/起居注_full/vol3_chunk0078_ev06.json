@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初二日王成",
+ "event_role": "人事任免",
+ "summary": "九卿等会议重修《赋役全书》，康熙帝令苏赫、缆佳育、胡异等效请钱粮事务者自行纂修。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "侍郎"
+  },
+  {
+   "name": "苏赫",
+   "role": "官员"
+  },
+  {
+   "name": "缆佳育",
+   "role": "官员"
+  },
+  {
+   "name": "胡异",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7806,
+ "page_range": "191-192"
+}

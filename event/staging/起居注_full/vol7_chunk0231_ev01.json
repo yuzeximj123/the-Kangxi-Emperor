@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "刑部题原任知州姚取烈之妻孙氏诬告案内总督殷泰、巡抚岳拜应革职，康熙帝命从宽免革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "殷泰",
+   "role": "总督"
+  },
+  {
+   "name": "岳拜",
+   "role": "巡抚"
+  },
+  {
+   "name": "姚取烈",
+   "role": "原任知州"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23101,
+ "page_range": "473-474"
+}

@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十四年十月十九日",
+ "reign_year": 54,
+ "month": 10,
+ "day": 19,
+ "event_role": "人事任免",
+ "summary": "直隶总督赵弘燮奏请以理事通判瓦尔达补授理事同知员缺，并请准其在任守制，仰祈圣裁。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督管理直隶巡抚事务、兵部右侍郎兼都察院右副都御史"
+  },
+  {
+   "name": "亨特",
+   "role": "理事同知，以年老乞休"
+  },
+  {
+   "name": "瓦尔达",
+   "role": "理事通判，拟补理事同知"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批认为在任守制之官不便题升，恐招议论。",
+ "source_title": "直隸總督趙弘燮奏請以孔傳達補授理問事摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1915",
+ "order_index": 183
+}

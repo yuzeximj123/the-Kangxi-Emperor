@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "二十日辛酉",
+ "event_role": "司法案件",
+ "summary": "吏部议仓米被盗，监督马良、胡世塔应罚俸一年，康熙以部议从轻，令再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马良",
+   "role": "监督"
+  },
+  {
+   "name": "胡世塔",
+   "role": "监督"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19606,
+ "page_range": "435-436"
+}

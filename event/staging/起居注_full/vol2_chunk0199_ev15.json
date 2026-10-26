@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "初七日戊寅",
+ "event_role": "人事任免",
+ "summary": "提督王进宝奏请随征副将杨宗道病痊应否补用，兵部议令休致，康熙帝以杨宗道曾效力行间命仍补用，大学士明珠亦言其有劳绩，命该部再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王进宝",
+   "role": "提督"
+  },
+  {
+   "name": "杨宗道",
+   "role": "副将"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19915,
+ "page_range": "441-442"
+}

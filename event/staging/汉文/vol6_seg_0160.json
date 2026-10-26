@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十四年九月二十日",
+ "reign_year": 54,
+ "month": 9,
+ "day": 20,
+ "event_role": "奏报灾情收成",
+ "summary": "京口将军何天培向康熙请安，并奏报镇江地方当年秋收丰稔、高田九至十分、低田五六分，以及新米和民间食米价格，称军民感颂皇恩。",
+ "people": [
+  {
+   "name": "何天培",
+   "role": "京口将军，奏折作者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，奏折呈报对象"
+  }
+ ],
+ "places": [
+  "京口",
+  "镇江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示自己安好，并称已知悉所奏收成米价。",
+ "source_title": "京口將軍何天培奏請聖安並報收成米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1892",
+ "order_index": 160
+}

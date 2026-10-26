@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "十二日丁雍",
+ "event_role": "人事任免",
+ "summary": "翰林院掌院学士揆叙、侍郎吴涵因散馆以庶吉士汪绎等四十三人引见，康熙帝命会同大学士共试之。",
+ "people": [
+  {
+   "name": "揆叙",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "吴涵",
+   "role": "侍郎"
+  },
+  {
+   "name": "汪绎",
+   "role": "庶吉士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5708,
+ "page_range": "125-126"
+}

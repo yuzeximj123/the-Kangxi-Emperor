@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "初七日辛丑",
+ "event_role": "人事任免",
+ "summary": "兵部题福建将军石文炳员缺，康熙帝命将各省提督、总兵官、副都统职名开列具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石文炳",
+   "role": "福建将军"
+  },
+  {
+   "name": "张素义",
+   "role": "右卫副都统"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4326,
+ "page_range": "96-97"
+}

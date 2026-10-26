@@ -1,0 +1,32 @@
+{
+ "reign_year": 31,
+ "month": 8,
+ "day_text": "二十日丁西",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝召见喀尔喀来请安进贡诸人于行宫赐食。",
+ "people": [
+  {
+   "name": "折布尊丹巴枯图克图",
+   "role": "喀尔喀宗教领袖"
+  },
+  {
+   "name": "策旺",
+   "role": "土谢图汗和硕亲王"
+  },
+  {
+   "name": "西第西理",
+   "role": "多罗贝勒"
+  },
+  {
+   "name": "多尔济额尔得尼阿海",
+   "role": "一品台吉"
+  }
+ ],
+ "places": [
+  "伞盖河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20507,
+ "page_range": "422-423"
+}

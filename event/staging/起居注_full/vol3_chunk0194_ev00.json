@@ -1,0 +1,46 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问应升官员人选，王熙、明珠举荐王承祖、钱廷、卫执蒲，并议钱瑟居官好，命补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王遵训",
+   "role": "通政"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王承祖",
+   "role": "应升官员"
+  },
+  {
+   "name": "钱廷",
+   "role": "应升官员"
+  },
+  {
+   "name": "卫执蒲",
+   "role": "应升官员"
+  },
+  {
+   "name": "钱瑟",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19400,
+ "page_range": "423-424"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "初四日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥楞皮强横、麻勒吉徇庇，令该部再行详审严议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "楞皮",
+   "role": "罪犯"
+  },
+  {
+   "name": "麻勒吉",
+   "role": "步军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20032,
+ "page_range": "435-436"
+}

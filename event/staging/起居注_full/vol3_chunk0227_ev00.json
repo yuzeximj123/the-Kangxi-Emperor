@@ -1,0 +1,44 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝召陈廷敬、汤斌、徐乾学等面试德格勒、徐元梦、熊赐瓒三人学问优劣，并命汤斌朗诵三卷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德格勒",
+   "role": "侍读学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大臣"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  },
+  {
+   "name": "徐乾学",
+   "role": "大臣"
+  },
+  {
+   "name": "徐元梦",
+   "role": "官员"
+  },
+  {
+   "name": "熊赐瓒",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清宫门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22700,
+ "page_range": "489-490"
+}

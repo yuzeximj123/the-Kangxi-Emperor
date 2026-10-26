@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "三十日甲成",
+ "event_role": "人事任免",
+ "summary": "吏部题广西按察使王之刨员缺以道员职名开列，康熙命问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王之刨",
+   "role": "广西按察使"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3810,
+ "page_range": "87-88"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等议陕西礼县知县万世纬贪赃杖毙良民四人应革职拟斩监候，巩昌知府纪元私取礼物银两应革职拟绞监候。",
+ "people": [
+  {
+   "name": "万世纬",
+   "role": "陕西礼县知县"
+  },
+  {
+   "name": "纪元",
+   "role": "巩昌知府"
+  },
+  {
+   "name": "赵连祝",
+   "role": "良民"
+  }
+ ],
+ "places": [
+  "陕西礼县",
+  "巩昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6602,
+ "page_range": "144-145"
+}

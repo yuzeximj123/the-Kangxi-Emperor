@@ -1,0 +1,38 @@
+{
+ "reign_year": 32,
+ "month": 4,
+ "day_text": "初十日癸未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称屯锡人材不及，询问本旗保举应升者有几人，傅继祖奏保举者有内阁侍读穆黑伦、员外郎扎赖、满都、杨等四人。",
+ "people": [
+  {
+   "name": "屯锡",
+   "role": "户部员外郎"
+  },
+  {
+   "name": "傅继祖",
+   "role": "学士"
+  },
+  {
+   "name": "穆黑伦",
+   "role": "内阁侍读"
+  },
+  {
+   "name": "扎赖",
+   "role": "员外郎"
+  },
+  {
+   "name": "满都",
+   "role": "员外郎"
+  },
+  {
+   "name": "杨",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23021,
+ "page_range": "472-473"
+}

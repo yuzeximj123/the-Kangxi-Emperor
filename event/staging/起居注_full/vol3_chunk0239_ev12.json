@@ -1,0 +1,34 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": "初四日庚辰",
+ "event_role": "司法案件",
+ "summary": "明珠奏九卿问汤斌擅执朱笔事，汤斌称因皇太子命以朱笔圈点仿字，后知有罪曾请罪而疏内未全写出；达哈塔言汤斌失仪。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "汤斌",
+   "role": "尚书"
+  },
+  {
+   "name": "达哈塔",
+   "role": "尚书"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23912,
+ "page_range": "513-514"
+}

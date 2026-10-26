@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "初一日丙午",
+ "event_role": "朝见受贺",
+ "summary": "易州知州林有兰、易州营守备顾之鹿等来朝。",
+ "people": [
+  {
+   "name": "林有兰",
+   "role": "易州知州"
+  },
+  {
+   "name": "顾之鹿",
+   "role": "易州营守备"
+  }
+ ],
+ "places": [
+  "易州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3124,
+ "page_range": "72-73"
+}

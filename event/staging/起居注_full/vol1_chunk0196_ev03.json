@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙幸西苑，亲试中式武举骑射，召读卷官明珠等赐坐同观。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "西苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19603,
+ "page_range": "449-450"
+}

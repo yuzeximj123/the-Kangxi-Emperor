@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "张玉书等奏熊赐履等覆阅广东遗卷所选四卷文俱不佳，康熙阅后令考生专志读书，并着九卿、詹事、科道会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "原任大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6003,
+ "page_range": "131-132"
+}

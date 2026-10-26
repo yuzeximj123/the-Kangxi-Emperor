@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十二日丙申",
+ "event_role": "奏报地方情形",
+ "summary": "四川分守松威道王条奏修造大殿之木搬运艰难、民力不堪，康熙帝命九卿等会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王",
+   "role": "四川分守松威道"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14012,
+ "page_range": "315-316"
+}

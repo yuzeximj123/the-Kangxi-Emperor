@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "二十四日",
+ "event_role": "谕旨决策",
+ "summary": "议覆甘肃巡抚齐世武题解任藩司朝奇、按察司部琦收放银两应核减，康熙帝依议，并命都察院察明伊什格隆各案迟延缘由具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐世武",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "朝奇",
+   "role": "解任藩司"
+  },
+  {
+   "name": "部琦",
+   "role": "按察司"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10613,
+ "page_range": "223-224"
+}

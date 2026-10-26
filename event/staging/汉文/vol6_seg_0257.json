@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十五年四月初六日",
+ "reign_year": 55,
+ "month": 4,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "直隶总督赵弘燮因腿疾不能扈跸随围，奏请赴京陛见叩请圣安、恭谢天恩，并请旨准行。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督，奏请陛见者"
+  },
+  {
+   "name": "章文镌",
+   "role": "医者，劝阻赵弘燮远行"
+  }
+ ],
+ "places": [
+  "直隶",
+  "京",
+  "保定",
+  "水淀",
+  "阙廷"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示待其到水淀时再请旨，不必远来。",
+ "source_title": "直隸總督趙弘燮奏請陛見摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "205",
+ "order_index": 257
+}

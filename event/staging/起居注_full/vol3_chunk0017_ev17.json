@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初二日丁酉",
+ "event_role": "人事任免",
+ "summary": "康熙帝览应升侍讲官员试卷，以尹泰学问素优，命补授侍讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元梦",
+   "role": "中允"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "博极",
+   "role": "内阁侍读"
+  },
+  {
+   "name": "尹泰",
+   "role": "侍读"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1717,
+ "page_range": "69-70"
+}

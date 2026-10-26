@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十一日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "因柏井水少命随行人员分三队进发，至柏井见井水盈满泉涌，帝令移文后队不必以无水为忧。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "治仪正"
+  },
+  {
+   "name": "赵来",
+   "role": "向导官副都统"
+  }
+ ],
+ "places": [
+  "柏井驿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7632,
+ "page_range": "163-164"
+}

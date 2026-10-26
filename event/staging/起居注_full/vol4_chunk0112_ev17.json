@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读道士司马承祯对唐睿宗语论，评论阴阳术数道士且不悦为。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "司马承祯",
+   "role": "道士"
+  },
+  {
+   "name": "唐睿宗",
+   "role": "唐朝皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11217,
+ "page_range": "236-237"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "臣等钦惟皇上德被万类，追述其亲征朔漠、巡视河工、赈济灾民、绥怀外藩等政绩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄河",
+  "淮河",
+  "扬州",
+  "建业",
+  "嘉峪关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13407,
+ "page_range": "278-279"
+}

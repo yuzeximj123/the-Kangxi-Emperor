@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初六日丁亥",
+ "event_role": "人事任免",
+ "summary": "吏部以学士苏赫纳员缺开列光禄寺卿郎奇等职名请旨，康熙命查资深郎中及保举官具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏赫纳",
+   "role": "学士"
+  },
+  {
+   "name": "郎奇",
+   "role": "光禄寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 910,
+ "page_range": "29-30"
+}

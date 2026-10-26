@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十九日王成",
+ "event_role": "谕旨决策",
+ "summary": "户部题奉差广东、福建收税郎中宜尔格图等欲添带笔帖式，康熙帝谕令九卿大臣确议收税事宜以免劳民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宜尔格图",
+   "role": "收税郎中"
+  }
+ ],
+ "places": [
+  "广东",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4304,
+ "page_range": "121-122"
+}

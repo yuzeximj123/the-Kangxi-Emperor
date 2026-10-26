@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "宗人府汉字主事敦多员缺，康熙帝命将保举笔帖式内较优者补授。",
+ "people": [
+  {
+   "name": "敦多",
+   "role": "宗人府汉字主事"
+  },
+  {
+   "name": "齐格",
+   "role": "国子监助教拟正"
+  },
+  {
+   "name": "席尔图",
+   "role": "通政使司知事拟陪"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14902,
+ "page_range": "308-309"
+}

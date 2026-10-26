@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙传问投诚海贼陈尚义海运可否，陈尚义言八九月北风起时浙江至广东十八日可运，此时风不顺不可冒险。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈尚义",
+   "role": "投诚海贼"
+  }
+ ],
+ "places": [
+  "浙江",
+  "福建",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1101,
+ "page_range": "33-34"
+}

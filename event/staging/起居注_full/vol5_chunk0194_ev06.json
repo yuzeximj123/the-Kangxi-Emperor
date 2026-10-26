@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十九日庚成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自保德州渡黄河，亲督渡河，顷刻渡毕，驻跸府谷县城南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  },
+  {
+   "name": "领侍卫大臣",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "保德州",
+  "黄河",
+  "府谷县城南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19406,
+ "page_range": "398-399"
+}

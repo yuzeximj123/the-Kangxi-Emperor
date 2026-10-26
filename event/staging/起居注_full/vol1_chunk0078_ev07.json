@@ -1,0 +1,32 @@
+{
+ "reign_year": 13,
+ "month": 9,
+ "day_text": "十五日丙子",
+ "event_role": "议政听政",
+ "summary": "巳时，康熙帝御后殿，讲官喇沙里、孙在丰、张英进讲君子之道四一节、君子素其位而行一章、君子之道辟如行远一章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "后殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7807,
+ "page_range": "213-214"
+}

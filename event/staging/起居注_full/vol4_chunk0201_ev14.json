@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 6,
+ "day_text": "初三日庚戌",
+ "event_role": "贸易漕运",
+ "summary": "湖北巡抚吴瑞疏奏粮道参议王道跟报运送截留米石，拟捐俸给食米亲自随往，以原运船只于六月初六日起行运至襄阳收贮。",
+ "people": [
+  {
+   "name": "吴瑞",
+   "role": "湖北巡抚"
+  },
+  {
+   "name": "王道跟",
+   "role": "粮道参议"
+  }
+ ],
+ "places": [
+  "洪泽湖口",
+  "襄阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20114,
+ "page_range": "414-415"
+}

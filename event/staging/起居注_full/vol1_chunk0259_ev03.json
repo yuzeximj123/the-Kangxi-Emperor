@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十四日辛亥",
+ "event_role": "军务",
+ "summary": "郎中哈霓布奉差料理福建凯旋兵丁，侍郎郭丕面请旨意，康熙帝谕令尽心料理，不得多派夫役扰害百姓。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈霓布",
+   "role": "郎中"
+  },
+  {
+   "name": "郭丕",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25903,
+ "page_range": "575-576"
+}

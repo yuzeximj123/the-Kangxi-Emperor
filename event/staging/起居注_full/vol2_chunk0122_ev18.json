@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十二日己巳",
+ "event_role": "河工水利",
+ "summary": "差勘河工户部尚书伊桑阿同崔维雅进前启奏，崔维雅陈治河之策并进呈河图。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "崔维雅",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "黄河",
+  "荥泽",
+  "淮",
+  "杨家庄",
+  "清口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12218,
+ "page_range": "287-288"
+}

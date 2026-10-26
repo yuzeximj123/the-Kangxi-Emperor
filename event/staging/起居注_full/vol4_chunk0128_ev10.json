@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 8,
+ "day_text": "十九日本丑",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御乾清门，大学士、学士、九卿、詹事、科道官员进前请安，王熙等奏请驾幸畅春园以遣圣怀，康熙帝颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12810,
+ "page_range": "268-269"
+}

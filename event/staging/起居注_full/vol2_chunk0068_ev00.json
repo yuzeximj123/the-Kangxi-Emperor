@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就总督姚启圣请许沿海小民驾无帆小船捕鱼一事，命兵部等详议来春。",
+ "people": [
+  {
+   "name": "姚启圣",
+   "role": "总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "沿海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6800,
+ "page_range": "179-180"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "二十三日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "礼部覆请浙江巡抚徐元梦所题省城书院赐内藏书籍、匾额，康熙帝准其所请写给。",
+ "people": [
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11910,
+ "page_range": "249-250"
+}

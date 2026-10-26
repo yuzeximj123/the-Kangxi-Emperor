@@ -1,0 +1,34 @@
+{
+ "reign_year": 54,
+ "month": 9,
+ "day_text": "十七日己酉",
+ "event_role": "司法案件",
+ "summary": "吏部覆张鹏翮所题，张伯行参原任布政使牟钦元审虚应复职，顾协一诬告应杖流，康熙令牟钦元复职、顾协一案再议。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "张伯行",
+   "role": "原任江苏巡抚"
+  },
+  {
+   "name": "牟钦元",
+   "role": "原任布政使"
+  },
+  {
+   "name": "顾协一",
+   "role": "诬告者"
+  },
+  {
+   "name": "张令涛",
+   "role": "被诬者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10630,
+ "page_range": "223-224"
+}

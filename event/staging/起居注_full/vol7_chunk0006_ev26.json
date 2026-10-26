@@ -1,0 +1,38 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十八日庚午",
+ "event_role": "人事任免",
+ "summary": "吏部奏吏部侍郎特默德员缺，康熙帝询问温达品行，以温达较优，着补授吏部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "傅伸",
+   "role": "学士"
+  },
+  {
+   "name": "温达",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "特默德",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "庸爱",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 626,
+ "page_range": "23-24"
+}

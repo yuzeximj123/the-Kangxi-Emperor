@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题请将海贼八十三等处斩，康熙帝令从宽免死，照例减等发往乌龙江、宁古塔等处为水手当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "八十三",
+   "role": "海贼"
+  }
+ ],
+ "places": [
+  "乌龙江",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20703,
+ "page_range": "425-426"
+}

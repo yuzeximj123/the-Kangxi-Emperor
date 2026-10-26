@@ -1,0 +1,23 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕示在河南水路四达处储积米谷，遇陕西等省歉收可造船由黄河挽运赈济，并拟明岁遣大臣往看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南",
+  "陕西",
+  "三门生柱",
+  "山陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8800,
+ "page_range": "187-188"
+}

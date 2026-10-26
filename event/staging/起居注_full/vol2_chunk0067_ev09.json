@@ -1,0 +1,21 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "十五日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论京仓、通仓粮米缺额及监督官员受贿掺杂等弊，令禁止。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京仓",
+  "通仓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6709,
+ "page_range": "177-178"
+}

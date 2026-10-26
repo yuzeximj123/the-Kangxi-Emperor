@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "十八日成搬",
+ "event_role": "人事任免",
+ "summary": "总河张鹏翮题准徐道员缺，请补原任员外郎张呢，康熙帝引见张呢并命其补授准徐道。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "张呢",
+   "role": "原任员外郎，补准徐道"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士，引见"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1908,
+ "page_range": "49-50"
+}

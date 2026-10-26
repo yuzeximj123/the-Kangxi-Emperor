@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评价阿山甚巧、噶礼与阿山相同、鄂海小心敬慎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "大臣"
+  },
+  {
+   "name": "噶礼",
+   "role": "大臣"
+  },
+  {
+   "name": "鄂海",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11101,
+ "page_range": "233-234"
+}

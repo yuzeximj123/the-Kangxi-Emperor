@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十五年五月二十日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "湖广提督高其位于康熙五十五年五月二十日上折，向皇帝恭请圣安。",
+ "people": [
+  {
+   "name": "高其位",
+   "role": "湖广提督"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "湖廣提督高其位奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "123",
+ "order_index": 99
+}

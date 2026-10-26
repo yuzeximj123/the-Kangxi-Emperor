@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初五日己丑",
+ "event_role": "谕旨决策",
+ "summary": "理藩院请遣侍卫及部员往祭廓尔沁国鄂齐儿贝勒，康熙帝谕鄂齐儿系至戚应增遣大臣同往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂齐儿",
+   "role": "廓尔沁国贝勒"
+  }
+ ],
+ "places": [
+  "廓尔沁国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3609,
+ "page_range": "115-116"
+}

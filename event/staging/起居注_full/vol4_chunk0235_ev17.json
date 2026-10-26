@@ -1,0 +1,25 @@
+{
+ "reign_year": 32,
+ "month": 6,
+ "day_text": "十八日庚寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补江南苏州府知府员缺，康熙帝令该督抚于应升官员内选择贤能具奏。",
+ "people": [
+  {
+   "name": "王祯",
+   "role": "候选官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "苏州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23517,
+ "page_range": "482-483"
+}

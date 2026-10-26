@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "十八日王寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补侍讲学士尹泰员缺，明珠等奏博极系进士出身、居官谨慎，康熙帝命博极升补侍讲学士。",
+ "people": [
+  {
+   "name": "尹泰",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "巴尔哈",
+   "role": "郎中"
+  },
+  {
+   "name": "胡西塔",
+   "role": "拟陪官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "博极",
+   "role": "拟升官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15418,
+ "page_range": "343-344"
+}

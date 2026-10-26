@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部覆请以宋吉金调补宝庆府知府，康熙帝以宝庆地方紧要，准照巡抚所请补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "潘宗洛",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "刘民瞻",
+   "role": "宝庆府知府"
+  },
+  {
+   "name": "宋吉金",
+   "role": "赣州府同知"
+  }
+ ],
+ "places": [
+  "宝庆府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20702,
+ "page_range": "425-426"
+}

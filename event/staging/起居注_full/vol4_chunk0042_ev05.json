@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "射毕，康熙帝命易布侯置的，命侍卫及武举等射；兵部侍郎成其范引武举动履不堪，大违敬共之道，申时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "成其范",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4205,
+ "page_range": "96-97"
+}

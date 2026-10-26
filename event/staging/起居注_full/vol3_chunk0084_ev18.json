@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十七日丁亥",
+ "event_role": "人事任免",
+ "summary": "吏部题补两庶子员缺，拟田喜震、李录予，康熙帝命会同翰林院虚公商确选择具奏，并许参汉臣举荐不公者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "田喜震",
+   "role": "拟洗马"
+  },
+  {
+   "name": "李录予",
+   "role": "拟侍读"
+  }
+ ],
+ "places": [
+  "翰林院"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8418,
+ "page_range": "203-204"
+}

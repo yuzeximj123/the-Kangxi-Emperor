@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "二十一日全未",
+ "event_role": "议政听政",
+ "summary": "巳时康熙御行宫，大学士松柱、学士查绚纳以折本请旨。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "查绚纳",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12503,
+ "page_range": "261-262"
+}

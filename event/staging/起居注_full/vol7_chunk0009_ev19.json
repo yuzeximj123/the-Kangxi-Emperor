@@ -1,0 +1,38 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初六日丁亥",
+ "event_role": "司法案件",
+ "summary": "伊桑阿等奏商人柴绍周事传问九卿，请仍命巡抚噶礼鞫问，康熙准可。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "柴绍周",
+   "role": "商人"
+  },
+  {
+   "name": "绥色",
+   "role": "官员"
+  },
+  {
+   "name": "华显",
+   "role": "总督"
+  },
+  {
+   "name": "噶礼",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 919,
+ "page_range": "29-30"
+}

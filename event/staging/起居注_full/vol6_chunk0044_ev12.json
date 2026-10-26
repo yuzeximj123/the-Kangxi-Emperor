@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "二十八日辛丑",
+ "event_role": "司法案件",
+ "summary": "刑部拟原任侍郎多奇喂养军需马匹玩忽致马匹倒毙残病并换小马立斩，康熙帝以其人老实免死发往黑龙江。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "多奇",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "大同",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4412,
+ "page_range": "98-99"
+}

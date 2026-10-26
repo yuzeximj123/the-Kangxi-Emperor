@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 11,
+ "day_text": "十五日己未",
+ "event_role": "朝见受贺",
+ "summary": "三河县防守御溥成等、知县李长华等、平谷县知县贾龙文等来朝。",
+ "people": [
+  {
+   "name": "溥成",
+   "role": "三河县防守御"
+  },
+  {
+   "name": "李长华",
+   "role": "三河县知县"
+  },
+  {
+   "name": "贾龙文",
+   "role": "平谷县知县"
+  }
+ ],
+ "places": [
+  "三河县",
+  "平谷县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4522,
+ "page_range": "101-102"
+}

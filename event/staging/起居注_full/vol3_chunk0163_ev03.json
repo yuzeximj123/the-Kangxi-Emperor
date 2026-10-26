@@ -1,0 +1,37 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝召问工部尚书萨穆哈开浚下河事，萨穆哈奏称百姓皆言不便挑浚，公议暂行停止，未曾有回京面奏之言。",
+ "people": [
+  {
+   "name": "萨穆哈",
+   "role": "工部尚书"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "总漕"
+  },
+  {
+   "name": "汤斌",
+   "role": "巡抚"
+  },
+  {
+   "name": "高成美",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "淮安",
+  "七州县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16303,
+ "page_range": "361-362"
+}

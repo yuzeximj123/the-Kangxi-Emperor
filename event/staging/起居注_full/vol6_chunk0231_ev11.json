@@ -1,0 +1,40 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十八日庚午",
+ "event_role": "司法案件",
+ "summary": "两广总督石琳题岐人王国祯等持箭生事案，康熙以首犯已决，命问九卿为从者应斩与否。",
+ "people": [
+  {
+   "name": "石琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "凯音布",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "王国祯",
+   "role": "岐人首犯"
+  },
+  {
+   "name": "王大责",
+   "role": "从犯"
+  },
+  {
+   "name": "马七",
+   "role": "从犯"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23111,
+ "page_range": "472-473"
+}

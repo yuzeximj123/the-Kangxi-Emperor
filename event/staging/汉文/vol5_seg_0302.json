@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十三年十月初六日",
+ "reign_year": 53,
+ "month": 10,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦代李陈常谢恩并请准其具折奏事，另附总漕巡抚郎廷极恭报雨旸米价及请安。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，代奏谢恩"
+  },
+  {
+   "name": "李陈常",
+   "role": "受恩谢恩者"
+  },
+  {
+   "name": "郎廷极",
+   "role": "总漕巡抚，奏报雨旸米价"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，回应请安。",
+ "source_title": "蘇州織造李煦奏為代李陳常謝恩並准其具摺奏事摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1662",
+ "order_index": 302
+}

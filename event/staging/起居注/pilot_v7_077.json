@@ -1,0 +1,30 @@
+{
+ "date_raw": "二十四日己卯",
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "己卯",
+ "event_role": "司法案件",
+ "summary": "刑部议私铸人犯韩元文等拟立斩，康熙帝改为拟斩监候秋后处决，并令嗣后识之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩元文",
+   "role": "私铸人犯"
+  },
+  {
+   "name": "曹有禄",
+   "role": "私铸人犯"
+  },
+  {
+   "name": "曹孔兴",
+   "role": "私铸人犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3077
+}

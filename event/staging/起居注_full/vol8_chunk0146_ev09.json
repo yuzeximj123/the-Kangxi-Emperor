@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "二十七日丙成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝对户部侍郎王原祁等员缺开列事批示：亦做回讲日再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王原祁",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "阮尔询",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "董弘妆",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14609,
+ "page_range": "303-304"
+}

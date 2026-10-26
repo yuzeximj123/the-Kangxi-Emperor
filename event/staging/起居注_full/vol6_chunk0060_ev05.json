@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "初二日壬申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸中后所之东，喀喇沁护国公沙木巴拉什等备宴恭迎圣驾。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙木巴拉什",
+   "role": "喀喇沁护国公"
+  }
+ ],
+ "places": [
+  "中后所"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6005,
+ "page_range": "130-131"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 9,
+ "day_text": "初七日壬午",
+ "event_role": "人事任免",
+ "summary": "吏部题光禄寺卿凯音布升任员缺，拟翁英正、索济陪，康熙帝命少卿事凯音布升补光禄寺卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凯音布",
+   "role": "光禄寺卿"
+  },
+  {
+   "name": "翁英",
+   "role": "内阁侍读学士拟正"
+  },
+  {
+   "name": "索济",
+   "role": "大理寺少卿拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24605,
+ "page_range": "527-528"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "詹事沈荃奏请停止一概流徙乌喇，康熙帝顾明珠命此事亦着九卿詹事科道再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈荃",
+   "role": "詹事"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24304,
+ "page_range": "543-544"
+}

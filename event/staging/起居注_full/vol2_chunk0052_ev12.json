@@ -1,0 +1,50 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十三日乙丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补副都御史员缺，康熙帝询问人选后命苏拜补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "苏拜",
+   "role": "补授副都御史"
+  },
+  {
+   "name": "德尔得",
+   "role": "卿员"
+  },
+  {
+   "name": "布贸",
+   "role": "卿员"
+  },
+  {
+   "name": "阿蓝泰",
+   "role": "官员"
+  },
+  {
+   "name": "元哈",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "洪尼喀",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "敦多礼",
+   "role": "刑部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5212,
+ "page_range": "147-148"
+}

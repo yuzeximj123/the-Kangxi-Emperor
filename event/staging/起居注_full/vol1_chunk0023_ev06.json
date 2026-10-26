@@ -1,0 +1,32 @@
+{
+ "reign_year": 11,
+ "month": 8,
+ "day_text": "十四日丙辰",
+ "event_role": "其他",
+ "summary": "未时康熙帝御瀛台阁，赐阿禄科尔沁国多罗郡王朱尔札哈、和硕额驸塞棱、二品台吉额林臣宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱尔札哈",
+   "role": "阿禄科尔沁国多罗郡王"
+  },
+  {
+   "name": "塞棱",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "额林臣",
+   "role": "二品台吉"
+  }
+ ],
+ "places": [
+  "瀛台阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2306,
+ "page_range": "103-104"
+}

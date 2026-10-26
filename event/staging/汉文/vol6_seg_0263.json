@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十五年二月十三日",
+ "reign_year": 55,
+ "month": 2,
+ "day": 13,
+ "event_role": "朝见受贺",
+ "summary": "河南巡抚李锡奏请进京叩祝康熙万寿，并请求入都聆听圣训，表示在晋候旨。",
+ "people": [
+  {
+   "name": "李锡",
+   "role": "河南巡抚，奏请人"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "河南知县，贪腐案被审对象"
+  }
+ ],
+ "places": [
+  "河南",
+  "晋",
+  "阙廷",
+  "都"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示不见其进京奏请。",
+ "source_title": "河南巡撫李錫奏謝進京恭賀萬壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "2012",
+ "order_index": 263
+}

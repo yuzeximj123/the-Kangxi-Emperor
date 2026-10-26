@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "初四日壬辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御懋勤殿，讲官库勒纳、叶方蔼、张玉书进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23912,
+ "page_range": "535-536"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 32,
+ "month": 9,
+ "day_text": "十一日王子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸伞盖河。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "伞盖河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24118,
+ "page_range": "494-495"
+}

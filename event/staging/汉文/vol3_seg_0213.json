@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙五十年八月初二日",
+ "reign_year": 50,
+ "month": 8,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹寅奏报江南雨水调匀、淮徐遗蝗不成灾、黄河水涨入淮而百姓安堵，并进呈七月晴雨录。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏报人"
+  }
+ ],
+ "places": [
+  "江南",
+  "淮徐",
+  "黄河",
+  "淮河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧織造曹寅奏報江南雨水情形並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "916",
+ "order_index": 213
+}

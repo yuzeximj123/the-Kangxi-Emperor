@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十日丁丑",
+ "event_role": "司法案件",
+ "summary": "民人三儿擅入神武门趋景运门，刑部拟徒三年责四十板、守门护军鞭七十，康熙帝命免三儿徒罪，守门护军理应责惩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "三儿",
+   "role": "民人"
+  }
+ ],
+ "places": [
+  "神武门",
+  "景运门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25115,
+ "page_range": "559-560"
+}

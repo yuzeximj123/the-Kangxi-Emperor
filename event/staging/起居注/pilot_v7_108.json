@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "申时",
+ "event_role": "司法案件",
+ "summary": "刑部审胡喇代等首告礼部尚书席尔达以桃木书皇上及皇太子年庚八字埋地等事，康熙帝以事皆虚，令议胡喇代等处治。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "胡喇代",
+   "role": "首告家奴"
+  }
+ ],
+ "places": [
+  "川陕",
+  "红苗"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3108
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "理藩院题请将科尔沁三品台吉特古思划去台吉、罚牲畜五九，康熙帝令再次覆请时理藩院堂官及拉都浑同奏。",
+ "people": [
+  {
+   "name": "特古思",
+   "role": "科尔沁三品台吉"
+  },
+  {
+   "name": "拉都浑",
+   "role": "侍郎"
+  },
+  {
+   "name": "毕礼滚达赖",
+   "role": "协理旗务台吉"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18403,
+ "page_range": "379-380"
+}

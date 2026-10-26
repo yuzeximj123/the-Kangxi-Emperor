@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "初二日本未",
+ "event_role": "朝见受贺",
+ "summary": "直隶守道于准等、保定府城守御塔拜等来朝。",
+ "people": [
+  {
+   "name": "于准",
+   "role": "直隶守道"
+  },
+  {
+   "name": "塔拜",
+   "role": "保定府城守御"
+  }
+ ],
+ "places": [
+  "保定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3126,
+ "page_range": "72-73"
+}

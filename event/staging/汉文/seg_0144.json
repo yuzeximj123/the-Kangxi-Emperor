@@ -1,0 +1,41 @@
+{
+ "date_raw": "康熙四十五年十一月初七日",
+ "reign_year": 45,
+ "month": 11,
+ "day": 7,
+ "event_role": "请安谢恩",
+ "summary": "李煦任满后因曹寅进京而暂署盐差，奏请圣安谢恩并进冬笋酱菜，兼报苏扬收成民情。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "曹寅",
+   "role": "涉及人物"
+  },
+  {
+   "name": "俞亮贵",
+   "role": "涉及人物"
+  },
+  {
+   "name": "范茂",
+   "role": "涉及人物"
+  },
+  {
+   "name": "萨尔吉图",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "李煦奏请万安并进冬笋",
+ "order_index": 144
+}

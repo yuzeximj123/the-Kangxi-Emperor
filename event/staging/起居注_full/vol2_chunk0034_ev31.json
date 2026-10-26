@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": "二十八日壬午",
+ "event_role": "议政听政",
+ "summary": "早，康熙御乾清门听部院各衙门官员面奏政事毕，部院官员出，大学士、学士捧折本面奏请旨，为兵部议广西巡抚傅弘烈事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅弘烈",
+   "role": "广西巡抚"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3431,
+ "page_range": "111-112"
+}

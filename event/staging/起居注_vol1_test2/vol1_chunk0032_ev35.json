@@ -1,0 +1,26 @@
+{
+ "reign_year": 12,
+ "month": 1,
+ "day_text": "十六日丁刻",
+ "event_role": "其他",
+ "summary": "康熙帝遣一等侍卫吴丹同医生诊视内大臣塞尔格病。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴丹",
+   "role": "一等侍卫伊都额真"
+  },
+  {
+   "name": "塞尔格",
+   "role": "内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3235,
+ "page_range": "121-122"
+}

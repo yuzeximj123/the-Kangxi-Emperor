@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿保举陕西宁夏道雷有成等补授四川按察使，康熙帝令许兆麟升补四川按察使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雷有成",
+   "role": "陕西宁夏道"
+  },
+  {
+   "name": "许兆麟",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "四川",
+  "陕西",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4806,
+ "page_range": "107-108"
+}

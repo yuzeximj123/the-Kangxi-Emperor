@@ -1,0 +1,33 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "初九日庚辰",
+ "event_role": "弹劾参奏",
+ "summary": "吏部议川陕总督哈占、陕西巡抚鄂恺以召买米石草料核减银两称为民欠援诏请免，应行革职，康熙帝命该督抚明白回奏。",
+ "people": [
+  {
+   "name": "哈占",
+   "role": "川陕总督"
+  },
+  {
+   "name": "鄂恺",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "川陕",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20010,
+ "page_range": "443-444"
+}

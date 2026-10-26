@@ -1,0 +1,29 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问于成龙减水坝可否堵塞、开海口是否可保河堤不决，于成龙答不能保其不决并称靳辅治河无成。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "大臣"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "减水坝",
+  "海口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1800,
+ "page_range": "48-49"
+}

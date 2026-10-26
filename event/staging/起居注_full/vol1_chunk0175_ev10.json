@@ -1,0 +1,20 @@
+{
+ "reign_year": 18,
+ "month": 1,
+ "day_text": "十五日辛刻",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝举行大享典，行祈谷礼，完毕后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17510,
+ "page_range": "407-408"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "二十三日戊成",
+ "event_role": "人事任免",
+ "summary": "直隶真定府副将张谷员缺，康熙帝以马世斌等未历地方官，命巡抚总兵题奏，并遣中书查看雨水麦收。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张谷",
+   "role": "真定府副将"
+  },
+  {
+   "name": "马世斌",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "直隶真定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5811,
+ "page_range": "127-128"
+}

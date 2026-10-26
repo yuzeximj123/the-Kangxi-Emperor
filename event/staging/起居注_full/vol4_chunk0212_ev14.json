@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "二十六日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "兵户二部议江南人朱佩玉于康熙三十一年在大同等处开垦荒田二次应照例叙用，康熙帝指出垦荒多系购买隐占熟地报作新垦，令会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱佩玉",
+   "role": "江南人"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21214,
+ "page_range": "436-437"
+}

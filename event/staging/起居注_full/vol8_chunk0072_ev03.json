@@ -1,0 +1,21 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": "二十日成午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自热河启行，驻跸青城。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "热河",
+  "青城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7203,
+ "page_range": "155-156"
+}

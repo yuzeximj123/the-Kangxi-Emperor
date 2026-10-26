@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "二十一日庚申",
+ "event_role": "军务",
+ "summary": "理藩院请旨差往厄鲁特噶尔丹博硕克图处议事，康熙帝命俟阿南达到日再行启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿南达",
+   "role": "使臣"
+  },
+  {
+   "name": "噶尔丹博硕克图",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "厄鲁特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4409,
+ "page_range": "100-101"
+}

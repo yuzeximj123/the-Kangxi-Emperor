@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "十七日戊戌",
+ "event_role": "朝见受贺",
+ "summary": "吏部尚书介山自福建领兵回京进见，康熙以圣躬违和不召见，传谕慰劳并赐官兵牛羊等物。",
+ "people": [
+  {
+   "name": "介山",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6121,
+ "page_range": "165-166"
+}

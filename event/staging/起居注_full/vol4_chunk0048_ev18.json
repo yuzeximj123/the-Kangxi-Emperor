@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "二十四日己巳",
+ "event_role": "其他",
+ "summary": "康熙赐湖广彝陵总兵官郭忠孝鞍马一匹。",
+ "people": [
+  {
+   "name": "郭忠孝",
+   "role": "湖广彝陵总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广彝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4818,
+ "page_range": "108-109"
+}

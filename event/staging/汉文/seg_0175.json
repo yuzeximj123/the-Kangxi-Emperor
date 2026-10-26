@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙四十七年三月初一日",
+ "reign_year": 47,
+ "month": 3,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "曹寅奏报自兖州至江宁沿途所见闻的地方情形事宜。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  }
+ ],
+ "places": [
+  "兖州",
+  "江宁"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "300",
+ "source_title": "江宁织造曹寅奏报自兖至宁一路闻见事宜摺",
+ "order_index": 175
+}

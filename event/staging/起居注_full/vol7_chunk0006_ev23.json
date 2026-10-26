@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十七日己巳",
+ "event_role": "朝见受贺",
+ "summary": "真定知县于振宗等、守备侯来义等来朝。",
+ "people": [
+  {
+   "name": "于振宗",
+   "role": "真定知县"
+  },
+  {
+   "name": "侯来义",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "真定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 623,
+ "page_range": "23-24"
+}

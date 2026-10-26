@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆山东巡抚陈锡题连进成鸡奸刘小宁不成将其扎伤致死，拟斩监候，康熙帝准所拟并命秋审时勿得宽宥。",
+ "people": [
+  {
+   "name": "连进成",
+   "role": "案犯"
+  },
+  {
+   "name": "刘小宁",
+   "role": "死者"
+  },
+  {
+   "name": "陈锡",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20006,
+ "page_range": "411-412"
+}

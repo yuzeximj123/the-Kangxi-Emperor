@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘崇请以革职知县王友直戴罪补授通州知州，康熙帝准如所题。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘崇",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "王友直",
+   "role": "东安县知县"
+  }
+ ],
+ "places": [
+  "通州",
+  "东安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12003,
+ "page_range": "251-252"
+}

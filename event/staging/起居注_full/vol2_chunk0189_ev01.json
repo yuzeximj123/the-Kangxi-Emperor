@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题正黄旗蒙古都统员缺，康熙帝命补授公朴尔喷为蒙古都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺敏",
+   "role": "应升官员"
+  },
+  {
+   "name": "思格",
+   "role": "銮仪使"
+  },
+  {
+   "name": "巴浑德",
+   "role": "满洲都统"
+  },
+  {
+   "name": "朴尔喷",
+   "role": "补授蒙古都统"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18901,
+ "page_range": "421-422"
+}

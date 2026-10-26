@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "十二日乙本",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝问部议，王奏称靳辅身为总河十余年理应熟悉，却惟凭稿案档案，平时单倚陈潢，未留心河务，并将河工钱粮分送与人、与陈潢分用，始终为私。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "陈潢",
+   "role": "幕僚"
+  },
+  {
+   "name": "王",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1910,
+ "page_range": "50-51"
+}

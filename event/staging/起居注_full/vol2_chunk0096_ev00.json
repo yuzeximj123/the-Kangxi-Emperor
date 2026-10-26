@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝驳斥雅齐纳更改品级之请，指其为小人怀私意，令将旨传谕并退还其二本。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雅齐纳",
+   "role": "小人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9600,
+ "page_range": "235-236"
+}

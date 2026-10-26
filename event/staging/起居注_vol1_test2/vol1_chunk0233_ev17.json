@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初六日乙丑",
+ "event_role": "人事任免",
+ "summary": "云贵总督赵良栋请设永宁总兵，部议不准，康熙帝以永宁系紧要地方命设立总兵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵良栋",
+   "role": "云贵总督"
+  }
+ ],
+ "places": [
+  "永宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23317,
+ "page_range": "523-524"
+}

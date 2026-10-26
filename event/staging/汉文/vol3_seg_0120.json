@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十年三月初二日",
+ "reign_year": 50,
+ "month": 3,
+ "day": 2,
+ "event_role": "朝见受贺",
+ "summary": "直隶巡抚赵弘燮奏请进京为康熙帝即位五十年万寿大庆行礼祝寿，并说明此前遵旨未上本、拟于三月十三日赴京叩贺。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚、都察院右副都御史"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“不必来”，不准赵弘燮进京祝寿。",
+ "source_title": "直隸巡撫趙弘燮奏請陛見祝壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "817",
+ "order_index": 120
+}

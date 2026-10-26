@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "十三日本未",
+ "event_role": "司法案件",
+ "summary": "九卿覆顺天主考李蠕、姜寥英议处，康熙帝以考试混乱命中式举人齐集内廷覆试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李蠕",
+   "role": "顺天主考"
+  },
+  {
+   "name": "姜寥英",
+   "role": "顺天主考"
+  },
+  {
+   "name": "杨大稚",
+   "role": "学院"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12412,
+ "page_range": "258-259"
+}

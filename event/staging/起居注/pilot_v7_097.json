@@ -1,0 +1,32 @@
+{
+ "date_raw": "十一月初一日乙卯",
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "初一日乙卯",
+ "event_role": "军务",
+ "summary": "康熙帝阅方略，指出大兵分两路进剿噶尔丹时西路兵未如期至科图，方略未载索额图等请回兵原奏，命查出呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "索额图",
+   "role": "大臣"
+  },
+  {
+   "name": "伊双阿",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "科图"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3097
+}

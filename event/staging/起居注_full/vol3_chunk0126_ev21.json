@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "二十九日乙酉",
+ "event_role": "司法案件",
+ "summary": "兵部题正白旗汉军步军校金永失误直日议罚俸，康熙帝以其因祖母丧致误，令查实后宽免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "金永",
+   "role": "正白旗汉军步军校"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12621,
+ "page_range": "287-288"
+}

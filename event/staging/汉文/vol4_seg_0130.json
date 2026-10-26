@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙伍拾壹年拾壹月拾贰日",
+ "reign_year": 51,
+ "month": 11,
+ "day": 12,
+ "event_role": "请安谢恩",
+ "summary": "福建陆路提督杨琳向康熙请安，并奏报福建秋禾八分收成、地方无盗贼及严饬营弁巡防情形。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "福建陆路提督奴才"
+  },
+  {
+   "name": "李泰",
+   "role": "杨琳家人，进摺差使"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“朕安”，回复杨琳的请安。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 130
+}

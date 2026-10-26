@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "十一日王成",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等遵旨将任风厚问九卿具奏，康熙帝命任风厚以原品休致，按察司李基和补授其缺。",
+ "people": [
+  {
+   "name": "任风厚",
+   "role": "布政司，以原品休致"
+  },
+  {
+   "name": "李基和",
+   "role": "按察司，补授"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1215,
+ "page_range": "35-36"
+}

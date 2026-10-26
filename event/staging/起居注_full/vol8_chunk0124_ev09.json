@@ -1,0 +1,21 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "十三日乙刻",
+ "event_role": "皇帝行止",
+ "summary": "康熙自畅春园赴汤泉驻跸。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12409,
+ "page_range": "259-260"
+}

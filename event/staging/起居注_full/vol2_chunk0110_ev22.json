@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "初五日吴未",
+ "event_role": "人事任免",
+ "summary": "都察院题御史内升外转事，康熙评论唐朝葵、熊类优劣。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐朝葵",
+   "role": "御史"
+  },
+  {
+   "name": "熊类",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11022,
+ "page_range": "263-264"
+}

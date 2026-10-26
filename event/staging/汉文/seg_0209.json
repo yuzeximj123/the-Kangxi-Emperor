@@ -1,0 +1,48 @@
+{
+ "date_raw": "康熙四十七年正月初六日",
+ "reign_year": 47,
+ "month": null,
+ "day": null,
+ "event_role": "军务",
+ "summary": "浙江提督王世臣奏报官兵在绍兴、慈溪等地追剿张廿一等贼伙，擒斩多名并缴获器械。",
+ "people": [
+  {
+   "name": "王世臣",
+   "role": "奏报人"
+  },
+  {
+   "name": "陈陞",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李布荣",
+   "role": "涉及人物"
+  },
+  {
+   "name": "张廿一",
+   "role": "涉及人物"
+  },
+  {
+   "name": "张廿二",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "浙江",
+  "绍兴府",
+  "莆田县",
+  "慈溪县",
+  "渔溪",
+  "慧昙",
+  "五福寺",
+  "峰县",
+  "朱蒋村"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "283",
+ "source_title": "浙江提督王世臣奏报擒斩绍兴等处抗敌官兵之夥众摺",
+ "order_index": 209
+}

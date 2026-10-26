@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "初二日庚申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御文华殿举行经筵，礼部尚书席尔达、刑部尚书王拨讲《四书》，户部侍郎穆丹、内学士歼升元讲《易经》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "王拨",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "穆丹",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "歼升元",
+   "role": "内学士"
+  }
+ ],
+ "places": [
+  "文华殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9709,
+ "page_range": "205-206"
+}

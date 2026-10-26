@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙五十六年",
+ "reign_year": 56,
+ "month": null,
+ "day": 21,
+ "event_role": "其他",
+ "summary": "山东巡抚李树德遵旨购买洁白信（玻璃原料）三十斤，装匣封固，差家人梁栋恭进。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "魏珠",
+   "role": "太监，传旨"
+  },
+  {
+   "name": "王礼",
+   "role": "李树德家人，赏养雨水摺子"
+  },
+  {
+   "name": "梁栋",
+   "role": "李树德家人，进送信斤"
+  }
+ ],
+ "places": [
+  "热河行在",
+  "山东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批说明具摺奏报确实，所进信斤原为烧玻璃处使用。",
+ "source_title": "山東巡撫李樹德奏報自估三十斤摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2581",
+ "order_index": 27
+}

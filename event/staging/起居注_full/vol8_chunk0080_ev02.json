@@ -1,0 +1,24 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部汇题广善库笔帖式赫成格刀伤家人五儿一案，请革职。",
+ "people": [
+  {
+   "name": "赫成格",
+   "role": "广善库笔帖式"
+  },
+  {
+   "name": "五儿",
+   "role": "家人"
+  }
+ ],
+ "places": [
+  "广善库"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8002,
+ "page_range": "171-172"
+}

@@ -1,0 +1,27 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "十六日壬申",
+ "event_role": "军务",
+ "summary": "议政大臣详问纳林后奏报萨布素关于各路军兵分路并行、分营排列及进兵时机的意见。",
+ "people": [
+  {
+   "name": "纳林",
+   "role": "前锋参领"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "雅尔济秦",
+  "磨尔错",
+  "盛京",
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10607,
+ "page_range": "222-223"
+}

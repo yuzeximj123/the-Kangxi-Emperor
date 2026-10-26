@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补詹事府少詹事觉罗僧参革职员缺，拟巴尔哈正、胡什塔陪，康熙令开列应升之官具奏。",
+ "people": [
+  {
+   "name": "觉罗僧参",
+   "role": "少詹事"
+  },
+  {
+   "name": "巴尔哈",
+   "role": "户部郎中"
+  },
+  {
+   "name": "胡什塔",
+   "role": "孝陵郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21401,
+ "page_range": "463-464"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请家人黄欲明被责打身死案，拟将张扬枷号四十日、鞭一百，康熙帝令查明所引之例是否妥当。",
+ "people": [
+  {
+   "name": "黄欲明",
+   "role": "家人"
+  },
+  {
+   "name": "张扬",
+   "role": "拟罪人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18400,
+ "page_range": "379-380"
+}

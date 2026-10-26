@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十八日乙酉",
+ "event_role": "人事任免",
+ "summary": "兵部题补护军参领，康熙帝询问裕亲王意见后，命仍以正拟巴格补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "裕亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "巴格",
+   "role": "拟补护军参领"
+  },
+  {
+   "name": "沙岱",
+   "role": "拟陪护军参领"
+  },
+  {
+   "name": "辛达礼",
+   "role": "效力之人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25306,
+ "page_range": "563-564"
+}

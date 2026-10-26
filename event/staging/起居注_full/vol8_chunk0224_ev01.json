@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请将李锡等刑讯承认口供并审兰阳县事已毕奏请回京，康熙命收贮此折。",
+ "people": [
+  {
+   "name": "张廷枢",
+   "role": "尚书"
+  },
+  {
+   "name": "李锡",
+   "role": "受审官员"
+  }
+ ],
+ "places": [
+  "兰阳县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22401,
+ "page_range": "459-460"
+}

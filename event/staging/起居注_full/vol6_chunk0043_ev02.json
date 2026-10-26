@@ -1,0 +1,35 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "山西总兵毛来凤以病求罢，康熙帝令休致，并调广东高雷廉总兵韩天伏补山西平阳总兵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "毛来凤",
+   "role": "山西总兵"
+  },
+  {
+   "name": "韩天伏",
+   "role": "广东高雷廉总兵"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西",
+  "平阳",
+  "广东",
+  "高雷廉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4302,
+ "page_range": "96-97"
+}

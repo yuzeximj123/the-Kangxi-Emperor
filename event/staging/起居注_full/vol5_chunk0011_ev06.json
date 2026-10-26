@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "王申奏称王辅现任黄州府知府原系选用，汉阳府知府戴孟能等亦与王辅一同选用，曾有将此数人久任之旨。",
+ "people": [
+  {
+   "name": "王申",
+   "role": "官员"
+  },
+  {
+   "name": "王辅",
+   "role": "黄州府知府"
+  },
+  {
+   "name": "戴孟能",
+   "role": "汉阳府知府"
+  }
+ ],
+ "places": [
+  "黄州府",
+  "汉阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1106,
+ "page_range": "32-33"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十八日癸丑",
+ "event_role": "人事任免",
+ "summary": "吏部题督捕员外郎色楞格升任员缺，康熙帝询问正陪人选，勒德洪称韩楚汉堪用，遂命阿宁噶随族行走、韩楚汉补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "阿宁噶",
+   "role": "户部主事"
+  },
+  {
+   "name": "韩楚汉",
+   "role": "刑部主事"
+  },
+  {
+   "name": "色楞格",
+   "role": "督捕员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2112,
+ "page_range": "77-78"
+}

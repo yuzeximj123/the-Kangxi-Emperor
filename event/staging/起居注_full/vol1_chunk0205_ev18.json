@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "初八日己亥",
+ "event_role": "司法案件",
+ "summary": "就科尔沁国绰克拖等讦其王俄齐尔事，康熙帝令察议。",
+ "people": [
+  {
+   "name": "绰克拖",
+   "role": "科尔沁国人"
+  },
+  {
+   "name": "俄齐尔",
+   "role": "科尔沁王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20518,
+ "page_range": "467-468"
+}

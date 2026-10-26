@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "广西巡抚彭鹏题请禁革私派，议准行，康熙帝令依所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭鹏",
+   "role": "广西巡抚"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20002,
+ "page_range": "410-411"
+}

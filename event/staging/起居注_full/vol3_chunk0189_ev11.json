@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "二十六日本未",
+ "event_role": "人事任免",
+ "summary": "吏部题议处礼部尚书沙证等，康熙帝询问勒德洪等，命将王日曾传来令其作稿以观其为人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "沙证",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "王日曾",
+   "role": "司官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18911,
+ "page_range": "413-414"
+}

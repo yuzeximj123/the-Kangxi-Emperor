@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十六日本卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸河南府属闵乡县十五里铺，河南绅衿士庶云集瞻仰欢呼迎驾。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南府",
+  "闵乡县",
+  "十五里铺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8325,
+ "page_range": "177-178"
+}

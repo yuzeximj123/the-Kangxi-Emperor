@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "初十日辛已",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸永年县属临治关北，赐南阳总兵方凯貂帽貂钳给袍，广平府知府王恺人等来朝。",
+ "people": [
+  {
+   "name": "方凯",
+   "role": "南阳总兵"
+  },
+  {
+   "name": "王恺人",
+   "role": "广平府知府"
+  }
+ ],
+ "places": [
+  "永年县",
+  "临治关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8508,
+ "page_range": "181-182"
+}

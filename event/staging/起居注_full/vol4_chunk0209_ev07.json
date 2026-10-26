@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "初二日丁丑",
+ "event_role": "人事任免",
+ "summary": "刑部题将保窃盗牙住之翰林院八品笔帖式吉庆和革职，康熙帝令革职发往黑龙江效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吉庆和",
+   "role": "翰林院八品笔帖式"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20907,
+ "page_range": "430-431"
+}

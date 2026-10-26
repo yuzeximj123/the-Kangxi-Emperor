@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "二十四日己卯",
+ "event_role": "人事任免",
+ "summary": "顺天府府尹施世纶请简选能员补授大兴、宛平知县，康熙帝询问李锦居官如何，命施世纶具奏。",
+ "people": [
+  {
+   "name": "施世纶",
+   "role": "顺天府府尹"
+  },
+  {
+   "name": "李锦",
+   "role": "大兴县知县"
+  }
+ ],
+ "places": [
+  "大兴县",
+  "宛平县",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12116,
+ "page_range": "253-254"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 27,
+ "month": 7,
+ "day_text": "十八日戊子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出古北口，驻跸故草沟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "古北口",
+  "故草沟"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3603,
+ "page_range": "84-85"
+}

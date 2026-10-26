@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "辰时",
+ "event_role": "其他",
+ "summary": "康熙帝与魏象枢论前代言官对参及杨继盛参本，帝谓继盛后一本因一死乃见其好。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "杨继盛",
+   "role": "明代言官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20110,
+ "page_range": "459-460"
+}

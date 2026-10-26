@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "二十六日庚辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝由桃花寺诣暂安奉殿行三跪九叩礼、奠酒举哀，又诣孝陵行礼举哀，诸王大臣侍卫随行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "桃花寺",
+  "暂安奉殿",
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14205,
+ "page_range": "295-296"
+}

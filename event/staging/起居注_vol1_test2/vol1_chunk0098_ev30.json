@@ -1,0 +1,28 @@
+{
+ "reign_year": 14,
+ "month": 8,
+ "day_text": "十八日西",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝遣内大臣公坡尔盆、内大臣宗室额奇往故明皇帝各陵前致祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "坡尔盆",
+   "role": "内大臣公"
+  },
+  {
+   "name": "额奇",
+   "role": "内大臣宗室"
+  }
+ ],
+ "places": [
+  "故明皇帝各陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9830,
+ "page_range": "253-254"
+}

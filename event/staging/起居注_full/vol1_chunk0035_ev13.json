@@ -1,0 +1,22 @@
+{
+ "reign_year": 12,
+ "month": 2,
+ "day_text": "十二日壬子",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝至太皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "受问安者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3513,
+ "page_range": "127-128"
+}

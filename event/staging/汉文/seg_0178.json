@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙四十六年七月初八日",
+ "reign_year": 46,
+ "month": 7,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "浙江巡抚朱轼奏请圣安，并报告直隶及浙江雨水、秋禾长势与河防情形。",
+ "people": [
+  {
+   "name": "朱轼",
+   "role": "奏报人"
+  },
+  {
+   "name": "白潢",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "浙江",
+  "口外",
+  "完固口",
+  "浑家桥",
+  "戚家桥",
+  "子牙河",
+  "漳滏滹沱",
+  "永定河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知奏报内容。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "246",
+ "source_title": "浙江巡抚朱轼奏谢圣躬万安并陈地方事宜摺（康熙五十七年七月初日）",
+ "order_index": 178
+}

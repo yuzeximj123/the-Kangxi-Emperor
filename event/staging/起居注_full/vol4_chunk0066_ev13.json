@@ -1,0 +1,30 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "初十日",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内洲宁居，大学士伊桑阿等以折本请旨，兵部题都统瓦代进剿武昌诸处至桐城县因马瘦令巡抚助马。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "瓦代",
+   "role": "都统"
+  },
+  {
+   "name": "杨素蕴",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "桐城县",
+  "武昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6613,
+ "page_range": "144-145"
+}

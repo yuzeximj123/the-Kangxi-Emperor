@@ -1,0 +1,26 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题覆候补守备张岳垦荒录用事，康熙帝以其步射善、人材优，命遇附近守备缺出补用并免罚俸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张岳",
+   "role": "候补守备"
+  },
+  {
+   "name": "王永誉",
+   "role": "都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22002,
+ "page_range": "452-453"
+}

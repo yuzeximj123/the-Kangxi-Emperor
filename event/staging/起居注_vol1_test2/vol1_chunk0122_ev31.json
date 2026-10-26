@@ -1,0 +1,25 @@
+{
+ "reign_year": 15,
+ "month": 10,
+ "day_text": "初四日吴丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝前往汤山温泉问太皇太后安，并至巩华城。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "汤山温泉",
+  "巩华城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12231,
+ "page_range": "301-302"
+}

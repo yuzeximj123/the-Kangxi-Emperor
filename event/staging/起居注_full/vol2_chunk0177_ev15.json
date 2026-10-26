@@ -1,0 +1,40 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十三日乙卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补福建巡抚董国兴告病员缺，开列学士张玉书等，康熙帝以侍郎金颇优令补金镑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董国兴",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "张玉书",
+   "role": "学士"
+  },
+  {
+   "name": "金镑",
+   "role": "侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17715,
+ "page_range": "397-398"
+}

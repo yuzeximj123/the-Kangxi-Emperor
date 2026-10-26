@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "初五日甲寅",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶蓝旗汉军都统员缺，康熙命补授原任福建提督诺迈为都统，并令兵部具奏未开列缘由。",
+ "people": [
+  {
+   "name": "刘显忠",
+   "role": "副都统"
+  },
+  {
+   "name": "诺称图",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "诺迈",
+   "role": "原任福建提督"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8915,
+ "page_range": "221-222"
+}

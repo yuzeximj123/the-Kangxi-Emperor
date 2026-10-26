@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "二十九日甲子",
+ "event_role": "朝见受贺",
+ "summary": "吏部左侍郎孙柱带河南按察使张伯院等四人引见，康熙帝一一问毕，命记名，遇缺免引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙柱",
+   "role": "吏部左侍郎"
+  },
+  {
+   "name": "张伯院",
+   "role": "河南按察使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9702,
+ "page_range": "205-206"
+}

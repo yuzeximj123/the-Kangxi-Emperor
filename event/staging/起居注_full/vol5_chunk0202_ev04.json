@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十六日丁丑",
+ "event_role": "朝见受贺",
+ "summary": "川陕总督吴赫、宁夏总兵官王化行率所属文武官员来朝见康熙帝。",
+ "people": [
+  {
+   "name": "吴赫",
+   "role": "川陕总督"
+  },
+  {
+   "name": "王化行",
+   "role": "宁夏总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20204,
+ "page_range": "414-415"
+}

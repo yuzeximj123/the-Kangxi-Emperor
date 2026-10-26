@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初八日庚申",
+ "event_role": "请安谢恩",
+ "summary": "山西百姓数千人跪伏行宫前谢恩，称因饥荒获免钱粮、赈济得生，请求每人出钱建万寿亭、请万寿经并进献果品。",
+ "people": [
+  {
+   "name": "山西百姓",
+   "role": "百姓"
+  },
+  {
+   "name": "嘲礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "胡必图",
+   "role": "伊都额真"
+  }
+ ],
+ "places": [
+  "山西",
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 506,
+ "page_range": "21-22"
+}

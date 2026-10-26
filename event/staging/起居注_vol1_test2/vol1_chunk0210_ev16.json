@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "初六日丁卯",
+ "event_role": "司法案件",
+ "summary": "刑部等议革职山西学道卢元培等坐枉法赃律拟绞，巡抚土克善坐失察降三级留任，康熙帝以土克善同城不纠参，命尽削其纪录。",
+ "people": [
+  {
+   "name": "卢元培",
+   "role": "山西学道"
+  },
+  {
+   "name": "土克善",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21016,
+ "page_range": "477-478"
+}

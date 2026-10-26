@@ -1,0 +1,46 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "三十日癸丁",
+ "event_role": "司法案件",
+ "summary": "刑部题丘万邦等行劫刘承信家，前议立斩后议照白昼抢夺例定罪，康熙与大学士等议，以人命重大命详议定例。",
+ "people": [
+  {
+   "name": "丘万邦",
+   "role": "盗犯"
+  },
+  {
+   "name": "刘承信",
+   "role": "事主"
+  },
+  {
+   "name": "王麻子",
+   "role": "伙盗"
+  },
+  {
+   "name": "张二",
+   "role": "伙盗"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15906,
+ "page_range": "361-362"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "马齐等奏富海与宁图争佐领一事无人知缘由，二人仍照原供支吾，应发还该部详察议奏，康熙着发还。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "富海",
+   "role": "争佐领者"
+  },
+  {
+   "name": "宁图",
+   "role": "争佐领者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16107,
+ "page_range": "333-334"
+}

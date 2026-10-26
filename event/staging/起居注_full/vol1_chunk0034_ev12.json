@@ -1,0 +1,29 @@
+{
+ "reign_year": 12,
+ "month": 2,
+ "day_text": "二十九日庚子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令苏立泰传谕总河王光裕，清水潭七里沟决口关系漕运，今春须完工。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏立泰",
+   "role": "郎中"
+  },
+  {
+   "name": "王光裕",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "清水潭",
+  "七里沟"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3412,
+ "page_range": "125-126"
+}

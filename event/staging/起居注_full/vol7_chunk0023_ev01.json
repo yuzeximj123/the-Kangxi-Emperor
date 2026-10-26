@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "礼部覆议浙江巡抚赵申乔题请浙江举人及副榜额数照江南例，议不准行，康熙帝命照江南中式例执行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2301,
+ "page_range": "57-58"
+}

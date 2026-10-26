@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部议驳赵弘赫请顺天府大县贮米五千石、小县四千石，康熙以部议为是，令再奏贮米之处。",
+ "people": [
+  {
+   "name": "赵弘赫",
+   "role": "总督管理直隶巡抚事务"
+  }
+ ],
+ "places": [
+  "顺天府",
+  "大宛二县",
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19303,
+ "page_range": "397-398"
+}

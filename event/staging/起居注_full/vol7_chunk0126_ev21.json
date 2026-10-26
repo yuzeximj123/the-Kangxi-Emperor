@@ -1,0 +1,38 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "十二日本卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士马齐等以折本请旨，九卿议御史王令树条奏仓粮事，康熙帝令仓粮小钱二事永禁条陈并询问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "因丕",
+   "role": "学士、兵部侍郎"
+  },
+  {
+   "name": "黑寿",
+   "role": "学士"
+  },
+  {
+   "name": "舒兰",
+   "role": "学士"
+  },
+  {
+   "name": "王令树",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12621,
+ "page_range": "263-264"
+}

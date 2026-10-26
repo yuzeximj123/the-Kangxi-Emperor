@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": "二十五日吴辫",
+ "event_role": "朝见受贺",
+ "summary": "功化城捕盗同知张仲国、都司包进忠、千总王笨、把总刘表等来朝。",
+ "people": [
+  {
+   "name": "张仲国",
+   "role": "功化城捕盗同知"
+  },
+  {
+   "name": "包进忠",
+   "role": "都司"
+  },
+  {
+   "name": "王笨",
+   "role": "千总"
+  },
+  {
+   "name": "刘表",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "功化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7214,
+ "page_range": "155-156"
+}

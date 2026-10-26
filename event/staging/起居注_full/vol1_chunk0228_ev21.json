@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十九日戊申",
+ "event_role": "人事任免",
+ "summary": "兵部题广东顺德总兵官获璋兼衔事，康熙帝以其江西行间功绩茂著，命加太子太保、左都督，仍降旨奖励。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "获璋",
+   "role": "广东顺德总兵官"
+  }
+ ],
+ "places": [
+  "广东顺德",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22821,
+ "page_range": "513-514"
+}

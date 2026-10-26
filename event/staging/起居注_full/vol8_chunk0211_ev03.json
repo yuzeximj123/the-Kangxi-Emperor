@@ -1,0 +1,37 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙与徐元梦、马齐等议旅顺口逃贼陈君元等党羽被广东官兵擒获情形，谓余贼难栖海岛。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元梦",
+   "role": "起居注左都御史"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "法海",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "陈君元",
+   "role": "逃贼"
+  }
+ ],
+ "places": [
+  "旅顺口",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21103,
+ "page_range": "433-434"
+}

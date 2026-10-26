@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "初六日戊子",
+ "event_role": "人事任免",
+ "summary": "覆请兵部所题右卫左翼副都统禅布员缺，以镶黄旗副都统寿智等开列。",
+ "people": [
+  {
+   "name": "禅布",
+   "role": "右卫左翼副都统"
+  },
+  {
+   "name": "寿智",
+   "role": "镶黄旗副都统"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21834,
+ "page_range": "447-448"
+}

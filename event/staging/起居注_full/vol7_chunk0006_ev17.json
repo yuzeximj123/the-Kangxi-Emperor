@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十六日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕存住，祖允焕所献马不收，海青、萝卜等物着收。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  },
+  {
+   "name": "祖允焕",
+   "role": "行唐县知县"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 617,
+ "page_range": "23-24"
+}

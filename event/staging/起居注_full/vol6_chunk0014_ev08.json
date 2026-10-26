@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "初六日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "酉时康熙帝御乾清宫西暖阁，读卷官伊桑阿等进呈试卷，帝亲阅定缴煜章等十一人等第，其余照读卷官所叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "缴煜章",
+   "role": "武举人"
+  }
+ ],
+ "places": [
+  "乾清宫西暖阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1408,
+ "page_range": "38-39"
+}

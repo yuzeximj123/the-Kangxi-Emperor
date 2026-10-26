@@ -1,0 +1,22 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "初三日已卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝一路逢险隘必下马扶辇步行，平阔处乘马随辇，每至进膳处亲视太皇太后降乘入宫，膳毕复驰往问安，亲为垂帘扶辕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "祖母"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 815,
+ "page_range": "73-74"
+}

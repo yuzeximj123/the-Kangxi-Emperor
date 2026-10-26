@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "二十三日",
+ "event_role": "人事任免",
+ "summary": "请补科员，康熙问候补科员孙维系山东人而科道官山东独多之故，命确议各省均用科道。",
+ "people": [
+  {
+   "name": "孙维",
+   "role": "候补科员"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21229,
+ "page_range": "481-482"
+}

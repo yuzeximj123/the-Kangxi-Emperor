@@ -1,0 +1,21 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "二十七日己未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝临虎丘，顾谓侍臣论吴地风俗尚虚华、逐末者众，为政者当使之去奢反朴、事事务本。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "虎丘",
+  "吴地"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5510,
+ "page_range": "145-146"
+}

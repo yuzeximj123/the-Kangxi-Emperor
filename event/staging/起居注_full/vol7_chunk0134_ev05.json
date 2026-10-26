@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十二日丙午",
+ "event_role": "人事任免",
+ "summary": "宗人府请袭封多罗信郡王，康熙帝命德昭袭封多罗信郡王。",
+ "people": [
+  {
+   "name": "董额",
+   "role": "多罗信郡王"
+  },
+  {
+   "name": "德昭",
+   "role": "袭封者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13405,
+ "page_range": "279-280"
+}

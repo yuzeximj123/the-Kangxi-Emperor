@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十五日辛丑",
+ "event_role": "司法案件",
+ "summary": "湖广总督劾总兵官姚珀克扣兵饷、知府谢恩纶纵马回子前往央营，兵部议令该督审明具题。",
+ "people": [
+  {
+   "name": "姚珀",
+   "role": "总兵官"
+  },
+  {
+   "name": "谢恩纶",
+   "role": "知府"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1000,
+ "page_range": "63-64"
+}

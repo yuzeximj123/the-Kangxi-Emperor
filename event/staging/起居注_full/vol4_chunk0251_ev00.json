@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部满汉堂司官分别议处，康熙帝谕令焦钞栋降级休致回籍、瓦什坦降级随旗行走，满堂官去所加级留任，汉堂官降级从宽留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "焦钞栋",
+   "role": "吏部官员"
+  },
+  {
+   "name": "瓦什坦",
+   "role": "吏部官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25100,
+ "page_range": "514-515"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "仲冬太皇太后圣体违和，皇上自宫中步祷南郊，自制祝文，泣涕申祷，在慈宁宫奉起居、进汤药，废寝食而不言劳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  }
+ ],
+ "places": [
+  "南郊",
+  "慈宁宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 26214,
+ "page_range": "559-560"
+}

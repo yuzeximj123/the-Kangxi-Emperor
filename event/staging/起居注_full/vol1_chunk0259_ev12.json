@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十七日甲寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁典籍员缺，正拟喇都浑、陪拟鄂齐礼，康熙帝询问后命以鄂齐礼补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇都浑",
+   "role": "拟正中书"
+  },
+  {
+   "name": "鄂齐礼",
+   "role": "拟陪中书"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25912,
+ "page_range": "575-576"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 4,
+ "day_text": "初五日甲辰",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿视朝，文武升转各官及进万寿表衍圣公孔毓圻、安南国谢恩进贡正使陈光华等谢恩毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孔毓圻",
+   "role": "衍圣公，进万寿表"
+  },
+  {
+   "name": "陈光华",
+   "role": "安南国谢恩进贡正使"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4027,
+ "page_range": "137-138"
+}

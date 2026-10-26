@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "十六日壬申",
+ "event_role": "军务",
+ "summary": "关保传谕议政大臣询问前锋参领纳林自萨布素处返回情形并会议具奏。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "纳林",
+   "role": "前锋参领"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10606,
+ "page_range": "222-223"
+}

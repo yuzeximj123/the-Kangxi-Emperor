@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就河南等省与苗桂等船耗赠米及雇价差异事，令户部定议，务使运丁不致困苦，耗赠等米尽皆给与。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苗桂",
+   "role": "运丁"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2700,
+ "page_range": "64-65"
+}

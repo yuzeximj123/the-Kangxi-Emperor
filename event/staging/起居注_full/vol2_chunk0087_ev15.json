@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "二十七日丙午",
+ "event_role": "人事任免",
+ "summary": "题补理藩院堂上主事员缺，正拟瓦尔达、陪拟喇杜浑，康熙令吏部会同理藩院选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "瓦尔达",
+   "role": "光禄寺署丞"
+  },
+  {
+   "name": "喇杜浑",
+   "role": "典籍"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8715,
+ "page_range": "217-218"
+}

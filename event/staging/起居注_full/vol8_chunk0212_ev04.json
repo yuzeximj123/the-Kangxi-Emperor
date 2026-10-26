@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "初五日乙酉",
+ "event_role": "人事任免",
+ "summary": "宗人府题请袭封顺承郡王诺罗布，列其子吉兰泰、席保住，康熙帝命进京再奏。",
+ "people": [
+  {
+   "name": "诺罗布",
+   "role": "顺承郡王"
+  },
+  {
+   "name": "吉兰泰",
+   "role": "诺罗布之子"
+  },
+  {
+   "name": "席保住",
+   "role": "诺罗布之子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21204,
+ "page_range": "435-436"
+}

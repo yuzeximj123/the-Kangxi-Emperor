@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "十九日辛卯",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御行宫，学士等捧折本面奏，议镶黄旗新清浏达尔楚求与近支兄弟厄纳布完聚事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达尔楚",
+   "role": "镶黄旗新清浏"
+  },
+  {
+   "name": "厄纳布",
+   "role": "三等侍卫"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17422,
+ "page_range": "391-392"
+}

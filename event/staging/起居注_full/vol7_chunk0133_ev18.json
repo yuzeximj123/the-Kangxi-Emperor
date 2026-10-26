@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十一日乙巳",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝谕科道官不条陈参劾，户部钱粮无人参劾，吏部选官有弊端。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13318,
+ "page_range": "277-278"
+}

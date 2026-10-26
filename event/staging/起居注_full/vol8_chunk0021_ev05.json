@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院左副都御史田从典员缺，以府丞李涛等开列请旨，康熙帝命以郝维刘补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "田从典",
+   "role": "左副都御史"
+  },
+  {
+   "name": "李涛",
+   "role": "宗人府府丞"
+  },
+  {
+   "name": "郝维刘",
+   "role": "补授者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2105,
+ "page_range": "53-54"
+}

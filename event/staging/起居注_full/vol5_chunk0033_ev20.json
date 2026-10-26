@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "十四日庚辰",
+ "event_role": "司法案件",
+ "summary": "刑部题革职捐纳知县吴士勋行贿书办赵祥，议各徒三年，康熙帝令将赵祥发往黑龙江。",
+ "people": [
+  {
+   "name": "吴士勋",
+   "role": "革职捐纳知县"
+  },
+  {
+   "name": "赵祥",
+   "role": "书办"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3320,
+ "page_range": "76-77"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十一日辛已",
+ "event_role": "其他",
+ "summary": "康熙帝赐四川松潘总兵官王用予鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王用予",
+   "role": "四川松潘总兵官"
+  }
+ ],
+ "places": [
+  "四川松潘"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22311,
+ "page_range": "503-504"
+}

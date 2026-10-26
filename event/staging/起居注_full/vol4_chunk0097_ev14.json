@@ -1,0 +1,40 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "二十六日戊子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召大学士伊桑阿等谕直隶亢旱，七分八分被灾者虽蠲免未赈济，命巡抚于成龙速察明具奏赈恤。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "麻尔图",
+   "role": "户部尚书"
+  },
+  {
+   "name": "赛区汉",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9714,
+ "page_range": "206-207"
+}

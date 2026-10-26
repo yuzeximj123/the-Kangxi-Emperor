@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾捌年陆月拾捌日",
+ "reign_year": 58,
+ "month": 6,
+ "day": 18,
+ "event_role": "人事任免",
+ "summary": "两广总督杨琳奏报法国外科医生安泰及陈忠信于六月十八日自广州起程进京效力，并派家人伴送。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "安泰",
+   "role": "法国外科医生，又名法即，进京效力"
+  },
+  {
+   "name": "陈忠信",
+   "role": "投药人，随同进京"
+  }
+ ],
+ "places": [
+  "广州",
+  "嶴门"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批称二人已到，外科虽好但会法郎者不及大内所选，尚可学习。",
+ "source_title": "两广总督杨琳奏送法国医生安泰等进京摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 198
+}

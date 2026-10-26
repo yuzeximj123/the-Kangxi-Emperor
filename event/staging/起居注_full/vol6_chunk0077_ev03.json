@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "二十九日己亥",
+ "event_role": "谕旨决策",
+ "summary": "户部覆盛京侍郎帕海等题，盛京收成不佳，应捐纳之豆请于三十八年秋季带征，康熙帝令视收成征一半，不丰则奏闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "帕海",
+   "role": "盛京侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7703,
+ "page_range": "164-165"
+}

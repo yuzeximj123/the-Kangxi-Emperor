@@ -1,0 +1,33 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "初三日壬戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕学士渣克旦等，京城雨未足，米价上涨，命自五月初十日起放米，减价粜卖之米加增发卖，令各出所见议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "渣克旦",
+   "role": "学士"
+  },
+  {
+   "name": "勒什布",
+   "role": "学士"
+  },
+  {
+   "name": "萨哈布",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "京城",
+  "密云"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14308,
+ "page_range": "297-298"
+}

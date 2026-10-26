@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "十九日戊辰",
+ "event_role": "人事任免",
+ "summary": "兵部题补正蓝旗护军参领，康熙帝以拟陪佛博塞人优，命补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李满色",
+   "role": "拟正一等护卫"
+  },
+  {
+   "name": "佛博塞",
+   "role": "拟陪佐领"
+  },
+  {
+   "name": "察尼",
+   "role": "贝勒"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7909,
+ "page_range": "201-202"
+}

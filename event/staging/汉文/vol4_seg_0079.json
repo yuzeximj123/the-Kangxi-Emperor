@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十五年十二月",
+ "reign_year": 55,
+ "month": 12,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报自春至夏各属得雨及五月六月以来连日甘雨沾足、禾苗滋润、农事可望情形，以慰圣怀。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏报人"
+  },
+  {
+   "name": "朱轼",
+   "role": "浙江巡抚，奏折中自称具奏者"
+  }
+ ],
+ "places": [
+  "直隶",
+  "浙江",
+  "广州府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称知道了，并说明口外原本雨不少、近来雨也不多。",
+ "source_title": "直隶巡抚赵弘燮奏报得雨分寸日期折",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 79
+}

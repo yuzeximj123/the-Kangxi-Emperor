@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "十四日乙雍",
+ "event_role": "人事任免",
+ "summary": "兵部题补护军参领员缺，康熙帝令待还京引见伊思哈、格巴特。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊思哈",
+   "role": "候补护军参领"
+  },
+  {
+   "name": "格巴特",
+   "role": "前锋侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21115,
+ "page_range": "479-480"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗蒙古都统等多项员缺，康熙命左右两翼员缺分两本具奏，遇缺亦按旗缮本声明。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔免",
+   "role": "镶白旗蒙古都统"
+  },
+  {
+   "name": "应黑子",
+   "role": "正蓝旗护军统领"
+  },
+  {
+   "name": "阿喇世",
+   "role": "镶红旗蒙古都统"
+  },
+  {
+   "name": "常艇",
+   "role": "正黄旗满洲副都统"
+  },
+  {
+   "name": "景喜",
+   "role": "镶白旗满洲都统"
+  },
+  {
+   "name": "偏图",
+   "role": "镶红旗满洲副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21101,
+ "page_range": "433-434"
+}

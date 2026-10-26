@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十年八月初九日",
+ "reign_year": 50,
+ "month": 8,
+ "day": 9,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮奏请敕令新选霸昌道白璧琛速赴任以办回銮差务，并请另选能员速任真定府知府。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏请人"
+  },
+  {
+   "name": "白璧琛",
+   "role": "新选霸昌道，曾任江西粮储道"
+  },
+  {
+   "name": "尚瑶",
+   "role": "新升真定府知府，原云南曲靖府同知"
+  }
+ ],
+ "places": [
+  "直隶",
+  "霸昌",
+  "真定府",
+  "江西",
+  "云南曲靖府"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸巡撫趙弘燮奏爲請較白璧琛等速赴霸昌道等要缺摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "920",
+ "order_index": 218
+}

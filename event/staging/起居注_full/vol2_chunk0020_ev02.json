@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "初九日甲午",
+ "event_role": "皇帝行止",
+ "summary": "酉时康熙帝回京城，赴太皇太后、皇太后宫问安后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京城",
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2002,
+ "page_range": "83-84"
+}

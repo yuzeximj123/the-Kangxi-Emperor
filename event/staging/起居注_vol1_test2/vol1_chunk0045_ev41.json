@@ -1,0 +1,25 @@
+{
+ "reign_year": 12,
+ "month": 6,
+ "day_text": "十八日两辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝巳时前往太皇太后宫问安毕，幸瀛台。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4541,
+ "page_range": "147-148"
+}

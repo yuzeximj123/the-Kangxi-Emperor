@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "二十八日戊巳",
+ "event_role": "司法案件",
+ "summary": "江宁知府陈鹏年不将圣训供设吉地拟立斩，康熙令革职从宽免死，来京在修书处效力。",
+ "people": [
+  {
+   "name": "陈鹏年",
+   "role": "江宁知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁",
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9617,
+ "page_range": "203-204"
+}

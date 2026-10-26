@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "十六日丁雍",
+ "event_role": "谕旨决策",
+ "summary": "翰林院题庶吉士分习满汉书，康熙帝命俱读满书，考试时令其翻译满汉文。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "丘升",
+   "role": "庶吉士"
+  },
+  {
+   "name": "范光阳",
+   "role": "庶吉士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3106,
+ "page_range": "74-75"
+}

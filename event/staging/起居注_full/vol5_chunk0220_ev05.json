@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十日庚子",
+ "event_role": "军务",
+ "summary": "议政大臣等奏报马思喀等所买羊只疲乏情形及处置意见，请将欠羊照数偿还并牧放瘦羊。",
+ "people": [
+  {
+   "name": "马思喀",
+   "role": "昭武将军"
+  },
+  {
+   "name": "朱乾论",
+   "role": "李岗借把总"
+  }
+ ],
+ "places": [
+  "芜甫堡",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22005,
+ "page_range": "450-451"
+}

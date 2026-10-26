@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝遣头等侍卫官宝、和索礼携茶酒前往广西阵亡正蓝旗章京赫书、骁骑校黑晖丧次致祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "官宝",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "和索礼",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "赫书",
+   "role": "正蓝旗骁骑章京"
+  },
+  {
+   "name": "黑晖",
+   "role": "骁骑校"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 900,
+ "page_range": "61-62"
+}

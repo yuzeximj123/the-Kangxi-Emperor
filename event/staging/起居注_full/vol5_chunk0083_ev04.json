@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问主事巴布海、达色何如，侍郎席尔达、工部尚书萨木哈分别奏对二人情况。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴布海",
+   "role": "主事"
+  },
+  {
+   "name": "达色",
+   "role": "主事"
+  },
+  {
+   "name": "席尔达",
+   "role": "侍郎"
+  },
+  {
+   "name": "萨木哈",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8304,
+ "page_range": "176-177"
+}

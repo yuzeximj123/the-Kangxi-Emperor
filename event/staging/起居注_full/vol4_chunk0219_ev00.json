@@ -1,0 +1,26 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就河工阻挠之议表态，称于成龙已任总河，将董讷升左都御史以使河工清静。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "董讷",
+   "role": "升任左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21900,
+ "page_range": "450-451"
+}

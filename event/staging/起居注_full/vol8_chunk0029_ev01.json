@@ -1,0 +1,33 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝述绩拜奏请免征甘肃卫所应征之米，命温达等细观其折议奏，强调兵锦关系紧要不可轻免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "绩拜",
+   "role": "官员"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "陕西",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2901,
+ "page_range": "69-70"
+}

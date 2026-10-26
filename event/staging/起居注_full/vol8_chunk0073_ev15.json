@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": "初二日庚午",
+ "event_role": "谕旨决策",
+ "summary": "松柱等奏九卿议江南、甘肃两省捐纳事，康熙帝令掣签。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7315,
+ "page_range": "157-158"
+}

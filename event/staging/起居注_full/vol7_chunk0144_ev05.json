@@ -1,0 +1,33 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与大学士马齐、学士黑寿等议论断罪当据理，并述席哈纳往湖广审土司田才年事，指示晓谕土司出审、不出则调兵进剿。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "黑寿",
+   "role": "学士"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "田才年",
+   "role": "土司"
+  }
+ ],
+ "places": [
+  "湖广",
+  "容美"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14405,
+ "page_range": "299-300"
+}

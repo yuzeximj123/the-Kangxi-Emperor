@@ -1,0 +1,38 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "收到奏折",
+ "summary": "李光地、王掞奉康熙之命公同阅看魏裔介之子魏荔彤所进其父遗书六种，认为其中五种依仿程朱、不悖于理，朱子四书全义一种汇编朱子相关论述、便于学者观览，优于诸家纂集，并候皇上回宫日恭缴原书。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "王掞",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "魏裔介",
+   "role": "原大学士，遗书作者"
+  },
+  {
+   "name": "魏荔彤",
+   "role": "魏裔介之子，进呈遗书者"
+  },
+  {
+   "name": "朱子",
+   "role": "宋代大儒，四书全义所汇辑论述之对象"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批就前代四书大全中论孟部分阙如或问一事作出标记说明。",
+ "source_title": "李光地王掞奏看魏裔介遗书",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 509
+}

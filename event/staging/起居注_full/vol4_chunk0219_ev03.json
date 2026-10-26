@@ -1,0 +1,26 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝命差刑部司官一员照布喀提拿卫婚齐，到日再行具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卫婚齐",
+   "role": "被提拿者"
+  },
+  {
+   "name": "布喀",
+   "role": "相关人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21903,
+ "page_range": "450-451"
+}

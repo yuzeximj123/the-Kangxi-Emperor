@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问宋德宜所奏给还子女事如何行查，宋德宜建议交督抚确查分别给还，康熙帝以察从贼虚实恐牵连现任职官为由不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大臣"
+  },
+  {
+   "name": "余国柱",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "福建",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24301,
+ "page_range": "543-544"
+}

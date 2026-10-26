@@ -1,0 +1,46 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初四日甲申",
+ "event_role": "人事任免",
+ "summary": "吏部题补本部郎中员缺，康熙帝询问各部所举才能者后，令将萨必图补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "苏扎禄",
+   "role": "员外郎"
+  },
+  {
+   "name": "雅虎",
+   "role": "官员"
+  },
+  {
+   "name": "萨必图",
+   "role": "官员"
+  },
+  {
+   "name": "尹图达",
+   "role": "官员"
+  },
+  {
+   "name": "胡礼",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7114,
+ "page_range": "185-186"
+}

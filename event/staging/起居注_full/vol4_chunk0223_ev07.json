@@ -1,0 +1,29 @@
+{
+ "reign_year": 32,
+ "month": 1,
+ "day_text": "二十日甲子",
+ "event_role": "河工水利",
+ "summary": "张玉书、图纳阅河工回，呈河图，奏高家堰水势及小堤无益，康熙帝赞同所议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "图纳",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "洪泽湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22307,
+ "page_range": "458-459"
+}

@@ -1,0 +1,54 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "御史荆元实条奏周敦颐、程颢、朱熹之父配享启圣公而张载之父不得与、范仲淹不得与祭礼，康熙帝命问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "荆元实",
+   "role": "御史"
+  },
+  {
+   "name": "周敦颐",
+   "role": "先贤"
+  },
+  {
+   "name": "程颢",
+   "role": "先贤"
+  },
+  {
+   "name": "朱熹",
+   "role": "先贤"
+  },
+  {
+   "name": "张载",
+   "role": "先贤"
+  },
+  {
+   "name": "张悦",
+   "role": "张载之父"
+  },
+  {
+   "name": "司马光",
+   "role": "先贤"
+  },
+  {
+   "name": "欧阳修",
+   "role": "先贤"
+  },
+  {
+   "name": "范仲淹",
+   "role": "先贤"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2503,
+ "page_range": "60-61"
+}

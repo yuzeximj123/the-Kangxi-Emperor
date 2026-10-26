@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "初九日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝指出突厥即土默特，并论回纥种族及撒马儿罕等处，称近览彼处书籍始知其详。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "撒马儿罕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16612,
+ "page_range": "344-345"
+}

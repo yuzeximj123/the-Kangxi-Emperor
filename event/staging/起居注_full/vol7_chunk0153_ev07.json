@@ -1,0 +1,21 @@
+{
+ "reign_year": 50,
+ "month": 1,
+ "day_text": "十五日甲辰",
+ "event_role": "朝见受贺",
+ "summary": "辰时康熙帝御畅春园万树红霞，赐宴朝正外藩蒙古左右两翼诸王、贝勒、贝子、公、台吉及内大臣、侍卫、大学士等，宴毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "万树红霞"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15307,
+ "page_range": "317-318"
+}

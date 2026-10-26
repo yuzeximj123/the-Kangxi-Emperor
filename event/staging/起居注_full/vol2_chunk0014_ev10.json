@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "初十日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "和硕额尚之隆请以其父骸骨安葬盖州，户部议令于海州安葬，康熙帝询问后命依部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尚之隆",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盖州",
+  "海州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1410,
+ "page_range": "71-72"
+}

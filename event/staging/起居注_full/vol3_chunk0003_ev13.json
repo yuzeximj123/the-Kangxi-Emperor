@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "三十日丙申",
+ "event_role": "人事任免",
+ "summary": "康熙帝以副都御史色克德才具庸劣、未陈奏一事，命解任并拟具奏补缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色克德",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 313,
+ "page_range": "41-42"
+}

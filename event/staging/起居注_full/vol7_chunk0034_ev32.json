@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "十三日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "户部题将两淮盐给事中满普议罚，康熙帝斥该部误议、凯音布徇庇司官，令查明具奏并论凯音布不宜任户部尚书。",
+ "people": [
+  {
+   "name": "满普",
+   "role": "给事中"
+  },
+  {
+   "name": "凯音布",
+   "role": "户部尚书"
+  },
+  {
+   "name": "黑硕色",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3432,
+ "page_range": "79-80"
+}

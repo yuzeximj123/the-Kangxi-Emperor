@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "二十一日戊子",
+ "event_role": "谕旨决策",
+ "summary": "帝称南巡闻百姓称颂原任总河靳辅，其河工有成效，命照原品致仕官例复其衔级。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "原任总河"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江淮",
+  "上河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6412,
+ "page_range": "140-141"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "初三日",
+ "event_role": "朝见受贺",
+ "summary": "直隶守道高必弘等、固安县驻防防守御刘格色等来朝。",
+ "people": [
+  {
+   "name": "高必弘",
+   "role": "直隶守道"
+  },
+  {
+   "name": "刘格色",
+   "role": "固安县驻防防守御"
+  }
+ ],
+ "places": [
+  "固安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19114,
+ "page_range": "392-393"
+}

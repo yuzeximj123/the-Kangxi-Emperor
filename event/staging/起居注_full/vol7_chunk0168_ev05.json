@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆江西巡抚郎廷极题周登尚因还粮角口打伤兄周上珍越八日身死，拟立斩，康熙帝改为应斩监候秋后处决。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "周登尚",
+   "role": "犯人"
+  },
+  {
+   "name": "周上珍",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16805,
+ "page_range": "347-348"
+}

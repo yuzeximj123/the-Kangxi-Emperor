@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "侍郎常书、尚书张英进见，奏御笔书法精妙及翰林官员恳求留御书匾额于翰林衙门，康熙帝应允。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "侍郎兼掌翰林院事"
+  },
+  {
+   "name": "张英",
+   "role": "尚书"
+  },
+  {
+   "name": "张廷玉",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [
+  "河南",
+  "五台山",
+  "翰林衙门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2705,
+ "page_range": "64-65"
+}

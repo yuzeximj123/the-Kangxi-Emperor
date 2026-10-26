@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝谕九卿，河道关系重运民生，令互相辨难讨论以得事理之宜，责九卿不穷诘靳辅、于成龙是否畏惧二人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1605,
+ "page_range": "44-45"
+}

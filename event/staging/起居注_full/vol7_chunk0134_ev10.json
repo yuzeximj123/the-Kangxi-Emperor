@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十二日丙午",
+ "event_role": "谕旨决策",
+ "summary": "马齐等奏已将擒假达赖喇嘛等事传谕九卿，并请具本称贺布告天下，康熙帝述达赖喇嘛始末。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "拉都浑",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "第巴",
+   "role": "西藏执政"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "蒙古首领"
+  }
+ ],
+ "places": [
+  "西域"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13410,
+ "page_range": "279-280"
+}

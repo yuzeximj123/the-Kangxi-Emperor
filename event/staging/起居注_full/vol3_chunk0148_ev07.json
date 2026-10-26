@@ -1,0 +1,42 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "十三日本卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补通政使王守才解任员缺，开列太常寺卿徐元瑞等，康熙帝询问后命徐元瑞升补通政使。",
+ "people": [
+  {
+   "name": "王守才",
+   "role": "通政使"
+  },
+  {
+   "name": "徐元瑞",
+   "role": "太常寺卿"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "徐乾学",
+   "role": "学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "疝兴邦",
+   "role": "光禄寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14807,
+ "page_range": "331-332"
+}

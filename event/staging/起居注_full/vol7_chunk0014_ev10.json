@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "初六日丁雍",
+ "event_role": "人事任免",
+ "summary": "兵部覆总督华显以守备陈有功题补游击议不准行，康熙帝命照华显所题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "华显",
+   "role": "总督"
+  },
+  {
+   "name": "陈有功",
+   "role": "守备"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1410,
+ "page_range": "39-40"
+}

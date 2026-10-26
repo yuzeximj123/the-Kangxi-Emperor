@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "十八日己丑",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗参领员缺，康熙帝命阿达哈哈番补授参领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "车尔门",
+   "role": "镶白旗参领"
+  },
+  {
+   "name": "宋古洪",
+   "role": "国子监司业"
+  },
+  {
+   "name": "额黑理",
+   "role": "拖沙喇哈番"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3109,
+ "page_range": "74-75"
+}

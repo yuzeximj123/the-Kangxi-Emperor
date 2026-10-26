@@ -1,0 +1,27 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "十四日乙恬",
+ "event_role": "皇帝行止",
+ "summary": "已时康熙帝由东便门进崇文门，诣泳台问皇太后安，进西华门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "东便门",
+  "崇文门",
+  "泳台",
+  "西华门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16020,
+ "page_range": "332-333"
+}

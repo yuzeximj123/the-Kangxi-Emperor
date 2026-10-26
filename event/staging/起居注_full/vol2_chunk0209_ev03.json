@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "明珠等口奏原任吏部尚书郝惟讷病故，康熙帝命学士石柱、孙在丰往赐茶酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郝惟讷",
+   "role": "原任吏部尚书"
+  },
+  {
+   "name": "石柱",
+   "role": "学士"
+  },
+  {
+   "name": "孙在丰",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20903,
+ "page_range": "461-462"
+}

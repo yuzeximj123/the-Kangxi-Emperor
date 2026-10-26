@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "十七日丙辰",
+ "event_role": "人事任免",
+ "summary": "议政王等会推都统肌图升任员缺，拟纪尔他布、胡巴，康熙帝以纪尔他布牵连福建行间事命暂留。",
+ "people": [
+  {
+   "name": "纪尔他布",
+   "role": "护军统领"
+  },
+  {
+   "name": "胡巴",
+   "role": "副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21506,
+ "page_range": "473-474"
+}

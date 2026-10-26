@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十八日甲辰",
+ "event_role": "司法案件",
+ "summary": "刑部议府丞王维珍被康亲王包衣人史书等辱骂拟枷杖，康熙帝令查十八年谕旨从重议处。",
+ "people": [
+  {
+   "name": "王维珍",
+   "role": "府丞"
+  },
+  {
+   "name": "史书",
+   "role": "康亲王包衣人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13221,
+ "page_range": "299-300"
+}

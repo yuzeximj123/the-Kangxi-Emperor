@@ -1,0 +1,50 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就副都御史胡异缺补授事询问明珠等，最终决定由徐元瑞升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元瑞",
+   "role": "通政使，升补副都御史"
+  },
+  {
+   "name": "李廷松",
+   "role": "宗人府府丞"
+  },
+  {
+   "name": "边声廷",
+   "role": "大理寺卿"
+  },
+  {
+   "name": "张吉午",
+   "role": "顺天府府尹"
+  },
+  {
+   "name": "董秉忠",
+   "role": "奉天府府尹"
+  },
+  {
+   "name": "成其范",
+   "role": "太常寺正卿"
+  },
+  {
+   "name": "葛思泰",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16500,
+ "page_range": "365-366"
+}

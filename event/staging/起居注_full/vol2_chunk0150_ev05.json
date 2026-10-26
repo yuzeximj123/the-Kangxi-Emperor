@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "酉时康熙帝御批本房，读卷官进呈试卷，帝阅拟第一卷并询问策问对答，拆阅知为江南徽州府许廷休，又览第二、三卷。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士、读卷官"
+  },
+  {
+   "name": "张玉书",
+   "role": "学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "许廷休",
+   "role": "武举考生"
+  }
+ ],
+ "places": [
+  "江南徽州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15005,
+ "page_range": "343-344"
+}

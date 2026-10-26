@@ -1,0 +1,46 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "二十七日酉辫",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁学士温达升任员缺，康熙帝询问满都、傅伸等人情况后，命满都补授学士。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "内阁学士"
+  },
+  {
+   "name": "沙尔图",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "满都",
+   "role": "侍读学士"
+  },
+  {
+   "name": "傅伸",
+   "role": "侍读学士"
+  },
+  {
+   "name": "特默德",
+   "role": "侍读学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "阿山",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10624,
+ "page_range": "222-223"
+}

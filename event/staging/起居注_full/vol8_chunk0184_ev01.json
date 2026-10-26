@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "马齐等覆请九卿议覆徐元梦所题倭国长崎译司给船主胡云客票照一事，康熙帝谕令询问徐元梦公议具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元梦",
+   "role": "原任浙江巡抚今升都察院左都御史"
+  },
+  {
+   "name": "胡云客",
+   "role": "船主"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "长崎"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18401,
+ "page_range": "379-380"
+}

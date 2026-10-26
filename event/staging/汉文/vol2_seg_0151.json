@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙肆拾捌年肆月拾柒日",
+ "reign_year": 48,
+ "month": 4,
+ "day": 17,
+ "event_role": "请安谢恩",
+ "summary": "闽浙总督梁鼐奏谢康熙帝御赐紫端石金砚及松子、榛子等物，表示感激天恩、愿竭力图报。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "闽浙总督，奏折作者，受赐谢恩者"
+  },
+  {
+   "name": "马得胜",
+   "role": "梁鼐家人，赍捧御赐物品至署"
+  },
+  {
+   "name": "吴陞",
+   "role": "福建浙江等处提督军务总兵官，摺尾署名"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "閩浙總督梁鼐奏謝御賜石硯等物摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "491",
+ "order_index": 151
+}

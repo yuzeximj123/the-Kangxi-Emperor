@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "归化城副都统七格员缺，康熙帝命和尔等会同理藩院、议政大臣举出具奏。",
+ "people": [
+  {
+   "name": "七格",
+   "role": "归化城副都统"
+  },
+  {
+   "name": "魏勒芬",
+   "role": "前锋参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22308,
+ "page_range": "457-458"
+}

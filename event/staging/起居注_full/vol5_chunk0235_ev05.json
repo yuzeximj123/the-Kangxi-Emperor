@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "康熙帝谕大学士伊桑阿，湖滩河朔米已装运三千三百六十石足用，停其第二次转运以免缓期苦累舱夫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "湖滩河朔",
+  "保德州",
+  "老牛湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23505,
+ "page_range": "480-481"
+}

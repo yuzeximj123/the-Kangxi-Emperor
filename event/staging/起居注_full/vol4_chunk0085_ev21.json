@@ -1,0 +1,29 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "十五日戊申",
+ "event_role": "人事任免",
+ "summary": "吏部覆江南江西总督傅腊塔题请降调同知张圣清带降级留任，康熙帝准如所题。",
+ "people": [
+  {
+   "name": "傅腊塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "张圣清",
+   "role": "同知"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8521,
+ "page_range": "182-183"
+}

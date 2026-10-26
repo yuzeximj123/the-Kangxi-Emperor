@@ -1,0 +1,36 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "十九日丁丑",
+ "event_role": "人事任免",
+ "summary": "兵部覆广东提督殷化行参虎门都司冯腾龙议革职，康熙以其人材矫健系赵良栋举荐，令与侍郎满不同往军前效力补用。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "殷化行",
+   "role": "广东提督"
+  },
+  {
+   "name": "冯腾龙",
+   "role": "虎门都司"
+  },
+  {
+   "name": "赵良栋",
+   "role": "举荐人"
+  },
+  {
+   "name": "满不",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "虎门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18606,
+ "page_range": "382-383"
+}

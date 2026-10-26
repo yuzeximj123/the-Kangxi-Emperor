@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "初六日王申",
+ "event_role": "人事任免",
+ "summary": "翰林院升任讲官葛思泰员缺，开列传读学士多奇等职名，康熙以讲官职任紧要，令会同翰林院详加选择引见。",
+ "people": [
+  {
+   "name": "葛思泰",
+   "role": "讲官"
+  },
+  {
+   "name": "多奇",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1015,
+ "page_range": "55-56"
+}

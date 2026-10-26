@@ -1,0 +1,29 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "尚书马齐奉命前往赈济山西平阳府等处，请求训旨，康熙帝谕令其传谕巡抚噶尔图亲赴灾区设厂救护灾民、停征本年钱粮、晓谕百姓并防护地方。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "噶尔图",
+   "role": "巡抚"
+  },
+  {
+   "name": "周复兴",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "山西平阳府",
+  "洪洞县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6500,
+ "page_range": "140-141"
+}

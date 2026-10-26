@@ -1,0 +1,22 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十三日辛效",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自杭州府乘舟启行往祭禹陵，驻跸绍兴府会稽山之龙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "杭州府",
+  "绍兴府",
+  "会稽山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5703,
+ "page_range": "126-127"
+}

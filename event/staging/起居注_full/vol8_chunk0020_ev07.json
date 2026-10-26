@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初九日乙酉",
+ "event_role": "人事任免",
+ "summary": "温达等奏补授中书员缺考试情形，康熙帝谕令关福等照班次用之。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "关福",
+   "role": "应试者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2007,
+ "page_range": "51-52"
+}

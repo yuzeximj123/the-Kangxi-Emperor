@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问今科未中式名士，王申等以刘岩、朱元英、王源、姜宕英对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王申",
+   "role": "官员"
+  },
+  {
+   "name": "刘岩",
+   "role": "名士"
+  },
+  {
+   "name": "朱元英",
+   "role": "名士"
+  },
+  {
+   "name": "王源",
+   "role": "名士"
+  },
+  {
+   "name": "姜宕英",
+   "role": "名士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1307,
+ "page_range": "36-37"
+}

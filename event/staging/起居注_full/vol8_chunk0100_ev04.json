@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙论修城及时于民有益胜于赈济，并述佛伦、徐元梦赈济旧事。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "原川陕总督"
+  },
+  {
+   "name": "徐元梦",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "钱塘县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10004,
+ "page_range": "211-212"
+}

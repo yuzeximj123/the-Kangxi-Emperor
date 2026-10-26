@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "十五日癸巳",
+ "event_role": "朝见受贺",
+ "summary": "驻防三河县城守尉纳棱额、知县俞孝昌、守备白普等来朝见。",
+ "people": [
+  {
+   "name": "纳棱额",
+   "role": "驻防三河县城守尉"
+  },
+  {
+   "name": "俞孝昌",
+   "role": "三河县知县"
+  },
+  {
+   "name": "白普",
+   "role": "城守守备"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11311,
+ "page_range": "269-270"
+}

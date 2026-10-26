@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "二十六日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "理藩院、户部议往归化城种地散秩大臣伯辛裕等交吏兵二部议叙，康熙帝令将归化城官兵一并议叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伯辛裕",
+   "role": "散秩大臣"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21215,
+ "page_range": "436-437"
+}

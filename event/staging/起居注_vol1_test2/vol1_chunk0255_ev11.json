@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "初七日甲午",
+ "event_role": "谕旨决策",
+ "summary": "料理广西军务理事官马勒吉请将马承荫并所属官员俱令来京，康熙称本说得是已有旨，命改票以鼓励启奏之人。",
+ "people": [
+  {
+   "name": "马勒吉",
+   "role": "料理广西军务理事官"
+  },
+  {
+   "name": "马承荫",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25511,
+ "page_range": "567-568"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "十八日壬寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝令大学士熊赐履还乡照杜立德、黄机旧例驰驿遣官护送。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "前任大学士"
+  },
+  {
+   "name": "黄机",
+   "role": "前任大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13308,
+ "page_range": "277-278"
+}

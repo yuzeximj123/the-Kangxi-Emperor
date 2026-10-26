@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十年二月初一日",
+ "reign_year": 50,
+ "month": 2,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "贵州巡抚刘荫枢奏陈黔省兵饷依赖邻省协济、常致匮乏，请于三十八万两之外多拨二十万两以资接济。",
+ "people": [
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚都察院右副都御史加三级，奏折作者"
+  },
+  {
+   "name": "史泗",
+   "role": "刘荫枢家人，赍捧奏折进京"
+  }
+ ],
+ "places": [
+  "贵州",
+  "青州",
+  "黔省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "貴州巡撫劉蔭樞奏請動支多撥餉銀摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "802",
+ "order_index": 105
+}

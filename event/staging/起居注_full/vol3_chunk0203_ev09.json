@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十六日丙寅",
+ "event_role": "河工水利",
+ "summary": "监修下河侍郎孙在丰与总河靳辅会议改深水坝为闸座，俟黄河刷深再议；孙在丰题请先挑海口石墩等处并请敕河臣闭塞滚水坝。",
+ "people": [
+  {
+   "name": "孙在丰",
+   "role": "监修下河侍郎"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "海口",
+  "石墩"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20309,
+ "page_range": "441-442"
+}

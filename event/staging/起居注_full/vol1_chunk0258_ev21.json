@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十三日庚戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御瀛台前亭赐进贡扎萨克、克什克屯、喀喇沁台吉等茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺尔布",
+   "role": "扎萨克一品台吉"
+  },
+  {
+   "name": "阿育锡",
+   "role": "克什克屯一品台吉"
+  },
+  {
+   "name": "德尔格尔",
+   "role": "四品台吉"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25821,
+ "page_range": "573-574"
+}

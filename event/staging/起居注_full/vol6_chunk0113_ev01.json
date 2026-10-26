@@ -1,0 +1,27 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "理藩院议苏尼特等旗贫人为盗，康熙帝命会同尚书班第详议抚养之法。",
+ "people": [
+  {
+   "name": "雅木皮尔",
+   "role": "多罗郡王"
+  },
+  {
+   "name": "班第",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "苏尼特",
+  "四子部落",
+  "吴喇忒",
+  "毛明安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11301,
+ "page_range": "236-237"
+}

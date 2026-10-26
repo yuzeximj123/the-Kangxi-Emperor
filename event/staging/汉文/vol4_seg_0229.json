@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十二年閏五月初二日",
+ "reign_year": 52,
+ "month": null,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹颙奏报江南近日时雨普降、农家及时插秧预卜丰年，米价因江广客船未到曾涨至九钱一两，现米船陆续运至价格已平，麦价甚贱，并呈五月份晴雨录。",
+ "people": [
+  {
+   "name": "曹颙",
+   "role": "江宁织造，奏报人"
+  }
+ ],
+ "places": [
+  "江南",
+  "江广"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，所奏内容已知晓。",
+ "source_title": "江寧織造曹顒奏報江南近日雨水糧價摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "332",
+ "order_index": 229
+}

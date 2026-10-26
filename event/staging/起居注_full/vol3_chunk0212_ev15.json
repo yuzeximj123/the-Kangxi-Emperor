@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十二日庚申",
+ "event_role": "人事任免",
+ "summary": "吏部题顺天府府尹钱廷升任员缺，拟以佥都御史徐谐武补授，康熙帝令问明九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钱廷",
+   "role": "顺天府府尹"
+  },
+  {
+   "name": "徐谐武",
+   "role": "佥都御史"
+  }
+ ],
+ "places": [
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21215,
+ "page_range": "459-460"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 4,
+ "day_text": "二十二日己效",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝驾过海城县，遣内大臣公坡尔喷往平南亲王尚可喜墓奠酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "坡尔喷",
+   "role": "内大臣公"
+  },
+  {
+   "name": "尚可喜",
+   "role": "平南亲王"
+  }
+ ],
+ "places": [
+  "海城县",
+  "平南亲王尚可喜墓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11742,
+ "page_range": "277-278"
+}

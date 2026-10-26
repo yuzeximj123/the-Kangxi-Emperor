@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "初五日戊子",
+ "event_role": "人事任免",
+ "summary": "遵旨议苏松粮道员缺，开列四川永宁道佥事马云瑞等，康熙帝令将佥事道职名尽行开列具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马云瑞",
+   "role": "四川永宁道佥事"
+  }
+ ],
+ "places": [
+  "苏松",
+  "四川永宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22416,
+ "page_range": "458-459"
+}

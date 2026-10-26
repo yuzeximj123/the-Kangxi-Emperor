@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "王之枢、安州知州孔航璋等来朝见皇帝。",
+ "people": [
+  {
+   "name": "王之枢",
+   "role": "官员"
+  },
+  {
+   "name": "孔航璋",
+   "role": "安州知州"
+  }
+ ],
+ "places": [
+  "安州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7600,
+ "page_range": "163-164"
+}

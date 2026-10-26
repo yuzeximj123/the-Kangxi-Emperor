@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "初九日庚申",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶蓝旗前锋护卫，正拟常舒、陪拟布代，康熙帝称马尔浑材力强壮有勤劳，命问该旗常舒与马尔浑孰优再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常舒",
+   "role": "前锋校"
+  },
+  {
+   "name": "布代",
+   "role": "拖沙喇哈番"
+  },
+  {
+   "name": "马尔浑",
+   "role": "护军校"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6521,
+ "page_range": "173-174"
+}

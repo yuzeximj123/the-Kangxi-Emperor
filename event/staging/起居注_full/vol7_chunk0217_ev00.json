@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命不合例之陈守创补授大兴县知县、黄志元补授宛平县知县。",
+ "people": [
+  {
+   "name": "陈守创",
+   "role": "大兴县知县补授者"
+  },
+  {
+   "name": "黄志元",
+   "role": "宛平县知县补授者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大兴县",
+  "宛平县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21700,
+ "page_range": "445-446"
+}

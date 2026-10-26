@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "初六日丙子",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题赵明殴死小功兄赵浦议立斩，康熙帝观此事有所谕示。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵明",
+   "role": "案犯"
+  },
+  {
+   "name": "赵浦",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24323,
+ "page_range": "498-499"
+}

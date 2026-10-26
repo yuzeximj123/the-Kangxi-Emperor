@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读学士阿哈达升任员缺，正拟郎中席式、陪拟巴尔噶，康熙令察明部院郎中应升之人来看。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "席式",
+   "role": "拟补郎中"
+  },
+  {
+   "name": "巴尔噶",
+   "role": "陪拟郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21401,
+ "page_range": "471-472"
+}

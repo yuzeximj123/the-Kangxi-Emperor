@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 1,
+ "day_text": "二十九日乙已",
+ "event_role": "其他",
+ "summary": "酉时康熙帝御行宫门，命皇长子、皇三子率善射人等射，射毕又视涿州营参将周世朝等射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇三子",
+   "role": "皇子"
+  },
+  {
+   "name": "周世朝",
+   "role": "涿州营参将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3122,
+ "page_range": "72-73"
+}

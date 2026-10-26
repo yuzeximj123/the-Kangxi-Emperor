@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十七日辛亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕王孔林前既刺人今又将人刺死，情罪可恶，秋审时断不可宽宥。",
+ "people": [
+  {
+   "name": "王孔林",
+   "role": "罪犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13610,
+ "page_range": "283-284"
+}

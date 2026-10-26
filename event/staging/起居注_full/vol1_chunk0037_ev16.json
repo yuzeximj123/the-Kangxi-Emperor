@@ -1,0 +1,25 @@
+{
+ "reign_year": 12,
+ "month": 3,
+ "day_text": "初五日乙亥",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝诣太皇太后宫问安毕，随即幸瀛台。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3716,
+ "page_range": "131-132"
+}

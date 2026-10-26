@@ -1,0 +1,22 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "十六日乙未",
+ "event_role": "祭祀典礼",
+ "summary": "是日遣官告祭天地、太庙、社稷，废黜皇太子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天地",
+  "太庙",
+  "社稷"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24110,
+ "page_range": "493-494"
+}

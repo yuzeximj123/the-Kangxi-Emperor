@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十三日壬子",
+ "event_role": "谕旨决策",
+ "summary": "兵部议覆山西巡抚图克善题报华林堡蒙古闯入关口抢夺牛驴事，康熙帝以地方官虚诈具奏不合，令兵部、理藩院各差官查明严议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图克善",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "华林堡",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22913,
+ "page_range": "515-516"
+}

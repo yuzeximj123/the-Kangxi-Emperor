@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十七日甲成",
+ "event_role": "司法案件",
+ "summary": "三法司议伪大学士方广琛之弟方广扬应立斩，康熙帝以其反叛极真、情罪无疑，着立斩示众。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "方广扬",
+   "role": "逆贼方广琛之弟"
+  },
+  {
+   "name": "方广琛",
+   "role": "伪大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12402,
+ "page_range": "291-292"
+}

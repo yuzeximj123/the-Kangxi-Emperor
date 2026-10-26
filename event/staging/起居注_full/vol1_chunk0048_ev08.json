@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 8,
+ "day_text": "二十七日甲午",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御乾清门赐浙江总督李之芳、湖广巡抚张朝珍食，并各赐鞍马表里。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李之芳",
+   "role": "浙江总督"
+  },
+  {
+   "name": "张朝珍",
+   "role": "湖广巡抚"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4808,
+ "page_range": "153-154"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "初七日辛卯",
+ "event_role": "司法案件",
+ "summary": "刑部等题金二乘醉持刀戳伤李兴凤越日殒命，拟绞监候秋后处决，金三枷号两月杖一百，康熙依赵申乔所议令监候秋后处决。",
+ "people": [
+  {
+   "name": "金二",
+   "role": "罪犯"
+  },
+  {
+   "name": "金三",
+   "role": "罪犯"
+  },
+  {
+   "name": "李兴凤",
+   "role": "被害人"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "徐彩官",
+   "role": "涉案人"
+  },
+  {
+   "name": "刘芳声",
+   "role": "涉案人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18517,
+ "page_range": "381-382"
+}

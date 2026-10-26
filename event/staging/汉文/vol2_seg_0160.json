@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙四十八年五月初八日",
+ "reign_year": 48,
+ "month": 5,
+ "day": 8,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮因皇帝五月二十六日行幸口外避暑，自己职守封圻不能扈从，特具折恭请圣躬万安。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏折具奏人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝，行幸口外避暑，朱批者"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "口外"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸巡撫趙弘燮奏為皇上巡幸口外敬請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "499",
+ "order_index": 160
+}

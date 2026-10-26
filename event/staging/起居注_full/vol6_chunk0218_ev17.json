@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初八日辛酉",
+ "event_role": "河工水利",
+ "summary": "康熙帝问左都御史李楠河工之意，李楠奏请皇上独断，令河臣恪遵指授相机修筑，河工无不成之理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李楠",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "淮扬",
+  "桃庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21817,
+ "page_range": "446-447"
+}

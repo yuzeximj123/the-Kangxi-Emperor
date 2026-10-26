@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十七年閏八月初二日",
+ "reign_year": 57,
+ "month": null,
+ "day": 2,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏报淮商江楚吉等呈请捐银十五万两，拟从运库借出解部，分五年补完，并叩谢天恩。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造"
+  },
+  {
+   "name": "江楚吉",
+   "role": "淮商"
+  }
+ ],
+ "places": [
+  "苏州",
+  "淮",
+  "运库"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏爲淮商顧韶等未完銀兩分年帶徵具奏摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2688",
+ "order_index": 118
+}

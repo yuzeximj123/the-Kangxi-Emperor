@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十一日丙申",
+ "event_role": "谕旨决策",
+ "summary": "议给事中邬隆格奏福建投诚官兵安插直隶等处事，康熙帝询问李光地后令兵部再详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邬隆格",
+   "role": "给事中"
+  },
+  {
+   "name": "李光地",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "福建",
+  "直隶",
+  "山东",
+  "河南",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2010,
+ "page_range": "83-84"
+}

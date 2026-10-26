@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十六日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕下河决宜开浚断不可止，孙在丰不必来京，斥靳辅前后矛盾有阻挠之意。",
+ "people": [
+  {
+   "name": "孙在丰",
+   "role": "监修下河侍郎"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20314,
+ "page_range": "441-442"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "十五日生辰",
+ "event_role": "人事任免",
+ "summary": "勒德洪等奏引见考取人员侍读学士多奇等，康熙帝以多奇文章颇佳、为人谨慎，命升补学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "多奇",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22715,
+ "page_range": "489-490"
+}

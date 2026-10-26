@@ -1,0 +1,44 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "初十日癸酉",
+ "event_role": "人事任免",
+ "summary": "康熙帝阅翰林院保举官，认为阿金不及检讨满保，停其保举，以满保代之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿金",
+   "role": "检讨"
+  },
+  {
+   "name": "满保",
+   "role": "检讨"
+  },
+  {
+   "name": "阿山",
+   "role": "官员"
+  },
+  {
+   "name": "把叙",
+   "role": "侍读"
+  },
+  {
+   "name": "多善",
+   "role": "主事"
+  },
+  {
+   "name": "梁永禧",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14814,
+ "page_range": "306-307"
+}

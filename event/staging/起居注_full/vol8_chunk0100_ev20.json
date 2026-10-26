@@ -1,0 +1,34 @@
+{
+ "reign_year": 54,
+ "month": 6,
+ "day_text": "二十八日于搬",
+ "event_role": "议政听政",
+ "summary": "康熙御行宫，大学士松柱、学士查弹纳、敦拜以折本请旨，议户部题鼓铸铜斤仍交王纲明等采买事。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "查弹纳",
+   "role": "学士"
+  },
+  {
+   "name": "敦拜",
+   "role": "学士"
+  },
+  {
+   "name": "王纲明",
+   "role": "商人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10020,
+ "page_range": "211-212"
+}

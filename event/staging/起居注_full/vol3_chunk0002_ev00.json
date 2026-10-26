@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝议郑克塽等遗送进京事，认为入旗无益恐累民，命会同议政王等再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郑克塽",
+   "role": "海寇头目"
+  }
+ ],
+ "places": [
+  "直隶",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 200,
+ "page_range": "39-40"
+}

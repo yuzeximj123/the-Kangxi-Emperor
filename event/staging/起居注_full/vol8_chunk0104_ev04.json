@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝称口外田禾连年俱好，询问山东田禾，和孔古礼奏闻山东田禾好且麦丰收。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和孔古礼",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "口外",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10404,
+ "page_range": "219-220"
+}

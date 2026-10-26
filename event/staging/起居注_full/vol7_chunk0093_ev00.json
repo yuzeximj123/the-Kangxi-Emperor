@@ -1,0 +1,20 @@
+{
+ "reign_year": 45,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就蒋陈锡未完银两交还道库一事下旨，令将蒋陈锡完银之处改正具奏。",
+ "people": [
+  {
+   "name": "蒋陈锡",
+   "role": "原任天津道今调任"
+  }
+ ],
+ "places": [
+  "道库"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9300,
+ "page_range": "197-198"
+}

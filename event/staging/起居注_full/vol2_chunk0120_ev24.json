@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "十一日戊午",
+ "event_role": "谕旨决策",
+ "summary": "午时康熙帝召刑部侍郎库勒纳，命携茶酒赐金往祭已故侍郎叶方蔼并传旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "已故刑部侍郎"
+  },
+  {
+   "name": "常保",
+   "role": "亲随侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12024,
+ "page_range": "283-284"
+}

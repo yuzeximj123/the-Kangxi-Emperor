@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "起居注臣等钦颂康熙帝行仁者无敌之师、推心置腹抚归顺、以好大喜功为戒可垂训万世。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "起居注臣等",
+   "role": "史官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17602,
+ "page_range": "362-363"
+}

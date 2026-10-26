@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十六日戊申",
+ "event_role": "议政听政",
+ "summary": "康熙帝询问学士马晋泰为人，温达奏其去得，康熙帝称其明白。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "马晋泰",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22119,
+ "page_range": "453-454"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "十九日壬寅",
+ "event_role": "人事任免",
+ "summary": "翰林院题经筵讲官胡简敬员缺，康熙帝称沙斌居官甚善，命补充经筵讲官。",
+ "people": [
+  {
+   "name": "胡简敬",
+   "role": "经筵讲官"
+  },
+  {
+   "name": "沙斌",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16808,
+ "page_range": "371-372"
+}

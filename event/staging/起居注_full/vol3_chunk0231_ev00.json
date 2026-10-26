@@ -1,0 +1,34 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "勒德洪等九卿公议董汉臣无言责而乘公事条奏，应加议处，康熙帝询问王熙、达哈塔、汤斌意见。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "董汉臣",
+   "role": "被议处官员"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "达哈塔",
+   "role": "官员"
+  },
+  {
+   "name": "汤斌",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23100,
+ "page_range": "497-498"
+}

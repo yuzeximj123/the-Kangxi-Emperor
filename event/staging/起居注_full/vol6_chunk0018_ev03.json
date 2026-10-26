@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "十二日戊子",
+ "event_role": "司法案件",
+ "summary": "差往直隶高阳县审事的司官刚五达等回奏，审得张三等并非真盗，实为冤诬。",
+ "people": [
+  {
+   "name": "刚五达",
+   "role": "司官"
+  },
+  {
+   "name": "张三",
+   "role": "被诬者"
+  }
+ ],
+ "places": [
+  "直隶高阳县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1803,
+ "page_range": "46-47"
+}

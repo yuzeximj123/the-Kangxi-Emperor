@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "二十五日癸西",
+ "event_role": "人事任免",
+ "summary": "吏部题补户部右侍郎王日藻升任员缺，康熙帝命刑部侍郎张鹏调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王日藻",
+   "role": "户部右侍郎"
+  },
+  {
+   "name": "张鹏",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21512,
+ "page_range": "465-466"
+}

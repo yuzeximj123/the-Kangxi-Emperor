@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": "初二日癸卯",
+ "event_role": "朝见受贺",
+ "summary": "石匣营副将江奇、石匣城游击胡洋等来朝。",
+ "people": [
+  {
+   "name": "江奇",
+   "role": "石匣营副将"
+  },
+  {
+   "name": "胡洋",
+   "role": "石匣城游击"
+  }
+ ],
+ "places": [
+  "石匣营",
+  "石匣城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5019,
+ "page_range": "110-111"
+}

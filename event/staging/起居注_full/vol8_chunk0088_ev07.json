@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十六日癸巳",
+ "event_role": "司法案件",
+ "summary": "康熙帝问赵申乔件钦元之事是否冤枉，赵申乔奏称居隔远不能悉知。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "尚书"
+  },
+  {
+   "name": "件钦元",
+   "role": "涉案官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8807,
+ "page_range": "187-188"
+}

@@ -1,0 +1,27 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责张鹏翮题请议叙河员疏含怒具题，命将其论旨及所奏刊刻张挂于淮安扬州泗州盱眙等处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河官"
+  }
+ ],
+ "places": [
+  "淮安",
+  "扬州",
+  "泗州",
+  "盱眙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20904,
+ "page_range": "428-429"
+}

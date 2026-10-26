@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "太常寺题为冬至节祭暂安奉殿，康熙命觉福行礼，显亲王颜吏不必派出。",
+ "people": [
+  {
+   "name": "觉福",
+   "role": "行礼官"
+  },
+  {
+   "name": "颜吏",
+   "role": "显亲王"
+  }
+ ],
+ "places": [
+  "暂安奉殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19211,
+ "page_range": "395-396"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 31,
+ "month": 8,
+ "day_text": "二十八日已已",
+ "event_role": "人事任免",
+ "summary": "兵部题江宁将军博济员缺，开列马斯哈、瓦代等；康熙帝以所列或老或幼，令传问大学士伊桑阿如何说。",
+ "people": [
+  {
+   "name": "博济",
+   "role": "江宁将军"
+  },
+  {
+   "name": "马斯哈",
+   "role": "副都统"
+  },
+  {
+   "name": "瓦代",
+   "role": "都统"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20526,
+ "page_range": "422-423"
+}

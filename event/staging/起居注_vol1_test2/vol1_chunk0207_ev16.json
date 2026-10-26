@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "十五日丙午",
+ "event_role": "谕旨决策",
+ "summary": "未时康熙帝御乾清门赐福建兴化总兵官高鼎食，谕其整饬兵马、剿灭海寇，并赐鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高鼎",
+   "role": "福建兴化总兵官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20716,
+ "page_range": "471-472"
+}

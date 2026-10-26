@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝称福建前曾小旱后得雨有收，其余各省大收谷价极贱，张玉书奏称今岁大有年。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13101,
+ "page_range": "273-274"
+}

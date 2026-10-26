@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十七日丙寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，工部引见郎中凯音布、员外毕忠吉，康熙帝谕以清厘窗务积弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凯音布",
+   "role": "郎中"
+  },
+  {
+   "name": "毕忠吉",
+   "role": "员外"
+  },
+  {
+   "name": "萨穆哈",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21907,
+ "page_range": "481-482"
+}

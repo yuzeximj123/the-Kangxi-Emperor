@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "山西巡抚噶礼题请学院汪源留任三年，康熙帝以其清官难得，照所请留任。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "汪源",
+   "role": "学院"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4102,
+ "page_range": "93-94"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 27,
+ "month": 8,
+ "day_text": "初四日甲质",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸秀驼峰所建之行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "秀驼峰",
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3634,
+ "page_range": "84-85"
+}

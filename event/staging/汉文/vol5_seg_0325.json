@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十三年十一月十六日",
+ "reign_year": 53,
+ "month": 11,
+ "day": 16,
+ "event_role": "贸易漕运",
+ "summary": "漕运总督郎廷极奏报回空漕船已于十一月十五日尽数过淮，比往年早一月有余，可符冬兑冬开之限，并报淮城雨旸时若、民情安静而米价稍昂。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "漕运总督"
+  },
+  {
+   "name": "载良佐",
+   "role": "标下右营游击"
+  }
+ ],
+ "places": [
+  "德州",
+  "临清",
+  "淮城",
+  "宿桃"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "漕運總督郎廷極奏報河冰漸解情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1683",
+ "order_index": 325
+}

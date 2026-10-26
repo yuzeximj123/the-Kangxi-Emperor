@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就噶纳海长子噶西泰承袭一事裁定，认为噶西泰人材庸劣不应袭职，改令行间效力捐躯的吴丹之子加袭。",
+ "people": [
+  {
+   "name": "噶西泰",
+   "role": "噶纳海长子"
+  },
+  {
+   "name": "噶纳海",
+   "role": "已故官员"
+  },
+  {
+   "name": "吴丹",
+   "role": "行间效力捐躯者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18700,
+ "page_range": "386-387"
+}

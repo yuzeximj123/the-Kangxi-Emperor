@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部汇题闲散人吴枢颅持刀砍伤拨什库偏图拟枷号一月鞭八十，康熙帝以其可恶，令枷号鞭责完日发往三姓处。",
+ "people": [
+  {
+   "name": "吴枢颅",
+   "role": "闲散人"
+  },
+  {
+   "name": "偏图",
+   "role": "拨什库"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三姓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14908,
+ "page_range": "309-310"
+}

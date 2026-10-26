@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 7,
+ "day_text": "二十八日戊巳",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行幄，侍郎佛伦等以折本请旨，佛伦奏礼部所议朝鲜国王回奏事，康熙命礼部另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "侍郎"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9902,
+ "page_range": "233-234"
+}

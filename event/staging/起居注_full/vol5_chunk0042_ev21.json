@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "初一日乙未",
+ "event_role": "人事任免",
+ "summary": "吏部题御史常在员缺，康熙帝命以内务府员外郎南筷授为御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭里",
+   "role": "员外郎"
+  },
+  {
+   "name": "巴什",
+   "role": "员外郎"
+  },
+  {
+   "name": "南筷",
+   "role": "内务府员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4221,
+ "page_range": "94-95"
+}

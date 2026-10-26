@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": "初八日乙未",
+ "event_role": "司法案件",
+ "summary": "刑部覆请盛京布尔古礼殴死马岱案，康熙帝令交将军照新例完结再议。",
+ "people": [
+  {
+   "name": "西白",
+   "role": "镶红旗达记佐领下人"
+  },
+  {
+   "name": "布尔古礼",
+   "role": "案犯"
+  },
+  {
+   "name": "马岱",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17717,
+ "page_range": "365-366"
+}

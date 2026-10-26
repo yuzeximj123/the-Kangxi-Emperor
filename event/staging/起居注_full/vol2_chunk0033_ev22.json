@@ -1,0 +1,31 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": "十九日癸西",
+ "event_role": "军务",
+ "summary": "总河靳辅题请调赴葛陵兵丁并给口粮盐菜银两，康熙帝以地方渐平命停止调往，交部另议具奏。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "葛陵",
+  "江西",
+  "四川",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3322,
+ "page_range": "109-110"
+}

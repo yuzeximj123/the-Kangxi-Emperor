@@ -1,0 +1,31 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "十四日甲午",
+ "event_role": "贸易漕运",
+ "summary": "户部题覆仓场总督喀尔图奏浙江、湖广粮船尚未过淮，请敕总河严催速运，康熙帝令选六部贤能司官速往催运。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "喀尔图",
+   "role": "仓场总督"
+  }
+ ],
+ "places": [
+  "浙江",
+  "湖广",
+  "淮",
+  "通"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7319,
+ "page_range": "189-190"
+}

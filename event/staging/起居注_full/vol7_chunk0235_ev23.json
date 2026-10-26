@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "十三日癸亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝问左都御史赵申乔提督师葡德居官如何，赵奏其居官好、兵民俱安；王挟奏松江夜不财户有益地方；帝惜其水土不服得疾。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "左都御史"
+  },
+  {
+   "name": "师葡德",
+   "role": "提督"
+  },
+  {
+   "name": "王挟",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "松江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23523,
+ "page_range": "481-482"
+}

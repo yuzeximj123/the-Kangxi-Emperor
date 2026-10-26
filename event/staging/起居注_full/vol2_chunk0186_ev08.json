@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初九日辛巳",
+ "event_role": "请安谢恩",
+ "summary": "卯时康熙帝赴太皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18608,
+ "page_range": "415-416"
+}

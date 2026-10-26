@@ -1,0 +1,21 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "二十日庚子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝因祭告之便巡历遵化州一带地方，驻跸汤泉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "遵化州",
+  "汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19919,
+ "page_range": "433-434"
+}

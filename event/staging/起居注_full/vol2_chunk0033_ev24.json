@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": "十九日癸西",
+ "event_role": "司法案件",
+ "summary": "理藩院议阿玉锡等二人盗马拟绞事，康熙帝询问明珠后命将阿玉锡等免死，处以凌迟。",
+ "people": [
+  {
+   "name": "阿玉锡",
+   "role": "盗马者"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3324,
+ "page_range": "109-110"
+}

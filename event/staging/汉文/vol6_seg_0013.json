@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十四年二月初 日",
+ "reign_year": 54,
+ "month": 2,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "福建浙江总督范时崇奏请将漳州镇总兵许凤调补温州镇总兵胡泮告休所出之缺，并请特简补授漳镇总兵。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督，奏请人"
+  },
+  {
+   "name": "胡泮",
+   "role": "温州镇总兵官，年老告休"
+  },
+  {
+   "name": "许凤",
+   "role": "漳州镇总兵官，拟调补温州镇"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "温州",
+  "漳州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“是”，同意所请。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 13
+}

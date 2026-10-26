@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十三年二月二十五日",
+ "reign_year": 53,
+ "month": 2,
+ "day": 8,
+ "event_role": "请安谢恩",
+ "summary": "原任浙江提督王世臣在康熙五十三年万寿节期间，遣家人赍折恭请圣安并祝寿，表达感激圣恩之情。",
+ "people": [
+  {
+   "name": "王世臣",
+   "role": "原任浙江提督总兵官，奏请圣安者"
+  },
+  {
+   "name": "王忠裔",
+   "role": "王世臣家人，赍捧奏折进京"
+  }
+ ],
+ "places": [
+  "浙江",
+  "杭城",
+  "云林寺"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示已知晓奏折内容，并回复自己安好。",
+ "source_title": "杭州織造孫文成奏報黃蘆等縣饑民抗官摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1532",
+ "order_index": 159
+}

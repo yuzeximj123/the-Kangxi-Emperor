@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "十六日癸亥",
+ "event_role": "人事任免",
+ "summary": "吏部题国子监祭酒常锡布病故员缺，康熙帝命九卿会同拣选好人补授。",
+ "people": [
+  {
+   "name": "常锡布",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "巴尔哈",
+   "role": "郎中拟正"
+  },
+  {
+   "name": "胡什塔",
+   "role": "拟陪"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22405,
+ "page_range": "483-484"
+}

@@ -1,0 +1,46 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "event_summary": "九卿会议银米以丝抄为止、以下细数裁去以简明全书，康熙帝询问明珠、王熙、吴正治、宋德宜、徐乾学、韩菼意见，并命将九卿所议传问杨周宪是否心服。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "徐乾学",
+   "role": "学士"
+  },
+  {
+   "name": "韩菼",
+   "role": "学士"
+  },
+  {
+   "name": "杨周宪",
+   "role": "言官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12902,
+ "page_range": "293-294"
+}

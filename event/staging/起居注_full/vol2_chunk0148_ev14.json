@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "二十八日于申",
+ "event_role": "人事任免",
+ "summary": "福建总督姚启圣代题巡抚董国兴病危乞休，康熙帝从明珠议，着董国兴留任并票拟温旨。",
+ "people": [
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "董国兴",
+   "role": "巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14814,
+ "page_range": "339-340"
+}

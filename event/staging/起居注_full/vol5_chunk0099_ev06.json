@@ -1,0 +1,21 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "初一日丁交",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝至暂安奉殿行三跪九叩头礼、三奠酒举哀，旋至陵行三跪九叩头礼、三奠酒举哀毕，又三奠酒举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "暂安奉殿",
+  "陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9906,
+ "page_range": "208-209"
+}

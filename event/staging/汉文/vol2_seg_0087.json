@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十八年正月十九日",
+ "reign_year": 48,
+ "month": null,
+ "day": 1,
+ "event_role": "请安谢恩",
+ "summary": "浙江总督梁鼐上摺恭请圣安，颂扬皇上圣德，并祈愿圣躬康泰、上慰皇太后慈怀、下舒臣民诚悃。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "浙江总督，奏折作者"
+  },
+  {
+   "name": "觉罗满保",
+   "role": "福建浙江总督，题奏者"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示已阅知悉。",
+ "source_title": "浙江總督梁鼐奏報閩省大收並請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "445",
+ "order_index": 87
+}

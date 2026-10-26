@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "二十二日庚申",
+ "event_role": "议政听政",
+ "summary": "康熙帝问今科试卷何如，王熙、熊赐履、张英等奏对策论学校吏治尚能言大概，备荒治河不能实言其故，文章与前科相仿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  },
+  {
+   "name": "张英",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1223,
+ "page_range": "34-35"
+}

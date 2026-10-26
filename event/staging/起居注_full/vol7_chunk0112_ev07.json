@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "十九日丙子",
+ "event_role": "司法案件",
+ "summary": "刑部侍郎常寿因审广东行劫泛海商舶案引见司官索尔敏，康熙帝训其秉公理事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "索尔敏",
+   "role": "司官"
+  },
+  {
+   "name": "图海",
+   "role": "前尚书"
+  },
+  {
+   "name": "对喀纳",
+   "role": "前尚书"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11207,
+ "page_range": "235-236"
+}

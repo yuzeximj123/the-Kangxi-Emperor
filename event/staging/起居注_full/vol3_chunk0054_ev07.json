@@ -1,0 +1,21 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "二十二日甲寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝舟过高邮、宝应，见民田多在水中，登岸行堤畔十余里察形势。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "高邮",
+  "宝应"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5407,
+ "page_range": "143-144"
+}

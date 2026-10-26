@@ -1,0 +1,38 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "九卿等议李光地妄奏德格勒事，康熙帝谕令从宽免罪，仍为学士，严行申饬。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "学士"
+  },
+  {
+   "name": "德格勒",
+   "role": "被参奏者"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "图纳",
+   "role": "尚书"
+  },
+  {
+   "name": "马奇",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2400,
+ "page_range": "60-61"
+}

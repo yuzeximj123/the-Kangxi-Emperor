@@ -1,0 +1,33 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": "十六日庚辰",
+ "event_role": "河工水利",
+ "summary": "工部题总河于成龙请将靳辅借用两淮盐课银分年补还，康熙帝以银数甚多关系国课，命于成龙完结。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "靳辅",
+   "role": "原任总河"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "两淮",
+  "毛城铺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4913,
+ "page_range": "108-109"
+}

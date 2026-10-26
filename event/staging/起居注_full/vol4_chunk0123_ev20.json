@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 6,
+ "day_text": "初六日乙丑",
+ "event_role": "司法案件",
+ "summary": "刑部题原任太常寺少卿胡简敬一家济恶不法，拟胡简敬立决，胡旭、胡敷世绞监候，洪之杰革职，余照原议。",
+ "people": [
+  {
+   "name": "胡简敬",
+   "role": "原任太常寺少卿"
+  },
+  {
+   "name": "胡旭",
+   "role": "案犯"
+  },
+  {
+   "name": "胡敷世",
+   "role": "案犯"
+  },
+  {
+   "name": "洪之杰",
+   "role": "封疆大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12320,
+ "page_range": "258-259"
+}

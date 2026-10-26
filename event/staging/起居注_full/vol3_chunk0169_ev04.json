@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "二十三日丙午",
+ "event_role": "人事任免",
+ "summary": "户部题崇文门税差，拟差兵部郎中李铎，康熙帝询问李铎为人及保举人选。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李铎",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "胡什屯",
+   "role": "内阁侍读"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16904,
+ "page_range": "373-374"
+}

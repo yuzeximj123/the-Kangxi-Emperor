@@ -1,0 +1,38 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初三日癸丑",
+ "event_role": "人事任免",
+ "summary": "步军统领凯音布员缺，简选都统下图等呈览，康熙帝评论牙图、佟宝、托和齐等人才。",
+ "people": [
+  {
+   "name": "凯音布",
+   "role": "步军统领"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "牙图",
+   "role": "都统"
+  },
+  {
+   "name": "佟宝",
+   "role": "官员"
+  },
+  {
+   "name": "托和齐",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1716,
+ "page_range": "45-46"
+}

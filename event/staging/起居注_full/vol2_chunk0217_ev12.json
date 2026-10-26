@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十二日辛酉",
+ "event_role": "司法案件",
+ "summary": "刑部议胡荣索债打死巴昌拟绞事，康熙帝指出实系庄头王弘基打死，命再严审拟罪并定庄头扰害平民处分之例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "胡荣",
+   "role": "案犯"
+  },
+  {
+   "name": "巴昌",
+   "role": "死者"
+  },
+  {
+   "name": "王弘基",
+   "role": "庄头"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21712,
+ "page_range": "477-478"
+}

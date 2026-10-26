@@ -1,0 +1,44 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "十九日己卯",
+ "event_role": "司法案件",
+ "summary": "议政王大臣会议吴三桂骸骨分送各省、吴世璠首级悬示、夏国相凌迟、巴养原等立斩，康熙帝从之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴三桂",
+   "role": "逆贼"
+  },
+  {
+   "name": "吴世璠",
+   "role": "逆贼"
+  },
+  {
+   "name": "夏国相",
+   "role": "逆党"
+  },
+  {
+   "name": "巴养原",
+   "role": "降将"
+  }
+ ],
+ "places": [
+  "各省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10715,
+ "page_range": "257-258"
+}

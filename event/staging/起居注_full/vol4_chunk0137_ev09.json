@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "初九日乙丑",
+ "event_role": "朝见受贺",
+ "summary": "遵化州游击李国盛、知州祖允嘉、把总邢得功等来朝见。",
+ "people": [
+  {
+   "name": "李国盛",
+   "role": "遵化州游击"
+  },
+  {
+   "name": "祖允嘉",
+   "role": "遵化州知州"
+  },
+  {
+   "name": "邢得功",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "遵化州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13709,
+ "page_range": "286-287"
+}

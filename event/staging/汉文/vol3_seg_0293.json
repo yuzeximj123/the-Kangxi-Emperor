@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十年十一月",
+ "reign_year": 50,
+ "month": 11,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "浙江巡抚王度昭奏报收到朱批并恭请圣安，逢康熙五十一年元旦，率浙江大小臣僚祝圣天子万寿无疆，遣家人邹守经进折请安。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚，奏折具奏人"
+  },
+  {
+   "name": "邹守经",
+   "role": "王度昭家人，奉命进折请安"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批告知皇上安好，已知道所奏之事。",
+ "source_title": "浙江巡撫王度昭奏賀萬壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "993",
+ "order_index": 293
+}

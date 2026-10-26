@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "初七日己未",
+ "event_role": "人事任免",
+ "summary": "议政王等会推镶黄旗都统，正拟佟国纲、陪拟田象坤，康熙帝从明珠议补授佟国纲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国纲",
+   "role": "内大臣"
+  },
+  {
+   "name": "田象坤",
+   "role": "侯"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5014,
+ "page_range": "143-144"
+}

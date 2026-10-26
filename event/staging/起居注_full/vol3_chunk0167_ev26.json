@@ -1,0 +1,40 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "十七日庚子",
+ "event_role": "朝见受贺",
+ "summary": "康熙御勤政殿赐科尔沁等部请安进贡王公台吉等食。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿拉山",
+   "role": "科尔沁和硕土谢图亲王"
+  },
+  {
+   "name": "苏朱克图",
+   "role": "多罗郡王"
+  },
+  {
+   "name": "班第诺门额尔黑图",
+   "role": "台吉"
+  },
+  {
+   "name": "鄂齐里",
+   "role": "泰曼部落达尔汉郡王"
+  },
+  {
+   "name": "格勒尔",
+   "role": "辅国公"
+  }
+ ],
+ "places": [
+  "勤政殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16726,
+ "page_range": "369-370"
+}

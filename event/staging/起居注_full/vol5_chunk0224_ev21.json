@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "初二日辛效",
+ "event_role": "军务",
+ "summary": "议政大臣奏称康熙帝亲至宁夏，所遣两路兵皆给肥马骆驼，于成龙所运米粮着骆驼驮载行过瀚海交与运粮官员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "瀚海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22421,
+ "page_range": "458-459"
+}

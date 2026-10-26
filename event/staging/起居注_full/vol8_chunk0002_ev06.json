@@ -1,0 +1,38 @@
+{
+ "reign_year": 52,
+ "month": 1,
+ "day_text": "二十五日癸卯",
+ "event_role": "谕旨决策",
+ "summary": "大学士温达等以折本请旨，覆请兵部议御史徐树庸请稽查土司容留他省之民一事，康熙帝不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "王掞",
+   "role": "大学士"
+  },
+  {
+   "name": "徐树庸",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 206,
+ "page_range": "15-16"
+}

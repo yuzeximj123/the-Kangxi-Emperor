@@ -1,0 +1,44 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与明珠议论喇巴、翁英等学问优劣及考试名次，并称格尔古德可补授詹事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "喇巴",
+   "role": "曾读书者"
+  },
+  {
+   "name": "翁英",
+   "role": "被议学问者"
+  },
+  {
+   "name": "牛钮",
+   "role": "被称所学优者"
+  },
+  {
+   "name": "常书",
+   "role": "被称所学优者"
+  },
+  {
+   "name": "格尔古德",
+   "role": "拟补詹事"
+  }
+ ],
+ "places": [
+  "长春宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22000,
+ "page_range": "497-498"
+}

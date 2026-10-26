@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "二十一日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "九卿会议赵时指条奏，康熙帝询问九卿意见后决定调整御朝听政时间，春夏辰初刻、秋冬辰正初刻，并宽免老病官员齐集。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "赵时指",
+   "role": "条奏者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14705,
+ "page_range": "337-338"
+}

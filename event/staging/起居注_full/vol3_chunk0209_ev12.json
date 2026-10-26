@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": "二十三日于寅",
+ "event_role": "谕旨决策",
+ "summary": "礼部会同翰林院议覆励杜讷所记圣论请宣付史馆刊布，康熙帝认为不必颁布，命暂留内阅改定。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "励杜讷",
+   "role": "翰林院编修"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20912,
+ "page_range": "453-454"
+}

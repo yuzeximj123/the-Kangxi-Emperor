@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称下河虽未亲到、上河曾亲见，认为靳辅、于成龙之议皆可导水下海、功可成。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "于成龙",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "高宝湖",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12504,
+ "page_range": "285-286"
+}

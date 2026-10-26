@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十四年二月二十七日",
+ "reign_year": 54,
+ "month": 2,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦上摺恭贺万寿，遥祝圣寿无疆，并恳请赐假归里省亲。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏摺人"
+  },
+  {
+   "name": "张若渟",
+   "role": "内阁学士，署奏摺者"
+  }
+ ],
+ "places": [
+  "苏州",
+  "西陲",
+  "帝阙"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示皇帝已阅知此事。",
+ "source_title": "蘇州織造李煦奏賀萬壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1739",
+ "order_index": 10
+}

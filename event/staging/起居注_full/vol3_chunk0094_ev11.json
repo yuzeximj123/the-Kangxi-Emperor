@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "二十九日戊子",
+ "event_role": "贸易漕运",
+ "summary": "户部题云南巡抚王继文请减云南铸钱铜条议不准，康熙帝令将滇省铜从容运解至沅州船运来京，并令问九卿。",
+ "people": [
+  {
+   "name": "王继文",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南",
+  "沅州",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9411,
+ "page_range": "223-224"
+}

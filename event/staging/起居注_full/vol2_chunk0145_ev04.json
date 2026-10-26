@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "初七日辛效",
+ "event_role": "其他",
+ "summary": "辰时康熙帝御乾清宫，讲官牛钮、陈廷敬、孙在丰进讲《易经》损卦等节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14504,
+ "page_range": "333-334"
+}

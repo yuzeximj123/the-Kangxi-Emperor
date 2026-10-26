@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命将常明严加枷责并发遣白都纳，因黑子、常明行止不端。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黑子",
+   "role": "侍卫处效力行走"
+  },
+  {
+   "name": "常明",
+   "role": "侍卫处效力行走"
+  },
+  {
+   "name": "陶和气",
+   "role": "荐举人"
+  }
+ ],
+ "places": [
+  "白都纳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24100,
+ "page_range": "493-494"
+}

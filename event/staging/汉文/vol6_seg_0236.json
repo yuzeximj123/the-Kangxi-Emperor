@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十五年二月十六日",
+ "reign_year": 55,
+ "month": 2,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报保定一带得雪情形，称云气深广、得雪必多，待各属报到再奏，并恭请圣安、进献土物。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚（奏折具奏人）"
+  }
+ ],
+ "places": [
+  "保定",
+  "京中"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示已知晓，并说明京城往北雪不大、远处尚未报到。",
+ "source_title": "直隸總督趙弘燮奏請萬安並進土物摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "2015",
+ "order_index": 236
+}

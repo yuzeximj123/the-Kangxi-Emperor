@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "十六日辛丑",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝言居货兰山时公人木春奏称西地亢旱寸草不生，马齐奏适闻圣论始得知悉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "木春",
+   "role": "公人"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "兰山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21004,
+ "page_range": "430-431"
+}

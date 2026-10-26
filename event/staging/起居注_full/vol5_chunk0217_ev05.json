@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十五日",
+ "event_role": "谕旨决策",
+ "summary": "康熙遣侍郎常绶、侍读学士伊道、侍卫克什图等赍敕往赐策旺喇布坦，历数噶尔丹奸诡侵扰之罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常绶",
+   "role": "侍郎"
+  },
+  {
+   "name": "伊道",
+   "role": "侍读学士"
+  },
+  {
+   "name": "克什图",
+   "role": "侍卫"
+  },
+  {
+   "name": "策旺喇布坦",
+   "role": "台吉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21705,
+ "page_range": "444-445"
+}

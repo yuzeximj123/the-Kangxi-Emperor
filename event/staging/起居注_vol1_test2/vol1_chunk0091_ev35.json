@@ -1,0 +1,32 @@
+{
+ "reign_year": 14,
+ "month": 5,
+ "day_text": "十七日乙效",
+ "event_role": "其他",
+ "summary": "搬时，康熙帝御弘德殿，讲官喇沙里、孙在丰、张英进讲《孟子》相关章节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9135,
+ "page_range": "239-240"
+}

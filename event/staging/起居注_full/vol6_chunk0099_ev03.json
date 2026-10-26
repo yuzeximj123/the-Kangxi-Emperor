@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题正红旗都统彭春员缺，康熙帝以公彭春人品优长补授都统，并称宗室简授都统副都统俱称职。",
+ "people": [
+  {
+   "name": "彭春",
+   "role": "正红旗都统"
+  },
+  {
+   "name": "鄂克济哈",
+   "role": "护军统领"
+  },
+  {
+   "name": "凯音布",
+   "role": "副都统"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9903,
+ "page_range": "208-209"
+}

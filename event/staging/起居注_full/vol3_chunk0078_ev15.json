@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初三日癸北",
+ "event_role": "人事任免",
+ "summary": "兵部题补正蓝旗蒙古副都统孙塔哈员缺，康熙帝令另查应补之人具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙塔哈",
+   "role": "正蓝旗蒙古副都统"
+  },
+  {
+   "name": "扎穆杨",
+   "role": "长史"
+  },
+  {
+   "name": "雅海",
+   "role": "前锋参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7815,
+ "page_range": "191-192"
+}

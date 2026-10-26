@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "云贵总督巴锡题请将贵州镇远副将陈王路降级调用，康熙帝命照该督所请降级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "云贵总督"
+  },
+  {
+   "name": "陈王路",
+   "role": "贵州镇远副将"
+  }
+ ],
+ "places": [
+  "贵州",
+  "镇远"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19001,
+ "page_range": "390-391"
+}

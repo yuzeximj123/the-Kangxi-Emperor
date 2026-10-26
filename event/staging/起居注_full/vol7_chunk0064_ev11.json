@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 6,
+ "day_text": "二十七日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "戌时，以和硕裕亲王病笃奏闻，康熙帝即命直郡王皇十子星夜先赴京师，并传谕率皇太子启行，诸大臣再三恳留不允。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "直郡王皇十子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "和硕裕亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6411,
+ "page_range": "139-140"
+}

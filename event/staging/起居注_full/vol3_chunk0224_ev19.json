@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "二十日丁卯",
+ "event_role": "皇帝行止",
+ "summary": "早，康熙帝前往太皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22419,
+ "page_range": "483-484"
+}

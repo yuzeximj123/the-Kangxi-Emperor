@@ -1,0 +1,22 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "十二日",
+ "event_role": "谕旨决策",
+ "summary": "户部题右卫运米不到之人交刑部议处，康熙帝指捐纳弊端甚多，命交九卿大臣议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通州",
+  "京城",
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6908,
+ "page_range": "148-149"
+}

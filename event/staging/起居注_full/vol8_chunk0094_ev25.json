@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "二十九日甲午",
+ "event_role": "朝见受贺",
+ "summary": "抽木税员外郎吴同宝、密云县知县朱英等、守备李万鹏等来朝。",
+ "people": [
+  {
+   "name": "吴同宝",
+   "role": "抽木税员外郎"
+  },
+  {
+   "name": "朱英",
+   "role": "密云县知县"
+  },
+  {
+   "name": "李万鹏",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9425,
+ "page_range": "199-200"
+}

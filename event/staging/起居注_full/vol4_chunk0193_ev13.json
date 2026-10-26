@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "十九日戊成",
+ "event_role": "司法案件",
+ "summary": "理藩院会同三法司议乌珠穆秦副都统伊喇库克山等十二人照律处斩，康熙帝以人命重大、事属陷害未定，令查明多讷等尸骸后再议完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊喇库克山",
+   "role": "乌珠穆秦副都统"
+  },
+  {
+   "name": "喇西",
+   "role": "官员"
+  },
+  {
+   "name": "多讷",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19313,
+ "page_range": "398-399"
+}

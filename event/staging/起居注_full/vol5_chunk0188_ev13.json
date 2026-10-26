@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "初十日辛卯",
+ "event_role": "朝见受贺",
+ "summary": "保安州知州吴永申等、鸡鸣驿把总马得富来朝。",
+ "people": [
+  {
+   "name": "吴永申",
+   "role": "保安州知州"
+  },
+  {
+   "name": "马得富",
+   "role": "鸡鸣驿把总"
+  }
+ ],
+ "places": [
+  "保安州",
+  "鸡鸣驿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18813,
+ "page_range": "386-387"
+}

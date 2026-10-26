@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "初八日乙刻",
+ "event_role": "河工水利",
+ "summary": "康熙帝询问拦马河三减水坝分水是否致损民田，张玉书等奏遥堤外有通流故道，可无淹没。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "拦马河",
+  "中河",
+  "遥堤"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6212,
+ "page_range": "136-137"
+}

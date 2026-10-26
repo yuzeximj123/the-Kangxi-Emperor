@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十八日",
+ "event_role": "司法案件",
+ "summary": "刑部覆江西省缓决案内打死李士宗之李士敏等一案，康熙帝以李士敏因救兄打死李士宗，着改可矜。",
+ "people": [
+  {
+   "name": "李士敏",
+   "role": "凶犯"
+  },
+  {
+   "name": "李士宗",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "江西省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11114,
+ "page_range": "233-234"
+}

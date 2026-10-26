@@ -1,0 +1,27 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十三日",
+ "event_role": "谕旨决策",
+ "summary": "马齐等遵旨查呈历来批朝鲜国王旨意本，康熙帝阅后称朝鲜国王敬慎、国人感戴，述其地理及太宗朝营建之恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "朝鲜",
+  "瓦尔喀",
+  "土门江",
+  "凤凰城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13510,
+ "page_range": "281-282"
+}

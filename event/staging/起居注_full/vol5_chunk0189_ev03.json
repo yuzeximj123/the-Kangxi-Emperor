@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "口北道常明杨、宣化府知府范时崇、总兵官白赵等来朝。",
+ "people": [
+  {
+   "name": "常明杨",
+   "role": "口北道"
+  },
+  {
+   "name": "范时崇",
+   "role": "宣化府知府"
+  },
+  {
+   "name": "白赵",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "宣化府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18903,
+ "page_range": "388-389"
+}

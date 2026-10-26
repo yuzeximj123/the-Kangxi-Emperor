@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初二日戊戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早射放社稷坛致祭毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "社稷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 415,
+ "page_range": "43-44"
+}

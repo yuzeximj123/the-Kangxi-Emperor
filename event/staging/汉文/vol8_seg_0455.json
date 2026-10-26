@@ -1,0 +1,28 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "广东提督施世骠向康熙帝奏请圣安，康熙朱批问询广东总兵以下武官为官情形及近日海贼情况。",
+ "people": [
+  {
+   "name": "施世骠",
+   "role": "广东提督"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙答复朕安，并询问广东总兵以下武官做官情形及近日海贼情况。",
+ "source_title": "（广东提督请安）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 455
+}

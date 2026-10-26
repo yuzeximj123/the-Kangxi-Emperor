@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十三日乙雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝训导差往陕西审事的赵申乔、噶敏图，令其从公审理、洁己处理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "左都御史"
+  },
+  {
+   "name": "噶敏图",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21704,
+ "page_range": "445-446"
+}

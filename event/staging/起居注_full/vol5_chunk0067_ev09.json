@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "二十八日己丑",
+ "event_role": "人事任免",
+ "summary": "盛京刑部请裁汉军员外郎孟光宗另补蒙古员外，康熙帝谕令添补蒙古员外一员，汉军员外仍存留。",
+ "people": [
+  {
+   "name": "佛保",
+   "role": "盛京刑部侍郎"
+  },
+  {
+   "name": "孟光宗",
+   "role": "汉军员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6709,
+ "page_range": "144-145"
+}

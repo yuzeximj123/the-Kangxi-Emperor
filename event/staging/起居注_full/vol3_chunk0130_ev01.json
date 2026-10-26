@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "庶子孟亮揆升任员缺拟补侍读乔莱，康熙帝询问明珠等意见，命将所奏记入档册并另选具奏。",
+ "people": [
+  {
+   "name": "孟亮揆",
+   "role": "庶子"
+  },
+  {
+   "name": "乔莱",
+   "role": "侍读拟补"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "常书",
+   "role": "学士"
+  },
+  {
+   "name": "孙在丰",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13001,
+ "page_range": "295-296"
+}

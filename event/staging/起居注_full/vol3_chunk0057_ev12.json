@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "初六日丁卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝面谕吏部尚书伊桑阿，命同工部尚书萨穆哈往被水灾州县详勘，疏浚海口以除水患，经费在所不惜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "萨穆哈",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [
+  "高邮",
+  "宝应"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5712,
+ "page_range": "149-150"
+}

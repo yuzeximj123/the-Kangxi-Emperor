@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 5,
+ "day_text": "二十三日壬戌",
+ "event_role": "议政听政",
+ "summary": "康熙帝御前殿，讲官傅达礼、史鹤龄、编修张英进讲臧文仲居蔡章及令尹子文三仕章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "讲官"
+  },
+  {
+   "name": "史鹤龄",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "编修"
+  }
+ ],
+ "places": [
+  "前殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4201,
+ "page_range": "141-142"
+}

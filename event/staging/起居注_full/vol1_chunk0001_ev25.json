@@ -1,0 +1,20 @@
+{
+ "reign_year": 10,
+ "month": 10,
+ "day_text": "初二日庚辰",
+ "event_role": "朝见受贺",
+ "summary": "宁古塔将军巴海来朝。",
+ "people": [
+  {
+   "name": "巴海",
+   "role": "宁古塔将军"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 125,
+ "page_range": "59-60"
+}

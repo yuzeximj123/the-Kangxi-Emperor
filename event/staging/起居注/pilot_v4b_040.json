@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙二十八年二月二十九日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十九日本卯",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝以御用袍帽赐江宁将军博济、总督傅腊塔，又以御用袍帽及御制诗赐杨捷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博济",
+   "role": "江宁将军"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "总督"
+  },
+  {
+   "name": "杨捷",
+   "role": "江南提督将军"
+  }
+ ],
+ "places": [
+  "江宁府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2040
+}

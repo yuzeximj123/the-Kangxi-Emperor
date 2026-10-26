@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "武举王大献三种技勇俱不能举，康熙帝问会试监箭之人，兵部侍郎成其范奏称王大献曾能开弓，或因天寒弓劲。",
+ "people": [
+  {
+   "name": "王大献",
+   "role": "武举"
+  },
+  {
+   "name": "成其范",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4203,
+ "page_range": "96-97"
+}

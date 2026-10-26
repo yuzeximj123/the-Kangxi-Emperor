@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "三十日乙丑",
+ "event_role": "军务",
+ "summary": "江宁将军瓦代题请率领标下官兵一年二次行围，兵部议准，康熙帝令明白传谕并严禁骚扰地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "瓦代",
+   "role": "江宁将军"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2410,
+ "page_range": "83-84"
+}

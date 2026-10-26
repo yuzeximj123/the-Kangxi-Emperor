@@ -1,0 +1,34 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": "二十九日了西",
+ "event_role": "谕旨决策",
+ "summary": "礼部议覆监察御史尼满条陈科场事宜，康熙帝询问大学士李光地等，李光地奏称严密详尽，康熙帝命依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尼满",
+   "role": "监察御史"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永营",
+   "role": "大学士"
+  },
+  {
+   "name": "王所",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7613,
+ "page_range": "163-164"
+}

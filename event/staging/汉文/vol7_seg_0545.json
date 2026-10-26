@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾陆年拾月贰拾玖日",
+ "reign_year": 56,
+ "month": 10,
+ "day": 29,
+ "event_role": "奏报地方情形",
+ "summary": "河南巡抚张圣佐奏报豫省各属降雪及时，认为此乃圣主感召天和所致，具折奏闻以慰圣怀。",
+ "people": [
+  {
+   "name": "张圣佐",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "焦国柱",
+   "role": "标下右营马兵，差遣赍折"
+  },
+  {
+   "name": "刘栋",
+   "role": "张圣佐家人，同赍奏折"
+  }
+ ],
+ "places": [
+  "河南",
+  "豫省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 545
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "十四日甲申",
+ "event_role": "司法案件",
+ "summary": "刘大以石击死马二抵死，王申奏其习于杀人、验十二伤情属难宽，康熙帝颌之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘大",
+   "role": "罪犯"
+  },
+  {
+   "name": "马二",
+   "role": "死者"
+  },
+  {
+   "name": "王申",
+   "role": "奏事官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6038,
+ "page_range": "130-131"
+}

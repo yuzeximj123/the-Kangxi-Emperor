@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝再传谕旨，言皇太后若有不讳，将越二三日祭奠一次，梓宫发引时送至宁寿宫门或箭亭、东华门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁寿宫",
+  "箭亭",
+  "东华门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22702,
+ "page_range": "465-466"
+}

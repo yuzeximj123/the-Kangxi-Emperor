@@ -1,0 +1,37 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初二日戊子",
+ "event_role": "谕旨决策",
+ "event_scope": "朝议",
+ "summary": "理藩院议喀尔喀进贡事，康熙谕蒙古贡物应否收纳着该衙门即定议具奏，不必以达赖喇嘛之文为据。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "车臣济农",
+   "role": "喀尔喀部落"
+  },
+  {
+   "name": "厄尔得尼济农",
+   "role": "喀尔喀部落"
+  },
+  {
+   "name": "扎萨克图汗",
+   "role": "喀尔喀部落"
+  },
+  {
+   "name": "达赖喇嘛",
+   "role": "喇嘛"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 708,
+ "page_range": "57-58"
+}

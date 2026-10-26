@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": "二十日壬申",
+ "event_role": "司法案件",
+ "summary": "刑部题直隶大盗杨起麟、韩二越狱复投首不准援例应正法，康熙帝照请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨起麟",
+   "role": "大盗"
+  },
+  {
+   "name": "韩二",
+   "role": "大盗"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20209,
+ "page_range": "415-416"
+}

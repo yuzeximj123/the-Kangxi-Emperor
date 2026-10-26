@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题原任总兵官朱衣客领兵赴建昌不能救援、失利败归拟斩监候，康熙帝以其情罪未至死，命照旗下人例议罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱衣客",
+   "role": "原任总兵官"
+  }
+ ],
+ "places": [
+  "建昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17303,
+ "page_range": "389-390"
+}

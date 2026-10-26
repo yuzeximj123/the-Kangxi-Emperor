@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "二十日乙巳",
+ "event_role": "朝见受贺",
+ "summary": "照例赐朝鲜国王李焞及李粘冬至正朝万寿节年贡正副使郑在抢、李光索等鞍马表皮银币有差。",
+ "people": [
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "李粘",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "郑在抢",
+   "role": "正使东平慰"
+  },
+  {
+   "name": "李光索",
+   "role": "副使礼曹判书"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17609,
+ "page_range": "363-364"
+}

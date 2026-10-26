@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 7,
+ "day_text": "二十四日辛卯",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝出大红门至正阳门进午门，赴太皇太后、皇太后宫问安，午时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大红门",
+  "正阳门",
+  "午门",
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4726,
+ "page_range": "151-152"
+}

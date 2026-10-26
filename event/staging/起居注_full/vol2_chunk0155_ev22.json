@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初十日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "礼部题原任广东巡抚金俊之母已封一品夫人应赐祭，康熙帝以其子居官甚劣初不许，后从明珠奏照例给与。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金俊",
+   "role": "原任广东巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15522,
+ "page_range": "353-354"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "十三日己丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台门听部院各衙门官员面奏政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀛台门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12707,
+ "page_range": "297-298"
+}

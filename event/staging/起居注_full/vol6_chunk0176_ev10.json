@@ -1,0 +1,44 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "十五日甲成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸固安县属葛家屯，直隶巡抚李光地等前来。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "朝琦",
+   "role": "分司"
+  },
+  {
+   "name": "杨敌",
+   "role": "固安县知县"
+  },
+  {
+   "name": "刘格色",
+   "role": "防守御"
+  },
+  {
+   "name": "折库纳巴代",
+   "role": "防御"
+  },
+  {
+   "name": "李文朝",
+   "role": "旧州营把总"
+  }
+ ],
+ "places": [
+  "固安县葛家屯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17610,
+ "page_range": "362-363"
+}

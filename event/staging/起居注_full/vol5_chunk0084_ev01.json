@@ -1,0 +1,29 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "两江总督范承勋题请革职徐州知州孔香玫留任，康熙以其居官好、勤劳素著，命照该督所题留任。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "两江总督"
+  },
+  {
+   "name": "孔香玫",
+   "role": "革职徐州知州"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "徐州",
+  "两江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8401,
+ "page_range": "178-179"
+}

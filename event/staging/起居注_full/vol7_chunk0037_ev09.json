@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "三十日",
+ "event_role": "人事任免",
+ "summary": "兵部题台湾副将员缺，请以兴化副将张应金补授，康熙帝依郭世隆题请补授，并谕台湾官员未满三年不必来京引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭世隆",
+   "role": "总督"
+  },
+  {
+   "name": "张应金",
+   "role": "兴化副将"
+  }
+ ],
+ "places": [
+  "台湾",
+  "兴化"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3709,
+ "page_range": "85-86"
+}

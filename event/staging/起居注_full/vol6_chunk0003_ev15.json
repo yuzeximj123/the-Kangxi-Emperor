@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": "初九日丁亥",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御畅春园渊宁居听政，吏部尚书库勒纳等进奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "吏部尚书"
+  }
+ ],
+ "places": [
+  "畅春园渊宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 315,
+ "page_range": "16-17"
+}

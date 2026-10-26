@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "二十三日庚戌",
+ "event_role": "军务",
+ "summary": "兵部议彭春等招抚雅克萨城罗刹应作头等军功，康熙帝令改为头等第一军功。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭春",
+   "role": "将领"
+  },
+  {
+   "name": "明安达礼",
+   "role": "将领"
+  },
+  {
+   "name": "萨木苏",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "雅克萨城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11716,
+ "page_range": "269-270"
+}

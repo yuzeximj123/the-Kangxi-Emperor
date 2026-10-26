@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "初六日己丑",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝召刑部侍郎噶尔图询问盛京及近京雨水麦田民生情形。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔图",
+   "role": "刑部侍郎"
+  }
+ ],
+ "places": [
+  "盛京",
+  "山海关",
+  "丰润"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16604,
+ "page_range": "367-368"
+}

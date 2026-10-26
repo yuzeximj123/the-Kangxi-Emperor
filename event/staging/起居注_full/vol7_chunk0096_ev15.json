@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "二十八日戊巳",
+ "event_role": "司法案件",
+ "summary": "借贷官银改换文书擅用假印案，笔帖式康欧拟斩，金依文拟枷号两月鞭一百，康熙令康欧监候秋后处决，金依文枷号鞭责发黑龙江当差。",
+ "people": [
+  {
+   "name": "康欧",
+   "role": "笔帖式"
+  },
+  {
+   "name": "金依文",
+   "role": "刑部贴写笔帖式"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9615,
+ "page_range": "203-204"
+}

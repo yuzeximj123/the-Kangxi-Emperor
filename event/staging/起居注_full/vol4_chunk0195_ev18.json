@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "二十六日乙已",
+ "event_role": "人事任免",
+ "summary": "吏部题督捕左理事官何阜员缺，拟齐稿正、齐什陪，康熙帝命补齐入，并以齐什浮躁解郎中任，改盛京武官员缺用。",
+ "people": [
+  {
+   "name": "齐入",
+   "role": "拟补督捕左理事官"
+  },
+  {
+   "name": "齐什",
+   "role": "盛京工部郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19518,
+ "page_range": "402-403"
+}

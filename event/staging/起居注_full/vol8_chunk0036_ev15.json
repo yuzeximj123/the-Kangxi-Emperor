@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "二十三日丁卯",
+ "event_role": "司法案件",
+ "summary": "覆请刑部等题强盗陈五显等聚众数百抢劫拟立斩一案，康熙帝命会同该部再议，分别首恶正法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈五显",
+   "role": "强盗"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "王掞",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3615,
+ "page_range": "83-84"
+}

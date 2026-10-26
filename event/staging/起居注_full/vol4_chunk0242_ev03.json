@@ -1,0 +1,23 @@
+{
+ "reign_year": 32,
+ "month": 9,
+ "day_text": "十六日",
+ "event_role": "谕旨决策",
+ "summary": "户部题报浙江巡抚称杭州嘉兴等八府六月得雨未成灾荒，康熙帝以江浙夏月亢旱、秋收必欠，谕令蠲免浙江漕粮并酌免江南漕粮。",
+ "people": [
+  {
+   "name": "张觅瑚",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "杭州",
+  "嘉兴",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24203,
+ "page_range": "496-497"
+}

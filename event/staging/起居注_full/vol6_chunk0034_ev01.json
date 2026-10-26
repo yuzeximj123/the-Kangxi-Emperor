@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "兵部议总兵官白斌题属下从军官兵驼米马驼倒毙请免赔偿不准行，康熙帝命宣化府官兵已死马驼免赔补。",
+ "people": [
+  {
+   "name": "白斌",
+   "role": "总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宣化府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3401,
+ "page_range": "78-79"
+}

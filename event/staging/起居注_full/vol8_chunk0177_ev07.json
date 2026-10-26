@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以坐粮厅阿金、江藻声名不好，令革去坐粮厅，别选贤能补授，江藻留京派大工程，问九卿具奏。",
+ "people": [
+  {
+   "name": "阿金",
+   "role": "坐粮厅"
+  },
+  {
+   "name": "江藻",
+   "role": "坐粮厅"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17707,
+ "page_range": "365-366"
+}

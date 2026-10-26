@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十一年三月二十六日",
+ "reign_year": 51,
+ "month": 3,
+ "day": 3,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹寅奏报江南冬田茂秀、米价如常、百姓安乐，并报告《佩文韵府》刊刻开工及江宁三月晴雨录。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造、通政使司通政使，奏报人"
+  },
+  {
+   "name": "曹牧",
+   "role": "正文提及，与雨旸时若相关"
+  },
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏折标题作者"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了，再打听”，令继续探听消息。",
+ "source_title": "直隸巡撫趙弘燮奏報得雨日期摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1054",
+ "order_index": 29
+}

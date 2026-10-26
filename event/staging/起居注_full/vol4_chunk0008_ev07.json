@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "初三日丙午",
+ "event_role": "弹劾参奏",
+ "summary": "御史郭翘纠参河臣靳辅蠹国累民、幕宾陈潢冒滥名器。",
+ "people": [
+  {
+   "name": "郭翘",
+   "role": "御史"
+  },
+  {
+   "name": "靳辅",
+   "role": "河臣"
+  },
+  {
+   "name": "陈潢",
+   "role": "幕宾"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 807,
+ "page_range": "28-29"
+}

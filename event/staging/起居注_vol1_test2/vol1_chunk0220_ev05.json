@@ -1,0 +1,40 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝召大学士等议赵氏、陈三道等立斩及李应宗等秋后处决案，明珠、李霨奏请正法，帝从之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "赵氏",
+   "role": "拟立斩者"
+  },
+  {
+   "name": "陈三道",
+   "role": "拟立斩者"
+  },
+  {
+   "name": "李应宗",
+   "role": "拟斩秋后处决者"
+  }
+ ],
+ "places": [
+  "克勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22005,
+ "page_range": "497-498"
+}

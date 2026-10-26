@@ -1,0 +1,20 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "十二日己丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3426,
+ "page_range": "79-80"
+}

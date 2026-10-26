@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝与九卿议巡抚姚缔虞等居官，称原任布政使倩腊塔居官良优，已召还内用。",
+ "people": [
+  {
+   "name": "姚缔虞",
+   "role": "巡抚"
+  },
+  {
+   "name": "倩腊塔",
+   "role": "原任布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22300,
+ "page_range": "481-482"
+}

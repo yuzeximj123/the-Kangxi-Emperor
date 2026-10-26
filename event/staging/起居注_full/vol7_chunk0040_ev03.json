@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问九卿对顺天武乡试策题浅薄的看法，张玉书转奏九卿意见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [
+  "顺天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4003,
+ "page_range": "91-92"
+}

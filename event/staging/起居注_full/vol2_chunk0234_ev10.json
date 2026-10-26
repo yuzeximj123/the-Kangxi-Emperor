@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十七日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部题赞善徐乾学升任员缺，康熙帝询问翰林才品后命王项龄升补赞善。",
+ "people": [
+  {
+   "name": "徐乾学",
+   "role": "赞善"
+  },
+  {
+   "name": "田成玉",
+   "role": "检讨"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "王项龄",
+   "role": "翰林"
+  },
+  {
+   "name": "李振裕",
+   "role": "翰林"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23410,
+ "page_range": "511-512"
+}

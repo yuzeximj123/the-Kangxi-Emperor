@@ -1,0 +1,21 @@
+{
+ "reign_year": 28,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕称因今年亢旱五内焦劳，未曾他出，夏移驻瀛台未御船，往畅春园亦未他幸，复患时疾致瘦，已知诸王大臣所奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀛台",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8001,
+ "page_range": "172-173"
+}

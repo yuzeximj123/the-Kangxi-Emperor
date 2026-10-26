@@ -1,0 +1,37 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "浙江总督李之芳请释被掠人口，九卿会议不允，康熙帝责李之芳原奏失体、徇情未议，命再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李之芳",
+   "role": "浙江总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "董卫国",
+   "role": "江西总督"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20103,
+ "page_range": "459-460"
+}

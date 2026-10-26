@@ -1,0 +1,20 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "十三日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部题原任分守关南道兴永朝应以原品级补用，康熙帝以其居官善、兵民称善，命以应得职衔即用。",
+ "people": [
+  {
+   "name": "兴永朝",
+   "role": "原任分守关南道"
+  }
+ ],
+ "places": [
+  "关南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6620,
+ "page_range": "175-176"
+}

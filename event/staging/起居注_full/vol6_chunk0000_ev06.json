@@ -1,0 +1,44 @@
+{
+ "reign_year": 36,
+ "month": 6,
+ "day_text": "初二日庚成",
+ "event_role": "议政听政",
+ "summary": "康熙帝询问天津道赵弘赫居官如何，王牛奏其居官不生事；又论赵良栋为国勤劳、性刚而纪律严明。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘赫",
+   "role": "天津道"
+  },
+  {
+   "name": "王牛",
+   "role": "大学士"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "黄岩总兵官"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "赵良栋",
+   "role": "原将军"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6,
+ "page_range": "10-11"
+}

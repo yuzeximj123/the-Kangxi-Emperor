@@ -1,0 +1,33 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "明珠等遵旨传问统领佟佳、副都统蓝图病情，康熙帝决定二人留任调治并派针医治佟佳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佟佳",
+   "role": "统领"
+  },
+  {
+   "name": "蓝图",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 602,
+ "page_range": "47-48"
+}

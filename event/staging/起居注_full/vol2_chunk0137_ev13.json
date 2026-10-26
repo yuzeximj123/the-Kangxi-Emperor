@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "初七日壬午",
+ "event_role": "弹劾参奏",
+ "summary": "奉天府府尹高尔位题荐锦州知府孙成、题参开原知县周志焕，康熙帝令询明再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高尔位",
+   "role": "奉天府府尹"
+  },
+  {
+   "name": "孙成",
+   "role": "锦州知府"
+  },
+  {
+   "name": "周志焕",
+   "role": "开原知县"
+  }
+ ],
+ "places": [
+  "锦州",
+  "开原",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13713,
+ "page_range": "317-318"
+}

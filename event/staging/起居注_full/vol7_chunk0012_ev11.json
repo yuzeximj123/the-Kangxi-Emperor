@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "十一日王成",
+ "event_role": "人事任免",
+ "summary": "汇题内医生方兴有疾议革退，康熙帝以其行止无耻命革职并删去该段具奏。",
+ "people": [
+  {
+   "name": "方兴",
+   "role": "医生"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1211,
+ "page_range": "35-36"
+}

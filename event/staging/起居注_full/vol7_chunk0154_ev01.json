@@ -1,0 +1,23 @@
+{
+ "reign_year": 50,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命以汉字询问现到朝鲜国人及奉天、船厂将军，查明朝鲜平安道渭原郡等地与船厂或奉天所属地方相近情况。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "平安道",
+  "渭原郡",
+  "船厂",
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15401,
+ "page_range": "319-320"
+}

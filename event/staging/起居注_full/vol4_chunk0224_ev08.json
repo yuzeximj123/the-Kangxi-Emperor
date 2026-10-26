@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "初四日戊寅",
+ "event_role": "人事任免",
+ "summary": "吏部题原任尚书能一潇、给事中达启纳、赵吉士录用事，康熙帝命能一潇、赵吉士照原品降三级用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "能一潇",
+   "role": "原任尚书"
+  },
+  {
+   "name": "达启纳",
+   "role": "原任给事中"
+  },
+  {
+   "name": "赵吉士",
+   "role": "原任给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22408,
+ "page_range": "460-461"
+}

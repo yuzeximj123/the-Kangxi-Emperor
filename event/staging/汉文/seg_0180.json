@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙四十六年七月二十四日",
+ "reign_year": 46,
+ "month": 7,
+ "day": 24,
+ "event_role": "请安谢恩",
+ "summary": "梁鼐奏报浙省旱情得雨、海洋哨巡安靖及会审事竣回闽，并遣人恭请圣安。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "奏报人"
+  },
+  {
+   "name": "马得胜",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "杭城",
+  "杭嘉湖绍"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "248",
+ "source_title": "闽浙总督梁鼐奏请圣安摺（康熙四十六年七月）",
+ "order_index": 180
+}

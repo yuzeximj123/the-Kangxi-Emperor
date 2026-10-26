@@ -1,0 +1,27 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "董讷奏下河冈门、白驹、丁溪、草堰四海口地势南高北下，议开海口及雇夫之事。",
+ "people": [
+  {
+   "name": "董讷",
+   "role": "两江总督"
+  },
+  {
+   "name": "孙在丰",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "冈门",
+  "白驹",
+  "丁溪",
+  "草堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1303,
+ "page_range": "38-39"
+}

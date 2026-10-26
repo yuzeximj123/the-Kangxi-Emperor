@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "十四日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户部，免被灾各地方康熙三十一年额征银米，并命甘肃督抚详议购粮转输速行赈济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布喀",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安",
+  "凤翔",
+  "甘肃",
+  "咸宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17111,
+ "page_range": "354-355"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就山西静乐等县未完三十六年钱粮征收事，指出该地歉收已蠲免，令改于来秋带征，并责该部不详察即准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "静乐",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4200,
+ "page_range": "94-95"
+}

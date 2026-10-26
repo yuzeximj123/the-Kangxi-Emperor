@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅刘大踢打李大伤重身死并恐吓致李二投井案，以致死二命令勾去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘大",
+   "role": "案犯"
+  },
+  {
+   "name": "李大",
+   "role": "死者"
+  },
+  {
+   "name": "李二",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24209,
+ "page_range": "495-496"
+}

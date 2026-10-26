@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问翰林中如陆荣之学问好者，王掞等奏对，康熙欲将年老旧臣挨次升迁，命问该衙门官员陆荣为人如何来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王掞",
+   "role": "奏对官员"
+  },
+  {
+   "name": "李楠",
+   "role": "奏对官员"
+  },
+  {
+   "name": "陆荣",
+   "role": "翰林"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2800,
+ "page_range": "66-67"
+}

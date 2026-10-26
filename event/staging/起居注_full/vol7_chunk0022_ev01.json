@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙就广东按察司补授谕示赵世显宜任紧要之地，朱士杰仅堪道员，令九卿具奏应补人员。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵世显",
+   "role": "候补按察司"
+  },
+  {
+   "name": "朱士杰",
+   "role": "曾任天津道"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2201,
+ "page_range": "55-56"
+}

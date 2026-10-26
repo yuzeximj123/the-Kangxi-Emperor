@@ -1,0 +1,28 @@
+{
+ "reign_year": 13,
+ "month": 9,
+ "day_text": "十一日壬申",
+ "event_role": "议政听政",
+ "summary": "辰时，康熙帝御后殿，讲官喇沙里、张英进讲《中庸》素隐章、君子之道费而隐二节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "后殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7803,
+ "page_range": "213-214"
+}

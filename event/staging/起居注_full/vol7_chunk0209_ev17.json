@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": "初三日丙戌",
+ "event_role": "人事任免",
+ "summary": "吏部题江宁巡抚张伯行员缺，以内阁学士王思轼等职名开列，康熙帝以江宁巡抚印务已着人带理、张伯行等事正在审理，令暂且等个，本收贮。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "王思轼",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20917,
+ "page_range": "429-430"
+}

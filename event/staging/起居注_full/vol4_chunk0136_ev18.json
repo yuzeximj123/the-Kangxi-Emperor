@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "初四日庚申",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以文皇后三周礼往祭，由东华门出朝阳门，驻足通州东关。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "文皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [
+  "东华门",
+  "朝阳门",
+  "通州东关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13618,
+ "page_range": "284-285"
+}

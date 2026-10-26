@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "初五日辛酉",
+ "event_role": "其他",
+ "summary": "申时康熙帝率皇太子、诸皇子及善射侍卫射于行宫东门外，发矢皆中，并令总兵官以至把总俱射毕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "宣化府行宫东门外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20418,
+ "page_range": "418-419"
+}

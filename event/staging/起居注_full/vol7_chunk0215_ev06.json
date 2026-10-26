@@ -1,0 +1,36 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "初十日王成",
+ "event_role": "人事任免",
+ "summary": "覆请江南提督师范德代为题补，兵民保留总督噶礼、巡抚张伯行，康熙令照马三奇奏防所票之旨拟票。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "师范德",
+   "role": "江南提督"
+  },
+  {
+   "name": "噶礼",
+   "role": "总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "马三奇",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21506,
+ "page_range": "441-442"
+}

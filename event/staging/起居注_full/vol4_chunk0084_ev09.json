@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "初五日戊戌",
+ "event_role": "司法案件",
+ "summary": "理藩院题喀尔喀朱布尔哈什哈等抢夺哨探人马匹，康熙帝从宽免死照为从例完结，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱布尔哈什哈",
+   "role": "喀尔喀人"
+  },
+  {
+   "name": "顾木德",
+   "role": "从犯"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8409,
+ "page_range": "180-181"
+}

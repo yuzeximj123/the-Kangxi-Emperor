@@ -1,0 +1,36 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "十六日甲成",
+ "event_role": "司法案件",
+ "summary": "大学士等覆请审结喀喇沁他布圳达木巴等控告额驸噶尔臧霸占索诺穆等妻案，拟革和硕额驸衔立斩。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "噶尔臧",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "达木巴",
+   "role": "控告人"
+  }
+ ],
+ "places": [
+  "喀喇沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16601,
+ "page_range": "343-344"
+}

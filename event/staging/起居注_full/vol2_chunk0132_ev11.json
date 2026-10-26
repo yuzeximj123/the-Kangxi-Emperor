@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "十四日己未",
+ "event_role": "司法案件",
+ "summary": "湖广巡抚王新命题谋杀人为从加功李季公等遵诏议免，刑部议不准行；康熙帝与明珠议后从部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李季公",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13211,
+ "page_range": "307-308"
+}

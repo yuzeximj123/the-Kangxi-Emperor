@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十四日丙子",
+ "event_role": "司法案件",
+ "summary": "浙江省秋审情真案内命毅臣、丁总、张世俊、沈廷奢四案，康熙帝令俱改为监候缓决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "命毅臣",
+   "role": "案犯"
+  },
+  {
+   "name": "丁总",
+   "role": "案犯"
+  },
+  {
+   "name": "张世俊",
+   "role": "案犯"
+  },
+  {
+   "name": "沈廷奢",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11016,
+ "page_range": "231-232"
+}

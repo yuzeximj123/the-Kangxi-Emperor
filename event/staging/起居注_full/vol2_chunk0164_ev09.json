@@ -1,0 +1,50 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "二十日匡已",
+ "event_role": "人事任免",
+ "summary": "吏部题补内净满洲侍读学士员缺，康熙帝以洪尼喀历年既久、人亦质朴，着补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "色勒布",
+   "role": "拟正郎中"
+  },
+  {
+   "name": "塞赫",
+   "role": "拟陪"
+  },
+  {
+   "name": "喀尼布",
+   "role": "应升官员"
+  },
+  {
+   "name": "图尔臣",
+   "role": "应升官员"
+  },
+  {
+   "name": "洪尼喀",
+   "role": "应升官员"
+  },
+  {
+   "name": "马齐",
+   "role": "应升官员"
+  },
+  {
+   "name": "席格",
+   "role": "应升官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16409,
+ "page_range": "371-372"
+}

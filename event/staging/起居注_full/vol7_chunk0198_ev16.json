@@ -1,0 +1,34 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "十三日丁卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士温达、学士众圣保、马良、二郎保以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "众圣保",
+   "role": "学士"
+  },
+  {
+   "name": "马良",
+   "role": "学士"
+  },
+  {
+   "name": "二郎保",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19816,
+ "page_range": "407-408"
+}

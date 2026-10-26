@@ -1,0 +1,31 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "十二日甲申",
+ "event_role": "人事任免",
+ "summary": "兵部引见草州驻防防御员缺，康熙帝命补拟陪之人，明书留补盛京、乌喇、宁古塔等处。",
+ "people": [
+  {
+   "name": "明书",
+   "role": "原孝陵防御"
+  },
+  {
+   "name": "丑隆阿",
+   "role": "护军校"
+  },
+  {
+   "name": "杭爱",
+   "role": "兵部尚书"
+  }
+ ],
+ "places": [
+  "草州",
+  "盛京",
+  "乌喇",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18713,
+ "page_range": "417-418"
+}

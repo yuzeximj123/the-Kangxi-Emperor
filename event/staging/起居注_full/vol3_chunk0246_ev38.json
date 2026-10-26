@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 9,
+ "day_text": "二十日乙未",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁学士色冷格升任员缺，开列詹事尹泰等，康熙帝评尹泰为人轻傣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色冷格",
+   "role": "内阁学士"
+  },
+  {
+   "name": "尹泰",
+   "role": "詹事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24638,
+ "page_range": "527-528"
+}

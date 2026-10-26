@@ -1,0 +1,34 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请刑部题殴死刘莱远之楚五拟斩监候、赵大等拟徒杖，康熙以此与刘芳声事相同，本发还着同赵申乔等议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "楚五",
+   "role": "案犯"
+  },
+  {
+   "name": "刘莱远",
+   "role": "死者"
+  },
+  {
+   "name": "赵大",
+   "role": "案犯"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16204,
+ "page_range": "335-336"
+}

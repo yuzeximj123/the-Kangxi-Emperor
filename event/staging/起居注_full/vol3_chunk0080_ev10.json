@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初十日庚午",
+ "event_role": "人事任免",
+ "summary": "大学士等以折本请旨，吏科掌印给事中杨周宪员缺拟汪晋征补授，帝问其人，王熙称诚实，命补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汪晋征",
+   "role": "拟补科员"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "杨周宪",
+   "role": "吏科掌印给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8010,
+ "page_range": "195-196"
+}

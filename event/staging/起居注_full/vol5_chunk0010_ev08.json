@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "初九日",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝论礼部题奉先殿祭时皇太子行礼仪注，指出槛内无余地，皇太子拜褥应铺槛外，斥沙木哈等虚称铺在稍后。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "侍郎"
+  },
+  {
+   "name": "沙木哈",
+   "role": "尚书"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "奉先殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1008,
+ "page_range": "30-31"
+}

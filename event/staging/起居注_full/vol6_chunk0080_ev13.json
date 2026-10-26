@@ -1,0 +1,27 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "二十一日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕此行专为阅河，将轻舟夜行往阅黄河以南高家堰、归仁堤等处堤防。",
+ "people": [
+  {
+   "name": "海青",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "存住",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "归仁堤",
+  "清口",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8013,
+ "page_range": "170-171"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "十八日于成",
+ "event_role": "人事任免",
+ "summary": "马齐等奏问九卿任克溥居官何如，康熙帝以其年老居官本优，谕令问九卿应否给尚书空衔。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "任克溥",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6122,
+ "page_range": "133-134"
+}

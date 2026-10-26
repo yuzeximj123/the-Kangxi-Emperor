@@ -1,0 +1,21 @@
+{
+ "reign_year": 18,
+ "month": 8,
+ "day_text": "二十六日戊子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝言今岁江南大荒，山东犹未为太甚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18917,
+ "page_range": "435-436"
+}

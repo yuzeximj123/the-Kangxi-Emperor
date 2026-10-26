@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初一日已已",
+ "event_role": "人事任免",
+ "summary": "吏部题补侍郎科尔坤升任员缺，康熙帝以额星格礼部事务娴熟，命调补吏部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "科尔坤",
+   "role": "侍郎"
+  },
+  {
+   "name": "额库礼",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "额星格",
+   "role": "侍郎"
+  },
+  {
+   "name": "郭耕",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22003,
+ "page_range": "483-484"
+}

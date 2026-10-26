@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初十日丙寅",
+ "event_role": "司法案件",
+ "summary": "江南巡抚慕天颜审原任司道吴伟诈赃案俱坐衙役，部议再严审，康熙帝以显有情弊命该抚另加严审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "慕天颜",
+   "role": "江南巡抚"
+  },
+  {
+   "name": "吴伟",
+   "role": "原任司道"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 209,
+ "page_range": "47-48"
+}

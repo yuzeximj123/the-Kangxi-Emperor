@@ -1,0 +1,20 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "二十一日己巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝回盛京，周视内外城池，城内外老少跪列道旁，凡年老无告鳏寡孤独者皆赐银两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23,
+ "page_range": "57-58"
+}

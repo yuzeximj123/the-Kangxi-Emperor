@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "群臣合词请上尊号，康熙帝下旨批明断不可行，命尔等再勿渎奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "群臣",
+   "role": "请上尊号者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4800,
+ "page_range": "107-108"
+}

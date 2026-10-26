@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "二十一日戊申",
+ "event_role": "人事任免",
+ "summary": "吏部题广西布政使员缺，拟张仲信为正、董昭宦为陪，康熙命传谕九卿于现任道员内择清廉者具奏。",
+ "people": [
+  {
+   "name": "张仲信",
+   "role": "广东按察使"
+  },
+  {
+   "name": "董昭宦",
+   "role": "安徽按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19514,
+ "page_range": "400-401"
+}

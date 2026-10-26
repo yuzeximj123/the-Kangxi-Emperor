@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "初七日交未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝赴太皇太后宫问安，太皇太后移驻五龙亭，请皇太后移驻紫光阁未允。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "五龙亭",
+  "紫光阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12604,
+ "page_range": "295-296"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "二十三日戊成",
+ "event_role": "人事任免",
+ "summary": "吏部题湖广总督郭玫员缺，以侍郎傅继祖等开列，康熙帝命问九卿石文晶、喻成龙孰宜补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭玫",
+   "role": "湖广总督"
+  },
+  {
+   "name": "傅继祖",
+   "role": "侍郎"
+  },
+  {
+   "name": "石文晶",
+   "role": "巡抚"
+  },
+  {
+   "name": "喻成龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5805,
+ "page_range": "127-128"
+}

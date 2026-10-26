@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "温达覆奏九卿议通州中南仓、大西仓增修一百厂需银十五万请开捐纳，康熙帝令动用户部库银修理。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通州",
+  "中南仓",
+  "大西仓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2602,
+ "page_range": "63-64"
+}

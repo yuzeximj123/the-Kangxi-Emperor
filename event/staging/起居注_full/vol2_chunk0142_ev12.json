@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "二十八日癸卯",
+ "event_role": "人事任免",
+ "summary": "工部题差通惠河分司员缺拟推员外郎噶哈，康熙帝以其为人平常，令另选才能具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶哈",
+   "role": "工部员外郎"
+  }
+ ],
+ "places": [
+  "通惠河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14212,
+ "page_range": "327-328"
+}

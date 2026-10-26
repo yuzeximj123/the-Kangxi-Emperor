@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 12,
+ "day_text": "十三日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "诚亲王、雍亲王、十六阿哥传谕，康熙帝言十五日可往祭，十七日发引足疾虽愈身体尚弱，将亲视梓宫升车躬送发引。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诚亲王",
+   "role": "传谕"
+  },
+  {
+   "name": "雍亲王",
+   "role": "传谕"
+  },
+  {
+   "name": "十六阿哥",
+   "role": "传谕"
+  }
+ ],
+ "places": [
+  "宁寿宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22727,
+ "page_range": "465-466"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初七日壬戌",
+ "event_role": "弹劾参奏",
+ "summary": "都察院查得直隶巡抚赵弘赤迟延奏请密云县黑豆事，议降级罚俸，户部亦议罚俸，康熙帝以事有因未即决。",
+ "people": [
+  {
+   "name": "赵弘赤",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "穆和伦",
+   "role": "户部尚书"
+  },
+  {
+   "name": "傅舒",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18821,
+ "page_range": "387-388"
+}

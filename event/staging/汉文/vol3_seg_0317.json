@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十一年正月初三日",
+ "reign_year": 51,
+ "month": null,
+ "day": 9,
+ "event_role": "奏报地方情形",
+ "summary": "河南巡抚鹿祐奏报豫省各府州自上年十月至本年正月屡得瑞雪，通省沾足，麦苗滋培可望丰登，官民欢忭祝寿。",
+ "people": [
+  {
+   "name": "鹿祐",
+   "role": "河南巡抚，奏报人"
+  },
+  {
+   "name": "许嗣甲",
+   "role": "布政使，报雪情"
+  }
+ ],
+ "places": [
+  "河南",
+  "怀庆",
+  "河南府",
+  "彰德",
+  "卫辉",
+  "汝州",
+  "开封",
+  "归德"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批知悉，并称近京各处雪已充足。",
+ "source_title": "河南巡撫鹿祐奏為恭報瑞雪摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "1015",
+ "order_index": 317
+}

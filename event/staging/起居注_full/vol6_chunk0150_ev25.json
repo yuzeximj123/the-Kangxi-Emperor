@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "二十三日丙成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕内大臣等，此行特为修理龙口流水之处，非为谒陵，命年老大臣及仪会侍卫随往谒陵，其余大臣侍卫章京护军留龙口听指示修理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "公福善",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "龙口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15025,
+ "page_range": "310-311"
+}

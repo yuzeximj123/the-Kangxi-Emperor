@@ -1,0 +1,36 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "初三日丁丑",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝召郡王纳木扎尔、贝子额尔得尼、盆褚克、公汉都近御座亲赐酒，其余台吉令侍卫传饮，宴毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "纳木扎尔",
+   "role": "多罗郡王"
+  },
+  {
+   "name": "额尔得尼",
+   "role": "固山贝子"
+  },
+  {
+   "name": "盆褚克",
+   "role": "固山贝子"
+  },
+  {
+   "name": "汉都",
+   "role": "公"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21703,
+ "page_range": "446-447"
+}

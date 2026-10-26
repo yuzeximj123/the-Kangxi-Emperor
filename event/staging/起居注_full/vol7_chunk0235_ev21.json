@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "十三日癸亥",
+ "event_role": "人事任免",
+ "summary": "康熙帝将鲁改汉、李登云之名签授工部侍郎把叙，令填在朱伦翰之后，余照所拟填榜。",
+ "people": [
+  {
+   "name": "鲁改汉",
+   "role": "武举"
+  },
+  {
+   "name": "李登云",
+   "role": "武举"
+  },
+  {
+   "name": "把叙",
+   "role": "工部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23521,
+ "page_range": "481-482"
+}

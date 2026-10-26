@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝与明珠等议罗塞尔腾拟陪补授事，认为保举二人俱属平常，但因系该王及护军统领保举，仍准拟正之人补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "罗塞尔腾",
+   "role": "拟陪官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9100,
+ "page_range": "217-218"
+}

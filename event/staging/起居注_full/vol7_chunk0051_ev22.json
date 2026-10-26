@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "十三日戊子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自苏州府登舟启行，过嘉兴府，吴江县知县张元振来朝。",
+ "people": [
+  {
+   "name": "张元振",
+   "role": "吴江县知县"
+  }
+ ],
+ "places": [
+  "苏州府",
+  "嘉兴府",
+  "吴江县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5122,
+ "page_range": "113-114"
+}

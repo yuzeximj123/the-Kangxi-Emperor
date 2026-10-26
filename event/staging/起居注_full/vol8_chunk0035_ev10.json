@@ -1,0 +1,21 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙问学士舒兰身体，论往边地水土不宜致疾，以宁夏、五台地高气不足为例，言处处留心试验方知。",
+ "people": [
+  {
+   "name": "舒兰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "五台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3510,
+ "page_range": "81-82"
+}

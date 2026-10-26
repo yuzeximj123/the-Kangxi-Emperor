@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 3,
+ "day_text": "十四日乙亥",
+ "event_role": "人事任免",
+ "summary": "吏部题升补道府事，康熙帝以刘殿衡人材实优、西宁为边塞要地，命以所升参政道衔仍留原任，余依议用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘殿衡",
+   "role": "西宁副使道"
+  },
+  {
+   "name": "佛伦",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6111,
+ "page_range": "132-133"
+}

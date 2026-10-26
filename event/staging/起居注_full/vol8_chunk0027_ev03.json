@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议覆总兵官李雄所题裁革水师营兵七百仍留防守及商船停泊盖州改旅顺口二事，康熙帝命交盛京将军议之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李雄",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "盖州",
+  "旅顺口",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2703,
+ "page_range": "65-66"
+}

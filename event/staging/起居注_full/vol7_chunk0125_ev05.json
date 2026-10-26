@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问舒兰宁夏总兵刘官统居官何如，舒兰奏其较前觉优，帝言其仅视前少优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "舒兰",
+   "role": "官员"
+  },
+  {
+   "name": "刘官统",
+   "role": "宁夏总兵官"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12505,
+ "page_range": "261-262"
+}

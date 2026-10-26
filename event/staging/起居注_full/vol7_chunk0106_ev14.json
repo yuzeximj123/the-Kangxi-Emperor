@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "二十四日",
+ "event_role": "司法案件",
+ "summary": "刑部等议覆偏沅巡抚赵申乔题刘招凤击死胞弟刘子善案，因母张氏七十余岁止生二子，请旨是否存留养亲。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "刘招凤",
+   "role": "案犯"
+  },
+  {
+   "name": "刘子善",
+   "role": "死者"
+  },
+  {
+   "name": "刘官生",
+   "role": "刘招凤继父"
+  },
+  {
+   "name": "张氏",
+   "role": "刘招凤之母"
+  }
+ ],
+ "places": [
+  "偏沅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10614,
+ "page_range": "223-224"
+}

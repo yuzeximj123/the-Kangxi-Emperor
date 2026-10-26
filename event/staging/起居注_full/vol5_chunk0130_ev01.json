@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "初九日甲子",
+ "event_role": "军务",
+ "summary": "康熙帝亲率前锋兵穷追噶尔丹，噶尔丹仓皇逃走，沿途缴获其遗弃器械帐房食用等物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "敌方首领"
+  }
+ ],
+ "places": [
+  "克鲁伦河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13001,
+ "page_range": "270-271"
+}

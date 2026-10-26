@@ -1,0 +1,23 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "初七日甲成",
+ "event_role": "河工水利",
+ "summary": "康熙帝率诸臣自七里闸、太平闸阅视高家堰一带堤岸闸坝，命河臣改天妃闸为草坝，另设七里、太平二闸以分水势。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "七里闸",
+  "太平闸",
+  "高家堰",
+  "天妃闸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6204,
+ "page_range": "136-137"
+}

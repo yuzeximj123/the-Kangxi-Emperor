@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "十二日辛卯",
+ "event_role": "人事任免",
+ "summary": "吏部议浙江巡抚李本晟降二级调用，康熙帝以其操守优、无罪过，令免议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李本晟",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9615,
+ "page_range": "235-236"
+}

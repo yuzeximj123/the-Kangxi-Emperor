@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 8,
+ "day_text": "十三日生辰",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆准监察御史魏寿期条奏更定步军校等治罪之例，康熙帝以所议不相当，令发还另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏寿期",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "京西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2623,
+ "page_range": "63-64"
+}

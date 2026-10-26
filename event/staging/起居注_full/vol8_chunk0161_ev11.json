@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "十五日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "十五日辛丑，巳时康熙由畅春园启程前往汤泉。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16111,
+ "page_range": "333-334"
+}

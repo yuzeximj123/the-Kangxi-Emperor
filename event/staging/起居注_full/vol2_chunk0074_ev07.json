@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "十五日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝阅顺天乡试第三场策题，论民贫不能耕田积贮之弊，大学士李霨等奏对，帝颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "顺天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7407,
+ "page_range": "191-192"
+}

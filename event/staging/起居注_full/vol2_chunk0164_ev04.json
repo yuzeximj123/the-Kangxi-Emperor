@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十九日王辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补监察御史员缺，康熙帝询问刘芳远、唐翰栈，明珠称二人平常，帝遂以净兴邦补监察御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "刘芳远",
+   "role": "拟正郎中"
+  },
+  {
+   "name": "唐翰栈",
+   "role": "拟陪"
+  },
+  {
+   "name": "净兴邦",
+   "role": "工部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16404,
+ "page_range": "371-372"
+}

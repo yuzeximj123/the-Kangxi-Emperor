@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝斥责布颜图不思报恩、品行贪秽，革去其侍郎之职，仍授理藩院员外主事，令其服劳愧过。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布颜图",
+   "role": "理藩院侍郎，被革职改授员外主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3100,
+ "page_range": "72-73"
+}

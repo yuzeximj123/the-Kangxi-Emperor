@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "二十七日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论考选科道策文，指其废学已入、文义未允，并斥条对西北水田之利者徒生事无益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "西北地区"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19404,
+ "page_range": "423-424"
+}

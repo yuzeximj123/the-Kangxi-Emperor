@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补郎中陈嘉餐病故员缺，正拟金现、陪拟金得，康熙帝言金珊办事虽优但工于奔竞，命金瑛随旗行走、缺出补用，此缺另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  },
+  {
+   "name": "金珊",
+   "role": "拟正员外郎"
+  },
+  {
+   "name": "金得",
+   "role": "拟陪"
+  },
+  {
+   "name": "金瑛",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20901,
+ "page_range": "461-462"
+}

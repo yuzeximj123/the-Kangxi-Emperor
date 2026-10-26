@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 3,
+ "day_text": "二十二日戊午",
+ "event_role": "河工水利",
+ "summary": "吏部题监利等县河堤冲决，请将总督额伦特等照黄河例降三级留任，康熙帝以江堤与黄河不同，部议引例错误，命发还详察再议。",
+ "people": [
+  {
+   "name": "额伦特",
+   "role": "总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "监利"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9027,
+ "page_range": "191-192"
+}

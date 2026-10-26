@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "十八日庚寅",
+ "event_role": "人事任免",
+ "summary": "理藩院题鄂尔多斯已故多罗贝勒万舒克之母请以万舒克三弟台吉达席喇卜滩承袭，议应令承袭贝子。",
+ "people": [
+  {
+   "name": "万舒克",
+   "role": "已故多罗贝勒"
+  },
+  {
+   "name": "达席喇卜滩",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "鄂尔多斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4816,
+ "page_range": "106-107"
+}

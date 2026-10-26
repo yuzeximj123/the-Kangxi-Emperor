@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "十四日辛亥",
+ "event_role": "谕旨决策",
+ "summary": "科臣任撒旦条奏请减苏松钱粮额数，康熙帝令会同户部堂官查明现征钱粮及水旱蠲免实数来奏。",
+ "people": [
+  {
+   "name": "任撒旦",
+   "role": "科臣"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "苏松"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24512,
+ "page_range": "533-534"
+}

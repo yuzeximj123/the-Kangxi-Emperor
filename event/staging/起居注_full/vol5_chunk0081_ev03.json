@@ -1,0 +1,33 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十五日甲申",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚沈朝聘题请调补怀来、西宁知县，部议不准，康熙帝命照该抚所题调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "鲁一哲",
+   "role": "知县"
+  },
+  {
+   "name": "刘宾",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "怀来县",
+  "西宁县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8103,
+ "page_range": "172-173"
+}

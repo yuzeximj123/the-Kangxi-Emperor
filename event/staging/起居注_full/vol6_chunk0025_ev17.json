@@ -1,0 +1,22 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "十二日戊午",
+ "event_role": "人事任免",
+ "summary": "吏部题升补科道，康熙帝谕科道为耳目要职，九卿所保部院官员俱好，知县内惟吴瑞保举甚公，其余未及。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴瑞",
+   "role": "知县"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2517,
+ "page_range": "60-61"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十七日丙申",
+ "event_role": "军务",
+ "summary": "康熙帝率诸皇子射连发俱中，又命善射侍卫射，官兵士民叹异，命官兵分班校马步射并赐茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "善射侍卫",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "教场"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8602,
+ "page_range": "182-183"
+}

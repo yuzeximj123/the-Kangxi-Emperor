@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初四日癸巳",
+ "event_role": "其他",
+ "summary": "是日，赐西安副都统巴麟、广东副都统牛钮、江宁副都统硕色鞍马各一匹。",
+ "people": [
+  {
+   "name": "巴麟",
+   "role": "西安副都统"
+  },
+  {
+   "name": "牛钮",
+   "role": "广东副都统"
+  },
+  {
+   "name": "硕色",
+   "role": "江宁副都统"
+  }
+ ],
+ "places": [
+  "西安",
+  "广东",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8317,
+ "page_range": "176-177"
+}

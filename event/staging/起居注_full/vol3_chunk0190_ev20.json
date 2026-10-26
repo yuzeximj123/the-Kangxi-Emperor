@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "初二日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "明珠等奏公议张英、德格勒记注一事，称记注事务殊关紧要，起居注官应将上谕及臣下奏对语言明白纪载，一语不可遗漏。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张英",
+   "role": "学士"
+  },
+  {
+   "name": "德格勒",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19020,
+ "page_range": "415-416"
+}

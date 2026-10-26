@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "二十一日壬辰",
+ "event_role": "谕旨决策",
+ "summary": "工部覆黑龙江将军薄凯题请大修黑龙江、齐齐哈尔二处船只，康熙帝令遣京中部院能员携料估前往会同将军修造，工竣注册具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "薄凯",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "齐齐哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8808,
+ "page_range": "187-188"
+}

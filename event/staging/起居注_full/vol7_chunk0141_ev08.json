@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "马齐等奏遵旨询问四川人李光复等关于格勒尔图之妻姚自亮素行，据称不可留于斯世，康熙帝命三法司详议。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "格勒尔图",
+   "role": "相关人员"
+  },
+  {
+   "name": "姚自亮",
+   "role": "格勒尔图之妻"
+  },
+  {
+   "name": "李光复",
+   "role": "大理寺少卿"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14108,
+ "page_range": "293-294"
+}

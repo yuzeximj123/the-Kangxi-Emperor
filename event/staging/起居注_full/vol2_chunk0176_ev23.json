@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "初九日辛雍",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫，讲官牛钮、陈廷敬、孙在丰进讲。",
+ "people": [
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17623,
+ "page_range": "395-396"
+}

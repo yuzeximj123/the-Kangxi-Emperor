@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十二年九月二十日",
+ "reign_year": 52,
+ "month": 9,
+ "day": 20,
+ "event_role": "奏报地方情形",
+ "summary": "广州将军管源忠遵旨奏报广东晚禾收成约七八分、米价每石一两至一两一钱、雨水偏少及地方安静情形。",
+ "people": [
+  {
+   "name": "管源忠",
+   "role": "广州将军，奏报人"
+  },
+  {
+   "name": "管承泽",
+   "role": "佐领，管源忠之子，转呈朱批家信"
+  }
+ ],
+ "places": [
+  "广州",
+  "广东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批告知已知悉，并令其速将地方情形奏报。",
+ "source_title": "广州将军管源忠奏报广东目下情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 74
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初三日生辰",
+ "event_role": "人事任免",
+ "summary": "兵部请以偏图转庄浪副将，康熙帝命偏图不必转，应于云贵地方调用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "偏图",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "庄浪",
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22519,
+ "page_range": "507-508"
+}

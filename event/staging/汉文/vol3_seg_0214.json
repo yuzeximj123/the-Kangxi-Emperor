@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙五十年八月初五日",
+ "reign_year": 50,
+ "month": 8,
+ "day": 5,
+ "event_role": "军务",
+ "summary": "闽浙总督范时崇等奏陈五显聚众案未及早具奏缘由，解释因轻视贼情未即奏闻，现正设法缉拿陈五显并谢恩。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "黄秉中",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "陈五显",
+   "role": "聚众案首犯"
+  },
+  {
+   "name": "姜德",
+   "role": "赍摺家人"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "闽"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并警告若不能拿获陈五显则事情关系重大。",
+ "source_title": "閩浙總督范時崇等奏陳五顯聚衆案未及早具奏緣由摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "918",
+ "order_index": 214
+}

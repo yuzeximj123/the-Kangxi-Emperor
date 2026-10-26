@@ -1,0 +1,35 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "event_scope": "朝议",
+ "summary": "吏部题补正红旗科道，康熙以党西布可用、俄色办事详明，命党西布补监察御史、俄色补给事中。",
+ "people": [
+  {
+   "name": "党西布",
+   "role": "官员"
+  },
+  {
+   "name": "俄色",
+   "role": "官员"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 726,
+ "page_range": "57-58"
+}

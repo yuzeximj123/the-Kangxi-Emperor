@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十七日己卯",
+ "event_role": "谕旨决策",
+ "summary": "监察御史成其范条奏销毁伪钱、采用中江铜山铜斤，户部议覆，康熙帝以蜀省产铜该部未详查，命再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "成其范",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "中江",
+  "铜山",
+  "蜀省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5613,
+ "page_range": "155-156"
+}

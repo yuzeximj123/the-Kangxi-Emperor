@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "三十日壬辰",
+ "event_role": "司法案件",
+ "summary": "刑部等题孙加复打死大功服兄孙声献应即行正法，康熙以救父情由改为秋后处决。",
+ "people": [
+  {
+   "name": "孙加复",
+   "role": "案犯"
+  },
+  {
+   "name": "孙声献",
+   "role": "死者"
+  },
+  {
+   "name": "孙美生",
+   "role": "孙加复之父"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11218,
+ "page_range": "235-236"
+}

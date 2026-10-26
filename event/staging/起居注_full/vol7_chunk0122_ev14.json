@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "二十九日甲申",
+ "event_role": "人事任免",
+ "summary": "吏部就顺天府府尹施世纶题大兴县知县李锦员缺议令直隶巡抚选择具奏，康熙帝以李锦居官不善着该部议处具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施世纶",
+   "role": "顺天府府尹"
+  },
+  {
+   "name": "李锦",
+   "role": "大兴县知县"
+  }
+ ],
+ "places": [
+  "大兴县",
+  "黄梅县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12214,
+ "page_range": "255-256"
+}

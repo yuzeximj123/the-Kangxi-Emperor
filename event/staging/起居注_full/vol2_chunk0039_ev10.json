@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十四日戊戌",
+ "event_role": "人事任免",
+ "summary": "吏部题补理藩院侍郎员缺，康熙帝命大理卿明爱补授侍郎。",
+ "people": [
+  {
+   "name": "明爱",
+   "role": "大理卿"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3910,
+ "page_range": "121-122"
+}

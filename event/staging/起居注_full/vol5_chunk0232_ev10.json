@@ -1,0 +1,27 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣等奏报侍郎席煌图采买牲口事竣后未赴行在而自内驿回去，康熙帝责其无理，命严拿交部。",
+ "people": [
+  {
+   "name": "席煌图",
+   "role": "侍郎"
+  },
+  {
+   "name": "存住",
+   "role": "批本"
+  }
+ ],
+ "places": [
+  "凉州",
+  "宁夏",
+  "大同",
+  "宣化府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23210,
+ "page_range": "474-475"
+}

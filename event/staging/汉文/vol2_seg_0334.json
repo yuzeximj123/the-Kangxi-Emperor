@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙四十九年六月二十一日",
+ "reign_year": 49,
+ "month": 6,
+ "day": 11,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州、扬州二麦已收米价平贱，扬州插秧将完、苏州因雨水多仅插五六分，并进呈五月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "管理苏州织造大理寺卿兼巡视两淮盐课监察御史，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并评论巡抚清正、期望家给人足、风俗淳厚。",
+ "source_title": "蘇州織造李煦奏報蘇揚插蒔米價得雨並進晴雨冊摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "684",
+ "order_index": 334
+}

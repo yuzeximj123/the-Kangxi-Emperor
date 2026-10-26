@@ -1,0 +1,37 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": "十一日全未",
+ "event_role": "朝见受贺",
+ "summary": "东安县防守御赛柱、八品笔帖式汤阿、永清县教谕崔二伦、训导陈明扬、典史王斌如等来朝见。",
+ "people": [
+  {
+   "name": "赛柱",
+   "role": "东安县防守御"
+  },
+  {
+   "name": "汤阿",
+   "role": "八品笔帖式"
+  },
+  {
+   "name": "崔二伦",
+   "role": "永清县教谕"
+  },
+  {
+   "name": "陈明扬",
+   "role": "训导"
+  },
+  {
+   "name": "王斌如",
+   "role": "典史"
+  }
+ ],
+ "places": [
+  "东安县",
+  "永清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5303,
+ "page_range": "117-118"
+}

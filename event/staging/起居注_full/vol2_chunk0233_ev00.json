@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问孙兰被九卿中何人推举，命问明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金维藩",
+   "role": "侍郎金世鉴之权"
+  },
+  {
+   "name": "孙兰",
+   "role": "被议官员"
+  },
+  {
+   "name": "金世鉴",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23300,
+ "page_range": "509-510"
+}

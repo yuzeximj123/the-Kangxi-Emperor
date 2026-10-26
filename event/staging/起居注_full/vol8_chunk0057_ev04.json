@@ -1,0 +1,38 @@
+{
+ "reign_year": 53,
+ "month": 3,
+ "day_text": "二十六日乙卯",
+ "event_role": "人事任免",
+ "summary": "吏部题太仆寺少卿李弘文员缺无应补之人请暂停补授，康熙帝命将年久应升翰林官员查奏补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李弘文",
+   "role": "太仆寺少卿"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "王永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "王抄",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5704,
+ "page_range": "125-126"
+}

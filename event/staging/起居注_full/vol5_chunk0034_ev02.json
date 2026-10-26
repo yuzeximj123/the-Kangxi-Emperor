@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论绿旗兵不宜北征，比较满洲兵与绿旗兵战力，并说明派出三处兵已多，无需再增。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "索诺和",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "南方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3402,
+ "page_range": "78-79"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "十七日甲成",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝问郭世隆居官何如，李光地奏其居官安静不生事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "郭世隆",
+   "role": "两广总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11119,
+ "page_range": "233-234"
+}

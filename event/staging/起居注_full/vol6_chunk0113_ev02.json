@@ -1,0 +1,44 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝闻大学士阿兰泰病危，遣皇长子往视，回宫后得凶问，深为震悼。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  },
+  {
+   "name": "存柱",
+   "role": "奏事"
+  },
+  {
+   "name": "常寿",
+   "role": "奏事"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "注台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11302,
+ "page_range": "236-237"
+}

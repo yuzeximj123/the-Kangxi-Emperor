@@ -1,0 +1,34 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "十二日",
+ "event_role": "人事任免",
+ "summary": "以光禄寺少卿傅尔齐员缺引见郭丽、木丹、迈图，康熙帝以迈图优长授光禄寺少卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅尔齐",
+   "role": "光禄寺少卿"
+  },
+  {
+   "name": "郭丽",
+   "role": "礼部员外郎"
+  },
+  {
+   "name": "木丹",
+   "role": "户部员外郎"
+  },
+  {
+   "name": "迈图",
+   "role": "营造司员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6906,
+ "page_range": "148-149"
+}

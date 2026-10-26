@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "十五日乙亥",
+ "event_role": "谕旨决策",
+ "summary": "两广总督吴兴祚题民间所有火器应皆收敛，康熙帝命问九卿、詹事、科道。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴兴祚",
+   "role": "两广总督"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8119,
+ "page_range": "197-198"
+}

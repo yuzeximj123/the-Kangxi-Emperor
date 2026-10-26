@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "十六日甲成",
+ "event_role": "议政听政",
+ "summary": "张玉书奏遵旨问九卿律吕之学，康熙帝论朱子学问切实并言黄钟之管测候之事。",
+ "people": [
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "京城观星台",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16610,
+ "page_range": "343-344"
+}

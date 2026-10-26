@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "初六日庚子",
+ "event_role": "其他",
+ "summary": "康熙帝命取十二力、十力、八力弓，侍卫那拉善等开弓，和尼开十二力弓射中；帝称开八力弓乃常事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱都纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "那拉善",
+   "role": "侍卫"
+  },
+  {
+   "name": "和尼",
+   "role": "侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4320,
+ "page_range": "96-97"
+}

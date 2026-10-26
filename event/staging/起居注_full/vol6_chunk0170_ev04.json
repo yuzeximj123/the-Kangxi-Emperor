@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "二十一日庚成",
+ "event_role": "奏报地方情形",
+ "summary": "御史刘狂条奏直隶永平、真定等府田地应令巡抚李光地视近河处引水入田耕种。",
+ "people": [
+  {
+   "name": "刘狂",
+   "role": "御史"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "永平",
+  "真定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17004,
+ "page_range": "350-351"
+}

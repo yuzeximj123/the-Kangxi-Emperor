@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "明珠等奏九卿对张鹏副转补意见，康熙帝令张鹏副停转补久任此缺，劳之辨升补左理事官。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张鹏副",
+   "role": "右理事官"
+  },
+  {
+   "name": "劳之辨",
+   "role": "通政司参议"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24001,
+ "page_range": "515-516"
+}

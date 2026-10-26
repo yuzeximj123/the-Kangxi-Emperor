@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "十八日丁丑",
+ "event_role": "军务",
+ "summary": "福建提督侯袭爵报杀贼众事，康熙帝询问其曾否报所辖地方海贼侵犯，索额图奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "侯袭爵",
+   "role": "福建提督"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23530,
+ "page_range": "527-528"
+}

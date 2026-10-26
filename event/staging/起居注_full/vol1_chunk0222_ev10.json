@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十七日丁丑",
+ "event_role": "司法案件",
+ "summary": "礼部奏广西巡抚傅弘烈受安南国礼物议交吏部，康熙帝询问后命依部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅弘烈",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "安南国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22210,
+ "page_range": "501-502"
+}

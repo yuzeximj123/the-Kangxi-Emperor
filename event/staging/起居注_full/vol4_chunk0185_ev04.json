@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "初六日丙戌",
+ "event_role": "谕旨决策",
+ "summary": "差往山东审理王新命等事的库勒纳、熊赐履请训，康熙帝谕令从直鞫问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "熊赐履",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18504,
+ "page_range": "382-383"
+}

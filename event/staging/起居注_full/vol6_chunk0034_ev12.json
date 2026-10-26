@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "二十七日于申",
+ "event_role": "人事任免",
+ "summary": "康熙帝称于成龙初任直隶巡抚时民间无灾伤、任总河时河堤不决，命补授直隶巡抚。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3412,
+ "page_range": "78-79"
+}

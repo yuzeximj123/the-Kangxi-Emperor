@@ -1,0 +1,28 @@
+{
+ "date_raw": "無年月日",
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "福建水师提督吴英岁暮上摺向康熙帝请安，康熙朱批告知己安并叮嘱关注闽省米价。",
+ "people": [
+  {
+   "name": "吴英",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知自己安好，并提及闻闽省米价昂贵、恐生意外，望将军回心以副体恤黎民之意。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "48",
+ "source_title": "福建水師提督吳英奏請聖安摺",
+ "order_index": 44
+}

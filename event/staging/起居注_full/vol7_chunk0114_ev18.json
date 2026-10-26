@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "初十日丙申",
+ "event_role": "司法案件",
+ "summary": "杨晓打死罗扬彩、刘宗备打李重旺致死两案拟绞，因亲老无人继养请旨；康熙帝命拟绞监候秋后处决，秋审时免罪。",
+ "people": [
+  {
+   "name": "杨晓",
+   "role": "案犯"
+  },
+  {
+   "name": "罗扬彩",
+   "role": "死者"
+  },
+  {
+   "name": "刘宗备",
+   "role": "案犯"
+  },
+  {
+   "name": "李重旺",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11418,
+ "page_range": "239-240"
+}

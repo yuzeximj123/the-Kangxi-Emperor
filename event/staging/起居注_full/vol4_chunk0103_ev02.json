@@ -1,0 +1,48 @@
+{
+ "reign_year": 29,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝遣侍郎索诺和、阿山、席柱、章稿、李振裕、李光地、王维珍、徐廷簿分四路驰往巡察，并遣满汉司官于五城增设粥厂赈济。",
+ "people": [
+  {
+   "name": "索诺和",
+   "role": "侍郎"
+  },
+  {
+   "name": "阿山",
+   "role": "侍郎"
+  },
+  {
+   "name": "席柱",
+   "role": "侍郎"
+  },
+  {
+   "name": "章稿",
+   "role": "侍郎"
+  },
+  {
+   "name": "李振裕",
+   "role": "侍郎"
+  },
+  {
+   "name": "李光地",
+   "role": "侍郎"
+  },
+  {
+   "name": "王维珍",
+   "role": "侍郎"
+  },
+  {
+   "name": "徐廷簿",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "五城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10302,
+ "page_range": "218-219"
+}

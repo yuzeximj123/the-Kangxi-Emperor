@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝复御乾清门，召九卿询问意见，李天馥等请广额，梁清标请宽运官违限，杜到请分别监守自盗，帝一一谕答。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "李天馥",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "富钢基",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "梁清标",
+   "role": "尚书"
+  },
+  {
+   "name": "杜到",
+   "role": "刑部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9906,
+ "page_range": "241-242"
+}

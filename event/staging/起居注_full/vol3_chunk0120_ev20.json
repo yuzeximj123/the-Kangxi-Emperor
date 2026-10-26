@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "初九日乙丑",
+ "event_role": "人事任免",
+ "summary": "九卿等进奏光禄寺卿员缺，拟阿山正、邬黑陪，康熙帝以邬黑平常不足入选，询问常书后仍不选。",
+ "people": [
+  {
+   "name": "达哈塔",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "阿山",
+   "role": "侍读学士拟正"
+  },
+  {
+   "name": "邬黑",
+   "role": "侍读学士拟陪"
+  },
+  {
+   "name": "常书",
+   "role": "掌院学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12020,
+ "page_range": "275-276"
+}

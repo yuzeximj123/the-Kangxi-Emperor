@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初六日忆已",
+ "event_role": "起居注官记录",
+ "summary": "康熙帝御瀛台门，讲官牛钮、张玉书、汤斌进讲《渐》卦六二、九三等节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  },
+  {
+   "name": "汤斌",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "瀛台门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21107,
+ "page_range": "465-466"
+}

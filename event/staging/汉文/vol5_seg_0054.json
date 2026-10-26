@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十二年八月二十一日",
+ "reign_year": 52,
+ "month": 8,
+ "day": 21,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦接旨奉命巡视两淮盐课，设香案望阙叩头谢恩，并奏请圣鉴。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奉命巡视两淮盐课，具奏谢恩"
+  }
+ ],
+ "places": [
+  "两淮",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并批评李煦向来打点应酬之处太多，多而无益且自己并不自知。",
+ "source_title": "蘇州織造李煦奏謝復命巡視兩淮鹽課摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1424",
+ "order_index": 54
+}

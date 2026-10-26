@@ -1,0 +1,42 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "议处额图、西拉、奢楞等六人柳号两月各鞭一百，佐领库参德给贼噶第米马议革职罚牲畜三九，窝藏逃妇海参代罚牲畜一九，窝贼布汉罚牲畜三九。",
+ "people": [
+  {
+   "name": "额图",
+   "role": "罪犯"
+  },
+  {
+   "name": "西拉",
+   "role": "罪犯"
+  },
+  {
+   "name": "奢楞",
+   "role": "罪犯"
+  },
+  {
+   "name": "库参德",
+   "role": "佐领"
+  },
+  {
+   "name": "噶第",
+   "role": "贼"
+  },
+  {
+   "name": "海参代",
+   "role": "窝藏逃妇者"
+  },
+  {
+   "name": "布汉",
+   "role": "窝贼者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21400,
+ "page_range": "438-439"
+}

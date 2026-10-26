@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十三日甲拱",
+ "event_role": "人事任免",
+ "summary": "吏部题补中书科记事官法良升任员缺，康熙帝询问后命以杨柱补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "法良",
+   "role": "记事官"
+  },
+  {
+   "name": "杨柱",
+   "role": "中书拟正"
+  },
+  {
+   "name": "特倍",
+   "role": "拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6417,
+ "page_range": "163-164"
+}

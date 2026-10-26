@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门以原任贵州提督李本深从逆反叛拟立斩，康熙询问大学士意见，明珠称叛逆甚真，康熙命发还该部再议。",
+ "people": [
+  {
+   "name": "李本深",
+   "role": "原任贵州提督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8900,
+ "page_range": "221-222"
+}

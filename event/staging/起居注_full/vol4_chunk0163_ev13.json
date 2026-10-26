@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "初二日癸未",
+ "event_role": "人事任免",
+ "summary": "吏部题因喀尔喀等迟延日期不进贡贸易，拟将尚书班第、侍郎温达各降三级调用，康熙帝改为各降一级留任。",
+ "people": [
+  {
+   "name": "班第",
+   "role": "尚书"
+  },
+  {
+   "name": "温达",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16313,
+ "page_range": "338-339"
+}

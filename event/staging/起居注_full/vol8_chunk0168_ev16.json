@@ -1,0 +1,36 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "十八日",
+ "event_role": "司法案件",
+ "summary": "刑部覆山东巡抚李树德题丁罗救父刺死丁仁德拟斩，康熙帝命九卿詹事科道会议具奏。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "丁明德",
+   "role": "案犯"
+  },
+  {
+   "name": "丁仁德",
+   "role": "死者"
+  },
+  {
+   "name": "丁罗",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16816,
+ "page_range": "347-348"
+}

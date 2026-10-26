@@ -1,0 +1,34 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部覆广东广西总督石琳题原任副将官斌事，请交总督郭邦令与官斌对质，康熙帝称官斌才勇清廉，欲用于紧要地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石琳",
+   "role": "广东广西总督"
+  },
+  {
+   "name": "官斌",
+   "role": "原任副将"
+  },
+  {
+   "name": "郭邦",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21802,
+ "page_range": "446-447"
+}

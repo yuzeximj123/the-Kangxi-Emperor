@@ -1,0 +1,33 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "event_scope": "赏赐",
+ "summary": "康熙御瀛台前亭，赐进贡阿霸垓部落四品台吉桑浑等、蒿齐特部落俄尔米土巴等、吴喇忒部落噶尔马等茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑浑",
+   "role": "阿霸垓部落四品台吉"
+  },
+  {
+   "name": "俄尔米土巴",
+   "role": "蒿齐特部落"
+  },
+  {
+   "name": "噶尔马",
+   "role": "吴喇忒部落"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 705,
+ "page_range": "57-58"
+}

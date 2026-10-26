@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "二十二日丙辰",
+ "event_role": "人事任免",
+ "summary": "吏部题户部郎中华善员缺，拟孔汰正、葛德浑陪，康熙帝以二人俱劣，改令内务府员外郎达理补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孔汰",
+   "role": "拟正员外郎"
+  },
+  {
+   "name": "葛德浑",
+   "role": "拟陪员外郎"
+  },
+  {
+   "name": "达理",
+   "role": "内务府员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4602,
+ "page_range": "102-103"
+}

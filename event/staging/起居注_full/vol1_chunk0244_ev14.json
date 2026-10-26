@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "二十一日己酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询满汉争讼事，李霨等奏天旱饥民流离宜安静，康熙帝以为然。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "汉清",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24414,
+ "page_range": "545-546"
+}

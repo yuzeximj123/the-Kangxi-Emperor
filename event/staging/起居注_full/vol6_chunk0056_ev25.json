@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "二十七日戊戌",
+ "event_role": "其他",
+ "summary": "是日赐费扬古、索额图、明珠、伊桑阿东珠各五颗，内大臣、尚书、散秩大臣等东珠有差。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5625,
+ "page_range": "122-123"
+}

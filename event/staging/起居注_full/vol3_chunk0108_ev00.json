@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "前锋护卫因格德拟陪防尉员缺，康熙认为尔泰庸劣年迈不宜此缺，命另拟具奏并查明该旗部院官员等。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "因格德",
+   "role": "前锋护卫"
+  },
+  {
+   "name": "尔泰",
+   "role": "拟陪防尉员缺者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10800,
+ "page_range": "251-252"
+}

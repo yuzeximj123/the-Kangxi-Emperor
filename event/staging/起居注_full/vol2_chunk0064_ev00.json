@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部议处魏象枢等保举贪赃之责，康熙帝谕令魏象枢、陈一炳、冯苏照部议降级，禅塔海降四级留任。",
+ "people": [
+  {
+   "name": "魏象枢",
+   "role": "被议处官员"
+  },
+  {
+   "name": "陈一炳",
+   "role": "被议处官员"
+  },
+  {
+   "name": "冯苏",
+   "role": "被议处官员"
+  },
+  {
+   "name": "禅塔海",
+   "role": "被议处官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6400,
+ "page_range": "171-172"
+}

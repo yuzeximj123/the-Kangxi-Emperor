@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十五年闰三月十五日",
+ "reign_year": 55,
+ "month": 3,
+ "day": 15,
+ "event_role": "司法案件",
+ "summary": "江宁巡抚吴存礼奏报清理前任张伯行遗留命盗等积案情形，并请求宽免部驳以速结案。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚，奏报人"
+  },
+  {
+   "name": "张伯行",
+   "role": "前任巡抚，遗留积案者"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "奉命赴彼处完结积案之大臣"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江宁巡抚吴存礼奏贺万寿折",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 300
+}

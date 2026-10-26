@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝向马齐等说明遣西住擒假达赖喇嘛及第巴妻子缘由，命将情事明谕九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "西住",
+   "role": "护军都统"
+  },
+  {
+   "name": "策旺喇卜滩",
+   "role": "蒙古首领"
+  }
+ ],
+ "places": [
+  "西域"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13401,
+ "page_range": "279-280"
+}

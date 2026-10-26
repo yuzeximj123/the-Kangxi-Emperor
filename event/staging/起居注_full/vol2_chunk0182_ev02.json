@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝提出此时太子正宜讲书，明珠奏请举行出阁典礼，建议以别殿讲书为宜，因文华殿尚未修建。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "文华殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18202,
+ "page_range": "407-408"
+}

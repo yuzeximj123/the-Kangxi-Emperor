@@ -1,0 +1,21 @@
+{
+ "reign_year": 18,
+ "month": 8,
+ "day_text": "二十六日戊子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕：督抚从一省起见，部臣从天下起见；军兴需饷赖山东江南协济，部臣虑国用不足故多不议允；正项钱粮民力易办，惟杂派加征致小民重困。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18919,
+ "page_range": "435-436"
+}

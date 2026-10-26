@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "二十七日辛丑",
+ "event_role": "司法案件",
+ "summary": "覆请刑部等衙门覆山西巡抚苏克济所题郝文玉夺棍还殴致郝才身死案，康熙帝命郝文玉改应斩监候，秋后处决。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "郝文玉",
+   "role": "案犯"
+  },
+  {
+   "name": "郝才",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4306,
+ "page_range": "97-98"
+}

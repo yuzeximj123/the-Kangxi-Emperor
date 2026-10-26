@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "议政王大臣会议逆贼耿精忠等分别凌迟处斩事，康熙帝准照所议完结，耿显祖改为处斩，陈梦雷等四人免死给与披甲新满洲为奴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "耿精忠",
+   "role": "逆贼"
+  },
+  {
+   "name": "耿显祖",
+   "role": "耿精忠之子"
+  },
+  {
+   "name": "陈梦雷",
+   "role": "从犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10802,
+ "page_range": "259-260"
+}

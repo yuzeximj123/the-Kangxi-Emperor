@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "十九日己巳",
+ "event_role": "其他",
+ "summary": "赐草州将军莽吉禄弓箭、撒袋、蟒缎、披领、鞍马。",
+ "people": [
+  {
+   "name": "莽吉禄",
+   "role": "草州将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "草州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17206,
+ "page_range": "356-357"
+}

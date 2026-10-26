@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十二日王子",
+ "event_role": "人事任免",
+ "summary": "补授理藩院主事，正拟托伦、陪拟绰克托，帝闻托伦才不堪用，命其随旗上朝，以绰克托补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "托伦",
+   "role": "萌生、正拟理藩院主事"
+  },
+  {
+   "name": "绰克托",
+   "role": "陪拟、补理藩院主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21613,
+ "page_range": "489-490"
+}

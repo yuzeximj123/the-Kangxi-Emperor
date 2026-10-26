@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以噶礼速运第一运米有劳绩、其人堪用，命于应升之缺遇缺即补。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "官员"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12504,
+ "page_range": "260-261"
+}

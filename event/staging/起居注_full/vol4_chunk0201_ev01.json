@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕责卫既齐轻率发兵又虚报杀败苗人，令遣贤能堂官会同总督详察，若知府副将有罪即军法从事，苗人不遵旨则酌量剿灭，速结具奏。",
+ "people": [
+  {
+   "name": "卫既齐",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20101,
+ "page_range": "414-415"
+}

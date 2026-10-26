@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与麻尔吉论《性理大全》《皇极经世》，出示手批本，麻尔吉等称颂圣学。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "麻尔吉",
+   "role": "奏对臣工"
+  },
+  {
+   "name": "常书",
+   "role": "奏对臣工"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8000,
+ "page_range": "195-196"
+}

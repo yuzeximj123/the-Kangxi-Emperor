@@ -1,0 +1,34 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "十九日辛酉",
+ "event_role": "请安谢恩",
+ "summary": "内阁、翰林院、九卿、詹事、科道公同奏请康熙帝除发，一切从吉，称奉安大礼告成，乞圣怀宽慰。",
+ "people": [
+  {
+   "name": "内阁",
+   "role": "内阁"
+  },
+  {
+   "name": "翰林院",
+   "role": "翰林院"
+  },
+  {
+   "name": "九卿",
+   "role": "九卿"
+  },
+  {
+   "name": "詹事",
+   "role": "詹事"
+  },
+  {
+   "name": "科道",
+   "role": "科道"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2706,
+ "page_range": "66-67"
+}

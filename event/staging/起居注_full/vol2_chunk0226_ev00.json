@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部再议陈应元反击其兄应魁致死案，拟免死枷号两月杖四十，康熙帝认为情罪可恶但念其父年老无人赡养，令满汉大学士等详酌议奏。",
+ "people": [
+  {
+   "name": "陈应元",
+   "role": "案犯"
+  },
+  {
+   "name": "应插",
+   "role": "陈应元之兄"
+  },
+  {
+   "name": "应魁",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22600,
+ "page_range": "495-496"
+}

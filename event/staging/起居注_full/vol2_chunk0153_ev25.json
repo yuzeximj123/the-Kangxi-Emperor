@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "二十三日丙申",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御行幄，大学士勒德洪、学士阿兰泰、金世鉴捧折本面奏请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  },
+  {
+   "name": "金世鉴",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行幄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15325,
+ "page_range": "349-350"
+}

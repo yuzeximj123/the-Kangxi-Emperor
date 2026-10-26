@@ -1,0 +1,37 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "初四日乙丑",
+ "event_role": "河工水利",
+ "summary": "总河张鹏翮奏报毁去拦黄坝、浚通海口，康熙帝称河工大可望成，并论河工须亲履其地详察形势。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "前任河督"
+  }
+ ],
+ "places": [
+  "拦黄坝",
+  "海口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15610,
+ "page_range": "322-323"
+}

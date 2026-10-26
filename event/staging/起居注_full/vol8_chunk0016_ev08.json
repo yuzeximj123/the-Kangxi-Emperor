@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "十五日",
+ "event_role": "人事任免",
+ "summary": "兵部题请山东总兵官李雄以水师后营游击陈雄员缺，请于记名人员内简选补授；康熙帝以记名人员内无熟练水师之人，命将年满千总着问兵部具奏。",
+ "people": [
+  {
+   "name": "李雄",
+   "role": "山东总兵官"
+  },
+  {
+   "name": "陈雄",
+   "role": "水师后营游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1608,
+ "page_range": "43-44"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十六日癸巳",
+ "event_role": "人事任免",
+ "summary": "户部题施世纶奏销铸钱及员缺以右侍郎庆腾管钱法堂，康熙帝令尚书赵申乔管理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施世纶",
+   "role": "官员"
+  },
+  {
+   "name": "庆腾",
+   "role": "右侍郎"
+  },
+  {
+   "name": "赵申乔",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8813,
+ "page_range": "187-188"
+}

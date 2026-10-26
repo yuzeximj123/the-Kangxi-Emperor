@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十六日辛未",
+ "event_role": "人事任免",
+ "summary": "康熙帝评论为官清而刻不如清而宽，但太宽亦不可，并询问府尹宋文运，明珠等称其有操守能省事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋文运",
+   "role": "府尹"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1603,
+ "page_range": "75-76"
+}

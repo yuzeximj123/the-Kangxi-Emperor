@@ -1,0 +1,34 @@
+{
+ "reign_year": 16,
+ "month": 11,
+ "day_text": "十八日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕勒德洪、明珠传谕张英、高士奇在内供奉当谨慎勤劳，勿得干预外事，恪遵谕旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张英",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "高士奇",
+   "role": "内供奉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15023,
+ "page_range": "357-358"
+}

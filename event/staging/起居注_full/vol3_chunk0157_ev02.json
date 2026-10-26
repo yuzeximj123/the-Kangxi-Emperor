@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "月二十四日",
+ "event_role": "人事任免",
+ "summary": "吏部题国子监司业博济升任员缺，拟达哈塔为正、常在为陪，康熙命选择具奏。",
+ "people": [
+  {
+   "name": "博济",
+   "role": "国子监司业"
+  },
+  {
+   "name": "达哈塔",
+   "role": "员外郎"
+  },
+  {
+   "name": "常在",
+   "role": "拟陪官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15702,
+ "page_range": "349-350"
+}

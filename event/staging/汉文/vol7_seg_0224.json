@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙五十五年八月二十九日",
+ "reign_year": 55,
+ "month": 8,
+ "day": 29,
+ "event_role": "请安谢恩",
+ "summary": "直隶总督赵弘燮奏谢御批药酒停饮之恩，并陈病中扶病起程恭接圣驾，恳请准带人扶掖见驾。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督管理直隶巡抚事务兵部右侍郎兼都察院右副都御史"
+  },
+  {
+   "name": "李维钧",
+   "role": "守道"
+  },
+  {
+   "name": "徐炯",
+   "role": "巡道"
+  },
+  {
+   "name": "祁国祚",
+   "role": "霸昌道"
+  }
+ ],
+ "places": [
+  "保定",
+  "白河涧"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示知道了，并准许有人扶掖。",
+ "source_title": "直隸總督趙弘燮奏陳因病請恩准帶人扶掖見駕摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "212",
+ "order_index": 224
+}

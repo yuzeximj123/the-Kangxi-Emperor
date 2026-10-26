@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "初一日丙成",
+ "event_role": "朝见受贺",
+ "summary": "正蓝旗察哈尔吴技第佐领下二等阿达哈哈番巴忒及等请安进贡来朝。",
+ "people": [
+  {
+   "name": "巴忒",
+   "role": "二等阿达哈哈番"
+  },
+  {
+   "name": "吴技第",
+   "role": "佐领"
+  }
+ ],
+ "places": [
+  "察哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20819,
+ "page_range": "426-427"
+}

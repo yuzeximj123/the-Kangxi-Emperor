@@ -1,0 +1,31 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "二十三日庚戌",
+ "event_role": "河工水利",
+ "summary": "九卿会议总河靳辅题请挑浚高宝等七州县下河入海、帮筑高家堰、修理黄河共三本。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "高州",
+  "宝州",
+  "高家堰",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11721,
+ "page_range": "269-270"
+}

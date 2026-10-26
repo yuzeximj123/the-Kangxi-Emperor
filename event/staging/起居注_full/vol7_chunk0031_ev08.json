@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "十八日丙寅",
+ "event_role": "司法案件",
+ "summary": "康熙帝询问飞贼吴回子案处理意见，马齐奏称首犯立斩、从犯监候，康熙帝命会同九卿议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "吴回子",
+   "role": "飞贼"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3108,
+ "page_range": "73-74"
+}

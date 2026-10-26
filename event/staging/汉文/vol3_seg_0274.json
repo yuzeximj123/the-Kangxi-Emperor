@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十年十一月初五日",
+ "reign_year": 50,
+ "month": 11,
+ "day": 5,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州、扬州近日米价低贱、天气晴和、二麦生长良好、民情欢悦，并进呈福州、扬州十月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州",
+  "福州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示知道了。",
+ "source_title": "蘇州織造李煦奏報蘇揚米價並進晴雨册摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "979",
+ "order_index": 274
+}

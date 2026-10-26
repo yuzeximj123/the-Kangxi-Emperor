@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "礼部题陕西延绥总兵官李承恩病故，照例给与全葬之价并遣官致祭，请旨是否与谥；康熙以其人材庸常、任总兵全无效力，不准给恤典。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李承恩",
+   "role": "陕西延绥总兵官"
+  }
+ ],
+ "places": [
+  "陕西",
+  "延绥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2801,
+ "page_range": "66-67"
+}

@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十三年十一月二十五日",
+ "reign_year": 53,
+ "month": 11,
+ "day": 25,
+ "event_role": "奏报灾情收成",
+ "summary": "闽浙总督范时崇奏报浙江收成米价及严衢等府灾情，拟截留漕米平粜备荒，并遵御批于青黄不接时留心晓谕。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督，奏报人"
+  },
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "段志熙",
+   "role": "浙江布政司"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "严州",
+  "衢州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "閩浙總督范時崇奏報兩省冬收分數並米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1689",
+ "order_index": 331
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "二十二日己未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸武清县所属杨村，武官营游击杷过、杨村营守备霍霍来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杷过",
+   "role": "武官营游击"
+  },
+  {
+   "name": "霍霍",
+   "role": "杨村营守备"
+  }
+ ],
+ "places": [
+  "武清县",
+  "杨村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2106,
+ "page_range": "52-53"
+}

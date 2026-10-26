@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初一日戊成",
+ "event_role": "司法案件",
+ "summary": "大学士伊桑阿等以折本请旨，刑部题偷采人参进山海关议处等事。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1812,
+ "page_range": "46-47"
+}

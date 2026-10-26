@@ -1,0 +1,23 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝驳土著之言不足为据，举泗州扬州及霸州争讼为例，强调议论须合理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "泗州",
+  "扬州",
+  "霸州",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1809,
+ "page_range": "48-49"
+}

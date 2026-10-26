@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初四日辛酉",
+ "event_role": "议政听政",
+ "summary": "巳时康熙帝复御乾清门，传吏部尚书吴达礼等、工部尚书马喇等当面询问工价具题事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴达礼",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "马喇",
+   "role": "工部尚书"
+  },
+  {
+   "name": "党古里",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24617,
+ "page_range": "549-550"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "二十八日辛丑",
+ "event_role": "其他",
+ "summary": "康熙帝认出查郧韩卷，拆卷后第五卷果为查国韩，大学士等叹服。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "查国韩",
+   "role": "贡士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2215,
+ "page_range": "56-57"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "督理西路运米事务侍郎王国昌等奏报查得车内所载西路大兵五十日口粮等项数目，并议雇小车装载、分六处督运、二月二十六日起程及修路搭桥等事。",
+ "people": [
+  {
+   "name": "王国昌",
+   "role": "侍郎"
+  },
+  {
+   "name": "毛来风",
+   "role": "总兵官"
+  },
+  {
+   "name": "许靖国",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "雁门关",
+  "河滩",
+  "河朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10806,
+ "page_range": "226-227"
+}

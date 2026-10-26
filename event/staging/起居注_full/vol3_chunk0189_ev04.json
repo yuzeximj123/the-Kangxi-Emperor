@@ -1,0 +1,20 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "二十四日乙巳",
+ "event_role": "人事任免",
+ "summary": "翰林院题补日讲起居注官西安升任员缺，开列侍讲学士明图等请旨。",
+ "people": [
+  {
+   "name": "明图",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [
+  "翰林院"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18904,
+ "page_range": "413-414"
+}

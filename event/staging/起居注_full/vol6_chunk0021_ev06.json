@@ -1,0 +1,38 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十三日己亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝评宋苹、马如龙居官优，马如龙年迈，倭伦办事效力居官亦善，惟稍粗鲁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋苹",
+   "role": "官员"
+  },
+  {
+   "name": "马如龙",
+   "role": "官员"
+  },
+  {
+   "name": "倭伦",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2106,
+ "page_range": "52-53"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "二十四日己亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥责布喀明知不可署总督印务仍来署理，意在改换案卷掩蔽任内之事，甚属无耻，必加究治。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布喀",
+   "role": "署总督印务"
+  },
+  {
+   "name": "葛思泰",
+   "role": "总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21206,
+ "page_range": "436-437"
+}

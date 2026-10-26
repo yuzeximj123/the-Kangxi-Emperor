@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "初五日戊子",
+ "event_role": "谕旨决策",
+ "summary": "户部议荆州将军拜音布请将利银二万两作本借给官兵，议不准行，康熙命依议并斥部内不声明本银亏空之处，着饬行。",
+ "people": [
+  {
+   "name": "拜音布",
+   "role": "荆州将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19514,
+ "page_range": "401-402"
+}

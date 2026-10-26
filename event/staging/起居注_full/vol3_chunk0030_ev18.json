@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "十一日乙已",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，扈从学士等以折本请旨，理藩院议厄鲁特来使阿布都喇厄尔克寨桑私带格里勒应治罪事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿布都喇厄尔克寨桑",
+   "role": "厄鲁特来使"
+  },
+  {
+   "name": "格里勒",
+   "role": "被带人员"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3018,
+ "page_range": "95-96"
+}

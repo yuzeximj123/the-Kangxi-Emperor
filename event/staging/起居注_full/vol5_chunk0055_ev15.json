@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 1,
+ "day_text": "二十日王午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就兴永朝奏请丈量湖南田地询问是否累民，谕令会集九卿询问楚省为官者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "兴永朝",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5515,
+ "page_range": "120-121"
+}

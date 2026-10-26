@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝论上河之水放归下河须先建闸蓄黄水方可放，于成龙称不知靳辅放水之计。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "大臣"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1803,
+ "page_range": "48-49"
+}

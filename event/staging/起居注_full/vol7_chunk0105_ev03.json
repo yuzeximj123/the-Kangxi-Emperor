@@ -1,0 +1,46 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝就十日汇奏流徒以下人犯事，指出护军巴锡等案情由不明轻重不合，令逐一问明刑部大臣具奏。",
+ "people": [
+  {
+   "name": "巴锡",
+   "role": "护军"
+  },
+  {
+   "name": "图尔泰",
+   "role": "家人佟住之主"
+  },
+  {
+   "name": "佟住",
+   "role": "图尔泰家人"
+  },
+  {
+   "name": "杨三",
+   "role": "犯人"
+  },
+  {
+   "name": "朱克禄",
+   "role": "受害人"
+  },
+  {
+   "name": "张顺",
+   "role": "太监"
+  },
+  {
+   "name": "魏朝金",
+   "role": "受害人"
+  },
+  {
+   "name": "汤盘",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10503,
+ "page_range": "221-222"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "十八日甲午",
+ "event_role": "奏报灾情收成",
+ "summary": "大学士伊桑阿等九卿入奏，康熙帝问前月十四日、本月十五日及昨日地震之故，诸臣引咎自责。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "汉九卿"
+  },
+  {
+   "name": "王申",
+   "role": "九卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1907,
+ "page_range": "48-49"
+}

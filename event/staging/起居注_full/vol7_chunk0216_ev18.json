@@ -1,0 +1,34 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十二日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "吏部议浅船过淮迟延，将噶礼、张伯行各降一级，康熙帝以该部未明晰分别议处不合，命交九卿再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "臧大受",
+   "role": "粮道"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21618,
+ "page_range": "443-444"
+}

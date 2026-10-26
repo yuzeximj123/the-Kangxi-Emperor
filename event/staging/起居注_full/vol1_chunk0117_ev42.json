@@ -1,0 +1,24 @@
+{
+ "reign_year": 15,
+ "month": 7,
+ "day_text": "初七日本雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户部尚书觉罗勒德浑，遣官往归化城买马须选精壮，不得市买瘦小疲灿者，违者治罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗勒德浑",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11742,
+ "page_range": "291-292"
+}

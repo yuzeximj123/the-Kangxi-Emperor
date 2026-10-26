@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "内务府员外郎海寿告称吏部补官失次，兵部郎中缺先出、盛京郎中缺后出，却以资浅之人补在京郎中，已交都察院察议。",
+ "people": [
+  {
+   "name": "海寿",
+   "role": "内务府员外郎"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15702,
+ "page_range": "324-325"
+}

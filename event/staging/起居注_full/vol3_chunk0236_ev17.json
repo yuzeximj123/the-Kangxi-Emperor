@@ -1,0 +1,22 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十一日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕向来讲书尔等尼坐，今以皇太子委付尔等，应坐应立宜自言之，并述大臣启奏时久皆赐坐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23617,
+ "page_range": "507-508"
+}

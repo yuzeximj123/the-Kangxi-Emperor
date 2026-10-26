@@ -1,0 +1,33 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问浙江官员及士子中学问优者，张鹏翮奏称陆龙其学问优已亡故，平湖士子张嘉汉学优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "臣工"
+  },
+  {
+   "name": "陆龙其",
+   "role": "官员"
+  },
+  {
+   "name": "张嘉汉",
+   "role": "士子"
+  }
+ ],
+ "places": [
+  "浙江",
+  "平湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 506,
+ "page_range": "20-21"
+}

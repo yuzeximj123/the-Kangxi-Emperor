@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 9,
+ "day_text": "二十八日",
+ "event_role": "人事任免",
+ "summary": "吏部题补御史观音布员缺，拟郭里为正、屠勒孙为陪，康熙帝谕令将保举郎中员外等引见选择补授。",
+ "people": [
+  {
+   "name": "观音布",
+   "role": "御史"
+  },
+  {
+   "name": "郭里",
+   "role": "督捕员外郎"
+  },
+  {
+   "name": "屠勒孙",
+   "role": "户部员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24227,
+ "page_range": "496-497"
+}

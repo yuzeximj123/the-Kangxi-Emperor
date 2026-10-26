@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "初十日壬戌",
+ "event_role": "司法案件",
+ "summary": "兵部题前任四川巡抚罗森从贼受伪职今投诚应交吏部议，明珠建议发回兵部再议，康熙帝从之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "罗森",
+   "role": "前任四川巡抚"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5111,
+ "page_range": "145-146"
+}

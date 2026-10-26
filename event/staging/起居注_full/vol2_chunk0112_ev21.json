@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "十三日辛卯",
+ "event_role": "人事任免",
+ "summary": "兵部题补广东镶蓝旗协领员缺，康熙帝以马云霄敏达堪用，留京遇参领缺任用，着赛士忠补授协领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马云霄",
+   "role": "佐领"
+  },
+  {
+   "name": "赛士忠",
+   "role": "阿达哈哈番"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11221,
+ "page_range": "267-268"
+}

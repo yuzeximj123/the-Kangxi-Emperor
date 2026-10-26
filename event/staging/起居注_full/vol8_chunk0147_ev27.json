@@ -1,0 +1,36 @@
+{
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "十四日壬寅",
+ "event_role": "司法案件",
+ "summary": "刑部题凉州步兵冯士英殴死坐台笔帖式济福拟斩立决，康熙帝令冯士英即行处斩，千总马成选拿送富宁安处严审具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "冯士英",
+   "role": "凉州步兵"
+  },
+  {
+   "name": "济福",
+   "role": "坐台笔帖式"
+  },
+  {
+   "name": "马成选",
+   "role": "千总"
+  },
+  {
+   "name": "富宁安",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "凉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14727,
+ "page_range": "305-306"
+}

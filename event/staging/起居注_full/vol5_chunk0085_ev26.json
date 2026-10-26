@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "十九日戊申",
+ "event_role": "人事任免",
+ "summary": "康熙帝顾大学士伊桑阿等言天津道员缺紧要，提及现任道员朱士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "朱士",
+   "role": "天津道员"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8526,
+ "page_range": "180-181"
+}

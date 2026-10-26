@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初六日戊成",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝驻跸平原县七里铺，平原县知县李荣、把总浦十元等来朝见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李荣",
+   "role": "平原县知县"
+  },
+  {
+   "name": "浦十元",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "平原县七里铺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5202,
+ "page_range": "139-140"
+}

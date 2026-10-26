@@ -1,0 +1,21 @@
+{
+ "reign_year": 57,
+ "month": 3,
+ "day_text": "初五日甲寅",
+ "event_role": "皇帝行止",
+ "summary": "寅时康熙帝自东华门出朝阳门，至即哀居，行礼毕哀痛不已，经恳劝方止。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "朝阳门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23906,
+ "page_range": "489-490"
+}

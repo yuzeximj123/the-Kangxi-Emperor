@@ -1,0 +1,26 @@
+{
+ "date_raw": "十一月初一日乙卯",
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "初一日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称今年各省情真之案较往岁俱少，直隶、山西、浙江三省尤少，命照所议完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶",
+  "山西",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3096
+}

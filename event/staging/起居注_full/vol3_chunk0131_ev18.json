@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十二日戊戌",
+ "event_role": "军务",
+ "summary": "兵部议原任护军统领佟佳等在四川云阳击败谭弘三万余众应准三等军功，康熙命改为二等军功。",
+ "people": [
+  {
+   "name": "佟佳",
+   "role": "原任护军统领"
+  },
+  {
+   "name": "谭弘",
+   "role": "逆贼"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川云阳县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13118,
+ "page_range": "297-298"
+}

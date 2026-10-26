@@ -1,0 +1,21 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "初五日丁已",
+ "event_role": "皇帝行止",
+ "summary": "酉时，康熙帝由正阳门进午门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "正阳门",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18210,
+ "page_range": "374-375"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "十八日壬申",
+ "event_role": "朝见受贺",
+ "summary": "昌平州防守御汪爱、参将黄明、顺义县知县杨党等来朝。",
+ "people": [
+  {
+   "name": "汪爱",
+   "role": "昌平州防守御"
+  },
+  {
+   "name": "黄明",
+   "role": "参将"
+  },
+  {
+   "name": "杨党",
+   "role": "顺义县知县"
+  }
+ ],
+ "places": [
+  "昌平州",
+  "顺义县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19912,
+ "page_range": "409-410"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "初三日丙戌",
+ "event_role": "司法案件",
+ "summary": "三法司将强盗重金标、钱家祯等十九人两议具题，前议立斩，后议待获贼首张文焕对质审结。",
+ "people": [
+  {
+   "name": "重金标",
+   "role": "强盗"
+  },
+  {
+   "name": "钱家祯",
+   "role": "强盗"
+  },
+  {
+   "name": "张文焕",
+   "role": "贼首"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4635,
+ "page_range": "135-136"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝论噶礼曾参李麟骑射俱劣，经亲试李麟骑射甚好，心疑噶礼之参奏，并称若噶礼先奏必不准。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "李麟",
+   "role": "被参官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23401,
+ "page_range": "479-480"
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "康熙帝率皇太子及皇子保清赴太皇太后宫问安，又亲往皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "保清",
+   "role": "皇子"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24103,
+ "page_range": "539-540"
+}

@@ -1,0 +1,50 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "二十一日戊申",
+ "event_role": "谕旨决策",
+ "summary": "康熙评论督抚中张鹏翮、李光地、郭琇、彭鹏、噶礼、华显居官最优，总督阿山居官亦善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "督抚"
+  },
+  {
+   "name": "李光地",
+   "role": "督抚"
+  },
+  {
+   "name": "郭琇",
+   "role": "督抚"
+  },
+  {
+   "name": "彭鹏",
+   "role": "督抚"
+  },
+  {
+   "name": "噶礼",
+   "role": "督抚"
+  },
+  {
+   "name": "华显",
+   "role": "督抚"
+  },
+  {
+   "name": "阿山",
+   "role": "总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19515,
+ "page_range": "400-401"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "二十七日丙成",
+ "event_role": "司法案件",
+ "summary": "李全刺杀药死其父之李节应拟杖，事在赦前免罪，康熙帝询众意后依议免罪。",
+ "people": [
+  {
+   "name": "李全",
+   "role": "案犯"
+  },
+  {
+   "name": "李节",
+   "role": "死者"
+  },
+  {
+   "name": "李五",
+   "role": "李全之父"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9310,
+ "page_range": "221-222"
+}

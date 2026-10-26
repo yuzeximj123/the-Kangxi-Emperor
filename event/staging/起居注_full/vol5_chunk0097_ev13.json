@@ -1,0 +1,48 @@
+{
+ "reign_year": 35,
+ "month": 1,
+ "day_text": "十七日甲戌",
+ "event_role": "议政听政",
+ "summary": "康熙帝御光宁居听部院各衙门面奏政事，满大学士伊桑阿等将汉大臣及科道所奏三本进呈。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "满大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "学士"
+  },
+  {
+   "name": "陶岱",
+   "role": "学士"
+  },
+  {
+   "name": "章种",
+   "role": "学士"
+  },
+  {
+   "name": "绥色",
+   "role": "学士"
+  },
+  {
+   "name": "三宝",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "光宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9713,
+ "page_range": "204-205"
+}

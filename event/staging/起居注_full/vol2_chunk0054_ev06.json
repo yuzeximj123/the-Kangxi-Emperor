@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十九日辛未",
+ "event_role": "谕旨决策",
+ "summary": "明珠等奏云南暂停补总兵以免募兵耗粮、安插困难，康熙从之，命待平定后定议具题，依部批发。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5406,
+ "page_range": "151-152"
+}

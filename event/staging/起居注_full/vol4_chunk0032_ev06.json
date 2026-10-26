@@ -1,0 +1,23 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "二十五日丙申",
+ "event_role": "皇帝行止",
+ "summary": "康熙早行，至大行太皇太后暂安奉殿行三跪九叩礼、三奠酒痛哭良久，又刘孝陵举哀，驻跸守陵人新城内。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "淋河庄",
+  "大行太皇太后暂安奉殿",
+  "孝陵",
+  "守陵人新城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3206,
+ "page_range": "76-77"
+}

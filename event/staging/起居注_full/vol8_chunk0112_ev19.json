@@ -1,0 +1,33 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "三十日壬辰",
+ "event_role": "司法案件",
+ "summary": "康熙阅直隶、山西情真缓决四案折角处，将盗坟案贾八照拟处决，马克、马七辅改缓决。",
+ "people": [
+  {
+   "name": "贾八",
+   "role": "盗坟案首犯"
+  },
+  {
+   "name": "马克",
+   "role": "案犯"
+  },
+  {
+   "name": "马七辅",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11219,
+ "page_range": "235-236"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "初七日壬辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕赏兴安内居住无牲畜步行之克西克腾扎萨克台吉马匹，并令查有马诈称无马者正法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴什",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "拉锡齐里德",
+   "role": "乾清门侍卫"
+  }
+ ],
+ "places": [
+  "兴安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20911,
+ "page_range": "428-429"
+}

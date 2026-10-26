@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "二十日丙午",
+ "event_role": "司法案件",
+ "summary": "覆请刑部等衙门所题护军参领德克精格家人关保等骚扰驿递及西洋人费殷应议处一案。",
+ "people": [
+  {
+   "name": "德克精格",
+   "role": "护军参领"
+  },
+  {
+   "name": "关保",
+   "role": "德克精格家人"
+  },
+  {
+   "name": "费殷",
+   "role": "西洋人"
+  }
+ ],
+ "places": [
+  "鄂尔多斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18521,
+ "page_range": "381-382"
+}

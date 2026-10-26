@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十六日乙已",
+ "event_role": "人事任免",
+ "summary": "兵部议侍卫牙图、聂勒应革职，康熙帝念其侍卫年久，命从宽免革职，俱降三级留用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牙图",
+   "role": "侍卫"
+  },
+  {
+   "name": "聂勒",
+   "role": "侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22806,
+ "page_range": "513-514"
+}

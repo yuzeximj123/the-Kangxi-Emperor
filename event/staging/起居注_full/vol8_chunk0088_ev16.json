@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十六日癸巳",
+ "event_role": "人事任免",
+ "summary": "兵部题宁古塔将军备俄洛员缺开列寿志等，康熙帝称宁古塔紧要，令回銮日启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "备俄洛",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "寿志",
+   "role": "镶黄旗副都统"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8816,
+ "page_range": "187-188"
+}

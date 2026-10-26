@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "三十日己丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补兵部尚书员缺，康熙帝命调伊桑阿补兵部尚书，并指示不必带吏部尚书衔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "调补兵部尚书"
+  },
+  {
+   "name": "达哈塔",
+   "role": "左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9502,
+ "page_range": "225-226"
+}

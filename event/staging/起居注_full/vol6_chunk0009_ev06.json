@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "亲近侍卫吴什等骑试回奏，康熙帝命收取鄂齐尔、深布及皇太子前所进马匹较量骑试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴什",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "进马者"
+  },
+  {
+   "name": "深布",
+   "role": "进马者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 906,
+ "page_range": "28-29"
+}

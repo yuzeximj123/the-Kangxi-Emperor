@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初三日乙亥",
+ "event_role": "人事任免",
+ "summary": "吏部、都察院、吏科参江南按察使金镇有足疾应休致，康熙帝令察明原保举补用情由并引见金镇。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金镇",
+   "role": "江南按察使"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17010,
+ "page_range": "383-384"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令外官补授时若签得原籍五百里内地方，虽隔省亦须回避，以防徇庇亲友。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "河南",
+  "陕西",
+  "山西",
+  "泽州",
+  "怀庆府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8802,
+ "page_range": "187-188"
+}

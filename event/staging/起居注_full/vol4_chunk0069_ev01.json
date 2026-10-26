@@ -1,0 +1,21 @@
+{
+ "reign_year": 28,
+ "month": 4,
+ "day_text": "初一日了卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝展时幸畅春园，酉时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6901,
+ "page_range": "150-151"
+}

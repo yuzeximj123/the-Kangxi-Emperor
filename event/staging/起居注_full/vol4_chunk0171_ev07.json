@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "十三日癸亥",
+ "event_role": "人事任免",
+ "summary": "康熙帝以布喀曾任外官有声誉，补授其为甘肃巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布喀",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17107,
+ "page_range": "354-355"
+}

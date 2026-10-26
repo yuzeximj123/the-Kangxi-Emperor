@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 1,
+ "day_text": "二十六日癸未",
+ "event_role": "谕旨决策",
+ "summary": "浙江巡抚王维珍遗疏，康熙帝览之恻然，称其为最有才能可惜之人，命批优旨发出。",
+ "people": [
+  {
+   "name": "王维珍",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9815,
+ "page_range": "206-207"
+}

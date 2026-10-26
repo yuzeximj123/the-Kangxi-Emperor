@@ -1,0 +1,33 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "十八日辛酉",
+ "event_role": "议政听政",
+ "summary": "申刻伊桑阿等进乾清宫奏传旨情况，议政大臣、九卿、熊赐履、于成龙等各自引咎请另议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "运米官员"
+  }
+ ],
+ "places": [
+  "乾清宫",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15709,
+ "page_range": "324-325"
+}

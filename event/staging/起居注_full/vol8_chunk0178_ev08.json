@@ -1,0 +1,38 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士马齐等以折本请旨，覆请詹事觉罗苏库员缺开列，康熙帝命赫成额补授詹事府詹事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "王抄",
+   "role": "大学士"
+  },
+  {
+   "name": "赫成额",
+   "role": "补授詹事府詹事"
+  },
+  {
+   "name": "觉罗苏库",
+   "role": "詹事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17808,
+ "page_range": "367-368"
+}

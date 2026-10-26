@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就鄂尔都斯地界盗贼事谕令理藩院移文蒙古各部落，偷马汉人拿解治罪，并晓谕沿边官吏兵民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "鄂尔都斯",
+  "理藩院"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22400,
+ "page_range": "458-459"
+}

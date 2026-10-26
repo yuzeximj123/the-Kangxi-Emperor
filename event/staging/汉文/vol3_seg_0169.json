@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十年五月十八日",
+ "reign_year": 50,
+ "month": 5,
+ "day": 18,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮奏谢皇上颁赐油炸鱼片、烤鱼、糟野鸡、鹿尾等食物，表示感激皇恩并愿竭尽犬马以报。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏谢钦赐食物"
+  },
+  {
+   "name": "郭世隆",
+   "role": "奏折中自称巡抚直隶等处地方提督军务监察御史加玖级臣"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸巡撫趙弘燮奏謝頒賜食物摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "861",
+ "order_index": 169
+}

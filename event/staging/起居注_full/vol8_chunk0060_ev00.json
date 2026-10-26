@@ -1,0 +1,20 @@
+{
+ "reign_year": 53,
+ "month": 5,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "康熙帝前往镜峰处问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "镜峰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6000,
+ "page_range": "131-132"
+}

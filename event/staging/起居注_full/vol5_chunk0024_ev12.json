@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初七日癸酉",
+ "event_role": "议政听政",
+ "summary": "伊桑阿等奏称魏象枢、汤斌、李光地、熊赐履等徒谈道学全不知道学，康熙洞悉其虚伪。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "魏象枢",
+   "role": "官员"
+  },
+  {
+   "name": "汤斌",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "熊赐履",
+   "role": "官员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2412,
+ "page_range": "58-59"
+}

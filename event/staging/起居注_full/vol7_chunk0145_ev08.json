@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "十六日庚子",
+ "event_role": "人事任免",
+ "summary": "吏部议金震所遗世职承袭事，康熙帝命察承袭之人有无军功具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金震",
+   "role": "已故三等阿思哈尼哈番"
+  },
+  {
+   "name": "金济壹",
+   "role": "金震长子"
+  },
+  {
+   "name": "金圣东",
+   "role": "金震之祖"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14508,
+ "page_range": "301-302"
+}

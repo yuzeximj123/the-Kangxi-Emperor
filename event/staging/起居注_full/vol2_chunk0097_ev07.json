@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "十四日癸巳",
+ "event_role": "朝见受贺",
+ "summary": "和硕裕亲王福全、康亲王杰淑、安亲王岳乐等奏称平逆皆出皇上庙算，理应崇上尊号。",
+ "people": [
+  {
+   "name": "福全",
+   "role": "和硕裕亲王"
+  },
+  {
+   "name": "杰淑",
+   "role": "和硕康亲王"
+  },
+  {
+   "name": "岳乐",
+   "role": "和硕安亲王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9707,
+ "page_range": "237-238"
+}

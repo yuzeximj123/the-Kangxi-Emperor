@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初一日壬午",
+ "event_role": "奏报灾情收成",
+ "summary": "户部题覆太原、大同、宣府三府属赈济事，康熙帝命蠲免应征二十年及带征各年钱粮，遣贤能司官会同巡抚赈济饥民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太原",
+  "大同",
+  "宣府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5706,
+ "page_range": "157-158"
+}

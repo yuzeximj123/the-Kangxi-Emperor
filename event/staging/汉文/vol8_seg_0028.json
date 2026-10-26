@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十六年",
+ "reign_year": 56,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "江宁巡抚吴存礼向康熙帝跪请圣躬万安，康熙朱批告知已知，并叮嘱苏州来往人员复杂，应据实奏闻。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚，奏请人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并叮嘱苏州来往人员复杂，应常据实奏闻。",
+ "source_title": "江寧巡撫吳存禮奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2582",
+ "order_index": 28
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "江宁巡抚吴存礼题苏松粮道员缺，以河东盐运使李入、候补道员章履成、顺宁府知府身邦翰三员内补授，康熙帝令问九卿具奏。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "李入",
+   "role": "河东盐运使"
+  },
+  {
+   "name": "章履成",
+   "role": "候补道员"
+  },
+  {
+   "name": "身邦翰",
+   "role": "顺宁府知府"
+  }
+ ],
+ "places": [
+  "苏松"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13505,
+ "page_range": "281-282"
+}

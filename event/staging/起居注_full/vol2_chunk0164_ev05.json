@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十九日王辰",
+ "event_role": "人事任免",
+ "summary": "工部主事员缺，拟正丹布系才力不及降级之人，康熙帝命照原品随旗上朝，此缺另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "丹布",
+   "role": "原任郎中"
+  },
+  {
+   "name": "富尔都",
+   "role": "拟陪主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16405,
+ "page_range": "371-372"
+}

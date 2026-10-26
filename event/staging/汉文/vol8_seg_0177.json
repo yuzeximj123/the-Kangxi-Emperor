@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十三年五月十六日",
+ "reign_year": 53,
+ "month": 5,
+ "day": 16,
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚赵弘燮奏报直隶各州县二麦收成分数，顺天府及大名等处因得雨稍迟收成不一，其余府州县多有八九分至十分，秋成可望。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡按"
+  }
+ ],
+ "places": [
+  "直隶",
+  "顺天府",
+  "大名"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好、气色甚好，口外麦浪满地、禾苗茂盛，因而内心宽慰、饮食增加。",
+ "source_title": "恭報夏收分數",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 177
+}

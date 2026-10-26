@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "初六日庚庄",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论宋衡请封孔子四代事，谓古无封孔子四代者，称至圣先师不可增减，惟孔子足以当之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋衡",
+   "role": "四川提督学政"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14311,
+ "page_range": "297-298"
+}

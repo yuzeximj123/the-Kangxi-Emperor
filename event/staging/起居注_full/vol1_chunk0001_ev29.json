@@ -1,0 +1,20 @@
+{
+ "reign_year": 10,
+ "month": 10,
+ "day_text": "初三日辛巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸爱新。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "爱新"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 129,
+ "page_range": "59-60"
+}

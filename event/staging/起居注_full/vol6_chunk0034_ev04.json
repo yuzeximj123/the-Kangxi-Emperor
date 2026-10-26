@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "巡抚喀拜题原任总兵官汉德昌所讲宁夏房屋请给还，部议准行，康熙帝以该部不详审已结事务又行具奏，命严饬。",
+ "people": [
+  {
+   "name": "喀拜",
+   "role": "巡抚"
+  },
+  {
+   "name": "汉德昌",
+   "role": "原任总兵官"
+  },
+  {
+   "name": "冯德昌",
+   "role": "相关人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3404,
+ "page_range": "78-79"
+}

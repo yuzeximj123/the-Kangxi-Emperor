@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十六日戊辰",
+ "event_role": "司法案件",
+ "summary": "刑部题范僧保殴打广储司郎中他津泰以光棍例坐立决，康熙帝以其不知情改监候秋后处决。",
+ "people": [
+  {
+   "name": "范僧保",
+   "role": "犯人"
+  },
+  {
+   "name": "他津泰",
+   "role": "广储司郎中"
+  },
+  {
+   "name": "托色",
+   "role": "公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23023,
+ "page_range": "470-471"
+}

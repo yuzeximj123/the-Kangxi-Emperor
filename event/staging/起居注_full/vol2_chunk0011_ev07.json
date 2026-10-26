@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十四日庚戌",
+ "event_role": "人事任免",
+ "summary": "吏部题补山西布政使员缺，正拟苏拜、陪拟色勒布，康熙以苏拜堪用、色勒布庸劣，令将通汉文者举出具奏。",
+ "people": [
+  {
+   "name": "苏拜",
+   "role": "吏科给事中"
+  },
+  {
+   "name": "色勒布",
+   "role": "制造库郎中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1107,
+ "page_range": "65-66"
+}

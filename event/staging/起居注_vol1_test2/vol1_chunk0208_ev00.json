@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部奏总兵四十六报恢复竹山、竹溪，康熙帝斥其冒功，命再察明。",
+ "people": [
+  {
+   "name": "四十六",
+   "role": "总兵"
+  },
+  {
+   "name": "王进宝",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "竹山",
+  "竹溪",
+  "汉中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20800,
+ "page_range": "473-474"
+}

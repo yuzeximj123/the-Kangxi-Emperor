@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "十七日丙申",
+ "event_role": "人事任免",
+ "summary": "兵部题镶黄旗汉军都统鄂伦岱员缺，康熙帝命鄂伦岱仍兼管该职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂伦岱",
+   "role": "镶黄旗汉军都统"
+  },
+  {
+   "name": "素柱",
+   "role": "前锋统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24003,
+ "page_range": "490-491"
+}

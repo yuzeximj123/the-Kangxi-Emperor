@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十五日甲子",
+ "event_role": "谕旨决策",
+ "summary": "户部题浙江巡抚王国安请免白粮经费银暂征一年买船运粮，康熙帝令照王国安所请行并票明申饬该部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国安",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21902,
+ "page_range": "481-482"
+}

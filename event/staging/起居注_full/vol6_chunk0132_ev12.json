@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "二十日",
+ "event_role": "弹劾参奏",
+ "summary": "礼部题磨勘浙江等四省乡试卷，将浙江主考史世、满保交吏部议处，康熙帝令问九卿指奏各省典试官员品行优劣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "史世",
+   "role": "浙江主考"
+  },
+  {
+   "name": "满保",
+   "role": "浙江主考"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13212,
+ "page_range": "274-275"
+}

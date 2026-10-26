@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾贰年正月贰拾壹",
+ "reign_year": 52,
+ "month": 1,
+ "day": 21,
+ "event_role": "请安谢恩",
+ "summary": "四川松潘总兵官路振扬遣家人常奉代其恭祝康熙万寿，并进献藏香、绿葡萄、藏枣、藏杏等物。",
+ "people": [
+  {
+   "name": "路振扬",
+   "role": "四川松潘总兵官，上奏人"
+  },
+  {
+   "name": "常奉",
+   "role": "路振扬家人，奉命代其进京恭祝圣寿"
+  }
+ ],
+ "places": [
+  "四川",
+  "松潘"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 315
+}

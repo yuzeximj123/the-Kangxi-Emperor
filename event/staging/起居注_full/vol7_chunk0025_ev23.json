@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "二十九日戊寅",
+ "event_role": "议政听政",
+ "summary": "礼部覆府尹钱晋锡题顺天乡试请广解额，议量增二十名，康熙依议并议及满洲蒙古汉军增额。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "钱晋锡",
+   "role": "府尹"
+  }
+ ],
+ "places": [
+  "顺天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2523,
+ "page_range": "61-62"
+}

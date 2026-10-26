@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十三日庚辰",
+ "event_role": "人事任免",
+ "summary": "翰林院题补原任经筵讲官温代员缺，康熙帝询问讲书情况后命常书补充。",
+ "people": [
+  {
+   "name": "温代",
+   "role": "原任经筵讲官"
+  },
+  {
+   "name": "哈占",
+   "role": "尚书"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "拟补者"
+  },
+  {
+   "name": "常书",
+   "role": "补授者"
+  },
+  {
+   "name": "葛思泰",
+   "role": "拟补者"
+  },
+  {
+   "name": "阿山",
+   "role": "拟补者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23913,
+ "page_range": "521-522"
+}

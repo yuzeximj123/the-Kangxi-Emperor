@@ -1,0 +1,48 @@
+{
+ "date_raw": "康熙四十九年閏七月二十四日",
+ "reign_year": 49,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮奏请补授马水口都司，并附传旨询问哆啰国违式用兵龙边等事。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏请人"
+  },
+  {
+   "name": "杨奕",
+   "role": "朱批提及已有旨意之人"
+  },
+  {
+   "name": "赵昌",
+   "role": "传旨官"
+  },
+  {
+   "name": "王道化",
+   "role": "传旨官"
+  },
+  {
+   "name": "张常住",
+   "role": "传旨官"
+  },
+  {
+   "name": "李国屏",
+   "role": "传旨官"
+  },
+  {
+   "name": "哆啰",
+   "role": "被询问的外国之人"
+  }
+ ],
+ "places": [
+  "马水口"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，杨奕二人已有旨意，并提及闻得奏折甚多及传旨询问哆啰国违式之事。",
+ "source_title": "直隸巡撫趙弘燮奏為請補馬水口都司摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "717",
+ "order_index": 9
+}

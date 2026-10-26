@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "初五日己巳",
+ "event_role": "人事任免",
+ "summary": "覆请山西巡抚苏克济题请以升任兵部员外郎绛州知州贾晖升衔留原任，康熙准照所请仍留原任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "贾晖",
+   "role": "绛州知州"
+  }
+ ],
+ "places": [
+  "山西",
+  "绛州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21413,
+ "page_range": "439-440"
+}

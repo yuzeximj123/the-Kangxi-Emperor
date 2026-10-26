@@ -1,0 +1,33 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "原二品台吉多尔几斯希布之子策布腾等、察哈尔旗分台吉麻卖、阿米喇等请安进贡来朝。",
+ "people": [
+  {
+   "name": "策布腾",
+   "role": "无品台吉"
+  },
+  {
+   "name": "多尔几斯希布",
+   "role": "原二品台吉"
+  },
+  {
+   "name": "麻卖",
+   "role": "四品台吉"
+  },
+  {
+   "name": "阿米喇",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "正红旗察哈尔旗分",
+  "镶黄旗察哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20603,
+ "page_range": "422-423"
+}

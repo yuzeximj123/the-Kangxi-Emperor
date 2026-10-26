@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "缓决人犯朱拉哈私往广东打死百总，康熙帝以其情罪可恶改拟情真。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱拉哈",
+   "role": "人犯"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12904,
+ "page_range": "269-270"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十三日王成",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御中和殿，内大臣、侍卫及执事等官行庆贺礼；又御太和门，诸王、贝子、公、文武官员上表行庆贺礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9103,
+ "page_range": "225-226"
+}

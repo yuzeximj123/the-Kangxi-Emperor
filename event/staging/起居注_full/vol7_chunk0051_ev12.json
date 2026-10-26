@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "初九日甲申",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝舟过镇江府，京口将军马三奇、协领窦献矶、水师营副将崔士英、丹阳县知县张经等来朝。",
+ "people": [
+  {
+   "name": "马三奇",
+   "role": "京口将军"
+  },
+  {
+   "name": "窦献矶",
+   "role": "镇江府协领"
+  },
+  {
+   "name": "崔士英",
+   "role": "水师营副将"
+  },
+  {
+   "name": "张经",
+   "role": "丹阳县知县"
+  }
+ ],
+ "places": [
+  "镇江府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5112,
+ "page_range": "113-114"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "二十八日己巳",
+ "event_role": "河工水利",
+ "summary": "总河靳辅题请将黄河上流开、归二府堤岸帮筑坚固以全运道民生，康熙帝称所奏极是，命工部速议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "开府",
+  "归府",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19719,
+ "page_range": "437-438"
+}

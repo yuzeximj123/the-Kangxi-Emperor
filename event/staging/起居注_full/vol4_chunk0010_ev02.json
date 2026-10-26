@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "初十日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝因自太皇太后违豫以来精神迷溃、遗忘本章，谕令各部院大臣谨慎看视本章，并传谕九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦柱",
+   "role": "传谕官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1002,
+ "page_range": "32-33"
+}

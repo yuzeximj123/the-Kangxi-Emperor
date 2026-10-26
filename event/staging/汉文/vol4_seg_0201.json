@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十一年二月十九日",
+ "reign_year": 51,
+ "month": 2,
+ "day": 19,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州、扬州一带雨水及田禾情形，康熙朱批告知已差大臣前往。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知晓，并称已差遣大臣前往处理。",
+ "source_title": "苏州织造李煦奏报苏扬雨水田禾情形折（康熙五十一年二月十九日）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 201
+}

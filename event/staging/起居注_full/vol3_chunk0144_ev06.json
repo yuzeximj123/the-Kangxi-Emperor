@@ -1,0 +1,21 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "二十六日庚戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早在保和殿视礼朝日坛祝版，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "朝日坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14406,
+ "page_range": "323-324"
+}

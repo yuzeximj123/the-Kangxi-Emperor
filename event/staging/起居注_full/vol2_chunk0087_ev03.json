@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "兵部启奏原任四川提督王之上灵棕次日到来，康熙遣内大臣塔达、公福善往郊次止宿黄酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "塔达",
+   "role": "内大臣"
+  },
+  {
+   "name": "福善",
+   "role": "公"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8703,
+ "page_range": "217-218"
+}

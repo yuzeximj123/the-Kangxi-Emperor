@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙六十年十一月初十日",
+ "reign_year": 60,
+ "month": 11,
+ "day": null,
+ "event_role": "其他",
+ "summary": "苏州织造李煦奏报扬州天宁寺修理工程已于九月告竣，并请以康熙所发库银五百两重修佛像，使庙貌法相俱臻庄严。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏请人"
+  },
+  {
+   "name": "曹寅",
+   "role": "与李煦、孙文成同奉旨各发库银五百两"
+  },
+  {
+   "name": "孙文成",
+   "role": "与李煦、曹寅同奉旨各发库银五百两"
+  }
+ ],
+ "places": [
+  "扬州",
+  "天宁寺"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批为“李煦跪”，系康熙对李煦的简短批语。",
+ "source_title": "蘇州織造李煦奏為請以庫銀重修揚州天寧寺佛像摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2962",
+ "order_index": 354
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "二十日壬寅",
+ "event_role": "议政听政",
+ "summary": "辰时康熙御乾清门听政，部院各衙门官员面奏毕，谕大学士等刑部事件关系甚要，斋戒日停审讯启奏致积压，令问九卿来奏。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18023,
+ "page_range": "395-396"
+}

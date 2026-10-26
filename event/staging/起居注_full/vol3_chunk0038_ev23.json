@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "十一日甲辰",
+ "event_role": "司法案件",
+ "summary": "原任同知马遇伯将伊妹吴世宗之妻马氏隐瞒不报，议革职，康熙询问其系汉人还是旗下，令查明若如所论则改正本送吏部。",
+ "people": [
+  {
+   "name": "马遇伯",
+   "role": "原任同知"
+  },
+  {
+   "name": "吴世宗",
+   "role": "马氏之夫"
+  },
+  {
+   "name": "马氏",
+   "role": "马遇伯之妹"
+  },
+  {
+   "name": "石柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3823,
+ "page_range": "111-112"
+}

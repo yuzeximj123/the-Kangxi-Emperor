@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十一年五月初八日",
+ "reign_year": 51,
+ "month": 5,
+ "day": 8,
+ "event_role": "奏报灾情收成",
+ "summary": "云南巡抚吴存礼奏报云南等十九府麦稻丰收、米麦豆价格及秋田播种情况，并转述百姓感戴皇恩。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "云南巡抚，奏报人"
+  },
+  {
+   "name": "李苾",
+   "role": "布政使，详报收成分数"
+  }
+ ],
+ "places": [
+  "云南",
+  "滇省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称今年各省麦秋报到皆有十分收成，近京口外雨旸调和。",
+ "source_title": "雲南巡撫吳存禮奏報麥秋豐收米價平減摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "94",
+ "order_index": 214
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "伊桑阿等将贵州布政使拟陪之人问九卿，九卿荐候补布政使张建绩等，康熙帝以郑昱居官虽优而张建绩系候补之员，令引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "张建绩",
+   "role": "候补布政使"
+  },
+  {
+   "name": "郑昱",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 206,
+ "page_range": "15-16"
+}

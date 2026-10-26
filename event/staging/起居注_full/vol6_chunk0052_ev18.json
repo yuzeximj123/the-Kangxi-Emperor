@@ -1,0 +1,38 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": "二十七日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命福善、费扬古、索额图、明珠等传谕蒙古王贝勒台吉官兵，令严缉盗贼以安生业，否则必加诛戮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "费扬古",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "索额图",
+   "role": "内大臣"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "德木楚克",
+   "role": "一品台吉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5218,
+ "page_range": "114-115"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "侍郎满不、巡抚贝和诺奏提督唐希顺卧病四月余，达木巴塞尔吉报称藏人已惧。",
+ "people": [
+  {
+   "name": "满不",
+   "role": "侍郎"
+  },
+  {
+   "name": "贝和诺",
+   "role": "巡抚"
+  },
+  {
+   "name": "唐希顺",
+   "role": "提督"
+  },
+  {
+   "name": "达木巴塞尔吉",
+   "role": "报信人"
+  }
+ ],
+ "places": [
+  "藏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22103,
+ "page_range": "452-453"
+}

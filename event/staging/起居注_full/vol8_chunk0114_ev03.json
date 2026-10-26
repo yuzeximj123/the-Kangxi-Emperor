@@ -1,0 +1,38 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题将诈骗吴老喜银两的高五即行正法，并议处拟罪有误的额黑诺、七哥、博音代，康熙命高五改秋后处决，博音代革职，巴颜柱亦革退。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高五",
+   "role": "罪犯"
+  },
+  {
+   "name": "额黑诺",
+   "role": "郎中"
+  },
+  {
+   "name": "七哥",
+   "role": "员外郎"
+  },
+  {
+   "name": "博音代",
+   "role": "侍郎"
+  },
+  {
+   "name": "巴颜柱",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11403,
+ "page_range": "239-240"
+}

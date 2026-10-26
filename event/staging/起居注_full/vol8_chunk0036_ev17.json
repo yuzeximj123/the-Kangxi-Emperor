@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "二十三日丁卯",
+ "event_role": "司法案件",
+ "summary": "覆请刑部等题二巴喇等毒杀庄头杨国英之子杨茂拟凌迟一案，康熙帝以凌迟极刑关系重大，命九卿、知事、科、道会同详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "二巴喇",
+   "role": "案犯"
+  },
+  {
+   "name": "杨国英",
+   "role": "庄头"
+  },
+  {
+   "name": "杨茂",
+   "role": "被害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3617,
+ "page_range": "83-84"
+}

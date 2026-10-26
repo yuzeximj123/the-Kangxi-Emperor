@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "初七日乙酉",
+ "event_role": "司法案件",
+ "summary": "议政王大臣会议以科尔沁卓力克图王哪齐尔不孝其母，议削王爵、夺所属、拘盛京监禁，康熙帝以为所议极当，命送进再酌。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哪齐尔",
+   "role": "科尔沁卓力克图王"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11115,
+ "page_range": "265-266"
+}

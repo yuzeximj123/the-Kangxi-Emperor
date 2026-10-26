@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙伍拾肆年伍月贰拾陆日",
+ "reign_year": 54,
+ "month": 5,
+ "day": 26,
+ "event_role": "奏报地方情形",
+ "summary": "云南巡抚甘国璧奏请准用奏折以便恭请圣训，并报滇省二麦收成及雨水田禾情形。",
+ "people": [
+  {
+   "name": "甘国璧",
+   "role": "云南巡抚，奏折作者"
+  },
+  {
+   "name": "卢询",
+   "role": "布政使，册报收成分数"
+  }
+ ],
+ "places": [
+  "云南",
+  "云南府",
+  "滇省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示巡抚读奏折不用请旨。",
+ "source_title": "云南巡抚甘国璧奏请准用奏摺摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1793",
+ "order_index": 74
+}

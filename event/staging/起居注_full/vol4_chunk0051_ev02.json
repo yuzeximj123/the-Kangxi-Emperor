@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 12,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "记述文皇后丧仪，康熙帝哀痛守礼，群臣屡请以日易月，帝勉从，梓宫奉移时步行送冰雪中，哀号三日方回。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "文皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [
+  "昌瑞山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5102,
+ "page_range": "114-115"
+}

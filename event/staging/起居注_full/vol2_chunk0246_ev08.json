@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "十七日甲实",
+ "event_role": "司法案件",
+ "summary": "都察院因欧州各处粘贴称颂歌谣议知州杨天佑革职，康熙帝疑其自行买名，命该抚严察具题再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨天佑",
+   "role": "知州"
+  }
+ ],
+ "places": [
+  "欧州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24608,
+ "page_range": "535-536"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十一日王午",
+ "event_role": "朝见受贺",
+ "summary": "顺德府知府杨宽、沙河县知县赵明镜、千总刘元清等来朝，康熙命阿灵阿等监试刘元清马步射。",
+ "people": [
+  {
+   "name": "杨宽",
+   "role": "顺德府知府"
+  },
+  {
+   "name": "赵明镜",
+   "role": "沙河县知县"
+  },
+  {
+   "name": "刘元清",
+   "role": "千总"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣公"
+  }
+ ],
+ "places": [
+  "顺德府",
+  "沙河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8514,
+ "page_range": "181-182"
+}

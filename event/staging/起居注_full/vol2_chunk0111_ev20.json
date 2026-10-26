@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "初八日丙戌",
+ "event_role": "人事任免",
+ "summary": "安徽按察使员缺，正拟王定国、陪拟胡戴仁，康熙帝询后命即补授王定国。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王定国",
+   "role": "拟任安徽按察使"
+  },
+  {
+   "name": "胡戴仁",
+   "role": "陪拟"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11120,
+ "page_range": "265-266"
+}

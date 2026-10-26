@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "二十五日庚戌",
+ "event_role": "朝见受贺",
+ "summary": "喜峰口关口守御萨克查等、喜峰路游击陈国英等来朝。",
+ "people": [
+  {
+   "name": "萨克查",
+   "role": "喜峰口关口守御"
+  },
+  {
+   "name": "陈国英",
+   "role": "喜峰路游击"
+  }
+ ],
+ "places": [
+  "喜峰口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19638,
+ "page_range": "403-404"
+}

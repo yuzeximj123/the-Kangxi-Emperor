@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十二日己卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早御乾清宫，听讲官牛钮、张玉书、汤斌进讲《小过》卦诸节，并亲讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  },
+  {
+   "name": "汤斌",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23903,
+ "page_range": "521-522"
+}

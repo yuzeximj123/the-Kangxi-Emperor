@@ -1,0 +1,36 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "二十二日甲子",
+ "event_role": "请安谢恩",
+ "summary": "晚，诸王、贝勒、贝子、公及诸臣至行宫前奏请康熙帝遵例除发，称梓宫已奉安，丧礼告成。",
+ "people": [
+  {
+   "name": "诸王",
+   "role": "王"
+  },
+  {
+   "name": "贝勒",
+   "role": "贝勒"
+  },
+  {
+   "name": "贝子",
+   "role": "贝子"
+  },
+  {
+   "name": "公",
+   "role": "公"
+  },
+  {
+   "name": "诸臣",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2714,
+ "page_range": "66-67"
+}

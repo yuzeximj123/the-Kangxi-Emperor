@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "二十一日乙相",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问湖南米价及采买二十万石事宜，令郭玫八月具折奏闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭玫",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [
+  "湖南",
+  "淮扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14006,
+ "page_range": "290-291"
+}

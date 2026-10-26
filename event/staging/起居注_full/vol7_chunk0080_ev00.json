@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥责张鹏翮保举多徇情面，令其与王国昌等均摊赔偿动用仓谷，限四十三年、四十四年赔完。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河道总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8000,
+ "page_range": "171-172"
+}

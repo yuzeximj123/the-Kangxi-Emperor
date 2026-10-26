@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "初六日己丑",
+ "event_role": "弹劾参奏",
+ "summary": "工部参员外郎郭迈等承修青龙桥工程迟误，康熙帝命将监工堂官交都察院严查议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭迈",
+   "role": "工部员外郎"
+  }
+ ],
+ "places": [
+  "青龙桥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16606,
+ "page_range": "367-368"
+}

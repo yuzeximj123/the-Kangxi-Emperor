@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初三日甲午",
+ "event_role": "司法案件",
+ "summary": "三法司会议法葆妻子逃匿与马雄等同伙招兵，拟凌迟立决，康熙帝询问大学士后照议完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "法葆",
+   "role": "罪犯"
+  },
+  {
+   "name": "马雄",
+   "role": "同伙"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6114,
+ "page_range": "157-158"
+}

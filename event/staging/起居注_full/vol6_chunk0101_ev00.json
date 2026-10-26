@@ -1,0 +1,42 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命佛伦不必带往审案，哪克济哈着家人前去，郭洪不必去，其余准带往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "尚书"
+  },
+  {
+   "name": "传腊塔",
+   "role": "官员"
+  },
+  {
+   "name": "布喀",
+   "role": "案中人"
+  },
+  {
+   "name": "吴赫",
+   "role": "官员"
+  },
+  {
+   "name": "哪克济哈",
+   "role": "大臣"
+  },
+  {
+   "name": "郭洪",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10100,
+ "page_range": "212-213"
+}

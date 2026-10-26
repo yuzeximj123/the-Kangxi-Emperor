@@ -1,0 +1,28 @@
+{
+ "reign_year": 14,
+ "month": 1,
+ "day_text": "二十四日癸未",
+ "event_role": "朝见受贺",
+ "summary": "未时，康熙帝复御乾清门，赐宴谢恩和硕额驸沙津及进贡苏尼忒部落一品台吉毛等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙津",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "毛",
+   "role": "苏尼忒部落一品台吉"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8515,
+ "page_range": "227-228"
+}

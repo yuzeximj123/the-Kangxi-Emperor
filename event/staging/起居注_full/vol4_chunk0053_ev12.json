@@ -1,0 +1,36 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "十三日辛已",
+ "event_role": "朝见受贺",
+ "summary": "按察使王梁、德州防守御宋噶里、道刘安国、参将晋淑玉、博士孔航红等来朝。",
+ "people": [
+  {
+   "name": "王梁",
+   "role": "按察使"
+  },
+  {
+   "name": "宋噶里",
+   "role": "德州防守御"
+  },
+  {
+   "name": "刘安国",
+   "role": "道员"
+  },
+  {
+   "name": "晋淑玉",
+   "role": "参将"
+  },
+  {
+   "name": "孔航红",
+   "role": "博士"
+  }
+ ],
+ "places": [
+  "德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5312,
+ "page_range": "118-119"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十三日己未",
+ "event_role": "起居注官记录",
+ "summary": "皇太子又以清字一章命观，博济、傅叔元、汤斌称赞满汉字画精工、天资学力俱高。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "博济",
+   "role": "起居注官"
+  },
+  {
+   "name": "傅叔元",
+   "role": "起居注官"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23717,
+ "page_range": "509-510"
+}

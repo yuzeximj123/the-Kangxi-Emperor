@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "十六日庚午",
+ "event_role": "人事任免",
+ "summary": "九卿会题光禄寺卿阿山升任员缺，康熙帝询问索诺和为人后命其升光禄寺卿。",
+ "people": [
+  {
+   "name": "索诺和",
+   "role": "侍读学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "光禄寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14906,
+ "page_range": "333-334"
+}

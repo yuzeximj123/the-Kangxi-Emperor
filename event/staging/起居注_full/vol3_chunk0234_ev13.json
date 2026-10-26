@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "初九日乙卯",
+ "event_role": "起居注官记录",
+ "summary": "康熙帝与皇太子复坐，侍卫置纸笔于案，时盛夏初伏，皇太子凝神端坐伏案作书，汤斌、耿介昏倦几至颠仆。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "作书者"
+  },
+  {
+   "name": "汤斌",
+   "role": "尚书"
+  },
+  {
+   "name": "耿介",
+   "role": "少詹事"
+  }
+ ],
+ "places": [
+  "无逸斋"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23413,
+ "page_range": "503-504"
+}

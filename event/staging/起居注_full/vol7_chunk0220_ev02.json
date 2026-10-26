@@ -1,0 +1,45 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝讲述自己曾识出重复告状之人及独石口防御某，众人叹服；又评穆洛、图海、明珠、阿兰泰、哲尔肯记性好。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "裕亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "穆洛",
+   "role": "原任经略"
+  },
+  {
+   "name": "图海",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "哲尔肯",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "独石口",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22002,
+ "page_range": "451-452"
+}

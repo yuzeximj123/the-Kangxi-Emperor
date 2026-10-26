@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士马齐等奏问兵部尚书殷特布等称误安定门班之郎中额尔奔勤递去得，康熙帝令额尔奔从宽免革职降五级留任。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "额尔奔",
+   "role": "郎中"
+  },
+  {
+   "name": "殷特布",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安定门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14914,
+ "page_range": "309-310"
+}

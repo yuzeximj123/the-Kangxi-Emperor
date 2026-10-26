@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "初六日甲申",
+ "event_role": "人事任免",
+ "summary": "康熙帝以江西提督许贞在江西大有劳绩，命调补广东提督，明珠奏请暂俟各处督抚到任后再行调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许贞",
+   "role": "江西提督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江西",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11106,
+ "page_range": "265-266"
+}

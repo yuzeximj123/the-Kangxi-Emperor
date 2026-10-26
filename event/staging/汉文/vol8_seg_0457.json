@@ -1,0 +1,38 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "其他",
+ "summary": "范弘偲遵旨与太监李兴泰、冯尧仁暗访王真人，探其修道工夫，称其言合三教、得正传，但口诀须奉旨方授，并言试后可知效验缓急。",
+ "people": [
+  {
+   "name": "范弘偲",
+   "role": "奏报人，奴才"
+  },
+  {
+   "name": "李兴泰",
+   "role": "太监，同往探访"
+  },
+  {
+   "name": "冯尧仁",
+   "role": "太监，同往探访"
+  },
+  {
+   "name": "王真人",
+   "role": "被探访的修道者"
+  },
+  {
+   "name": "王赖之",
+   "role": "朱批中提及进伪药者"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称已知晓，王赖之伪药未曾过心，但其言服饵，恐误政事，已入道又怕不能脱身，故先试一二人看效果。",
+ "source_title": "（范弘偲奏报王真人修道事）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 457
+}

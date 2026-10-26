@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "十八日戊戌",
+ "event_role": "奏报地方情形",
+ "summary": "都统宋柱、副都统达尔占、侍郎傅继祖以巡抚广东黎人事毕来请安面奏，康熙帝命入行宫问彼处情形。",
+ "people": [
+  {
+   "name": "宋柱",
+   "role": "都统"
+  },
+  {
+   "name": "达尔占",
+   "role": "副都统"
+  },
+  {
+   "name": "傅继祖",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2124,
+ "page_range": "53-54"
+}

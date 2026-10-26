@@ -1,0 +1,20 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十二日壬辰",
+ "event_role": "军务",
+ "summary": "议政大臣议奏大军需粮自白塔驮运，请拨牲口四千五百匹，不足则选尚书库勒纳送到牲口补足。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "白塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21513,
+ "page_range": "440-441"
+}

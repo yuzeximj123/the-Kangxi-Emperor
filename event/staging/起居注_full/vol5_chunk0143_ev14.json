@@ -1,0 +1,37 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "初八日王辰",
+ "event_role": "朝见受贺",
+ "summary": "居庸路都司赵辉壁、昌平州防守尉穆锡泰、霸昌道高必弘、昌平州知州孔复璋、参将徐登甲等来朝。",
+ "people": [
+  {
+   "name": "赵辉壁",
+   "role": "都司"
+  },
+  {
+   "name": "穆锡泰",
+   "role": "防守尉"
+  },
+  {
+   "name": "高必弘",
+   "role": "道员"
+  },
+  {
+   "name": "孔复璋",
+   "role": "知州"
+  },
+  {
+   "name": "徐登甲",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "居庸路",
+  "昌平州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14314,
+ "page_range": "296-297"
+}

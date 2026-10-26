@@ -1,0 +1,41 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮奏报通永道白为玑病故，请求升补能员以补要缺，并提及今夏雨泽不均、恐有蝗蝻之虞。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "白为玑",
+   "role": "通永道"
+  },
+  {
+   "name": "祁国祚",
+   "role": "守道"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "通永道",
+  "畿辅",
+  "武清",
+  "宝坻",
+  "芦台",
+  "隆平",
+  "曲周"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隶巡抚赵弘燮奏报秋收实在分数摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 153
+}

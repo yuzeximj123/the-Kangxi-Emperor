@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十二日于申",
+ "event_role": "请安谢恩",
+ "summary": "周钱谢恩后奏请将康熙帝密云题咏勒石，康熙帝命先看其即刻所写诗章书法，待墨干用宝赐予，并命再作一诗。",
+ "people": [
+  {
+   "name": "周钱",
+   "role": "密云县知县，谢恩奏请"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李玉",
+   "role": "太监，传旨"
+  }
+ ],
+ "places": [
+  "密云"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1914,
+ "page_range": "49-50"
+}

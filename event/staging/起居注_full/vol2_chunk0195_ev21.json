@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "十八日己未",
+ "event_role": "谕旨决策",
+ "summary": "湖南巡抚韩世琦题因同部员往察楠木请展限，工部议准，康熙帝以各省案件应限内速结，令会同详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩世琦",
+   "role": "湖南巡抚"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19521,
+ "page_range": "433-434"
+}

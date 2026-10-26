@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 11,
+ "day_text": "二十四日己巳",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等奏九卿闻停元旦行礼筵宴之旨皆跪请照常行礼，康熙令照常行礼、停止筵宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21606,
+ "page_range": "444-445"
+}

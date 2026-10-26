@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "初三日",
+ "event_role": "皇帝行止",
+ "summary": "是日仁孝皇后忌辰，康熙帝不听政，未时移驻瀛台。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "仁孝皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2507,
+ "page_range": "85-86"
+}

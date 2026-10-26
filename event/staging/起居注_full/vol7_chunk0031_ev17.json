@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十日戊辰",
+ "event_role": "司法案件",
+ "summary": "伊桑阿奏奉旨以祖应世之事问九卿，据云移咨巡抚李光地行查；康熙帝指出祖应世钱粮已完又称未完，或有他故。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "祖应世",
+   "role": "涉案人"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3117,
+ "page_range": "73-74"
+}

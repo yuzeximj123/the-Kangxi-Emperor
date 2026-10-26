@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十一年四月日",
+ "reign_year": 51,
+ "month": 4,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "浙江提督王世臣奏报已拏获贼首孙由，并将先后所获贼犯交督抚审拟会题，请皇上睿鉴。",
+ "people": [
+  {
+   "name": "王世臣",
+   "role": "浙江提督，奏报人"
+  },
+  {
+   "name": "孙由",
+   "role": "贼首，被拏获"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "浙江提督王世臣奏報拏獲賊首孫由緣由摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 149
+}

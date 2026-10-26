@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "十八日于成",
+ "event_role": "谕旨决策",
+ "summary": "礼部覆顺天府府丞程文其请修府学尊经阁等处议不准行，康熙帝谕令交广善库修理。",
+ "people": [
+  {
+   "name": "程文其",
+   "role": "顺天府府丞"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺天府",
+  "国子监",
+  "文庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6115,
+ "page_range": "133-134"
+}

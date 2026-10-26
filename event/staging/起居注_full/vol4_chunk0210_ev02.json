@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赐江宁将军缪齐纳弓箭、撒袋、蟒缎、披领、鞍马。",
+ "people": [
+  {
+   "name": "缪齐纳",
+   "role": "江宁将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21002,
+ "page_range": "432-433"
+}

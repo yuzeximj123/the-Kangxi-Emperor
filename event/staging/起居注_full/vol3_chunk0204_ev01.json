@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十七日",
+ "event_role": "起居注官记录",
+ "summary": "记载本日起居注官为重亮把、徐元梦。",
+ "people": [
+  {
+   "name": "重亮把",
+   "role": "起居注官"
+  },
+  {
+   "name": "徐元梦",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20401,
+ "page_range": "443-444"
+}

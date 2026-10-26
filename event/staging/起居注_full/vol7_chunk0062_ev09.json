@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "二十二日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "马齐等查明邳州钱粮额数，康熙帝令蠲免徐州睢宁县三十七至三十九年未完地丁钱粮及邳州四十年未完钱粮。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "邳州",
+  "徐州",
+  "睢宁县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6209,
+ "page_range": "135-136"
+}

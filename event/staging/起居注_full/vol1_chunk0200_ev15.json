@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "二十三日甲申",
+ "event_role": "军务",
+ "summary": "会议将军赖塔辞管潮州军务应从所请，康熙帝以姚启圣疏称赖塔素得潮民之心，命将军王同启圣及赖塔会议具奏。",
+ "people": [
+  {
+   "name": "赖塔",
+   "role": "将军"
+  },
+  {
+   "name": "姚启圣",
+   "role": "总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "潮州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20015,
+ "page_range": "457-458"
+}

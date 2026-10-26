@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "初十日乙酉",
+ "event_role": "议政听政",
+ "summary": "大学士勒德洪、明珠同学士席柱捧折本面奏，为御史戴王结条奏纂修太祖太宗世祖圣训及用兵诏命密旨编辑成书事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "席柱",
+   "role": "学士"
+  },
+  {
+   "name": "戴王结",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "玉泉山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13807,
+ "page_range": "319-320"
+}

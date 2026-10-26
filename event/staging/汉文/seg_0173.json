@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十五年五月二十四日",
+ "reign_year": 45,
+ "month": 5,
+ "day": 24,
+ "event_role": "奏报地方情形",
+ "summary": "李维钧奏报直隶雨泽沾足、秋禾秀发、蝗蝻绝迹及河堤防守情形。",
+ "people": [
+  {
+   "name": "李维钧",
+   "role": "奏报人"
+  },
+  {
+   "name": "马齐",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示口外今年收成比往年更好，只担心秋霜来得早。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "（李维钧奏雨泽）",
+ "order_index": 173
+}

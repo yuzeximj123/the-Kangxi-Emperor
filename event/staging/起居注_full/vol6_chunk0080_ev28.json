@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "二十七日丁卯",
+ "event_role": "朝见受贺",
+ "summary": "宿迁县知县胡三俊、守备刘交道等来朝见。",
+ "people": [
+  {
+   "name": "胡三俊",
+   "role": "宿迁县知县"
+  },
+  {
+   "name": "刘交道",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "宿迁县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8028,
+ "page_range": "170-171"
+}

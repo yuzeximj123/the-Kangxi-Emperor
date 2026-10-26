@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "初五日戊寅",
+ "event_role": "人事任免",
+ "summary": "兵部引见保举关差官员，康熙帝令图尔宕等四人交内阁，达汉泰不准保举另拟引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图尔宕",
+   "role": "保举关差官员"
+  },
+  {
+   "name": "达汉泰",
+   "role": "保举关差官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14913,
+ "page_range": "341-342"
+}

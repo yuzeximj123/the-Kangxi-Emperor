@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "理藩院奏议政大臣会议结果，拟酌量赏赐哈密回子首领厄贝都喇达尔汉伯克及其子郭帕伯克，得旨依议。",
+ "people": [
+  {
+   "name": "厄贝都喇达尔汉伯克",
+   "role": "哈密回子首领"
+  },
+  {
+   "name": "郭帕伯克",
+   "role": "厄贝都喇达尔汉伯克之子"
+  }
+ ],
+ "places": [
+  "哈密"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19701,
+ "page_range": "404-405"
+}

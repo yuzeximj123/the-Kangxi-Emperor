@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十五年正月二十五日",
+ "reign_year": 55,
+ "month": null,
+ "day": 24,
+ "event_role": "奏报灾情收成",
+ "summary": "湖广巡抚刘殿衡奏报湖北当年麦稻收成、沿江五州县水灾被淹分数及米麦价值，以慰圣怀。",
+ "people": [
+  {
+   "name": "刘殿衡",
+   "role": "湖广巡抚"
+  }
+ ],
+ "places": [
+  "湖广",
+  "楚北",
+  "沔阳",
+  "汉川",
+  "汉阳",
+  "嘉鱼",
+  "江夏"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸總督趙弘燮奏請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "189",
+ "order_index": 147
+}

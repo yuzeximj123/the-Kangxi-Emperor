@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "初十日辛亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕山西巡抚噶礼，斥秦党倨慢不实奏对，命革职降补平阳府属县丞以下，视效力酌用。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "秦党",
+   "role": "被斥官员，革职降补"
+  }
+ ],
+ "places": [
+  "山西",
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7914,
+ "page_range": "169-170"
+}

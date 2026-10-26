@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "二十七日",
+ "event_role": "弹劾参奏",
+ "summary": "吏部题参董纳考选科道时咨送王缉植有情弊，请将托葡、王缉植、徐元文革职，康熙帝命议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董纳",
+   "role": "左都御史"
+  },
+  {
+   "name": "托葡",
+   "role": "中书科掌印中书舍人"
+  },
+  {
+   "name": "王缉植",
+   "role": "中书舍人"
+  },
+  {
+   "name": "徐元文",
+   "role": "原任左都御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19406,
+ "page_range": "423-424"
+}

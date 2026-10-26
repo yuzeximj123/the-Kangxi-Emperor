@@ -1,0 +1,56 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "二十三日戊成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论吏部尚书员缺，称李光地、徐潮居官优，命问九卿；并评彭鹏、赵申乔偏执沽名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "徐潮",
+   "role": "巡抚"
+  },
+  {
+   "name": "彭鹏",
+   "role": "官员"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "华显",
+   "role": "总督"
+  },
+  {
+   "name": "哪海",
+   "role": "巡抚"
+  },
+  {
+   "name": "噶礼",
+   "role": "巡抚"
+  },
+  {
+   "name": "贝和诺",
+   "role": "巡抚"
+  },
+  {
+   "name": "王国昌",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5806,
+ "page_range": "127-128"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部议石匣守备张淑在迎驾处诉更，拟革职交刑部，康熙帝命革职从宽免交刑部。",
+ "people": [
+  {
+   "name": "张淑",
+   "role": "石匣守备"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "石匣"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11601,
+ "page_range": "243-244"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议正蓝旗护军参领多散擅带护军应革职，正红旗护军参领苏丹应罚俸六月，康熙帝命将多散降五级于受浑等处对品补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "多散",
+   "role": "正蓝旗护军参领"
+  },
+  {
+   "name": "苏丹",
+   "role": "正红旗护军参领"
+  }
+ ],
+ "places": [
+  "受浑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11602,
+ "page_range": "267-268"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": "十九日吴亥",
+ "event_role": "人事任免",
+ "summary": "吏部题学士罗察升任员缺，康熙帝以萨尔图狂妄，令恩丕补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗察",
+   "role": "学士"
+  },
+  {
+   "name": "萨尔图",
+   "role": "侍读学士"
+  },
+  {
+   "name": "恩丕",
+   "role": "兵部司官"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3918,
+ "page_range": "88-89"
+}

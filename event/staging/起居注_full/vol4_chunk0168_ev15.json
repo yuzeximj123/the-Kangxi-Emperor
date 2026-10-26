@@ -1,0 +1,32 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "二十一日壬寅",
+ "event_role": "人事任免",
+ "summary": "兵部题研州将军巴浑德员缺开列副都统马斯喀等，康熙帝以莽吉禄人才壮健、本旗人称其优，着补授镇守研州等处将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴浑德",
+   "role": "研州将军"
+  },
+  {
+   "name": "马斯喀",
+   "role": "副都统"
+  },
+  {
+   "name": "莽吉禄",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "研州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16815,
+ "page_range": "348-349"
+}

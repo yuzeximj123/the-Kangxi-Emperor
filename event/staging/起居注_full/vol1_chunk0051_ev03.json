@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 8,
+ "day_text": "二十四日辛西",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝手诏论平西亲王吴三桂，令其迁移家口，命礼部侍郎折尔肯、翰林院学士达礼前往云南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴三桂",
+   "role": "平西亲王"
+  },
+  {
+   "name": "折尔肯",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "达礼",
+   "role": "翰林院学士"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5103,
+ "page_range": "159-160"
+}

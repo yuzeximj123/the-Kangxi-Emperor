@@ -1,0 +1,39 @@
+{
+ "date_raw": "康熙四十六年十一月二十一日",
+ "reign_year": 46,
+ "month": 11,
+ "day": 21,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏明因大计事务繁忙，委派霸通二道代查红剥船地亩并先行奏闻。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "满都礼",
+   "role": "涉及人物"
+  },
+  {
+   "name": "蒋陈锡",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李光地",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "直隶",
+  "通州",
+  "天津"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“是”，表示同意赵弘燮所奏。",
+ "type": "json_object",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "275",
+ "source_title": "直隸巡撫趙弘燮奏陳以私自查勘紅剥船地畝事摺",
+ "order_index": 202
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 6,
+ "day_text": "十三日辛西",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕光禄寺诸事废坏，令大学士会同多笔甄别署官笔帖式，不及者革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "辛保",
+   "role": "运粮官"
+  },
+  {
+   "name": "傅尔齐",
+   "role": "少卿"
+  },
+  {
+   "name": "多笔",
+   "role": "原任光禄寺官"
+  }
+ ],
+ "places": [
+  "光禄寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 106,
+ "page_range": "12-13"
+}

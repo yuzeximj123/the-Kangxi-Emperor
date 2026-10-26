@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "初六日戊午",
+ "event_role": "人事任免",
+ "summary": "吏部题补太常寺卿员缺拟田雯升补，康熙帝询问田雯为人后准其升补。",
+ "people": [
+  {
+   "name": "田雯",
+   "role": "拟升太常寺卿"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17208,
+ "page_range": "379-380"
+}

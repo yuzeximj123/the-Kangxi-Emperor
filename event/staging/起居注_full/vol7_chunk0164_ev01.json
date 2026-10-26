@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请补授中允宋衡员缺，康熙认为汪士匀为人甚不及，本发还，着另拟具奏。",
+ "people": [
+  {
+   "name": "宋衡",
+   "role": "原中允"
+  },
+  {
+   "name": "汪士匀",
+   "role": "拟补中允"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16401,
+ "page_range": "339-340"
+}

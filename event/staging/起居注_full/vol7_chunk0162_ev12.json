@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "二十六日乙卯",
+ "event_role": "人事任免",
+ "summary": "大学士等以折本请旨，吏部题补内阁学士瓦尔达员缺，康熙帝命以萨尔泰补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萨尔泰",
+   "role": "侍读学士"
+  },
+  {
+   "name": "瓦尔达",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16212,
+ "page_range": "335-336"
+}

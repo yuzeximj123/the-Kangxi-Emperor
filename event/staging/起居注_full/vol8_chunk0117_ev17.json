@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "十七日己酉",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门覆广东巡抚杨琳所题强盗李承宗等劫夺灵山县民毕日高家，拟立斩；康熙帝命为首者处决，余者减等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨琳",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "李承宗",
+   "role": "强盗"
+  },
+  {
+   "name": "毕日高",
+   "role": "灵山县民"
+  }
+ ],
+ "places": [
+  "灵山县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11717,
+ "page_range": "245-246"
+}

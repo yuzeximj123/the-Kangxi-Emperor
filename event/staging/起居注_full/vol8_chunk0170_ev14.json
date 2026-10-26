@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "二十三日己酉",
+ "event_role": "皇帝行止",
+ "summary": "是日未时，康熙帝至畅春园诺镜峰问安，驻跸畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "诺镜峰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17014,
+ "page_range": "351-352"
+}

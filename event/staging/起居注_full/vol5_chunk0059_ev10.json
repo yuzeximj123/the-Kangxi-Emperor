@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "二十一日",
+ "event_role": "人事任免",
+ "summary": "伊桑阿奏问禅布本族王及都统杨代等，称其效力颇优，康熙帝命禅布升授副都统。",
+ "people": [
+  {
+   "name": "禅布",
+   "role": "护军参领，升授副都统"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "杨代",
+   "role": "都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5910,
+ "page_range": "128-129"
+}

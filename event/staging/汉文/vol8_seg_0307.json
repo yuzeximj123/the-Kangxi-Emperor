@@ -1,0 +1,58 @@
+{
+ "date_raw": "康熙五十九年十二月二十四日",
+ "reign_year": 59,
+ "month": 12,
+ "day": 12,
+ "event_role": "收到奏折",
+ "summary": "两广总督杨琳等回奏教皇使臣嘉乐抵粤日期及询问来由情形，并报已委员伴送其进京。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广巡抚"
+  },
+  {
+   "name": "杨宗仁",
+   "role": "两广总督"
+  },
+  {
+   "name": "嘉乐",
+   "role": "教皇使臣"
+  },
+  {
+   "name": "李秉忠",
+   "role": "员外，伴送使臣"
+  },
+  {
+   "name": "费理伯",
+   "role": "西洋人"
+  },
+  {
+   "name": "何济格",
+   "role": "西洋人"
+  },
+  {
+   "name": "德里格",
+   "role": "西洋人"
+  },
+  {
+   "name": "马国贤",
+   "role": "西洋人"
+  },
+  {
+   "name": "伊都立",
+   "role": "养心殿传谕官员"
+  }
+ ],
+ "places": [
+  "广东",
+  "山东",
+  "养心殿"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報蘇州麥山大熟並報米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2909",
+ "order_index": 307
+}

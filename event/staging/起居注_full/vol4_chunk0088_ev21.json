@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "十五日戊寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补解任山东巡抚钱珏员缺请旨；康熙帝以山东绅衿强横好结朋党，巡抚宜用风力之人，命将佛伦补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钱珏",
+   "role": "解任山东巡抚"
+  },
+  {
+   "name": "佛伦",
+   "role": "新任山东巡抚"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8821,
+ "page_range": "188-189"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "本月月初五日",
+ "reign_year": null,
+ "month": null,
+ "day": 5,
+ "event_role": "人事任免",
+ "summary": "白潢遵旨为皇上交下的直省督抚藩臬等官姓名折标注优劣，并陈奏督抚得人关乎地方治乱、最为紧要。",
+ "people": [
+  {
+   "name": "白潢",
+   "role": "江西布政司使，奏报人"
+  },
+  {
+   "name": "吕犹龙",
+   "role": "福建巡抚，请安"
+  }
+ ],
+ "places": [
+  "江西",
+  "福建"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批准白潢所请并已有旨，问江西节礼情形，另告朕安及各省麦秋大收、雨水颇好。",
+ "source_title": "请安折",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 453
+}

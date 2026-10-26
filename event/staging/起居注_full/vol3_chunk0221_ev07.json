@@ -1,0 +1,36 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "二十九日",
+ "event_role": "人事任免",
+ "summary": "九卿会推陕西布政使员缺，拟慕里布为正、齐西布为陪，康熙帝询问后令慕里布补授。",
+ "people": [
+  {
+   "name": "慕里布",
+   "role": "制造库郎中，补授陕西布政使"
+  },
+  {
+   "name": "齐西布",
+   "role": "监察御史，拟陪"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "荐举人"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22107,
+ "page_range": "477-478"
+}

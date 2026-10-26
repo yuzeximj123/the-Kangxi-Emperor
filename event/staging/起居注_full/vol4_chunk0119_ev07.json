@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 4,
+ "day_text": "二十五日丙成",
+ "event_role": "人事任免",
+ "summary": "户部题崇文门税差拟遣员外郎徐崇礼，康熙帝以差繁命就郎中选择差遣开列职名具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐崇礼",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11907,
+ "page_range": "250-251"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "初九日壬午",
+ "event_role": "弹劾参奏",
+ "summary": "兵科给事中姚祖项条奏军政，将武官比作狐鼠，康熙帝责其殊失大体，令详看申饬并将原本发还。",
+ "people": [
+  {
+   "name": "姚祖项",
+   "role": "兵科给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16112,
+ "page_range": "365-366"
+}

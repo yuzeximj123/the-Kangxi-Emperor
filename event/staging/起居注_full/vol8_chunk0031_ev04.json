@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题正蓝旗闲散人金蝉殴死黑济肯脱逃后投到，罪在赦前应免死，康熙帝令枷一百发往黑龙江当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金蝉",
+   "role": "犯人"
+  },
+  {
+   "name": "黑济肯",
+   "role": "死者"
+  },
+  {
+   "name": "阿尔孙",
+   "role": "佐领"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3104,
+ "page_range": "73-74"
+}

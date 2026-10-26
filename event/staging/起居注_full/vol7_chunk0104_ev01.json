@@ -1,0 +1,38 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "初九日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部尚书敦拜等引见补授知州薛景殖等三十人，康熙帝令薛景殖等依拟用，曾仪升、训迈、传尔梅、张钟人才不及俱革退。",
+ "people": [
+  {
+   "name": "敦拜",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "薛景殖",
+   "role": "知州"
+  },
+  {
+   "name": "曾仪升",
+   "role": "官员"
+  },
+  {
+   "name": "训迈",
+   "role": "官员"
+  },
+  {
+   "name": "传尔梅",
+   "role": "官员"
+  },
+  {
+   "name": "张钟",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10401,
+ "page_range": "219-220"
+}

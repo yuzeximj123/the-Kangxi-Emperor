@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就常学易加耗案指出加耗虽不宜但七八分尚轻，命督臣希福严察陕西全省火耗征收实情并据实具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "督臣"
+  },
+  {
+   "name": "常学易",
+   "role": "泾阳知县"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14702,
+ "page_range": "329-330"
+}

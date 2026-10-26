@@ -1,0 +1,33 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "初八日癸丑",
+ "event_role": "朝见受贺",
+ "summary": "山西布政使齐世武、按察使囊吉里、粮又道李基和、五台县知县方正已来朝。",
+ "people": [
+  {
+   "name": "齐世武",
+   "role": "山西布政使"
+  },
+  {
+   "name": "囊吉里",
+   "role": "按察使"
+  },
+  {
+   "name": "李基和",
+   "role": "粮又道"
+  },
+  {
+   "name": "方正已",
+   "role": "五台县知县"
+  }
+ ],
+ "places": [
+  "山西",
+  "五台县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3216,
+ "page_range": "74-75"
+}

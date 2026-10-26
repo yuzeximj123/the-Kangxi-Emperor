@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": "初十日癸巳",
+ "event_role": "弹劾参奏",
+ "summary": "都察院题汉御史内升外转，康熙帝斥某御史狂妄钻营、假公济私，伊桑阿、阿兰泰奏对。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15116,
+ "page_range": "312-313"
+}

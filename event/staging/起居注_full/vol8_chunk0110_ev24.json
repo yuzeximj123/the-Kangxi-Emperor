@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十四日丙子",
+ "event_role": "司法案件",
+ "summary": "刑部题游牧处察哈尔地方苏鲁克蒙古魏征邑控告达穆巴盗马一案，魏征不候该管官审理冲突仪仗，应照律问罪。",
+ "people": [
+  {
+   "name": "魏征邑",
+   "role": "苏鲁克蒙古控告人"
+  },
+  {
+   "name": "达穆巴",
+   "role": "被控盗马人"
+  }
+ ],
+ "places": [
+  "察哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11024,
+ "page_range": "231-232"
+}

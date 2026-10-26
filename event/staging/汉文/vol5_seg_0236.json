@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙五十二年六月十七日",
+ "reign_year": 52,
+ "month": 6,
+ "day": 17,
+ "event_role": "奏报地方情形",
+ "summary": "江宁巡抚张伯行奏报沿海及崇明等地蝗蝻生发后已即时扑灭，五月中旬至今辖内并无蝗蝻，秋禾茂盛可望丰年，以慰圣怀。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚、都察院右副都御史，奏报人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "镇山",
+  "静海",
+  "崇明"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知晓，并提及口外麦秋田长势亦好。",
+ "source_title": "直隸巡撫趙弘燮奏報磁內查無蝗蝻生發緣由摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1599",
+ "order_index": 236
+}

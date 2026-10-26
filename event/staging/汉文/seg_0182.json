@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙肆拾年柒月贰拾肆日",
+ "reign_year": 40,
+ "month": 7,
+ "day": 24,
+ "event_role": "请安谢恩",
+ "summary": "福建浙江巡抚上奏谢恩，恳请皇上再准赐给，以终犬马余生。",
+ "people": [
+  {
+   "name": "某",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批表示知道了、准了。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "奏谢天恩摺",
+ "order_index": 182
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十九年九月初二日",
+ "reign_year": 49,
+ "month": 9,
+ "day": 2,
+ "event_role": "收到奏折",
+ "summary": "广东巡抚范时崇奏报海关李国屏亲送有关西洋事件的奏折到其衙门，请求由巡抚差人转呈，现已附进呈报。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "广东巡抚，奏报人"
+  },
+  {
+   "name": "李国屏",
+   "role": "海关官员，亲送奏折者"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "廣東巡撫范時崇奏爲代進海關李國屏有關西洋事件奏摺事摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "731",
+ "order_index": 32
+}

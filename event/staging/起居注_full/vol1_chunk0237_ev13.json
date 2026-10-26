@@ -1,0 +1,21 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十五日甲申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝由巩华城视西山一带田禾，未时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巩华城",
+  "西山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23713,
+ "page_range": "531-532"
+}

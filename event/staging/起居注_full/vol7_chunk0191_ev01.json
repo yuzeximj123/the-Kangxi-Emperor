@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请江宁巡抚张伯行题大盗洪方贤劫夺方详生、陆晋臣二家拟立斩，康熙令合并一本议奏。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "洪方贤",
+   "role": "大盗"
+  },
+  {
+   "name": "方详生",
+   "role": "被劫者"
+  },
+  {
+   "name": "陆晋臣",
+   "role": "被劫者"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19101,
+ "page_range": "393-394"
+}

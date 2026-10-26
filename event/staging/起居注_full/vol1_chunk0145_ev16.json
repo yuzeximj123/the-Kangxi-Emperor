@@ -1,0 +1,32 @@
+{
+ "reign_year": 16,
+ "month": 9,
+ "day_text": "初八日壬午",
+ "event_role": "其他",
+ "summary": "康熙帝御弘德殿，讲官喇沙里、陈廷敬、叶方蔼、张英进讲《孟子》诸章。",
+ "people": [
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14516,
+ "page_range": "347-348"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "初六日两辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论赵申乔任偏沅巡抚时居官甚清但性气直，与俞益谟互参，察访后知俞益谟之非，清官当惜而言不可行者亦不行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "俞益谟",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "偏沅",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23314,
+ "page_range": "477-478"
+}

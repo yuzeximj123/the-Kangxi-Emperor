@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 4,
+ "day_text": "初四日乙雍",
+ "event_role": "人事任免",
+ "summary": "兵部覆宣化总兵司九经题蔚州路参将中军守备胡来珠员缺，议以千总王导民补授不准，康熙帝命于引见日具题引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "司九经",
+   "role": "宣化总兵官"
+  },
+  {
+   "name": "胡来珠",
+   "role": "蔚州路参将中军守备"
+  },
+  {
+   "name": "王导民",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "蔚州路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5811,
+ "page_range": "127-128"
+}

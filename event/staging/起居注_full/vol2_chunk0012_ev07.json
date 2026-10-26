@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十九日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "吏部覆御史蒋伊条奏分缺不均两议具题，康熙帝采纳后议，命依后议调整进士举人等正途与捐纳、小京官捐纳的选授缺额。",
+ "people": [
+  {
+   "name": "蒋伊",
+   "role": "御史"
+  },
+  {
+   "name": "郝惟询",
+   "role": "尚书"
+  },
+  {
+   "name": "郑重",
+   "role": "文选司郎中"
+  },
+  {
+   "name": "彭之凤",
+   "role": "科臣"
+  },
+  {
+   "name": "何凤岐",
+   "role": "台臣"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1207,
+ "page_range": "67-68"
+}

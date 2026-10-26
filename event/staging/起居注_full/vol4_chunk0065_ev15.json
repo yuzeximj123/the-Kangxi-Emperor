@@ -1,0 +1,30 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "初二日己亥",
+ "event_role": "司法案件",
+ "summary": "宗人府题赵三被马塔夺去，议罚显亲王、革马塔护卫并枷号，康熙帝从宽免罚俸余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "显亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "马塔",
+   "role": "一等护卫"
+  },
+  {
+   "name": "赵三",
+   "role": "汛地所执人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6515,
+ "page_range": "142-143"
+}

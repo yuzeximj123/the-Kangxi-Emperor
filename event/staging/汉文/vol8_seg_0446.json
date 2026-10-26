@@ -1,0 +1,38 @@
+{
+ "date_raw": "本年二月二十四日",
+ "reign_year": null,
+ "month": 2,
+ "day": 24,
+ "event_role": "请安谢恩",
+ "summary": "潮州总兵王应龙奏报到任三年来地方宁谧、秋成丰稔、兵民相安，并遵新旨专差千总、家人赍折跪请圣安。",
+ "people": [
+  {
+   "name": "王应龙",
+   "role": "广东潮州总兵官，奏折作者"
+  },
+  {
+   "name": "陈元龙",
+   "role": "署理两广总督，转行上谕"
+  },
+  {
+   "name": "何清",
+   "role": "千总，专差赍折请安"
+  },
+  {
+   "name": "王长寿",
+   "role": "王应龙家人，随同赍折"
+  }
+ ],
+ "places": [
+  "广东",
+  "潮州",
+  "川北镇"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并指出奏折未封口不合规制。",
+ "source_title": "潮州總兵王應龍奏報地方寧謐秋成豐稔摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "3034",
+ "order_index": 446
+}

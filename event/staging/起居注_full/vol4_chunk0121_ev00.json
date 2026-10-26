@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与王车等议论知县赵苍壁牧民有声，并评价彭鹏勤敏廉守，强调为官须始终不渝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵苍壁",
+   "role": "知县"
+  },
+  {
+   "name": "王车",
+   "role": "大臣"
+  },
+  {
+   "name": "彭鹏",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "三河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12100,
+ "page_range": "254-255"
+}

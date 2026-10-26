@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十七日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝阅论祭提督赵应奎文稿，以潘来所撰稍有未顺，命另派员撰拟。",
+ "people": [
+  {
+   "name": "赵应奎",
+   "role": "提督"
+  },
+  {
+   "name": "潘来",
+   "role": "撰拟官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23412,
+ "page_range": "511-512"
+}

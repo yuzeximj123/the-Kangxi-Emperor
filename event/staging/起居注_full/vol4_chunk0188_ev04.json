@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": "十二日辛酉",
+ "event_role": "奏报地方情形",
+ "summary": "库勒纳等奏报山东二月十五、二十三及三月初四日各有雨泽，麦田茂盛；直隶麦田亦好但因寒冷稍差。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "尚书"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "山东",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18804,
+ "page_range": "388-389"
+}

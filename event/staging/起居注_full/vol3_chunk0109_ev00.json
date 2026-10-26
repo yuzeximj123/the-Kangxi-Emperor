@@ -1,0 +1,36 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿詹事科道会推山东运使胡瑾丁忧员缺，拟补知府鲍复昌，康熙询问其族属后准补用。",
+ "people": [
+  {
+   "name": "鲍复昌",
+   "role": "拟补知府"
+  },
+  {
+   "name": "胡瑾",
+   "role": "山东运使"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "鲍敬",
+   "role": "正红旗人"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10900,
+ "page_range": "253-254"
+}

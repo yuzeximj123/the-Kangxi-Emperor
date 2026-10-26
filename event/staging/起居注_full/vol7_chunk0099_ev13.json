@@ -1,0 +1,40 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "初十日戊辰",
+ "event_role": "议政听政",
+ "summary": "辰时，康熙帝御乾清门听政，部院各衙门官员面奏毕，大学士马齐等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9913,
+ "page_range": "209-210"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "初九日壬午",
+ "event_role": "谕旨决策",
+ "summary": "云贵总督蔡毓荣请禁民人及土司携藏兵器、不许汉人货与土人铅硝硫黄，康熙帝以土司赖弩马长枪捕猎为生，概禁则失生业，令再加详议来奏。",
+ "people": [
+  {
+   "name": "蔡毓荣",
+   "role": "云贵总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16111,
+ "page_range": "365-366"
+}

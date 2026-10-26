@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命检讨满保勿往审案，并告诫张鹏翮从公审理勿听人言。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "满保",
+   "role": "检讨"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总督、尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10101,
+ "page_range": "212-213"
+}

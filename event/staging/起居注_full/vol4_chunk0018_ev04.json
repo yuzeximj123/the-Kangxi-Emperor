@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问于成龙曾言崔维雅治河之论可行是否属实，于成龙称闻人言如此实未明晓。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "大臣"
+  },
+  {
+   "name": "崔维雅",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1804,
+ "page_range": "48-49"
+}

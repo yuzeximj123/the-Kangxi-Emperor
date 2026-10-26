@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "十七日甲成",
+ "event_role": "人事任免",
+ "summary": "浙闽总督员缺，康熙帝以国省近海联接台湾，命九卿詹事科道会推文武全材之人补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙闽",
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11117,
+ "page_range": "233-234"
+}

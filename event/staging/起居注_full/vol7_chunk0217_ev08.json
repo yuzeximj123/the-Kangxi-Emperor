@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十三日乙雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将苏永几留归化城终身为公主守门，不得调回京师。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏永几",
+   "role": "革职副都统"
+  }
+ ],
+ "places": [
+  "归化城",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21708,
+ "page_range": "445-446"
+}

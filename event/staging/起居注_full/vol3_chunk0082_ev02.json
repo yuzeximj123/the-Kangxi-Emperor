@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "九卿议舟山应添设官兵分为三营，康熙帝令将定海总兵移驻舟山并酌议定海防守。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "舟山",
+  "定海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8202,
+ "page_range": "199-200"
+}

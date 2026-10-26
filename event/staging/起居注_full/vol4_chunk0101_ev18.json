@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 1,
+ "day_text": "二十六日戊午",
+ "event_role": "奏报灾情收成",
+ "summary": "户部题直隶巡抚于成龙奏赈济饥民请动正项钱粮，帝准其未报成灾州县饥民照该抚所题赈济。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10118,
+ "page_range": "214-215"
+}

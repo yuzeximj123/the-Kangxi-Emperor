@@ -1,0 +1,37 @@
+{
+ "reign_year": 53,
+ "month": 4,
+ "day_text": "十六日丁亥",
+ "event_role": "人事任免",
+ "summary": "礼部题请云南、贵州差正、副主考，康熙帝命查察声名不好者，并定于本月十八日考试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "王泉",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5903,
+ "page_range": "129-130"
+}

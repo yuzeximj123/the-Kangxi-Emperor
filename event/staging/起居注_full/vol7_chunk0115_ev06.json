@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问翰林院掌院学士揆叙汉唐宋功臣是否尽作传，揆叙答古功臣传兼载子孙事迹，行事相同者常数人合传。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "揆叙",
+   "role": "翰林院掌院学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11506,
+ "page_range": "241-242"
+}

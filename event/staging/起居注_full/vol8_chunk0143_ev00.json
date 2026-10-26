@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士松柱，直隶巡抚奏报各处相间下雨未沾足，命照原议自五月初一日起禁止宰杀祈雨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14300,
+ "page_range": "297-298"
+}

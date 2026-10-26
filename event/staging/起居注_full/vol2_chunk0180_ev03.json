@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十二日甲子",
+ "event_role": "军务",
+ "summary": "福建总督姚启圣请叙坐塘笔帖式谭木哈图，兵部议不准，康熙帝以其奏报军机有益，命仍着议叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "谭木哈图",
+   "role": "坐塘笔帖式"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18003,
+ "page_range": "403-404"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "二十四日甲子",
+ "event_role": "其他",
+ "summary": "康熙帝赐山东巡抚王国昌、布政使刘映、按察使李基和《渊鉴斋法帖》各一部。",
+ "people": [
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "刘映",
+   "role": "布政使"
+  },
+  {
+   "name": "李基和",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8021,
+ "page_range": "170-171"
+}

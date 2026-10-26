@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "十六日癸亥",
+ "event_role": "司法案件",
+ "summary": "理藩院题鄂尔多斯王董罗布等运米安站失误议革职，康熙帝命从宽免议罪，仍照常叙功。",
+ "people": [
+  {
+   "name": "董罗布",
+   "role": "鄂尔多斯王"
+  },
+  {
+   "name": "顾禄世希布",
+   "role": "贝勒"
+  },
+  {
+   "name": "根都锡夏布",
+   "role": "贝子"
+  },
+  {
+   "name": "杜棱",
+   "role": "公"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "鄂尔多斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1514,
+ "page_range": "40-41"
+}

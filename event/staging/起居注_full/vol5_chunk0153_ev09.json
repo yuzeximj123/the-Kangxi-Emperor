@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院题道员内升外转，伊桑阿等遵旨问九卿，议将阮尔询内升、任观瀛外转，康熙帝命即此二人升转。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阮尔询",
+   "role": "道员，内升"
+  },
+  {
+   "name": "任观瀛",
+   "role": "道员，外转"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15309,
+ "page_range": "316-317"
+}

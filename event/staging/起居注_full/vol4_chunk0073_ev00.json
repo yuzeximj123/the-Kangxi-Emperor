@@ -1,0 +1,49 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "李振裕、迈图等以折本请旨，户部议御史李时谦条奏摊洒地亩及丈量海边地亩事，康熙帝不准行。",
+ "people": [
+  {
+   "name": "李振裕",
+   "role": "学士"
+  },
+  {
+   "name": "迈图",
+   "role": "学士"
+  },
+  {
+   "name": "索诺和",
+   "role": "学士"
+  },
+  {
+   "name": "郭世隆",
+   "role": "学士"
+  },
+  {
+   "name": "西安",
+   "role": "学士"
+  },
+  {
+   "name": "顾汗",
+   "role": "学士"
+  },
+  {
+   "name": "李时谦",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乐陵县",
+  "黎城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7300,
+ "page_range": "158-159"
+}

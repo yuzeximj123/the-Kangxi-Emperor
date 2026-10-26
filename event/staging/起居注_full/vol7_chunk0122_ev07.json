@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "二十七日王午",
+ "event_role": "其他",
+ "summary": "康熙帝赐善射三等侍卫哈达纳、护军校金保住、护军四十、第桑阿及索伦人等衣服各一袭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈达纳",
+   "role": "三等侍卫"
+  },
+  {
+   "name": "金保住",
+   "role": "护军校"
+  },
+  {
+   "name": "第桑阿",
+   "role": "护军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12207,
+ "page_range": "255-256"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "初二日庚成",
+ "event_role": "人事任免",
+ "summary": "吏部题请江苏按察使卢询、湖北按察使件钦元员缺，以参政道祖业弘等开列，康熙帝命问九卿。",
+ "people": [
+  {
+   "name": "卢询",
+   "role": "江苏按察使"
+  },
+  {
+   "name": "件钦元",
+   "role": "湖北按察使"
+  },
+  {
+   "name": "祖业弘",
+   "role": "参政道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江苏",
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 303,
+ "page_range": "17-18"
+}

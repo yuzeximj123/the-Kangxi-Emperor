@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙二十八年二月初六日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "初六日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸吴江县龙王庙，吴江县知县祖双烛、守备陈桓等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "祖双烛",
+   "role": "吴江县知县"
+  },
+  {
+   "name": "陈桓",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "吴江县",
+  "龙王庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1001
+}

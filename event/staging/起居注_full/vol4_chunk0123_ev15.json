@@ -1,0 +1,36 @@
+{
+ "reign_year": 29,
+ "month": 6,
+ "day_text": "初三日王成",
+ "event_role": "谕旨决策",
+ "summary": "大学士伊桑阿等奏阅内发印就四书五经甚佳，请存衙门与翰林院各一部，板交该部。康熙帝允准并存留发板另有谕旨。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "翰林院"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12315,
+ "page_range": "258-259"
+}

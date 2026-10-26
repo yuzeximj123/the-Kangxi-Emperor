@@ -1,0 +1,20 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部议杨宗道以副将起用，康熙帝令仍用于云南彼处副将。",
+ "people": [
+  {
+   "name": "杨宗道",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20201,
+ "page_range": "447-448"
+}

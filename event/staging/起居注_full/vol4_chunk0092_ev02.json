@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝训谕湖北巡抚吴琠，令其到任后善为抚循灾民，勿令失所。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴琠",
+   "role": "湖北巡抚"
+  }
+ ],
+ "places": [
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9202,
+ "page_range": "196-197"
+}

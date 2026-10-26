@@ -1,0 +1,23 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝否决邻省官署事之议，命将四省现出知府以下员缺察明单月掣签补用，候缺官员均匀配算一年一次分发。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州",
+  "广西",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9907,
+ "page_range": "209-210"
+}

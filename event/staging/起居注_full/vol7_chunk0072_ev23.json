@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初五日了丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝言云南等四省钱粮已普免，今山左被灾宜蠲赦，并欲免浙省明岁钱粮，命交户部查明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南",
+  "山左",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7223,
+ "page_range": "155-156"
+}

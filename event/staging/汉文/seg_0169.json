@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙四十六年九月初八日",
+ "reign_year": 46,
+ "month": 9,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "湖广巡抚刘殿衡奏谢皇上南巡期间召见赏赐之恩，并报回任沿途麦苗茂盛、地方宁静。",
+ "people": [
+  {
+   "name": "刘殿衡",
+   "role": "奏报人"
+  },
+  {
+   "name": "刘喜",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "湖广",
+  "清江浦",
+  "淮城",
+  "三汊河",
+  "武昌",
+  "黄梅县",
+  "荆州府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "259",
+ "source_title": "湖广巡抚刘殿衡奏报秋成分数并米价平减摺",
+ "order_index": 169
+}

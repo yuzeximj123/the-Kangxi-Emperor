@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "二十一日乙相",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令郭玫具折奏报清丈事宜，晚刻呈览，并议湖南清丈减粮有益于民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭玫",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14005,
+ "page_range": "290-291"
+}

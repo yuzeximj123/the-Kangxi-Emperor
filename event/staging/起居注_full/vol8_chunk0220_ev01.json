@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初二日王子",
+ "event_role": "人事任免",
+ "summary": "盛京兵部侍郎海寿、户部侍郎梁世勋入请训旨，康熙帝命其赴巴尔库儿地方看种地并勉励勤劳多收。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海寿",
+   "role": "盛京兵部侍郎"
+  },
+  {
+   "name": "梁世勋",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "苏尔德",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "巴尔库儿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22001,
+ "page_range": "451-452"
+}

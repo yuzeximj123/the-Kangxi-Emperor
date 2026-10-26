@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "押解流徙黑龙江罪犯脱逃案，康熙帝以原议尚轻，命将他巴凯等另行严议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "他巴凯",
+   "role": "骁骑校"
+  },
+  {
+   "name": "何密拉",
+   "role": "允骑"
+  },
+  {
+   "name": "丘虎山",
+   "role": "脱逃罪犯"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14502,
+ "page_range": "301-302"
+}

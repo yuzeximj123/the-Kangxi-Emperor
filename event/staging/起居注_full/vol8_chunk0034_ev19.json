@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "初八日王子",
+ "event_role": "人事任免",
+ "summary": "兵部题福建水师提督标下中军参将叶国电员缺，开列记名应升参将、官员及侍卫等职名，康熙帝令问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶国电",
+   "role": "福建水师提督标下中军参将"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3419,
+ "page_range": "79-80"
+}

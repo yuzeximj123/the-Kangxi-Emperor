@@ -1,0 +1,37 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令选满洲及绿旗兵二千人携四月粮赴阿南达处，由阿南达、李林隆统率进剿，孙思克、博济留驻甘州。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "博济",
+   "role": "将军"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "李林隆",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "甘州",
+  "阿南达处"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21400,
+ "page_range": "438-439"
+}

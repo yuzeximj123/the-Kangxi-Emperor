@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初九日庚子",
+ "event_role": "司法案件",
+ "summary": "议党喀里之妻打死家奴杨寿，照夫原例罚做一年，康熙帝以打死家奴于理相合，令察原案另拟宽免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "党喀里",
+   "role": "当事人"
+  },
+  {
+   "name": "杨寿",
+   "role": "家奴"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6224,
+ "page_range": "159-160"
+}

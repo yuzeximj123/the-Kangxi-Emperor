@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "初六日成辰",
+ "event_role": "河工水利",
+ "summary": "户部议准巡抚洪之杰请捐输挑浚镇江至无锡河道，康熙帝谕令河道、重运总督及沿河督抚文武各官多方挑滩蓄水，务使漕船通行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "洪之杰",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "镇江",
+  "无锡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9419,
+ "page_range": "200-201"
+}

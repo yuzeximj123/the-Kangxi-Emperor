@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 6,
+ "day_text": "二十八日庚子",
+ "event_role": "谕旨决策",
+ "summary": "户、工二部议覆川陕总督佛伦疏请于曹店设仓厂转运粮草，康熙帝准行并嘉奖佛伦实心料理、清廉理事。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安府",
+  "凤翔",
+  "曹店"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23604,
+ "page_range": "484-485"
+}

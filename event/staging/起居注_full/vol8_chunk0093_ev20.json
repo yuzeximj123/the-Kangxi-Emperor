@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "十九日甲申",
+ "event_role": "人事任免",
+ "summary": "大学士松柱等以奉天府尹员缺，九卿举出光禄寺少卿朱轼等六人呈览，康熙帝询问首列之人，王挟奏朱轼操守好，遂补授朱轼。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "朱轼",
+   "role": "光禄寺少卿"
+  },
+  {
+   "name": "王挟",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "奉天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9320,
+ "page_range": "197-198"
+}

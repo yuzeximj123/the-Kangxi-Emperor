@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "初五日癸亥",
+ "event_role": "司法案件",
+ "summary": "兵部覆四川巡抚年次欧审题周玉麟等被蛮人杀死一案，康熙命与岳异龙所题抚蛮苗一案一并再议具奏。",
+ "people": [
+  {
+   "name": "周玉麟",
+   "role": "参将管晃山营游击"
+  },
+  {
+   "name": "年次欧",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "岳异龙",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "四川",
+  "晃山营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16421,
+ "page_range": "339-340"
+}

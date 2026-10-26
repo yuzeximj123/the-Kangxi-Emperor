@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十七日丙申",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝评太原巡抚倭伦、布政使齐世武互参事，称倭伦居官好但稍软，未参前任巡抚温保。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭伦",
+   "role": "太原巡抚"
+  },
+  {
+   "name": "齐世武",
+   "role": "布政使"
+  },
+  {
+   "name": "温保",
+   "role": "前任巡抚"
+  }
+ ],
+ "places": [
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8611,
+ "page_range": "182-183"
+}

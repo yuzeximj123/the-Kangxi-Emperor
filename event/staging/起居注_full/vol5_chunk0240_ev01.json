@@ -1,0 +1,60 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "十七日丙申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏完毕，大学士等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王趴",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "李天和",
+   "role": "大学士"
+  },
+  {
+   "name": "韩英",
+   "role": "学士"
+  },
+  {
+   "name": "顾藻",
+   "role": "学士"
+  },
+  {
+   "name": "徐嘉炎",
+   "role": "学士"
+  },
+  {
+   "name": "三宝",
+   "role": "学士"
+  },
+  {
+   "name": "杨舒",
+   "role": "学士"
+  },
+  {
+   "name": "罗察",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24001,
+ "page_range": "490-491"
+}

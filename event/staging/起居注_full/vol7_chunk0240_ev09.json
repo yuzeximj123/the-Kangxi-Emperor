@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "十四日癸巳",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙言今岁淮安左近稍觉歉收，易州郑城被水灾民往南逃，李光地奏易州郑城地势聚水故遇水灾。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "淮安",
+  "易州",
+  "郑城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24009,
+ "page_range": "491-492"
+}

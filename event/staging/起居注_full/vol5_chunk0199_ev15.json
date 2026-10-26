@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十日辛未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士伊桑阿，已至宁夏，大将军伯费扬古凡有奏报事件着从鄂尔多斯新设驿站驰送。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "鄂尔多斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19915,
+ "page_range": "408-409"
+}

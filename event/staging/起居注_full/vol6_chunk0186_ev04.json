@@ -1,0 +1,33 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙就赵世显奏河工将完一事详加询问，指出明春汛至夏秋水溢可虑，命预筹水势导泄并加固黄河南岸堤工。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵世显",
+   "role": "原任按察使"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "清口",
+  "黄河南岸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18604,
+ "page_range": "382-383"
+}

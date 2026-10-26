@@ -1,0 +1,46 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙就秋审案件裁定：姚三、和和尔浑等因情有可原从缓决，杨二刺杀性存从宽免死减等。",
+ "people": [
+  {
+   "name": "姚三",
+   "role": "案犯"
+  },
+  {
+   "name": "满福",
+   "role": "被卖小儿"
+  },
+  {
+   "name": "和和尔浑",
+   "role": "案犯"
+  },
+  {
+   "name": "马进忠",
+   "role": "已正法之人"
+  },
+  {
+   "name": "陈昌期",
+   "role": "案犯"
+  },
+  {
+   "name": "杨二",
+   "role": "案犯"
+  },
+  {
+   "name": "性云",
+   "role": "被害人"
+  },
+  {
+   "name": "性存",
+   "role": "被杀者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11700,
+ "page_range": "244-245"
+}

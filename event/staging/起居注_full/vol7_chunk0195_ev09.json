@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初九日甲午",
+ "event_role": "司法案件",
+ "summary": "朝审情真人犯请旨，康熙帝令谭章三、吴国桢、常二、四儿、葡准俱改为可矜，照例减等完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "谭章三",
+   "role": "人犯"
+  },
+  {
+   "name": "吴国桢",
+   "role": "人犯"
+  },
+  {
+   "name": "常二",
+   "role": "人犯"
+  },
+  {
+   "name": "四儿",
+   "role": "人犯"
+  },
+  {
+   "name": "葡准",
+   "role": "人犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19509,
+ "page_range": "401-402"
+}

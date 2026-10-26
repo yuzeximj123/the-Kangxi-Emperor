@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "初五日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "九卿议覆川陕总督葛思泰疏请催运宁夏仓谷十五万石，议减五万石给价，令甘肃巡抚速催运到。",
+ "people": [
+  {
+   "name": "葛思泰",
+   "role": "川陕总督"
+  },
+  {
+   "name": "布喀",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18415,
+ "page_range": "380-381"
+}

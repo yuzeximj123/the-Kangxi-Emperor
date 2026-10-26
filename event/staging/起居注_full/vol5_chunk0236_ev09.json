@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "初五日甲申",
+ "event_role": "谕旨决策",
+ "summary": "议政大臣会议厄鲁特车凌来归事，议定随后送来二百五十余口送至张家口交监养厄鲁特官员，奉旨依议。",
+ "people": [
+  {
+   "name": "索额图",
+   "role": "内大臣"
+  },
+  {
+   "name": "车凌",
+   "role": "厄鲁特来归台吉"
+  }
+ ],
+ "places": [
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23609,
+ "page_range": "482-483"
+}

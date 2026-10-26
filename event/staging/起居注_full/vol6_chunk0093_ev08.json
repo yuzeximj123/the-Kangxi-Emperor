@@ -1,0 +1,52 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": "初七日乙北",
+ "event_role": "议政听政",
+ "summary": "申时康熙帝御行宫，大学士伊桑阿等以折本请旨，户部题杭关督税拟差员外郎常寿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "布泰",
+   "role": "学士"
+  },
+  {
+   "name": "噶礼",
+   "role": "学士"
+  },
+  {
+   "name": "苏赫纳",
+   "role": "学士"
+  },
+  {
+   "name": "胡会思",
+   "role": "学士"
+  },
+  {
+   "name": "顾祖荣",
+   "role": "学士"
+  },
+  {
+   "name": "常寿",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "杭关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9308,
+ "page_range": "196-197"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "二十四日本丑",
+ "event_role": "朝见受贺",
+ "summary": "是日，怀柔县知县黄景仁、守备王成功等来朝见。",
+ "people": [
+  {
+   "name": "黄景仁",
+   "role": "怀柔县知县"
+  },
+  {
+   "name": "王成功",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "怀柔县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15820,
+ "page_range": "328-329"
+}

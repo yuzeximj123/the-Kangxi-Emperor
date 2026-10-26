@@ -1,0 +1,36 @@
+{
+ "reign_year": 16,
+ "month": 8,
+ "day_text": "三十日甲戌",
+ "event_role": "皇帝行止",
+ "summary": "辰时，康熙帝御弘德殿，讲官喇沙里、陈廷敬、叶方蔼、张英进讲《孟子》两章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14428,
+ "page_range": "345-346"
+}

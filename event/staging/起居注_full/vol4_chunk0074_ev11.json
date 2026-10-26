@@ -1,0 +1,38 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "十六日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部题原任兵科给事中车万育拟补户科给事中，康熙帝询问后令其照原品调补。",
+ "people": [
+  {
+   "name": "车万育",
+   "role": "原任兵科给事中"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7411,
+ "page_range": "160-161"
+}

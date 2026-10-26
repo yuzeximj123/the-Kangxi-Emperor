@@ -1,0 +1,44 @@
+{
+ "date_raw": "康熙肆拾伍年伍月初伍日",
+ "reign_year": 45,
+ "month": 5,
+ "day": 5,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏请将河间府十五州县卫历年旧欠钱粮分三年带征，请旨定夺。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "河间府",
+  "肃宁",
+  "交河",
+  "青县",
+  "景州",
+  "沧州",
+  "南皮",
+  "盐山",
+  "庆云",
+  "吴桥",
+  "东光",
+  "宁津",
+  "静海",
+  "天津",
+  "津军",
+  "扬村"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示令其具题正式上奏。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": null,
+ "order_index": 125
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "初二日庚午",
+ "event_role": "人事任免",
+ "summary": "兵部题镶红旗蒙古副都统朱彻员缺，开列盛京兵部侍郎觉罗开拜等职名；康熙帝命将宗室公、侯、伯以下应升官员一概察明开列具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱彻",
+   "role": "镶红旗蒙古副都统"
+  },
+  {
+   "name": "觉罗开拜",
+   "role": "盛京兵部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 606,
+ "page_range": "22-23"
+}

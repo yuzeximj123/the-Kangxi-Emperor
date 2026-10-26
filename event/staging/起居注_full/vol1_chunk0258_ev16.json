@@ -1,0 +1,33 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十二日己酉",
+ "event_role": "军务",
+ "summary": "议贝子章泰请折给草料价值事，康熙帝令依部议每石八钱。",
+ "people": [
+  {
+   "name": "章泰",
+   "role": "贝子"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "常德",
+  "沅州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25816,
+ "page_range": "573-574"
+}

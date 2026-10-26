@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "二十三日庚戌",
+ "event_role": "军务",
+ "summary": "阿米纳等跃入罗刹舟中杀败往雅克萨城之罗刹，康熙帝令照跳船例分别另行议叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿米纳",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "雅克萨城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11717,
+ "page_range": "269-270"
+}

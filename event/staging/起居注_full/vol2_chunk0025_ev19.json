@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初三日成午",
+ "event_role": "谕旨决策",
+ "summary": "御史傅喇塔奏旗下披甲仆人出征得功牌两次应许出户，兵部议覆不准，康熙帝依傅喇塔所奏准两次功牌即许出户。",
+ "people": [
+  {
+   "name": "傅喇塔",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2519,
+ "page_range": "93-94"
+}

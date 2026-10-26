@@ -1,0 +1,42 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命徐停等四人充任日讲起居注官，并询问常书、孙在丰此外有无留心理学之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐停",
+   "role": "状元"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "熊赐履",
+   "role": "前大学士"
+  },
+  {
+   "name": "熊赐瑛",
+   "role": "熊赐履之弟"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8600,
+ "page_range": "207-208"
+}

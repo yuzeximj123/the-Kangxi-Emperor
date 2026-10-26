@@ -1,0 +1,42 @@
+{
+ "reign_year": 29,
+ "month": 4,
+ "day_text": "初八日已已",
+ "event_role": "司法案件",
+ "summary": "兵部题把总史进朝等讳咨不报议革职，康熙帝以不过报迟非隐讳，令问明该部情由再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "史进朝",
+   "role": "把总"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11707,
+ "page_range": "246-247"
+}

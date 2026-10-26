@@ -1,0 +1,37 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "初一日戊子",
+ "event_role": "祭祀典礼",
+ "summary": "辰时，康熙御文华殿举行经筵大典，常寿、能赐履讲《四书》，法良、张英讲《易经》，讲毕赐宴于太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "讲官"
+  },
+  {
+   "name": "能赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "法良",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19309,
+ "page_range": "396-397"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议补左副都御史，康熙帝认为开列者平常，汉大学士称王鸿绪才品优长堪任风宪，帝命开列应升各官来看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "侍讲"
+  },
+  {
+   "name": "李廷松",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10901,
+ "page_range": "261-262"
+}

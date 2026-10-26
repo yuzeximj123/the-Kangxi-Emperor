@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十四日己雍",
+ "event_role": "谕旨决策",
+ "summary": "陕西巡抚鄂恺奏宁夏边外索诺木王等部落住牧请防御，康熙帝斥其张大其词，令理藩院严察议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂恺",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "索诺木王",
+   "role": "蒙古部落首领"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "靖边",
+  "长城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2907,
+ "page_range": "101-102"
+}

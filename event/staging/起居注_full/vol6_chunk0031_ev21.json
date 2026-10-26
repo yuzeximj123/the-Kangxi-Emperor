@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 1,
+ "day_text": "二十九日乙已",
+ "event_role": "朝见受贺",
+ "summary": "涞水县知县张估吉、定兴县把总马应等来朝。",
+ "people": [
+  {
+   "name": "张估吉",
+   "role": "涞水县知县"
+  },
+  {
+   "name": "马应",
+   "role": "定兴县把总"
+  }
+ ],
+ "places": [
+  "涞水县",
+  "定兴县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3121,
+ "page_range": "72-73"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部议沙拜请蠲免临高县积欠盐地钱粮不准，康熙帝命将逐年拖欠银两俱行蠲免。",
+ "people": [
+  {
+   "name": "沙拜",
+   "role": "巡视两广盐课太常寺少卿"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "临高县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20202,
+ "page_range": "416-417"
+}

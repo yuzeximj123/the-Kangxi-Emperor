@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十五年",
+ "reign_year": 55,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "偏沅巡抚李发甲上摺向康熙皇帝恭请圣安，康熙朱批告知自己安好，并谈及当年各地收成，称湖广大收而江浙略差。",
+ "people": [
+  {
+   "name": "李发甲",
+   "role": "偏沅巡抚，上摺请安者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "偏沅",
+  "湖广",
+  "江浙"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，并说明今年各处收成颇好，惟江浙略差，湖广大收而江浙未优。",
+ "source_title": "偏沅巡撫李發甲奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2198",
+ "order_index": 296
+}

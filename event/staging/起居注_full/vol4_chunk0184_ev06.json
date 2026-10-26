@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "初三日癸未",
+ "event_role": "人事任免",
+ "summary": "康熙帝以阿山庸劣、奉差不能尽心、启奏多涉两可，着解任，以郎中品级随旗行走。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭世隆",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18406,
+ "page_range": "380-381"
+}

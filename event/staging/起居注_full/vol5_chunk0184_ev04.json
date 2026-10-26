@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十七日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题各省学道员缺，以户部郎中赛璋等十二人职名开列引见，康熙帝询问是否按年久开列。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  },
+  {
+   "name": "赛璋",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18404,
+ "page_range": "378-379"
+}

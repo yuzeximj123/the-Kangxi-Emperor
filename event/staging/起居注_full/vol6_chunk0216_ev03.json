@@ -1,0 +1,21 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十八日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将今岁河西钱粮尽行蠲免，令大学士等缮写上谕呈览，并言甘州等处丰登、河西亢旱而邻境皆丰故灾荒未觉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河西",
+  "甘州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21603,
+ "page_range": "442-443"
+}

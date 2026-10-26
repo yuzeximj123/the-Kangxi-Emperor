@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "十六日庚子",
+ "event_role": "议政听政",
+ "summary": "十六日辰时，康熙帝御畅春园内澹宁居听政，各部院面奏毕，召九卿詹事科道论通仓陈米加给八旗兵丁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王掞",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "澹宁居",
+  "通仓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18811,
+ "page_range": "387-388"
+}

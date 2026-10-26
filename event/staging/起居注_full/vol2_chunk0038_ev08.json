@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十二日丙申",
+ "event_role": "谕旨决策",
+ "summary": "议科臣姚祖条奏关差盐差应解铜斤事，康熙帝采纳明珠意见，着依部议照旧施行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚祖",
+   "role": "科臣"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3808,
+ "page_range": "119-120"
+}

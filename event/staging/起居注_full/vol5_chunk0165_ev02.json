@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙准议政大臣所议：遣九十四人往大同右卫喂马，拣留肥马，赢瘦者补换遣往，并定监看支给草料及冒领治罪之制。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大同",
+  "右卫",
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16502,
+ "page_range": "340-341"
+}

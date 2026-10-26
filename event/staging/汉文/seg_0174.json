@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十六年八月十三日",
+ "reign_year": 46,
+ "month": 8,
+ "day": 13,
+ "event_role": "奏报地方情形",
+ "summary": "两广总督赵弘灿奏报粤东年成雨水调顺、谷熟丰收，并陈明缉盗安民、考核属官及进贡土物等事。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "广惠潮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "253",
+ "source_title": "两广总督赵弘灿等奏报粤东年成并送有技艺西洋人赴京摺",
+ "order_index": 174
+}

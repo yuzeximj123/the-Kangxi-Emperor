@@ -1,0 +1,21 @@
+{
+ "reign_year": 11,
+ "month": 9,
+ "day_text": "初五日丁丑",
+ "event_role": "皇帝行止",
+ "summary": "卯时康熙帝问安毕，遂幸景中山，驻跸三屯营南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "景中山",
+  "三屯营南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2418,
+ "page_range": "105-106"
+}

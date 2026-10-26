@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "二十六日乙未",
+ "event_role": "人事任免",
+ "summary": "兵部题补宁古塔将军巴海解任员缺，康熙帝命议政王、贝勒、大臣于都统、护军统领、副都统内选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴海",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "席式库",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20722,
+ "page_range": "457-458"
+}

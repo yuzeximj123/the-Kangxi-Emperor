@@ -1,0 +1,29 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问山西巡抚马齐山西有无好官，马齐举荐寿阳知县孙起纶清廉爱民、办事有才。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "孙起纶",
+   "role": "寿阳知县"
+  }
+ ],
+ "places": [
+  "山西",
+  "寿阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19700,
+ "page_range": "429-430"
+}

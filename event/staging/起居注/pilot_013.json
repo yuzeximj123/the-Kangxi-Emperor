@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙十年九月十五日癸亥",
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "十五日癸亥",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝驻跸盘山堡，秦曼部三等台吉鄂齐儿等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂齐儿",
+   "role": "秦曼部三等台吉"
+  }
+ ],
+ "places": [
+  "盘山堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13
+}

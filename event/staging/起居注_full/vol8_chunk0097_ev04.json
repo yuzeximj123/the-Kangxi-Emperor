@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "二十九日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部覆请口北道员缺，拟于记名原任提学道江易金等内择补，康熙帝命问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘党",
+   "role": "总督管理直隶巡抚事务"
+  },
+  {
+   "name": "江易金",
+   "role": "原任提学道"
+  }
+ ],
+ "places": [
+  "口北道"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9704,
+ "page_range": "205-206"
+}

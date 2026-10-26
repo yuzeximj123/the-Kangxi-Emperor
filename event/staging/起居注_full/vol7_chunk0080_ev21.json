@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十四日乙卯",
+ "event_role": "朝见受贺",
+ "summary": "绥德州知州赵于京等来朝。",
+ "people": [
+  {
+   "name": "赵于京",
+   "role": "绥德州知州"
+  }
+ ],
+ "places": [
+  "绥德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8021,
+ "page_range": "171-172"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十四日丙申",
+ "event_role": "司法案件",
+ "summary": "宗人府题简亲王螺子山之战惠兰、墨梅及护卫随王败北拟革职，康熙询问后命照议完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "惠兰",
+   "role": "辅国将军"
+  },
+  {
+   "name": "墨梅",
+   "role": "辅国将军"
+  },
+  {
+   "name": "索拜",
+   "role": "长史"
+  }
+ ],
+ "places": [
+  "螺子山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19016,
+ "page_range": "423-424"
+}

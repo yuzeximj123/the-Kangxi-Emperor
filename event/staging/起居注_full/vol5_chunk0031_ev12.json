@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝心不宁，深为运河堤岸忧虑，着户部郎中鄂奇、兵部员外新治豫驰驿往于成龙处观看堤工并询问查阅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂奇",
+   "role": "户部郎中"
+  },
+  {
+   "name": "新治豫",
+   "role": "兵部员外"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道官员"
+  }
+ ],
+ "places": [
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3112,
+ "page_range": "72-73"
+}

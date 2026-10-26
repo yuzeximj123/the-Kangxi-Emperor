@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政王大臣会议正蓝旗吴赫齐家产应由同族正白旗马锡承受，康熙帝询问诸臣意见后依议准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "吴赫齐",
+   "role": "正蓝旗人"
+  },
+  {
+   "name": "马锡",
+   "role": "正白旗人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8900,
+ "page_range": "213-214"
+}

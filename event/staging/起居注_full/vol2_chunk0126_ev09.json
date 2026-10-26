@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "初八日甲申",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士员缺，康熙帝询问葛弘道、胡简黎，令补胡简黎为学士。",
+ "people": [
+  {
+   "name": "葛弘道",
+   "role": "候选官员"
+  },
+  {
+   "name": "胡简黎",
+   "role": "补学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12609,
+ "page_range": "295-296"
+}

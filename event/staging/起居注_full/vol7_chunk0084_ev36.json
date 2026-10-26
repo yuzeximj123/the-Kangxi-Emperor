@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "初七日戊寅",
+ "event_role": "议政听政",
+ "summary": "兵部题补盛京将军贝子苏努员缺请旨。",
+ "people": [
+  {
+   "name": "苏努",
+   "role": "盛京将军贝子"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8436,
+ "page_range": "179-180"
+}

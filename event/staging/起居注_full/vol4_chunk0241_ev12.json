@@ -1,0 +1,32 @@
+{
+ "reign_year": 32,
+ "month": 9,
+ "day_text": "初十日辛北",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士伊桑阿等以折本请旨，处理吏部、兵部、刑部等题奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "安布禄",
+   "role": "学士"
+  },
+  {
+   "name": "常级",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24112,
+ "page_range": "494-495"
+}

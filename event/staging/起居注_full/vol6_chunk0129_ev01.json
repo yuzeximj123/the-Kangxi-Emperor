@@ -1,0 +1,50 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题礼部侍郎李录予兼翰林院官衔，康熙帝认为系成例，命照议行并规定此后拟补兼衔书写规则。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李录予",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "吴珊",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "张英",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12901,
+ "page_range": "268-269"
+}

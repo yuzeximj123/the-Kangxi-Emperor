@@ -1,0 +1,21 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "初六日壬子",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝出西直门，驻跸畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西直门",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23218,
+ "page_range": "499-500"
+}

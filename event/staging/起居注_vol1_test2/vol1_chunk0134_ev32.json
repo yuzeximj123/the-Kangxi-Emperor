@@ -1,0 +1,28 @@
+{
+ "reign_year": 16,
+ "month": 4,
+ "day_text": "十三日己未",
+ "event_role": "皇帝行止",
+ "summary": "是日，詹事沈葵以所书大小字遵旨进呈，康熙帝命喇钞里借苓至克勤磺，上览毕称善，俱留中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈葵",
+   "role": "詹事"
+  },
+  {
+   "name": "喇钞里",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "克勤磺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13432,
+ "page_range": "325-326"
+}

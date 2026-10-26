@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问右通政赵士鼎等四人中谁可升用，大学士明珠及汉大学士李霨、王熙、吴正治均称赵士麟优，遂命升补副都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "汉大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "汉大学士"
+  },
+  {
+   "name": "赵士麟",
+   "role": "右通政，升副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23800,
+ "page_range": "519-520"
+}

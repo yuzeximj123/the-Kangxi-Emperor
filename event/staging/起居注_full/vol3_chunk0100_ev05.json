@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 7,
+ "day_text": "十八日丙子",
+ "event_role": "军务",
+ "summary": "兵部奏叛逆胡国柱等率贼众二万余攻围永兴，我军击败之处不准议叙，康熙帝以永兴兵保守城郭击退贼众甚为劳苦，理应准议再行议叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡国柱",
+   "role": "叛逆首领"
+  }
+ ],
+ "places": [
+  "永兴",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10005,
+ "page_range": "235-236"
+}

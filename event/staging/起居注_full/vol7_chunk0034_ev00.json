@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝评论宫中法帖及李北海书华山寺碑，称自己必临摹而后已，并评翰林书法有习气，惟孙岳颁最佳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙岳颁",
+   "role": "翰林书法家"
+  },
+  {
+   "name": "查异",
+   "role": "奏事官员"
+  }
+ ],
+ "places": [
+  "宫中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3400,
+ "page_range": "79-80"
+}

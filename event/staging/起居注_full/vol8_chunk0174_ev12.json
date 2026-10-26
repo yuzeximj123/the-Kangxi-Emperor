@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 1,
+ "day_text": "二十八日癸未",
+ "event_role": "人事任免",
+ "summary": "马齐等查得丁忧起服之府尹屠沂在京，康熙帝命屠沂署理顺天府府尹、府丞印务。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "屠沂",
+   "role": "府尹"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17412,
+ "page_range": "359-360"
+}

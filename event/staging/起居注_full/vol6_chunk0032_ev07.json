@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "初四日己酉",
+ "event_role": "奏报灾情收成",
+ "summary": "山西巡抚倭伦请将毫州汶水县等所贮米粮给散平定州等十一州县，康熙帝令蠲免三十六年钱粮并即行给赈。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "毫州",
+  "汶水县",
+  "平定州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3207,
+ "page_range": "74-75"
+}

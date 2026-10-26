@@ -1,0 +1,28 @@
+{
+ "date_raw": "十五日己亥",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十五日己亥",
+ "event_role": "其他",
+ "summary": "康熙帝赐看守孝陵散秩大臣鄂洛上币院马一匹及野鸡兔雉鹿尾，赐提督马进良马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂洛",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "马进良",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3205
+}

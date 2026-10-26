@@ -1,0 +1,34 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "初七日辛巳",
+ "event_role": "人事任免",
+ "summary": "兵部题驻防协领道禅病故遗缺，康熙帝念其家世，命道禅之子多和尔泰袭阿达哈哈番并补授驻防协领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "道禅",
+   "role": "驻防协领"
+  },
+  {
+   "name": "多和尔泰",
+   "role": "道禅之子"
+  },
+  {
+   "name": "索海",
+   "role": "道禅之祖、工部尚书"
+  },
+  {
+   "name": "多颇罗",
+   "role": "道禅之父、副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21713,
+ "page_range": "446-447"
+}

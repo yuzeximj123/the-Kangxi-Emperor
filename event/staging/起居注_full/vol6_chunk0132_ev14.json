@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "兵部覆署江南总督陶贷题参将高文烟等员缺请以游击狄世俊等补授，议不准行，康熙帝令照所题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陶贷",
+   "role": "署江南总督"
+  },
+  {
+   "name": "高文烟",
+   "role": "参将"
+  },
+  {
+   "name": "狄世俊",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13214,
+ "page_range": "274-275"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "初八日",
+ "event_role": "议政听政",
+ "summary": "大学士马齐、学士邵穆布、席哈纳以折本请旨。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "邵穆布",
+   "role": "学士"
+  },
+  {
+   "name": "席哈纳",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18328,
+ "page_range": "376-377"
+}

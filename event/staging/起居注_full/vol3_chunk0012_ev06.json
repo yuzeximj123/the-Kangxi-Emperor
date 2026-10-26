@@ -1,0 +1,40 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十二日戊实",
+ "event_role": "人事任免",
+ "summary": "吏部题督捕理事官麻勒吉升任员缺，拟正色赫、拟陪单壁，康熙帝以色赫为人不堪，命补授单壁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "麻勒吉",
+   "role": "督捕理事官"
+  },
+  {
+   "name": "色赫",
+   "role": "郎中"
+  },
+  {
+   "name": "单壁",
+   "role": "御史"
+  },
+  {
+   "name": "恩国泰",
+   "role": "原任尚书"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1206,
+ "page_range": "59-60"
+}

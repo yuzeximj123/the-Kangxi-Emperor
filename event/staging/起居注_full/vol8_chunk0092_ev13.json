@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "初五日庚午",
+ "event_role": "人事任免",
+ "summary": "浙闽总督范时崇题请台州副将达先留任守制，康熙帝准其留任守制。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范时崇",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "达先",
+   "role": "台州副将"
+  }
+ ],
+ "places": [
+  "台州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9213,
+ "page_range": "195-196"
+}

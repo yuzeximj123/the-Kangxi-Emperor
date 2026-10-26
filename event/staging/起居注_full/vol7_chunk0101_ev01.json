@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅第三卷，问诸臣是否识其笔迹，华升元奏似贾国维，拆视果为贾国维。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "华升元",
+   "role": "臣工"
+  },
+  {
+   "name": "贾国维",
+   "role": "贡士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10101,
+ "page_range": "213-214"
+}

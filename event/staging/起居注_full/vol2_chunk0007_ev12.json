@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初三日己丑",
+ "event_role": "人事任免",
+ "event_scope": "朝议",
+ "summary": "吏部议郎中托必泰奉差四川被贼杀害应行议叙，康熙以其事迹甚明，命即行议叙，不必该督查覆。",
+ "people": [
+  {
+   "name": "托必泰",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 712,
+ "page_range": "57-58"
+}

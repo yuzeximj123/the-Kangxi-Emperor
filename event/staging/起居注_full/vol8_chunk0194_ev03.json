@@ -1,0 +1,27 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "礼部题四川、广东、广西、福建四省正副主考，九卿举出检讨杨士徽等，康熙帝命将九卿举出人名票签进呈。",
+ "people": [
+  {
+   "name": "杨士徽",
+   "role": "检讨"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川",
+  "广东",
+  "广西",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19403,
+ "page_range": "399-400"
+}

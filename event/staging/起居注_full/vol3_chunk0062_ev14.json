@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初七日戊戌",
+ "event_role": "人事任免",
+ "summary": "康熙帝以总兵邵甘其人平常不可留任，着革去总兵，查世职酌量给官随旗行走，员缺令吏部另拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邵甘",
+   "role": "总兵"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6214,
+ "page_range": "159-160"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "初四日辛刻",
+ "event_role": "起居注官记录",
+ "summary": "扈从起居注官库勒纳、牛钮、孙在丰、朱马泰记录。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "起居注官"
+  },
+  {
+   "name": "牛钮",
+   "role": "起居注官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "起居注官"
+  },
+  {
+   "name": "朱马泰",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11816,
+ "page_range": "279-280"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "初一日丙申",
+ "event_role": "议政听政",
+ "summary": "酉时康熙帝御行宫，大学士伊桑阿、学士温保、松柱以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "温保",
+   "role": "学士"
+  },
+  {
+   "name": "松柱",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3613,
+ "page_range": "82-83"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题三保与胡士君相扑误伤致死，拟胡士君绞监候，康熙以相扑为戏无仇隙令从宽免死减等完结。",
+ "people": [
+  {
+   "name": "三保",
+   "role": "死者"
+  },
+  {
+   "name": "胡士君",
+   "role": "拟绞监候犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15306,
+ "page_range": "317-318"
+}

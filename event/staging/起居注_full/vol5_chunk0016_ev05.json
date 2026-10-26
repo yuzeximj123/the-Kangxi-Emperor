@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "初六日癸酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝登舟回畅春园，留二舟分别赐康亲王乘坐及命诸臣并载，传谕前往启阅，令至西直门登岸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "康亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "诸臣",
+   "role": "臣子"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "西直门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1605,
+ "page_range": "42-43"
+}

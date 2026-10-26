@@ -1,0 +1,27 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙论行师调军转饷须一人兼总，前西路进兵军务与运饷分责致粮迟兵困，当以为法。",
+ "people": [
+  {
+   "name": "博济",
+   "role": "将军"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "西路",
+  "白塔",
+  "船站",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24106,
+ "page_range": "492-493"
+}

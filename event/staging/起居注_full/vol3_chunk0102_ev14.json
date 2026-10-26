@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "初四日辛西",
+ "event_role": "奏报灾情收成",
+ "summary": "总漕徐旭龄报徐州等处水灾，康熙帝谕令传谕赈济，使灾民勿致流离。",
+ "people": [
+  {
+   "name": "徐旭龄",
+   "role": "总漕"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "徐州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10214,
+ "page_range": "239-240"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与李光地、王挟、张廷枢等议论《性理》一书注释问题，命公同议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大臣"
+  },
+  {
+   "name": "王挟",
+   "role": "大学士"
+  },
+  {
+   "name": "张廷枢",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9200,
+ "page_range": "195-196"
+}

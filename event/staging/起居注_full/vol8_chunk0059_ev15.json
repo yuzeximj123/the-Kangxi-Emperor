@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 4,
+ "day_text": "十九日庚寅",
+ "event_role": "司法案件",
+ "summary": "刑部等议江宁巡抚张伯行题李纪打死金氏应绞，康熙帝以情属可矜照该抚所请从宽免死减等发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "李纪",
+   "role": "案犯"
+  },
+  {
+   "name": "金氏",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5915,
+ "page_range": "129-130"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初二日庚申",
+ "event_role": "人事任免",
+ "summary": "翰林院掌院事张英等奏侍读学士阐天不堪留任，应交该部议处，康熙帝允之。",
+ "people": [
+  {
+   "name": "张英",
+   "role": "翰林院掌院事"
+  },
+  {
+   "name": "阐天",
+   "role": "侍读学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8709,
+ "page_range": "184-185"
+}

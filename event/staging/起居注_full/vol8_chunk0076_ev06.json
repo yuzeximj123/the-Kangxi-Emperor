@@ -1,0 +1,34 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": "二十四日生辰",
+ "event_role": "弹劾参奏",
+ "summary": "都察院题参侍郎舒兰不详查即混参雅穆布等，护军统领萨三徇情开脱查尔图，议舒兰降三级调用、萨三等赔补，康熙帝命依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "舒兰",
+   "role": "侍郎"
+  },
+  {
+   "name": "雅穆布",
+   "role": "被参官员"
+  },
+  {
+   "name": "萨三",
+   "role": "护军统领"
+  },
+  {
+   "name": "查尔图",
+   "role": "被开脱官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7606,
+ "page_range": "163-164"
+}

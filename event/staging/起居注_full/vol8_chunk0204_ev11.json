@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": "二十九日辛巳",
+ "event_role": "人事任免",
+ "summary": "覆请吏部覆署理盛京将军事务前锋统领伯唐保住所参理事官那彦太等以一外郎缺取用二人行私一案，康熙帝令发回派才能官一员议奏。",
+ "people": [
+  {
+   "name": "伯唐保",
+   "role": "署理盛京将军事务前锋统领"
+  },
+  {
+   "name": "那彦太",
+   "role": "理事官"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20411,
+ "page_range": "419-420"
+}

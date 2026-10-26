@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "初三日辛已",
+ "event_role": "人事任免",
+ "summary": "吏部题补福建布政使，正拟马斯良、陪拟张所志，康熙以马斯良有军前办粮勤劳，准如所拟。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马斯良",
+   "role": "按察使"
+  },
+  {
+   "name": "张所志",
+   "role": "陪拟官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建",
+  "长沙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11005,
+ "page_range": "263-264"
+}

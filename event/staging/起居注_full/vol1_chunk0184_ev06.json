@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 6,
+ "day_text": "初九日王申",
+ "event_role": "其他",
+ "summary": "未时，康熙帝御瀛台前亭，赐进贡扎鲁特部落多罗贝勒查木、科尔沁国诺木齐额验等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "查木",
+   "role": "扎鲁特部落多罗贝勒"
+  },
+  {
+   "name": "诺木齐额验",
+   "role": "科尔沁国进贡使"
+  }
+ ],
+ "places": [
+  "瀛台前亭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18406,
+ "page_range": "425-426"
+}

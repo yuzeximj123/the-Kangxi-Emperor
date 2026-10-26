@@ -1,0 +1,20 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "二十日丙午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕：隆生着严拿解送奉天将军，会同本处刑部将事情真假审明具奏。",
+ "people": [
+  {
+   "name": "隆生",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18520,
+ "page_range": "381-382"
+}

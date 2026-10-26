@@ -1,0 +1,20 @@
+{
+ "reign_year": 28,
+ "month": 11,
+ "day_text": "初七日庚子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝因有事于圆丘，斋戒三日，不理事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "圆丘"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9103,
+ "page_range": "194-195"
+}

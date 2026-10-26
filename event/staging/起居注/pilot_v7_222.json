@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十五年（未标月份）十二日丙申",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十二日丙申",
+ "event_role": "收到奏折",
+ "summary": "吏部题河东巡盐御史阿哈善奏知县徐国玫火焚盐引请开复，康熙帝命该抚察明库银具奏",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿哈善",
+   "role": "河东巡盐御史"
+  },
+  {
+   "name": "徐国玫",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "河东",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3222
+}

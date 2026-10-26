@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十七年十一月二十八日",
+ "reign_year": 47,
+ "month": 11,
+ "day": 26,
+ "event_role": "请安谢恩",
+ "summary": "广州将军管源忠遣家人赴热河行在恭请圣安，并奏报广东山海宁靖、兵民相安、早稻将收、米价每石七钱二三分等地方情形。",
+ "people": [
+  {
+   "name": "管源忠",
+   "role": "镇守广州等处将军，奏折具奏人"
+  },
+  {
+   "name": "王文",
+   "role": "管源忠家人，代赴行在请安"
+  }
+ ],
+ "places": [
+  "广州",
+  "广东",
+  "热河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "福州將軍祖良璧奏請覲見摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "426",
+ "order_index": 317
+}

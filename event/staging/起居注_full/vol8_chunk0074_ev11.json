@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部汇题香火烧死周岁小孩偏儿之傅通拟枷号杖责，康熙以其恶劣命枷责完日发三姓当差。",
+ "people": [
+  {
+   "name": "傅通",
+   "role": "案犯"
+  },
+  {
+   "name": "偏儿",
+   "role": "被害人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三姓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7411,
+ "page_range": "159-160"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "二十三日甲辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台门听政，就都御史徐元文条奏捐纳官员去留及停止捐纳事例等事，谕令九卿详议拟票。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元文",
+   "role": "都御史"
+  },
+  {
+   "name": "朱马泰",
+   "role": "起居注官"
+  },
+  {
+   "name": "曹禾",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "瀛台门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6200,
+ "page_range": "167-168"
+}

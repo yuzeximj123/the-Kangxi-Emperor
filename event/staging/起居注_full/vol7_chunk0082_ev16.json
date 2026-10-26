@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十日辛酉",
+ "event_role": "人事任免",
+ "summary": "查秦省六十以上革职、降级官员，赐原任工部侍郎王承祖等三人复其原品。",
+ "people": [
+  {
+   "name": "王承祖",
+   "role": "原任工部侍郎，复原品"
+  }
+ ],
+ "places": [
+  "秦省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8216,
+ "page_range": "175-176"
+}

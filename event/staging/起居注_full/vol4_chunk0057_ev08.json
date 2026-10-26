@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "前遣阅下河侍郎徐廷阜、巡抚于成龙等回奏：下河所经串场河甚浅不通舟楫，陆路难行，宿顿无所，各口工程已及半，工作无可疑亦非要。",
+ "people": [
+  {
+   "name": "徐廷阜",
+   "role": "侍郎"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "下河",
+  "串场河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5708,
+ "page_range": "126-127"
+}

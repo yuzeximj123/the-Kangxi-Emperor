@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十六日丙申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召问给事中张贮淮安河工事，张贮称离家十余年不能详知，帝令明日召扬州淮安在京官员问明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张贮",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "淮安",
+  "扬州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6409,
+ "page_range": "138-139"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "十二日丙申",
+ "event_role": "人事任免",
+ "summary": "宗人府议觉罗稽斯哈庸劣罢职，康熙帝令裁去恩诏所加拖沙喇哈番，所剩拜他喇布勒哈番给其弟移礼承袭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "稽斯哈",
+   "role": "二等阿达哈哈番兼三等侍卫"
+  },
+  {
+   "name": "移礼",
+   "role": "稽斯哈之弟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14318,
+ "page_range": "297-298"
+}

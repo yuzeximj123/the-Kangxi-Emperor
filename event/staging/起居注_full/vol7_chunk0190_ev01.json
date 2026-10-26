@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请直隶巡抚赵弘党题报强盗马宗齐等行劫焦津家照律即斩一案，康熙帝以放火烧楼应斩首枭示，本发还再议。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "马宗齐",
+   "role": "强盗案犯"
+  },
+  {
+   "name": "焦津",
+   "role": "被盗事主"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19001,
+ "page_range": "391-392"
+}

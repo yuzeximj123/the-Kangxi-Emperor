@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十三年十一月二十二日",
+ "reign_year": 43,
+ "month": 11,
+ "day": 22,
+ "event_role": "请安谢恩",
+ "summary": "曹寅谢恩受命巡视两淮盐务，请求赴京觐见，康熙朱批不必来京。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江寧",
+  "兩淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称身体安好，令曹寅不必来京，明年南巡时再密摺请旨。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "88",
+ "source_title": "江寧織造曹寅奏報禁止兩淮鹽課浮費摺",
+ "order_index": 60
+}

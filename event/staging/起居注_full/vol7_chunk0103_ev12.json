@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "初四日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "两江总督阿山等题请河上捐工加捐及节省银两，康熙以捐纳不可行、库银充裕为由，着九卿议奏。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安",
+  "河上"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10312,
+ "page_range": "217-218"
+}

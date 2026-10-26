@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论保举官员，称郎中博和、诺果办事精密厚重，罗察亦好官，质疑鄂奇非良才何以入保举。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博和",
+   "role": "郎中"
+  },
+  {
+   "name": "诺果",
+   "role": "郎中"
+  },
+  {
+   "name": "罗察",
+   "role": "郎中"
+  },
+  {
+   "name": "鄂奇",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8202,
+ "page_range": "174-175"
+}

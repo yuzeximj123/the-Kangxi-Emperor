@@ -1,0 +1,48 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": "十一日甲实",
+ "event_role": "人事任免",
+ "summary": "阿兰泰奏九卿保举鲁超居官甚善，并言孟世泰居官亦善，康熙帝令鲁超补授。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "鲁超",
+   "role": "按察使"
+  },
+  {
+   "name": "张英",
+   "role": "官员"
+  },
+  {
+   "name": "吴融",
+   "role": "官员"
+  },
+  {
+   "name": "王士祯",
+   "role": "官员"
+  },
+  {
+   "name": "王封澜",
+   "role": "官员"
+  },
+  {
+   "name": "孟世泰",
+   "role": "河南按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4523,
+ "page_range": "100-101"
+}

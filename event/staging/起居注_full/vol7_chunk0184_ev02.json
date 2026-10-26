@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "都察院题请更换巡视两浙盐课监察御史上额图，未候户部前奏之旨即具奏，康熙帝令该部察议具奏。",
+ "people": [
+  {
+   "name": "上额图",
+   "role": "巡视两浙盐课监察御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18402,
+ "page_range": "379-380"
+}

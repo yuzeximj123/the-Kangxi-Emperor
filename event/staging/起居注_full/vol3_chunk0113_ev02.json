@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士图纳升任员缺，开列詹事朱马泰等，康熙询问可用之人并命查呈应升官员职名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "图纳",
+   "role": "升任内阁学士"
+  },
+  {
+   "name": "朱马泰",
+   "role": "詹事"
+  },
+  {
+   "name": "翁英",
+   "role": "侍读学士"
+  },
+  {
+   "name": "塞勒布",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11302,
+ "page_range": "261-262"
+}

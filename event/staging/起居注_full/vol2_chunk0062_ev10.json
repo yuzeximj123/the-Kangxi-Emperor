@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "二十五日丙午",
+ "event_role": "司法案件",
+ "summary": "吏部题莆田县教谕李梦龙服阕假称不受伪札议革职等事，康熙帝令将从重拟罪并再加严议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李梦龙",
+   "role": "莆田县教谕"
+  },
+  {
+   "name": "孙之草",
+   "role": "县丞"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "莆田县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6210,
+ "page_range": "167-168"
+}

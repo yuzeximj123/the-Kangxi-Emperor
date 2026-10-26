@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 6,
+ "day_text": "二十一日辛卯",
+ "event_role": "河工水利",
+ "summary": "康熙帝闻山东、山西雨水甚多，虑黄河水涨，令遣司官往问总河于成龙水势如何。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "山东",
+  "山西",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23523,
+ "page_range": "482-483"
+}

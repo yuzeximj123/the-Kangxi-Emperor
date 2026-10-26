@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "十三日庚申",
+ "event_role": "人事任免",
+ "summary": "礼部题差云贵乡试考官，康熙帝询问旧例，明珠、王熙奏照旧例差翰林官、部属官各一员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22316,
+ "page_range": "481-482"
+}

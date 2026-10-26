@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "二十二卓庚午",
+ "event_role": "人事任免",
+ "summary": "兵部题镶白旗杭州防守御员缺，康熙帝斥拟陪费扬古庸常、将军等两议不合，命严饬，图尔禅补授防守御。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图尔禅",
+   "role": "佐领"
+  },
+  {
+   "name": "费扬古",
+   "role": "佐领"
+  },
+  {
+   "name": "潜尼堪",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21505,
+ "page_range": "465-466"
+}

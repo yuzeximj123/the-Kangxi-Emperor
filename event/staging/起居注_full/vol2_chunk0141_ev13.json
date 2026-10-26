@@ -1,0 +1,45 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "二十五日庚子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召满汉讲官，出示赐琉球御书“中山世土”四大字，命大学士及讲官详看，众皆称善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14113,
+ "page_range": "325-326"
+}

@@ -1,0 +1,44 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝谕令将鄂善、耿额、齐世武、乌礼锁拿监禁宗人府，待都图到后质审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂善",
+   "role": "被锁拿官员"
+  },
+  {
+   "name": "耿额",
+   "role": "被锁拿官员"
+  },
+  {
+   "name": "齐世武",
+   "role": "被锁拿官员"
+  },
+  {
+   "name": "乌礼",
+   "role": "被锁拿官员"
+  },
+  {
+   "name": "都图",
+   "role": "待质审官员"
+  },
+  {
+   "name": "讷尔逊",
+   "role": "公"
+  }
+ ],
+ "places": [
+  "宗人府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19400,
+ "page_range": "399-400"
+}

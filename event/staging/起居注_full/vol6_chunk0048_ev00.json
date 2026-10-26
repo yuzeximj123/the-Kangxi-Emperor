@@ -1,0 +1,21 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "江宁巡抚宋储题报山阳、高邮等州县被水田亩，请照例蠲免本年钱粮。",
+ "people": [
+  {
+   "name": "宋储",
+   "role": "江宁巡抚"
+  }
+ ],
+ "places": [
+  "山阳",
+  "高邮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4800,
+ "page_range": "106-107"
+}

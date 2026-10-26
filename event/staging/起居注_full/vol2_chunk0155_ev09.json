@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初八日辛亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士等捧折本请旨，议吏部议监察御史堪泰题参罗文瑜不用火牌一案。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "堪泰",
+   "role": "监察御史"
+  },
+  {
+   "name": "罗文瑜",
+   "role": "官员"
+  },
+  {
+   "name": "徐元文",
+   "role": "左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15509,
+ "page_range": "353-354"
+}

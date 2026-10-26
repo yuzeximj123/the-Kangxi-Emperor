@@ -1,0 +1,21 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "二十二日庚午",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝谒昭陵，率诸王贝勒文武大臣设牺牲酒等物，于隆恩殿前读祝，行告成礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "昭陵",
+  "隆恩殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 26,
+ "page_range": "57-58"
+}

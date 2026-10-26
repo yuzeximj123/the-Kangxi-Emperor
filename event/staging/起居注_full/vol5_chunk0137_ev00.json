@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十三日",
+ "event_role": "军务",
+ "summary": "西路大将军率大兵至特勒尔即地方，遇噶尔丹溃和通与之交战，厄鲁特贼众大溃，斩杀甚多，余众陆续投顺，噶尔丹仅带三十余人逃窜。",
+ "people": [
+  {
+   "name": "西路大将军",
+   "role": "大将军"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "特勒尔即地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13700,
+ "page_range": "284-285"
+}

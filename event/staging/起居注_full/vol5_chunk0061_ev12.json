@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 3,
+ "day_text": "十四日乙亥",
+ "event_role": "人事任免",
+ "summary": "兵部题镶蓝旗汉军副都统韩佐周员缺，开列护军参领沙赖等职名，康熙帝称只识沙赖且系贤员，命问该旗王及大臣等具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩佐周",
+   "role": "镶蓝旗汉军副都统"
+  },
+  {
+   "name": "沙赖",
+   "role": "护军参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6112,
+ "page_range": "132-133"
+}

@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙二十八年二月二十七日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十七日乙丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝幸观星台，与李光地等讨论天文历法星象，指授诸臣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "掌院学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "尚书"
+  },
+  {
+   "name": "图纳",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "观星台",
+  "江宁府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2034
+}

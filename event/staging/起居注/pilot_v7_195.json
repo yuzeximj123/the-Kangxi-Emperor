@@ -1,0 +1,32 @@
+{
+ "date_raw": "十五日己亥",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十五日己亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝驻跸腰亭子，酉时御行宫，大学士马齐等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "黑寿",
+   "role": "礼部侍郎兼学士"
+  },
+  {
+   "name": "舒图",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "腰亭子"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3195
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十一日丙寅",
+ "event_role": "军务",
+ "summary": "兵部议户部郎中苏赫臣仍留湖广料理军精，康熙帝命依部议，并令苏赫臣密访彼处情形题奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏赫臣",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1418,
+ "page_range": "71-72"
+}

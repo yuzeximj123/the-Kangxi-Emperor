@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十四日辛未",
+ "event_role": "人事任免",
+ "summary": "吏部题补湖北布政使，康熙帝以李辉祖办事亦优，着补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔维雅",
+   "role": "候补，拟正"
+  },
+  {
+   "name": "李辉祖",
+   "role": "按察使，补授湖北布政使"
+  }
+ ],
+ "places": [
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12312,
+ "page_range": "289-290"
+}

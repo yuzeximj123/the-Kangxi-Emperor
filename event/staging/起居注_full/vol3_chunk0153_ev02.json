@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "明珠等奏朱都纳考在一等、洪俄贷考在三等皆可用，康熙帝命朱都纳升补翰林院侍讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "侍读，升补翰林院侍讲"
+  },
+  {
+   "name": "洪俄贷",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15302,
+ "page_range": "341-342"
+}

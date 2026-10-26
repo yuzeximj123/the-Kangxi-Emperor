@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": "二十五日壬申",
+ "event_role": "谕旨决策",
+ "summary": "礼部题请给原任盛京侍郎额伦德恤典，康熙帝命本发回，不必赐恤。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额伦德",
+   "role": "原任盛京侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4034,
+ "page_range": "91-92"
+}

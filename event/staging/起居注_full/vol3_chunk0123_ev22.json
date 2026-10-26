@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "二十日丙子",
+ "event_role": "河工水利",
+ "summary": "康熙帝问汉大学士意见，王熙奏于成龙所议为潘季驯旧法、靳辅所议为创建之策。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "汉大学士"
+  },
+  {
+   "name": "潘季驯",
+   "role": "明朝河臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12322,
+ "page_range": "281-282"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "二十五日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙谓吏部尚书张鹏副，称福建巡抚陈孩操守好、性情不乖张，日后断不改操。",
+ "people": [
+  {
+   "name": "张鹏副",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "陈孩",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "福建",
+  "广东雷州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13321,
+ "page_range": "277-278"
+}

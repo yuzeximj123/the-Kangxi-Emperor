@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初九日己巳",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝自畅春园起程驻跸汤泉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13606,
+ "page_range": "283-284"
+}

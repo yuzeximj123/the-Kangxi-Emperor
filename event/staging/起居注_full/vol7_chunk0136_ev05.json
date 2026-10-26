@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十六日庚戌",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院官员面奏，大学士等奏复九卿对直隶秋审草率之自责，康熙帝颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "大学士",
+   "role": "朝臣"
+  },
+  {
+   "name": "九卿",
+   "role": "朝臣"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13605,
+ "page_range": "283-284"
+}

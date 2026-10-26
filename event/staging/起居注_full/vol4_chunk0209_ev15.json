@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "初四日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题请将广西布政使教化新等一百九员司道内升开列，康熙帝就其中人员发表意见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "教化新",
+   "role": "广西布政使"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20915,
+ "page_range": "430-431"
+}

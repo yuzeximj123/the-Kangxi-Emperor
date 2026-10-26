@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝念淮扬百姓频遭水灾，令来年税粮于今年预为蠲免，使灾民水退后归乡安业。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "淮扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12100,
+ "page_range": "252-253"
+}

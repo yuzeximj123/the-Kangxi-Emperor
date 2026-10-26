@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初四日乙酉",
+ "event_role": "人事任免",
+ "summary": "吏部补授织造库郎中员缺开列罗壁等，康熙问罗壁为人，明珠称其颇优明晰，命罗壁补授。",
+ "people": [
+  {
+   "name": "罗壁",
+   "role": "郎中"
+  },
+  {
+   "name": "明格礼",
+   "role": "郎中"
+  },
+  {
+   "name": "额尔",
+   "role": "阿达哈哈番"
+  },
+  {
+   "name": "孙禅布",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5814,
+ "page_range": "159-160"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十八日庚辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸南郊西红门，简亲王雅布迎驾至，赐马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雅布",
+   "role": "简亲王"
+  }
+ ],
+ "places": [
+  "南郊",
+  "西红门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 821,
+ "page_range": "27-28"
+}

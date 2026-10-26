@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "十二日本卯",
+ "event_role": "军务",
+ "summary": "四川提督岳异龙奏打箭炉军功把总请另分一款叙用，议不准行，康熙帝令发还察旧例另议具奏。",
+ "people": [
+  {
+   "name": "岳异龙",
+   "role": "四川提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川",
+  "打箭炉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12627,
+ "page_range": "263-264"
+}

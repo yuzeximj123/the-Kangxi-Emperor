@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "十六日壬午",
+ "event_role": "人事任免",
+ "summary": "吏科掌印给事中温达题内升外转引见六科给事中，奏刘国难、故充丽可用，李旭升平常。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "吏科掌印给事中"
+  },
+  {
+   "name": "刘国难",
+   "role": "给事中"
+  },
+  {
+   "name": "故充丽",
+   "role": "给事中"
+  },
+  {
+   "name": "李旭升",
+   "role": "给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3327,
+ "page_range": "76-77"
+}

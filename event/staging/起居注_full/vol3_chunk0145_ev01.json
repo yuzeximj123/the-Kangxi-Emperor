@@ -1,0 +1,37 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "巳时康熙帝御文华殿举行经筵大典，讲官库勒纳、杜至、傅腊塔、陈廷敬进讲《四书》《书经》，讲毕赐宴于太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "杜至",
+   "role": "讲官"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14501,
+ "page_range": "325-326"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "十七日成袖",
+ "event_role": "议政听政",
+ "summary": "常书、朱马泰至行宫奏呈讲章，康熙帝览毕指其文字未得精微、排语不调，命与大学士王巾、学士孙在不共相更定，更定后称善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "学士"
+  },
+  {
+   "name": "朱马泰",
+   "role": "侍读学士"
+  },
+  {
+   "name": "王巾",
+   "role": "大学士"
+  },
+  {
+   "name": "孙在不",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5823,
+ "page_range": "151-152"
+}

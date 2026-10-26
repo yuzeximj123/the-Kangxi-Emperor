@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 3,
+ "day_text": "初十日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部以直隶守道员缺开列长芦运使李法祖等七十二员具奏，康熙命以邵嗣芜调补直隶守道。",
+ "people": [
+  {
+   "name": "李法祖",
+   "role": "长芦运使"
+  },
+  {
+   "name": "邵嗣芜",
+   "role": "直隶守道"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14508,
+ "page_range": "302-303"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命问沈朝聘具奏武职各官内保奏引见者，沈朝聘奏参将安炮巴曾由总督二思孔卓异保奏并获赐蟒护等情。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "官员"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "安炮巴",
+   "role": "参将"
+  },
+  {
+   "name": "二思孔",
+   "role": "原任总督"
+  },
+  {
+   "name": "存住",
+   "role": "转奏官"
+  }
+ ],
+ "places": [
+  "保定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3200,
+ "page_range": "74-75"
+}

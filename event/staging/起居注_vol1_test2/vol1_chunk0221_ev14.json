@@ -1,0 +1,37 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十四日甲戌",
+ "event_role": "人事任免",
+ "summary": "吏部开列学士、布政使职名题补直隶巡抚，康熙帝以福建布政使于成龙居官日入、人亦堪用，命补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "希福",
+   "role": "学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "福建布政使"
+  }
+ ],
+ "places": [
+  "直隶",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22114,
+ "page_range": "499-500"
+}

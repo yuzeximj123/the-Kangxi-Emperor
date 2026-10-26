@@ -1,0 +1,36 @@
+{
+ "reign_year": 25,
+ "month": 8,
+ "day_text": "十四日丙寅",
+ "event_role": "朝见受贺",
+ "summary": "巴林、翁牛忒、苏尼特等部台吉贝勒来朝请安。",
+ "people": [
+  {
+   "name": "纳木达克",
+   "role": "巴林部落多罗郡王"
+  },
+  {
+   "name": "额林臣",
+   "role": "翁牛忒部落多罗达尔汉贝勒"
+  },
+  {
+   "name": "丹津",
+   "role": "教汉二品台吉"
+  },
+  {
+   "name": "多尔吉思哈布",
+   "role": "苏尼特部落二品台吉"
+  },
+  {
+   "name": "王舒克",
+   "role": "未授品级台吉"
+  }
+ ],
+ "places": [
+  "黄陂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18301,
+ "page_range": "401-402"
+}

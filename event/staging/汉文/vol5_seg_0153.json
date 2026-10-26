@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十三年正月二十日",
+ "reign_year": 53,
+ "month": null,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "永州总兵陈尚武在康熙万寿庆典期间具折恭请圣安、祝贺皇帝寿辰，表达感恩与祝福。",
+ "people": [
+  {
+   "name": "陈尚武",
+   "role": "永州总兵（副将管总兵官事），奏折作者"
+  },
+  {
+   "name": "美庆",
+   "role": "陈尚武家人，捧赍奏折者"
+  }
+ ],
+ "places": [
+  "永州",
+  "湖广",
+  "河间",
+  "楚凌",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "永州總兵陳尚武奏報年羹堯摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1516",
+ "order_index": 153
+}

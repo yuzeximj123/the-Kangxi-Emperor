@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十一日辛丑",
+ "event_role": "议政听政",
+ "summary": "已时康熙御行宫，马齐等以折本请旨，刑部题周子贵私贩人参拟正法。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "铁图",
+   "role": "学士"
+  },
+  {
+   "name": "纪和尔塔浑",
+   "role": "学士"
+  },
+  {
+   "name": "周子贵",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2213,
+ "page_range": "55-56"
+}

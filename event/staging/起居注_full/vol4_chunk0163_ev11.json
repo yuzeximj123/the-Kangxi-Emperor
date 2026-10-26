@@ -1,0 +1,20 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "初一日壬午",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以备冬躬行太庙致祭礼，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16311,
+ "page_range": "338-339"
+}

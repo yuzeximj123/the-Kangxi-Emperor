@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十二日已未",
+ "event_role": "司法案件",
+ "summary": "兵部题原任总兵官李之兰侄李承震、李承祖议革职给该管之主为奴，康熙帝命革职但从宽免给。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李之兰",
+   "role": "原任总兵官"
+  },
+  {
+   "name": "李承震",
+   "role": "李之兰侄"
+  },
+  {
+   "name": "李承祖",
+   "role": "李之兰侄"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23207,
+ "page_range": "507-508"
+}

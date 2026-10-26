@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与王申、明珠等阅卷评定名次，认为前二卷最优难分上下，第三卷稍逊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王申",
+   "role": "阅卷官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14400,
+ "page_range": "331-332"
+}

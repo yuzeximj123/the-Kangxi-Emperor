@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "初三日戊子",
+ "event_role": "其他",
+ "summary": "康熙帝赐胡胡诺尔亲王罗普藏丹津等火灸包。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗普藏丹津",
+   "role": "胡胡诺尔亲王"
+  }
+ ],
+ "places": [
+  "胡胡诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17506,
+ "page_range": "361-362"
+}

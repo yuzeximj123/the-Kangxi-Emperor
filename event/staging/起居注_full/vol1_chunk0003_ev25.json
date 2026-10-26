@@ -1,0 +1,32 @@
+{
+ "reign_year": 10,
+ "month": 11,
+ "day_text": "二十二日已已",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿，诸王、贝勒、文武官员上表行庆贺冬至礼，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诸王",
+   "role": "宗室"
+  },
+  {
+   "name": "贝勒",
+   "role": "宗室"
+  },
+  {
+   "name": "文武官员",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 325,
+ "page_range": "63-64"
+}

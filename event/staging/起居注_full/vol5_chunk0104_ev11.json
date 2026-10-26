@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "十一日己卯",
+ "event_role": "谕旨决策",
+ "summary": "亲近侍卫关保传谕领侍卫内大臣，自今日以后五鼓起程时不得举火，晚刻举火炊饭不禁，严加传示。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10411,
+ "page_range": "218-219"
+}

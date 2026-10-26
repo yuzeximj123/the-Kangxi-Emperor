@@ -1,0 +1,24 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": "二十一日庚午",
+ "event_role": "司法案件",
+ "summary": "已时康熙帝御汤泉行宫正门，令朱都纳近前，责问其子所奏之本是否皆其意，并问其何以知二阿哥仁孝安静。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱都纳",
+   "role": "被问者"
+  }
+ ],
+ "places": [
+  "汤泉行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23312,
+ "page_range": "477-478"
+}

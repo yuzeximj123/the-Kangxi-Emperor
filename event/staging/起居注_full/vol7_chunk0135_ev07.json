@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十三日",
+ "event_role": "司法案件",
+ "summary": "秋审山西情真罪犯薛积忠与姚永代交争持枪相戳致姚永代身死，康熙帝以其情有可原改为缓决，余如所拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "薛积忠",
+   "role": "罪犯"
+  },
+  {
+   "name": "姚永代",
+   "role": "死者"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13507,
+ "page_range": "281-282"
+}

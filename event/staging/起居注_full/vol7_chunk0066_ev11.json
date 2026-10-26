@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "二十六日庚午",
+ "event_role": "军务",
+ "summary": "兵部覆湖广提督俞益谟题请武弁家丁顶补军卒免保结并增额数，议不准行，康熙帝命九卿、詹事、科道会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俞益谟",
+   "role": "湖广提督"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6611,
+ "page_range": "143-144"
+}

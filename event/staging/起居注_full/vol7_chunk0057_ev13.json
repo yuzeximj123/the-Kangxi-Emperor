@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "十二日丁雍",
+ "event_role": "人事任免",
+ "summary": "大学士等会同部院各衙门拣选拟补荆州、杭州将军员缺，康熙帝命蟒侃授荆州将军、诺罗布授杭州将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蟒侃",
+   "role": "都统"
+  },
+  {
+   "name": "诺罗布",
+   "role": "都统"
+  },
+  {
+   "name": "特克信",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "荆州",
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5713,
+ "page_range": "125-126"
+}

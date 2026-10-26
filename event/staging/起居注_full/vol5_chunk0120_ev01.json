@@ -1,0 +1,34 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "费扬古等奏报进征大兵口粮安排，选巩昌按察使囊吉理、汉中副将杨琳等转运，二月二十二日自宁夏启行。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "内大臣伯"
+  },
+  {
+   "name": "囊吉理",
+   "role": "巩昌按察使"
+  },
+  {
+   "name": "杨琳",
+   "role": "汉中城守副将"
+  },
+  {
+   "name": "董绍孔",
+   "role": "道员"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "翁金",
+  "土喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12001,
+ "page_range": "250-251"
+}

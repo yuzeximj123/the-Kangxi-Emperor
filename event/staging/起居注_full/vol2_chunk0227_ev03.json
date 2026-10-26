@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "初三日庚子",
+ "event_role": "人事任免",
+ "summary": "吏部题补贵州按察使李国亮丁忧员缺，拟王廷弱、胡悉宁，康熙帝命九卿等会推具奏。",
+ "people": [
+  {
+   "name": "李国亮",
+   "role": "贵州按察使"
+  },
+  {
+   "name": "王廷弱",
+   "role": "榆林道副使"
+  },
+  {
+   "name": "胡悉宁",
+   "role": "甘山道副使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22703,
+ "page_range": "497-498"
+}

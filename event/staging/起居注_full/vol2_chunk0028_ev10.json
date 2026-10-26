@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十一日丙申",
+ "event_role": "谕旨决策",
+ "summary": "广东巡抚金俊题原任提督王可臣给散召募兵丁银两追赔未完请准升免，康熙帝命从宽准免扣抵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金俊",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "王可臣",
+   "role": "原任提督"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2810,
+ "page_range": "99-100"
+}

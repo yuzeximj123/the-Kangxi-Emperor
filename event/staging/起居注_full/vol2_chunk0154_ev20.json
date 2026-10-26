@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初二日乙巳",
+ "event_role": "人事任免",
+ "summary": "吏部题郎中图竹议革职交刑部，康熙帝以其尚未定罪，令戴罪前往湖广采取楠木杉木。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图竹",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15420,
+ "page_range": "351-352"
+}

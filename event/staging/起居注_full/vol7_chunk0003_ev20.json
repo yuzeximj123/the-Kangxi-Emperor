@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": "二十八日庚戌",
+ "event_role": "谕旨决策",
+ "summary": "乾清门侍卫马武传谕鸿胪寺少卿沙拜等，昌平州官员不必俱调来，旧年已射之员不必射，未射之人照常射。",
+ "people": [
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "沙拜",
+   "role": "鸿胪寺少卿"
+  }
+ ],
+ "places": [
+  "昌平州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 320,
+ "page_range": "17-18"
+}

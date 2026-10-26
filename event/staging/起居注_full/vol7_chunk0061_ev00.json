@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "吴瑞等奏报杨茂在陆子文家致死一案，部议合理，康熙帝谕令仍照部议执行。",
+ "people": [
+  {
+   "name": "吴瑞",
+   "role": "奏事官员"
+  },
+  {
+   "name": "杨茂",
+   "role": "涉案人"
+  },
+  {
+   "name": "陆子文",
+   "role": "涉案人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6100,
+ "page_range": "133-134"
+}

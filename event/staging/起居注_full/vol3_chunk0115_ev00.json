@@ -1,0 +1,20 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问温州相近地方副将中是否有可用之人，因总兵员缺紧要，命查出后明日启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "温州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11500,
+ "page_range": "265-266"
+}

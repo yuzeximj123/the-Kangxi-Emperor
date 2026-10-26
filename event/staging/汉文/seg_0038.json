@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十年八月",
+ "reign_year": 40,
+ "month": 8,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报苏州夏秋雨水调匀、田禾茂盛可望丰年，并报孙岳颁房屋已完工。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "孙岳颁",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "42",
+ "source_title": "苏州织造李煦奏报雨水情形并孙岳颁房屋已完工折",
+ "order_index": 38
+}

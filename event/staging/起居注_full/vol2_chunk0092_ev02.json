@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "云南总督赵良栋条奏云南事宜，康熙帝命回京时请旨，并斥其骄纵狂妄、不知礼体。",
+ "people": [
+  {
+   "name": "赵良栋",
+   "role": "云南总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9202,
+ "page_range": "227-228"
+}

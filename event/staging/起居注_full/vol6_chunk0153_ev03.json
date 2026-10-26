@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "署川陕总督席尔达题请参领高其位调补副将，康熙以其人材矫健照所题补授。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "署川陕总督"
+  },
+  {
+   "name": "高其位",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "川陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15303,
+ "page_range": "316-317"
+}

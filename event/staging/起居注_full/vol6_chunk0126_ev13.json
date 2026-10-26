@@ -1,0 +1,36 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初五日己巳",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问直隶巡抚李光地如何，王泽弘、张壹、卜峻超奏其操守清廉，康熙帝称李光地居官实优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "王泽弘",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "张壹",
+   "role": "给事中"
+  },
+  {
+   "name": "卜峻超",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12613,
+ "page_range": "262-263"
+}

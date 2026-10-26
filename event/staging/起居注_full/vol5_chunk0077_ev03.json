@@ -1,0 +1,37 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "巴林、翁牛特地方米谷歉收，康熙帝命差学士喇锡及蒙古章京前往查明收成及缺粮人口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事官"
+  },
+  {
+   "name": "喇锡",
+   "role": "学士"
+  },
+  {
+   "name": "阿喇上下台",
+   "role": "巴林部落王"
+  },
+  {
+   "name": "鄂齐尔台吉",
+   "role": "翁牛特部落台吉"
+  }
+ ],
+ "places": [
+  "巴林",
+  "翁牛特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7703,
+ "page_range": "164-165"
+}

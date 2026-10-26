@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问大学士王熙关于顾汗的学问与才能，王熙奏称顾汗学问不及王鸿绪，办事尚可但未经历外事，才不能称职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "顾汗",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6400,
+ "page_range": "138-139"
+}

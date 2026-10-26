@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十九日甲实",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论南人病多因服人参、饮食不调，北人南来面食致病，凉水有益脾胃，蒙古少病乃水土之故。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴达禅",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "土喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11211,
+ "page_range": "234-235"
+}

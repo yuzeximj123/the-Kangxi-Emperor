@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "二十六日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "折本请旨毕，康熙帝命将部院笔帖式中人材优长出自令族者再行保举引见，并令此番保举增添主事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8622,
+ "page_range": "182-183"
+}

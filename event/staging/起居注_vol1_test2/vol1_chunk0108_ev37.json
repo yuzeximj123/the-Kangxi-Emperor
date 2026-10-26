@@ -1,0 +1,21 @@
+{
+ "reign_year": 15,
+ "month": 1,
+ "day_text": "二十一日甲搬",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出南苑西红门，驻中西安祖。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南苑西红门",
+  "中西安祖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10837,
+ "page_range": "273-274"
+}

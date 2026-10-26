@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "二十二日王寅",
+ "event_role": "议政听政",
+ "summary": "申时康熙帝御行宫，大学士阿兰泰、学士图纳哈、思格则以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "图纳哈",
+   "role": "学士"
+  },
+  {
+   "name": "思格则",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17724,
+ "page_range": "366-367"
+}

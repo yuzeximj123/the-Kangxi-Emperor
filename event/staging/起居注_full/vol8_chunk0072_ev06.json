@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": "二十二日庚申",
+ "event_role": "朝见受贺",
+ "summary": "古北口驿传道罗笑泰、防御布太、都司孙孟麟、八品笔帖式巴图等来朝。",
+ "people": [
+  {
+   "name": "罗笑泰",
+   "role": "古北口驿传道"
+  },
+  {
+   "name": "布太",
+   "role": "防御"
+  },
+  {
+   "name": "孙孟麟",
+   "role": "都司"
+  },
+  {
+   "name": "巴图",
+   "role": "八品笔帖式"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7206,
+ "page_range": "155-156"
+}

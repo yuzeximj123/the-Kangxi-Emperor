@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "初十日癸亥",
+ "event_role": "军务",
+ "summary": "总督董卫国奏闻恢复四川遵义府，将军马宝逃遁，杀贼甚多。",
+ "people": [
+  {
+   "name": "董卫国",
+   "role": "总督"
+  },
+  {
+   "name": "马宝",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "四川遵义府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4217,
+ "page_range": "127-128"
+}

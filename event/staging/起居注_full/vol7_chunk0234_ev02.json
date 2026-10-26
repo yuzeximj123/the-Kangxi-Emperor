@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "工部尚书满都、兵部侍郎李先复、刑部侍郎张志栋分别奏称李麟骑射好、无病且有功、居官优。",
+ "people": [
+  {
+   "name": "满都",
+   "role": "工部尚书"
+  },
+  {
+   "name": "李先复",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "张志栋",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "李麟",
+   "role": "被参官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23402,
+ "page_range": "479-480"
+}

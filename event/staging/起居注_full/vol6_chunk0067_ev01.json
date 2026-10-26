@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初六日丙午",
+ "event_role": "朝见受贺",
+ "summary": "奉天府尹王国安赴任前请训旨，奏请为康熙海运救饥之举建碑，康熙以劳民为由不许。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国安",
+   "role": "奉天府尹"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6701,
+ "page_range": "144-145"
+}

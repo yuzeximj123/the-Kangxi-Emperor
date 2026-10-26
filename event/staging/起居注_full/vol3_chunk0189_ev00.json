@@ -1,0 +1,29 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "明珠等遵旨议直隶缓决罪人，张二等十八名强盗及草桐分别请旨减等发落。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张二",
+   "role": "强盗罪犯"
+  },
+  {
+   "name": "草桐",
+   "role": "谋杀从犯"
+  }
+ ],
+ "places": [
+  "直隶",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18900,
+ "page_range": "413-414"
+}

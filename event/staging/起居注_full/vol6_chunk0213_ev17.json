@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "初四日戊子",
+ "event_role": "其他",
+ "summary": "康熙帝率皇太子、诸皇子及善射侍卫射于行宫前，发矢皆中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "随射"
+  },
+  {
+   "name": "诸皇子",
+   "role": "随射"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21317,
+ "page_range": "436-437"
+}

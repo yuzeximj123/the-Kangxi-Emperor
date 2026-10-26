@@ -1,0 +1,37 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "初一日甲申",
+ "event_role": "弹劾参奏",
+ "summary": "湖广总督郭玫、巡抚年遐龄因御史左必著劾其误参黄梅县知县李锦钱粮未完遵旨回奏，康熙帝批知道了。",
+ "people": [
+  {
+   "name": "郭玫",
+   "role": "湖广总督"
+  },
+  {
+   "name": "年遐龄",
+   "role": "巡抚"
+  },
+  {
+   "name": "左必著",
+   "role": "御史"
+  },
+  {
+   "name": "李锦",
+   "role": "黄梅县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "黄梅县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22407,
+ "page_range": "458-459"
+}

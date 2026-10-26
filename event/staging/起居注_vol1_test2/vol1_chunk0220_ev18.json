@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初八日戊辰",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝率诸王、贝子、公、内大臣、大学士、都统、尚书、侍卫等齐集慈宁宫，庆贺太皇太后圣诞礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "受贺者"
+  }
+ ],
+ "places": [
+  "慈宁宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22018,
+ "page_range": "497-498"
+}

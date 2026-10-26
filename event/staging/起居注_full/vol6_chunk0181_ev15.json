@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "初九日丁酉",
+ "event_role": "军务",
+ "summary": "理藩院题将军萨布素奏报达赖诺尔台吉等抢掠鄂罗斯贸易人马匹，议明春差大臣会同鄂罗斯定立边界。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "将军"
+  },
+  {
+   "name": "达赖诺尔台吉",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "鄂罗斯",
+  "尼布楚城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18115,
+ "page_range": "372-373"
+}

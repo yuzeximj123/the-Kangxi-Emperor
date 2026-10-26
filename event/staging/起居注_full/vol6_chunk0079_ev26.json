@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "十五日乙卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸石人湾地方，于行宫前率诸皇子及善射者射，命总兵官杨钧、副将施世硅以下把总等射，帝连发皆中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨钧",
+   "role": "总兵官"
+  },
+  {
+   "name": "施世硅",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "石人湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7926,
+ "page_range": "168-169"
+}

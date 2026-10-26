@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十三日戊寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补太仆寺升任员外郎吴什哈员缺，正拟候补员外郎证泰、陪拟麻尔赛，康熙帝认为二人庸劣轻狂，命随旅行走并另拟具奏。",
+ "people": [
+  {
+   "name": "吴什哈",
+   "role": "太仆寺员外郎"
+  },
+  {
+   "name": "证泰",
+   "role": "候补员外郎"
+  },
+  {
+   "name": "麻尔赛",
+   "role": "候补官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "岳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2612,
+ "page_range": "87-88"
+}

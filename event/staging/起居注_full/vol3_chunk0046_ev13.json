@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "初十日",
+ "event_role": "司法案件",
+ "summary": "刑部以原任员外郎莫落浑差往拨地受贿议绞，康熙帝命三法司议结再看，并命将笔帖式塞纶泰凌责枷号发往黑龙江披甲报效。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "莫落浑",
+   "role": "原任员外郎"
+  },
+  {
+   "name": "塞纶泰",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4613,
+ "page_range": "127-128"
+}

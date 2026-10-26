@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就太常寺官员选用问题询问席尔达，席尔达称黑尔苏为平常人无优处，康熙遂命从本衙门人材优长熟谙事务者中选择补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "黑尔苏",
+   "role": "拟陪官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4000,
+ "page_range": "115-116"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初六日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝由西华门出西直门，幸玉泉山，是日驻跸玉泉山。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西华门",
+  "西直门",
+  "玉泉山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1818,
+ "page_range": "71-72"
+}

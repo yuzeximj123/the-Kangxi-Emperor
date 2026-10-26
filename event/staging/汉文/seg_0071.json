@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙四十四年五月初一日",
+ "reign_year": 44,
+ "month": 5,
+ "day": null,
+ "event_role": "其他",
+ "summary": "曹寅奏报奉旨刊刻《全唐詩集》，彭定求等尚未到扬州，并请旨俞梅就近校刊及刊完后具本奏闻。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "彭定求",
+   "role": "涉及人物"
+  },
+  {
+   "name": "俞梅",
+   "role": "涉及人物"
+  },
+  {
+   "name": "宋犖",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "江寧",
+  "揚州",
+  "江蘇"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "98",
+ "source_title": "江寧織造曹寅奏陳刊刻全唐詩集情形摺",
+ "order_index": 71
+}

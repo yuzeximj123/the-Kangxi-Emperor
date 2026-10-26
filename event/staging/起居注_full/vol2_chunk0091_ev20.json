@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十四日癸刻",
+ "event_role": "朝见受贺",
+ "summary": "管坐粮厅事户部员外郎巴尔泰等、拱极城游击署通州副将事惠进等来朝。",
+ "people": [
+  {
+   "name": "巴尔泰",
+   "role": "管坐粮厅事户部员外郎"
+  },
+  {
+   "name": "惠进",
+   "role": "拱极城游击署通州副将事"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9120,
+ "page_range": "225-226"
+}

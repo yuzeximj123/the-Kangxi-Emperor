@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "十六日辛丑",
+ "event_role": "议政听政",
+ "summary": "未时康熙帝御行宫，大学士马齐、学士辛保以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "辛保",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21002,
+ "page_range": "430-431"
+}

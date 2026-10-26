@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "十六日丙子",
+ "event_role": "司法案件",
+ "summary": "吏部覆工部题参睢宁县知县刘如晏照常工价银两未完不及一分，拟罚俸六个月戴罪督催，康熙帝责工部应会同吏部议奏，命察议具奏。",
+ "people": [
+  {
+   "name": "刘如晏",
+   "role": "睢宁县知县"
+  },
+  {
+   "name": "赵世显",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "睢宁县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13611,
+ "page_range": "283-284"
+}

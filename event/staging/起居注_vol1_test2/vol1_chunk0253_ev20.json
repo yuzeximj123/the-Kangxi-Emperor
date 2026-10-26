@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "初二日己丑",
+ "event_role": "司法案件",
+ "summary": "吏部议司道石国栋承审下海私贩徐随等迟延不结，应降一级抵销，康熙帝以系该抚特参之事，命处分。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石国栋",
+   "role": "司道"
+  },
+  {
+   "name": "徐随",
+   "role": "下海私贩"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25320,
+ "page_range": "563-564"
+}

@@ -1,0 +1,41 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "二十三日甲辰",
+ "event_role": "人事任免",
+ "summary": "吏部题川陕总督希福升任员缺，康熙帝采纳明珠等议，升山西巡抚图纳补授川陕总督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "图纳",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "希福",
+   "role": "川陕总督"
+  },
+  {
+   "name": "沙海",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "川陕",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18810,
+ "page_range": "411-412"
+}

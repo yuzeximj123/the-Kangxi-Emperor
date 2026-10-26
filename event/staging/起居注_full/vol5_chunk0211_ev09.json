@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝降旨派工部侍郎常寿、侍读学士伊道，并令因罪革职侍郎多奇以主事衔同往策旺喇布滩处，令骑本身马匹前往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "伊道",
+   "role": "侍读学士"
+  },
+  {
+   "name": "多奇",
+   "role": "因罪革职侍郎、以主事衔同往"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21109,
+ "page_range": "432-433"
+}

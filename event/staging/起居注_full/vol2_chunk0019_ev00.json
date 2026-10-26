@@ -1,0 +1,20 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就粮储问题谕令该部详察裁减京城各项应差匠役食粮，以积储粮米。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1900,
+ "page_range": "81-82"
+}

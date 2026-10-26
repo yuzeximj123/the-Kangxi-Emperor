@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十六日辛未",
+ "event_role": "军务",
+ "summary": "云贵总督赵良栋奏报伪将军海潮龙率众投诚，康熙帝命照朱天贵前旨拟票来奏。",
+ "people": [
+  {
+   "name": "赵良栋",
+   "role": "云贵总督"
+  },
+  {
+   "name": "海潮龙",
+   "role": "伪将军"
+  },
+  {
+   "name": "朱天贵",
+   "role": "前例参照官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1601,
+ "page_range": "75-76"
+}

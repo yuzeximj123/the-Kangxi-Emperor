@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾陆年拾月初陆日",
+ "reign_year": 56,
+ "month": 10,
+ "day": 6,
+ "event_role": "贸易漕运",
+ "summary": "漕运总督施世纶奏报今岁丰收后米价渐减及回空漕船过淮过德情形，并称催儹漕船依限抵次。",
+ "people": [
+  {
+   "name": "施世纶",
+   "role": "漕运总督，奏报人"
+  },
+  {
+   "name": "黄福",
+   "role": "施世纶家人，赍送奏摺"
+  }
+ ],
+ "places": [
+  "山东",
+  "河南",
+  "江浙",
+  "江广",
+  "德州",
+  "淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并指出每年回空多迟，其中必有原故。",
+ "source_title": "漕运总督施世纶奏报米价并回空漕船情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2533",
+ "order_index": 524
+}

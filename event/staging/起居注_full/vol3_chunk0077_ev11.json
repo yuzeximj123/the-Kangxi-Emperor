@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初一日辛酉",
+ "event_role": "人事任免",
+ "summary": "光禄寺卿布占老病致仕员缺，正拟少詹事喇巴、陪拟内阁侍读学士翁英，康熙帝询问后命九卿、詹事、科、道会同选择贤能之人具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "喇巴",
+   "role": "少詹事"
+  },
+  {
+   "name": "翁英",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "布占",
+   "role": "光禄寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7711,
+ "page_range": "189-190"
+}

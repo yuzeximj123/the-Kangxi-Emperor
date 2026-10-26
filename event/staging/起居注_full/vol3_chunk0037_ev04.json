@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题高忠等三人骑马抢夺旗下人巴尔拟立斩，康熙帝令查照秋后票签。",
+ "people": [
+  {
+   "name": "高忠",
+   "role": "强盗"
+  },
+  {
+   "name": "巴尔",
+   "role": "旗下人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺义县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3704,
+ "page_range": "109-110"
+}

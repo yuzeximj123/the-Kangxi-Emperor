@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "二十四日",
+ "event_role": "司法案件",
+ "summary": "刑部题讨债殴杀人命之常代拟缓决，康熙以其伯叔俱已阵亡，着从宽免其缓决发往黑龙江。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常代",
+   "role": "犯人"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17812,
+ "page_range": "366-367"
+}

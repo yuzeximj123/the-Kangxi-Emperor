@@ -1,0 +1,33 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "于成龙奏陈保定府原任知府王兴元一案系前任之事且在赦前，康熙帝询问其居官如何。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  },
+  {
+   "name": "王兴元",
+   "role": "原任知府"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保定府",
+  "黄州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3704,
+ "page_range": "84-85"
+}

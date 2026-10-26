@@ -1,0 +1,50 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十三日己亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝评李林隆优长、居官不下金世隆，刘虎、李芳述皆可用，岳异龙非良流，待张鹏副将至看其言。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李林隆",
+   "role": "官员"
+  },
+  {
+   "name": "金世隆",
+   "role": "官员"
+  },
+  {
+   "name": "刘虎",
+   "role": "官员"
+  },
+  {
+   "name": "李芳述",
+   "role": "官员"
+  },
+  {
+   "name": "岳异龙",
+   "role": "官员"
+  },
+  {
+   "name": "张鹏",
+   "role": "副将"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2111,
+ "page_range": "52-53"
+}

@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙四十七年十二月初三日",
+ "reign_year": 47,
+ "month": 12,
+ "day": 3,
+ "event_role": "请安谢恩",
+ "summary": "贵州巡抚陈诜奏谢皇上蠲免其家乡浙江等地四十八年额征地丁银两，表达乡民感戴圣恩之情。",
+ "people": [
+  {
+   "name": "陈诜",
+   "role": "贵州巡抚，奏折作者"
+  }
+ ],
+ "places": [
+  "贵州",
+  "湖北",
+  "川东",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "貴州巡撫陳詵奏謝免桑梓地丁銀兩摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "428",
+ "order_index": 91
+}

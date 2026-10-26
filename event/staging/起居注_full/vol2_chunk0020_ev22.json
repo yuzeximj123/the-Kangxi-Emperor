@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十三日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "议浙江巡抚李本晟请雇民船供应撤回兵及耿精忠家口事，康熙帝以刻下急需船只为期甚近而有所指示。",
+ "people": [
+  {
+   "name": "李本晟",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "耿精忠",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2022,
+ "page_range": "83-84"
+}

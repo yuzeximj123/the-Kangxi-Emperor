@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初五日王成",
+ "event_role": "军务",
+ "summary": "陕西总督哈占奏将军吴丹调取标兵事，康熙帝命大将军、将军、总督会同速行确议具奏。",
+ "people": [
+  {
+   "name": "哈占",
+   "role": "陕西总督"
+  },
+  {
+   "name": "吴丹",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24706,
+ "page_range": "551-552"
+}

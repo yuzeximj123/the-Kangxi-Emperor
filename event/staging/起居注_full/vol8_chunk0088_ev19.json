@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十六日癸巳",
+ "event_role": "人事任免",
+ "summary": "总兵王凤年老乞休议准，又请入苏州府崇明县籍，康熙帝准其入崇明县籍。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王凤",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "河南",
+  "江南苏州府崇明县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8819,
+ "page_range": "187-188"
+}

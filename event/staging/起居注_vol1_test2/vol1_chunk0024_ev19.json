@@ -1,0 +1,22 @@
+{
+ "reign_year": 11,
+ "month": 9,
+ "day_text": "初五日丁丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝过遵化县，命遵化县官兵于西门外陈列以观，三屯营、迁安县文武各官来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "遵化县",
+  "三屯营",
+  "迁安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2419,
+ "page_range": "105-106"
+}

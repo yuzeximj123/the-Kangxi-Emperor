@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "二十一日戊申",
+ "event_role": "人事任免",
+ "summary": "大学士伊桑阿、马齐会同八旗都统选择昭陵总管员缺，引见觉罗托罗科等，康熙命补授觉罗托罗科。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "觉罗托罗科",
+   "role": "护军参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "昭陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19513,
+ "page_range": "400-401"
+}

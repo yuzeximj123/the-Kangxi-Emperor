@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初二日甲戌",
+ "event_role": "司法案件",
+ "summary": "宗人府议固山贝子章泰等功罪相抵事，康熙帝认为其恢复云南省城等功可嘉应仍议叙，巴尔布等从轻议处不合，着再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章泰",
+   "role": "固山贝子"
+  },
+  {
+   "name": "巴尔布",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "云南",
+  "归化寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17004,
+ "page_range": "383-384"
+}

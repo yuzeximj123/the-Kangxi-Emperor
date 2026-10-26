@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十一年",
+ "reign_year": 51,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "闽浙总督范时崇上摺向康熙皇帝请安，朱批告知皇帝安好，并提及近日听闻章京一带又有贼情消息，尚不确定。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督降五级戴罪効力臣，上摺请安者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "章京"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "皇帝表示自己安好，并称近日听闻章京又有贼信，未知是否属实。",
+ "source_title": "閩浙總督范時崇奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1162",
+ "order_index": 163
+}

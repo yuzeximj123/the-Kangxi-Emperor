@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 8,
+ "day_text": "二十四日王午",
+ "event_role": "谕旨决策",
+ "summary": "户部题巡抚郑端丈量湖南荒熟田地不合，康熙帝令九卿会议此案。",
+ "people": [
+  {
+   "name": "郑端",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12819,
+ "page_range": "268-269"
+}

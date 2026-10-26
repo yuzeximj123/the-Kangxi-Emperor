@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "十七日辛丑",
+ "event_role": "人事任免",
+ "summary": "吏部题升补道府，康熙准柏成栋等依拟用，并因江宁、安庆二府知府员缺紧要，命吏部选择升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "柏成栋",
+   "role": "拟升道府官员"
+  }
+ ],
+ "places": [
+  "江宁",
+  "安庆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14503,
+ "page_range": "300-301"
+}

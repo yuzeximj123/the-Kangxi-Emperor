@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "大学士奏察原任尚书姚文然、陈数永祭文事，康熙帝评姚文然效力尽职、陈数永无过人劳绩，命祭文稍从优另拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚文然",
+   "role": "原任尚书"
+  },
+  {
+   "name": "陈数永",
+   "role": "原任尚书"
+  },
+  {
+   "name": "郭四海",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17304,
+ "page_range": "389-390"
+}

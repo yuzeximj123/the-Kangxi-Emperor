@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十三年四月十九日",
+ "reign_year": 43,
+ "month": 4,
+ "day": 19,
+ "event_role": "军务",
+ "summary": "曹寅奏报江宁官民闻平定噶尔丹捷报后建醮庆祝并请圣安",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "朝天宫"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙自述亲统六师北征噶尔丹，旬有三日尽灭厄鲁特，归功上天眷祐",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "10",
+ "source_title": "江宁织造曹寅奏贺平定噶尔丹折",
+ "order_index": 8
+}

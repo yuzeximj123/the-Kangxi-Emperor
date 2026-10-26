@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "初九日丙辰",
+ "event_role": "军务",
+ "summary": "广西巡抚郝浴题抚标之兵不可裁减，康熙帝依议并命严治虚冒充数之弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郝浴",
+   "role": "广西巡抚"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12008,
+ "page_range": "283-284"
+}

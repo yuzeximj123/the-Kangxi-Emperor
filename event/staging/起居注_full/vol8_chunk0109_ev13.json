@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "初四日丙实",
+ "event_role": "谕旨决策",
+ "summary": "户部覆奏右卫将军费扬古奏销公库银数不符，康熙帝令依议，出征官兵所借银两暂停扣除，军务完日奏闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "右卫将军宗室"
+  }
+ ],
+ "places": [
+  "右卫",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10913,
+ "page_range": "229-230"
+}

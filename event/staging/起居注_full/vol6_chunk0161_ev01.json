@@ -1,0 +1,21 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": "初九日康子",
+ "event_role": "议政听政",
+ "summary": "康熙帝在畅春园内洲宁居听政，部院各衙门官员面奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16101,
+ "page_range": "332-333"
+}

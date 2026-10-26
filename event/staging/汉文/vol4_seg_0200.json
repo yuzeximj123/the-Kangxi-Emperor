@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十一年二月十六日",
+ "reign_year": 51,
+ "month": 2,
+ "day": 16,
+ "event_role": "奏报地方情形",
+ "summary": "江西巡抚郎廷极奏报沿海拖风船接应海贼、请敕督提整饬严禁，并陈明因救饥民情急、差家人赍折从邮传奏闻。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚，奏报人"
+  },
+  {
+   "name": "郭世隆",
+   "role": "前督臣，曾严禁饬改拖风船"
+  },
+  {
+   "name": "佐领",
+   "role": "郎廷极之子，赍承差奏"
+  }
+ ],
+ "places": [
+  "江西",
+  "碣石镇",
+  "南澳镇",
+  "广东"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江西巡抚郎廷极奏报年成雨水米价折（康熙五十一年二月十六日）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 200
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问汉大臣意见，陈廷敬等奏强盗断不可恕，情有可疑者法外施仁可宽免一二人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "汉大臣"
+  },
+  {
+   "name": "汤斌",
+   "role": "汉大臣"
+  },
+  {
+   "name": "梁清标",
+   "role": "汉大臣"
+  },
+  {
+   "name": "张玉书",
+   "role": "汉大臣"
+  },
+  {
+   "name": "王日藻",
+   "role": "汉大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23009,
+ "page_range": "495-496"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就地方官员浮冒开奏及草价定价事询问席格，命在大兵驻扎处详定草价。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席格",
+   "role": "官员"
+  },
+  {
+   "name": "傅弘烈",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22200,
+ "page_range": "501-502"
+}

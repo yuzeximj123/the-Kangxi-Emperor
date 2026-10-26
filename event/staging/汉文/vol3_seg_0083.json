@@ -1,0 +1,42 @@
+{
+ "date_raw": "康熙五十年十二月二十日",
+ "reign_year": 50,
+ "month": 12,
+ "day": 3,
+ "event_role": "弹劾参奏",
+ "summary": "直隶巡抚赵弘燮奏报前守道亏空库银，已令其子李耀泰两月内交库完项，若不能完再行题参，并请宽限奏销。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏报人"
+  },
+  {
+   "name": "邵国祚",
+   "role": "署守道"
+  },
+  {
+   "name": "陈维新",
+   "role": "库总书"
+  },
+  {
+   "name": "李耀泰",
+   "role": "前守道之子，交出银两并愿捐交库"
+  },
+  {
+   "name": "李维钧",
+   "role": "直隶巡抚，朱批后署名"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“是”，同意所奏。",
+ "source_title": "直隸巡撫趙弘燮奏請另揀賢能守道摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "1003",
+ "order_index": 83
+}

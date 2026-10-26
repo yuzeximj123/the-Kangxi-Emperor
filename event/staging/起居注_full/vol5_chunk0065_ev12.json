@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "初四日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝闻平阳府地震深为悯恻，已遣官驰驿勘灾、遣大臣赈济并停征钱粮，仍以噶尔图不尽心赈济竟回本省为可恶，令严拟票签。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔图",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6512,
+ "page_range": "140-141"
+}

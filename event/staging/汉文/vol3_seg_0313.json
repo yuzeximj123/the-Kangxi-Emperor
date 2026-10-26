@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十年",
+ "reign_year": 50,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "江南提督师懿德在任守制期间上折恭请皇帝圣安，康熙朱批回复自己安好，并称久未见其奏折、常挂念，询问家人后知悉其安好。",
+ "people": [
+  {
+   "name": "师懿德",
+   "role": "江南提督，上折请安者"
+  },
+  {
+   "name": "佟",
+   "role": "提督江南等处地方总兵官，在任守制"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，久未见师懿德奏折而常挂念，今收到奏折并问及家人，方知他安好。",
+ "source_title": "江南提督師懿德奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "1011",
+ "order_index": 313
+}

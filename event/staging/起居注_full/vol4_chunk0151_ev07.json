@@ -1,0 +1,21 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "十二日丁丁",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸白塔附近黄旗营。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "白塔",
+  "黄旗营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15107,
+ "page_range": "314-315"
+}

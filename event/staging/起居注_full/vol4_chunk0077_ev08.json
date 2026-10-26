@@ -1,0 +1,38 @@
+{
+ "reign_year": 28,
+ "month": 6,
+ "day_text": "二十二日丁雍",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问高尔位其人，伊桑阿等奏其办事优、稍刻，康熙帝命将高尔位补授刑部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高尔位",
+   "role": "候补侍郎"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "迈图",
+   "role": "学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7708,
+ "page_range": "166-167"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 15,
+ "month": 10,
+ "day_text": "初十日己未",
+ "event_role": "祭祀典礼",
+ "summary": "派遣内大臣至明十二陵前，各宣读祭文致祭。",
+ "people": [
+  {
+   "name": "内大臣",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "明十二陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12303,
+ "page_range": "303-304"
+}

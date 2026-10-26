@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十八日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕乾清门侍卫马武，因安城守尉笔帖式寿保射艺精强、人亦颇优，命其家业迁至京城，遇紧要部院衙门试用。",
+ "people": [
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "寿保",
+   "role": "笔帖式"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安城",
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 820,
+ "page_range": "27-28"
+}

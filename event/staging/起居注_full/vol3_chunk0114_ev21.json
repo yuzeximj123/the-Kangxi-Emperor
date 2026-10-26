@@ -1,0 +1,40 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "十六日癸卯",
+ "event_role": "人事任免",
+ "summary": "兵部以温州总兵官康调元调补员缺，或开列参领或开列副将请旨。",
+ "people": [
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "汉大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "汉大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "汉大学士"
+  },
+  {
+   "name": "康调元",
+   "role": "温州总兵官"
+  }
+ ],
+ "places": [
+  "温州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11421,
+ "page_range": "263-264"
+}

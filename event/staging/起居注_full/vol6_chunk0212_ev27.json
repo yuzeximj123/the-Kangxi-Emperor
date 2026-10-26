@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 8,
+ "day_text": "二十三日成实",
+ "event_role": "其他",
+ "summary": "贵州威宁总兵官郭朝政遗蚊具奏，康熙帝命郭朝政家口回籍时给驿站、车辆、马匹。",
+ "people": [
+  {
+   "name": "郭朝政",
+   "role": "贵州威宁总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州威宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21227,
+ "page_range": "434-435"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "二十六日癸酉",
+ "event_role": "人事任免",
+ "summary": "翰林院题补日讲起居注官归允肃给假员缺，开列侍讲学士沈上墉等。",
+ "people": [
+  {
+   "name": "归允肃",
+   "role": "日讲起居注官（给假）"
+  },
+  {
+   "name": "沈上墉",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [
+  "翰林院"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22508,
+ "page_range": "485-486"
+}

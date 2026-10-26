@@ -1,0 +1,27 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "十六日乙卯",
+ "event_role": "贸易漕运",
+ "summary": "福建总督姚启圣题西洋国贸易夹板船遭风漂至铜山、厦门，兵部议察未报各官，康熙令察明发回船只、各官照部议。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  }
+ ],
+ "places": [
+  "香山澳",
+  "铜山",
+  "厦门",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21410,
+ "page_range": "471-472"
+}

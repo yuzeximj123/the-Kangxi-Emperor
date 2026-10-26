@@ -1,0 +1,20 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "二十七日",
+ "event_role": "议政听政",
+ "summary": "议政大臣等奏报察罕诺尔地方环营事宜，请行题明。",
+ "people": [
+  {
+   "name": "议政大臣等",
+   "role": "议政大臣"
+  }
+ ],
+ "places": [
+  "察罕诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11001,
+ "page_range": "230-231"
+}

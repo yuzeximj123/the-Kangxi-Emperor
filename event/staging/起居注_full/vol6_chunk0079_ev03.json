@@ -1,0 +1,33 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "长芦巡盐监督察御史张泰交、运司新训、监督天津关税课主事梁弓、游击陈光几等来朝。",
+ "people": [
+  {
+   "name": "张泰交",
+   "role": "长芦巡盐监督察御史"
+  },
+  {
+   "name": "新训",
+   "role": "运司"
+  },
+  {
+   "name": "梁弓",
+   "role": "监督天津关税课主事"
+  },
+  {
+   "name": "陈光几",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "长芦",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7903,
+ "page_range": "168-169"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十二日丙申",
+ "event_role": "人事任免",
+ "summary": "都察院题御史内升外转，康熙帝以李绍闻为人优命内升，夏景松命外转。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李绍闻",
+   "role": "御史"
+  },
+  {
+   "name": "夏景松",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14010,
+ "page_range": "315-316"
+}

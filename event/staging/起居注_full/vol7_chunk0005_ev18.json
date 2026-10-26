@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十二日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论捐纳事例，谓既已允行不宜复定先小职试用之例，命传问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "前河道总督"
+  }
+ ],
+ "places": [
+  "南河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 518,
+ "page_range": "21-22"
+}

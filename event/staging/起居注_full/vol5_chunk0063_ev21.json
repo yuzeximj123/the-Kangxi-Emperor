@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": "二十一日生子",
+ "event_role": "人事任免",
+ "summary": "吏部题川陕总督乌赫奏革职兰州同知王永壁居官甚善请留任议不准行，康熙帝命照所请留任。",
+ "people": [
+  {
+   "name": "乌赫",
+   "role": "川陕总督"
+  },
+  {
+   "name": "王永壁",
+   "role": "兰州同知"
+  }
+ ],
+ "places": [
+  "兰州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6321,
+ "page_range": "136-137"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初三日己巳",
+ "event_role": "人事任免",
+ "summary": "兵部题镶蓝旗副都统马齐员缺，康熙帝详问后补授奉国将军鄂飞为副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "镶蓝旗副都统"
+  },
+  {
+   "name": "鄂飞",
+   "role": "奉国将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2304,
+ "page_range": "56-57"
+}

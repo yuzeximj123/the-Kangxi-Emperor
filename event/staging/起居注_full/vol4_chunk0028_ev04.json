@@ -1,0 +1,33 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "二十七日己巳",
+ "event_role": "人事任免",
+ "summary": "兵部题高雷廉总兵官陈梦易病故员缺，康熙帝命升张英琦补广东高雷廉总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈梦易",
+   "role": "高雷廉总兵官"
+  },
+  {
+   "name": "张英琦",
+   "role": "侍卫"
+  },
+  {
+   "name": "林魁",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "广东",
+  "高雷廉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2804,
+ "page_range": "68-69"
+}

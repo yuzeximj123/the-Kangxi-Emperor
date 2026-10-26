@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 3,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "内大臣、侍卫、文武三品以上官员齐集福陵，因云南平定、海宇荡平，读祝焚格，大祭宝城，三奠酒举哀。",
+ "people": [
+  {
+   "name": "内大臣",
+   "role": "官员"
+  },
+  {
+   "name": "侍卫",
+   "role": "官员"
+  },
+  {
+   "name": "文武三品以上官员",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "福陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11500,
+ "page_range": "273-274"
+}

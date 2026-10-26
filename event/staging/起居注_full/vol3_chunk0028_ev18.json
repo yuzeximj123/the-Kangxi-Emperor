@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十八日癸未",
+ "event_role": "人事任免",
+ "summary": "未时，康熙帝御乾清门召台湾总兵官杨文魁赐食，谕其抚辑台湾兵民、严辑海舶商贩，杨文魁奏谢。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨文魁",
+   "role": "台湾总兵官"
+  }
+ ],
+ "places": [
+  "台湾",
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2818,
+ "page_range": "91-92"
+}

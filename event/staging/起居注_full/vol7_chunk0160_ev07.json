@@ -1,0 +1,42 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初二日辛卯",
+ "event_role": "人事任免",
+ "summary": "温达等遵旨询问都察院左都御史穆旦等举荐道员内升外转人员，康熙帝命将开列第一人吕履恒内升，外转者停止。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "穆旦",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "俞化较",
+   "role": "道员"
+  },
+  {
+   "name": "张莲",
+   "role": "道员"
+  },
+  {
+   "name": "杨笃生",
+   "role": "道员"
+  },
+  {
+   "name": "吕履恒",
+   "role": "道员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16007,
+ "page_range": "331-332"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "索额图等会议覆奏：多尔即青台吉所属共三百人，请封扎萨克一品台吉，令暂住林木内，给用印部文禁俄罗斯侵掠并移咨俄罗斯。",
+ "people": [
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "多尔即青台吉",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "俄罗斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16903,
+ "page_range": "348-349"
+}

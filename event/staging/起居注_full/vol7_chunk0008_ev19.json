@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十八日庚辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至南郊南红门，率皇太子、诸皇子及善射侍卫射箭，并命迎驾崇明总兵宁卫国及袁瑜等射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "宁卫国",
+   "role": "崇明总兵"
+  },
+  {
+   "name": "袁瑜",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "南郊",
+  "南红门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 819,
+ "page_range": "27-28"
+}

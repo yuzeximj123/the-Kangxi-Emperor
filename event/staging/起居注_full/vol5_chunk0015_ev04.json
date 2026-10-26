@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "初一日戊辰",
+ "event_role": "河工水利",
+ "summary": "康熙帝与伊桑阿等议河间府运河沙土淤塞、霸州等处积水无处流通，令悉心筹画泄水之策。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "沈图",
+   "role": "学士"
+  },
+  {
+   "name": "郭世隆",
+   "role": "巡抚"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "知州"
+  }
+ ],
+ "places": [
+  "河间府",
+  "霸州",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1504,
+ "page_range": "40-41"
+}

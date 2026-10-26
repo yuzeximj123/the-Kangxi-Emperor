@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "十八日于成",
+ "event_role": "司法案件",
+ "summary": "刑部覆江宁巡抚宋荦题强盗傅大等案，康熙帝以部议差论，令九卿、詹事、科、道会议具奏。",
+ "people": [
+  {
+   "name": "宋荦",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "傅大",
+   "role": "强盗"
+  },
+  {
+   "name": "俞大",
+   "role": "强盗"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6117,
+ "page_range": "133-134"
+}

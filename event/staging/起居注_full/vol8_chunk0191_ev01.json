@@ -1,0 +1,21 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": "二十八日季子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝抵达热河，驻跸行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "热河",
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19101,
+ "page_range": "393-394"
+}

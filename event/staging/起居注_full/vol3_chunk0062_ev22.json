@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初九日庚子",
+ "event_role": "人事任免",
+ "summary": "翰林院题补日讲官董讷等升任员缺，康熙帝令会同翰林院学士简选材品优长、学问淹通者具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董讷",
+   "role": "日讲官"
+  },
+  {
+   "name": "朱典",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6222,
+ "page_range": "159-160"
+}

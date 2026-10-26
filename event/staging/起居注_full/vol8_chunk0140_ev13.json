@@ -1,0 +1,34 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "初七日丙申",
+ "event_role": "人事任免",
+ "summary": "翰林院题经筵讲官噶敏图、日讲官萨哈布员缺，开列孙柱、常寿等职名请旨，康熙帝命问明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶敏图",
+   "role": "经筵讲官"
+  },
+  {
+   "name": "萨哈布",
+   "role": "日讲官"
+  },
+  {
+   "name": "孙柱",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "常寿",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14013,
+ "page_range": "291-292"
+}

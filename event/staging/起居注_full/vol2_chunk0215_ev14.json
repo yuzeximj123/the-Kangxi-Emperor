@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "十八日己巳",
+ "event_role": "谕旨决策",
+ "summary": "明珠奏与九卿再议刑部事件稽迟，请立行提人犯限期，康熙帝命严加议处违限地方官。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21514,
+ "page_range": "473-474"
+}

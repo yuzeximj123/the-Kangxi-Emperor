@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初六日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝因天象示异，命大学士勒德洪等传集九卿、詹事、科道至中左门，令各抒所见奏陈。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "中左门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2607,
+ "page_range": "95-96"
+}

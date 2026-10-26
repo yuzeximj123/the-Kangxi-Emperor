@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初一日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "覆请两广总督赵弘灿所题原任粮储道张天觉应赔缺少盐斤银两逾限未赔一事，康熙帝令展限二年赔完。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督"
+  },
+  {
+   "name": "张天觉",
+   "role": "原任粮储道"
+  },
+  {
+   "name": "周旋耀",
+   "role": "原商"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18709,
+ "page_range": "385-386"
+}

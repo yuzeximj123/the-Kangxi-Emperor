@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部题总兵周球标下周彬等七人在永兴有血战功，康熙命于议叙满洲官兵之日一并议叙。",
+ "people": [
+  {
+   "name": "周球",
+   "role": "总兵"
+  },
+  {
+   "name": "周彬",
+   "role": "周球标下"
+  }
+ ],
+ "places": [
+  "永兴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19302,
+ "page_range": "429-430"
+}

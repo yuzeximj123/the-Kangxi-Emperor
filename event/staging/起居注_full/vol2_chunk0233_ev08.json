@@ -1,0 +1,40 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十四日辛酉",
+ "event_role": "人事任免",
+ "summary": "会推江西按察使员缺，九卿举孙兰，康熙帝命补授按察使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李天栈",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "李仙根",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "孙兰",
+   "role": "被举官员"
+  },
+  {
+   "name": "科尔坤",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23308,
+ "page_range": "509-510"
+}

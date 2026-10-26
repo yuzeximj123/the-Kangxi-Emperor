@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十六日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝问郭苯汉学士如何，明珠称其良人；帝谕学士应尽言公事，斥两汉学士默不言、退有后言。",
+ "people": [
+  {
+   "name": "郭苯",
+   "role": "学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王钠",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20308,
+ "page_range": "441-442"
+}

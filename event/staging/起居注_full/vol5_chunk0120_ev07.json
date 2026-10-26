@@ -1,0 +1,27 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "费扬古奏报宁夏兵至乌兰厄尔几后或一路或两路进兵，会议定后具奏，若仍不至则初十日起程前往土喇。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "内大臣伯"
+  },
+  {
+   "name": "商南多尔",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乌兰厄尔几",
+  "土喇",
+  "阿喇克山",
+  "克勒和凑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12007,
+ "page_range": "250-251"
+}

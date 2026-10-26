@@ -1,0 +1,36 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部汇题王费绪控告曹远芳等冒认其父王新命为开户人诈银，康熙论养子富贵贫落之事，令进京时与九卿会议禁止此类。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "原任总河"
+  },
+  {
+   "name": "王费绪",
+   "role": "王新命之子"
+  },
+  {
+   "name": "曹远芳",
+   "role": "被告"
+  },
+  {
+   "name": "把叙",
+   "role": "起居注官左都御史"
+  },
+  {
+   "name": "敦拜",
+   "role": "书房首领"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2803,
+ "page_range": "67-68"
+}

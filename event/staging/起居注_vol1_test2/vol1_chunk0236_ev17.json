@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十一日庚辰",
+ "event_role": "司法案件",
+ "summary": "刑部议民韩容妄行条奏应并妻子发遣奉天，康熙帝以其愚民无知妄奏，姑从宽免其流徙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩容",
+   "role": "民"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23617,
+ "page_range": "529-530"
+}

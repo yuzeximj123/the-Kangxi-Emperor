@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十六日癸巳",
+ "event_role": "军务",
+ "summary": "兵部汇题总兵金弘振有海贼八案议罚，康熙帝疑广东海贼何至如此多，令查明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金弘振",
+   "role": "总兵官升任副都统"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8818,
+ "page_range": "187-188"
+}

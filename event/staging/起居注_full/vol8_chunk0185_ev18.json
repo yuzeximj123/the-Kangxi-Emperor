@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "初七日辛卯",
+ "event_role": "司法案件",
+ "summary": "覆请将王五谋杀之任二照律拟斩，助力之王五之媳卢氏、雇工张某一案请旨。",
+ "people": [
+  {
+   "name": "王五",
+   "role": "罪犯"
+  },
+  {
+   "name": "任二",
+   "role": "被害人"
+  },
+  {
+   "name": "卢氏",
+   "role": "王五之媳"
+  },
+  {
+   "name": "张某",
+   "role": "雇工"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18518,
+ "page_range": "381-382"
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "十九日壬戌",
+ "event_role": "人事任免",
+ "summary": "吏部题浙江总督员缺，康熙帝采纳明珠等荐举，命山东巡抚施维翰补授浙江总督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "施维翰",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "余国柱",
+   "role": "官员"
+  },
+  {
+   "name": "张士标",
+   "role": "吏部侍郎"
+  }
+ ],
+ "places": [
+  "浙江",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15721,
+ "page_range": "357-358"
+}

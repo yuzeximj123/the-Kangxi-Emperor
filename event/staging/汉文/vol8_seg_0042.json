@@ -1,0 +1,42 @@
+{
+ "date_raw": "康熙五十七年四月初三日",
+ "reign_year": 57,
+ "month": 4,
+ "day": 3,
+ "event_role": "军务",
+ "summary": "法几与年羹尧奏报整顿四川提标营伍积弊，清查空粮公费，召募补额，并请调汉侍卫、千总赴川补用。",
+ "people": [
+  {
+   "name": "法几",
+   "role": "料理四川军务都统"
+  },
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "康泰",
+   "role": "前提臣"
+  },
+  {
+   "name": "盖藩",
+   "role": "年羹尧家人，赍折人"
+  },
+  {
+   "name": "王宾",
+   "role": "年羹尧标下右营马兵，赍折人"
+  }
+ ],
+ "places": [
+  "四川",
+  "成都",
+  "松潘"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称此折所奏甚足，表示知道了。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 42
+}

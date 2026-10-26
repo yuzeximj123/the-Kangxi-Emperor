@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 4,
+ "day_text": "二十日己未",
+ "event_role": "其他",
+ "summary": "康熙帝御前殿，讲官傅达礼、史鹤龄、编修张英进讲《论语》一章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "讲官"
+  },
+  {
+   "name": "史鹤龄",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "编修"
+  }
+ ],
+ "places": [
+  "前殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4133,
+ "page_range": "139-140"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十六日戊辰",
+ "event_role": "其他",
+ "summary": "行唐县百姓闻圣驾远临，路献萝卜、蔬菜、小猪、鸡鸭等物，康熙帝令各取少许葡萄、萝卜，余物不收。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  }
+ ],
+ "places": [
+  "行唐县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 618,
+ "page_range": "23-24"
+}

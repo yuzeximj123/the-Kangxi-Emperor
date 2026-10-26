@@ -1,0 +1,34 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "谕旨决策",
+ "summary": "臣玉抚上奏，援引前代及先臣旧事，恳请康熙皇帝早定储位以固国本，并请求保密以免招祸。",
+ "people": [
+  {
+   "name": "玉抚",
+   "role": "上奏官员（自称臣）"
+  },
+  {
+   "name": "明神宗",
+   "role": "前代皇帝，引为储位未定之例"
+  },
+  {
+   "name": "蓝廷生",
+   "role": "写奏者（臣廷孙）"
+  },
+  {
+   "name": "王敬绪",
+   "role": "写奏者"
+  }
+ ],
+ "places": [],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "玉抚奏储位事",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 518
+}

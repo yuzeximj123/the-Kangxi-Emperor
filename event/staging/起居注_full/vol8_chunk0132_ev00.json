@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就密云县存米处置下旨，令将仓场衙门运去一万石米中卖出千石。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "密云县",
+  "仓场衙门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13200,
+ "page_range": "275-276"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 17,
+ "month": 10,
+ "day_text": "初七日甲成",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝于辰时诣太皇太后行宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17035,
+ "page_range": "397-398"
+}

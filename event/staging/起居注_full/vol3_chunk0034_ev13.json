@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "十一日乙效",
+ "event_role": "河工水利",
+ "summary": "工部题总河靳辅奏请奏销香河县搬圭口筑修堤岸银两议准行，康熙帝以修筑价值过多命工部贤能司官一员前去详察具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "香河县",
+  "搬圭口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3413,
+ "page_range": "103-104"
+}

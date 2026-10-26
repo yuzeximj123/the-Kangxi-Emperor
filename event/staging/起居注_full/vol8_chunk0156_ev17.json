@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "二十四日庚辰",
+ "event_role": "人事任免",
+ "summary": "科尔沁多罗郡王阿拉萍坦王爵承袭事，康熙帝以伊子年幼命伊弟罗普藏拉什承袭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿拉萍坦",
+   "role": "科尔沁多罗郡王"
+  },
+  {
+   "name": "色布腾多和尔济",
+   "role": "阿拉萍坦之子"
+  },
+  {
+   "name": "罗普藏拉什",
+   "role": "阿拉萍坦之弟"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15617,
+ "page_range": "323-324"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "江南江西总督范承勋题泗州已被灾，请照海州例宽免粮税，康熙准照所请行。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "泗州",
+  "海州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3302,
+ "page_range": "76-77"
+}

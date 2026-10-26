@@ -1,0 +1,20 @@
+{
+ "reign_year": 10,
+ "month": 10,
+ "day_text": "初八日丙戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸三台堡。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三台堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 134,
+ "page_range": "59-60"
+}

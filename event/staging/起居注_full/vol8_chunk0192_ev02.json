@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请直隶巡抚赵弘党所题周作新与赵廷珠角口互殴、赵廷珠镰刀中周作新后胁越二十一日身死一案，康熙令赵廷珠从宽免死减等发落。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "总督管理直隶巡抚事务"
+  },
+  {
+   "name": "周作新",
+   "role": "死者"
+  },
+  {
+   "name": "赵廷珠",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19202,
+ "page_range": "395-396"
+}

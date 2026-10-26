@@ -1,0 +1,21 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部议裁浮元道缺，康熙命宣府口北道不必裁，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神木",
+  "宣府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15200,
+ "page_range": "314-315"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "詹事府题设东宫讲官，开列满汉官员，康熙帝询问明珠等酌议后，命尹泰、舒书为满洲讲官，汤斌、邵蔡为汉讲官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "尹泰",
+   "role": "詹事"
+  },
+  {
+   "name": "郭茜",
+   "role": "詹事"
+  },
+  {
+   "name": "舒书",
+   "role": "讲官"
+  },
+  {
+   "name": "汤斌",
+   "role": "讲官"
+  },
+  {
+   "name": "邵蔡",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15801,
+ "page_range": "351-352"
+}

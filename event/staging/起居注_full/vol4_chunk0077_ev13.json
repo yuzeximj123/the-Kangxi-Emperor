@@ -1,0 +1,36 @@
+{
+ "reign_year": 28,
+ "month": 6,
+ "day_text": "二十五日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕王国安奉天为根本重地，闲民多务农少，令劝民务农、严察光棍游手，并论旗下地亩给百姓耕种之议浅陋。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国安",
+   "role": "奉天府府尹"
+  },
+  {
+   "name": "金世鉴",
+   "role": "官员"
+  },
+  {
+   "name": "赛肠汉",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "额齐礼",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7713,
+ "page_range": "166-167"
+}

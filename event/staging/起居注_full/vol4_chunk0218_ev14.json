@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "十五日己丑",
+ "event_role": "司法案件",
+ "summary": "吏部尚书库勒纳等审贵州巡抚卫既齐轻行用兵事，议革职。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "卫既齐",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21814,
+ "page_range": "448-449"
+}

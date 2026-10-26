@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十九日丙申",
+ "event_role": "朝见受贺",
+ "summary": "赐朝鲜王李灶所差冬至正朝万寿节及年贡正使晋平君李泽、副使权情等鞍马、貂皮、银币有差。",
+ "people": [
+  {
+   "name": "李灶",
+   "role": "朝鲜王"
+  },
+  {
+   "name": "李泽",
+   "role": "正使晋平君"
+  },
+  {
+   "name": "权情",
+   "role": "副使礼曹判书"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8915,
+ "page_range": "189-190"
+}

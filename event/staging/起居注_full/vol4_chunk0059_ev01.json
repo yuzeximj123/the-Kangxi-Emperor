@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙论及叶映榴在楚省兵哗时尽节捐躯，见其子叶旉迎伏道左，命诸臣会议优恤表彰。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶映榴",
+   "role": "原任湖广粮道"
+  },
+  {
+   "name": "叶旉",
+   "role": "叶映榴之子"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5901,
+ "page_range": "130-131"
+}

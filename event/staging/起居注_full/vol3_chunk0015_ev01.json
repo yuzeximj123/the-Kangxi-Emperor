@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部题江宁巡抚余国柱请增造宽机房屋，部覆驳回察议，康熙帝以非常用物、劳民糜费为由命停止增造。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "余国柱",
+   "role": "江宁巡抚"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1501,
+ "page_range": "65-66"
+}

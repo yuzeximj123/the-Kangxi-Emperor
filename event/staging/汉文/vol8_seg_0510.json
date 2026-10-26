@@ -1,0 +1,30 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "收到奏折",
+ "summary": "李光地奏报正在细加磨勘朱子全书，改正重复参错之处，并先行缮写乐律进呈御览，请求圣明裁定。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "奏进朱子全书乐律的臣子"
+  },
+  {
+   "name": "朱子",
+   "role": "朱子全书作者"
+  },
+  {
+   "name": "王",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批表示书留下了，诗二首与大学士王一同校看。",
+ "source_title": "李光地奏进朱子全书乐律",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 510
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十一日",
+ "event_role": "司法案件",
+ "summary": "吏部议候补科道许承宣验到日期较咨送迟一日，照外官规避例革职；明珠、李霨、杜立德奏京官无规避之例，部议未当，康熙帝然其言。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  },
+  {
+   "name": "许承宣",
+   "role": "候补科道"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 908,
+ "page_range": "61-62"
+}

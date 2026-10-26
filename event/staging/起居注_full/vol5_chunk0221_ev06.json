@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十二日王寅",
+ "event_role": "弹劾参奏",
+ "summary": "兵部督捕左侍郎席煌图移咨行在兵部称事毕回京，康熙帝以其理应请旨而径云回京殊属不合。",
+ "people": [
+  {
+   "name": "席煌图",
+   "role": "兵部督捕左侍郎"
+  },
+  {
+   "name": "哈雅尔图",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "泳州",
+  "大井",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22106,
+ "page_range": "452-453"
+}

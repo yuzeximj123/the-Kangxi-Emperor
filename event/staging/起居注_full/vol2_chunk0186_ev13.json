@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初九日辛巳",
+ "event_role": "弹劾参奏",
+ "summary": "大学士李需因族弟李霨侵占民田引咎自陈，康熙帝询问票签两拟缘由，命将原拟票签仍行送入。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "李需族弟"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18613,
+ "page_range": "415-416"
+}

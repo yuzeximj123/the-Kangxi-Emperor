@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十二日乙刻",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝顾大学士等言汤斌奏凤阳、徐州百姓岁荒无收饥馑已甚，应速行赈济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "凤阳",
+  "徐州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16214,
+ "page_range": "359-360"
+}

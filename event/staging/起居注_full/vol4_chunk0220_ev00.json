@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝记起有人奏报管竭忠居官善状，命补授其为开封知府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "管竭忠",
+   "role": "候补知府，补授开封知府"
+  }
+ ],
+ "places": [
+  "开封"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22000,
+ "page_range": "452-453"
+}

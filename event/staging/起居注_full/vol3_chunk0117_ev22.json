@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "二十三日庚戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论三工并举恐难告竣，黄河两岸宜少缓，令靳辅交事务后同于成龙驰驿来京会议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "于成龙",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11722,
+ "page_range": "269-270"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请兵部尚书赵弘灿员缺，康熙帝命范时崇补授兵部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "梁世勋",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "范时崇",
+   "role": "兵部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18701,
+ "page_range": "385-386"
+}

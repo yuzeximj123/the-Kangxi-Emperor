@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "二十二日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补光禄寺寻郎奇员缺，康熙帝令学士穆和伦兼理光禄寺事务。",
+ "people": [
+  {
+   "name": "音查纳",
+   "role": "内阁侍读学士拟正"
+  },
+  {
+   "name": "魏齐",
+   "role": "翰林院侍读学士拟陪"
+  },
+  {
+   "name": "穆和伦",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6204,
+ "page_range": "135-136"
+}

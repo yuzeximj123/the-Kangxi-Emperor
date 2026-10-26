@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十五日壬午",
+ "event_role": "谕旨决策",
+ "summary": "大学士进呈招抚董重民敕书稿，康熙帝称佳，命招抚吴应蛮等敕书一并给发并用宝颁发。",
+ "people": [
+  {
+   "name": "董重民",
+   "role": "招抚对象"
+  },
+  {
+   "name": "吴应蛮",
+   "role": "招抚对象"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25216,
+ "page_range": "561-562"
+}

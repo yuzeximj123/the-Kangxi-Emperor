@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十三日吴印",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕议政大臣，若以于成龙等所运余米给黑龙江兵，恐费扬古、马思喀相竞，此兵若无事相应撤去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "于成龙",
+   "role": "运米官"
+  },
+  {
+   "name": "马思喀",
+   "role": "将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22108,
+ "page_range": "452-453"
+}

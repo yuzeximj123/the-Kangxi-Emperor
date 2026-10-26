@@ -1,0 +1,33 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "初七日丙申",
+ "event_role": "朝见受贺",
+ "summary": "雄县驻防协领噶尔泰等、知县沈泽英、新城县知县曹蓝、把总王映搬来朝。",
+ "people": [
+  {
+   "name": "噶尔泰",
+   "role": "雄县驻防协领"
+  },
+  {
+   "name": "沈泽英",
+   "role": "雄县知县"
+  },
+  {
+   "name": "曹蓝",
+   "role": "新城县知县"
+  },
+  {
+   "name": "王映搬",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "雄县",
+  "新城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9419,
+ "page_range": "199-200"
+}

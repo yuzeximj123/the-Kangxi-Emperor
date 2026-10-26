@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "二十日王申",
+ "event_role": "人事任免",
+ "summary": "吏部题请督捕左理事官卫执萍升任员缺，拟以右理事官钱廷转补，钱廷员缺拟升通政使司左参议李绍闻。",
+ "people": [
+  {
+   "name": "卫执萍",
+   "role": "督捕左理事官"
+  },
+  {
+   "name": "钱廷",
+   "role": "右理事官"
+  },
+  {
+   "name": "李绍闻",
+   "role": "通政使司左参议"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17502,
+ "page_range": "385-386"
+}

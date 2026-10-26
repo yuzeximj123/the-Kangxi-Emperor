@@ -1,0 +1,38 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "陕西巡抚永泰题神木营副将许世隆员缺请以张凤仪调补，康熙帝命来引见并查前提督江琦所题之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "永泰",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "许世隆",
+   "role": "神木营副将"
+  },
+  {
+   "name": "张凤仪",
+   "role": "遵关副将"
+  },
+  {
+   "name": "江琦",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "神木营",
+  "遵关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2112,
+ "page_range": "53-54"
+}

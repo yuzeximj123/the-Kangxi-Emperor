@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题湖广等处游击九缺拟补韩良辅等九人，康熙命韩良辅调补延绥总兵标下中军游击、文廷调补湖广总兵标下右营游击。",
+ "people": [
+  {
+   "name": "韩良辅",
+   "role": "候补游击"
+  },
+  {
+   "name": "文廷",
+   "role": "官员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "延绥",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 406,
+ "page_range": "18-19"
+}

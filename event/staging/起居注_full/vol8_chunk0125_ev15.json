@@ -1,0 +1,22 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "二十二日甲申",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙自汤泉至畅春园，诣镜峰问安，驻足畅春园。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汤泉",
+  "畅春园",
+  "镜峰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12515,
+ "page_range": "261-262"
+}

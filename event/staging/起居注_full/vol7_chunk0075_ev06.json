@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官为满保、杨玉。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "起居注官"
+  },
+  {
+   "name": "杨玉",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7506,
+ "page_range": "161-162"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "初一日丙子",
+ "event_role": "人事任免",
+ "summary": "吏部题请将粮道张仲信等十员司道内升开列，康熙帝询问并令将司道官概查开列具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张仲信",
+   "role": "粮道"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "汪查",
+   "role": "河南知府"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20901,
+ "page_range": "430-431"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝就下河海口开浚事，命于成龙、萨木哈、穆成格同九卿、詹事及掌印科道再加详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "大臣"
+  },
+  {
+   "name": "萨木哈",
+   "role": "大臣"
+  },
+  {
+   "name": "穆成格",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "海口",
+  "高邮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13800,
+ "page_range": "311-312"
+}

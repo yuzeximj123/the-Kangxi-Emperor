@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "二十九日丁亥",
+ "event_role": "其他",
+ "summary": "康熙帝赐大学士温达、张玉书纵、鸡子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16717,
+ "page_range": "345-346"
+}

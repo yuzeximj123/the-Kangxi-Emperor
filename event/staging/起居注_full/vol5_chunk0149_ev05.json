@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院左副都御史席米图员缺，康熙帝命将各部郎中等官开列具奏，并革职莫里溥。",
+ "people": [
+  {
+   "name": "席米图",
+   "role": "都察院左副都御史"
+  },
+  {
+   "name": "莫里溥",
+   "role": "通政使拟升"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14905,
+ "page_range": "308-309"
+}

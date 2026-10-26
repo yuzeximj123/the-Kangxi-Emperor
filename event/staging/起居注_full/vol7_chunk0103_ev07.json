@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "初一日戊子",
+ "event_role": "起居注官记录",
+ "summary": "记是日起居注官为挨叙、史亏。",
+ "people": [
+  {
+   "name": "挨叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "史亏",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10307,
+ "page_range": "217-218"
+}

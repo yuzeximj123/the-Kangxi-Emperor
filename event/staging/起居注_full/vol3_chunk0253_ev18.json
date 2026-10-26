@@ -1,0 +1,21 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": "二十五日庚子",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，听政毕返回慈宁宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "慈宁宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25318,
+ "page_range": "541-542"
+}

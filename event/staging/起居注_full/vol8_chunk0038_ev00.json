@@ -1,0 +1,23 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部等衙门议拨江南捐米二十万石、浙江十万石交水师营运往广东，康熙令浙江米留浙备用，江南米分运福建、广东各五万石平价粜卖。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南省",
+  "浙江省",
+  "广东省",
+  "福建省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3800,
+ "page_range": "87-88"
+}

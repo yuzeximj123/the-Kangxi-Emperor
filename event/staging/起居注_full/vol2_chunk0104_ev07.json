@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "初九日了已",
+ "event_role": "朝见受贺",
+ "summary": "辰时，康熙帝至太皇太后宫，率诸王以下满汉文武二品以上官员进献庆贺太皇太后七十万寿的金银缎匹等物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "受贺者"
+  }
+ ],
+ "places": [
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10407,
+ "page_range": "251-252"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "十三日已已",
+ "event_role": "人事任免",
+ "summary": "康熙帝召佟国维、费扬古，谕授原都统鄂蔓、内大臣坤巴图鲁为散秩内大臣，优恤年老故旧。",
+ "people": [
+  {
+   "name": "佟国维",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "费扬古",
+   "role": "伯"
+  },
+  {
+   "name": "鄂蔓",
+   "role": "原任都统"
+  },
+  {
+   "name": "坤巴图鲁",
+   "role": "内大臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "内殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12118,
+ "page_range": "277-278"
+}

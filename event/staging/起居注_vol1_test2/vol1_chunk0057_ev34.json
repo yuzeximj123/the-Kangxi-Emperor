@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 10,
+ "day_text": "二十四日庚申",
+ "event_role": "人事任免",
+ "summary": "康熙帝未时复御乾清门，陕西总督哈占陛辞，命照常赏赐外加赐内厩鞍马一匹、表里六匹，哈占奏谢圣恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈占",
+   "role": "陕西总督"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5734,
+ "page_range": "171-172"
+}

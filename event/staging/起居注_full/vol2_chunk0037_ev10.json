@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初七日辛卯",
+ "event_role": "人事任免",
+ "summary": "兵部议巩华城守备李华请守皇后陵寝不允行事，康熙帝嘉其自效，命于额设守陵绿旗官员外加以应升职衔效用。",
+ "people": [
+  {
+   "name": "李华",
+   "role": "巩华城守备"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巩华城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3710,
+ "page_range": "117-118"
+}

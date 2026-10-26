@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "二十一日壬辰",
+ "event_role": "人事任免",
+ "summary": "吏部题詹事府少詹陈元龙员缺，拟以侍读学士史世补，康熙帝以陈元龙在讲官有年、学问颇优，着升补少詹事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈元龙",
+   "role": "少詹事"
+  },
+  {
+   "name": "史世",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8805,
+ "page_range": "187-188"
+}

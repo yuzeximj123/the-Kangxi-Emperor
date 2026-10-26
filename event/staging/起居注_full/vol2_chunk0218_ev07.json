@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十三日",
+ "event_role": "人事任免",
+ "summary": "吏部题补郎中员缺，康熙帝以常保才能优，命转补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "常保",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "罗达",
+   "role": "员外郎"
+  },
+  {
+   "name": "鄂屯",
+   "role": "员外郎"
+  },
+  {
+   "name": "能特",
+   "role": "刑部员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21807,
+ "page_range": "479-480"
+}

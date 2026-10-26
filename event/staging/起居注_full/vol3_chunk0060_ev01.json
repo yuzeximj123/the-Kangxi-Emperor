@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "衙门议定致祭周公礼仪，拟令撰祭文遣官致祭；康熙帝谕礼宜隆重，遣恭亲王长宁及礼部尚书介山前往致祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "长宁",
+   "role": "和硕恭亲王"
+  },
+  {
+   "name": "介山",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [
+  "周公庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6001,
+ "page_range": "155-156"
+}

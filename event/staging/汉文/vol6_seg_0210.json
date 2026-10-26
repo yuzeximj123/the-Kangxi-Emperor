@@ -1,0 +1,30 @@
+{
+ "date_raw": "十一月十一日",
+ "reign_year": null,
+ "month": 11,
+ "day": 11,
+ "event_role": "奏报地方情形",
+ "summary": "广东巡抚杨琳奏报总督赵弘灿奉旨陛见后由己署理印务，因肇庆为两省要地且时值岁暮，暂驻肇庆并派员巡查交界地方以安民。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "广东巡抚，奏报人，署理总督印务"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "总督，奉旨陛见"
+  }
+ ],
+ "places": [
+  "肇庆",
+  "广东",
+  "广州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "广东巡抚杨琳奏为暂驻肇庆借捐摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 210
+}

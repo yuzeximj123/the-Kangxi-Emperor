@@ -1,0 +1,38 @@
+{
+ "reign_year": 53,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "会审太监侯京骗庄头吴思信银两案，拟绞减等枷号两月、鞭一百；刘展拐骗侯京财物拟徒二年半；郎中陶柱未察改口供降四级抵销；尚书赖都、总管赫奕各降一级。",
+ "people": [
+  {
+   "name": "侯京",
+   "role": "太监"
+  },
+  {
+   "name": "吴思信",
+   "role": "庄头"
+  },
+  {
+   "name": "刘展",
+   "role": "案犯"
+  },
+  {
+   "name": "陶柱",
+   "role": "内务府郎中"
+  },
+  {
+   "name": "赖都",
+   "role": "尚书"
+  },
+  {
+   "name": "赫奕",
+   "role": "内务府总管"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6400,
+ "page_range": "139-140"
+}

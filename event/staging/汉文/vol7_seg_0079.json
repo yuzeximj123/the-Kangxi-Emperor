@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十五年五月十一日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 11,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州米价情形，并进呈晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "苏州织造李煦奏报苏州米价并进晴雨录折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 79
+}

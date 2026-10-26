@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "议政王、大臣、九卿会议覆奏，认为吴三桂遗孽及吴应麒等子罪重不可留，应一并正法，明珠入奏，康熙帝准议着即行正法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴三桂",
+   "role": "叛首"
+  },
+  {
+   "name": "吴世璠",
+   "role": "叛首"
+  },
+  {
+   "name": "吴应麒",
+   "role": "叛将"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9702,
+ "page_range": "237-238"
+}

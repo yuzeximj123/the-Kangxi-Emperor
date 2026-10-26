@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "初六日丁巳",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕刘显并等九人依拟用，镇江府知府王燕居官素优，着带所降之级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘显并",
+   "role": "金事道"
+  },
+  {
+   "name": "王燕",
+   "role": "镇江府知府"
+  }
+ ],
+ "places": [
+  "镇江府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16005,
+ "page_range": "332-333"
+}

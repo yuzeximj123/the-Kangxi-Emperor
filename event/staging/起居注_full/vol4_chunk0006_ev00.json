@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝就郭表参本询问是否言及河务，令九卿会同议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭表",
+   "role": "廷臣"
+  },
+  {
+   "name": "九卿",
+   "role": "朝臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 600,
+ "page_range": "24-25"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": "二十八日壬申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令除夕皇太子皇子回宫中书室、众妃各归本宫，元旦仍在丧次暂居。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "乾宁宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 26009,
+ "page_range": "555-556"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十二日",
+ "event_role": "人事任免",
+ "summary": "吏部题翰林院学士张英升任员缺，开列少詹事卢琦等，康熙帝询问后命李光地补授掌院学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "学士"
+  },
+  {
+   "name": "张英",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "卢琦",
+   "role": "少詹事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20212,
+ "page_range": "439-440"
+}

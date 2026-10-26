@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十一日甲子",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝问蒙古生计及盗贼，常舒奏蒙古生计丰足、盗贼少，仅审贼案两起即将为首者正法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常舒",
+   "role": "寺少卿"
+  }
+ ],
+ "places": [
+  "蒙古"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21919,
+ "page_range": "448-449"
+}

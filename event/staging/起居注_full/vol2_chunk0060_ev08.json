@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初十日辛卯",
+ "event_role": "人事任免",
+ "summary": "大将军章泰等请以王继文补云南巡抚、田启光升云南布政使，康熙帝依所请升授。",
+ "people": [
+  {
+   "name": "章泰",
+   "role": "大将军贝子"
+  },
+  {
+   "name": "赖塔",
+   "role": "都统"
+  },
+  {
+   "name": "王继文",
+   "role": "云南布政使"
+  },
+  {
+   "name": "田启光",
+   "role": "军前户部郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6008,
+ "page_range": "163-164"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "二十九日甲成",
+ "event_role": "人事任免",
+ "summary": "都察院题请遵例内升外转，康熙帝令御史吕琨内升，无可外转者停止此次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吕琨",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5513,
+ "page_range": "121-122"
+}

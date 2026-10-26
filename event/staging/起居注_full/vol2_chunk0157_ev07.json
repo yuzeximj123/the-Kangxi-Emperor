@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "十五日戊午",
+ "event_role": "人事任免",
+ "summary": "吏部题补工科给事中员缺，拟郭元通、戴都，康熙帝以二人平常，命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "郭元通",
+   "role": "拟正员外"
+  },
+  {
+   "name": "戴都",
+   "role": "拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15707,
+ "page_range": "357-358"
+}

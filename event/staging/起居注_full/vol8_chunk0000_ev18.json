@@ -1,0 +1,22 @@
+{
+ "reign_year": 52,
+ "month": 1,
+ "day_text": "十三日辛卯",
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官把叙、史亏记录。",
+ "people": [
+  {
+   "name": "把叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "史亏",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18,
+ "page_range": "11-12"
+}

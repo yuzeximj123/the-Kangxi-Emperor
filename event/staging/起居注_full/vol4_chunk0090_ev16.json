@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "三十日癸巳",
+ "event_role": "议政听政",
+ "summary": "朝鲜国王李焞题请斥废伊妃闵氏、册副室张氏为妃，康熙帝询问表内称后宫及不避皇太子名是否合例。",
+ "people": [
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "闵氏",
+   "role": "朝鲜国王妃"
+  },
+  {
+   "name": "张氏",
+   "role": "朝鲜国王副室"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9016,
+ "page_range": "192-193"
+}

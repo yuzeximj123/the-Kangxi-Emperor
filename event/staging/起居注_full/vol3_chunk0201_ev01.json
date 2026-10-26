@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补太常寺寺丞员缺，拟布尔哈为正、图库为陪，康熙命问学士葛思泰、卿席尔达选娴熟典礼者来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布尔哈",
+   "role": "赞礼郎"
+  },
+  {
+   "name": "图库",
+   "role": "典簿"
+  },
+  {
+   "name": "葛思泰",
+   "role": "学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "太常寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20101,
+ "page_range": "437-438"
+}

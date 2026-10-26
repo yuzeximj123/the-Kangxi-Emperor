@@ -1,0 +1,38 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "初二日乙丑",
+ "event_role": "人事任免",
+ "summary": "议工部侍郎金散降调员缺，康熙帝命徐旭龄补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "金散",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "巡抚，补工部侍郎"
+  },
+  {
+   "name": "王日藻",
+   "role": "巡抚"
+  },
+  {
+   "name": "崔澄",
+   "role": "大理寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4413,
+ "page_range": "123-124"
+}

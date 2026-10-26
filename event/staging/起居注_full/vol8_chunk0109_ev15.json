@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "初四日丙实",
+ "event_role": "谕旨决策",
+ "summary": "盛京兵部侍郎色尔图题驿站钱粮预支事，康熙帝疑有情弊，令与马进泰、董鄂礼所奏一并查明议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色尔图",
+   "role": "盛京兵部侍郎"
+  },
+  {
+   "name": "马进泰",
+   "role": "官员"
+  },
+  {
+   "name": "董鄂礼",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10915,
+ "page_range": "229-230"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 13,
+ "month": 1,
+ "day_text": "十二日本恬",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝御观德殿，命福建督标中军副将王可就、泉州副将赖玉、陕西波罗副将张国彦射箭，射毕赐茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王可就",
+   "role": "福建督标中军副将"
+  },
+  {
+   "name": "赖玉",
+   "role": "泉州副将"
+  },
+  {
+   "name": "张国彦",
+   "role": "陕西波罗副将"
+  }
+ ],
+ "places": [
+  "观德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6430,
+ "page_range": "185-186"
+}

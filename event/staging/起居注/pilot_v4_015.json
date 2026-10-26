@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙二十八年二月十四日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十四日壬子",
+ "event_role": "收到奏折",
+ "summary": "前遣阅下河侍郎徐廷阜、巡抚于成龙等回奏下河工程已及半、无可疑，康熙帝令扈从诸臣议，诸臣议请无行，帝报闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐廷阜",
+   "role": "侍郎"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "下河",
+  "串场河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1015
+}

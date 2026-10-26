@@ -1,0 +1,34 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "初九日戊子",
+ "event_role": "司法案件",
+ "summary": "刑部初次覆奏情真罪犯，康熙帝令将张弘远、沈佳宾、五达子、陶景荣等抽出另记，待三覆奏再详思。",
+ "people": [
+  {
+   "name": "张弘远",
+   "role": "案犯"
+  },
+  {
+   "name": "沈佳宾",
+   "role": "案犯"
+  },
+  {
+   "name": "五达子",
+   "role": "案犯"
+  },
+  {
+   "name": "陶景荣",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23910,
+ "page_range": "489-490"
+}

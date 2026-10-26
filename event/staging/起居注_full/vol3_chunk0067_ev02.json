@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "礼部请旨病故都统赖塔应否给谥，康熙以其平定云南功大准给谥号并令查例议加祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赖塔",
+   "role": "病故都统"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6702,
+ "page_range": "169-170"
+}

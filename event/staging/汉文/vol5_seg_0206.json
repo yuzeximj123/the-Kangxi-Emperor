@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年五月初九日",
+ "reign_year": 53,
+ "month": 5,
+ "day": 9,
+ "event_role": "奏报地方情形",
+ "summary": "江寧織造曹顒奏報已抵江寧、傳告聖恩，並報告江南麥季豐收、禾苗及時插種、雨水調勻、米價平穩，附呈二至四月晴雨錄。",
+ "people": [
+  {
+   "name": "曹顒",
+   "role": "江寧織造主事，奏報人"
+  },
+  {
+   "name": "曹寅",
+   "role": "奏折题名所署江寧織造（原任）"
+  }
+ ],
+ "places": [
+  "江寧",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批表示自己安好，所奏之事已知悉。",
+ "source_title": "江寧織造曹寅奏報江南麥收米價及秋禾插蒔情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1570",
+ "order_index": 206
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初二日辛酉",
+ "event_role": "人事任免",
+ "summary": "兵部开列护军统领事，康熙帝以护军参领瓦代立心诚实，命即补护军统领。",
+ "people": [
+  {
+   "name": "瓦代",
+   "role": "护军参领"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23204,
+ "page_range": "521-522"
+}

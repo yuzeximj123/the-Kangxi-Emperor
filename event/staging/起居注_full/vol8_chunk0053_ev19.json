@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": "十三日乙西",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝令照江宁巡抚张伯行所请行，准范花子等减等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "范花子",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5319,
+ "page_range": "117-118"
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十二年正月初八日",
+ "reign_year": 52,
+ "month": null,
+ "day": 19,
+ "event_role": "贸易漕运",
+ "summary": "闽浙总督范时崇奏报江南拨运的五万石米已运抵福建，派员盘收并在城外分路减价平粜，百姓欢颂。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督，奏报人"
+  },
+  {
+   "name": "穆廷栻",
+   "role": "福建松总兵官，押运米船"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "江南"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "閩浙總督范時崇奏為收米平糶緣由摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1505",
+ "order_index": 140
+}

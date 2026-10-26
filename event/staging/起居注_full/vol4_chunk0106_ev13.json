@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "初一日壬辰",
+ "event_role": "谕旨决策",
+ "summary": "工部题监修国子监房屋主事观保、笔帖式屯章喀已故，应追银两交都统追取，康熙帝令银两颜料诸项俱免追取。",
+ "people": [
+  {
+   "name": "观保",
+   "role": "主事"
+  },
+  {
+   "name": "屯章喀",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "国子监"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10613,
+ "page_range": "224-225"
+}

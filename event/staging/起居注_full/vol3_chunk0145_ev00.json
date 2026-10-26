@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "监察御史程文琶密奏请选熟悉川滇黔官员勘查土司情形，康熙以其不应密奏但免察议，所奏不准行。",
+ "people": [
+  {
+   "name": "程文琶",
+   "role": "监察御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川",
+  "云南",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14500,
+ "page_range": "325-326"
+}

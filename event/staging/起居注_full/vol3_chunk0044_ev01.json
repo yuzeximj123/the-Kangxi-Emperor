@@ -1,0 +1,38 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议补工部侍郎员缺，康熙帝命将现任巡抚及应升之人一并查来。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "学士"
+  },
+  {
+   "name": "范承勋",
+   "role": "学士"
+  },
+  {
+   "name": "张可前",
+   "role": "副都御史"
+  },
+  {
+   "name": "张鹏",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4401,
+ "page_range": "123-124"
+}

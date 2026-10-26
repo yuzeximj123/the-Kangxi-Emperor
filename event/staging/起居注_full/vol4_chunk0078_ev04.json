@@ -1,0 +1,29 @@
+{
+ "reign_year": 28,
+ "month": 7,
+ "day_text": "初四日戊戌",
+ "event_role": "人事任免",
+ "summary": "淮安等六关拟差员外郎汪一图等，康熙帝改令勤劳的郎中伊道差往浒墅关，汪一图另拟。",
+ "people": [
+  {
+   "name": "汪一图",
+   "role": "员外郎"
+  },
+  {
+   "name": "伊道",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "淮安",
+  "浒墅关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7804,
+ "page_range": "168-169"
+}

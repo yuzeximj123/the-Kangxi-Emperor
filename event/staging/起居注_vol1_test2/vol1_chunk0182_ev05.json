@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 5,
+ "day_text": "初八日辛丑",
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝在瀛台前亭赐云南巡抚李天浴食，询问年齿、籍贯及旧任巡抚情形。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李天浴",
+   "role": "云南巡抚"
+  }
+ ],
+ "places": [
+  "瀛台前亭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18205,
+ "page_range": "421-422"
+}

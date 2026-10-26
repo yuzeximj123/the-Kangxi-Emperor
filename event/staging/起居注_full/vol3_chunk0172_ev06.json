@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "初六日戊午",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御瀛台勤政殿听政，部院各衙门官员面奏毕，大学士等以折本请旨。",
+ "people": [
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "瀛台勤政殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17206,
+ "page_range": "379-380"
+}

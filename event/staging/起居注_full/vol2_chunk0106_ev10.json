@@ -1,0 +1,22 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "侍读朱典、王封洪等侍读，六经义叶如筑。",
+ "people": [
+  {
+   "name": "朱典",
+   "role": "侍读"
+  },
+  {
+   "name": "王封洪",
+   "role": "侍读"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10610,
+ "page_range": "255-256"
+}

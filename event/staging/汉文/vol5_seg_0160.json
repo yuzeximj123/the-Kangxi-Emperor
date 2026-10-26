@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年二月二十八日",
+ "reign_year": 53,
+ "month": 2,
+ "day": 25,
+ "event_role": "请安谢恩",
+ "summary": "广东将军管理藩院事务总督吴兴祚上奏，表达对皇上圣恩的感激与欢忭庆祝之情，请求睿鉴矜全。",
+ "people": [
+  {
+   "name": "吴兴祚",
+   "role": "镇守广东等处将军管理藩院事务总督"
+  },
+  {
+   "name": "李古",
+   "role": "获鹿县知县"
+  }
+ ],
+ "places": [
+  "广东",
+  "获鹿县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "漕運總督郎廷極奏報漕船過淮日期並淮雨水米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1533",
+ "order_index": 160
+}

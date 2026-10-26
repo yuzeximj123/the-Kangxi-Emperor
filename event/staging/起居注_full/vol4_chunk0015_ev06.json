@@ -1,0 +1,29 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝问于成龙上河放水之事，于成龙称总督王新命言每年上河放水致下河田禾淹没。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "奏对官员"
+  },
+  {
+   "name": "王新命",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "上河",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1506,
+ "page_range": "42-43"
+}

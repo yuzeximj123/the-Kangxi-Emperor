@@ -1,0 +1,40 @@
+{
+ "reign_year": 53,
+ "month": 6,
+ "day_text": "十三日癸未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝因天热传谕管侍卫内大臣等，令年老及六十以上大臣侍卫早散免晚朝，巡守人等脱帽短衫，无事免到。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张琦",
+   "role": "太监"
+  },
+  {
+   "name": "巴浑代",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "鄂伦代",
+   "role": "公"
+  },
+  {
+   "name": "阿尔泰",
+   "role": "大臣"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6314,
+ "page_range": "137-138"
+}

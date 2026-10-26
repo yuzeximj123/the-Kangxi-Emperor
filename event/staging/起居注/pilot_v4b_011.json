@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙二十八年二月二十日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十日成午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕扈从部院诸臣，命议叶映榴予谥之典，诸臣议请特予谥。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶映榴",
+   "role": "原任湖广粮道"
+  },
+  {
+   "name": "叶焉",
+   "role": "叶映榴之子"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2011
+}

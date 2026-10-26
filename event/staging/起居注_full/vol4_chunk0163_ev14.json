@@ -1,0 +1,29 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "初二日癸未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就巡视两广盐课敕书谕大学士，命传谕沙拜革除积弊、下利商民上裕国课，若徇情不能革弊必置重典。",
+ "people": [
+  {
+   "name": "沙拜",
+   "role": "太常寺少卿巡视两广盐课"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16314,
+ "page_range": "338-339"
+}

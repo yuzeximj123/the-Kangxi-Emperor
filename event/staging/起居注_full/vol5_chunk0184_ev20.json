@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十七日己卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝问祖允图曾官何地，伊桑阿奏其先任山东兖州知府后升陕西粮道，康熙帝命祖允图内升。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "祖允图",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山东兖州",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18420,
+ "page_range": "378-379"
+}

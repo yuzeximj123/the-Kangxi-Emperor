@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙五十一年三月二十七日",
+ "reign_year": 51,
+ "month": 3,
+ "day": 26,
+ "event_role": "人事任免",
+ "summary": "江宁织造曹寅奏报江西巡抚郎廷极到江宁上任、署理总督印务，以及署苏州巡抚王度昭到任受事，并恭请圣安。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏报人"
+  },
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚，到江宁上任并署理总督印务"
+  },
+  {
+   "name": "王度昭",
+   "role": "署苏州巡抚，到任受事"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江西",
+  "苏州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江寧織造曹寅奏報江南科場案審擬五參情弊摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1058",
+ "order_index": 20
+}

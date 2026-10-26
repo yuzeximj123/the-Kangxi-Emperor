@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "二十日丙申",
+ "event_role": "请安谢恩",
+ "summary": "辰时皇太后驾至热河，康熙帝率诸皇子、大臣、侍卫、官员跪迎问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2028,
+ "page_range": "51-52"
+}

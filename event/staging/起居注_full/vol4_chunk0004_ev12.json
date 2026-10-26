@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "二十日甲午",
+ "event_role": "谕旨决策",
+ "summary": "诸王大臣再请遵制释服回宫，康熙帝允二十二日复祭毕回宫并拆收幕次，自述守丧忧劳及身体病痛。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诸王",
+   "role": "宗室"
+  },
+  {
+   "name": "大臣",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 412,
+ "page_range": "20-21"
+}

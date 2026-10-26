@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "二十九日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁蒙古侍读学士达瑚员缺，拟满丕正、巴党锡陪，康熙帝命选精通蒙古书、为人优者选用。",
+ "people": [
+  {
+   "name": "达瑚",
+   "role": "内阁蒙古侍读学士"
+  },
+  {
+   "name": "满丕",
+   "role": "理藩院郎中"
+  },
+  {
+   "name": "巴党锡",
+   "role": "户部郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17316,
+ "page_range": "358-359"
+}

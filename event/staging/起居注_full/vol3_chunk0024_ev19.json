@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "初一日丙寅",
+ "event_role": "司法案件",
+ "summary": "三法司议杜大等四人、孙尚等三人、杨兴世等四人因强盗行动俱应立斩，康熙帝询问大学士意见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杜大",
+   "role": "案犯"
+  },
+  {
+   "name": "孙尚",
+   "role": "案犯"
+  },
+  {
+   "name": "杨兴世",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2419,
+ "page_range": "83-84"
+}

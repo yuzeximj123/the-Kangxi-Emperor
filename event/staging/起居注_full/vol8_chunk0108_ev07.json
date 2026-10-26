@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "户部奏舒奇家人胡德弘称祖为皇上庄头请宽免当差，康熙命户部会同内务府议奏。",
+ "people": [
+  {
+   "name": "胡德弘",
+   "role": "舒奇家人"
+  },
+  {
+   "name": "胡守信",
+   "role": "胡德弘之祖"
+  },
+  {
+   "name": "舒奇",
+   "role": "获罪官员"
+  }
+ ],
+ "places": [
+  "盛京",
+  "萍河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10807,
+ "page_range": "227-228"
+}

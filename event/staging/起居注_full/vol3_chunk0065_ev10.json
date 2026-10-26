@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十六日",
+ "event_role": "人事任免",
+ "summary": "侍讲学士徐乾学升任员缺拟补庶子储振，康熙命选择补授。",
+ "people": [
+  {
+   "name": "徐乾学",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "储振",
+   "role": "庶子"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6510,
+ "page_range": "165-166"
+}

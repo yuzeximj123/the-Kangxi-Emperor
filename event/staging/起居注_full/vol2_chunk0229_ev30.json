@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十五日己亥",
+ "event_role": "人事任免",
+ "summary": "明珠奏现有候补巡抚土克善，康熙帝以其不堪用，前在晋省居官有下，明珠称圣见极是。",
+ "people": [
+  {
+   "name": "土克善",
+   "role": "候补巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "晋省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22930,
+ "page_range": "501-502"
+}

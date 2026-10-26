@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十四日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "户部覆盛京户部侍郎希福纳题留员外郎常格督仓三年，康熙询问马齐后命照所请行。",
+ "people": [
+  {
+   "name": "希福纳",
+   "role": "盛京户部侍郎"
+  },
+  {
+   "name": "常格",
+   "role": "员外郎"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8520,
+ "page_range": "181-182"
+}

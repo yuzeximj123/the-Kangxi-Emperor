@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "礼部题覆偏沅巡抚王梁玻请改武冈州学为大学，康熙帝准奏，令武冈州学改为大学。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王梁玻",
+   "role": "偏沅巡抚"
+  }
+ ],
+ "places": [
+  "武冈州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19201,
+ "page_range": "396-397"
+}

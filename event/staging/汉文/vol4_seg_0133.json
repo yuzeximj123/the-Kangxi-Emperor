@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十二年十二月初一日",
+ "reign_year": 52,
+ "month": 12,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "致仕吏部尚书宋荦奏谢皇上朱批体恤，报已自苏州返家，进献土产，并称病渐愈，拟来春入京恭祝皇上六旬万寿。",
+ "people": [
+  {
+   "name": "宋荦",
+   "role": "致仕吏部尚书，奏折作者"
+  },
+  {
+   "name": "宋筠",
+   "role": "宋荦之子，翰林院庶吉士，代父赍捧奏折"
+  },
+  {
+   "name": "宜思恭",
+   "role": "奏折中提及被叩问一案的相关人员"
+  }
+ ],
+ "places": [
+  "苏州",
+  "阙廷"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "致仕吏部尚書宋犖奏謝御書金壺上廛摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1242",
+ "order_index": 133
+}

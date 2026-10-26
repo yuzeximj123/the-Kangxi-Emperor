@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初五日辛丑",
+ "event_role": "人事任免",
+ "summary": "狼山总兵姚仪以父丧乞请解任，康熙准其守制。",
+ "people": [
+  {
+   "name": "姚仪",
+   "role": "狼山总兵"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "狼山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 512,
+ "page_range": "45-46"
+}

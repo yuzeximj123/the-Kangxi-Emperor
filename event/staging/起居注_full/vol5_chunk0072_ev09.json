@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": "初四日甲子",
+ "event_role": "人事任免",
+ "summary": "九卿议总漕王梁性暴是实，康熙帝命解王梁总漕任，以董安国补授漕运总督驰驿赴任。",
+ "people": [
+  {
+   "name": "王梁",
+   "role": "总漕"
+  },
+  {
+   "name": "董安国",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7209,
+ "page_range": "154-155"
+}

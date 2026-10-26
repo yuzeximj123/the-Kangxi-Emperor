@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "二十九日己未",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗汉军副都统员缺，拟参领卢扬祖、申日受，康熙帝命察明该旗官历大者及额验等具奏。",
+ "people": [
+  {
+   "name": "卢扬祖",
+   "role": "拟补参领"
+  },
+  {
+   "name": "申日受",
+   "role": "陪拟"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24513,
+ "page_range": "547-548"
+}

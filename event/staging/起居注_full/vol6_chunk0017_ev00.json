@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "初一日了丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙驻跸孙家庄，大学士等以折本请旨，议借给霸州等四十五州县百姓米谷事，康熙令今岁不必收取，来年偿还。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "噶礼",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "孙家庄",
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1700,
+ "page_range": "44-45"
+}

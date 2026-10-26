@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "初七日庚成",
+ "event_role": "司法案件",
+ "summary": "总督图纳题原任宁夏总兵官高重打死标下千总应革职拿审，康熙帝命从宽免拿、革去总兵职衔交该督究拟。",
+ "people": [
+  {
+   "name": "图纳",
+   "role": "总督"
+  },
+  {
+   "name": "高重",
+   "role": "原任宁夏总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 820,
+ "page_range": "28-29"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问吴涵若仍用翰林宜授何官，王熙建议少詹事或学士。",
+ "people": [
+  {
+   "name": "吴涵",
+   "role": "府丞"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3304,
+ "page_range": "76-77"
+}

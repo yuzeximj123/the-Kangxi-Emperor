@@ -1,0 +1,22 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "十九日己丑",
+ "event_role": "司法案件",
+ "summary": "刑部议王进功家属人口交内务府事，康熙帝以王进功情由尚未分晰，命家产人口仍交地方官看守，待王进功奔回给与。",
+ "people": [
+  {
+   "name": "王进功",
+   "role": "涉案人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14616,
+ "page_range": "335-336"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十一日王午",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚李光地题龙泉关游击员缺，康熙命草进礼升补。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "草进礼",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "龙泉关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8511,
+ "page_range": "181-182"
+}

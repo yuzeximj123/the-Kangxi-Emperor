@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十七年九月二十四日",
+ "reign_year": 47,
+ "month": 9,
+ "day": 20,
+ "event_role": "其他",
+ "summary": "苏州织造李煦惊闻十八阿哥薨逝及意外大变，具折奏报，康熙朱批令其照折具题。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造"
+  },
+  {
+   "name": "十八阿哥",
+   "role": "康熙皇子（薨逝者）"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示此事即当照折具题。",
+ "source_title": "蘇州織造李煦奏驚聞十八阿哥薨逝及意外大變摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "402",
+ "order_index": 63
+}

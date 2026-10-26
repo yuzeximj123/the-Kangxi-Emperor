@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "初一日癸亥",
+ "event_role": "谕旨决策",
+ "summary": "御史严开蛮条奏河南存贮漕粮二十三万余石应协运甘肃预备，康熙帝谕河南之米存贮别有用处，陕西米多，严开蛮称不知。",
+ "people": [
+  {
+   "name": "严开蛮",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南",
+  "甘肃",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12022,
+ "page_range": "251-252"
+}

@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十六年三月二十八日",
+ "reign_year": 56,
+ "month": 3,
+ "day": 28,
+ "event_role": "奏报地方情形",
+ "summary": "护理贵州巡抚白潢奏报贵州各府开垦荒田共四千七百二十二亩余，并称将照例造册题报。",
+ "people": [
+  {
+   "name": "白潢",
+   "role": "护理贵州巡抚事务、布政使，奏报人"
+  },
+  {
+   "name": "迟炘",
+   "role": "布政使，详报垦荒数目"
+  },
+  {
+   "name": "江之泗",
+   "role": "白潢家人，赍捧奏折"
+  }
+ ],
+ "places": [
+  "贵州",
+  "黔省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "护理贵州巡抚白潢奏报开垦荒田数目摺（康熙五十六年三月二十八日）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2373",
+ "order_index": 385
+}

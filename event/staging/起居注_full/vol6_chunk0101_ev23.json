@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "十二日己卯",
+ "event_role": "奏报灾情收成",
+ "summary": "遣往直隶文安等州县捕蝗员外郎邓德奏报蝗虫已尽，康熙帝问遗种明年是否更生。",
+ "people": [
+  {
+   "name": "邓德",
+   "role": "员外郎"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "文安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10123,
+ "page_range": "212-213"
+}

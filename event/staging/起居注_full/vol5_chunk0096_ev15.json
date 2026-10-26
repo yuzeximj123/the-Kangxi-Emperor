@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 1,
+ "day_text": "初十日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕虽不可亲祭，但祈请年谷关系民生，自明日起仍于宫中洁诚斋戒，祭时遣皇太子代行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "宫中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9615,
+ "page_range": "202-203"
+}

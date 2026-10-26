@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 1,
+ "day_text": "二十六日两子",
+ "event_role": "人事任免",
+ "summary": "镇守湖广永州等处总兵官李日焊赴任陛辞请训，康熙帝谕以文武协和、严禁克扣军饷、加意抚绥兵民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李日焊",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "湖广永州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18209,
+ "page_range": "376-377"
+}

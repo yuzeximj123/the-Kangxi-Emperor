@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": "初七日庚寅",
+ "event_role": "人事任免",
+ "summary": "盛京礼部侍郎阿山赴任请训旨，康熙帝谕以勤勉料理、不可徇情面。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "盛京礼部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15107,
+ "page_range": "312-313"
+}

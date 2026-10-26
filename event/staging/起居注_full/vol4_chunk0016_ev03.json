@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "靳辅奏称于成龙前在泰州妄自尊大、误信升兵部侍郎之传，并引泰州士民歌谣，称其因羞成怒恨臣刺骨。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "泰州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1603,
+ "page_range": "44-45"
+}

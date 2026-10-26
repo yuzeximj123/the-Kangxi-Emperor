@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "十五日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "阿兰泰奏请查阵亡兵丁给身价银、停扣官兵所借官库银两，康熙准阵亡官兵厢役给身价银，未从军官兵借银停扣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16508,
+ "page_range": "340-341"
+}

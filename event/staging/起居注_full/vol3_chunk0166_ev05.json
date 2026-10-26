@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "初六日己丑",
+ "event_role": "人事任免",
+ "summary": "吏部议通州知州傅泽洪拿解假冒巡抚家丁黄四，康熙帝命议叙后不为例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅泽洪",
+   "role": "通州知州"
+  },
+  {
+   "name": "黄四",
+   "role": "假冒巡抚家丁"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16605,
+ "page_range": "367-368"
+}

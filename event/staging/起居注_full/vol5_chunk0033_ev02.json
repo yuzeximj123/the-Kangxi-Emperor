@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "张涵因钻营不肖安静，着降三级休致。",
+ "people": [
+  {
+   "name": "张涵",
+   "role": "原涿州守备"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "涿州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3302,
+ "page_range": "76-77"
+}

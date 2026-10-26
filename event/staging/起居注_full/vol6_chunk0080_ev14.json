@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "二十一日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命留皇长子、皇五子，余皇子随行，派福善、伊桑阿、阿兰泰等及侍卫四十五人随往。",
+ "people": [
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "刘瞎",
+   "role": "布政使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8014,
+ "page_range": "170-171"
+}

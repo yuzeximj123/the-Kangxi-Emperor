@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初三日已亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥崔蔚林为直隶极恶之人，好生事端干预词讼，纵家人控告草场地土，妄以道学自居兴讼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔蔚林",
+   "role": "少詹"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 423,
+ "page_range": "43-44"
+}

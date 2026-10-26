@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题牧马人温三打死王廷仪议绞，康熙帝命秋审勿宽免，助殴二人发配黑龙江。",
+ "people": [
+  {
+   "name": "温三",
+   "role": "牧马人、凶犯"
+  },
+  {
+   "name": "王廷仪",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10107,
+ "page_range": "212-213"
+}

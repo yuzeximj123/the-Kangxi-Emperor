@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": "初二日乙酉",
+ "event_role": "司法案件",
+ "summary": "刑部题尚振纪、米国宝并无枉法，亡人南苑中间不合，应照律将伊等佥妻发边卫为军，康熙帝令将控告缘由查明议奏。",
+ "people": [
+  {
+   "name": "尚振纪",
+   "role": "案犯"
+  },
+  {
+   "name": "米国宝",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20914,
+ "page_range": "429-430"
+}

@@ -1,0 +1,26 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "太原总兵金国正奏报奉命暂往固原弹压地方，因该地辽阔、官兵调赴军前且年岁歉收，预为陈请睿鉴。",
+ "people": [
+  {
+   "name": "金国正",
+   "role": "镇守山西太原等处地方总兵官、署都督佥事、加壹级纪录壹次奴才"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原",
+  "固原"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批称朕亦闻得固原地方情形如此。",
+ "source_title": "残片",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 257
+}

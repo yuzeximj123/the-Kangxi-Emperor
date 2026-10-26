@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十三日庚午",
+ "event_role": "军务",
+ "summary": "瑞州府会浦贼首朱一典等率一万五千余贼对垒被击败斩万余级，议叙军功第三，康熙帝以数目浮冒令再议具奏。",
+ "people": [
+  {
+   "name": "朱一典",
+   "role": "贼首"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瑞州府会浦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10410,
+ "page_range": "243-244"
+}

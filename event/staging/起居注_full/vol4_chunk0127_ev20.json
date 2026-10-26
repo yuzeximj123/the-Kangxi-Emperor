@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 7,
+ "day_text": "二十五日甲实",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕左都御史马齐、学士西喇，遣司官至土谢图汗处将穷乏者带至张家口外给米。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "左都御史"
+  },
+  {
+   "name": "西喇",
+   "role": "学士"
+  },
+  {
+   "name": "吴达禅",
+   "role": "二等侍卫"
+  }
+ ],
+ "places": [
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12720,
+ "page_range": "266-267"
+}

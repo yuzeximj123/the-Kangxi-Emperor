@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 7,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝询问和孔古礼入儿港滚水坝对新河是否有益，和孔古礼奏称有益，可减少新河冲决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和孔古礼",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "新河",
+  "入儿港滚水坝"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10400,
+ "page_range": "219-220"
+}

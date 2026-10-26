@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "初十日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "议云南巡抚王继文离任守制事，康熙帝令王继文丁忧，未完钱粮仍于其名下追取。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王继文",
+   "role": "云南巡抚"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19707,
+ "page_range": "429-430"
+}

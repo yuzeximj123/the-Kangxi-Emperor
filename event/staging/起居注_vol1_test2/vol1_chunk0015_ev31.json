@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 5,
+ "day_text": "二十八日",
+ "event_role": "其他",
+ "summary": "未时康熙帝复御乾清门，赐来贡扎鲁特部落三品台吉多尔济等宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "多尔济",
+   "role": "扎鲁特部落三品台吉"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1531,
+ "page_range": "87-88"
+}

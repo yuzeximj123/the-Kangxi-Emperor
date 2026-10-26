@@ -1,0 +1,33 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初二日丙寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝途中见三河县防御常寿、守备周渭等迎接，询问宝坻县官员是否到来，并定迎送里数。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "三河县防御"
+  },
+  {
+   "name": "周渭",
+   "role": "守备"
+  },
+  {
+   "name": "锡哈纳",
+   "role": "鸿胪寺卿"
+  }
+ ],
+ "places": [
+  "三河县",
+  "宝坻县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12601,
+ "page_range": "262-263"
+}

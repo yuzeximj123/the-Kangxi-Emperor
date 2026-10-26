@@ -1,0 +1,34 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请四川巡抚年羹尧所题东川府知府许兆黑员缺，请以眉州知州徐德补授，康熙帝准照该抚所请补授徐德为东川府知府。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "许兆黑",
+   "role": "东川府知府"
+  },
+  {
+   "name": "徐德",
+   "role": "眉州知州"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川",
+  "东川府",
+  "眉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17302,
+ "page_range": "357-358"
+}

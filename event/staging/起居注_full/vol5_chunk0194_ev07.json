@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十九日庚成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝赐按察使巴锡、道员王辅蕊额，并手书赐倭伦。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "巴锡",
+   "role": "按察使"
+  },
+  {
+   "name": "王辅蕊",
+   "role": "道员"
+  }
+ ],
+ "places": [
+  "府谷县城南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19407,
+ "page_range": "398-399"
+}

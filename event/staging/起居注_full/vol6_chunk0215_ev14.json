@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十二日丙午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称王材任参巡抚高承焉甚是，疑高承本居官无善处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王材任",
+   "role": "官员"
+  },
+  {
+   "name": "高承",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21514,
+ "page_range": "440-441"
+}

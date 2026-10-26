@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "二十一日壬午",
+ "event_role": "朝见受贺",
+ "summary": "东昌府知府杨朝祯等、都司金书能如席等来朝见。",
+ "people": [
+  {
+   "name": "杨朝祯",
+   "role": "东昌府知府"
+  },
+  {
+   "name": "能如席",
+   "role": "都司金书"
+  }
+ ],
+ "places": [
+  "东昌府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6009,
+ "page_range": "155-156"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官为徐元正、满保。",
+ "people": [
+  {
+   "name": "徐元正",
+   "role": "起居注官"
+  },
+  {
+   "name": "满保",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19106,
+ "page_range": "392-393"
+}

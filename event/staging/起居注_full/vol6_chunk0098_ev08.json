@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "副都统瓦尔达因将代管佐领蒙混奏为世传佐领降五级，又因往视景州等处喂养马匹查勘不明降五级，今满三年照例请开复，部议准行；康熙准开复因公所降五级，不准开复查马不明所降五级。",
+ "people": [
+  {
+   "name": "瓦尔达",
+   "role": "副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "景州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9808,
+ "page_range": "206-207"
+}

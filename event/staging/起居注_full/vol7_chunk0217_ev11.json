@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十三日乙雍",
+ "event_role": "司法案件",
+ "summary": "康熙帝论岳昇龙借用藩库银两一案，谓其效力甚多，设法完结亦无不可。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "岳昇龙",
+   "role": "原任提督"
+  },
+  {
+   "name": "能泰",
+   "role": "前任巡抚"
+  },
+  {
+   "name": "卞永式",
+   "role": "前任布政司"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21711,
+ "page_range": "445-446"
+}

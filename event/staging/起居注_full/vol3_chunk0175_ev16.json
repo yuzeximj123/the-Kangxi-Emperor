@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "二十二日甲成",
+ "event_role": "人事任免",
+ "summary": "升任学士徐乾学教习庶吉士员缺开列学士韩菊、郭茜，康熙帝命徐乾学仍教习庶吉士。",
+ "people": [
+  {
+   "name": "徐乾学",
+   "role": "学士"
+  },
+  {
+   "name": "韩菊",
+   "role": "学士"
+  },
+  {
+   "name": "郭茜",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17516,
+ "page_range": "385-386"
+}

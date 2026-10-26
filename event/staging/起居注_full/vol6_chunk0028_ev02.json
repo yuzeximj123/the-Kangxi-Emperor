@@ -1,0 +1,42 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命亲近侍卫关保向大学士伊桑阿、阿兰泰传谕都统凯音布，责其宴上对一等侍卫石图毛臂怒目、无故作威。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "都统"
+  },
+  {
+   "name": "石图",
+   "role": "一等侍卫衣都额真"
+  },
+  {
+   "name": "卓布退",
+   "role": "石图之祖"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2802,
+ "page_range": "66-67"
+}

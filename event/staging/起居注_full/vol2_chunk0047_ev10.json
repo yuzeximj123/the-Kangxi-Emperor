@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "初七日庚寅",
+ "event_role": "司法案件",
+ "summary": "柳盛生等用药迷惑童子钱绍华等一案，康熙帝命将柳盛生等解京再行详审具奏。",
+ "people": [
+  {
+   "name": "柳盛生",
+   "role": "案犯"
+  },
+  {
+   "name": "钱绍华",
+   "role": "被迷惑童子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4710,
+ "page_range": "137-138"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 10,
+ "month": 10,
+ "day_text": "十三日辛卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝幸盛京清宁宫，御大清门，命部院官员及盛京将军阿木儿图以下文武各官步射，上亲射数矢。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿木儿图",
+   "role": "盛京将军"
+  }
+ ],
+ "places": [
+  "盛京清宁宫",
+  "大清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 141,
+ "page_range": "59-60"
+}

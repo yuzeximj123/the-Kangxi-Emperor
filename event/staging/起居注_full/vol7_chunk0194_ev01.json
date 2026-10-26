@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记录是日起居注官为把租、常寿、党阿赖、常攻、海宝、阿尔赛。",
+ "people": [
+  {
+   "name": "把租",
+   "role": "起居注官"
+  },
+  {
+   "name": "常寿",
+   "role": "起居注官"
+  },
+  {
+   "name": "党阿赖",
+   "role": "起居注官"
+  },
+  {
+   "name": "常攻",
+   "role": "起居注官"
+  },
+  {
+   "name": "海宝",
+   "role": "起居注官"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19401,
+ "page_range": "399-400"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "都察院题参狂妄不及官员，康熙帝与明珠等议吕兆琳，决定吕兆琳批留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吕兆琳",
+   "role": "被参官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 601,
+ "page_range": "47-48"
+}

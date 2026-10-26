@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "初四日丁卯",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶黄旗满洲副都统西特库升任员缺，康熙帝命苏尔达调补满洲副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "西特库",
+   "role": "镶黄旗满洲副都统"
+  },
+  {
+   "name": "扎木素",
+   "role": "蒙古副都统"
+  },
+  {
+   "name": "苏尔达",
+   "role": "蒙古副都统，调满洲副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4419,
+ "page_range": "123-124"
+}

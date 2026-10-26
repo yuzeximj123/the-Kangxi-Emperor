@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "十八日丙辰",
+ "event_role": "弹劾参奏",
+ "summary": "工部尚书萨木哈奏九卿会议结果，称于成龙所奏黄运两河修筑及捐纳等事俱不准行，应革职。",
+ "people": [
+  {
+   "name": "萨木哈",
+   "role": "工部尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 109,
+ "page_range": "12-13"
+}

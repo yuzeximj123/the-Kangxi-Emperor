@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "二十九日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "吏部等题原任都统王国栋尽忠殉难应授世职及赐谥加祭，康熙帝准予谥不必加祭，余依部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王国栋",
+   "role": "原任都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7016,
+ "page_range": "183-184"
+}

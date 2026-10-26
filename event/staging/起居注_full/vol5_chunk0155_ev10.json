@@ -1,0 +1,38 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "初八日辛酉",
+ "event_role": "河工水利",
+ "summary": "康熙帝论中河北岸堤防修治坚固，水退六尺，黄河挑浚洪沙河道通泄，河工受益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "绰奇",
+   "role": "户部员外郎"
+  },
+  {
+   "name": "靳辅",
+   "role": "河臣"
+  },
+  {
+   "name": "于成龙",
+   "role": "河臣"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "中河",
+  "云梯关",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15510,
+ "page_range": "320-321"
+}

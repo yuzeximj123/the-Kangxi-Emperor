@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "二十日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "刑部覆直隶巡抚格尔古德条奏卖身旗下之人仍居本地肆行诈害应令归族，康熙谕令九卿等会同确议定例具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "格尔古德",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19607,
+ "page_range": "435-436"
+}

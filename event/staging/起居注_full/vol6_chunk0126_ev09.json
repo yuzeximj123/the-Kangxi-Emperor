@@ -1,0 +1,22 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初四日戊辰",
+ "event_role": "起居注官记录",
+ "summary": "记录此行部院各衙门奏章每日交送内阁，内阁三日一次送行宫办理，扈从起居注官为阿山、揆叙。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "揆叙",
+   "role": "扈从起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12609,
+ "page_range": "262-263"
+}

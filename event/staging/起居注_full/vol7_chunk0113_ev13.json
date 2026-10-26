@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "二十六日癸未",
+ "event_role": "其他",
+ "summary": "申时，康熙帝出行宫，率皇太子、诸皇子及善射人员射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11313,
+ "page_range": "237-238"
+}

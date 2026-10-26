@@ -1,0 +1,48 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "二十三日庚戌",
+ "event_role": "司法案件",
+ "summary": "刑部题秋审山西情真杨洞等十三起、缓决李鹤鸣等十三起、可矜张子彭等五起共三本。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杨洞",
+   "role": "罪犯"
+  },
+  {
+   "name": "李鹤鸣",
+   "role": "罪犯"
+  },
+  {
+   "name": "张子彭",
+   "role": "罪犯"
+  },
+  {
+   "name": "李稚鸣",
+   "role": "罪犯"
+  },
+  {
+   "name": "张林纶",
+   "role": "罪犯"
+  },
+  {
+   "name": "曹理登",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11719,
+ "page_range": "269-270"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝念已故大学士陈廷敬，御制挽诗，遣五格、励廷仪赐银一千两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "已故大学士"
+  },
+  {
+   "name": "五格",
+   "role": "乾清门一等侍卫副都统"
+  },
+  {
+   "name": "励廷仪",
+   "role": "南书房翰林"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21801,
+ "page_range": "447-448"
+}

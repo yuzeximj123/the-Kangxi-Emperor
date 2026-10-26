@@ -1,0 +1,27 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "十八日丁",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝闻陕西西安、凤翔二府饥荒，百姓流亡、饥疫而死，命与九卿、詹事、科道详议赈济即日具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔图",
+   "role": "四川巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安",
+  "凤翔",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19308,
+ "page_range": "398-399"
+}

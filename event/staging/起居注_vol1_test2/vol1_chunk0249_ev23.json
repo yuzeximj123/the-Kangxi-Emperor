@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十五日壬申",
+ "event_role": "司法案件",
+ "summary": "刑部议吴国绚伪称淮徐道冒奏应徒二年半，康熙帝从宽免徒。",
+ "people": [
+  {
+   "name": "吴国绚",
+   "role": "案犯"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "淮徐"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24923,
+ "page_range": "555-556"
+}

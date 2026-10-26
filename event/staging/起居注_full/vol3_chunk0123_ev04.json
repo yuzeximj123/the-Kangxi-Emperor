@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝将还，谕阿尔尼带阿海台吉等由小径归馆舍，阿海台吉请送驾未允。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "官员"
+  },
+  {
+   "name": "阿海台吉",
+   "role": "蒙古台吉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12304,
+ "page_range": "281-282"
+}

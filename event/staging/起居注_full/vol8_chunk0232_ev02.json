@@ -1,0 +1,22 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": "初六日乙卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝因足疾前往温泉，自神武门出西直门，途中驻春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神武门",
+  "西直门",
+  "春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23202,
+ "page_range": "475-476"
+}

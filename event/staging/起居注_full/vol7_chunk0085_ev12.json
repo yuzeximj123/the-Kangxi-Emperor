@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十一日王午",
+ "event_role": "人事任免",
+ "summary": "福建海坛、烽火门游击员缺，康熙命陈进忠调补海坛镇标左营游击，陈天定调补烽火门游击。",
+ "people": [
+  {
+   "name": "陈进忠",
+   "role": "游击"
+  },
+  {
+   "name": "陈天定",
+   "role": "游击"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "蓝理",
+   "role": "总兵"
+  }
+ ],
+ "places": [
+  "海坛",
+  "烽火门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8512,
+ "page_range": "181-182"
+}

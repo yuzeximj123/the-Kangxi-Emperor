@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十七日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "包衣大达都虎奏御用米粮将尽请还师，康熙帝怒斥其摇惑众心当斩，坚称粮尽亦必穷追噶尔丹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达都虎",
+   "role": "包衣大"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "湖滩河朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17609,
+ "page_range": "362-363"
+}

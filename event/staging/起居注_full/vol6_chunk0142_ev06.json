@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆吴秉谦咯闻一案，康熙帝令照议完结，总督吴黑革职从宽免枷责，护军统领鄂克济哈销去加一级仍降二级调用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴秉谦",
+   "role": "涉案人"
+  },
+  {
+   "name": "吴黑",
+   "role": "总督"
+  },
+  {
+   "name": "鄂克济哈",
+   "role": "护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14206,
+ "page_range": "294-295"
+}

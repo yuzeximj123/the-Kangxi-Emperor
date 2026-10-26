@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十五年二月初六日",
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "初六日辛酉",
+ "event_role": "收到奏折",
+ "summary": "两广总督郭世隆题参惠州营副将李春茂昏昧庸劣有误营务，康熙帝命革职拿问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭世隆",
+   "role": "两广总督"
+  },
+  {
+   "name": "李春茂",
+   "role": "惠州营副将"
+  }
+ ],
+ "places": [
+  "惠州营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3070
+}

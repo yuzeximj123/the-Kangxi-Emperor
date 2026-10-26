@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "十五日庚成",
+ "event_role": "人事任免",
+ "summary": "康熙帝命于直隶所属知县内选用能员补新安知县。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "新安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3702,
+ "page_range": "84-85"
+}

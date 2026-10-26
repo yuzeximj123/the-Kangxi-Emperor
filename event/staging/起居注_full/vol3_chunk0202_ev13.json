@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论张英谨慎但无主见且懒惰，谕《礼记》讲章宜精当，并提及熊赐履旧言。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张英",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "前大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20213,
+ "page_range": "439-440"
+}

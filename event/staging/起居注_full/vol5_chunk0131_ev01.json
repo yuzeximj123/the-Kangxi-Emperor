@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕领侍卫内大臣索额图，因兵丁口粮将满、于成龙运米未到，令大兵迎粮而还，着议政大臣等议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "于成龙",
+   "role": "运米官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13101,
+ "page_range": "272-273"
+}

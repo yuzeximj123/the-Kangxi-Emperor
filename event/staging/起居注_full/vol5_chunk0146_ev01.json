@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝述拖陵至克和鲁伦未安站缘由，大学士阿兰泰等赞同其近敌不设驿站之策。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杭爱",
+   "role": "原任尚书"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "拖陵",
+  "克和鲁伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14601,
+ "page_range": "302-303"
+}

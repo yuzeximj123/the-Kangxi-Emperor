@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "初四日成申",
+ "event_role": "其他",
+ "summary": "兵部覆山东巡抚王国昌题济宁卫世袭拜他喇布勒哈番王俊美年事。",
+ "people": [
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "王俊美",
+   "role": "世袭拜他喇布勒哈番"
+  }
+ ],
+ "places": [
+  "山东",
+  "济宁卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5920,
+ "page_range": "129-130"
+}

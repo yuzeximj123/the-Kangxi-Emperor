@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "初七日壬辰",
+ "event_role": "议政听政",
+ "summary": "议两广巡盐御史柏度题原任粮道张天熏擅动库银买盐带售事，及两广总督郭世隆回奏盐运使陆曾亏空钱粮请众商限年完纳事。",
+ "people": [
+  {
+   "name": "柏度",
+   "role": "两广巡盐御史"
+  },
+  {
+   "name": "张天熏",
+   "role": "原任粮道"
+  },
+  {
+   "name": "郭世隆",
+   "role": "两广总督"
+  },
+  {
+   "name": "陆曾",
+   "role": "盐运使"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12321,
+ "page_range": "257-258"
+}

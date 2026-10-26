@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕巡抚以操守为要，大法则小廉，百姓蒙福。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王骘",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "朱弘祚",
+   "role": "广东巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 602,
+ "page_range": "24-25"
+}

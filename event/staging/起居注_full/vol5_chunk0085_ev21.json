@@ -1,0 +1,21 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "十八日本未",
+ "event_role": "军务",
+ "summary": "兵部题黑龙江将军萨布素请墨尔根城添设防守御四员议不准、齐齐哈尔城添设防守御一员议准，康熙帝命照该将军所请添设。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "墨尔根城",
+  "齐齐哈尔城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8521,
+ "page_range": "180-181"
+}

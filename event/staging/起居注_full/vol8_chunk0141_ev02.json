@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "翰林院题日讲官陈世信员缺，将侍读学士李绂等职名开列请旨，康熙命问翰林院具奏。",
+ "people": [
+  {
+   "name": "陈世信",
+   "role": "日讲官"
+  },
+  {
+   "name": "李绂",
+   "role": "侍读学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14102,
+ "page_range": "293-294"
+}

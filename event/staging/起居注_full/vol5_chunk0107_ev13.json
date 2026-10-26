@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "十九日乙效",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕，抚远大将军费扬古奏西路兵于四月初三日至合金、二十四日至土喇、二十七日至巴颜乌兰，令谕众知之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  }
+ ],
+ "places": [
+  "合金",
+  "土喇",
+  "巴颜乌兰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10713,
+ "page_range": "224-225"
+}

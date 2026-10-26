@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "初四日己巳",
+ "event_role": "人事任免",
+ "summary": "九卿遵旨选举顺天府府尹卫既齐员缺，以布政使马如龙等七人折子进呈，康熙帝顾问日讲官起居注掌翰林院事侍郎库勒纳。",
+ "people": [
+  {
+   "name": "马如龙",
+   "role": "布政使"
+  },
+  {
+   "name": "库勒纳",
+   "role": "日讲官起居注掌翰林院事侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15614,
+ "page_range": "324-325"
+}

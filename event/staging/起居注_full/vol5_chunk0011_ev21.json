@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "十六日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝出庶吉士散馆试卷，责傅继祖不勤教习，致庶吉士苟且偷安、翻译作文写字大不及前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅继祖",
+   "role": "教习庶吉士"
+  },
+  {
+   "name": "阿金",
+   "role": "庶吉士"
+  },
+  {
+   "name": "喀尔喀",
+   "role": "庶吉士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1121,
+ "page_range": "32-33"
+}

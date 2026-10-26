@@ -1,0 +1,40 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "大学士、部院诸臣因赏恤原任大学士张玉书谢恩拟票进呈，康熙帝令将应得恤典发往京师，令汉大学士察例票拟温旨具奏。",
+ "people": [
+  {
+   "name": "张玉书",
+   "role": "原任大学士"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "噶敏图",
+   "role": "侍郎"
+  },
+  {
+   "name": "摊叙",
+   "role": "起居注官侍郎"
+  },
+  {
+   "name": "满保",
+   "role": "学士"
+  },
+  {
+   "name": "党阿赖",
+   "role": "起居注官庶子"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17109,
+ "page_range": "353-354"
+}

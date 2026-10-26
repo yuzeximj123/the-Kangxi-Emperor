@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "初四日辛雍",
+ "event_role": "谕旨决策",
+ "summary": "赵申乔等赴广东卖米请训，康熙帝谕令查明仓谷、减价平粜，并准动正项钱粮买米平粜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "都察院左都御史"
+  }
+ ],
+ "places": [
+  "广东",
+  "江西",
+  "湖广",
+  "江浙",
+  "韶州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1406,
+ "page_range": "39-40"
+}

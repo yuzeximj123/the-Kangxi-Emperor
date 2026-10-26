@@ -1,0 +1,21 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "十七日癸未",
+ "event_role": "请安谢恩",
+ "summary": "午时，康熙帝由正阳门进午门，前往太皇太后、皇太后宫问安完毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "正阳门",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 106,
+ "page_range": "37-38"
+}

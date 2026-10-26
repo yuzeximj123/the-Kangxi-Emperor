@@ -1,0 +1,38 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "初五日已效",
+ "event_role": "弹劾参奏",
+ "summary": "理藩院议参领阿喇纳得马不寻主、私与所属并科敛银物应革职鞭责，康熙帝斥其保举徇私，命宗人府会同兵部严察议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿喇纳",
+   "role": "游牧地方参领"
+  },
+  {
+   "name": "苏努",
+   "role": "公"
+  },
+  {
+   "name": "优准达",
+   "role": "公"
+  },
+  {
+   "name": "华善",
+   "role": "副都统"
+  },
+  {
+   "name": "佛科陀",
+   "role": "副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3007,
+ "page_range": "95-96"
+}

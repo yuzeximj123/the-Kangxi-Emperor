@@ -1,0 +1,34 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十二日丁酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论赵申乔居官清廉但喜收民词致小民受累，较之张鹏翮、李光地、徐潮为浅，引孔子必也使无讼之言，责封疆大吏不应生事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "徐潮",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5221,
+ "page_range": "115-116"
+}

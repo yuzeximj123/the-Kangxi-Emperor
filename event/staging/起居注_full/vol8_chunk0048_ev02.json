@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部覆步军统领隆科多所题畅春园堆子增兵，康熙帝准行，令以汉军闲散人顶补，巡捕三营缺出与汉军汉人一并选补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4802,
+ "page_range": "107-108"
+}

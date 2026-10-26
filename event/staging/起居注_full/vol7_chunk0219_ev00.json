@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就赵三等越墙偷米案下旨，令盗米大半由赵三等赔补、小半由看仓官兵赔补，并另行定例议奏。",
+ "people": [
+  {
+   "name": "赵三",
+   "role": "盗米人犯"
+  },
+  {
+   "name": "看仓官兵",
+   "role": "失职官兵"
+  }
+ ],
+ "places": [
+  "仓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21900,
+ "page_range": "449-450"
+}

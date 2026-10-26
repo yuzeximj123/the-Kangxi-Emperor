@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "十二日己亥",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁学士图纳升补山西巡抚员缺，康熙命太常寺卿穆成格升补学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "升补山西巡抚"
+  },
+  {
+   "name": "朱马泰",
+   "role": "詹事"
+  },
+  {
+   "name": "穆成格",
+   "role": "太常寺卿升补学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11309,
+ "page_range": "261-262"
+}

@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十三年七月初一日",
+ "reign_year": 53,
+ "month": 7,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州、扬州六月以来亢旱少雨，六月二十九日戌时起甘霖大沛、竟夜不止，田禾有救、万民欢悦，并称将遣人往福州察看雨情后再奏。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "福州",
+  "扬州",
+  "福州省城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏請再派鹽差以補虧空摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1608",
+ "order_index": 246
+}

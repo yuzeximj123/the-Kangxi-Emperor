@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "二十四日已西",
+ "event_role": "人事任免",
+ "summary": "吏部题叙福建军功议授禅布等世职，康熙帝命禅布授三等阿达哈哈番，黑西恨等功牌不合格者再议具奏。",
+ "people": [
+  {
+   "name": "禅布",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "黑西恨",
+   "role": "护军校"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3113,
+ "page_range": "105-106"
+}

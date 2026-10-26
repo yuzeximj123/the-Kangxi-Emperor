@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "二十九日丁丑",
+ "event_role": "贸易漕运",
+ "summary": "康熙帝回宫后谕吏部尚书富宁安等发仓米一万石减价粜卖以平京师米价，自三月初一起至月底止。",
+ "people": [
+  {
+   "name": "李玉",
+   "role": "太监"
+  },
+  {
+   "name": "富宁安",
+   "role": "吏部尚书兼管仓场事务"
+  },
+  {
+   "name": "塔进泰",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "噶敏图",
+   "role": "户部侍郎"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 713,
+ "page_range": "25-26"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "秦省总督奏报边疆与蒙古接壤，虽四方安商而防守不可弛，请补授边地缺员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "秦督",
+   "role": "秦省总督"
+  }
+ ],
+ "places": [
+  "秦省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5800,
+ "page_range": "173-174"
+}

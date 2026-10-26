@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十一年五月十六日",
+ "reign_year": 51,
+ "month": 5,
+ "day": 16,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦上奏恭请皇帝万安，康熙朱批告知自己安好，自出口避暑以来饮食起居甚好。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "管理杭州织造事郎中兼巡视两淮盐课监察御史，奏折具奏人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，自出口避暑以来饮食起居甚好。",
+ "source_title": "苏州织造李煦奏请万安摺（康熙五十一年五月十六日）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1101",
+ "order_index": 57
+}

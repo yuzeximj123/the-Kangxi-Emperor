@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "云贵总督赵良栋敕书进呈，康熙帝命改敕书内驻扎贵阳之语，待平定后另行请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵良栋",
+   "role": "云贵总督"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "贵州贵阳府",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22202,
+ "page_range": "501-502"
+}

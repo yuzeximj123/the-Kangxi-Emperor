@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "二十四日庚辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝问兵部侍郎查绚纳任侍郎几月及是否知部中弊端，查绚纳奏称任五月尚未能知，帝谓部弊甚多。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "查绚纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "满保",
+   "role": "总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15621,
+ "page_range": "323-324"
+}

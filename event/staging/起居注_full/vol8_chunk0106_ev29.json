@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 9,
+ "day_text": "十七日己酉",
+ "event_role": "议政听政",
+ "summary": "酉时康熙御行宫，大学士松柱、学士查震纳、敦拜、星俄特以折本请旨。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "查震纳",
+   "role": "学士"
+  },
+  {
+   "name": "敦拜",
+   "role": "学士"
+  },
+  {
+   "name": "星俄特",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10629,
+ "page_range": "223-224"
+}

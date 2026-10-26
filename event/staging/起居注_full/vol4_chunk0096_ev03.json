@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "十七日乙卯",
+ "event_role": "请安谢恩",
+ "summary": "赐朝鲜国进香陪臣朴泰尚、金海一等银两缎匹马匹，书状等官照品级赏赐。",
+ "people": [
+  {
+   "name": "朴泰尚",
+   "role": "正使议政府左赞成"
+  },
+  {
+   "name": "金海一",
+   "role": "副使礼曹参判"
+  }
+ ],
+ "places": [
+  "朝鲜国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9603,
+ "page_range": "204-205"
+}

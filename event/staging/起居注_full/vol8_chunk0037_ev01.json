@@ -1,0 +1,34 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝准山西巡抚苏克济所请，将解州知州祝增补授平阳府知府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "祝增",
+   "role": "解州知州"
+  },
+  {
+   "name": "潘锦",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "山西",
+  "解州",
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3701,
+ "page_range": "85-86"
+}

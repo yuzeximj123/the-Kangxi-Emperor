@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问松柱是否参与吉哈利对敌，松柱奏称在水路攻贼大败。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "吉哈利"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24707,
+ "page_range": "505-506"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "初五日辛未",
+ "event_role": "人事任免",
+ "summary": "传旨问正红旗蒙古副都统员缺拟正席柱缘由，明珠等奏康亲王、萨称哈推举之由，康熙以席柱庸劣不能管辖兵丁，令另推具奏。",
+ "people": [
+  {
+   "name": "席柱",
+   "role": "骁骑参领监察御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "萨称哈",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1012,
+ "page_range": "55-56"
+}

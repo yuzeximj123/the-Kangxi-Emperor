@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十二日王午",
+ "event_role": "谕旨决策",
+ "summary": "兵部题原任都统席白臣等自汉中回途中杀贼议不准叙功，康熙帝以失守地方而回不可议功，命行铸论。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席白臣",
+   "role": "原任都统"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "汉中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8305,
+ "page_range": "201-202"
+}

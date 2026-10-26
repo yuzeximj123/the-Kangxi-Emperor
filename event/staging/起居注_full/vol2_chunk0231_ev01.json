@@ -1,0 +1,40 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "未时，康熙帝御保和殿，赐宴湖广总督董卫国及契鲁特部落噶尔当博硕克图来使达木巴哈西哈等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董卫国",
+   "role": "湖广总督"
+  },
+  {
+   "name": "达木巴哈西哈",
+   "role": "契鲁特部落来使"
+  },
+  {
+   "name": "噶尔当博硕克图",
+   "role": "契鲁特部落首领"
+  },
+  {
+   "name": "祁他特",
+   "role": "差往使者"
+  },
+  {
+   "name": "厄尔克格隆",
+   "role": "差往使者"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23101,
+ "page_range": "505-506"
+}

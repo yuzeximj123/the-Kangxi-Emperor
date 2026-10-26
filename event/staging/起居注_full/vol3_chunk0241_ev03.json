@@ -1,0 +1,29 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": "十九日乙未",
+ "event_role": "谕旨决策",
+ "summary": "吏部尚书达哈塔所审满洲浑齐伪称汉人案，康熙帝命将都统马哈达革去都统、世职，以微员发往黑龙江效力，余依议。",
+ "people": [
+  {
+   "name": "达哈塔",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "浑齐",
+   "role": "满洲人"
+  },
+  {
+   "name": "马哈达",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "杭州",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24103,
+ "page_range": "517-518"
+}

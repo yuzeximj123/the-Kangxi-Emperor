@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "十三日己丑",
+ "event_role": "朝见受贺",
+ "summary": "古北口管站员外郎罗音太、防御善贷、同知郑富民等来朝。",
+ "people": [
+  {
+   "name": "罗音太",
+   "role": "古北口管站员外郎"
+  },
+  {
+   "name": "善贷",
+   "role": "防御"
+  },
+  {
+   "name": "郑富民",
+   "role": "同知"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2019,
+ "page_range": "51-52"
+}

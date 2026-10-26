@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "十九日生辰",
+ "event_role": "人事任免",
+ "summary": "兵部题真定总兵官赵弘灿调补员缺请旨，康熙令裁去总兵员缺，令该抚会同天津、宣府总兵确议分管裁兵。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "真定总兵官"
+  }
+ ],
+ "places": [
+  "真定",
+  "天津",
+  "宣府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2009,
+ "page_range": "52-53"
+}

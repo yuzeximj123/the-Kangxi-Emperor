@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "云贵总督贝和诺奏土司杨国兴贪楚拟绞，康熙帝从宽免死，将杨国兴及杨起烈、杨起席并妻发辽阳安插。",
+ "people": [
+  {
+   "name": "贝和诺",
+   "role": "云贵总督"
+  },
+  {
+   "name": "杨国兴",
+   "role": "土司"
+  },
+  {
+   "name": "杨起烈",
+   "role": "相关人员"
+  },
+  {
+   "name": "杨起席",
+   "role": "相关人员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "辽阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12501,
+ "page_range": "261-262"
+}

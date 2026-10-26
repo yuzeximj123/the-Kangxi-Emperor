@@ -1,0 +1,23 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝讲述哈密附近土儿番地方炎热，人夜出耕种，又述哈萨克人性好斗及当地物产。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "哈密",
+  "土儿番",
+  "哈萨克",
+  "阳关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 504,
+ "page_range": "21-22"
+}

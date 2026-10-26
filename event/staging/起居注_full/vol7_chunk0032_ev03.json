@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十一日已已",
+ "event_role": "人事任免",
+ "summary": "顺天府府尹钱晋赐条奏大兴、宛平知县应简选，康熙帝命以黄梅知县李锦调补大兴县缺，余交该部议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钱晋赐",
+   "role": "顺天府府尹"
+  },
+  {
+   "name": "李锦",
+   "role": "黄梅知县"
+  }
+ ],
+ "places": [
+  "大兴县",
+  "宛平县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3203,
+ "page_range": "75-76"
+}

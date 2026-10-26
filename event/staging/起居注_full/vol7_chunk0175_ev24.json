@@ -1,0 +1,37 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "十七日乙亥",
+ "event_role": "司法案件",
+ "summary": "刑部汇题太监牛达两次逃回及贼刘善偷盗荣宪公主宅物案，康熙帝命牛达交内务府、刘善案堂官亲验严议。",
+ "people": [
+  {
+   "name": "牛达",
+   "role": "太监"
+  },
+  {
+   "name": "刘善",
+   "role": "贼盗"
+  },
+  {
+   "name": "袁大",
+   "role": "逃犯"
+  },
+  {
+   "name": "荣宪公主",
+   "role": "公主"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17524,
+ "page_range": "361-362"
+}

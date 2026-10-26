@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题殴死额尔墨觉罗富泰拟秋后绞、其弟六什助殴拟鞭责折赎，康熙帝令富泰秋审断不可宽，六什枷号三月、鞭一百、发黑龙江当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "富泰",
+   "role": "额尔墨觉罗（死者）"
+  },
+  {
+   "name": "六什",
+   "role": "富泰之弟（助殴者）"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14204,
+ "page_range": "294-295"
+}

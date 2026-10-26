@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "初四日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命阿尔尼、佛伦传谕诸王大臣，论治国当期久安长治，征罗刹所关最巨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "尚书"
+  },
+  {
+   "name": "佛伦",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "乌龙江",
+  "松花江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9518,
+ "page_range": "225-226"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十七日壬戌",
+ "event_role": "人事任免",
+ "summary": "吏部题刑部原任郎中索拜降级所遗镶白旗员外郎员缺，康熙帝以勒色礼补授，南泰以原品随旗行走。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索拜",
+   "role": "刑部原任郎中"
+  },
+  {
+   "name": "南泰",
+   "role": "候补员外"
+  },
+  {
+   "name": "勒色礼",
+   "role": "拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2320,
+ "page_range": "81-82"
+}

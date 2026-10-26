@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "二十九日乙酉",
+ "event_role": "人事任免",
+ "summary": "议政王大臣会推镶红旗护军统领莽喀员缺，以缪齐纳拟正、希白赫拟陪，康熙帝令引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "莽喀",
+   "role": "镶红旗护军统领"
+  },
+  {
+   "name": "缪齐纳",
+   "role": "副都统"
+  },
+  {
+   "name": "希白赫",
+   "role": "拟陪副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12620,
+ "page_range": "287-288"
+}

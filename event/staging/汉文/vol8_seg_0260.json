@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十九年五月初二日",
+ "reign_year": 59,
+ "month": 5,
+ "day": 3,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州近日雨水调匀、地方无事，上号米价九钱、次号七钱六分，并进呈四月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報蘇州米價並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2867",
+ "order_index": 260
+}

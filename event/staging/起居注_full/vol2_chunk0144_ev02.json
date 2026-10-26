@@ -1,0 +1,38 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝拆阅诸卷，询问各卷字迹所属，梁清标、陈廷敬、牛钮等奏对考生家世。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁清标",
+   "role": "户部尚书"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "官员"
+  },
+  {
+   "name": "牛钮",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14402,
+ "page_range": "331-332"
+}

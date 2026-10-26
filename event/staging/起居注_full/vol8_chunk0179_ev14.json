@@ -1,0 +1,38 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "二十九日甲实",
+ "event_role": "司法案件",
+ "summary": "覆请会同赵申乔议打死李兴福之金三拟绞监候，康熙帝以与徐彩官令刘芳声殴打致死案相同，命发回再议。",
+ "people": [
+  {
+   "name": "金三",
+   "role": "案犯"
+  },
+  {
+   "name": "李兴福",
+   "role": "死者"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "徐彩官",
+   "role": "涉案人员"
+  },
+  {
+   "name": "刘芳声",
+   "role": "涉案人员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17914,
+ "page_range": "369-370"
+}

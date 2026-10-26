@@ -1,0 +1,36 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十六日己亥",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等遵旨调补甘肃巡抚齐世武员缺，康熙帝命将布政使鄂海补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "齐世武",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "特默德",
+   "role": "侍郎"
+  },
+  {
+   "name": "鄂海",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22724,
+ "page_range": "464-465"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "十一日丙辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝回跸，率折卜尊丹巴库图克图、扎西巴图尔等入羽化池等庙游览，驻跸五台县白云寺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "折卜尊丹巴库图克图",
+   "role": "喇嘛"
+  },
+  {
+   "name": "扎西巴图尔",
+   "role": "瑚瑚脑尔亲王"
+  }
+ ],
+ "places": [
+  "羽化池",
+  "五台县白云寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3220,
+ "page_range": "74-75"
+}

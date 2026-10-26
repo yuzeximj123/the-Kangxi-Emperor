@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令严惩受贿官员，将抬子王五一案中司官富保、笔帖式何多礼治罪，并传谕各部大臣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "富保",
+   "role": "受贿司官"
+  },
+  {
+   "name": "何多礼",
+   "role": "受贿笔帖式"
+  },
+  {
+   "name": "王五一",
+   "role": "案中抬子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3230
+}

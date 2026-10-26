@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝问李楠乔莱在地方情形，李楠称安静，康熙帝以其曾倡议阻挠河工、为人不端，命乔莱离本籍来京居住。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李楠",
+   "role": "学士"
+  },
+  {
+   "name": "乔莱",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 404,
+ "page_range": "18-19"
+}

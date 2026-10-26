@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "十六日辛丑",
+ "event_role": "其他",
+ "summary": "康熙帝评六十七为人狠戾，马齐奏六十七随征察哈尔对敌时曾回取腰刀，康熙帝言其回取双刀并未与敌，无耻之人遇敌无用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "六十七",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "察哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21010,
+ "page_range": "430-431"
+}

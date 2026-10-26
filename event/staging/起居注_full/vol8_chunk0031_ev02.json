@@ -1,0 +1,21 @@
+{
+ "reign_year": 52,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论京师钱价米价，谓小钱于民有益，今小钱渐少多作铜卖，令严禁湖广等处小钱来京贩卖。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京师",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3102,
+ "page_range": "73-74"
+}

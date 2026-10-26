@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "初八日辛酉",
+ "event_role": "司法案件",
+ "summary": "刑部题张氏打死其夫，康熙帝以其年逾八十、打死七十岁丈夫殊属可疑，命发回确审具奏。",
+ "people": [
+  {
+   "name": "张氏",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15509,
+ "page_range": "320-321"
+}

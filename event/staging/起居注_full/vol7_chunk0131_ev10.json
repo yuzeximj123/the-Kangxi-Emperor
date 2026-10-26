@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "初九日癸巳",
+ "event_role": "人事任免",
+ "summary": "吏部题补正黄旗迈色、正蓝旗塞克图、镶蓝旗拜都御史员缺，康熙帝命将各旗郎中引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "迈色",
+   "role": "御史补授人选"
+  },
+  {
+   "name": "塞克图",
+   "role": "御史补授人选"
+  },
+  {
+   "name": "拜都",
+   "role": "御史补授人选"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13110,
+ "page_range": "273-274"
+}

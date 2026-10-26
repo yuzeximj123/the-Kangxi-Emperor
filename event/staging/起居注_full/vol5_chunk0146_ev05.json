@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士等以折本请旨，康熙帝命宗人府主事敦多补授右卫同知。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "敦多",
+   "role": "宗人府主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14605,
+ "page_range": "302-303"
+}

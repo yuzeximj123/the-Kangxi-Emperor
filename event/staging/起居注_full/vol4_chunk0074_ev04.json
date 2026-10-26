@@ -1,0 +1,23 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕九卿，称先忧后乐理固宜然，因北边蒙古、盛京、乌喇、宁古塔等处忧劳过甚，虽遣官祈祷与亲往无异，每次皆竭诚斋戒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "蒙古",
+  "盛京",
+  "乌喇",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7404,
+ "page_range": "160-161"
+}

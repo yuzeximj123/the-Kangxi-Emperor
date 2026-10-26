@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "十八日辛已",
+ "event_role": "人事任免",
+ "summary": "湖北巡抚杨素蕴托病乞解任，康熙帝以其不亲勘灾、殊为可恶，着革职。",
+ "people": [
+  {
+   "name": "杨素蕴",
+   "role": "湖北巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8910,
+ "page_range": "190-191"
+}

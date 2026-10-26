@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "初一日丙申",
+ "event_role": "议政听政",
+ "summary": "户部题考核崇文门监督苏黑纳任内钱粮，康熙帝询问温保采办物料情形，温保奏称赏人缎匹纸张颜料等项采办无定。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏黑纳",
+   "role": "崇文门监督"
+  },
+  {
+   "name": "温保",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3615,
+ "page_range": "82-83"
+}

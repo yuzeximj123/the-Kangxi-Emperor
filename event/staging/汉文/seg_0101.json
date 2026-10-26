@@ -1,0 +1,39 @@
+{
+ "date_raw": "康熙四十四年十二月二十三日",
+ "reign_year": 44,
+ "month": 12,
+ "day": 23,
+ "event_role": "人事任免",
+ "summary": "赵弘燮奏报调补直隶巡抚后料理漕粮交印起程及候李光地送印上任事宜。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "李光地",
+   "role": "涉及人物"
+  },
+  {
+   "name": "许嗣兴",
+   "role": "涉及人物"
+  },
+  {
+   "name": "查日昌",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "河南",
+  "直隶",
+  "福建",
+  "闽封府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示已知悉此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "140",
+ "source_title": "河南巡抚赵弘燮奏为陈展赴直隶巡抚新任缘由摺",
+ "order_index": 101
+}

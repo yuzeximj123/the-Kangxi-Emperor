@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "初五日甲申",
+ "event_role": "谕旨决策",
+ "summary": "礼部请为已故管侍卫内大臣公嘲布喇加祭，康熙帝命予谥并加祭三次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "嘲布喇",
+   "role": "已故管侍卫内大臣公"
+  },
+  {
+   "name": "索尼",
+   "role": "原辅臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8215,
+ "page_range": "207-208"
+}

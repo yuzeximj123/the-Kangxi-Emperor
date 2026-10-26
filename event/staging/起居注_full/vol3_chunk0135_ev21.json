@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 1,
+ "day_text": "十七日于申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕差往黑龙江督理农务的马喇，令其合力播种屯田、务期农政修举收获饶裕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马喇",
+   "role": "阿达哈哈番督理农务"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13521,
+ "page_range": "305-306"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十四日庚辰",
+ "event_role": "祭祀典礼",
+ "summary": "礼部题祭泰山如祭天坛礼、祭孔林如上幸太学礼，议定仪注；康熙帝从部议，不以封禅为宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "泰山",
+  "孔林"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1308,
+ "page_range": "61-62"
+}

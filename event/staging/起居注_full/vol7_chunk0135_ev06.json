@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十三日",
+ "event_role": "司法案件",
+ "summary": "刑部议王孔林戳死杨四拟绞奏请，康熙帝以其前有刺人今又戳死人命情罪可恶，命查明同类正法案例具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王孔林",
+   "role": "罪犯"
+  },
+  {
+   "name": "杨四",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13506,
+ "page_range": "281-282"
+}

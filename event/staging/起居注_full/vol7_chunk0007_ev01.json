@@ -1,0 +1,41 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "九卿议民人告盐商事将侍郎绥色等议罪，康熙帝认为不公，命行文陕甘、山西督抚详察具奏。",
+ "people": [
+  {
+   "name": "绥色",
+   "role": "侍郎"
+  },
+  {
+   "name": "徐秉义",
+   "role": "官员"
+  },
+  {
+   "name": "华显",
+   "role": "陕西总督"
+  },
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "山西",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 701,
+ "page_range": "25-26"
+}

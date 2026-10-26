@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问李光地参将袁立相声名果佳乎，李光地奏居官果佳；又问胡坤如何，李光地奏胡坤勤敏亦耐劳苦。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "袁立相",
+   "role": "参将"
+  },
+  {
+   "name": "胡坤",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13018,
+ "page_range": "271-272"
+}

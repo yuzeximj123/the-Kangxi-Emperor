@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初六日丙午",
+ "event_role": "人事任免",
+ "summary": "工部侍郎李光地已授直隶巡抚，员缺由学士顾藻升授工部侍郎，康熙并称由翰林升任官员知顾体统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "工部侍郎，已授直隶巡抚"
+  },
+  {
+   "name": "顾藻",
+   "role": "学士，升工部侍郎"
+  },
+  {
+   "name": "吴邓",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6704,
+ "page_range": "144-145"
+}

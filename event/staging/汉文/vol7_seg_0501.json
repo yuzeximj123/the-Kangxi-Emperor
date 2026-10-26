@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十六年九月初一日",
+ "reign_year": 56,
+ "month": 9,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "京口将军何天培奏报闻知前线擒获厄鲁特兵丁之事，并报镇江今岁雨水调匀、稻谷丰收、米价平稳。",
+ "people": [
+  {
+   "name": "何天培",
+   "role": "京口将军，奏报人"
+  },
+  {
+   "name": "泽旺阿喇蒲坦",
+   "role": "厄鲁特首领，被提及"
+  },
+  {
+   "name": "王辂",
+   "role": "马战兵，赍捧奏折者"
+  }
+ ],
+ "places": [
+  "京口",
+  "镇江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，所奏之事已知晓。",
+ "source_title": "京口將軍何天培奏拿獲洋匪並報地方年成摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2512",
+ "order_index": 501
+}

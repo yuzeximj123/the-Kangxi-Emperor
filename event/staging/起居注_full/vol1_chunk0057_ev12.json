@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 10,
+ "day_text": "十二日戊申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝特赐满汉讲官貂皮、白金、表里，熊赐履等辞谢，帝谕令只受无辞，赐履等遵旨谢恩于乾清门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5712,
+ "page_range": "171-172"
+}

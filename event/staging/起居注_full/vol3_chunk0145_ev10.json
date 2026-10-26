@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初一日乙卯",
+ "event_role": "朝见受贺",
+ "summary": "直隶巡抚于成龙陛辞，赐食于太和门，未时康熙帝召至乾清宫问话。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和门",
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14510,
+ "page_range": "325-326"
+}

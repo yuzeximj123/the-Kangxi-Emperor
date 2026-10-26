@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初八日辛酉",
+ "event_role": "司法案件",
+ "summary": "刑部题郎廷术自通州运来之物被蓝翎侍卫齐格则串同门军截路抢夺，康熙帝命该部严议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郎廷术",
+   "role": "官员"
+  },
+  {
+   "name": "齐格则",
+   "role": "蓝翎侍卫"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15904,
+ "page_range": "353-354"
+}

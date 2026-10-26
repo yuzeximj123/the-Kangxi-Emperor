@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "三十日辛丑",
+ "event_role": "司法案件",
+ "summary": "刑部题莽牛于甘石桥打倒金二抢去马匹应拟斩监候，康熙以京城重地白昼抢夺可恶，着另行严议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "莽牛",
+   "role": "罪犯"
+  },
+  {
+   "name": "金二",
+   "role": "被害人"
+  }
+ ],
+ "places": [
+  "甘石桥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3212,
+ "page_range": "76-77"
+}

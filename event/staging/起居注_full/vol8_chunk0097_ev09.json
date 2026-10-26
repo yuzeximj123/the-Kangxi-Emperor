@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "二十九日甲子",
+ "event_role": "人事任免",
+ "summary": "贵州巡抚刘荫枢题请安顺府知府员缺，以思州府知府管承宠调补，康熙帝照所请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "管承宠",
+   "role": "思州府知府"
+  }
+ ],
+ "places": [
+  "安顺府",
+  "思州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9709,
+ "page_range": "205-206"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初九日辛巳",
+ "event_role": "军务",
+ "summary": "议政王等会议副都统鲁西巴图鲁在岳州逗留不前应议罪，因乘船遇风陷敌身亡免议，康熙帝令仍议叙其阵亡之处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鲁西巴图鲁",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "岳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18611,
+ "page_range": "415-416"
+}

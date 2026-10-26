@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初五日丙戌",
+ "event_role": "奏报灾情收成",
+ "summary": "户部尚书伊桑阿、理藩院侍郎明爱奏苏尼忒等旗蒙古原议给米赈济，因马匹羸瘦不能至宣府取米，议改给银，康熙不解命另议来春。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "明爱",
+   "role": "理藩院侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宣府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5819,
+ "page_range": "159-160"
+}

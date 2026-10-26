@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "十二日庚午",
+ "event_role": "司法案件",
+ "summary": "刑部题总督席尔达审明巡抚于养志、提督岳昇龙互相揭参事，康熙责前审大臣徇情，命将三部大臣均行申饬。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "总督"
+  },
+  {
+   "name": "于养志",
+   "role": "巡抚"
+  },
+  {
+   "name": "岳昇龙",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18419,
+ "page_range": "378-379"
+}

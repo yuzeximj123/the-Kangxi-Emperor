@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝评论线一信居官诚劣已革职，并论人性难定、用人善则任之、改行即革退。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "线一信",
+   "role": "被革职官员"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "前直隶巡抚"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2100,
+ "page_range": "52-53"
+}

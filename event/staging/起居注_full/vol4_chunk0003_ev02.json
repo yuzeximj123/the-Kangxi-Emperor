@@ -1,0 +1,52 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "诸王贝勒大臣等至乾清门外御幕前跪奏，请康熙帝回乾清门内温暖之室以养圣体。",
+ "people": [
+  {
+   "name": "诸王",
+   "role": "宗室"
+  },
+  {
+   "name": "贝勒",
+   "role": "宗室"
+  },
+  {
+   "name": "贝子",
+   "role": "宗室"
+  },
+  {
+   "name": "公",
+   "role": "宗室"
+  },
+  {
+   "name": "外藩王",
+   "role": "蒙古王公"
+  },
+  {
+   "name": "台吉",
+   "role": "蒙古贵族"
+  },
+  {
+   "name": "塔布囊",
+   "role": "蒙古贵族"
+  },
+  {
+   "name": "内大臣",
+   "role": "大臣"
+  },
+  {
+   "name": "满汉大学士",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 302,
+ "page_range": "18-19"
+}

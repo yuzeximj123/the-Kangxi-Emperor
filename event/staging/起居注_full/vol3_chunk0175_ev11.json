@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "二十二日甲成",
+ "event_role": "河工水利",
+ "summary": "九卿会议以总河靳辅河工无成效、糜费钱粮，议应革职留任仍令修河，康熙帝询问伊桑阿、余国柱意见。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "尚书"
+  },
+  {
+   "name": "余国柱",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17511,
+ "page_range": "385-386"
+}

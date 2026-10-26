@@ -1,0 +1,53 @@
+{
+ "reign_year": 29,
+ "month": 2,
+ "day_text": "二十二日甲申",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御畅春园凝宁居，大学士伊桑阿等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  },
+  {
+   "name": "西安",
+   "role": "学士"
+  },
+  {
+   "name": "博济",
+   "role": "学士"
+  },
+  {
+   "name": "王国昌",
+   "role": "学士"
+  },
+  {
+   "name": "西喇",
+   "role": "学士"
+  },
+  {
+   "name": "布颜图",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "凝宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10518,
+ "page_range": "222-223"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝提及直隶守道祁国几前此居官情况，原文至此中断。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "祁国几",
+   "role": "直隶守道"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20609,
+ "page_range": "423-424"
+}

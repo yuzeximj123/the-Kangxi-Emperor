@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十七日本西",
+ "event_role": "河工水利",
+ "summary": "工部尚书萨木哈奏遵旨问李铠等十六人淮扬河道情形，皆称离家年久不知，康熙帝论河工关系民生漕运，质疑总河董安国奏水长。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨木哈",
+   "role": "工部尚书"
+  },
+  {
+   "name": "李铠",
+   "role": "侍读学士"
+  },
+  {
+   "name": "董安国",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "淮扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6419,
+ "page_range": "138-139"
+}

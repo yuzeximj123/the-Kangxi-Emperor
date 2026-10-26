@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "二十八日庚申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕汤斌，苏州乡官汪琬原系翰林，为人厚重、学问优通、居乡安静，特赐御笔手卷一轴，遣人付与，不必令其来见，着在家谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "汪琬",
+   "role": "苏州乡官、原翰林"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5515,
+ "page_range": "145-146"
+}

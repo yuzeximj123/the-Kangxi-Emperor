@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "十三日戊戌",
+ "event_role": "议政听政",
+ "summary": "议政大臣会议遵康熙手诏，行文费扬古预留陕西兵堵截塞棱格，大兵距后前来，并誊写手诏移知阿南达等，奉旨依议。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "阿南达",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "塞棱格",
+  "土喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11504,
+ "page_range": "240-241"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "二十九日全效",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸荡峪，御行宫，大学士马齐、学士钱齐保、满都以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "钱齐保",
+   "role": "学士"
+  },
+  {
+   "name": "满都",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "荡峪"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12534,
+ "page_range": "260-261"
+}

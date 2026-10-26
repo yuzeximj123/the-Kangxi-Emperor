@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "十八日乙未",
+ "event_role": "人事任免",
+ "summary": "宗人府题觉罗阿克山遗言以第三弟常寿承袭二等阿达哈哈番，照例仍议与其长子棱腾承袭，康熙帝谕令定例令闲散宗室考试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿克山",
+   "role": "觉罗"
+  },
+  {
+   "name": "常寿",
+   "role": "阿克山第三弟"
+  },
+  {
+   "name": "棱腾",
+   "role": "阿克山长子"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1101,
+ "page_range": "32-33"
+}

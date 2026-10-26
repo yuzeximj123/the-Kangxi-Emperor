@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙二十八年二月二十日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十日成午",
+ "event_role": "朝见受贺",
+ "summary": "在籍户部尚书王日格等及苏州松江乡绅士民集行宫献物，恳请暂留，康熙帝允留一日。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王日格",
+   "role": "在籍户部尚书"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "都御史"
+  },
+  {
+   "name": "韩菊",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "苏州府",
+  "松江府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2009
+}

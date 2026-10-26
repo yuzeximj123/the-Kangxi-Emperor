@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十二年十二月",
+ "reign_year": 42,
+ "month": 12,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州六月降雨、旱情缓解及米价平稳、民情安定情形。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "淮徐",
+  "两浙"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称自己已大安，因忧心南方旱情而寝食不安，得此奏稍解忧虑，命秋收后再奏报，并叮嘱奏帖不可让人知道。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "3",
+ "source_title": "苏州织造李煦奏报苏州得雨并报米价摺",
+ "order_index": 2
+}

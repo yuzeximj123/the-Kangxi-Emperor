@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙谕伊桑阿等，广东盐田灶丁等项于康熙二十二年原数外增银一万四千余两，自今年免其一半。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22502,
+ "page_range": "462-463"
+}

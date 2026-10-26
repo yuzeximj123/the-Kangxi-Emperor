@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初三日庚寅",
+ "event_role": "人事任免",
+ "summary": "明珠等奏布政使与侍读学士品级相当可调补，康熙帝以马齐颇通汉文命调补山西布政使。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "侍读学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11026,
+ "page_range": "255-256"
+}

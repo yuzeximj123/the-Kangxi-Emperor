@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十三日甲子",
+ "event_role": "其他",
+ "summary": "康熙帝赐西安将军以下、协领以上，文臣总督以下、知县以上，武臣提督以下、参将以上及副将康泰父母眼镜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "康泰",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8311,
+ "page_range": "177-178"
+}

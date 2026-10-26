@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就归化城用人等事谕责阿称瑚琅等，阿称瑚琅等承认知识陋劣、计虑不周，表示不敢坏国事以求自利。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿称瑚琅",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17300,
+ "page_range": "389-390"
+}

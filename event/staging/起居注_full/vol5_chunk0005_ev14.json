@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "三十日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "户部题喇西奏供给外藩蒙古羊草不足斤数，议令招买人赔补，康熙帝以赔补乖谬，令申饬户部堂官并将本发回另议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇西",
+   "role": "内阅侍读学士"
+  }
+ ],
+ "places": [
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 514,
+ "page_range": "20-21"
+}

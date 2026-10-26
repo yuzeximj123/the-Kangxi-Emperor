@@ -1,0 +1,40 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "初十日已已",
+ "event_role": "朝见受贺",
+ "summary": "河南巡抚徐潮赴任恭请训导，康熙帝谕以严禁火耗、筹画亏空、查核积储，并令有奏事先具折子交内。",
+ "people": [
+  {
+   "name": "徐潮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏副",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "郭玫",
+   "role": "官员"
+  },
+  {
+   "name": "彭鹏",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17411,
+ "page_range": "358-359"
+}

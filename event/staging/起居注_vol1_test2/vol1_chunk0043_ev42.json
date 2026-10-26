@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 5,
+ "day_text": "二十日己丑",
+ "event_role": "人事任免",
+ "summary": "未时康熙帝御乾清门，赐调补福建海泪总兵官员缺、陕西西宁总兵官王可臣食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王可臣",
+   "role": "陕西西宁总兵官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4342,
+ "page_range": "143-144"
+}

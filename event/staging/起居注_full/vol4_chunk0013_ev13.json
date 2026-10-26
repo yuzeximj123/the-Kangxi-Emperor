@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝阅改易稿毕问何人改易，董讷奏或系佛伦自改或系别人所改，请皇上鉴察。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董讷",
+   "role": "两江总督"
+  },
+  {
+   "name": "佛伦",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1313,
+ "page_range": "38-39"
+}

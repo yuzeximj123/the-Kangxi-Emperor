@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请以侍讲学士朱典转补翰林院侍读学士朱之佐病故员缺，以右庶子高士奇升补朱典员缺。",
+ "people": [
+  {
+   "name": "朱之佐",
+   "role": "翰林院侍读学士（病故）"
+  },
+  {
+   "name": "朱典",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "高士奇",
+   "role": "右庶子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 900,
+ "page_range": "53-54"
+}

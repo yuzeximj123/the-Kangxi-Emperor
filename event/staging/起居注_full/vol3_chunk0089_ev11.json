@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "二十日己本",
+ "event_role": "皇帝行止",
+ "summary": "未时，康熙帝御景山内前殿，召兴化总兵官王万祥赐食，询问其有无陈奏并谕以安民之责。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王万祥",
+   "role": "兴化总兵官"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8911,
+ "page_range": "213-214"
+}

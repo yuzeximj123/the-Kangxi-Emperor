@@ -1,0 +1,27 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "运粮正卿喻成龙等报告粮车出喀伦后水草缺少、牲口疲瘦，会议决定留十五日口粮于喀伦，余三十五日运至土喇，不足则用余骆驼助运。",
+ "people": [
+  {
+   "name": "喻成龙",
+   "role": "运粮正卿"
+  },
+  {
+   "name": "范承烈",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [
+  "喀伦",
+  "翁金",
+  "土喇",
+  "教汉察军和朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11700,
+ "page_range": "244-245"
+}

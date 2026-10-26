@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十四日丙子",
+ "event_role": "司法案件",
+ "summary": "直隶巡抚赵弘沟题邓元珍殴击误中邓云路致死案，康熙帝令九卿会同确议是否拟立决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘沟",
+   "role": "总督管理直隶巡抚事务"
+  },
+  {
+   "name": "邓元珍",
+   "role": "案犯"
+  },
+  {
+   "name": "邓国相",
+   "role": "涉案人"
+  },
+  {
+   "name": "邓云路",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11017,
+ "page_range": "231-232"
+}

@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙五十四年七月二十五日",
+ "reign_year": 54,
+ "month": 7,
+ "day": 25,
+ "event_role": "请安谢恩",
+ "summary": "两广总督赵弘灿以年老体衰、久未觐见为由，再次上疏恳请陛见，并恭缴朱批原折，表达感恩与瞻恋之情。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督，奏请陛见者"
+  },
+  {
+   "name": "赵弘燮",
+   "role": "赵弘灿之弟，广东巡抚，代为跪书奏折"
+  },
+  {
+   "name": "刘士杰",
+   "role": "赵弘灿家人，赍送奏折者"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示知道了，并称口外强远。",
+ "source_title": "兩廣總督趙弘燦奏請覲見摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1848",
+ "order_index": 117
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "尚书范承勋奏报原任尚书王日藻病故，康熙帝令将工部议叙人员一并议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "尚书"
+  },
+  {
+   "name": "王日藻",
+   "role": "原任尚书"
+  }
+ ],
+ "places": [
+  "齐河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16502,
+ "page_range": "340-341"
+}

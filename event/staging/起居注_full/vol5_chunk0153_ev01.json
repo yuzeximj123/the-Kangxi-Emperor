@@ -1,0 +1,36 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "山东巡抚杨廷耀员缺，康熙帝称张勒人材优长、刘连运米勤敏、李炜居官甚善，命问九卿具奏。",
+ "people": [
+  {
+   "name": "杨廷耀",
+   "role": "山东巡抚（员缺）"
+  },
+  {
+   "name": "三宝",
+   "role": "学士"
+  },
+  {
+   "name": "张勒",
+   "role": "候选官员"
+  },
+  {
+   "name": "刘连",
+   "role": "运米官员"
+  },
+  {
+   "name": "李炜",
+   "role": "候选官员"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15301,
+ "page_range": "316-317"
+}

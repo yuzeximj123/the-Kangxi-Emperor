@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初二日庚申",
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚沈朝聘题宣化府所属被灾田地请缓征钱粮，康熙帝命今年未完钱粮免征收，三十五年钱粮照顺天等四府例蠲免。",
+ "people": [
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宣化府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8713,
+ "page_range": "184-185"
+}

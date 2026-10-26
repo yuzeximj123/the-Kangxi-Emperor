@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "二十六日戊寅",
+ "event_role": "司法案件",
+ "summary": "刑部奏永定河捐修赎罪之例与南河顶捐赎罪之例相符，开列斌山佐领下稍匠笑特布等二十七人姓名罪犯请裁，康熙帝以情罪相当俱不准赎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "笑特布",
+   "role": "稍匠"
+  }
+ ],
+ "places": [
+  "永定河",
+  "南河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22423,
+ "page_range": "459-460"
+}

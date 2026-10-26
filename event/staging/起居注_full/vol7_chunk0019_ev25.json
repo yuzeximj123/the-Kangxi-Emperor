@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十八日戊实",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻足行宫，申时驾出行宫外河滨观渔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "行宫",
+  "河滨"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1925,
+ "page_range": "49-50"
+}

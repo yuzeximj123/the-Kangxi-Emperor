@@ -1,0 +1,38 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "十九日甲辰",
+ "event_role": "司法案件",
+ "summary": "侍郎阿尔拜等因不严束跟随人役致违禁举火，分别被罚俸一年或数月。",
+ "people": [
+  {
+   "name": "阿尔拜",
+   "role": "侍郎"
+  },
+  {
+   "name": "星安",
+   "role": "正黄旗三等侍卫"
+  },
+  {
+   "name": "张实君",
+   "role": "正黄旗内府司库"
+  },
+  {
+   "name": "巴都立",
+   "role": "正白旗二等侍卫委署章京"
+  },
+  {
+   "name": "清保",
+   "role": "光禄寺署丞"
+  },
+  {
+   "name": "华色",
+   "role": "国子监八品笔帖式"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11612,
+ "page_range": "242-243"
+}

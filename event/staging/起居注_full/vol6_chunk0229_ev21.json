@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "二十九日王子",
+ "event_role": "朝见受贺",
+ "summary": "防御布汉等、遵化营千总孙自立等来朝。",
+ "people": [
+  {
+   "name": "布汉",
+   "role": "防御"
+  },
+  {
+   "name": "孙自立",
+   "role": "遵化营千总"
+  }
+ ],
+ "places": [
+  "遵化营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22921,
+ "page_range": "468-469"
+}

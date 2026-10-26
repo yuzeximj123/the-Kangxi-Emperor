@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "十七日丁酉",
+ "event_role": "人事任免",
+ "summary": "题转补郎中员缺，康熙帝询问后命户部员外郎厄德贝升补郎中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "厄德贝",
+   "role": "户部员外郎"
+  },
+  {
+   "name": "麻尔苏",
+   "role": "工部员外郎"
+  },
+  {
+   "name": "科尔坤",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19911,
+ "page_range": "433-434"
+}

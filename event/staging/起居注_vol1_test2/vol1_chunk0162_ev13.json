@@ -1,0 +1,23 @@
+{
+ "reign_year": 17,
+ "month": 5,
+ "day_text": "十八日丁巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝由石景山幸南苑，进西红门，驻跸东宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "石景山",
+  "南苑",
+  "西红门",
+  "东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16213,
+ "page_range": "381-382"
+}

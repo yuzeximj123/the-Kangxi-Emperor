@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "三十日甲实",
+ "event_role": "人事任免",
+ "summary": "礼部题请太子太保和硕额驸耿昭忠照内大臣赐恤例给与全葬之价并致祭，康熙帝询问诸臣后准依议。",
+ "people": [
+  {
+   "name": "耿昭忠",
+   "role": "太子太保和硕额驸"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14504,
+ "page_range": "325-326"
+}

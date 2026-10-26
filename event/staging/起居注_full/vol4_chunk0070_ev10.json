@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 4,
+ "day_text": "十六日壬午",
+ "event_role": "其他",
+ "summary": "福建靖海将军施粮进献红毛国讽骗马一匹，康熙帝不予收纳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施粮",
+   "role": "福建靖海将军"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7010,
+ "page_range": "152-153"
+}

@@ -1,0 +1,21 @@
+{
+ "date_raw": "康熙十年九月二十一日己巳",
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "二十一日己巳",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝于福陵设牲帛读祝举哀，三献行礼，祭毕回盛京。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福陵",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19
+}

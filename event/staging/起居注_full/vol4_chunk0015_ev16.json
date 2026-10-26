@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问九卿之意，张玉书奏称下河应修。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "九卿官员"
+  }
+ ],
+ "places": [
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1516,
+ "page_range": "42-43"
+}

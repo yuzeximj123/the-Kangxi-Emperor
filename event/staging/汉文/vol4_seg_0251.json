@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十二年六月初九日",
+ "reign_year": 52,
+ "month": 6,
+ "day": 5,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州、淮扬一带雨水及盐场积水情形，报告天气转晴后督催灶户煎盐捆运，引盐将运至仪真秤掣，并说明因多雨盐期迟延约两月。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "福州",
+  "淮扬",
+  "坝场",
+  "仪真",
+  "扬州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報麥收分數併報米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1363",
+ "order_index": 251
+}

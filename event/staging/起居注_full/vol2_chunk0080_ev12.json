@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "二十三日壬申",
+ "event_role": "军务",
+ "summary": "议章泰贝子题中甸等五处原属丽江府输纳钱粮、云南平定后如何设官兵防守事，康熙帝命议政王大臣再行确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章泰",
+   "role": "贝子"
+  }
+ ],
+ "places": [
+  "丽江府",
+  "云南",
+  "中甸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8012,
+ "page_range": "203-204"
+}

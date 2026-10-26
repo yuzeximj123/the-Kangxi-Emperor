@@ -1,0 +1,30 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报江南雨泽、米价、盗案及福属田亩收成情形，以纾圣忧。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "王可成",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "蘇州",
+  "江南",
+  "福屬"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "266",
+ "source_title": "蘇州織造李煦奏為御書天寧寺匾聯現已如式製造摺",
+ "order_index": 194
+}

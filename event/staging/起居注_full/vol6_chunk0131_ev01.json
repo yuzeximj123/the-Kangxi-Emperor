@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "十七日辛巳",
+ "event_role": "河工水利",
+ "summary": "常绥奏报于成龙等对改移清口及高家堰减水坝修筑的意见。",
+ "people": [
+  {
+   "name": "常绥",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "清口",
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13101,
+ "page_range": "272-273"
+}

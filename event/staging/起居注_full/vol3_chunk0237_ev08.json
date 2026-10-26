@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "射毕皇太子复入无逸斋，命汤斌从《四书》中随便摘章由皇太子讲解。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "无逸斋"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23708,
+ "page_range": "509-510"
+}

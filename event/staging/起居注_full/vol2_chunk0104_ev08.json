@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "初九日了已",
+ "event_role": "谕旨决策",
+ "summary": "巳时，大学士勒德洪、明珠等传谕汉大学士、学士、九卿、詹事、科道等官，询问欲于乾清门内特宴汉官之意，李霨等奏谢。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10408,
+ "page_range": "251-252"
+}

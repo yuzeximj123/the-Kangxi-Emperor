@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "十六日己未",
+ "event_role": "谕旨决策",
+ "summary": "户部覆乌喇虞人首领称克登请发米谷借给外人议准行，康熙帝令查明贮仓米谷及需用数目具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "称克登",
+   "role": "乌喇虞人首领"
+  }
+ ],
+ "places": [
+  "乌喇",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6917,
+ "page_range": "149-150"
+}

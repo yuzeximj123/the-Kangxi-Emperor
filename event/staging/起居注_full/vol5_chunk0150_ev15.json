@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": "初一日甲申",
+ "event_role": "谕旨决策",
+ "summary": "户部覆云南巡抚石文晶题免缺额盐课，康熙帝以地方官巧为请免命照部议不准行并交户部行查。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石文晶",
+   "role": "云南巡抚"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15015,
+ "page_range": "310-311"
+}

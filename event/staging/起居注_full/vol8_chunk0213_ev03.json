@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘党题请永定河北岸分司齐苏勒三年期满称职，康熙帝命再留三年。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "总督管理直隶巡抚事务"
+  },
+  {
+   "name": "齐苏勒",
+   "role": "永定河北岸分司"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21303,
+ "page_range": "437-438"
+}

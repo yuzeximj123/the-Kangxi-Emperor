@@ -1,0 +1,33 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "总漕王梁参奏闵州卫千总杨奉、运通判范文在油船私带商人货物，康熙帝斥王梁搜货暴虐。",
+ "people": [
+  {
+   "name": "王梁",
+   "role": "总漕"
+  },
+  {
+   "name": "杨奉",
+   "role": "闵州卫千总"
+  },
+  {
+   "name": "范文",
+   "role": "运通判"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "油船",
+  "沿河两岸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7200,
+ "page_range": "154-155"
+}

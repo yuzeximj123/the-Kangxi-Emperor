@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙四十三年五月十七日",
+ "reign_year": 43,
+ "month": 5,
+ "day": 17,
+ "event_role": "军务",
+ "summary": "苏州织造李煦祝贺康熙亲征噶尔丹获胜，并请求陛见，兼报苏州雨泽调匀秋成可望。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "曹寅",
+   "role": "涉及人物"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙提及皖抚所奏及某人读书嗜古、呈送夫子卷帙等事，称已有旨处理。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "11",
+ "source_title": "苏州织造李煦奏贺亲征噶尔丹获胜折",
+ "order_index": 9
+}

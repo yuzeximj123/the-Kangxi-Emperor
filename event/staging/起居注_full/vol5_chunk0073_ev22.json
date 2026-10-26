@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": "十七日了丑",
+ "event_role": "人事任免",
+ "summary": "吏部题湖南巡抚董安国员缺，将内阁学士戴通等职名开列，康熙帝提及董安国来时曾奏称。",
+ "people": [
+  {
+   "name": "董安国",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "戴通",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7322,
+ "page_range": "156-157"
+}

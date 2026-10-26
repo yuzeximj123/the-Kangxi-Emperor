@@ -1,0 +1,24 @@
+{
+ "reign_year": 17,
+ "month": 10,
+ "day_text": "二十一日",
+ "event_role": "议政听政",
+ "summary": "康熙帝率内大臣、侍卫等射毕，命太平路千总李文昌等射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李文昌",
+   "role": "太平路千总"
+  }
+ ],
+ "places": [
+  "米峪口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17125,
+ "page_range": "399-400"
+}

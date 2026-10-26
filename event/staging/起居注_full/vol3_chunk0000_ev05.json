@@ -1,0 +1,36 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "初一日本卯",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门大宴诸王贝勒文武各官及来朝外藩、朝鲜使臣，乐作进酒并赐饮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杰淑",
+   "role": "和硕康亲王"
+  },
+  {
+   "name": "陈世凯",
+   "role": "浙江荆州总兵官"
+  },
+  {
+   "name": "许盛",
+   "role": "江西南玫总兵官"
+  },
+  {
+   "name": "严队",
+   "role": "湖广苦陵总兵官"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5,
+ "page_range": "35-36"
+}

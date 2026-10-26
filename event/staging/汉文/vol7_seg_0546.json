@@ -1,0 +1,28 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "李煦奏谢康熙再留其巡视两淮盐课一年之恩，表示将恤商裕课、尽力职守，并望阙叩头谢恩。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "巡视两淮盐课、奴才"
+  },
+  {
+   "name": "曹寅",
+   "role": "曾管理两淮盐务一载"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙询问李煦明年应完银两数额甚多，能否如数完纳。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 546
+}

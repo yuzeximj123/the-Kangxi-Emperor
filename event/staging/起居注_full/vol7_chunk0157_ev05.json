@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝追述昔日为挖子牙河往视时，大成、武清两县民争诉，帝慰谕并一一指授监修官员，后河工告成两处百姓俱有裨益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "子牙河",
+  "大成县",
+  "武清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15705,
+ "page_range": "325-326"
+}

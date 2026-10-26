@@ -1,0 +1,32 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "董讷奏高加堰旧系石堤近来损坏，总河欲筑重堤，众议以为可不必筑。",
+ "people": [
+  {
+   "name": "董讷",
+   "role": "两江总督"
+  },
+  {
+   "name": "佛伦",
+   "role": "官员"
+  },
+  {
+   "name": "赵吉士",
+   "role": "官员"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "高加堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1309,
+ "page_range": "38-39"
+}

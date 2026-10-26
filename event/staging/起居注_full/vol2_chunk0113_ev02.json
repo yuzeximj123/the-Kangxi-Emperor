@@ -1,0 +1,37 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "福建水师提督施琅请将所留明郑官员何义等三十三人发往福建，部议不准，康熙帝亦令不准行。",
+ "people": [
+  {
+   "name": "施琅",
+   "role": "福建水师提督"
+  },
+  {
+   "name": "何义",
+   "role": "明郑官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "学士"
+  },
+  {
+   "name": "朱贵",
+   "role": "投诚人员"
+  }
+ ],
+ "places": [
+  "福建",
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11302,
+ "page_range": "269-270"
+}

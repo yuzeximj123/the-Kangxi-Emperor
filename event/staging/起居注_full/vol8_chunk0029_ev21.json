@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": "二十九日甲帮",
+ "event_role": "人事任免",
+ "summary": "康熙帝以湖南巡抚潘宗洛所奏诸事糊涂、雨水田禾未奏，命问在京大学士、九卿其人行止如何公同具奏。",
+ "people": [
+  {
+   "name": "潘宗洛",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2921,
+ "page_range": "69-70"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "初八日本已",
+ "event_role": "司法案件",
+ "summary": "理藩院题科尔沁王赦齐里擅带护卫巴查儿等来京应罚生畜，康熙帝命酌议来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "赦齐里",
+   "role": "科尔沁王"
+  },
+  {
+   "name": "巴查儿",
+   "role": "护卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9014,
+ "page_range": "223-224"
+}

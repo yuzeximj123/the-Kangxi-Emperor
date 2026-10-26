@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "十二日丁酉",
+ "event_role": "朝见受贺",
+ "summary": "未时乌朱穆秦亲王色登敦多卜备宴献康熙帝及皇太子诸皇子，并宴诸大臣侍卫蒙古王贝勒贝子公台吉等。",
+ "people": [
+  {
+   "name": "色登敦多卜",
+   "role": "乌朱穆秦亲王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "乌朱穆秦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20926,
+ "page_range": "428-429"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "十三日甲成",
+ "event_role": "朝见受贺",
+ "summary": "香河县知县秦棠、守备张凤翔等来朝见康熙帝。",
+ "people": [
+  {
+   "name": "秦棠",
+   "role": "香河县知县"
+  },
+  {
+   "name": "张凤翔",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "香河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6606,
+ "page_range": "142-143"
+}

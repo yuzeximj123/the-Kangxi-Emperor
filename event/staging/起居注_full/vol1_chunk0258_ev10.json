@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十一日戊申",
+ "event_role": "军务",
+ "summary": "贵州巡抚杨至建奏思南府被失请发兵恢复，康熙帝令严旨切责。",
+ "people": [
+  {
+   "name": "杨至建",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "思南府",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25810,
+ "page_range": "573-574"
+}

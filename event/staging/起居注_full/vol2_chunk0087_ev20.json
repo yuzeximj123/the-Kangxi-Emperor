@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "二十八日本未",
+ "event_role": "人事任免",
+ "summary": "吏部题补本部郎中陶罗员缺，正拟雅虎、陪拟库查，康熙以库查年久且以才能举送，令补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "雅虎",
+   "role": "员外"
+  },
+  {
+   "name": "库查",
+   "role": "拟陪人员"
+  },
+  {
+   "name": "巴布那",
+   "role": "举送人员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8720,
+ "page_range": "217-218"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十七日丙辰",
+ "event_role": "其他",
+ "summary": "康熙帝自巩华城还，见山东济南府饥民李守贵等十二人在土城关外，命各给银。",
+ "people": [
+  {
+   "name": "李守贵",
+   "role": "饥民"
+  }
+ ],
+ "places": [
+  "土城关",
+  "山东济南府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23013,
+ "page_range": "517-518"
+}

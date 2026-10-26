@@ -1,0 +1,21 @@
+{
+ "reign_year": 13,
+ "month": 2,
+ "day_text": "十四日戊申",
+ "event_role": "皇帝行止",
+ "summary": "卯时，康熙帝出朝阳门，赴朝日坛躬祭；辰时还宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝阳门",
+  "朝日坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6645,
+ "page_range": "189-190"
+}

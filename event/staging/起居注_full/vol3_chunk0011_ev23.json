@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十一日本丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补御史阎兴邦内升员缺，拟刘芳远正、徐永昌陪，康熙帝以刘芳远才品平常，命拣选具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阎兴邦",
+   "role": "御史"
+  },
+  {
+   "name": "刘芳远",
+   "role": "郎中"
+  },
+  {
+   "name": "徐永昌",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1123,
+ "page_range": "57-58"
+}

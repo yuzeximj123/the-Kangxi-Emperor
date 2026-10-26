@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "初十日癸亥",
+ "event_role": "司法案件",
+ "summary": "三法司议张七等诬张二为窝主案，康熙帝改为应斩秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张七",
+   "role": "案犯"
+  },
+  {
+   "name": "小米儿",
+   "role": "同伙"
+  },
+  {
+   "name": "张二",
+   "role": "被诬者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4216,
+ "page_range": "127-128"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十六日己未",
+ "event_role": "其他",
+ "summary": "康熙帝赐浙江总督郭世隆御书“天牧之任”四大字、手卷、《渊鉴斋法帖》、《耕织图》并御服貂褂、羊裘等物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭世隆",
+   "role": "浙江总督"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8517,
+ "page_range": "180-181"
+}

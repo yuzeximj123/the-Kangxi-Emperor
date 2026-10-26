@@ -1,0 +1,22 @@
+{
+ "reign_year": 28,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "学士奏请侍讲学士、侍讲二缺人选，康熙帝命高瑛补授侍讲。",
+ "people": [
+  {
+   "name": "高瑛",
+   "role": "补授侍讲"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7600,
+ "page_range": "164-165"
+}

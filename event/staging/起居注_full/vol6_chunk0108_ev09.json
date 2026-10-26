@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 8,
+ "day_text": "十八日全未",
+ "event_role": "谕旨决策",
+ "summary": "户部题甘肃巡抚喀拜奏销采买狐胸等皮被驳回，康熙帝令照部议驳回减价，并令拣选贤能官员领价至京采买。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀拜",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "郭世隆",
+   "role": "浙闽总督"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10809,
+ "page_range": "226-227"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "佛伦、图纳议任辰旦应交部议处，康熙以其妄论松山征战杀伤事为狂妄，命改票知道了、该部知道。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "侍郎"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "任辰旦",
+   "role": "官员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "松山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9801,
+ "page_range": "231-232"
+}

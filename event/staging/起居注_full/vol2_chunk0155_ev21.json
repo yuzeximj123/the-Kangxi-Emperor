@@ -1,0 +1,37 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初十日癸丑",
+ "event_role": "人事任免",
+ "summary": "题补总督仓场侍郎员缺，康熙帝谕以沙赖以吏部侍郎管仓场侍郎事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙赖",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "萨海",
+   "role": "学士"
+  },
+  {
+   "name": "库勒纳",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "仓场",
+  "坐粮厅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15521,
+ "page_range": "353-354"
+}

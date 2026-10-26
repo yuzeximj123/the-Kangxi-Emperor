@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初九日乙未",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御瀛台前亭，赐进贡阿霸坟部落达尔汉贝勒齐林东路布、吴喇忒部落四品台吉昂阿尔等茶。",
+ "people": [
+  {
+   "name": "齐林东路布",
+   "role": "阿霸坟部落达尔汉贝勒"
+  },
+  {
+   "name": "昂阿尔",
+   "role": "吴喇忒部落四品台吉"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 822,
+ "page_range": "59-60"
+}

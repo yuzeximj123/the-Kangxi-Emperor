@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 11,
+ "day_text": "十七日再辰",
+ "event_role": "司法案件",
+ "summary": "刑部题绞犯洪德擅入畅春园门情真，康熙帝以其不知禁令误进，着减等发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "洪德",
+   "role": "绞犯"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24808,
+ "page_range": "508-509"
+}

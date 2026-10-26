@@ -1,0 +1,40 @@
+{
+ "reign_year": 24,
+ "month": 8,
+ "day_text": "十一日已亥",
+ "event_role": "谕旨决策",
+ "summary": "议覆山西巡抚穆尔赛属下官员多派火耗不能查参拟降三级调用，康熙帝询问穆尔赛居官情形，命内阁九卿从公会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "佛伦",
+   "role": "侍郎"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10104,
+ "page_range": "237-238"
+}

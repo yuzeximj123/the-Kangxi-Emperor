@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "总河赵世显题江南徐属河务同知张土伸员缺，请以淮安府海防同知王友德调补，康熙照所请准行。",
+ "people": [
+  {
+   "name": "赵世显",
+   "role": "总河"
+  },
+  {
+   "name": "张土伸",
+   "role": "江南徐属河务同知"
+  },
+  {
+   "name": "王友德",
+   "role": "淮安府海防同知"
+  }
+ ],
+ "places": [
+  "江南",
+  "淮安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23703,
+ "page_range": "485-486"
+}

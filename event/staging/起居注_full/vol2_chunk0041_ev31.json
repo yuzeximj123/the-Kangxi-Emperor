@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初二日乙卯",
+ "event_role": "司法案件",
+ "summary": "刑部奏吴琅用刀刺死族弟已故副将吴荣之妻，以其年八十请免抵偿，康熙帝以其暴恶已极，令拟绞监候。",
+ "people": [
+  {
+   "name": "吴琅",
+   "role": "案犯"
+  },
+  {
+   "name": "吴荣",
+   "role": "已故副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4131,
+ "page_range": "125-126"
+}

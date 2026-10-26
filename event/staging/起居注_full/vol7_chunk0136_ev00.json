@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝批评直隶秋审三案草率未尽，命示九卿详阅研议，并责问九卿苟且议结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "九卿",
+   "role": "朝臣"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13600,
+ "page_range": "283-284"
+}

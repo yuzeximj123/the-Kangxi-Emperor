@@ -1,0 +1,36 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "十一日甲辰",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题秀岩驻防正白旗伊楞额佐领下兵罗什殴死黑色拟绞监候，章京和硕等俱无良议；康熙帝以和硕在旁不责禁，命另议具奏。",
+ "people": [
+  {
+   "name": "罗什",
+   "role": "兵"
+  },
+  {
+   "name": "黑色",
+   "role": "死者"
+  },
+  {
+   "name": "和硕",
+   "role": "章京"
+  },
+  {
+   "name": "伊楞额",
+   "role": "佐领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "秀岩"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5048,
+ "page_range": "110-111"
+}

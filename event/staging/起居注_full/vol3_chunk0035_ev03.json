@@ -1,0 +1,40 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙论居好官之后最难胜任，称刘秉权稍优而卢兴祖、王来任、金俊贪劣，今皆覆败。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "奏对官员"
+  },
+  {
+   "name": "刘秉权",
+   "role": "前广东官员"
+  },
+  {
+   "name": "卢兴祖",
+   "role": "前广东官员"
+  },
+  {
+   "name": "王来任",
+   "role": "前广东官员"
+  },
+  {
+   "name": "金俊",
+   "role": "前广东官员"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3503,
+ "page_range": "105-106"
+}

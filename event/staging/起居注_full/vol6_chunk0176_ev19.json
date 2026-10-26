@@ -1,0 +1,36 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "十六日乙刻",
+ "event_role": "河工水利",
+ "summary": "康熙帝至清凉村阅冲决堤口，召王新命等询问能否保成工。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "原任总河"
+  },
+  {
+   "name": "白硕色",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "朝琦",
+   "role": "分司"
+  }
+ ],
+ "places": [
+  "清凉村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17619,
+ "page_range": "362-363"
+}

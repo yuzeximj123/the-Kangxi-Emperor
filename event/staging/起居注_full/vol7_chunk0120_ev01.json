@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "礼部为多罗信王洞额蔓请加恤典，康熙帝不准，命以前信郡王鄂占之子袭封。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "洞额蔓",
+   "role": "多罗信王"
+  },
+  {
+   "name": "鄂占",
+   "role": "前信郡王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12001,
+ "page_range": "251-252"
+}

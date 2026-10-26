@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": "十三日乙西",
+ "event_role": "议政听政",
+ "summary": "覆请工部议盛京浑河税取木料令变价解部事，康熙帝询问大学士松柱意见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京",
+  "浑河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5324,
+ "page_range": "117-118"
+}

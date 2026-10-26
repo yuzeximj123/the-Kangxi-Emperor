@@ -1,0 +1,23 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "督臣奏请暂借西安八旗、汉军、满洲及陕西各标营兵丁马匹共八千五百余匹送宁夏应急，并动支正项钱粮补买。",
+ "people": [
+  {
+   "name": "督臣",
+   "role": "上奏官员"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "陕西",
+  "西安",
+  "兴安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18800,
+ "page_range": "386-387"
+}

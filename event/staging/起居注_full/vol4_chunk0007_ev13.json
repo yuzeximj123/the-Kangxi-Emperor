@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "二十八日壬寅",
+ "event_role": "人事任免",
+ "summary": "赐广东巡抚朱弘术、江西巡抚王敬六马各一匹。",
+ "people": [
+  {
+   "name": "朱弘术",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "王敬六",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [
+  "广东",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 713,
+ "page_range": "26-27"
+}

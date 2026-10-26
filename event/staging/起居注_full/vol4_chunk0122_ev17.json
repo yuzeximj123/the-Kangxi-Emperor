@@ -1,0 +1,38 @@
+{
+ "reign_year": 29,
+ "month": 5,
+ "day_text": "十六日丙午",
+ "event_role": "司法案件",
+ "summary": "尚书张十昧、王如、张玉书、杜至、张英等奏胡简敬一门济恶不法凶虐已极，应从重治罪。",
+ "people": [
+  {
+   "name": "张十昧",
+   "role": "尚书"
+  },
+  {
+   "name": "王如",
+   "role": "尚书"
+  },
+  {
+   "name": "张玉书",
+   "role": "尚书"
+  },
+  {
+   "name": "杜至",
+   "role": "尚书"
+  },
+  {
+   "name": "张英",
+   "role": "尚书"
+  },
+  {
+   "name": "胡简敬",
+   "role": "不法豪绅"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12217,
+ "page_range": "256-257"
+}

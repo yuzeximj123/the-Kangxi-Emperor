@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "十六日甲辰",
+ "event_role": "司法案件",
+ "summary": "安徽巡抚徐国相题王祥等行劫僧人遵义系被灾饥民罪有可原，三法司议照强盗例立斩，康熙帝从明珠等议改为监候秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐国相",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "王祥",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24307,
+ "page_range": "543-544"
+}

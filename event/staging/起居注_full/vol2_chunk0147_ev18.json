@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "二十四日戊辰",
+ "event_role": "司法案件",
+ "summary": "三法司议胡继午降贼献粮、王道弘引贼劫粮应处斩，康熙帝令从宽免死，给与宁古塔披甲新满洲为奴。",
+ "people": [
+  {
+   "name": "胡继午",
+   "role": "押运武介"
+  },
+  {
+   "name": "王道弘",
+   "role": "罪犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14718,
+ "page_range": "337-338"
+}

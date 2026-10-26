@@ -1,0 +1,35 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "四川巡抚能泰题流犯刘正原籍陕西应流福建，请解至汉中同妻流徙，并请照顺天府例令本处完烧埋银，康熙令察钱晋锡条奏原本一并具奏。",
+ "people": [
+  {
+   "name": "能泰",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "刘正",
+   "role": "流犯"
+  },
+  {
+   "name": "钱晋锡",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川",
+  "陕西",
+  "福建",
+  "汉中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9603,
+ "page_range": "203-204"
+}

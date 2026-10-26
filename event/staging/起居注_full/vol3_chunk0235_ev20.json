@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝取案上经书十余本亲授汤斌，令其信手拓出命诸皇子诵读，皇三子、皇四子、皇七子、皇八子依次进前各读数篇，纯熟舒徐声音朗朗。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "讲官"
+  },
+  {
+   "name": "皇三子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇四子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇七子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇八子",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23520,
+ "page_range": "505-506"
+}

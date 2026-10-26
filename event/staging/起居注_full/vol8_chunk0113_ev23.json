@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "初五日丁酉",
+ "event_role": "奏报地方情形",
+ "summary": "覆请户部覆张伯行、梁世勋回奏江苏安徽未完钱粮并征民力不给，请蠲免带征，康熙命查议。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "原任江宁巡抚"
+  },
+  {
+   "name": "梁世勋",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "赫寿",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "江苏",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11323,
+ "page_range": "237-238"
+}

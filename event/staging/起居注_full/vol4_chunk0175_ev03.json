@@ -1,0 +1,34 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "初四日甲申",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗蒙古副都统噶尔马员缺，康熙帝认为所开列之人不堪补用，命查未开列及本族官职大者具奏，并解吴什任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔马",
+   "role": "镶白旗蒙古副都统"
+  },
+  {
+   "name": "沙木哈",
+   "role": "侍郎"
+  },
+  {
+   "name": "吴什",
+   "role": "内护军参领"
+  },
+  {
+   "name": "德尔特",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17503,
+ "page_range": "362-363"
+}

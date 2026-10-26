@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "二十五日甲寅",
+ "event_role": "贸易漕运",
+ "summary": "朝鲜王李焞因牛多疫死请暂停互市，礼部议其托言冒奏应令回奏再议，康熙命传大学士等议奏。",
+ "people": [
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9816,
+ "page_range": "231-232"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "初四日癸巳",
+ "event_role": "朝见受贺",
+ "summary": "良乡县驻防协领巴锡等、拱极城游击吴启祥、良乡县知县冯文祥来朝。",
+ "people": [
+  {
+   "name": "巴锡",
+   "role": "良乡县驻防协领"
+  },
+  {
+   "name": "吴启祥",
+   "role": "拱极城游击"
+  },
+  {
+   "name": "冯文祥",
+   "role": "良乡县知县"
+  }
+ ],
+ "places": [
+  "良乡县",
+  "拱极城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9413,
+ "page_range": "199-200"
+}

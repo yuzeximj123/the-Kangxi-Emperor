@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十二日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补太仆寺少卿觉罗西秦解任员缺，康熙帝命御前侍卫杨舒补授。",
+ "people": [
+  {
+   "name": "觉罗西秦",
+   "role": "太仆寺少卿"
+  },
+  {
+   "name": "罗达",
+   "role": "宗人府员外郎"
+  },
+  {
+   "name": "吴西哈",
+   "role": "太仆寺员外郎"
+  },
+  {
+   "name": "杨舒",
+   "role": "御前侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23906,
+ "page_range": "521-522"
+}

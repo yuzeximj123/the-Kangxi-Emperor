@@ -1,0 +1,54 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝对小黑儿、车章等犯人作出判决，小黑儿、车章立决，李火等改为斩监候秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "小黑儿",
+   "role": "犯人"
+  },
+  {
+   "name": "车章",
+   "role": "犯人"
+  },
+  {
+   "name": "李火",
+   "role": "犯人"
+  },
+  {
+   "name": "小子",
+   "role": "犯人"
+  },
+  {
+   "name": "二小子",
+   "role": "犯人"
+  },
+  {
+   "name": "赫二哥",
+   "role": "犯人"
+  },
+  {
+   "name": "邓三儿",
+   "role": "犯人"
+  },
+  {
+   "name": "邓四儿",
+   "role": "犯人"
+  },
+  {
+   "name": "车进",
+   "role": "犯人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16700,
+ "page_range": "345-346"
+}

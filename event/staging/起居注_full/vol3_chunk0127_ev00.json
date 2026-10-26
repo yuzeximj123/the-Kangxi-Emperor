@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就工部题奏黑龙江遗失铁锚铜锣一事，认为防守尉胡满、噶鲁怠慢殊甚，命另行严议。",
+ "people": [
+  {
+   "name": "胡满",
+   "role": "防守尉"
+  },
+  {
+   "name": "噶鲁",
+   "role": "防守尉"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12700,
+ "page_range": "289-290"
+}

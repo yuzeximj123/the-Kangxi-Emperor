@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆原任贵州安龙总兵官林瑞遗本请将其子林天育交与差效力无庸议，康熙依议，令取林天育来京交领侍卫内大臣引见。",
+ "people": [
+  {
+   "name": "林瑞",
+   "role": "原任贵州安龙总兵官"
+  },
+  {
+   "name": "林天育",
+   "role": "林瑞之子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州安龙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16303,
+ "page_range": "337-338"
+}

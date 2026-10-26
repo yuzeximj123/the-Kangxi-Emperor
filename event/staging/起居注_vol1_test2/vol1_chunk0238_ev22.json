@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初二日庚寅",
+ "event_role": "人事任免",
+ "summary": "工部题员外郎马尔苏抽古北口木税，康熙帝以其才具庸常不能胜任，令该部堂官另选才能官员具奏。",
+ "people": [
+  {
+   "name": "马尔苏",
+   "role": "员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23822,
+ "page_range": "533-534"
+}

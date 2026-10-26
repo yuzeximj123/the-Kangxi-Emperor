@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十四年十月初八日",
+ "reign_year": 54,
+ "month": 10,
+ "day": 9,
+ "event_role": "奏报灾情收成",
+ "summary": "广州将军管源忠向康熙请安，并奏报广东晚稻因八月稍旱、九月得雨，收成约六分，省城米价每石八钱五六分至九钱不等，万民安业。",
+ "people": [
+  {
+   "name": "管源忠",
+   "role": "广州将军，奏报人"
+  },
+  {
+   "name": "杨琳",
+   "role": "广东巡抚"
+  }
+ ],
+ "places": [
+  "广州",
+  "广东",
+  "省城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "廣州將軍管源忠奏【請】安並報收成米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1903",
+ "order_index": 172
+}

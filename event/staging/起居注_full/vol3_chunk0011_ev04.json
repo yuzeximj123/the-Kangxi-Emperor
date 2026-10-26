@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "初八日甲成",
+ "event_role": "人事任免",
+ "summary": "翰林院题补日讲官闪蔚林等员缺，开列侍读学士卢天等职名，康熙帝命选学问优长品行谨慎者具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "闪蔚林",
+   "role": "日讲官"
+  },
+  {
+   "name": "卢天",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1104,
+ "page_range": "57-58"
+}

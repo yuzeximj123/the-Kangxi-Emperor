@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿为补授运使马世荣员缺举出山西平阳府知府孙兴姻等，康熙帝以孔兴柬居官好，命补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马世荣",
+   "role": "运使"
+  },
+  {
+   "name": "孙兴姻",
+   "role": "山西平阳府知府"
+  },
+  {
+   "name": "孔兴柬",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山西平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2704,
+ "page_range": "65-66"
+}

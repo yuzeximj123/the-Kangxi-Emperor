@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "十六日辛效",
+ "event_role": "人事任免",
+ "summary": "山东登州总兵官李树德题请升任湖广郧阳副将林兆麟带升衔留原任，康熙帝照所请准行。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东登州总兵官"
+  },
+  {
+   "name": "林兆麟",
+   "role": "湖广郧阳副将"
+  }
+ ],
+ "places": [
+  "山东登州",
+  "湖广郧阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9608,
+ "page_range": "203-204"
+}

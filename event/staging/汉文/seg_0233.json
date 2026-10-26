@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十七年閏三月初九日",
+ "reign_year": 47,
+ "month": null,
+ "day": null,
+ "event_role": "其他",
+ "summary": "闽浙总督梁鼐向康熙进呈四明山图一幅，康熙朱批表示已收下该图。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "四明山"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已收到四明山图。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "320",
+ "source_title": "闽浙总督梁鼐奏进四明山图幅摺",
+ "order_index": 233
+}

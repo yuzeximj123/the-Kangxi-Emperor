@@ -1,0 +1,38 @@
+{
+ "reign_year": 39,
+ "month": 8,
+ "day_text": "初三日癸亥",
+ "event_role": "司法案件",
+ "summary": "酉时御行宫，大学士马齐等以折本请旨，宗人府题喇嘛诬告闲散宗室绰克度拟立决，康熙帝以其素行悖恶，命拿交绰克度听其处置。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "满都",
+   "role": "学士"
+  },
+  {
+   "name": "邵穆布",
+   "role": "学士"
+  },
+  {
+   "name": "喇嘛",
+   "role": "案犯"
+  },
+  {
+   "name": "绰克度",
+   "role": "闲散宗室"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16416,
+ "page_range": "338-339"
+}

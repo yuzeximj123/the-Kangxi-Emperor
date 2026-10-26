@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "初九日丙午",
+ "event_role": "司法案件",
+ "summary": "三法司议伪将军陆道清拟立斩，明珠等及汉大学士李和需等均言其罪大难赦，康熙帝着依部议。",
+ "people": [
+  {
+   "name": "陆道清",
+   "role": "伪将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李和需",
+   "role": "汉大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24320,
+ "page_range": "529-530"
+}

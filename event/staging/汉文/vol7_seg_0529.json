@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十六年十月十一日",
+ "reign_year": 56,
+ "month": 10,
+ "day": 11,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报苏州、扬州九月晴雨及稻谷丰收、米价情形，并进呈所种御稻新米，报告收割与分发稻种情况。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "苏州织造李煦奏报苏州扬州九月晴雨并进新米折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2528",
+ "order_index": 529
+}

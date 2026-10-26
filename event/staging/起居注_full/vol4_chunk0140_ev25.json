@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 1,
+ "day_text": "二十二日成申",
+ "event_role": "人事任免",
+ "summary": "宗人府题请革去固山贝子福善所有满洲、汉军二佐领并请上裁，康熙帝以傅腊塔效力行间，命再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "福善",
+   "role": "固山贝子"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "效力行间者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14025,
+ "page_range": "292-293"
+}

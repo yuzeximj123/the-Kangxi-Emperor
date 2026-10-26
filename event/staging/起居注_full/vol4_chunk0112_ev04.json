@@ -1,0 +1,34 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读秦王世民杀太子建成、齐王元吉事论，评论唐高祖优柔不决致骨肉相残。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "秦王世民",
+   "role": "唐太宗"
+  },
+  {
+   "name": "太子建成",
+   "role": "唐太子"
+  },
+  {
+   "name": "齐王元吉",
+   "role": "唐齐王"
+  },
+  {
+   "name": "唐高祖",
+   "role": "唐朝皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11204,
+ "page_range": "236-237"
+}

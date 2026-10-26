@@ -1,0 +1,24 @@
+{
+ "reign_year": 14,
+ "month": 11,
+ "day_text": "二十七日辛亥",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝向太皇太后宫问安后，大设宴席由午门出正阳门进南苑大红门，驻跸东宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "午门",
+  "正阳门",
+  "南苑大红门",
+  "东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10521,
+ "page_range": "267-268"
+}

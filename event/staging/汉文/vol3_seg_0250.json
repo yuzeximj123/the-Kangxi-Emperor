@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十年九月",
+ "reign_year": 50,
+ "month": 9,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "浙江巡抚王度昭遵旨回奏浙江省米价偏贵缘由，说明新谷未登、陈米价高及雨水应时、秋收后米价可望渐减。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚，奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "浙江省",
+  "浙东",
+  "杭城",
+  "浙西",
+  "杭嘉湖",
+  "北新关"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并追问米价为何还贵，末又批知道了。",
+ "source_title": "浙江巡撫王度昭奏覆浙江省米價遺貴緣由摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "953",
+ "order_index": 250
+}

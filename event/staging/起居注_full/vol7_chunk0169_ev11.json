@@ -1,0 +1,21 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "十三日辛丑",
+ "event_role": "司法案件",
+ "summary": "覆请礼部所题朝鲜国人杀死中国人一案，谕令遣司官驰驿凤凰城会同审事司官察议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "凤凰城",
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16911,
+ "page_range": "349-350"
+}

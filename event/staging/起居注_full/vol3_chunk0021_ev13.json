@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十八日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "户部题江西巡抚安世时请销康熙十四年至十八年雇夫船需银六万九千余两，康熙帝以其屡驳又照十五年例销算必有缘故，命交都察院察议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安世时",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2113,
+ "page_range": "77-78"
+}

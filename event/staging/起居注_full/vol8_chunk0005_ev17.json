@@ -1,0 +1,38 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "初十日戊午",
+ "event_role": "其他",
+ "summary": "赐镇国公德普、直隶巡抚赵弘党、山西巡抚苏克济、贵州提督张文焕、太原总兵官马见伯、天津总兵官杜呈泗马各一匹。",
+ "people": [
+  {
+   "name": "德普",
+   "role": "镇国公"
+  },
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "张文焕",
+   "role": "贵州提督"
+  },
+  {
+   "name": "马见伯",
+   "role": "太原总兵官"
+  },
+  {
+   "name": "杜呈泗",
+   "role": "天津总兵官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 517,
+ "page_range": "21-22"
+}

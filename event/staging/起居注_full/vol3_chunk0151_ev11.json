@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "三十日甲申",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕原任云贵总督赵良栋才品优长劳绩颇多，今已年迈，命大学士等公议应否复其原官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵良栋",
+   "role": "原任云贵总督"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15111,
+ "page_range": "337-338"
+}

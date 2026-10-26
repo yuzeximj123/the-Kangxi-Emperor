@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "二十五日乙亥",
+ "event_role": "人事任免",
+ "summary": "吏部题斋南布政使佟国勤员缺，以四川按察使萨称哈等开列，康熙命阿琳补授。",
+ "people": [
+  {
+   "name": "佟国勤",
+   "role": "斋南布政使"
+  },
+  {
+   "name": "萨称哈",
+   "role": "四川按察使"
+  },
+  {
+   "name": "阿琳",
+   "role": "补授官员"
+  }
+ ],
+ "places": [
+  "斋南",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23715,
+ "page_range": "485-486"
+}

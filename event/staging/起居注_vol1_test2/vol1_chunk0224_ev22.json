@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十七日了亥",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御保和殿举行经筵大典，讲官库勒纳、项景囊进讲《四书》，佛伦、汉源济进讲《易经》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "项景囊",
+   "role": "讲官"
+  },
+  {
+   "name": "佛伦",
+   "role": "讲官"
+  },
+  {
+   "name": "汉源济",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22422,
+ "page_range": "505-506"
+}

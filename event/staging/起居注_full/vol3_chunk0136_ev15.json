@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 1,
+ "day_text": "二十二日了丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补兵部侍郎佛伦升任员缺，开列学士牛钮等职名，康熙帝询问巡抚中可升用者，令将本送进详思。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "图纳",
+   "role": "巡抚"
+  },
+  {
+   "name": "鄂凯",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13615,
+ "page_range": "307-308"
+}

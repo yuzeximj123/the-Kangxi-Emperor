@@ -1,0 +1,21 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十六日丙子",
+ "event_role": "皇帝行止",
+ "summary": "大阅毕，康熙帝御晾鹰台赐宴内大臣、侍卫、大学士、学士、起居注官，酉时还宫问安太皇太后。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "晾鹰台",
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22207,
+ "page_range": "501-502"
+}

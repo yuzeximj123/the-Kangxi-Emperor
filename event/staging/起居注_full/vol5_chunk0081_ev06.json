@@ -1,0 +1,31 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十六日乙酉",
+ "event_role": "河工水利",
+ "summary": "工部覆直隶巡抚沈朝聘请开河筑堤建滚水坝，康熙帝以民言有益，命沈朝聘详阅具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "河西务",
+  "大峪庄",
+  "天津",
+  "要儿渡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8106,
+ "page_range": "172-173"
+}

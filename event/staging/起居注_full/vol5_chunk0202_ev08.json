@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十八日己卯",
+ "event_role": "军务",
+ "summary": "康熙帝命查明随往大臣、侍卫、护军等人数及所需口粮，并查马匹疲瘦数目，瘦马安置蒙古驿站。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "马思喀",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20208,
+ "page_range": "414-415"
+}

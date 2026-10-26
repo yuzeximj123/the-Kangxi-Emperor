@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "十六日己未",
+ "event_role": "弹劾参奏",
+ "summary": "山东巡抚王国昌因御史顾素参其匿灾不报并扶同布政使刘上欲开事例补亏空具折回奏，康熙帝令同前旨一并议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "顾素",
+   "role": "御史"
+  },
+  {
+   "name": "刘上",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6920,
+ "page_range": "149-150"
+}

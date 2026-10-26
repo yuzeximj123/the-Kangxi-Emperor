@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题逼勒郎中武殖致令自尽之护军校黑子、护军二哥枷号鞭责，康熙帝命枷号鞭责完日发往布他海乌拉上三旗当差。",
+ "people": [
+  {
+   "name": "黑子",
+   "role": "护军校"
+  },
+  {
+   "name": "二哥",
+   "role": "护军"
+  },
+  {
+   "name": "武殖",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "布他海乌拉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19408,
+ "page_range": "399-400"
+}

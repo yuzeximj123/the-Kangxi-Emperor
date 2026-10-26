@@ -1,0 +1,37 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "二十九日辛刻",
+ "event_role": "议政听政",
+ "summary": "满洲大学士、学士齐集乾清门呈览所拟上谕，康熙帝召伊桑阿等入乾清宫议事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "满洲大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "满洲大学士"
+  },
+  {
+   "name": "三宝",
+   "role": "学士"
+  },
+  {
+   "name": "罗察席尔登",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18013,
+ "page_range": "370-371"
+}

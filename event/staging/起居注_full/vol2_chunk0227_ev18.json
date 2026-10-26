@@ -1,0 +1,40 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "初十日本未",
+ "event_role": "人事任免",
+ "summary": "议政王等会推汉军都统朱延禧告病员缺，康熙帝以雷继宗在陕西有劳绩，命补授都统。",
+ "people": [
+  {
+   "name": "朱延禧",
+   "role": "汉军都统"
+  },
+  {
+   "name": "雷继宗",
+   "role": "佐领"
+  },
+  {
+   "name": "卢扬祖",
+   "role": "副都统"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张勇",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22718,
+ "page_range": "497-498"
+}

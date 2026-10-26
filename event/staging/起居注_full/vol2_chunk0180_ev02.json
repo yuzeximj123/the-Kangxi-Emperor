@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十二日甲子",
+ "event_role": "人事任免",
+ "summary": "议副都御史员缺，康熙帝询问布政使呀思哈居官情况，命呀思哈补副都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "呀思哈",
+   "role": "布政使，补副都御史"
+  },
+  {
+   "name": "席尔达",
+   "role": "开列官职名"
+  },
+  {
+   "name": "席忒纳",
+   "role": "开列官职名"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18002,
+ "page_range": "403-404"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "初五日壬寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内澹宁居，兵部尚书纪尔塔布等奏事完毕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "纪尔塔布",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "觉罗至拜",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "萨木哈",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "澹宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6519,
+ "page_range": "142-143"
+}

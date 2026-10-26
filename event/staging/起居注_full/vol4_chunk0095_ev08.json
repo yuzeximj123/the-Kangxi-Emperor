@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "十二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙因灼艾未愈、太医劝阻，谕止亲往祭陵，令皇太子恭代，三皇子、四皇子前往，随从人员减派。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "恭代祭陵"
+  },
+  {
+   "name": "三皇子",
+   "role": "前往祭陵"
+  },
+  {
+   "name": "四皇子",
+   "role": "前往祭陵"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9508,
+ "page_range": "202-203"
+}

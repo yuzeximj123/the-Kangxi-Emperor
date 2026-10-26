@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "初七日甲子",
+ "event_role": "弹劾参奏",
+ "summary": "湖广提督林本植因被参徇庇属官回奏，康熙帝令问明总督郭玫具奏，并评林本植年迈仅图自守。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "林本植",
+   "role": "湖广提督"
+  },
+  {
+   "name": "马士芳",
+   "role": "给事中"
+  },
+  {
+   "name": "郭玫",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19812,
+ "page_range": "406-407"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "初十日乙丑",
+ "event_role": "司法案件",
+ "summary": "议郑得胜与杨起龙同谋应凌迟处死，康熙帝以郑得胜系要犯留作质对，命暂行监候，俟获杨起龙日再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郑得胜",
+   "role": "案犯"
+  },
+  {
+   "name": "杨起龙",
+   "role": "案犯"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1412,
+ "page_range": "71-72"
+}

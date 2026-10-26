@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初九日甲午",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题邹贞一持枪还刺致邹寻七身死拟绞，康熙帝以其父母年老从宽免死，照例减等完结，留养亲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邹贞一",
+   "role": "案犯"
+  },
+  {
+   "name": "邹寻七",
+   "role": "死者"
+  },
+  {
+   "name": "郎廷极",
+   "role": "江南巡抚"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19506,
+ "page_range": "401-402"
+}

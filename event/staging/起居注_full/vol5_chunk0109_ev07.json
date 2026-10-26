@@ -1,0 +1,20 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "二十二日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕议政大臣等，官兵应留疲瘦马匹于驿站喂养，派在京大臣一员往来稽察存留米粮马匹至喀伦，并令库勒纳自备马匹前来。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "喀伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10907,
+ "page_range": "228-229"
+}

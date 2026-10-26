@@ -1,0 +1,22 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "二十九日",
+ "event_role": "皇帝行止",
+ "summary": "申时康熙帝由崇文门进东华门，齐宁寿宫问安毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "崇文门",
+  "东华门",
+  "宁寿宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15114,
+ "page_range": "312-313"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "军务",
+ "summary": "凉州总兵述明奏报借支库银差人往榆林买马以壮营伍，并清查营务渐次整理，差第三子西亭赍摺呈进。",
+ "people": [
+  {
+   "name": "述明",
+   "role": "凉州总兵，奏折作者"
+  },
+  {
+   "name": "西亭",
+   "role": "述明第三子，赍摺差人"
+  }
+ ],
+ "places": [
+  "凉州",
+  "榆林"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "凉州总兵述明奏为据实陈明营务废弛事摺（续）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 413
+}

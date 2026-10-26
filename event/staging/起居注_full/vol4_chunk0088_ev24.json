@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "十五日戊寅",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝驻足三河县，三河县防守尉马库、知县彭鹏、守备马玉俊等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马库",
+   "role": "三河县防守尉"
+  },
+  {
+   "name": "彭鹏",
+   "role": "三河县知县"
+  },
+  {
+   "name": "马玉俊",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8824,
+ "page_range": "188-189"
+}

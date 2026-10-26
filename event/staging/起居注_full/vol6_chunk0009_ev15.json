@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": "二十一日成辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称今日筵宴次序无失、禁止喧哗甚善，令车臣汗等至网城前为皇太子行二跪六叩头礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "受礼者"
+  },
+  {
+   "name": "车臣汗",
+   "role": "行礼者"
+  },
+  {
+   "name": "额有敦多布多尔吉",
+   "role": "行礼者"
+  }
+ ],
+ "places": [
+  "网城前"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 915,
+ "page_range": "28-29"
+}

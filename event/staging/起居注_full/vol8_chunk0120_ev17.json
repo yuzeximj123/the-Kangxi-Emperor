@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "二十八日庚申",
+ "event_role": "其他",
+ "summary": "是日，赐琉球国中山王尚景及进贡耳目官马仙公、副使正议大夫阮正、都统使梁德宗妆蟒缎匹等物。",
+ "people": [
+  {
+   "name": "尚景",
+   "role": "琉球国中山王"
+  },
+  {
+   "name": "马仙公",
+   "role": "进贡耳目官"
+  },
+  {
+   "name": "阮正",
+   "role": "副使正议大夫"
+  },
+  {
+   "name": "梁德宗",
+   "role": "都统使"
+  }
+ ],
+ "places": [
+  "琉球国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12017,
+ "page_range": "251-252"
+}

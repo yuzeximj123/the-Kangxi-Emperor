@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙追述吴三桂叛时自己二十岁理兵事，吴三桂笑其乳臭未退，后夏国相领兵交战被硕区率数百人击败。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴三桂",
+   "role": "逆贼"
+  },
+  {
+   "name": "夏国相",
+   "role": "吴三桂部将"
+  },
+  {
+   "name": "硕区",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "长沙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20305,
+ "page_range": "417-418"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初一日庚寅",
+ "event_role": "人事任免",
+ "summary": "江宁将军鄂克进题骑都尉音布家贫请留江宁，康熙帝令调来引见，视人材定留江宁或调京。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂克进",
+   "role": "江宁将军"
+  },
+  {
+   "name": "音布",
+   "role": "骑都尉"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15919,
+ "page_range": "329-330"
+}

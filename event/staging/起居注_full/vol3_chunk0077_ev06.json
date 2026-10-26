@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "三十日庚申",
+ "event_role": "起居注记录",
+ "summary": "起居注记载皇太子随康熙帝所历之处，康熙帝必指示民间风俗、民生疾苦，令其周知稼穑艰难。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7706,
+ "page_range": "189-190"
+}

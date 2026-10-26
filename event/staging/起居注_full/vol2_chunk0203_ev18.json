@@ -1,0 +1,41 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十七日了已",
+ "event_role": "司法案件",
+ "summary": "吏部题孙达礼巴图鲁世职，次子苏尔泰控告请袭应不准，康熙帝以其不孝不友命发在京大学士商酌。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  },
+  {
+   "name": "孙达礼巴图鲁",
+   "role": "世职"
+  },
+  {
+   "name": "苏尔泰",
+   "role": "次子"
+  },
+  {
+   "name": "苏拜",
+   "role": "长子"
+  },
+  {
+   "name": "杭受",
+   "role": "第三子"
+  }
+ ],
+ "places": [
+  "正黄旗",
+  "镶白旗"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20318,
+ "page_range": "449-450"
+}

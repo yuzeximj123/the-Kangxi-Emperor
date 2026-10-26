@@ -1,0 +1,26 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召守陵总管、副总管面谕，令虔视祭品、务尽诚敬。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "守陵总管",
+   "role": "守陵总管"
+  },
+  {
+   "name": "副总管",
+   "role": "副总管"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 109,
+ "page_range": "59-60"
+}

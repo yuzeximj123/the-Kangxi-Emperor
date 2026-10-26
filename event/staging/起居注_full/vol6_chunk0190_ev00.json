@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝认为某副都统不尽心料理且不合研友自守之语，命将其解退。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "副都统",
+   "role": "被解退官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19000,
+ "page_range": "390-391"
+}

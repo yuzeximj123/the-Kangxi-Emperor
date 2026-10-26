@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "初六日两辰",
+ "event_role": "奏报地方情形",
+ "summary": "左都御史赵申乔奏称张伯行居官不累民，江南百姓俱受其福。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "左都御史"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23311,
+ "page_range": "477-478"
+}

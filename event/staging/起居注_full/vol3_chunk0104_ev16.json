@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十四日辛未",
+ "event_role": "人事任免",
+ "summary": "礼部题镶红旗汉军副都统周邦宁病故应否给谥，康熙帝以其居官不善且无劳绩，令停止给谥及祭葬恤典。",
+ "people": [
+  {
+   "name": "周邦宁",
+   "role": "镶红旗汉军副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10416,
+ "page_range": "243-244"
+}

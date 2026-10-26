@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙评论郎廷极任浙江布政使勤劳有声，任江西巡抚后平常；又称安徽巡抚刘光美敬慎不生事、声名好。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "刘光美",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江西",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10301,
+ "page_range": "217-218"
+}

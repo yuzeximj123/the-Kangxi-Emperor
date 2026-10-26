@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初三日癸丑",
+ "event_role": "军务",
+ "summary": "覆请兵部议覆四川松潘总兵路振扬所题贮米备急、镇标三营添兵一千改守为战事，康熙帝命该部速议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "路振扬",
+   "role": "四川松潘总兵官"
+  },
+  {
+   "name": "法拉",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "四川松潘"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22012,
+ "page_range": "451-452"
+}

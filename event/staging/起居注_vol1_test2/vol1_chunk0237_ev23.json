@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十七日两成",
+ "event_role": "谕旨决策",
+ "summary": "户部兵部议皇后陵设庄园人役及绿旗官兵，康熙帝以去孝陵甚近不必另设，命二部会同再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "孝陵",
+  "皇后陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23723,
+ "page_range": "531-532"
+}

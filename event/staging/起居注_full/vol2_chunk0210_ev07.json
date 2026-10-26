@@ -1,0 +1,40 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初二日辛丑",
+ "event_role": "人事任免",
+ "summary": "会推杭州副都统雅塔里病故员缺，康熙帝以洪尼喀人才果优，命即补授副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "洪尼喀",
+   "role": "侍读学士参领"
+  },
+  {
+   "name": "阿哈铎",
+   "role": "参领"
+  },
+  {
+   "name": "雅塔里",
+   "role": "杭州副都统"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21007,
+ "page_range": "463-464"
+}

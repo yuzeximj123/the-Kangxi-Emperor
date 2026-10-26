@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝因封印在即，命大学士明珠等传谕各部院衙门，事务须在封印前速行完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6400,
+ "page_range": "163-164"
+}

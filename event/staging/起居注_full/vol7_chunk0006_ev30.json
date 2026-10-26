@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十八日庚午",
+ "event_role": "司法案件",
+ "summary": "刑部题李开之打死大功服兄拟斩立决，其母卞氏恳请存留养亲，一并请旨。",
+ "people": [
+  {
+   "name": "李开之",
+   "role": "犯人"
+  },
+  {
+   "name": "卞氏",
+   "role": "李开之母"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 630,
+ "page_range": "23-24"
+}

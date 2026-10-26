@@ -1,0 +1,20 @@
+{
+ "reign_year": 15,
+ "month": 4,
+ "day_text": "初一日类丑",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以重夏躬放太庙致祭毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11239,
+ "page_range": "281-282"
+}

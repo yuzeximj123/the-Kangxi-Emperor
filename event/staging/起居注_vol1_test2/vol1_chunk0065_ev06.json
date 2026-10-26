@@ -1,0 +1,28 @@
+{
+ "reign_year": 13,
+ "month": 1,
+ "day_text": "十五日",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御保和殿，各省朝觐布政司徐国相、按察使陈秉直等官员行三跪九叩头礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐国相",
+   "role": "布政司"
+  },
+  {
+   "name": "陈秉直",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6506,
+ "page_range": "187-188"
+}

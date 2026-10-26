@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "兵部议覆川陕总督鄂海所参建昌总兵官张友凤隐匿越神加巴地方抢夺案不报，应照例革职，康熙令调取张友凤带来引见。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "张友凤",
+   "role": "建昌总兵官"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "建昌",
+  "越神加巴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18501,
+ "page_range": "381-382"
+}

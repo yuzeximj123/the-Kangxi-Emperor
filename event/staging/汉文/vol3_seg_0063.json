@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙四十九年十一月初三日",
+ "reign_year": 49,
+ "month": 11,
+ "day": 3,
+ "event_role": "请安谢恩",
+ "summary": "江宁织造曹寅奏报自己患病经服地黄汤痊愈、身体健旺，叩谢康熙赐药之恩，并报江南太平无事、米价如常及十月晴雨录。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏报人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙叮嘱疥疮不宜服药，恐毒入内成麻风症，宜常以土茯苓代茶饮。",
+ "source_title": "江寧織造曹寅奏報惠濟已癒並江南米價如常摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "761",
+ "order_index": 63
+}

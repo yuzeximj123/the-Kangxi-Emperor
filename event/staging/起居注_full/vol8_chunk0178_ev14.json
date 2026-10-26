@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请盗卖内仓白米之书办张大经、沈三拟斩监候，监督马跃龙等不行查出，康熙帝未及裁决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张大经",
+   "role": "书办"
+  },
+  {
+   "name": "沈三",
+   "role": "书办"
+  },
+  {
+   "name": "马跃龙",
+   "role": "监督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17814,
+ "page_range": "367-368"
+}

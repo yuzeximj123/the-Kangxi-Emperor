@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十六年九月",
+ "reign_year": 46,
+ "month": 9,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "郎廷极续报江西各府雨水调匀晚禾可望丰收，唯临江府四县因秋旱晚禾不能成熟，据实奏闻。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江西",
+  "临江府",
+  "清江",
+  "新喻",
+  "新淦",
+  "峡江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批仅表示知道了。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "265",
+ "source_title": "江西巡撫郎廷極奏為續報年歲情形摺",
+ "order_index": 193
+}

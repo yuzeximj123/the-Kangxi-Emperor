@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问总督王新命如何，汤斌称其晓畅事体与地方相安，康熙论操守难比于成龙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  },
+  {
+   "name": "王新命",
+   "role": "总督"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16201,
+ "page_range": "359-360"
+}

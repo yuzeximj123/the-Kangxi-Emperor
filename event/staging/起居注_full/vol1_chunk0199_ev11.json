@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "二十日辛已",
+ "event_role": "谕旨决策",
+ "summary": "九卿等议江宁巡抚幕天颜条奏那移钱粮各官分别议处事，议不准行，康熙问那移与侵欺不同应否酌量分别，伊桑阿奏后康熙颌之。",
+ "people": [
+  {
+   "name": "幕天颜",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19911,
+ "page_range": "455-456"
+}

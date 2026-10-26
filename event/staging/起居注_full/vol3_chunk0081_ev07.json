@@ -1,0 +1,42 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "十四日甲戌",
+ "event_role": "人事任免",
+ "summary": "吏部题补升任学士葛弘道员缺，康熙帝询问人选，明珠荐卢琦、韩菼、翁叔元，帝命韩菼内升补内阁学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "葛弘道",
+   "role": "升任学士"
+  },
+  {
+   "name": "王士祺",
+   "role": "少詹事"
+  },
+  {
+   "name": "卢琦",
+   "role": "官员"
+  },
+  {
+   "name": "韩菼",
+   "role": "官员"
+  },
+  {
+   "name": "翁叔元",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8107,
+ "page_range": "197-198"
+}

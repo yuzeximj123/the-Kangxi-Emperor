@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十日丁丑",
+ "event_role": "人事任免",
+ "summary": "议试御史洪之杰实授事，康熙帝命称职者实授、不称职者另定一例，洪之杰照旧例实授，传谕吏部另议定例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "洪之杰",
+   "role": "御史"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25116,
+ "page_range": "559-560"
+}

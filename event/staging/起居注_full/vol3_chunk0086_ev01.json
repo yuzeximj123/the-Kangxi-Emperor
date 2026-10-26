@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论道德文章本非二事，批评近世空疏之人借理学自文其陋，指崔蔚林无知识而自负。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔蔚林",
+   "role": "侍者"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8601,
+ "page_range": "207-208"
+}

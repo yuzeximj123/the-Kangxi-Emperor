@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年七月初一日",
+ "reign_year": 53,
+ "month": 7,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报扬州等地六月得雨、秋禾茂盛、无旱无蝗，预计丰收，以慰圣怀。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚（附奏）"
+  }
+ ],
+ "places": [
+  "扬州",
+  "定郡城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報揚州得雨摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1607",
+ "order_index": 245
+}

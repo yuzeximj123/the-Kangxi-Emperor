@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "十三日壬寅",
+ "event_role": "议政听政",
+ "summary": "辰时康熙御乾清门听政，部院各衙门官员面奏毕，原任总河王新命、工部侍郎白硕色自永定河来奏事。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "原任总河"
+  },
+  {
+   "name": "白硕色",
+   "role": "工部侍郎"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16714,
+ "page_range": "344-345"
+}

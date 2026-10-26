@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "十五日己酉",
+ "event_role": "谕旨决策",
+ "summary": "户部题甘肃巡抚严泰奏司库无存贮银两请邻省协济以资军饥，议不准行，康熙帝以兵丁钱粮逐年给发，二三年后方奏缺少甚属蒙昧，命交部严议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "严泰",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4426,
+ "page_range": "98-99"
+}

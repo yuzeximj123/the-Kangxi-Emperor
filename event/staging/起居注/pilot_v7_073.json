@@ -1,0 +1,37 @@
+{
+ "date_raw": "二十四日己卯",
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "己卯",
+ "event_role": "议政听政",
+ "summary": "大学士马齐等以折本请旨，九卿议广西隆安知县王克明等效力人员升用事，康熙帝令九卿再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "恩薄",
+   "role": "学士"
+  },
+  {
+   "name": "黑寿",
+   "role": "学士"
+  },
+  {
+   "name": "王克明",
+   "role": "隆安县知县"
+  }
+ ],
+ "places": [
+  "广西南宁府隆安县",
+  "云南沅江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3073
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命明日同直都王赴京师，会同大学士伊桑阿、部院堂官、八旗都统等会议，数日内带领夫役前往挑浚，夫役口粮等物由各佐领备给。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "直都王",
+   "role": "王"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15001,
+ "page_range": "310-311"
+}

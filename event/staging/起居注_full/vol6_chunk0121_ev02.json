@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "二十三日",
+ "event_role": "谕旨决策",
+ "summary": "户部题请令各省解送捐纳监生册籍于户部档案查封，康熙帝令派中书笔帖式前去查取，途中更换者处死。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12102,
+ "page_range": "252-253"
+}

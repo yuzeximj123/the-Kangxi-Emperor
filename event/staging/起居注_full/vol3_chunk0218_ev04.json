@@ -1,0 +1,40 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十五日癸巳",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台勤政殿听政，部院官员面奏后大学士等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "瀛台勤政殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21804,
+ "page_range": "471-472"
+}

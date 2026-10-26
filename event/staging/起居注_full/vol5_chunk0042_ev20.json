@@ -1,0 +1,37 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "初一日乙未",
+ "event_role": "人事任免",
+ "summary": "吏部题川陕总督佛伦员缺，康熙帝命陕西巡抚吴赫升补总督，党爱升陕西巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "安布禄",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "吴赫",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "党爱",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "川陕",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4220,
+ "page_range": "94-95"
+}

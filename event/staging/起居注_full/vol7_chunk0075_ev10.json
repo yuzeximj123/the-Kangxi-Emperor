@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十一日癸未",
+ "event_role": "议政听政",
+ "summary": "申时康熙帝御行宫办理政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7510,
+ "page_range": "161-162"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十九日己未",
+ "event_role": "谕旨决策",
+ "summary": "部覆御史谢兆昌疏请自二月至七月停止审理民间细事，康熙帝从大学士议准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "谢兆昌",
+   "role": "御史"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21818,
+ "page_range": "493-494"
+}

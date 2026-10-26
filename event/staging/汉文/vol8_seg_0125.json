@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十七年閏八月初九日",
+ "reign_year": 57,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报近日苏州米价平稳、吴县百姓乐业、雨旸时若，并进呈苏州、扬州八月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州",
+  "吴县"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報近日米價並進蘇揚晴雨緑摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2693",
+ "order_index": 125
+}

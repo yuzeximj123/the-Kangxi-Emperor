@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令学士朱都纳将赶来的七千马匹停止前进，就地支取草料尽心喂养，并遣章京与鄂欣往阿南达处，令阿南达乘机行事。",
+ "people": [
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  },
+  {
+   "name": "鄂欣",
+   "role": "侍卫"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "哈密"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16800,
+ "page_range": "346-347"
+}

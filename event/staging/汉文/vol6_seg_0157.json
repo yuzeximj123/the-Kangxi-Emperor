@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙五十四年九月初十日",
+ "reign_year": 54,
+ "month": 9,
+ "day": 10,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州八月天气多晴、米价照常，进呈晴雨录，并报护送龙衣进京行程。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "江宁",
+  "杭州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報米價進晴雨冊並解送龍衣赴部摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1888",
+ "order_index": 157
+}

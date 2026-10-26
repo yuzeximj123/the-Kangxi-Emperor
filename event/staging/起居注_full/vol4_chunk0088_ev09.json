@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "初十日癸酉",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕赵执信革职；朱典因人品学问平常，着休致回籍。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵执信",
+   "role": "赞善"
+  },
+  {
+   "name": "朱典",
+   "role": "候补侍讲学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8809,
+ "page_range": "188-189"
+}

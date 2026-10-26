@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初六日忆已",
+ "event_role": "人事任免",
+ "summary": "吏部题上湖南道等四缺，以祖泽深、王级贤等四人补授，康熙帝询问后准祖泽深补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "祖泽深",
+   "role": "候补官员"
+  },
+  {
+   "name": "王级贤",
+   "role": "候补官员"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21109,
+ "page_range": "465-466"
+}

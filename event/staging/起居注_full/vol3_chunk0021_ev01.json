@@ -1,0 +1,36 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "议随经略莫洛出征陕西原任刑部主事桑阿布下落不明事，明珠转述总兵官蔡元所闻，康熙帝认定桑阿布殉难情真，命照常议恤。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "桑阿布",
+   "role": "原任刑部主事"
+  },
+  {
+   "name": "蔡元",
+   "role": "总兵官"
+  },
+  {
+   "name": "莫洛",
+   "role": "经略"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2101,
+ "page_range": "77-78"
+}

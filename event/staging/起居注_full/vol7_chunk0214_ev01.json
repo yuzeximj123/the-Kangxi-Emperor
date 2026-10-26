@@ -1,0 +1,38 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命正副主考从落卷中选可中者百卷呈览，并查出各馆修书举人落卷中学问优者一并呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傻子",
+   "role": "奏事员外郎"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  },
+  {
+   "name": "揆叙",
+   "role": "起居注工部侍郎"
+  },
+  {
+   "name": "赵申乔",
+   "role": "正主考"
+  },
+  {
+   "name": "徐元梦",
+   "role": "副主考"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21401,
+ "page_range": "439-440"
+}

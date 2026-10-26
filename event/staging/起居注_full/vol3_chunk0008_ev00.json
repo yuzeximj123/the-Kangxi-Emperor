@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就学院员缺人选表态，认为董讷虽优，但汤斌厚重老成、学问优、交游少，命汤斌补授此缺。",
+ "people": [
+  {
+   "name": "董讷",
+   "role": "学院"
+  },
+  {
+   "name": "汤斌",
+   "role": "庶子，补授学院"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 800,
+ "page_range": "51-52"
+}

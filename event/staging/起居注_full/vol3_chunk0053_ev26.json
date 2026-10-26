@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "二十一日癸丑",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝谕总督王新命，高邮等地百姓甚为可悯，田畴被水未复生业，令多方筹划导水通流拯救民命。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "高邮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5326,
+ "page_range": "141-142"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "二十五日戊子",
+ "event_role": "司法案件",
+ "summary": "兵部题金志学、刘子焕冒籍更名中举，议将其父守备茅运昌降二级调用、刘翔援免议，康熙帝命茅运昌照所降之级休致、刘翔以原品休致。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金志学",
+   "role": "举人"
+  },
+  {
+   "name": "刘子焕",
+   "role": "举人"
+  },
+  {
+   "name": "茅运昌",
+   "role": "守备"
+  },
+  {
+   "name": "刘翔",
+   "role": "守备"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15105,
+ "page_range": "312-313"
+}

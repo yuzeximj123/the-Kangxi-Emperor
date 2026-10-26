@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题魏名卿、赵弘矩强奸走马卖解女子姚氏分别斩绞，康熙帝以其可疑，令再详审具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "魏名卿",
+   "role": "案犯"
+  },
+  {
+   "name": "赵弘矩",
+   "role": "案犯"
+  },
+  {
+   "name": "姚氏",
+   "role": "被害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8301,
+ "page_range": "209-210"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "会议四川总督杨茂勋请将进兵草料折给银两事，康熙帝认为兵丁预支银两用完后请给草料必致重复多费。",
+ "people": [
+  {
+   "name": "杨茂勋",
+   "role": "四川总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20000,
+ "page_range": "457-458"
+}

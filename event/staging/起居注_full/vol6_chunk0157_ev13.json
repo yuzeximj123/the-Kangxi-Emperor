@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "十五日丙子",
+ "event_role": "人事任免",
+ "summary": "兵部覆云贵总督巴锡题请游击高河补授参将，议不准行，康熙帝令本留衙门，高河着来京引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "云贵总督"
+  },
+  {
+   "name": "高河",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15713,
+ "page_range": "324-325"
+}

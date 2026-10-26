@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "十八日成搬",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻足行宫，赐扈从内大臣、侍卫、部院衙门大臣等鹿肉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "扈从内大臣",
+   "role": "受赐"
+  },
+  {
+   "name": "侍卫",
+   "role": "受赐"
+  },
+  {
+   "name": "部院衙门大臣",
+   "role": "受赐"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1907,
+ "page_range": "49-50"
+}

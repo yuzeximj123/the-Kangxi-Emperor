@@ -1,0 +1,33 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初一日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝引朱三太子案及四川百姓避酷吏赴贵州事，谕大臣应实心效力为朝廷做事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "赵申乔",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "四川",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18706,
+ "page_range": "385-386"
+}

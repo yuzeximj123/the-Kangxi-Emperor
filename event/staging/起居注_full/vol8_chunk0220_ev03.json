@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初二日王子",
+ "event_role": "军务",
+ "summary": "差往云南打箭炉两处驻防办事都统何礼、护军统领温普率同往官员入请训旨，康熙帝谕以会议而行、防守为重、着实效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何礼",
+   "role": "都统"
+  },
+  {
+   "name": "温普",
+   "role": "护军统领"
+  }
+ ],
+ "places": [
+  "云南",
+  "打箭炉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22003,
+ "page_range": "451-452"
+}

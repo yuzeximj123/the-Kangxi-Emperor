@@ -1,0 +1,32 @@
+{
+ "reign_year": 31,
+ "month": 11,
+ "day_text": "二十九日甲戌",
+ "event_role": "人事任免",
+ "summary": "吏部题原任易州驻防佐领抽木纳呈请以长子都尔海袭佐领、次子科纳布袭拜他拉布勒哈番，康熙以科纳布人材壮健令其承袭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "抽木纳",
+   "role": "原任易州驻防佐领"
+  },
+  {
+   "name": "都尔海",
+   "role": "长子"
+  },
+  {
+   "name": "科纳布",
+   "role": "次子"
+  }
+ ],
+ "places": [
+  "易州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21620,
+ "page_range": "444-445"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十八日庚子",
+ "event_role": "议政听政",
+ "summary": "大学士马齐、学士色德里、满丕以折本请旨，吏部题莽机禄世职承袭事，康熙帝令次子色尔敏承袭。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "色德里",
+   "role": "学士"
+  },
+  {
+   "name": "满丕",
+   "role": "学士"
+  },
+  {
+   "name": "莽机禄",
+   "role": "斌州将军"
+  },
+  {
+   "name": "色尔敏",
+   "role": "莽机禄次子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7814,
+ "page_range": "167-168"
+}

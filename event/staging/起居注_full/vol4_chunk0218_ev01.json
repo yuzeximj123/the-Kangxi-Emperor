@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕李天馥、彭孙通降级从宽留任，称舒革职令为护军效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李天馥",
+   "role": "大学士"
+  },
+  {
+   "name": "彭孙通",
+   "role": "侍郎"
+  },
+  {
+   "name": "称舒",
+   "role": "吏部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21801,
+ "page_range": "448-449"
+}

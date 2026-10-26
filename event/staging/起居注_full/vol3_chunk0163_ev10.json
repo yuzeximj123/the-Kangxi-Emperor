@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十三日丙子",
+ "event_role": "人事任免",
+ "summary": "兵部议原任礼部左侍郎敖哈解去佐领，康熙帝命敖哈仍留佐领，以原品随族上朝。",
+ "people": [
+  {
+   "name": "敖哈",
+   "role": "原任礼部左侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16310,
+ "page_range": "361-362"
+}

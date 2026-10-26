@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": "二十五日甲拱",
+ "event_role": "人事任免",
+ "summary": "兵部题正黄旗蒙古都统沙纳海告病解任员缺，康熙帝命解礼部尚书诺敏任，补授都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙纳海",
+   "role": "正黄旗蒙古都统"
+  },
+  {
+   "name": "诺敏",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "佟宝",
+   "role": "护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20920,
+ "page_range": "453-454"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十一日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "奉天将军安朱社题修边经费拟派取人役银两、户部议令官员捐纳，康熙以官役捐纳非宜，命动户部钱粮修理。",
+ "people": [
+  {
+   "name": "安朱社",
+   "role": "奉天将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24827,
+ "page_range": "553-554"
+}

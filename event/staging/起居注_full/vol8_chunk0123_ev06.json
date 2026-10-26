@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部覆直隶总督赵弘尝题修密云县城垣，康熙帝准修密云城，令直隶等处城垣边墙详细估计银两再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘尝",
+   "role": "总督管理直隶巡抚事务"
+  }
+ ],
+ "places": [
+  "密云县",
+  "涿州",
+  "武清"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12306,
+ "page_range": "257-258"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙就南宁败绩事询问舒恕，以其无格外效力，命以原品解任。",
+ "people": [
+  {
+   "name": "舒恕",
+   "role": "被问询官员"
+  },
+  {
+   "name": "蟒吉图",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "南宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23200,
+ "page_range": "474-475"
+}

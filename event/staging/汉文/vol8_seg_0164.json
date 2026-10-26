@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十八年二月二十日",
+ "reign_year": 58,
+ "month": 2,
+ "day": 20,
+ "event_role": "议政听政",
+ "summary": "兵部尚书孙柱等奏报山西巡抚克齐题请喂驼议叙一事经九卿议覆，请照康熙五十四年大同捐马旧例办理捐纳监收及换给执照事宜。",
+ "people": [
+  {
+   "name": "孙柱",
+   "role": "兵部尚书，领衔具奏"
+  },
+  {
+   "name": "克齐",
+   "role": "山西巡抚，题请喂驼议叙"
+  }
+ ],
+ "places": [
+  "山西",
+  "大同",
+  "索伦"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "兵部尚書孫柱奏為喘病難支祈請旨事摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2740",
+ "order_index": 164
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "初一日",
+ "event_role": "军务",
+ "summary": "九卿会议汉中府驻防汉军官兵一千名应派副都统一员管理，康熙帝以无益且兵民交困命停止。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汉中府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17805,
+ "page_range": "391-392"
+}

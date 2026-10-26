@@ -1,0 +1,22 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "十九日",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝谒福陵，率诸王贝勒文武大臣行三跪九叩礼，三献举哀，随后谒昭陵行三跪九叩礼，三献举哀，礼毕入盛京城观宫殿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福陵",
+  "昭陵",
+  "盛京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19,
+ "page_range": "57-58"
+}

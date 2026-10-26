@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "十二日乙本",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问九卿各闸坝孰为紧要、孰为不紧要，礼部尚书麻尔图等奏称原不知河道，只听口陈并看河图臆断。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "麻尔图",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1907,
+ "page_range": "50-51"
+}

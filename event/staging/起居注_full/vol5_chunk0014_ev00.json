@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补左都御史员缺，康熙帝命升云贵总督范承勋为都察院左都御史，令新总督到任后方来京。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "云贵总督，升都察院左都御史"
+  },
+  {
+   "name": "蒋弘道",
+   "role": "户部左侍郎，列名题补"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1400,
+ "page_range": "38-39"
+}

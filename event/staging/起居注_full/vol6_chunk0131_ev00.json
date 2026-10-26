@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "十七日辛巳",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，召工部侍郎常绥等呈览修河奏疏并询问改移清口事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常绥",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "费扬古",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13100,
+ "page_range": "272-273"
+}

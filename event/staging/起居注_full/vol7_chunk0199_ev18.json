@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "二十日甲戌",
+ "event_role": "人事任免",
+ "summary": "吏部题江苏按察使焦映汉员缺，拟李世仁正、茹仪凤陪，康熙命问九卿各举所知明日具奏。",
+ "people": [
+  {
+   "name": "焦映汉",
+   "role": "江苏按察使"
+  },
+  {
+   "name": "李世仁",
+   "role": "广西左江道"
+  },
+  {
+   "name": "茹仪凤",
+   "role": "陕西肃州道"
+  }
+ ],
+ "places": [
+  "江苏",
+  "广西",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19918,
+ "page_range": "409-410"
+}

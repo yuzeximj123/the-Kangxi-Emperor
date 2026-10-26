@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "二十七日癸巳",
+ "event_role": "人事任免",
+ "summary": "翰林院侍读邬黑升任员缺，康熙帝令翰林官须用有学问人，此缺着考试。",
+ "people": [
+  {
+   "name": "邬黑",
+   "role": "翰林院侍读"
+  },
+  {
+   "name": "戴通",
+   "role": "侍讲"
+  },
+  {
+   "name": "尼牙韩",
+   "role": "刑部员外郎"
+  },
+  {
+   "name": "班岱",
+   "role": "督捕员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1617,
+ "page_range": "67-68"
+}

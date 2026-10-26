@@ -1,0 +1,36 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "二十二日辛卯",
+ "event_role": "河工水利",
+ "summary": "凯音布奏开浚下河派夫万余，康熙斥其违背不得擅派民夫之旨，命九卿会议。",
+ "people": [
+  {
+   "name": "凯音布",
+   "role": "户部右侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "郭玫",
+   "role": "学士"
+  },
+  {
+   "name": "孙在丰",
+   "role": "原任下河侍郎"
+  }
+ ],
+ "places": [
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4811,
+ "page_range": "108-109"
+}

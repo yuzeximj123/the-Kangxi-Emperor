@@ -1,0 +1,27 @@
+{
+ "reign_year": 14,
+ "month": 12,
+ "day_text": "初十日癸亥",
+ "event_role": "请安谢恩",
+ "summary": "寅时康熙帝赴太皇太后宫问安，扶掖太皇太后登辇并随行送至宫中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "南苑大红门",
+  "正阳门",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10602,
+ "page_range": "269-270"
+}

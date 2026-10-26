@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述中路出兵与费扬古约期会齐，克勒伦地方有人以运粮艰难劝阻，帝决意前往终成大功。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "将军"
+  },
+  {
+   "name": "高士奇",
+   "role": "随从官员"
+  },
+  {
+   "name": "陈元龙",
+   "role": "随从官员"
+  }
+ ],
+ "places": [
+  "克勒伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17802,
+ "page_range": "367-368"
+}

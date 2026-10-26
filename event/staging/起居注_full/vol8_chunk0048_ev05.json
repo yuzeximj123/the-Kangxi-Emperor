@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士温达等以补授四川布政使问九卿，九卿保举江西按察使刘荣，康熙帝令刘荣升补四川布政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "刘荣",
+   "role": "江西按察使"
+  }
+ ],
+ "places": [
+  "四川",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4805,
+ "page_range": "107-108"
+}

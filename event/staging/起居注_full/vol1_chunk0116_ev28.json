@@ -1,0 +1,24 @@
+{
+ "reign_year": 15,
+ "month": 6,
+ "day_text": "十二日癸刻",
+ "event_role": "其他",
+ "summary": "未时，康熙帝御保和殿，赐进贡哪罗思部落米库赖等食并命侍卫酌酒赐饮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "米库赖",
+   "role": "哪罗思部落进贡使"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11628,
+ "page_range": "289-290"
+}

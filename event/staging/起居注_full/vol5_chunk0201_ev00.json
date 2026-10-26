@@ -1,0 +1,42 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣等议复于成龙所题运米宁夏事宜，请照所题速运米至宁夏并预备驮架，奉旨俟到宁夏再议。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  },
+  {
+   "name": "王化行",
+   "role": "总兵官"
+  },
+  {
+   "name": "库圭纳",
+   "role": "尚书"
+  },
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  },
+  {
+   "name": "吴赫",
+   "role": "总督"
+  },
+  {
+   "name": "马思喀",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "大同",
+  "平凉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20100,
+ "page_range": "412-413"
+}

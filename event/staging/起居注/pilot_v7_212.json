@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙四十五年（未标日期）",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "（未标日期）",
+ "event_role": "收到奏折",
+ "summary": "四川提督学政宋衡题请刊刻颁行御制诗集并请御书，康熙帝批该部知道",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋衡",
+   "role": "四川提督学政"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3212
+}

@@ -1,0 +1,27 @@
+{
+ "reign_year": 32,
+ "month": 7,
+ "day_text": "二十七日已已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕伊桑阿等，广西四川贵州云南四省地瘠民贫，令蠲免三十三年应征地丁银米，撰旨于八月内呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广西",
+  "四川",
+  "贵州",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23809,
+ "page_range": "488-489"
+}

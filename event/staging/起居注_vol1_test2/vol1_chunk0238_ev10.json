@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十九日戊子",
+ "event_role": "司法案件",
+ "summary": "刑部议革职山东巡抚赵祥星应鞭一百枷两月不准折赎，康熙帝问满汉大学士，杜立德以刑不上大夫为言，帝令照部议仍永不叙用。",
+ "people": [
+  {
+   "name": "赵祥星",
+   "role": "革职山东巡抚"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23810,
+ "page_range": "533-534"
+}

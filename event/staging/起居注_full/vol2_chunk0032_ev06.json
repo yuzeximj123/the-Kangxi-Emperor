@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": "初一日乙卯",
+ "event_role": "祭祀典礼",
+ "summary": "巳时，康熙帝率皇太子赴太皇太后、皇太后宫行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3206,
+ "page_range": "107-108"
+}

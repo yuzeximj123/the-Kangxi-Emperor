@@ -1,0 +1,33 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题袁州总兵和尚、定海总兵孙维统员缺，康熙帝令将现任副将中有劳绩者查奏。",
+ "people": [
+  {
+   "name": "和尚",
+   "role": "袁州总兵官"
+  },
+  {
+   "name": "孙维统",
+   "role": "定海总兵官"
+  },
+  {
+   "name": "姚仪",
+   "role": "姚启圣之子，候缺"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "袁州",
+  "定海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7402,
+ "page_range": "183-184"
+}

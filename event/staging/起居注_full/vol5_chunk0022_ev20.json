@@ -1,0 +1,42 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初二日戊辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝评论陈玫器为人老成、品行好、学问优，伊桑阿等奏其不与人往来、品行不乖张。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈玫器",
+   "role": "大理寺正卿"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2220,
+ "page_range": "54-55"
+}

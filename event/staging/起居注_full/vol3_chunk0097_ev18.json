@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "十八日本未",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝出口外行至偏岭下，皇太子率皇长子及扈从诸王、内大臣、侍卫迎驾请安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇长子"
+  }
+ ],
+ "places": [
+  "偏岭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9718,
+ "page_range": "229-230"
+}

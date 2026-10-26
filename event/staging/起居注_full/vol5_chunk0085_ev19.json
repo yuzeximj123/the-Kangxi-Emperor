@@ -1,0 +1,36 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "十八日本未",
+ "event_role": "人事任免",
+ "summary": "吏部题河东运使许桓龄员缺，康熙帝询问知府颜光效为人，命问九卿其居官何如。",
+ "people": [
+  {
+   "name": "许桓龄",
+   "role": "河东运使"
+  },
+  {
+   "name": "赵清祯",
+   "role": "知府"
+  },
+  {
+   "name": "颜光效",
+   "role": "知府"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "张英",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "河东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8519,
+ "page_range": "180-181"
+}

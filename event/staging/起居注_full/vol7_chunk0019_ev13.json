@@ -1,0 +1,37 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十二日于申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻足行宫，密云县知县周钱献诗十首，康熙帝赐御书诗字一幅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "周钱",
+   "role": "密云县知县，献诗受赐"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事，转奏"
+  },
+  {
+   "name": "来保",
+   "role": "奏事，转奏"
+  },
+  {
+   "name": "李玉",
+   "role": "太监，传旨"
+  }
+ ],
+ "places": [
+  "行宫",
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1913,
+ "page_range": "49-50"
+}

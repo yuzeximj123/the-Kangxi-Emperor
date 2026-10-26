@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 10,
+ "day_text": "二十七日",
+ "event_role": "人事任免",
+ "summary": "吏部题三河县知县彭鹏因越狱强盗逾限无获应降一级调用，康熙帝以其居官素优从宽免调用，降一级留任。",
+ "people": [
+  {
+   "name": "彭鹏",
+   "role": "三河县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25006,
+ "page_range": "535-536"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "十六日丁丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻足大沾地方，过新河口泊舟阅视新挑河道。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大沾",
+  "新河口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6613,
+ "page_range": "142-143"
+}

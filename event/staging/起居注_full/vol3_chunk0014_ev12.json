@@ -1,0 +1,36 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "二十日丙成",
+ "event_role": "人事任免",
+ "summary": "吏部议两淮巡盐御史丹代、堪泰交盘未完钱粮谎报足额应革职，康熙询问后命二员俱着革职。",
+ "people": [
+  {
+   "name": "丹代",
+   "role": "两淮巡盐御史"
+  },
+  {
+   "name": "堪泰",
+   "role": "两淮巡盐御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1412,
+ "page_range": "63-64"
+}

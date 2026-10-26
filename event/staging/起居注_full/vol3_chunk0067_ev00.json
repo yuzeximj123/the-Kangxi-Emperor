@@ -1,0 +1,52 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题翰林院侍讲学士员缺，康熙询问考试诸人后命尹泰升补侍讲学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "达苏哈",
+   "role": "拟正郎中"
+  },
+  {
+   "name": "巴尔哈",
+   "role": "拟陪郎中"
+  },
+  {
+   "name": "德格勒",
+   "role": "论德"
+  },
+  {
+   "name": "尹泰",
+   "role": "侍讲"
+  },
+  {
+   "name": "傅继祖",
+   "role": "侍讲"
+  },
+  {
+   "name": "明图",
+   "role": "侍读"
+  },
+  {
+   "name": "三保",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "翰林院"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6700,
+ "page_range": "169-170"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "总督花馆荣题报原任四川学道张萃陷贼未污伪职、军前投到，部覆应无良议，康熙帝命依部议。",
+ "people": [
+  {
+   "name": "花馆荣",
+   "role": "总督"
+  },
+  {
+   "name": "张萃",
+   "role": "原任四川学道"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1500,
+ "page_range": "73-74"
+}

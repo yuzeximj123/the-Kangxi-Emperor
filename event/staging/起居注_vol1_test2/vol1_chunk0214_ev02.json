@@ -1,0 +1,33 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "初一日辛卯",
+ "event_role": "皇帝行止",
+ "summary": "午时康熙帝率皇太子至太皇太后、皇太后宫行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21402,
+ "page_range": "485-486"
+}

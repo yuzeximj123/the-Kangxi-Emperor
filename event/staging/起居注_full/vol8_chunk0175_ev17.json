@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "初八日癸巳",
+ "event_role": "其他",
+ "summary": "康熙帝赐广东广西总督杨琳《三元甲子编年》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨琳",
+   "role": "广东广西总督"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17517,
+ "page_range": "361-362"
+}

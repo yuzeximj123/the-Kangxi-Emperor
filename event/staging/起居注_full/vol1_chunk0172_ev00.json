@@ -1,0 +1,20 @@
+{
+ "reign_year": 17,
+ "month": 11,
+ "day_text": "初八日乙巳",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝因冬至亲赴圜丘祭天，行礼完毕后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "圜丘"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17200,
+ "page_range": "401-402"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "十六日己刻",
+ "event_role": "人事任免",
+ "summary": "户部题巴福寿情愿差往凤阳一年多交税银，康熙以其规避希图安逸，命此事不可行。",
+ "people": [
+  {
+   "name": "巴福寿",
+   "role": "原任凤阳关监督员外郎"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "凤阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19706,
+ "page_range": "405-406"
+}

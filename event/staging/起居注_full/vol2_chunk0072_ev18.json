@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初八日戊子",
+ "event_role": "军务",
+ "summary": "广东将军王永誉请设协领等员，康熙帝令世袭官员不必补参领，军前效力佐领相应补授，着再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王永誉",
+   "role": "广东将军"
+  },
+  {
+   "name": "刘国化",
+   "role": "参领"
+  },
+  {
+   "name": "王朝臣",
+   "role": "佐领"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7218,
+ "page_range": "187-188"
+}

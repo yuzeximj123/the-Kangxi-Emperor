@@ -1,0 +1,49 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题宁古塔将军参副都统常关保失察、违例给票、不严查边疆等罪，康熙帝命常关保革退。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常关保",
+   "role": "副都统"
+  },
+  {
+   "name": "俄洛",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "常保",
+   "role": "防御"
+  },
+  {
+   "name": "稳和伦",
+   "role": "尚书"
+  },
+  {
+   "name": "胡八",
+   "role": "财主"
+  },
+  {
+   "name": "韩五",
+   "role": "为首者"
+  },
+  {
+   "name": "牛大",
+   "role": "为从者"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "白都纳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2110,
+ "page_range": "53-54"
+}

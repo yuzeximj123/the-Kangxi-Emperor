@@ -1,0 +1,33 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣等奏报振武将军孙思克关于波硕克图济农遣人招抚噶尔丹及副将李凤翔差人探信事，请旨裁夺。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "振武将军"
+  },
+  {
+   "name": "波硕克图济农",
+   "role": "蒙古首领"
+  },
+  {
+   "name": "李凤翔",
+   "role": "河州副将"
+  },
+  {
+   "name": "马一善",
+   "role": "通事"
+  }
+ ],
+ "places": [
+  "河州",
+  "呼户诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22501,
+ "page_range": "460-461"
+}

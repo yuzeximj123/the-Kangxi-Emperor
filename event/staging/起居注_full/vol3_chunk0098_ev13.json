@@ -1,0 +1,23 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "二十五日甲寅",
+ "event_role": "军务",
+ "summary": "户部议吴喇至黑龙江十九处驿站户口次年正月起程，米粮由盛京户部采买运送，康熙言征罗刹预设良策、于爱浑屯粮可支数年。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "吴喇",
+  "黑龙江",
+  "盛京",
+  "爱浑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9813,
+ "page_range": "231-232"
+}

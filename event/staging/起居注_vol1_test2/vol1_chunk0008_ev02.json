@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "二十七日甲成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝担心怀来城东浮桥不固，亲自驰马查验，才请太皇太后乘舆过桥。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "祖母"
+  }
+ ],
+ "places": [
+  "怀来城东浮桥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 802,
+ "page_range": "73-74"
+}

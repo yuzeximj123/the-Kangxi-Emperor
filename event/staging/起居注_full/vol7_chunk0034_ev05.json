@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "内监领诸臣至行宫左厢观四贝勒与十三阿哥写字，皇子各书一联，诸臣惊叹其运笔遒劲、书法精严。",
+ "people": [
+  {
+   "name": "四贝勒",
+   "role": "皇子"
+  },
+  {
+   "name": "十三阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "行宫左厢"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3405,
+ "page_range": "79-80"
+}

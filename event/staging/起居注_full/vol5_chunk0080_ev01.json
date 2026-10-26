@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部议杭州正白旗防御达都之子常寿辱骂将军、副都统，拟将达都革职并与其子枷号鞭责，康熙帝斥兵部议罪甚误，命将达都之妻即于彼处正法示众。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达都",
+   "role": "杭州正白旗防御"
+  },
+  {
+   "name": "常寿",
+   "role": "达都之子、披甲"
+  },
+  {
+   "name": "松柱",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8001,
+ "page_range": "170-171"
+}

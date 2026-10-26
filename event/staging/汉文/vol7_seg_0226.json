@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十五年八月",
+ "reign_year": 55,
+ "month": 8,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "太原总兵金国正差家人李良赍捧奏折，恭请圣安，表达对皇帝的依恋与感恩之情。",
+ "people": [
+  {
+   "name": "金国正",
+   "role": "镇守山西太原等处地方总兵官、署都督佥事"
+  },
+  {
+   "name": "李良",
+   "role": "金国正家人，赍捧奏折"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知。",
+ "source_title": "太原總兵金國正奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "214",
+ "order_index": 226
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 12,
+ "month": 8,
+ "day_text": "十三日",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝酉时在西郊行夕月礼，戌时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西郊"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4925,
+ "page_range": "155-156"
+}

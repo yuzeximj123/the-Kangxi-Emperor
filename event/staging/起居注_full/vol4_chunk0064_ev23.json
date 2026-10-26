@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "二十四日辛卯",
+ "event_role": "人事任免",
+ "summary": "吏部题刑部尚书徐元文调补员缺，帝称开列侍郎无可者，命原任工部尚书杜至补授刑部尚书。",
+ "people": [
+  {
+   "name": "徐元文",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "张集",
+   "role": "吏部左侍郎"
+  },
+  {
+   "name": "杜至",
+   "role": "原任工部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6423,
+ "page_range": "140-141"
+}

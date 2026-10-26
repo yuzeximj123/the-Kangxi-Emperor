@@ -1,0 +1,23 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述南巡舟行、西巡陆路所见官民迎驾情形，称巡幸七省周知风俗民情。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江浙",
+  "山东",
+  "河南",
+  "秦晋"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8707,
+ "page_range": "185-186"
+}

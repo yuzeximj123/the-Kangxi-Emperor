@@ -1,0 +1,28 @@
+{
+ "reign_year": 15,
+ "month": 2,
+ "day_text": "二十五日了丑",
+ "event_role": "其他",
+ "summary": "康熙帝随御保和殿，赐图海、许天宠食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图海",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "许天宠",
+   "role": "广东水路提督"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11042,
+ "page_range": "277-278"
+}

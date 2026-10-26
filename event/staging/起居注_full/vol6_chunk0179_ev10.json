@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "二十九日戊子",
+ "event_role": "议政听政",
+ "summary": "康熙帝询问学士介可托其人如何，伊桑阿、马齐奏其学问优、尚可用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "介可托",
+   "role": "学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17910,
+ "page_range": "368-369"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十六日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自京口由陆路临幸江宁府，将军鄂罗舜等率驻防满洲官兵、提督张云翼等率绿旗官兵迎接，生员百姓焚香跪迎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂罗舜",
+   "role": "将军"
+  },
+  {
+   "name": "张云翼",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "京口",
+  "江宁府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5308,
+ "page_range": "117-118"
+}

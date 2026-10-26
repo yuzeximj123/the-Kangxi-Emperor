@@ -1,0 +1,22 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝谕令将哈雅尔图添入保举之内。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈雅尔图",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8208,
+ "page_range": "174-175"
+}

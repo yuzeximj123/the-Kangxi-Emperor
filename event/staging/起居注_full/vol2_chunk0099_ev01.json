@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部议原任佥都御史赵之符捐米一千石复还原官，康熙帝以其品行不端、结党奔竞，令发还米石、本著交部另议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵之符",
+   "role": "原任佥都御史"
+  },
+  {
+   "name": "赵祥星",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "大同",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9901,
+ "page_range": "241-242"
+}

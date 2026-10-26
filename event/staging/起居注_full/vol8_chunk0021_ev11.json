@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "汇题案内逃回为盗之褚库尔代应正法，因遇赦免死减等，康熙帝命查明迟延缘故并查护理将军印务协领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "褚库尔代",
+   "role": "逃犯"
+  },
+  {
+   "name": "亨特",
+   "role": "护理宁古塔将军事协领"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2111,
+ "page_range": "53-54"
+}

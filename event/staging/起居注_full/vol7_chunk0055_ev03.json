@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "二十六日辛未",
+ "event_role": "其他",
+ "summary": "经筵讲毕，康熙帝赐宴于太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5503,
+ "page_range": "121-122"
+}

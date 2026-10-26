@@ -1,0 +1,36 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请九峙所题北新关解送银五万两私分案，拟将宝善正法、常明等绞监候、公泰等枷号鞭责、查林布枷号鞭责，康熙帝命俟保住事再议时折签请旨。",
+ "people": [
+  {
+   "name": "宝善",
+   "role": "案犯"
+  },
+  {
+   "name": "常明",
+   "role": "原任司库"
+  },
+  {
+   "name": "公泰",
+   "role": "笔帖式"
+  },
+  {
+   "name": "查林布",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "北新关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20001,
+ "page_range": "411-412"
+}

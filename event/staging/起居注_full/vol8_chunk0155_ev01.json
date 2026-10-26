@@ -1,0 +1,22 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "兵部覆请查江南苏松水师总兵胡骏能否行走再议，康熙谕称苏松兵丁习俗甚恶、胡骏约束甚好，不可调换他处以长恶风，令将江南不紧要道官移置一员并问九卿具奏。",
+ "people": [
+  {
+   "name": "胡骏",
+   "role": "江南苏松水师营总兵官"
+  }
+ ],
+ "places": [
+  "江南",
+  "苏松",
+  "崇明"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15501,
+ "page_range": "321-322"
+}

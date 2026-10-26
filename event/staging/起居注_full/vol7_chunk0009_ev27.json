@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初十日辛卯",
+ "event_role": "人事任免",
+ "summary": "吏部遵旨以内院学士苏赫纳员缺引见御史鄂罗等，康熙命纪尔塔浑补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏赫纳",
+   "role": "内院学士"
+  },
+  {
+   "name": "鄂罗",
+   "role": "御史"
+  },
+  {
+   "name": "纪尔塔浑",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 927,
+ "page_range": "29-30"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "二十四日戊申",
+ "event_role": "军务",
+ "summary": "康熙谕西路所设驿站近日如何，偶闻西路出征台吉毕立克图云噶尔丹溃散后尚存五六十人，有一二驿站被扰。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "毕立克图",
+   "role": "西路出征台吉"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  }
+ ],
+ "places": [
+  "西路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14521,
+ "page_range": "300-301"
+}

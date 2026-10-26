@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "二十七日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部题吏部侍郎常书员缺，康熙帝以阿尔拜自爱，命补授吏部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔拜",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "常书",
+   "role": "吏部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14613,
+ "page_range": "302-303"
+}

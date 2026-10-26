@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十二日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令将旨宣谕九卿、科道，若仍蹈前习必不宽贷，并论科道为耳目之官，总兵官卓策、柯彩、许盛居官贪酷已被惩治。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "卓策",
+   "role": "总兵官"
+  },
+  {
+   "name": "柯彩",
+   "role": "总兵官"
+  },
+  {
+   "name": "许盛",
+   "role": "总兵官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18316,
+ "page_range": "376-377"
+}

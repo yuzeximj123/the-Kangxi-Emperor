@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "初一日甲午",
+ "event_role": "朝见受贺",
+ "summary": "建昌路都司游洪放、冷口驻防防御常在等来朝见。",
+ "people": [
+  {
+   "name": "游洪放",
+   "role": "建昌路都司"
+  },
+  {
+   "name": "常在",
+   "role": "冷口驻防防御"
+  }
+ ],
+ "places": [
+  "建昌路",
+  "冷口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5030,
+ "page_range": "110-111"
+}

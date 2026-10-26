@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "户部查淮安关监督苏黑所欠铜银一千二百余两，康熙帝命萨木代前往处理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "苏黑",
+   "role": "淮安关监督"
+  },
+  {
+   "name": "萨木代",
+   "role": "钦差"
+  }
+ ],
+ "places": [
+  "淮安关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18804,
+ "page_range": "387-388"
+}

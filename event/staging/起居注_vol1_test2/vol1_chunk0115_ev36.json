@@ -1,0 +1,20 @@
+{
+ "reign_year": 15,
+ "month": 5,
+ "day_text": "二十五日丙午",
+ "event_role": "皇帝行止",
+ "summary": "申时康熙帝回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11536,
+ "page_range": "287-288"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "二十九日甲子",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝斥赵申乔每以人为不足数，其子赵凤诏居官最贪且大富，赵申乔何不检举。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "赵申乔之子"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9713,
+ "page_range": "205-206"
+}

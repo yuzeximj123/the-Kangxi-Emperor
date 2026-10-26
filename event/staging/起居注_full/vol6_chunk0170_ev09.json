@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "二十一日庚成",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝言太仆卿拉西、侍郎常寿知策旺喇布滩谷米变蚊、穗内成血之灾，并述盛京洒虫食禾之害为亲见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "拉西",
+   "role": "太仆卿"
+  },
+  {
+   "name": "常寿",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17009,
+ "page_range": "350-351"
+}

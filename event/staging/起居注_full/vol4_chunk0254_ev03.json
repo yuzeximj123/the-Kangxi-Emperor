@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝念食为民天，特命皇子虑祀华山。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇子",
+   "role": "奉命祭祀"
+  }
+ ],
+ "places": [
+  "华山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25403,
+ "page_range": "520-521"
+}

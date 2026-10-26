@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 1,
+ "day_text": "二十四日丙寅",
+ "event_role": "人事任免",
+ "summary": "江西按察使刘柴员缺，请开列金衢严道祖业弘等指名调来引见，康熙帝命以道员问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘柴",
+   "role": "江西按察使"
+  },
+  {
+   "name": "祖业弘",
+   "role": "金衢严道"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5207,
+ "page_range": "115-116"
+}

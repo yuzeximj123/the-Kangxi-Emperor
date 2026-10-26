@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "初二日癸北",
+ "event_role": "其他",
+ "summary": "赏赐江南总督王新命、巡抚汤研、安徽巡抚芒柱斗狐腋蟒袍各一领。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "江南总督"
+  },
+  {
+   "name": "汤研",
+   "role": "巡抚"
+  },
+  {
+   "name": "芒柱斗",
+   "role": "安徽巡抚"
+  }
+ ],
+ "places": [
+  "江南",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5609,
+ "page_range": "147-148"
+}

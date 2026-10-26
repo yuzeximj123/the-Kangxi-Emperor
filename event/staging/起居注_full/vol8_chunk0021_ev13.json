@@ -1,0 +1,38 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "山东总兵官李奴题胶州副将李记员缺请以张典臣补授等，康熙帝命李饼在任守制，补授守备着该部议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李奴",
+   "role": "山东总兵官"
+  },
+  {
+   "name": "李记",
+   "role": "胶州副将"
+  },
+  {
+   "name": "张典臣",
+   "role": "曹州参将"
+  },
+  {
+   "name": "王得功",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "山东",
+  "胶州",
+  "曹州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2113,
+ "page_range": "53-54"
+}

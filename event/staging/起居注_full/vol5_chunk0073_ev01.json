@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "镶红旗汉军副都统拜音布员缺，康熙帝以赵铸之父赵国佐效力处多，命赵铸补授副都统。",
+ "people": [
+  {
+   "name": "拜音布",
+   "role": "镶红旗汉军副都统"
+  },
+  {
+   "name": "赵铸",
+   "role": "副都统"
+  },
+  {
+   "name": "赵国佐",
+   "role": "赵铸之父"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7301,
+ "page_range": "156-157"
+}

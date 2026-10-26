@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "十八日甲成",
+ "event_role": "皇帝行止",
+ "summary": "申时康熙帝御行宫正门射箭，令皇子及善射人员射，每发皆中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇子",
+   "role": "随行皇子"
+  }
+ ],
+ "places": [
+  "行宫正门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15602,
+ "page_range": "323-324"
+}

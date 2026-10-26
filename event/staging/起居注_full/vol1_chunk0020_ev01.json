@@ -1,0 +1,38 @@
+{
+ "reign_year": 11,
+ "month": 7,
+ "day_text": "初九日王午",
+ "event_role": "司法案件",
+ "summary": "吏部尚书对哈纳等奏九卿议定书办犯赃及该管官处分条例。",
+ "people": [
+  {
+   "name": "对哈纳",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "孝惟纳",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "勒德浑",
+   "role": "吏部左侍郎"
+  },
+  {
+   "name": "王清",
+   "role": "吏部左侍郎"
+  },
+  {
+   "name": "舒书",
+   "role": "吏部右侍郎"
+  },
+  {
+   "name": "陈数永",
+   "role": "吏部右侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2001,
+ "page_range": "97-98"
+}

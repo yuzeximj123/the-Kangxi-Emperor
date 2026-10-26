@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命依和尔等所议召靳辅来京，表示有面问靳辅之处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20400,
+ "page_range": "443-444"
+}

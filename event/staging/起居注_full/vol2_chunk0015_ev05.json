@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十三日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "御史任班条奏旗下买人宜用本地印信，大学士明珠、李霨、杜立德等议定例未久不宜再改，康熙帝不准行。",
+ "people": [
+  {
+   "name": "任班",
+   "role": "御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1505,
+ "page_range": "73-74"
+}

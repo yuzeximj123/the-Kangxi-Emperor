@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补郎中，正拟臧应选、陪拟马君宠，康熙帝以其俱不堪用，命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "臧应选",
+   "role": "拟补吏部郎中"
+  },
+  {
+   "name": "马君宠",
+   "role": "陪拟员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22001,
+ "page_range": "497-498"
+}

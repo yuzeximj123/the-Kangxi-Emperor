@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "event_role_note": null,
+ "summary": "户部覆直隶巡抚李光地条奏挪用钱粮官员从重治罪议不准，康熙命照李光地所奏行。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14303,
+ "page_range": "296-297"
+}

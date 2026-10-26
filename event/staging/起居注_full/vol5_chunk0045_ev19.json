@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "二十一日乙卯",
+ "event_role": "军务",
+ "summary": "兵部题显威将军郎坦将披甲人等在外强妄行、不遵法纪、折屋斫木者议罪，上谕从严，引《易经》师出以律，命发回再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郎坦",
+   "role": "显威将军"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "南方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4519,
+ "page_range": "100-101"
+}

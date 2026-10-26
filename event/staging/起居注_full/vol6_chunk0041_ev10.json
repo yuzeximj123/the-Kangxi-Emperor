@@ -1,0 +1,22 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "初五日戊实",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早晨自沧州大沽营坐步辇启行，幸海口，入览新建海神庙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "沧州大沽营",
+  "海口",
+  "海神庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4110,
+ "page_range": "92-93"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "二十三日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出山海关行围，射殪二虎，皇太子射殪一虎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "山海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11408,
+ "page_range": "271-272"
+}

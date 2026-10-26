@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "郎中禅布将钱安世捐级实收不详对部册即准行，拟枷号鞭责，康熙帝命枷责发往黑龙江当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "禅布",
+   "role": "郎中"
+  },
+  {
+   "name": "钱安世",
+   "role": "捐级人"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14503,
+ "page_range": "300-301"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 14,
+ "month": 11,
+ "day_text": "十五日已效",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿视朝，文武升转官员及喀尔喀、厄鲁特进贡使臣谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "墨尔根博齐",
+   "role": "喀尔喀部落进贡使"
+  },
+  {
+   "name": "马木特",
+   "role": "厄鲁特部落进贡使"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10420,
+ "page_range": "265-266"
+}

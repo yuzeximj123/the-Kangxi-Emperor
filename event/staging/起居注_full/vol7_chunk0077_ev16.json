@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十六日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "乾清门侍卫马武传谕行在兵部，令陕西西安府接驾官员军民在潼关等候，不必渡河，并移谕川陕总督觉罗华显。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "觉罗华显",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "西安府",
+  "潼关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7716,
+ "page_range": "165-166"
+}

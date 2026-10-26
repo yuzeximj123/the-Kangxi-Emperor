@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "初六日甲申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士勒德洪等，令九卿齐集赐食，并命选择闽省总督王国安员缺人选，又令九卿详议应行政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "王国安",
+   "role": "闽省总督"
+  }
+ ],
+ "places": [
+  "闽省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21617,
+ "page_range": "467-468"
+}

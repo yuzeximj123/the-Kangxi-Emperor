@@ -1,0 +1,20 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": "二十六日乙卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸王肝营。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "王肝营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15504,
+ "page_range": "321-322"
+}

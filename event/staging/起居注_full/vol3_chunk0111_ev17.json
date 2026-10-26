@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初六日癸巳",
+ "event_role": "议政听政",
+ "event_summary": "辰时，康熙御乾清门听政，部院各衙门官员面奏毕，户部郎中席喇、齐积等以踏勘山东莱州等府州县水灾面请谕旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席喇",
+   "role": "户部郎中"
+  },
+  {
+   "name": "齐积",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "山东莱州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11117,
+ "page_range": "257-258"
+}

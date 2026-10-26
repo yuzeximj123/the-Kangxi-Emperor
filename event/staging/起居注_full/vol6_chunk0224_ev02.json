@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝评价天津官员，称范时崇、赵弘党、施世纶居官优，范时崇暂留天津，令问其服满与否具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范时崇",
+   "role": "天津官员"
+  },
+  {
+   "name": "赵弘党",
+   "role": "官员"
+  },
+  {
+   "name": "施世纶",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22402,
+ "page_range": "458-459"
+}

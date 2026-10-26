@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初六日丙午",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等奏詹事府官员裁留方案，康熙令再裁少詹一员，留集可托、裁席尔图，并令验看所留官员罢斥老劣者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "集可托",
+   "role": "少詹事，留任"
+  },
+  {
+   "name": "席尔图",
+   "role": "少詹事，裁汰"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6708,
+ "page_range": "144-145"
+}

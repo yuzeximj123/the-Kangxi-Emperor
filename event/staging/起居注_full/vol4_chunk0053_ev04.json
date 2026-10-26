@@ -1,0 +1,38 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "景州知州赵国宣、把总李玉、阜城县知县钱式庄、千总张应龙、武邑县知县徐待京等来朝。",
+ "people": [
+  {
+   "name": "赵国宣",
+   "role": "景州知州"
+  },
+  {
+   "name": "李玉",
+   "role": "把总"
+  },
+  {
+   "name": "钱式庄",
+   "role": "阜城县知县"
+  },
+  {
+   "name": "张应龙",
+   "role": "千总"
+  },
+  {
+   "name": "徐待京",
+   "role": "武邑县知县"
+  }
+ ],
+ "places": [
+  "景州",
+  "阜城县",
+  "武邑县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5304,
+ "page_range": "118-119"
+}

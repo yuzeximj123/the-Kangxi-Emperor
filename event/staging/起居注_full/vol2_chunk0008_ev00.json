@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命以堪泰、喇占补监察御史，阿兰泰补给事中。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "喇占",
+   "role": "补监察御史"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "补给事中"
+  },
+  {
+   "name": "堪泰",
+   "role": "补监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 800,
+ "page_range": "59-60"
+}

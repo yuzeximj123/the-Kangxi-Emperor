@@ -1,0 +1,32 @@
+{
+ "reign_year": 14,
+ "month": 5,
+ "day_text": "初三日辛西",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝随往太皇太后宫，以察哈尔国叛王布尔倪及伊弟鲁布臧授首缘由奏闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太后"
+  },
+  {
+   "name": "布尔倪",
+   "role": "察哈尔国叛王"
+  },
+  {
+   "name": "鲁布臧",
+   "role": "叛王之弟"
+  }
+ ],
+ "places": [
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9034,
+ "page_range": "237-238"
+}

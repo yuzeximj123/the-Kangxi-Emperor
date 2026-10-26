@@ -1,0 +1,21 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": "二十五日癸巳",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝由西直门入神武门进宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西直门",
+  "神武门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8204,
+ "page_range": "175-176"
+}

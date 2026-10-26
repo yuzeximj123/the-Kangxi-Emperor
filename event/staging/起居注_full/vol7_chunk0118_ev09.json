@@ -1,0 +1,42 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "初二日",
+ "event_role": "起居注官记录",
+ "summary": "康熙帝询问起居注官把叙汪霦、吴涵、何焯等人品学，把叙等奏对。",
+ "people": [
+  {
+   "name": "把叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "汪霦",
+   "role": "官员"
+  },
+  {
+   "name": "熊赐履",
+   "role": "官员"
+  },
+  {
+   "name": "吴涵",
+   "role": "官员"
+  },
+  {
+   "name": "何焯",
+   "role": "官员"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11809,
+ "page_range": "247-248"
+}

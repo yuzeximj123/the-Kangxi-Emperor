@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "初二日癸酉",
+ "event_role": "朝见受贺",
+ "summary": "怀庆府知府崔征壁、重津县知县徐元灿等来朝。",
+ "people": [
+  {
+   "name": "崔征壁",
+   "role": "怀庆府知府"
+  },
+  {
+   "name": "徐元灿",
+   "role": "重津县知县"
+  }
+ ],
+ "places": [
+  "怀庆府",
+  "重津县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8416,
+ "page_range": "179-180"
+}

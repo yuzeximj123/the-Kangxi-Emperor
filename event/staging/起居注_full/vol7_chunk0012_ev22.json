@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "十五日丙实",
+ "event_role": "谕旨决策",
+ "summary": "礼部议浙江巡抚张志栋题请给明季绍兴知府汤绍封典祭礼，康熙帝命行文问巡抚赵申乔。",
+ "people": [
+  {
+   "name": "张志栋",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "汤绍",
+   "role": "明季绍兴府知府"
+  },
+  {
+   "name": "赵申乔",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "绍兴府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1222,
+ "page_range": "35-36"
+}

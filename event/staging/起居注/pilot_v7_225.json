@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十五年（未标月份）",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "（未标日期）",
+ "event_role": "司法案件",
+ "summary": "刑部汇题押解流徙宁古塔人犯脱逃案拟处佐领努夏等，康熙帝以所议尚轻命再严议",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "努夏",
+   "role": "佐领"
+  },
+  {
+   "name": "苏尔登",
+   "role": "涉案官兵"
+  },
+  {
+   "name": "阿尔拜",
+   "role": "拨什库"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3225
+}

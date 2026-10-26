@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十四日辛未",
+ "event_role": "人事任免",
+ "summary": "翰林院为日讲官起居注徐舍升国子监司业员缺开列侍讲学士田喜雷等具题，康熙帝令同该衙门会拟具奏。",
+ "people": [
+  {
+   "name": "徐舍",
+   "role": "日讲官起居注"
+  },
+  {
+   "name": "田喜雷",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "翰林院",
+  "国子监"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10415,
+ "page_range": "243-244"
+}

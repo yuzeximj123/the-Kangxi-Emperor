@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "盛京户部侍郎阿喇密题请盛京协济料草于来岁带征，康熙帝以去岁盛京水涝未收，命已征者不论，未征者免其追征。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿喇密",
+   "role": "盛京户部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 401,
+ "page_range": "18-19"
+}

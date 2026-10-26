@@ -1,0 +1,38 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "臣等议覆布喀所告籽粒银两案，查无侵蚀证据，百姓自称已得散给，拟免布喀赔偿并免追运米。",
+ "people": [
+  {
+   "name": "布喀",
+   "role": "被告/官员"
+  },
+  {
+   "name": "戴通",
+   "role": "布政使"
+  },
+  {
+   "name": "吴赫",
+   "role": "总督"
+  },
+  {
+   "name": "佛伦",
+   "role": "前任总督"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "甘州",
+  "陇州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9500,
+ "page_range": "200-201"
+}

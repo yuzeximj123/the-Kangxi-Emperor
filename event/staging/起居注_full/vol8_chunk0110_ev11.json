@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十三日乙雍",
+ "event_role": "朝见受贺",
+ "summary": "古北口管驿站员外郎罗音泰、关口守御布泰、管驿站同知王济、都司孙梦麟等来朝。",
+ "people": [
+  {
+   "name": "罗音泰",
+   "role": "古北口管驿站员外郎"
+  },
+  {
+   "name": "布泰",
+   "role": "关口守御"
+  },
+  {
+   "name": "王济",
+   "role": "管驿站同知"
+  },
+  {
+   "name": "孙梦麟",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11011,
+ "page_range": "231-232"
+}

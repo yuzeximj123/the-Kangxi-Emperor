@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "三十日",
+ "event_role": "人事任免",
+ "summary": "吏部题中允石汉致仕员缺，拟赞善费雅汉为正、主事雅库纳为陪，康熙帝询问二人为人，明珠等奏不甚深知，帝命问明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石汉",
+   "role": "中允"
+  },
+  {
+   "name": "费雅汉",
+   "role": "赞善"
+  },
+  {
+   "name": "雅库纳",
+   "role": "主事"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19011,
+ "page_range": "415-416"
+}

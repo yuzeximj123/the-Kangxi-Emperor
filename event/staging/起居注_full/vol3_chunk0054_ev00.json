@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝论河臣靳辅，详述亲勘萧家渡、九里冈等处险工情形，指示加意防护堤坝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "河臣"
+  }
+ ],
+ "places": [
+  "萧家渡",
+  "九里冈",
+  "崔家镇",
+  "徐升坝",
+  "七里沟",
+  "黄家嘴",
+  "新庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5400,
+ "page_range": "143-144"
+}

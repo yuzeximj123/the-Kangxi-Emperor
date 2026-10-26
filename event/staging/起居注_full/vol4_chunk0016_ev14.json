@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "初九日壬午",
+ "event_role": "河工水利",
+ "summary": "工部尚书李天馥奏称问靳辅、于成龙二人皆坚执前说，公议下河当开、重堤当止。",
+ "people": [
+  {
+   "name": "李天馥",
+   "role": "工部尚书"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1614,
+ "page_range": "44-45"
+}

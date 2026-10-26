@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "十一日庚成",
+ "event_role": "谕旨决策",
+ "summary": "大学士伊桑阿等议请遣大臣致祭明太祖，康熙帝坚持亲往致祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "存住",
+   "role": "奏事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8913,
+ "page_range": "188-189"
+}

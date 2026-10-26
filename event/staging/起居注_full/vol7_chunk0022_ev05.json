@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙询问马齐李振裕为人办事及品行，马齐奏其办事亦可、为人明白，未闻品行不端。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "李振裕",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2205,
+ "page_range": "55-56"
+}

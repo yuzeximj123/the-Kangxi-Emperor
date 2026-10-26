@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "十六日于辰",
+ "event_role": "祭祀典礼",
+ "summary": "太常寺题祭祈谷坛，康熙帝命遣皇太子行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "行礼者"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4219,
+ "page_range": "95-96"
+}

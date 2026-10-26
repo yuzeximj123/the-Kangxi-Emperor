@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赐湖广总督董卫国鞍马、撒袋、披领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董卫国",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23603,
+ "page_range": "515-516"
+}

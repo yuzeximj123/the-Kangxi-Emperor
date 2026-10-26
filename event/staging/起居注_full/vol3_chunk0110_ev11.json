@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "三十日",
+ "event_role": "弹劾参奏",
+ "summary": "工部题给事中阿兰泰参监修崇文门楼司库包福等、监修正阳门楼员外郎马世祯等。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "给事中"
+  },
+  {
+   "name": "包福",
+   "role": "司库"
+  },
+  {
+   "name": "马世祯",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "崇文门",
+  "正阳门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11011,
+ "page_range": "255-256"
+}

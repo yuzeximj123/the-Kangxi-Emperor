@@ -1,0 +1,21 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "二十七日",
+ "event_role": "议政听政",
+ "summary": "议政大臣等题奏会议抚远大将军费扬古等所称翁金至土喇进征大兵口粮关系紧要一事。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  }
+ ],
+ "places": [
+  "翁金",
+  "土喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12105,
+ "page_range": "252-253"
+}

@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十年七月十三日",
+ "reign_year": 50,
+ "month": 7,
+ "day": 6,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报捕蝗将尽，并附江南总督张伯行题报上海县奸商贩米出洋事。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏报人"
+  },
+  {
+   "name": "张伯行",
+   "role": "总理江南总督事务、江宁巡抚，题报人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "江南",
+  "江西",
+  "江宁",
+  "上海县",
+  "苏州府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸巡撫趙弘燮奏報捕蝗將盡摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "908",
+ "order_index": 300
+}

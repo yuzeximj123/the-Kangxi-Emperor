@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部奏销挑筑南苑红桥河工钱粮，康熙帝询问估价情况，命都察院察议侵渔之弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "额音普",
+   "role": "估价官"
+  }
+ ],
+ "places": [
+  "南苑",
+  "红桥",
+  "玉泉山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21801,
+ "page_range": "479-480"
+}

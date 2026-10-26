@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问徐乾学江南河工之事，徐乾学称于成龙未治过河难以深信，主张从靳辅之议。",
+ "people": [
+  {
+   "name": "徐乾学",
+   "role": "学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "按察使"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "江南",
+  "江北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12502,
+ "page_range": "285-286"
+}

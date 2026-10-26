@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "十六日丁酉",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝闻陕西西安凤翔等处年岁不登、民艰粒粮流移，令学士布喀速往陕西查看灾情并会同督抚议赈济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布喀",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安",
+  "凤翔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16718,
+ "page_range": "346-347"
+}

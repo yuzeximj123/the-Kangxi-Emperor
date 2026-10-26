@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "十六日丁雍",
+ "event_role": "人事任免",
+ "summary": "吏部题兵部尚书阿兰泰升任员缺，康熙帝命都统纪和尔塔布补授兵部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "纪和尔塔布",
+   "role": "都统"
+  },
+  {
+   "name": "沙海",
+   "role": "吏部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3105,
+ "page_range": "74-75"
+}

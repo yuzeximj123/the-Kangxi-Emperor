@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "十三日忆已",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸蒙阴县，赐大学士王熙以下、副都御史以上各免二只。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "蒙阴县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5301,
+ "page_range": "141-142"
+}

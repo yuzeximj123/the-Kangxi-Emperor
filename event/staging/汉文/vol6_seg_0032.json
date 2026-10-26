@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十四年三月初十日",
+ "reign_year": 54,
+ "month": 3,
+ "day": 10,
+ "event_role": "其他",
+ "summary": "苏州织造李煦奏报康熙御制诗集蒙恩准其刊刻，请求即赐颁给以便选工敬刊，刻成后颁行中外以广圣道之传。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏请刊刻御制诗集者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，御制诗集作者，朱批者"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称已有旨了，即此事已有旨意处理。",
+ "source_title": "蘇州織造李煦奏請頒給御製詩集並工刊刻摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1748",
+ "order_index": 32
+}

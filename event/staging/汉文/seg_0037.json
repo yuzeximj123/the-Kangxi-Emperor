@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙四十年六月",
+ "reign_year": 40,
+ "month": 6,
+ "day": null,
+ "event_role": "贸易漕运",
+ "summary": "李煦奏报已议定由杭州织造乌林达莫尔森从上海出洋前往东洋，并已开船启程。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "莫尔森",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "苏州",
+  "杭州",
+  "宁波",
+  "上海"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并叮嘱莫尔森回日即连续上报。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "41",
+ "source_title": "苏州织造李煦奏报莫尔森已从上海出洋折",
+ "order_index": 37
+}

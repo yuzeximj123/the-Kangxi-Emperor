@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初三日甲午",
+ "event_role": "谕旨决策",
+ "summary": "户部题覆福建巡抚金镜查奏康熙十五年至二十年给发大兵绿旗兵钱粮，康熙帝命黄芳世所用钱粮免其追赔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金镜",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "黄芳世",
+   "role": "效力行间，身故"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6112,
+ "page_range": "157-158"
+}

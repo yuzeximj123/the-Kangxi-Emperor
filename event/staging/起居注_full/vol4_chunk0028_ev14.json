@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初一日壬申",
+ "event_role": "其他",
+ "summary": "康熙帝赐丹代、俄纶代鞍马各一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "丹代",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "俄纶代",
+   "role": "广东副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2814,
+ "page_range": "68-69"
+}

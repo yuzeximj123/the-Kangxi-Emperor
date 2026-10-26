@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十二年正月初二日",
+ "reign_year": 52,
+ "month": 1,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报入冬以来直隶各府得雪及京城十二月初一大雪情形，预卜来年丰收，以慰圣怀。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚监察御史"
+  },
+  {
+   "name": "郭世隆",
+   "role": "湖广总督（奏折中提及）"
+  }
+ ],
+ "places": [
+  "直隶",
+  "保定",
+  "京城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批表示已知晓，并告知口外雪大。",
+ "source_title": "直隶巡抚赵弘燮奏报入春已得瑞雪摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 341
+}

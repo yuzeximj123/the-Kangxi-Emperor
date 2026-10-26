@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "十三日于子",
+ "event_role": "司法案件",
+ "summary": "刑部题史科书吏陈国政盗出红本被获，康熙帝改李三为应斩、苏四应绞，俱监候秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈国政",
+   "role": "史科书吏"
+  },
+  {
+   "name": "李三",
+   "role": "犯人"
+  },
+  {
+   "name": "苏四",
+   "role": "犯人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8924,
+ "page_range": "188-189"
+}

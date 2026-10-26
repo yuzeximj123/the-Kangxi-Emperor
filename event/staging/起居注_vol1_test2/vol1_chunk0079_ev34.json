@@ -1,0 +1,26 @@
+{
+ "reign_year": 13,
+ "month": 10,
+ "day_text": "十一日辛丑",
+ "event_role": "人事任免",
+ "summary": "康熙帝命二等侍卫飞耀色赐升河南省河北总兵官傅魁鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "飞耀色",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "傅魁",
+   "role": "河南河北总兵官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7934,
+ "page_range": "215-216"
+}

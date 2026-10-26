@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙二十八年二月初六日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "初六日",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝过苏州，叶映榴之子叶旉道旁跪迎，帝命苏赫回苏州时奏闻颁赐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶旉",
+   "role": "原署湖北布政使道员叶映榴之子"
+  },
+  {
+   "name": "苏赫",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [
+  "苏州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1000
+}

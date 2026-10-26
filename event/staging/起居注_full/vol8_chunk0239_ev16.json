@@ -1,0 +1,28 @@
+{
+ "reign_year": 57,
+ "month": 3,
+ "day_text": "初九日戊午",
+ "event_role": "请安谢恩",
+ "summary": "诸王满汉文武大臣及翰林院詹事府官员奏请停止亲送梓宫，顺天府耆老张文英等亦请停，康熙谕日期尚早再定。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张文英",
+   "role": "顺天府耆老"
+  },
+  {
+   "name": "双全",
+   "role": "奏事官"
+  }
+ ],
+ "places": [
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23916,
+ "page_range": "489-490"
+}

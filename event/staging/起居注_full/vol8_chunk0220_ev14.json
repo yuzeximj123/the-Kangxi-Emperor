@@ -1,0 +1,21 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初三日癸丑",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝自畅春园起行，驻中汤泉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "中汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22014,
+ "page_range": "451-452"
+}

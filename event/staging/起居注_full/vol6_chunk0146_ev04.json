@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "二十三日丙辰",
+ "event_role": "人事任免",
+ "summary": "御史海伦员缺，康熙帝命拟正吴达禅及应升人员引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "吴达禅",
+   "role": "员外郎"
+  },
+  {
+   "name": "刘柱",
+   "role": "拟陪员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14604,
+ "page_range": "302-303"
+}

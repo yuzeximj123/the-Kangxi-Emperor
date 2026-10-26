@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十二年正月十二日",
+ "reign_year": 52,
+ "month": null,
+ "day": 3,
+ "event_role": "朝见受贺",
+ "summary": "甘肃总兵官江琦恭祝康熙帝六旬万寿，奏请赴京叩祝未获允准，遂在甘设斋坛七日并进献藏香等物。",
+ "people": [
+  {
+   "name": "江琦",
+   "role": "提督甘肃总兵官，奏折具奏人"
+  },
+  {
+   "name": "周遗",
+   "role": "江琦家人，赍捧贡物进献"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知自己安好，已知悉所奏。",
+ "source_title": "甘肅總兵官江琦奏為恭祝六旬萬壽並進藏香等物摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1172",
+ "order_index": 174
+}

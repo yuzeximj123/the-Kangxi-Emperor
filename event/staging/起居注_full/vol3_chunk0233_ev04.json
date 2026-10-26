@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕达哈塔等，因恐皇太子耽于汉习不任汉人，令其导以满洲礼法勿染汉习。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达哈塔",
+   "role": "受谕之臣"
+  },
+  {
+   "name": "汤斌",
+   "role": "讲解书义之臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23304,
+ "page_range": "501-502"
+}

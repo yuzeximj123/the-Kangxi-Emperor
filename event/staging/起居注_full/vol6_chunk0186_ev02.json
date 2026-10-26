@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙巡视永定河后，以敦拜升补罗察工部侍郎员缺，布泰员缺照常拟升。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦拜",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "罗察",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "布泰",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18602,
+ "page_range": "382-383"
+}

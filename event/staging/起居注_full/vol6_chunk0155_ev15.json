@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": "二十七日己未",
+ "event_role": "司法案件",
+ "summary": "兵部题革职陕西大同都司金书赵文锦以迟误解送盐葬参革称冤，康熙帝令若果冤抑另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵文锦",
+   "role": "陕西大同都司金书"
+  }
+ ],
+ "places": [
+  "陕西",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15515,
+ "page_range": "320-321"
+}

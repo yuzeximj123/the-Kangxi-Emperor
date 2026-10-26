@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "二十六日乙卯",
+ "event_role": "人事任免",
+ "summary": "吏部题汉军监察御史高必弘员缺，拟正牛一象、拟陪徐宗周引见，康熙帝询问后以徐宗周甚劣且年老，命解任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高必弘",
+   "role": "汉军监察御史"
+  },
+  {
+   "name": "牛一象",
+   "role": "郎中"
+  },
+  {
+   "name": "徐宗周",
+   "role": "郎中"
+  },
+  {
+   "name": "库勒纳",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8621,
+ "page_range": "182-183"
+}

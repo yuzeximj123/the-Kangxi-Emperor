@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十三日庚申",
+ "event_role": "谕旨决策",
+ "summary": "吏部等衙门欲取都统赖塔带回妇人口供，康熙帝谕勿因取供以无礼加之，致失眷顾功臣之意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赖塔",
+   "role": "都统"
+  },
+  {
+   "name": "尚之信",
+   "role": "名下应人定之妇相关者"
+  }
+ ],
+ "places": [
+  "福建",
+  "广东",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23211,
+ "page_range": "507-508"
+}

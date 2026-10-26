@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "十六日庚子",
+ "event_role": "起居注官记录",
+ "summary": "记录本日起居注官为阿尔法、陈壮履。",
+ "people": [
+  {
+   "name": "阿尔法",
+   "role": "起居注官"
+  },
+  {
+   "name": "陈壮履",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13219,
+ "page_range": "275-276"
+}

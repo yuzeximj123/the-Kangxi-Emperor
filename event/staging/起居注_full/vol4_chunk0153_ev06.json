@@ -1,0 +1,32 @@
+{
+ "reign_year": 30,
+ "month": 6,
+ "day_text": "十三日丁卯",
+ "event_role": "人事任免",
+ "summary": "吏部议覆江宁巡抚郑端参松江府知府李元否罢软无为应革职，康熙命九卿拟堪任松江知府者具奏。",
+ "people": [
+  {
+   "name": "郑端",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "李元否",
+   "role": "松江府知府"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "松江府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15306,
+ "page_range": "318-319"
+}

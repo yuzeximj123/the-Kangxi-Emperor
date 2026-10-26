@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十八日辛丑",
+ "event_role": "司法案件",
+ "summary": "康熙帝御批本房召大学士等定刑部各犯勾决事，逐一商酌情罪，勾决四十七人、监候十六人，命熊赐履朗念所勾者以防有误。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "批本房"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22803,
+ "page_range": "466-467"
+}

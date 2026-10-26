@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": "二十日甲戌",
+ "event_role": "人事任免",
+ "summary": "议政王大臣会议学士孔国岱、侍讲学士萨喇应各降四级事，康熙以所议太轻令再严议具奏。",
+ "people": [
+  {
+   "name": "孔国岱",
+   "role": "学士"
+  },
+  {
+   "name": "萨喇",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尚之信",
+   "role": "提及人物"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3408,
+ "page_range": "111-112"
+}

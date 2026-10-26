@@ -1,0 +1,34 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "礼部题朝鲜边界盖房种地事，宁古塔副都统马齐查报他木奴、安都立等人，康熙令交将军查。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "宁古塔副都统"
+  },
+  {
+   "name": "他木奴",
+   "role": "骁骑校"
+  },
+  {
+   "name": "安都立",
+   "role": "骁骑校"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "古旧城",
+  "欧爱河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9502,
+ "page_range": "201-202"
+}

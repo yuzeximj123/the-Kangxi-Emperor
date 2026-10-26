@@ -1,0 +1,37 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "初三日戊午",
+ "event_role": "人事任免",
+ "summary": "兵部题江南提督员缺，康熙帝采纳建议，命将年老之福建提督杨捷补授，并加奖励之言。",
+ "people": [
+  {
+   "name": "杨捷",
+   "role": "福建提督"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "江南",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1304,
+ "page_range": "69-70"
+}

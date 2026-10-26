@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "十八日乙未",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题封哈密回子首领达尔汉白克厄贝都拉为右都督给印敕，康熙帝令封为扎萨克授副都统等职，同班第、满不会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达尔汉白克厄贝都拉",
+   "role": "哈密回子首领"
+  },
+  {
+   "name": "班第",
+   "role": "官员"
+  },
+  {
+   "name": "满不",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "哈密"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1110,
+ "page_range": "32-33"
+}

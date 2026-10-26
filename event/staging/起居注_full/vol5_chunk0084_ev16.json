@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初九日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "礼部题朝鲜国王李焞本章误用字样应裁三年赏赐、罚银一万两，康熙命李焞罚银停赏俱着宽免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8416,
+ "page_range": "178-179"
+}

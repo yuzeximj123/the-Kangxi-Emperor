@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆四川提督岳异龙题永宁副将员缺，请于达先、王之俊内拣选，康熙帝命将王之俊补授。",
+ "people": [
+  {
+   "name": "岳异龙",
+   "role": "四川提督"
+  },
+  {
+   "name": "马尔植",
+   "role": "永宁副将"
+  },
+  {
+   "name": "达先",
+   "role": "浙江太平营参将"
+  },
+  {
+   "name": "王之俊",
+   "role": "山西新平路参将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "永宁",
+  "浙江",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16803,
+ "page_range": "347-348"
+}

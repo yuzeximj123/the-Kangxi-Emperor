@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "就济隆库图克图进献弟子及所属人事询问理藩院，康熙帝论打箭炉原属版图，主张乘机收取，不必用兵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "济隆库图克图",
+   "role": "活佛"
+  }
+ ],
+ "places": [
+  "打箭炉",
+  "云南",
+  "四川",
+  "沙州",
+  "瓜州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15503,
+ "page_range": "320-321"
+}

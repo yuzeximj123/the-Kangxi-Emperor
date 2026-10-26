@@ -1,0 +1,45 @@
+{
+ "reign_year": 29,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝与张玉书议京口将军人选，询问张思礁、杨凤翔、董元卿情况后，决定升补曹元卿为京口将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "祖植椿",
+   "role": "副都统"
+  },
+  {
+   "name": "张思礁",
+   "role": "前任副都统"
+  },
+  {
+   "name": "杨凤翔",
+   "role": "京口将军"
+  },
+  {
+   "name": "董元卿",
+   "role": "副都统"
+  },
+  {
+   "name": "曹元卿",
+   "role": "拟升京口将军"
+  }
+ ],
+ "places": [
+  "京口",
+  "镇江府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12600,
+ "page_range": "264-265"
+}

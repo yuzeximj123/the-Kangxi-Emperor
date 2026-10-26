@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "二十五日癸丑",
+ "event_role": "其他",
+ "summary": "是日赐云南巡抚伊尽鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊尽",
+   "role": "云南巡抚"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24424,
+ "page_range": "545-546"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十八日乙酉",
+ "event_role": "人事任免",
+ "summary": "议征罗刹回左都督林伯声等十八员及参将姚禄等四员、投诚何佑补用，康熙令林伯声等以参将用、姚禄等以游击用、何佑以副将用。",
+ "people": [
+  {
+   "name": "林伯声",
+   "role": "左都督"
+  },
+  {
+   "name": "姚禄",
+   "role": "参将"
+  },
+  {
+   "name": "何佑",
+   "role": "台湾伪都督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10918,
+ "page_range": "253-254"
+}

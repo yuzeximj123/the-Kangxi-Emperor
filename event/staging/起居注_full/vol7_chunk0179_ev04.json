@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥刑部所议陈四一案背谬，论不可欺君、流民当安置米粮丰裕之处，令详审勿草率。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈四",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "口外乌拉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17904,
+ "page_range": "369-370"
+}

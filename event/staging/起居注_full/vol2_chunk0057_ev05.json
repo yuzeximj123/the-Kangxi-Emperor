@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初一日壬午",
+ "event_role": "人事任免",
+ "summary": "吏部题补佥都御史员缺，康熙帝以张吉午曾被参奏，命着补授，待不可用时再处。",
+ "people": [
+  {
+   "name": "张吉午",
+   "role": "左通政"
+  },
+  {
+   "name": "张可前",
+   "role": "右通政"
+  },
+  {
+   "name": "王日温",
+   "role": "参奏者"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5705,
+ "page_range": "157-158"
+}

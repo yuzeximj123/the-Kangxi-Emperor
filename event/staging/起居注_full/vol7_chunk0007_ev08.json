@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十九日辛未",
+ "event_role": "朝见受贺",
+ "summary": "署祁州知州事、博野县知县杜开锭，千总李才等来朝。",
+ "people": [
+  {
+   "name": "杜开锭",
+   "role": "署祁州知州事、博野县知县"
+  },
+  {
+   "name": "李才",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "祁州",
+  "博野县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 708,
+ "page_range": "25-26"
+}

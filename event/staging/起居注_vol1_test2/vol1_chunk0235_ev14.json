@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "十三日壬申",
+ "event_role": "司法案件",
+ "summary": "吏部议研州知府悄遇等将秋后处决重犯鲁凤翔不行即送应降级罚俸，康熙帝以案非无故，命再严议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "悄遇",
+   "role": "研州知府"
+  },
+  {
+   "name": "鲁凤翔",
+   "role": "重犯"
+  }
+ ],
+ "places": [
+  "研州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23514,
+ "page_range": "527-528"
+}

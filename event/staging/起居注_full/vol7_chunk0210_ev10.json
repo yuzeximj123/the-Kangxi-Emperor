@@ -1,0 +1,22 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": "初八日辛卯",
+ "event_role": "人事任免",
+ "summary": "兵部题补湖广德安营参将员缺，康熙帝命直隶所属地方游击俱调来引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "湖广",
+  "德安营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21010,
+ "page_range": "431-432"
+}

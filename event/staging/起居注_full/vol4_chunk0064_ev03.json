@@ -1,0 +1,38 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "二十日",
+ "event_role": "司法案件",
+ "summary": "宗人府题赵三已拿获、马塔擅夺回应革一等护卫、显亲王罚俸，帝令再严议。",
+ "people": [
+  {
+   "name": "赵三",
+   "role": "涉案人"
+  },
+  {
+   "name": "马塔",
+   "role": "涉案人"
+  },
+  {
+   "name": "显亲王",
+   "role": "被罚亲王"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王如",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6403,
+ "page_range": "140-141"
+}

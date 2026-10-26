@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "十六日辛西",
+ "event_role": "人事任免",
+ "summary": "盛京户部侍郎色黑题请添设郎中、员外郎、主事、笔帖式，康熙帝以其不合、所奏不准行，令批该部知道。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色黑",
+   "role": "盛京户部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13222,
+ "page_range": "307-308"
+}

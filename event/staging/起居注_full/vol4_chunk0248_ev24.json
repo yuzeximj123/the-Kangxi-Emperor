@@ -1,0 +1,20 @@
+{
+ "reign_year": 32,
+ "month": 11,
+ "day_text": "二十五日甲子",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝以冬至亲祀天于圜丘，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "圜丘"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24824,
+ "page_range": "508-509"
+}

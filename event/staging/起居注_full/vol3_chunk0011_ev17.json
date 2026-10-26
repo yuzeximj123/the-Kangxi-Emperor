@@ -1,0 +1,21 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "初十日两子",
+ "event_role": "皇帝行止",
+ "summary": "巳时正阳门外民家失火，康熙帝幸正阳门楼，遣内大臣侍卫扑救，严谕拆毁近火房舍、用激水筒分救，火熄，居民得免于危。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "正阳门",
+  "正阳门外民家"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1117,
+ "page_range": "57-58"
+}

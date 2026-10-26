@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初三日癸丑",
+ "event_role": "人事任免",
+ "summary": "覆请吏部大名道李育德员缺，康熙帝命遣笔帖式往问该抚，查明陈志源、孙兰艺等人如何速奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李育德",
+   "role": "大名道"
+  },
+  {
+   "name": "陈志源",
+   "role": "保定府知府"
+  },
+  {
+   "name": "孙兰艺",
+   "role": "顺德府知府"
+  }
+ ],
+ "places": [
+  "大名"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22011,
+ "page_range": "451-452"
+}

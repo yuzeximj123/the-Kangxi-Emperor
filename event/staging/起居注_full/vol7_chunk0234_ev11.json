@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "兵部覆山东总兵李雁所题武举告降补用请照各省保送护军例办理，康熙帝命九卿、詹事、科、道会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李雁",
+   "role": "山东总兵官"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23411,
+ "page_range": "479-480"
+}

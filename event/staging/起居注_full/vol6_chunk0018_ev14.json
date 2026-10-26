@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "十三日己丑",
+ "event_role": "军务",
+ "summary": "将军孙思克题请将现在甘州的西安满洲兵一千暂驻兰州；康熙帝以边方无事，命甘州所驻西安满洲兵回西安。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘州",
+  "兰州",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1814,
+ "page_range": "46-47"
+}

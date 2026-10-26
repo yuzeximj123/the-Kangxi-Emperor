@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙伍拾陆年伍月贰拾日",
+ "reign_year": 56,
+ "month": 5,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "湖广提督高其位具折恭请康熙皇帝圣安，表达感恩与依恋之情，并差人捧赍奏折呈递。",
+ "people": [
+  {
+   "name": "高其位",
+   "role": "提督湖广总兵官，奏折具奏人"
+  },
+  {
+   "name": "兴德",
+   "role": "标下千总，差遣捧赍奏折"
+  },
+  {
+   "name": "李永",
+   "role": "家人，差遣捧赍奏折"
+  }
+ ],
+ "places": [
+  "湖广",
+  "全楚",
+  "湖湘"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，回复自身安好。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 428
+}

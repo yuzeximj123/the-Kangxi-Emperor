@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "马齐等奏户部题山东巡抚王国昌奏报武定州等五州县应免钱粮额数浮冒事已查明系部中错误，康熙帝命发回另议具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东",
+  "武定州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7902,
+ "page_range": "169-170"
+}

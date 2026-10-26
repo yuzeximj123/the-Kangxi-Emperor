@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝责督捕衙门奏逃人事姓名不详，将席珠、尼满、何玺及司官等交吏部、都察院严察议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席珠",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "尼满",
+   "role": "督捕理事官"
+  },
+  {
+   "name": "何玺",
+   "role": "督捕理事官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19203,
+ "page_range": "396-397"
+}

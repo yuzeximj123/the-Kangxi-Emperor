@@ -1,0 +1,40 @@
+{
+ "date_raw": "康熙肆拾叁年伍月貳拾日",
+ "reign_year": 43,
+ "month": 5,
+ "day": 20,
+ "event_role": "奏报灾情收成",
+ "summary": "曹寅奏报江南麦收及雨水秧田情形，并请圣安宽慰圣怀。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "李发甲",
+   "role": "涉及人物"
+  },
+  {
+   "name": "宋犖",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "江南",
+  "江寧",
+  "蘇州",
+  "常州",
+  "山東"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知近京麦子大收、雨旸时若、田苗甚好而米价略贵麦价小减。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "（恭謝天恩）",
+ "order_index": 59
+}

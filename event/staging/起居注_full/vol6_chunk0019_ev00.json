@@ -1,0 +1,38 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝宴请喀尔喀土谢图汗、贝勒席达西里等，亲赐酒，宴毕众谢恩，上回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色棱阿海",
+   "role": "喀尔喀土谢图汗多罗郡王"
+  },
+  {
+   "name": "席达西里",
+   "role": "多罗贝勒"
+  },
+  {
+   "name": "巴尔准多尔即",
+   "role": "土谢图汗之孙"
+  },
+  {
+   "name": "成本多尔多尔吉",
+   "role": "协理台吉"
+  },
+  {
+   "name": "毕尔多尔吉",
+   "role": "席达西里之孙"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1900,
+ "page_range": "48-49"
+}

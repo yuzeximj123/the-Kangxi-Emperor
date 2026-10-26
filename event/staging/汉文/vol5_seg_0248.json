@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十三年七月初二日",
+ "reign_year": 53,
+ "month": 7,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "四川巡抚年羹尧奏报江南太平无事、米价平稳、圩田秋收可期、山田得雨及百姓欢庆情形，并进呈六月份晴雨录。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚，奏报人"
+  },
+  {
+   "name": "曹顒",
+   "role": "江宁织造主事，正文署名者"
+  }
+ ],
+ "places": [
+  "四川",
+  "江南",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，已知所奏得雨情形，命将雨泽情形再速奏闻。",
+ "source_title": "四川巡撫年羹堯奏進川省輿圖摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1610",
+ "order_index": 248
+}

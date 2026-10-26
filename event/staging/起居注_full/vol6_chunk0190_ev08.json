@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 1,
+ "day_text": "二十七日乙卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问原任刑部员外赵申乔其人，王熙奏其品行谨厚安静，帝遂命补授浙江布政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "原任刑部员外，补授浙江布政使"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19008,
+ "page_range": "390-391"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": "初九日戊午",
+ "event_role": "奏报地方情形",
+ "summary": "理藩院奏报科尔沁辅国公吴尔苏纳思图于正月初六病故，其子台吉阿克舒强来报。",
+ "people": [
+  {
+   "name": "吴尔苏纳思图",
+   "role": "科尔沁辅国公"
+  },
+  {
+   "name": "阿克舒强",
+   "role": "台吉"
+  },
+  {
+   "name": "拉锡",
+   "role": "乾清门三等侍卫"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23206,
+ "page_range": "475-476"
+}

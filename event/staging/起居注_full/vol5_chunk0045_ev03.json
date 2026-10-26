@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题正黄旗伯纳秦世职，上命伊长子阿林插承袭，并令管侍卫大臣引见纳秦诸子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "纳秦",
+   "role": "正黄旗伯"
+  },
+  {
+   "name": "阿林插",
+   "role": "纳秦长子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4503,
+ "page_range": "100-101"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赐江宁巡抚汤斌蒋马一匹、广东总兵官蔡璋内蒋马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "蔡璋",
+   "role": "广东总兵官"
+  }
+ ],
+ "places": [
+  "江宁",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4600,
+ "page_range": "127-128"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十二日戊辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御保和殿举行经筵大典，讲官进讲《四书》《易经》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "项景襄",
+   "role": "讲官"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "汉源济",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 215,
+ "page_range": "47-48"
+}

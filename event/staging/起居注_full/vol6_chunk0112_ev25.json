@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "二十三日成午",
+ "event_role": "谕旨决策",
+ "summary": "户部题卖收贮保定安州米石，康熙帝命行文直隶巡抚李光地查明数目具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "保定",
+  "安州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11225,
+ "page_range": "234-235"
+}

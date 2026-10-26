@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝指出王度昭初到浙江声名甚佳，后因保题属官声名遂坏，学士沈涵奏其曾保题通判为宁波知府未允。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "沈涵",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "浙江",
+  "宁波府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3705,
+ "page_range": "85-86"
+}

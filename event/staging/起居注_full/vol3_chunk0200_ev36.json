@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "初五日乙卯",
+ "event_role": "弹劾参奏",
+ "summary": "吏、刑二部堂官以绿头签请旨，议将侍郎蔡毓荣并子蔡琳革职提问。",
+ "people": [
+  {
+   "name": "蔡毓荣",
+   "role": "侍郎"
+  },
+  {
+   "name": "蔡琳",
+   "role": "蔡毓荣之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20036,
+ "page_range": "435-436"
+}

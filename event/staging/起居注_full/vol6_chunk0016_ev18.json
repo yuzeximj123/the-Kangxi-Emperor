@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "二十四日辛未",
+ "event_role": "谕旨决策",
+ "summary": "户部覆直隶巡抚沈朝聘请借霸州等州县百姓米粮来年抵还不准，康熙帝命即于来年征收，并发回在京大学士酌议具奏。",
+ "people": [
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1618,
+ "page_range": "42-43"
+}

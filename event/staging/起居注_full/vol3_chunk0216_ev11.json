@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "初四日王午",
+ "event_role": "请安谢恩",
+ "summary": "山东巡抚钱瑟陛辞，康熙帝询问其有无陈奏，钱瑟请求指示，康熙帝谕以爱养百姓、安静休息之道。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钱瑟",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21611,
+ "page_range": "467-468"
+}

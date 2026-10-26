@@ -1,0 +1,29 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "初四日全未",
+ "event_role": "司法案件",
+ "summary": "吏部题宁夏道李焕斗、庆阳府知府李甲声迟延军需粮豆应革职，康熙帝命革职严拿究拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李焕斗",
+   "role": "宁夏道"
+  },
+  {
+   "name": "李甲声",
+   "role": "庆阳府知府"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "庆阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19112,
+ "page_range": "394-395"
+}

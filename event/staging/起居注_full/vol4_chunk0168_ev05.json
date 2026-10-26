@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "十八日己亥",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题给阿鲁科尔沁郡王绰仪等七旗穷户米谷，议每家给米五斗折价银五钱五分，康熙帝以银数殊少，着照每家给银一两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "绰仪",
+   "role": "阿鲁科尔沁郡王"
+  }
+ ],
+ "places": [
+  "阿鲁科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16805,
+ "page_range": "348-349"
+}

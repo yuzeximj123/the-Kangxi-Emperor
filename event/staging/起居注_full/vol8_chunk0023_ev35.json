@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "二十五日辛未",
+ "event_role": "人事任免",
+ "summary": "覆请吏部题长芦运使马世永员缺以应升知府魏琦等开列，康熙帝命问九卿，除旧保举人员外再保举一并具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马世永",
+   "role": "长芦运使"
+  },
+  {
+   "name": "魏琦",
+   "role": "应升知府"
+  }
+ ],
+ "places": [
+  "长芦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2335,
+ "page_range": "57-58"
+}

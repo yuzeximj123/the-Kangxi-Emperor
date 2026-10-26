@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "二十五日辛丑",
+ "event_role": "其他",
+ "summary": "康熙帝召尚书公孙征、左都御史把叙、侍郎汤右曾近前，坐书大字令观，诸臣称善，遂手书赐公孙征、把叙对联，赐汤右曾扁对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "公孙征",
+   "role": "尚书"
+  },
+  {
+   "name": "把叙",
+   "role": "左都御史"
+  },
+  {
+   "name": "汤右曾",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2036,
+ "page_range": "51-52"
+}

@@ -1,0 +1,45 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题喀喇城盗马案，从犯花色、王二拟即行处斩，喜儿等发黑龙江为奴，康熙以首犯未获命缓之。",
+ "people": [
+  {
+   "name": "孙八",
+   "role": "盗马首犯"
+  },
+  {
+   "name": "花色",
+   "role": "从犯"
+  },
+  {
+   "name": "王二",
+   "role": "从犯"
+  },
+  {
+   "name": "马尔沙",
+   "role": "被胁入伙者"
+  },
+  {
+   "name": "喜儿",
+   "role": "从犯"
+  },
+  {
+   "name": "马进良",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "喀喇城",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2406,
+ "page_range": "59-60"
+}

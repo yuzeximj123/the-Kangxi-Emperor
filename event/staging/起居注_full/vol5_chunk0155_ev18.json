@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "十三日丙寅",
+ "event_role": "人事任免",
+ "summary": "陕西肃州总兵官李士达赴任请训，康熙帝命其勤勉和辑兵民，李士达奏谢。",
+ "people": [
+  {
+   "name": "李士达",
+   "role": "陕西肃州总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "肃州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15518,
+ "page_range": "320-321"
+}

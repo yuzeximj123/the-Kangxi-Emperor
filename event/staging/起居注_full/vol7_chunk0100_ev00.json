@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责问户部侍郎巴锡为何先前在众人前荐佟航秀为贤，今只称其效力，斥其待君之体不当。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "佟航秀",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10000,
+ "page_range": "211-212"
+}

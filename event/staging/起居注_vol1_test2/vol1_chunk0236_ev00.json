@@ -1,0 +1,21 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝就福建厦门等处海贼溃败及侯效历奏杀败一岛海贼事，认为其不合，命严加申饬。",
+ "people": [
+  {
+   "name": "侯效历",
+   "role": "奏报官员"
+  }
+ ],
+ "places": [
+  "福建",
+  "厦门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23600,
+ "page_range": "529-530"
+}

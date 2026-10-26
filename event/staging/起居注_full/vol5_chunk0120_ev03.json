@@ -1,0 +1,33 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "移文按察使吉吉理、副将杨琳，令将一万人一个月口粮一半留翁金、一半运至土喇，并留兵一千防护。",
+ "people": [
+  {
+   "name": "吉吉理",
+   "role": "按察使"
+  },
+  {
+   "name": "杨琳",
+   "role": "副将"
+  },
+  {
+   "name": "西尔哈达",
+   "role": "西安副都统"
+  },
+  {
+   "name": "祖良壁",
+   "role": "西安副都统"
+  }
+ ],
+ "places": [
+  "翁金",
+  "土喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12003,
+ "page_range": "250-251"
+}

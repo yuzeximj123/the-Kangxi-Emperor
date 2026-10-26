@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "初六日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "阿山、韩黄呈览赵良栋碑文，康熙帝指出碑文未尽其抚恤军士、持身清正等情节，命增入以风天下武臣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "管翰林院事侍郎"
+  },
+  {
+   "name": "韩黄",
+   "role": "管翰林院事侍郎"
+  },
+  {
+   "name": "赵良栋",
+   "role": "功臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4701,
+ "page_range": "104-105"
+}

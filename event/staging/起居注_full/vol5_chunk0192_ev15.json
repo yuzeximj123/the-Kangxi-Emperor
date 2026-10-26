@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "二十一日壬寅",
+ "event_role": "朝见受贺",
+ "summary": "马邑县知县王霖、把总陈志来朝见。",
+ "people": [
+  {
+   "name": "王霖",
+   "role": "马邑县知县"
+  },
+  {
+   "name": "陈志",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "马邑县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19215,
+ "page_range": "394-395"
+}

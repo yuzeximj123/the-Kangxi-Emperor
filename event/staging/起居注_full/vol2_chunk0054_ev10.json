@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十日壬申",
+ "event_role": "谕旨决策",
+ "summary": "广东巡抚金俊请免海丰、永安私税并禁尚之信私税，康熙责其未详察，命督抚严查明具奏。",
+ "people": [
+  {
+   "name": "金俊",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "尚之信",
+   "role": "原广东藩王"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "海丰",
+  "永安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5410,
+ "page_range": "151-152"
+}

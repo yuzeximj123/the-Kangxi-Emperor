@@ -1,0 +1,38 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "巡抚鄂海题请以城固知县甘文迷、山阳知县金以俊调补宁羌县员缺，康熙帝询问金以俊是否为织造金鄂佛霍之弟。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "巡抚"
+  },
+  {
+   "name": "甘文迷",
+   "role": "城固知县"
+  },
+  {
+   "name": "金以俊",
+   "role": "山阳知县"
+  },
+  {
+   "name": "金鄂佛霍",
+   "role": "织造"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "城固",
+  "山阳",
+  "宁羌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4103,
+ "page_range": "93-94"
+}

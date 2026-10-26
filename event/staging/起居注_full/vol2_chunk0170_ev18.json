@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初四日丙子",
+ "event_role": "人事任免",
+ "summary": "兵部题补奉天将军安珠瑚革职员缺，康熙帝命将前锋统领、护军统领开列具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安珠瑚",
+   "role": "奉天将军"
+  },
+  {
+   "name": "席武库",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17018,
+ "page_range": "383-384"
+}

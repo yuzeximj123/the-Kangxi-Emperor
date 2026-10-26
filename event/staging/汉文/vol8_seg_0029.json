@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙五十六年",
+ "reign_year": 56,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "大学士李光地恭请皇上万安，奏报旬月以来雨泽时降、麦收得雨，并称山东、河南霑足，江浙、福建调和，可慰圣怀。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，奏报人"
+  }
+ ],
+ "places": [
+  "山东",
+  "河南",
+  "江浙",
+  "福建"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "大學士李光地奏賀各省雨澤霑足並請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2583",
+ "order_index": 29
+}

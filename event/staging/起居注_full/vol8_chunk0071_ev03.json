@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "九卿议覆两江总督灰寿所题，请照例开捐纳贮仓，康熙帝令回銮时启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "灰寿",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "福建",
+  "广东",
+  "上下两江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7103,
+ "page_range": "153-154"
+}

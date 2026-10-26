@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十五年十九日癸卯",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十九日癸卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝引见觉罗满保等四人，询问把叙后升满保为国子监祭酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗满保",
+   "role": "升国子监祭酒"
+  },
+  {
+   "name": "把叙",
+   "role": "翰林院掌院学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3242
+}

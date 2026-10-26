@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "十七日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "礼部题覆浙江提督陈世凯请令武官照文官例一体赴孔庙行礼议不准行，康熙帝命武官亦应赴孔庙行礼并查明旧例来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈世凯",
+   "role": "浙江提督"
+  }
+ ],
+ "places": [
+  "浙江",
+  "孔庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19215,
+ "page_range": "419-420"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "二十五日甲寅",
+ "event_role": "司法案件",
+ "summary": "图纳等奏喇都浑起意、德黑被遣，今拟德黑罪重于喇都浑，康熙命德黑亦改为监候秋后处决。",
+ "people": [
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "喇都浑",
+   "role": "协领"
+  },
+  {
+   "name": "德黑",
+   "role": "家人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9818,
+ "page_range": "231-232"
+}

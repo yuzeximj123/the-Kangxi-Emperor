@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙五十六年三月十九日",
+ "reign_year": 56,
+ "month": 3,
+ "day": 19,
+ "event_role": "其他",
+ "summary": "陈元龙奏报已委官向赴任督臣杨琳交送印信并回桂林署理巡抚印务，同时说明遵旨派员赍奏及用火牌马匹不支口粮等情。",
+ "people": [
+  {
+   "name": "陈元龙",
+   "role": "奏报人，署理巡抚"
+  },
+  {
+   "name": "杨琳",
+   "role": "督臣，赴任接印"
+  },
+  {
+   "name": "刘茂春",
+   "role": "臣标右营把总，奉命赍捧奏折"
+  },
+  {
+   "name": "陆荣",
+   "role": "陈元龙家人，同往赍奏"
+  }
+ ],
+ "places": [
+  "桂林",
+  "雄县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批仅书“知道了”，表示已阅知悉。",
+ "source_title": "陳元龍奏報交送印信回桂林署理巡撫事宜摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 377
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 10,
+ "day_text": "二十八日已已",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝诣太皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2713,
+ "page_range": "111-112"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "二十一日己丑",
+ "event_role": "司法案件",
+ "summary": "九卿会议山东秋审情真人犯，康熙帝以王荣先、贾奇标情俱可悯，着再议具奏。",
+ "people": [
+  {
+   "name": "王荣先",
+   "role": "情真人犯"
+  },
+  {
+   "name": "韩氏",
+   "role": "王荣先妻"
+  },
+  {
+   "name": "贾奇标",
+   "role": "情真人犯"
+  },
+  {
+   "name": "贡宗胜",
+   "role": "同案人"
+  },
+  {
+   "name": "草乐郊",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22512,
+ "page_range": "493-494"
+}

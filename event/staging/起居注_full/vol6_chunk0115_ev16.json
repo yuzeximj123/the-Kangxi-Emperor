@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "初八日壬申",
+ "event_role": "司法案件",
+ "summary": "议窃盗安四等即行正法，康熙帝令为首安四即行正法，余俱发往黑龙江。",
+ "people": [
+  {
+   "name": "安四",
+   "role": "窃盗首犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11516,
+ "page_range": "240-241"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以朱笔书写论旨，由奏事员外郎傻子、双全捧出宣读给大臣听，论及君臣一心、密折奏事等事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傻子",
+   "role": "奏事员外郎"
+  },
+  {
+   "name": "双全",
+   "role": "奏事员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20500,
+ "page_range": "421-422"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "初六日己丑",
+ "event_role": "谕旨决策",
+ "summary": "九卿、科道会议湖南巡抚韩世琦题请展限一案，康熙帝谕一概不准宽限，仅远离本省事情准题明缘由奏请，并斥督抚不肯实心办事、苟且迁延。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩世琦",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "魏象枢",
+   "role": "刑部尚书"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19907,
+ "page_range": "441-442"
+}

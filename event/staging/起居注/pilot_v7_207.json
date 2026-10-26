@@ -1,0 +1,32 @@
+{
+ "date_raw": "十六日庚子",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十六日庚子",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士马齐、学士黑寿、舒图以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "黑寿",
+   "role": "礼部侍郎兼学士"
+  },
+  {
+   "name": "舒图",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3207
+}

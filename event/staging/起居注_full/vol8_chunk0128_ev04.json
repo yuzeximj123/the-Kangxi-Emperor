@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 1,
+ "day_text": "十九日庚戌",
+ "event_role": "人事任免",
+ "summary": "康熙帝问太常寺少卿樊绍祚年岁，王之枢奏五十七岁，康熙帝言其履历不实、实年六十三，令休致。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "樊绍祚",
+   "role": "太常寺少卿"
+  },
+  {
+   "name": "王之枢",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12804,
+ "page_range": "267-268"
+}

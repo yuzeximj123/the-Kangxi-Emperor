@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "初二日丁亥",
+ "event_role": "其他",
+ "summary": "领侍卫内大臣公费扬古身病奏闻，康熙帝率皇太子、诸皇子、大臣、侍卫往视疾问缘由。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20821,
+ "page_range": "426-427"
+}

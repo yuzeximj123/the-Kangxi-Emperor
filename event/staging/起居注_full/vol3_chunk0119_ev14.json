@@ -1,0 +1,31 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "初四日庚申",
+ "event_role": "奏报灾情收成",
+ "summary": "侍郎苏赫勘淮扬水灾疏请免灾民钱粮并赈济，康熙帝令将明岁钱粮一并蠲免并察明详议。",
+ "people": [
+  {
+   "name": "苏赫",
+   "role": "侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "淮安",
+  "扬州",
+  "宿迁",
+  "邳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11914,
+ "page_range": "273-274"
+}

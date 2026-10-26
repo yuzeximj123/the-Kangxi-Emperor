@@ -1,0 +1,38 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十六日丙申",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等奏九卿称未闻巡抚陈改器、宫梦仁居官之善，康熙帝问吴瑞，吴瑞称不及宋、马如龙，帝令二人解任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈改器",
+   "role": "巡抚"
+  },
+  {
+   "name": "宫梦仁",
+   "role": "巡抚"
+  },
+  {
+   "name": "吴瑞",
+   "role": "官员"
+  },
+  {
+   "name": "宋",
+   "role": "官员"
+  },
+  {
+   "name": "马如龙",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6415,
+ "page_range": "138-139"
+}

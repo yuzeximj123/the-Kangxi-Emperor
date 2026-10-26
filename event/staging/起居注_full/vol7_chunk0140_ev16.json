@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "十五日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕因山东私铸小钱，命来年征收山东钱粮银一两折钱二千，收尽私钱及铜器，令有罪官员运京赎罪鼓铸制钱，命九卿等详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "思丕",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "山东",
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14016,
+ "page_range": "291-292"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": "初二日癸巳",
+ "event_role": "朝见受贺",
+ "summary": "山西布政使甘度陛辞请训旨，康熙帝谕以洁己奉公、凡事勤勉，甘度奏谢。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "甘度",
+   "role": "山西布政使"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6210,
+ "page_range": "134-135"
+}

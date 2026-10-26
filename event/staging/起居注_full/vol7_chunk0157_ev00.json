@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "山西巡抚苏克济题请以笔帖式扎克山补授太原府理事通判，康熙帝准照所题补授。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "阿尔布",
+   "role": "太原府理事通判（原任）"
+  },
+  {
+   "name": "扎克山",
+   "role": "笔帖式"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太原府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15700,
+ "page_range": "325-326"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初五日癸北",
+ "event_role": "弹劾参奏",
+ "summary": "掌翰林院事侍郎常书、尚书张英题参侍读学士禅拜，康熙帝评其为人平常、不及。",
+ "people": [
+  {
+   "name": "常书",
+   "role": "掌翰林院事侍郎"
+  },
+  {
+   "name": "张英",
+   "role": "尚书"
+  },
+  {
+   "name": "禅拜",
+   "role": "侍读学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8802,
+ "page_range": "186-187"
+}

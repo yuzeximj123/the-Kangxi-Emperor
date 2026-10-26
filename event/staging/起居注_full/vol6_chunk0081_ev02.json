@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命于成龙等绘图呈览清口应修处，将修清口及直浚河曲工程交董安国、汉佑赔修以赎治河无成之罪，并命毁董安国所修拦黄坝、留引河。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  },
+  {
+   "name": "董安国",
+   "role": "河臣"
+  },
+  {
+   "name": "汉佑",
+   "role": "河臣"
+  }
+ ],
+ "places": [
+  "清口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8102,
+ "page_range": "172-173"
+}

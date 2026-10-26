@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "会议决定前锋即行起程，大军次额格木尔地方，次日倍道前进，并派喀尔喀十人赍文赴大将军费扬古处询问战况。",
+ "people": [
+  {
+   "name": "纳木酒尔王贫楚克贝子",
+   "role": "喀尔喀贝子"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  }
+ ],
+ "places": [
+  "额格木尔地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13500,
+ "page_range": "280-281"
+}

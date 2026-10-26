@@ -1,0 +1,33 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初四日己巳",
+ "event_role": "司法案件",
+ "summary": "刑部等覆署四川陕西总督席尔达题原任按察使祖文明受贿议绞，康熙帝令仍照原审之案完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "署四川陕西总督"
+  },
+  {
+   "name": "祖文明",
+   "role": "原任按察使"
+  },
+  {
+   "name": "贝和庄",
+   "role": "四川巡抚"
+  }
+ ],
+ "places": [
+  "四川",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21710,
+ "page_range": "444-445"
+}

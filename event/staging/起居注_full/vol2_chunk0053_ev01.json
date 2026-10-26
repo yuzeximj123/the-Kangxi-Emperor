@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "笔帖式雅图和善随甘文烛在云南死难，请加恤，康熙帝命特授拖沙喇哈番。",
+ "people": [
+  {
+   "name": "雅图和善",
+   "role": "笔帖式"
+  },
+  {
+   "name": "甘文烛",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5301,
+ "page_range": "149-150"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": "十四日壬午",
+ "event_role": "其他",
+ "summary": "赐内阅学士噶礼御书“清班”二大字，管夫郎中马尔汉、常有、员外郎恩爱御书各一幅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "内阅学士"
+  },
+  {
+   "name": "马尔汉",
+   "role": "郎中"
+  },
+  {
+   "name": "常有",
+   "role": "郎中"
+  },
+  {
+   "name": "恩爱",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9326,
+ "page_range": "196-197"
+}

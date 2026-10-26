@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "初六日戊辰",
+ "event_role": "人事任免",
+ "summary": "大学士松柱等覆请补授江宁巡抚，康熙帝令问九卿，九卿称吴存礼居官好，遂补授吴存礼为江宁巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12210,
+ "page_range": "255-256"
+}

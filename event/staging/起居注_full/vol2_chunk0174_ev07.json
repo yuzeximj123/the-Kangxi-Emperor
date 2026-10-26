@@ -1,0 +1,23 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "十二日甲申",
+ "event_role": "皇帝行止",
+ "summary": "卯时，康熙帝问安太皇太后毕，出幸五台山，由午门出宣武门，驻中琉璃河北。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "午门",
+  "宣武门",
+  "中琉璃河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17407,
+ "page_range": "391-392"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 6,
+ "day_text": "二十九日癸卯",
+ "event_role": "皇帝行止",
+ "summary": "子时，康熙帝自两间房启行至沈庄，传谕密云县河水甚大，令诸大臣、侍卫、执事人等先渡，止留豹尾侍卫、入值侍卫并守宿护军随驾渡河。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两间房",
+  "沈庄",
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6413,
+ "page_range": "139-140"
+}

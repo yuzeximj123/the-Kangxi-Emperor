@@ -1,0 +1,25 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "二十二日癸丑",
+ "event_role": "军务",
+ "summary": "都统噶尔汉及总督杨茂勋撤兵回郧，康熙帝以其进取兴安不速进兵致误机宜，命严加议处。",
+ "people": [
+  {
+   "name": "噶尔汉",
+   "role": "都统"
+  },
+  {
+   "name": "杨茂勋",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "兴安",
+  "郧"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20814,
+ "page_range": "473-474"
+}

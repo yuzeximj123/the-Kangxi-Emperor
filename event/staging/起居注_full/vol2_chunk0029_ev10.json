@@ -1,0 +1,21 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十五日庚子",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝御中和殿、太和门，内大臣及文武官员以赐《日讲书经解义》谢恩，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2910,
+ "page_range": "101-102"
+}

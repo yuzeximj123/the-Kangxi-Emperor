@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "宗人府题补员外郎三宝升任员缺，正拟巴西、陪拟喇玛，康熙询问二人情况并令详议宗人府补授官员旧例。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "巴西",
+   "role": "拟补员外郎"
+  },
+  {
+   "name": "喇玛",
+   "role": "陪拟员外郎"
+  },
+  {
+   "name": "巴哈纳",
+   "role": "巴西之父"
+  },
+  {
+   "name": "阿范",
+   "role": "喇玛之父"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21400,
+ "page_range": "471-472"
+}

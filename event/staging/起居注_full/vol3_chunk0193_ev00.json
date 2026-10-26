@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题奏希佛纳打死和善拟绞秋后处决，康熙以其系新满洲情有可原，命该部再行确议具奏。",
+ "people": [
+  {
+   "name": "希佛纳",
+   "role": "案犯"
+  },
+  {
+   "name": "和善",
+   "role": "死者"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19300,
+ "page_range": "421-422"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十一日癸巳",
+ "event_role": "其他",
+ "summary": "康熙帝出固关入山西境咏诗二首，命内侍李玉捧出示翰林院学士揆叙，揆叙读毕奏赞。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李玉",
+   "role": "内侍"
+  },
+  {
+   "name": "揆叙",
+   "role": "翰林院学士"
+  }
+ ],
+ "places": [
+  "固关",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7633,
+ "page_range": "163-164"
+}

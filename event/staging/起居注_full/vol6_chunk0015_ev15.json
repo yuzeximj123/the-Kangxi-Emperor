@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "十六日癸亥",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕从军三次大臣官员各加一级，宗室苏努升一级封贝子仍摄都统事。",
+ "people": [
+  {
+   "name": "苏努",
+   "role": "护国公、宗室"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乌兰布通"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1515,
+ "page_range": "40-41"
+}

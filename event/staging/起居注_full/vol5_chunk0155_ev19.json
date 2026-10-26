@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "十三日丙寅",
+ "event_role": "其他",
+ "summary": "康熙帝顾谓乾清门侍卫马武，称潘育龙、李士达弓马娴熟、人皆矫健。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "潘育龙",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "李士达",
+   "role": "陕西肃州总兵官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15519,
+ "page_range": "320-321"
+}

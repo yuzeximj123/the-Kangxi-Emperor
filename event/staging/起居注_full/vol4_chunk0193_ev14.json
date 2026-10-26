@@ -1,0 +1,38 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "十九日戊成",
+ "event_role": "司法案件",
+ "summary": "兵部议游击芒世杰以家丁充伍、逼死王金应革职，副将施世禄等瞻徇应降调，康熙帝引前旨令武官家壮健闲丁入营充伍，令再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "贝和诺",
+   "role": "员外郎"
+  },
+  {
+   "name": "芒世杰",
+   "role": "游击"
+  },
+  {
+   "name": "王金",
+   "role": "把总"
+  },
+  {
+   "name": "施世禄",
+   "role": "副将"
+  },
+  {
+   "name": "郝桂芳",
+   "role": "守备"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19314,
+ "page_range": "398-399"
+}

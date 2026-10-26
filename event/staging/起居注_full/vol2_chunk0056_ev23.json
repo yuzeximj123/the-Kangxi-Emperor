@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十九日辛巳",
+ "event_role": "议政听政",
+ "summary": "早康熙帝御乾清门听部院各衙门官员面奏政事，九卿、詹事、科道等公奏北直巡抚于成龙条陈缉盗事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "北直巡抚"
+  }
+ ],
+ "places": [
+  "北直"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5623,
+ "page_range": "155-156"
+}

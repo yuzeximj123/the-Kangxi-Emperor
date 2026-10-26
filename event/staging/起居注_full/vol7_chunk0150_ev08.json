@@ -1,0 +1,21 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": "十二日庚申",
+ "event_role": "皇帝行止",
+ "summary": "早康熙帝临太和殿视祭祈谷坛祝版，毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15008,
+ "page_range": "311-312"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "吏部议御史咯图借银米越限不还应降级，康熙帝认为不妥，令暂存看一二月内是否还完再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "咯图",
+   "role": "御史"
+  },
+  {
+   "name": "上额图",
+   "role": "商人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17001,
+ "page_range": "351-352"
+}

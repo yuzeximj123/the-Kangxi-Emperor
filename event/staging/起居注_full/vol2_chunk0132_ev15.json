@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "十五日庚申",
+ "event_role": "人事任免",
+ "summary": "吏部题补盛京刑部侍郎员缺，康熙帝采纳明珠意见，令补噶尔图。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "噶尔图",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13215,
+ "page_range": "307-308"
+}

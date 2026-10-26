@@ -1,0 +1,32 @@
+{
+ "reign_year": 17,
+ "month": 2,
+ "day_text": "十二日癸丑",
+ "event_role": "其他",
+ "summary": "未时，康熙帝御保和殿，赐进贡吴喇式、阿霸坟、苏尼忒、翁牛忒等部落台吉食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴里马特",
+   "role": "吴喇式部落四品台吉"
+  },
+  {
+   "name": "僧额",
+   "role": "阿霸坟部落四品台吉"
+  },
+  {
+   "name": "温布",
+   "role": "苏尼忒部落四品台吉"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15536,
+ "page_range": "367-368"
+}

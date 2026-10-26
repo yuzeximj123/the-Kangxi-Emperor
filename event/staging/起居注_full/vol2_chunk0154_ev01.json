@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝议定叶方花谥文敏、阿尔赛谥壮，强调谥典须与功绩相符以劝勉效力者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶方花",
+   "role": "原任刑部侍郎"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "阵亡原任护军参领赠副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15401,
+ "page_range": "351-352"
+}

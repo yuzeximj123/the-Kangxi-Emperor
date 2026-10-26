@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十四年二月",
+ "reign_year": 54,
+ "month": 2,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "福建浙江总督范时崇奏报台湾西瓜成熟后运至福州并北上，因风信阻隔比往年迟进十余日，恐天气渐暖途中或有损坏，特具折奏明。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "沈国柱",
+   "role": "标下把总"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福州府",
+  "浙江衢州府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 11
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "初一日庚申",
+ "event_role": "人事任免",
+ "summary": "康熙帝亲选张希良等三十五名为庶吉士，后又引见修撰陆肯堂、编修陈元。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张希良",
+   "role": "庶吉士"
+  },
+  {
+   "name": "陆肯堂",
+   "role": "修撰"
+  },
+  {
+   "name": "陈元",
+   "role": "编修"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9123,
+ "page_range": "217-218"
+}

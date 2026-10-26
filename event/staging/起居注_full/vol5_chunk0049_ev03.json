@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "直隶巡抚郭世隆参奏大名道陈世安，康熙帝斥其行劣可恶，命革职交巡抚严拿究审。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "陈世安",
+   "role": "大名道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4903,
+ "page_range": "108-109"
+}

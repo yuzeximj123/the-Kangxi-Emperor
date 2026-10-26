@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "初三日癸未",
+ "event_role": "奏报灾情收成",
+ "summary": "户部侍郎阿山、内净学士德珠赈济陕西西安等处饥民回京，呈报赈济被灾各州县事。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "德珠",
+   "role": "内净学士"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18402,
+ "page_range": "380-381"
+}

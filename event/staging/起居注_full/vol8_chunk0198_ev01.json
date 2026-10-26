@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "马齐等呈报遵旨查议政大臣所议噶斯等处遣新满洲侍卫探听信息及富宁安请于甘州造推车运米迟延缘由，康熙命再确查具奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "富宁安",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "噶斯",
+  "甘州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19801,
+ "page_range": "407-408"
+}

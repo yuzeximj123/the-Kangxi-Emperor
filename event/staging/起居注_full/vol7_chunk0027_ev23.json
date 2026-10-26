@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初一日己酉",
+ "event_role": "弹劾参奏",
+ "summary": "题参将李之瑞、泽州知州伦可大纵放私盐贼首李魁俊议革职，康熙帝以其情可恶命革职拿问。",
+ "people": [
+  {
+   "name": "李之瑞",
+   "role": "参将"
+  },
+  {
+   "name": "伦可大",
+   "role": "泽州知州"
+  },
+  {
+   "name": "李魁俊",
+   "role": "私盐贼首"
+  }
+ ],
+ "places": [
+  "泽州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2723,
+ "page_range": "65-66"
+}

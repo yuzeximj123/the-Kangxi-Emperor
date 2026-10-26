@@ -1,0 +1,24 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "江南提督师懿德奏报收到康熙帝朱批，得知圣躬安好、饮食起居皆佳，感激涕零，叩谢天恩并恭祝圣寿无疆。",
+ "people": [
+  {
+   "name": "师懿德",
+   "role": "提督江南等处地方总兵官在任守制"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知自己安好、饮食起居都好，并询问师懿德到南方后情况如何。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 59
+}

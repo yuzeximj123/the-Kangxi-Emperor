@@ -1,0 +1,40 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初七日丁未",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚于成龙请保定府添设通判，吏部拟于马泰、绰奇、常保、雄延中简授，康熙问后令绰奇补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "绰奇",
+   "role": "中书，补授通判"
+  },
+  {
+   "name": "马泰",
+   "role": "岁贡"
+  },
+  {
+   "name": "常保",
+   "role": "笔帖式"
+  },
+  {
+   "name": "雄延",
+   "role": "候选"
+  }
+ ],
+ "places": [
+  "保定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6710,
+ "page_range": "144-145"
+}

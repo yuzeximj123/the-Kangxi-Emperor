@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十六日甲午",
+ "event_role": "人事任免",
+ "summary": "吏部题补左都御史董讷员缺，明珠等议荐服满侍郎王渔绪，康熙帝命升补左都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "董讷",
+   "role": "左都御史"
+  },
+  {
+   "name": "王渔绪",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21809,
+ "page_range": "471-472"
+}

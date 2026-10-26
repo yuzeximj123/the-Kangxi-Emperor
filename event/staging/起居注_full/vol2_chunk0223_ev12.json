@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初九日本丑",
+ "event_role": "谕旨决策",
+ "summary": "议政王等会议螺子山交战各官退败功罪九本，康熙帝命依议，并令将丹布、布尔柴二人再行会议。",
+ "people": [
+  {
+   "name": "丹布",
+   "role": "侍卫署护军参领"
+  },
+  {
+   "name": "布尔柴",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "螺子山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22312,
+ "page_range": "489-490"
+}

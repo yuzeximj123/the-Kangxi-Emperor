@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "初七日甲成",
+ "event_role": "人事任免",
+ "event_summary": "明珠等公举翰林官王鸿绪、内升官薛柱斗堪补副都御史，康熙帝询问后命察次应升之人再开来看。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "翰林官"
+  },
+  {
+   "name": "薛柱斗",
+   "role": "内升官员"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23709,
+ "page_range": "517-518"
+}

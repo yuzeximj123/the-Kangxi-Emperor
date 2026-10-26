@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十四日甲实",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝还红川，率皇太子诣太皇太后行宫问安毕入行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  }
+ ],
+ "places": [
+  "红川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20311,
+ "page_range": "449-450"
+}

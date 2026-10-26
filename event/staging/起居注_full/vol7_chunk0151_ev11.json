@@ -1,0 +1,30 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝论大同浑源州左卫素称难攻，太宗文皇帝三攻大同不拔，后姜勤反攻亦不拔，围至粮绝始克。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太宗文皇帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姜勤",
+   "role": "反攻者"
+  }
+ ],
+ "places": [
+  "大同",
+  "浑源州",
+  "左卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15111,
+ "page_range": "313-314"
+}

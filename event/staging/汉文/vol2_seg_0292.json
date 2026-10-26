@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙四十九年三月二十八日",
+ "reign_year": 49,
+ "month": 3,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮奏请升补抚标武职官员，并提及随驾时曾传旨关注倒马关把总张三让的弓马汉仗表现。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "张三让",
+   "role": "倒马关把总"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "倒马关"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批提及倒马关把总张三让弓马好、汉仗好。",
+ "source_title": "直隸巡撫趙弘燮奏報保定等府得雨分寸摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "648",
+ "order_index": 292
+}

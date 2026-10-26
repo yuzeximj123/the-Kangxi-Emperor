@@ -1,0 +1,24 @@
+{
+ "reign_year": 14,
+ "month": 10,
+ "day_text": "十五日己巳",
+ "event_role": "朝见受贺",
+ "summary": "遵化县知县郑乔升、遵化县城守营游击赵国宾等前来朝见。",
+ "people": [
+  {
+   "name": "郑乔升",
+   "role": "遵化县知县"
+  },
+  {
+   "name": "赵国宾",
+   "role": "遵化县城守营游击"
+  }
+ ],
+ "places": [
+  "遵化县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10302,
+ "page_range": "263-264"
+}

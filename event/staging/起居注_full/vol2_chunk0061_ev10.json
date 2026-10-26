@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "十三日甲午",
+ "event_role": "司法案件",
+ "summary": "刑部拟鼻塞打死姚大绞抵监候，康熙以陈六子再三控告人命关系重大，命详审具奏。",
+ "people": [
+  {
+   "name": "鼻塞",
+   "role": "拟绞犯人"
+  },
+  {
+   "name": "姚大",
+   "role": "死者"
+  },
+  {
+   "name": "陈六子",
+   "role": "控告人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6110,
+ "page_range": "165-166"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "二十六日癸卯",
+ "event_role": "起居注官记录",
+ "summary": "记此行各部院衙门奏章每日交送内阁，由内阁三日一次递送行宫办理；扈从起居注官为法良、陈元龙、把叙、朱大业、查异。",
+ "people": [
+  {
+   "name": "法良",
+   "role": "起居注官"
+  },
+  {
+   "name": "陈元龙",
+   "role": "起居注官"
+  },
+  {
+   "name": "把叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "朱大业",
+   "role": "起居注官"
+  },
+  {
+   "name": "查异",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3616,
+ "page_range": "83-84"
+}

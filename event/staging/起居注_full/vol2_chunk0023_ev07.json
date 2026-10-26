@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "二十三日戊申",
+ "event_role": "人事任免",
+ "summary": "吏部题通政司左参议缺，康熙帝令吴瑞不必转左，将赵士麟升补左参议。",
+ "people": [
+  {
+   "name": "吴瑞",
+   "role": "右参议"
+  },
+  {
+   "name": "赵士麟",
+   "role": "光禄寺少卿"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2307,
+ "page_range": "89-90"
+}

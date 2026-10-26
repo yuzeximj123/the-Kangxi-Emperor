@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝谕令以李陈常为监察御史巡视两淮盐课一年，江宁苏州织造照旧额解送赢余清补亏欠，运使员缺令九卿保举。",
+ "people": [
+  {
+   "name": "李陈常",
+   "role": "监察御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两淮",
+  "江宁",
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6907,
+ "page_range": "149-150"
+}

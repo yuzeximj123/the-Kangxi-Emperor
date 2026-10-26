@@ -1,0 +1,40 @@
+{
+ "reign_year": 13,
+ "month": 8,
+ "day_text": "初三日甲午",
+ "event_role": "军务",
+ "summary": "多罗贝勒尚善等启行，康熙帝命和硕安亲王岳洛等大臣送至大井前赐茶。",
+ "people": [
+  {
+   "name": "尚善",
+   "role": "多罗贝勒"
+  },
+  {
+   "name": "岳洛",
+   "role": "和硕安亲王"
+  },
+  {
+   "name": "常寿",
+   "role": "内大臣辅国公"
+  },
+  {
+   "name": "坤巴士鲁",
+   "role": "内大臣"
+  },
+  {
+   "name": "明珠",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "折尔肯",
+   "role": "礼部侍郎"
+  }
+ ],
+ "places": [
+  "大井"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7603,
+ "page_range": "209-210"
+}

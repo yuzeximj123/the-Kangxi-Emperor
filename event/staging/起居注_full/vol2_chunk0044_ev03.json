@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "宁古塔将军巴海请设边界许沿边蒙古就近采梅围猎，康熙帝从明珠议待侍郎沙赖回日再交理藩院晓谕。",
+ "people": [
+  {
+   "name": "巴海",
+   "role": "镇守宁古塔等处将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "沙赖",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4403,
+ "page_range": "131-132"
+}

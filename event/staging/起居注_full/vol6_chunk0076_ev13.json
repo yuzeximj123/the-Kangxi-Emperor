@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 1,
+ "day_text": "二十七日戊酉",
+ "event_role": "人事任免",
+ "summary": "兵部尚书席尔达等引见掣签副将参将游击，康熙帝以董良桶良劣革职，命其余明晨齐集景山观骑射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "董良桶",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7613,
+ "page_range": "162-163"
+}

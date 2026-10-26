@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "赐山西巡抚温保、布政使甘度、按察使巴锡免，并赐进羊、豕、雁、黄等物。",
+ "people": [
+  {
+   "name": "温保",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "甘度",
+   "role": "布政使"
+  },
+  {
+   "name": "巴锡",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17017,
+ "page_range": "350-351"
+}

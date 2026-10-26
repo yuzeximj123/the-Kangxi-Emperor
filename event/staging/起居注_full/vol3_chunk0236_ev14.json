@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十一日己巳",
+ "event_role": "其他",
+ "summary": "皇太子读新书毕即写楷书，甫写时耿介忽仆，皇太子问其故，汤斌启称耿介早间头晕痰气忽发不能立。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "耿介",
+   "role": "官员"
+  },
+  {
+   "name": "汤斌",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23614,
+ "page_range": "507-508"
+}

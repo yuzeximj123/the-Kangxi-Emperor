@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十五日并西",
+ "event_role": "其他",
+ "summary": "申时康熙帝出行宫，率皇太子、诸皇子及善射侍卫射箭，发矢皆中，又命福建总兵官张玉蛮射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "张玉蛮",
+   "role": "福建总兵官"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3301,
+ "page_range": "77-78"
+}

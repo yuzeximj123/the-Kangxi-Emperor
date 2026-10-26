@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "初九日己丑",
+ "event_role": "人事任免",
+ "summary": "吏部题鸿胪寺正卿何龟员缺，拟布达理为正、海山岱为陪，康熙帝谕令将曾任鸿胪寺官应升者及各部院衙门对品者开列选用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何龟",
+   "role": "鸿胪寺正卿"
+  },
+  {
+   "name": "布达理",
+   "role": "鸿胪寺少卿"
+  },
+  {
+   "name": "海山岱",
+   "role": "内阁侍读"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17607,
+ "page_range": "364-365"
+}

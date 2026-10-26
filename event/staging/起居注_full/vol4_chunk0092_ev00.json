@@ -1,0 +1,23 @@
+{
+ "reign_year": 28,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户部，因湖北亢旱成灾，蠲免武昌等四府及荆州、安陆二府被灾州县卫所本年及次年钱粮，令督抚严查私征侵蚀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖北",
+  "武昌",
+  "荆州",
+  "安陆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9200,
+ "page_range": "196-197"
+}

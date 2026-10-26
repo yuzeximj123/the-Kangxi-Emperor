@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙六十一年九月十一日",
+ "reign_year": 61,
+ "month": 9,
+ "day": 11,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州六月因雨泽愆期米价骤涨，立秋后雨水调匀米价渐减，预计收成十分、将来价贱，并进呈八月晴雨日记。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝质问米价本该低贱为何还卖得贵。",
+ "source_title": "蘇州織造李煦奏報蘇州欠債疊民已漸減緣由摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "3001",
+ "order_index": 378
+}

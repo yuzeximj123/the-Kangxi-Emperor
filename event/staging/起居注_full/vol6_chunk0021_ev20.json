@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十五日辛丑",
+ "event_role": "人事任免",
+ "summary": "兵部覆云贵总督王继文题请援蔓副将陈文昭在任守制，议不准行，康熙帝命照所请留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王继文",
+   "role": "云贵总督"
+  },
+  {
+   "name": "陈文昭",
+   "role": "援蔓副将"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2120,
+ "page_range": "52-53"
+}

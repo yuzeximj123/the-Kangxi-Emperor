@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十八年九月初九日",
+ "reign_year": 58,
+ "month": 9,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "原任提督马见伯远在固原，因圣驾出哨行围、回銮而未能跪迎，特差长随杨钧赍捧奏折恭请圣安。",
+ "people": [
+  {
+   "name": "马见伯",
+   "role": "提督陕西固原等处地方总兵官署都督佥事，奏请圣安者"
+  },
+  {
+   "name": "杨钧",
+   "role": "长随，赍捧奏折之人"
+  }
+ ],
+ "places": [
+  "固原",
+  "陕西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知自己安好，并说明今年雨水颇多，故出哨行围迟了十余天。",
+ "source_title": "原任提督馬見伯奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2818",
+ "order_index": 221
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "二十八日甲实",
+ "event_role": "人事任免",
+ "summary": "古北口提督马进良题昌平营参将等缺以游击张世显等补授，康熙帝令行文马进良召张世显等引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马进良",
+   "role": "古北口提督"
+  },
+  {
+   "name": "张世显",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "古北口",
+  "昌平营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11717,
+ "page_range": "245-246"
+}

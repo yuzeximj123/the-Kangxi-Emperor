@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题韩地控告伯父韩文迷一案，康熙帝令将前旨载入再议具奏。",
+ "people": [
+  {
+   "name": "韩地",
+   "role": "正蓝旗阿达哈哈番"
+  },
+  {
+   "name": "韩文迷",
+   "role": "韩地伯父"
+  },
+  {
+   "name": "徐顺",
+   "role": "家人"
+  },
+  {
+   "name": "曹元方",
+   "role": "案内人"
+  },
+  {
+   "name": "王绩绪",
+   "role": "案内人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17702,
+ "page_range": "365-366"
+}

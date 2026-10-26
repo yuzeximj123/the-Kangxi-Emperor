@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "二十九日乙本",
+ "event_role": "人事任免",
+ "summary": "吏部题湖北布政使件钦元员缺，以湖广按察使张文灿开列请旨，帝令查丁忧布政使、按察使名具奏。",
+ "people": [
+  {
+   "name": "件钦元",
+   "role": "湖北布政使"
+  },
+  {
+   "name": "张文灿",
+   "role": "湖广按察使"
+  }
+ ],
+ "places": [
+  "湖北",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16623,
+ "page_range": "343-344"
+}

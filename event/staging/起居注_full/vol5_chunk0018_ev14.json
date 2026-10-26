@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初一日戊成",
+ "event_role": "弹劾参奏",
+ "summary": "太常寺题参换送秃尾牲冀迟延日期官员，康熙帝斥查库奸险钻营，命交部严加议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "查库",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1814,
+ "page_range": "46-47"
+}

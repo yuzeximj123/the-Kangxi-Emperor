@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十四年",
+ "reign_year": 44,
+ "month": null,
+ "day": null,
+ "event_role": "其他",
+ "summary": "王鸿绪密奏谢恩，承诺谨守密谕、不泄风声，并称今后将随时密报京中见闻。",
+ "people": [
+  {
+   "name": "王鸿绪",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“是”，表示认可王鸿绪的密奏与承诺。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "145",
+ "source_title": "密谕王鸿绪密奏京中可闻之事",
+ "order_index": 107
+}

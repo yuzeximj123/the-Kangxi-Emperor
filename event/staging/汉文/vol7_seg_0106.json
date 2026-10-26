@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十五年五月二十六日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 26,
+ "event_role": "请安谢恩",
+ "summary": "护理贵州巡抚白潢上奏向皇帝请安，并报告进口（入京）事宜。",
+ "people": [
+  {
+   "name": "白潢",
+   "role": "护理贵州巡抚"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "護理貴州巡撫白潢奏請聖安進口摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "130",
+ "order_index": 106
+}

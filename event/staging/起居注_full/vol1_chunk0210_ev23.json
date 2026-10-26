@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "初九日庚午",
+ "event_role": "军务",
+ "summary": "康熙帝召侍读达都问福建海贼形势及今岁有无荡平之机，达都奏金门、厦门贼势大减，贼船较前亦极（原文未完）。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达都",
+   "role": "侍读"
+  }
+ ],
+ "places": [
+  "福建",
+  "金门",
+  "厦门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21023,
+ "page_range": "477-478"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 15,
+ "month": 11,
+ "day_text": "初七日乙酉",
+ "event_role": "其他",
+ "summary": "辰时康熙帝御弘德殿，讲官喇沙里、徐元文、张英进讲孟子三章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "徐元文",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12501,
+ "page_range": "307-308"
+}

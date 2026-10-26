@@ -1,0 +1,34 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "刑部题侍郎罗察、布泰不审明岳异龙、于养志一案拟降三级留任，康熙不准宽免，令照所降之级随旗行走。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗察",
+   "role": "侍郎"
+  },
+  {
+   "name": "布泰",
+   "role": "侍郎"
+  },
+  {
+   "name": "岳异龙",
+   "role": "案犯"
+  },
+  {
+   "name": "于养志",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18601,
+ "page_range": "382-383"
+}

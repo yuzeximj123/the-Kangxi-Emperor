@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "十二日丁西",
+ "event_role": "军务",
+ "summary": "行在兵部行文沿路驿站官员，大将军伯费扬古题奏事件到站即速递送御营，并传至侍郎马尔汉处。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "马尔汉",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "土木"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11413,
+ "page_range": "238-239"
+}

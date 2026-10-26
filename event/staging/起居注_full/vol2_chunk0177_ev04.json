@@ -1,0 +1,20 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十一日癸丑",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率诸王、贝勒、贝子、公、内大臣、侍卫等赴堂子致祭，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "堂子"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17704,
+ "page_range": "397-398"
+}

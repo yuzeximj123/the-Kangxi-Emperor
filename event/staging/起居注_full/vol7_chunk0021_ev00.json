@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与马齐议论公福善查牧场时牧马人藏匿马匹、佟吉治罪之事，并论谨慎守分与阴险诬陷之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "公福善",
+   "role": "查牧场官员"
+  },
+  {
+   "name": "佟吉",
+   "role": "牧马人相关官员"
+  }
+ ],
+ "places": [
+  "牧场"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2100,
+ "page_range": "53-54"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "遵旨奏问吉州知州张灿近抚噶礼事，康熙帝以张灿居官既优，命留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张灿",
+   "role": "吉州知州"
+  },
+  {
+   "name": "噶礼",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "吉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21801,
+ "page_range": "446-447"
+}

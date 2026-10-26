@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十二日甲子",
+ "event_role": "司法案件",
+ "summary": "都察院议覆员外郎朱兰泰讼冤事，拟席尔达降一级调用、特默德革职，康熙帝命特默德革职、席尔达降一级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱兰泰",
+   "role": "员外郎"
+  },
+  {
+   "name": "席尔达",
+   "role": "尚书"
+  },
+  {
+   "name": "特默德",
+   "role": "侍郎"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 519,
+ "page_range": "21-22"
+}

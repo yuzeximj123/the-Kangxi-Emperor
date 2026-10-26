@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "十六日",
+ "event_role": "人事任免",
+ "summary": "兵部题功加署守备张龙贵照例发往山西补用，康熙以其力不能到，命就近发与直隶巡抚于成龙酌量录用。",
+ "people": [
+  {
+   "name": "张龙贵",
+   "role": "署守备"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "山西",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9520,
+ "page_range": "202-203"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "是日赐徐旭龄、姚仪鞍马各一匹，并赐朝鲜国进贡陪臣金锡骨等银币、鞍马、貂皮等物有差。",
+ "people": [
+  {
+   "name": "徐旭龄",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "姚仪",
+   "role": "狼山总兵官"
+  },
+  {
+   "name": "金锡骨",
+   "role": "朝鲜国进贡陪臣"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17307,
+ "page_range": "389-390"
+}

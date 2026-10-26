@@ -1,0 +1,44 @@
+{
+ "date_raw": "康熙四十年十月二十四日",
+ "reign_year": 40,
+ "month": 10,
+ "day": 24,
+ "event_role": "奏报地方情形",
+ "summary": "李林盛遵旨回奏陕甘地方情形、雨水收成及赈济情况，并谢恩领赐。",
+ "people": [
+  {
+   "name": "李林盛",
+   "role": "奏报人"
+  },
+  {
+   "name": "吴达禅",
+   "role": "涉及人物"
+  },
+  {
+   "name": "喇西库",
+   "role": "涉及人物"
+  },
+  {
+   "name": "吴廷礼",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "陕西",
+  "甘肃",
+  "河东",
+  "宁夏",
+  "兰州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，命今后奏折用满文书写，不必用印。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "45",
+ "source_title": "陕甘提督李林盛奏为遵旨具奏地方事宜并雨水等情折",
+ "order_index": 41
+}

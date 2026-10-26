@@ -1,0 +1,20 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "初五日丙寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝钦承慈命，即幸南苑，明日徐徐起行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21011,
+ "page_range": "477-478"
+}

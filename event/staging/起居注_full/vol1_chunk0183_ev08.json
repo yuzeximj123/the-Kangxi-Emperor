@@ -1,0 +1,32 @@
+{
+ "reign_year": 18,
+ "month": 6,
+ "day_text": "二十八日辛酉",
+ "event_role": "人事任免",
+ "summary": "康熙帝御瀛台前亭赐贵州巡抚杨雍建食，命侍卫对亲、学士常书传谕简任贵州巡抚并赐银两表里。",
+ "people": [
+  {
+   "name": "杨雍建",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "对亲",
+   "role": "头等侍卫衣都额真"
+  },
+  {
+   "name": "常书",
+   "role": "日讲官起居注侍讲学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18308,
+ "page_range": "423-424"
+}

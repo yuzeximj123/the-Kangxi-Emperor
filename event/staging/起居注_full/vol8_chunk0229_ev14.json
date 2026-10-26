@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 12,
+ "day_text": "二十五日乙已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝手书蓝笔谕旨交马齐等，责诸臣无一语及朕躬之事，视朕如驾车之马，并斥马齐、赵申乔安然不出一语、赵申乔瞻顾无定。",
+ "people": [
+  {
+   "name": "双全",
+   "role": "奏事六品官"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "赵申乔",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东暖净"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22914,
+ "page_range": "469-470"
+}

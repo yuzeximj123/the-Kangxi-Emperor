@@ -1,0 +1,47 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "提督潘育龙奏陈保举蓝起拔、陈晓、王天爵、康世奇等千总，称其才识骑射俱优、熟习边情，请予采择任用。",
+ "people": [
+  {
+   "name": "潘育龙",
+   "role": "提督陕西等处地方总兵官，上奏保举人"
+  },
+  {
+   "name": "蓝起拔",
+   "role": "提标左营千总，被保举"
+  },
+  {
+   "name": "陈晓",
+   "role": "马湖官员，被保举"
+  },
+  {
+   "name": "王天爵",
+   "role": "紫阳营千总，被保举"
+  },
+  {
+   "name": "康世奇",
+   "role": "潼关营千总，被保举"
+  }
+ ],
+ "places": [
+  "陕西",
+  "昌平",
+  "马湖",
+  "汉兴",
+  "紫阳营",
+  "固原",
+  "潼关营",
+  "西陲"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "潘育龍奏爲敬陳管見以資采擇摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 209
+}

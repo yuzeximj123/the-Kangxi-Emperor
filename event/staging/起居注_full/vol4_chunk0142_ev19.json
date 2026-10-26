@@ -1,0 +1,20 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "初十日丙寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫听政，部院各衙门官员面奏政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14219,
+ "page_range": "296-297"
+}

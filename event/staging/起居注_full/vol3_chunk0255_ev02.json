@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": "初一日乙巳",
+ "event_role": "其他",
+ "summary": "太皇太后饮膳稍有增加，御医诊视脉息较前平和。",
+ "people": [
+  {
+   "name": "太皇太后",
+   "role": "病人"
+  },
+  {
+   "name": "御医",
+   "role": "诊视者"
+  }
+ ],
+ "places": [
+  "慈宁宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25502,
+ "page_range": "545-546"
+}

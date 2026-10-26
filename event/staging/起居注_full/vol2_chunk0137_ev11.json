@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "初七日壬午",
+ "event_role": "人事任免",
+ "summary": "议补汉军御史员缺，梁述祖拟正、卢崇魁拟陪，康熙帝令补卢崇魁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁述祖",
+   "role": "候缺"
+  },
+  {
+   "name": "卢崇魁",
+   "role": "郎中"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13711,
+ "page_range": "317-318"
+}

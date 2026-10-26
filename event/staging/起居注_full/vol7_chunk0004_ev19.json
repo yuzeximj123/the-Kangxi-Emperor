@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初三日乙卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸满城县城内，知县李玉堂、原任道张瑞等及奉旨调来河间府副将高文烟、真定府副将姚尚伦等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李玉堂",
+   "role": "知县"
+  },
+  {
+   "name": "张瑞",
+   "role": "原任道"
+  },
+  {
+   "name": "高文烟",
+   "role": "河间府副将"
+  },
+  {
+   "name": "姚尚伦",
+   "role": "真定府副将"
+  }
+ ],
+ "places": [
+  "满城县城内"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 419,
+ "page_range": "19-20"
+}

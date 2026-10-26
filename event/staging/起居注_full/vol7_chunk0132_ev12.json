@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "十四日戊戌",
+ "event_role": "起居注官记录",
+ "summary": "记录本日起居注官为史融、阿尔法。",
+ "people": [
+  {
+   "name": "史融",
+   "role": "起居注官"
+  },
+  {
+   "name": "阿尔法",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13212,
+ "page_range": "275-276"
+}

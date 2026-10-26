@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十六日戊申",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题请赐恤乌拉特扎萨克原任镇国公杜棱及杜棱之二朴，康熙帝以应一本具题，命将二本发还。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜棱",
+   "role": "乌拉特扎萨克原任镇国公"
+  }
+ ],
+ "places": [
+  "乌拉特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22115,
+ "page_range": "453-454"
+}

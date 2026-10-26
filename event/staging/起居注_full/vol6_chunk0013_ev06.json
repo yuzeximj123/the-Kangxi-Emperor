@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "二十八日乙巳",
+ "event_role": "谕旨决策",
+ "summary": "户部覆黑龙江将军萨布素题沿河被水十八庄请散给米粮议不准，康熙帝命照该将军所请散给，出陈易新以济军粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1306,
+ "page_range": "36-37"
+}

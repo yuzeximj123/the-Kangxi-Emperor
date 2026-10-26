@@ -1,0 +1,38 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "十六日甲辰",
+ "event_role": "其他",
+ "summary": "康熙帝赐领侍卫内大臣公福善、公费扬古、索额图、和硕额驸尚之隆、大学士马齐汤羊，并遍赐执事人员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "费扬古",
+   "role": "公"
+  },
+  {
+   "name": "索额图",
+   "role": "公"
+  },
+  {
+   "name": "尚之隆",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18137,
+ "page_range": "372-373"
+}

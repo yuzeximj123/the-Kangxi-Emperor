@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "二十四日辛刻",
+ "event_role": "司法案件",
+ "summary": "山西重犯白金阳等拟缓决，康熙帝以事关伦理命再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "白金阳",
+   "role": "重犯"
+  },
+  {
+   "name": "尚金保住",
+   "role": "被砍者"
+  },
+  {
+   "name": "郭寿甫",
+   "role": "被杀者"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11807,
+ "page_range": "271-272"
+}

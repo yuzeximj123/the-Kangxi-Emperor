@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "初五日辛未",
+ "event_role": "议政听政",
+ "summary": "辰时康熙御乾清门听政，部院各衙门官员面奏，大学士、学士以折本请旨。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1010,
+ "page_range": "55-56"
+}

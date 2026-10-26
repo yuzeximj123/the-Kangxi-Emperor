@@ -1,0 +1,31 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "赵吉士奏陈会议意见，主张靳辅重堤之策应行，下河宜开且当深浚，反对因派夫累民而停止。",
+ "people": [
+  {
+   "name": "赵吉士",
+   "role": "革职小臣"
+  },
+  {
+   "name": "佛伦",
+   "role": "会议大臣"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "归仁堤",
+  "洪泽湖",
+  "高加堰",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1501,
+ "page_range": "42-43"
+}

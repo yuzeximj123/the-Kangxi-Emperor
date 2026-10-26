@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十九日癸卯",
+ "event_role": "朝见受贺",
+ "summary": "霸昌道沈志礼、昌平州知州马世恩、参将许凤等来朝。",
+ "people": [
+  {
+   "name": "沈志礼",
+   "role": "霸昌道"
+  },
+  {
+   "name": "马世恩",
+   "role": "昌平州知州"
+  },
+  {
+   "name": "许凤",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "霸昌",
+  "昌平州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4021,
+ "page_range": "123-124"
+}

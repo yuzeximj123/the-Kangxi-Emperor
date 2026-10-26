@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "二十一日丙午",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御行宫，大学士马齐、学士升兵部侍郎思丕、学士黑寿、舒兰以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "思丕",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "黑寿",
+   "role": "学士"
+  },
+  {
+   "name": "舒兰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12428,
+ "page_range": "259-260"
+}

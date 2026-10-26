@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "吴达禅传谕，将多尔即青台吉封品级、暂住林木、给用印部文禁俄罗斯侵掠等事交索额图等会议。",
+ "people": [
+  {
+   "name": "吴达禅",
+   "role": "一等侍卫副都统"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "多尔即青台吉",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "俄罗斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16902,
+ "page_range": "348-349"
+}

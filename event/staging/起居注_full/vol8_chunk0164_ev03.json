@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论陈玉陛所奏州县火耗养廉事，认为有理但尽革恐生他弊，张鹏翮、范时崇赞同。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈玉陛",
+   "role": "官员"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "尚书"
+  },
+  {
+   "name": "范时崇",
+   "role": "左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16403,
+ "page_range": "339-340"
+}

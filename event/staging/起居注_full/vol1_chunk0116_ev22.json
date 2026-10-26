@@ -1,0 +1,26 @@
+{
+ "reign_year": 15,
+ "month": 6,
+ "day_text": "初十日辛西",
+ "event_role": "人事任免",
+ "summary": "康熙帝阅考选科道官户部主事余国柱及唐山县知县孙织等四十五员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "余国柱",
+   "role": "户部主事"
+  },
+  {
+   "name": "孙织",
+   "role": "唐山县知县"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11622,
+ "page_range": "289-290"
+}

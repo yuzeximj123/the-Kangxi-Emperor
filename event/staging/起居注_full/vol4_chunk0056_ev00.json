@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝经过苏州府时，原署湖北布政使道员叶映榴之子叶焉在道旁跪迎，康熙称赞其父尽节，并命工部尚书苏赫回苏州时奏闻颁赐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶焉",
+   "role": "叶映榴之子"
+  },
+  {
+   "name": "叶映榴",
+   "role": "原署湖北布政使道员"
+  },
+  {
+   "name": "苏赫",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [
+  "苏州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5600,
+ "page_range": "124-125"
+}

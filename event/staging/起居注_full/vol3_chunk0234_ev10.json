@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "初九日乙卯",
+ "event_role": "议政听政",
+ "summary": "汤斌举《中庸》“喜怒哀乐之未发”一节请皇上圣教，康熙帝探本穷原阐发中和奥义。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "无逸斋"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23410,
+ "page_range": "503-504"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "二十二日辛丑",
+ "event_role": "其他",
+ "summary": "辰时康熙御乾清宫，讲官库勒纳、叶方蓝、孙在丰进讲《易》恒卦等节。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蓝",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8615,
+ "page_range": "215-216"
+}

@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十三年十月初八日",
+ "reign_year": 53,
+ "month": 10,
+ "day": 8,
+ "event_role": "请安谢恩",
+ "summary": "两广总督赵弘灿以年老恋主、地方收成丰稔为由，恳请恩准陛见，亲请圣安并面聆训诲。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督，具奏人"
+  },
+  {
+   "name": "刘士杰",
+   "role": "赵弘灿家人，赍奏摺者"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "杭州",
+  "岭南"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "兩廣總督趙弘燦奏請陛見摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1664",
+ "order_index": 304
+}

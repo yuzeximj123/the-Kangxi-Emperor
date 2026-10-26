@@ -1,0 +1,21 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "二十二日两辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出罗文峪口，驻跸白旗营。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "罗文峪口",
+  "白旗营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12522,
+ "page_range": "260-261"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "二十六日庚午",
+ "event_role": "议政听政",
+ "summary": "康熙帝问张鹏翮性理之学佳者，张鹏翮举熊赐履、张玉书、李光地，康熙帝颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "尚书"
+  },
+  {
+   "name": "熊赐履",
+   "role": "官员"
+  },
+  {
+   "name": "张玉书",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3717,
+ "page_range": "85-86"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论赵申乔清廉但好收词讼致民受累，又闻阿山亦喜受民词，强调居官须清廉和平、以不生事为贵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "阿山",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5213,
+ "page_range": "115-116"
+}

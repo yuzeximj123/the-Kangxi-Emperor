@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十三年正月初二日",
+ "reign_year": 53,
+ "month": null,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报入春后保定等地得雪，并转报清苑、安州、祁州、博野、安平各属得雪尺寸，以慰圣怀。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏报人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "保定",
+  "清苑县",
+  "安州",
+  "祁州",
+  "博野",
+  "真定府",
+  "安平县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "直隸巡撫趙弘燮奏報入春已得瑞雪摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1502",
+ "order_index": 137
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": "十八日丙戌",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问布泰所属佐领，赞其诚实勤于办事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布泰",
+   "role": "学士"
+  },
+  {
+   "name": "颇尔彭",
+   "role": "公"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9413,
+ "page_range": "198-199"
+}

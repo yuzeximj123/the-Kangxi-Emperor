@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就车臣汗事表示其汗名号仍留。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "车臣汗",
+   "role": "受封之汗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14802,
+ "page_range": "308-309"
+}

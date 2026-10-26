@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士温达等覆请吏部将革职留任内务府总管耕变等员题复原官，康熙帝令缮折附本进呈定夺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "耕变",
+   "role": "内务府总管"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1503,
+ "page_range": "41-42"
+}

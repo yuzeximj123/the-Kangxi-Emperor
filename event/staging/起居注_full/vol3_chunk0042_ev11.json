@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十六日己未",
+ "event_role": "人事任免",
+ "summary": "理藩院题归化城蒙古佐领员缺，拟以色冷喇布丹正、阿布珠陪，康熙以阿布珠属一枝，命补授阿布珠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色冷喇布丹",
+   "role": "拟正佐领"
+  },
+  {
+   "name": "阿布珠",
+   "role": "拟陪佐领"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4211,
+ "page_range": "119-120"
+}

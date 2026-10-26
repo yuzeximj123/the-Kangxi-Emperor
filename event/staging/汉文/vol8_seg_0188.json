@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十八年五月初六日",
+ "reign_year": 58,
+ "month": 5,
+ "day": 6,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州雨水调匀、米价低廉、民田插莳已完，并进呈福州四月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "福州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報蘇州米價並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2764",
+ "order_index": 188
+}

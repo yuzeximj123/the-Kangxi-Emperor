@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "初四日辛雍",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆湖广提督额伦特请副将至守备许复姓，康熙帝以部内原有复姓之例，命饬行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额伦特",
+   "role": "湖广提督"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1410,
+ "page_range": "39-40"
+}

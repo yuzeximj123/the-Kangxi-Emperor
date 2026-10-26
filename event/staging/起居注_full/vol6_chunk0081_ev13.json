@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "初五日甲戌",
+ "event_role": "朝见受贺",
+ "summary": "浙江粮道李法祖、扬州府知府傅译洪、浙江运粮千总傅有奇等来朝。",
+ "people": [
+  {
+   "name": "李法祖",
+   "role": "浙江粮道"
+  },
+  {
+   "name": "傅译洪",
+   "role": "扬州府知府"
+  },
+  {
+   "name": "傅有奇",
+   "role": "浙江运粮千总"
+  }
+ ],
+ "places": [
+  "浙江",
+  "扬州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8113,
+ "page_range": "172-173"
+}

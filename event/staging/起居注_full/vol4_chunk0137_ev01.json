@@ -1,0 +1,21 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝题补高雷廉总兵官，命山东沂州副将霍维区升补。",
+ "people": [
+  {
+   "name": "霍维区",
+   "role": "山东沂州副将"
+  }
+ ],
+ "places": [
+  "高雷廉",
+  "山东沂州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13701,
+ "page_range": "286-287"
+}

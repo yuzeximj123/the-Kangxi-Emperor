@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": "十五日戊成",
+ "event_role": "谕旨决策",
+ "summary": "传谕大学士温达等，去年中式解元脱逃，疑今年进士有顶替入试者，令十九日召集满汉大臣备齐试卷，令新中进士赴畅春园亲出题覆试。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21123,
+ "page_range": "433-434"
+}

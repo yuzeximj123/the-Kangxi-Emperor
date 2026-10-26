@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝裁定安守仁等十三人发往奉天安插，其余俱宽免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安守仁",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5006,
+ "page_range": "110-111"
+}

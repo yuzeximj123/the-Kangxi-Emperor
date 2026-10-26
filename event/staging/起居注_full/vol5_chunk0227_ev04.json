@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "初四日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "营造司郎中佛保传谕，因所雇船只装载过重、船身出水无多，黄河险要，着严禁晓谕。",
+ "people": [
+  {
+   "name": "佛保",
+   "role": "营造司郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22704,
+ "page_range": "464-465"
+}

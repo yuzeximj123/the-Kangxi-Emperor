@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部查吴麟所报父死难及军前效力俱虚假拟充军，康熙帝命发回本省查明再议。",
+ "people": [
+  {
+   "name": "吴麟",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10205,
+ "page_range": "215-216"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十四年九月",
+ "reign_year": 54,
+ "month": 9,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "太原总兵金国正遣家人张世宰赍摺叩请圣安，并进献芦花鹰、黄鹰、白兔虎等物，另有一架不识之物请内大人辨认。",
+ "people": [
+  {
+   "name": "金国正",
+   "role": "镇守山西太原等处地方总兵官署都督佥事，具奏人"
+  },
+  {
+   "name": "张世宰",
+   "role": "金国正家人，赍捧奏摺进京"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，表示自己安好。",
+ "source_title": "太原總兵官金國正奏請聖安並進鷹花鹿白兔虎等動物摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1896",
+ "order_index": 164
+}

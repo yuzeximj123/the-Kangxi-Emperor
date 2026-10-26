@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "二十三日乙刻",
+ "event_role": "谕旨决策",
+ "summary": "监察御史喇占条奏京城失盗报部缉拿、步军校内衰老解任选补壮健，康熙帝以其语言不明、才短，批知道了。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇占",
+   "role": "监察御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17604,
+ "page_range": "387-388"
+}

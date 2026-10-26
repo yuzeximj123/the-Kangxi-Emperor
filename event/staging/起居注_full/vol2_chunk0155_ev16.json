@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初九日壬子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率内大臣、侍卫临章皇后母佟夫人觉罗氏处奠酒举哀，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "内大臣",
+   "role": "随行"
+  },
+  {
+   "name": "侍卫",
+   "role": "随行"
+  },
+  {
+   "name": "佟夫人觉罗氏",
+   "role": "章皇后母"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15516,
+ "page_range": "353-354"
+}

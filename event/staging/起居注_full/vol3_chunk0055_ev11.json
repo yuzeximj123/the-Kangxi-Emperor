@@ -1,0 +1,21 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "二十七日己未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝启行往江宁府，驻跸无锡县南门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁府",
+  "无锡县南门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5511,
+ "page_range": "145-146"
+}

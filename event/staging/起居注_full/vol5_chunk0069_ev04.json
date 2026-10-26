@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召阿兰泰至乾清宫，因雨水过多恐损民田，命传集九卿、詹事、科道将应兴应革事务各抒所见具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6904,
+ "page_range": "148-149"
+}

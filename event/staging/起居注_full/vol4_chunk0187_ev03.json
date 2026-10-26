@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部题覆陕西巡抚萨呢图请缓征华阴等七州县康熙三十年未完银米及三十一年春夏银粮，康熙帝准其所请，令秋成后带征并一体赈济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨呢图",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "华阴",
+  "澄城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18703,
+ "page_range": "386-387"
+}

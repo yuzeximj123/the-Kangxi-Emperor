@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "赵吉士自怀中出疏稿面奏，兵部尚书阿兰泰等以其已革职何得污奏，康熙帝命姑听其奏。",
+ "people": [
+  {
+   "name": "赵吉士",
+   "role": "革职官员"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1812,
+ "page_range": "48-49"
+}

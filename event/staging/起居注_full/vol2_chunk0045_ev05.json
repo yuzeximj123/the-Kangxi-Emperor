@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部尚书吴达礼因病乞休，康熙帝批评其唯诺无长，命查例票解任来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴达礼",
+   "role": "吏部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4505,
+ "page_range": "133-134"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿保举湖广按察使张文灿补山东布政使，康熙命查丁忧者，无则授按察使杨宗义。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张文灿",
+   "role": "湖广按察使"
+  },
+  {
+   "name": "杨宗义",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "山东",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16306,
+ "page_range": "337-338"
+}

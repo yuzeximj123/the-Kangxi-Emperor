@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "十六日辛巳",
+ "event_role": "河工水利",
+ "summary": "康熙帝言本年通州至天津新筑塌岸无倒塌，东边旧堤数处冲决，淹没田地民受其累；命侍郎常书看明修筑坚固议奏，并遣侍卫一二人前往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "通州",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3922,
+ "page_range": "88-89"
+}

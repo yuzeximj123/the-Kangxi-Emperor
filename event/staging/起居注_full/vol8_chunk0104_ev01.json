@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 7,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝询问子牙河有无冲决处，和孔古礼奏称非其经手之事，未曾听闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和孔古礼",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "子牙河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10401,
+ "page_range": "219-220"
+}

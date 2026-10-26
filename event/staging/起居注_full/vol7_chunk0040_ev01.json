@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命张拐免其发往，着该部取口供移知。",
+ "people": [
+  {
+   "name": "张拐",
+   "role": "获罪人员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4001,
+ "page_range": "91-92"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆请陕甘总督鄂海所题神木营副将王世荣告病乞休，康熙帝依议准其以原品解任，并命将相近处之员补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "王世荣",
+   "role": "神木营副将"
+  }
+ ],
+ "places": [
+  "神木营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13402,
+ "page_range": "279-280"
+}

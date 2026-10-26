@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 6,
+ "day_text": "初九日",
+ "event_role": "朝见受贺",
+ "summary": "河南巡抚阎兴邦赴任陛辞奏请谕旨，康熙帝询问并谕以和辑兵民、募民开垦荒地。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阎兴邦",
+   "role": "河南巡抚"
+  }
+ ],
+ "places": [
+  "河南",
+  "湖广",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3309,
+ "page_range": "78-79"
+}

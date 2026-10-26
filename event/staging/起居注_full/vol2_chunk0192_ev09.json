@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十九日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝自潭柘寺复幸玉泉山。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "潭柘寺",
+  "玉泉山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19209,
+ "page_range": "427-428"
+}

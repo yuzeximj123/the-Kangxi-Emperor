@@ -1,0 +1,32 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚赵弘燮奏报顺天、永平、保定、河间、真定、顺德、广平、大名等府二麦登场后的实在收成分数。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "顺天府",
+  "永平府",
+  "保定府",
+  "河间府",
+  "真定府",
+  "顺德府",
+  "广平府",
+  "大名府"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隶巡抚赵弘燮奏报二麦收成分数摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "914",
+ "order_index": 331
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "十六日己亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙谕遣章京一员同参将张文焕前往祖良壁处，问明其如何战败厄鲁特具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张文焕",
+   "role": "参将"
+  },
+  {
+   "name": "祖良壁",
+   "role": "将领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16513,
+ "page_range": "340-341"
+}

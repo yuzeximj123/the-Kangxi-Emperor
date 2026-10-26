@@ -1,0 +1,40 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "初四日戊申",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门传旨赐贡士蔡升元、吴涵、彭宁求等一甲进士及第，其余分赐进士出身。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蔡升元",
+   "role": "一甲进士"
+  },
+  {
+   "name": "吴涵",
+   "role": "一甲进士"
+  },
+  {
+   "name": "彭宁求",
+   "role": "一甲进士"
+  },
+  {
+   "name": "史刺",
+   "role": "二甲进士"
+  },
+  {
+   "name": "金德嘉",
+   "role": "三甲同进士"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14404,
+ "page_range": "331-332"
+}

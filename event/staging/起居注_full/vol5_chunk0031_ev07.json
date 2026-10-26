@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": null,
+ "event_role": "朝议听政",
+ "summary": "兵科给事中赵心作条奏补授武官交与该部画一事权，康熙帝询问大学士意见。",
+ "people": [
+  {
+   "name": "赵心作",
+   "role": "兵科给事中，条奏"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3107,
+ "page_range": "72-73"
+}

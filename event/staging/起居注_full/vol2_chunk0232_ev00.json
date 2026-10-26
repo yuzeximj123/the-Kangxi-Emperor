@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补内净典籍称席哈升任员缺，康熙帝询问正陪人选后，命觉和托补授典籍。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "觉和托",
+   "role": "拟正中书"
+  },
+  {
+   "name": "金达善",
+   "role": "拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23200,
+ "page_range": "507-508"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 21,
+ "month": 3,
+ "day_text": "十六日甲子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝行围，射杀五虎，驻跸跌庚格地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "跌庚格"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11602,
+ "page_range": "275-276"
+}

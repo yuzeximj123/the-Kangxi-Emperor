@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "初六日丁巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸喜峰口外，喜峰防御萨克察、署游击事守备李正春等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨克察",
+   "role": "喜峰防御"
+  },
+  {
+   "name": "李正春",
+   "role": "署游击事守备"
+  }
+ ],
+ "places": [
+  "喜峰口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16006,
+ "page_range": "332-333"
+}

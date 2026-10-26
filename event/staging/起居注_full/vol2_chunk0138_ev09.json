@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "初十日乙酉",
+ "event_role": "人事任免",
+ "summary": "查应升奉天府府丞汉军官员，康熙帝谕边声廷尚可用，着补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "边声廷",
+   "role": "候补右参议"
+  },
+  {
+   "name": "董秉忠",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "奉天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13809,
+ "page_range": "319-320"
+}

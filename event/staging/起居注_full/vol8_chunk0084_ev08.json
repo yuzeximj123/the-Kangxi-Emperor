@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 1,
+ "day_text": "二十日丁巳",
+ "event_role": "谕旨决策",
+ "summary": "诸王贝勒贝子公满汉大臣及奏事员外郎双全奏请皇上暂停亲诣天、地、祈谷坛而遣官行礼，奉旨称知道了，朕身亲诣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "双全",
+   "role": "奏事员外郎"
+  }
+ ],
+ "places": [
+  "天坛",
+  "地坛",
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8408,
+ "page_range": "179-180"
+}

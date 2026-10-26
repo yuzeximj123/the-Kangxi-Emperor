@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "户部覆浙江巡抚徐元梦所题东洋商船贸易事，康熙认为倭子牌票如商人记号，巡抚误奏、部议亦非，令九卿詹事科道会同再议。",
+ "people": [
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "长溪"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15303,
+ "page_range": "317-318"
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "马齐等呈览督工开通清河至通州官员职名，康熙帝派金世荣、巴锡、范承烈往管工。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "温达",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "金世荣",
+   "role": "兵部尚书，派往管工"
+  },
+  {
+   "name": "巴锡",
+   "role": "户部侍郎，派往管工"
+  },
+  {
+   "name": "范承烈",
+   "role": "户部侍郎，派往管工"
+  }
+ ],
+ "places": [
+  "清河",
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14106,
+ "page_range": "293-294"
+}

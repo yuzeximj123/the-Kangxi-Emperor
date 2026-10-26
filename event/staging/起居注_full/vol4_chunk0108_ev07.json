@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "二十日辛亥",
+ "event_role": "谕旨决策",
+ "summary": "总督兴永朝题请以常平仓米谷拨为兵粮，康熙帝以民生为念，谕令常平仓米谷仍照现行例行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "兴永朝",
+   "role": "总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10807,
+ "page_range": "228-229"
+}

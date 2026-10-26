@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "右枝步军总尉朱山升任员缺，康熙命以正黄旗一等侍卫沙木布补授总尉。",
+ "people": [
+  {
+   "name": "朱山",
+   "role": "右枝步军总尉"
+  },
+  {
+   "name": "恩格德",
+   "role": "副尉"
+  },
+  {
+   "name": "沙木布",
+   "role": "正黄旗一等侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1902,
+ "page_range": "73-74"
+}

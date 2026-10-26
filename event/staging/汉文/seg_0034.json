@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙三十九年十二月",
+ "reign_year": 39,
+ "month": 12,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报由京回苏州照常办事，并报苏州、常州、镇江一带连日大雪、河流封冻渐开及来岁丰年之兆。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "镇江",
+  "常州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "38",
+ "source_title": "苏州织造李煦奏报由京回苏照常办事并得雪情形折",
+ "order_index": 34
+}

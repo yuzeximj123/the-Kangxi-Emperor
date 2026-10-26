@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初十日丙午",
+ "event_role": "军务",
+ "summary": "明珠遵旨问尚书哈占，议令督标将官一员兵一千防守广元，原驻广元川北总兵标下官兵回保宁，康熙帝颌之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "哈占",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "广元",
+  "保宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 612,
+ "page_range": "47-48"
+}

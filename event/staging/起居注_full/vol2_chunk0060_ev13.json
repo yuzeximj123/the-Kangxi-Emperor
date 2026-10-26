@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "十一日壬辰",
+ "event_role": "人事任免",
+ "summary": "左都督马子云叩阍叙冲锋破敌之功，兵部议照例补用，康熙帝命从优以参将补用免其考试。",
+ "people": [
+  {
+   "name": "马子云",
+   "role": "左都督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6013,
+ "page_range": "163-164"
+}

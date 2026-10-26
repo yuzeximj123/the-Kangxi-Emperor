@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "初二日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命和尔传谕萧永藻，因不雨忧劳，责其不率诸臣于齐集处诚心祈祷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和尔",
+   "role": "传谕者"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14305,
+ "page_range": "297-298"
+}

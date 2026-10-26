@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初四日丙子",
+ "event_role": "人事任免",
+ "summary": "康熙帝论吏部引见金镇，谓外任官吏惟求理事之材，不取步履，待面奏时再观其可否。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金镇",
+   "role": "江南按察使"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17016,
+ "page_range": "383-384"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 53,
+ "month": 3,
+ "day_text": "初三日甲辰",
+ "event_role": "奏报灾情收成",
+ "summary": "户部议覆川陕总督鄂海题甘肃固原等处被灾贫民赈济米粮自二月至六月并给籽粒银两买牛耕种，康熙帝命遣大臣一员查明具奏。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "固原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5515,
+ "page_range": "121-122"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十八年七月初六日",
+ "reign_year": 48,
+ "month": 7,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏请圣安，并奏报提督江南全省军务张云翼病故及苏州六月晴雨册进呈。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "管理苏州织造大理寺卿，奏报人"
+  },
+  {
+   "name": "张云翼",
+   "role": "提督江南全省军务，病故者"
+  }
+ ],
+ "places": [
+  "苏州",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批批评李煦将请安折与公事混写，且识字不多、不知所云。",
+ "source_title": "苏州织造李煦请安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 195
+}

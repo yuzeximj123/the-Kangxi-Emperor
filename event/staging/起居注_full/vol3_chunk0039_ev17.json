@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "十七日庚成",
+ "event_role": "人事任免",
+ "summary": "内阁学士阿哈达升任员缺，康熙帝以学士职任紧要应简人品优长者，命开列各员引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿哈达",
+   "role": "内阁学士"
+  },
+  {
+   "name": "腊塔",
+   "role": "给事中"
+  },
+  {
+   "name": "丹代",
+   "role": "侍读学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3917,
+ "page_range": "113-114"
+}

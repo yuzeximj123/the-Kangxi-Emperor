@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "白斌奏报所领兵及护神功炮兵共一千五百名，现领九百三十一名带八十日粮前来，已用五十日，余粮仅七日，护炮兵四百名到者仅十二人，已无粮。",
+ "people": [
+  {
+   "name": "白斌",
+   "role": "领兵官"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "郭和苏台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11900,
+ "page_range": "248-249"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问伊桑阿意见，伊桑阿奏称塞高家堰堤则下河尤易治。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20806,
+ "page_range": "451-452"
+}

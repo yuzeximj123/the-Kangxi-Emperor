@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "初五日壬子",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝御瀛台紫光阁，赐读卷官伊桑阿等坐，亲阅中式武举人等骑射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "读卷官"
+  }
+ ],
+ "places": [
+  "瀛台",
+  "紫光阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1326,
+ "page_range": "36-37"
+}

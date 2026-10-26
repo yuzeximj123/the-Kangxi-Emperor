@@ -1,0 +1,34 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "初六日丙戌",
+ "event_role": "人事任免",
+ "summary": "兵部题都统鄂伦代等降级调用、卢崇峻保举不合应降二级，康熙帝令鄂伦代、沙纳哈从宽免降罚俸，田象坤降二级调用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂伦代",
+   "role": "都统"
+  },
+  {
+   "name": "沙纳哈",
+   "role": "官员"
+  },
+  {
+   "name": "田象坤",
+   "role": "官员"
+  },
+  {
+   "name": "卢崇峻",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18507,
+ "page_range": "382-383"
+}

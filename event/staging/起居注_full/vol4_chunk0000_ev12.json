@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "初四日戊宰",
+ "event_role": "议政听政",
+ "summary": "内阁将诸王贝勒文武大臣及巡抚、科道、国子监等劝请以日易月之奏一并送进，公同奏请仍遵历代定制。",
+ "people": [
+  {
+   "name": "内阁诸臣",
+   "role": "内阁"
+  },
+  {
+   "name": "王品",
+   "role": "巡抚"
+  },
+  {
+   "name": "朱弘桥",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12,
+ "page_range": "12-13"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "九卿题宁二等偷创人参，于镇国公登色、辅国公赖世票数内夹带进关，议罚俸二年。",
+ "people": [
+  {
+   "name": "宁二",
+   "role": "偷创人参者"
+  },
+  {
+   "name": "登色",
+   "role": "镇国公"
+  },
+  {
+   "name": "赖世",
+   "role": "辅国公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1802,
+ "page_range": "46-47"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 17,
+ "month": 9,
+ "day_text": "十六日甲实",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率内大臣、侍卫、大学士及三品以上官员谒孝陵读祝展祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17011,
+ "page_range": "397-398"
+}

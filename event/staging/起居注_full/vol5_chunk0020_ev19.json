@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十六日癸丑",
+ "event_role": "人事任免",
+ "summary": "山东巡抚桑格题请将莱州府知府吴秉谦调补济南府知府，议不准行，康熙帝以其人甚优，命照该抚所请调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "吴秉谦",
+   "role": "莱州府知府"
+  }
+ ],
+ "places": [
+  "莱州府",
+  "济南府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2019,
+ "page_range": "50-51"
+}

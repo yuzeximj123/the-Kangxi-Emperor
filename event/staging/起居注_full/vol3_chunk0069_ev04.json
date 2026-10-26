@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "初一日辛西",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝午时复御太和门大宴诸王、贝勒、内大臣、文武各官及外藩、朝鲜使臣，乐作进酒，宴罢谢恩回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杰淑",
+   "role": "和硕康亲王"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6904,
+ "page_range": "173-174"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 11,
+ "month": 12,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "云南总督甘文烛请假葬母至京，康熙帝遣一等侍卫衣都额真对亲等携茶酒至其家慰问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "甘文烛",
+   "role": "云南总督"
+  },
+  {
+   "name": "对亲",
+   "role": "一等侍卫衣都额真"
+  }
+ ],
+ "places": [
+  "云南",
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3001,
+ "page_range": "117-118"
+}

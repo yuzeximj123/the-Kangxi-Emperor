@@ -1,0 +1,30 @@
+{
+ "reign_year": 53,
+ "month": 7,
+ "day_text": "二十五日甲子",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御东门，赐班禅库土克图之使、达赖喇嘛之使、喇藏汗之使宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班禅库土克图之使",
+   "role": "使者"
+  },
+  {
+   "name": "达赖喇嘛之使",
+   "role": "使者"
+  },
+  {
+   "name": "喇藏汗之使",
+   "role": "使者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6710,
+ "page_range": "145-146"
+}

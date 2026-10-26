@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "二十日辛未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论大同地方民饥流离，命拣选本省才能官员调用抚民，并令详议。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6811,
+ "page_range": "179-180"
+}

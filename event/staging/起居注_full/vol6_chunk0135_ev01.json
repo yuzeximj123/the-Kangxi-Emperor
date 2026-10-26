@@ -1,0 +1,21 @@
+{
+ "reign_year": 39,
+ "month": 1,
+ "day_text": "初一日乙未",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝率诸王、贝勒、贝子、公、内大臣、侍卫及大学士等往皇太后宫行礼，其余文武诸臣于午门外行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "皇太后宫",
+  "午门外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13501,
+ "page_range": "280-281"
+}

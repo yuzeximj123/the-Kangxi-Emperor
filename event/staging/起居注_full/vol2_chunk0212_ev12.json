@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "十二日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部议浙江总督施维翰荐举原巡道卢崇兴应准注册，康熙帝以卢崇兴曾被参劾，不准注册。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施维翰",
+   "role": "浙江总督"
+  },
+  {
+   "name": "卢崇兴",
+   "role": "原巡道"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21212,
+ "page_range": "467-468"
+}

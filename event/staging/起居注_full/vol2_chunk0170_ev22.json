@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初五日丁丑",
+ "event_role": "人事任免",
+ "summary": "理藩院奏归化城副都统塔尔巴员缺，正拟参领噶尔马、陪拟鄂尔者图，康熙帝以归化城系外城有所指示。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "塔尔巴",
+   "role": "归化城副都统"
+  },
+  {
+   "name": "噶尔马",
+   "role": "参领"
+  },
+  {
+   "name": "鄂尔者图",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17022,
+ "page_range": "383-384"
+}

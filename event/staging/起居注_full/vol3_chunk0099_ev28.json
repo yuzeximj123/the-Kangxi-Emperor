@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 7,
+ "day_text": "十五日癸酉",
+ "event_role": "奏报灾情收成",
+ "summary": "郎中苏巴泰查齐特部落蒙古饥民户口还，尚书阿尔尼引奏饥民约三千名采野菌草根为食，闻遣官赈救皆欢忭叩首。",
+ "people": [
+  {
+   "name": "苏巴泰",
+   "role": "郎中"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "理藩院尚书"
+  }
+ ],
+ "places": [
+  "齐特部落"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9928,
+ "page_range": "233-234"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十三日戊成",
+ "event_role": "司法案件",
+ "summary": "理藩院议双定于蒙古地方盗御厂所牧牛应立绞，康熙帝询问可否宽免，明珠奏蒙古地方无城池。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "双定",
+   "role": "盗牛人犯"
+  }
+ ],
+ "places": [
+  "蒙古"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2824,
+ "page_range": "99-100"
+}

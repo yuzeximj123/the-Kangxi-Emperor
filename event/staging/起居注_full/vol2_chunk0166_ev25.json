@@ -1,0 +1,20 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "十三日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕吏、礼二部堂官，召集满汉大学士、尚书、左都御史、侍郎、学士、副都御史、通政使、大理寺卿、詹事、日讲官、科道掌印官，赐上元节宴于乾清宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16625,
+ "page_range": "375-376"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "三十日辛刻",
+ "event_role": "人事任免",
+ "summary": "九卿遵旨拣选补授长芦运使，开列江南池州府知府马世永等职名，康熙帝命马世永补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马世永",
+   "role": "江南池州府知府"
+  }
+ ],
+ "places": [
+  "长芦",
+  "江南池州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22733,
+ "page_range": "465-466"
+}

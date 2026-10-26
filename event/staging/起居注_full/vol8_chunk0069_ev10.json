@@ -1,0 +1,27 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责九卿议截运江南浙江河南漕米未声明动支何处米石，令明白详晰议奏。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "浙江",
+  "河南",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6910,
+ "page_range": "149-150"
+}

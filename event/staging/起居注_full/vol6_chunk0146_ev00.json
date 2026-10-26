@@ -1,0 +1,40 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝命读卷官进读会试中式卷，与熊赐履等评论会元及大臣子弟试卷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "吴瑞",
+   "role": "大学士"
+  },
+  {
+   "name": "徐秉义",
+   "role": "官员"
+  },
+  {
+   "name": "宋大业",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清宫西暖阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14600,
+ "page_range": "302-303"
+}

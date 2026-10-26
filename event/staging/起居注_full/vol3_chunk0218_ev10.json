@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十六日甲午",
+ "event_role": "谕旨决策",
+ "summary": "江宁巡抚赵士蚀请将裁撤装载纳组船只变价，户部以价不足议驳，康熙帝恐累民，命照巡抚所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵士蚀",
+   "role": "江宁巡抚"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21810,
+ "page_range": "471-472"
+}

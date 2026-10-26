@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "十二日垃未",
+ "event_role": "司法案件",
+ "summary": "兵部覆请原任福建漳州府城守营游击林发因进兵迟延革职充军一案，康熙帝令问范时崇缘由。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "林发",
+   "role": "原任福建漳州府城守营游击"
+  },
+  {
+   "name": "范时崇",
+   "role": "官员"
+  },
+  {
+   "name": "陈五显",
+   "role": "贼首"
+  }
+ ],
+ "places": [
+  "福建漳州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14420,
+ "page_range": "299-300"
+}

@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十二年正月日",
+ "reign_year": 52,
+ "month": 1,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "闽浙总督范时崇奏请皇上圣安，并差家人进献寿山石器百余件，由臣弟代领恭进，恳请皇上鉴其微诚。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督降五级戴罪効力臣，奏请圣安并进献寿山石器"
+  },
+  {
+   "name": "王宗斋",
+   "role": "范时崇家人，奉命进献寿山石器"
+  },
+  {
+   "name": "范时崇之弟",
+   "role": "代范时崇恭领并进献寿山石器"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "闽浙总督奏请圣安并进寿山石器摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 182
+}

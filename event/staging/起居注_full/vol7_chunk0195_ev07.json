@@ -1,0 +1,34 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初九日甲午",
+ "event_role": "司法案件",
+ "summary": "正蓝旗汉军唐朝延与卓多保戏庆斗殴致死拟绞，康熙帝以系另户旗下人打死另户人应照新例议结，本发还再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐朝延",
+   "role": "案犯"
+  },
+  {
+   "name": "卓多保",
+   "role": "死者"
+  },
+  {
+   "name": "吴应元",
+   "role": "佐领"
+  },
+  {
+   "name": "纳延图",
+   "role": "佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19507,
+ "page_range": "401-402"
+}

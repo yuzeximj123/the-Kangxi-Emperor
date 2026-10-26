@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "温达奏九卿议芜湖监督宁古礼关税银两事，康熙令照九卿所议行文总漕、两江总督等定议具奏。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "宁古礼",
+   "role": "芜湖监督"
+  }
+ ],
+ "places": [
+  "芜湖",
+  "两江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19104,
+ "page_range": "393-394"
+}

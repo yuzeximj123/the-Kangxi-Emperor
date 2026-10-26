@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "云贵总督郭表题请以记名官员补授贵州铜仁副将叶芝兰员缺，康熙不准拣选，命归月选。",
+ "people": [
+  {
+   "name": "郭表",
+   "role": "云贵总督"
+  },
+  {
+   "name": "叶芝兰",
+   "role": "贵州铜仁副将"
+  }
+ ],
+ "places": [
+  "贵州铜仁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19600,
+ "page_range": "403-404"
+}

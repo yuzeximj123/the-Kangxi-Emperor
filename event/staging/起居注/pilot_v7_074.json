@@ -1,0 +1,25 @@
+{
+ "date_raw": "二十四日己卯",
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题浙江布政使员缺，康熙帝命将江西按察使黄明升授浙江布政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄明",
+   "role": "江西按察使"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3074
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "都察院吏科题请内升外转，康熙帝谕令科道专任言职，条奏多者内升，卞三且无甚条奏，外转停止。",
+ "people": [
+  {
+   "name": "任弘嘉",
+   "role": "科道官员"
+  },
+  {
+   "name": "故充现",
+   "role": "科道官员"
+  },
+  {
+   "name": "卞三且",
+   "role": "给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7601,
+ "page_range": "162-163"
+}

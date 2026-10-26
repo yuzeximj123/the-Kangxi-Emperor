@@ -1,0 +1,33 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "十九晶成子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝起程，驻跸吴江县属平望地方；吴江县知县朱国梓、平望千总骆得盛等、原任学道庄朝生来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱国梓",
+   "role": "吴江县知县"
+  },
+  {
+   "name": "骆得盛",
+   "role": "平望千总"
+  },
+  {
+   "name": "庄朝生",
+   "role": "原任学道"
+  }
+ ],
+ "places": [
+  "吴江县",
+  "平望"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8419,
+ "page_range": "178-179"
+}

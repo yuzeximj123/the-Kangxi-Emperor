@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝与达都议论海禁严密封锁后贼粮来源及进兵速定全闽之策。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达都",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "广东高州",
+  "海岛",
+  "全闽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21100,
+ "page_range": "479-480"
+}

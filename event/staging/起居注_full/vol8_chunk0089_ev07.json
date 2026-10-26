@@ -1,0 +1,33 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "广西巡抚陈元龙奏报土司头目农几咸等围困万承州劫夺与官相抗，参将王起云战败身亡，康熙帝命该部议奏并速补武官驰驿前往。",
+ "people": [
+  {
+   "name": "陈元龙",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "农几咸",
+   "role": "土司头目"
+  },
+  {
+   "name": "王起云",
+   "role": "参将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "万承州",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8907,
+ "page_range": "189-190"
+}

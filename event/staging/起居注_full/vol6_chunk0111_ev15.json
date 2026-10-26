@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十七日壬子",
+ "event_role": "河工水利",
+ "summary": "于成龙题请拨山东、江苏库银五十万两及时治河，康熙帝命即发给，并论捐纳非升平所宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "山东",
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11115,
+ "page_range": "232-233"
+}

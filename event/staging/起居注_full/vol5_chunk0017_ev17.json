@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "二十三日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题归顺厄鲁特台吉巴拜等应归正黄旗蒙古下管领；康熙帝以边外之人不耐内地水土，命发扎西王下管领加意抚养，派司官护送。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴拜",
+   "role": "厄鲁特台吉"
+  }
+ ],
+ "places": [
+  "科和尔泥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1717,
+ "page_range": "44-45"
+}

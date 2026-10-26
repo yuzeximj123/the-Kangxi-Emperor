@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": "二十四日乙卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏毕，盛京刑部侍郎布泰、理事官刘柱赴任请训。",
+ "people": [
+  {
+   "name": "布泰",
+   "role": "盛京刑部侍郎"
+  },
+  {
+   "name": "刘柱",
+   "role": "理事官"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16307,
+ "page_range": "336-337"
+}

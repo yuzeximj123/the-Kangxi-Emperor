@@ -1,0 +1,44 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆福建巡抚黄乘中所题李敬戳死小功兄李宣案，康熙帝准立斩改为监候秋后处决。",
+ "people": [
+  {
+   "name": "李敬",
+   "role": "案犯"
+  },
+  {
+   "name": "李宣",
+   "role": "死者"
+  },
+  {
+   "name": "李乾",
+   "role": "李宣兄子"
+  },
+  {
+   "name": "李克堂",
+   "role": "相关人"
+  },
+  {
+   "name": "李法",
+   "role": "相关人"
+  },
+  {
+   "name": "黄乘中",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17407,
+ "page_range": "359-360"
+}

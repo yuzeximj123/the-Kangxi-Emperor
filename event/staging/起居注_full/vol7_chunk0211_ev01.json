@@ -1,0 +1,38 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "呈览各部开列科道名单，指出李成略、袁宕类、张丙悍、王克昌四员声名不好。",
+ "people": [
+  {
+   "name": "李成略",
+   "role": "户部郎中"
+  },
+  {
+   "name": "袁宕类",
+   "role": "礼部主事"
+  },
+  {
+   "name": "张丙悍",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "王克昌",
+   "role": "工部郎中"
+  },
+  {
+   "name": "卢炳",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21101,
+ "page_range": "433-434"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初九日戊辰",
+ "event_role": "司法案件",
+ "summary": "福建提督万正色奏原任同知王朝历练戎行应随征图功赎罪，部议不准，康熙以军前立功自赎从古皆然，照所请行。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "万正色",
+   "role": "福建提督"
+  },
+  {
+   "name": "王朝",
+   "role": "原任同知"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23412,
+ "page_range": "525-526"
+}

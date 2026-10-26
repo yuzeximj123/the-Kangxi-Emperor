@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初八日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿奏遵旨问九卿江苏安徽明年钱粮蠲免事，九卿踊跃称圣见洞悉，康熙帝命或先免江苏隔年再免安徽。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江苏",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21820,
+ "page_range": "446-447"
+}

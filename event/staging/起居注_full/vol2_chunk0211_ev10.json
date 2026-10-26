@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初六日忆已",
+ "event_role": "司法案件",
+ "summary": "兵部议内大臣都统佟国纲等未奏明白良蛟奉旨内用之处，康熙帝命依部议，都统等徇情隐奏本应处分，姑从宽免解任，各罚俸一年。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国纲",
+   "role": "内大臣都统公"
+  },
+  {
+   "name": "王光宗",
+   "role": "副都统"
+  },
+  {
+   "name": "白良蛟",
+   "role": "拜他喇布勒哈番"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21110,
+ "page_range": "465-466"
+}

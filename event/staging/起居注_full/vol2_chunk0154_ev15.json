@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "二十九日壬寅",
+ "event_role": "司法案件",
+ "summary": "议镇江府知府高龙光不查报丁忧知县卞三锡久不归旗缘由罚俸，康熙帝令依议并待题参卞三锡议罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高龙光",
+   "role": "镇江府知府"
+  },
+  {
+   "name": "卞三锡",
+   "role": "丁忧知县"
+  }
+ ],
+ "places": [
+  "镇江府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15415,
+ "page_range": "351-352"
+}

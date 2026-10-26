@@ -1,0 +1,34 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "初四日乙西",
+ "event_role": "人事任免",
+ "summary": "吏部题少詹事额尔赛员缺，拟以监察御史戴通拟正、给事中严泰拟陪，康熙帝命将近考试第一洗马某可托补授。",
+ "people": [
+  {
+   "name": "额尔赛",
+   "role": "少詹事"
+  },
+  {
+   "name": "戴通",
+   "role": "监察御史"
+  },
+  {
+   "name": "严泰",
+   "role": "给事中"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16407,
+ "page_range": "340-341"
+}

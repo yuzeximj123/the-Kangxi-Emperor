@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十二日甲戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御舟泊于任丘县属圈头村，记从大臣、侍卫、部院官员、护军校、护军及直隶巡抚李光地以下人等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "任丘县",
+  "圈头村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 721,
+ "page_range": "25-26"
+}

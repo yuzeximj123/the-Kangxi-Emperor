@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "二十七日于申",
+ "event_role": "人事任免",
+ "summary": "大学士伊桑阿等奏九卿议沈朝聘居官优长但衰老病困，宜令原品致仕，康熙帝询问直隶可否补用原任总督为巡抚，王熙奏可。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3411,
+ "page_range": "78-79"
+}

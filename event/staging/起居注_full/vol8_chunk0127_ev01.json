@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 1,
+ "day_text": "初一日王辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率诸王、内大臣、侍卫、大学士等至宁寿宫行礼，文武官员于午门外随班行礼，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁寿宫",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12701,
+ "page_range": "265-266"
+}

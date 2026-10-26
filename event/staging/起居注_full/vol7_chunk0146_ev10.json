@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "二十日甲辰",
+ "event_role": "弹劾参奏",
+ "summary": "九卿议处疏参山西巡抚噶礼之御史囊桥事，康熙帝以蔡瑛已死无可质审，本发还，命行文噶礼令举知情证据之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "囊桥",
+   "role": "御史"
+  },
+  {
+   "name": "蔡瑛",
+   "role": "已死之人"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14610,
+ "page_range": "303-304"
+}

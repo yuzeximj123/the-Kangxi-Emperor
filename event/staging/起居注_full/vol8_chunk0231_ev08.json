@@ -1,0 +1,25 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": "初三日王子",
+ "event_role": "祭祀典礼",
+ "summary": "巳时康熙帝自东华门出朝阳门，至大行皇太后梓宫前行满月祭礼，哭恸移时方止，诸王官员随班行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "大行皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "东华门",
+  "朝阳门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23108,
+ "page_range": "473-474"
+}

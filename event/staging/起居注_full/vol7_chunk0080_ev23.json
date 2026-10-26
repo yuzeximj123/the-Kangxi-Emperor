@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十五日丙辰",
+ "event_role": "朝见受贺",
+ "summary": "西安驻防八旗官兵及耆老幼稚着鲜服迎接，陕西绿旗官兵摄甲列营自灞桥绵延二十里，文臣朝服列班跪迎，绅衿士庶云集欢呼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安府",
+  "灞桥",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8023,
+ "page_range": "171-172"
+}

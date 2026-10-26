@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝闻河南白莲教大行已至山东，谕李树德及太原总兵官严拿，不可听其煽动。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "河南",
+  "山东",
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21709,
+ "page_range": "445-446"
+}

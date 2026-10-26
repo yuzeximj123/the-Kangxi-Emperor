@@ -1,0 +1,23 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命闭塞黄河南岸毛城铺等处减水坝，使黄水不入洪泽湖，暂塞高家堰一年以挑浚下河，令再详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "毛城铺",
+  "洪泽湖",
+  "高家堰",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20807,
+ "page_range": "451-452"
+}

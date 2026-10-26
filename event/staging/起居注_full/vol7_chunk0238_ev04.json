@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕刑部事件人命攸关，必细心详阅；河南省情真案内高子和拟绞处越幅粘接、不应用印处用印，命交部察议具奏。",
+ "people": [
+  {
+   "name": "高子和",
+   "role": "案犯"
+  },
+  {
+   "name": "张五儿",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "河南",
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23804,
+ "page_range": "487-488"
+}

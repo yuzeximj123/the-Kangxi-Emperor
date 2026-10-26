@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十三年四月十九日",
+ "reign_year": 43,
+ "month": 4,
+ "day": 19,
+ "event_role": "请安谢恩",
+ "summary": "李煦借进呈端午龙袍之机向康熙帝请安，表达感激圣恩与依恋之情。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "福州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "8",
+ "source_title": "苏州织造李煦奏进端午龙袍摺",
+ "order_index": 6
+}

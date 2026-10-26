@@ -1,0 +1,33 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十一日丁酉",
+ "event_role": "弹劾参奏",
+ "summary": "康熙指浙江巡抚线一信居官甚劣、安徽巡抚陈涩器亦不好，欲将线一信革职，命传问九卿及科道。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "线一信",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "陈涩器",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2010,
+ "page_range": "50-51"
+}

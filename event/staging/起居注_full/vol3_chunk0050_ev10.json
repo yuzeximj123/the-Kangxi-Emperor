@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "二十六日己丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补学士王钨绪升任员缺，康熙帝命将葛弘道升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王钨绪",
+   "role": "学士"
+  },
+  {
+   "name": "葛弘道",
+   "role": "詹事府少詹事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5010,
+ "page_range": "135-136"
+}

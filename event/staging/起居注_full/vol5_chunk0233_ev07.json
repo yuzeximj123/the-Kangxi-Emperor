@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "二十七日壬子",
+ "event_role": "军务",
+ "summary": "兵部议覆席柱等采买马驼牛羊及官员捐助拨给军需事，奏请将所剩马匹拨给驿站营伍、骆驼变价报部，奉旨依议。",
+ "people": [
+  {
+   "name": "席柱",
+   "role": "奏事官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "甘州",
+  "凉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23307,
+ "page_range": "476-477"
+}

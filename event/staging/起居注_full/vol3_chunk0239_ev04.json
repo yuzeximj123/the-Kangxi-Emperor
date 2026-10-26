@@ -1,0 +1,27 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": "初三日已卯",
+ "event_role": "皇帝行止",
+ "summary": "皇太子清晨自畅春园随皇太后入宫，由西直门进西华门至宁寿宫，皇太后回宫后皇太子始回宫。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "西直门",
+  "西华门",
+  "宁寿宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23904,
+ "page_range": "513-514"
+}

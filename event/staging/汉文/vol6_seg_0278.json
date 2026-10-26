@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾伍年贰月贰拾捌日",
+ "reign_year": 55,
+ "month": 2,
+ "day": 28,
+ "event_role": "请安谢恩",
+ "summary": "赵弘燮闻报康熙亲救赵家村失火民户并赏恤，具折恭谢天恩并请圣安。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "总督管理直隶巡抚事务、兵部尚书兼都察院右副都御史"
+  },
+  {
+   "name": "赵可新",
+   "role": "赵家村网户失火之家"
+  }
+ ],
+ "places": [
+  "郭里口",
+  "赵家村"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知。",
+ "source_title": "赵弘燮恭请圣安摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 278
+}

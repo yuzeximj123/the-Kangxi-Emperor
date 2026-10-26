@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补甘肃布政使呀思哈升任员缺，康熙帝认为正陪色勒布、色黑俱平常，命另拟通汉文人员具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "呀思哈",
+   "role": "甘肃布政使"
+  },
+  {
+   "name": "色勒布",
+   "role": "拟正郎中"
+  },
+  {
+   "name": "色黑",
+   "role": "拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18301,
+ "page_range": "409-410"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十二日甲实",
+ "event_role": "人事任免",
+ "summary": "议政王等会推荆州将军，拟喀齐兰、陪席特库，康熙帝以职任重大令于都统、护军统领内另推。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀齐兰",
+   "role": "拟副都统"
+  },
+  {
+   "name": "席特库",
+   "role": "陪拟觉罗"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17707,
+ "page_range": "397-398"
+}

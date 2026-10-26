@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙伍拾年五月日",
+ "reign_year": 50,
+ "month": 5,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "王应斋具奏向皇帝请安，皇帝朱批告知今年各地秋成十分、口外更好。",
+ "people": [
+  {
+   "name": "王应斋",
+   "role": "具奏请安之人"
+  }
+ ],
+ "places": [
+  "口外"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "皇帝告知今年各处秋成都有十分，口外更好。",
+ "source_title": "王應齋奏請聖安",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 194
+}

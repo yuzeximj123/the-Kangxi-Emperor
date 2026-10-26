@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "议政大臣议定将余银二千四百两交驿站官员递送右卫交西路同知唐凯收贮，康熙帝谕令仍留大将军费扬古处备用。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "唐凯",
+   "role": "西路同知"
+  }
+ ],
+ "places": [
+  "右卫",
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20800,
+ "page_range": "426-427"
+}

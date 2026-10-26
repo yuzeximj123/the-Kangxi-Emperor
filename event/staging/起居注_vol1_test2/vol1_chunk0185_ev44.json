@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 7,
+ "day_text": "十五日",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝复赴纯亲王第视疾，以王疾危重还奏太皇太后。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "隆禧",
+   "role": "和硕纯亲王"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "纯亲王第"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18544,
+ "page_range": "427-428"
+}

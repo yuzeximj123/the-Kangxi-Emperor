@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十五年（未标月份）十二日丙申",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十二日丙申",
+ "event_role": "司法案件",
+ "summary": "九卿议御史圳桥参劾晋抚噶礼事无实据，康熙帝以所议未明命进京后问九卿具奏",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "圳桥",
+   "role": "御史"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3221
+}

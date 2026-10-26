@@ -1,0 +1,36 @@
+{
+ "reign_year": 53,
+ "month": 5,
+ "day_text": "十八日戊午",
+ "event_role": "议政听政",
+ "summary": "已时康熙帝御行宫，大学士松柱、户部侍郎兼管学士事绰奇、学士查弼纳、敦拜以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "绰奇",
+   "role": "户部侍郎兼管学士事"
+  },
+  {
+   "name": "查弼纳",
+   "role": "学士"
+  },
+  {
+   "name": "敦拜",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6043,
+ "page_range": "131-132"
+}

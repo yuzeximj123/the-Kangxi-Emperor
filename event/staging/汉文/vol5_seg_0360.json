@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙五十四年正月十八日",
+ "reign_year": 54,
+ "month": 1,
+ "day": 18,
+ "event_role": "人事任免",
+ "summary": "李煦奏报曹頫病故后蒙恩承继袭职、拟择日将灵柩出城暂厝并请赴江宁任所，另陈江宁织造亏空已查明补完，请旨遵行。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，具奏奴才"
+  },
+  {
+   "name": "曹頫",
+   "role": "病故者，蒙恩承继袭职之人"
+  },
+  {
+   "name": "曹寅",
+   "role": "曹頫之父，已故江宁织造"
+  },
+  {
+   "name": "李陈常",
+   "role": "奉命代补江宁织造亏空之官员"
+  }
+ ],
+ "places": [
+  "江宁",
+  "祖茔"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“是”，准其所奏。",
+ "source_title": "奴才李煦跪奏",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "976",
+ "order_index": 360
+}

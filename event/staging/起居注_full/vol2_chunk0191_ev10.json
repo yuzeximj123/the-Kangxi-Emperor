@@ -1,0 +1,40 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十七日己亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝御玉泉山内前亭，大学士明珠等捧折本面奏请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "喇巴克",
+   "role": "学士"
+  },
+  {
+   "name": "金涩祥",
+   "role": "学士"
+  },
+  {
+   "name": "萨海",
+   "role": "捧折本"
+  }
+ ],
+ "places": [
+  "玉泉山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19110,
+ "page_range": "425-426"
+}

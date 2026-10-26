@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "十一日乙刻",
+ "event_role": "皇帝行止",
+ "summary": "康熙驻跸子营，署固安县知县祖应世、协领刘格色、章京折库纳等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "祖应世",
+   "role": "候通判缺署固安县知县"
+  },
+  {
+   "name": "刘格色",
+   "role": "驻防协领"
+  },
+  {
+   "name": "折库纳",
+   "role": "拖沙喇哈番品级章京"
+  }
+ ],
+ "places": [
+  "子营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11720,
+ "page_range": "244-245"
+}

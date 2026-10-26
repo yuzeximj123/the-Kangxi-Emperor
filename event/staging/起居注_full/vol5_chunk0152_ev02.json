@@ -1,0 +1,42 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题宁古塔副都统沙纳海员缺，康熙帝令补授舒书，并称宁古塔须用曾任文职之人整顿风俗。",
+ "people": [
+  {
+   "name": "沙纳海",
+   "role": "宁古塔副都统"
+  },
+  {
+   "name": "安布禄",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "舒书",
+   "role": "福州城守尉"
+  },
+  {
+   "name": "麻勒吉",
+   "role": "官员"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "福州",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15202,
+ "page_range": "314-315"
+}

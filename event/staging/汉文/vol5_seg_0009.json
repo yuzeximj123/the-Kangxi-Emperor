@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙二十三年十月十九日",
+ "reign_year": 23,
+ "month": 10,
+ "day": 19,
+ "event_role": "请安谢恩",
+ "summary": "江宁府知府于成龙上奏，仰体皇上爱民之意，并恭请圣安；康熙朱批回复自己安好，饮食起居甚佳。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "江宁府知府，上奏人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "江宁府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，饮食起居甚好。",
+ "source_title": "奏陈事",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 9
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 17,
+ "month": 1,
+ "day_text": "二十四日丙申",
+ "event_role": "谕旨决策",
+ "summary": "未时，康熙帝赐广东巡抚金俊食，谕以抚绥地方、体恤民生、安顿驿递，金俊对以捐躯矢报。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金俊",
+   "role": "广东巡抚"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15436,
+ "page_range": "365-366"
+}

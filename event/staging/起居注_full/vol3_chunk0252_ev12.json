@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": "二十日乙未",
+ "event_role": "人事任免",
+ "summary": "兵部题军政察议宁夏总兵官高备应革职，康熙帝以其在行间曾有效力，从宽免革职，以原品休致。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高备",
+   "role": "宁夏总兵官"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25212,
+ "page_range": "539-540"
+}

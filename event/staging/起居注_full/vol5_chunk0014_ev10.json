@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "二十八日丙寅",
+ "event_role": "司法案件",
+ "summary": "三法司题邓加福打死杨敬节等七人并强奸一案，康熙帝以情有可原、律例不合，命批驳再议。",
+ "people": [
+  {
+   "name": "邓加福",
+   "role": "案犯"
+  },
+  {
+   "name": "杨敬节",
+   "role": "死者"
+  },
+  {
+   "name": "邓加寿",
+   "role": "案犯，拟立斩"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1410,
+ "page_range": "38-39"
+}

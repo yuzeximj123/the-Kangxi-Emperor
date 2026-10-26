@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "陕西省缓决事，康熙帝以秦人强悍好相杀害，将持刀故杀五案改为情真，今年停其处决。",
+ "people": [
+  {
+   "name": "马代",
+   "role": "案犯"
+  },
+  {
+   "name": "学成",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "陕西省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17103,
+ "page_range": "352-353"
+}

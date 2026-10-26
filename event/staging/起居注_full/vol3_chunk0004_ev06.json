@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初一日本西",
+ "event_role": "人事任免",
+ "summary": "康熙帝命徐国相补授湖广总督，并询问汉侍郎中可任总督者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐国相",
+   "role": "湖广总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 406,
+ "page_range": "43-44"
+}

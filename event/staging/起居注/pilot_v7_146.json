@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙四十五年十九日",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "癸酉",
+ "event_role": "收到奏折",
+ "summary": "户部议陕西巡抚哪海题南郑等五县水冲沙压田亩请永免钱粮不准，旨令免今年钱粮、暂停明年地丁并速赈济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哪海",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "汉中府",
+  "南郑县",
+  "汉江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3146
+}

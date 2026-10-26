@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": "十九日庚午",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御东门，兵部侍郎查顷纳带浙闽总督满保所送台湾人七名进前，命其步射。",
+ "people": [
+  {
+   "name": "查顷纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "满保",
+   "role": "浙闽总督"
+  }
+ ],
+ "places": [
+  "东门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20816,
+ "page_range": "427-428"
+}

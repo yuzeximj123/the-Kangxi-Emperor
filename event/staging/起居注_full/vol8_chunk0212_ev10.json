@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "初五日乙酉",
+ "event_role": "军务",
+ "summary": "兵部议太原城守尉阿林奏请选兵捐备鸟枪为火器兵丁并选闲散满洲当差，康熙帝照部议行。",
+ "people": [
+  {
+   "name": "阿林",
+   "role": "太原城守尉"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太原",
+  "保定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21210,
+ "page_range": "435-436"
+}

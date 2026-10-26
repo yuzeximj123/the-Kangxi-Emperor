@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题张氏打死魏氏议抵，康熙帝疑年迈老妇难以掌毙魏氏，命该部另行确审具奏。",
+ "people": [
+  {
+   "name": "张氏",
+   "role": "案犯"
+  },
+  {
+   "name": "魏氏",
+   "role": "死者"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15501,
+ "page_range": "320-321"
+}

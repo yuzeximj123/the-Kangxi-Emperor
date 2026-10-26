@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称监察御史辛保在翁牛式地方效力，该地生聚，命该部议叙并令别处奉差者知之。",
+ "people": [
+  {
+   "name": "辛保",
+   "role": "监察御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "翁牛式"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11501,
+ "page_range": "240-241"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "初二日丁效",
+ "event_role": "朝见受贺",
+ "summary": "涿州营参将王弘极、知州顾钦等来朝。",
+ "people": [
+  {
+   "name": "王弘极",
+   "role": "涿州营参将"
+  },
+  {
+   "name": "顾钦",
+   "role": "涿州知州"
+  }
+ ],
+ "places": [
+  "涿州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17503,
+ "page_range": "361-362"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "十九日甲子",
+ "event_role": "皇帝行止",
+ "summary": "御舟驻跸新安县郭里口，直隶学院李光地、天津道范时崇、总兵官潘育龙来朝。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶学院"
+  },
+  {
+   "name": "范时崇",
+   "role": "天津道"
+  },
+  {
+   "name": "潘育龙",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "新安县郭里口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3317,
+ "page_range": "76-77"
+}

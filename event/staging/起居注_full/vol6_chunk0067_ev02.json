@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初六日丙午",
+ "event_role": "谕旨决策",
+ "summary": "王国安请不时以折子奏报盛京地方情形，康熙令不必缮写折子，只效徐廷乍行事即可。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国安",
+   "role": "奉天府尹"
+  },
+  {
+   "name": "徐廷乍",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6702,
+ "page_range": "144-145"
+}

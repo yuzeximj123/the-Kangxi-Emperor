@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "直隶巡抚李光地遵例保举霸州知州等五人具折启奏，康熙命收存此折，待各省督抚折到齐后一并呈览。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22503,
+ "page_range": "460-461"
+}

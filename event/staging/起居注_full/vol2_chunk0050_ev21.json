@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "初八日庚申",
+ "event_role": "人事任免",
+ "summary": "吏部题补工部尚书，康熙帝询问帅颜保居官情况后命其补授工部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "帅颜保",
+   "role": "官员"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5021,
+ "page_range": "143-144"
+}

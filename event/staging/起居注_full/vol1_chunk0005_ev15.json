@@ -1,0 +1,28 @@
+{
+ "reign_year": 10,
+ "month": 12,
+ "day_text": "二十五日王寅",
+ "event_role": "其他",
+ "summary": "未时，康熙帝复御乾清门，赐来贡公牛式等十一部公奇他忒等宴，召至御座前依次赐饮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛式",
+   "role": "来贡公"
+  },
+  {
+   "name": "奇他忒",
+   "role": "来贡公"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 515,
+ "page_range": "67-68"
+}

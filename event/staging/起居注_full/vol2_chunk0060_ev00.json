@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "刑部侍郎陈一炳回奏保举硕伦缘由，称因其办事有能而非保其清廉。",
+ "people": [
+  {
+   "name": "陈一炳",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "硕伦",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6000,
+ "page_range": "163-164"
+}

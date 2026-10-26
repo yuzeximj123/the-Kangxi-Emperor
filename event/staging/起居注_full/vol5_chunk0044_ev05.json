@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "初八日壬寅",
+ "event_role": "人事任免",
+ "summary": "兵部题巡捕营守备叶芝兰、田廷臣、杨弘基等员缺无应补之人，请将八旗汉军贤能拖沙喇哈番优选择补授。",
+ "people": [
+  {
+   "name": "叶芝兰",
+   "role": "巡捕营守备"
+  },
+  {
+   "name": "田廷臣",
+   "role": "巡捕营守备"
+  },
+  {
+   "name": "杨弘基",
+   "role": "巡捕营守备"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4405,
+ "page_range": "98-99"
+}

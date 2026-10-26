@@ -1,0 +1,20 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "初二日丁效",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸长店。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "长店"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17502,
+ "page_range": "361-362"
+}

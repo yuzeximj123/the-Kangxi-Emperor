@@ -1,0 +1,38 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "镇守将军仍管广西提督事务，遵旨保题副将薛弘道升补广西浔州副将，称其勤慎实心、熟悉地方，请准升补仍留原任以资弹压。",
+ "people": [
+  {
+   "name": "张道",
+   "role": "广西浔州副将（被调取引见）"
+  },
+  {
+   "name": "韩员卜克",
+   "role": "游击（被荐胜任）"
+  },
+  {
+   "name": "万正色",
+   "role": "原任提督（薛弘道曾跟随行走）"
+  },
+  {
+   "name": "薛弘道",
+   "role": "副将（请升补浔州副将）"
+  }
+ ],
+ "places": [
+  "庭州",
+  "广西",
+  "浔州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称已有旨了。",
+ "source_title": "镇守将军仍管广西提督事务奏为遵旨保题补授以资弹压事折",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 197
+}

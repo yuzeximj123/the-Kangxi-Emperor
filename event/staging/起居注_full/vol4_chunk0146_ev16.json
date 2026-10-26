@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 4,
+ "day_text": "初二日了已",
+ "event_role": "贸易漕运",
+ "summary": "户部题覆直隶巡抚郭世隆请将康熙二十九年常平仓收贮米石于三四月平价粜卖、九月余买新谷入仓，议不准行；帝令再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭世隆",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14616,
+ "page_range": "304-305"
+}

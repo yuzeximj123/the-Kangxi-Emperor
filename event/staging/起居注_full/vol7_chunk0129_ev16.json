@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "初五日己丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝以阅殿试武举骑射，御畅春园内西厂，兵部尚书马尔汉等引武举徐启新等九十七人分班骑射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马尔汉",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "徐启新",
+   "role": "武举"
+  },
+  {
+   "name": "马齐",
+   "role": "读卷官大学士"
+  }
+ ],
+ "places": [
+  "畅春园内西厂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12916,
+ "page_range": "269-270"
+}

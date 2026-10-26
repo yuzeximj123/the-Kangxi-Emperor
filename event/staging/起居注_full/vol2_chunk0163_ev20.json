@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十八日痒卯",
+ "event_role": "皇帝行止",
+ "summary": "未时，康熙帝御景山内前殿，赐进贡札鲁特部落多罗贝勒札称、土默忒部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "札称",
+   "role": "多罗贝勒"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16320,
+ "page_range": "369-370"
+}

@@ -1,0 +1,52 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "二十三日甲辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏毕，大学士伊桑阿、阿兰泰等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "西安",
+   "role": "学士"
+  },
+  {
+   "name": "王国昌",
+   "role": "学士"
+  },
+  {
+   "name": "年遐龄",
+   "role": "学士"
+  },
+  {
+   "name": "满簿",
+   "role": "学士"
+  },
+  {
+   "name": "图纳哈",
+   "role": "学士"
+  },
+  {
+   "name": "思格则",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16902,
+ "page_range": "350-351"
+}

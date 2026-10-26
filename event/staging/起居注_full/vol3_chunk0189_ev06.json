@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "二十四日乙巳",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问伊图学问，明珠等奏其学问稍逊博极尚能翻译，帝命以伊图充补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "伊图",
+   "role": "庶子"
+  },
+  {
+   "name": "博极",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18906,
+ "page_range": "413-414"
+}

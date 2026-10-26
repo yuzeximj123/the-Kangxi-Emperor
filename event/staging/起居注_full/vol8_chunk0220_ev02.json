@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初二日王子",
+ "event_role": "人事任免",
+ "summary": "海寿奏起居注主事达礼自愿随往军兴种地效力，康熙帝问明为总督鄂海之子后准令前去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海寿",
+   "role": "盛京兵部侍郎"
+  },
+  {
+   "name": "达礼",
+   "role": "起居注主事"
+  },
+  {
+   "name": "鄂海",
+   "role": "总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22002,
+ "page_range": "451-452"
+}

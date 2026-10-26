@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙五十年二月初一日",
+ "reign_year": 50,
+ "month": 2,
+ "day": 1,
+ "event_role": "人事任免",
+ "summary": "四川提督岳昇龙因左目患病、母病妻亡，自陈衰残难任封疆，请求告休，并请皇上乾断。",
+ "people": [
+  {
+   "name": "岳昇龙",
+   "role": "提督四川等处总兵官署副将，奏折作者"
+  },
+  {
+   "name": "苗氏",
+   "role": "岳昇龙继妻，病亡"
+  },
+  {
+   "name": "张氏",
+   "role": "岳昇龙之母，痰涌晕倒"
+  }
+ ],
+ "places": [
+  "四川",
+  "建昌",
+  "乐山"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝谕示岳昇龙目疾须调理得宜，治法若好可以全愈，不必忧愁。",
+ "source_title": "四川提督岳昇龍奏陳【目】疾摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "800",
+ "order_index": 103
+}

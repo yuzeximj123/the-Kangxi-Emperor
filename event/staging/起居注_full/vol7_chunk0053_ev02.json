@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "赐复原任谕德秦松龄、原任检讨冯勖、徐釚、潘耒原品。",
+ "people": [
+  {
+   "name": "秦松龄",
+   "role": "原任谕德"
+  },
+  {
+   "name": "冯勖",
+   "role": "原任检讨"
+  },
+  {
+   "name": "徐釚",
+   "role": "原任检讨"
+  },
+  {
+   "name": "潘耒",
+   "role": "原任检讨"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5302,
+ "page_range": "117-118"
+}

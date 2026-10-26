@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 1,
+ "day_text": "初六日辛酉",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝由午门出正阳门赴祈谷坛亲祭毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17212,
+ "page_range": "355-356"
+}

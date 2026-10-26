@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十六日丙午",
+ "event_role": "皇帝行止",
+ "summary": "已时康熙出行宫，率皇太子、诸皇子及善射侍卫等射，并令马尔汉带来引见之唐之魁、姚起龙等十人射。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "马尔汉",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "唐之魁",
+   "role": "守备"
+  },
+  {
+   "name": "姚起龙",
+   "role": "千总"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2225,
+ "page_range": "55-56"
+}

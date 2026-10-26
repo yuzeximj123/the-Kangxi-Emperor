@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "二十二日乙西",
+ "event_role": "朝见受贺",
+ "summary": "驻防宝抵县防守御吴尔泰、知县吴振武、守备牛禄等来朝见康熙帝。",
+ "people": [
+  {
+   "name": "吴尔泰",
+   "role": "驻防宝抵县防守御"
+  },
+  {
+   "name": "吴振武",
+   "role": "宝抵县知县"
+  },
+  {
+   "name": "牛禄",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "宝抵县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15023,
+ "page_range": "310-311"
+}

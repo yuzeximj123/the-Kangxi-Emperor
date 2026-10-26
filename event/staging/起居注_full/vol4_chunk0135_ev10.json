@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 11,
+ "day_text": "二十四日辛亥",
+ "event_role": "人事任免",
+ "summary": "镇海将军董元乡题请以已故将军张思恭之子张景仲补授防御，康熙帝准其补授。",
+ "people": [
+  {
+   "name": "董元乡",
+   "role": "镇海将军"
+  },
+  {
+   "name": "张思恭",
+   "role": "已故镇海将军"
+  },
+  {
+   "name": "张景仲",
+   "role": "监生"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13510,
+ "page_range": "282-283"
+}

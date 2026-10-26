@@ -1,0 +1,37 @@
+{
+ "date_raw": "初六日",
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "summary": "马齐奏昌平营参将员缺，康熙帝命进士侍卫马惠伯补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "马进良",
+   "role": "古北口提督"
+  },
+  {
+   "name": "张世贤",
+   "role": "游击"
+  },
+  {
+   "name": "马惠伯",
+   "role": "进士侍卫"
+  }
+ ],
+ "places": [
+  "昌平营",
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3150
+}

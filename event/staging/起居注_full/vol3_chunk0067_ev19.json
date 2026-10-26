@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "二十六日丁巳",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙率王等、内大臣、侍卫、部院大臣于午时谒孝陵行三跪九叩礼三奠酒举哀，又至两皇后陵奠酒举哀，并至奉圣夫人坟奠酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵",
+  "两皇后陵",
+  "奉圣夫人坟"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6719,
+ "page_range": "169-170"
+}

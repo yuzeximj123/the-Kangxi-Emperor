@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "十八日于成",
+ "event_role": "谕旨决策",
+ "summary": "马齐等奏户部覆两广巡盐御史黑色题南部二府所增盐斤免分派盐引议不准行，康熙帝谕令照该御史所题行。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "黑色",
+   "role": "两广巡盐御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两广",
+  "南部二府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6121,
+ "page_range": "133-134"
+}

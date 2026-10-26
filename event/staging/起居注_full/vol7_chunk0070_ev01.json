@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十四日丁卯",
+ "event_role": "人事任免",
+ "summary": "九卿遵旨议山东巡抚王国昌等及御史李发甲革职，康熙帝命王国昌、刘映暂留任，待事明再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "刘映",
+   "role": "官员"
+  },
+  {
+   "name": "李发甲",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7001,
+ "page_range": "151-152"
+}

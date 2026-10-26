@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙伍拾陆年玖月拾陆日",
+ "reign_year": 56,
+ "month": 9,
+ "day": 16,
+ "event_role": "朝见受贺",
+ "summary": "延绥总兵官李耀因康熙万寿之期，遣人赍折进献土物二种以申祝贺，并请皇上睿鉴。",
+ "people": [
+  {
+   "name": "李耀",
+   "role": "镇守陕西延绥等处地方副将管总兵官事"
+  },
+  {
+   "name": "马骧璧",
+   "role": "臣标中营把总，奉命赍折进献"
+  },
+  {
+   "name": "李桢",
+   "role": "李耀家人，奉命赍折进献"
+  },
+  {
+   "name": "赫寿",
+   "role": "两江总督（署于折末）"
+  }
+ ],
+ "places": [
+  "陕西",
+  "延绥",
+  "两江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批仅书“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 350
+}

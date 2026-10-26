@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初六日壬戌",
+ "event_role": "司法案件",
+ "summary": "吏部议盗窃孝陵神厨神库器物，郎中顾彩、员外郎胡巴锡应降一级留任，康熙帝以所议尚轻命再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "顾彩",
+   "role": "郎中"
+  },
+  {
+   "name": "胡巴锡",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 107,
+ "page_range": "45-46"
+}

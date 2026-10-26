@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "总河赵世显题瓜州花园港、息浪庵堤岸修成城垣得保、百姓谢恩，康熙帝命将李陈常所奏息浪庵事一并查明具奏。",
+ "people": [
+  {
+   "name": "赵世显",
+   "role": "总河"
+  },
+  {
+   "name": "李陈常",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "瓜州",
+  "花园港",
+  "息浪庵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15403,
+ "page_range": "319-320"
+}

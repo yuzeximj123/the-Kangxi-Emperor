@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十五年",
+ "reign_year": 55,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "大学士李光地奏谢颁赐御书匾额，并据实奏报闽中早稻收成及晚稻栽插情形，附陈北方雨泽与秋成谷价。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，奏摺人"
+  },
+  {
+   "name": "满保",
+   "role": "官员，转传圣安摺及谕旨"
+  }
+ ],
+ "places": [
+  "闽中",
+  "滨海",
+  "厦",
+  "京城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙谕知京城附近四五月雨旱情形，恐钞报讹传不实，特命传示李光地。",
+ "source_title": "大學士李光地奏謝頒御書匾額摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2201",
+ "order_index": 299
+}

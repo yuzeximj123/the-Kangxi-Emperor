@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "event_summary": "本日起居注官乌黑、华升元记录。",
+ "people": [
+  {
+   "name": "乌黑",
+   "role": "起居注官"
+  },
+  {
+   "name": "华升元",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12905,
+ "page_range": "293-294"
+}

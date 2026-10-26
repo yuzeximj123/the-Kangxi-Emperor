@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召尚书侍郎，谕各省钱粮均匀蠲免，今年丰收无可免，惟带征久不清结，命会同户部查明项款具奏可免则免，并论蠲免应出自上意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "提及官员"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21910,
+ "page_range": "449-450"
+}

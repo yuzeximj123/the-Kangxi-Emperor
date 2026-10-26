@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "内章拖音库图克图请在其弟子游牧处建庙令喇嘛班第十人居住为皇上请经，奉旨准建庙令喇嘛居住。",
+ "people": [
+  {
+   "name": "敦住",
+   "role": "传话人"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "拖音库图克图",
+   "role": "内章"
+  },
+  {
+   "name": "毕力克图格隆",
+   "role": "弟子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "正黄旗昭和地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23304,
+ "page_range": "476-477"
+}

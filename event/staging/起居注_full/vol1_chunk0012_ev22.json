@@ -1,0 +1,28 @@
+{
+ "reign_year": 11,
+ "month": 4,
+ "day_text": "初九日甲申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问给事中柯谷籍贯，并提及赤城路碑上贴纸条诬称柯谷害民，熊赐履奏请察禁匿名飞语，康熙帝称是。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "日讲官起居注翰林院掌院学士兼礼部侍郎"
+  },
+  {
+   "name": "柯谷",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "赤城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1222,
+ "page_range": "81-82"
+}

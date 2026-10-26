@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赏赐骑校阿喃、萨拉儿等十一人弓一张箭五枝，并赏住居五十家、三十家两处地佐领琶迪等银布有差。",
+ "people": [
+  {
+   "name": "阿喃",
+   "role": "骑校"
+  },
+  {
+   "name": "萨拉儿",
+   "role": "骑校"
+  },
+  {
+   "name": "琶迪",
+   "role": "佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4900,
+ "page_range": "141-142"
+}

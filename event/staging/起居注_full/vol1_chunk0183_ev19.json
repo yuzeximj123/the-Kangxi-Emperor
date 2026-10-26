@@ -1,0 +1,25 @@
+{
+ "reign_year": 18,
+ "month": 6,
+ "day_text": "初三日丙寅",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝率皇太子诣太皇太后、皇太后宫行礼，太皇太后赐缎匹、秘宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18319,
+ "page_range": "423-424"
+}

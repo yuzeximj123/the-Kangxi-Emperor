@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "初五日庚戌",
+ "event_role": "朝见受贺",
+ "summary": "真定府副将张大受、曲阳县知县王获来朝。",
+ "people": [
+  {
+   "name": "张大受",
+   "role": "真定府副将"
+  },
+  {
+   "name": "王获",
+   "role": "曲阳县知县"
+  }
+ ],
+ "places": [
+  "真定府",
+  "曲阳县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3210,
+ "page_range": "74-75"
+}

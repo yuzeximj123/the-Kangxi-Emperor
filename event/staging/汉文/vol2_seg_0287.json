@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙四十九年三月十九日",
+ "reign_year": 49,
+ "month": 3,
+ "day": 10,
+ "event_role": "谕旨决策",
+ "summary": "苏州织造李煦奏报奉旨刊刻大小数表并先装钉进呈御览，同时请示御批资治通鉴纲目一百部交何处收存及应刷印若干部，后奉旨再刷印一千部草订送来。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "养心殿"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏為刷印資治通鑑綱目六百部進呈摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "643",
+ "order_index": 287
+}

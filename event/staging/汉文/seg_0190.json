@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙四十六年九月二十日",
+ "reign_year": 46,
+ "month": 9,
+ "day": 20,
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚赵弘燮奏报各属秋禾收成实在分数，通盘匀算约十分。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "于成龙",
+   "role": "涉及人物"
+  },
+  {
+   "name": "曹寅",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "直隶",
+  "江南",
+  "浙江",
+  "湖广",
+  "江西",
+  "句容"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "261",
+ "source_title": "直隸巡撫趙弘燮奏報秋收實在分數摺（尾缺）",
+ "order_index": 190
+}

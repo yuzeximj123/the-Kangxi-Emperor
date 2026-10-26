@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "浙闽总督兴永朝陛见，康熙帝召见于清宫并询问有无陈奏。",
+ "people": [
+  {
+   "name": "兴永朝",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8501,
+ "page_range": "182-183"
+}

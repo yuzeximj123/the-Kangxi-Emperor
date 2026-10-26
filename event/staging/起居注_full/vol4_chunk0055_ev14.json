@@ -1,0 +1,34 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "三十日戊戌",
+ "event_role": "朝见受贺",
+ "summary": "京口防守御祖光溥、参将赵成万、镇江府知府王燕、丹徒县知县朱城等前来朝见。",
+ "people": [
+  {
+   "name": "祖光溥",
+   "role": "京口防守御"
+  },
+  {
+   "name": "赵成万",
+   "role": "参将"
+  },
+  {
+   "name": "王燕",
+   "role": "镇江府知府"
+  },
+  {
+   "name": "朱城",
+   "role": "丹徒县知县"
+  }
+ ],
+ "places": [
+  "京口",
+  "镇江府",
+  "丹徒县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5514,
+ "page_range": "122-123"
+}

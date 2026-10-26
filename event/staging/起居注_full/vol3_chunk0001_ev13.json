@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "十九日乙西",
+ "event_role": "人事任免",
+ "summary": "兵部题江南京口病故总兵官陈华员缺请旨开列，康熙帝以汉人德昌人材壮勇、志节坚定，着升补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈华",
+   "role": "京口总兵官"
+  },
+  {
+   "name": "德昌",
+   "role": "汉人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 113,
+ "page_range": "37-38"
+}

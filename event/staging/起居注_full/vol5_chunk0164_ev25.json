@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "十三日丙申",
+ "event_role": "谕旨决策",
+ "summary": "谕尚书马齐，归化城马驼多价贱，大臣侍卫兵丁愿借银换买马驼者题明借与，新满洲愿借者亦借给。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16425,
+ "page_range": "338-339"
+}

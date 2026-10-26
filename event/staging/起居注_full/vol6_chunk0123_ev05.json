@@ -1,0 +1,22 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记录当日起居注官为传伸、草鉴伦。",
+ "people": [
+  {
+   "name": "传伸",
+   "role": "起居注官"
+  },
+  {
+   "name": "草鉴伦",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12305,
+ "page_range": "256-257"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "二十日全本",
+ "event_role": "其他",
+ "summary": "赐山东总兵官李雄御书匾额、单条对联，天津道刘启御书匾额，通永道张连登单条，直隶巡道李成龙单条。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李雄",
+   "role": "山东总兵官"
+  },
+  {
+   "name": "刘启",
+   "role": "天津道"
+  },
+  {
+   "name": "张连登",
+   "role": "通永道"
+  },
+  {
+   "name": "李成龙",
+   "role": "直隶巡道"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20806,
+ "page_range": "427-428"
+}

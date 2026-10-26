@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙四十七年四月十五日",
+ "reign_year": 47,
+ "month": 4,
+ "day": 15,
+ "event_role": "军务",
+ "summary": "浙江提督王世臣奏报各镇水师出洋巡哨及在海上与贼船交战、擒获贼犯的情形。",
+ "people": [
+  {
+   "name": "王世臣",
+   "role": "奏报人"
+  },
+  {
+   "name": "韩祖蘄",
+   "role": "涉及人物"
+  },
+  {
+   "name": "郭果裕",
+   "role": "涉及人物"
+  },
+  {
+   "name": "蔡元虎",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "浙江",
+  "黄巖"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "336",
+ "source_title": "浙江提督王世臣奏報各鎮出海洋巡哨並在海上交戰情形摺",
+ "order_index": 250
+}

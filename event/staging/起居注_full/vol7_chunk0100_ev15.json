@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "十七日乙亥",
+ "event_role": "起居注官记录",
+ "summary": "记是日起居注官阿尔法、凌绍入。",
+ "people": [
+  {
+   "name": "阿尔法",
+   "role": "起居注官"
+  },
+  {
+   "name": "凌绍",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10015,
+ "page_range": "211-212"
+}

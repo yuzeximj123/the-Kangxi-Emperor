@@ -1,0 +1,44 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "二十八日甲申",
+ "event_role": "人事任免",
+ "summary": "御乾清门听政，吏部题补翰林院侍读学士阿山员缺，康熙帝询问郎中人才后命达苏喀升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "达苏喀",
+   "role": "郎中"
+  },
+  {
+   "name": "达蓉喀",
+   "role": "拟正郎中"
+  },
+  {
+   "name": "巴尔哈",
+   "role": "拟陪"
+  },
+  {
+   "name": "苏巴泰",
+   "role": "郎中"
+  },
+  {
+   "name": "阿山",
+   "role": "翰林院侍读学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12614,
+ "page_range": "287-288"
+}

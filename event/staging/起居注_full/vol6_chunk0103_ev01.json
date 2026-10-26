@@ -1,0 +1,27 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令速挑浚芒稻河、人字河，并命宋荦亲赴扬州、淮安收养被水百姓。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋荦",
+   "role": "江苏巡抚"
+  }
+ ],
+ "places": [
+  "芒稻河",
+  "人字河",
+  "扬州",
+  "淮安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10301,
+ "page_range": "216-217"
+}

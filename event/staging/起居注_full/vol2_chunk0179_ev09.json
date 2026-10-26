@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十七日己未",
+ "event_role": "司法案件",
+ "summary": "会议原任副都统穆舒浑功罪相抵，康熙帝以其规避前往西安致兴安反叛，情罪可恶，命再严议具奏。",
+ "people": [
+  {
+   "name": "穆舒浑",
+   "role": "原任副都统"
+  }
+ ],
+ "places": [
+  "兴安",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17909,
+ "page_range": "401-402"
+}

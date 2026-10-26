@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初三日辛亥",
+ "event_role": "人事任免",
+ "summary": "康熙称御史赫明德奏事明白、为人诚实，堪以学士、侍读学士用，伊桑阿等附和称诚实为善。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "赫明德",
+   "role": "御史"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2806,
+ "page_range": "67-68"
+}

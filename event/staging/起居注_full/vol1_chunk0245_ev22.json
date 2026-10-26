@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初一日戊午",
+ "event_role": "皇帝行止",
+ "summary": "辰时，康熙帝御懋勤殿，亲讲《易经》六四困蒙吝二节，讲官库勒纳、叶方蔼、张玉书进讲六五童蒙吉二节、上九击蒙二节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24522,
+ "page_range": "547-548"
+}

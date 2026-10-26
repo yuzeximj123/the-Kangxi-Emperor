@@ -1,0 +1,37 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "二十八日甲申",
+ "event_role": "奏报地方情形",
+ "summary": "马思喀等奏报郭和苏台驿站存留马匹牲口仆从数目及分群看守安排。",
+ "people": [
+  {
+   "name": "马思喀",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "奇塔忒",
+   "role": "都统"
+  },
+  {
+   "name": "萨玛洁王",
+   "role": "苏尼特王"
+  },
+  {
+   "name": "吴尔占噶喇布王",
+   "role": "阿霸垓王"
+  },
+  {
+   "name": "帖图",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "郭和苏台",
+  "察罕诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11010,
+ "page_range": "230-231"
+}

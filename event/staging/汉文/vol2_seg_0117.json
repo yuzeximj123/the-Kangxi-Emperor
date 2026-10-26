@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙伍拾捌年貳月貳拾捌日",
+ "reign_year": 58,
+ "month": 2,
+ "day": 28,
+ "event_role": "贸易漕运",
+ "summary": "江宁织造曹頫奏报奉旨兼管征收江宁盐课，说明两淮盐课仍由该部岁解采买铜斤，并请圣安。",
+ "people": [
+  {
+   "name": "曹頫",
+   "role": "江宁织造通政使司通政使，奏报人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批同意曹頫所请，认为其说法合理。",
+ "source_title": "江寧鹽課兼管",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 117
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "二十三日丙午",
+ "event_role": "司法案件",
+ "summary": "三法司议覆王国桢等差往安南途中杀死人命应正法，康熙帝令秋后再宽免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王国桢",
+   "role": "犯人"
+  }
+ ],
+ "places": [
+  "安南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16905,
+ "page_range": "373-374"
+}

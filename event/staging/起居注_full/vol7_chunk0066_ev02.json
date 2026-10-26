@@ -1,0 +1,23 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "二十五日已已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝御书上谕，详述山东灾情及赈济办法，命截留漕粮、派三佐领下人员携银往赈，并停征山东钱粮漕米。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "泰安",
+  "德州",
+  "郯城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6602,
+ "page_range": "143-144"
+}

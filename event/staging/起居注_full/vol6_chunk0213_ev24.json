@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "初六日庚寅",
+ "event_role": "军务",
+ "summary": "兵部覆固原提督潘育龙题请徐荣等一百六十八人带往新任，部议只准原带八十六人，康熙帝令照所题一百六十八人带往任所，遇兵缺补之。",
+ "people": [
+  {
+   "name": "潘育龙",
+   "role": "固原提督"
+  },
+  {
+   "name": "徐荣",
+   "role": "带往新任者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "固原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21324,
+ "page_range": "436-437"
+}

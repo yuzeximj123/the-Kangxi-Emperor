@@ -1,0 +1,36 @@
+{
+ "reign_year": 17,
+ "month": 9,
+ "day_text": "初八日丙午",
+ "event_role": "其他",
+ "summary": "康熙帝御弘德殿，讲官喇沙里、陈廷敬、叶方蔼、张玉书进讲，帝亲讲首节，讲官以次进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16926,
+ "page_range": "395-396"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "二十七日庚申",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题奏乌斯尼哈白塔住持喇嘛罗布臧宜宁等请往聚，议不准行，康熙帝谕严行禁止诈称库图克图者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗布臧宜宁",
+   "role": "乌斯尼哈白塔住持喇嘛"
+  }
+ ],
+ "places": [
+  "乌斯尼哈白塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9301,
+ "page_range": "198-199"
+}

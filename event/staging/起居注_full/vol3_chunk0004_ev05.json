@@ -1,0 +1,48 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初一日本西",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问大学士所拟人选，明珠奏陈徐国相、王国安、马世济、赵士蚀、王新命等居官情况。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "徐国相",
+   "role": "巡抚"
+  },
+  {
+   "name": "王国安",
+   "role": "巡抚"
+  },
+  {
+   "name": "马世济",
+   "role": "副都御史"
+  },
+  {
+   "name": "赵士蚀",
+   "role": "容城县官"
+  },
+  {
+   "name": "王新命",
+   "role": "巡抚"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "楚"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 405,
+ "page_range": "43-44"
+}

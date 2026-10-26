@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十四日丁丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝阅射后称赞副都统祖良壁勇而有胆，索额图奏称其击贼可嘉，皆皇上知人善任所致。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "祖良壁",
+   "role": "副都统"
+  },
+  {
+   "name": "索额图",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "胡思泰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17513,
+ "page_range": "360-361"
+}

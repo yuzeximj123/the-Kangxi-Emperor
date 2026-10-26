@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十七年十月十三日",
+ "reign_year": 47,
+ "month": 10,
+ "day": 22,
+ "event_role": "奏报地方情形",
+ "summary": "闽浙总督梁鼐奏报回闽途中见浙闽晚禾丰收、米价低廉，并提及建阳产嘉禾及盘获海上人犯等情。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "闽浙总督"
+  }
+ ],
+ "places": [
+  "浙江省",
+  "福建省城",
+  "严州",
+  "金华",
+  "衢州",
+  "建宁",
+  "延平",
+  "福州",
+  "建阳县"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "閩浙總督梁鼐奏報田禾民情並盤獲海上人犯等情摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "415",
+ "order_index": 77
+}

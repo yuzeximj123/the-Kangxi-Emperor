@@ -1,0 +1,32 @@
+{
+ "reign_year": 18,
+ "month": 4,
+ "day_text": "初九日",
+ "event_role": "其他",
+ "summary": "康熙帝御弘德殿，讲官喇沙里、叶方蔼、张玉书进讲凡厥庶民有猷有为有守一节、无虐茕独而畏高明一节，帝亲讲毕，讲官照常进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18018,
+ "page_range": "417-418"
+}

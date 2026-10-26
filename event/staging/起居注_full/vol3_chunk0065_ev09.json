@@ -1,0 +1,44 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十六日",
+ "event_role": "人事任免",
+ "summary": "吏部题补总督邵甘解任员缺，康熙询问大学士，命徐旭龄补授总督。",
+ "people": [
+  {
+   "name": "邵甘",
+   "role": "总督"
+  },
+  {
+   "name": "胡简敬",
+   "role": "侍郎"
+  },
+  {
+   "name": "王渔绪",
+   "role": "侍郎"
+  },
+  {
+   "name": "董讷",
+   "role": "侍郎"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6509,
+ "page_range": "165-166"
+}

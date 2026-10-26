@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "户部议覆格尔古德之妻请求以外孙赛格承继产业，康熙帝询问阿兰泰族中情形后命以赛格为嗣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "格尔古德",
+   "role": "原任巡抚"
+  },
+  {
+   "name": "赛格",
+   "role": "格尔古德外孙，命为嗣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22001,
+ "page_range": "452-453"
+}

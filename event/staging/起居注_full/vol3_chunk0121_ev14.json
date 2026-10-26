@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "十二日成辰",
+ "event_role": "人事任免",
+ "summary": "兵部题补左翼前锋统领塔尔代升任员缺，开列护军统领苏尔达等，康熙帝令查明左翼公侯伯以下大员名次来看。",
+ "people": [
+  {
+   "name": "塔尔代",
+   "role": "左翼前锋统领"
+  },
+  {
+   "name": "苏尔达",
+   "role": "护军统领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12114,
+ "page_range": "277-278"
+}

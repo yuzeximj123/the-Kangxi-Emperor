@@ -1,0 +1,33 @@
+{
+ "date_raw": null,
+ "reign_year": 55,
+ "month": null,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "广西总兵官左世永呈报康熙五十五年广西年成雨水情形，称四境宁谧、早稻登场，各府收成七八分至八九分不等，并详列各府仓斗米价。",
+ "people": [
+  {
+   "name": "左世永",
+   "role": "进提督广西总兵官奴才，呈报人"
+  }
+ ],
+ "places": [
+  "广西",
+  "桂林",
+  "柳州",
+  "庆远",
+  "思恩",
+  "平乐",
+  "梧州",
+  "浔州",
+  "南宁",
+  "太平"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙两次朱批“知道了”，表示已阅知悉。",
+ "source_title": "广西年成雨水单",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 450
+}

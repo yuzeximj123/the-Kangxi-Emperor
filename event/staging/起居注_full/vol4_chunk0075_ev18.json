@@ -1,0 +1,34 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "三十日乙丑",
+ "event_role": "人事任免",
+ "summary": "大学士伊桑阿等奏奉旨高开以翰林官用，会同翰林院察得李来泰、施闰章、耿介等曾以侍讲用。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "高开",
+   "role": "官员"
+  },
+  {
+   "name": "李来泰",
+   "role": "原任参议道"
+  },
+  {
+   "name": "施闰章",
+   "role": "原任参议道"
+  },
+  {
+   "name": "耿介",
+   "role": "原任副使道"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7518,
+ "page_range": "162-163"
+}

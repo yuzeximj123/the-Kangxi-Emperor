@@ -1,0 +1,20 @@
+{
+ "reign_year": 37,
+ "month": 10,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸萨儿游地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "萨儿游地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5801,
+ "page_range": "126-127"
+}

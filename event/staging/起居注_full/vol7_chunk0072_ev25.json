@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初五日了丑",
+ "event_role": "其他",
+ "summary": "兵部尚书马尔汉等将武举曹维城等一百二人请旨。",
+ "people": [
+  {
+   "name": "马尔汉",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "曹维城",
+   "role": "武举"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7225,
+ "page_range": "155-156"
+}

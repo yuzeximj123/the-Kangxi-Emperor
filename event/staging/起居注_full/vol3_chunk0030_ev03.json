@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "初五日已效",
+ "event_role": "人事任免",
+ "summary": "工部郎中赛华病故员缺，拟员外郎都希正、靶山陪，康熙帝称赛华熟习工部事务，命吏部会同工部选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赛华",
+   "role": "工部郎中"
+  },
+  {
+   "name": "都希",
+   "role": "员外郎"
+  },
+  {
+   "name": "靶山",
+   "role": "拟陪官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3003,
+ "page_range": "95-96"
+}

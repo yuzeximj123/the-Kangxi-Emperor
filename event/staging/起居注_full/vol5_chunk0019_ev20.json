@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十二日己本",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝将汉军官员试卷发出，称再三详阅无出众者未批等次，命前四等照常录用、五等稍可者选入四等准用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1920,
+ "page_range": "48-49"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "二十二日丁卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙于途间亲阅刘格则、折库纳、巴岱、孙虎、徐应明及把总李进才等射。",
+ "people": [
+  {
+   "name": "刘格则",
+   "role": "固安防守御"
+  },
+  {
+   "name": "折库纳",
+   "role": "章京"
+  },
+  {
+   "name": "巴岱",
+   "role": "章京"
+  },
+  {
+   "name": "孙虎",
+   "role": "永清县千总"
+  },
+  {
+   "name": "徐应明",
+   "role": "把总"
+  },
+  {
+   "name": "李进才",
+   "role": "把总"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3322,
+ "page_range": "76-77"
+}

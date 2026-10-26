@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "宣化府总兵官白斌奏报原载火药炮子车辆损坏、以米车承载事，康熙帝谕令查明其属员中应参者指参。",
+ "people": [
+  {
+   "name": "白斌",
+   "role": "宣化府总兵官"
+  },
+  {
+   "name": "许盛",
+   "role": "原任宣化府总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宣化府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15102,
+ "page_range": "312-313"
+}

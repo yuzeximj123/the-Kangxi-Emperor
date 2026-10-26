@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十一日丁酉",
+ "event_role": "人事任免",
+ "summary": "兵部题千总徐如升升补守备，康熙命将石匣守备庸劣者革退一员以许世隆补授，丰润县缺照常补用。",
+ "people": [
+  {
+   "name": "徐如升",
+   "role": "千总"
+  },
+  {
+   "name": "许世隆",
+   "role": "守备补授"
+  }
+ ],
+ "places": [
+  "古北口",
+  "石匣",
+  "丰润县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2009,
+ "page_range": "50-51"
+}

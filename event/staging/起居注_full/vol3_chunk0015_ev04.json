@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论修《实录》等书，闻《明史》将成，命将已成者依次送进以便徐徐翻阅考镜得失。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "常书",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1504,
+ "page_range": "65-66"
+}

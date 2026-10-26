@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初五日己巳",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问安徽巡抚李铺如何，王泽弘奏其居官不闻有不善处但今身病，张害奏其原病。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李铺",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "王泽弘",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "张害",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12615,
+ "page_range": "262-263"
+}

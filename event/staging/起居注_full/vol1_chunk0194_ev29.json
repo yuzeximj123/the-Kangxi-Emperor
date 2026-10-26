@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "初三日甲子",
+ "event_role": "谕旨决策",
+ "summary": "户部覆江南巡抚慕天颜为地方秋灾请缓拨兵饷事，康熙帝令将户部钱粮议本一并议奏。",
+ "people": [
+  {
+   "name": "慕天颜",
+   "role": "江南巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19429,
+ "page_range": "445-446"
+}

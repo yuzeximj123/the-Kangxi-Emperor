@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "兵部题国姨、国昂之孙土黑等看守福陵、昭陵十六年应给八品职衔，康熙帝以给衔关系重大、该部未题明缘由，命议政王贝勒大臣查明详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "土黑",
+   "role": "国姨、国昂之孙"
+  }
+ ],
+ "places": [
+  "福陵",
+  "昭陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2103,
+ "page_range": "77-78"
+}

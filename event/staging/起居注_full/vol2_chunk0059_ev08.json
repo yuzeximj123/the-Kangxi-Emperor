@@ -1,0 +1,37 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初六日丁亥",
+ "event_role": "人事任免",
+ "summary": "吏部议通州知州于成龙因失察逃人降一级调用，康熙询问其居官，明珠、李霨、冯溥称其善，命降一级仍留原任。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "通州知州"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通州",
+  "乐亭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5908,
+ "page_range": "161-162"
+}

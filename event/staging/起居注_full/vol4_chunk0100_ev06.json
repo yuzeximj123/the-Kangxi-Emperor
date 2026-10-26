@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 1,
+ "day_text": "十三日乙巳",
+ "event_role": "军务",
+ "summary": "兵部题覆西安将军尼雅翰请差官至西宁关买马事，康熙帝以西安地方平广水土甚佳，不准其称地方险隘马匹无在之说，令饬行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尼雅翰",
+   "role": "西安将军"
+  }
+ ],
+ "places": [
+  "西安",
+  "西宁关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10006,
+ "page_range": "212-213"
+}

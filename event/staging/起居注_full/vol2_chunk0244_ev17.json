@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "十二日己相",
+ "event_role": "人事任免",
+ "summary": "江南江西总督于成龙因未察副将田万侯妄行议解任休致，康熙帝以其居官素佳从宽留任，田万侯依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "田万侯",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24417,
+ "page_range": "531-532"
+}

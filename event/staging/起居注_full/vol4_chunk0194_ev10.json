@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "二十一日庚子",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等转奏九卿跪奏，称皇上驻瀛台或畅春园与宫中无异，并请宽释焦劳、随便调摄。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀛台",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19410,
+ "page_range": "400-401"
+}

@@ -1,0 +1,31 @@
+{
+ "date_raw": "十五日己亥",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十五日己亥",
+ "event_role": "军务",
+ "summary": "康熙帝谕马齐，川陕总督博济奏商州有贼作乱已发兵，认为小贼即擒，归咎督抚不加实惠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "博济",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "商州",
+  "陕西",
+  "南阳",
+  "兴安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3204
+}

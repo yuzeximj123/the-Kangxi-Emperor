@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "神木知县蔡国相等、守备马益俊等来朝。",
+ "people": [
+  {
+   "name": "蔡国相",
+   "role": "神木知县"
+  },
+  {
+   "name": "马益俊",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "神木"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19501,
+ "page_range": "400-401"
+}

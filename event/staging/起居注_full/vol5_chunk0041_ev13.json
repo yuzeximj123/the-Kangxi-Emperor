@@ -1,0 +1,36 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十三日戊子",
+ "event_role": "人事任免",
+ "summary": "郎中布泰员缺，拟郭礼正、鄂罗洪陪，康熙帝以刑部员外郎罗刹曾差往江南缉拿回子、人材优长，补授郎中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布泰",
+   "role": "郎中"
+  },
+  {
+   "name": "郭礼",
+   "role": "员外郎"
+  },
+  {
+   "name": "鄂罗洪",
+   "role": "员外郎"
+  },
+  {
+   "name": "罗刹",
+   "role": "刑部员外郎"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4113,
+ "page_range": "92-93"
+}

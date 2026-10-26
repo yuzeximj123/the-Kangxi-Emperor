@@ -1,0 +1,35 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "广东潮州总兵谢瑛奏报到任后勤于操练、整饬营伍，并专差赍折跪请圣安，以表恋主之忧。",
+ "people": [
+  {
+   "name": "谢瑛",
+   "role": "广东潮州总兵官"
+  },
+  {
+   "name": "林贞",
+   "role": "千总，差遣赍折"
+  },
+  {
+   "name": "谢永宁",
+   "role": "家人，差遣赍折"
+  }
+ ],
+ "places": [
+  "广东潮州",
+  "洞庭",
+  "赐奉苑",
+  "阙廷"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称已知晓，因谢瑛为武进士而好翰墨，特赐御书字扇及随侍行在三位阿哥字扇，命其不必具本谢恩，随便有折谢恩即可。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 494
+}

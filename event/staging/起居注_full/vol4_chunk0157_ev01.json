@@ -1,0 +1,38 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝责问邵远平由何人举荐，伊桑阿奏称由于成龙、赵士麟、卫既齐举荐，康熙帝斥邵远平行事乖乱，命问举荐者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "都御史"
+  },
+  {
+   "name": "赵士麟",
+   "role": "侍郎"
+  },
+  {
+   "name": "卫既齐",
+   "role": "副都御史"
+  },
+  {
+   "name": "邵远平",
+   "role": "被举荐官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15701,
+ "page_range": "326-327"
+}

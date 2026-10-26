@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "初十日癸酉",
+ "event_role": "人事任免",
+ "summary": "康熙帝就庶吉士考试名次裁定：汉书留五人在衙门，满书留二十人在衙门，其余满汉六人仍以庶吉士学习三年。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14818,
+ "page_range": "306-307"
+}

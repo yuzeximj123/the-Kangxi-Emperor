@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "十八日甲午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝顾大学士等，命将石文蚌所呈舆图传视会议，确问石文蚌具奏安南地界事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石文蚌",
+   "role": "云南巡抚"
+  }
+ ],
+ "places": [
+  "安南国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1909,
+ "page_range": "48-49"
+}

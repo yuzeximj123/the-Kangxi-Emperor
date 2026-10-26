@@ -1,0 +1,27 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "二十三日王实",
+ "event_role": "祭祀典礼",
+ "summary": "礼部题请为皇上荡平噶尔丹举行告祭天地祖宗神只及上徽号之礼，康熙帝因述平定噶尔丹始末。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿喇尼",
+   "role": "原任尚书"
+  }
+ ],
+ "places": [
+  "乌尔胡",
+  "乌兰布通",
+  "克鲁伦",
+  "科布托"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24213,
+ "page_range": "494-495"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "十三日丙寅",
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚沈朝聘题宝坻等各州县俱被灾伤，康熙帝轸念直隶所属。",
+ "people": [
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宝坻",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15522,
+ "page_range": "320-321"
+}

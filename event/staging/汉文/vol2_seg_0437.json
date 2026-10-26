@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十八年四月初三日",
+ "reign_year": 48,
+ "month": 4,
+ "day": 3,
+ "event_role": "军务",
+ "summary": "浙江巡抚黄秉中奏报处州府属彭子英等人起事，并派兵搜捕。",
+ "people": [
+  {
+   "name": "黄秉中",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "彭子英",
+   "role": "起事首领"
+  }
+ ],
+ "places": [
+  "浙江",
+  "处州府"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "浙江巡抚黄秉中奏报处州府属彭子英等起事并派兵搜捕折",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "481",
+ "order_index": 437
+}

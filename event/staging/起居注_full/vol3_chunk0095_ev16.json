@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "初四日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝闻雅克萨捷报，称独断兴师今荷天佑克之，令将捷音传知诸王大臣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "理藩院尚书"
+  }
+ ],
+ "places": [
+  "雅克萨城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9516,
+ "page_range": "225-226"
+}

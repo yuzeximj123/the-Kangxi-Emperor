@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙传谕学士胡会恩、右庶子陈元龙等准其回乡展墓省亲，二人谢恩。",
+ "people": [
+  {
+   "name": "胡会恩",
+   "role": "学士"
+  },
+  {
+   "name": "陈元龙",
+   "role": "右庶子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "德清县",
+  "杭州",
+  "海宁县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8700,
+ "page_range": "184-185"
+}

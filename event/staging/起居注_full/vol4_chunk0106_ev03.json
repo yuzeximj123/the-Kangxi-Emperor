@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "福建兴永朝题请蠲免台湾九项钱粮，康熙帝以海岛地方田土肥沃、恐聚集者众，令交九卿议奏。",
+ "people": [
+  {
+   "name": "兴永朝",
+   "role": "福建官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10603,
+ "page_range": "224-225"
+}

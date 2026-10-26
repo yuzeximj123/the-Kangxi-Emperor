@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "三十日",
+ "event_role": "人事任免",
+ "summary": "镶黄旗都统喇哈达老病请解任，康熙帝以其庸惰命解任。",
+ "people": [
+  {
+   "name": "喇哈达",
+   "role": "镶黄旗都统"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11013,
+ "page_range": "255-256"
+}

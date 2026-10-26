@@ -1,0 +1,33 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "初三日戊子",
+ "event_role": "请安谢恩",
+ "summary": "未时康熙帝赴太皇太后宫问安，又率皇太子赴皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1906,
+ "page_range": "81-82"
+}

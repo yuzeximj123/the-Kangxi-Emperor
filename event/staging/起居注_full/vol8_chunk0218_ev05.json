@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "行在刑部侍郎刘相审明解到大盗方有陈、杨绍紫等议解古北口总兵处斩，康熙令此处正法完结，本发还再议。",
+ "people": [
+  {
+   "name": "刘相",
+   "role": "行在刑部侍郎"
+  },
+  {
+   "name": "方有陈",
+   "role": "大盗"
+  },
+  {
+   "name": "杨绍紫",
+   "role": "大盗"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21805,
+ "page_range": "447-448"
+}

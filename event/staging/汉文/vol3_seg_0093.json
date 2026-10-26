@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙五十年正月",
+ "reign_year": 50,
+ "month": 1,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "奏报总兵吴郡、提臣蓝理运米到闽平粜，入春雨水沾足，米价渐平，百姓乐业。",
+ "people": [
+  {
+   "name": "吴郡",
+   "role": "总兵官，运米五万石到闽"
+  },
+  {
+   "name": "蓝理",
+   "role": "提臣，运米十万石到闽"
+  },
+  {
+   "name": "塔进泰",
+   "role": "钦差部臣，咨称战船运米事"
+  }
+ ],
+ "places": [
+  "闽",
+  "漳州",
+  "泉州",
+  "乍浦",
+  "福州",
+  "兴化",
+  "福宁州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 93
+}

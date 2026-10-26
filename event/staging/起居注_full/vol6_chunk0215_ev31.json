@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十五日己西",
+ "event_role": "起居注官记录",
+ "summary": "记录起居注官阿金、杨名时。",
+ "people": [
+  {
+   "name": "阿金",
+   "role": "起居注官"
+  },
+  {
+   "name": "杨名时",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21531,
+ "page_range": "440-441"
+}

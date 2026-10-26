@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "江西巡抚郎廷极题马李生夺铀击伤叔马旺明致死拟立决，康熙命九卿等会议具奏。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "马旺明",
+   "role": "案犯"
+  },
+  {
+   "name": "马旺斗",
+   "role": "马旺明胞兄"
+  },
+  {
+   "name": "马李生",
+   "role": "马旺斗之子"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19205,
+ "page_range": "395-396"
+}

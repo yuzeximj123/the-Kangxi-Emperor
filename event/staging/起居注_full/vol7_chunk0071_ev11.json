@@ -1,0 +1,34 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十六日己巳",
+ "event_role": "军务",
+ "summary": "康熙帝论八旗都统及督抚，称赵申乔居官虽清但每事偏执，红苗之事欲遣席尔达前往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "都统"
+  },
+  {
+   "name": "席尔达",
+   "role": "尚书"
+  },
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7111,
+ "page_range": "153-154"
+}

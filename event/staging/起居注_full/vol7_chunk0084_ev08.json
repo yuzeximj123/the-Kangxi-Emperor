@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "二十九日庚午",
+ "event_role": "朝见受贺",
+ "summary": "温池县知县葛永成等来朝。",
+ "people": [
+  {
+   "name": "葛永成",
+   "role": "温池县知县"
+  }
+ ],
+ "places": [
+  "温池县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8408,
+ "page_range": "179-180"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初六日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "议行取官员事，康熙帝问内有无学问优长者，陈廷敬奏吴曝学问颇优，帝命召至乾清门前监试，中行评博一体考试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  },
+  {
+   "name": "吴曝",
+   "role": "行取官员"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7307,
+ "page_range": "157-158"
+}

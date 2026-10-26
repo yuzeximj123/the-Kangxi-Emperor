@@ -1,0 +1,40 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "九卿覆总督华显疏参粮道黄明、御史吴达禅因行盐事互相讦，康熙帝指审案不明，令问明级色、徐秉勾另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "华显",
+   "role": "总督"
+  },
+  {
+   "name": "黄明",
+   "role": "粮道"
+  },
+  {
+   "name": "吴达禅",
+   "role": "御史"
+  },
+  {
+   "name": "级色",
+   "role": "官员"
+  },
+  {
+   "name": "徐秉勾",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "米峪口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 202,
+ "page_range": "15-16"
+}

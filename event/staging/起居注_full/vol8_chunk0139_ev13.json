@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "初三日",
+ "event_role": "司法案件",
+ "summary": "刑部等覆安徽巡抚梁世勋题高明道、高明应谋杀表兄张虎臣照律即行处斩，康熙就此案有所谕示。",
+ "people": [
+  {
+   "name": "梁世勋",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "高明道",
+   "role": "案犯"
+  },
+  {
+   "name": "高明应",
+   "role": "案犯"
+  },
+  {
+   "name": "张虎臣",
+   "role": "被害人"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13913,
+ "page_range": "289-290"
+}

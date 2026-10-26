@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "十一日乙雍",
+ "event_role": "河工水利",
+ "summary": "康熙帝阅郭家务以下被淤卑矮堤工，谕水长则新开之河可处，命会同王新命动用捐助银两酌量加帮增高，公阅议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "郭家务"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13917,
+ "page_range": "288-289"
+}

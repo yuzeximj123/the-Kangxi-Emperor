@@ -1,0 +1,36 @@
+{
+ "reign_year": 13,
+ "month": 2,
+ "day_text": "十九日癸丑",
+ "event_role": "祭祀典礼",
+ "summary": "巳时，康熙帝御保和殿举行经筵大典，讲官进讲四书与《书经》，讲毕赐宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常瓯",
+   "role": "讲官"
+  },
+  {
+   "name": "李仙根",
+   "role": "讲官"
+  },
+  {
+   "name": "折库纳",
+   "role": "讲官"
+  },
+  {
+   "name": "吴正治",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6709,
+ "page_range": "191-192"
+}

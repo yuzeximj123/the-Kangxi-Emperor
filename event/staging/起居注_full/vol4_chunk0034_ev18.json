@@ -1,0 +1,41 @@
+{
+ "reign_year": 27,
+ "month": 7,
+ "day_text": "初七日了丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内澹宁居，大学士伊桑阿等以折本请旨，吏部题巡抚杨素蕴等督修战船稽迟应议罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "学士"
+  },
+  {
+   "name": "吴世巴",
+   "role": "学士"
+  },
+  {
+   "name": "萨木哈",
+   "role": "学士"
+  },
+  {
+   "name": "杨素蕴",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "澹宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3418,
+ "page_range": "80-81"
+}

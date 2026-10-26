@@ -1,0 +1,25 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": "三十日甲戌",
+ "event_role": "议政听政",
+ "summary": "诸王贝勒大臣公同启奏皇太后，请其敦劝皇上于元旦回宫，以免乾清宫封闭。",
+ "people": [
+  {
+   "name": "诸王贝勒大臣",
+   "role": "王大臣"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "慈宁宫",
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 26117,
+ "page_range": "557-558"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "议索诺穆等贝勒台吉不约束部众、盗贼凶恶及不遵移内地之令，康熙帝决定将索诺穆贝勒及其所属移居他处，令厄尔德穆图兼辖。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索诺穆",
+   "role": "贝勒"
+  },
+  {
+   "name": "根敦",
+   "role": "贝勒"
+  },
+  {
+   "name": "老卜臧",
+   "role": "贝勒"
+  },
+  {
+   "name": "厄尔德穆图",
+   "role": "土墨特贝勒"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14803,
+ "page_range": "308-309"
+}

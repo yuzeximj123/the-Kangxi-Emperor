@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初三日闫未",
+ "event_role": "人事任免",
+ "summary": "吏部覆总河张鹏翮题请原任知县王来硕补授天津海防同知，议不准行，康熙帝命照该督题请补授。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "王来硕",
+   "role": "原任知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2006,
+ "page_range": "51-52"
+}

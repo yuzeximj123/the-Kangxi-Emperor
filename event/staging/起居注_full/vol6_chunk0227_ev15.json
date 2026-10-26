@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十四日丁酉",
+ "event_role": "人事任免",
+ "summary": "伊桑阿奏长洲知县员缺问九卿，康熙帝命将徐潮所保举知县陈治策调补长洲知县。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "徐潮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "陈治策",
+   "role": "保举知县"
+  }
+ ],
+ "places": [
+  "长洲县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22715,
+ "page_range": "464-465"
+}

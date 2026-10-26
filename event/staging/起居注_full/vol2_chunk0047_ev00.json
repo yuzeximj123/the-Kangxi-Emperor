@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命侍卫乌大禅传谕大学士勒德洪等，本章由三日一送改为两日一送，停止内阁官员及旗下官兵护送，改由驿递传送。",
+ "people": [
+  {
+   "name": "乌大禅",
+   "role": "头等亲随侍卫"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4700,
+ "page_range": "137-138"
+}

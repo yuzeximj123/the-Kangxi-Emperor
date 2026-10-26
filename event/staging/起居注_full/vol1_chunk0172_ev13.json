@@ -1,0 +1,21 @@
+{
+ "reign_year": 17,
+ "month": 11,
+ "day_text": "十九日丙辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝往太皇太后行宫，随太皇太后还京，亲掖登辇扶行数步后乘马随行，驻跸牛门口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后行宫",
+  "牛门口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17213,
+ "page_range": "401-402"
+}

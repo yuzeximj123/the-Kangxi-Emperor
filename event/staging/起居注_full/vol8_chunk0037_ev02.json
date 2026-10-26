@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论山西巡抚苏克济操守不能保但办事无可议，并指湖广、广东、浙江、四川巡抚居官不妥。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "噶礼",
+   "role": "前任山西巡抚"
+  }
+ ],
+ "places": [
+  "山西",
+  "湖广",
+  "广东",
+  "浙江",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3702,
+ "page_range": "85-86"
+}

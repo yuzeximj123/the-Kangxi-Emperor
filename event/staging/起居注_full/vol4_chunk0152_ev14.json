@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "二十六日辛雍",
+ "event_role": "河工水利",
+ "summary": "工部题毛城铺闸岸限内不能修完，请将同知王隆钻交吏部议处并展限三月，康熙帝责其草率，命严加议处并速行修筑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王隆钻",
+   "role": "同知"
+  }
+ ],
+ "places": [
+  "毛城铺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15214,
+ "page_range": "316-317"
+}

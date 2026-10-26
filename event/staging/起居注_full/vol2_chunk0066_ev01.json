@@ -1,0 +1,33 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "侍讲王鸿绪疏参湖广朱方旦邪教煽惑，康熙帝认定朱方旦悖逆煽惑属实，命严拿究拟并申饬督抚言官不参劾之咎。",
+ "people": [
+  {
+   "name": "王鸿绪",
+   "role": "侍讲"
+  },
+  {
+   "name": "朱方旦",
+   "role": "被参邪教首领"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖广",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6601,
+ "page_range": "175-176"
+}

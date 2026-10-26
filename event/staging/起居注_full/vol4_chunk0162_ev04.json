@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "十九日庚午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户部，河南一省康熙三十一年钱粮通行蠲免并停征漕银，山西陕西被灾州县照分数蠲免并缓征。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南",
+  "山西",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16204,
+ "page_range": "336-337"
+}

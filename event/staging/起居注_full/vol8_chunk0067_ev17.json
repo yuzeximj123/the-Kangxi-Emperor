@@ -1,0 +1,29 @@
+{
+ "reign_year": 53,
+ "month": 7,
+ "day_text": "二十七日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部题直隶、江南提督学政开列李周望、查郧环等职名，康熙帝命问九卿各举所知。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李周望",
+   "role": "侍讲"
+  },
+  {
+   "name": "查郧环",
+   "role": "侍讲"
+  }
+ ],
+ "places": [
+  "直隶",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6717,
+ "page_range": "145-146"
+}

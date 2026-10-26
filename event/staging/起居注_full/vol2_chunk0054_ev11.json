@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十日壬申",
+ "event_role": "司法案件",
+ "summary": "兵部题前锋桑保拟绞、乌萨纳等枷号鞭责，康熙命桑保免死减等发落，余依议。",
+ "people": [
+  {
+   "name": "桑保",
+   "role": "前锋"
+  },
+  {
+   "name": "乌萨纳",
+   "role": "骁骑"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东湖",
+  "保宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5411,
+ "page_range": "151-152"
+}

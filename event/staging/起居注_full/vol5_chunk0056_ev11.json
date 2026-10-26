@@ -1,0 +1,25 @@
+{
+ "reign_year": 34,
+ "month": 1,
+ "day_text": "二十六日戊子",
+ "event_role": "人事任免",
+ "summary": "吏部题闽浙总督朱弘祚举荐卓异涉妄奏，议降四级调用，康熙帝以其居官优着问九卿。",
+ "people": [
+  {
+   "name": "朱弘祚",
+   "role": "闽浙总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "闽浙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5611,
+ "page_range": "122-123"
+}

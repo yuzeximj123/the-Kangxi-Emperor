@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "十五日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士马齐等查明八旗兵丁赏银已扣及余剩数目，命免其扣除。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14015,
+ "page_range": "291-292"
+}

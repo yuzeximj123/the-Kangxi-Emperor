@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "初十日丙申",
+ "event_role": "人事任免",
+ "summary": "兵部题山东沂州等处副将张玉鹿等员缺，康熙帝命将记名之参将韩天福等三人补授，令速赴新任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉鹿",
+   "role": "副将"
+  },
+  {
+   "name": "杨雄",
+   "role": "参将"
+  },
+  {
+   "name": "韩天福",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "山东沂州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10003,
+ "page_range": "210-211"
+}

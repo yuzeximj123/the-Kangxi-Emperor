@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部议河北总兵官冯君洗未将宜阳县亢挺等贼情奏闻请罪，拟革职交尚书张廷枢严审，康熙帝命暂收贮待审明再奏。",
+ "people": [
+  {
+   "name": "冯君洗",
+   "role": "河北总兵官"
+  },
+  {
+   "name": "张廷枢",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "河北",
+  "宜阳县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20912,
+ "page_range": "429-430"
+}

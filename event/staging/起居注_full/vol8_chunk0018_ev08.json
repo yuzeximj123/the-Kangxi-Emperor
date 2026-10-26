@@ -1,0 +1,34 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初三日己卯",
+ "event_role": "谕旨决策",
+ "summary": "兵部题招抚海贼陈尚义等议叙蔡文、罗南等升赏及水手林兴等赏恤事，康熙帝质问水手何以比照着伤例议叙，命问明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈尚义",
+   "role": "海贼"
+  },
+  {
+   "name": "蔡文",
+   "role": "候选知县"
+  },
+  {
+   "name": "罗南",
+   "role": "候推守备年满千总"
+  },
+  {
+   "name": "林兴",
+   "role": "水手"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1808,
+ "page_range": "47-48"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆总督华显题补游击守备员缺议不准行，康熙令将舒明等五人带京引见。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "华显",
+   "role": "总督"
+  },
+  {
+   "name": "舒明",
+   "role": "守备"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2207,
+ "page_range": "55-56"
+}

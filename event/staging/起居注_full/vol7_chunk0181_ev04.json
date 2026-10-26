@@ -1,0 +1,42 @@
+{
+ "reign_year": 50,
+ "month": 8,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "福建陆路提督蓝理奏报永春、德化二县盗首陈五显等逼勒愚民入伙抢夺，官兵两次遇敌杀贼八十余名，陈五显脱逃。",
+ "people": [
+  {
+   "name": "蓝理",
+   "role": "福建陆路提督"
+  },
+  {
+   "name": "陈五显",
+   "role": "盗首"
+  },
+  {
+   "name": "尚之班",
+   "role": "参将"
+  },
+  {
+   "name": "张振",
+   "role": "盗首"
+  },
+  {
+   "name": "王富",
+   "role": "盗首"
+  },
+  {
+   "name": "苏标",
+   "role": "盗首"
+  }
+ ],
+ "places": [
+  "福建",
+  "永春县",
+  "德化县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18104,
+ "page_range": "373-374"
+}

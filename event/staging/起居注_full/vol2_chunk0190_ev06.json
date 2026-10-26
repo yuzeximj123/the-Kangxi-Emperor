@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "未时康熙御景山内前殿赐福建巡抚金匀食，谕以实心料理地方，金匀陛辞。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金匀",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19006,
+ "page_range": "423-424"
+}

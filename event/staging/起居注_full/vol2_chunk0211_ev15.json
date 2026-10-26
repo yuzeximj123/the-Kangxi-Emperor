@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初七日丙午",
+ "event_role": "人事任免",
+ "summary": "吏部题补起居注主事孙文光病故员缺，正拟中书赵英、陪拟太常寺博士徐宗周，康熙帝以关系机密命吏部会同翰林院选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙文光",
+   "role": "起居注主事"
+  },
+  {
+   "name": "赵英",
+   "role": "拟正中书"
+  },
+  {
+   "name": "徐宗周",
+   "role": "拟陪太常寺博士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21115,
+ "page_range": "465-466"
+}

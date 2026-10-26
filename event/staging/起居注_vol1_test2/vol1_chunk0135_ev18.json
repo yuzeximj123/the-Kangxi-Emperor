@@ -1,0 +1,32 @@
+{
+ "reign_year": 16,
+ "month": 4,
+ "day_text": "二十五日辛未",
+ "event_role": "其他",
+ "summary": "辰时康熙帝御弘德殿，讲官喇沙里、陈廷敬、叶方殴进讲《孟子》仕非为贫也一章、万章曰士之不托诸侯何也四节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方殴",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13518,
+ "page_range": "327-328"
+}

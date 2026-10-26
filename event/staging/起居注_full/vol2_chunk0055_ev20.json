@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十五日了丑",
+ "event_role": "谕旨决策",
+ "summary": "玉田县知县王光席迎接太皇太后圣驾迟误议罚，康熙指出兵部吏部处分文武职轻重互异，命该部会同兵部画一具奏。",
+ "people": [
+  {
+   "name": "王光席",
+   "role": "玉田县知县"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "玉田县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5520,
+ "page_range": "153-154"
+}

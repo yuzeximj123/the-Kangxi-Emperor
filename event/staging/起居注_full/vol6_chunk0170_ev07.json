@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "二十一日庚成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士等，直隶引水耕种不可太急，若定例齐举催查则难行，应待百姓见利自然效法，因地制宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17007,
+ "page_range": "350-351"
+}

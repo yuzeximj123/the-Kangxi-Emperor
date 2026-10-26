@@ -1,0 +1,30 @@
+{
+ "date_raw": "肆月贰拾伍日",
+ "reign_year": null,
+ "month": 4,
+ "day": 25,
+ "event_role": "请安谢恩",
+ "summary": "太原总兵官金国正奏请圣安，感谢皇上召见垂问，并请求随驾熟河未获允准，现赴任后专差家人赍奏叩请圣安。",
+ "people": [
+  {
+   "name": "金国正",
+   "role": "镇守山西太原等处地方总兵官、署都督佥事"
+  },
+  {
+   "name": "张世辛",
+   "role": "金国正家人，专差赍捧奏折"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原",
+  "熟河"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 151
+}

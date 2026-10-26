@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初二日王成",
+ "event_role": "谕旨决策",
+ "summary": "吏部覆奏御史都甫条奏分遣西新、龙江关差一事，康熙帝令交九卿会议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "都甫",
+   "role": "湖广道监察御史"
+  }
+ ],
+ "places": [
+  "西新",
+  "龙江关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7807,
+ "page_range": "191-192"
+}

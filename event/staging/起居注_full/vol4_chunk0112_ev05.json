@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读唐太宗时山东旱诏赈恤蠲租赋论，强调蠲租为爱民实政，杜讷对答称颂。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜讷",
+   "role": "臣子"
+  },
+  {
+   "name": "唐太宗",
+   "role": "唐朝皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11205,
+ "page_range": "236-237"
+}

@@ -1,0 +1,48 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士温达等以湖广永州总兵官缺，呈九卿保举副将高晟、陈尚武、马规伯折子，康熙命陈尚武补授。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "和伦",
+   "role": "尚书"
+  },
+  {
+   "name": "高晟",
+   "role": "副将"
+  },
+  {
+   "name": "荆时中",
+   "role": "御史"
+  },
+  {
+   "name": "陈尚武",
+   "role": "副将"
+  },
+  {
+   "name": "董弘彪",
+   "role": "御史"
+  },
+  {
+   "name": "马规伯",
+   "role": "副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广永州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2408,
+ "page_range": "59-60"
+}

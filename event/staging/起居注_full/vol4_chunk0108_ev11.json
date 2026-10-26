@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "二十三日甲实",
+ "event_role": "人事任免",
+ "summary": "兵部题覆川陕总督葛思泰奏请，康熙帝谕令功臣之子陈世琳于直隶地方副将缺录用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葛思泰",
+   "role": "川陕总督"
+  },
+  {
+   "name": "陈世琳",
+   "role": "精奇尼哈番"
+  },
+  {
+   "name": "陈福",
+   "role": "陕西提督"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10811,
+ "page_range": "228-229"
+}

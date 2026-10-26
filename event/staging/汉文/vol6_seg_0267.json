@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十五年二月十六日",
+ "reign_year": 55,
+ "month": 2,
+ "day": 20,
+ "event_role": "朝见受贺",
+ "summary": "延绥总兵李耀为庆贺康熙万寿圣节，恭进土物并遣家人马进仁赍折呈递，以表犬马微忱。",
+ "people": [
+  {
+   "name": "李耀",
+   "role": "延绥总兵（镇守西安等处地方副将管总兵官事）"
+  },
+  {
+   "name": "马进仁",
+   "role": "李耀家人，奉命赍折进土物"
+  }
+ ],
+ "places": [
+  "西安",
+  "延绥",
+  "阙廷"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "延綏總兵李耀奏賀萬壽並進土物摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "2016",
+ "order_index": 267
+}

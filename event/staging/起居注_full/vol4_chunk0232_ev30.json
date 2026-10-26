@@ -1,0 +1,20 @@
+{
+ "reign_year": 32,
+ "month": 4,
+ "day_text": "二十八日",
+ "event_role": "军务",
+ "summary": "兵部题归化城将军以副都统马思喀等职名开列及蒙古内大臣、八旗等事。",
+ "people": [
+  {
+   "name": "马思喀",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23230,
+ "page_range": "476-477"
+}

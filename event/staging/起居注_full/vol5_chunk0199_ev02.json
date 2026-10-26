@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕王化行，噶尔丹未灭马匹紧要，宁夏兵往返花马池恐致马瘦，令速止其来迎，余兵不必披执，待至宁夏闲暇再阅军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王化行",
+   "role": "宁夏总兵官"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "花马池",
+  "榆林"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19902,
+ "page_range": "408-409"
+}

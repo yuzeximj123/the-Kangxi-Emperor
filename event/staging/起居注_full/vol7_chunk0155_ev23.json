@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": "初六日乙丑",
+ "event_role": "朝见受贺",
+ "summary": "东安县防守御赛柱、知县周土杏等来朝见。",
+ "people": [
+  {
+   "name": "赛柱",
+   "role": "东安县防守御"
+  },
+  {
+   "name": "周土杏",
+   "role": "东安县知县"
+  }
+ ],
+ "places": [
+  "东安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15523,
+ "page_range": "321-322"
+}

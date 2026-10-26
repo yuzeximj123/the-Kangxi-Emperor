@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "十六日乙未",
+ "event_role": "人事任免",
+ "summary": "吏部题补礼部尚书员缺，康熙帝以帅颜保有疾、工部事繁，命转补礼部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "帅颜保",
+   "role": "左都御史"
+  },
+  {
+   "name": "萨穆哈",
+   "role": "左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9809,
+ "page_range": "239-240"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "十八日",
+ "event_role": "人事任免",
+ "summary": "兵部题广西左江镇标右营游击员缺，以刘大壮补授，康熙帝命带升衔留原任，韩良辅亦留原任。",
+ "people": [
+  {
+   "name": "刘大壮",
+   "role": "直隶马水口都司"
+  },
+  {
+   "name": "赵弘伙",
+   "role": "官员"
+  },
+  {
+   "name": "韩良辅",
+   "role": "大名副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西",
+  "直隶",
+  "大名"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16815,
+ "page_range": "347-348"
+}

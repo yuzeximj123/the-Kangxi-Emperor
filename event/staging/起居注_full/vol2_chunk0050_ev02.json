@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "初三日乙卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝随太皇太后从东直门入京，诸王百官于东华门外跪迎，帝扶掖太皇太后至慈宁宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "东直门",
+  "东华门",
+  "慈宁宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5002,
+ "page_range": "143-144"
+}

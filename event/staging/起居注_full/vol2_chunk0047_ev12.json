@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "初七日庚寅",
+ "event_role": "军务",
+ "summary": "湖广巡抚王新命回奏将军噶尔汉下官兵粮饷陆续解到并无迟误，康熙帝以粮饷关系紧要命尔格免、范承勋详察具奏。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "噶尔汉",
+   "role": "将军"
+  },
+  {
+   "name": "尔格免",
+   "role": "郎中"
+  },
+  {
+   "name": "范承勋",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4712,
+ "page_range": "137-138"
+}

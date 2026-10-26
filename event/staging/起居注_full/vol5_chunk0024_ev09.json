@@ -1,0 +1,36 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初七日癸酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙言初四日召集翰林官于丰泽园作“理学真伪论”，熊赐瓒见此拂意、应抬写之字不抬写，王熙等奏称命题使人知所遵行。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐瓒",
+   "role": "翰林官"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "王掞",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "丰泽园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2409,
+ "page_range": "58-59"
+}

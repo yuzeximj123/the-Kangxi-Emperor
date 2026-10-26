@@ -1,0 +1,20 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕将所带米粮留贮库勒诺尔地方，命每旗派大臣、部院大臣、章京及内府戏骑各三名视收贮，收贮毕速来，所派章京、戏骑同蒙古兵谨慎看守。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "库勒诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10800,
+ "page_range": "226-227"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "十三日庚寅",
+ "event_role": "人事任免",
+ "summary": "吏部覆直隶巡抚李光地参保定府知府祖允禧拟革职交刑部议罪，康熙帝令祖允禧革职，不必交刑部。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "祖允禧",
+   "role": "保定府知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3430,
+ "page_range": "79-80"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问诸臣中河逼近黄河、黄水涨溢恐为中河之害，马齐、图纳等奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大臣"
+  },
+  {
+   "name": "图纳",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "中河",
+  "黄河",
+  "清江浦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6300,
+ "page_range": "138-139"
+}

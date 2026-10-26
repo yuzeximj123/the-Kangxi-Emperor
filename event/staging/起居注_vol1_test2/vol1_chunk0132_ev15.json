@@ -1,0 +1,24 @@
+{
+ "reign_year": 16,
+ "month": 3,
+ "day_text": "十四日庚寅",
+ "event_role": "皇帝行止",
+ "summary": "谕毕于懋勤殿赐喇沙里等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13215,
+ "page_range": "321-322"
+}

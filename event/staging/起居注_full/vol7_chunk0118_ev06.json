@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "初二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论雅图出首副都统罗察侵蚀官田租息事，认为雅图系棍徒诬陷，并追论索额图旧事。",
+ "people": [
+  {
+   "name": "雅图",
+   "role": "告发者"
+  },
+  {
+   "name": "罗察",
+   "role": "副都统"
+  },
+  {
+   "name": "索额图",
+   "role": "原大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11806,
+ "page_range": "247-248"
+}

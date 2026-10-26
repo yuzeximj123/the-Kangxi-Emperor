@@ -1,0 +1,21 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十五日壬午",
+ "event_role": "司法案件",
+ "summary": "九卿会议广东、云南秋审事，康熙谕贪官之罪断不可宽，欲将今岁贪官概行处决，余照所议完结。",
+ "people": [
+  {
+   "name": "耿文明",
+   "role": "贪官"
+  }
+ ],
+ "places": [
+  "广东",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10905,
+ "page_range": "253-254"
+}

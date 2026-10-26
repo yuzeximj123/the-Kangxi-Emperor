@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "初九日己酉",
+ "event_role": "朝见受贺",
+ "summary": "青县知县周迪大、成县把总周祯等来朝。",
+ "people": [
+  {
+   "name": "周迪大",
+   "role": "青县知县"
+  },
+  {
+   "name": "周祯",
+   "role": "成县把总"
+  }
+ ],
+ "places": [
+  "青县",
+  "成县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7909,
+ "page_range": "168-169"
+}

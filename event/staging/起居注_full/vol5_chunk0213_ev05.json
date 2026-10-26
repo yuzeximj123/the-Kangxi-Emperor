@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "闰三月初十日",
+ "event_role": "谕旨决策",
+ "summary": "奉旨依议，选给马驼，着公福善、亲近侍卫关保、侍卫阿尔柱、马锡监发。",
+ "people": [
+  {
+   "name": "福善",
+   "role": "公"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "阿尔柱",
+   "role": "侍卫"
+  },
+  {
+   "name": "马锡",
+   "role": "侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21305,
+ "page_range": "436-437"
+}

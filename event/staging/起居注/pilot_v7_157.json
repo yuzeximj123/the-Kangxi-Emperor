@@ -1,0 +1,40 @@
+{
+ "date_raw": "初九日甲子",
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初九日甲子",
+ "event_role": "议政听政",
+ "summary": "大学士马齐等以折本请旨，议简亲王雅布侧妃所生女封多罗格格及侧妃女减等授封事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "恩丕",
+   "role": "学士"
+  },
+  {
+   "name": "黑寿",
+   "role": "学士"
+  },
+  {
+   "name": "雅布",
+   "role": "简亲王"
+  },
+  {
+   "name": "李迪",
+   "role": "额驸"
+  }
+ ],
+ "places": [
+  "宗人府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3157
+}

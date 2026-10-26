@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十一年三月二十六日",
+ "reign_year": 51,
+ "month": 3,
+ "day": 21,
+ "event_role": "奏报地方情形",
+ "summary": "直隶总督赵弘燮奏报热河地方得雨沾足、秋禾茂盛，并报保定府属得雨情形，兼请皇上圣躬万安。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督，奏报人"
+  }
+ ],
+ "places": [
+  "热河",
+  "保定府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批答自己安好，并说明热河一带已降大雨三次、雨水润遍。",
+ "source_title": "鎮筸將軍潘育龍奏報謝上賜弓矢等物摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1053",
+ "order_index": 28
+}

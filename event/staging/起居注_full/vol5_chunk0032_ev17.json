@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "初六日壬申",
+ "event_role": "人事任免",
+ "summary": "吏部题升授府道员缺，康熙帝以南昌府地方紧要，命将各部所保举郎中、员外及总督傅腊塔保举之员查奏选补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "原任总督"
+  }
+ ],
+ "places": [
+  "南昌府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3217,
+ "page_range": "74-75"
+}

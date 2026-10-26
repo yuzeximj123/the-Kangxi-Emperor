@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十日两子",
+ "event_role": "人事任免",
+ "summary": "吏部题补郎中尹源进，明珠奏其广东叛乱时遁居海滨未受伪职、为人勤慎，康熙命将尹源进补授。",
+ "people": [
+  {
+   "name": "尹源进",
+   "role": "郎中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "汉清",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 413,
+ "page_range": "51-52"
+}

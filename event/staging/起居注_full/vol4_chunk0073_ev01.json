@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "理藩院题覆总管索伦马布代等所奏索伦、达胡里生计穷乏事，康熙帝命免其今年采取貂皮、大鹿。",
+ "people": [
+  {
+   "name": "马布代",
+   "role": "总管"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "索伦",
+  "达胡里"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7301,
+ "page_range": "158-159"
+}

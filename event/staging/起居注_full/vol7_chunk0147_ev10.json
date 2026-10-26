@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "浙闽总督梁秀请以汤明补授本标中军副将，康熙帝照所请准行。",
+ "people": [
+  {
+   "name": "梁秀",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "李涵",
+   "role": "本标中军副将"
+  },
+  {
+   "name": "汤明",
+   "role": "前任广东海门营参将管游击事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "广东",
+  "海门营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14710,
+ "page_range": "305-306"
+}

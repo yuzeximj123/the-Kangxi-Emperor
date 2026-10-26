@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅戴者麟拐出幼男常有藏于园内后寻获案，以未伤人姑免勾。",
+ "people": [
+  {
+   "name": "戴者麟",
+   "role": "案犯"
+  },
+  {
+   "name": "常有",
+   "role": "被拐幼男"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24304,
+ "page_range": "497-498"
+}

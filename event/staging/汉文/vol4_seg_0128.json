@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十一年十一月初六日",
+ "reign_year": 51,
+ "month": 11,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "云南巡抚吴存礼奏谢康熙钦赐鹿肉条，并转述遵旨劝谕百姓积贮，同时奏报雨雪调匀、麦苗茂盛及米豆时价。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "云南巡抚，奏折作者"
+  },
+  {
+   "name": "李秉恒",
+   "role": "吴存礼赍摺家人"
+  },
+  {
+   "name": "郭琇",
+   "role": "督臣（云贵总督）"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州",
+  "四川",
+  "广西",
+  "滇"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 128
+}

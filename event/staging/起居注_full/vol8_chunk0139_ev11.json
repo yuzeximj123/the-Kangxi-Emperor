@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "初三日",
+ "event_role": "司法案件",
+ "summary": "刑部等覆广东巡抚杨琳题大盗高隆裁、吴亚儒等应照律立决，康熙令会同三法司将造谋为首杀伤人者每案正法一二人，余减等完结。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "高隆裁",
+   "role": "大盗"
+  },
+  {
+   "name": "吴亚儒",
+   "role": "大盗"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13911,
+ "page_range": "289-290"
+}

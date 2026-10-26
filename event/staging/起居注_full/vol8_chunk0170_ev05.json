@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "礼部题原任浙江提督王世臣赐恤加谥请圣裁，康熙帝准用说帖，将本发回。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王世臣",
+   "role": "原任浙江提督"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17005,
+ "page_range": "351-352"
+}

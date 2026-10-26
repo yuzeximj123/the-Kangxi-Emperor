@@ -1,0 +1,23 @@
+{
+ "reign_year": 16,
+ "month": 10,
+ "day_text": "初十日癸丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝设卤簿自朝阳门进午门，赴太皇太后、皇太后宫问安后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝阳门",
+  "午门",
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14706,
+ "page_range": "351-352"
+}

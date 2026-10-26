@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "二十九日乙丑",
+ "event_role": "人事任免",
+ "summary": "吏部题太仆寺卿张可前升任员缺，拟陈寿正、徐元瑞陪，康熙帝以其庸常，命查奏以次应升之人。",
+ "people": [
+  {
+   "name": "张可前",
+   "role": "太仆寺卿"
+  },
+  {
+   "name": "陈寿",
+   "role": "左通政"
+  },
+  {
+   "name": "徐元瑞",
+   "role": "右通政"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 910,
+ "page_range": "53-54"
+}

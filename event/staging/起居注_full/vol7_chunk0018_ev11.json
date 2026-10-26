@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初八日戊午",
+ "event_role": "人事任免",
+ "summary": "霸州知州李铎病故，康熙帝命太原府知府罗伦带知府衔管知州事，罗伦员缺由赵凤诏补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李铎",
+   "role": "霸州知州"
+  },
+  {
+   "name": "罗伦",
+   "role": "太原府知府"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "补授官员"
+  }
+ ],
+ "places": [
+  "霸州",
+  "太原府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1811,
+ "page_range": "47-48"
+}

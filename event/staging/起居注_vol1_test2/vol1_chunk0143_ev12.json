@@ -1,0 +1,36 @@
+{
+ "reign_year": 16,
+ "month": 8,
+ "day_text": "十五日己未",
+ "event_role": "其他",
+ "summary": "巳时，康熙帝御保和殿举行经筵大典，讲官王熙、胡密色进讲《四书》，陈廷敬、库勒纳进讲《书经》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "讲官"
+  },
+  {
+   "name": "胡密色",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14312,
+ "page_range": "343-344"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "二十三日",
+ "event_role": "司法案件",
+ "summary": "刑部题覆打死人命事，康熙以三儿与尹存儿素无仇隙因戏致死，与故杀不同，命减等。",
+ "people": [
+  {
+   "name": "三儿",
+   "role": "案犯"
+  },
+  {
+   "name": "尹存儿",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21231,
+ "page_range": "481-482"
+}

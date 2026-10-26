@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以蓝理已革职、提督事务紧要，令查福州副都统职名具奏。",
+ "people": [
+  {
+   "name": "蓝理",
+   "role": "已革职提督"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18409,
+ "page_range": "379-380"
+}

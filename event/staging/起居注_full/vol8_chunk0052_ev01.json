@@ -1,0 +1,24 @@
+{
+ "reign_year": 53,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "江宁巡抚张伯行请康熙帝为湾治关闽诸书作序，康熙帝命交九卿议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5201,
+ "page_range": "115-116"
+}

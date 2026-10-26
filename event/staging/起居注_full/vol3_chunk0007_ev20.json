@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "十五日辛雍",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁学士胡简敬升任员缺，开列少詹蒋弘道等，康熙帝询问满汉诸臣之意。",
+ "people": [
+  {
+   "name": "胡简敬",
+   "role": "内阁学士"
+  },
+  {
+   "name": "蒋弘道",
+   "role": "少詹"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 720,
+ "page_range": "49-50"
+}

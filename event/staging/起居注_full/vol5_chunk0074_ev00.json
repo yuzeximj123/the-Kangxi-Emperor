@@ -1,0 +1,20 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝认为湖南布政使杨凤起居官好、为人优，命将杨凤起交九卿具奏。",
+ "people": [
+  {
+   "name": "杨凤起",
+   "role": "湖南布政使"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7400,
+ "page_range": "158-159"
+}

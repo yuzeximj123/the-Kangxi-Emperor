@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "十七日癸巳",
+ "event_role": "军务",
+ "summary": "科臣孙草条奏海贼宜缓进剿、投诚兵丁安插内地、南澳设总兵，帝命闽广督抚提督会确议南澳设防，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙草",
+   "role": "科臣"
+  }
+ ],
+ "places": [
+  "南澳",
+  "福建",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12812,
+ "page_range": "299-300"
+}

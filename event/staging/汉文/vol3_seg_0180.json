@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十年六月初二日",
+ "reign_year": 50,
+ "month": 6,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹寅奏报江南雨水充足、插秧完毕，并呈五月晴雨录，同时恭请圣安。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏报人"
+  }
+ ],
+ "places": [
+  "江南",
+  "京师"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“朕安”，回复曹寅的请安。",
+ "source_title": "江寧織造曹寅奏報江南雨水並插秧完畢摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "872",
+ "order_index": 180
+}

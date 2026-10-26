@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命亲近侍卫关保传谕议政大臣，令尚书班第随大兵后安站改为在前安站，议政大臣会议赞同并请召班第来令于前途相距一宿地方安站。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "班第",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10901,
+ "page_range": "228-229"
+}

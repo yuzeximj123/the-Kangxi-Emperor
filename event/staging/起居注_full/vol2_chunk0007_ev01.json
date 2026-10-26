@@ -1,0 +1,23 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "event_scope": "朝议",
+ "summary": "刑部议杨春荣亡行条奏应照例徒杖，康熙念其无大罪，命免徒杖，所奏不准行。",
+ "people": [
+  {
+   "name": "杨春荣",
+   "role": "被议官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 701,
+ "page_range": "57-58"
+}

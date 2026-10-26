@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十七年七月初二日",
+ "reign_year": 57,
+ "month": 7,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹頫奏报江南今年雨水调匀、田禾茂盛可望丰收，米价每石八钱至九钱，并汇报散发御赐稻种及呈送稻米样和六月晴雨录。",
+ "people": [
+  {
+   "name": "曹頫",
+   "role": "江宁织造，奏报人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧織造曹頫奏報江南收成米價並散發御賜稻種情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2647",
+ "order_index": 83
+}

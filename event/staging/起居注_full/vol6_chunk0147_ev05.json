@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "二十七日庚申",
+ "event_role": "人事任免",
+ "summary": "吏部题请考满学道陆鸣珂等八人内照例内升一员，康熙帝以无甚好者、居官平平，令照常叙用不必内升。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陆鸣珂",
+   "role": "学道"
+  },
+  {
+   "name": "张鹏副",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14705,
+ "page_range": "304-305"
+}

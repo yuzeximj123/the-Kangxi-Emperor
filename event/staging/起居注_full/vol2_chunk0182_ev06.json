@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十七日己已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕库勒纳等前往贵州妥善区处土司事务，务使可永远奉行，即决断定议来覆，不得游移两可。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "贵州",
+  "大定",
+  "黔西",
+  "威宁",
+  "平远"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18206,
+ "page_range": "407-408"
+}

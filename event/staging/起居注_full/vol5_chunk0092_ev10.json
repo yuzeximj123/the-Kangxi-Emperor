@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": "初六日甲午",
+ "event_role": "人事任免",
+ "summary": "遵旨查看郎中雅胡达、对兰，雅胡达年貌已衰不能行走属实，对兰尚可行走；命雅胡达解任，对兰留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雅胡达",
+   "role": "郎中"
+  },
+  {
+   "name": "对兰",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9210,
+ "page_range": "194-195"
+}

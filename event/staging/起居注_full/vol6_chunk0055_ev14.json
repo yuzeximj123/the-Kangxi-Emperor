@@ -1,0 +1,40 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "十五日丙戌",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士伊桑阿、学士噶礼、辛保、温达以折本请旨，处理刑部覆黑龙江将军萨布素题偷采东珠案。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "噶礼",
+   "role": "学士"
+  },
+  {
+   "name": "辛保",
+   "role": "学士"
+  },
+  {
+   "name": "温达",
+   "role": "学士"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5514,
+ "page_range": "120-121"
+}

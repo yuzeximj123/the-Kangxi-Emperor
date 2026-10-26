@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御乾清门，赐郭尔罗斯部落二品台吉毕里滚敖齐尔、喀喇沁部落三品塔布吉元齐尔等茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "毕里滚敖齐尔",
+   "role": "郭尔罗斯部落二品台吉"
+  },
+  {
+   "name": "元齐尔",
+   "role": "喀喇沁部落三品塔布吉"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24102,
+ "page_range": "539-540"
+}

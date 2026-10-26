@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "初一日壬辰",
+ "event_role": "谕旨决策",
+ "summary": "户部题覆直隶巡抚于成龙同巡盐御史江蘅请蠲天津卫所新增盐引课银，议不准行，康熙帝令如该抚等所题蠲免。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "江蘅",
+   "role": "巡盐御史"
+  }
+ ],
+ "places": [
+  "天津卫",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10609,
+ "page_range": "224-225"
+}

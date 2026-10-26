@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "十八日壬戌",
+ "event_role": "请安谢恩",
+ "summary": "大学士勒德洪等因前蒙颁赐御笔升平嘉宴诗序未经谢恩，今各官请旨谢恩，命于太和殿前行礼。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "夸色",
+   "role": "胡都额真"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14611,
+ "page_range": "335-336"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "十九日甲辰",
+ "event_role": "人事任免",
+ "summary": "吏部题光禄寺正卿金得前降二级留任已满三年无过，请复其所降二级，康熙帝依议，并令庸劣的金得随旗行走。",
+ "people": [
+  {
+   "name": "金得",
+   "role": "光禄寺正卿"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15117,
+ "page_range": "314-315"
+}

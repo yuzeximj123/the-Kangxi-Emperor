@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "初五日乙酉",
+ "event_role": "司法案件",
+ "summary": "正蓝旗家人进财因角口用小刀戳死陈四，拟绞监候，康熙帝命查杀本管之人有无治罪定例。",
+ "people": [
+  {
+   "name": "进财",
+   "role": "家人"
+  },
+  {
+   "name": "陈四",
+   "role": "家人"
+  },
+  {
+   "name": "三世布",
+   "role": "正蓝旗闲散"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21213,
+ "page_range": "435-436"
+}

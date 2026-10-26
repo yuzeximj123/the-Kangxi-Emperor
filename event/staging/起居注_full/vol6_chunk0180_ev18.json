@@ -1,0 +1,40 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "初七日乙未",
+ "event_role": "朝见受贺",
+ "summary": "福建巡抚梅铀赴任恭请训旨，康熙帝命其洁己爱民、地方安静，效法张鹏翻、李光地、郭玫、彭鹏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梅铀",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "张鹏翻",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "郭玫",
+   "role": "官员"
+  },
+  {
+   "name": "彭鹏",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18018,
+ "page_range": "370-371"
+}

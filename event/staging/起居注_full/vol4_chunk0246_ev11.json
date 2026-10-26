@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "二十六日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部题理藩院尚书班第等将蒙古进贡事不详查、轻率错误启奏，康熙帝命班第、西喇从宽免调用，俱降二级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班第",
+   "role": "理藩院尚书"
+  },
+  {
+   "name": "西喇",
+   "role": "侍郎"
+  },
+  {
+   "name": "满耕",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24611,
+ "page_range": "504-505"
+}

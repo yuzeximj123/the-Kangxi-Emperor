@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初十日己酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论历朝应称某代，不必称故明，命除故明废藩字样，并令明朝诸王坟募人看守，着九卿等会议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21209,
+ "page_range": "467-468"
+}

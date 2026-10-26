@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "初四日成申",
+ "event_role": "谕旨决策",
+ "summary": "户部覆山西巡抚噶礼题河东巡盐御史马尔泰请于盐引用省扒，康熙帝询问常寿后命问九卿具奏。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "马尔泰",
+   "role": "河东巡盐御史"
+  },
+  {
+   "name": "常寿",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西",
+  "河东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5919,
+ "page_range": "129-130"
+}

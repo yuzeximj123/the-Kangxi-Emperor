@@ -1,0 +1,21 @@
+{
+ "reign_year": 14,
+ "month": 3,
+ "day_text": "二十四日王子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御中和殿，视祭朝日坛祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "朝日坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8702,
+ "page_range": "231-232"
+}

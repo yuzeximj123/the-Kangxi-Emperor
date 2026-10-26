@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "松柱奏喇茂题请发还打箭炉地方，康熙帝令下部议，并称打箭炉原系本朝地方，若伊务求此地则令其亲来与诸王大臣会议。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "喇茂",
+   "role": "题请人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "打箭炉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6801,
+ "page_range": "147-148"
+}

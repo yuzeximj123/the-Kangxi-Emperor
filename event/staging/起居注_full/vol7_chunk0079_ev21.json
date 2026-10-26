@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "未时",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥平阳府知府秦党无贤声且妄自矜负，降为县丞，并自述临政四十余年勤政事。",
+ "people": [
+  {
+   "name": "秦党",
+   "role": "平阳府知府，降为县丞"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7921,
+ "page_range": "169-170"
+}

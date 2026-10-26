@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十九年四月二十五日",
+ "reign_year": 59,
+ "month": 4,
+ "day": 25,
+ "event_role": "请安谢恩",
+ "summary": "直隶总督赵弘燮闻知皇帝出巡出口，上折恭请圣安。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督，奏折作者"
+  },
+  {
+   "name": "李煦",
+   "role": "奴才，奏折中提及的请安折作者"
+  },
+  {
+   "name": "张应诏",
+   "role": "两淮盐运使"
+  }
+ ],
+ "places": [
+  "直隶",
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批询问今年钱粮征收情况，并询问运使张应诏为人如何、是否有清名。",
+ "source_title": "直隶总督赵弘燮奏为闻銮辂出口恭请万安折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 353
+}

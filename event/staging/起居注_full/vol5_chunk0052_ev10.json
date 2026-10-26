@@ -1,0 +1,40 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "二十日癸丑",
+ "event_role": "奏报灾情收成",
+ "summary": "安布禄等回奏赈济安州等十一州县情况，用银二万三千余两、米二万三千余石，流民不多皆回原籍。",
+ "people": [
+  {
+   "name": "安布禄",
+   "role": "侍序"
+  },
+  {
+   "name": "常绥",
+   "role": "侍序"
+  },
+  {
+   "name": "哪奇",
+   "role": "郎中"
+  },
+  {
+   "name": "罗条",
+   "role": "郎中"
+  },
+  {
+   "name": "郭世隆",
+   "role": "巡抚"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "道员"
+  }
+ ],
+ "places": [
+  "安州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5210,
+ "page_range": "114-115"
+}

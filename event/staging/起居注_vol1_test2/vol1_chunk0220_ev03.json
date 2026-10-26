@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "福建总督姚启圣奏曾养性等归顺效力请补用而部议不准，康熙帝采纳明珠建议，乘机召见留用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "曾养性",
+   "role": "靖南王下属"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22003,
+ "page_range": "497-498"
+}

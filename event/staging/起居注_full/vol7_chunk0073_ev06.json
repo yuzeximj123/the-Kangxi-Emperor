@@ -1,0 +1,34 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初六日戊寅",
+ "event_role": "人事任免",
+ "summary": "浙江按察使于天昌员缺，拟周士贤为正、黄明为陪，康熙帝命问九卿举其所素知者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于天昌",
+   "role": "浙江按察使"
+  },
+  {
+   "name": "周士贤",
+   "role": "直隶口北道拟正"
+  },
+  {
+   "name": "黄明",
+   "role": "陕西督粮道拟陪"
+  }
+ ],
+ "places": [
+  "浙江",
+  "直隶",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7306,
+ "page_range": "157-158"
+}

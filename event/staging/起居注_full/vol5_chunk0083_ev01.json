@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问论德杨住中、允托尔惠为人，图纳称不曾同处办事不知其人，伊桑阿称二人原系中书为人亦可。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "论德杨住中",
+   "role": "官员"
+  },
+  {
+   "name": "允托尔惠",
+   "role": "官员"
+  },
+  {
+   "name": "图纳",
+   "role": "大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8301,
+ "page_range": "176-177"
+}

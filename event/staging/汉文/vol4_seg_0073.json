@@ -1,0 +1,32 @@
+{
+ "date_raw": "五月二十日",
+ "reign_year": null,
+ "month": 5,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚奏报收到皇上赏赐的鹿、雉、鱼等物，出郊跪迎祗领，具折恭谢天恩。",
+ "people": [
+  {
+   "name": "李维钧",
+   "role": "直隶巡抚、总河道，奏折作者"
+  },
+  {
+   "name": "李煦",
+   "role": "两淮盐法道，署理江宁织造"
+  },
+  {
+   "name": "应虎",
+   "role": "家人，赍回赏赐"
+  }
+ ],
+ "places": [
+  "保"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示皇帝已阅知此事。",
+ "source_title": "奏报两淮盐法道李煦署理江宁织造将盐政……经……等……",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1133",
+ "order_index": 73
+}

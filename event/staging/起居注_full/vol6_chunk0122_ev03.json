@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "初二日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以督捕衙门无事，谕令裁撤归并，命传谕大学士会同速议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱都纳",
+   "role": "督捕侍郎"
+  },
+  {
+   "name": "特默德",
+   "role": "内阁学士"
+  },
+  {
+   "name": "胡会恩",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12203,
+ "page_range": "254-255"
+}

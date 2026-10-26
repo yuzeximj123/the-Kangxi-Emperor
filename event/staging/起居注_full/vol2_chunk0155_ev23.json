@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初十日癸丑",
+ "event_role": "军务",
+ "summary": "兵部题议政王等会推镇守西安等处将军员缺，康熙帝询问会推之意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "和希福",
+   "role": "正红旗满洲都统"
+  },
+  {
+   "name": "额黑纳",
+   "role": "镶蓝旗护军统领"
+  }
+ ],
+ "places": [
+  "西安",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15523,
+ "page_range": "353-354"
+}

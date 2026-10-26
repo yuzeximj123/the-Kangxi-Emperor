@@ -1,0 +1,32 @@
+{
+ "reign_year": 14,
+ "month": 2,
+ "day_text": "十五日癸卯",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝早御太和殿视朝，文武升转官员及厄鲁特、喀尔喀、杜尔伯特等部落使臣谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达尔汉和硕齐",
+   "role": "厄鲁特部落使臣"
+  },
+  {
+   "name": "达西格档尔",
+   "role": "喀尔喀部落使臣"
+  },
+  {
+   "name": "厄尔德尼格隆",
+   "role": "杜尔伯特部落使臣"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8621,
+ "page_range": "229-230"
+}

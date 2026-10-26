@@ -1,0 +1,42 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十六日辛酉",
+ "event_role": "司法案件",
+ "summary": "游击李炮、守备柴桂芳等谎报杀败逆贼周云龙，康熙帝依议革职，并销去提督刘兆斌加级纪录，总督于成龙、巡抚余国柱交吏部议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李炮",
+   "role": "游击"
+  },
+  {
+   "name": "柴桂芳",
+   "role": "守备"
+  },
+  {
+   "name": "周云龙",
+   "role": "逆贼"
+  },
+  {
+   "name": "刘兆斌",
+   "role": "提督"
+  },
+  {
+   "name": "于成龙",
+   "role": "总督"
+  },
+  {
+   "name": "余国柱",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2315,
+ "page_range": "81-82"
+}

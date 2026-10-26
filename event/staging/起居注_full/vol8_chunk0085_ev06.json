@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "覆请兵部议覆川陕总督鄂海所题凉州总兵官喜铃修理边墙应加不随带二级一款。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "喜铃",
+   "role": "凉州总兵官"
+  }
+ ],
+ "places": [
+  "凉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8506,
+ "page_range": "181-182"
+}

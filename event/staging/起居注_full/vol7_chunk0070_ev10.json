@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十四日丁卯",
+ "event_role": "人事任免",
+ "summary": "川陕总督华显题临首、滑南二县知县员缺请以王继普等补授，康熙帝照所题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "华显",
+   "role": "川陕总督"
+  },
+  {
+   "name": "王继普",
+   "role": "候补知县"
+  }
+ ],
+ "places": [
+  "临首县",
+  "滑南县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7010,
+ "page_range": "151-152"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "十八日辛丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台勤政殿听政，部院各衙门官员面奏完毕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀛台勤政殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16801,
+ "page_range": "371-372"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "初八日乙巳",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御文华殿举行经筵大典，讲官库勒纳、徐元文讲《四书》，傅腊塔、张英讲《书经》。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "徐元文",
+   "role": "讲官"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6607,
+ "page_range": "144-145"
+}

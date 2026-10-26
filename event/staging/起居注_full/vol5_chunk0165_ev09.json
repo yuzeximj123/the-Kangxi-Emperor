@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "十五日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "阿兰泰奏阵亡人等眷属回京者由京师颁给，臣等亲身督发，康熙称善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16509,
+ "page_range": "340-341"
+}

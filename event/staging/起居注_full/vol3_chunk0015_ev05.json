@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝幸镶红旗教场，阅满洲、蒙古、汉军文武官员骑射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "镶红旗教场"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1505,
+ "page_range": "65-66"
+}

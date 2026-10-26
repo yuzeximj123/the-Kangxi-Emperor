@@ -1,0 +1,25 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "十六日甲午",
+ "event_role": "朝见受贺",
+ "summary": "获州知州董廷轧、欧州城守营都司候书茹丕等来朝见。",
+ "people": [
+  {
+   "name": "董廷轧",
+   "role": "获州知州"
+  },
+  {
+   "name": "茹丕",
+   "role": "欧州城守营都司"
+  }
+ ],
+ "places": [
+  "获州",
+  "欧州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11313,
+ "page_range": "269-270"
+}

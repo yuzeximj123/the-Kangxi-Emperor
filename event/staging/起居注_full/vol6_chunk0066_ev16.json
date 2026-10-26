@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初四日甲辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕督抚入见应详陈有司贤否小民疾苦，批评王继文入觐只请添兵设守备，命将折本译出细看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王继文",
+   "role": "督抚"
+  },
+  {
+   "name": "李林盛",
+   "role": "广西提督"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6616,
+ "page_range": "142-143"
+}

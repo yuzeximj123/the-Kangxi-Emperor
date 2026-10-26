@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十二年十二月",
+ "reign_year": 42,
+ "month": 12,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报苏州秋收雨水米价及民心安定情形，并进献洋漆雕漆器物。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知悉奏报内容。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "4",
+ "source_title": "苏州织造李煦奏报苏州雨水米价并进漆器摺",
+ "order_index": 3
+}

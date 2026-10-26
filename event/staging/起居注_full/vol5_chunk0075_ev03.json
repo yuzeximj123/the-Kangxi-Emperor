@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": "二十七日丁雍",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问广东防守御李廷芳来路及所见田禾，李廷芳奏由广州经江西而来，田禾茂盛，十分可收八分。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李廷芳",
+   "role": "广东防守御"
+  }
+ ],
+ "places": [
+  "广州",
+  "江西",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7503,
+ "page_range": "160-161"
+}

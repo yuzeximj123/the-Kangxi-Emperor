@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕战船关系紧要，不可核减太过，宜停止交武弁督修，着户工二部会同详议各省战船修例具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6302,
+ "page_range": "136-137"
+}

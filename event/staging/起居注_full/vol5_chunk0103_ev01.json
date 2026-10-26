@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "侍郎朱都纳因奉旨暂住土木，请以兵部事务交大学士伊桑阿管理，奉旨交大学士并令军机驰奏、平常事送京。",
+ "people": [
+  {
+   "name": "朱都纳",
+   "role": "侍郎"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "土木"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10301,
+ "page_range": "216-217"
+}

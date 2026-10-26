@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "张德、海色、徐尔济图、徐子等人命一案，康熙帝以其造意斗殴之处俱未承认。",
+ "people": [
+  {
+   "name": "张德",
+   "role": "案犯"
+  },
+  {
+   "name": "海色",
+   "role": "案犯"
+  },
+  {
+   "name": "徐尔济图",
+   "role": "案犯"
+  },
+  {
+   "name": "徐子",
+   "role": "案犯"
+  },
+  {
+   "name": "郝大",
+   "role": "争斗对方"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22910,
+ "page_range": "501-502"
+}

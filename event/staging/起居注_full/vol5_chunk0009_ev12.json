@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "初五日闪卯",
+ "event_role": "人事任免",
+ "summary": "镶红旗汉军副都统刘成龙员缺，康熙帝令护军参领班布升补副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘成龙",
+   "role": "镶红旗汉军副都统"
+  },
+  {
+   "name": "觉罗琵拜",
+   "role": "盛京兵部侍郎"
+  },
+  {
+   "name": "班布",
+   "role": "护军参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 912,
+ "page_range": "28-29"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "十三日乙已",
+ "event_role": "议政听政",
+ "summary": "已时康熙帝御畅春园内西厂阅试武举，兵部侍郎觉和托奏武举徐绥等一百七人分十一班试骑射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "觉和托",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "徐绥",
+   "role": "武举"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11616,
+ "page_range": "243-244"
+}

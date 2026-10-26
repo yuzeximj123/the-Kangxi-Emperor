@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "本直奏谢皇上免死加恩，愿以死报国，并回答历任广东、山西副将及在广东歼土贼千余人。",
+ "people": [
+  {
+   "name": "本直",
+   "role": "奏对官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24900,
+ "page_range": "555-556"
+}

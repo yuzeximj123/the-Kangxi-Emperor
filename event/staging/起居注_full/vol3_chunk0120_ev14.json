@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "初八日甲子",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶红旗蒙古都统佟佳解任员缺，拟莽喀正、缪齐纳陪，康熙帝命以莽喀补授。",
+ "people": [
+  {
+   "name": "佟佳",
+   "role": "镶红旗蒙古都统"
+  },
+  {
+   "name": "莽喀",
+   "role": "护军统领拟正"
+  },
+  {
+   "name": "缪齐纳",
+   "role": "副都统拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12014,
+ "page_range": "275-276"
+}

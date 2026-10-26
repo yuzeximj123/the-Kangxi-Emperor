@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "二十一日丁雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问汉大学士意见，李霨、王熙以台湾地要、弃之必为外国所据，主张守之；康熙帝以弃取所关甚大，令会同议政王等再行确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 123,
+ "page_range": "37-38"
+}

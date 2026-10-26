@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙伍拾陆年正月初捌日",
+ "reign_year": 56,
+ "month": 1,
+ "day": 8,
+ "event_role": "请安谢恩",
+ "summary": "贵州大定总兵官张弘印在军营恭祝康熙皇帝万寿并叩请圣安，遣家人张长庚代进奏折。",
+ "people": [
+  {
+   "name": "张弘印",
+   "role": "贵州大定总兵官，具奏人"
+  },
+  {
+   "name": "张元印",
+   "role": "三等侍卫，张弘印胞弟"
+  },
+  {
+   "name": "张长庚",
+   "role": "张弘印家人，代进奏折者"
+  }
+ ],
+ "places": [
+  "贵州",
+  "大定",
+  "塞外"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“朕安”，表示皇帝安好。",
+ "source_title": "贵州大定总兵官张弘印奏贺万寿并请安摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 305
+}

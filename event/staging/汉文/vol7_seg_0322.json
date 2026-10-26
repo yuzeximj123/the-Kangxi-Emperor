@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十五年五月初十日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 10,
+ "event_role": "奏报地方情形",
+ "summary": "直隶总督赵弘燮奏报所属州县得雨情形，以慰圣怀。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督"
+  },
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "山东",
+  "济南府",
+  "兖州府",
+  "东昌府",
+  "青州府",
+  "莱州府",
+  "登州府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隶总督赵弘燮奏报所属州县得雨情形折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 322
+}

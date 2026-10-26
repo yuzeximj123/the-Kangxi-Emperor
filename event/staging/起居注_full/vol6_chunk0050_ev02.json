@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问张世一情况，吴瑞奏其任事明慎，康熙帝命外转者问都察院。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴瑞",
+   "role": "官员"
+  },
+  {
+   "name": "张世一",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5002,
+ "page_range": "110-111"
+}

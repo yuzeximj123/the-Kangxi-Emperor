@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "十六日甲成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕噶尔臧从宽免死监禁在京，赵四等立决，鄂托齐等照拟绞监候秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔臧",
+   "role": "罪犯"
+  },
+  {
+   "name": "赵四",
+   "role": "逃盗"
+  },
+  {
+   "name": "鄂托齐",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16602,
+ "page_range": "343-344"
+}

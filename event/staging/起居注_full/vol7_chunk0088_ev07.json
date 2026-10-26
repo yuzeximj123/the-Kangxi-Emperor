@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "二十一日壬辰",
+ "event_role": "人事任免",
+ "summary": "山西巡抚噶礼题布政使满都以病祈休，康熙帝以其衰病属实，着以原品致休。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "满都",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8807,
+ "page_range": "187-188"
+}

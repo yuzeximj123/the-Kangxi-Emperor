@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙四十七年三月二十一日",
+ "reign_year": 47,
+ "month": 3,
+ "day": 21,
+ "event_role": "贸易漕运",
+ "summary": "曹寅奏报总漕桑格截留湖广漕米十万石用于平粜，并代递查尔勤奏折。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "桑格",
+   "role": "涉及人物"
+  },
+  {
+   "name": "查尔勤",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "江南",
+  "湖广",
+  "江西",
+  "江宁",
+  "淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知悉，并令曹寅若平粜官员中有多事者即写密折奏闻。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "307",
+ "source_title": "江宁织造曹寅奏报截漕平粜并代递查尔勤奏摺事摺",
+ "order_index": 227
+}

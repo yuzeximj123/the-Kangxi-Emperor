@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十二日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "礼部以贵州大定总兵官朱万化病故请给谥，康熙询知无劳绩，命祭葬恤典俱停给。",
+ "people": [
+  {
+   "name": "朱万化",
+   "role": "贵州大定总兵官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州大定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13115,
+ "page_range": "297-298"
+}

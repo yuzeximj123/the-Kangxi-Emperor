@@ -1,0 +1,21 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "二十日丁酉",
+ "event_role": "祭祀典礼",
+ "summary": "卯时，康熙帝素服乘马亲赴天坛祈雨，自西天门步行至坛致祭，礼毕步行出西天门乘马回宫，是夜降雨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天坛",
+  "西天门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22908,
+ "page_range": "493-494"
+}

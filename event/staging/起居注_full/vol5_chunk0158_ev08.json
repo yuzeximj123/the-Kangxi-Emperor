@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十日癸酉",
+ "event_role": "谕旨决策",
+ "summary": "大学士阿兰泰进呈颁噶尔丹敕书，康熙帝改正后谕令送京师以满蒙文缮写、榜纸蒙古文印刷三百道，驿送前来并付前往之人颁给。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15808,
+ "page_range": "326-327"
+}

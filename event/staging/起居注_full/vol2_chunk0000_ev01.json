@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初一日本已",
+ "event_role": "谕旨决策",
+ "summary": "学士希福等奏请往审朝鲜国事，康熙帝谕令礼物照定例收纳、额外多送勿取，并裁减沿途馆舍供应。",
+ "people": [
+  {
+   "name": "希福",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1,
+ "page_range": "43-44"
+}

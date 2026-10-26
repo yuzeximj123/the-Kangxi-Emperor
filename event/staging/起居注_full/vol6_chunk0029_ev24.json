@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 1,
+ "day_text": "十四日庚寅",
+ "event_role": "朝见受贺",
+ "summary": "宴上康熙帝命土谢图汗以下、台吉索诺木伊思扎布以上进前亲赐酒，余令侍卫传赐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "土谢图汗",
+   "role": "受赐者"
+  },
+  {
+   "name": "索诺木伊思扎布",
+   "role": "受赐者"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "澹宁堂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2924,
+ "page_range": "68-69"
+}

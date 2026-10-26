@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙伍年闰三月初?日",
+ "reign_year": 5,
+ "month": 3,
+ "day": null,
+ "event_role": "河工水利",
+ "summary": "直隶总督奏报永定河南岸柳岔第十工因冰凌壅塞漫开堤口，已借银修筑并催督完工，先行奏明。",
+ "people": [
+  {
+   "name": "杨天祚",
+   "role": "保定营参将，奉命前往督催工程"
+  },
+  {
+   "name": "马兆辰",
+   "role": "南路同知，奉命前往督催工程"
+  },
+  {
+   "name": "根太",
+   "role": "分司，覆称漫口已奏明俟桃汛后堵筑"
+  }
+ ],
+ "places": [
+  "永定河",
+  "柳岔第十工",
+  "直隶"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“是”，认可所奏。",
+ "source_title": "奏明永定河工",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 293
+}

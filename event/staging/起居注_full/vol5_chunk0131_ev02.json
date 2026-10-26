@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召议政大臣等，论噶尔丹已远逃，应选兵轻骑追逐，派前锋、火器营兵及护军追至巴颜乌阑以北，并令开列率领大臣职名具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀瓦尔达",
+   "role": "前锋统领"
+  }
+ ],
+ "places": [
+  "巴颜乌阑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13102,
+ "page_range": "272-273"
+}

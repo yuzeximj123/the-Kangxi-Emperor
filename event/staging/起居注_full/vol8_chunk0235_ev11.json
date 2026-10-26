@@ -1,0 +1,33 @@
+{
+ "reign_year": 57,
+ "month": 2,
+ "day_text": "二十三日王寅",
+ "event_role": "人事任免",
+ "summary": "覆请兵部所题甘肃提督师莹德员缺及左江总兵官赵延栋等开列，康熙帝以路振扬汉仗好，补授甘肃提督。",
+ "people": [
+  {
+   "name": "师莹德",
+   "role": "甘肃提督"
+  },
+  {
+   "name": "许廷臣",
+   "role": "副都统"
+  },
+  {
+   "name": "赵延栋",
+   "role": "左江总兵官"
+  },
+  {
+   "name": "路振扬",
+   "role": "补授甘肃提督"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "左江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23511,
+ "page_range": "481-482"
+}

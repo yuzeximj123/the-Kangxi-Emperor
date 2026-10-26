@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "十五日癸巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝率皇太子启行，在京诸王文武群臣于午门外跪送，驻跸三河县采果营东。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "午门",
+  "东直门",
+  "三河县采果营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11310,
+ "page_range": "269-270"
+}

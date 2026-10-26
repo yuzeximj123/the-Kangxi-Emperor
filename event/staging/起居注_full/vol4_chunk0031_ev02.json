@@ -1,0 +1,37 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "十四日乙酉",
+ "event_role": "司法案件",
+ "summary": "工部题傅弘烈擅动银两应追取，康熙帝念其效力被害，免予追取。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅弘烈",
+   "role": "原任将军"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广西",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3102,
+ "page_range": "74-75"
+}

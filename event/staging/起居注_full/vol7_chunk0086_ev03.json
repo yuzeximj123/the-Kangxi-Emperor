@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "巡道梁世勋、知府郭治等来朝。",
+ "people": [
+  {
+   "name": "梁世勋",
+   "role": "巡道"
+  },
+  {
+   "name": "郭治",
+   "role": "知府"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8603,
+ "page_range": "183-184"
+}

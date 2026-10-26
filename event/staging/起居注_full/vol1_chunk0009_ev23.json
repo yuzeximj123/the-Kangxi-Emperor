@@ -1,0 +1,29 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "二十二日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝过怀来城幸原任山西临晋县知县孙一桂家，命明珠宣旨赐银二十两并诫其守法安分、撤去所陈设黄褥。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "孙一桂",
+   "role": "原任山西临晋县知县"
+  }
+ ],
+ "places": [
+  "怀来城",
+  "孙一桂家"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 923,
+ "page_range": "75-76"
+}

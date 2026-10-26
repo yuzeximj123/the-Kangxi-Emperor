@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "二十八日辛丑",
+ "event_role": "其他",
+ "summary": "康熙帝评第二卷沈廷文策较胜，梁清标等以丘升卷字画端楷拟第一，康熙帝言第一卷文不如次卷警拔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "沈廷文",
+   "role": "贡士"
+  },
+  {
+   "name": "丘升",
+   "role": "贡士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2219,
+ "page_range": "56-57"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "二十五日丙子",
+ "event_role": "人事任免",
+ "summary": "吏部以礼部侍郎李录子员缺开列孙策颁等职名，康熙帝令会同汉大学士选择具奏。",
+ "people": [
+  {
+   "name": "李录子",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "孙策颁",
+   "role": "额外侍郎、国子监祭酒"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1321,
+ "page_range": "37-38"
+}

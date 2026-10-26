@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十七年六月",
+ "reign_year": 47,
+ "month": 6,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "苏州织造李煦奏报将一念和尚解送浙江会审事宜。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "一念和尚",
+   "role": "被解送浙江会审的涉案僧人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "浙江"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "苏州织造李煦奏为一念和尚解浙会审等情摺｜康熙四十七年六月",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 372
+}

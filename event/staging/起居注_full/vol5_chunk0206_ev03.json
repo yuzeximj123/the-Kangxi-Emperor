@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初三日",
+ "event_role": "军务",
+ "summary": "福善等同萨布素遵旨议奏黑龙江兵丁马驼牧放事宜，请派绿旗兵七十五名及官员监牧，赶送归化城附近牧放。",
+ "people": [
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "王化行",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "察罕托海",
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20603,
+ "page_range": "422-423"
+}

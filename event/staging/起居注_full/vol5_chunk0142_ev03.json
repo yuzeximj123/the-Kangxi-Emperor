@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "二十九日甲申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕责于成龙等留肥壮牲口在后、捐运赎罪人擅用官马驮私物致误官粮，已追马散给兵丁并移文知会。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "克鲁伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14203,
+ "page_range": "294-295"
+}

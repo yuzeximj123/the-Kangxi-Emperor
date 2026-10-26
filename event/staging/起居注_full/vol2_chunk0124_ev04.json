@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十七日甲成",
+ "event_role": "朝见受贺",
+ "summary": "以公主聘与巴林元起里郡王之子吴尔滚行初定礼，康熙帝御保和殿，集和硕亲王、贝子、公及内大臣等盛张筵宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴尔滚",
+   "role": "巴林元起里郡王之子"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12404,
+ "page_range": "291-292"
+}

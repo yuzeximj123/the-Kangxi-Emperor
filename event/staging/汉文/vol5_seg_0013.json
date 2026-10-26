@@ -1,0 +1,28 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "镇江将军董象等奏报今秋禾稼丰收、遍野产生瑞谷，万姓欢呼，并进献瑞谷一匣，请皇上睿鉴。",
+ "people": [
+  {
+   "name": "董象",
+   "role": "镇江将军，领衔奏报并进献瑞谷"
+  },
+  {
+   "name": "蒋启钻",
+   "role": "各属小民，具呈报瑞谷"
+  }
+ ],
+ "places": [
+  "镇江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，并提及万寿荣庆事及初九日理藩院折奏乌斯达等事。",
+ "source_title": "奏报瑞谷",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 13
+}

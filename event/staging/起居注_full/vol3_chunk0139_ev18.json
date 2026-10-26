@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "初十日甲午",
+ "event_role": "司法案件",
+ "summary": "议原任湖口监督张天觉任内应解铜斤限满不完应降一级留任，康熙帝论汉官得关差盐差辄思取利肥家及关差采买铜斤加派商人情弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张天觉",
+   "role": "原任湖口监督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13918,
+ "page_range": "313-314"
+}

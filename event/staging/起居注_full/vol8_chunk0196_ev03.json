@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "行在刑部奏正蓝旗巴雅尔图家人沙克都尔偷盗马匹应押古北口收禁秋后处决，康熙帝令发部缮本具奏。",
+ "people": [
+  {
+   "name": "巴雅尔图",
+   "role": "正蓝旗护军参领"
+  },
+  {
+   "name": "沙克都尔",
+   "role": "巴雅尔图家人"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19603,
+ "page_range": "403-404"
+}

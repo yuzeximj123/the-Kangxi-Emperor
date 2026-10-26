@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝认定李见龙参劾马尔赛等浮冒属实，批评吏部引看坛马法训为证不合，命再严察议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李见龙",
+   "role": "查工官员"
+  },
+  {
+   "name": "马尔赛",
+   "role": "被参官员"
+  },
+  {
+   "name": "马法训",
+   "role": "看坛人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1700,
+ "page_range": "77-78"
+}

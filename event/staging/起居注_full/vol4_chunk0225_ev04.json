@@ -1,0 +1,28 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "赐朝鲜国王李焞进贡正使郎原君李偶、副使闵就道等鞍马、缎匹、银两有差。",
+ "people": [
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "李偶",
+   "role": "正使郎原君"
+  },
+  {
+   "name": "闵就道",
+   "role": "副使礼曹判书"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22504,
+ "page_range": "462-463"
+}

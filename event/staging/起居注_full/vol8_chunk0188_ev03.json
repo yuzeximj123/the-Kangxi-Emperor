@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题骑死官马未赔之厩房人史成等交刑部枷号鞭责，康熙帝以未议该管佐领吴硕色等，命本发还一并议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "史成",
+   "role": "厩房人"
+  },
+  {
+   "name": "吴硕色",
+   "role": "佐领"
+  },
+  {
+   "name": "包胡达",
+   "role": "该管官员"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "该管官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18803,
+ "page_range": "387-388"
+}

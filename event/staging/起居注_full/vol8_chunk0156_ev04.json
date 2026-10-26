@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "十九日乙雍",
+ "event_role": "朝见受贺",
+ "summary": "古北口总兵官觉罗保住、管驿站员外郎罗音岱、关口守御渣尔虎、管驿站同知王种等来朝。",
+ "people": [
+  {
+   "name": "觉罗保住",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "罗音岱",
+   "role": "管驿站员外郎"
+  },
+  {
+   "name": "渣尔虎",
+   "role": "关口守御"
+  },
+  {
+   "name": "王种",
+   "role": "管驿站同知"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15604,
+ "page_range": "323-324"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "十三日己已",
+ "event_role": "谕旨决策",
+ "summary": "亲近侍卫海青传谕侍郎朱都纳，此后驿站马匹勿令盗行驰骋，如有应疾驰事务即行奏闻。",
+ "people": [
+  {
+   "name": "海青",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "朱都纳",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10507,
+ "page_range": "220-221"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝论畿辅秦晋民俗丰裕、江浙较三十八年更胜、山东因水旱大异、河南生计艰难。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畿辅",
+  "秦晋",
+  "江浙",
+  "山东",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8708,
+ "page_range": "185-186"
+}

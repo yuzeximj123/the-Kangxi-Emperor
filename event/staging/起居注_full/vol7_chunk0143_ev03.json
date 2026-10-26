@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "初六日庚庄",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸一沟里，亲自射杀一虎，并赏赐镇国公弄克塔喀上驷院马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "弄克塔喀",
+   "role": "镇国公"
+  }
+ ],
+ "places": [
+  "一沟里"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14303,
+ "page_range": "297-298"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝言今年米谷丰收，口外更甚，因开酒禁百姓始收割，小米一石价仅七钱，糜米三四钱。",
+ "people": [
+  {
+   "name": "王乒",
+   "role": "大学士"
+  },
+  {
+   "name": "张廷玉",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "口外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21602,
+ "page_range": "443-444"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 11,
+ "month": 4,
+ "day_text": "初九日甲申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召传达礼，询问巩华城河桥石碑上贴纸条诬称柯谷之事，传达礼奏请禁止匿名飞帖，康熙帝洞鉴其情。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "传达礼",
+   "role": "日讲官起居注翰林院掌院学士兼礼部侍郎"
+  },
+  {
+   "name": "柯谷",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "巩华城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1226,
+ "page_range": "81-82"
+}

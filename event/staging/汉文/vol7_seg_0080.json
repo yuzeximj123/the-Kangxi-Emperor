@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十五年五月十二日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 12,
+ "event_role": "军务",
+ "summary": "苏州织造李煦奏报当地兵哗事件现已安抚平定，向康熙帝报告地方军务情形。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "苏州织造李煦奏为恭报兵哗现已安抚折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 80
+}

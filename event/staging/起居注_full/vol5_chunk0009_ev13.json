@@ -1,0 +1,42 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "初五日闪卯",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿奏传旨九卿前，董讷、王鹭、李应广各自陈罪；康熙帝斥董讷前于河工始终附和于成龙、倾陷靳辅，今尚云无徇附之处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "董讷",
+   "role": "官员"
+  },
+  {
+   "name": "王鹭",
+   "role": "官员"
+  },
+  {
+   "name": "李应广",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "靳辅",
+   "role": "前总河"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 913,
+ "page_range": "28-29"
+}

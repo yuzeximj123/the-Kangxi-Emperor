@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "初一日己未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝以巡幸霸州等处，展时由午门出正阳门，驻跸南苑南红门内。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "南苑南红门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19107,
+ "page_range": "392-393"
+}

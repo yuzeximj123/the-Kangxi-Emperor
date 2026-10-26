@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": "二十八日甲辰",
+ "event_role": "人事任免",
+ "summary": "吏部议骁骑校阿齐尼吧闻之事糊涂，拟将尚书达哈塔革职，康熙帝令从宽免革职，降五级留任。",
+ "people": [
+  {
+   "name": "达哈塔",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "阿齐尼",
+   "role": "骁骑校"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24210,
+ "page_range": "519-520"
+}

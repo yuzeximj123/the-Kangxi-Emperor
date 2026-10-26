@@ -1,0 +1,34 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十六日癸巳",
+ "event_role": "司法案件",
+ "summary": "宗人府题索浑岱控告查尔图庇护四十六弟兄等情，康熙帝以所议糊涂，交都察院议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索浑岱",
+   "role": "镶蓝旗坦巴佐领下鸟枪护军"
+  },
+  {
+   "name": "查尔图",
+   "role": "护军统领"
+  },
+  {
+   "name": "四十六",
+   "role": "护军校"
+  },
+  {
+   "name": "艾欣",
+   "role": "护军参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8811,
+ "page_range": "187-188"
+}

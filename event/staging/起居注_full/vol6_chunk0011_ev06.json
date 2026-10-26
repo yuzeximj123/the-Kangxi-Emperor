@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "十八日乙未",
+ "event_role": "军务",
+ "summary": "议从军监生先用次序，康熙帝令西路先用，继用中路，乌兰布通军前监生后用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乌兰布通"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1106,
+ "page_range": "32-33"
+}

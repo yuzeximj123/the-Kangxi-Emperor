@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十六日丙寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝问次班大臣意见，党古里等称皆同，葛思泰奏召靳辅、孙在丰来京详问则是非自辨。",
+ "people": [
+  {
+   "name": "党古里",
+   "role": "侍郎"
+  },
+  {
+   "name": "葛思泰",
+   "role": "学士"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "孙在丰",
+   "role": "监修下河侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20312,
+ "page_range": "441-442"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "初四日了丑",
+ "event_role": "朝见受贺",
+ "summary": "格沾营守备高岗双、将营千总王天福等来朝。",
+ "people": [
+  {
+   "name": "高岗双",
+   "role": "格沾营守备"
+  },
+  {
+   "name": "王天福",
+   "role": "将营千总"
+  }
+ ],
+ "places": [
+  "格沾营",
+  "将营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4109,
+ "page_range": "92-93"
+}

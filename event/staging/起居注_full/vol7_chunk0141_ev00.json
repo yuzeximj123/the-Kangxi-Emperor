@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "九卿等奏山东私铸钱多，请停赵世显开坊鼓铸之议，并自请处分。",
+ "people": [
+  {
+   "name": "赵世显",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "思丕",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "山东",
+  "济南",
+  "临清"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14100,
+ "page_range": "293-294"
+}

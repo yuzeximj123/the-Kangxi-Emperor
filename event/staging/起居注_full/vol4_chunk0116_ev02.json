@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读宋帝昺时君臣相继逃散事，论人臣应与国同休戚，章鉴、曾子渊等潜逃不知纲常廉耻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜讷",
+   "role": "臣"
+  },
+  {
+   "name": "章鉴",
+   "role": "宋丞相"
+  },
+  {
+   "name": "曾子渊",
+   "role": "宋廷臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11602,
+ "page_range": "244-245"
+}

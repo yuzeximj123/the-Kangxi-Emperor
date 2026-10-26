@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "初六日辛卯",
+ "event_role": "人事任免",
+ "summary": "命原任尚书阿尔尼、侍郎布颜图、温达、侍读学士达虎前往拨给投诚喀尔喀游牧地方并宣谕遣之。",
+ "people": [
+  {
+   "name": "阿尔尼",
+   "role": "原任尚书"
+  },
+  {
+   "name": "布颜图",
+   "role": "侍郎"
+  },
+  {
+   "name": "温达",
+   "role": "侍郎"
+  },
+  {
+   "name": "达虎",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15014,
+ "page_range": "312-313"
+}

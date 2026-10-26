@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "二十四日辛未",
+ "event_role": "人事任免",
+ "summary": "九卿保举学道内升，康熙帝命朱轼内升，另三人留训师以佥事道用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱轼",
+   "role": "学道"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1706,
+ "page_range": "45-46"
+}

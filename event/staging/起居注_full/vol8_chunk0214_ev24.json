@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "十九日己亥",
+ "event_role": "议政听政",
+ "summary": "以四川巡抚年次东、松潘总兵官路振扬所奏折各一交大学士马齐。",
+ "people": [
+  {
+   "name": "年次东",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "路振扬",
+   "role": "松潘总兵官"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "四川",
+  "松潘"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21424,
+ "page_range": "439-440"
+}

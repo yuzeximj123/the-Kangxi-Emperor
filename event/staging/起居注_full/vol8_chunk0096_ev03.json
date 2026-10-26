@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "十六日辛效",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士松柱等以折本请旨，处理吏部所题乙未科进士补用事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "查强纳",
+   "role": "学士"
+  },
+  {
+   "name": "敦拜",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9603,
+ "page_range": "203-204"
+}

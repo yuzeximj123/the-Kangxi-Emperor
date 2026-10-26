@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初九日癸巳",
+ "event_role": "司法案件",
+ "summary": "三法司议和硕额驸明尚孙果费与家人赌博输银二千八百两，明尚拟立斩，康熙帝命监候，余照部议。",
+ "people": [
+  {
+   "name": "明尚",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "果费",
+   "role": "明尚之孙"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3722,
+ "page_range": "117-118"
+}

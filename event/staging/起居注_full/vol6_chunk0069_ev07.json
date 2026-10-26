@@ -1,0 +1,34 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "十二日",
+ "event_role": "人事任免",
+ "summary": "吏部开列詹事顾祖荣等补学士顾藻员缺，康熙帝以胡会恩堪用且书法佳授为学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "顾藻",
+   "role": "学士"
+  },
+  {
+   "name": "顾祖荣",
+   "role": "詹事"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "胡会恩",
+   "role": "大理寺少卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6907,
+ "page_range": "148-149"
+}

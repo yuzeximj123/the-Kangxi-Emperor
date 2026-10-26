@@ -1,0 +1,52 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议补西安副都统，康熙询问博济意见后，命协领瓦尔达升补副都统马自德员缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "博济",
+   "role": "将军"
+  },
+  {
+   "name": "瓦尔达",
+   "role": "满洲协领"
+  },
+  {
+   "name": "常宝",
+   "role": "满洲协领"
+  },
+  {
+   "name": "杨博",
+   "role": "汉军协领"
+  },
+  {
+   "name": "闫承画",
+   "role": "汉军协领"
+  },
+  {
+   "name": "马自德",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15703,
+ "page_range": "324-325"
+}

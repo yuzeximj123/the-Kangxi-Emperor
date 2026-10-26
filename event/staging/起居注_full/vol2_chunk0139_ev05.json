@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十四日己丑",
+ "event_role": "军务",
+ "summary": "佟国瑶请设绿旗兵或拨闽绿旗官兵管辖，康熙帝令依部议，并令部议京口、广东绿旗营镇官兵应否仍留。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国瑶",
+   "role": "福建将军"
+  }
+ ],
+ "places": [
+  "京口",
+  "广东",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13905,
+ "page_range": "321-322"
+}

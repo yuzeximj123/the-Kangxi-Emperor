@@ -1,0 +1,33 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": "十八日丙戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论南省官员多务虚名、未致实惠于百姓，举汤斌、张觅、邵珊等为例，强调实政。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "原苏州巡抚"
+  },
+  {
+   "name": "张觅",
+   "role": "学院"
+  },
+  {
+   "name": "邵珊",
+   "role": "学政"
+  }
+ ],
+ "places": [
+  "苏州",
+  "吴江县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9410,
+ "page_range": "198-199"
+}

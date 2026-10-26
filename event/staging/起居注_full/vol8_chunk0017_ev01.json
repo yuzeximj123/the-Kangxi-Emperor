@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "兵部题原任四川提督岳异龙请入四川民籍不准行，康熙帝准其入籍但不为例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "岳异龙",
+   "role": "原任四川提督"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1701,
+ "page_range": "45-46"
+}

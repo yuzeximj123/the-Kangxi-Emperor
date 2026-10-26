@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": "初八日乙未",
+ "event_role": "司法案件",
+ "summary": "刑部覆请安徽巡抚叶九思所题鲍催元伤鲍卯身死案，康熙帝令监候秋后处决。",
+ "people": [
+  {
+   "name": "鲍催元",
+   "role": "案犯"
+  },
+  {
+   "name": "鲍卯",
+   "role": "死者"
+  },
+  {
+   "name": "叶九思",
+   "role": "安徽巡抚"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17716,
+ "page_range": "365-366"
+}

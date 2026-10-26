@@ -1,0 +1,33 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初二日丙成",
+ "event_role": "人事任免",
+ "summary": "明珠等奏金匀调补浙江巡抚亦无不可，康熙帝命金皖调补浙江巡抚，福建巡抚员缺令九卿不拘定例选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "金匀",
+   "role": "官员"
+  },
+  {
+   "name": "金皖",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "浙江",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15119,
+ "page_range": "337-338"
+}

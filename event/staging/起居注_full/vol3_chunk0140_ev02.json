@@ -1,0 +1,37 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "九卿会议准总河靳辅请修高家堰及黄河两岸，康熙帝以高家堰紧要，命靳辅再行确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14002,
+ "page_range": "315-316"
+}

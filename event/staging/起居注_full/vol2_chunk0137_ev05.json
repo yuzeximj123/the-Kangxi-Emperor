@@ -1,0 +1,25 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "初六日辛巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕邵凤翔严加约束杭州驻防官兵，不得刻害地方民人商贾，并令传谕镇江将军副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邵凤翔",
+   "role": "杭州副都统"
+  }
+ ],
+ "places": [
+  "杭州",
+  "镇江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13705,
+ "page_range": "317-318"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "十四日甲午",
+ "event_role": "人事任免",
+ "summary": "礼部题哈尔萨护国公已革，令其兄六格承袭，其子海青辅国公革去，康熙帝命仍留哈尔萨之女县君、婿额驸。",
+ "people": [
+  {
+   "name": "哈尔萨",
+   "role": "护国公"
+  },
+  {
+   "name": "六格",
+   "role": "哈尔萨之兄"
+  },
+  {
+   "name": "海青",
+   "role": "辅国公"
+  },
+  {
+   "name": "吴勒木吉",
+   "role": "固山额驸"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19805,
+ "page_range": "431-432"
+}

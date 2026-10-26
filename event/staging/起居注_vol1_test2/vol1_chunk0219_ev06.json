@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 2,
+ "day_text": "初一日辛酉",
+ "event_role": "军务",
+ "summary": "议奋威将军王进宝恢复保宁事，康熙帝以其克城擒将斩贼可嘉，责问票拟何以无优叙字样，索额图等陈奏缘由，康熙帝姑照所拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王进宝",
+   "role": "奋威将军"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "保宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21906,
+ "page_range": "495-496"
+}

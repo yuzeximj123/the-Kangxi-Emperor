@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十年十一月初六日",
+ "reign_year": 50,
+ "month": 11,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮奏谢皇上颁赐关东哈蜜、鹿尾、东大浙鱼、野杂等物，表示感激天恩、举家顶戴。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "贾应虎",
+   "role": "赵弘燮家人，赍折请安"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "关东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸巡撫趙弘燮奏謝賜肉魚摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "980",
+ "order_index": 275
+}

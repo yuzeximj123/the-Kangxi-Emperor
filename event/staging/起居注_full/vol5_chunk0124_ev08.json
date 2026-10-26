@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝依议，令再留牛十头、羊一百只备用，米粮未到不能接续时节省牛羊食用，明白交于杭爱。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杭爱",
+   "role": "原任尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12408,
+ "page_range": "258-259"
+}

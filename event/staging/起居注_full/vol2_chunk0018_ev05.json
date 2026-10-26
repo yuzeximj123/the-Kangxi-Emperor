@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "二十四日乙卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补郎中员缺，康熙帝询问各部保举情况，勒德洪、明珠奏报于养志、甘国枢、张建绩等，帝命后日引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "于养志",
+   "role": "员外郎"
+  },
+  {
+   "name": "甘国枢",
+   "role": "员外郎"
+  },
+  {
+   "name": "张建绩",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1805,
+ "page_range": "79-80"
+}

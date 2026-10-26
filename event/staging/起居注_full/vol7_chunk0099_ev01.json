@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论汉朝灾异即诛宰相之非，主张君臣共担失误，并言地震灾异乃己身之过，不归咎臣下。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "大臣"
+  },
+  {
+   "name": "索额图",
+   "role": "大臣"
+  },
+  {
+   "name": "明珠",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9901,
+ "page_range": "209-210"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "十一日癸未",
+ "event_role": "人事任免",
+ "summary": "吏部题补奉天府府尹高尔位升任员缺，康熙帝命察其次应升官员来看。",
+ "people": [
+  {
+   "name": "高尔位",
+   "role": "奉天府府尹"
+  },
+  {
+   "name": "荣国作",
+   "role": "光禄寺卿"
+  },
+  {
+   "name": "崔官",
+   "role": "太仆寺卿"
+  }
+ ],
+ "places": [
+  "奉天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18706,
+ "page_range": "417-418"
+}

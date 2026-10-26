@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "初七日戊子",
+ "event_role": "人事任免",
+ "summary": "浙江巡抚王度昭题宁波府知府员缺请以通判李肃补授，康熙帝照该抚所请补授。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "李肃",
+   "role": "宁波府通判"
+  }
+ ],
+ "places": [
+  "宁波府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22525,
+ "page_range": "461-462"
+}

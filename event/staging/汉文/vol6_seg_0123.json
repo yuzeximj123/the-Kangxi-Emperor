@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十四年八月初一日",
+ "reign_year": 54,
+ "month": 8,
+ "day": 1,
+ "event_role": "请安谢恩",
+ "summary": "闽浙总督范时崇因冒昧具题调补官员获免降调处分，上折恭谢皇恩，并表示勉尽职守。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督，奏折作者"
+  },
+  {
+   "name": "甘国奎",
+   "role": "严州府同知，升湖广襄阳府知府，被请调补衢州知府"
+  },
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚，请将甘国奎对品调补"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "严州府",
+  "湖广襄阳府",
+  "衢州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "閩浙總督范時崇奏謝得免降調處分之恩摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1856",
+ "order_index": 123
+}

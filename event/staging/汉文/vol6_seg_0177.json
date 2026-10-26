@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十四年十月十六日",
+ "reign_year": 54,
+ "month": 10,
+ "day": 16,
+ "event_role": "请安谢恩",
+ "summary": "闽浙总督范时崇奏谢皇上钦赐《周易折中》全部及鹿肉，表示将朝夕捧读以副圣恩教诲。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督，奏折作者"
+  },
+  {
+   "name": "李德",
+   "role": "范时崇家人，赍捧钦赐书籍鹿肉到闽"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "闽",
+  "热河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "閩浙總督范時崇奏謝欽賜全部周易折中摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1909",
+ "order_index": 177
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "十九日甲辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕大学士等，仓场侍郎李廷松为人良劣，着解任。",
+ "people": [
+  {
+   "name": "李廷松",
+   "role": "仓场侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15118,
+ "page_range": "314-315"
+}

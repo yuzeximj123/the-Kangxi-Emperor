@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十六年十一月二十二日",
+ "reign_year": 56,
+ "month": 11,
+ "day": 21,
+ "event_role": "奏报地方情形",
+ "summary": "江西巡抚白潢奏报江西省仓贮米谷亏缺大半，已令各州县秋成买补并将来盘查；又奏营兵操练久废，现严饬训练并捐备弓箭火药，请调皇上记名人员训练。",
+ "people": [
+  {
+   "name": "白潢",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [
+  "江西",
+  "江浙",
+  "福建",
+  "广东",
+  "湖广",
+  "九江",
+  "袁州",
+  "临江"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江西巡撫白潢奏報江西省倉貯大牛虧缺並營兵操練久廢摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2560",
+ "order_index": 15
+}

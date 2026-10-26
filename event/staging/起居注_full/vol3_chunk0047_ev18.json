@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "十四日丁丑",
+ "event_role": "人事任免",
+ "summary": "议政王贝勒大臣会推前锋统领郎谈解任员缺，拟巴图正、觉罗夸代陪，康熙命塔尔代升补前锋统领。",
+ "people": [
+  {
+   "name": "郎谈",
+   "role": "前锋统领"
+  },
+  {
+   "name": "巴图",
+   "role": "镶黄旗护军统领"
+  },
+  {
+   "name": "觉罗夸代",
+   "role": "正蓝旗护军统领"
+  },
+  {
+   "name": "塔尔代",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4718,
+ "page_range": "129-130"
+}

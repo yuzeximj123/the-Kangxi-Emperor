@@ -1,0 +1,39 @@
+{
+ "date_raw": "康熙五十三年七月十七日",
+ "reign_year": 53,
+ "month": 7,
+ "day": 17,
+ "event_role": "奏报地方情形",
+ "summary": "漕运总督郎廷极遵旨密奏苏州巡抚张伯行多疑苛细、行事失当，致秋审展限、商人畏惧、城门早闭等情形。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "漕运总督，奏报人"
+  },
+  {
+   "name": "张伯行",
+   "role": "苏州巡抚，被奏报对象"
+  },
+  {
+   "name": "赫寿",
+   "role": "督臣，赴苏会审"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "淮安",
+  "苏州",
+  "常州府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批认同郎廷极所奏情形属实。",
+ "type": "json_object",
+ "source_title": "漕运总督郎廷极奏报乌泥营回奏张伯行近日情形摺（康熙五十三年七月十七日）",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1621",
+ "order_index": 259
+}

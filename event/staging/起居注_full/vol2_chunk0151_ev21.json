@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十四日丁雍",
+ "event_role": "谕旨决策",
+ "summary": "都御史徐旭龄条陈各省驻防将军等官不许购买本地民人及江宁等省缉盗官兵议叙处分，九卿会议准行，康熙帝令官员家人一并禁止再议。",
+ "people": [
+  {
+   "name": "徐旭龄",
+   "role": "都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15121,
+ "page_range": "345-346"
+}

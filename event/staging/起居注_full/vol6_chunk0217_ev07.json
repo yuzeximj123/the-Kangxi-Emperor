@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初四日己巳",
+ "event_role": "河工水利",
+ "summary": "总河张鹏翮遣原任按察使赵世显陈奏河务并呈河图，康熙帝询问挑水坝、清水入黄入运分数等事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "赵世显",
+   "role": "原任按察使"
+  }
+ ],
+ "places": [
+  "黄河",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21707,
+ "page_range": "444-445"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十五年十一月初五日",
+ "reign_year": 55,
+ "month": 11,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "直隶总督赵弘燮上奏向康熙帝请安，康熙朱批回复朕安，并指出直隶学院声名很不好，询问赵弘燮是否知道。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督、巡抚直隶等处地方提督军务兵部尚书兼都察院右副都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝回复自己安好，并指出直隶学院声名甚是不好，询问赵弘燮是否知道。",
+ "source_title": "直隸總督趙弘燮奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2262",
+ "order_index": 263
+}

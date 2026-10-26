@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士李霨等奏请康熙帝为柏梁体诗御制首句，康熙帝允诺明日早发。",
+ "people": [
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清宫西室"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10500,
+ "page_range": "253-254"
+}

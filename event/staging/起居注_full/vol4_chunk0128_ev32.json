@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 8,
+ "day_text": "二十九日了刻",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝赐朝鲜国王李焞进谢恩礼物正使全城君李。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "李",
+   "role": "全城君、正使"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12832,
+ "page_range": "268-269"
+}

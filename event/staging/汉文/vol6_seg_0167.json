@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十七年六月初三日",
+ "reign_year": 57,
+ "month": 6,
+ "day": 3,
+ "event_role": "请安谢恩",
+ "summary": "荆州总兵陈桂年逾七旬，感念皇恩，因圣驾巡幸盛京，遣家人潘瑞代其叩请圣安并进献鹰鹞。",
+ "people": [
+  {
+   "name": "陈桂",
+   "role": "荆州总兵官都督佥事，奏请人"
+  },
+  {
+   "name": "潘瑞",
+   "role": "陈桂家人，代其叩请圣安"
+  }
+ ],
+ "places": [
+  "荆州",
+  "盛京"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，表示自己安好。",
+ "source_title": "荆州总兵陈桂请安摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 167
+}

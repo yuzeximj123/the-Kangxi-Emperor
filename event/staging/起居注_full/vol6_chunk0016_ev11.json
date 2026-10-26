@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "二十二日己巳",
+ "event_role": "谕旨决策",
+ "summary": "侍卫关保传谕章州知州张朝宗，沿途多用小钱以银易钱所得多，小钱只利酿酒及摘实之家，命严行禁止。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "张朝宗",
+   "role": "章州知州"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通州",
+  "章州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1611,
+ "page_range": "42-43"
+}

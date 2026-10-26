@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 1,
+ "day_text": "初二日癸亥",
+ "event_role": "人事任免",
+ "summary": "宗人府题请镇国公杨福之公爵减一等由长子三观保承袭，康熙帝令三观保仍袭镇国公，拖沙喇哈番等职由噶尔玛承袭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨福",
+   "role": "镇国公"
+  },
+  {
+   "name": "三观保",
+   "role": "杨福长子"
+  },
+  {
+   "name": "噶尔玛",
+   "role": "承袭者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12812,
+ "page_range": "267-268"
+}

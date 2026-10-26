@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十七日乙未",
+ "event_role": "司法案件",
+ "summary": "议处郎中庄名腻、员外任亨引见失仪，康熙帝问其年齿与写字，命庄名腻解任、任亨如部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "庄名腻",
+   "role": "郎中"
+  },
+  {
+   "name": "任亨",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "磁州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21814,
+ "page_range": "471-472"
+}

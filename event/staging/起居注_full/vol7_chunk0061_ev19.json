@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "十八日于成",
+ "event_role": "奏报地方情形",
+ "summary": "马齐等奏查明徐州等处未完钱粮共二万四百二十三两零，康熙帝谕令邳州钱粮一并查奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "徐州",
+  "邳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6119,
+ "page_range": "133-134"
+}

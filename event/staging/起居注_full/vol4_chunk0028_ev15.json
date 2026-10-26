@@ -1,0 +1,32 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初一日壬申",
+ "event_role": "司法案件",
+ "summary": "康熙帝召满大学士、学士、尚书入乾清宫，问图纳取于成龙口供事，图纳奏莫天颜供称于成龙书内言荐举河工等语。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  },
+  {
+   "name": "莫天颜",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2815,
+ "page_range": "68-69"
+}

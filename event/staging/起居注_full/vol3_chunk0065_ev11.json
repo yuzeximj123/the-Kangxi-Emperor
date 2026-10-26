@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十六日",
+ "event_role": "司法案件",
+ "summary": "三法司会议晋二等在一通河劫车拟立斩枭首，康熙命照议完结，笔帖式浙输忒等缉捕可嘉仍着议叙。",
+ "people": [
+  {
+   "name": "晋二等",
+   "role": "案犯"
+  },
+  {
+   "name": "浙输忒",
+   "role": "笔帖式"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "一通河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6511,
+ "page_range": "165-166"
+}

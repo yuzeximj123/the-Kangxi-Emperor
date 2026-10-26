@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十二日癸西",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令孙思克、博济速进追剿，调取附近绿旗兵马匹，不得迟误军机。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "振武将军"
+  },
+  {
+   "name": "博济",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20007,
+ "page_range": "410-411"
+}

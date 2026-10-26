@@ -1,0 +1,32 @@
+{
+ "reign_year": 11,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问熊赐履对巡抚董国兴参劾朱二局一案的看法，熊赐履称不与此辈交往，康熙帝斥朱二局为邪妄小人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "日讲官起居注翰林院掌院学士兼礼部侍郎"
+  },
+  {
+   "name": "董国兴",
+   "role": "巡抚"
+  },
+  {
+   "name": "朱二局",
+   "role": "被参之人"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1200,
+ "page_range": "81-82"
+}

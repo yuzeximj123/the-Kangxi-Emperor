@@ -1,0 +1,28 @@
+{
+ "reign_year": 32,
+ "month": 7,
+ "day_text": "十七日己未",
+ "event_role": "人事任免",
+ "summary": "兵部题广东碍石卫总兵官刘译深病故员缺，开列汉军参领管源忠等、副将陈寿等职名请旨。",
+ "people": [
+  {
+   "name": "刘译深",
+   "role": "广东碍石卫总兵官"
+  },
+  {
+   "name": "管源忠",
+   "role": "汉军参领"
+  },
+  {
+   "name": "陈寿",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "广东碍石卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23715,
+ "page_range": "486-487"
+}

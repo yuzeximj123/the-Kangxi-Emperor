@@ -1,0 +1,26 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都统李正宗等奏问天保伯承袭事，康熙帝命削去因良所加拖沙喇哈番之职，所余二等伯着李绳宗承袭。",
+ "people": [
+  {
+   "name": "李正宗",
+   "role": "都统"
+  },
+  {
+   "name": "李绳宗",
+   "role": "副都统"
+  },
+  {
+   "name": "李永芳",
+   "role": "李绳宗之祖"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15202,
+ "page_range": "315-316"
+}

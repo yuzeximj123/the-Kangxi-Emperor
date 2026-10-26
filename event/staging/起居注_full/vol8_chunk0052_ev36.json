@@ -1,0 +1,24 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": "初九日辛巳",
+ "event_role": "朝见受贺",
+ "summary": "文安县游击韩德、知县程绳武来朝见。",
+ "people": [
+  {
+   "name": "韩德",
+   "role": "文安县游击"
+  },
+  {
+   "name": "程绳武",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "文安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5236,
+ "page_range": "115-116"
+}

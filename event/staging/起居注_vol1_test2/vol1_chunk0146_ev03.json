@@ -1,0 +1,24 @@
+{
+ "reign_year": 16,
+ "month": 9,
+ "day_text": "十五日已丑",
+ "event_role": "朝见受贺",
+ "summary": "驻防喜峰口防御图岩、游击杜异等来朝见康熙帝。",
+ "people": [
+  {
+   "name": "图岩",
+   "role": "驻防喜峰口防御"
+  },
+  {
+   "name": "杜异",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "喜峰口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14603,
+ "page_range": "349-350"
+}

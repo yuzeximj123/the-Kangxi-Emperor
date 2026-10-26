@@ -1,0 +1,40 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十九日甲戌",
+ "event_role": "司法案件",
+ "summary": "议河南应邑县私铸案，康熙帝将刘纯、陈赞、杨洪印改拟斩，黄友改拟绞，俱监候秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "刘纯",
+   "role": "私铸犯"
+  },
+  {
+   "name": "陈赞",
+   "role": "私铸犯"
+  },
+  {
+   "name": "杨洪印",
+   "role": "私铸犯"
+  },
+  {
+   "name": "黄友",
+   "role": "私铸犯"
+  }
+ ],
+ "places": [
+  "河南应邑县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3120
+}

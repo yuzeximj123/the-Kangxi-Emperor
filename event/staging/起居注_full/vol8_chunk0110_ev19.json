@@ -1,0 +1,33 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十四日丙子",
+ "event_role": "司法案件",
+ "summary": "刑部汇题笔帖式关区发戳伤伊叔女婿之子六哥及家人五十二，康熙帝令枷号闲责后发遣白都诺当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关区发",
+   "role": "笔帖式"
+  },
+  {
+   "name": "六哥",
+   "role": "受伤者"
+  },
+  {
+   "name": "五十二",
+   "role": "受伤家人"
+  }
+ ],
+ "places": [
+  "京师",
+  "白都诺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11019,
+ "page_range": "231-232"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "十二日己相",
+ "event_role": "人事任免",
+ "summary": "理藩院郎中班第升任员缺，明珠奏称珠瑚才堪办事拟正、费颜图拟陪，康熙帝命补授称珠瑚郎中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "称珠瑚",
+   "role": "员外郎"
+  },
+  {
+   "name": "费颜图",
+   "role": "员外郎"
+  },
+  {
+   "name": "阿穆瑚琅",
+   "role": "尚书"
+  },
+  {
+   "name": "班第",
+   "role": "理藩院郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24418,
+ "page_range": "531-532"
+}

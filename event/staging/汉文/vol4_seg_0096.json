@@ -1,0 +1,52 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "军务",
+ "summary": "兵部奏报十日内给发勘合火牌、用过马匹数目及刑部、户部、理藩院等衙门差遣人员、递送公文、拨给车马口粮折银情形。",
+ "people": [
+  {
+   "name": "卓猷忠",
+   "role": "差官"
+  },
+  {
+   "name": "何莫音",
+   "role": "三等侍卫"
+  },
+  {
+   "name": "岳赖",
+   "role": "理藩院笔帖式"
+  },
+  {
+   "name": "噶米萨尔",
+   "role": "俄罗斯贸易头目"
+  },
+  {
+   "name": "王麟",
+   "role": "差官"
+  },
+  {
+   "name": "书成",
+   "role": "差官"
+  },
+  {
+   "name": "元震",
+   "role": "差官"
+  }
+ ],
+ "places": [
+  "昌平",
+  "盛京",
+  "良乡",
+  "通州",
+  "永平府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示知悉，并命以后凡事必须奏闻，不可隐瞒。",
+ "source_title": "兵部奏报十日內給發勘合火牌用過馬匹數目等情摺（殘頁）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 96
+}

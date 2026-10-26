@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十八日己未",
+ "event_role": "人事任免",
+ "summary": "吏部尚书伊桑阿奏宗人府主事员缺，选内阅中书塞德礼拟正、牛钮拟陪引见，康熙帝谕令准行并诫选用真才。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "塞德礼",
+   "role": "内阅中书拟正"
+  },
+  {
+   "name": "牛钮",
+   "role": "拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6614,
+ "page_range": "167-168"
+}

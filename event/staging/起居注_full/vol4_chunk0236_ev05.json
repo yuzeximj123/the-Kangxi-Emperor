@@ -1,0 +1,32 @@
+{
+ "reign_year": 32,
+ "month": 6,
+ "day_text": "二十八日庚子",
+ "event_role": "谕旨决策",
+ "summary": "户部题覆贵州巡抚闫兴邦疏称官屯地丁两次量算征米银，康熙帝令照该抚所奏行，以免民苗苦累。",
+ "people": [
+  {
+   "name": "闫兴邦",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "李本深",
+   "role": "叛贼"
+  },
+  {
+   "name": "陈奇",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23605,
+ "page_range": "484-485"
+}

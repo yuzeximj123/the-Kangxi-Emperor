@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿为翰林钱名世等所奏一折覆请，康熙帝以钱名世、王式丹、贾国维、贾兆凤行止不端声名不好，俱着革职。",
+ "people": [
+  {
+   "name": "钱名世",
+   "role": "翰林"
+  },
+  {
+   "name": "王式丹",
+   "role": "翰林"
+  },
+  {
+   "name": "贾国维",
+   "role": "翰林"
+  },
+  {
+   "name": "贾兆凤",
+   "role": "翰林"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20011,
+ "page_range": "411-412"
+}

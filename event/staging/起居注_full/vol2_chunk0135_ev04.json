@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "二十八日癸酉",
+ "event_role": "司法案件",
+ "summary": "兵部议云南凯旋官兵役卒扰害民生，统兵佐领博极等应议处，因事在赦前免议，康熙帝以军法严明、赦款甚详，令再议具奏。",
+ "people": [
+  {
+   "name": "博极",
+   "role": "统兵佐领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13504,
+ "page_range": "313-314"
+}

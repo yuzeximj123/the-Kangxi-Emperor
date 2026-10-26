@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "十二日王辰",
+ "event_role": "司法案件",
+ "summary": "督捕衙门参员外郎努喀桑格审问候选州同孙尔昌时擅殴职官，吏部议处，康熙帝认为所议尚轻，令再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "努喀桑格",
+   "role": "员外郎"
+  },
+  {
+   "name": "孙尔昌",
+   "role": "候选州同"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7306,
+ "page_range": "189-190"
+}

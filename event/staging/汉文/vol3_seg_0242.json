@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十年九月二十一日",
+ "reign_year": 50,
+ "month": 9,
+ "day": null,
+ "event_role": "其他",
+ "summary": "广州将军管源忠奏明本年广东霜降时节天气仍热、兰花结籽未实，故进献兰花稍迟，并称此前已遵旨早进蝴蝶以免寒冻。",
+ "people": [
+  {
+   "name": "管源忠",
+   "role": "广州将军"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝（圣谕下达者）"
+  }
+ ],
+ "places": [
+  "广州",
+  "广东"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "廣州將軍管源忠奏陳進薗稍遲緣由摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "944",
+ "order_index": 242
+}

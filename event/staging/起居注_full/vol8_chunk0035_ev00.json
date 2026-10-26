@@ -1,0 +1,22 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请将自称内监殴伤觉罗查呼的刘呈祥等拟流，康熙认为所议过轻，命严行拟罪具奏。",
+ "people": [
+  {
+   "name": "刘呈祥",
+   "role": "案犯"
+  },
+  {
+   "name": "觉罗查呼",
+   "role": "被殴觉罗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3500,
+ "page_range": "81-82"
+}

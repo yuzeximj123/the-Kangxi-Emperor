@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "十七日庚午",
+ "event_role": "军务",
+ "summary": "议政大臣议定行文大将军费扬古，令格垒沽英杜拉尔寨桑只随仆从一人由章京带领前来，其余厄鲁特暂住孤布地方。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "格垒沽英杜拉尔寨桑",
+   "role": "噶尔丹使者"
+  },
+  {
+   "name": "晋巴",
+   "role": "我朝所遣"
+  }
+ ],
+ "places": [
+  "孤布"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17404,
+ "page_range": "358-359"
+}

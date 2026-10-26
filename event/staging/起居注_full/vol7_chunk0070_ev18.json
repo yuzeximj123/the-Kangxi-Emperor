@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十五日戊辰",
+ "event_role": "人事任免",
+ "summary": "以赞善潘应宾升任员缺拟检讨范光宗升授，康熙帝问吴涵范光宗为人，吴涵奏其安静。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "潘应宾",
+   "role": "赞善"
+  },
+  {
+   "name": "范光宗",
+   "role": "检讨"
+  },
+  {
+   "name": "吴涵",
+   "role": "翰林掌院"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7018,
+ "page_range": "151-152"
+}

@@ -1,0 +1,27 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "初五日乙酉",
+ "event_role": "河工水利",
+ "summary": "康熙帝谕总河靳辅熟悉河务，可将起运重粮截留二十万石交靳辅从黄河运至荣泽渡，剥运至三门等处转输陕西以赈饥民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "黄河",
+  "荣泽渡",
+  "三门",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18418,
+ "page_range": "380-381"
+}

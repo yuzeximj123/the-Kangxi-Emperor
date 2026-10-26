@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "十六日丙申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以坛庙祭礼宜加虔肃，令九卿会议具奏，并命席尔达以原品补授太常寺卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "西宝",
+   "role": "太常寺丞"
+  },
+  {
+   "name": "席尔达",
+   "role": "原任学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19904,
+ "page_range": "433-434"
+}

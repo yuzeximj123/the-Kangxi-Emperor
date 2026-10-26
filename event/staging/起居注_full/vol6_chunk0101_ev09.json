@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题和尔敦拘妻致死议绞，康熙帝命交其父叶棱格听其处死。",
+ "people": [
+  {
+   "name": "和尔敦",
+   "role": "罪犯"
+  },
+  {
+   "name": "叶棱格",
+   "role": "和尔敦之父"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10109,
+ "page_range": "212-213"
+}

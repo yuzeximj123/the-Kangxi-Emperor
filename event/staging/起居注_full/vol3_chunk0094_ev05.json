@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "二十八日",
+ "event_role": "司法案件",
+ "summary": "刑部题偷采人参王自逸等杀死骁骑校敦托和，拟为首立斩、余拟徒罪，康熙帝令为首亦应秋后处决。",
+ "people": [
+  {
+   "name": "王自逸",
+   "role": "偷采人参为首者"
+  },
+  {
+   "name": "敦托和",
+   "role": "骁骑校"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9405,
+ "page_range": "223-224"
+}

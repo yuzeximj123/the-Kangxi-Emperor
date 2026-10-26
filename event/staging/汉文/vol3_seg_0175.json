@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十年五月二十五日",
+ "reign_year": 50,
+ "month": 5,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "天津总兵杜呈泗奏报津属地方五月初十至十二日陆续得雨四五寸，二十四日又降甘霖沾足，并恭请圣安。",
+ "people": [
+  {
+   "name": "杜呈泗",
+   "role": "天津总兵官都督佥事，奏报人"
+  },
+  {
+   "name": "王语",
+   "role": "差遣赍捧奏折的家人"
+  }
+ ],
+ "places": [
+  "天津",
+  "直隶"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "天津總兵杜呈泗奏報津屬得雨並請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "867",
+ "order_index": 175
+}

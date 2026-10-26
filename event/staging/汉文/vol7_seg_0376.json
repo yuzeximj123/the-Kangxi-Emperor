@@ -1,0 +1,31 @@
+{
+ "date_raw": "十二月十三日",
+ "reign_year": null,
+ "month": 12,
+ "day": 13,
+ "event_role": "奏报地方情形",
+ "summary": "广东巡抚陈龙奏报赴肇庆署理巡抚印务、巡查海疆操练官兵，并陈明广西、广东钱粮火耗陋规及拒收馈送等情。",
+ "people": [
+  {
+   "name": "陈龙",
+   "role": "广东巡抚、兵部左侍郎兼都察院右都御史，奏报人"
+  },
+  {
+   "name": "萧永藻",
+   "role": "前广东巡抚、今大学士，曾革除陋规"
+  }
+ ],
+ "places": [
+  "肇庆",
+  "肇庆府",
+  "广西",
+  "广东"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "广东巡抚陈龙奏明署理巡抚印务等事",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 376
+}

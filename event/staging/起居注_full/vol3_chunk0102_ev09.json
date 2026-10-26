@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "初四日辛西",
+ "event_role": "人事任免",
+ "summary": "兵部题补黑龙江副都统雅齐纳革职员缺，康熙帝命将本旗强壮及右翼革职官员察明具奏。",
+ "people": [
+  {
+   "name": "雅齐纳",
+   "role": "黑龙江副都统"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10209,
+ "page_range": "239-240"
+}

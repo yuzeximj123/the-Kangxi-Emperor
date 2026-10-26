@@ -1,0 +1,33 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": "二十九日辛丑",
+ "event_role": "朝见受贺",
+ "summary": "顺义县防守御卓博尔图、署顺义县把总事巩华城、千总张贵、浅河营把总王庭延来朝。",
+ "people": [
+  {
+   "name": "卓博尔图",
+   "role": "顺义县防守御"
+  },
+  {
+   "name": "巩华城",
+   "role": "署顺义县把总事"
+  },
+  {
+   "name": "张贵",
+   "role": "千总"
+  },
+  {
+   "name": "王庭延",
+   "role": "浅河营把总"
+  }
+ ],
+ "places": [
+  "顺义县",
+  "浅河营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5010,
+ "page_range": "110-111"
+}

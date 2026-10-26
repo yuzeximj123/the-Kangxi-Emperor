@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "初一日己巳",
+ "event_role": "人事任免",
+ "summary": "翰林院题补日讲起居注张希良丁忧员缺，康熙帝命张英以原衔充日讲起居注官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张希良",
+   "role": "日讲起居注官"
+  },
+  {
+   "name": "张英",
+   "role": "掌院学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13601,
+ "page_range": "284-285"
+}

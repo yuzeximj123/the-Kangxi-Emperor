@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十年十二月十二日",
+ "reign_year": 50,
+ "month": 12,
+ "day": null,
+ "event_role": "弹劾参奏",
+ "summary": "直隶巡抚赵弘燮奏报保定府知府李绅文揭报雄县知县沈泽英，沈泽英亦详评李绅文勒索公费银两，并请拣补北岸同知员缺。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "李绅文",
+   "role": "保定府知府"
+  },
+  {
+   "name": "沈泽英",
+   "role": "雄县知县"
+  }
+ ],
+ "places": [
+  "直隶",
+  "保定府",
+  "雄县",
+  "保定"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸巡撫趙弘燮奏請赴縣交計並請揀補北岸同知員缺摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "997",
+ "order_index": 297
+}

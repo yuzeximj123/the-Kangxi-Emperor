@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十三日己亥",
+ "event_role": "谕旨决策",
+ "summary": "将回复安南国王黎维祯奏请给还牛羊、蝴蝶、浦园三处地方的咨文缮折奏览，康熙帝称好，命照此发去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黎维祯",
+   "role": "安南国王"
+  }
+ ],
+ "places": [
+  "牛羊",
+  "蝴蝶",
+  "浦园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2112,
+ "page_range": "52-53"
+}

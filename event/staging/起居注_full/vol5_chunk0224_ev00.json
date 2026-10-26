@@ -1,0 +1,33 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命议政大臣会同阿拉布潭、德木楚克商议呼户诺尔台吉扎西巴图尔等来朝事宜，令其秋间来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲近一等侍卫"
+  },
+  {
+   "name": "阿拉布潭",
+   "role": "多罗额验"
+  },
+  {
+   "name": "德木楚克",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "口外",
+  "塞内"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22400,
+ "page_range": "458-459"
+}

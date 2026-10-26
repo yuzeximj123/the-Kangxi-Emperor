@@ -1,0 +1,21 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "诸王大臣另奏请皇上于三十晚回宫、初一早再赴慈宁。",
+ "people": [
+  {
+   "name": "诸王大臣",
+   "role": "王大臣"
+  }
+ ],
+ "places": [
+  "乾清宫",
+  "慈宁宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 26107,
+ "page_range": "557-558"
+}

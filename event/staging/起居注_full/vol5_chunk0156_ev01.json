@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "天津总兵官岳异龙题参将施世野恳请给假葬亲，康熙准假并令事毕速回任。",
+ "people": [
+  {
+   "name": "岳异龙",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "施世野",
+   "role": "参将"
+  },
+  {
+   "name": "施琅",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15601,
+ "page_range": "322-323"
+}

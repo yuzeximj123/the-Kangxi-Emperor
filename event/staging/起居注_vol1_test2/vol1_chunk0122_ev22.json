@@ -1,0 +1,28 @@
+{
+ "reign_year": 15,
+ "month": 9,
+ "day_text": "三十日己西",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕察审山西巡抚达尔布等案的侍郎郭四海，命其从公详讯、据实具奏，不得徇私偏枉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭四海",
+   "role": "侍郎"
+  },
+  {
+   "name": "达尔布",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12222,
+ "page_range": "301-302"
+}

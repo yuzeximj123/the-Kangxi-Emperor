@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十三日己刻",
+ "event_role": "人事任免",
+ "summary": "吏部议直隶巡抚于成龙荐举清廉道员董秉忠、知县王尝等注册事，康熙帝以董秉忠办事尚可但非清廉，着不准注册，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "董秉忠",
+   "role": "道员"
+  },
+  {
+   "name": "王尝",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 918,
+ "page_range": "61-62"
+}

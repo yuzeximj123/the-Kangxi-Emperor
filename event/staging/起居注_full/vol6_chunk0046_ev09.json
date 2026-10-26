@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": "二十日癸刻",
+ "event_role": "司法案件",
+ "summary": "吏部覆给事中吕纠参山东按察使苏昌臣纵仆害民，康熙帝命吏刑二部选才能司官前往讯问。",
+ "people": [
+  {
+   "name": "吕",
+   "role": "给事中"
+  },
+  {
+   "name": "苏昌臣",
+   "role": "山东按察使"
+  },
+  {
+   "name": "桑格",
+   "role": "总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4609,
+ "page_range": "102-103"
+}

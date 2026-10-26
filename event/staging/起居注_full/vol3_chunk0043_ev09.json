@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "三十日癸亥",
+ "event_role": "司法案件",
+ "summary": "吏部议刑部主事汪懋麟革职流徙宁古塔，康熙帝令将九卿所议其不安分生事情写入本内来春。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汪懋麟",
+   "role": "刑部主事"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4309,
+ "page_range": "121-122"
+}

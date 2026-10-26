@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "二十二日己酉",
+ "event_role": "河工水利",
+ "summary": "九卿议准靳辅所题高家堰加密排柱、丁头小石，堤里挑小河筑束水堤，需银五十三万余两，先拨三十万两，康熙帝强调高家堰关系重大不可忽。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11612,
+ "page_range": "267-268"
+}

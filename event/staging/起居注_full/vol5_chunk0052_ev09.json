@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "二十日癸丑",
+ "event_role": "司法案件",
+ "summary": "刑部题桑格开赌场拟绞，康熙从宽免死枷号发黑龙江，赌博护军索柱等免枷号各鞭一百。",
+ "people": [
+  {
+   "name": "桑格",
+   "role": "原任护军参领"
+  },
+  {
+   "name": "索柱",
+   "role": "护军"
+  },
+  {
+   "name": "图纳",
+   "role": "刑部尚书"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5209,
+ "page_range": "114-115"
+}

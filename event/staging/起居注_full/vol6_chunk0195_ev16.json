@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "二十一日戊申",
+ "event_role": "谕旨决策",
+ "summary": "康熙称徐潮自到河南声名茂著，伊桑阿奏其任侍郎时办事亦优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐潮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19516,
+ "page_range": "400-401"
+}

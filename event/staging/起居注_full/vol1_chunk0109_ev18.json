@@ -1,0 +1,20 @@
+{
+ "reign_year": 15,
+ "month": 2,
+ "day_text": "初二日甲实",
+ "event_role": "皇帝行止",
+ "summary": "辰时康熙帝赴巩华城。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巩华城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10918,
+ "page_range": "275-276"
+}

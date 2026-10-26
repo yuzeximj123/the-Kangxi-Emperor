@@ -1,0 +1,37 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补广东顺德总兵官刘朝及福建台湾总兵官穆惟雍员缺，康熙帝命问赵良栋、张云经举荐人材壮健者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘朝",
+   "role": "广东顺德总兵官"
+  },
+  {
+   "name": "穆惟雍",
+   "role": "福建台湾总兵官"
+  },
+  {
+   "name": "赵良栋",
+   "role": "官员"
+  },
+  {
+   "name": "张云经",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "广东顺德",
+  "福建台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4802,
+ "page_range": "106-107"
+}

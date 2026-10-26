@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "十七日丙申",
+ "event_role": "司法案件",
+ "summary": "刑部题员外郎硕伦案牵连章时化、王延宾托火文学转银事，康熙帝认为所议含糊、情弊未审出，命会同都察院详审具奏。",
+ "people": [
+  {
+   "name": "硕伦",
+   "role": "员外郎"
+  },
+  {
+   "name": "章时化",
+   "role": "案内牵连人"
+  },
+  {
+   "name": "王延宾",
+   "role": "案内人"
+  },
+  {
+   "name": "火文学",
+   "role": "案内人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8503,
+ "page_range": "213-214"
+}

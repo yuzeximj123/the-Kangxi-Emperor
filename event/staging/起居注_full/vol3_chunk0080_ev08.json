@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初十日庚午",
+ "event_role": "人事任免",
+ "summary": "户部纂修《赋役全书》，拟满郎中苍柱等、汉员外郎王之钊等共六人引见，帝询问其学问人品。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苍柱",
+   "role": "拟用满郎中"
+  },
+  {
+   "name": "王之钊",
+   "role": "拟用汉员外郎"
+  },
+  {
+   "name": "科尔坤",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8008,
+ "page_range": "195-196"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初八日戊辰",
+ "event_role": "人事任免",
+ "summary": "吏部题盛京刑部侍郎瓦尔达员缺，开列内阁学士查强纳等，康熙帝以盛京理事官马进太办事好补授侍郎。",
+ "people": [
+  {
+   "name": "瓦尔达",
+   "role": "盛京刑部侍郎"
+  },
+  {
+   "name": "查强纳",
+   "role": "内阁学士"
+  },
+  {
+   "name": "马进太",
+   "role": "盛京理事官"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13520,
+ "page_range": "281-282"
+}

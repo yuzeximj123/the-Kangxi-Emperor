@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "二十九日甲申",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御行宫，大学士马齐、学士恩否、黑寿以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "恩否",
+   "role": "学士"
+  },
+  {
+   "name": "黑寿",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12213,
+ "page_range": "255-256"
+}

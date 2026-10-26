@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补京口总兵官刘选胜病故员缺，开列副将刘体君等职名。",
+ "people": [
+  {
+   "name": "刘选胜",
+   "role": "京口总兵官"
+  },
+  {
+   "name": "刘体君",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24702,
+ "page_range": "537-538"
+}

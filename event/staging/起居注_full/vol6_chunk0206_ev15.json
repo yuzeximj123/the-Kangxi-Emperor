@@ -1,0 +1,34 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "十三日己已",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士马齐等以折本请旨，吏部题萨尔帕等稽迟公务议处。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "法良",
+   "role": "学士"
+  },
+  {
+   "name": "辛保",
+   "role": "学士"
+  },
+  {
+   "name": "萨尔帕",
+   "role": "户部员外郎"
+  },
+  {
+   "name": "瓦色",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20615,
+ "page_range": "422-423"
+}

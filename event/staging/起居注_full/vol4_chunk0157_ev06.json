@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "初七日庚申",
+ "event_role": "人事任免",
+ "summary": "康熙帝论吏部尚书员缺，调户部尚书苏赫补授，并称库勒纳笃诚优善，补授户部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏赫",
+   "role": "户部尚书"
+  },
+  {
+   "name": "库勒纳",
+   "role": "翰林院官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15706,
+ "page_range": "326-327"
+}

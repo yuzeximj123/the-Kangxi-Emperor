@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "summary": "吏部题补督捕郎中素诺和升任员缺，拟泰齐喇正、僧格陪，康熙帝以其平常命另选。",
+ "people": [
+  {
+   "name": "素诺和",
+   "role": "督捕郎中"
+  },
+  {
+   "name": "泰齐喇",
+   "role": "员外郎拟正"
+  },
+  {
+   "name": "僧格",
+   "role": "拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12006,
+ "page_range": "275-276"
+}

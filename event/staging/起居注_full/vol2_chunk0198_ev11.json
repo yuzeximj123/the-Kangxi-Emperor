@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "初三日甲成",
+ "event_role": "其他",
+ "summary": "康熙帝询问硝充美学问人品，王熙、李霨奏其文章颇好、有才但少谨慎、不免轻躁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "硝充美",
+   "role": "两淮巡盐御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19811,
+ "page_range": "439-440"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "初六日癸丁",
+ "event_role": "议政听政",
+ "summary": "尚书傅腊塔、总督张鹏翮等往陕西复审籽粒并吴秉谦事，欲将在事人员带往清理，陛辞时另行请旨。",
+ "people": [
+  {
+   "name": "傅腊塔",
+   "role": "尚书"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总督"
+  },
+  {
+   "name": "吴秉谦",
+   "role": "涉案官员"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10019,
+ "page_range": "210-211"
+}

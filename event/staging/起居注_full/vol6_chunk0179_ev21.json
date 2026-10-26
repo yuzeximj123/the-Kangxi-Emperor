@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "初三日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕鄂尔吉纳到盛京须会同将军及各部侍郎定议修造事具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂尔吉纳",
+   "role": "工部郎中"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17921,
+ "page_range": "368-369"
+}

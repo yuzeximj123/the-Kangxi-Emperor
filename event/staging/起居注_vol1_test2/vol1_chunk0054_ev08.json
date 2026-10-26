@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 9,
+ "day_text": "十五日辛已",
+ "event_role": "其他",
+ "summary": "康熙帝辰时御弘德殿，讲官熊赐履、喇沙里、孙在丰进讲季康子患盗等四章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5408,
+ "page_range": "165-166"
+}

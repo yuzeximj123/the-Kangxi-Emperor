@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十五年（页码288，日期未明）",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "",
+ "event_role": "收到奏折",
+ "summary": "云贵总督贝和诺题奏云南巡抚郭瑟请在任守制事，康熙帝令郭瑟在任守制。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "贝和诺",
+   "role": "云贵总督"
+  },
+  {
+   "name": "郭瑟",
+   "role": "云南巡抚"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3013
+}

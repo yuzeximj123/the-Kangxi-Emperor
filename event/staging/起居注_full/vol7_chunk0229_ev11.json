@@ -1,0 +1,23 @@
+{
+ "reign_year": 51,
+ "month": 8,
+ "day_text": "二十五日两子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕海禁事宜，称沿海居民赖往日本贸易为生，不准禁止，令严查违禁捕鱼船只并许朝鲜缉拿解送。",
+ "people": [
+  {
+   "name": "陈放咸",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "朝鲜",
+  "盛京",
+  "浙江",
+  "日本"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22911,
+ "page_range": "469-470"
+}

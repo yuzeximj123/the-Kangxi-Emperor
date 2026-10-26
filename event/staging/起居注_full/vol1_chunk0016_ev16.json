@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 6,
+ "day_text": "十九日癸巳",
+ "event_role": "人事任免",
+ "summary": "未时，康熙帝御观德碟，召推补福建兴化总兵官马惟兴，命射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马惟兴",
+   "role": "推补福建兴化总兵官"
+  }
+ ],
+ "places": [
+  "观德碟"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1616,
+ "page_range": "89-90"
+}

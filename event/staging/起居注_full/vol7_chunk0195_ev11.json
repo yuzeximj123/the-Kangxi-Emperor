@@ -1,0 +1,37 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初九日甲午",
+ "event_role": "谕旨决策",
+ "summary": "温达等奏大盗王三瘤子等拟正法揭示事，康熙帝令王三瘤子、王久重俱着立斩枭示。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "齐世武",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "王三瘤子",
+   "role": "大盗"
+  },
+  {
+   "name": "王久重",
+   "role": "大盗"
+  }
+ ],
+ "places": [
+  "通州",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19511,
+ "page_range": "401-402"
+}

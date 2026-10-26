@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请瞒之杨明等十二人发往黑龙江、出首之吴尔代赎身出户一案，康熙认为部议甚是但事体大，令将出首之人优示奖劝，本发回再议具奏。",
+ "people": [
+  {
+   "name": "杨明",
+   "role": "案犯"
+  },
+  {
+   "name": "吴尔代",
+   "role": "出首之人"
+  },
+  {
+   "name": "哪海",
+   "role": "总督"
+  },
+  {
+   "name": "额伦忒",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19200,
+ "page_range": "395-396"
+}

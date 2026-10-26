@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 8,
+ "day_text": "初二日戊申",
+ "event_role": "谕旨决策",
+ "summary": "山西巡抚马齐题武官不宜丁忧，康熙定副将以上准丁忧、参将以下在任守制，命传谕九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "何傅",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24315,
+ "page_range": "521-522"
+}

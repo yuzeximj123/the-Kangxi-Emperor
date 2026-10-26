@@ -1,0 +1,21 @@
+{
+ "reign_year": 16,
+ "month": 3,
+ "day_text": "三十日丙午",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御中和殿，视部太庙祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13323,
+ "page_range": "323-324"
+}

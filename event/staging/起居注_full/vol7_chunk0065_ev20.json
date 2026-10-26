@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "十三日了已",
+ "event_role": "司法案件",
+ "summary": "刑部题窃盗张五等议改照强盗例即正法，康熙帝以与王发财等案无异，着另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张五",
+   "role": "窃盗"
+  },
+  {
+   "name": "王发财",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6520,
+ "page_range": "141-142"
+}

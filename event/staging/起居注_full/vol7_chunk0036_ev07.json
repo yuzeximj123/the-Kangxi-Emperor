@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "二十一戊戌",
+ "event_role": "皇帝行止",
+ "summary": "因皇太子病体大愈，康熙回銮，驻跸直隶景州梁家集村，命皇太子仍住德州加意调摄。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "直隶景州梁家集村",
+  "德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3607,
+ "page_range": "83-84"
+}

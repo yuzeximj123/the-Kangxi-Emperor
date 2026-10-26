@@ -1,0 +1,22 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "初三日癸酉",
+ "event_role": "其他",
+ "summary": "康熙帝赐内大臣、大学士、都统、尚书、护军统领等马各一匹，并赐锦州、义州、广宁等处官兵银币有差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "锦州",
+  "义州",
+  "广宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6009,
+ "page_range": "130-131"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论藏人胆裂不敢妄动，不必遣兵设防，着照茶马差每年遣官会同监督贸易，待达木巴塞尔吉到再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "达木巴塞尔吉",
+   "role": "报信人"
+  }
+ ],
+ "places": [
+  "藏",
+  "厄鲁特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22104,
+ "page_range": "452-453"
+}

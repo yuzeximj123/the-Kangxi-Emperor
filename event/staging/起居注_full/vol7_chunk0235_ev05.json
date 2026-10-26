@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "十一日辛本",
+ "event_role": "议政听政",
+ "summary": "康熙帝在畅春园内西厂阅试武举冯云等九十九人骑射，记其优者。",
+ "people": [
+  {
+   "name": "冯云",
+   "role": "武举"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "外特布",
+   "role": "兵部尚书"
+  }
+ ],
+ "places": [
+  "畅春园内西厂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23505,
+ "page_range": "481-482"
+}

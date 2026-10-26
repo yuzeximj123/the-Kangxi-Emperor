@@ -1,0 +1,22 @@
+{
+ "reign_year": 15,
+ "month": 1,
+ "day_text": "初十日癸已",
+ "event_role": "祭祀典礼",
+ "summary": "展时，康熙帝御中和殿，阅加上太皇太后、皇太后徽号奏书，随后赴两宫奏毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10807,
+ "page_range": "273-274"
+}

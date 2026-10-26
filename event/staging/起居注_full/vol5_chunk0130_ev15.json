@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十一日丙寅",
+ "event_role": "议政听政",
+ "summary": "兵部题奏克勒和朔所留每佐领护军一名或派大臣管领或令阿密达兼管，奉旨令阿密达率兵前来驻扎克勒和朔，所留之兵令一拜统辖。",
+ "people": [
+  {
+   "name": "阿密达",
+   "role": "将军"
+  },
+  {
+   "name": "一拜",
+   "role": "统辖官"
+  }
+ ],
+ "places": [
+  "克勒和朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13015,
+ "page_range": "270-271"
+}

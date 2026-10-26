@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "席格转奏麻尔吉之言，称其负罪之人蒙皇上委以边疆重任，敢不竭心力，并言广西地狭民稀、寇患连年、耕种人少而征输数多致物价踊贵。",
+ "people": [
+  {
+   "name": "席格",
+   "role": "员外郎"
+  },
+  {
+   "name": "麻尔吉",
+   "role": "广西官员"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25006,
+ "page_range": "557-558"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "湖南巡抚赵申桥因粮道成光缘事降调而请留任，康熙命削去成光加级纪录，仍降三级从宽准留任。",
+ "people": [
+  {
+   "name": "赵申桥",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "成光",
+   "role": "粮道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12803,
+ "page_range": "267-268"
+}

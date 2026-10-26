@@ -1,0 +1,44 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": null,
+ "event_role": "朝议听政",
+ "summary": "伊桑阿奏九卿等对原松江府知府裴嵘保举后贤否议论不一，康熙询问是否稍变，王熙奏其家道充裕无贪贿但未免任性。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "裴嵘",
+   "role": "原任松江府知府"
+  },
+  {
+   "name": "张集",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "王九龄",
+   "role": "少詹事"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "松江府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2401,
+ "page_range": "58-59"
+}

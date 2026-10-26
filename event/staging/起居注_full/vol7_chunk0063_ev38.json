@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 6,
+ "day_text": "十九日全已",
+ "event_role": "人事任免",
+ "summary": "大同总兵官张文焕题偏关营参将员缺，请将记名官员或于近地现任官员内选补，康熙帝着将记名官员及应升之人开列具奏。",
+ "people": [
+  {
+   "name": "张文焕",
+   "role": "大同总兵官"
+  }
+ ],
+ "places": [
+  "大同",
+  "偏关营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6338,
+ "page_range": "137-138"
+}

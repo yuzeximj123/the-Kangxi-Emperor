@@ -1,0 +1,38 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十六日辛酉",
+ "event_role": "人事任免",
+ "summary": "内浆侍读尹泰升任员缺，康熙帝命希福纳调补内效侍读。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尹泰",
+   "role": "内浆侍读"
+  },
+  {
+   "name": "宋柱",
+   "role": "主事"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "拟陪"
+  },
+  {
+   "name": "希福纳",
+   "role": "员外郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2312,
+ "page_range": "81-82"
+}

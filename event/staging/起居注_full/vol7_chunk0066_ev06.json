@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "二十五日已已",
+ "event_role": "朝见受贺",
+ "summary": "阿禄科尔沁原额驸巴忒玛之妻县君巴林多罗额驸纳木松、喀喇沁公沙称巴喇锡来朝。",
+ "people": [
+  {
+   "name": "县君",
+   "role": "巴林多罗额驸纳木松之妻"
+  },
+  {
+   "name": "纳木松",
+   "role": "巴林多罗额驸"
+  },
+  {
+   "name": "沙称巴喇锡",
+   "role": "喀喇沁公"
+  }
+ ],
+ "places": [
+  "阿禄科尔沁",
+  "喀喇沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6606,
+ "page_range": "143-144"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "户部题请更换崇文门监督，康熙帝令尚之杰再留任一年。",
+ "people": [
+  {
+   "name": "尚之杰",
+   "role": "崇文门监督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16003,
+ "page_range": "331-332"
+}

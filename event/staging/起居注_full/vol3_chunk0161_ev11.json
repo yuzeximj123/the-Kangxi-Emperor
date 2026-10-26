@@ -1,0 +1,36 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十一日甲戌",
+ "event_role": "人事任免",
+ "summary": "九卿会推广西按察使，拟高成美为正、沈志礼为陪，康熙斥会推不公，命将胡简敬、高成美严加议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "高成美",
+   "role": "淮扬道"
+  },
+  {
+   "name": "沈志礼",
+   "role": "荆南道"
+  },
+  {
+   "name": "胡简敬",
+   "role": "吏部侍郎"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16111,
+ "page_range": "357-358"
+}

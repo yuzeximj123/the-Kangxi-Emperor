@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕议政大臣，将差往丹济喇处之赵三、思格则等分遣丹津汪布、阿拉布坦处招抚，不成或中途而返即军前正法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵三",
+   "role": "军前效力人"
+  },
+  {
+   "name": "思格则",
+   "role": "军前效力人"
+  },
+  {
+   "name": "丹津汪布",
+   "role": "蒙古首领"
+  },
+  {
+   "name": "阿拉布坦",
+   "role": "蒙古首领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23510,
+ "page_range": "480-481"
+}

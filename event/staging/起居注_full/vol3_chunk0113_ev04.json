@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补镶黄旗满洲都统喇哈达老病致仕员缺，康熙命瓦代补授，称其在江南有贤声。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇哈达",
+   "role": "镶黄旗满洲都统"
+  },
+  {
+   "name": "瓦代",
+   "role": "补授都统"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "蒙古都统"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11304,
+ "page_range": "261-262"
+}

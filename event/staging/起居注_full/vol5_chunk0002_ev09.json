@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝责于成龙排陷他人易、身任总河难，并驳其言河岸无柳、放水淹田等语。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "王新命",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 209,
+ "page_range": "14-15"
+}

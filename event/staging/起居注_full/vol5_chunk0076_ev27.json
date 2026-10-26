@@ -1,0 +1,36 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "初九日戊戌",
+ "event_role": "人事任免",
+ "summary": "吏部题山东按察使张勒员缺，康熙帝以李成林不知、朱士杰不及，命开列各道员职名具奏。",
+ "people": [
+  {
+   "name": "张勒",
+   "role": "山东按察使"
+  },
+  {
+   "name": "李成林",
+   "role": "副使道"
+  },
+  {
+   "name": "朱士杰",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "原直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7627,
+ "page_range": "162-163"
+}

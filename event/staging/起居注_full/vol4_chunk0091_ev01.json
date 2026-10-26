@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "涿州知州高登先因衰老令休致回籍，其缺以降级调用原任同知秦镑琦补授。",
+ "people": [
+  {
+   "name": "高登先",
+   "role": "涿州知州"
+  },
+  {
+   "name": "秦镑琦",
+   "role": "原任同知"
+  }
+ ],
+ "places": [
+  "涿州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9101,
+ "page_range": "194-195"
+}

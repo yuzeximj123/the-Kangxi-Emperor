@@ -1,0 +1,25 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "初六日丁卯",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝率皇太子幸南苑射猎，皇太子射中二兔，是日驻中东宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "南苑",
+  "中东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21018,
+ "page_range": "477-478"
+}

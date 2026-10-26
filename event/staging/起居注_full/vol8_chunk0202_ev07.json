@@ -1,0 +1,36 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": "二十日壬申",
+ "event_role": "人事任免",
+ "summary": "吏部题江西巡抚佟国勤原缺开列歼升元等，康熙帝询徐元梦后以白潢补授江西巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元梦",
+   "role": "起居注左都御史"
+  },
+  {
+   "name": "白潢",
+   "role": "新任江西巡抚"
+  },
+  {
+   "name": "佟国勤",
+   "role": "原江西巡抚"
+  },
+  {
+   "name": "歼升元",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20207,
+ "page_range": "415-416"
+}

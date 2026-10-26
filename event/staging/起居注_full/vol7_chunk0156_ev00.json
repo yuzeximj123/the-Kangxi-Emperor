@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝用仪器演示测量田地定位之法，令皇太子、皇子及诸臣观看测算，并讲解《易经》与西洋算法之理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "梅文易",
+   "role": "善算者"
+  },
+  {
+   "name": "胡琨",
+   "role": "副将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15600,
+ "page_range": "323-324"
+}

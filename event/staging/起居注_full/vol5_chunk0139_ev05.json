@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十三日戊寅",
+ "event_role": "军务",
+ "summary": "康熙帝谕议政大臣，给散在后二路大兵米粮关系重要，命于成龙、李锁、喀拜分驻拖陵、苏德图及两地之间应付米粮。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  },
+  {
+   "name": "李锁",
+   "role": "侍郎"
+  },
+  {
+   "name": "喀拜",
+   "role": "左通政"
+  }
+ ],
+ "places": [
+  "拖陵",
+  "苏德图"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13905,
+ "page_range": "288-289"
+}

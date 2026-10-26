@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙五十二年十二月二十一日",
+ "reign_year": 52,
+ "month": 12,
+ "day": 21,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮奏谢康熙恩赐鹿尾野鸡等物，表示感激圣恩、愿竭力图报。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏折作者"
+  },
+  {
+   "name": "贾应虎",
+   "role": "赵弘燮家人，送摺请安"
+  },
+  {
+   "name": "李煦",
+   "role": "巡视两淮盐课监察御史，奏折末尾署名"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "雲南開化總兵閻光煒奏為恭祝萬壽並進土產摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1486",
+ "order_index": 121
+}

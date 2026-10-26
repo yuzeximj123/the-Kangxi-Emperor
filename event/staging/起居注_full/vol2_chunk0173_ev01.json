@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "大学士等面奏册封安南使臣明图等请给御笔事，康熙帝命参照琉球例，待使臣回时书赐，仍将原签送进。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "明图",
+   "role": "翰林院侍读"
+  }
+ ],
+ "places": [
+  "安南",
+  "琉球"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17301,
+ "page_range": "389-390"
+}

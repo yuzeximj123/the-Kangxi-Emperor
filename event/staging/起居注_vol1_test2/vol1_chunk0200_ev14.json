@@ -1,0 +1,32 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "二十三日甲申",
+ "event_role": "人事任免",
+ "summary": "兵部覆大将军康亲王题请参将曾承补授兴化总兵事，康熙帝以总兵封疆要职、总督未列名，不许超补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "康亲王",
+   "role": "大将军"
+  },
+  {
+   "name": "曾承",
+   "role": "参将"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "兴化"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20014,
+ "page_range": "457-458"
+}

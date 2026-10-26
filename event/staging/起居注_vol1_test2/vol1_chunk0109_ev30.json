@@ -1,0 +1,20 @@
+{
+ "reign_year": 15,
+ "month": 2,
+ "day_text": "初七日已未",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝御太和殿视祭告五岳五镇四渎四海、历代帝王陵寝、孔陵各祭文，颁遗各官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10930,
+ "page_range": "275-276"
+}

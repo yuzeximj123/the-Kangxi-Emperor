@@ -1,0 +1,42 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题正红旗参领席珠员缺，拟黑色正、傅喀陪，康熙帝以二人平常命另拟具奏。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "彭春",
+   "role": "都统"
+  },
+  {
+   "name": "康亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "黑色",
+   "role": "拟正参领"
+  },
+  {
+   "name": "傅喀",
+   "role": "拟陪参领"
+  },
+  {
+   "name": "勒尔锦",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17003,
+ "page_range": "375-376"
+}

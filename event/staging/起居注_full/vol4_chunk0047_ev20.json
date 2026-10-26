@@ -1,0 +1,32 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "十八日丁亥",
+ "event_role": "人事任免",
+ "summary": "吏部题翰林院侍讲熊赐瑛请假终养，康熙称其品行最优、学问亦佳，命察明向来养亲乞假优旨事例具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐瑛",
+   "role": "翰林院侍讲"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4720,
+ "page_range": "106-107"
+}

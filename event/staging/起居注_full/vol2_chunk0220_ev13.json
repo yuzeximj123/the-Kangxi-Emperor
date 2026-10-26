@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初二日庚午",
+ "event_role": "司法案件",
+ "summary": "三法司议陈应元持砖打死亲兄应魁拟立斩，康熙帝以其父年逾七十无人侍养，命该部再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "陈应元",
+   "role": "案犯"
+  },
+  {
+   "name": "陈应魁",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22013,
+ "page_range": "483-484"
+}

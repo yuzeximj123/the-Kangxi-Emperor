@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙论人命关系重大，自述详勘刑狱、秋审朝审慎重，今年朝审情实人犯无多，欲仍停止处决，大学士九卿称是。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "大学士",
+   "role": "大臣"
+  },
+  {
+   "name": "九卿",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16102,
+ "page_range": "333-334"
+}

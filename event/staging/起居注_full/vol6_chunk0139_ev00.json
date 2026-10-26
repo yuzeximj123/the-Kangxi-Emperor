@@ -1,0 +1,21 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝减省扈从大臣侍卫，乘小舟往阅郎城、柳岔等处，水浅舟淤改乘小艇，后舍艇步涉泥水，指示永定河道修筑方略。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "郎城",
+  "柳岔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13900,
+ "page_range": "288-289"
+}

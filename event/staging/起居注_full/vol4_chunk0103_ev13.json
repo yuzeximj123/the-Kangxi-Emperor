@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 2,
+ "day_text": "初七日已已",
+ "event_role": "人事任免",
+ "summary": "刑部议御史昂吉图、周士皇违例将无干证词状接留同审，应降二级调用，康熙帝从宽各降三级留用。",
+ "people": [
+  {
+   "name": "昂吉图",
+   "role": "御史"
+  },
+  {
+   "name": "周士皇",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10313,
+ "page_range": "218-219"
+}

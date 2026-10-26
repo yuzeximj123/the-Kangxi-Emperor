@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十八日癸未",
+ "event_role": "谕旨决策",
+ "summary": "勒德洪、明珠奏启奏太皇太后惠郡王事，太皇太后谕旨应削去王爵，康熙帝以为然。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "博合果诺",
+   "role": "多罗惠郡王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2814,
+ "page_range": "91-92"
+}

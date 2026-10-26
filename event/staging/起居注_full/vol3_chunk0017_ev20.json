@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初二日丁酉",
+ "event_role": "其他",
+ "summary": "康熙帝命一等侍卫佟图等赍出白金二百两、表里各十匹及内厩鞍马赐刘国轩，并传谕嘉其归诚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟图",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "刘国轩",
+   "role": "天津总兵官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1720,
+ "page_range": "69-70"
+}

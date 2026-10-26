@@ -1,0 +1,20 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "二十七日甲午",
+ "event_role": "议政听政",
+ "summary": "康熙帝御勤政殿听部院各衙门官员面奏政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "勤政殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6506,
+ "page_range": "142-143"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "十三日癸巳",
+ "event_role": "朝见受贺",
+ "summary": "古北口驿站员外郎罗马代、同知王绩来朝。",
+ "people": [
+  {
+   "name": "罗马代",
+   "role": "古北口驿站员外郎"
+  },
+  {
+   "name": "王绩",
+   "role": "同知"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21410,
+ "page_range": "439-440"
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初五日庚子",
+ "event_role": "司法案件",
+ "summary": "江南江西总督于成龙题伪将军周允隆投诚在先、擒获在后，康熙帝命速行该督缓决，详查投诚始末到日再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "周允隆",
+   "role": "伪将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1813,
+ "page_range": "71-72"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "二十九日乙丑",
+ "event_role": "朝见受贺",
+ "summary": "东安县防守御索齐、守备李云华、知县吴兆龙、武清营游击陈国兴等来朝。",
+ "people": [
+  {
+   "name": "索齐",
+   "role": "东安县防守御"
+  },
+  {
+   "name": "李云华",
+   "role": "守备"
+  },
+  {
+   "name": "吴兆龙",
+   "role": "东安县知县"
+  },
+  {
+   "name": "陈国兴",
+   "role": "武清营游击"
+  }
+ ],
+ "places": [
+  "东安县",
+  "武清营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 918,
+ "page_range": "53-54"
+}

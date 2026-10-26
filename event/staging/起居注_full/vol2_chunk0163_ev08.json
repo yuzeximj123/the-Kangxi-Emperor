@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十六日己丑",
+ "event_role": "谕旨决策",
+ "summary": "副都御史吴珊条陈三法司议事件，刑部议不准行，康熙帝以其冒陈命明白回奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴珊",
+   "role": "副都御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16308,
+ "page_range": "369-370"
+}

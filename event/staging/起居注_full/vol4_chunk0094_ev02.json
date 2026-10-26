@@ -1,0 +1,29 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "初二日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝念云南供应大兵及搬移叛逆家口劳苦，谕将康熙二十一年至二十七年历年所欠屯赋钱粮尽行蠲免，令撰拟谕旨来春。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "云贵总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9402,
+ "page_range": "200-201"
+}

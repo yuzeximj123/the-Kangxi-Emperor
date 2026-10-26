@@ -1,0 +1,50 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "event_role_note": null,
+ "summary": "工部题挑浚烂泥屋等处，康熙论于成龙河工未成、糜费帑金，并及捐纳之弊。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "前总河"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "王新命",
+   "role": "官员"
+  },
+  {
+   "name": "谢廷现",
+   "role": "原任萍州知州"
+  },
+  {
+   "name": "靳辅",
+   "role": "前总河"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "邵伯",
+  "芒稻河",
+  "人字河",
+  "高邮",
+  "清口",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14304,
+ "page_range": "296-297"
+}

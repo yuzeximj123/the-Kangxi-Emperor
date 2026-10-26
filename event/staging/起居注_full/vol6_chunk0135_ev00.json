@@ -1,0 +1,20 @@
+{
+ "reign_year": 39,
+ "month": 1,
+ "day_text": "初一日乙未",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率诸王、贝勒、贝子、公、内大臣、侍卫、大学士、都统、尚书等往堂子行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "堂子"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13500,
+ "page_range": "280-281"
+}

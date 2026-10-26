@@ -1,0 +1,56 @@
+{
+ "reign_year": 28,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "诸王大臣以皇上因太皇太后事劳苦成疾、又逢皇后丧事郁闷为由，奏请皇上少舒郁怀、行幸郊外。",
+ "people": [
+  {
+   "name": "敦柱",
+   "role": "奏事官"
+  },
+  {
+   "name": "诸王",
+   "role": "宗室"
+  },
+  {
+   "name": "贝勒",
+   "role": "宗室"
+  },
+  {
+   "name": "贝子",
+   "role": "宗室"
+  },
+  {
+   "name": "公",
+   "role": "宗室"
+  },
+  {
+   "name": "内大臣",
+   "role": "内大臣"
+  },
+  {
+   "name": "大学士",
+   "role": "大学士"
+  },
+  {
+   "name": "九卿",
+   "role": "九卿"
+  },
+  {
+   "name": "詹事",
+   "role": "詹事"
+  },
+  {
+   "name": "科道",
+   "role": "科道官"
+  }
+ ],
+ "places": [
+  "郊外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8000,
+ "page_range": "172-173"
+}

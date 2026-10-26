@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部覆沈恺曾条奏停止南安高州所添盐引钱粮议不准行，康熙帝令移文该督抚会同议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈恺曾",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "南安",
+  "高州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15903,
+ "page_range": "328-329"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "十二日癸卯",
+ "event_role": "其他",
+ "summary": "康熙帝告知大学士掌院学士喇沙里昨晚病故，称其勤慎可惜，命将好话与知，李霨请给谥。",
+ "people": [
+  {
+   "name": "喇沙里",
+   "role": "掌院学士"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20620,
+ "page_range": "469-470"
+}

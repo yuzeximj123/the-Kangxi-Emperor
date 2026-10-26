@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "初八日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论设官分职原以为民，称赞直隶巡抚于成龙真实清廉，命九卿议加宫保或尚书衔，并令保举类似好官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22215,
+ "page_range": "479-480"
+}

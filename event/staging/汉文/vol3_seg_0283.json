@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十年十一月日",
+ "reign_year": 50,
+ "month": 11,
+ "day": null,
+ "event_role": "朝见受贺",
+ "summary": "闽浙总督范时崇以闽浙两省丰收、地方安宁为由，第三次奏请陛见，希望跪聆圣训并面陈事宜。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督降五级戴罪效力臣，奏请陛见者"
+  },
+  {
+   "name": "陈五显",
+   "role": "积恶，已就抚"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "闽浙两省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批以巡抚未到任、提督新到、封疆关系重大为由，命明年秋间再奏。",
+ "source_title": "闽浙总督范时崇奏请陛见摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 283
+}

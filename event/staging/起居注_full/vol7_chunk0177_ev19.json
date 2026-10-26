@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": "初八日乙未",
+ "event_role": "人事任免",
+ "summary": "山西巡抚苏克济题大同总兵官张文焕养父身故请留任守制，康熙帝准其在任守制。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "张文焕",
+   "role": "大同总兵官"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17719,
+ "page_range": "365-366"
+}

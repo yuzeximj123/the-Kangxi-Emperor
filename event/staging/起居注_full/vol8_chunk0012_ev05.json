@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "奏事治仪正傻子捧出御笔朱书谕旨交大学士温达等，念宋芋、田种玉为世祖时居官老臣，命给田种玉工部尚书衔、俱准给诰封，宋芋、田种玉加宫保。",
+ "people": [
+  {
+   "name": "傻子",
+   "role": "奏事治仪正"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "宋芋",
+   "role": "致仕吏部尚书"
+  },
+  {
+   "name": "田种玉",
+   "role": "老臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1205,
+ "page_range": "35-36"
+}

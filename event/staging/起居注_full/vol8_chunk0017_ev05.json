@@ -1,0 +1,36 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "二十四日辛未",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆山东总兵李雄题水师营兵钱粮事，康熙帝命挑选五百兵每月给银一两五钱。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李雄",
+   "role": "山东总兵官"
+  },
+  {
+   "name": "傅尔",
+   "role": "学士"
+  },
+  {
+   "name": "胡讷",
+   "role": "学士"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1705,
+ "page_range": "45-46"
+}

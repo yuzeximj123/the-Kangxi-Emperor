@@ -1,0 +1,25 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "十七日庚申",
+ "event_role": "河工水利",
+ "summary": "大学士等查看河工，户部尚书伊桑阿奏海运难行，主张治黄河运道，康熙帝赞同。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄河",
+  "胶菜诸河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15713,
+ "page_range": "357-358"
+}

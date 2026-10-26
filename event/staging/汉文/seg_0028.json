@@ -1,0 +1,41 @@
+{
+ "date_raw": "康熙三十八年閏七月",
+ "reign_year": 38,
+ "month": null,
+ "day": null,
+ "event_role": "其他",
+ "summary": "曹寅奏报与督抚等公议监修明陵，因暑雨待秋凉兴修，并请俟竣工勒石御书。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "陶岱",
+   "role": "联署人"
+  },
+  {
+   "name": "宋荦",
+   "role": "联署人"
+  },
+  {
+   "name": "丁易",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "明陵"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "30",
+ "source_title": "江宁织造曹寅奏报与督抚公议明陵俟秋凉修补折",
+ "order_index": 28
+}

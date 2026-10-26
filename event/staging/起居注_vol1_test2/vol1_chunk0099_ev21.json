@@ -1,0 +1,36 @@
+{
+ "reign_year": 14,
+ "month": 9,
+ "day_text": "二十九日甲申",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御保和殿举行经筵大典，讲官常葡、徐元文进讲《四书》，王熙、折库纳进讲《书经》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常葡",
+   "role": "讲官"
+  },
+  {
+   "name": "徐元文",
+   "role": "讲官"
+  },
+  {
+   "name": "王熙",
+   "role": "讲官"
+  },
+  {
+   "name": "折库纳",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9921,
+ "page_range": "255-256"
+}

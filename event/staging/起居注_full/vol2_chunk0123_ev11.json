@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十四日辛未",
+ "event_role": "人事任免",
+ "summary": "九卿会推浙江巡抚，拟正郎永清、拟陪马世济，康熙帝令郎永清来京陛见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郎永清",
+   "role": "河南布政使，拟正浙江巡抚"
+  },
+  {
+   "name": "马世济",
+   "role": "左副都御史，拟陪"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12311,
+ "page_range": "289-290"
+}

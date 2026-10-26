@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝就西安驻防正黄旗兵丁长生装疯惑众案，命九卿、詹事、科道会议具奏。",
+ "people": [
+  {
+   "name": "长生",
+   "role": "西安驻防正黄旗兵丁"
+  },
+  {
+   "name": "博济",
+   "role": "西安将军"
+  },
+  {
+   "name": "关保",
+   "role": "原任协领今升荆州副都统"
+  }
+ ],
+ "places": [
+  "西安",
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10700,
+ "page_range": "225-226"
+}

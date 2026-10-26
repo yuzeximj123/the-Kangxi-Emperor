@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "刑部侍郎宋文运因病请休致，康熙帝称其谨慎廉洁、在任勤劳，准其致仕，复还所降之级并加太子少保。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋文运",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2105,
+ "page_range": "77-78"
+}

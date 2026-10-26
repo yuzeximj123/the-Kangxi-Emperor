@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "就宣府厅卫裁革改设府县事，康熙称于成龙任直隶巡抚时曾奏过，命九卿确议具奏。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宣府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22500,
+ "page_range": "462-463"
+}

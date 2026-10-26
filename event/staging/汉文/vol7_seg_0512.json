@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十六年九月十六日",
+ "reign_year": 56,
+ "month": 9,
+ "day": 16,
+ "event_role": "奏报灾情收成",
+ "summary": "山东巡抚李树德奏报济南等六府各州县秋禾收成分数，并称冬麦已出土，地方宁谧。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东",
+  "济南",
+  "历城",
+  "新城",
+  "长山",
+  "新泰"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知。",
+ "source_title": "山東巡撫李樹德奏報所屬六府秋成分數摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2122",
+ "order_index": 512
+}

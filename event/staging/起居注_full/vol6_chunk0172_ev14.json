@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "初四日癸亥",
+ "event_role": "司法案件",
+ "summary": "刑部题姜大受杀死黄凤辉拟立斩，康熙帝以其初心原属儿戏并非有意杀人，命交九卿议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姜大受",
+   "role": "案犯"
+  },
+  {
+   "name": "黄凤辉",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17214,
+ "page_range": "354-355"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 14,
+ "month": 1,
+ "day_text": "十二日柱未",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝前往巩华城。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巩华城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8429,
+ "page_range": "225-226"
+}

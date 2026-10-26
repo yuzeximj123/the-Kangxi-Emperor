@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": "十九日本未",
+ "event_role": "谕旨决策",
+ "summary": "户部题打牲乌喇章京因貂皮不足额数应交部议罪，康熙帝以捕貂渐少、非其获罪，令交该部行文乌喇将军议定。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9402,
+ "page_range": "198-199"
+}

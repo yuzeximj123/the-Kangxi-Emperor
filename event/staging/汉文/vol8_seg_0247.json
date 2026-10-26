@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十九年三月二十八日",
+ "reign_year": 59,
+ "month": 3,
+ "day": 26,
+ "event_role": "人事任免",
+ "summary": "广东巡抚杨宗仁奏请将番禺县知县田崇灿与花县知县朱绍濂对调，以人地相宜、除盗安民，并请圣裁。",
+ "people": [
+  {
+   "name": "杨宗仁",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "田崇灿",
+   "role": "番禺县知县"
+  },
+  {
+   "name": "朱绍濂",
+   "role": "花县知县"
+  }
+ ],
+ "places": [
+  "广东",
+  "粤东",
+  "广州府",
+  "番禺县",
+  "花县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批指示不必具题。",
+ "source_title": "廣東巡撫楊宗仁奏爲請旨調補繁簡縣缺摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2857",
+ "order_index": 247
+}

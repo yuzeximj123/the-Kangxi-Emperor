@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十四年三月初二日",
+ "reign_year": 54,
+ "month": 3,
+ "day": 4,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮奏谢康熙赏赐御制诗扇、诗文书画、克食及榛子松子鹿兔等物，并述迎驾受训、遵旨预防风霾宣扬圣谕。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚（奏折作者，题名所载）"
+  },
+  {
+   "name": "于成龙",
+   "role": "兵部尚书兼都察院右副都御史加三级、直隶巡抚（正文自称）"
+  }
+ ],
+ "places": [
+  "保定",
+  "直隶"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸巡撫趙弘燮奏謝賞賜御製詩書畫克食等物摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1741",
+ "order_index": 25
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初四日辛卯",
+ "event_role": "弹劾参奏",
+ "event_summary": "理藩院题参郎中穆朱虎才力不及，康熙斥其庸劣，追问先前何以保举贤能，命究问堂官来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "穆朱虎",
+   "role": "理藩院郎中"
+  },
+  {
+   "name": "禅布",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11107,
+ "page_range": "257-258"
+}

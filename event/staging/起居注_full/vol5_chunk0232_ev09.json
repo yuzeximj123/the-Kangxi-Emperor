@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "二十六日乙雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝从宽免马治德、金铎二人之死，拿送京师交刑部议罪。",
+ "people": [
+  {
+   "name": "马治德",
+   "role": "坐台回子"
+  },
+  {
+   "name": "金铎",
+   "role": "坐台"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23209,
+ "page_range": "474-475"
+}

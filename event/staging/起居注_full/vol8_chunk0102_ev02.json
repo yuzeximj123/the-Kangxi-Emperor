@@ -1,0 +1,20 @@
+{
+ "reign_year": 54,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "礼部题张家口外牛羊群内被雪冻毙者着总管公安等赔补，康熙帝命照内群冻毙牛羊之例办理。",
+ "people": [
+  {
+   "name": "公安",
+   "role": "总管"
+  }
+ ],
+ "places": [
+  "张家口外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10202,
+ "page_range": "215-216"
+}

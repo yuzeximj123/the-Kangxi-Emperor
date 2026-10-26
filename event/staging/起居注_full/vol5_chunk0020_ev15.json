@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十六日癸丑",
+ "event_role": "人事任免",
+ "summary": "杭州将军扎木扬赴任请训旨，康熙帝训谕其训练士卒、和睦文武官员、体恤兵民，并慎饮食保重身体。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "扎木扬",
+   "role": "杭州将军"
+  },
+  {
+   "name": "博济",
+   "role": "前江南将军"
+  },
+  {
+   "name": "郭丕",
+   "role": "前任将军"
+  }
+ ],
+ "places": [
+  "杭州",
+  "江南",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2015,
+ "page_range": "50-51"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十四年六月十五日",
+ "reign_year": 54,
+ "month": 6,
+ "day": 15,
+ "event_role": "贸易漕运",
+ "summary": "苏州织造李煦奏陈采办青蓝布亏欠缘由，因停办十年致机户拖欠，请仍派其采办以散给钱粮、追补旧欠。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏折作者"
+  },
+  {
+   "name": "曹寅",
+   "role": "与李煦同亏欠钱粮之人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批谕此事应移行办理，另有一折，待朕再察。",
+ "source_title": "苏州织造李煦奏陈采办布疋亏欠缘由并请仍派采办折",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1808",
+ "order_index": 82
+}

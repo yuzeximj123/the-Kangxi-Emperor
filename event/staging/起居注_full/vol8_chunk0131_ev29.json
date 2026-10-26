@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "二十七日戊子",
+ "event_role": "人事任免",
+ "summary": "山西巡抚苏克济题报布政使苏占丁忧，康熙帝令苏占到任不久着在任守制。",
+ "people": [
+  {
+   "name": "苏占",
+   "role": "山西布政使"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13129,
+ "page_range": "273-274"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "十四日癸巳",
+ "event_role": "司法案件",
+ "summary": "福建总督姚启圣条奏旗下逃人改供牵累，请严加夹审，督捕议不准，康熙以逃人妄扳牵累多，命再议。",
+ "people": [
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8416,
+ "page_range": "211-212"
+}

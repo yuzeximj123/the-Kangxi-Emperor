@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十七年閏八月初一日",
+ "reign_year": 57,
+ "month": null,
+ "day": 1,
+ "event_role": "请安谢恩",
+ "summary": "江宁织造曹頫向康熙请安，并报告江南米价下降、百姓太平，同时呈送八月分晴雨录。",
+ "people": [
+  {
+   "name": "曹頫",
+   "role": "江宁织造，奏报人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江寧織造曹頫奏報江南米價並進晴雨緑摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2686",
+ "order_index": 119
+}

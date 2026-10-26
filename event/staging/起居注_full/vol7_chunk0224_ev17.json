@@ -1,0 +1,34 @@
+{
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "二十六日戊寅",
+ "event_role": "司法案件",
+ "summary": "刑部覆安徽巡抚梁世勋所题杨治国救父击伤杨以征越十三日身死拟立斩，康熙帝命九卿等会同再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁世勋",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "杨以征",
+   "role": "死者"
+  },
+  {
+   "name": "杨汉臣",
+   "role": "杨治国之父"
+  },
+  {
+   "name": "杨治国",
+   "role": "罪犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22417,
+ "page_range": "459-460"
+}

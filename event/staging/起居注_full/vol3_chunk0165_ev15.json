@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "初二日乙酉",
+ "event_role": "人事任免",
+ "summary": "库勒纳、张英等为日讲起居注官顾汗员缺开列徐嘉炎等六人，康熙帝命兼选北方之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "官员"
+  },
+  {
+   "name": "张英",
+   "role": "官员"
+  },
+  {
+   "name": "顾汗",
+   "role": "日讲起居注官"
+  },
+  {
+   "name": "徐嘉炎",
+   "role": "检讨"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16515,
+ "page_range": "365-366"
+}

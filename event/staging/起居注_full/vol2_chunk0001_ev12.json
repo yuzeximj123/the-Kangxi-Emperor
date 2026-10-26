@@ -1,0 +1,37 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初七日癸亥",
+ "event_role": "军务",
+ "summary": "建威将军吴丹奏副将徐升耀、武举赵士元往招抚王屏藩被害，康熙帝命将徐升耀优旨票出以示激劝，余如部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴丹",
+   "role": "建威将军"
+  },
+  {
+   "name": "徐升耀",
+   "role": "副将"
+  },
+  {
+   "name": "赵士元",
+   "role": "武举"
+  },
+  {
+   "name": "王屏藩",
+   "role": "叛将"
+  }
+ ],
+ "places": [
+  "云南",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 112,
+ "page_range": "45-46"
+}

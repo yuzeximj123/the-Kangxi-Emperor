@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆湖广总督鄂海题请以赵士仪调补杜明礼员缺，康熙准照所请调补。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "湖广总督"
+  },
+  {
+   "name": "杜明礼",
+   "role": "莫陵镇标中军游击"
+  },
+  {
+   "name": "赵士仪",
+   "role": "该镇右营游击"
+  }
+ ],
+ "places": [
+  "湖广",
+  "莫陵镇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19201,
+ "page_range": "395-396"
+}

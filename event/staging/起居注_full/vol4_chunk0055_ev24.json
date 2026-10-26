@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "初五日癸卯",
+ "event_role": "司法案件",
+ "summary": "吴县民周氏奏称其夫徐长民、子徐汲敏死罪俱冤，康熙帝命刑部、都察院更审，议奏免死、枷号充军，上从之。",
+ "people": [
+  {
+   "name": "周氏",
+   "role": "吴县民妇"
+  },
+  {
+   "name": "徐长民",
+   "role": "民"
+  },
+  {
+   "name": "徐汲敏",
+   "role": "民"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "吴县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5524,
+ "page_range": "122-123"
+}

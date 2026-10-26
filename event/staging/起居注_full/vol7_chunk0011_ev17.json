@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "初六日本已",
+ "event_role": "奏报地方情形",
+ "summary": "学士常寿查盛京等地方壮丁回入奏，奏称盛京等处及山海关以内皆得雨，禾苗茂盛。",
+ "people": [
+  {
+   "name": "常寿",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "山海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1117,
+ "page_range": "33-34"
+}

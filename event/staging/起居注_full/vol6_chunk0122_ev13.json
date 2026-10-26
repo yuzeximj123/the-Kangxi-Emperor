@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "初四日戊成",
+ "event_role": "人事任免",
+ "summary": "吏部题大学士李天和杖员缺，康熙帝命将满汉大臣及各省督抚职名缮写绿头签，明早呈览升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李天和",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴瑞",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12213,
+ "page_range": "254-255"
+}

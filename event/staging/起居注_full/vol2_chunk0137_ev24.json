@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "初八日癸未",
+ "event_role": "其他",
+ "summary": "康熙帝论颜真卿书严气正性，可卜后来临难风节；二臣奏颜真卿守平原忠义事，谓人君贵养忠臣义士于平时。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "颜真卿",
+   "role": "唐臣"
+  }
+ ],
+ "places": [
+  "平原",
+  "河北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13724,
+ "page_range": "317-318"
+}

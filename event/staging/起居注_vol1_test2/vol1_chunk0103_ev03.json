@@ -1,0 +1,20 @@
+{
+ "reign_year": 14,
+ "month": 10,
+ "day_text": "十五日己巳",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率内大臣、侍卫及随驾官员至孝陵隆恩殿前致祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵隆恩殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10303,
+ "page_range": "263-264"
+}

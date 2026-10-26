@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十日乙卯",
+ "event_role": "人事任免",
+ "summary": "吏部题安徽按察使卢崇兴丁忧员缺，康熙帝询问人选后命王国泰补授按察使。",
+ "people": [
+  {
+   "name": "卢崇兴",
+   "role": "安徽按察使"
+  },
+  {
+   "name": "王国泰",
+   "role": "候补按察使，补授按察使"
+  },
+  {
+   "name": "许又勋",
+   "role": "陪拟道员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2202,
+ "page_range": "79-80"
+}

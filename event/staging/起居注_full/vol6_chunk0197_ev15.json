@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "三十日丁巳",
+ "event_role": "军务",
+ "summary": "湖广镇筸总兵官雷如条奏苗蛮犯界、不待申报即进剿、请增兵设理事同知，康熙帝令该总督逐一明白议奏。",
+ "people": [
+  {
+   "name": "雷如",
+   "role": "湖广镇筸总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "镇筸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19715,
+ "page_range": "404-405"
+}

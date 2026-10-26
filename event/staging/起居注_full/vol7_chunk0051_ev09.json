@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "初七日壬午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至扬州登岸入城阅视民生，士庶扶老携幼设香案争睹天颜，后出城泊宝塔湾。",
+ "people": [
+  {
+   "name": "左必蕃",
+   "role": "扬州府知府"
+  }
+ ],
+ "places": [
+  "扬州",
+  "宝塔湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5109,
+ "page_range": "113-114"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": "十九日庚成",
+ "event_role": "人事任免",
+ "summary": "吏部题学士胡会思员缺开列徐秉义等，康熙帝以无久试深知者令酌议，并特授徐秉义、孙岳颁为礼部侍郎，孙岳颁仍兼管国子监。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡会思",
+   "role": "学士"
+  },
+  {
+   "name": "徐秉义",
+   "role": "佥事"
+  },
+  {
+   "name": "孙岳颁",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16211,
+ "page_range": "334-335"
+}

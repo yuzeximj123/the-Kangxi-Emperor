@@ -1,0 +1,42 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "三十日王辰",
+ "event_role": "谕旨决策",
+ "summary": "大学士伊桑阿等奏请因元旦暂停御史李时谦两疏，康熙帝谕令仍照常送进。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王中",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  },
+  {
+   "name": "李时谦",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9804,
+ "page_range": "208-209"
+}

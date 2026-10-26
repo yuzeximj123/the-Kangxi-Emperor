@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "初五日已刻",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，大学士等遵旨将各部尚书、侍郎、各省督抚职名缮写绿头签具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴珊",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12216,
+ "page_range": "254-255"
+}

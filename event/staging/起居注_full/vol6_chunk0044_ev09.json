@@ -1,0 +1,41 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "二十八日辛丑",
+ "event_role": "人事任免",
+ "summary": "广西提督李林盛员缺，康熙帝令将福建水师营提督张旺调补，以吴英补授福建水师营提督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李林盛",
+   "role": "广西提督"
+  },
+  {
+   "name": "喻维邦",
+   "role": "汉军副都统"
+  },
+  {
+   "name": "高必盛",
+   "role": "总兵"
+  },
+  {
+   "name": "张旺",
+   "role": "福建水师营提督"
+  },
+  {
+   "name": "吴英",
+   "role": "福建人"
+  }
+ ],
+ "places": [
+  "广西",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4409,
+ "page_range": "98-99"
+}

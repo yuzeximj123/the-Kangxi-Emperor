@@ -1,0 +1,22 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "三十日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以面谕九卿等官谕旨谕满大学士索额图等，令将谕旨一一传谕汉大学士、学士等官。",
+ "people": [
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20314,
+ "page_range": "463-464"
+}

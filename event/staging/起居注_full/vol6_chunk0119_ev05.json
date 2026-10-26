@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "十七日辛巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝指示永定河修治宜随低洼滩治、掘土钉椿筑堤，交王新命、李光地部属官员修理，遇村庄可危处远移或砌石。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "原任总河"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11905,
+ "page_range": "248-249"
+}

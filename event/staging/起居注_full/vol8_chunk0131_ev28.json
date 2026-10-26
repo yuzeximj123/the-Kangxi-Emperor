@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "二十七日戊子",
+ "event_role": "司法案件",
+ "summary": "刑部议张文岳与堂兄张显仁赌钱角口掷石致其死亡案，拟即行处斩，康熙帝改为拟斩监候秋后处决。",
+ "people": [
+  {
+   "name": "张文岳",
+   "role": "案犯"
+  },
+  {
+   "name": "张显仁",
+   "role": "被害人"
+  },
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13128,
+ "page_range": "273-274"
+}

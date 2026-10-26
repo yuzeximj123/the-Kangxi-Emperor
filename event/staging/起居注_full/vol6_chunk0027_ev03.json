@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "山西巡抚倭伦因盗案保举泽营参将林大中卓异被议罚，康熙称林大中颇优准卓异，倭伦从宽免罚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "林大中",
+   "role": "泽营参将"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2703,
+ "page_range": "64-65"
+}

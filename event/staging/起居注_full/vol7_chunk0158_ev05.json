@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "詹事府题皇太子讲官胡作梅员缺，以詹事府庶子胡润等职名开列请旨；康熙帝着问翰林院具奏。",
+ "people": [
+  {
+   "name": "胡作梅",
+   "role": "皇太子讲官"
+  },
+  {
+   "name": "胡润",
+   "role": "詹事府庶子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15805,
+ "page_range": "327-328"
+}

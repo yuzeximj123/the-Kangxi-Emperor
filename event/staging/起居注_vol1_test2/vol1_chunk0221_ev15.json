@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十四日甲戌",
+ "event_role": "人事任免",
+ "summary": "郧阳抚治杨茂勋员缺请旨开列，康熙帝以地方已定、郧阳系内地，命不必补授，着再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨茂勋",
+   "role": "郧阳抚治"
+  }
+ ],
+ "places": [
+  "郧阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22115,
+ "page_range": "499-500"
+}

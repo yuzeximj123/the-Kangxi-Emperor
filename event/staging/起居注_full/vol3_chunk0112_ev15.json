@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初八日乙未",
+ "event_role": "谕旨决策",
+ "summary": "皇帝谕图纳，前任巡抚达尔布、穆尔赛居官不善，此去易于见长，令殚心尽力以副职掌。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "达尔布",
+   "role": "前任巡抚"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "前任巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11215,
+ "page_range": "259-260"
+}

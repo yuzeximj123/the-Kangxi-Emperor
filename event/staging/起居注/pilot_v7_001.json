@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十五年六月二十八日",
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "二十八日",
+ "event_role": "司法案件",
+ "summary": "都察院拟长芦巡盐御史迈色革职拿问，康熙帝令待赵弘尝审奏后再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "迈色",
+   "role": "长芦巡盐御史"
+  },
+  {
+   "name": "赵弘尝",
+   "role": "审案官员"
+  }
+ ],
+ "places": [
+  "长芦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3001
+}

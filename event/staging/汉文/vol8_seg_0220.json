@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十八年八月二十八日",
+ "reign_year": 58,
+ "month": 8,
+ "day": 28,
+ "event_role": "军务",
+ "summary": "山东巡抚李树德奏请将节省所得银三万两捐助西陲军需，以尽臣子报效之诚，并请旨指示解送地点。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚，奏请捐助军需者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，奏折呈报对象"
+  }
+ ],
+ "places": [
+  "山东",
+  "登州",
+  "西陲",
+  "陕省"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "山東巡撫李樹德奏為急公捐助西陲軍需事摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2817",
+ "order_index": 220
+}

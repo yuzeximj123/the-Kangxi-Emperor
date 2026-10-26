@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙六十一年五月二十日",
+ "reign_year": 61,
+ "month": 5,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "江西提督高其位奏报江南春夏风调雨顺、万民乐业，并因翠华巡幸热河远隔汛守而恭请圣安。",
+ "people": [
+  {
+   "name": "高其位",
+   "role": "江西提督（提督江南总兵官）"
+  },
+  {
+   "name": "年羹尧",
+   "role": "奏折中提及的官员"
+  },
+  {
+   "name": "张云龙",
+   "role": "差把总，捧摺上闻"
+  },
+  {
+   "name": "陈绪齐",
+   "role": "家人，捧摺上闻"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "热河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知自己安好，饮食起居正常。",
+ "source_title": "江西提督高其位奏報地方情形並請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2988",
+ "order_index": 366
+}

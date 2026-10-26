@@ -1,0 +1,36 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十四日庚申",
+ "event_role": "朝见受贺",
+ "summary": "吏部尚书达哈塔、詹事尹泰、起居注官戴通、胡会因至畅春园门外，汤斌因病后至。",
+ "people": [
+  {
+   "name": "达哈塔",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "尹泰",
+   "role": "詹事"
+  },
+  {
+   "name": "戴通",
+   "role": "起居注官"
+  },
+  {
+   "name": "胡会因",
+   "role": "起居注官"
+  },
+  {
+   "name": "汤斌",
+   "role": "礼部尚书管詹事府詹事"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23804,
+ "page_range": "511-512"
+}

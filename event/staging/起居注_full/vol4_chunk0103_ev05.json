@@ -1,0 +1,22 @@
+{
+ "reign_year": 29,
+ "month": 2,
+ "day_text": "初四日丙寅",
+ "event_role": "皇帝行止",
+ "summary": "卯时，康熙帝谒陵，由东华门出朝阳，当日驻跸夏店。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "朝阳",
+  "夏店"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10305,
+ "page_range": "218-219"
+}

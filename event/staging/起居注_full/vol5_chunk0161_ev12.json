@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十九日于午",
+ "event_role": "谕旨决策",
+ "summary": "议政大臣议将存银令于成龙所留骆驼驮运至独石口交收，护守官兵各回本处，康熙依议。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "独石口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16112,
+ "page_range": "332-333"
+}

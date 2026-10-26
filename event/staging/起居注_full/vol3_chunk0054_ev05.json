@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝过宝应县、高邮州召伯镇，驻跸扬州城黄金坝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宝应县",
+  "高邮州",
+  "召伯镇",
+  "扬州城",
+  "黄金坝"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5405,
+ "page_range": "143-144"
+}

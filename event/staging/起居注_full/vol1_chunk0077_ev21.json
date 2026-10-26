@@ -1,0 +1,32 @@
+{
+ "reign_year": 13,
+ "month": 9,
+ "day_text": "初一日壬戌",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政毕，谕翰林院学士倩达礼、熊赐履、侍讲学士勒贝恢复日讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倩达礼",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "勒贝",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7721,
+ "page_range": "211-212"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 8,
+ "day_text": "十二日康子",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝赐翁牛忒部落贝勒厄林臣、台吉卓特巴、都统多木朱克及官兵布匹银两有差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "厄林臣",
+   "role": "翁牛忒多罗达尔汉贝勒"
+  },
+  {
+   "name": "卓特巴",
+   "role": "一品台吉"
+  },
+  {
+   "name": "多木朱克",
+   "role": "都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10108,
+ "page_range": "237-238"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "二十八日庚申",
+ "event_role": "军务",
+ "summary": "厄鲁特额尔德尼和硕齐等抢掠吴喇忒人畜，康熙帝令写敕付噶尔丹使者，并下部院确议。",
+ "people": [
+  {
+   "name": "额尔德尼和硕齐",
+   "role": "厄鲁特部落"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "吴喇忒部落",
+  "鄂尔多斯部落"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19411,
+ "page_range": "445-446"
+}

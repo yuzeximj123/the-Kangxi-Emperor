@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙问广东之热较江浙如何，石柱奏二月到广东时瓜菜已成熟，康熙复问江浙之热较京师如何。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "石柱",
+   "role": "奏对官员"
+  }
+ ],
+ "places": [
+  "广东",
+  "江浙",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3510,
+ "page_range": "105-106"
+}

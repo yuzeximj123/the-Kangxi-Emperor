@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "未时康熙御景山内前殿召贵州威宁总兵官王潮海赐食，询问年岁籍贯出身历任并谕以抚恤边民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王潮海",
+   "role": "贵州威宁总兵官"
+  }
+ ],
+ "places": [
+  "景山内前殿",
+  "威宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6706,
+ "page_range": "169-170"
+}

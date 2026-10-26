@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "初四日辛西",
+ "event_role": "人事任免",
+ "summary": "正白旗解任汉军副都统孙承祖员缺，康熙帝命以对秦补授。",
+ "people": [
+  {
+   "name": "孙承祖",
+   "role": "正白旗汉军副都统"
+  },
+  {
+   "name": "鄂尔多",
+   "role": "侍郎"
+  },
+  {
+   "name": "对秦",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10211,
+ "page_range": "239-240"
+}

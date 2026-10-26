@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十七日壬子",
+ "event_role": "人事任免",
+ "summary": "吏部题侍郎辛保员缺，康熙帝命原任总督吴赫补授侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴赫",
+   "role": "原任总督"
+  },
+  {
+   "name": "布泰",
+   "role": "学士"
+  },
+  {
+   "name": "辛保",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11113,
+ "page_range": "232-233"
+}

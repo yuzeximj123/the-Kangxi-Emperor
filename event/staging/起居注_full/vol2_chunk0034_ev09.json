@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": "二十日甲戌",
+ "event_role": "皇帝行止",
+ "summary": "辰时康熙御乾清宫，讲官库勒纳、叶方蔼、张玉书进讲剥卦不利有攸往及象日剥也等章节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3409,
+ "page_range": "111-112"
+}

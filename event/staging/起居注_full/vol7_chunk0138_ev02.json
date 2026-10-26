@@ -1,0 +1,38 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐等遵旨询问翰林院掌院学士揆叙，以励廷仪、葛廷锡、张廷玉所学俱优，康熙帝命励廷仪补授中允。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "揆叙",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "励廷仪",
+   "role": "编修，补授中允"
+  },
+  {
+   "name": "葛廷锡",
+   "role": "编修"
+  },
+  {
+   "name": "张廷玉",
+   "role": "检讨"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13802,
+ "page_range": "287-288"
+}

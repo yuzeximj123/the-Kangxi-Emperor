@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十三日丙辰",
+ "event_role": "起居注官记录",
+ "summary": "记载本日早康熙御乾清宫，讲官孙在丰、常书、归人允肃进讲《易传》两节，康熙亲讲首节。",
+ "people": [
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "归人允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4109,
+ "page_range": "117-118"
+}

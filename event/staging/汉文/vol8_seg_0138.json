@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十七年十月初五日",
+ "reign_year": 57,
+ "month": 10,
+ "day": 5,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州、扬州等府米价平减、二麦布种及雨水调匀情形，并进呈九月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "福州",
+  "扬州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報蘇揚米價並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2709",
+ "order_index": 138
+}

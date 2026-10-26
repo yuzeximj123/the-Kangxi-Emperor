@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "十五日庚申",
+ "event_role": "人事任免",
+ "summary": "题补广东布政使员缺，拟以崔维雅补授，因崔维雅现差往勘视河工，令九卿会同另推具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔维雅",
+   "role": "候补"
+  },
+  {
+   "name": "金镇",
+   "role": "江南按察使"
+  }
+ ],
+ "places": [
+  "广东",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13216,
+ "page_range": "307-308"
+}

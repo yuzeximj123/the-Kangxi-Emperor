@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "十八日丁未",
+ "event_role": "奏报灾情收成",
+ "summary": "户部覆浙江巡抚张僵题西安等三县被灾，请以邻县米谷散给并蠲免钱粮，康熙帝询问贮谷数目及亏欠缘由。",
+ "people": [
+  {
+   "name": "张僵",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16903,
+ "page_range": "348-349"
+}

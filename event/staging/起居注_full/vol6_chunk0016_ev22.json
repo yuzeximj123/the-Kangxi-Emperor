@@ -1,0 +1,21 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "二十七日甲戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸米峪口，是日猎一虎于五虎山。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "米峪口",
+  "五虎山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1622,
+ "page_range": "42-43"
+}

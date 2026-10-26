@@ -1,0 +1,27 @@
+{
+ "reign_year": 32,
+ "month": 8,
+ "day_text": "二十六日丁丁",
+ "event_role": "谕旨决策",
+ "summary": "户部题覆总漕兴永朝疏称江北启、凤、淮扬等处漕粮请红白兼收，议不准行，康熙帝令随各地所出红白兼收，勿劳百姓。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "兴永朝",
+   "role": "总漕"
+  }
+ ],
+ "places": [
+  "江北",
+  "启",
+  "凤",
+  "淮扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24011,
+ "page_range": "492-493"
+}

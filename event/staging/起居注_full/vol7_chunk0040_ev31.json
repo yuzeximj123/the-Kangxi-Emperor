@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": "二十五日壬申",
+ "event_role": "人事任免",
+ "summary": "吏部汇题武清县知县章曾印等降级、笔帖式牙尔善开复，康熙帝命牙尔善随旗效力，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章曾印",
+   "role": "武清县知县"
+  },
+  {
+   "name": "牙尔善",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "武清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4031,
+ "page_range": "91-92"
+}

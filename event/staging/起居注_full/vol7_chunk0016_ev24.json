@@ -1,0 +1,38 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "二十九日庚成",
+ "event_role": "人事任免",
+ "summary": "吏部请行取知县补科道员缺，康熙帝令先补额外主事六员再行文各省行取。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1624,
+ "page_range": "43-44"
+}

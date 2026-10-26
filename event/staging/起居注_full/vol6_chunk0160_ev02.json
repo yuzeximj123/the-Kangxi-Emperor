@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补授两淮运司，康熙帝命梁世勋升补两淮盐运使司盐运使。",
+ "people": [
+  {
+   "name": "梁世勋",
+   "role": "两淮盐运使司盐运使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16002,
+ "page_range": "330-331"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 11,
+ "day_text": "二十一日丙寅",
+ "event_role": "司法案件",
+ "summary": "刑部题安亲王坟后偷挖窑口傅之寿等杖一百流三千里，帝命将安亲王坟地附近窑口由该部发官价尽买填塞，永禁开掘。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅之寿",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "安亲王坟地"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21504,
+ "page_range": "442-443"
+}

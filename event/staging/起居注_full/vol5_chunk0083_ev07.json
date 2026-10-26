@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "吏部题督捕侍郎赵山等往视修筑运河堤岸，于未修筑处妄称坚固，相应革职交刑部，康熙帝令问九卿具奏。",
+ "people": [
+  {
+   "name": "赵山",
+   "role": "督捕侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8307,
+ "page_range": "176-177"
+}

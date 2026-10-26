@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就硕伦等受贿案谕阁臣，令秋审时勿得末减，并传旨刑部堂官各具本回奏保举之情。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "硕伦",
+   "role": "受贿案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6002,
+ "page_range": "163-164"
+}

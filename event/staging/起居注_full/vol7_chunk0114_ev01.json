@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝向马齐评论工部侍郎穆和伦无知执拗，列举其条奏山东鸟枪、迁饥民、逐喇嘛等事不可行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "穆和伦",
+   "role": "工部侍郎"
+  }
+ ],
+ "places": [
+  "山东",
+  "蒙古"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11401,
+ "page_range": "239-240"
+}

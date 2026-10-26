@@ -1,0 +1,42 @@
+{
+ "reign_year": 31,
+ "month": 11,
+ "day_text": "十九日甲子",
+ "event_role": "人事任免",
+ "summary": "甘肃提督孙思克等及太原总兵胡戴臣军政自陈，康熙帝命孙思克加将军职衔，施琅等拟温旨批发，并令传问九卿。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "甘肃提督"
+  },
+  {
+   "name": "胡戴臣",
+   "role": "太原总兵官"
+  },
+  {
+   "name": "施琅",
+   "role": "提督"
+  },
+  {
+   "name": "张云受",
+   "role": "提督"
+  },
+  {
+   "name": "徐治都",
+   "role": "提督"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21424,
+ "page_range": "440-441"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "十四日乙雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召靳辅入行宫，谕其数年来修治河工著有成效，勉其益加勤励早告成功，使百姓各安旧业。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总督河道"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5811,
+ "page_range": "151-152"
+}

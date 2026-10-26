@@ -1,0 +1,44 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "初一日甲申",
+ "event_role": "司法案件",
+ "summary": "刑部等题直隶秋审情真重犯，康熙帝将张二、陈应连、王秃子等案改为缓决，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张二",
+   "role": "案犯"
+  },
+  {
+   "name": "常寿",
+   "role": "案犯"
+  },
+  {
+   "name": "卞一",
+   "role": "案犯"
+  },
+  {
+   "name": "陈应连",
+   "role": "案犯"
+  },
+  {
+   "name": "李氏",
+   "role": "被害人"
+  },
+  {
+   "name": "王秃子",
+   "role": "乞丐案犯"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22408,
+ "page_range": "458-459"
+}

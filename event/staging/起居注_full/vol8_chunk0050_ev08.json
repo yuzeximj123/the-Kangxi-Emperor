@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 1,
+ "day_text": "初四日丙午",
+ "event_role": "谕旨决策",
+ "summary": "诸王、贝勒、贝子、公等满汉大臣奏请暂停亲祭天、地、祈谷坛，康熙帝谕令仍亲祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "双全",
+   "role": "奏事员外郎"
+  }
+ ],
+ "places": [
+  "天坛",
+  "地坛",
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5008,
+ "page_range": "111-112"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙三十八年五月二十六日",
+ "reign_year": 38,
+ "month": 5,
+ "day": 26,
+ "event_role": "奏报灾情收成",
+ "summary": "曹寅奏报江南雨水充足、麦秋丰收、蚕丝大收，并恭请圣安。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批阅后表示知道了。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "29",
+ "source_title": "江宁织造曹寅奏报江南麦秋并蚕丝大收折",
+ "order_index": 27
+}

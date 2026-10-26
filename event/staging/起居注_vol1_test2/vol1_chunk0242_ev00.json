@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝复御乾清门，大学士、学士及九卿、詹事、科道诸臣入见，询问所议之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24200,
+ "page_range": "541-542"
+}

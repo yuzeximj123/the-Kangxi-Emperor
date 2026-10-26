@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初五日辛丑",
+ "event_role": "司法案件",
+ "summary": "兵部题将从贼提督马化鹿、总兵刘之复家产人口交送刑部，康熙疑马化鹿未污伪职，命核实以防冤滥。",
+ "people": [
+  {
+   "name": "马化鹿",
+   "role": "提督"
+  },
+  {
+   "name": "刘之复",
+   "role": "总兵"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 511,
+ "page_range": "45-46"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "初七日甲子",
+ "event_role": "谕旨决策",
+ "summary": "原任内阁学士钱齐保等以教养土默特部落蒙古请训旨，康熙帝谕以审察慎行、勿私给物件并慎防盗贼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钱齐保",
+   "role": "原任内阁学士"
+  }
+ ],
+ "places": [
+  "土默特部落"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19806,
+ "page_range": "406-407"
+}

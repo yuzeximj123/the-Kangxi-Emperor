@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "初五日甲申",
+ "event_role": "议政听政",
+ "summary": "议政大臣等奏索额图等称厄鲁特车凌来归，请旨定夺，奉旨着议政大臣会议具奏。",
+ "people": [
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "费扬古",
+   "role": "抚远大将军伯"
+  },
+  {
+   "name": "乃麻代",
+   "role": "拨什库"
+  },
+  {
+   "name": "车凌",
+   "role": "厄鲁特来归台吉"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23608,
+ "page_range": "482-483"
+}

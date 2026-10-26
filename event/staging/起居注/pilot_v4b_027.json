@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙二十八年二月二十六日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十六日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕扈从部院诸臣，说明地方预备船只未曾御用，命拆毁造饰物料。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2027
+}

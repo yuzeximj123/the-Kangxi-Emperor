@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十五日辛未",
+ "event_role": "人事任免",
+ "summary": "浙江总督李之芳题游击孙斌斩贼伪使飞报贼情，康熙帝嘉其忠贞，命从优升为副将，有缺即补。",
+ "people": [
+  {
+   "name": "孙斌",
+   "role": "游击"
+  },
+  {
+   "name": "李之芳",
+   "role": "浙江总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 304,
+ "page_range": "49-50"
+}

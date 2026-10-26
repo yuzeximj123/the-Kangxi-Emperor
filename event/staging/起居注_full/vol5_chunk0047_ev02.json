@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "赐新江巡抚王维珍鞍马一匹。",
+ "people": [
+  {
+   "name": "王维珍",
+   "role": "新江巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "新江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4702,
+ "page_range": "104-105"
+}

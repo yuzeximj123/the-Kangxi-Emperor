@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "初五日丙子",
+ "event_role": "朝见受贺",
+ "summary": "署新乡县知县事获嘉县知县高必送来朝。",
+ "people": [
+  {
+   "name": "高必送",
+   "role": "署新乡县知县事获嘉县知县"
+  }
+ ],
+ "places": [
+  "新乡县",
+  "获嘉县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8425,
+ "page_range": "179-180"
+}

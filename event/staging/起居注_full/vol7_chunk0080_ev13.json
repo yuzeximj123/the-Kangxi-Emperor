@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十二日癸丑",
+ "event_role": "朝见受贺",
+ "summary": "华州知州张白生、澄城县知县刘元标等来朝。",
+ "people": [
+  {
+   "name": "张白生",
+   "role": "华州知州"
+  },
+  {
+   "name": "刘元标",
+   "role": "澄城县知县"
+  }
+ ],
+ "places": [
+  "华州",
+  "澄城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8013,
+ "page_range": "171-172"
+}

@@ -1,0 +1,41 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初八日壬戌",
+ "event_role": "人事任免",
+ "summary": "福建运使吴延贵升任员缺，会推安庆府知府刘醋升补，康熙帝询问其出身。",
+ "people": [
+  {
+   "name": "吴延贵",
+   "role": "福建运使"
+  },
+  {
+   "name": "刘醋",
+   "role": "安庆府知府"
+  },
+  {
+   "name": "刘养涵",
+   "role": "銮仪使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建",
+  "安庆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14623,
+ "page_range": "327-328"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 11,
+ "day_text": "二十二日己酉",
+ "event_role": "司法案件",
+ "summary": "刑部题郑士英、潘茂训霸占官卖人参货物，康熙帝改郑士英为斩、潘茂训绞，俱监候秋后处决。",
+ "people": [
+  {
+   "name": "郑士英",
+   "role": "犯人"
+  },
+  {
+   "name": "潘茂训",
+   "role": "犯人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13506,
+ "page_range": "282-283"
+}

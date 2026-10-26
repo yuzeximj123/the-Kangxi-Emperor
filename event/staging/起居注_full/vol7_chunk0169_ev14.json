@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "十三日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "覆请江宁巡抚张伯行所题无着落银两事，谕令问九卿具奏，意欲宽免。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "户部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16914,
+ "page_range": "349-350"
+}

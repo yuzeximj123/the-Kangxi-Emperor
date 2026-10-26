@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十二日乙未",
+ "event_role": "请安谢恩",
+ "summary": "陕西巡抚齐世武陛辞请训，康熙帝问四川水土，齐世武奏初到微有不服后渐安，帝令依布政时善政而行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐世武",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "四川",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22611,
+ "page_range": "462-463"
+}

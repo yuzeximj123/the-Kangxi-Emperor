@@ -1,0 +1,42 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "二十六日辛丑",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题秋审各犯，康熙帝令李三、阿二、常三、付荆、李莲庚、噶布喇俱免死减等发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李三",
+   "role": "秋审罪犯"
+  },
+  {
+   "name": "阿二",
+   "role": "秋审罪犯"
+  },
+  {
+   "name": "常三",
+   "role": "秋审罪犯"
+  },
+  {
+   "name": "付荆",
+   "role": "秋审罪犯"
+  },
+  {
+   "name": "李莲庚",
+   "role": "秋审罪犯"
+  },
+  {
+   "name": "噶布喇",
+   "role": "秋审罪犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21216,
+ "page_range": "436-437"
+}

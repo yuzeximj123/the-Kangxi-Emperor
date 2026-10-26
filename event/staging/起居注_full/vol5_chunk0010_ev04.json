@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "初八日丙午",
+ "event_role": "人事任免",
+ "summary": "兵部题镶黄旗佐领阿喇尼年老身病属实应解任，康熙帝以其曾效力、前处分过重，着复其尚书原品解任。",
+ "people": [
+  {
+   "name": "阿喇尼",
+   "role": "镶黄旗佐领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1004,
+ "page_range": "30-31"
+}

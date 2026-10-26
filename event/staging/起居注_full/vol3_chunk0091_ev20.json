@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "三十日己未",
+ "event_role": "司法案件",
+ "summary": "刑部题舒书将弟赛纳家人打死应拟罪但事在赦前应免，康熙帝引裕亲王言其兄弟暴恶，命依部议并传谕裕亲王发遣荒远地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "舒书",
+   "role": "罪犯"
+  },
+  {
+   "name": "赛纳",
+   "role": "舒书之弟"
+  },
+  {
+   "name": "裕亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9120,
+ "page_range": "217-218"
+}

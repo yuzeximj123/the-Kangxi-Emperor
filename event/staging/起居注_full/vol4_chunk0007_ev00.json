@@ -1,0 +1,34 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕明珠、班第等，因皇太后侍奉太皇太后积劳成疾，命明日太皇太后一月之祭不必前去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "班第",
+   "role": "内务府总管"
+  },
+  {
+   "name": "尔格",
+   "role": "亲近蓝傅侍卫"
+  },
+  {
+   "name": "顾太监晶",
+   "role": "总管太监"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 700,
+ "page_range": "26-27"
+}

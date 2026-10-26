@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "二十一日戊子",
+ "event_role": "司法案件",
+ "summary": "刑部题陆道清以伪总兵投诚后受伪将军职衔应立斩，康熙帝以系土司，命三法司会议时再酌夺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陆道清",
+   "role": "伪总兵"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴三桂",
+   "role": "叛臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24118,
+ "page_range": "525-526"
+}

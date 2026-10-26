@@ -1,0 +1,34 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "初九日两子",
+ "event_role": "朝见受贺",
+ "summary": "天津道朱刚、雄县防守御噶尔太、河间府知府刘之颗、雄县知县胡世昌等来朝。",
+ "people": [
+  {
+   "name": "朱刚",
+   "role": "天津道"
+  },
+  {
+   "name": "噶尔太",
+   "role": "雄县防守御"
+  },
+  {
+   "name": "刘之颗",
+   "role": "河间府知府"
+  },
+  {
+   "name": "胡世昌",
+   "role": "雄县知县"
+  }
+ ],
+ "places": [
+  "天津",
+  "雄县",
+  "河间府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8712,
+ "page_range": "185-186"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "初三日壬午",
+ "event_role": "人事任免",
+ "summary": "福建总督姚启圣请免平和县失守游击王廷社等前罪，康熙帝令随征台湾效力赎罪。",
+ "people": [
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "王廷社",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "平和县",
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9319,
+ "page_range": "229-230"
+}

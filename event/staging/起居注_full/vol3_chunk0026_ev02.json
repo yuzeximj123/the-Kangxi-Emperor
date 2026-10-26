@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补满洲都统员缺，开列护军统领额黑纳等，康熙帝认为无人可胜都统之任，提及原任将军巴海可任用，命议政王大臣会议来奏。",
+ "people": [
+  {
+   "name": "瓦山",
+   "role": "公"
+  },
+  {
+   "name": "额黑纳",
+   "role": "护军统领"
+  },
+  {
+   "name": "巴海",
+   "role": "原任将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乌拉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2602,
+ "page_range": "87-88"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "二十六日辛酉",
+ "event_role": "司法案件",
+ "summary": "三法司题覆山西巡抚叶称济以卫一勋打死族弟拟绞，康熙帝以其母年逾八十从宽免死存留养亲。",
+ "people": [
+  {
+   "name": "叶称济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "卫一勋",
+   "role": "犯人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7512,
+ "page_range": "162-163"
+}

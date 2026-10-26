@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "辰时",
+ "event_role": "弹劾参奏",
+ "summary": "詹事尹泰入奏，称奉命行走仅备使令，谏皇上教皇太子过严，并言汤斌、耿介学问平常、年迈恐不堪任。",
+ "people": [
+  {
+   "name": "尹泰",
+   "role": "詹事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "讲官"
+  },
+  {
+   "name": "耿介",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23507,
+ "page_range": "505-506"
+}

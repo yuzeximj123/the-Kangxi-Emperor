@@ -1,0 +1,40 @@
+{
+ "reign_year": 17,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝在乾清门赐喀尔喀部落进贡来使公格夏、布衣代等人食物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "公格夏",
+   "role": "喀尔喀土谢图汗来使"
+  },
+  {
+   "name": "布衣代",
+   "role": "台吉"
+  },
+  {
+   "name": "西达里卫征夏",
+   "role": "阿克敦达哈斯浑额尔德尼伊尔登诺颜下属"
+  },
+  {
+   "name": "布库夏",
+   "role": "来使"
+  },
+  {
+   "name": "吴拉代绰克图夏古禄",
+   "role": "墨勒根诺颜下属"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15700,
+ "page_range": "371-372"
+}

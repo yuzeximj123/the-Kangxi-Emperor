@@ -1,0 +1,35 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兴永朝举荐王俊、戴梦能操守清廉有才，并言朱起龙居官最廉、人亦优长。",
+ "people": [
+  {
+   "name": "兴永朝",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "王俊",
+   "role": "福州府同知"
+  },
+  {
+   "name": "戴梦能",
+   "role": "汉阳府知府"
+  },
+  {
+   "name": "朱起龙",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "长沙府",
+  "福州府",
+  "汉阳府",
+  "广西梧州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8504,
+ "page_range": "182-183"
+}

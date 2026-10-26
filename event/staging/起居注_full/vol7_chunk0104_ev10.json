@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "初九日丙申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以钱价甚贱不便于商民，令严禁小钱、禁大钱买往山西、发银收买小钱并严拿私铸，命会同户部详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10410,
+ "page_range": "219-220"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": "十四日乙已",
+ "event_role": "人事任免",
+ "summary": "吏部题顺天府尹甘国枢员缺，将太仆寺钱晋锡、光禄寺江苏等职名请旨。",
+ "people": [
+  {
+   "name": "甘国枢",
+   "role": "顺天府尹"
+  },
+  {
+   "name": "钱晋锡",
+   "role": "太仆寺"
+  },
+  {
+   "name": "江苏",
+   "role": "光禄寺"
+  }
+ ],
+ "places": [
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16117,
+ "page_range": "332-333"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝顾明珠，称黄机等所奏二款俱是着刑部确议，李宗孔、罗秉伦等所奏赈济饥民事亦着九卿詹事科道会议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "黄机",
+   "role": "大臣"
+  },
+  {
+   "name": "李宗孔",
+   "role": "大臣"
+  },
+  {
+   "name": "罗秉伦",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24303,
+ "page_range": "543-544"
+}

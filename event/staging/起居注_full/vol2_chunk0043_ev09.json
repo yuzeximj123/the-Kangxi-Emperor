@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "十四日",
+ "event_role": "司法案件",
+ "summary": "兵部议阵获擅将军洪原义立斩，明珠奏请俟韩晋卿结案一并议奏，康熙帝从之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "洪原义",
+   "role": "阵获擅将军"
+  },
+  {
+   "name": "韩晋卿",
+   "role": "监候人犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4309,
+ "page_range": "129-130"
+}

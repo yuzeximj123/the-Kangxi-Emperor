@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "初九日乙卯",
+ "event_role": "起居注官记录",
+ "summary": "皇太子与汤斌等论背书，汤斌跪接皇太子所付书，皇太子背诵不遗一字，汤斌以朱笔点定新书读一过。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "背诵者"
+  },
+  {
+   "name": "汤斌",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "无逸斋"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23402,
+ "page_range": "503-504"
+}

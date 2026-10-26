@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "二十六日己丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝复御乾清宫，讲官进讲《易》乾刚坤柔等节，帝论《易》道精微，讲官奏赞圣学。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5013,
+ "page_range": "135-136"
+}

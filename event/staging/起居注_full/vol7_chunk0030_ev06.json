@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初十日成午",
+ "event_role": "人事任免",
+ "summary": "吏科题给事中内升外转开列马士芳等，康熙帝询问后命陈许可内升，其余初进言官停其外转。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马士芳",
+   "role": "给事中"
+  },
+  {
+   "name": "陈许可",
+   "role": "给事中"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3006,
+ "page_range": "71-72"
+}

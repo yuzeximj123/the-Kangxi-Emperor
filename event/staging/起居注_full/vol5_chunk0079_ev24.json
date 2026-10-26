@@ -1,0 +1,40 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "十八日丁丑",
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿等以折本请旨，太常寺题孟冬时享太庙，康熙帝命马齐照常斋戒代祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "戴通",
+   "role": "学士"
+  },
+  {
+   "name": "松柱",
+   "role": "学士"
+  },
+  {
+   "name": "博济",
+   "role": "学士"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7924,
+ "page_range": "168-169"
+}

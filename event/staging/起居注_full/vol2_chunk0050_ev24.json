@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "初八日庚申",
+ "event_role": "军务",
+ "summary": "宁古塔将军巴海欲令克牛等四佐领下兵丁驻开元，康熙帝以新满洲安顿未久、迁移劳烦无用，命议政王等议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴海",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "开元"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5024,
+ "page_range": "143-144"
+}

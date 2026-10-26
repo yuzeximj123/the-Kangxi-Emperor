@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十二日辛酉",
+ "event_role": "司法案件",
+ "summary": "议原任都统称占私带逆贼吴三桂家人八名、其妻不举报应鞭赎事，康熙帝以系三桂旧人，令再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "称占",
+   "role": "原任都统"
+  },
+  {
+   "name": "吴三桂",
+   "role": "逆贼"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21713,
+ "page_range": "477-478"
+}

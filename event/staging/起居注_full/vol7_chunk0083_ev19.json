@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十四日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "理藩院议奏项齐忒王噶尔麻吉礼迪所进台吉何惠等已有产业，康熙帝令附于归化城土默特二旗各分一佐领披甲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔麻吉礼迪",
+   "role": "项齐忒王"
+  },
+  {
+   "name": "何惠",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8319,
+ "page_range": "177-178"
+}

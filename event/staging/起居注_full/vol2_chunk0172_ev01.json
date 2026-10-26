@@ -1,0 +1,46 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院题内升外转御史，康熙帝与明珠议定唐朝葛等开列，命白为采内升、卢崇魁外转。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "唐朝葛",
+   "role": "御史"
+  },
+  {
+   "name": "白为采",
+   "role": "御史"
+  },
+  {
+   "name": "孙必振",
+   "role": "御史"
+  },
+  {
+   "name": "房廷桢",
+   "role": "御史"
+  },
+  {
+   "name": "卢崇魁",
+   "role": "汉军官员"
+  },
+  {
+   "name": "于瑜",
+   "role": "汉军官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17201,
+ "page_range": "387-388"
+}

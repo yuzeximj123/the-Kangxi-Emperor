@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "初八日己卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸彰德府城东，彰德府知府王现、汤阴县知县吴表等来朝。",
+ "people": [
+  {
+   "name": "王现",
+   "role": "彰德府知府"
+  },
+  {
+   "name": "吴表",
+   "role": "汤阴县知县"
+  }
+ ],
+ "places": [
+  "彰德府",
+  "汤阴县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8506,
+ "page_range": "181-182"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": "二十八日己未",
+ "event_role": "人事任免",
+ "summary": "兵部郎中京图员缺，康熙帝谕所拟硕色、硕詹人皆平常，此后郎中缺出不必开列，令另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "京图",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "硕色",
+   "role": "宗人府员外郎"
+  },
+  {
+   "name": "硕詹",
+   "role": "户部员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6419,
+ "page_range": "138-139"
+}

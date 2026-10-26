@@ -1,0 +1,28 @@
+{
+ "reign_year": 15,
+ "month": 3,
+ "day_text": "二十六日成申",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝经凤河营地方，凤河营都司金书管守备事吴志、把总李天德来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴志",
+   "role": "凤河营都司金书管守备事"
+  },
+  {
+   "name": "李天德",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "凤河营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11231,
+ "page_range": "281-282"
+}

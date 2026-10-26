@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "初七日未",
+ "event_role": "谕旨决策",
+ "summary": "康熙命将章扎海等作速回京，传谕尚书班第移文阿南达等，诺巴有奏章即行转奏不得拦阻。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "扎海",
+   "role": "大臣"
+  },
+  {
+   "name": "班第",
+   "role": "尚书"
+  },
+  {
+   "name": "阿南达",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7821,
+ "page_range": "166-167"
+}

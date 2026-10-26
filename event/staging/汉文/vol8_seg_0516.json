@@ -1,0 +1,40 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "其他",
+ "summary": "王掞奏报纂修春秋馆事，转呈李镐、章文鐄愿送家藏春秋书籍并赴馆效力分纂，请旨定夺。",
+ "people": [
+  {
+   "name": "王掞",
+   "role": "奏报人，纂修春秋官员"
+  },
+  {
+   "name": "李镐",
+   "role": "原任江南道监察御史，呈送春秋书五十一种并请赴馆效力"
+  },
+  {
+   "name": "章文鐄",
+   "role": "原任常州府知府，呈送家藏春秋书二十一种并请赴馆效力"
+  },
+  {
+   "name": "启梅",
+   "role": "李镐之祖，留心经学，嗜春秋，购藏书"
+  }
+ ],
+ "places": [
+  "京师",
+  "山东",
+  "浙江",
+  "江南",
+  "常州府"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "王掞奏春秋馆事",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 516
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": "初八日乙卯",
+ "event_role": "军务",
+ "summary": "兵部题议打箭炉效力武员，康熙帝称所议甚当，唐希顺率兵力战可嘉，命照常议叙，病痊起用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐希顺",
+   "role": "武员"
+  }
+ ],
+ "places": [
+  "打箭炉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3817,
+ "page_range": "87-88"
+}

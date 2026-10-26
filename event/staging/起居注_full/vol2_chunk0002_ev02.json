@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初八日甲子",
+ "event_role": "军务",
+ "summary": "兵部题总漕帅颜保应统所属官兵回驻淮安料理漕务，康熙帝命俟尚之信过其守地后再回任，改拟票签。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "帅颜保",
+   "role": "总漕"
+  },
+  {
+   "name": "尚之信",
+   "role": "藩王"
+  }
+ ],
+ "places": [
+  "淮安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 202,
+ "page_range": "47-48"
+}

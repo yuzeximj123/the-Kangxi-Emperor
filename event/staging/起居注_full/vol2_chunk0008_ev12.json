@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初八日甲午",
+ "event_role": "人事任免",
+ "summary": "题补正蓝旗科道，康熙帝命满皮补监察御史，严太补兵科给事中。",
+ "people": [
+  {
+   "name": "满皮",
+   "role": "补监察御史"
+  },
+  {
+   "name": "严太",
+   "role": "补兵科给事中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 812,
+ "page_range": "59-60"
+}

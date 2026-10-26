@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "九卿议覆长芦巡盐御史田文镜条奏，请发山东所裁未完盐引加增钱粮，议不准行，康熙询问是否与李风所奏相同并令问明具奏。",
+ "people": [
+  {
+   "name": "田文镜",
+   "role": "长芦巡盐御史"
+  },
+  {
+   "name": "李风",
+   "role": "官员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18500,
+ "page_range": "381-382"
+}

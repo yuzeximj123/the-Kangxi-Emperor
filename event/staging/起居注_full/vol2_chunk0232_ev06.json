@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十二日已未",
+ "event_role": "人事任免",
+ "summary": "吏部题督捕侍郎温代调补员缺，康熙帝以通政司左通政达哈塔声名甚佳，命升授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温代",
+   "role": "督捕侍郎"
+  },
+  {
+   "name": "石柱",
+   "role": "学士"
+  },
+  {
+   "name": "达哈塔",
+   "role": "通政司左通政"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23206,
+ "page_range": "507-508"
+}

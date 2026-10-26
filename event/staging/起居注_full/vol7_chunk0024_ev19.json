@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "十六日乙丑",
+ "event_role": "司法案件",
+ "summary": "荆州将军莽吉禄报江陵知县董饶擅打佐领称虎达事议驭回，康熙帝命将军会同总督巡抚详审具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "莽吉禄",
+   "role": "荆州将军"
+  },
+  {
+   "name": "董饶",
+   "role": "江陵县知县"
+  },
+  {
+   "name": "称虎达",
+   "role": "佐领"
+  }
+ ],
+ "places": [
+  "荆州",
+  "江陵县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2419,
+ "page_range": "59-60"
+}

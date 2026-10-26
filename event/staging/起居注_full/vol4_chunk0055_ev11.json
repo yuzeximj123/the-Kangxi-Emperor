@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "二十九日丁酉",
+ "event_role": "河工水利",
+ "summary": "康熙帝谕总河王新命，见高邮州等处石堤间有损坏，令其即归修葺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "高邮州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5511,
+ "page_range": "122-123"
+}

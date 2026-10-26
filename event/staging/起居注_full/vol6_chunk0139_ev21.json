@@ -1,0 +1,33 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "十二日两子",
+ "event_role": "朝见受贺",
+ "summary": "雄县防守御三等、雄县知县张博、新安县知县孔尚铣、雄县把总李超来朝见。",
+ "people": [
+  {
+   "name": "三等",
+   "role": "雄县防守御"
+  },
+  {
+   "name": "张博",
+   "role": "雄县知县"
+  },
+  {
+   "name": "孔尚铣",
+   "role": "新安县知县"
+  },
+  {
+   "name": "李超",
+   "role": "雄县把总"
+  }
+ ],
+ "places": [
+  "雄县",
+  "新安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13921,
+ "page_range": "288-289"
+}

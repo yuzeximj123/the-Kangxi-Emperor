@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十三年四月二十日",
+ "reign_year": 53,
+ "month": 4,
+ "day": 21,
+ "event_role": "收到奏折",
+ "summary": "江宁巡抚张伯行因二女婚娶具折，李煦遵旨将原折交家人代为进呈，并请圣鉴。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "李煦",
+   "role": "代奏进呈之人"
+  },
+  {
+   "name": "李要连",
+   "role": "家人，奉命递送紧要事务"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧巡撫張伯行奏報有人散帽銀請密加訪查等情摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1557",
+ "order_index": 193
+}

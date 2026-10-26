@@ -1,0 +1,29 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议刘冲翻等盗铸小钱应正法，康熙帝命照旧例从宽免死，发宁古塔、乌喇新满洲披甲之人为奴，并令严禁小钱。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "刘冲翻",
+   "role": "盗铸小钱案犯"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14001,
+ "page_range": "315-316"
+}

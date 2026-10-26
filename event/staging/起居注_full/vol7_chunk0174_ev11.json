@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "刑部覆左都御史赵申乔条奏旗民互讼交地方官审理议准行，康熙帝批评此奏无益，令再议。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "左都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17411,
+ "page_range": "359-360"
+}

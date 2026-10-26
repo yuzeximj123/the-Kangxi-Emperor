@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "总督噶礼请以大同府知府朱作见补授江南驿盐道，康熙帝以其人可用、居官亦善，准予补授。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "总督"
+  },
+  {
+   "name": "朱作见",
+   "role": "大同府知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大同府",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15702,
+ "page_range": "325-326"
+}

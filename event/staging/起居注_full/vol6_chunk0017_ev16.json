@@ -1,0 +1,33 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "初十日丙成",
+ "event_role": "谕旨决策",
+ "summary": "户部覆临清关监督陈彤扬请增添炉铸事，康熙论钱法败坏、小钱致米贵，令九卿确议钱法并一并请旨。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈彤扬",
+   "role": "临清关监督"
+  },
+  {
+   "name": "科尔坤",
+   "role": "前管钱法官员"
+  },
+  {
+   "name": "佛伦",
+   "role": "前管钱法官员"
+  }
+ ],
+ "places": [
+  "临清关",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1716,
+ "page_range": "44-45"
+}

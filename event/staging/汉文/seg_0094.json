@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙肆拾肆年玖月貳拾貳日",
+ "reign_year": 44,
+ "month": 9,
+ "day": 22,
+ "event_role": "请安谢恩",
+ "summary": "安徽巡抚刘光美奏谢康熙赏赐鹿舌鹿尾等物，并报秋成分数、恭请圣安。",
+ "people": [
+  {
+   "name": "刘光美",
+   "role": "奏报人"
+  },
+  {
+   "name": "姚福禄",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "安徽",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": null,
+ "order_index": 94
+}

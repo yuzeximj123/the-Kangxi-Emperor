@@ -1,0 +1,40 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "十四日甲午",
+ "event_role": "谕旨决策",
+ "summary": "吏部题太常寺卿朱马泰等祭祀失仪，议革职降调，康熙帝谕祭祀天地关系大典宜诚敬，交九卿严肃定议。",
+ "people": [
+  {
+   "name": "朱马泰",
+   "role": "太常寺卿"
+  },
+  {
+   "name": "胡世图",
+   "role": "少卿"
+  },
+  {
+   "name": "锡保",
+   "role": "寺丞"
+  },
+  {
+   "name": "陈义禄",
+   "role": "奉礼官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "天坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19804,
+ "page_range": "431-432"
+}

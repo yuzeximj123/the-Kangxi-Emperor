@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "二十七日己巳",
+ "event_role": "司法案件",
+ "summary": "刑部尚书图纳奏审张汧时口供舛错，康熙帝令看阅于成龙等带来张汧举首书札以察审。",
+ "people": [
+  {
+   "name": "图纳",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  },
+  {
+   "name": "张汧",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2802,
+ "page_range": "68-69"
+}

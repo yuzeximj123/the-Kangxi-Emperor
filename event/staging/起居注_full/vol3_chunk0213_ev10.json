@@ -1,0 +1,34 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十四日壬戌",
+ "event_role": "人事任免",
+ "summary": "吏部题兵部尚书伊桑阿调补员缺，康熙帝谕以鄂尔多补授兵部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "鄂尔多",
+   "role": "内务府总管"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "沙海",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21310,
+ "page_range": "461-462"
+}

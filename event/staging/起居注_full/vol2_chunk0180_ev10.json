@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十二日甲子",
+ "event_role": "其他",
+ "summary": "康熙帝赐奉天将军伊把翰鞍马及撒袋、披领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊把翰",
+   "role": "奉天将军"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18010,
+ "page_range": "403-404"
+}

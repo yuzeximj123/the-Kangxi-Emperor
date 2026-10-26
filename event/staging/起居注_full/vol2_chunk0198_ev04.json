@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "初二日癸西",
+ "event_role": "司法案件",
+ "summary": "议马负图石峡地方弃炮败北以功抵罪事，康熙帝以其功不足抵罪，命再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马负图",
+   "role": "拜他喇布勒哈番"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "石峡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19804,
+ "page_range": "439-440"
+}

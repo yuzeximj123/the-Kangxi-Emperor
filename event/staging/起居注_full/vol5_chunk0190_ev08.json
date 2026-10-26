@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十三日甲午",
+ "event_role": "议政听政",
+ "summary": "议政大臣会议议定奖赏阿齐滚布巴图尔台吉、令遣往大臣会同其招抚呼户诺尔众台吉，并酌赏来使遣回，奉旨依议。",
+ "people": [
+  {
+   "name": "阿齐滚布巴图尔台吉",
+   "role": "台吉"
+  },
+  {
+   "name": "马木特",
+   "role": "特布新寨桑"
+  },
+  {
+   "name": "马五",
+   "role": "通事"
+  }
+ ],
+ "places": [
+  "呼户诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19008,
+ "page_range": "390-391"
+}

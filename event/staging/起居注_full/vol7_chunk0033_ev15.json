@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十九日本丑",
+ "event_role": "人事任免",
+ "summary": "康熙帝命传谕大学士马齐，念原任御史戈英年老且系进士出身，着复还原职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  },
+  {
+   "name": "来保",
+   "role": "奏事"
+  },
+  {
+   "name": "戈英",
+   "role": "原任御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3315,
+ "page_range": "77-78"
+}

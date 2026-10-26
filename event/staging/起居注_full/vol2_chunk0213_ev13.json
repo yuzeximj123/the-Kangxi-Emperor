@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "十三日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御瀛台门赐江西巡抚安世时食，召其近前询问历任官职及地方，谕以操守为第一、爱养百姓。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安世时",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [
+  "瀛台门",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21313,
+ "page_range": "469-470"
+}

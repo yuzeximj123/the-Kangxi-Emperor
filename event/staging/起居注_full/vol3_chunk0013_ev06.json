@@ -1,0 +1,38 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十四日庚辰",
+ "event_role": "人事任免",
+ "summary": "吏部题理藩院员外郎桑额员缺，拟赫构正、喇都浑陪；康熙帝询问后命巴图赖补授，仍内庭侍奉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "喇巴克",
+   "role": "学士"
+  },
+  {
+   "name": "赫构",
+   "role": "拟正中书"
+  },
+  {
+   "name": "喇都浑",
+   "role": "拟陪助教"
+  },
+  {
+   "name": "巴图赖",
+   "role": "补授员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1306,
+ "page_range": "61-62"
+}

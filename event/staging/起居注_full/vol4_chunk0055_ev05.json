@@ -1,0 +1,30 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "二十七日乙未",
+ "event_role": "赏赐",
+ "summary": "康熙帝赐江南江西总督傅腊塔、总河王新命、安徽巡抚江有良鹿尾、鹿腊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "王新命",
+   "role": "总河"
+  },
+  {
+   "name": "江有良",
+   "role": "安徽巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5505,
+ "page_range": "122-123"
+}

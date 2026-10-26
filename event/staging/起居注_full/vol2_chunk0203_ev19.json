@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十七日了已",
+ "event_role": "谕旨决策",
+ "summary": "京口将军杨凤翔题请留裁汰防御，兵部议不准，康熙帝询镇江地方紧要后从部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "杨凤翔",
+   "role": "京口将军"
+  }
+ ],
+ "places": [
+  "镇江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20319,
+ "page_range": "449-450"
+}

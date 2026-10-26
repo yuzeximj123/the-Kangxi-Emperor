@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "二十五日癸西",
+ "event_role": "人事任免",
+ "summary": "吏部覆请原任按察使董永芝才守俱优请留任，康熙帝令照该抚所请带所降之级仍留原任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董永芝",
+   "role": "原任按察使"
+  },
+  {
+   "name": "觉罗满保",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 603,
+ "page_range": "23-24"
+}

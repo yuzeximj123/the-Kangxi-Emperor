@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "理藩院议违例买卖蒙古幼男女案，康熙帝命已买年久者免撤，此后违例买取者仍照例撤回治罪。",
+ "people": [
+  {
+   "name": "陈弘助",
+   "role": "买主"
+  },
+  {
+   "name": "因克锡",
+   "role": "卖主"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8706,
+ "page_range": "185-186"
+}

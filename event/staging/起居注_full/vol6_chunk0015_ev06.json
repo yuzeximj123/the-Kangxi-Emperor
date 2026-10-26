@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "十四日辛酉",
+ "event_role": "奏报灾情收成",
+ "summary": "巡抚宋芋题海州等处州县被水灾，请蠲地亩漕运等项钱粮，康熙帝命重灾州县卫所应征地丁银米及漕运等项钱粮俱行蠲免。",
+ "people": [
+  {
+   "name": "宋芋",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "海州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1506,
+ "page_range": "40-41"
+}

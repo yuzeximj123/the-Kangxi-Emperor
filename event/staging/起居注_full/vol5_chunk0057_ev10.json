@@ -1,0 +1,36 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "初六日戊成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕言官奏事应直陈国家得失民生休戚，不得受人嘱托、怀私卖本，否则必察出正法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈恺曾",
+   "role": "言官"
+  },
+  {
+   "name": "郑重",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "佛伦",
+   "role": "总督"
+  },
+  {
+   "name": "彭鹏",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5710,
+ "page_range": "124-125"
+}

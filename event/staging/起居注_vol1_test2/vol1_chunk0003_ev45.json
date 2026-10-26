@@ -1,0 +1,28 @@
+{
+ "reign_year": 10,
+ "month": 12,
+ "day_text": "初一日戊实",
+ "event_role": "其他",
+ "summary": "午时康熙帝复御观德殿，召来朝苏尼忒部多罗郡王萨马扎额验及其子二等台吉多尔济斯哈布命射，帝亦亲射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨马扎额验",
+   "role": "苏尼忒部多罗郡王"
+  },
+  {
+   "name": "多尔济斯哈布",
+   "role": "二等台吉"
+  }
+ ],
+ "places": [
+  "观德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 345,
+ "page_range": "63-64"
+}

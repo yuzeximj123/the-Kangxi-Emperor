@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初二日甲成",
+ "event_role": "谕旨决策",
+ "summary": "户部覆右卫将军费扬古题请山岱等处米谷贮脱脱城仓，康熙帝准行并令查明耕种官员议叙。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "右卫将军"
+  }
+ ],
+ "places": [
+  "山岱",
+  "脱脱城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7208,
+ "page_range": "155-156"
+}

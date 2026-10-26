@@ -1,0 +1,33 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "十五日乙未",
+ "event_role": "人事任免",
+ "summary": "吏部题云南巡抚王继文丁忧员缺，康熙帝询问人选，明珠等荐湖广巡抚石琳，遂调补云南巡抚。",
+ "people": [
+  {
+   "name": "王继文",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "石琳",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "石廷柱",
+   "role": "原任都统"
+  }
+ ],
+ "places": [
+  "云南",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19811,
+ "page_range": "431-432"
+}

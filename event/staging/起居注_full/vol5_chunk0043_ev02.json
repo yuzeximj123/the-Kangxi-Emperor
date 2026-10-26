@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问九卿朱弘祚等居官不好之处，命待浙抚补授事定后再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱弘祚",
+   "role": "总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4302,
+ "page_range": "96-97"
+}

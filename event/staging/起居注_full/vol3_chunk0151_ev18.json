@@ -1,0 +1,29 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初二日丙成",
+ "event_role": "人事任免",
+ "summary": "康熙帝命以福建巡抚金惰补授浙江巡抚，并称赵士麟在浙江居官善有益民生。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金惰",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "赵士麟",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15118,
+ "page_range": "337-338"
+}

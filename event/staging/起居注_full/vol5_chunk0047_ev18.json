@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "二十八日壬戌",
+ "event_role": "司法案件",
+ "summary": "康熙帝细阅招册逐名酌核，命勾过王进义等四十五人处决，李祥等二十四人仍监禁，并谕屡经覆奏仍曲留生路。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常蔬",
+   "role": "侍管翰林院事侍郎"
+  },
+  {
+   "name": "张英",
+   "role": "尚书"
+  },
+  {
+   "name": "王进义",
+   "role": "死囚"
+  },
+  {
+   "name": "李祥",
+   "role": "死囚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4718,
+ "page_range": "104-105"
+}

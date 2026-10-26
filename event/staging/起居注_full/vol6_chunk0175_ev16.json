@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "十三日于申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏后，给事中法式哈等以教养蒙古请训旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "法式哈",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17516,
+ "page_range": "360-361"
+}

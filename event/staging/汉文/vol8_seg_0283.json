@@ -1,0 +1,31 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "河南巡抚杨宗义奏报登封县知县杨世达等称整修嵩山寿寺地基时露出石芝一座，视为嵩山灵气所钟、圣寿无疆之征，因不敢冒昧具奏而先行陈报。",
+ "people": [
+  {
+   "name": "杨宗义",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "杨世达",
+   "role": "登封县知县"
+  }
+ ],
+ "places": [
+  "河南",
+  "登封县",
+  "嵩山",
+  "寿寺"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 283
+}

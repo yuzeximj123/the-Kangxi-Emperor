@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "二十三日庚戌",
+ "event_role": "军务",
+ "summary": "副都统班达尔沙等在厄尔顾纳等处焚屋获禾拿获罗刹妇女，康熙帝令准为军功。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班达尔沙",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "厄尔顾纳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11718,
+ "page_range": "269-270"
+}

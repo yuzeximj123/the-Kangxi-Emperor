@@ -1,0 +1,37 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "三十日",
+ "event_role": "谕旨决策",
+ "summary": "马齐奏问总兵官张玉麒等，提督条奏四件现有成例唯在严禁，康熙帝着依部议完结，并论海寇多系贸易荡尽者及督抚得人之要。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉麒",
+   "role": "总兵官"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "彭鹏",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "广东",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3711,
+ "page_range": "85-86"
+}

@@ -1,0 +1,23 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初八日庚申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出龙泉关，驻跸山西五台县属射虎川台蓄寺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "龙泉关",
+  "山西五台县",
+  "射虎川",
+  "台蓄寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 502,
+ "page_range": "21-22"
+}

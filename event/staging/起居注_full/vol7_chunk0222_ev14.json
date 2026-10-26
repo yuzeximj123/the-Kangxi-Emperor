@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "初五日本已",
+ "event_role": "谕旨决策",
+ "summary": "湖广总督鄂海奏招抚毛都塘等处五十二寨红苗吴老化等三千余人归顺；康熙帝嘉奖鄂海等实心效力，令将在事官兵议叙。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "湖广总督"
+  },
+  {
+   "name": "吴老化",
+   "role": "红苗首领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "毛都塘",
+  "武昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22214,
+ "page_range": "455-456"
+}

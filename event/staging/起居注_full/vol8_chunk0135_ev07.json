@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "户部题商人权守中等求照王修德领票刨参，康熙帝令会同内务府、户部议奏。",
+ "people": [
+  {
+   "name": "权守中",
+   "role": "商人"
+  },
+  {
+   "name": "王修德",
+   "role": "商人"
+  }
+ ],
+ "places": [
+  "奉天",
+  "宁古塔",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13507,
+ "page_range": "281-282"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "初六日甲午",
+ "event_role": "人事任免",
+ "summary": "康熙帝以工部两侍郎俱系南人且吴涵不明晰，命调吴涵刑部、喻成龙调工部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴涵",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "喻成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18013,
+ "page_range": "370-371"
+}

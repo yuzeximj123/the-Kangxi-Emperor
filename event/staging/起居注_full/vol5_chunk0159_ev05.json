@@ -1,0 +1,50 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十三日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕苏尔达等大臣，言噶尔丹穷蹙将灭，当以招抚为要，命费扬古遣人招抚其部落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏尔达",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "福善",
+   "role": "公"
+  },
+  {
+   "name": "索额图",
+   "role": "公"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "丹济喇",
+   "role": "厄鲁特来降者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15905,
+ "page_range": "328-329"
+}

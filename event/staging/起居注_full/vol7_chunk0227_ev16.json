@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "二十三日甲拱",
+ "event_role": "人事任免",
+ "summary": "山西大同总兵官张文焕题请补授中军游击杨栋员缺，康熙帝命以姚大成补授大同镇标中军游击。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张文焕",
+   "role": "山西大同总兵官"
+  },
+  {
+   "name": "杨栋",
+   "role": "中军游击"
+  },
+  {
+   "name": "姚大成",
+   "role": "补授中军游击"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22716,
+ "page_range": "465-466"
+}

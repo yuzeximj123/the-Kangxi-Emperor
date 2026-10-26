@@ -1,0 +1,23 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十七日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "户部议盛京宁古塔将军衙门紧急公务发火牌驿递，康熙帝依议并令两陵及乌喇虞村紧急事务亦发火牌。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "宁古塔",
+  "两陵",
+  "乌喇虞村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21909,
+ "page_range": "481-482"
+}

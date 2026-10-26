@@ -1,0 +1,29 @@
+{
+ "reign_year": 32,
+ "month": 9,
+ "day_text": "初四日乙已",
+ "event_role": "谕旨决策",
+ "summary": "就山西巡抚噶尔图疏报平阳府饥荒查明情形，康熙帝令给事中彭鹏明白回奏所据。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔图",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "彭鹏",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "平阳府",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24102,
+ "page_range": "494-495"
+}

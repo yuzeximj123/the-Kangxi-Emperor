@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问福建提督杨琳优劣，李光地称到任未久未闻优劣，马特布称其办事敏捷，康熙帝赞其明白、学问优、字端楷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨琳",
+   "role": "福建提督"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "马特布",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20607,
+ "page_range": "423-424"
+}

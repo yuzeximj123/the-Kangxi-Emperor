@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十一日癸未",
+ "event_role": "谕旨决策",
+ "summary": "乾清门侍卫马武传谕大学士马齐，令扈从给事中满普、御史顾素后行查拿肆行抢掠者并参究其主，地方官员私行禁阻民间市卖者亦指名题参。",
+ "people": [
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "满普",
+   "role": "给事中"
+  },
+  {
+   "name": "顾素",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7511,
+ "page_range": "161-162"
+}

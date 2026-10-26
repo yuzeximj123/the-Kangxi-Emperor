@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "十二日辛交",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸江宁府，遣直郡王、诚郡王齐教场宴江宁府驻防官兵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "直郡王",
+   "role": "郡王"
+  },
+  {
+   "name": "诚郡王",
+   "role": "郡王"
+  }
+ ],
+ "places": [
+  "江宁府",
+  "教场"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8916,
+ "page_range": "188-189"
+}

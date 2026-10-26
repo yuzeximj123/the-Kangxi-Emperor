@@ -1,0 +1,34 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问天下督抚操守谁为第一，诸臣不能对，康熙帝自评额伦特、张伯行操守第一，刘荫枢亦好。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额伦特",
+   "role": "湖广总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [
+  "湖广",
+  "江宁",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3706,
+ "page_range": "85-86"
+}

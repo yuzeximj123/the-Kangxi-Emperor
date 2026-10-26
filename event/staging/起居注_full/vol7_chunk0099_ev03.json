@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝览世祖实录，指陈名夏、刘正宗、魏裔介等展转参劾为明季恶习，称此风不可长。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈名夏",
+   "role": "大臣"
+  },
+  {
+   "name": "刘正宗",
+   "role": "大臣"
+  },
+  {
+   "name": "魏裔介",
+   "role": "大臣"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9903,
+ "page_range": "209-210"
+}

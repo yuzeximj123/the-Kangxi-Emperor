@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十八年正月二十四日",
+ "reign_year": 48,
+ "month": null,
+ "day": 24,
+ "event_role": "请安谢恩",
+ "summary": "江西巡抚郎廷极奏谢皇上御批及钦赐《清文鉴》，恭请圣安，并报江右立春前得大雪、雨水后时雨，预卜丰年、民情悦乐。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "文然",
+   "role": "郎中，郎廷极长子"
+  }
+ ],
+ "places": [
+  "江西",
+  "江右"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "江西巡撫郎廷極奏謝賜御書文並報雨雪情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "446",
+ "order_index": 111
+}

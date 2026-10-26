@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "初五日丙子",
+ "event_role": "其他",
+ "summary": "赐南阳总兵方凯孔雀翎。",
+ "people": [
+  {
+   "name": "方凯",
+   "role": "南阳总兵"
+  }
+ ],
+ "places": [
+  "南阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8424,
+ "page_range": "179-180"
+}

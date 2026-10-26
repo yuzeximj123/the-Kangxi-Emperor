@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "十六日癸卯",
+ "event_role": "司法案件",
+ "summary": "刑部议原任陕西宁州知州闵英瑞亏空银两拟发新折库，康熙帝准行并令隐匿家产事发严惩出结官员。",
+ "people": [
+  {
+   "name": "闵英瑞",
+   "role": "原任陕西宁州知州革职"
+  },
+  {
+   "name": "宋氏",
+   "role": "闵英瑞之妻"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "宁州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10509,
+ "page_range": "221-222"
+}

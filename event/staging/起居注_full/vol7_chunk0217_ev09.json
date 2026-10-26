@@ -1,0 +1,27 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十三日乙雍",
+ "event_role": "谕旨决策",
+ "summary": "户部覆四川巡抚年凌莞所题征丁银及编审开荒等事，康熙帝命交该部一并议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "年凌莞",
+   "role": "四川巡抚"
+  }
+ ],
+ "places": [
+  "四川",
+  "成都",
+  "保宁",
+  "龙安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21709,
+ "page_range": "445-446"
+}

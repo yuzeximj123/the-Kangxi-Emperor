@@ -1,0 +1,40 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "二十八日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "云贵总督王继文请叙鲁魁山擒斩贼首之土司县丞杨世恩等，部议不准，康熙帝令另议具奏以鼓励效力人员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王继文",
+   "role": "云贵总督"
+  },
+  {
+   "name": "杨世恩",
+   "role": "土司县丞"
+  },
+  {
+   "name": "范承勋",
+   "role": "官员"
+  },
+  {
+   "name": "石文昌",
+   "role": "官员"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "鲁魁山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4411,
+ "page_range": "98-99"
+}

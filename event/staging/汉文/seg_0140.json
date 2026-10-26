@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十一年十二月二十日",
+ "reign_year": 51,
+ "month": 12,
+ "day": 20,
+ "event_role": "河工水利",
+ "summary": "赵弘燮奏报直隶工程补修完工，并称已派员逐处查勘，对平缓单薄不合式处再加帮筑。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "赵弘燮奏报完工事",
+ "order_index": 140
+}

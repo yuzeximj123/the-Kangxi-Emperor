@@ -1,0 +1,28 @@
+{
+ "reign_year": 32,
+ "month": 11,
+ "day_text": "十七日再辰",
+ "event_role": "人事任免",
+ "summary": "理藩院题差官招服喀尔喀根敦代青移驻黑勒伦，康熙帝斥班第不效力，着班第前往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班第",
+   "role": "尚书"
+  },
+  {
+   "name": "根敦代青",
+   "role": "喀尔喀部落首领"
+  }
+ ],
+ "places": [
+  "黑勒伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24809,
+ "page_range": "508-509"
+}

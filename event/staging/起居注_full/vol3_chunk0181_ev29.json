@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "二十六日成申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谓此事无关国计民生，许三礼辈不过欲沾虚名，九卿会议时争论纷纷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许三礼",
+   "role": "台臣"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18129,
+ "page_range": "397-398"
+}

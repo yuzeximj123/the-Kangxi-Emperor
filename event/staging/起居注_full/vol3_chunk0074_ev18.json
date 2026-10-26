@@ -1,0 +1,33 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "十三日奖卯",
+ "event_role": "祭祀典礼",
+ "summary": "卯时康熙帝御保和殿举行经筵大典，讲官进讲《四书》《易经》，讲毕赐宴太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳杜琵",
+   "role": "讲官"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷族",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7418,
+ "page_range": "183-184"
+}

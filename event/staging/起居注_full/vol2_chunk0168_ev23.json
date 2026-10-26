@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "二十三日",
+ "event_role": "司法案件",
+ "summary": "刑部议七品监生伍色打死兵丁陈贵拟秋后处绞，康熙帝以其父年迈无人赡养、亲兄阵亡，情有可悯，着从宽免死。",
+ "people": [
+  {
+   "name": "伍色",
+   "role": "七品监生"
+  },
+  {
+   "name": "陈贵",
+   "role": "兵丁"
+  }
+ ],
+ "places": [
+  "平坝卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16823,
+ "page_range": "379-380"
+}

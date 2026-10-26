@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十二日甲午",
+ "event_role": "议政听政",
+ "summary": "酉时康熙帝御行宫，大学士马齐等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "色德里",
+   "role": "学士"
+  },
+  {
+   "name": "满丕",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7702,
+ "page_range": "165-166"
+}

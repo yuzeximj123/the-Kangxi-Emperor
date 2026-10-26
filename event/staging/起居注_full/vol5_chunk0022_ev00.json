@@ -1,0 +1,40 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝巡视新筑堤工，认为坚固可免百姓水灾，佟国维、索额图、明珠、伊桑阿、阿兰泰等奏称皇上敬天爱民所致，康熙帝解释因乘潮往返故行一百八十里。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国维",
+   "role": "内大臣"
+  },
+  {
+   "name": "索额图",
+   "role": "内大臣"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "西泪"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2200,
+ "page_range": "54-55"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "十四日癸卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙谕大学士松柱，畅春园周围田地低洼不甚觉旱，高田稍旱，命交该部速议祈雨具奏。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14116,
+ "page_range": "293-294"
+}

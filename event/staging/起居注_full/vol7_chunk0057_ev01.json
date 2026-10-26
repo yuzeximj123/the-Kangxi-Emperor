@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐奏报揆叙称洗马塞尔图、论德觉和托学问尚优，塞尔图曾于讲官员缺选择引见。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "揆叙",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "塞尔图",
+   "role": "洗马"
+  },
+  {
+   "name": "觉和托",
+   "role": "论德"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5701,
+ "page_range": "125-126"
+}

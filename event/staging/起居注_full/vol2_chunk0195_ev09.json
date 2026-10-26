@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "十六日己巳",
+ "event_role": "司法案件",
+ "summary": "三法司议厄尔济图杀死其妻及子拟绞秋后处决，康熙帝以其供称患伤寒不省人事，令察明果否患病再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "厄尔济图",
+   "role": "犯人"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19509,
+ "page_range": "433-434"
+}

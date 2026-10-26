@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "十二日甲申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士，察议军律时镇守永兴都统拉赛等不应议罪，永兴及宜理布、哈克山被陷处官员兵丁俱应宽恕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "拉赛",
+   "role": "都统"
+  },
+  {
+   "name": "宜理布",
+   "role": "都统"
+  },
+  {
+   "name": "哈克山",
+   "role": "护军统领"
+  }
+ ],
+ "places": [
+  "永兴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17405,
+ "page_range": "391-392"
+}

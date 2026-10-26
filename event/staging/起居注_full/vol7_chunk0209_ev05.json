@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "河南巡抚鹿佑题许二小等越狱脱逃案，部议降上蔡县知县张迄珍二级调用，康熙帝令照该抚所请留任。",
+ "people": [
+  {
+   "name": "鹿佑",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "张迄珍",
+   "role": "上蔡县知县"
+  },
+  {
+   "name": "许二小",
+   "role": "越狱逃犯"
+  }
+ ],
+ "places": [
+  "河南",
+  "上蔡县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20905,
+ "page_range": "429-430"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 37,
+ "month": 10,
+ "day_text": "十二日癸丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝阅兴京城，驻跸永陵西。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "兴京城",
+  "永陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5733,
+ "page_range": "124-125"
+}

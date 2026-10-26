@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "初六日戊成",
+ "event_role": "人事任免",
+ "summary": "兵部题正红旗病故副都统额尔险员缺，开列工部侍郎常级、护军参领牛钮等；康熙帝询问牛钮为人，命明日引见。",
+ "people": [
+  {
+   "name": "额尔险",
+   "role": "故副都统"
+  },
+  {
+   "name": "常级",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "牛钮",
+   "role": "护军参领"
+  },
+  {
+   "name": "松柱",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5706,
+ "page_range": "124-125"
+}

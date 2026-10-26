@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十一日丙寅",
+ "event_role": "司法案件",
+ "summary": "兵部议防护行李失误班次之骁骑校西代等四人革职，护军关柱等二十四人、骁骑卞精等八人鞭一百，泰满鞭五十，奉旨依议并严饬各营知悉。",
+ "people": [
+  {
+   "name": "西代",
+   "role": "骁骑校署章京事"
+  },
+  {
+   "name": "关柱",
+   "role": "护军"
+  },
+  {
+   "name": "卞精",
+   "role": "骁骑"
+  },
+  {
+   "name": "泰满",
+   "role": "委署护军校"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13016,
+ "page_range": "270-271"
+}

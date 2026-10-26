@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝问毛城铺减水坝所出之水可否淹没民田庐，靳辅奏称惟二十三年有水流，每年并无水流。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "毛城铺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1524,
+ "page_range": "42-43"
+}

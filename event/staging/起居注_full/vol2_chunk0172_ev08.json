@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初九日辛巳",
+ "event_role": "谕旨决策",
+ "summary": "广东将军王永洽题请量留二镇标兵四千驻防广州旧城，兵部议覆不准，康熙帝以省城紧要命再详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王永洽",
+   "role": "广东将军"
+  }
+ ],
+ "places": [
+  "广州",
+  "旧城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17208,
+ "page_range": "387-388"
+}

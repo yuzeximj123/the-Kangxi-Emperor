@@ -1,0 +1,31 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赐扬州府天宁寺僧广元御书“禅心河水月”等大字，并赐兴教寺僧广彻、北山寺僧广证御书大字。",
+ "people": [
+  {
+   "name": "广元",
+   "role": "扬州府天宁寺僧"
+  },
+  {
+   "name": "广彻",
+   "role": "兴教寺僧"
+  },
+  {
+   "name": "广证",
+   "role": "北山寺僧"
+  }
+ ],
+ "places": [
+  "扬州府",
+  "天宁寺",
+  "兴教寺",
+  "北山寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8200,
+ "page_range": "174-175"
+}

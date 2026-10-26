@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": "二十七日己酉",
+ "event_role": "司法案件",
+ "summary": "吏部题候补员外郎朱兰泰控诉冤抑、向侍郎特默德狂词朗对，拟降二级调用；康熙帝斥特默德徇情曲让，命交都察院严察具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱兰泰",
+   "role": "候补员外郎"
+  },
+  {
+   "name": "特默德",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 310,
+ "page_range": "17-18"
+}

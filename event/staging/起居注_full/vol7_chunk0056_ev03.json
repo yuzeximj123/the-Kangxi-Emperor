@@ -1,0 +1,37 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "许汝霖奏荐江南刘岩、汪份及浙江盛弘放学问俱优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许汝霖",
+   "role": "读卷官"
+  },
+  {
+   "name": "刘岩",
+   "role": "举子"
+  },
+  {
+   "name": "汪份",
+   "role": "举子"
+  },
+  {
+   "name": "盛弘放",
+   "role": "举子"
+  }
+ ],
+ "places": [
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5603,
+ "page_range": "123-124"
+}

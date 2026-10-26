@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "十六日丙子",
+ "event_role": "人事任免",
+ "summary": "兵部题广西提督张朝午员缺开列副都统许廷臣等，康熙帝命副都统左世永补授。",
+ "people": [
+  {
+   "name": "张朝午",
+   "role": "广西提督"
+  },
+  {
+   "name": "许廷臣",
+   "role": "副都统"
+  },
+  {
+   "name": "左世永",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13612,
+ "page_range": "283-284"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "十五日戊午",
+ "event_role": "人事任免",
+ "summary": "吏部题礼部尚书张十昧、侍郎张英、王飚昌不理职事、躲避推诿，应降五级调用，康熙帝谕从宽降五级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张十昧",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "张英",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "王飚昌",
+   "role": "礼部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1014,
+ "page_range": "32-33"
+}

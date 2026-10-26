@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初八日己亥",
+ "event_role": "人事任免",
+ "summary": "兵部题登州府总兵官李林盛升任员缺，康熙帝以总兵标下中军副将林忠为人颇优、有效力处，着升补总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李林盛",
+   "role": "登州府总兵官"
+  },
+  {
+   "name": "林忠",
+   "role": "中军副将"
+  }
+ ],
+ "places": [
+  "登州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6217,
+ "page_range": "159-160"
+}

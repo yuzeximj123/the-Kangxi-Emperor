@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "二十八日丙成",
+ "event_role": "请安谢恩",
+ "summary": "扎鲁特护国公苏礼、归化城士默特都统丹津来请安进贡。",
+ "people": [
+  {
+   "name": "苏礼",
+   "role": "扎鲁特护国公"
+  },
+  {
+   "name": "丹津",
+   "role": "归化城士默特都统"
+  }
+ ],
+ "places": [
+  "扎鲁特",
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17641,
+ "page_range": "363-364"
+}

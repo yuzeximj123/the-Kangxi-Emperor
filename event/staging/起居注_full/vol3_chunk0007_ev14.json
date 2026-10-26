@@ -1,0 +1,36 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "十四日庚成",
+ "event_role": "军务",
+ "summary": "靖海将军施琅题请将拣选调往官兵九百余名补入内地官兵数内，部议准行，康熙帝令存留并会议裁汰老弱补额。",
+ "people": [
+  {
+   "name": "施琅",
+   "role": "靖海将军"
+  },
+  {
+   "name": "杜至",
+   "role": "展界尚书"
+  },
+  {
+   "name": "石柱",
+   "role": "学士"
+  },
+  {
+   "name": "苏拜",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 714,
+ "page_range": "49-50"
+}

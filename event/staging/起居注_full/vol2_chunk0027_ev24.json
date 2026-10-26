@@ -1,0 +1,33 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "初八日巳",
+ "event_role": "人事任免",
+ "summary": "户兵二部会覆云贵总督赵良栋题议，康熙帝命李芳述即补西宁总兵官缺，仍令进征云南，着议政王等一并议奏。",
+ "people": [
+  {
+   "name": "赵良栋",
+   "role": "云贵总督"
+  },
+  {
+   "name": "李芳述",
+   "role": "随征总兵官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南",
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2724,
+ "page_range": "97-98"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "酉时康熙帝御乾清宫西暖阁，读卷官马齐等呈武举试卷，康熙帝亲阅善射八人卷定甲第，命其余依诸臣所定次序。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "读卷官"
+  },
+  {
+   "name": "马会伯",
+   "role": "武举"
+  }
+ ],
+ "places": [
+  "乾清宫西暖阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17309,
+ "page_range": "356-357"
+}

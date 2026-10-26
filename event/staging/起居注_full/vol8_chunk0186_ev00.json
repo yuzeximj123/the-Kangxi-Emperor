@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "二",
+ "event_role": "司法案件",
+ "summary": "刑部覆请将任二拟绞、方氏张二拟绞监候，康熙帝谕令任二依拟应斩，方氏张二依拟应绞监候秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "任二",
+   "role": "罪犯"
+  },
+  {
+   "name": "方氏",
+   "role": "罪犯"
+  },
+  {
+   "name": "张二",
+   "role": "罪犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18600,
+ "page_range": "383-384"
+}

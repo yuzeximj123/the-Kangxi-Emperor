@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "申时",
+ "event_role": "收到奏折",
+ "summary": "巡视南城浙江道御史囊桥列款参劾山西巡抚噶礼贪恶，康熙帝令噶礼明白回奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "囊桥",
+   "role": "巡视南城浙江道御史"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3110
+}

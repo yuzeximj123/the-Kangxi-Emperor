@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "十九日生辰",
+ "event_role": "人事任免",
+ "summary": "吏部题光禄寺正卿伊图升任员缺，康熙以马朗古、邬黑才品不及令另拟，马朗古以原品解任。",
+ "people": [
+  {
+   "name": "伊图",
+   "role": "光禄寺正卿"
+  },
+  {
+   "name": "马朗古",
+   "role": "督捕理事官"
+  },
+  {
+   "name": "邬黑",
+   "role": "翰林院侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2007,
+ "page_range": "52-53"
+}

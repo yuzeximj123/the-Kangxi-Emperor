@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初十日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕考试官员所关最重，令伊桑阿、马齐来时会同询问汉大学士、翰林门生，保举具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "官员"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12812,
+ "page_range": "266-267"
+}

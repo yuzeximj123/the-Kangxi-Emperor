@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十五年二十日甲戌",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "二十日甲戌",
+ "event_role": "司法案件",
+ "summary": "马齐奏三法司议姚自亮拟绞监候，请永远监禁遇赦不赦，康熙帝准如所议，令独自另处监禁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "姚自亮",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3271
+}

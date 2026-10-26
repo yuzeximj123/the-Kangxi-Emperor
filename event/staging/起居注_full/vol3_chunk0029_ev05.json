@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "二十日乙酉",
+ "event_role": "朝见受贺",
+ "summary": "古北口等处抽分工部郎中沙纳海等、怀柔县守备郭美等、知县谢淳等来朝见康熙帝。",
+ "people": [
+  {
+   "name": "沙纳海",
+   "role": "工部郎中"
+  },
+  {
+   "name": "郭美",
+   "role": "守备"
+  },
+  {
+   "name": "谢淳",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "古北口",
+  "怀柔县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2905,
+ "page_range": "93-94"
+}

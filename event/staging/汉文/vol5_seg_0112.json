@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十二年十二月初六日",
+ "reign_year": 52,
+ "month": 12,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "浙江巡抚王度昭奏陈浙东旱灾经蠲赈及连降大雪后灾情消解、丰年有兆，并遣家人赍折恭请圣安。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚，奏折作者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "浙江",
+  "浙东",
+  "湖南",
+  "广东",
+  "山左",
+  "吉家窑"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，表示自己安好。",
+ "source_title": "浙江巡撫王度昭奏陳浙東旱災已得雪情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1478",
+ "order_index": 112
+}

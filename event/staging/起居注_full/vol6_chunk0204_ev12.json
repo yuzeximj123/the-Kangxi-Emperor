@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "初三日己未",
+ "event_role": "朝见受贺",
+ "summary": "怀来路守备徐升阶、把总张国印等来朝。",
+ "people": [
+  {
+   "name": "徐升阶",
+   "role": "怀来路守备"
+  },
+  {
+   "name": "张国印",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "怀来路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20412,
+ "page_range": "418-419"
+}

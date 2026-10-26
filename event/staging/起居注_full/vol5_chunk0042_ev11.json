@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十八日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "户部题古北口总兵何应元请兵丁月粮仍给本色，康熙帝以边兵甚苦照所请给与。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何应元",
+   "role": "古北口总兵官"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4211,
+ "page_range": "94-95"
+}

@@ -1,0 +1,23 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "初三日壬申",
+ "event_role": "谕旨决策",
+ "summary": "兵部议广西撤回兵丁所坐船只应给荆州江宁驻防兵乘坐，康熙帝恐累民，命差部院大臣会同直隶巡抚计算酌拨，不得滥封船只。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西",
+  "荆州",
+  "江宁",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20605,
+ "page_range": "455-456"
+}

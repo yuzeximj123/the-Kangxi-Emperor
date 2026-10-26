@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "二十一日甲成",
+ "event_role": "朝见受贺",
+ "summary": "驻防三河县防守尉纳棱格等、知县任吝等来朝。",
+ "people": [
+  {
+   "name": "纳棱格",
+   "role": "三河县防守尉"
+  },
+  {
+   "name": "任吝",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4513,
+ "page_range": "133-134"
+}

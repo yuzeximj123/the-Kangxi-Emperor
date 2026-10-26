@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十四年十一月二十日",
+ "reign_year": 54,
+ "month": 11,
+ "day": 19,
+ "event_role": "人事任免",
+ "summary": "河南巡抚李锡奏报士民呈请将驿盐粮道张孟球补授河南臬司，因新例不敢擅题，具折请旨。",
+ "people": [
+  {
+   "name": "李锡",
+   "role": "河南巡抚，奏折具奏人"
+  },
+  {
+   "name": "张伯琮",
+   "role": "原臬司，升补"
+  },
+  {
+   "name": "张孟球",
+   "role": "驿盐粮储分守道，署理藩篆、臬司，被请补授臬司"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知已有人选（已有了）。",
+ "source_title": "河南巡撫李錫奏報士民呈請將驛鹽糧道補授臬司捐",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1945",
+ "order_index": 212
+}

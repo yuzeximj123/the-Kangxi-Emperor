@@ -1,0 +1,20 @@
+{
+ "reign_year": 12,
+ "month": 5,
+ "day_text": "初七日丙子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝祭地于方泽礼毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "方泽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4234,
+ "page_range": "141-142"
+}

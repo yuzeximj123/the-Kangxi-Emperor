@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "辰时",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝问魏象枢为科员时与何人对参，象枢奏与陈调元互参经过及罚俸始末。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "陈调元",
+   "role": "原任兵科左给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20109,
+ "page_range": "459-460"
+}

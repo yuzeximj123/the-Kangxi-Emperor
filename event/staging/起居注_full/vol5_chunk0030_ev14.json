@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": "三十日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问索诺和布颜图可否保举，索诺和答不可，康熙帝论汉人结党及满洲三党，称索诺和无党安分。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索诺和",
+   "role": "尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "布颜图",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3014,
+ "page_range": "70-71"
+}

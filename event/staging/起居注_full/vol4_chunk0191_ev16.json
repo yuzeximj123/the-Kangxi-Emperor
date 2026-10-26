@@ -1,0 +1,33 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "初七日两成",
+ "event_role": "人事任免",
+ "summary": "兵部题云南永北总兵官员缺请旨，康熙帝以马声为有功之人之子，命升补永北总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "总督"
+  },
+  {
+   "name": "马声",
+   "role": "建川副将"
+  },
+  {
+   "name": "马之迅",
+   "role": "马声之父"
+  }
+ ],
+ "places": [
+  "云南永北",
+  "建川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19116,
+ "page_range": "394-395"
+}

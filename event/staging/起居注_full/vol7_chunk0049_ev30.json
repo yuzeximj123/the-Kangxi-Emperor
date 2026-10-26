@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "二十六日王申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝因昨夜大风南村失火，命大臣侍卫扑灭，令察明被火房数议赏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "治仪正"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "南村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4930,
+ "page_range": "109-110"
+}

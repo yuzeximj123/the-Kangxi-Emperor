@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "二十四日庚辰",
+ "event_role": "军务",
+ "summary": "就旅顺水师营协领兼管屯丁佐领事，康熙帝命会同议政大臣议长久之计具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐保柱",
+   "role": "署理盛京将军事务前锋统领伯"
+  }
+ ],
+ "places": [
+  "旅顺",
+  "锦州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15613,
+ "page_range": "323-324"
+}

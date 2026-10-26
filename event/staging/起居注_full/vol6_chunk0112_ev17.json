@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "二十日乙卯",
+ "event_role": "人事任免",
+ "summary": "浙江定海总兵官蓝理题报提督赵弘灿丁忧署印日期，康熙帝命赵弘灿在任守制。",
+ "people": [
+  {
+   "name": "蓝理",
+   "role": "浙江定海总兵官"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "提督"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "赵弘党",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11217,
+ "page_range": "234-235"
+}

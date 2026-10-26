@@ -1,0 +1,20 @@
+{
+ "reign_year": 10,
+ "month": 11,
+ "day_text": "二十一日成辰",
+ "event_role": "祭祀典礼",
+ "summary": "长至日，康熙帝亲诣天坛祭天。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 323,
+ "page_range": "63-64"
+}

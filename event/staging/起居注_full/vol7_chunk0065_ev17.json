@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "十三日了已",
+ "event_role": "谕旨决策",
+ "summary": "礼部覆湖北巡抚年遐龄题尽节粮道叶映榴应给祭典及匾额，康熙帝命二季致祭照部议行，匾额交翰林院回京奏请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "年遐龄",
+   "role": "湖北巡抚"
+  },
+  {
+   "name": "叶映榴",
+   "role": "粮道"
+  }
+ ],
+ "places": [
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6517,
+ "page_range": "141-142"
+}

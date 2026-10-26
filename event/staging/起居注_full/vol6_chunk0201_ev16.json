@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "初七日吴巳",
+ "event_role": "人事任免",
+ "summary": "两江总督阿山以革职淮阳道芒晋奏请还职事咨询桑格、张鹏副，康熙帝令俟其应交银两完日再行具奏。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "芒晋",
+   "role": "革职淮阳道"
+  },
+  {
+   "name": "桑格",
+   "role": "总漕"
+  },
+  {
+   "name": "张鹏副",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "两江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20116,
+ "page_range": "412-413"
+}

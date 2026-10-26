@@ -1,0 +1,42 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "谕将军马思喀，命都统侠巴浑德齐什、萨布素、硕蓝、宋柱、王化行俱充参赞，与大将军费扬古会合。",
+ "people": [
+  {
+   "name": "马思喀",
+   "role": "将军领侍卫内大臣"
+  },
+  {
+   "name": "侠巴浑德齐什",
+   "role": "都统"
+  },
+  {
+   "name": "萨布素",
+   "role": "将军"
+  },
+  {
+   "name": "硕蓝",
+   "role": "都统兼前锋统领"
+  },
+  {
+   "name": "宋柱",
+   "role": "护军统领"
+  },
+  {
+   "name": "王化行",
+   "role": "总兵"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21802,
+ "page_range": "446-447"
+}

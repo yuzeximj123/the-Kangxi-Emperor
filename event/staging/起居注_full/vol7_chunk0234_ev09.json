@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题原任大学士熊赐履之子熊志伊应授何职请旨，康熙帝命交礼部，明年乡场令其乡试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "原任大学士"
+  },
+  {
+   "name": "熊志伊",
+   "role": "熊赐履之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23409,
+ "page_range": "479-480"
+}

@@ -1,0 +1,23 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初七日乙亥",
+ "event_role": "人事任免",
+ "summary": "川陕总督希福陛辞请训，康熙帝谕以勤敏办事、文武协和，并问其驻札事宜。",
+ "people": [
+  {
+   "name": "希福",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "四川",
+  "陕西",
+  "汉中",
+  "三边"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22215,
+ "page_range": "487-488"
+}

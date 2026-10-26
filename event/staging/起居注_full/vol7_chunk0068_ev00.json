@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "申时康熙帝御行宫，大学士席哈纳、学士常寿以折本请旨，议湖广提督俞益谟题请武从家丁顶补军卒免保结并增额数事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "常寿",
+   "role": "学士"
+  },
+  {
+   "name": "俞益谟",
+   "role": "湖广提督"
+  }
+ ],
+ "places": [
+  "行宫",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6800,
+ "page_range": "147-148"
+}

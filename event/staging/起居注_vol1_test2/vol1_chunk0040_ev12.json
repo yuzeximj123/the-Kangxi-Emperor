@@ -1,0 +1,20 @@
+{
+ "reign_year": 12,
+ "month": 4,
+ "day_text": "初一日庚子",
+ "event_role": "祭祀典礼",
+ "summary": "因重夏，康熙帝亲诣太庙致祭，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4012,
+ "page_range": "137-138"
+}

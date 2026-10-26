@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初二日癸未",
+ "event_role": "谕旨决策",
+ "summary": "吏科给事中偏俄条奏审事不当用亦未可知等语，九卿议不准，康熙帝从明珠等议是之。",
+ "people": [
+  {
+   "name": "偏俄",
+   "role": "吏科掌印给事中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5712,
+ "page_range": "157-158"
+}

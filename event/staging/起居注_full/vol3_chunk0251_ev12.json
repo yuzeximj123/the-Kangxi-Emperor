@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": "初八日癸未",
+ "event_role": "人事任免",
+ "summary": "吏部题光禄寺正卿凯音布升任员缺，康熙帝命伊图升补，并令问明索济具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凯音布",
+   "role": "光禄寺正卿"
+  },
+  {
+   "name": "索济",
+   "role": "大理寺少卿"
+  },
+  {
+   "name": "伊图",
+   "role": "左春坊左庶子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25112,
+ "page_range": "537-538"
+}

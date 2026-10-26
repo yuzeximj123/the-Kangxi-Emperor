@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部覆直隶巡抚李光地题参武清县知县章曾印沽儿港堤岸冲决议令赔修，康熙帝以非其所修之处令赔修不公，着另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "章曾印",
+   "role": "武清县知县"
+  }
+ ],
+ "places": [
+  "沽儿港",
+  "武清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15906,
+ "page_range": "328-329"
+}

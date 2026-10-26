@@ -1,0 +1,36 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": "二十三日庚戌",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门覆陕西巡抚永泰所题雷滚救父殴伤雷文锡致死案，拟立斩，并以救父情切请减罪，康熙帝令议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "永泰",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "雷士显",
+   "role": "涉案人"
+  },
+  {
+   "name": "雷滚",
+   "role": "案犯"
+  },
+  {
+   "name": "雷文锡",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17824,
+ "page_range": "367-368"
+}

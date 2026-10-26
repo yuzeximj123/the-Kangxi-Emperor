@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十四日丙寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝起行，阅视涌泉寺等庙宇，至长城岭下，山西巡抚噶礼率所属文武官员路送。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "涌泉寺",
+  "长城岭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 607,
+ "page_range": "23-24"
+}

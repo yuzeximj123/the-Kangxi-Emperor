@@ -1,0 +1,36 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝向马齐、徐元梦论绿旗兵不及满蒙兵，亲统满蒙二千五千可成功，绿旗兵多难倚，并引赵弘灿之言及曹申吉降贼事；徐元梦奏汉人性情浇薄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元梦",
+   "role": "起居注左都御史"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "原任总督"
+  },
+  {
+   "name": "曹申吉",
+   "role": "原贵州巡抚"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21008,
+ "page_range": "431-432"
+}

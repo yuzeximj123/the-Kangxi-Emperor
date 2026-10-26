@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "初五日乙酉",
+ "event_role": "弹劾参奏",
+ "summary": "河南巡抚张圣佐因贼党亢下等未获且未据实奏闻被议革职，康熙帝命待张廷枢等审明再奏。",
+ "people": [
+  {
+   "name": "张圣佐",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "亢下",
+   "role": "贼党"
+  },
+  {
+   "name": "张廷枢",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21207,
+ "page_range": "435-436"
+}

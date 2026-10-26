@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕杭州副都统洪尼喀，令其到任后整顿驻防满兵陋俗，勤于骑射，讲习满洲职业，并传旨该将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "洪尼喀",
+   "role": "杭州副都统"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22401,
+ "page_range": "491-492"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝连日雨后转晴，指出各处水势及喀喇城桥梁被冲情况，并询问起居注官揆叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "揆叙",
+   "role": "起居注官、左都御史"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "喀喇城",
+  "湾河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2600,
+ "page_range": "63-64"
+}

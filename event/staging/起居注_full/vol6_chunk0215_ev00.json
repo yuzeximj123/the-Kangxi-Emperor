@@ -1,0 +1,20 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "十七日六丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸红旗营。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "红旗营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21500,
+ "page_range": "440-441"
+}

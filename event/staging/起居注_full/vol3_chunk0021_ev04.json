@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "理藩院题归化城土默特部落佐领噶尔马世希因罪革职，康熙帝以其子不当补授，命以拟陪之族侄积孙补授佐领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔马世希",
+   "role": "佐领"
+  },
+  {
+   "name": "罗札喇希",
+   "role": "噶尔马世希之子"
+  },
+  {
+   "name": "积孙",
+   "role": "噶尔马世希族侄"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2104,
+ "page_range": "77-78"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "十七日辛效",
+ "event_role": "谕旨决策",
+ "summary": "礼部题江南、江西典试主考开列高士奇等，康熙帝命不必照旧例，选择有才学者具奏。",
+ "people": [
+  {
+   "name": "高士奇",
+   "role": "翰林官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3112,
+ "page_range": "97-98"
+}

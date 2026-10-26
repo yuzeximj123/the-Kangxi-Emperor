@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "十九日乙卯",
+ "event_role": "人事任免",
+ "summary": "大学士黄机以老病乞休，康熙帝以其为人谨慎安静，命照冯溥致仕例拟票送进。",
+ "people": [
+  {
+   "name": "黄机",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "前大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 820,
+ "page_range": "51-52"
+}

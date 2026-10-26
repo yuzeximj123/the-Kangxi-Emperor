@@ -1,0 +1,42 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十二日王午",
+ "event_role": "人事任免",
+ "summary": "康熙帝阅毕殿试卷，御笔批定名次，陆肯堂为第一甲第一名，陈元龙第二，黄梦麟第三，余列二甲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陆肯堂",
+   "role": "第一甲第一名"
+  },
+  {
+   "name": "陈元龙",
+   "role": "第一甲第二名"
+  },
+  {
+   "name": "黄梦麟",
+   "role": "第一甲第三名"
+  },
+  {
+   "name": "王申",
+   "role": "官员"
+  },
+  {
+   "name": "王酋绪",
+   "role": "官员"
+  },
+  {
+   "name": "孙在丰",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8311,
+ "page_range": "201-202"
+}

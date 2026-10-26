@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 11,
+ "day_text": "初一日庚子",
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝御保和殿，赐鄂罗斯国查漠汗使臣伊里扎礼等食并赐酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊里扎礼",
+   "role": "鄂罗斯国使臣"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24713,
+ "page_range": "506-507"
+}

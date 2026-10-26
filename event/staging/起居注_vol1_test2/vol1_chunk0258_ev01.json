@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十日丁未",
+ "event_role": "军务",
+ "summary": "议顺承郡王勒尔金不欲进兵重庆请驻沅州事，康熙帝令其还京。",
+ "people": [
+  {
+   "name": "勒尔金",
+   "role": "顺承郡王"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "重庆",
+  "沅州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25801,
+ "page_range": "573-574"
+}

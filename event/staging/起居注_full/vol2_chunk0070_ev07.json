@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "二十七日成实",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题病故一品台吉塞百克之子鲁席希布承袭事，康熙帝令查明行间病故台吉之子有无承袭原官旧例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "塞百克",
+   "role": "病故一品台吉"
+  },
+  {
+   "name": "鲁席希布",
+   "role": "塞百克之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7007,
+ "page_range": "183-184"
+}

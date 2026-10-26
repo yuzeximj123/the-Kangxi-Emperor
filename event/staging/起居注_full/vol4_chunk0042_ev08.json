@@ -1,0 +1,34 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝命学士李振裕、尚书熊赐履、左都御史徐元文、掌院学士李光地各读一卷。",
+ "people": [
+  {
+   "name": "李振裕",
+   "role": "学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  },
+  {
+   "name": "徐元文",
+   "role": "左都御史"
+  },
+  {
+   "name": "李光地",
+   "role": "掌院学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4208,
+ "page_range": "96-97"
+}

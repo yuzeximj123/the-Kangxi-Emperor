@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "初十日辛丑",
+ "event_role": "人事任免",
+ "summary": "兵部推补兴化总兵，康熙帝以高昂才具堪用准其补缺。",
+ "people": [
+  {
+   "name": "高昂",
+   "role": "总兵"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "兴化"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20607,
+ "page_range": "469-470"
+}

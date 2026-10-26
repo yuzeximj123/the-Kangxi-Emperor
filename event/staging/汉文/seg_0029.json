@@ -1,0 +1,42 @@
+{
+ "date_raw": "康熙三十八年五月",
+ "reign_year": 38,
+ "month": 5,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "曹寅奏报江南上江得雨、下江雨水及收成可望，并报在湖广江西买米、江宁米价稍贵情形。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "联署人"
+  },
+  {
+   "name": "张蓝",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江南",
+  "上江",
+  "下江",
+  "湖广",
+  "江西",
+  "江宁",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知奏报内容。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "31",
+ "source_title": "江宁织造曹寅奏报江南上江得雨并在湖广江西买米折",
+ "order_index": 29
+}

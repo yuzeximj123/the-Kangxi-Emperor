@@ -1,0 +1,44 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "初二日丙寅",
+ "event_role": "司法案件",
+ "summary": "九卿覆奏山西省情真重犯，康熙帝以毛仪凤、郭建都、蓝成贯情由可原，着从缓决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "毛仪凤",
+   "role": "犯人"
+  },
+  {
+   "name": "程恺",
+   "role": "死者"
+  },
+  {
+   "name": "郭建都",
+   "role": "犯人"
+  },
+  {
+   "name": "李椿林",
+   "role": "死者"
+  },
+  {
+   "name": "蓝成贯",
+   "role": "犯人"
+  },
+  {
+   "name": "孙成",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "山西省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11415,
+ "page_range": "238-239"
+}

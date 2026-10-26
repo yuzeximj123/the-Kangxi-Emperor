@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十九日壬午",
+ "event_role": "人事任免",
+ "summary": "封巴图尔厄尔克济农为多罗贝勒，即日给以贝勒之俸。",
+ "people": [
+  {
+   "name": "巴图尔厄尔克济农",
+   "role": "受封多罗贝勒"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "萨尔虎拖会"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17618,
+ "page_range": "362-363"
+}

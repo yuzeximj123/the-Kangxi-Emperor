@@ -1,0 +1,41 @@
+{
+ "date_raw": "康熙四十五年十九日",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "癸酉",
+ "event_role": "人事任免",
+ "summary": "康熙帝派金世荣、巴锡、范承烈管开通清河至通州河工，罢巴锡侍郎任仍令监工。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "温达",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "金世荣",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "巴锡",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "范承烈",
+   "role": "户部侍郎"
+  }
+ ],
+ "places": [
+  "清河",
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3147
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "初一日了丑",
+ "event_role": "司法案件",
+ "summary": "刑部题逼死父命额者苏拟斩、逼死叔命舒恕及妄称皇孙之尹代拟绞，康熙令依议完结，尹代革职免死。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "记注官"
+  },
+  {
+   "name": "额者苏",
+   "role": "罪犯"
+  },
+  {
+   "name": "舒恕",
+   "role": "罪犯"
+  },
+  {
+   "name": "尹代",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1701,
+ "page_range": "44-45"
+}

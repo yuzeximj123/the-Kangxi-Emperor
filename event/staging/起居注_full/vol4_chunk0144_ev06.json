@@ -1,0 +1,29 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "二十七日",
+ "event_role": "司法案件",
+ "summary": "兵部题邵科里告索住称病先回西安等事，康熙命将邵科里枷号百日、鞭一百，索住从宽免罪。",
+ "people": [
+  {
+   "name": "邵科里",
+   "role": "拨什库"
+  },
+  {
+   "name": "索住",
+   "role": "固山大"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汉中",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14406,
+ "page_range": "300-301"
+}

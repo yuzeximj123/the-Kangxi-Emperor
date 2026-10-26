@@ -1,0 +1,38 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部覆巡抚金复题请衡永郴道董廷思、长沙府知府王奕曾留任不准，康熙命行文总督郭隆查明具奏。",
+ "people": [
+  {
+   "name": "金复",
+   "role": "巡抚"
+  },
+  {
+   "name": "董廷思",
+   "role": "衡永郴道"
+  },
+  {
+   "name": "王奕曾",
+   "role": "长沙府知府"
+  },
+  {
+   "name": "吴瑞",
+   "role": "官员"
+  },
+  {
+   "name": "郭隆",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "湖广",
+  "衡永郴",
+  "长沙府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11608,
+ "page_range": "242-243"
+}

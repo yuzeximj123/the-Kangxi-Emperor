@@ -1,0 +1,20 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "二十一日庚午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸罗文峪口内。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "罗文峪口内"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9212,
+ "page_range": "227-228"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 4,
+ "day_text": "二十日丙成",
+ "event_role": "司法案件",
+ "summary": "户部题神武等卫民冯三等自首私开荒地，康熙帝令免其按年追征钱粮，该管官员免议处，并定后来自首开垦者自出首之年征收钱粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "冯三",
+   "role": "自首民人"
+  }
+ ],
+ "places": [
+  "神武等卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7022,
+ "page_range": "152-153"
+}

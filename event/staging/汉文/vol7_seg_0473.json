@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十六年七月十一日",
+ "reign_year": 56,
+ "month": 7,
+ "day": 11,
+ "event_role": "请安谢恩",
+ "summary": "云南巡抚甘国璧奏报滇省春夏雨水调匀、豆麦丰收、禾稼茂盛，荞麦有十分收成，秋收可望丰稔，并恭请圣安。",
+ "people": [
+  {
+   "name": "甘国璧",
+   "role": "云南巡抚，奏报人"
+  },
+  {
+   "name": "蒋陈锡",
+   "role": "督臣，与甘国璧一同察勘田禾"
+  },
+  {
+   "name": "李辛",
+   "role": "把总，专差赍进奏折"
+  }
+ ],
+ "places": [
+  "云南",
+  "滇省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 473
+}

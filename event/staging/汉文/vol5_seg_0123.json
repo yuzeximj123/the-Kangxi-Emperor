@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十二年十二月二十四日",
+ "reign_year": 52,
+ "month": 12,
+ "day": 24,
+ "event_role": "其他",
+ "summary": "李维钧奏报与曹颙奉旨采办灵璧石及做乐器竹子，已采办箫笛竹并开单恭进，灵璧石待采齐后进呈。",
+ "people": [
+  {
+   "name": "曹颙",
+   "role": "江宁织造，与李维钧同奉旨采办灵璧石及竹子"
+  },
+  {
+   "name": "李维钧",
+   "role": "奏报人，与曹颙同奉旨采办灵璧石及竹子"
+  },
+  {
+   "name": "万谟",
+   "role": "清客，经手采办竹子"
+  }
+ ],
+ "places": [
+  "灵璧县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并称未见竹子，难以评价好坏。",
+ "source_title": "江寧織造曹顒奏為恭進鹽差銀兩摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1488",
+ "order_index": 123
+}

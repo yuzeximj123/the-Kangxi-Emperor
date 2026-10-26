@@ -1,0 +1,38 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "十四日癸卯",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等遵旨询问应充讲官之人，举出希福纳、党在、席尔登，康熙帝命席尔登以原衔充日讲起居注官。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "党书",
+   "role": "侍郎"
+  },
+  {
+   "name": "张英",
+   "role": "尚书"
+  },
+  {
+   "name": "希福纳",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "党在",
+   "role": "庶子"
+  },
+  {
+   "name": "席尔登",
+   "role": "侍读"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8506,
+ "page_range": "180-181"
+}

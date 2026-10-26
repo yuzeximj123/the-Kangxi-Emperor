@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "二十五日甲寅",
+ "event_role": "其他",
+ "summary": "是日赐扈从诸大臣、侍卫及提督偏图、总兵官喜铃、康泰马各一匹。",
+ "people": [
+  {
+   "name": "偏图",
+   "role": "提督"
+  },
+  {
+   "name": "喜铃",
+   "role": "总兵官"
+  },
+  {
+   "name": "康泰",
+   "role": "总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9604,
+ "page_range": "203-204"
+}

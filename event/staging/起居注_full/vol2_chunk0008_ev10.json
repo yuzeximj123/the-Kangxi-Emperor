@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初八日甲午",
+ "event_role": "人事任免",
+ "summary": "吏部题补山西巡抚员缺，康熙帝询问布政使马尔图、雅思哈、穆尔赛，最终命穆尔赛补用。",
+ "people": [
+  {
+   "name": "马尔图",
+   "role": "布政使"
+  },
+  {
+   "name": "雅思哈",
+   "role": "布政使"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "山西布政使"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 810,
+ "page_range": "59-60"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "初一日戊辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕扬州知府高承爵从优升补江苏按察使，江宁府同知赵世显升补江宁府知府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高承爵",
+   "role": "扬州府知府"
+  },
+  {
+   "name": "赵世显",
+   "role": "江宁府同知"
+  }
+ ],
+ "places": [
+  "扬州府",
+  "江宁府",
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6113,
+ "page_range": "134-135"
+}

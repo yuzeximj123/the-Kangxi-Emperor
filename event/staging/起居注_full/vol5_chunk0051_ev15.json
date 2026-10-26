@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "十五日戊戌",
+ "event_role": "起居注官记录",
+ "summary": "记注起居注官张英、莫里清。",
+ "people": [
+  {
+   "name": "张英",
+   "role": "起居注官"
+  },
+  {
+   "name": "莫里清",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5115,
+ "page_range": "112-113"
+}

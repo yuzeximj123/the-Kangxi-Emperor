@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十七日己卯",
+ "event_role": "人事任免",
+ "summary": "川陕总督华显题甘肃所属四府州县官请选择补授，康熙帝命交该部确议具奏。",
+ "people": [
+  {
+   "name": "华显",
+   "role": "川陕总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 816,
+ "page_range": "27-28"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 27,
+ "month": 12,
+ "day_text": "十三日于子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸兰河崖，射殪一虎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "兰河崖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5014,
+ "page_range": "112-113"
+}

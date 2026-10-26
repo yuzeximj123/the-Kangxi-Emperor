@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "初四日丁丑",
+ "event_role": "朝见受贺",
+ "summary": "未时康熙御保和殿，赐进贡厄鲁特部落噶尔党薄硕克免汗来使卓里克免鄂穆布等食，命至御座前赐酒。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "卓里克免鄂穆布",
+   "role": "厄鲁特来使"
+  },
+  {
+   "name": "巴图尔伯克达喇汉",
+   "role": "厄鲁特来使"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16010,
+ "page_range": "363-364"
+}

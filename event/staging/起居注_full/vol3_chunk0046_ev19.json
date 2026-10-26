@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "十一日甲戌",
+ "event_role": "人事任免",
+ "summary": "兵部题正白旗蒙古副都统额库礼降调员缺，康熙帝命额星格补副都统，明珠等奏其更善营私。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额库礼",
+   "role": "正白旗蒙古副都统"
+  },
+  {
+   "name": "额星格",
+   "role": "侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4619,
+ "page_range": "127-128"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "吏部题补盛京礼部侍郎哈尔松阿病故员缺，康熙帝采纳明珠意见以通政使席兰泰补授。",
+ "people": [
+  {
+   "name": "哈尔松阿",
+   "role": "盛京礼部侍郎，病故"
+  },
+  {
+   "name": "萨海",
+   "role": "学士"
+  },
+  {
+   "name": "席兰泰",
+   "role": "通政使，补授侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16811,
+ "page_range": "379-380"
+}

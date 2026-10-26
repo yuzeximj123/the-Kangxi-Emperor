@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十五年二月初二日",
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "初二日",
+ "event_role": "皇帝行止",
+ "summary": "申时康熙帝出行宫，率皇太子、诸皇子及护军等射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "随行"
+  },
+  {
+   "name": "诸皇子",
+   "role": "随行"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3060
+}

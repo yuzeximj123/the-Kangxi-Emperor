@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "初二日壬申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕以科尔坤练达事务、被参无明据，着复其尚书原职；米汉雯书法颇佳、被参无明据，着复还原官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "科尔坤",
+   "role": "原任尚书"
+  },
+  {
+   "name": "米汉雯",
+   "role": "原任侍讲"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24310,
+ "page_range": "498-499"
+}

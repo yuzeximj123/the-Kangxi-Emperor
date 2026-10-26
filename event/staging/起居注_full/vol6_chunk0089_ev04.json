@@ -1,0 +1,33 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "初七日丙午",
+ "event_role": "其他",
+ "summary": "康熙帝赐原任左春坊秦松龄御书大字，及放生池和尚、小金山和尚御书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "秦松龄",
+   "role": "原任左春坊"
+  },
+  {
+   "name": "放生池和尚",
+   "role": "和尚"
+  },
+  {
+   "name": "小金山和尚",
+   "role": "和尚"
+  }
+ ],
+ "places": [
+  "放生池",
+  "小金山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8904,
+ "page_range": "188-189"
+}

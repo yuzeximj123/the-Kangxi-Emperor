@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝向大学士等追述南巡归途于分水龙王庙见货船避让、命王梁察看装载毋致遗失之事，以明其熟悉该处河形。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王梁",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "分水龙王庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10903,
+ "page_range": "230-231"
+}

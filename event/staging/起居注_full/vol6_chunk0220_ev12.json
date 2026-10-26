@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十四日丁卯",
+ "event_role": "司法案件",
+ "summary": "户部等覆湖广总督郭玫题黄梅县知县李锦钱粮亏空案，议准察明审结再定罪，康熙帝命问九卿内湖广人具奏。",
+ "people": [
+  {
+   "name": "郭玫",
+   "role": "湖广总督"
+  },
+  {
+   "name": "李锦",
+   "role": "黄梅县知县"
+  }
+ ],
+ "places": [
+  "黄梅县",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22012,
+ "page_range": "450-451"
+}

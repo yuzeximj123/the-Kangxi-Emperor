@@ -1,0 +1,48 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "领侍卫内大臣苏尔达、马思哈等议，前因费扬古原奏二十四日至土喇，曾请俟费扬古兵至再进，今奉谕询问乡导。",
+ "people": [
+  {
+   "name": "苏尔达",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "马思哈",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "西喇",
+   "role": "侍郎"
+  },
+  {
+   "name": "喇锡",
+   "role": "侍读学士"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "土喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11718,
+ "page_range": "244-245"
+}

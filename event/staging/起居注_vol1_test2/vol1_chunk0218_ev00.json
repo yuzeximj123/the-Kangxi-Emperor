@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就李之芳诈称自往衢州一事，念其军机勤劳，从宽降六级抵销，免其调用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李之芳",
+   "role": "地方总督"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "衢州",
+  "种州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21800,
+ "page_range": "493-494"
+}

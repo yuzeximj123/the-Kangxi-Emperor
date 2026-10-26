@@ -1,0 +1,37 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "二十一日庚子",
+ "event_role": "人事任免",
+ "summary": "题补广东琼州总兵员缺，康熙以刘成龙著有劳绩，命转琼州总兵官。",
+ "people": [
+  {
+   "name": "刘成龙",
+   "role": "参领补琼州总兵官"
+  },
+  {
+   "name": "韩佐周",
+   "role": "参领拟正"
+  },
+  {
+   "name": "韩登云",
+   "role": "拟陪"
+  },
+  {
+   "name": "高登科",
+   "role": "著有劳绩官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东",
+  "琼州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10011,
+ "page_range": "243-244"
+}

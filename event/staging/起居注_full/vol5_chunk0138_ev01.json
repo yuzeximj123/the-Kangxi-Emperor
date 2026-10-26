@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "奏请将所收生巴尔虎等系何台吉所管及头目姓名数目开示，并议定厄鲁特信息时暂停收取巴尔虎及事后处置办法。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "敦柱",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "喀尔喀",
+  "克鲁伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13801,
+ "page_range": "286-287"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 32,
+ "month": 8,
+ "day_text": "十二日癸未",
+ "event_role": "朝见受贺",
+ "summary": "昌平州驻防防守御邦褚呢、参将徐登甲、同知韦国佐、知州孔香璋等来朝。",
+ "people": [
+  {
+   "name": "邦褚呢",
+   "role": "防守御"
+  },
+  {
+   "name": "徐登甲",
+   "role": "参将"
+  },
+  {
+   "name": "韦国佐",
+   "role": "同知"
+  },
+  {
+   "name": "孔香璋",
+   "role": "知州"
+  }
+ ],
+ "places": [
+  "昌平州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23922,
+ "page_range": "490-491"
+}

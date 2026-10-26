@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "初三日丙午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝言科道为朝廷耳目当陈奏，因郭翘参奏河工故特行所用，并责佛伦偏徇靳辅执拗好胜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭翘",
+   "role": "御史"
+  },
+  {
+   "name": "佛伦",
+   "role": "大臣"
+  },
+  {
+   "name": "靳辅",
+   "role": "河臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 808,
+ "page_range": "28-29"
+}

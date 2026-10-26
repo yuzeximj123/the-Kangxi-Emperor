@@ -1,0 +1,37 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "二十六日辛丑",
+ "event_role": "人事任免",
+ "summary": "马齐等奏湖广总督郭隆员缺，询问九卿石文最、喻成龙居官俱优，康熙帝命喻成龙补授湖广总督。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "郭隆",
+   "role": "湖广总督"
+  },
+  {
+   "name": "石文最",
+   "role": "候选官员"
+  },
+  {
+   "name": "喻成龙",
+   "role": "补授湖广总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5908,
+ "page_range": "129-130"
+}

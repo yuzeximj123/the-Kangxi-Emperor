@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙二十八年二月十一日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十一日己酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝亲撰祭禹陵文，并谕礼部祭以敬为主，命都御史马齐与席尔达同往省视供献礼仪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "都御史"
+  },
+  {
+   "name": "席尔达",
+   "role": "都御史"
+  }
+ ],
+ "places": [
+  "禹陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1008
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "二十八日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "云南提督赵赖奏所属官兵随征日久乞加议叙，兵部议俟事平另议，康熙帝以官兵功绩甚多，命该部再议。",
+ "people": [
+  {
+   "name": "赵赖",
+   "role": "云南提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24504,
+ "page_range": "547-548"
+}

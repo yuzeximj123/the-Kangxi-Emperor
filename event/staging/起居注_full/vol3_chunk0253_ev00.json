@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "传谕九卿等详议恢复风闻参劾贪官之例，九卿等议复称此例不可设，请照现行例行，康熙帝表示知道了。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "九卿",
+   "role": "议政官员"
+  },
+  {
+   "name": "詹事",
+   "role": "议政官员"
+  },
+  {
+   "name": "科道",
+   "role": "议政官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25300,
+ "page_range": "541-542"
+}

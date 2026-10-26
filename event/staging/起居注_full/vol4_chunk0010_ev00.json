@@ -1,0 +1,66 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕责科尔坤、佛伦等务执己见、行私排议，决定从宽免罪，并处置勒德洪、明珠等大臣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "科尔坤",
+   "role": "大臣"
+  },
+  {
+   "name": "佛伦",
+   "role": "大臣"
+  },
+  {
+   "name": "王申",
+   "role": "奏对大臣"
+  },
+  {
+   "name": "琵拜",
+   "role": "奏对大臣"
+  },
+  {
+   "name": "凯音布",
+   "role": "奏对大臣"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李之芳",
+   "role": "大臣"
+  },
+  {
+   "name": "余国柱",
+   "role": "大臣"
+  },
+  {
+   "name": "熊一满",
+   "role": "大臣"
+  },
+  {
+   "name": "葛思泰",
+   "role": "大臣"
+  },
+  {
+   "name": "石柱",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1000,
+ "page_range": "32-33"
+}

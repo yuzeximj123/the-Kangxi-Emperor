@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十二日甲子",
+ "event_role": "谕旨决策",
+ "summary": "大学士勒德洪、明珠入奏九卿会议结果，康熙帝命将停征房号银两款交户部议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5207,
+ "page_range": "147-148"
+}

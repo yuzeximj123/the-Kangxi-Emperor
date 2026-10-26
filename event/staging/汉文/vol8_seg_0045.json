@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾柒年肆月日",
+ "reign_year": 57,
+ "month": 4,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "总督宣府管理直隶诸路军务等官上奏向皇上请安，康熙朱批告知自己身体已大安并能活动，尚需人扶掖。",
+ "people": [
+  {
+   "name": "马宝",
+   "role": "内阁中书，奏折呈递者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "宣府",
+  "直隶"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己先前已大安，如今已能全动，但还需人扶掖。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 45
+}

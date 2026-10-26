@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "大学士等面奏于成龙等议宣府运米事，康熙帝命将本暂留衙门，待秋后应启奏时具奏。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "往布礼",
+   "role": "官员"
+  },
+  {
+   "name": "吴什把",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宣府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5701,
+ "page_range": "157-158"
+}

@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十九日甲戌",
+ "event_role": "司法案件",
+ "summary": "刑部拟喇嘛太监巴国用家雇工妇人张大姐杀周氏四岁子济儿凌迟处死，康熙帝改为立斩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张大姐",
+   "role": "雇工妇人"
+  },
+  {
+   "name": "巴国用",
+   "role": "喇嘛太监"
+  },
+  {
+   "name": "周氏",
+   "role": "巴国用之媳"
+  },
+  {
+   "name": "济儿",
+   "role": "周氏之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3119
+}

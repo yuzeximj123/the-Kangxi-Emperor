@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "二十四日戊午",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁侍读丁克昌员缺，拟赵英正、魏纯仁陪，康熙帝以赵英有疯症不便补用，令另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "赵英",
+   "role": "候补侍读"
+  },
+  {
+   "name": "魏纯仁",
+   "role": "主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4606,
+ "page_range": "102-103"
+}

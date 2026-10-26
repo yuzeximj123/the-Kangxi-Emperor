@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十七日丙申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论骑射不可间断，称在舟中亦日率十三皇子书写，评三皇子字学数学精、十三皇子学问有望。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "三皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "十三皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8613,
+ "page_range": "182-183"
+}

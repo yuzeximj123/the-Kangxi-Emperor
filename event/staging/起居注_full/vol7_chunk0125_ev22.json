@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "初一日丙辰",
+ "event_role": "司法案件",
+ "summary": "刑部为赌博案查尔泰拟绞监候，正白旗参领色忠等与步兵一同缉拿，康熙帝令察奏冯忠等拿获情形。",
+ "people": [
+  {
+   "name": "查尔泰",
+   "role": "案犯"
+  },
+  {
+   "name": "色忠",
+   "role": "正白旗参领"
+  },
+  {
+   "name": "冯忠",
+   "role": "参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12522,
+ "page_range": "261-262"
+}

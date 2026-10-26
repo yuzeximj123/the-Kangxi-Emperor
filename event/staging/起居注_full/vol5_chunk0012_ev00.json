@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝批评部院大臣多从翰林出身却不思翰林体面，只图科道部属肥家，不用心文章，空谈道学。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅继祖",
+   "role": "被指责者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1200,
+ "page_range": "34-35"
+}

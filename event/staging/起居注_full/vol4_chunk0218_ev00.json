@@ -1,0 +1,70 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "都察院议覆给事中苏俊参劾知县张铺改签事，吏部郎中称舒等降级调用，李天馥等销级降调。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  },
+  {
+   "name": "西喇",
+   "role": "学士"
+  },
+  {
+   "name": "傅继祖",
+   "role": "学士"
+  },
+  {
+   "name": "德珠",
+   "role": "学士"
+  },
+  {
+   "name": "戴通",
+   "role": "学士"
+  },
+  {
+   "name": "安布禄",
+   "role": "学士"
+  },
+  {
+   "name": "苏俊",
+   "role": "给事中"
+  },
+  {
+   "name": "张铺",
+   "role": "知县"
+  },
+  {
+   "name": "称舒",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "李天馥",
+   "role": "大学士"
+  },
+  {
+   "name": "彭孙通",
+   "role": "侍郎"
+  },
+  {
+   "name": "布颜图",
+   "role": "侍郎"
+  },
+  {
+   "name": "赵士鼎",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21800,
+ "page_range": "448-449"
+}

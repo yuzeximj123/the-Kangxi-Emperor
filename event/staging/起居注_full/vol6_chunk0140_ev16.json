@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "二十七日辛卯",
+ "event_role": "人事任免",
+ "summary": "步军统领凯音布请赴汤泉养病并荐穆成格代管步军统领事，康熙帝允假并令照常巡察。",
+ "people": [
+  {
+   "name": "凯音布",
+   "role": "步军统领"
+  },
+  {
+   "name": "穆成格",
+   "role": "左翼步军总尉"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14016,
+ "page_range": "290-291"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十九日己未",
+ "event_role": "司法案件",
+ "summary": "三法司议李添玉等殴死侯进等七十余人，康熙帝命李添玉即正法，其余秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李添玉",
+   "role": "罪犯"
+  },
+  {
+   "name": "侯进",
+   "role": "受害者"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21819,
+ "page_range": "493-494"
+}

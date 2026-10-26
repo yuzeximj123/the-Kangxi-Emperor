@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "二十九日甲实",
+ "event_role": "司法案件",
+ "summary": "覆请江苏巡抚吴存礼以大盗张增福等照例拟斩，康熙帝命大学士会同三法司将造意为首杀伤人命者一二人正法，余减等发黑龙江。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "张增福",
+   "role": "大盗"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江苏",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17916,
+ "page_range": "369-370"
+}

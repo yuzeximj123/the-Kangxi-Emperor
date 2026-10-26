@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官张廷枢、阿金记录。",
+ "people": [
+  {
+   "name": "张廷枢",
+   "role": "起居注官"
+  },
+  {
+   "name": "阿金",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20010,
+ "page_range": "410-411"
+}

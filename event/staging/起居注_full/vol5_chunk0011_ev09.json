@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称平阳府地方紧要宜择材优者任之，并询问黄州府知府王辅在湖广居官何如。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王辅",
+   "role": "黄州府知府"
+  }
+ ],
+ "places": [
+  "平阳府",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1109,
+ "page_range": "32-33"
+}

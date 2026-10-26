@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题大名府副将朱延柱升任员缺，开列应升镶黄旗参领马世斌等职名，康熙帝令将参将内选择记名者引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱延柱",
+   "role": "大名府副将"
+  },
+  {
+   "name": "马世斌",
+   "role": "镶黄旗参领"
+  }
+ ],
+ "places": [
+  "大名府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16203,
+ "page_range": "334-335"
+}

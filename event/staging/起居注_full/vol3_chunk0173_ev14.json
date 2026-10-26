@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "十二日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部题补监察御史满丕革职员缺，拣选工部员外郎德林图拟正、户部员外郎托代拟陪，康熙询问后命德木图补授此缺。",
+ "people": [
+  {
+   "name": "满丕",
+   "role": "监察御史"
+  },
+  {
+   "name": "德林图",
+   "role": "工部员外郎"
+  },
+  {
+   "name": "托代",
+   "role": "户部员外郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17314,
+ "page_range": "381-382"
+}

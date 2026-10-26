@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙六十一年七月初八日",
+ "reign_year": 61,
+ "month": 7,
+ "day": 8,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州地方六月雨水调匀、禾苗茂盛及米价情况，并进呈六月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "李维钧",
+   "role": "奏折署名奴才"
+  }
+ ],
+ "places": [
+  "福州",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙质疑米价为何仍贵，认为应当下降。",
+ "source_title": "蘇州織造李煦奏報蘇州雨水米價並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2995",
+ "order_index": 373
+}

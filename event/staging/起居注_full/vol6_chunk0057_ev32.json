@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 10,
+ "day_text": "十一日壬子",
+ "event_role": "朝见受贺",
+ "summary": "兴京城守尉尹泰、防御觉罗伊沙哈等来朝。",
+ "people": [
+  {
+   "name": "尹泰",
+   "role": "兴京城守尉"
+  },
+  {
+   "name": "伊沙哈",
+   "role": "防御"
+  }
+ ],
+ "places": [
+  "兴京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5732,
+ "page_range": "124-125"
+}

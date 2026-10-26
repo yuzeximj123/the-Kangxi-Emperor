@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十三日戊子",
+ "event_role": "人事任免",
+ "summary": "明珠奏盛京添设八旗鸣针官试音，七旗之人可，镶红旗声音不亮，康熙帝谕七旗拟正者补授，镶红旗另拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13816,
+ "page_range": "319-320"
+}

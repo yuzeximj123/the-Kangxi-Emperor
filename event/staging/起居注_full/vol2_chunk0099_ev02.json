@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部议叙昌兴军功，康熙帝以图海破察哈尔时给功牌太过，命将昌兴军功本发回该部再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图海",
+   "role": "将领"
+  },
+  {
+   "name": "格尔古德",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "察哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9902,
+ "page_range": "241-242"
+}

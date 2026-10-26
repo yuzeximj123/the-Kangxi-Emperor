@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "二十七日己丑",
+ "event_role": "谕旨决策",
+ "summary": "户部题两淮盐商江楚吉等请将吴承德所认常德四府补行盐课分十年纳，议不准行，康熙帝令会同户部确议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "江楚吉",
+   "role": "两淮盐商"
+  },
+  {
+   "name": "吴承德",
+   "role": "盐商"
+  }
+ ],
+ "places": [
+  "常德四府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 504,
+ "page_range": "20-21"
+}

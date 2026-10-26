@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "十三日庚辰",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝引见修撰胡任与、编修顾图河、顾悦履。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡任与",
+   "role": "修撰"
+  },
+  {
+   "name": "顾图河",
+   "role": "编修"
+  },
+  {
+   "name": "顾悦履",
+   "role": "编修"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1612,
+ "page_range": "42-43"
+}

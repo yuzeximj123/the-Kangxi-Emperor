@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "初四日乙丑",
+ "event_role": "贸易漕运",
+ "summary": "给事中张壹条奏邵伯决口粮艘难行，请截留漕粮或另雇迟运，康熙帝令交总漕桑格详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张壹",
+   "role": "给事中"
+  },
+  {
+   "name": "桑格",
+   "role": "总漕"
+  }
+ ],
+ "places": [
+  "邵伯",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15608,
+ "page_range": "322-323"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初一日已已",
+ "event_role": "人事任免",
+ "summary": "兵部题补参领洪尼喀升任员缺，康熙帝采纳明珠意见，命罗毕补授参领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "洪尼喀",
+   "role": "参领"
+  },
+  {
+   "name": "勒祁",
+   "role": "佐领"
+  },
+  {
+   "name": "罗毕",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22004,
+ "page_range": "483-484"
+}

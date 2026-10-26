@@ -1,0 +1,31 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初六日壬戌",
+ "event_role": "军务",
+ "summary": "云贵总督赵良栋参陕西总督哈占调兵运粮推诿，九卿议令回奏，康熙帝以进取云南紧要命遵前旨速运，票签另拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵良栋",
+   "role": "云贵总督"
+  },
+  {
+   "name": "哈占",
+   "role": "陕西总督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "四川",
+  "云南",
+  "保宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 108,
+ "page_range": "45-46"
+}

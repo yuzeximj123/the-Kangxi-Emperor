@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣议覆于成龙等奏运米马匹不足事，将库勒纳等送马拨供运米，不足则取宁夏绿旗马补足，奉旨依议。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  },
+  {
+   "name": "库勒纳",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21806,
+ "page_range": "446-447"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十日乙未",
+ "event_role": "人事任免",
+ "summary": "延安营参将员缺，议不准以游击王钳瑞补授，康熙帝命照该督所题补授王钳瑞。",
+ "people": [
+  {
+   "name": "王钳瑞",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "延安营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5211,
+ "page_range": "115-116"
+}

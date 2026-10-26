@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "初六日壬申",
+ "event_role": "弹劾参奏",
+ "summary": "兵科给事中赵心作参郎中刘始恢不堪任文选司，康熙帝以选司紧要、刘始恢声名亦劣，命令休致，并晓谕吏部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵心作",
+   "role": "兵科给事中"
+  },
+  {
+   "name": "刘始恢",
+   "role": "郎中"
+  },
+  {
+   "name": "宋文运",
+   "role": "先年文选司郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3218,
+ "page_range": "74-75"
+}

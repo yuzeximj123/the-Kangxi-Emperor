@@ -1,0 +1,34 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "十三日己已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝赐扎鲁特贝勒毕力克图、公毕图及泰曼班第王等旗分台吉、佐领下人等白金。",
+ "people": [
+  {
+   "name": "毕力克图",
+   "role": "扎鲁特贝勒"
+  },
+  {
+   "name": "毕图",
+   "role": "公"
+  },
+  {
+   "name": "毕得略",
+   "role": "一品台吉"
+  },
+  {
+   "name": "齐塔特",
+   "role": "公"
+  }
+ ],
+ "places": [
+  "扎鲁特",
+  "泰曼",
+  "翁牛特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20613,
+ "page_range": "422-423"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初十日成午",
+ "event_role": "人事任免",
+ "summary": "都察院题御史内升外转开列艾芳曾等，康熙帝询问汉大学士意见后命艾芳曾内升、王度昭外转。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "艾芳曾",
+   "role": "御史"
+  },
+  {
+   "name": "王度昭",
+   "role": "御史"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3005,
+ "page_range": "71-72"
+}

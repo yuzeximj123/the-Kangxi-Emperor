@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙拾壹年玖月初一日",
+ "reign_year": 11,
+ "month": 9,
+ "day": 1,
+ "event_role": "奏报灾情收成",
+ "summary": "直隶总督沈朝聘奏报今岁秋收丰稔及晚稼收获情况，并报保定等地降雨滋润二麦，认为可兆丰年。",
+ "people": [
+  {
+   "name": "沈朝聘",
+   "role": "总督直隶巡抚、兵部右侍郎兼都察院右副都御史加拾级，奏报人"
+  },
+  {
+   "name": "赫寿",
+   "role": "总督，同日另奏谢恩"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "直隶",
+  "保定郡城",
+  "清苑县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "（沈朝聘奏闻秋收）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 230
+}

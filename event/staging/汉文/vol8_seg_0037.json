@@ -1,0 +1,39 @@
+{
+ "date_raw": "康熙五十七年三月初四日",
+ "reign_year": 57,
+ "month": 3,
+ "day": 4,
+ "event_role": "收到奏折",
+ "summary": "四川巡抚年羹尧代护军统领温普赍送奏折进呈，报告荆州满兵五百名已抵打箭炉驻扎。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚革职留任效力，代赍奏折"
+  },
+  {
+   "name": "温普",
+   "role": "护军统领，带领荆州满兵驻扎打箭炉"
+  },
+  {
+   "name": "魏之辉",
+   "role": "年羹尧家人，赍奏进呈"
+  },
+  {
+   "name": "曹明",
+   "role": "年羹尧标下右营马兵，赍奏进呈"
+  }
+ ],
+ "places": [
+  "四川",
+  "荆州",
+  "打箭炉",
+  "成都"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 37
+}

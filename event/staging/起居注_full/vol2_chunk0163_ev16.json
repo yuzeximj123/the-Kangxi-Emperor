@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十八日痒卯",
+ "event_role": "司法案件",
+ "summary": "议政王大臣会议原任两广总督金光祖应革职，康熙帝命查明后给关防有无送贼再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金光祖",
+   "role": "原任广东广西总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16316,
+ "page_range": "369-370"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十七日甲申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早往太皇太后宫、皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10911,
+ "page_range": "253-254"
+}

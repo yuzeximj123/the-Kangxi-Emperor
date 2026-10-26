@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十二日甲戌",
+ "event_role": "河工水利",
+ "summary": "工部题范承勋等勘视河道，康熙帝谕河道事务重大不可迟延，依该督所奏速行修理，钱粮速拨，云梯关海口要地着总河每年遣才能官专管修理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "云梯关",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18320,
+ "page_range": "376-377"
+}

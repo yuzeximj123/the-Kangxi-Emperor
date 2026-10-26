@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述往江南阅河时择善书生监随至京赴乡试，主考汪需将试卷另放不阅且屡请展期，指其存私；又言长策学问优长家贫年老，会试不中故赐为进士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汪需",
+   "role": "主考"
+  },
+  {
+   "name": "长策",
+   "role": "举人"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10104,
+ "page_range": "213-214"
+}

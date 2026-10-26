@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十一年十月初三日",
+ "reign_year": 51,
+ "month": 10,
+ "day": 3,
+ "event_role": "贸易漕运",
+ "summary": "苏州织造李煦奏报旧任盐税钱粮已征完、商欠分年带征及捐补情况，并因接理淮鹺新职不能即日进京，拟明春入觐。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "淮鹺"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "苏州织造李煦奏为旧任钱粮已征完又接新任摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 126
+}

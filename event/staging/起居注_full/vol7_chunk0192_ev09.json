@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙责姚勋犯双罪而刑部未申明，议为缓决殊为悖谬，命忽论刑部大臣。",
+ "people": [
+  {
+   "name": "姚勋",
+   "role": "案犯"
+  },
+  {
+   "name": "姚俊寿",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19209,
+ "page_range": "395-396"
+}

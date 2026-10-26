@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "二十四日",
+ "event_role": "朝见受贺",
+ "summary": "云南巡抚郭玉赴任陛辞，面请训旨，康熙帝谕以云南极边、当小心爱恤兵民不得生事，郭玉奏请具折差家人奏事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭玉",
+   "role": "云南巡抚"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10609,
+ "page_range": "223-224"
+}

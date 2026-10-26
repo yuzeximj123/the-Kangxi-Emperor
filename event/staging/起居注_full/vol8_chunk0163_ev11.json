@@ -1,0 +1,22 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "三十日丙辰",
+ "event_role": "司法案件",
+ "summary": "刑部题改死关音保之鄂奇尔照例正法，康熙命暂停处决，发颜布军前效力，视效力好坏再奏。",
+ "people": [
+  {
+   "name": "鄂奇尔",
+   "role": "罪犯"
+  },
+  {
+   "name": "颜布",
+   "role": "护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16311,
+ "page_range": "337-338"
+}

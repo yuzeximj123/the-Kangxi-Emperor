@@ -1,0 +1,36 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "初六日庚辰",
+ "event_role": "司法案件",
+ "summary": "礼部题山西民杨俊德讦告学道李观光受贿改榜，康熙帝命差贤能司官严审，并强调考试关系人材。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨俊德",
+   "role": "山西民"
+  },
+  {
+   "name": "杨玉壁",
+   "role": "杨俊德之子"
+  },
+  {
+   "name": "李观光",
+   "role": "学道"
+  },
+  {
+   "name": "王如绅",
+   "role": "被改填者"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22412,
+ "page_range": "460-461"
+}

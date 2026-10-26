@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十五日庚子",
+ "event_role": "谕旨决策",
+ "summary": "刑部等议旗下人出境干求处分则例，康熙帝从明珠议准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2111,
+ "page_range": "85-86"
+}

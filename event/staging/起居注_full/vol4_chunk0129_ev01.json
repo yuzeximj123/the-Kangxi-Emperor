@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 9,
+ "day_text": "初一日戊子",
+ "event_role": "谕旨决策",
+ "summary": "户部题盛京预给出征官兵钱粮事，康熙帝谕免其抵扣，照常支给，以示爱养将士之意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "红丰托",
+   "role": "奉天将军宗室公"
+  },
+  {
+   "name": "阿喇密",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "线克托",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12901,
+ "page_range": "270-271"
+}

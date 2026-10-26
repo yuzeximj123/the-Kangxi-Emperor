@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "十四日辛亥",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝御景山内前殿赐浙江荆州总兵官陈世凯、江西南闵总兵官许盛食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈世凯",
+   "role": "浙江荆州总兵官"
+  },
+  {
+   "name": "许盛",
+   "role": "江西南闵总兵官"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24513,
+ "page_range": "533-534"
+}

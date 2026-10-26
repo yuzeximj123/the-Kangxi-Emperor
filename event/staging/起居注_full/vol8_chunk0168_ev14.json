@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "十八日",
+ "event_role": "谕旨决策",
+ "summary": "吏部覆差往大同管捐纳郎中厄尔德黑等请照五十一年例开捐，康熙帝以烦琐发还再议。",
+ "people": [
+  {
+   "name": "厄尔德黑",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16814,
+ "page_range": "347-348"
+}

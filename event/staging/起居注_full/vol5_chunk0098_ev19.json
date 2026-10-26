@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 1,
+ "day_text": "二十六日癸未",
+ "event_role": "朝见受贺",
+ "summary": "赐朝鲜国王李入及进贡正使礼曹判书李世、副使户曹参判洪受畴等鞍马、银、缎等物有差。",
+ "people": [
+  {
+   "name": "李入",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "李世",
+   "role": "进贡正使礼曹判书"
+  },
+  {
+   "name": "洪受畴",
+   "role": "副使户曹参判"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9819,
+ "page_range": "206-207"
+}

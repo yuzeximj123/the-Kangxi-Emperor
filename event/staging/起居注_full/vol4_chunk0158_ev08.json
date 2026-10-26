@@ -1,0 +1,33 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "二十日癸西",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝批评卫既齐轻信邵远平江浙人尽奸诈之语而保其为贤，指出邵远平之言荒谬，贤才不择地而生。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卫既齐",
+   "role": "被批评官员"
+  },
+  {
+   "name": "邵远平",
+   "role": "被批评官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江浙",
+  "徽州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15808,
+ "page_range": "328-329"
+}

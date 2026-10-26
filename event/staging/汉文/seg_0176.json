@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙肆拾陆年陆月日",
+ "reign_year": 46,
+ "month": 6,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "李煦在苏州恭请皇帝万安，进献湖笔小菜糖菓，并奏报苏州六月得雨情形。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "江南",
+  "淮扬",
+  "江浙"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示南巡归来即闻江南淮扬地方文武官员失职，近日又闻江浙少雨，担心繁文缛节过多。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "244",
+ "source_title": "苏州织造李煦奏请万安摺（康熙四十六年六月）",
+ "order_index": 176
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "初十日辛未",
+ "event_role": "议政听政",
+ "summary": "理藩院尚书阿木瑚朗、刑部侍郎宜昌阿自京城来东宫内殿奏事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿木瑚朗",
+   "role": "理藩院尚书"
+  },
+  {
+   "name": "宜昌阿",
+   "role": "刑部侍郎"
+  }
+ ],
+ "places": [
+  "东宫",
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21103,
+ "page_range": "479-480"
+}

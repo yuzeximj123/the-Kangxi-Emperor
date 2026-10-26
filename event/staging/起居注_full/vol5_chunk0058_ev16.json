@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "十二日甲辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝阅原任福建巡海道殉难追赠工部右侍郎陈启泰等碑文，以其殉节惨伤、碑文未尽，命查明另撰。",
+ "people": [
+  {
+   "name": "陈启泰",
+   "role": "原任福建巡海道、追赠工部右侍郎"
+  },
+  {
+   "name": "陈放器",
+   "role": "陈启泰之子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5816,
+ "page_range": "126-127"
+}

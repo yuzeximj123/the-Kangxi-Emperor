@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十四日王申",
+ "event_role": "谕旨决策",
+ "summary": "马齐奏户科给事中王杰条奏请去钱粮丝忽零数事，康熙帝称钱粮丝毫有关，酌减则可，三本无用发还，并传谕科道仍着条奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王杰",
+   "role": "户科给事中"
+  },
+  {
+   "name": "章振坦",
+   "role": "礼科给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3215,
+ "page_range": "75-76"
+}

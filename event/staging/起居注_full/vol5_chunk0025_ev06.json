@@ -1,0 +1,33 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初十日丙子",
+ "event_role": "人事任免",
+ "summary": "兵部题福建福宁总兵官许靖国员缺，康熙帝命将曾召见的副将王友臣升补总兵官。",
+ "people": [
+  {
+   "name": "许靖国",
+   "role": "福建福宁总兵官"
+  },
+  {
+   "name": "王友臣",
+   "role": "副将"
+  },
+  {
+   "name": "管源忠",
+   "role": "参领"
+  },
+  {
+   "name": "陈寿",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "福建",
+  "福宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2506,
+ "page_range": "60-61"
+}

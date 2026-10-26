@@ -1,0 +1,34 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "谕旨将车臣汗族祖及叔辈车臣济农布登达赖济农阿南达额尔得尼济农布达扎布、伊尔登诺颜达理、伊尔登济农盆苏克等去济农之名，皆为固山贝子。",
+ "people": [
+  {
+   "name": "布登达赖",
+   "role": "车臣济农"
+  },
+  {
+   "name": "阿南达",
+   "role": "额尔得尼济农"
+  },
+  {
+   "name": "布达扎布",
+   "role": "济农"
+  },
+  {
+   "name": "达理",
+   "role": "伊尔登诺颜"
+  },
+  {
+   "name": "盆苏克",
+   "role": "伊尔登济农"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14913,
+ "page_range": "310-311"
+}

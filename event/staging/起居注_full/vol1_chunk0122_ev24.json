@@ -1,0 +1,21 @@
+{
+ "reign_year": 15,
+ "month": 10,
+ "day_text": "初一日庚成",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝因重冬射放太庙致祭，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12224,
+ "page_range": "301-302"
+}

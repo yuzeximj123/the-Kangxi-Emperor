@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初十日戊实",
+ "event_role": "军务",
+ "summary": "福建水师提督施琅题报郑克塽令属下剃头缴册印投诚，康熙帝以其纳土投诚可嘉，交议政王等议奏。",
+ "people": [
+  {
+   "name": "施琅",
+   "role": "福建水师提督"
+  },
+  {
+   "name": "郑克塽",
+   "role": "投诚者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "海岛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22318,
+ "page_range": "489-490"
+}

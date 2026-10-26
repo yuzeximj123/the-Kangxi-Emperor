@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙伍拾壹年陆月",
+ "reign_year": 51,
+ "month": 6,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "广州将军会源忠遣家人赴热河行在代请圣安，并奏报广东雨水调匀、禾稻收成及米价、地方安靖情形，另进呈皇太子方物。",
+ "people": [
+  {
+   "name": "会源忠",
+   "role": "镇守广州等处将军，奏报人"
+  },
+  {
+   "name": "张得俊",
+   "role": "会源忠家人，奉命驰赴行在代请圣安"
+  }
+ ],
+ "places": [
+  "广州",
+  "广东",
+  "热河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，表示自己安好。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 92
+}

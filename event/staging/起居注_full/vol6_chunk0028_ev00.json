@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝进酒奏乐，令左右翼王以下及喀尔喀台吉等近御座亲赐酒，其余台吉寨桑由内大臣视饮，内大臣等由侍卫传饮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董罗布",
+   "role": "左右翼王"
+  },
+  {
+   "name": "策旺渣布",
+   "role": "左右翼王"
+  },
+  {
+   "name": "扎西巴图尔",
+   "role": "呼户诺尔台吉"
+  },
+  {
+   "name": "纳木扎尔额尔德尼盆苏克",
+   "role": "土谢图带青"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2800,
+ "page_range": "66-67"
+}

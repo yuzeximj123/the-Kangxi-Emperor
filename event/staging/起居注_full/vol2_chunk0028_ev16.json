@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十二日丁酉",
+ "event_role": "贸易漕运",
+ "summary": "给事中俄伦条陈运送浅粮应令道员押运，康熙帝允行，命遣大臣一员察勘通州以南水浅之处挑滩，并传谕工部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俄伦",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2816,
+ "page_range": "99-100"
+}

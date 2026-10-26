@@ -1,0 +1,24 @@
+{
+ "reign_year": 16,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命在城内拨给善书者房屋，停其升转，在内侍从几年后酌量优用，并令选高士奇等善书者一二人同在内侍从，交衙门满汉大臣会议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高士奇",
+   "role": "善书者"
+  }
+ ],
+ "places": [
+  "城内"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14800,
+ "page_range": "353-354"
+}

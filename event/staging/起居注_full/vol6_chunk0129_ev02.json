@@ -1,0 +1,35 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "山西巡抚噶礼题请以文水县知县罗纶调补阳曲、临汾知县员缺，康熙帝命秦常仍留临汾，罗纶调补阳曲。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "罗纶",
+   "role": "文水县知县"
+  },
+  {
+   "name": "秦常",
+   "role": "临汾知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "阳曲",
+  "临汾",
+  "文水县",
+  "香河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12902,
+ "page_range": "268-269"
+}

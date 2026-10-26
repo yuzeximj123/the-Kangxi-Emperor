@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "初二日癸北",
+ "event_role": "其他",
+ "summary": "赏赐江南将军瓦代、杨捷，镇江将军杨凤翔，杭州将军马哈达上用绵缎袍各一领。",
+ "people": [
+  {
+   "name": "瓦代",
+   "role": "江南将军"
+  },
+  {
+   "name": "杨捷",
+   "role": "江南将军"
+  },
+  {
+   "name": "杨凤翔",
+   "role": "镇江将军"
+  },
+  {
+   "name": "马哈达",
+   "role": "杭州将军"
+  }
+ ],
+ "places": [
+  "江南",
+  "镇江",
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5607,
+ "page_range": "147-148"
+}

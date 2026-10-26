@@ -1,0 +1,33 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "展州、永兴阵亡诸将丧至，康熙帝遣内大臣公路布喇等四十七员各携茶酒致祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "公路布喇",
+   "role": "内大臣"
+  },
+  {
+   "name": "伊礼布",
+   "role": "参赞军务都统"
+  },
+  {
+   "name": "哈克山",
+   "role": "参赞军务护军统领"
+  }
+ ],
+ "places": [
+  "展州",
+  "永兴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20204,
+ "page_range": "461-462"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十七日己卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自舟登陆，前往巡视郭家坞村新修堤岸，驻跸永清县北净垒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "郭家坞村",
+  "永清县",
+  "北净垒"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 810,
+ "page_range": "27-28"
+}

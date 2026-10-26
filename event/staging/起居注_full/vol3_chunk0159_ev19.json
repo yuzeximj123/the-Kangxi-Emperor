@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "十一日甲子",
+ "event_role": "司法案件",
+ "summary": "刑部题通州仓监督桑格打死看守兵丁，侍郎马族驴不行参奏反为营求消释，康熙帝命将马族驴革职，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "通州仓监督"
+  },
+  {
+   "name": "马族驴",
+   "role": "仓场侍郎"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15919,
+ "page_range": "353-354"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "霸州地方紧要，沈朝聘员缺，康熙帝命交与巡抚郭世隆选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "员缺官员"
+  },
+  {
+   "name": "郭世隆",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1801,
+ "page_range": "46-47"
+}

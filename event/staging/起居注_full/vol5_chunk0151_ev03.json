@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "误班次章京席岱等五人议鞭责，康熙帝命宽免鞭责，发黑龙江披甲行走。",
+ "people": [
+  {
+   "name": "席岱",
+   "role": "章京"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15103,
+ "page_range": "312-313"
+}

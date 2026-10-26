@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "二十一日全未",
+ "event_role": "人事任免",
+ "summary": "覆请兵部黑龙江将军宗室杨福员缺，以镶黄旗满洲副都统寿志等开列，康熙命问议政大臣。",
+ "people": [
+  {
+   "name": "宗室杨福",
+   "role": "黑龙江将军/出缺"
+  },
+  {
+   "name": "寿志",
+   "role": "镶黄旗满洲副都统"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12506,
+ "page_range": "261-262"
+}

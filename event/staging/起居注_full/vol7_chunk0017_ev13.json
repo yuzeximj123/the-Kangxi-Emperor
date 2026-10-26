@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初三日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论湖广地方辽阔、兵丁骄傲难辖，命大臣留意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭翘",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1713,
+ "page_range": "45-46"
+}

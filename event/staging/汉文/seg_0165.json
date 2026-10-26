@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十六年三月初二日",
+ "reign_year": 46,
+ "month": 3,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "四川提督岳昇龙奏谢康熙帝赏赐麞鹿尾、燻兔、麞野鸡等食物，表示感激并图报恩。",
+ "people": [
+  {
+   "name": "岳昇龙",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "四川",
+  "喀喇河屯"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "223",
+ "source_title": "四川提督岳昇龙奏谢赐食物摺",
+ "order_index": 165
+}

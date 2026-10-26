@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "十四日壬寅",
+ "event_role": "奏报地方情形",
+ "summary": "大学士马齐奏遵旨查杭关、龙江等处关差钱粮亏空，查得杭关监督圣保三任内亏空九千余两，其余并无亏空。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "圣保",
+   "role": "杭关监督"
+  }
+ ],
+ "places": [
+  "杭关",
+  "龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14728,
+ "page_range": "305-306"
+}

@@ -1,0 +1,31 @@
+{
+ "reign_year": 16,
+ "month": 4,
+ "day_text": "十五日辛西",
+ "event_role": "皇帝行止",
+ "summary": "卯时康熙帝向太皇太后、皇太后问安后出午门、正阳门，进南郊大红门，至霸州驻跸城南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇祖母"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "南郊大红门",
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13502,
+ "page_range": "327-328"
+}

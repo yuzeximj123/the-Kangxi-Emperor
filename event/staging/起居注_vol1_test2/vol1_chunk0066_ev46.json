@@ -1,0 +1,32 @@
+{
+ "reign_year": 13,
+ "month": 2,
+ "day_text": "十四日戊申",
+ "event_role": "皇帝行止",
+ "summary": "未时，康熙帝御乾清门，赐江西提督赵国作、河南提督王永誉、太原总兵等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵国作",
+   "role": "江西提督"
+  },
+  {
+   "name": "王永誉",
+   "role": "河南提督"
+  },
+  {
+   "name": "太原总兵",
+   "role": "太原总兵"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6646,
+ "page_range": "189-190"
+}

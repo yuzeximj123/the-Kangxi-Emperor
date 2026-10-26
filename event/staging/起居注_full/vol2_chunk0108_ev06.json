@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "二十一日己巳",
+ "event_role": "人事任免",
+ "summary": "吏部题补湖广总督员缺，康熙帝决定不设江西总督，调董卫国补湖广总督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董卫国",
+   "role": "江西总督"
+  }
+ ],
+ "places": [
+  "湖广",
+  "江西",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10806,
+ "page_range": "259-260"
+}

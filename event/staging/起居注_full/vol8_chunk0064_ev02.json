@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "松柱奏苏通阿系哈山保举，康熙帝命查明哈山从何处保举、如何补用之处具奏。",
+ "people": [
+  {
+   "name": "苏通阿",
+   "role": "案犯"
+  },
+  {
+   "name": "哈山",
+   "role": "保举人"
+  },
+  {
+   "name": "松柱",
+   "role": "奏事官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6402,
+ "page_range": "139-140"
+}

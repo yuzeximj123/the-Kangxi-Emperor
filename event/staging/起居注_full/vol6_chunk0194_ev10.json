@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "初十日",
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官把禾、满保记录。",
+ "people": [
+  {
+   "name": "把禾",
+   "role": "起居注官"
+  },
+  {
+   "name": "满保",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19410,
+ "page_range": "398-399"
+}

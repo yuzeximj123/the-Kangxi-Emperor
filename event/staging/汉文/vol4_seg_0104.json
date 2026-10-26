@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十一年九月初六日",
+ "reign_year": 51,
+ "month": 9,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏谢康熙允其代管盐差一年，以清还曹寅任内亏欠钱粮，并称将余银交曹寅之子连生收领清欠。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏折具奏人，代管盐差"
+  },
+  {
+   "name": "曹寅",
+   "role": "原任官员，任内钱粮亏欠"
+  },
+  {
+   "name": "连生",
+   "role": "曹寅之子，收领曹寅应得余银清还欠项"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示阅知。",
+ "source_title": "蘇州織造李煦奏謝淮代管鹽差一年償還虧欠項摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1893",
+ "order_index": 104
+}

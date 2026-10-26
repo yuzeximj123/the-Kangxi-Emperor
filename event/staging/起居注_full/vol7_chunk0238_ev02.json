@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "兵部覆兵科给事中常绅参广东琼州总兵官何国云自陈疏隐匿过犯，议革职，康熙帝以所议不当，本发还再议。",
+ "people": [
+  {
+   "name": "常绅",
+   "role": "兵科给事中"
+  },
+  {
+   "name": "何国云",
+   "role": "广东琼州总兵官"
+  },
+  {
+   "name": "赵弘赫",
+   "role": "前直隶巡抚"
+  }
+ ],
+ "places": [
+  "广东琼州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23802,
+ "page_range": "487-488"
+}

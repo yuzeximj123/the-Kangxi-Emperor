@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙及裕亲王、大阿哥、皇太子依次递射，俱中三四矢。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "裕亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4706,
+ "page_range": "106-107"
+}

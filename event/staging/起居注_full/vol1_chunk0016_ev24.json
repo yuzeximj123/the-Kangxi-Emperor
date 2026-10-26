@@ -1,0 +1,26 @@
+{
+ "reign_year": 11,
+ "month": 6,
+ "day_text": "二十日甲午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝与傅达礼论朋友切磋之道及理学，傅达礼奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1624,
+ "page_range": "89-90"
+}

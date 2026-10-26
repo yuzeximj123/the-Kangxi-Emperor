@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙在李光地请安奏折上批问福建饥荒民变散贴之事，李光地奏称贼盗之处与臣等所居甚近，民皆坚守城集。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17200,
+ "page_range": "355-356"
+}

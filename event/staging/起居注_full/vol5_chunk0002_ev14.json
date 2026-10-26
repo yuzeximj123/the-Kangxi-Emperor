@@ -1,0 +1,36 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责九卿议覆于成龙五款因闻责备而议革职、泛泛未逐款辨明，并斥王骘、董讷、李应廌等与于成龙相党。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "王骘",
+   "role": "官员"
+  },
+  {
+   "name": "董讷",
+   "role": "官员"
+  },
+  {
+   "name": "李应廌",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 214,
+ "page_range": "14-15"
+}

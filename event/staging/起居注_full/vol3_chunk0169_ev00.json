@@ -1,0 +1,20 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "二十二日乙已",
+ "event_role": "议政听政",
+ "summary": "部院各衙门无本章启奏，康熙帝不御瀛台勤政殿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀛台勤政殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16900,
+ "page_range": "373-374"
+}

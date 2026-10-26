@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "二十四日乙效",
+ "event_role": "人事任免",
+ "summary": "明珠等奏问钦天监官员，称杨为梓等若渐次升补方肯勤学，康熙帝以天文大略人人可学，命拟正杨为梓升补工部主事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杨为梓",
+   "role": "拟正秋官正"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6912,
+ "page_range": "181-182"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士松柱奏长芦盐商年例银十八万两事，请每年捐解二万两补足正项并修密云城。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "赵弘党",
+   "role": "题奏官员"
+  }
+ ],
+ "places": [
+  "长芦",
+  "密云城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10003,
+ "page_range": "211-212"
+}

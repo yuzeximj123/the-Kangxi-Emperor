@@ -1,0 +1,33 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令捐纳中不合例者不准捐赎，原捐银两照数发还，所捐马匹惟河南堪用，连捐超升者概不准行，交议政大臣九卿另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "布达理",
+   "role": "原任学士"
+  },
+  {
+   "name": "布颜努",
+   "role": "管河南米车官"
+  }
+ ],
+ "places": [
+  "河南",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15800,
+ "page_range": "326-327"
+}

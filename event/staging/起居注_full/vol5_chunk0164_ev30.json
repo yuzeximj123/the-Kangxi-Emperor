@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "十四日",
+ "event_role": "军务",
+ "summary": "侍卫关保传谕，将军萨布素带领善射兵丁二十名记从，其余官员人役马匹骆驼俱令赴右卫喂养。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "萨布素",
+   "role": "将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16430,
+ "page_range": "338-339"
+}

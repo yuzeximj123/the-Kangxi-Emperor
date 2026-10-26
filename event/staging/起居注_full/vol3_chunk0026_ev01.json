@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补都察院副都御史马世济升任员缺，开列宗人府府丞李廷松等，康熙帝命开其次应升者来看。",
+ "people": [
+  {
+   "name": "马世济",
+   "role": "都察院副都御史"
+  },
+  {
+   "name": "李廷松",
+   "role": "宗人府府丞"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2601,
+ "page_range": "87-88"
+}

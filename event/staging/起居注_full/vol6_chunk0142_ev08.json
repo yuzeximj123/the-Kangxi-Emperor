@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "康熙帝以修筑永定河夫役多需米谷恐价腾贵，令户部选贤能司官截留山东、河南漕米二万石于信安、柳贫平粜，并令内务府查明附近屯庄米石。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "永定河",
+  "山东",
+  "河南",
+  "信安",
+  "柳贫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14208,
+ "page_range": "294-295"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "百姓向康熙帝进献双穗嘉禾，称连年五谷丰熟，感谢皇上恩德。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "侍郎"
+  },
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  },
+  {
+   "name": "西安",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5300,
+ "page_range": "118-119"
+}

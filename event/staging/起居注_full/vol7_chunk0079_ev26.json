@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "未时",
+ "event_role": "谕旨决策",
+ "summary": "马齐奏查赈济山东饥民原由及张鹏翮折子，康熙帝斥张鹏翮动用常平仓谷赈济掠取名誉，令其抵偿。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河工人员，被斥"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7926,
+ "page_range": "169-170"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命一等侍卫吴丹传谕福建总督范承谟，称其素有贤声，福建边疆重地海氛未靖，令其益加勉励以副简任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴丹",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "范承谟",
+   "role": "福建总督"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5000,
+ "page_range": "157-158"
+}

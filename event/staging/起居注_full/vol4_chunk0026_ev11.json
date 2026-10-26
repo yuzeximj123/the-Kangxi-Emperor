@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "十七日己未",
+ "event_role": "人事任免",
+ "summary": "吏部题奉天府府尹董秉忠升任员缺，拟以大理寺少卿周之麟拟正、左通政李过拟陪，康熙帝以奉天地方紧要命将汉军补授。",
+ "people": [
+  {
+   "name": "董秉忠",
+   "role": "奉天府府尹"
+  },
+  {
+   "name": "周之麟",
+   "role": "大理寺少卿"
+  },
+  {
+   "name": "李过",
+   "role": "左通政"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2611,
+ "page_range": "64-65"
+}

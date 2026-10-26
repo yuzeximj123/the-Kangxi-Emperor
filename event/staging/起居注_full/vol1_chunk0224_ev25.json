@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十八日戊子",
+ "event_role": "人事任免",
+ "summary": "吏部题补本部郎中，康熙帝以金放祥谨慎通晓文义，命补郎中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "金放祥",
+   "role": "侍读"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22425,
+ "page_range": "505-506"
+}

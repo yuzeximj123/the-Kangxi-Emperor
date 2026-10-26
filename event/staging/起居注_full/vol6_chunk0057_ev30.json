@@ -1,0 +1,20 @@
+{
+ "reign_year": 37,
+ "month": 10,
+ "day_text": "初十日辛亥",
+ "event_role": "朝见受贺",
+ "summary": "恒格关口守御纳尔特等来朝。",
+ "people": [
+  {
+   "name": "纳尔特",
+   "role": "恒格关口守御"
+  }
+ ],
+ "places": [
+  "恒格关口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5730,
+ "page_range": "124-125"
+}

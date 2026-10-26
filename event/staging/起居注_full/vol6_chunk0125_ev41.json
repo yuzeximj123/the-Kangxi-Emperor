@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "二十九日全效",
+ "event_role": "朝见受贺",
+ "summary": "遵化营游击郝伟等、丰润营守备许泉等前来朝见康熙帝。",
+ "people": [
+  {
+   "name": "郝伟",
+   "role": "遵化营游击"
+  },
+  {
+   "name": "许泉",
+   "role": "丰润营守备"
+  }
+ ],
+ "places": [
+  "遵化营",
+  "丰润营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12541,
+ "page_range": "260-261"
+}

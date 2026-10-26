@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十三日甲寅",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝出行宫，率皇太子、诸皇子及善射侍郎等射，发矢皆中，继令固原提标官兵射毕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "渭南县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8015,
+ "page_range": "171-172"
+}

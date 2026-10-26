@@ -1,0 +1,29 @@
+{
+ "reign_year": 27,
+ "month": 7,
+ "day_text": "十五日乙西",
+ "event_role": "谕旨决策",
+ "summary": "江南江西总督傅腊塔奏请训谕，康熙帝谕其洁己行事，照于成龙所行，并抚恤官兵。",
+ "people": [
+  {
+   "name": "傅腊塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "前任江南总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3518,
+ "page_range": "82-83"
+}

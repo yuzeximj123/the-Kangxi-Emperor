@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十三日丙子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕麻尔图等乘此行查看沿途麦实及徐州等处饥荒情状，一并速行奏报。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "麻尔图",
+   "role": "内阁学士"
+  },
+  {
+   "name": "席特库",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [
+  "徐州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16307,
+ "page_range": "361-362"
+}

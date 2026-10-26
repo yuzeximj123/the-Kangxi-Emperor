@@ -1,0 +1,33 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "初五日辛亥",
+ "event_role": "人事任免",
+ "summary": "山东布政使员缺，九卿议广西按察使鲁超居官善、候补按察使刘频运粮有劳绩，康熙命鲁超升补布政使。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "鲁超",
+   "role": "广西按察使"
+  },
+  {
+   "name": "刘频",
+   "role": "候补按察使"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2412,
+ "page_range": "58-59"
+}

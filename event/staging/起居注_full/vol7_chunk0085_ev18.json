@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十四日乙酉",
+ "event_role": "人事任免",
+ "summary": "陕西陇州知州员缺，康熙命履沂补授。",
+ "people": [
+  {
+   "name": "履沂",
+   "role": "知州"
+  }
+ ],
+ "places": [
+  "陇州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8518,
+ "page_range": "181-182"
+}

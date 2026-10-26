@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十四日成申",
+ "event_role": "人事任免",
+ "summary": "吏部题补翰林院学士常书解任员缺，康熙帝谕翰林学士职任最重，须学行兼优，命将库勒纳、葛思泰及别用者公同酌议来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "尹泰",
+   "role": "詹事"
+  },
+  {
+   "name": "库勒纳",
+   "role": "侍郎"
+  },
+  {
+   "name": "葛思泰",
+   "role": "通政使"
+  },
+  {
+   "name": "喇萨里",
+   "role": "前学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15604,
+ "page_range": "347-348"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 14,
+ "month": 5,
+ "day_text": "初三日辛西",
+ "event_role": "祭祀典礼",
+ "summary": "以仁孝皇后周年致祭毕，康熙帝自巩华城回。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "仁孝皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [
+  "巩华城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9033,
+ "page_range": "237-238"
+}

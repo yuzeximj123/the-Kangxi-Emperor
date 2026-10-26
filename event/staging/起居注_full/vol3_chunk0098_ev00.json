@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "给事中费扬古参奏任辰旦妄奏不合及条陈错误，任辰旦自行认罪，康熙命不必治罪，批知道了。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "给事中"
+  },
+  {
+   "name": "任辰旦",
+   "role": "被参官员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9800,
+ "page_range": "231-232"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "初九日甲申",
+ "event_role": "人事任免",
+ "summary": "理藩院遵旨以吏部侍郎常寿等议叙，御史绰奇等议各加一级遇缺即用，康熙帝以人太多改各加三级。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "绰奇",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5617,
+ "page_range": "123-124"
+}

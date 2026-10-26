@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十八日乙刻",
+ "event_role": "人事任免",
+ "summary": "康熙帝以署前锋统领达克斯喀办事平常、前锋统领硕代军前获罪多，命俱解任，员缺另补，传谕兵部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达克斯喀",
+   "role": "署前锋统领"
+  },
+  {
+   "name": "硕代",
+   "role": "前锋统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25103,
+ "page_range": "559-560"
+}

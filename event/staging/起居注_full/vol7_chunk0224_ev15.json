@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "二十六日戊寅",
+ "event_role": "司法案件",
+ "summary": "刑部覆直隶巡抚赵弘党所题郝氏砍死其夫孙强一案拟凌迟，康熙帝以孙强不孝恶劣改郝氏为应绞，命九卿等会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "孙强",
+   "role": "死者"
+  },
+  {
+   "name": "郝氏",
+   "role": "罪犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22415,
+ "page_range": "459-460"
+}

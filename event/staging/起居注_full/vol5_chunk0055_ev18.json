@@ -1,0 +1,36 @@
+{
+ "reign_year": 34,
+ "month": 1,
+ "day_text": "二十三日乙西",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园澹宁居听政，部院官员面奏时谕兵部尚书索诺和等询问绿旗兵劳苦及兵部私用印信文移事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索诺和",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "朱都纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "马尔汉",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "组色",
+   "role": "兵部郎中"
+  }
+ ],
+ "places": [
+  "畅春园澹宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5518,
+ "page_range": "120-121"
+}

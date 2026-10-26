@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "采育防守御常寿等、守备杨洪等来朝。",
+ "people": [
+  {
+   "name": "常寿",
+   "role": "采育防守御"
+  },
+  {
+   "name": "杨洪",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "采育"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8909,
+ "page_range": "189-190"
+}

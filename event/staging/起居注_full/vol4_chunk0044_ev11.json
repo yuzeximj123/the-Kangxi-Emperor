@@ -1,0 +1,21 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "二十二日辛酉",
+ "event_role": "祭祀典礼",
+ "summary": "大行太皇太后升祔太庙奉先殿，康熙帝具礼服出宫，行捧请神牌、三跪九叩等礼，读祝致祭毕还宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙",
+  "奉先殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4411,
+ "page_range": "100-101"
+}

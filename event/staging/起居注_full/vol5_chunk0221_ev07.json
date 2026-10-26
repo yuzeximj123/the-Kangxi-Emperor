@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十三日吴印",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸黄河西岸，遣头湾亲近侍卫关保传谕议政大臣等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  }
+ ],
+ "places": [
+  "黄河西岸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22107,
+ "page_range": "452-453"
+}

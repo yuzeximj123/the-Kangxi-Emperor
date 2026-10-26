@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "初八日甲申",
+ "event_role": "司法案件",
+ "summary": "刑部题将强盗阿领等拟立决，康熙帝指出该抚所奏未详、前后矛盾，失主前供二三百人今仅二十六人，明系副勒。",
+ "people": [
+  {
+   "name": "阿领",
+   "role": "强盗"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4123,
+ "page_range": "93-94"
+}

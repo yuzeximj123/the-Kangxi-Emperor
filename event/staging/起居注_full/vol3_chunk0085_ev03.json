@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十八日戊子",
+ "event_role": "人事任免",
+ "summary": "吏部题国子监司业拜山随旗上朝员缺，拟刑部员外郎尼雅汉为正、兵部员外郎达哈塔为陪，康熙帝命九卿、詹事、科道会推具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "拜山",
+   "role": "国子监司业"
+  },
+  {
+   "name": "尼雅汉",
+   "role": "刑部员外郎"
+  },
+  {
+   "name": "达哈塔",
+   "role": "兵部员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8503,
+ "page_range": "205-206"
+}

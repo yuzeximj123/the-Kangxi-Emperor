@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": "十八日壬戌",
+ "event_role": "人事任免",
+ "summary": "兵部题正红旗汉军都统臧延凤病故员缺，康熙帝命王永誉补授都统。",
+ "people": [
+  {
+   "name": "臧延凤",
+   "role": "正红旗汉军都统"
+  },
+  {
+   "name": "王永誉",
+   "role": "补授都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25621,
+ "page_range": "547-548"
+}

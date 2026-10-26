@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十四日甲实",
+ "event_role": "议政听政",
+ "summary": "康熙帝驻跸行宫，议御史卫执蒲请用船从大江运粮至汉中事，认为似属可行，命再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "卫执蒲",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "汉中",
+  "陕西",
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21708,
+ "page_range": "491-492"
+}

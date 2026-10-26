@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十八日癸未",
+ "event_role": "人事任免",
+ "summary": "吏部题通政司升任通政使喇都虎员缺，康熙帝命将苏黑补授通政使，以励廉善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇都虎",
+   "role": "通政使"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "詹事府詹事"
+  },
+  {
+   "name": "苏黑",
+   "role": "吏部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2808,
+ "page_range": "91-92"
+}

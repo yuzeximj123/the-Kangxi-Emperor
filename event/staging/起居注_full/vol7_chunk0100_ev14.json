@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "十七日乙亥",
+ "event_role": "谕旨决策",
+ "summary": "大学士马齐等传奏请过明日再斋戒，康熙帝以诞日不杀生不设宴已二十年，命不必再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "白沙孜",
+   "role": "官员"
+  },
+  {
+   "name": "来保",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10014,
+ "page_range": "211-212"
+}

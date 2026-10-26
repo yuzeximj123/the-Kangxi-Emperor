@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆奏江宁副都统禅布题大小子殴辱开户本主一案，援南巡赦旨议免死，康熙帝令止免死仍发往黑龙江。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "禅布",
+   "role": "江宁副都统"
+  },
+  {
+   "name": "大小子",
+   "role": "犯人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10003,
+ "page_range": "210-211"
+}

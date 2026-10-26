@@ -1,0 +1,34 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述曹寅、李网亏欠盐课一百八十余万两，李陈常赔完亏欠并保全其家产，谕令李陈常巡视两淮盐课一年。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "盐差"
+  },
+  {
+   "name": "李网",
+   "role": "盐差"
+  },
+  {
+   "name": "李陈常",
+   "role": "运使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两淮",
+  "江宁",
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6905,
+ "page_range": "149-150"
+}

@@ -1,0 +1,25 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "直隶总督赵弘燮奏报直属地方今岁夏秋雨水过溢，但永平府属收成情况，属地方情形汇报。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "总督管理直隶巡抚事务、兵部右侍郎兼都察院右副都御史"
+  }
+ ],
+ "places": [
+  "直隶",
+  "永平府"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "赵弘燮奏明地方情形",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 200
+}

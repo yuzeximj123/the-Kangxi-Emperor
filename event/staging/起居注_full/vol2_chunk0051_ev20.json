@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十一日癸亥",
+ "event_role": "司法案件",
+ "summary": "耿精忠父子及曾养性等投诚后复谋叛，议政王等议凌迟处死，康熙帝以云南将平姑且留中少待。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "耿精忠",
+   "role": "案犯"
+  },
+  {
+   "name": "曾养性",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5120,
+ "page_range": "145-146"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "初三日丙午",
+ "event_role": "奏报地方情形",
+ "summary": "明珠奏河臣幕天颜劾奏佛伦、赵吉士途间窜改本章，其疏已至内阁正在翻译。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "幕天颜",
+   "role": "河臣"
+  },
+  {
+   "name": "佛伦",
+   "role": "大臣"
+  },
+  {
+   "name": "赵吉士",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "内阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 810,
+ "page_range": "28-29"
+}

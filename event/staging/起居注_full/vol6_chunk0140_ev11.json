@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "二十一日乙相",
+ "event_role": "奏报灾情收成",
+ "summary": "巡抚宋棕奏赈济淮扬饥民米石，康熙帝令截留今岁漕运二十万石交付备贮。",
+ "people": [
+  {
+   "name": "宋棕",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "淮扬",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14011,
+ "page_range": "290-291"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议补江南总督、江宁巡抚员缺，康熙采纳明珠等意见，命于成龙补江南总督、余国柱补江宁巡抚。",
+ "people": [
+  {
+   "name": "张士甄",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "李光地",
+   "role": "内阁学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "补授江南总督"
+  },
+  {
+   "name": "余国柱",
+   "role": "补授江宁巡抚"
+  },
+  {
+   "name": "李士桢",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁",
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10201,
+ "page_range": "247-248"
+}

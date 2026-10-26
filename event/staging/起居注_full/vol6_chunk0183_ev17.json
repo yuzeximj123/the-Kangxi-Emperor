@@ -1,0 +1,34 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "初四日王成",
+ "event_role": "议政听政",
+ "summary": "康熙帝亲阅萨克察、李正春等马步射，以防御南泰步射良劣、吴什豪老革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨克察",
+   "role": "防御"
+  },
+  {
+   "name": "李正春",
+   "role": "游击"
+  },
+  {
+   "name": "南泰",
+   "role": "防御"
+  },
+  {
+   "name": "吴什豪",
+   "role": "防御"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18317,
+ "page_range": "376-377"
+}

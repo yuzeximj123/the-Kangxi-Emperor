@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 9,
+ "day_text": "十七日己酉",
+ "event_role": "人事任免",
+ "summary": "兵部题辅国公星尼参送误班护军参领双全应革职，康熙令革职发遣吉林乌喇当差。",
+ "people": [
+  {
+   "name": "星尼",
+   "role": "辅国公"
+  },
+  {
+   "name": "双全",
+   "role": "护军参领"
+  }
+ ],
+ "places": [
+  "吉林乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10632,
+ "page_range": "223-224"
+}

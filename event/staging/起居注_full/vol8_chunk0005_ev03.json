@@ -1,0 +1,23 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝讲述回子温都斯坦、布海儿、夜儿根等处产丝制甲，曾以鸟枪试验其坚韧。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "温都斯坦",
+  "布海儿",
+  "夜儿根",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 503,
+ "page_range": "21-22"
+}

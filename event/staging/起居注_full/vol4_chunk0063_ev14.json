@@ -1,0 +1,33 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "十四日辛已",
+ "event_role": "朝见受贺",
+ "summary": "临清营副将徐强、临清州知州于准、原任道员孔廷棋、武城县知县赵完璧等来朝。",
+ "people": [
+  {
+   "name": "徐强",
+   "role": "临清营副将"
+  },
+  {
+   "name": "于准",
+   "role": "临清州知州"
+  },
+  {
+   "name": "孔廷棋",
+   "role": "原任道员"
+  },
+  {
+   "name": "赵完璧",
+   "role": "武城县知县"
+  }
+ ],
+ "places": [
+  "临清州",
+  "武城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6314,
+ "page_range": "138-139"
+}

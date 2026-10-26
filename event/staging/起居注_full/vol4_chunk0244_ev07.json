@@ -1,0 +1,38 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "初九日已卯",
+ "event_role": "人事任免",
+ "summary": "吏部题工部尚书沙木哈员缺，康熙以原任尚书、步军总尉萨穆哈练达事务，命补授工部尚书。",
+ "people": [
+  {
+   "name": "萨穆哈",
+   "role": "补授工部尚书"
+  },
+  {
+   "name": "沙木哈",
+   "role": "原工部尚书（缺员）"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24407,
+ "page_range": "500-501"
+}

@@ -1,0 +1,31 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十一日辛雍",
+ "event_role": "谕旨决策",
+ "summary": "贵州巡抚杨座建请以候补主事朱昌绪补黎平府知府，康熙帝不准，命坐名带往人员俱撤回补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨座建",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "朱昌绪",
+   "role": "候补主事"
+  }
+ ],
+ "places": [
+  "贵州",
+  "黎平府",
+  "云",
+  "贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20304,
+ "page_range": "449-450"
+}

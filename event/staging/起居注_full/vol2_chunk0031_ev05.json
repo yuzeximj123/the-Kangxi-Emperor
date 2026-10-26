@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "二十二日本未",
+ "event_role": "人事任免",
+ "summary": "福建总督姚启圣捐助银两议加级，部议停加级请旨，康熙帝依定例命加太子少保。",
+ "people": [
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张勇",
+   "role": "靖逆侯"
+  },
+  {
+   "name": "佟国瑶",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3105,
+ "page_range": "105-106"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝驳陆祖修，谓其不知黄河之性，若顺河性则河水尽从宿迁县北入海，清口至宿迁一百八十里皆淤，漕艘何由通运。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陆祖修",
+   "role": "九卿官员"
+  }
+ ],
+ "places": [
+  "黄河",
+  "宿迁县",
+  "清口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1519,
+ "page_range": "42-43"
+}

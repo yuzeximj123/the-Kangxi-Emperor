@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "六十四逃往盛京戳死同逃二小子拟绞监候，议定窝逃鞭一百给逃人之主为奴例，康熙令察议诬指窝逃治罪之例具奏。",
+ "people": [
+  {
+   "name": "六十四",
+   "role": "逃人"
+  },
+  {
+   "name": "索柱",
+   "role": "窝主"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9602,
+ "page_range": "203-204"
+}

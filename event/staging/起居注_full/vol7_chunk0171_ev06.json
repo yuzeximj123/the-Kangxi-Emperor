@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "两江总督噶礼题请以山西太原营千总李宗愿补授游兵营守备，康熙帝照所请补授。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "李宗愿",
+   "role": "山西太原营千总"
+  }
+ ],
+ "places": [
+  "两江",
+  "山西太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17106,
+ "page_range": "353-354"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆请广西提督张朝午所题副将等员缺速补赴任，康熙帝命应升之人与年满千总一并引见补授，驰驿速赴广西。",
+ "people": [
+  {
+   "name": "张朝午",
+   "role": "广西提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9003,
+ "page_range": "191-192"
+}

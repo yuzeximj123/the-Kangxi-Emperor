@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "二十九日壬午",
+ "event_role": "司法案件",
+ "summary": "刑部题江虎等挖李仲印眼以光棍例拟立正法，康熙帝以被挖眼之人日久方死，为首者依议，为从者俱监候秋后。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "江虎",
+   "role": "人犯"
+  },
+  {
+   "name": "李仲印",
+   "role": "受害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22317,
+ "page_range": "456-457"
+}

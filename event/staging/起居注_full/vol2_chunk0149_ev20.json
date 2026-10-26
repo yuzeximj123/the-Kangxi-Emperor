@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "初六日己卯",
+ "event_role": "军务",
+ "summary": "康熙帝与明珠议论海寇衰微，认为郑锦已死余党离心，令施琅相机进剿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "姚启圣",
+   "role": "督抚"
+  },
+  {
+   "name": "郑锦",
+   "role": "海寇首领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14920,
+ "page_range": "341-342"
+}

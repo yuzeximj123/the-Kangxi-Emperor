@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十年十二月十五日",
+ "reign_year": 50,
+ "month": 12,
+ "day": 15,
+ "event_role": "朝见受贺",
+ "summary": "苏州织造李煦于壬辰元旦恭设香案望阙叩头，向康熙帝奏贺元旦并颂扬圣恩。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏折具奏人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知李煦贺岁朝之奏。",
+ "source_title": "蘇州織造李煦奏賀元旦摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "1002",
+ "order_index": 304
+}

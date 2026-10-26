@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "十三日壬辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补广东巡抚员缺，康熙帝询问大学士意见，明珠奏余国柱大有才具应任紧要之处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "副都御史"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9621,
+ "page_range": "235-236"
+}

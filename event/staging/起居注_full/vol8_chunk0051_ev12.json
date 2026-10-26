@@ -1,0 +1,24 @@
+{
+ "reign_year": 53,
+ "month": 1,
+ "day_text": "二十一日全亥",
+ "event_role": "人事任免",
+ "summary": "盛京礼部侍郎巴济纳赴任请训旨，康熙帝谕以盛京地方紧要、政务废弛，令其每日上衙门详加查理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴济纳",
+   "role": "盛京礼部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5112,
+ "page_range": "113-114"
+}

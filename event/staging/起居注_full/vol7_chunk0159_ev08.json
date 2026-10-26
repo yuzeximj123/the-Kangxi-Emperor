@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆浙江巡抚王度昭题请王连调补伊标左营游击，议不准，康熙帝准其所请补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "王连",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "浙江",
+  "宁波"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15908,
+ "page_range": "329-330"
+}

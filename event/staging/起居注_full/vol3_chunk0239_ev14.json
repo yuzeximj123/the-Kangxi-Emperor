@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": "初四日庚辰",
+ "event_role": "司法案件",
+ "summary": "康熙帝以达哈塔所审之事问九卿，达哈塔自陈以满洲人误为汉人乃思惰之处，请听皇上置罪，康熙帝命此案仍着达哈塔审奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达哈塔",
+   "role": "尚书"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23914,
+ "page_range": "513-514"
+}

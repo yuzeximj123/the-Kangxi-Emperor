@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "二十日丙辰",
+ "event_role": "其他",
+ "summary": "康熙帝赐总兵马进良御书“允勇飞将”四大字及诗、对联、貂形，又赐副将欧起御书“没石饮羽”四大字。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "总兵"
+  },
+  {
+   "name": "欧起",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10608,
+ "page_range": "222-223"
+}

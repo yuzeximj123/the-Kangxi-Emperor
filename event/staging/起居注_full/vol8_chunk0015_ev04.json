@@ -1,0 +1,42 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "吏部覆请兵科给事中马之鹏参潮州知府薛载德增派盐斤一案，康熙帝命交赵申乔查明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马之鹏",
+   "role": "兵科给事中"
+  },
+  {
+   "name": "薛载德",
+   "role": "潮州府知府"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "总督"
+  },
+  {
+   "name": "杨杰",
+   "role": "闽县知县"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "潮州府",
+  "闽县",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1504,
+ "page_range": "41-42"
+}

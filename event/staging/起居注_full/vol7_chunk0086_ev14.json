@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十八日己丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论李光地举荐张仲经不当，并及晋布、九卿保举之弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "张仲经",
+   "role": "知县"
+  },
+  {
+   "name": "晋布",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "束城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8614,
+ "page_range": "183-184"
+}

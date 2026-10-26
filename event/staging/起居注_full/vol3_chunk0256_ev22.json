@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": "十八日壬戌",
+ "event_role": "司法案件",
+ "summary": "刑部题侍郎额星格等将私马同喂蒙古官马、司官色黑臣等私折草料银两，康熙帝命额星格等依拟革职，司官免死发往黑龙江。",
+ "people": [
+  {
+   "name": "额星格",
+   "role": "侍郎"
+  },
+  {
+   "name": "喇巴克",
+   "role": "侍郎"
+  },
+  {
+   "name": "色黑臣",
+   "role": "司官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25622,
+ "page_range": "547-548"
+}

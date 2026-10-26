@@ -1,0 +1,33 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "闽浙总督梁鼐奏报闽省春季雨水调匀，兴化、漳、泉等府麦菜收割良好，稻田布种及时，海洋巡防各官巡视平静。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "闽浙总督"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "兴化",
+  "漳州",
+  "泉州",
+  "福州",
+  "延平",
+  "建宁",
+  "邵武",
+  "汀州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "闽浙总督梁鼐奏报闽省雨水收成并海洋情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "466",
+ "order_index": 129
+}

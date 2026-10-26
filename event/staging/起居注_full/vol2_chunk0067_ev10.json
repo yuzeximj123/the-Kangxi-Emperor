@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "十五日丙寅",
+ "event_role": "军务",
+ "summary": "将军噶尔汉奏副将许嘉席等称兵丁患病甚多请旨区处，康熙帝令兵丁仍遣赴徐治都标下，严拿许嘉席等究问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔汉",
+   "role": "将军"
+  },
+  {
+   "name": "徐治都",
+   "role": "提督"
+  },
+  {
+   "name": "许嘉席",
+   "role": "副将"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6710,
+ "page_range": "177-178"
+}

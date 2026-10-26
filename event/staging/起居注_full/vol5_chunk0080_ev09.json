@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十四日吴未",
+ "event_role": "谕旨决策",
+ "summary": "兵部侍郎朱都纳、学士松柱因往盛京散给米谷请训旨，康熙帝谕令查明陵上执事人等及众百姓一并散给，并令撙节用米、兼渔猎为生。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱都纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "松柱",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8009,
+ "page_range": "170-171"
+}

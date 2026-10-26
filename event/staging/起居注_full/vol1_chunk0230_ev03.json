@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "礼部题阿木道地方喇嘛九人违禁私入京城，康熙帝命移会甘肃巡抚严禁喇嘛来京，并着礼部、兵部、理藩院会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "阿木道",
+  "甘肃",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23003,
+ "page_range": "517-518"
+}

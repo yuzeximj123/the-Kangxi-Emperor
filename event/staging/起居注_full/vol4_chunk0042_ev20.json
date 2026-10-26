@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "初九日戊申",
+ "event_role": "司法案件",
+ "summary": "兵部题云南营左副将兵鼓品缘由，将总督范承勋、总兵官偏图各拟罚俸一年，康熙帝命俱从宽免罚俸一年，余依议。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "总督"
+  },
+  {
+   "name": "偏图",
+   "role": "总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4220,
+ "page_range": "96-97"
+}

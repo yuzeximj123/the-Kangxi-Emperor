@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题请云南开化总兵官黄秉钱员缺，康熙命查开江南、浙江、广东沿海总兵官内除福建人外职名具奏。",
+ "people": [
+  {
+   "name": "黄秉钱",
+   "role": "原云南开化总兵官"
+  },
+  {
+   "name": "杨长泰",
+   "role": "镶黄旗汉军参领"
+  }
+ ],
+ "places": [
+  "云南",
+  "开化",
+  "江南",
+  "浙江",
+  "广东",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16402,
+ "page_range": "339-340"
+}

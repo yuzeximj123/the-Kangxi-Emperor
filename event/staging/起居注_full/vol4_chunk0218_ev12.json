@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "十五日己丑",
+ "event_role": "河工水利",
+ "summary": "康熙帝与于成龙议通州至南铃一带挑浚浅滩事，指出沙地挑浚难以久远。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "通州",
+  "南铃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21812,
+ "page_range": "448-449"
+}

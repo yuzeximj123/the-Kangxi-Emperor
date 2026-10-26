@@ -1,0 +1,52 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "来道、铁图、刘光美、纪尔塔浑、色德里遵旨查验两广总督石琳病势，将保举御史吕洛等缮绿头签呈览，康熙命阿世菠前往。",
+ "people": [
+  {
+   "name": "来道",
+   "role": "官员"
+  },
+  {
+   "name": "铁图",
+   "role": "官员"
+  },
+  {
+   "name": "刘光美",
+   "role": "官员"
+  },
+  {
+   "name": "纪尔塔浑",
+   "role": "官员"
+  },
+  {
+   "name": "色德里",
+   "role": "官员"
+  },
+  {
+   "name": "石琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "吕洛",
+   "role": "御史"
+  },
+  {
+   "name": "阿世菠",
+   "role": "钦差"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2800,
+ "page_range": "67-68"
+}

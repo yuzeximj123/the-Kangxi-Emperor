@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十二年",
+ "reign_year": 52,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "大学士李光地奏报自己腹疾渐愈，感谢康熙帝赐玉泉山水调养，并请求停止每日赐水，以安心。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，奏折作者"
+  }
+ ],
+ "places": [
+  "玉泉山",
+  "城外"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示：玉泉山水蒸用较多，出暑之后停止赐给。",
+ "source_title": "大學士李光地奏為腹疾漸平請停賜玉泉山水摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1494",
+ "order_index": 129
+}

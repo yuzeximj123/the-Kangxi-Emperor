@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十一日丙辰",
+ "event_role": "人事任免",
+ "summary": "兵部题年老休致正黄旗汉军都统巴泰员缺，康熙帝以张所知颇优、材力壮健，命补授都统。",
+ "people": [
+  {
+   "name": "巴泰",
+   "role": "正黄旗汉军都统"
+  },
+  {
+   "name": "李林龙",
+   "role": "副都统"
+  },
+  {
+   "name": "张所知",
+   "role": "副都统，补授都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2208,
+ "page_range": "79-80"
+}

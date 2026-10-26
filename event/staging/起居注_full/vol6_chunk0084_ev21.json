@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十日己丑",
+ "event_role": "其他",
+ "summary": "赐苏州府云泉寺僧持藻御书。",
+ "people": [
+  {
+   "name": "持藻",
+   "role": "云泉寺僧"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "苏州府",
+  "云泉寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8421,
+ "page_range": "178-179"
+}

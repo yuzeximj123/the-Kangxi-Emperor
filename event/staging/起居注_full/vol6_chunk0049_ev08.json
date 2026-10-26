@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "二十六日戊戌",
+ "event_role": "朝见受贺",
+ "summary": "未时，康熙帝御保和殿，赐哈密国协理扎萨克事白起伯克及其弟沙律和卓等食毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "白起伯克",
+   "role": "哈密国协理扎萨克事"
+  },
+  {
+   "name": "沙律和卓",
+   "role": "白起伯克之弟"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "哈密"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4908,
+ "page_range": "108-109"
+}

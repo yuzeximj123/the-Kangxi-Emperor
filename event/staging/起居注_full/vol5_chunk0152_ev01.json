@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部等题山东巡抚杨廷炮失察行贿知县杨杰等议革职，康熙帝令依部议革职，布按二司降级留任。",
+ "people": [
+  {
+   "name": "杨廷炮",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "杨杰",
+   "role": "行贿知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15201,
+ "page_range": "314-315"
+}

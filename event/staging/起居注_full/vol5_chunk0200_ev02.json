@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣奏议王布忒达阿布地回奏及班禅、济隆库图克图、噶尔丹之女等事，请旨定夺。",
+ "people": [
+  {
+   "name": "王布忒达阿布地",
+   "role": "上奏者"
+  },
+  {
+   "name": "班禅库图克图",
+   "role": "被召者"
+  },
+  {
+   "name": "济隆库图克图",
+   "role": "涉案者"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "逆首"
+  },
+  {
+   "name": "达赖喇嘛",
+   "role": "宗教领袖"
+  }
+ ],
+ "places": [
+  "呼户诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20002,
+ "page_range": "410-411"
+}

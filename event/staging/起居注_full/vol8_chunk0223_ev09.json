@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "正蓝旗满洲副都统法拉、镶蓝旗满洲副都统杨都员缺，康熙帝命诸王、议政大臣会同具奏。",
+ "people": [
+  {
+   "name": "法拉",
+   "role": "正蓝旗满洲副都统"
+  },
+  {
+   "name": "觉罗佛伦",
+   "role": "前锋参领"
+  },
+  {
+   "name": "杨都",
+   "role": "镶蓝旗满洲副都统"
+  },
+  {
+   "name": "特古忒",
+   "role": "理藩院侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22309,
+ "page_range": "457-458"
+}

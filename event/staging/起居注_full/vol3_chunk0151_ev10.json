@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "三十日甲申",
+ "event_role": "弹劾参奏",
+ "summary": "四川巡抚姚缔虞题参布政使刘显第、知府孙世泽，康熙帝命俱解任，交巡抚会同总督严加质审究拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚缔虞",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "刘显第",
+   "role": "布政使"
+  },
+  {
+   "name": "孙世泽",
+   "role": "知府"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15110,
+ "page_range": "337-338"
+}

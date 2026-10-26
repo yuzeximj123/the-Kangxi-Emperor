@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "广东巡抚金俊告病请辞，康熙询问大臣意见，明珠建议暂留，康熙以其母年迈且金俊在广东效力，命暂留原任。",
+ "people": [
+  {
+   "name": "金俊",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5500,
+ "page_range": "153-154"
+}

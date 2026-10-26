@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "兵部题正黄旗汉军参领戴哈照例革职，康熙帝命革去参领，留其父所得拖沙喇哈番并与领侍卫内大臣酌用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "戴哈",
+   "role": "正黄旗汉军参领"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1820,
+ "page_range": "48-49"
+}

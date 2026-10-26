@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "广东巡抚彭鹏题报考试武举事，康熙帝批评其章奏繁琐不合，指冬月无六时岂能较阅骑射。",
+ "people": [
+  {
+   "name": "彭鹏",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4201,
+ "page_range": "95-96"
+}

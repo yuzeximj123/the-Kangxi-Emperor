@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十九日壬寅",
+ "event_role": "司法案件",
+ "summary": "兵部以原任黑龙江将军萨布素私取官草豆喂养自己马匹拟枷号三月、鞭一百，康熙帝以其前已宽宥，命免枷责。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "原任黑龙江将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22808,
+ "page_range": "466-467"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "二十二日丁未",
+ "event_role": "人事任免",
+ "summary": "覆请吏部所题詹事府詹事觉罗苏库员缺，开列内阁侍读学士德音等，康熙称不识，令下次带来引见。",
+ "people": [
+  {
+   "name": "觉罗苏库",
+   "role": "詹事府詹事"
+  },
+  {
+   "name": "德音",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17613,
+ "page_range": "363-364"
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "二十八日己丑",
+ "event_role": "人事任免",
+ "summary": "理光院员外郎门都员缺，康熙帝谕令裔特布留任三年后再升，石典柱问明回奏。",
+ "people": [
+  {
+   "name": "门都",
+   "role": "理光院员外郎"
+  },
+  {
+   "name": "裔特布",
+   "role": "陕西西安府理事同知"
+  },
+  {
+   "name": "石典柱",
+   "role": "主事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6708,
+ "page_range": "144-145"
+}

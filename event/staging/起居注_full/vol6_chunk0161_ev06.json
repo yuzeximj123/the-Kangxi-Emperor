@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": "初九日康子",
+ "event_role": "人事任免",
+ "summary": "广东提督殷化行题参都司冯腾龙私求保举，康熙帝谕令将冯腾龙革职拿解来京交部审理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "殷化行",
+   "role": "广东提督"
+  },
+  {
+   "name": "冯腾龙",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16106,
+ "page_range": "332-333"
+}

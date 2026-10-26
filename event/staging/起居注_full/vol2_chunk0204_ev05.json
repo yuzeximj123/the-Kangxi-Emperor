@@ -1,0 +1,27 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "二十日庚申",
+ "event_role": "议政听政",
+ "summary": "康熙御行宫听学士捧折本面奏，议福建将军佟国瑶请增兵二千立四营等事，决定暂留此本，令转谕大学士。",
+ "people": [
+  {
+   "name": "佟国瑶",
+   "role": "福建将军"
+  },
+  {
+   "name": "张梦吉",
+   "role": "标兵统领"
+  }
+ ],
+ "places": [
+  "福建",
+  "京口",
+  "澎湖",
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20405,
+ "page_range": "451-452"
+}

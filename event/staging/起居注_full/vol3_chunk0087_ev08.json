@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "初八日丁丁",
+ "event_role": "人事任免",
+ "summary": "户部题崇文门抽分差员外郎莫尔浑、左权抽分差郎中佛保，康熙帝命佛保差遣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "莫尔浑",
+   "role": "员外郎"
+  },
+  {
+   "name": "佛保",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8708,
+ "page_range": "209-210"
+}

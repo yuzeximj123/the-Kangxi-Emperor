@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十日丁丑",
+ "event_role": "其他",
+ "summary": "康熙帝御瀛台前亭，赐吴喇忒部落三品台吉伊鲁尔等、四品台吉卓特霸等茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊鲁尔",
+   "role": "吴喇忒部落三品台吉"
+  },
+  {
+   "name": "卓特霸",
+   "role": "吴喇忒部落四品台吉"
+  }
+ ],
+ "places": [
+  "瀛台前亭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25117,
+ "page_range": "559-560"
+}

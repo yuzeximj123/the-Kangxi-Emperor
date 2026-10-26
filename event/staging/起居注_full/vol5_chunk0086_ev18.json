@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "二十五日甲实",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门升座，升转文武官员谢恩，朝鲜国正使全域君李混、副使李彦纲等谢恩毕，上回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李混",
+   "role": "朝鲜国正使全域君"
+  },
+  {
+   "name": "李彦纲",
+   "role": "朝鲜国副使议政府右参赞"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8618,
+ "page_range": "182-183"
+}

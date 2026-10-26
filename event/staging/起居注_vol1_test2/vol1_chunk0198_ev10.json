@@ -1,0 +1,25 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "十六日本丑",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝召侍读学士崔蔚林至懋勤殿，览其《大学格物诚意辨》等文并论格物致知、朱子王守仁之说。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔蔚林",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [
+  "懋勤殿",
+  "南书房"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19810,
+ "page_range": "453-454"
+}

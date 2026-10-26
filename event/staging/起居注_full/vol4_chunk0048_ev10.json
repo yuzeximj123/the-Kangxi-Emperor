@@ -1,0 +1,29 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "二十二日辛卯",
+ "event_role": "人事任免",
+ "summary": "兵部题噶尔汉、希福进剿武昌鼓噪兵丁退缩，康熙命革职鞭责，免籍没。",
+ "people": [
+  {
+   "name": "噶尔汉",
+   "role": "原任荆州将军"
+  },
+  {
+   "name": "希福",
+   "role": "副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "荆州",
+  "武昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4810,
+ "page_range": "108-109"
+}

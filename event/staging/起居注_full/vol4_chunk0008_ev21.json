@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "初七日庚成",
+ "event_role": "人事任免",
+ "summary": "兵部题奉天驻防协领尹达浑病故员缺，拟以拜他喇布勒哈番戴禅补授请旨。",
+ "people": [
+  {
+   "name": "尹达浑",
+   "role": "奉天驻防协领"
+  },
+  {
+   "name": "戴禅",
+   "role": "拜他喇布勒哈番"
+  },
+  {
+   "name": "兵部",
+   "role": "题请衙门"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 821,
+ "page_range": "28-29"
+}

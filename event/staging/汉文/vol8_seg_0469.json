@@ -1,0 +1,29 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "大同副将管火器营事张自兴上奏恭请皇帝圣安，康熙朱批问安并告诫其小心，因前任提督声名不好。",
+ "people": [
+  {
+   "name": "张自兴",
+   "role": "镇守山西大同等地地方副将管火器营事，上奏请安者"
+  },
+  {
+   "name": "前任提督",
+   "role": "被提及声名不好者"
+  }
+ ],
+ "places": [
+  "山西",
+  "大同"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，并告诫张自兴十分小心，因前任提督声名很不好。",
+ "source_title": "張自興請安",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 469
+}

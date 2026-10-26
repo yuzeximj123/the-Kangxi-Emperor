@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初三日乙卯",
+ "event_role": "人事任免",
+ "summary": "传谕卿沙拜等，保定营守备孙汶麟骑射俱优，着交兵部记名。",
+ "people": [
+  {
+   "name": "沙拜",
+   "role": "卿"
+  },
+  {
+   "name": "孙汶麟",
+   "role": "保定营守备"
+  }
+ ],
+ "places": [
+  "保定营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 418,
+ "page_range": "19-20"
+}

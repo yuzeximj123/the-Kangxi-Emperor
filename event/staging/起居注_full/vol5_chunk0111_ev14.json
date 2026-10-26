@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "初四日己丑",
+ "event_role": "谕旨决策",
+ "summary": "亲近侍卫关保、奏事敦住发出侍卫克石图等报文，康熙帝命示议政大臣问有堪议处否。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  },
+  {
+   "name": "克石图",
+   "role": "侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11114,
+ "page_range": "232-233"
+}

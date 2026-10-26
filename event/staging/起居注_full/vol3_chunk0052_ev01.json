@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初六日戊成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝召福建金门、海坛总兵官陈龙、林贤于围中射猎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈龙",
+   "role": "福建金门总兵官"
+  },
+  {
+   "name": "林贤",
+   "role": "海坛总兵官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5201,
+ "page_range": "139-140"
+}

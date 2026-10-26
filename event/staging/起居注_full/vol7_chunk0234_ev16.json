@@ -1,0 +1,22 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官史间、常权记录。",
+ "people": [
+  {
+   "name": "史间",
+   "role": "起居注官"
+  },
+  {
+   "name": "常权",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23416,
+ "page_range": "479-480"
+}

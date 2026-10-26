@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十五年三月初六日",
+ "reign_year": 55,
+ "month": 3,
+ "day": 2,
+ "event_role": "请安谢恩",
+ "summary": "直隶总督赵弘燮奏谢皇上赏赐哈密瓜、鹿尾及准张梁留保定侍疾之恩，并叩谢御批温谕。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督管理直隶巡抚事务、兵部右侍郎兼都察院右副都御史"
+  },
+  {
+   "name": "张梁",
+   "role": "新授太常寺博士"
+  }
+ ],
+ "places": [
+  "保定"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸總督趙弘燮奏謝恩賜羊鹿等物品及彙報得雨日期摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "199",
+ "order_index": 252
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 28,
+ "month": 6,
+ "day_text": "初三日戊质",
+ "event_role": "司法案件",
+ "summary": "刑部题千总郭显荣受贿听私开煤窑等案，康熙帝命风水处筑墙立界并令钦天监问明具奏。",
+ "people": [
+  {
+   "name": "郭显荣",
+   "role": "千总"
+  },
+  {
+   "name": "黄进功",
+   "role": "行贿人"
+  },
+  {
+   "name": "萨尔图",
+   "role": "总领"
+  },
+  {
+   "name": "师帝宾",
+   "role": "副将"
+  },
+  {
+   "name": "徐度中",
+   "role": "民"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "喜岭沟"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7604,
+ "page_range": "164-165"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 29,
+ "month": 9,
+ "day_text": "二十日本未",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝由正阳门进午门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "正阳门",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13015,
+ "page_range": "272-273"
+}

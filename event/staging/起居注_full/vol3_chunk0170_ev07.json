@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "二十九日壬子",
+ "event_role": "人事任免",
+ "summary": "大学士等以兵部题正红旗参领席珠员缺请旨，康熙帝以黑色、傅喀庸劣命一并察议具奏。",
+ "people": [
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "黑色",
+   "role": "拟正参领"
+  },
+  {
+   "name": "傅喀",
+   "role": "拟陪参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17007,
+ "page_range": "375-376"
+}

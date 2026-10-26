@@ -1,0 +1,40 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝因新安县知县楚居官声好、百姓称颂，命大学士传谕该抚送其灵柩归故里。",
+ "people": [
+  {
+   "name": "齐保",
+   "role": "官员"
+  },
+  {
+   "name": "苏赫纳",
+   "role": "官员"
+  },
+  {
+   "name": "胡会思",
+   "role": "官员"
+  },
+  {
+   "name": "顾祖荣",
+   "role": "官员"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "楚居",
+   "role": "新安县知县"
+  }
+ ],
+ "places": [
+  "新安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9600,
+ "page_range": "202-203"
+}

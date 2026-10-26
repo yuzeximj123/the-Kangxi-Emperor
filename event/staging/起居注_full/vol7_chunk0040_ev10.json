@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝称赞张鹏副奏章语约而明，并提及原任翰林杨玉学问亦属优长，张玉书附和。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏副",
+   "role": "官员"
+  },
+  {
+   "name": "杨玉",
+   "role": "原任翰林"
+  },
+  {
+   "name": "张玉书",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4010,
+ "page_range": "91-92"
+}

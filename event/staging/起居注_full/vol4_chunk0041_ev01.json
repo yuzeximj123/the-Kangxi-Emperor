@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题三河县知县彭鹏限满未获盗应降一级调用，康熙以其居官甚优从宽免降，降一级留任。",
+ "people": [
+  {
+   "name": "彭鹏",
+   "role": "三河县知县"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4101,
+ "page_range": "94-95"
+}

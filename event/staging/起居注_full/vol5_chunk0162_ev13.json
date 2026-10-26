@@ -1,0 +1,33 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "初一日甲申",
+ "event_role": "军务",
+ "summary": "亲近侍卫关保传谕户部尚书马齐，令取杀虎口、大同等处现银五千两送大将军费扬古军前采买皮袄牛羊给从征军士。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "马齐",
+   "role": "户部尚书"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "班第",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "杀虎口",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16213,
+ "page_range": "334-335"
+}

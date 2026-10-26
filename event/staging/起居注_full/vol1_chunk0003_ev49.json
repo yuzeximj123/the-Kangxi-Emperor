@@ -1,0 +1,24 @@
+{
+ "reign_year": 10,
+ "month": 12,
+ "day_text": "初四日辛已",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，通政使司官员启奏时，帝询问左通政使任克清籍贯及曾为御史条陈弹劾几何。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "任克清",
+   "role": "左通政使"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 349,
+ "page_range": "63-64"
+}

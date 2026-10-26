@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "初六日戊子",
+ "event_role": "贸易漕运",
+ "summary": "覆请户部所题苏松等府重运船只过淮违限，总督路礼已题参粮道左大受，张伯行已解任降调。",
+ "people": [
+  {
+   "name": "路礼",
+   "role": "总督"
+  },
+  {
+   "name": "左大受",
+   "role": "粮道"
+  },
+  {
+   "name": "张伯行",
+   "role": "原任巡抚"
+  }
+ ],
+ "places": [
+  "苏松"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21830,
+ "page_range": "447-448"
+}

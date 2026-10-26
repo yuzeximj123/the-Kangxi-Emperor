@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "十四日己巳",
+ "event_role": "司法案件",
+ "summary": "就强盗林友美打劫江宁城内居民管明家拟罪一案及驻防满洲官员议处之例，康熙帝谕失事地方若系将军该管，将军亦应一并议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "林友美",
+   "role": "强盗"
+  },
+  {
+   "name": "管明",
+   "role": "江宁居民"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12020,
+ "page_range": "251-252"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论江南火耗颇轻，谓上司不取陋规则属员方可自赡，张鹏翮、赵申乔奏督抚仅收节礼下属尚不为苦。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "尚书"
+  },
+  {
+   "name": "赵申乔",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "江南",
+  "吴江",
+  "长洲"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16404,
+ "page_range": "339-340"
+}

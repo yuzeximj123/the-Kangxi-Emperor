@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "十六日辛亥",
+ "event_role": "司法案件",
+ "summary": "理藩院题厄鲁特部落巴免儿额儿克吉农所属恶顿台吉入内地抢夺应罚九九牲畜，康熙帝令从宽止罚二九。",
+ "people": [
+  {
+   "name": "恶顿台吉",
+   "role": "厄鲁特台吉"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "厄鲁特部落"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7414,
+ "page_range": "160-161"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 14,
+ "month": 4,
+ "day_text": "二十三日辛雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕学士傅达礼、侍读学士喇沙里，此后两宫问安着衣都额真遣侍卫传知，侍直官不必随行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "学士"
+  },
+  {
+   "name": "喇沙里",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9006,
+ "page_range": "237-238"
+}

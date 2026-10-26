@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": "初一日王寅",
+ "event_role": "朝见受贺",
+ "summary": "霸昌道郎廷标、税差监督户部员外郎达尚、密云县知县郑富民、守备刘升云等来朝。",
+ "people": [
+  {
+   "name": "郎廷标",
+   "role": "霸昌道"
+  },
+  {
+   "name": "达尚",
+   "role": "税差监督、户部员外郎"
+  },
+  {
+   "name": "郑富民",
+   "role": "密云县知县"
+  },
+  {
+   "name": "刘升云",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5017,
+ "page_range": "110-111"
+}

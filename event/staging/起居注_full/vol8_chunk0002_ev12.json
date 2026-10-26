@@ -1,0 +1,22 @@
+{
+ "reign_year": 52,
+ "month": 1,
+ "day_text": "二十五日癸卯",
+ "event_role": "起居注官记录",
+ "summary": "记录是日起居注官为常蓟、赵能诏。",
+ "people": [
+  {
+   "name": "常蓟",
+   "role": "起居注官"
+  },
+  {
+   "name": "赵能诏",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 212,
+ "page_range": "15-16"
+}

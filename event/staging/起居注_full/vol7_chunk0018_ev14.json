@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初八日戊午",
+ "event_role": "人事任免",
+ "summary": "都察院副都御史甘国枢员缺，康熙帝命江南学院张泰交补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "甘国枢",
+   "role": "都察院副都御史"
+  },
+  {
+   "name": "王项龄",
+   "role": "宗人府府丞"
+  },
+  {
+   "name": "张泰交",
+   "role": "江南学院"
+  }
+ ],
+ "places": [
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1814,
+ "page_range": "47-48"
+}

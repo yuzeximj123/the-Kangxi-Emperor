@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 8,
+ "day_text": "初二日戊申",
+ "event_role": "谕旨决策",
+ "summary": "议科员内升外转，康熙责科道官不条奏反卖言可耻，命汪晋征内升、外转停止一次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杨尔淑",
+   "role": "科员"
+  },
+  {
+   "name": "汪晋征",
+   "role": "科员"
+  },
+  {
+   "name": "纪愈",
+   "role": "科员"
+  },
+  {
+   "name": "证三县",
+   "role": "科员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24310,
+ "page_range": "521-522"
+}

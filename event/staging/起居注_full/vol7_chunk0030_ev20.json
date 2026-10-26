@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "十五日癸亥",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等奏遵旨问九卿湖广等处兵民恶习及李锦之事，康熙帝谕地方文武官员岂容百姓兵丁任意保留，保留官长亦非美事。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "李锦",
+   "role": "相关人物"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3020,
+ "page_range": "71-72"
+}

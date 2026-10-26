@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初一日辛已",
+ "event_role": "祭祀典礼",
+ "summary": "议祭社稷坛事，康熙帝以圣体微有违和，令遣大臣代祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "社稷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7020,
+ "page_range": "183-184"
+}

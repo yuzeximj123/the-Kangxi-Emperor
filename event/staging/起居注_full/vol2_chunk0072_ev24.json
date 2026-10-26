@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初十日庚寅",
+ "event_role": "奏报灾情收成",
+ "summary": "理藩院郎中马喇等奉差往察张家口外居住贫穷八旗蒙古，康熙帝谕令详查穷困者再赈粮米，勿以现有牲畜即谓可度日。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马喇",
+   "role": "理藩院郎中"
+  }
+ ],
+ "places": [
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7224,
+ "page_range": "187-188"
+}

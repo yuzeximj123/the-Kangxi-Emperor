@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "十六日丙午",
+ "event_role": "人事任免",
+ "summary": "推补四川巡抚，拟郝浴、陪拟于成龙，康熙以大军已入四川需人甚急，命另推具奏。",
+ "people": [
+  {
+   "name": "郝浴",
+   "role": "副都御史"
+  },
+  {
+   "name": "于成龙",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21506,
+ "page_range": "487-488"
+}

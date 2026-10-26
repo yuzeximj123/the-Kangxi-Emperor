@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "二十四日戊申",
+ "event_role": "人事任免",
+ "summary": "康熙以西安副都统巴麟两路出征效力甚多，命将巴麟转补在京副都统，其员缺另补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴麟",
+   "role": "西安副都统"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14517,
+ "page_range": "300-301"
+}

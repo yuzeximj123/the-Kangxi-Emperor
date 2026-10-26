@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 5,
+ "day_text": "十九日于成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝因身体违和，命奏章照常送进，由皇太子办理批答，紧要大事由皇太子于御前奏闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23410,
+ "page_range": "480-481"
+}

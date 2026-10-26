@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "初五日甲成",
+ "event_role": "谕旨决策",
+ "summary": "贵州巡抚田去题永宁等九县建立学宫请令捐输并请书牌匾，康熙帝谕捐助系空名派取累民断不可行着一并议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "田去",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [
+  "永宁",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4620,
+ "page_range": "104-105"
+}

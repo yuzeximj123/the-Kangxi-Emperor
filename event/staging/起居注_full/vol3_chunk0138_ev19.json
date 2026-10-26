@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "初六日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题科尔沁国王鄂齐尔等请给符信不准行，康熙帝以给符信以便往来为柔远之道，命议政王、贝勒、大臣等会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "科尔沁国王"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13819,
+ "page_range": "311-312"
+}

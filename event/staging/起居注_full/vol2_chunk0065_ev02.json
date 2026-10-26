@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补正蓝旗参领员缺，正拟胡什布、陪拟佛博色，康熙帝询问舒书，明珠称其效力多，帝命补授胡什布。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡什布",
+   "role": "拜他喇布勒哈番又一拖沙喇哈番"
+  },
+  {
+   "name": "佛博色",
+   "role": "佐领"
+  },
+  {
+   "name": "舒书",
+   "role": "前锋护卫"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "察尼贝勒",
+   "role": "贝勒"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6502,
+ "page_range": "173-174"
+}

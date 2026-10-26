@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "抚远大将军费扬古疏称因官兵买换马驼食物迟误，拟于本月二十四日起程，四月十五日内必至郭多里巴尔哈孙地方。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军领侍卫内大臣伯"
+  },
+  {
+   "name": "沙浑",
+   "role": "郎中"
+  },
+  {
+   "name": "桑格",
+   "role": "批本"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "郭多里巴尔哈孙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22404,
+ "page_range": "458-459"
+}

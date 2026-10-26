@@ -1,0 +1,20 @@
+{
+ "reign_year": 36,
+ "month": 6,
+ "day_text": "十五日癸亥",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝前往刘海泊为德处问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "刘海泊为德"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 108,
+ "page_range": "12-13"
+}

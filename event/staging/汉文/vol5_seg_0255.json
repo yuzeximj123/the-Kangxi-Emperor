@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十三年七月十一日",
+ "reign_year": 53,
+ "month": 7,
+ "day": 11,
+ "event_role": "贸易漕运",
+ "summary": "漕运总督郎廷极奏报本年漕船于五月十四日全数过淮、七月十一日尽数过济宁，并遣官押尾催过天津，另报济宁一带雨泽秋禾情形。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "漕运总督"
+  },
+  {
+   "name": "赵斌",
+   "role": "中军守备，奉命押尾催漕过天津"
+  }
+ ],
+ "places": [
+  "济宁",
+  "淮",
+  "天津",
+  "闸河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "漕運總督郎廷極奏報全漕過濟日期摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1615",
+ "order_index": 255
+}

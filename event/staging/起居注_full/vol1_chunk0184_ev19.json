@@ -1,0 +1,32 @@
+{
+ "reign_year": 18,
+ "month": 6,
+ "day_text": "十五日成实",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝早御太和殿视朝，文武升转官员谢恩，喀尔喀部落土谢图汗贡使鄂尔济图等行礼，赐茶毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂尔济图",
+   "role": "喀尔喀部落土谢图汗贡使"
+  },
+  {
+   "name": "达尔扎",
+   "role": "喇嘛"
+  },
+  {
+   "name": "格处尔",
+   "role": "喇嘛"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18419,
+ "page_range": "425-426"
+}

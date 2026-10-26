@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初二日辛卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝询问员外郎凯齐礼为人，尚书马齐奏称为人亦可。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凯齐礼",
+   "role": "员外郎"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8221,
+ "page_range": "174-175"
+}

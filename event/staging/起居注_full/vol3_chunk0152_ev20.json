@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初六日庚寅",
+ "event_role": "人事任免",
+ "summary": "题补满字少詹事员缺，康熙帝询问人选，明珠等奏舒书、博极颇优，康熙帝问博极旗分。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "舒书",
+   "role": "太常寺少卿"
+  },
+  {
+   "name": "博极",
+   "role": "司业"
+  },
+  {
+   "name": "吴什巴",
+   "role": "拟正郎中"
+  },
+  {
+   "name": "明格里",
+   "role": "拟陪郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15220,
+ "page_range": "339-340"
+}

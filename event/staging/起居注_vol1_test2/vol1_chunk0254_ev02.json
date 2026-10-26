@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补西安佐领得尔库员缺拟以其子敦德里补授，康熙帝令察明是否阵亡效力及有无成例具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "得尔库",
+   "role": "驻守西安佐领"
+  },
+  {
+   "name": "敦德里",
+   "role": "得尔库之子"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25402,
+ "page_range": "565-566"
+}

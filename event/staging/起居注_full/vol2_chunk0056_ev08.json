@@ -1,0 +1,21 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十六日戊寅",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝谕宣府、大同等处虽得雨但三月大风坏麦，民间甚饥，命与户部会议蠲免钱粮拯救。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宣府",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5608,
+ "page_range": "155-156"
+}

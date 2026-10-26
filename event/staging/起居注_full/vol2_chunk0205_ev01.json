@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "吏部议监察御史唐朝更劾道员卢崇兴诈取监生银两不实应降二级调用，康熙帝以其朴实可用，着降一级仍以原官补用。",
+ "people": [
+  {
+   "name": "唐朝更",
+   "role": "监察御史"
+  },
+  {
+   "name": "卢崇兴",
+   "role": "道员"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "程进",
+   "role": "监生"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20501,
+ "page_range": "453-454"
+}

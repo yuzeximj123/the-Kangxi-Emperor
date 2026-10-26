@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣等会议认为扎西巴图尔等初次来朝关乎大典，应令其九、十月间至京来朝，并移咨都统都思哈尔。",
+ "people": [
+  {
+   "name": "都思哈尔",
+   "role": "都统"
+  },
+  {
+   "name": "扎西巴图尔",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22401,
+ "page_range": "458-459"
+}

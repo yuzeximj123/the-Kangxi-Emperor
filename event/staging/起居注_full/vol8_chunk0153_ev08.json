@@ -1,0 +1,46 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题陈大、刘大、刘顺三案分别拟斩绞监候，康熙认为皆有主使及动手之人，令与刘芳声、徐彩官案两议之赵申乔等会同再议。",
+ "people": [
+  {
+   "name": "陈大",
+   "role": "案犯"
+  },
+  {
+   "name": "陈明亮",
+   "role": "死者"
+  },
+  {
+   "name": "刘大",
+   "role": "案犯"
+  },
+  {
+   "name": "刘起栋",
+   "role": "死者"
+  },
+  {
+   "name": "刘顺",
+   "role": "案犯"
+  },
+  {
+   "name": "刘汉如",
+   "role": "死者"
+  },
+  {
+   "name": "赵申乔",
+   "role": "两议官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15308,
+ "page_range": "317-318"
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题川陕总督吴赫离任员缺，康熙帝以吴赫驭兵颇善但论罪应罢黜，命尚书席尔达署理川陕总督事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴赫",
+   "role": "川陕总督"
+  },
+  {
+   "name": "阿尔拜",
+   "role": "侍郎"
+  },
+  {
+   "name": "席尔达",
+   "role": "尚书"
+  },
+  {
+   "name": "曾白赫",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "西安",
+  "川陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10205,
+ "page_range": "214-215"
+}

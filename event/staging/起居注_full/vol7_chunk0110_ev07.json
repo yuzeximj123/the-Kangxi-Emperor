@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "十五日于申“反时",
+ "event_role": "人事任免",
+ "summary": "湖广总督石文最因病奏请解任，康熙帝将本存内，俟往询赵申乔、俞益席事到之日再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石文最",
+   "role": "湖广总督"
+  },
+  {
+   "name": "赵申乔",
+   "role": "巡抚"
+  },
+  {
+   "name": "俞益席",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11007,
+ "page_range": "231-232"
+}

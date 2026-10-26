@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "初八日辛未",
+ "event_role": "谕旨决策",
+ "summary": "户部题索伦等所进一等、二等貂皮不及格，将总管贝勒尔等交理藩院议处；康熙帝以其在雅克萨、尼布楚效力勤苦，从宽免议处，仍照例给赏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "贝勒尔",
+   "role": "总管"
+  }
+ ],
+ "places": [
+  "雅克萨",
+  "尼布楚"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8803,
+ "page_range": "188-189"
+}

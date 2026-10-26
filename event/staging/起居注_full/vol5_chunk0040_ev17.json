@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十日乙酉",
+ "event_role": "皇帝行止",
+ "summary": "是日，康熙帝往皇太后处问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4017,
+ "page_range": "90-91"
+}

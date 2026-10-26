@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十五年十二月初五日",
+ "reign_year": 45,
+ "month": 12,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "曹寅奏报王子迎娶礼数隆重、蒙恩赐宴，并恭请圣安、叩谢皇恩。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江南徽州府",
+  "扬"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知悉此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "206",
+ "source_title": "江宁织造曹寅奏王子迎娶情形摺（康熙四十五年十二月初五日）",
+ "order_index": 151
+}

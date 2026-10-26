@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初十日辛丑",
+ "event_role": "河工水利",
+ "summary": "九卿、詹事、科道会议车路河、清河口入海之事交总河靳辅，康熙帝以靳辅现督黄河堤岸，令另行特差官员督理海口，靳辅兼摄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "车路河",
+  "清河口",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6312,
+ "page_range": "161-162"
+}

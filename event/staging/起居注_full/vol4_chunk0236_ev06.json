@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 6,
+ "day_text": "二十八日庚子",
+ "event_role": "弹劾参奏",
+ "summary": "兵科给事中苏俊条陈请增乡试人额及会试南北中卷不必分左右，康熙帝疑为江南人代拟，令问汉九卿来奏。",
+ "people": [
+  {
+   "name": "苏俊",
+   "role": "兵科给事中"
+  },
+  {
+   "name": "赵士麒",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23606,
+ "page_range": "484-485"
+}

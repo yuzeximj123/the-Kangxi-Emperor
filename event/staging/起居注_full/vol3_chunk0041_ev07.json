@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十二日乙卯",
+ "event_role": "人事任免",
+ "summary": "翰林院题补满洲经筵讲官，康熙询问人选，明珠等奏试讲读情况，康熙命席尔达补用。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "葛思泰",
+   "role": "太常寺卿"
+  },
+  {
+   "name": "阿山",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4107,
+ "page_range": "117-118"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十九日甲辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御懋勤殿，讲官库勒纳、叶方落、张玉书进讲《观》卦六三、六四二节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方落",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2205,
+ "page_range": "87-88"
+}

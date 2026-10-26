@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "学士孙在丰奏朱四逃走缉获后夜杀监守人刘二、四儿，朱四未经自认，康熙帝以其事真不容宽。",
+ "people": [
+  {
+   "name": "孙在丰",
+   "role": "学士"
+  },
+  {
+   "name": "朱四",
+   "role": "案犯"
+  },
+  {
+   "name": "刘二",
+   "role": "监守人"
+  },
+  {
+   "name": "四儿",
+   "role": "监守人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23507,
+ "page_range": "513-514"
+}

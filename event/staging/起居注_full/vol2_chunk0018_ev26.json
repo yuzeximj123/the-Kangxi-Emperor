@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "三十日乙酉",
+ "event_role": "人事任免",
+ "summary": "吏部题补兵部员外郎缺引见，正拟夏赞元、陪拟卞永式，康熙帝询问常书卞永式为人，常书奏其在中人内稍优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "夏赞元",
+   "role": "荫生"
+  },
+  {
+   "name": "卞永式",
+   "role": "起居注主事"
+  },
+  {
+   "name": "常书",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1826,
+ "page_range": "79-80"
+}

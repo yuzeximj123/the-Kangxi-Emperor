@@ -1,0 +1,20 @@
+{
+ "reign_year": 24,
+ "month": 7,
+ "day_text": "十八日丙子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸长泉地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "长泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10006,
+ "page_range": "235-236"
+}

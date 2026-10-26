@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十四日甲实",
+ "event_role": "人事任免",
+ "summary": "户部题鄂木喀、韩锭亏欠仓米已全完请复原官，康熙帝命照丹都虎例复其原官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "鄂木喀",
+   "role": "官员"
+  },
+  {
+   "name": "韩锭",
+   "role": "官员"
+  },
+  {
+   "name": "丹都虎",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20312,
+ "page_range": "449-450"
+}

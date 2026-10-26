@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十一年二月初一日",
+ "reign_year": 51,
+ "month": 2,
+ "day": 30,
+ "event_role": "请安谢恩",
+ "summary": "贵州提督王文雄奏谢皇上召见其子王廷桂并特赐蓝翎侍卫，表示父子感激皇恩、阖家叩谢。",
+ "people": [
+  {
+   "name": "王文雄",
+   "role": "贵州提督（奏折人，自称奴才）"
+  },
+  {
+   "name": "王廷桂",
+   "role": "王文雄之子，蒙赐蓝翎侍卫"
+  },
+  {
+   "name": "王义",
+   "role": "王文雄家人，赍捧奏折"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示皇帝已阅知此事。",
+ "source_title": "貴州提督王文雄奏謝己子王廷柱蒙賜藍翎侍衛摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1043",
+ "order_index": 7
+}

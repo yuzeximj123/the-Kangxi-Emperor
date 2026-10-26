@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "二十五日癸未",
+ "event_role": "人事任免",
+ "summary": "两江总督噶礼题镇江营参将薛世杰员缺，请以朱士植补授，康熙帝照所请补授。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "薛世杰",
+   "role": "镇江营参将"
+  },
+  {
+   "name": "朱士植",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "镇江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17631,
+ "page_range": "363-364"
+}

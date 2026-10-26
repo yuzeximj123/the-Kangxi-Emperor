@@ -1,0 +1,34 @@
+{
+ "reign_year": 35,
+ "month": 7,
+ "day_text": "二十五日已卯",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁学士博济员缺，康熙帝询问侍读学士人选后命将倭伦升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "博济",
+   "role": "内阁学士"
+  },
+  {
+   "name": "布泰",
+   "role": "侍读学士"
+  },
+  {
+   "name": "倭伦",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15004,
+ "page_range": "310-311"
+}

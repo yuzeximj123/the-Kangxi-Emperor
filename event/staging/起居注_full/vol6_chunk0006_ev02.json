@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": "十九日本西",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御中和殿受内大臣、侍卫、内阁、翰林院等行礼，又御太和殿受皇太子率诸王文武官员庆贺太和殿告成及剿灭噶尔丹，颁诏天下。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 602,
+ "page_range": "22-23"
+}

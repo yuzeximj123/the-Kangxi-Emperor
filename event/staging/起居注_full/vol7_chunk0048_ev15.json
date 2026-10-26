@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "十七日癸衣",
+ "event_role": "军务",
+ "summary": "康熙帝命领侍卫内大臣公阿灵阿等阅试守备钱万镁等步箭骑射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "钱万镁",
+   "role": "守备"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4815,
+ "page_range": "107-108"
+}

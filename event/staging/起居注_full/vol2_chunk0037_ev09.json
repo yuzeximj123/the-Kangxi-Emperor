@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初七日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "刑部题尚之信下商人沈上达名下请留周文远等一百三十人备用，康熙帝采纳汉大学士之言，命沈上达及留用人员速赴京。",
+ "people": [
+  {
+   "name": "宜昌阿",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "沈上达",
+   "role": "商人"
+  },
+  {
+   "name": "周文远",
+   "role": "留用人员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "汉大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3709,
+ "page_range": "117-118"
+}

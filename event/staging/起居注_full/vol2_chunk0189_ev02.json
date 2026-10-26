@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题镶白旗满洲都统员缺，康熙帝命问明显亲王，拟用博济或班达尔善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温郡王",
+   "role": "郡王"
+  },
+  {
+   "name": "博济",
+   "role": "长史"
+  },
+  {
+   "name": "显亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "班达尔善",
+   "role": "一等侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18902,
+ "page_range": "421-422"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "二十九日甲实",
+ "event_role": "司法案件",
+ "summary": "覆请刑部所题打死小功服侄木成格之伊拉七照例拟绞监候，康熙帝称满洲打死满洲应照新例议罪，本发还。",
+ "people": [
+  {
+   "name": "伊拉七",
+   "role": "案犯"
+  },
+  {
+   "name": "木成格",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17913,
+ "page_range": "369-370"
+}

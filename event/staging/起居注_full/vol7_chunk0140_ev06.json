@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "十四日戊辰",
+ "event_role": "司法案件",
+ "summary": "刑部奏正红旗格勒尔图之妻姚自亮素行不端、逃出在外并屡告其夫，拟绞监候秋后处决，康熙帝命问京官四川人具奏。",
+ "people": [
+  {
+   "name": "姚自亮",
+   "role": "案犯"
+  },
+  {
+   "name": "格勒尔图",
+   "role": "正红旗拨什库"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14006,
+ "page_range": "291-292"
+}

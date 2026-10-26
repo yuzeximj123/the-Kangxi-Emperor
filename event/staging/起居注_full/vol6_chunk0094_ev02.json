@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": "十六日甲申",
+ "event_role": "请安谢恩",
+ "summary": "诸王、大臣自京师前来通州请安。",
+ "people": [
+  {
+   "name": "诸王",
+   "role": "宗室"
+  },
+  {
+   "name": "大臣",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9402,
+ "page_range": "198-199"
+}

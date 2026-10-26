@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "初五日戊寅",
+ "event_role": "其他",
+ "summary": "康熙帝御瀛台紫光阁亲试中式武举骑射，命人教徐启瑞射箭，余四箭连中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "读卷官大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "读卷官大学士"
+  },
+  {
+   "name": "徐启瑞",
+   "role": "武举"
+  }
+ ],
+ "places": [
+  "瀛台",
+  "紫光阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14916,
+ "page_range": "341-342"
+}

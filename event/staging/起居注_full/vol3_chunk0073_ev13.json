@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "初九日已雍",
+ "event_role": "人事任免",
+ "summary": "内阁题补《会典》副总裁张玉书、沈苓员缺，康熙命将常书、徐乾学补充。",
+ "people": [
+  {
+   "name": "张玉书",
+   "role": "《会典》副总裁"
+  },
+  {
+   "name": "沈苓",
+   "role": "《会典》副总裁"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "常书",
+   "role": "补充副总裁"
+  },
+  {
+   "name": "徐乾学",
+   "role": "补充副总裁"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7313,
+ "page_range": "181-182"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "十八日乙未",
+ "event_role": "其他",
+ "summary": "将赐琉球国中山王尚贞之缎蟒等物并发谕旨给进贡来使，正使毛天相、副使郑弘梁等照例赐布帛等物。",
+ "people": [
+  {
+   "name": "尚贞",
+   "role": "琉球国中山王"
+  },
+  {
+   "name": "毛天相",
+   "role": "正使耳目官"
+  },
+  {
+   "name": "郑弘梁",
+   "role": "副使正议大夫"
+  },
+  {
+   "name": "程顺",
+   "role": "都统事"
+  }
+ ],
+ "places": [
+  "琉球国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1113,
+ "page_range": "32-33"
+}

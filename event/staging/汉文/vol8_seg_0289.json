@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十六年十一月二十四日",
+ "reign_year": 56,
+ "month": 11,
+ "day": 24,
+ "event_role": "请安谢恩",
+ "summary": "四川巡抚年羹尧奏谢康熙帝对其抚週于常格之恩，并附赵弘燮请旨寻查商陆移栽事宜之奏。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "赵弘燮",
+   "role": "总督管理直隶巡抚事务兵部右侍郎兼都察院右副都御史"
+  }
+ ],
+ "places": [
+  "四川",
+  "直隶",
+  "畅春园"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝御批令将商陆送到畅春园交与本处总管。",
+ "source_title": "四川巡抚年羹尧奏谢抚【週",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 289
+}

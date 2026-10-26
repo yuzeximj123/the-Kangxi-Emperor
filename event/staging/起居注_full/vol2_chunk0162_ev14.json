@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十四日丁雍",
+ "event_role": "人事任免",
+ "summary": "题补内阁清字侍读员缺，康熙帝询问后命班第补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "班第",
+   "role": "主事"
+  },
+  {
+   "name": "额锡伦",
+   "role": "候选官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16214,
+ "page_range": "367-368"
+}

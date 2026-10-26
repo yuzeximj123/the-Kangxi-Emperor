@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十六日己未",
+ "event_role": "朝见受贺",
+ "summary": "午时，康熙御景山内前殿召见广东潮州府总兵官马三奇，赐食并问应奏事宜，谕其使兵民相安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马三奇",
+   "role": "广东潮州府总兵官"
+  }
+ ],
+ "places": [
+  "景山",
+  "广东潮州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4213,
+ "page_range": "119-120"
+}

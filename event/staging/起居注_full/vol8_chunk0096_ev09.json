@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "十六日辛效",
+ "event_role": "谕旨决策",
+ "summary": "大学士松柱奏报古北口、密云积贮米数，康熙帝令各运送一万石存贮。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "古北口",
+  "密云"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9609,
+ "page_range": "203-204"
+}

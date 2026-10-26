@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "十一日辛亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕运送右卫等处米石事已毕露，皆地方官求托将军借端销结，不可蒙蔽。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈许",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6820,
+ "page_range": "146-147"
+}

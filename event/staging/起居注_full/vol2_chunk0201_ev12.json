@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十五日丙戌",
+ "event_role": "朝见受贺",
+ "summary": "草家路守备李其、古北路千总吕律等、古北口七品笔帖式萨西等来朝。",
+ "people": [
+  {
+   "name": "李其",
+   "role": "草家路守备"
+  },
+  {
+   "name": "吕律",
+   "role": "古北路千总"
+  },
+  {
+   "name": "萨西",
+   "role": "古北口七品笔帖式"
+  }
+ ],
+ "places": [
+  "草家路",
+  "古北路",
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20112,
+ "page_range": "445-446"
+}

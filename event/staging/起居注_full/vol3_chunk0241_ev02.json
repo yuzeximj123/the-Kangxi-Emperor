@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": "十九日乙未",
+ "event_role": "人事任免",
+ "summary": "吏部题甘肃按察使索尔孙解任员缺，拟以郎中明格礼拟正、格尔泰拟陪，康熙帝命九卿、詹事、科道会同选择具奏。",
+ "people": [
+  {
+   "name": "索尔孙",
+   "role": "甘肃按察使"
+  },
+  {
+   "name": "明格礼",
+   "role": "郎中，拟正"
+  },
+  {
+   "name": "格尔泰",
+   "role": "拟陪"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24102,
+ "page_range": "517-518"
+}

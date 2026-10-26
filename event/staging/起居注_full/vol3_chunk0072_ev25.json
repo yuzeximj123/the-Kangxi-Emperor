@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "初七日丁酉",
+ "event_role": "人事任免",
+ "summary": "吏部题补本部侍郎苏拜随族上朝员缺，康熙帝命调阿兰泰补吏部侍郎，并令兵部另选才能者补缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "调补吏部侍郎"
+  },
+  {
+   "name": "苏拜",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "萨海",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "哈占",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7225,
+ "page_range": "179-180"
+}

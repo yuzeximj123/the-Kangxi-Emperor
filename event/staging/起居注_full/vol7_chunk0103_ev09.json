@@ -1,0 +1,20 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "初二日己丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙前往涤铂德行宫问安。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "德行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10309,
+ "page_range": "217-218"
+}

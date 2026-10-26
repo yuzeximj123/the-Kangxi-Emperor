@@ -1,0 +1,29 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "兵部议覆两江总督赫寿题水师营缺出照浙江例选举坐补，康熙命与浙江一例再议具奏。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "郑尽心",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7407,
+ "page_range": "159-160"
+}

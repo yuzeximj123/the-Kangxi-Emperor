@@ -1,0 +1,33 @@
+{
+ "reign_year": 27,
+ "month": 9,
+ "day_text": "二十四日",
+ "event_role": "人事任免",
+ "summary": "吏部尚书阿兰泰奏补授湖广总督事，九卿公议湖广地方辽阔应设总督，兵部尚书纪尔塔布、工部尚书苏赫皆言有益，上颔之。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "纪尔塔布",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "苏赫",
+   "role": "工部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "训阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4004,
+ "page_range": "92-93"
+}

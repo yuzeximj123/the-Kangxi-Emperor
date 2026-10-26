@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十七年八月初八日",
+ "reign_year": 57,
+ "month": 8,
+ "day": 8,
+ "event_role": "贸易漕运",
+ "summary": "两淮盐课奏报：李煦再留一年带销未完银两，商人请求仍按五纲带完缓运盐引，以免本纲加纳五十万两致商力难支。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奉旨再留一年巡视两淮盐课"
+  },
+  {
+   "name": "江楚吉",
+   "role": "两淮商人代表"
+  },
+  {
+   "name": "张应诏",
+   "role": "运使"
+  }
+ ],
+ "places": [
+  "两淮",
+  "江广"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 108
+}

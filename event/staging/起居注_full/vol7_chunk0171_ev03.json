@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题奏塞德礼诬告席柱一案，拟将塞德礼枷号鞭责，康熙帝如所议行，并革席柱职。",
+ "people": [
+  {
+   "name": "席柱",
+   "role": "鸿胪寺鸣赞"
+  },
+  {
+   "name": "塞德礼",
+   "role": "席柱之兄"
+  },
+  {
+   "name": "勒德礼",
+   "role": "幼弟"
+  },
+  {
+   "name": "张三",
+   "role": "夫妇"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17103,
+ "page_range": "353-354"
+}

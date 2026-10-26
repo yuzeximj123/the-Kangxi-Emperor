@@ -1,0 +1,22 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初二日庚申",
+ "event_role": "其他",
+ "summary": "张英等奏请将康熙帝亲阅文武官员骑射之事载入史册，康熙帝以偶尔骑射不必记册，崇文讲武乃常事，不允。",
+ "people": [
+  {
+   "name": "张英",
+   "role": "翰林院掌院事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8710,
+ "page_range": "184-185"
+}

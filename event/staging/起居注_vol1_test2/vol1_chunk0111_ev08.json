@@ -1,0 +1,32 @@
+{
+ "reign_year": 15,
+ "month": 3,
+ "day_text": "二十九日辛巳",
+ "event_role": "其他",
+ "summary": "未时康熙帝御保和殿举行经筵大典，讲官常瓯、王申进讲《四书》诚明谓之性一节，徐元文、库勒纳进讲《书经》惟学逊志务时敏一节。",
+ "people": [
+  {
+   "name": "常瓯",
+   "role": "讲官"
+  },
+  {
+   "name": "王申",
+   "role": "讲官"
+  },
+  {
+   "name": "徐元文",
+   "role": "讲官"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11108,
+ "page_range": "279-280"
+}

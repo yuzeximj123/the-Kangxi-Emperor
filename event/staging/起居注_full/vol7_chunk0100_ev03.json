@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "十三日辛未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士等，差出封闸章京吴成格无知妄奏临清济宁闸务，命该部速换人另差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴成格",
+   "role": "封闸章京"
+  }
+ ],
+ "places": [
+  "临清",
+  "济宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10003,
+ "page_range": "211-212"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "二十三日庚午",
+ "event_role": "人事任免",
+ "summary": "议政王、贝勒、大臣会推杭州将军胡图病故员缺，拟以副都统迈图拟正、阿尔法拟陪。",
+ "people": [
+  {
+   "name": "胡图",
+   "role": "杭州将军（病故）"
+  },
+  {
+   "name": "迈图",
+   "role": "副都统（拟正）"
+  },
+  {
+   "name": "阿尔法",
+   "role": "副都统（拟陪）"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22501,
+ "page_range": "485-486"
+}

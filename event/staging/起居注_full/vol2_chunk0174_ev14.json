@@ -1,0 +1,41 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "十六日戊子",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御行宫，学士萨海、阿兰泰、石柱、喇巴克捧折本面奏，议河南巡抚王日藻条奏垦荒四款事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨海",
+   "role": "学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  },
+  {
+   "name": "石柱",
+   "role": "学士"
+  },
+  {
+   "name": "喇巴克",
+   "role": "学士"
+  },
+  {
+   "name": "王日藻",
+   "role": "河南巡抚"
+  }
+ ],
+ "places": [
+  "行宫",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17414,
+ "page_range": "391-392"
+}

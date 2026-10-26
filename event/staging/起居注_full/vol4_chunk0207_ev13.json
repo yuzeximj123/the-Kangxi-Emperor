@@ -1,0 +1,37 @@
+{
+ "reign_year": 31,
+ "month": 9,
+ "day_text": "二十一日本卯",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御文华殿举行经筵大典，讲官索诺和、杜琉讲《四书》，席尔达、张英讲《书经》，毕宴于太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索诺和",
+   "role": "讲官"
+  },
+  {
+   "name": "杜琉",
+   "role": "讲官"
+  },
+  {
+   "name": "席尔达",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20713,
+ "page_range": "426-427"
+}

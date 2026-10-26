@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十二日王午",
+ "event_role": "军务",
+ "summary": "康熙帝召总兵官吴英问奏，吴英奏台湾设兵八千人岁需内地协济，请半镇守半屯种以省协济，康熙帝称善命回任具疏来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴英",
+   "role": "总兵官"
+  },
+  {
+   "name": "施粮",
+   "role": "提督"
+  },
+  {
+   "name": "郑克坪",
+   "role": "投降者"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8308,
+ "page_range": "201-202"
+}

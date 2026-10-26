@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初十日庚寅",
+ "event_role": "军务",
+ "summary": "费扬古奏报已移文满丕将阿拉布谈等奏疏星夜速送，并遣员外郎尚往迎黑色等令其径赴皇上行在。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "满丕",
+   "role": "参赞侍郎"
+  },
+  {
+   "name": "黑色",
+   "role": "笔帖式"
+  },
+  {
+   "name": "尚",
+   "role": "理藩院员外郎"
+  }
+ ],
+ "places": [
+  "喀拉木伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21206,
+ "page_range": "434-435"
+}

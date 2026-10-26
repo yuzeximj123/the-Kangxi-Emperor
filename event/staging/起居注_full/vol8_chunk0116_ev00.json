@@ -1,0 +1,37 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝评论刘荫枢操守好宜边省，年老不宜苏州，徐元梦不宜苏州，满保欲补总督缺，命问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "徐元梦",
+   "role": "官员"
+  },
+  {
+   "name": "满保",
+   "role": "巡抚"
+  },
+  {
+   "name": "范时崇",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "苏州",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11600,
+ "page_range": "243-244"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十日丁未",
+ "event_role": "人事任免",
+ "summary": "广东巡抚金俊请叙擒获祖泽清各官功，康熙帝令议叙具奏。",
+ "people": [
+  {
+   "name": "金俊",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "祖泽清",
+   "role": "叛逆"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25803,
+ "page_range": "573-574"
+}

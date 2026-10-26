@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十二年十二月",
+ "reign_year": 42,
+ "month": 12,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦身在任所，专摺恭请皇上万安，以表思念之诚。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙自述五月间偶感时气转为疟疾，至二十九日痊愈，现已大安如常。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "2",
+ "source_title": "苏州织造李煦奏请万安摺",
+ "order_index": 1
+}

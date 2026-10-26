@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十五年四月初九日",
+ "reign_year": 55,
+ "month": 4,
+ "day": 9,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦向康熙帝恭请万安，康熙帝朱批知道了。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "管理福州织造大理寺卿兼骁骑参佐，奏请人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "福州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知。",
+ "source_title": "蘇州織造李煦奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "2067",
+ "order_index": 309
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "十六日乙效",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝言山西陕西麦子亦皆大收，张鹏副奏皇上为民生一日止进膳一次至诚求雨感格上苑，今雨水俱足田禾亦茂求皇上宽心，康熙帝言心亦安。",
+ "people": [
+  {
+   "name": "张鹏副",
+   "role": "吏部尚书"
+  }
+ ],
+ "places": [
+  "山西",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14511,
+ "page_range": "301-302"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 12,
+ "month": 2,
+ "day_text": "二十九日庚子",
+ "event_role": "人事任免",
+ "summary": "工部尚书吴达礼等引见差往看视河工官，康熙帝命郎中苏立泰前往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴达礼",
+   "role": "工部尚书"
+  },
+  {
+   "name": "苏立泰",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3411,
+ "page_range": "125-126"
+}

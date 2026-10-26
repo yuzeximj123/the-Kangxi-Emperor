@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请以侍读复铎升补庶子高其停员缺，康熙帝以复铎学问平常、从无效力之处，命另选具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "复铎",
+   "role": "侍读"
+  },
+  {
+   "name": "高其停",
+   "role": "庶子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18101,
+ "page_range": "373-374"
+}

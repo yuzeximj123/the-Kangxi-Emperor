@@ -1,0 +1,29 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "十二日乙本",
+ "event_role": "人事任免",
+ "summary": "兵部题浙江黄岩总兵官林本植丁忧员缺，请开列副将或参领，康熙帝命将真定总兵官赵弘灿调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "林本植",
+   "role": "浙江黄岩总兵官"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "真定总兵官"
+  }
+ ],
+ "places": [
+  "浙江黄岩",
+  "真定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1914,
+ "page_range": "50-51"
+}

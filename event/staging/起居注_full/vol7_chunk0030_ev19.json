@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "十五日癸亥",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚李光地题武清县知县章曾印居官优请留原任，康熙帝照所题留任。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "章曾印",
+   "role": "武清县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "武清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3019,
+ "page_range": "71-72"
+}

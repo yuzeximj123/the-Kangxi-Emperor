@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十三日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召马齐、布雅努，谕提督潘育龙所统绿旗兵训练有方，提督以下官员俱加一级，二百五十名兵加赏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "布雅努",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "潘育龙",
+   "role": "提督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8016,
+ "page_range": "171-172"
+}

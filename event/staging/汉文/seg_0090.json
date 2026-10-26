@@ -1,0 +1,43 @@
+{
+ "date_raw": "康熙四十四年十一月",
+ "reign_year": 44,
+ "month": 11,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "梁鼐奏谢圣恩并遣家人代请圣安，宋荦奏报江苏各地秋成收成并请皇上、皇太子安。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "奏报人"
+  },
+  {
+   "name": "宋荦",
+   "role": "奏报人"
+  },
+  {
+   "name": "马得胜",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "福建",
+  "苏州",
+  "松江",
+  "常州",
+  "镇江",
+  "徐州",
+  "淮扬"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙对两摺均朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "136",
+ "source_title": "江宁巡抚宋荦奏谢遣御医赐药并遵旨调养摺",
+ "order_index": 90
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十四年十一月初二日",
+ "reign_year": 54,
+ "month": 11,
+ "day": 2,
+ "event_role": "奏报灾情收成",
+ "summary": "两广总督赵弘灿奏报广东晚稻收成约八分九分、米价每石八钱九钱，百姓衣食充足，并恭请圣安。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督，奏报人"
+  },
+  {
+   "name": "曹寅",
+   "role": "江宁织造，书写者"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，已知晓报收成的奏折。",
+ "source_title": "兩廣總督趙弘燦奏報秋收豐熟並米價情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1924",
+ "order_index": 190
+}

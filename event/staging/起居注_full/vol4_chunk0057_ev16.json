@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十五日丑",
+ "event_role": "请安谢恩",
+ "summary": "尚书图纳等奏称圣上轸虑万民生业阅视河道沿途无一日安息，乞稍安圣体驻跸一二日；满汉大臣、学士、巡抚于成龙等续奏请。",
+ "people": [
+  {
+   "name": "图纳",
+   "role": "尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "杭州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5716,
+ "page_range": "126-127"
+}

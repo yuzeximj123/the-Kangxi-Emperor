@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十三日癸丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝驻跸行幄，大学士索额图、明珠等捧折本面奏，议监修明史请各省购书事，命九卿詹事科道会议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "内效学士"
+  }
+ ],
+ "places": [
+  "中南口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21706,
+ "page_range": "491-492"
+}

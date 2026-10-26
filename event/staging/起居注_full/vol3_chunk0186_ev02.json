@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "科尔坤等会同觉罗勒德洪等议奏直隶顺天等四府灾伤请蠲免钱粮，顺德等四府不必概蠲。",
+ "people": [
+  {
+   "name": "科尔坤",
+   "role": "户部尚书"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶",
+  "顺天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18602,
+ "page_range": "407-408"
+}

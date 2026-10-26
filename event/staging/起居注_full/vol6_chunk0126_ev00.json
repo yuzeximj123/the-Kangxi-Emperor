@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初一日乙丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸郭格庄，责罚军卒羊系，获州知州张朝宗、把总蒋晋朝来朝见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张朝宗",
+   "role": "获州知州"
+  },
+  {
+   "name": "蒋晋朝",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "郭格庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12600,
+ "page_range": "262-263"
+}

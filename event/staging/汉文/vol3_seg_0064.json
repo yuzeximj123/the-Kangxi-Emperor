@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙四十九年十一月初四日",
+ "reign_year": 49,
+ "month": 11,
+ "day": 4,
+ "event_role": "请安谢恩",
+ "summary": "闽浙总督范时崇奏谢康熙帝钦赐鹿肉条、细鳞鱼、柝鲁鱼等物，表示感恩图报、恪尽职守。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督，奏折作者"
+  },
+  {
+   "name": "王宗",
+   "role": "范时崇家人，自广至闽赍捧钦赐之物"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "闽",
+  "广"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，告知自己安好。",
+ "source_title": "閩浙總督范時崇奏謝欽賜鹿肉條等物摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "762",
+ "order_index": 64
+}

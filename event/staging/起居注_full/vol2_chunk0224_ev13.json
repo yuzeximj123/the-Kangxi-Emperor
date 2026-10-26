@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "十四日壬午",
+ "event_role": "议政听政",
+ "summary": "两广总督吴兴祚题报广西提督哲尔肯病故，康熙帝以其无劳绩且曾因结姻革职，令改拟票签。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴兴祚",
+   "role": "两广总督"
+  },
+  {
+   "name": "哲尔肯",
+   "role": "广西提督"
+  },
+  {
+   "name": "尚之信",
+   "role": "（被提及）"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22413,
+ "page_range": "491-492"
+}

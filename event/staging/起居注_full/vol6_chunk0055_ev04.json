@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "初十日辛巳",
+ "event_role": "朝见受贺",
+ "summary": "黑龙江将军萨布素、宁古塔将军沙那海、伊屯关口防御莫其塔前来朝见康熙帝。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "沙那海",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "莫其塔",
+   "role": "伊屯关口防御"
+  }
+ ],
+ "places": [
+  "伊屯口内"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5504,
+ "page_range": "120-121"
+}

@@ -1,0 +1,62 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "二十五日丙午",
+ "event_role": "其他",
+ "summary": "捧出御书十二幅分赐大学士、尚书、左都御史及南书房诸臣。",
+ "people": [
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "李振裕",
+   "role": "尚书"
+  },
+  {
+   "name": "韩菼",
+   "role": "尚书"
+  },
+  {
+   "name": "范承勋",
+   "role": "尚书"
+  },
+  {
+   "name": "王士祯",
+   "role": "尚书"
+  },
+  {
+   "name": "王渔绪",
+   "role": "尚书"
+  },
+  {
+   "name": "李楠",
+   "role": "左都御史"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "南书房尚书"
+  },
+  {
+   "name": "励杜讷",
+   "role": "副都御史"
+  },
+  {
+   "name": "查昇",
+   "role": "编修"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1614,
+ "page_range": "43-44"
+}

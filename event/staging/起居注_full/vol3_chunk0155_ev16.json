@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十二日丙午",
+ "event_role": "谕旨决策",
+ "summary": "因朝鲜国陪臣郑载嵩等妄行呈请宽免国王之罪，遵旨拟敕谕发礼部，康熙帝令照所撰敕语缮本具奏、票依议。",
+ "people": [
+  {
+   "name": "郑载嵩",
+   "role": "朝鲜国陪臣"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15516,
+ "page_range": "345-346"
+}

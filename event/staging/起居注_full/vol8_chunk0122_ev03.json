@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝对大学士等论清官难得应加旌奖，但不可专以报复为事，并提及宋荦老实平和、地方安静。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "官员"
+  },
+  {
+   "name": "宋华",
+   "role": "官员"
+  },
+  {
+   "name": "马三奇",
+   "role": "官员"
+  },
+  {
+   "name": "宋荦",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12203,
+ "page_range": "255-256"
+}

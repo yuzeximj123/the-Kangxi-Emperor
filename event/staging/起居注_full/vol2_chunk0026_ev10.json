@@ -1,0 +1,21 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初六日辛酉",
+ "event_role": "奏报地方情形",
+ "summary": "科道各官言白气见于西方关乎兵事，宜颁谕秦、蜀诸将善抚投诚兵丁、固守边境。",
+ "people": [
+  {
+   "name": "科道各官",
+   "role": "言官"
+  }
+ ],
+ "places": [
+  "秦",
+  "蜀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2610,
+ "page_range": "95-96"
+}

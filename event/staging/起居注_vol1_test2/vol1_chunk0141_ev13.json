@@ -1,0 +1,29 @@
+{
+ "reign_year": 16,
+ "month": 7,
+ "day_text": "初八日癸未",
+ "event_role": "皇帝行止",
+ "summary": "酉时，康熙帝前往太皇太后、皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14113,
+ "page_range": "339-340"
+}

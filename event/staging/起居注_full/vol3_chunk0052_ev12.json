@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初十日王寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至泰安州，午间登岱，乘马进红门后步行而上四十里，登岭至昭真宫天仙殿行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "泰安州",
+  "红门",
+  "昭真宫天仙殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5212,
+ "page_range": "139-140"
+}

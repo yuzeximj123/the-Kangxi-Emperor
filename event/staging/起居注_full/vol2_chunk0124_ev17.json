@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "初一日了丑",
+ "event_role": "人事任免",
+ "summary": "兵部题补奉天副都统员缺开列参领达汉泰等二人，康熙帝以其最要紧，命议政王大臣于护军参领以下武职内确选贤能会推具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达汉泰",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12417,
+ "page_range": "291-292"
+}

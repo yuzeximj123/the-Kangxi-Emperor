@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请山西巡抚苏克济所题王爱民夫妇谋杀梁一桂案，康熙帝准改王爱民斩监候、吴氏绞监候，秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "王爱民",
+   "role": "案犯"
+  },
+  {
+   "name": "吴氏",
+   "role": "案犯"
+  },
+  {
+   "name": "梁一桂",
+   "role": "被害人"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11800,
+ "page_range": "247-248"
+}

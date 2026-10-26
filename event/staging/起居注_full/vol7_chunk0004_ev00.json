@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "李光地询问戴良才居官如何，李光地答其居官优、人勤厚。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "询问者"
+  },
+  {
+   "name": "戴良才",
+   "role": "被询问居官情况者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 400,
+ "page_range": "19-20"
+}

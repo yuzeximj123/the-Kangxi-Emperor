@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 2,
+ "day_text": "十七日已卯",
+ "event_role": "谕旨决策",
+ "summary": "江南江西总督傅腊塔题报江南百姓建碑亭颂德，康熙帝谕地方官不得借端修碑亭扰累百姓。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10509,
+ "page_range": "222-223"
+}

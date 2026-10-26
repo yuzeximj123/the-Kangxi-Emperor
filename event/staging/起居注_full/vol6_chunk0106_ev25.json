@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "二十七日酉辫",
+ "event_role": "人事任免",
+ "summary": "浙江巡抚张仙题请石门等四县知县员缺以龙泉县知县张廷彩等调补，部议不准，康熙帝命照该抚所题调补。",
+ "people": [
+  {
+   "name": "张仙",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "张廷彩",
+   "role": "龙泉县知县"
+  }
+ ],
+ "places": [
+  "浙江",
+  "石门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10625,
+ "page_range": "222-223"
+}

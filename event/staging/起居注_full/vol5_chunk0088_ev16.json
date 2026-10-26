@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初七日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝述治河要领，称清水盛可刷黄河积沙，黄强倒灌则湖口淤滞，并言曾亲察高家堰。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "原任总河"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8816,
+ "page_range": "186-187"
+}

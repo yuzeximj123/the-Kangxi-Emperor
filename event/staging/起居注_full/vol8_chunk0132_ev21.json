@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初七日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "武举王士槐陈奏其父原任参将王起云阵亡之处，康熙帝嘉其奋勇力战阵亡，令该部一并议叙具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王士槐",
+   "role": "武举"
+  },
+  {
+   "name": "王起云",
+   "role": "原任参将"
+  }
+ ],
+ "places": [
+  "万承州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13221,
+ "page_range": "275-276"
+}

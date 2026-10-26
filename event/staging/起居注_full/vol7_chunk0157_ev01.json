@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "山西太原总兵马见伯题请以侍卫王联科补授太原营守备，康熙帝准照所题补授。",
+ "people": [
+  {
+   "name": "马见伯",
+   "role": "山西太原总兵"
+  },
+  {
+   "name": "赵承业",
+   "role": "太原营守备（原任）"
+  },
+  {
+   "name": "王联科",
+   "role": "侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太原营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15701,
+ "page_range": "325-326"
+}

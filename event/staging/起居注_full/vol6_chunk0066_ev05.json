@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝询问五空桥建造闸口是否有益，于成龙奏称改建闸口便于运河修理时粮船绕行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "五空桥",
+  "运河",
+  "天妃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6605,
+ "page_range": "142-143"
+}

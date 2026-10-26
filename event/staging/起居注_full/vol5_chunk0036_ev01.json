@@ -1,0 +1,20 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸密云县城内。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "密云县城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3601,
+ "page_range": "82-83"
+}

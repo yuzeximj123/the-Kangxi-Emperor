@@ -1,0 +1,48 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论彭鹏事，称宽宥言官以存体面，命将相关处问赵心作。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭鹏",
+   "role": "言官"
+  },
+  {
+   "name": "杜立德",
+   "role": "言官"
+  },
+  {
+   "name": "汉溥",
+   "role": "言官"
+  },
+  {
+   "name": "姚文然",
+   "role": "言官"
+  },
+  {
+   "name": "李之芳",
+   "role": "言官"
+  },
+  {
+   "name": "尚之信",
+   "role": "反叛者"
+  },
+  {
+   "name": "赵心作",
+   "role": "受命查问者"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4200,
+ "page_range": "94-95"
+}

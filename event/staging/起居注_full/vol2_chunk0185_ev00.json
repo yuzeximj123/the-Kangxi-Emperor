@@ -1,0 +1,27 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召将军希福至前，谕令其到西安后严束兵丁、加意操演、不得骚扰百姓，并申明文武官员尊卑体统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安",
+  "浙江",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18500,
+ "page_range": "413-414"
+}

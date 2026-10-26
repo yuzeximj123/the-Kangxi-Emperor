@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": "二十四日于辰",
+ "event_role": "人事任免",
+ "summary": "赵申乔奏保新授潮州府知府张应诏操守好，康熙帝询问孙征涉，孙称其朴实顾颜面。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "尚书"
+  },
+  {
+   "name": "张应诏",
+   "role": "潮州府知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙征涉",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "潮州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8119,
+ "page_range": "173-174"
+}

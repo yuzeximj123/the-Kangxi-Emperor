@@ -1,0 +1,29 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "二十四日癸亥",
+ "event_role": "朝见受贺",
+ "summary": "云南布政使于三贤、广东布政使张建绩陛辞，康熙帝谕令到地方严禁杂派以裕民力。",
+ "people": [
+  {
+   "name": "于三贤",
+   "role": "云南布政使"
+  },
+  {
+   "name": "张建绩",
+   "role": "广东布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4417,
+ "page_range": "100-101"
+}

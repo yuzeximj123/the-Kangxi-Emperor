@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十二日乙卯",
+ "event_role": "起居注官记录",
+ "summary": "记载本日起居注官常蔬、李元振。",
+ "people": [
+  {
+   "name": "常蔬",
+   "role": "起居注官"
+  },
+  {
+   "name": "李元振",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4101,
+ "page_range": "117-118"
+}

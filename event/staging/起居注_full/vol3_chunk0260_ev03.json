@@ -1,0 +1,25 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "诸王贝勒大臣跪奏请康熙帝暂离丧次休息，康熙帝以哀思难已、饮食难进不允回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诸王贝勒大臣",
+   "role": "臣僚"
+  }
+ ],
+ "places": [
+  "慈宁宫",
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 26003,
+ "page_range": "555-556"
+}

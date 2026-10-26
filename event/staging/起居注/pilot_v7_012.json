@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙四十五年七月初二日",
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "初二日丁巳",
+ "event_role": "司法案件",
+ "summary": "康熙帝论雅图出首副都统罗察侵蚀官田租息事，谓雅图诬陷，罗察与索额图无涉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雅图",
+   "role": "出首人"
+  },
+  {
+   "name": "罗察",
+   "role": "副都统"
+  },
+  {
+   "name": "索额图",
+   "role": "前大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3012
+}

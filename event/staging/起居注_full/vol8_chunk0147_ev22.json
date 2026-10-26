@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "十四日壬寅",
+ "event_role": "人事任免",
+ "summary": "吏部题兵部郎中额尔奔因守安定城门空班议革职，康熙帝令查明其子何时身故及额尔奔为人具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额尔奔",
+   "role": "兵部郎中"
+  }
+ ],
+ "places": [
+  "安定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14722,
+ "page_range": "305-306"
+}

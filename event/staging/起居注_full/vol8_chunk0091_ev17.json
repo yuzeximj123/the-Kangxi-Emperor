@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 3,
+ "day_text": "二十九日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论注书须深识古意得其精要，批评近人注书挟私意，指张伯行所注书全为汤斌一人且未允当。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "大臣"
+  },
+  {
+   "name": "汤斌",
+   "role": "人物"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9117,
+ "page_range": "193-194"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "初一日己卯",
+ "event_role": "祭祀典礼",
+ "summary": "黎明，康熙帝率诸王、贝子、公、内大臣、大学士、都统、尚书、侍卫等往堂子行礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "堂子"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10920,
+ "page_range": "261-262"
+}

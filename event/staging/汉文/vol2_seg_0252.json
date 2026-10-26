@@ -1,0 +1,40 @@
+{
+ "date_raw": "康熙四十八年十一月十一日",
+ "reign_year": 48,
+ "month": 11,
+ "day": 11,
+ "event_role": "奏报地方情形",
+ "summary": "赫寿到藏后奏报西藏情形，称达赖喇嘛感恩但忧虑清廷久驻，并报策妄阿尔布坦与西藏往来及额鲁特、土白忒强弱之势。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "奏报奴才"
+  },
+  {
+   "name": "达赖喇嘛",
+   "role": "西藏喇嘛"
+  },
+  {
+   "name": "策望阿尔布坦",
+   "role": "额鲁特首领"
+  },
+  {
+   "name": "违充",
+   "role": "曾奏请差人协理之臣"
+  }
+ ],
+ "places": [
+  "藏",
+  "巴尔喀木",
+  "哈克萨",
+  "土白忒",
+  "额鲁得"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "赫壽奏為到藏後看得西藏情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "601",
+ "order_index": 252
+}

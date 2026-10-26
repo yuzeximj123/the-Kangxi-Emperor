@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就补授礼部汉侍郎一事，否决孙岳颁，改令工部侍郎许改霖补授。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "孙岳颁",
+   "role": "礼部侍郎衔"
+  },
+  {
+   "name": "许改霖",
+   "role": "工部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1500,
+ "page_range": "41-42"
+}

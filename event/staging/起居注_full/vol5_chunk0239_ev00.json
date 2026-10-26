@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令倭伦往安岳招抚，若不就抚即将温保、甘度正法后进兵，并命议政大臣同部院大臣会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭伦",
+   "role": "钦差"
+  },
+  {
+   "name": "温保",
+   "role": "巡抚"
+  },
+  {
+   "name": "甘度",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "安岳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23900,
+ "page_range": "488-489"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问起居注左都御史把叙李陈常居官如何，把叙奏称其居官好无人不称道。",
+ "people": [
+  {
+   "name": "把叙",
+   "role": "起居注左都御史"
+  },
+  {
+   "name": "李陈常",
+   "role": "运使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6906,
+ "page_range": "149-150"
+}

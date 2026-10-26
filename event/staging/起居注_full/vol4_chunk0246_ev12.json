@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "二十六日丙申",
+ "event_role": "司法案件",
+ "summary": "刑部题苗裕仓见父被叔殴打，取铁构打伤叔额致死，拟立斩；康熙帝以其救父情似可矜，命九卿、詹事、科道议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苗裕仓",
+   "role": "案犯"
+  },
+  {
+   "name": "苗宣忠",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24612,
+ "page_range": "504-505"
+}

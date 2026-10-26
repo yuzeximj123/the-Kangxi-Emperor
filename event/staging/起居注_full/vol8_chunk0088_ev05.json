@@ -1,0 +1,33 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十六日癸巳",
+ "event_role": "人事任免",
+ "summary": "康熙帝以穆廷杖不能胜任江南提督，调杜呈泗为江南提督，穆廷杖调福建提督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "穆廷杖",
+   "role": "江南提督"
+  },
+  {
+   "name": "杜呈泗",
+   "role": "福建提督"
+  },
+  {
+   "name": "师葡德",
+   "role": "前任江南提督"
+  }
+ ],
+ "places": [
+  "江南",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8805,
+ "page_range": "187-188"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "十六日庚寅",
+ "event_role": "人事任免",
+ "summary": "覆请兵部议覆一等侯张宗仁题请入籍江南不准行一疏，康熙帝命张宗仁不必逐回本处，准入江南民籍。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张宗仁",
+   "role": "一等侯"
+  }
+ ],
+ "places": [
+  "江南",
+  "松江",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4117,
+ "page_range": "93-94"
+}

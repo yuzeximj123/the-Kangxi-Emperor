@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "初七日庚寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补通政使司徐元正员缺，康熙帝命郑重补授通政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郑重",
+   "role": "拟补通政使"
+  },
+  {
+   "name": "徐谐武",
+   "role": "候选官员"
+  },
+  {
+   "name": "张吉午",
+   "role": "顺天府府尹"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16607,
+ "page_range": "367-368"
+}

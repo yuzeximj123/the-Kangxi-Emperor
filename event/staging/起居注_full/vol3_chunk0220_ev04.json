@@ -1,0 +1,40 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "二十六日甲戌",
+ "event_role": "人事任免",
+ "summary": "都察院题两浙盐差，明珠等奏开列官员情况，康熙帝命常翼圣前往。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "布尔哈",
+   "role": "御史"
+  },
+  {
+   "name": "西木图",
+   "role": "官员"
+  },
+  {
+   "name": "刘光美",
+   "role": "官员"
+  },
+  {
+   "name": "常翼圣",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两浙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22004,
+ "page_range": "475-476"
+}

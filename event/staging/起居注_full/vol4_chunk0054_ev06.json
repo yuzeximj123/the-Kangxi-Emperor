@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "十九日丁北",
+ "event_role": "朝见受贺",
+ "summary": "沂州副将霍维落、署理蒙阴县事通判孔航恩、千总王嘉泰等来朝。",
+ "people": [
+  {
+   "name": "霍维落",
+   "role": "沂州副将"
+  },
+  {
+   "name": "孔航恩",
+   "role": "署理蒙阴县事通判"
+  },
+  {
+   "name": "王嘉泰",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "蒙阴县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5406,
+ "page_range": "120-121"
+}

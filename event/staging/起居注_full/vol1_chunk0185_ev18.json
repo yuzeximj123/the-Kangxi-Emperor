@@ -1,0 +1,32 @@
+{
+ "reign_year": 18,
+ "month": 7,
+ "day_text": "初六日戊戌",
+ "event_role": "其他",
+ "summary": "未时康熙帝御瀛台前亭，赐吴喇忒、喀喇沁、四子部落来使等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布掩",
+   "role": "吴喇忒部落三品台吉"
+  },
+  {
+   "name": "杜喇尔",
+   "role": "喀喇沁部落四品塔布囊"
+  },
+  {
+   "name": "车臣噶布楚",
+   "role": "四子部落大喇嘛"
+  }
+ ],
+ "places": [
+  "瀛台前亭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18518,
+ "page_range": "427-428"
+}

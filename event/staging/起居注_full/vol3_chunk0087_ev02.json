@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "初八日丁丁",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台内殿，讲官常书、孙在丰、归克击进讲《二子乘舟》二章、《泛彼柏髓》二章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归克击",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "瀛台内殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8702,
+ "page_range": "209-210"
+}

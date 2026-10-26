@@ -1,0 +1,27 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "十六日两成",
+ "event_role": "谕旨决策",
+ "summary": "康熙谕示运米陕西本为预备赈济，今岁陕西丰收民安，此运米尚需时日且劳民，着该督会同河南巡抚详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "丁思孔",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "荆子关",
+  "湖广",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24507,
+ "page_range": "502-503"
+}

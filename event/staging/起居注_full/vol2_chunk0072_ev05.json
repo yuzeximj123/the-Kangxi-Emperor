@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初五日乙酉",
+ "event_role": "人事任免",
+ "summary": "兵部题福建水师提督施琅加衔事，康熙帝认为施琅复任提督应兼宫保职衔，李霨等赞同。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施琅",
+   "role": "福建水师提督"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7205,
+ "page_range": "187-188"
+}

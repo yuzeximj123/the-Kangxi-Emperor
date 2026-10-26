@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝启行时率诸皇子及善射侍卫射箭，皆中的，阅都司周芳、千总孙虎射毕，遍阅永定河南岸，驻跸宛平县榆代。",
+ "people": [
+  {
+   "name": "周芳",
+   "role": "都司"
+  },
+  {
+   "name": "孙虎",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "永定河南岸",
+  "宛平县榆代"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17701,
+ "page_range": "364-365"
+}

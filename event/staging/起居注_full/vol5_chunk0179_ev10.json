@@ -1,0 +1,33 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "十二日甲午",
+ "event_role": "朝见受贺",
+ "summary": "山西巡抚倭伦、布政使甘度、按察使巴锡、大同总兵官康调元等来朝。",
+ "people": [
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "甘度",
+   "role": "布政使"
+  },
+  {
+   "name": "巴锡",
+   "role": "按察使"
+  },
+  {
+   "name": "康调元",
+   "role": "大同总兵官"
+  }
+ ],
+ "places": [
+  "山西",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17910,
+ "page_range": "368-369"
+}

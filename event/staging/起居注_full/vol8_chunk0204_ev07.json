@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "覆请广东广西总督杨霖题参领五船之兵不能拿获三船贼之守备郑能等及巡哨托病私回之游击洪宾，康熙帝令郑能等革职拿问交该抚严审定拟具奏。",
+ "people": [
+  {
+   "name": "杨霖",
+   "role": "广东广西总督"
+  },
+  {
+   "name": "郑能",
+   "role": "守备"
+  },
+  {
+   "name": "洪宾",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20407,
+ "page_range": "419-420"
+}

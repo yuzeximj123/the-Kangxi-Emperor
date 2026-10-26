@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初八日甲午",
+ "event_role": "人事任免",
+ "summary": "题补镶红旗科道，康熙帝命詹哲补监察御史，倭棱额补户科给事中，温达补监察御史。",
+ "people": [
+  {
+   "name": "詹哲",
+   "role": "补监察御史"
+  },
+  {
+   "name": "倭棱额",
+   "role": "补户科给事中"
+  },
+  {
+   "name": "温达",
+   "role": "补监察御史"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 811,
+ "page_range": "59-60"
+}

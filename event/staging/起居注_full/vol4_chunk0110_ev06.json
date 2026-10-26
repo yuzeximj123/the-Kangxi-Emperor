@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙阅汉文帝时齐楚地震山崩论，疑为天心仁爱示以时保之义，杜讷对以与董子之言吻合。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜讷",
+   "role": "日讲官"
+  }
+ ],
+ "places": [
+  "齐",
+  "楚"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11006,
+ "page_range": "232-233"
+}

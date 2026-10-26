@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十三日庚午",
+ "event_role": "军务",
+ "summary": "兵部题江西老虎洞逆贼韩大任等率万余贼列阵，护军统领哈克山等杀败，议叙军功第三，康熙帝以议叙稍轻令再议。",
+ "people": [
+  {
+   "name": "韩大任",
+   "role": "逆贼首领"
+  },
+  {
+   "name": "哈克山",
+   "role": "护军统领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西老虎洞"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10409,
+ "page_range": "243-244"
+}

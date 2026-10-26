@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "署理江西巡抚事务按察使祁国福题大和盗杨志兴等即行处斩，康熙令照前例完结。",
+ "people": [
+  {
+   "name": "祁国福",
+   "role": "署理江西巡抚事务按察使"
+  },
+  {
+   "name": "杨志兴",
+   "role": "盗犯"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21806,
+ "page_range": "447-448"
+}

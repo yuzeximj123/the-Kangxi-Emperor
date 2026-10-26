@@ -1,0 +1,36 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初四日",
+ "event_role": "人事任免",
+ "summary": "题补甘肃布政使图尔宕员缺，康熙询问拟正色冷格情况后命色冷格补授。",
+ "people": [
+  {
+   "name": "图尔宕",
+   "role": "甘肃布政使"
+  },
+  {
+   "name": "色冷格",
+   "role": "户部郎中"
+  },
+  {
+   "name": "布喀",
+   "role": "陕西按察使"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15721,
+ "page_range": "349-350"
+}

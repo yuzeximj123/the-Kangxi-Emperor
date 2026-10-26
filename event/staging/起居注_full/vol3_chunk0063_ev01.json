@@ -1,0 +1,42 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题顺天学院员缺，拟田喜老为正、韩菊为陪，并增王琐龄等折子请旨，康熙帝命王琐龄补授学院。",
+ "people": [
+  {
+   "name": "田喜老",
+   "role": "洗马、拟正"
+  },
+  {
+   "name": "韩菊",
+   "role": "侍读、拟陪"
+  },
+  {
+   "name": "王琐龄",
+   "role": "补授学院"
+  },
+  {
+   "name": "李振裕",
+   "role": "被荐官员"
+  },
+  {
+   "name": "沈上塘",
+   "role": "被荐官员"
+  },
+  {
+   "name": "孙在丰",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6301,
+ "page_range": "161-162"
+}

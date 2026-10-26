@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "十九日壬申",
+ "event_role": "人事任免",
+ "summary": "吏部题补本部主事员缺，康熙帝询问后命刘始恢、田七善补授。",
+ "people": [
+  {
+   "name": "李锦",
+   "role": "候选主事"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "田七善",
+   "role": "候选主事"
+  },
+  {
+   "name": "张集",
+   "role": "候选主事"
+  },
+  {
+   "name": "李需",
+   "role": "汉大学士"
+  },
+  {
+   "name": "刘始恢",
+   "role": "候选主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4412,
+ "page_range": "131-132"
+}

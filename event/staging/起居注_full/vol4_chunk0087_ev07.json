@@ -1,0 +1,40 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "二十九日壬戌",
+ "event_role": "奏报地方情形",
+ "summary": "广东将军拜音达礼题广东湿热马死多、口粮不足，请照别省驻防支给，部议不准，康熙帝令再议。",
+ "people": [
+  {
+   "name": "拜音达礼",
+   "role": "广东将军"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8707,
+ "page_range": "186-187"
+}

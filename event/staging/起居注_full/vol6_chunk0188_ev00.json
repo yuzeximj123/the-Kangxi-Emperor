@@ -1,0 +1,20 @@
+{
+ "reign_year": 40,
+ "month": 1,
+ "day_text": "初一日己丑",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝元旦率诸王贝勒等诣堂子行礼，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "堂子"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18800,
+ "page_range": "386-387"
+}

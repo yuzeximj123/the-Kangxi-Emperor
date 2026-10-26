@@ -1,0 +1,22 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "初五日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "礼部题覆朝鲜国王送还广东遭风商民货物事，康熙帝令海禁已开，此后遭风船只停其送京，着另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜",
+  "广东",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8404,
+ "page_range": "180-181"
+}

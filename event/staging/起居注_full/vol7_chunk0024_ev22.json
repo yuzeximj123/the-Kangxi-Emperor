@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "十六日乙丑",
+ "event_role": "军务",
+ "summary": "兵部题征剿独人副将林方陷殉，议广东提督扔化行等罪，康熙帝命部院堂官往审，二人不必拿问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "林方",
+   "role": "副将"
+  },
+  {
+   "name": "扔化行",
+   "role": "广东提督"
+  },
+  {
+   "name": "刘虎",
+   "role": "官员"
+  },
+  {
+   "name": "宋柱",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2422,
+ "page_range": "59-60"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "二十五日甲实",
+ "event_role": "人事任免",
+ "summary": "礼部题已故镶白旗都统尼牙汉应否给谥请旨，康熙帝以其在岳州时未有善状，令不必给谥。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尼牙汉",
+   "role": "已故镶白旗都统"
+  }
+ ],
+ "places": [
+  "岳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9023,
+ "page_range": "215-216"
+}

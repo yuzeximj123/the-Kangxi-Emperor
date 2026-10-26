@@ -1,0 +1,44 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "三十日己丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，满大学士等各部院尚书以下进前，将拣选保举官员请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "戴纳",
+   "role": "宗人府郎中"
+  },
+  {
+   "name": "赫寿",
+   "role": "内净票签侍读"
+  },
+  {
+   "name": "何胡",
+   "role": "内净票签侍读"
+  },
+  {
+   "name": "鄂海",
+   "role": "内净票签侍读"
+  },
+  {
+   "name": "噶礼",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "苏",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8116,
+ "page_range": "172-173"
+}

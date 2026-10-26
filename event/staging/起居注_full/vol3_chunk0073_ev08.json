@@ -1,0 +1,42 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "初九日已雍",
+ "event_role": "人事任免",
+ "summary": "吏部题副都御史崔泪升任员缺，康熙认为汉军无可堪用者，命胡异贞补授。",
+ "people": [
+  {
+   "name": "崔泪",
+   "role": "副都御史，升任"
+  },
+  {
+   "name": "李延松",
+   "role": "府丞"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "边声廷",
+   "role": "官员"
+  },
+  {
+   "name": "王守才",
+   "role": "官员"
+  },
+  {
+   "name": "胡异贞",
+   "role": "副都御史，补授"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7308,
+ "page_range": "181-182"
+}

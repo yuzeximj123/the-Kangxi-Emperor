@@ -1,0 +1,38 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问赵申乔广东赵弘灿、满丕居官如何，赵申乔奏赵弘灿小心谨慎能写字；又问甘国壁何以知之，赵申乔奏其任宁波知府承审明决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "官员"
+  },
+  {
+   "name": "满丕",
+   "role": "官员"
+  },
+  {
+   "name": "甘国壁",
+   "role": "宁波知府"
+  }
+ ],
+ "places": [
+  "广东",
+  "宁波",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8608,
+ "page_range": "183-184"
+}

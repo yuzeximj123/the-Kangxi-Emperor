@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": "二十四日于辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问台湾道陈瑸居官，李光地称其操守清、台湾非此人不可。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈瑸",
+   "role": "台湾道"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8112,
+ "page_range": "173-174"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十八日庚寅",
+ "event_role": "朝见受贺",
+ "summary": "直隶学院侍讲杨名时、真定府副将郝伟等来朝见。",
+ "people": [
+  {
+   "name": "杨名时",
+   "role": "直隶学院侍讲"
+  },
+  {
+   "name": "郝伟",
+   "role": "真定府副将"
+  }
+ ],
+ "places": [
+  "直隶",
+  "真定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7622,
+ "page_range": "163-164"
+}

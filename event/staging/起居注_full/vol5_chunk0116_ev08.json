@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "十八日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝见汉军未起营，谕索额图派大臣管领行走并会议具奏，索额图将内大臣以下、侍郎以上职名写绿头签启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11608,
+ "page_range": "242-243"
+}

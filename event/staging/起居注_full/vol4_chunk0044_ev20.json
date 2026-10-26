@@ -1,0 +1,29 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "二十五日甲子",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏完毕，九卿等进前，兵部尚书纪尔塔布奏会议杭州将军郭丕所奏事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "纪尔塔布",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "郭丕",
+   "role": "杭州将军"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4420,
+ "page_range": "100-101"
+}

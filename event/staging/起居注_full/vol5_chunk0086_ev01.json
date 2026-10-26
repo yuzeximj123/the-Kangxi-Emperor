@@ -1,0 +1,20 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以霸昌道员缺紧要、旗兵杂处事务繁杂，宜补旗员，命将革职金云凤员缺会同选补具奏。",
+ "people": [
+  {
+   "name": "金云凤",
+   "role": "革职官员"
+  }
+ ],
+ "places": [
+  "霸昌道"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8601,
+ "page_range": "182-183"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "十五日己卯",
+ "event_role": "朝见受贺",
+ "summary": "早，康熙帝御太和门视朝，升转文武官员谢恩，荷兰国进贡正使宾先吧芝、副使雷氏、圭氏等行礼，赐茶毕回寓。",
+ "people": [
+  {
+   "name": "宾先吧芝",
+   "role": "荷兰国进贡正使"
+  },
+  {
+   "name": "雷氏",
+   "role": "荷兰国副使"
+  },
+  {
+   "name": "圭氏",
+   "role": "荷兰国副使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17405,
+ "page_range": "383-384"
+}

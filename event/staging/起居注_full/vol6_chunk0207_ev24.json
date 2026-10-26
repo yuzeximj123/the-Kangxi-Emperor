@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "二十三日己卯",
+ "event_role": "人事任免",
+ "summary": "甘肃巡抚咯拜题请留任升补广西思恩府副将中军守备吴兆龙，康熙帝照所题留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "咯拜",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "吴兆龙",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "广西",
+  "思恩府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20724,
+ "page_range": "424-425"
+}

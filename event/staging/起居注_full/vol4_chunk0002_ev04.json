@@ -1,0 +1,21 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "十一日乙酉",
+ "event_role": "祭祀典礼",
+ "summary": "卯时奉移大行太皇太后梓宫安于朝阳门外殡宫发引，康熙帝环抱梓宫稽颡痛哭，近臣再四劝请不从。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝阳门外殡宫",
+  "东华门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 204,
+ "page_range": "16-17"
+}

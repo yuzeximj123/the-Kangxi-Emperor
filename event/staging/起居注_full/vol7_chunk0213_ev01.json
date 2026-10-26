@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝召大学士、九卿、翰林、科道官员入洲宁居赐食并赐茶叶果品。",
+ "people": [
+  {
+   "name": "大学士",
+   "role": "大学士"
+  },
+  {
+   "name": "九卿",
+   "role": "九卿"
+  },
+  {
+   "name": "翰林",
+   "role": "翰林"
+  },
+  {
+   "name": "科道官员",
+   "role": "科道官员"
+  }
+ ],
+ "places": [
+  "洲宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21301,
+ "page_range": "437-438"
+}

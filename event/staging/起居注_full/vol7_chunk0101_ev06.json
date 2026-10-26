@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝评论数科状元俱不甚佳，韩莱学问优而不自检饰好饮酒，王式丹不检饰且懒惰，榜眼赵晋甚佳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩莱",
+   "role": "状元"
+  },
+  {
+   "name": "王式丹",
+   "role": "状元"
+  },
+  {
+   "name": "赵晋",
+   "role": "榜眼"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10106,
+ "page_range": "213-214"
+}

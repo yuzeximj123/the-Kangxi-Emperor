@@ -1,0 +1,25 @@
+{
+ "reign_year": 30,
+ "month": 3,
+ "day_text": "二十七日癸丑",
+ "event_role": "军务",
+ "summary": "甘肃总兵官柯彩题请选标下官兵一千于宁夏军前效力，并请另选能员补授其缺；帝嘉其效力行间多有劳绩，令仍留本处。",
+ "people": [
+  {
+   "name": "柯彩",
+   "role": "甘肃总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14610,
+ "page_range": "304-305"
+}

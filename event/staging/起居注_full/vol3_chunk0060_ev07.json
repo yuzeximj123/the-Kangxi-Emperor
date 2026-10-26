@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "二十日辛巳",
+ "event_role": "朝见受贺",
+ "summary": "东平州知州张聪等、千总曹国辅来朝见。",
+ "people": [
+  {
+   "name": "张聪",
+   "role": "东平州知州"
+  },
+  {
+   "name": "曹国辅",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "东平州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6007,
+ "page_range": "155-156"
+}

@@ -1,0 +1,66 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士伊桑阿等偕步军统领凯音布进前，以兵部定议补授巡捕营千总例请旨，康熙帝责问凯音布并令改正具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "吴珊",
+   "role": "大学士"
+  },
+  {
+   "name": "范承烈",
+   "role": "学士"
+  },
+  {
+   "name": "王九龄",
+   "role": "学士"
+  },
+  {
+   "name": "曹鉴伦",
+   "role": "学士"
+  },
+  {
+   "name": "希福纳",
+   "role": "学士"
+  },
+  {
+   "name": "傅伸",
+   "role": "学士"
+  },
+  {
+   "name": "来道",
+   "role": "学士"
+  },
+  {
+   "name": "来都",
+   "role": "学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "步军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 201,
+ "page_range": "15-16"
+}

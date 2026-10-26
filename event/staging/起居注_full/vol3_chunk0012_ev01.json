@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕责正阳门外火灾时该城及司坊巡捕营等官无人救火，命严察具奏，并传谕吏兵二部及都察院。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "科尔坤",
+   "role": "左都御史"
+  },
+  {
+   "name": "郭下",
+   "role": "侍郎"
+  },
+  {
+   "name": "阿兰秦",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "正阳门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1201,
+ "page_range": "59-60"
+}

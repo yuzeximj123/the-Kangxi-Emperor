@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 3,
+ "day_text": "二十七日癸丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补盛京兵部侍郎，开列内阁学士迈图等职名；帝以拜为人平常、盛京兵部事务甚简，令将拜调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "迈图",
+   "role": "内阁学士"
+  },
+  {
+   "name": "拜",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14611,
+ "page_range": "304-305"
+}

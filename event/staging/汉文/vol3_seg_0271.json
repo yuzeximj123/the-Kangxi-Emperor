@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾年拾月贰拾壹日",
+ "reign_year": 50,
+ "month": 10,
+ "day": 21,
+ "event_role": "请安谢恩",
+ "summary": "贵州提督总兵官王文雄收到皇上赏赐鹿肉干，率全家望阙叩头谢恩，并跪读御批，缮折恭谢天恩。",
+ "people": [
+  {
+   "name": "王文雄",
+   "role": "贵州提督总兵官，奏折作者"
+  },
+  {
+   "name": "王忠",
+   "role": "王文雄家人，赍捧赏赐鹿肉干到贵州"
+  },
+  {
+   "name": "王廷柱",
+   "role": "王文雄之子，吏部候选州同，赍捧奏折进京"
+  }
+ ],
+ "places": [
+  "贵州",
+  "安顺府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示皇帝已阅知此事。",
+ "source_title": "王文雄奏谢天恩",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 271
+}

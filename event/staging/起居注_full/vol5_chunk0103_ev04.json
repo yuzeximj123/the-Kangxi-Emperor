@@ -1,0 +1,41 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "学士觉罗三宝入奏相视道途情形，称出古北口二十余里道路修治平坦，并转述运米郎中噶礼等言及西路兵掘井得水。",
+ "people": [
+  {
+   "name": "觉罗三宝",
+   "role": "学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "噶礼",
+   "role": "运米郎中"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "萨木哈",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "古北口",
+  "喀伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10304,
+ "page_range": "216-217"
+}

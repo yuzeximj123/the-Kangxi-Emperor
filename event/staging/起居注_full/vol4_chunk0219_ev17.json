@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "二十日甲午",
+ "event_role": "人事任免",
+ "summary": "吏部题正黄旗一等伯巴特马年老休致，康熙帝以四格庸劣、次子厄参俊爽，命问巴特马。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴特马",
+   "role": "一等伯"
+  },
+  {
+   "name": "四格",
+   "role": "巴特马长子"
+  },
+  {
+   "name": "厄参",
+   "role": "巴特马次子、侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21917,
+ "page_range": "450-451"
+}

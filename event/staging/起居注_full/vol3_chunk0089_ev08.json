@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "二十日己本",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读博极升任员缺，拟宋柱正、贾色陪，康熙帝以二人平常，命衙门会同吏部选择补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "宋柱",
+   "role": "刑部主事"
+  },
+  {
+   "name": "贾色",
+   "role": "都察院都事"
+  },
+  {
+   "name": "博极",
+   "role": "内阁侍读"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8908,
+ "page_range": "213-214"
+}

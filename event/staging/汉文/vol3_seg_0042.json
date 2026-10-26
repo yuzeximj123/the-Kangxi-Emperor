@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十九年九月二十一日",
+ "reign_year": 49,
+ "month": 9,
+ "day": 11,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮密奏查复粜卖屯粮一案，称各庄头多有将空无米谷存贮，恐米石无著落，不敢冒昧题明，谨密奏候圣裁。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批认可此为实事，表示知道了。",
+ "source_title": "直隸巡撫趙弘燮奏報查復糶賣屯糧一案情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "741",
+ "order_index": 42
+}

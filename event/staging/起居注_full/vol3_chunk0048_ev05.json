@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "十七日庚辰",
+ "event_role": "人事任免",
+ "summary": "吏部题督捕侍郎达哈塔调补员缺，康熙帝命库勒纳调补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "官员"
+  },
+  {
+   "name": "达哈塔",
+   "role": "督捕侍郎"
+  },
+  {
+   "name": "石柱",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4805,
+ "page_range": "131-132"
+}

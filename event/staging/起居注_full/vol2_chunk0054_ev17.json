@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十一日",
+ "event_role": "人事任免",
+ "summary": "九卿会推河南按察使，正拟迟日虹、陪拟李国亮，康熙从明珠言命迟日虹补授。",
+ "people": [
+  {
+   "name": "迟日虹",
+   "role": "分巡道"
+  },
+  {
+   "name": "李国亮",
+   "role": "陪拟官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5417,
+ "page_range": "151-152"
+}

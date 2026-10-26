@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十七日",
+ "event_role": "议政听政",
+ "summary": "康熙帝斥责结党之人，乌礼自辩仅与鄂善饮酒并无结党，齐世武亦自辩并供出与鄂善互相请饭之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "乌礼",
+   "role": "副都统"
+  },
+  {
+   "name": "齐世武",
+   "role": "尚书"
+  },
+  {
+   "name": "鄂善",
+   "role": "都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19306,
+ "page_range": "397-398"
+}

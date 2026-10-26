@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "福建提督万正色请开沿海边界，兵部议候督抚详议，康熙帝以金门厦门已收复、设界无用，令携回京城从容定夺。",
+ "people": [
+  {
+   "name": "万正色",
+   "role": "福建提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "金门",
+  "厦门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3101,
+ "page_range": "105-106"
+}

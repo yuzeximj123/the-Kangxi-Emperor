@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初九日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙以朱书谕马齐等，准直隶巡抚赵弘燮所请分年带征河间等州县历年拖欠钱粮具题，并命户部查明各省拖欠总数速奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "河间"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10916,
+ "page_range": "229-230"
+}

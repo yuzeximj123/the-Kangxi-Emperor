@@ -1,0 +1,21 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "十四日康成",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙由西直门进神武门回宫。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西直门",
+  "神武门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10508,
+ "page_range": "220-221"
+}

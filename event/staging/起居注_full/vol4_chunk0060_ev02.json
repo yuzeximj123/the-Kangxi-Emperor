@@ -1,0 +1,30 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝遣礼部尚书张玉书、工部尚书苏赫至丁忧礼部尚书熊赐履宅，赐茶、酒、果品、鹿肉、鹿尾及羊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "苏赫",
+   "role": "工部尚书"
+  },
+  {
+   "name": "熊赐履",
+   "role": "丁忧礼部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6002,
+ "page_range": "132-133"
+}

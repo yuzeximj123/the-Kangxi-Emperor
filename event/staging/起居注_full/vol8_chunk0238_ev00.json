@@ -1,0 +1,28 @@
+{
+ "reign_year": 57,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补广西布政使武廷适参革员缺，开列按察使董永区等职名请旨，康熙命问九卿具奏。",
+ "people": [
+  {
+   "name": "武廷适",
+   "role": "广西布政使"
+  },
+  {
+   "name": "董永区",
+   "role": "按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23800,
+ "page_range": "487-488"
+}

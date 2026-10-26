@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 8,
+ "day_text": "二十三日甲成",
+ "event_role": "朝见受贺",
+ "summary": "乌朱穆秦和硕车臣亲王塞登敦多普、扎鲁特多罗贝勒毕鲁瓦、一品台吉拉下克来请安。",
+ "people": [
+  {
+   "name": "塞登敦多普",
+   "role": "乌朱穆秦和硕车臣亲王"
+  },
+  {
+   "name": "毕鲁瓦",
+   "role": "扎鲁特多罗贝勒"
+  },
+  {
+   "name": "拉下克",
+   "role": "一品台吉"
+  }
+ ],
+ "places": [
+  "乌朱穆秦",
+  "扎鲁特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22902,
+ "page_range": "469-470"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": "十三日乙西",
+ "event_role": "朝见受贺",
+ "summary": "采育防守御常寿、守备蒲云际、笔帖式阿那胡、千总杨世沛、把总江永锭等来朝见。",
+ "people": [
+  {
+   "name": "常寿",
+   "role": "采育防守御"
+  },
+  {
+   "name": "蒲云际",
+   "role": "守备"
+  },
+  {
+   "name": "阿那胡",
+   "role": "笔帖式"
+  },
+  {
+   "name": "杨世沛",
+   "role": "千总"
+  },
+  {
+   "name": "江永锭",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "采育"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5327,
+ "page_range": "117-118"
+}

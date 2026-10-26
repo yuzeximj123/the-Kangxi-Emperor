@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十一日戊申",
+ "event_role": "人事任免",
+ "summary": "贵州提督赵赖请从近地选用贵州官员，康熙帝令再议具奏。",
+ "people": [
+  {
+   "name": "赵赖",
+   "role": "贵州提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州",
+  "黎平"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25809,
+ "page_range": "573-574"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部议山东登州总兵李雄请设水师营副将等官，康熙令与苏努、松柱等再议。",
+ "people": [
+  {
+   "name": "李雄",
+   "role": "山东登州总兵官"
+  },
+  {
+   "name": "苏努",
+   "role": "贝子"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东登州",
+  "金州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4702,
+ "page_range": "105-106"
+}

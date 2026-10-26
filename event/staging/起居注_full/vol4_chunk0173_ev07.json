@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "二十六日丙子",
+ "event_role": "人事任免",
+ "summary": "吏部题左春坊左庶子李应诊员缺，拟以侍读高瑛升补，康熙帝以其人不堪，命另行具奏，高瑛照原品以部院衙门用。",
+ "people": [
+  {
+   "name": "李应诊",
+   "role": "左春坊左庶子"
+  },
+  {
+   "name": "高瑛",
+   "role": "翰林院侍读"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17307,
+ "page_range": "358-359"
+}

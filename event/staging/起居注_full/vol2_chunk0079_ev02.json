@@ -1,0 +1,27 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "十八日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士，巡行见漕船挽运艰苦、霸州田地被浑河冲没，命酌增运丁工食并蠲免被灾钱粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "霸州",
+  "天津",
+  "通州",
+  "浑河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7902,
+ "page_range": "201-202"
+}

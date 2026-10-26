@@ -1,0 +1,27 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命于成龙速分委效力人员并力开浚下河通海口及射阳湖淤处，并指示将黄河南岸近淮之堤东延、淮水堤湾曲拓筑使斜行会流。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "下河",
+  "射阳湖",
+  "黄河南岸",
+  "淮水"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8101,
+ "page_range": "172-173"
+}

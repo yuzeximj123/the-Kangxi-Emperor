@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "二十五日丙午",
+ "event_role": "司法案件",
+ "summary": "兵部议覆阿气老下臧将钦差官员肆行抢夺一案，提督孙思克请宽免追取，康熙帝以孙思克区处合宜、边务尽心，依议宽免行凶之人及追取抢夺之物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "提督"
+  },
+  {
+   "name": "阿气老",
+   "role": "涉案人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16909,
+ "page_range": "350-351"
+}

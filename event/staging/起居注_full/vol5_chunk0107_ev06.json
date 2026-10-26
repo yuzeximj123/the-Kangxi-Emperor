@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "十八日甲成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝令皇长子留后，将车辆尽行规出，仅余八辆，令车主赴皇长子处以牛驾之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  },
+  {
+   "name": "伍格",
+   "role": "乾清门侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10706,
+ "page_range": "224-225"
+}

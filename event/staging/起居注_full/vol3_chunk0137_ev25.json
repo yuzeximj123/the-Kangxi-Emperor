@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 1,
+ "day_text": "初一日乙本",
+ "event_role": "河工水利",
+ "summary": "九卿会议开滩海口应暂停止，康熙帝询问九卿所议，明珠奏已奉旨往勘。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "萨木哈",
+   "role": "尚书"
+  },
+  {
+   "name": "穆成格",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "开滩海口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13725,
+ "page_range": "309-310"
+}

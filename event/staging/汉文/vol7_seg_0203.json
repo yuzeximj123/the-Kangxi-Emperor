@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十年八月望日",
+ "reign_year": 50,
+ "month": 8,
+ "day": 15,
+ "event_role": "收到奏折",
+ "summary": "李煦奏报已遵旨打听李陈常事迹并另单开列进呈，同时奏报李阵当队病卒已于七月二十七日病故。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "李陈常",
+   "role": "被打听事迹的官员"
+  },
+  {
+   "name": "李阵当",
+   "role": "病故的队病卒"
+  }
+ ],
+ "places": [
+  "崇明"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并留下所附名单。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 203
+}

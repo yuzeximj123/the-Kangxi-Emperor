@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十二日丙申",
+ "event_role": "河工水利",
+ "summary": "江南安徽按察使多弘安题请修理高家堰，康熙帝命总河靳辅一并确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "多弘安",
+   "role": "江南安徽按察使"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "江南",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14013,
+ "page_range": "315-316"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初七日",
+ "event_role": "人事任免",
+ "summary": "吏部题都察院副都御史王景曾员缺，开列江球、张连登，康熙问李光地后命江球补授左副都御史。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "江球",
+   "role": "宗人府府孙，补授左副都御史"
+  },
+  {
+   "name": "张连登",
+   "role": "通政使"
+  },
+  {
+   "name": "王景曾",
+   "role": "都察院副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22101,
+ "page_range": "453-454"
+}

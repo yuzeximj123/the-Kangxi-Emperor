@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "琉球国中山王尚贞遣使纳贡，康熙帝赐蟒缎等物，来使毛兴隆等俱受赏赐。",
+ "people": [
+  {
+   "name": "尚贞",
+   "role": "琉球国中山王"
+  },
+  {
+   "name": "毛兴隆",
+   "role": "耳目官"
+  }
+ ],
+ "places": [
+  "琉球国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7401,
+ "page_range": "159-160"
+}

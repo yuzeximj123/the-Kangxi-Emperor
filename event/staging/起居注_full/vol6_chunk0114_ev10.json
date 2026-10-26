@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "二十九日甲子",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等奏议张家口驿站马匹一二年后裁革，康熙帝以驿马为蒙古而设，命照常留之。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "班第",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11410,
+ "page_range": "238-239"
+}

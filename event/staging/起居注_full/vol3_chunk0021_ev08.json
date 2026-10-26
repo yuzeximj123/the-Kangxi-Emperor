@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十七日壬子",
+ "event_role": "皇帝行止",
+ "summary": "是日文皇后搬，康熙帝不理政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "文皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2108,
+ "page_range": "77-78"
+}

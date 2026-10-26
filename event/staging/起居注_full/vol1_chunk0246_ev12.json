@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初四日辛酉",
+ "event_role": "人事任免",
+ "summary": "兵部题补正蓝旗副都统员缺，康熙帝命将喇克达补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "多散",
+   "role": "拟正护军参领"
+  },
+  {
+   "name": "孙塔哈",
+   "role": "拟陪"
+  },
+  {
+   "name": "喇克达",
+   "role": "补授副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24612,
+ "page_range": "549-550"
+}

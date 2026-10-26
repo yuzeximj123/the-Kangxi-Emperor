@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": "二十四日于成",
+ "event_role": "朝见受贺",
+ "summary": "怀柔县知县吴景果、守备赵成贵、把总张兴祖、训导王允功等来朝。",
+ "people": [
+  {
+   "name": "吴景果",
+   "role": "怀柔县知县"
+  },
+  {
+   "name": "赵成贵",
+   "role": "守备"
+  },
+  {
+   "name": "张兴祖",
+   "role": "把总"
+  },
+  {
+   "name": "王允功",
+   "role": "训导"
+  }
+ ],
+ "places": [
+  "怀柔县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7212,
+ "page_range": "155-156"
+}

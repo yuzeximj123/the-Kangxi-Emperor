@@ -1,0 +1,30 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "十九日",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读学士喀喇革职员缺，以理藩院郎中奈马代拟正、满耕拟陪，康熙帝提及户部郎中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀喇",
+   "role": "革职内阁侍读学士"
+  },
+  {
+   "name": "奈马代",
+   "role": "理藩院郎中"
+  },
+  {
+   "name": "满耕",
+   "role": "拟陪官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6719,
+ "page_range": "146-147"
+}

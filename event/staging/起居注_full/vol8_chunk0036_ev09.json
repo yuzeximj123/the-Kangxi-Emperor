@@ -1,0 +1,21 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "二十日甲子",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝至畅春园，诣谦尊堂问安，驻跸畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "谦尊堂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3609,
+ "page_range": "83-84"
+}

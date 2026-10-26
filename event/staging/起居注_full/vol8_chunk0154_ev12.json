@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "初四日庚申",
+ "event_role": "其他",
+ "summary": "康熙帝赐都统巴赛、总兵官保柱、副将杨弘德、赵鳃等马各一匹。",
+ "people": [
+  {
+   "name": "巴赛",
+   "role": "都统"
+  },
+  {
+   "name": "保柱",
+   "role": "总兵官"
+  },
+  {
+   "name": "杨弘德",
+   "role": "副将"
+  },
+  {
+   "name": "赵鳃",
+   "role": "副将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15412,
+ "page_range": "319-320"
+}

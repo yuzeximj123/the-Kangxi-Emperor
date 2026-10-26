@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "十九日甲辰",
+ "event_role": "其他",
+ "summary": "礼部遵旨以赐琉球国中山王世孙尚益蟒缎、彩缎等物交与贡使，并赐正副使彩缎有差。",
+ "people": [
+  {
+   "name": "尚益",
+   "role": "琉球国中山王世孙"
+  },
+  {
+   "name": "备命时",
+   "role": "正使耳目官"
+  },
+  {
+   "name": "阮维新",
+   "role": "副使正义大夫"
+  }
+ ],
+ "places": [
+  "琉球国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19623,
+ "page_range": "403-404"
+}

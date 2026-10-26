@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "二十七日庚子",
+ "event_role": "谕旨决策",
+ "summary": "亲近一等侍卫海青传谕，令喀喇沁兵三百名、敖汉兵一百名先回，每人赏银二两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海青",
+   "role": "一等侍卫"
+  }
+ ],
+ "places": [
+  "喀喇沁",
+  "敖汉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6824,
+ "page_range": "147-148"
+}

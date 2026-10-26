@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "二十日两子",
+ "event_role": "起居注官记录",
+ "summary": "康熙帝御制咏金于花柳梢青词一阕，命侍讲学士把叙、检讨阿金、法海至行宫各赋诗一章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "把叙",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "阿金",
+   "role": "检讨"
+  },
+  {
+   "name": "法海",
+   "role": "检讨"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20714,
+ "page_range": "424-425"
+}

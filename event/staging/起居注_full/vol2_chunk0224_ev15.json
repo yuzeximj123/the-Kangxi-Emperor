@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "十四日壬午",
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚格尔古德赴行在请安，康熙帝以地方事务紧要，命即回保定，不必随行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "格尔古德",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "保定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22415,
+ "page_range": "491-492"
+}

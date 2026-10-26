@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "十四日丁效",
+ "event_role": "朝见受贺",
+ "summary": "厄鲁特台吉大颜等、喀尔喀土谢图汗额尔德尼阿海多尔济等来朝。",
+ "people": [
+  {
+   "name": "大颜",
+   "role": "厄鲁特台吉"
+  },
+  {
+   "name": "额尔德尼阿海多尔济",
+   "role": "喀尔喀土谢图汗"
+  }
+ ],
+ "places": [
+  "厄鲁特",
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6731,
+ "page_range": "145-146"
+}

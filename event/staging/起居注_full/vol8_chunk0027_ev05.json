@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题海贼郑尽心案内降级之浙江提督吴郡应否援诏给还原职请旨，康熙帝以吴郡系军机革职，命勿还原职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴郡",
+   "role": "浙江提督"
+  },
+  {
+   "name": "郑尽心",
+   "role": "海贼"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2705,
+ "page_range": "65-66"
+}

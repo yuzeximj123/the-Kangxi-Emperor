@@ -1,0 +1,36 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝遣侍卫携银三百两至喇沙里家，赐其子三等侍卫俄尔济图，并传谕褒奖喇沙里居官勤慎、赐银治丧。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "对亲",
+   "role": "内班侍卫衣都额真"
+  },
+  {
+   "name": "尔格",
+   "role": "三等侍卫"
+  },
+  {
+   "name": "喇沙里",
+   "role": "已故讲官"
+  },
+  {
+   "name": "俄尔济图",
+   "role": "三等侍卫、喇沙里之子"
+  }
+ ],
+ "places": [
+  "喇沙里家"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20700,
+ "page_range": "471-472"
+}

@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十五年（起居注原文未标月份，据文意当在初六日之前）",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "（未标日期）",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就重犯册档未经对出案斥责议处未及前任堂官，命再行察议",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏齐",
+   "role": "侍郎"
+  },
+  {
+   "name": "划可托",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3210
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "初三日癸卯",
+ "event_role": "朝见受贺",
+ "summary": "通州副将陈经鹿、大西仓监督杨住、通惠河分司钱永登来朝。",
+ "people": [
+  {
+   "name": "陈经鹿",
+   "role": "通州副将"
+  },
+  {
+   "name": "杨住",
+   "role": "大西仓监督"
+  },
+  {
+   "name": "钱永登",
+   "role": "通惠河分司"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7805,
+ "page_range": "166-167"
+}

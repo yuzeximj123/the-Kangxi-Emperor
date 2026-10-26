@@ -1,0 +1,24 @@
+{
+ "reign_year": 57,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "礼部题磨勘顺天、山东、河南、浙江、湖广五处乡试卷，康熙命问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺天",
+  "山东",
+  "河南",
+  "浙江",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23801,
+ "page_range": "487-488"
+}

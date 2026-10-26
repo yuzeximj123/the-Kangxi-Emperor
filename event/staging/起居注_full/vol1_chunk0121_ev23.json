@@ -1,0 +1,25 @@
+{
+ "reign_year": 15,
+ "month": 9,
+ "day_text": "十四日癸巳",
+ "event_role": "皇帝行止",
+ "summary": "申时康熙帝赴太皇太后行宫问安，驻跸汤山之阴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后行宫",
+  "汤山之阴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12123,
+ "page_range": "299-300"
+}

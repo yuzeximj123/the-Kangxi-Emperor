@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部题奏原任巡抚王起元等承修河工告竣应遣还，康熙谕令回京，并就高承梧所修工程及高家堰事宜指示张鹏翮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "王起元",
+   "role": "原任巡抚"
+  },
+  {
+   "name": "高承梧",
+   "role": "河工官员"
+  }
+ ],
+ "places": [
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6001,
+ "page_range": "131-132"
+}

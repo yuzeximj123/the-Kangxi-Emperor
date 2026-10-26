@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题窃盗二小子拒捕戳伤步兵黑子拟秋后绞，康熙命依议，并令照例给赏擒贼受伤步兵黑子。",
+ "people": [
+  {
+   "name": "二小子",
+   "role": "窃盗"
+  },
+  {
+   "name": "黑子",
+   "role": "步兵"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2404,
+ "page_range": "59-60"
+}

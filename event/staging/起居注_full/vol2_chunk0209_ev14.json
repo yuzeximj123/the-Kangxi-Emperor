@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初一日庚子",
+ "event_role": "谕旨决策",
+ "summary": "已时讲官牛钮、张玉书、汤斌至乾清门候进讲，奏事教住传谕改于启奏前进讲以便从容多讲，牛钮等奏遵谕行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  },
+  {
+   "name": "汤斌",
+   "role": "讲官"
+  },
+  {
+   "name": "教住",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20914,
+ "page_range": "461-462"
+}

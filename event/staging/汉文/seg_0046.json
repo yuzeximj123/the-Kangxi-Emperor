@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十一年五月",
+ "reign_year": 41,
+ "month": 5,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报苏州菜麦已收割、雨水充足、秧苗正在插种，百姓安悦。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知京城春旱后立夏麦收、雨水充沛，自己将出关避暑，并嘱咐李煦酌情照看南归的申客中纳监者。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "50",
+ "source_title": "蘇州織造李煦奏報蘇州菜麥已經收割摺",
+ "order_index": 46
+}

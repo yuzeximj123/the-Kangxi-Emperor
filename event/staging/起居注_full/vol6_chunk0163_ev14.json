@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": "二十四日乙卯",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等遵旨将内升科道官员问明具折呈览，康熙帝命张壹内升御史，张世爵亦着内升。",
+ "people": [
+  {
+   "name": "张壹",
+   "role": "给事中升御史"
+  },
+  {
+   "name": "张世爵",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "淮安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16314,
+ "page_range": "336-337"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议定自宁夏至白塔十站交总督吴赫安置，自白塔至厄克阿喇尔共五十站每站设一驿，每驿设鄂尔多斯兵十五名。",
+ "people": [
+  {
+   "name": "吴赫",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "白塔",
+  "厄克阿喇尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21415,
+ "page_range": "438-439"
+}

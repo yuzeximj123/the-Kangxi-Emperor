@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "阿兰泰奏九卿议补广东提督，康熙帝以李镇居官实善，命升补广东提督，并称天津地方紧要难觅其人。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "李镇",
+   "role": "天津官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "天津",
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6902,
+ "page_range": "148-149"
+}

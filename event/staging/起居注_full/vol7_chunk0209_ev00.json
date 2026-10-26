@@ -1,0 +1,38 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请将原任工部员外郎胡班等因取用彩绸纺丝迟延交送议降一级调用罚俸一年，康熙帝从宽免降调仍留原任。",
+ "people": [
+  {
+   "name": "胡班",
+   "role": "原任工部员外郎升任给事中"
+  },
+  {
+   "name": "克色",
+   "role": "议处官员"
+  },
+  {
+   "name": "巴什纳",
+   "role": "议处官员"
+  },
+  {
+   "name": "白保住",
+   "role": "议处官员"
+  },
+  {
+   "name": "胡礼",
+   "role": "议处官员"
+  },
+  {
+   "name": "布雅图",
+   "role": "议处官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20900,
+ "page_range": "429-430"
+}

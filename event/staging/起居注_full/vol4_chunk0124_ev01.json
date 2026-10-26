@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 6,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "江南江西总督傅腊塔题参大学士徐元文等，康熙命问九卿回奏。",
+ "people": [
+  {
+   "name": "傅腊塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12401,
+ "page_range": "260-261"
+}

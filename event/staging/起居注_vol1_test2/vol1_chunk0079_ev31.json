@@ -1,0 +1,20 @@
+{
+ "reign_year": 13,
+ "month": 10,
+ "day_text": "初十日康子",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝赴太皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7931,
+ "page_range": "215-216"
+}

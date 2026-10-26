@@ -1,0 +1,34 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝引见太常寺博士戴表等四十一员，询问如何分别补用，伊桑阿、王熙、张玉书各陈意见，康熙决定不必考试，令查从前补用旧例具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "戴表",
+   "role": "太常寺博士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17700,
+ "page_range": "366-367"
+}

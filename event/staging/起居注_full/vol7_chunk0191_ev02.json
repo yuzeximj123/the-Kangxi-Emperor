@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题镶红旗汉军李起龙斗殴戳死王四顺拟绞监候，康熙令照新例再议具奏。",
+ "people": [
+  {
+   "name": "李起龙",
+   "role": "马兵"
+  },
+  {
+   "name": "王四顺",
+   "role": "马兵"
+  },
+  {
+   "name": "纪自成",
+   "role": "佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19102,
+ "page_range": "393-394"
+}

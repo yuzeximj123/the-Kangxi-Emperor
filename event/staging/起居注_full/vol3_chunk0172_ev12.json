@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "初七日己未",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝复御勤政殿门，赐喀尔喀部落土谢图汗弟济布尊丹巴库图克图来使厄尔德尼圳素戴青等食。",
+ "people": [
+  {
+   "name": "厄尔德尼圳素戴青",
+   "role": "来使"
+  },
+  {
+   "name": "顾英下",
+   "role": "来使"
+  }
+ ],
+ "places": [
+  "勤政殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17212,
+ "page_range": "379-380"
+}

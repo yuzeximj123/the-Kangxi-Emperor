@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "十八日己丑",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝命大学士伊桑阿致祭松花江。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "松花江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5525,
+ "page_range": "120-121"
+}

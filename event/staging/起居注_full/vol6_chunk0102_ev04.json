@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问刚五达等经过直隶地方是否见蝗虫，刚五达奏报不多，仅见一二。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刚五达",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10204,
+ "page_range": "214-215"
+}

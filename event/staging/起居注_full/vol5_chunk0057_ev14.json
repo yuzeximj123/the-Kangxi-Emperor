@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "初七日已雍",
+ "event_role": "人事任免",
+ "summary": "康熙帝引见护军参领牛钮，问其族属历俸军功，以其人材颇优、历俸有年，命升补副都统。",
+ "people": [
+  {
+   "name": "牛钮",
+   "role": "护军参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俄托",
+   "role": "前锋参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5714,
+ "page_range": "124-125"
+}

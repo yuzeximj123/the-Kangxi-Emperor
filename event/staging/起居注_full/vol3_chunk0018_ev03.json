@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初三日戊戌",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝御景山内前殿，召进贡西方讷宁堪宝库图克图赐食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "讷宁堪宝库图克图",
+   "role": "进贡西方喇嘛"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1803,
+ "page_range": "71-72"
+}

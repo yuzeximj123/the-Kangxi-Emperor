@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "马齐等问打死杨士奎之李魁元拟绞一案，赵申乔并不两议，康熙帝命李魁元拟绞监候秋后处决。",
+ "people": [
+  {
+   "name": "李魁元",
+   "role": "案犯"
+  },
+  {
+   "name": "杨士奎",
+   "role": "死者"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17906,
+ "page_range": "369-370"
+}

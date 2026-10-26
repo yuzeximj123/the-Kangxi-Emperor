@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "二十七日己巳",
+ "event_role": "人事任免",
+ "summary": "吏部题通政使席兰泰员缺开列应升官员，康熙帝以理事官拉都虎劳绩甚著命补通政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  },
+  {
+   "name": "席兰泰",
+   "role": "通政使"
+  },
+  {
+   "name": "拉都虎",
+   "role": "理事官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16918,
+ "page_range": "381-382"
+}

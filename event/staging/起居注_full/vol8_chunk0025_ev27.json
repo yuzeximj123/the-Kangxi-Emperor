@@ -1,0 +1,38 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": "十二日丁亥",
+ "event_role": "人事任免",
+ "summary": "陈志等依议补授副将、参将、游击、守备、千总、把总，周一虎回原任，郭九易等四人材不及革退。",
+ "people": [
+  {
+   "name": "陈志",
+   "role": "副将"
+  },
+  {
+   "name": "周一虎",
+   "role": "官员"
+  },
+  {
+   "name": "郭九易",
+   "role": "官员"
+  },
+  {
+   "name": "刘一瞻",
+   "role": "官员"
+  },
+  {
+   "name": "牛二麟",
+   "role": "官员"
+  },
+  {
+   "name": "戴弘异",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2527,
+ "page_range": "61-62"
+}

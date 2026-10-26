@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初四日全已",
+ "event_role": "司法案件",
+ "summary": "投诚伪将军谭弘自陈从贼投诚情节，康熙帝以其贼未至保宁即反为可耻，命下部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "谭弘",
+   "role": "伪将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "保宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22525,
+ "page_range": "507-508"
+}

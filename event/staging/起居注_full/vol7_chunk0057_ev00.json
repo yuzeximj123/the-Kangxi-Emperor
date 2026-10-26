@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐等就日讲起居注官法良等员缺询问翰林院掌院学士揆叙等所荐人选，康熙帝询问人选情况。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "法良",
+   "role": "日讲起居注官"
+  },
+  {
+   "name": "揆叙",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5700,
+ "page_range": "125-126"
+}

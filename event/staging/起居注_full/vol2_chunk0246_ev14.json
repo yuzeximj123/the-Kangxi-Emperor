@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "十八日乙卯",
+ "event_role": "人事任免",
+ "summary": "兵部题大定总兵官张永祥革职员缺请旨，康熙帝命将裁缺江西总兵官郭秉贞补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张永祥",
+   "role": "大定总兵官"
+  },
+  {
+   "name": "郭秉贞",
+   "role": "裁缺江西总兵官"
+  }
+ ],
+ "places": [
+  "大定",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24614,
+ "page_range": "535-536"
+}

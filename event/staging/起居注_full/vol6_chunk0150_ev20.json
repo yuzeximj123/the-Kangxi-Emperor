@@ -1,0 +1,21 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "二十二日乙西",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝登陆往视陵究龙口地方，驻跸宝二县城内。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陵究龙口",
+  "宝二县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15020,
+ "page_range": "310-311"
+}

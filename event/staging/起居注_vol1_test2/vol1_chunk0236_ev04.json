@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "十九日戊寅",
+ "event_role": "人事任免",
+ "summary": "吏部升补道员，康熙帝以贵州系边疆要地、孔兴鱼才具平庸不能胜任，命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孔兴鱼",
+   "role": "拟升道员"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23604,
+ "page_range": "529-530"
+}

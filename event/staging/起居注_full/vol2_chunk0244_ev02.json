@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追问捐纳官员满三年保举条奏者，指出此事必有营求徇庇情弊，令问前议九卿官员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨雍建",
+   "role": "条奏者"
+  },
+  {
+   "name": "张问政",
+   "role": "条奏者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24402,
+ "page_range": "531-532"
+}

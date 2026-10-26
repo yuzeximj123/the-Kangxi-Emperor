@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论左都御史打御史之事，斥刘谦行事不当、考场声名不好，学士敦拜奏称刘谦道学皆假。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘谦",
+   "role": "左都御史"
+  },
+  {
+   "name": "敦拜",
+   "role": "学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10900,
+ "page_range": "229-230"
+}

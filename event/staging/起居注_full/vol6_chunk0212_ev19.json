@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 8,
+ "day_text": "二十日乙效",
+ "event_role": "其他",
+ "summary": "康熙帝赏赐科尔沁达尔汗亲王额有班第、族分协理旗分事台吉毕力滚达赖妻银币等物。",
+ "people": [
+  {
+   "name": "额有班第",
+   "role": "科尔沁达尔汗亲王"
+  },
+  {
+   "name": "毕力滚达赖",
+   "role": "协理旗分事台吉"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21219,
+ "page_range": "434-435"
+}

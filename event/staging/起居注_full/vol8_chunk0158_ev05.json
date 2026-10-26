@@ -1,0 +1,60 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题江西秋审情真案内绞犯凑世凤等，康熙帝令武衢等照审处斩，凑世凤等改为缓决。",
+ "people": [
+  {
+   "name": "凑世凤",
+   "role": "绞犯"
+  },
+  {
+   "name": "武衢",
+   "role": "斩犯"
+  },
+  {
+   "name": "武六",
+   "role": "斩犯"
+  },
+  {
+   "name": "杨丰士",
+   "role": "斩犯"
+  },
+  {
+   "name": "江宗先",
+   "role": "斩犯"
+  },
+  {
+   "name": "柴壁",
+   "role": "斩犯"
+  },
+  {
+   "name": "徐胜",
+   "role": "斩犯"
+  },
+  {
+   "name": "彭开",
+   "role": "绞犯"
+  },
+  {
+   "name": "熊世宣",
+   "role": "绞犯"
+  },
+  {
+   "name": "草尼",
+   "role": "绞犯"
+  },
+  {
+   "name": "草诺",
+   "role": "绞犯"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15805,
+ "page_range": "327-328"
+}

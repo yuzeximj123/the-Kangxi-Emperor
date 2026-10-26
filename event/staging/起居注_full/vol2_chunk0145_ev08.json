@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "初八日王子",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部员外郎，康熙帝以正陪二人不堪，令正红旗裁缺王民新仍留原任，本旗有缺即补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿林",
+   "role": "镶蓝旗中书拟正"
+  },
+  {
+   "name": "张廷柱",
+   "role": "拟陪"
+  },
+  {
+   "name": "王民新",
+   "role": "正红旗裁缺官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14508,
+ "page_range": "333-334"
+}

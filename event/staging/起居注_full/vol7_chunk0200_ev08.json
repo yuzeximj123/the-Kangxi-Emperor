@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆江宁巡抚张伯行题朱开与张寿争地角口打伤张寿越二十五日身死，拟绞监候，康熙帝命从宽免死减等发落。",
+ "people": [
+  {
+   "name": "朱开",
+   "role": "案犯"
+  },
+  {
+   "name": "张寿",
+   "role": "死者"
+  },
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20008,
+ "page_range": "411-412"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问福建提督杨琳居官如何，李光地奏其到任未久声名亦好，康熙帝称其居官优、人材壮健、文理明白。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "福建提督"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21314,
+ "page_range": "437-438"
+}

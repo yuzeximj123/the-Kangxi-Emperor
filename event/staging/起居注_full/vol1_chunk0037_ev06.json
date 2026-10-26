@@ -1,0 +1,25 @@
+{
+ "reign_year": 12,
+ "month": 3,
+ "day_text": "初四日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "辰时讲官进讲，康熙帝召傅达礼谕以修葺宫殿将移驻瀛台，讲书最要不可少间，命仍照常每日至瀛台进讲，今日暂停。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "懋勤殿",
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3706,
+ "page_range": "131-132"
+}

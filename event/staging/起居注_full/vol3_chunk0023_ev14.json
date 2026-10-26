@@ -1,0 +1,38 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十六日辛酉",
+ "event_role": "人事任免",
+ "summary": "兵部题镶蓝旗蒙古都统喇赛致仕员缺，康熙帝以辅国公瓦山补授蒙古都统，并议调补满洲都统根特之缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇赛",
+   "role": "镶蓝旗蒙古都统"
+  },
+  {
+   "name": "额黑纳",
+   "role": "护军统领"
+  },
+  {
+   "name": "麻尔汉",
+   "role": "副都统"
+  },
+  {
+   "name": "瓦山",
+   "role": "辅国公"
+  },
+  {
+   "name": "根特",
+   "role": "满洲都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2314,
+ "page_range": "81-82"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "初九日成午",
+ "event_role": "朝见受贺",
+ "summary": "雄县驻防防守尉戴音达礼等、新安县知县金相玉等来朝见。",
+ "people": [
+  {
+   "name": "戴音达礼",
+   "role": "雄县驻防防守尉"
+  },
+  {
+   "name": "金相玉",
+   "role": "新安县知县"
+  }
+ ],
+ "places": [
+  "雄县",
+  "新安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7722,
+ "page_range": "197-198"
+}

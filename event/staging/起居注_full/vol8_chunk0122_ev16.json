@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "初九日辛未",
+ "event_role": "人事任免",
+ "summary": "吏部题通政使司通政使刘相员缺以光禄寺正卿萨哈布等开列，康熙帝令盛京五部年久理事官俱调来引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘相",
+   "role": "通政使司通政使"
+  },
+  {
+   "name": "萨哈布",
+   "role": "光禄寺正卿"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12216,
+ "page_range": "255-256"
+}

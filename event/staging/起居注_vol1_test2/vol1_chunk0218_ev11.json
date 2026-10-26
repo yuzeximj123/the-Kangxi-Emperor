@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十八日戊午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命左都御史魏象枢等严察五城奸徒聚会煽惑，五城御史失察当严论巡察。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "左都御史"
+  },
+  {
+   "name": "莽色",
+   "role": "副都御史"
+  }
+ ],
+ "places": [
+  "京师",
+  "五城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21811,
+ "page_range": "493-494"
+}

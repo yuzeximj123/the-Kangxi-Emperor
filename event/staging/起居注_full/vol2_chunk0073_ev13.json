@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "十三日癸巳",
+ "event_role": "人事任免",
+ "summary": "吏部议覆袁临总兵官赵应硅所属官兵行粮银米，巡抚韩世琦并粮道柯永界不速给发拟革职，康熙帝令韩世琦降五级留任，柯永界再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "赵应硅",
+   "role": "袁临总兵官"
+  },
+  {
+   "name": "韩世琦",
+   "role": "巡抚"
+  },
+  {
+   "name": "柯永界",
+   "role": "粮道"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7313,
+ "page_range": "189-190"
+}

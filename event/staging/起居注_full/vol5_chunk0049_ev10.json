@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": "十五日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题都察院监察御史禅布员缺，拟常保、阿尔纠补授，康熙帝命将旗下其次应升官员通行查出开列具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "禅布",
+   "role": "监察御史"
+  },
+  {
+   "name": "常保",
+   "role": "员外郎"
+  },
+  {
+   "name": "阿尔纠",
+   "role": "拟补官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4910,
+ "page_range": "108-109"
+}

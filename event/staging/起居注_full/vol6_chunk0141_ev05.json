@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "将军孙思克以病乞休，康熙令留任调养，命雷继尊驰驿速往甘州署理其事。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "雷继尊",
+   "role": "都统"
+  },
+  {
+   "name": "诺穆图",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "甘州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14105,
+ "page_range": "292-293"
+}

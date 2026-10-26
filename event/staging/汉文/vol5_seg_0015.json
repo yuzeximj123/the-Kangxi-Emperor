@@ -1,0 +1,36 @@
+{
+ "date_raw": "本年六月初一日",
+ "reign_year": null,
+ "month": 6,
+ "day": 1,
+ "event_role": "请安谢恩",
+ "summary": "湖广提督高其位奏请赴荆州府设香案望阙叩头谢恩，并报告会同钦差阅视岳州、长沙兵丁赏赐情形。",
+ "people": [
+  {
+   "name": "高其位",
+   "role": "提督湖广汉阳陆路提督总兵官，奏请谢恩"
+  },
+  {
+   "name": "罗瞻",
+   "role": "钦差通政使司左通政，会同阅视兵丁"
+  },
+  {
+   "name": "陈汝咸",
+   "role": "钦差左参议，会同阅视兵丁"
+  }
+ ],
+ "places": [
+  "湖广",
+  "汉阳",
+  "荆州",
+  "岳州",
+  "长沙府"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "恭请圣安",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 15
+}

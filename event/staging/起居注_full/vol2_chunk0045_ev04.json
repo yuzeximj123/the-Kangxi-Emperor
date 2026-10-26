@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "监察御史曾寅等保留巡抚安世思，康熙帝认为系地方豪强之意，不必准行，命会议票签来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "曾寅",
+   "role": "监察御史"
+  },
+  {
+   "name": "安世思",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4504,
+ "page_range": "133-134"
+}

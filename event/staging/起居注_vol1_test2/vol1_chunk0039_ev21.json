@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 3,
+ "day_text": "二十日庚寅",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御乾清门听政毕，殿试天下贡士韩菊等一百六十六名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩菊",
+   "role": "贡士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3921,
+ "page_range": "135-136"
+}

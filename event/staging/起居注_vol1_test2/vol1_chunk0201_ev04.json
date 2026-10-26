@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "辰时",
+ "event_role": "朝见受贺",
+ "summary": "辰时刑部尚书黄机、左都御史魏象枢遵旨进所作诗文，康熙帝于懋勤殿召见赐坐赐茶并问诗文新旧。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄机",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "魏象枢",
+   "role": "都察院左都御史"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20104,
+ "page_range": "459-460"
+}

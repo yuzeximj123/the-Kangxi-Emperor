@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "初十日癸卯",
+ "event_role": "祭祀典礼",
+ "summary": "午时康熙帝至大行皇后梓宫前上食举哀，由朝阳门进东华门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "大行皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [
+  "朝阳门",
+  "东华门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8417,
+ "page_range": "180-181"
+}

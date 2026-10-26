@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": "初二日庚午",
+ "event_role": "司法案件",
+ "summary": "查得受李二贿之刑部主事纳尔库履历，康熙帝令纳尔库枷责毕发往三姓处当差，余依议。",
+ "people": [
+  {
+   "name": "纳尔库",
+   "role": "刑部主事"
+  },
+  {
+   "name": "李二",
+   "role": "行贿者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三姓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7316,
+ "page_range": "157-158"
+}

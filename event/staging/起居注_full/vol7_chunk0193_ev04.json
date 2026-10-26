@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十七日",
+ "event_role": "司法案件",
+ "summary": "康熙帝取出都图所奏折子，将包衣达张伯良缚出令其辨认副都统乌礼，张伯良确认有此人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "都图",
+   "role": "官员"
+  },
+  {
+   "name": "张伯良",
+   "role": "包衣达"
+  },
+  {
+   "name": "乌礼",
+   "role": "副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19304,
+ "page_range": "397-398"
+}

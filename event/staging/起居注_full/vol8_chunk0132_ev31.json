@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "十三日甲辰",
+ "event_role": "人事任免",
+ "summary": "吏部覆浙闽总督范时崇题附荐知府王以巽等卓异，因罚俸未满三年无议，康熙帝令问九卿举出所知者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范时崇",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "王以巽",
+   "role": "知府"
+  }
+ ],
+ "places": [
+  "浙闽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13231,
+ "page_range": "275-276"
+}

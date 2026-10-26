@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "二十三日庚寅",
+ "event_role": "司法案件",
+ "summary": "三法司题民人高弘摆打死其兄高弘先拟斩；康熙帝指原口供中其父高异因高弘先暴恶先行砍害等语被删，人命重大宜据理执奏，命将刑部严旨申饬。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高弘摆",
+   "role": "民人"
+  },
+  {
+   "name": "高弘先",
+   "role": "民人"
+  },
+  {
+   "name": "高异",
+   "role": "民人之父"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1716,
+ "page_range": "44-45"
+}

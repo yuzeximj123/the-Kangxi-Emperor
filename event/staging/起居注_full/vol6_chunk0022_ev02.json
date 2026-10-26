@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝闻广东提督李镇蓝与巡抚不和、总督亦与巡抚不合，谕令详加咨访官员贤否。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李镇蓝",
+   "role": "广东提督"
+  }
+ ],
+ "places": [
+  "广东",
+  "岭南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2202,
+ "page_range": "54-55"
+}

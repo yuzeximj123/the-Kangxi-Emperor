@@ -1,0 +1,21 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部题沧州城守尉嫩泰等守进贤县击退贼众，因未出城迎敌不准议叙。",
+ "people": [
+  {
+   "name": "嫩泰",
+   "role": "沧州城守尉"
+  }
+ ],
+ "places": [
+  "进贤县",
+  "沧州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11003,
+ "page_range": "255-256"
+}

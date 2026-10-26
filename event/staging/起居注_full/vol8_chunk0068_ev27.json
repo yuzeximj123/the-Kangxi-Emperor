@@ -1,0 +1,27 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": "十二日辛已",
+ "event_role": "军务",
+ "summary": "覆请兵部议覆山东登州总兵官李雄以战船十只送至锦州请敕奉天将军委官收领修理，康熙帝准行并议巡察事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李雄",
+   "role": "山东登州总兵官"
+  }
+ ],
+ "places": [
+  "山东",
+  "锦州",
+  "盛京",
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6827,
+ "page_range": "147-148"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 26,
+ "month": 8,
+ "day_text": "初一日了未",
+ "event_role": "其他",
+ "summary": "赐西安副都统党古礼、广东副都统魏黑讷备鞍马各一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "党古礼",
+   "role": "西安副都统"
+  },
+  {
+   "name": "魏黑讷",
+   "role": "广东副都统"
+  }
+ ],
+ "places": [
+  "西安",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24306,
+ "page_range": "521-522"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "松柱等就补授侍庆王原祁、座腾烤员缺询问赵申乔，赵申乔请皇上拣选补授；康熙帝称户部有赵申乔足矣，不必再补授。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "赵申乔",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "王原祁",
+   "role": "侍庆"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12001,
+ "page_range": "251-252"
+}

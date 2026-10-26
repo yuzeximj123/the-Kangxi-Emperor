@@ -1,0 +1,21 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣会议噶尔丹穷迫往哈密，应乘机剿灭，议调大同前锋、鸟枪护军及子母炮前往，并请旨定领兵将军及参议大臣。",
+ "people": [
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "大同",
+  "哈密"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16801,
+ "page_range": "346-347"
+}

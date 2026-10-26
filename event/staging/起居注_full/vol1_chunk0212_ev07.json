@@ -1,0 +1,20 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "十七日",
+ "event_role": "议政听政",
+ "summary": "康熙御东宫内殿，礼部侍郎额星格自京城来奏事。",
+ "people": [
+  {
+   "name": "额星格",
+   "role": "礼部侍郎"
+  }
+ ],
+ "places": [
+  "东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21207,
+ "page_range": "481-482"
+}

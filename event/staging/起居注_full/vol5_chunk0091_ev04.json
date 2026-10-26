@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "三十日戊子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以周贞在任仅二年、资历浅不宜保举，命不准保举周贞，并定未满三年官员不符保举之例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "常书",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "周贞",
+   "role": "知县"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9104,
+ "page_range": "192-193"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "初六日己未",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士捧折本面奏请旨，处理吏部题奏李昌龄等弃城逃奔事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李昌龄",
+   "role": "四川重庆府黔江县知县"
+  },
+  {
+   "name": "宋功明",
+   "role": "典史"
+  },
+  {
+   "name": "韩世琦",
+   "role": "湖南巡抚"
+  }
+ ],
+ "places": [
+  "行宫",
+  "四川重庆府黔江县",
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4203,
+ "page_range": "127-128"
+}

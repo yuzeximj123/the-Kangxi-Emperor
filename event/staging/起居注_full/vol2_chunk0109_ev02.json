@@ -1,0 +1,44 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议补直隶巡抚员缺，康熙帝询问格尔古德可否任用，大学士等称其品优，汉大学士亦赞其清正，帝命即补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "格尔古德",
+   "role": "学士"
+  },
+  {
+   "name": "科尔坤",
+   "role": "官员"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "萨海",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10902,
+ "page_range": "261-262"
+}

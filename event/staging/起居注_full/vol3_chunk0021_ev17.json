@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十八日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以近日天旱，命照前例遣大臣往审刑部重犯，派学士王熙、尚书伊桑阿、学士阿哈达、王渔绪前往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "尚书"
+  },
+  {
+   "name": "阿哈达",
+   "role": "学士"
+  },
+  {
+   "name": "王渔绪",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2117,
+ "page_range": "77-78"
+}

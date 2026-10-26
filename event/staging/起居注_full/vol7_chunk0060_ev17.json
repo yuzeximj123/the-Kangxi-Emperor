@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "十一日乙卯",
+ "event_role": "请安谢恩",
+ "summary": "八旗都统等率兵丁齐集畅春园，由启事治仪正存住等转奏谢恩，称颂恩诏赏银，军校云集欢声如雷。",
+ "people": [
+  {
+   "name": "存住",
+   "role": "启事治仪正"
+  },
+  {
+   "name": "八旗都统",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6017,
+ "page_range": "131-132"
+}

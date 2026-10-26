@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝与伊桑阿、马齐、王昭等议改移清口、筑石堤，使清水畅出以防黄水倒灌。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王昭",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "武家墩",
+  "清江浦",
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12400,
+ "page_range": "258-259"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝拆弥封，命置杨谦一甲一名、张国兴一甲二名、王维一一甲三名，徐启新等十四人为二甲进士，其余七十七人为三甲同进士。",
+ "people": [
+  {
+   "name": "杨谦",
+   "role": "一甲一名"
+  },
+  {
+   "name": "张国兴",
+   "role": "一甲二名"
+  },
+  {
+   "name": "王维一",
+   "role": "一甲三名"
+  },
+  {
+   "name": "徐启新",
+   "role": "二甲进士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13003,
+ "page_range": "271-272"
+}

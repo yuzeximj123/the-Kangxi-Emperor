@@ -1,0 +1,28 @@
+{
+ "date_raw": "初九日甲子",
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初九日甲子",
+ "event_role": "人事任免",
+ "summary": "兵部劾何天培约束不严致兴安兵丁抢夺回民，康熙帝命革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博济",
+   "role": "川陕总督"
+  },
+  {
+   "name": "何天培",
+   "role": "原兴安总兵、正蓝旗汉军副都统"
+  }
+ ],
+ "places": [
+  "兴安镇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3160
+}

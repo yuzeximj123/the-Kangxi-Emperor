@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "十六日己巳",
+ "event_role": "司法案件",
+ "summary": "伊桑阿等奏九卿议许盛应行正法，康熙命将罪案移咨费扬古、恕书征询意见。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "许盛",
+   "role": "总兵官"
+  },
+  {
+   "name": "费扬古",
+   "role": "将军"
+  },
+  {
+   "name": "恕书",
+   "role": "将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15615,
+ "page_range": "322-323"
+}

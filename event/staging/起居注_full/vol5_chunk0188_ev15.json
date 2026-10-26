@@ -1,0 +1,22 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十一日",
+ "event_role": "奏报地方情形",
+ "summary": "议政大臣等奏，据一等侍卫副都统阿南达报称噶尔丹多尔即亲到其处陈诉蒙恩等语。",
+ "people": [
+  {
+   "name": "阿南达",
+   "role": "一等侍卫副都统"
+  },
+  {
+   "name": "噶尔丹多尔即",
+   "role": "来称之人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18815,
+ "page_range": "386-387"
+}

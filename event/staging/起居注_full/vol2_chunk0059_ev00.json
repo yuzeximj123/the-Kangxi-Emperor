@@ -1,0 +1,33 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "伊桑阿率赈济大同的员外郎穆成格、苏赫等请旨，康熙责问前次赈济后饥民仍流离、雨泽未降。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "穆成格",
+   "role": "员外郎"
+  },
+  {
+   "name": "苏赫",
+   "role": "员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大同",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5900,
+ "page_range": "161-162"
+}

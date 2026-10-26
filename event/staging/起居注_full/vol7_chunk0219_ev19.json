@@ -1,0 +1,21 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "十四日丙申",
+ "event_role": "司法案件",
+ "summary": "刑部题山西平阳府民王天佑投字帖于畅春园河内应拟立斩，康熙帝从宽免其立斩，改为监候秋后处决。",
+ "people": [
+  {
+   "name": "王天佑",
+   "role": "人犯"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "山西平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21919,
+ "page_range": "449-450"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "十一日辛巳",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率诸王、内大臣、侍卫、文武官员及蒙古王等至暂安奉殿行三跪九叩礼、三奠酒举哀，继谒孝陵行礼举哀，又至陵完行礼举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "暂安奉殿",
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6025,
+ "page_range": "130-131"
+}

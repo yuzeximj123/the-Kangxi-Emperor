@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院题请更换两淮盐差以监察御史迈柱等开列，康熙帝谕令问九卿举出居官最清者。",
+ "people": [
+  {
+   "name": "迈柱",
+   "role": "监察御史"
+  },
+  {
+   "name": "李陈常",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15401,
+ "page_range": "319-320"
+}

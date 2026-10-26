@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "初四日王午",
+ "event_role": "人事任免",
+ "summary": "兵部题补归化城都统，康熙询问蒙古大臣意见后命吴巴什补授归化城都统。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴巴什",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11014,
+ "page_range": "263-264"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "二十八日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至刷儿渡等处阅完牛钮所修堤岸，驻跸河西务。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "工部郎中"
+  }
+ ],
+ "places": [
+  "刷儿渡",
+  "河西务"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18410,
+ "page_range": "379-380"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "十七日癸丑",
+ "event_role": "人事任免",
+ "summary": "吏部题湖广巡抚王新命调补员缺，康熙帝谕原任江苏巡抚慕天颜才优堪任，令大学士等公同商酌是否复用。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "慕天颜",
+   "role": "原任江苏巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 809,
+ "page_range": "51-52"
+}

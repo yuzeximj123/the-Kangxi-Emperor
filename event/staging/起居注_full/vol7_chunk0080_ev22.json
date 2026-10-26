@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十五日丙辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自临潼县启行，临幸西安府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "临潼县",
+  "西安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8022,
+ "page_range": "171-172"
+}

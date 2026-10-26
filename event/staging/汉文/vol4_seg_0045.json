@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙五十一年四月",
+ "reign_year": 51,
+ "month": 4,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "致仕吏部尚书宋荦奏请皇上及皇太子安，并谢胞侄宋起补授直隶守道、次子宋至钦点浙江学政之恩。",
+ "people": [
+  {
+   "name": "宋荦",
+   "role": "致仕吏部尚书加三级，奏请人"
+  },
+  {
+   "name": "宋起",
+   "role": "宋荦胞侄，补授直隶管理钱谷守道"
+  },
+  {
+   "name": "宋至",
+   "role": "宋荦次子，翰林院编修，钦点提督浙江学政"
+  }
+ ],
+ "places": [
+  "湖广",
+  "直隶",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批告知皇上安好。",
+ "source_title": "宋荦奏请圣安",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 45
+}

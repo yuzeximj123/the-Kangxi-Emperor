@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": "二十三日辛丑",
+ "event_role": "人事任免",
+ "summary": "大学士等奏遵旨将吏部所题平凉府知府等缺传问九卿，科道官刘荫枢、沈恺曾等举出湖广郧阳府同知鞠寥咨等五员呈览。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "科道官"
+  },
+  {
+   "name": "沈恺曾",
+   "role": "科道官"
+  },
+  {
+   "name": "鞠寥咨",
+   "role": "湖广郧阳府同知"
+  }
+ ],
+ "places": [
+  "湖广郧阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 615,
+ "page_range": "22-23"
+}

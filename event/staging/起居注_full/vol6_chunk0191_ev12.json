@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "初三日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝顾学士法良、巡抚李光地等，命确查王新命等所用钱粮，毋得徇情。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "法良",
+   "role": "学士"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "王新命",
+   "role": "修河官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19112,
+ "page_range": "392-393"
+}

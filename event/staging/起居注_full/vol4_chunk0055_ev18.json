@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "初二日庚子",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕旨，无锡县降级调用知县徐永言居官素优，着带所降之级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐永言",
+   "role": "无锡县知县"
+  },
+  {
+   "name": "洪之杰",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "无锡县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5518,
+ "page_range": "122-123"
+}

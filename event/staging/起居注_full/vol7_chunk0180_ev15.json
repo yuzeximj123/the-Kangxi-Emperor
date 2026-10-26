@@ -1,0 +1,33 @@
+{
+ "reign_year": 50,
+ "month": 8,
+ "day_text": "初四日辛酉",
+ "event_role": "军务",
+ "summary": "兵部覆四川提督岳异龙所题请免游击徐迈等罪并议叙文武官员及阵亡土司官兵，康熙帝令交与乃泰赴四川察明确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "岳异龙",
+   "role": "四川提督"
+  },
+  {
+   "name": "徐迈",
+   "role": "游击"
+  },
+  {
+   "name": "乃泰",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "行宫",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18015,
+ "page_range": "371-372"
+}

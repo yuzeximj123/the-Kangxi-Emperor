@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题盛京礼部理事官铁图员缺，拟以保举御史鄂罗补授，康熙帝以其年少，命察做深郎中具春。",
+ "people": [
+  {
+   "name": "铁图",
+   "role": "盛京礼部理事官"
+  },
+  {
+   "name": "鄂罗",
+   "role": "保举御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1100,
+ "page_range": "33-34"
+}

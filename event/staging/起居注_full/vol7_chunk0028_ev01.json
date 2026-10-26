@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "清查原任布政使张四教亏空库银，移会总督阿山咨文奏览，康熙谕令详察科派情弊、从重治罪，并令阿山查明回奏。",
+ "people": [
+  {
+   "name": "张四教",
+   "role": "原任布政使"
+  },
+  {
+   "name": "阿山",
+   "role": "总督"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2801,
+ "page_range": "67-68"
+}

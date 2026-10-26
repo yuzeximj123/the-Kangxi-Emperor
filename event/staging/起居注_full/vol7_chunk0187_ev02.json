@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十九日乙卯",
+ "event_role": "起居注官记录",
+ "summary": "起居注官励廷仪、常雾当值记录。",
+ "people": [
+  {
+   "name": "励廷仪",
+   "role": "起居注官"
+  },
+  {
+   "name": "常雾",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18702,
+ "page_range": "385-386"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 10,
+ "day_text": "十八日己未",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝亲临勋臣一等公谥武勋王杨古里、直义公费英东、弘毅公额宜都之墓奠酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨古里",
+   "role": "武勋王"
+  },
+  {
+   "name": "费英东",
+   "role": "直义公"
+  },
+  {
+   "name": "额宜都",
+   "role": "弘毅公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5820,
+ "page_range": "126-127"
+}

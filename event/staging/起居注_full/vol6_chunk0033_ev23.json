@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "二十二日丁卯",
+ "event_role": "人事任免",
+ "summary": "康熙谕福善、马武，把总徐应明射箭甚劣，着解任。",
+ "people": [
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "徐应明",
+   "role": "把总"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3323,
+ "page_range": "76-77"
+}

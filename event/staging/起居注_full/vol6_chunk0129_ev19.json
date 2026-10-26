@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "十四日戊寅",
+ "event_role": "司法案件",
+ "summary": "三法司题守备陆云龙误以赌博为贼刺死拒捕之范开弘议革职，康熙帝以其获贼相应宽免，命该部及步军统领会议。",
+ "people": [
+  {
+   "name": "陆云龙",
+   "role": "守备"
+  },
+  {
+   "name": "范开弘",
+   "role": "拒捕者"
+  },
+  {
+   "name": "叶芝兰",
+   "role": "参将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12919,
+ "page_range": "268-269"
+}

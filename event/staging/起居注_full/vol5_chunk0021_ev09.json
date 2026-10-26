@@ -1,0 +1,23 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "二十三日庚申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝称特为小民而来必亲历其地，遂至永安口、李家口、信艾口等处详阅新堤，并步行详视柳滩口新堤后回。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "永安口",
+  "李家口",
+  "信艾口",
+  "柳滩口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2109,
+ "page_range": "52-53"
+}

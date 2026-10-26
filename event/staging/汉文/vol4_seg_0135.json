@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十二年十二月初四日",
+ "reign_year": 52,
+ "month": 12,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮奏请皇上速简贤员补授于河分司员缺，以料理堤岸工程、重民生。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏请人"
+  },
+  {
+   "name": "王度昭",
+   "role": "巡抚浙江等处地方提督军务兼理粮饷都察院右副都御史，奏折署名者"
+  },
+  {
+   "name": "阿琳",
+   "role": "于河分司，报满升授湖南布政使"
+  }
+ ],
+ "places": [
+  "直隶",
+  "浙江",
+  "湖南",
+  "于河"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸巡撫趙弘燮奏請新任河員以重民生事摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1244",
+ "order_index": 135
+}

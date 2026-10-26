@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "初三日乙酉",
+ "event_role": "其他",
+ "summary": "康熙帝召翰林院掌院学士揆叙、侍郎吴涵及翰林陈论等六十人至南书房，赐每人研石山石砚一方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "揆叙",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "吴涵",
+   "role": "侍郎"
+  },
+  {
+   "name": "陈论",
+   "role": "翰林"
+  }
+ ],
+ "places": [
+  "南书房"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4706,
+ "page_range": "105-106"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "十八日两子",
+ "event_role": "奏报地方情形",
+ "summary": "总兵官毛来凤因平阳府知府王辅百姓恳乞留任，代为题请。",
+ "people": [
+  {
+   "name": "毛来凤",
+   "role": "总兵官"
+  },
+  {
+   "name": "王辅",
+   "role": "平阳府知府"
+  }
+ ],
+ "places": [
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8932,
+ "page_range": "188-189"
+}

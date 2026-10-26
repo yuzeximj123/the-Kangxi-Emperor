@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "十三日乙卯",
+ "event_role": "司法案件",
+ "summary": "审阅奴仆骂主之五勒及其妻四儿，上以五勒与妻同谋欲加其主强奸之名、设心可恶，将五勒即决，四儿免勾。",
+ "people": [
+  {
+   "name": "五勒",
+   "role": "罪犯"
+  },
+  {
+   "name": "四儿",
+   "role": "罪犯"
+  },
+  {
+   "name": "三保",
+   "role": "五勒之主、治仪正"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13913,
+ "page_range": "289-290"
+}

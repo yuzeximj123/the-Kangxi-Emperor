@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初六日辛酉",
+ "event_role": "奏报地方情形",
+ "summary": "工部侍郎赵环、金黎言陕西人民困于转运入蜀，米一石费银十四五两，运丁死亡甚多，应议苏息之策。",
+ "people": [
+  {
+   "name": "赵环",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "金黎",
+   "role": "工部侍郎"
+  }
+ ],
+ "places": [
+  "陕西",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2608,
+ "page_range": "95-96"
+}

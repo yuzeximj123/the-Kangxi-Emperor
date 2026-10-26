@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝认为金俊一案拖延半载、经严催方定拟，情节可恨，命即处决。",
+ "people": [
+  {
+   "name": "金俊",
+   "role": "重犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12501,
+ "page_range": "285-286"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "二十八日甲寅",
+ "event_role": "人事任免",
+ "summary": "吏部以湖北按察使员缺拟浙江道员证三县为正、广东道员李华之为陪，康熙令调来引见并问九卿贤否。",
+ "people": [
+  {
+   "name": "证三县",
+   "role": "浙江道员拟正"
+  },
+  {
+   "name": "李华之",
+   "role": "广东道员拟陪"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖北",
+  "浙江",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20318,
+ "page_range": "416-417"
+}

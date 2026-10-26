@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "原任巡抚郝浴之子郝林请复其父原职，部议不准，康熙帝以郝浴居官亦优，命复原官。",
+ "people": [
+  {
+   "name": "郝浴",
+   "role": "原任巡抚"
+  },
+  {
+   "name": "郝林",
+   "role": "郝浴之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17402,
+ "page_range": "383-384"
+}

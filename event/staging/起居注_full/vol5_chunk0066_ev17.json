@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "十七日成实",
+ "event_role": "奏报地方情形",
+ "summary": "船户水手奏称随督运官陶岱、鄂奇两次运米，遇逆风祭神后转顺风，三日行数千里至盛京三岔口。",
+ "people": [
+  {
+   "name": "陶岱",
+   "role": "督运官"
+  },
+  {
+   "name": "鄂奇",
+   "role": "督运官"
+  }
+ ],
+ "places": [
+  "盛京三岔口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6617,
+ "page_range": "142-143"
+}

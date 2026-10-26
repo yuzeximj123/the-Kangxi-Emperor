@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": "二十四日本卯",
+ "event_role": "人事任免",
+ "summary": "兵部遵旨开列满洲汉军都统副都统以补广东将军缺，康熙帝命副都统邵凤翔来京陛见。",
+ "people": [
+  {
+   "name": "拜音达礼",
+   "role": "广东将军（员缺）"
+  },
+  {
+   "name": "邵凤翔",
+   "role": "副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4618,
+ "page_range": "102-103"
+}

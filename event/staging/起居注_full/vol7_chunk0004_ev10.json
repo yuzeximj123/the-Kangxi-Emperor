@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初一日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "传旨谕鸿胪寺卿沙拜等，问直隶巡抚李光地董学礼居官政事如何，沙拜复奏董学礼居官未久、操守未知、办事亦优，奉旨知道了。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙拜",
+   "role": "鸿胪寺卿"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "董学礼",
+   "role": "易州知州"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 410,
+ "page_range": "19-20"
+}

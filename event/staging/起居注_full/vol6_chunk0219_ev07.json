@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初九日壬戌",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝称浙江布政使赵申乔居官甚清，家口仅十三人、幕客亦无，办事亲笔、钱粮亲收、火耗不取，伊桑阿等亦闻其清。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "浙江布政使"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "元福合",
+   "role": "解织来官"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21907,
+ "page_range": "448-449"
+}

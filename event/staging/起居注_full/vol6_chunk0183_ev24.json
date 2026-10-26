@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "初六日",
+ "event_role": "赏赐",
+ "summary": "赐古北口总兵官马进良、天津总兵官潘育龙银鼠短袖、羊故，三屯营副将刘汉业羊故。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "潘育龙",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "刘汉业",
+   "role": "三屯营副将"
+  }
+ ],
+ "places": [
+  "古北口",
+  "天津",
+  "三屯营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18324,
+ "page_range": "376-377"
+}

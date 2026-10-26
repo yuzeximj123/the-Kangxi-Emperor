@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": "二十七日丁雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问后对索诺和说京口防守御李容德为人甚属思劣，令兵部题参。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索诺和",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "李容德",
+   "role": "京口防守御"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7502,
+ "page_range": "160-161"
+}

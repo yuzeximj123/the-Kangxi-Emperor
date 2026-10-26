@@ -1,0 +1,20 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十五日丙申",
+ "event_role": "朝见受贺",
+ "summary": "阳和城守备刘晋朝等来朝。",
+ "people": [
+  {
+   "name": "刘晋朝",
+   "role": "阳和城守备"
+  }
+ ],
+ "places": [
+  "阳和城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19115,
+ "page_range": "392-393"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "三法司议孙德、夏伯甫谋叛散札应立斩，康熙帝从宽免死，发宁古塔等处新满洲为奴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙德",
+   "role": "案犯"
+  },
+  {
+   "name": "夏伯甫",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24101,
+ "page_range": "525-526"
+}

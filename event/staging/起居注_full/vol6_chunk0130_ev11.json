@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "十六日庚辰",
+ "event_role": "人事任免",
+ "summary": "吏部遵旨开列翰林官员请补授学院，康熙帝以张泰交操守清廉授江南学院，浙江学院于开列人内选授。",
+ "people": [
+  {
+   "name": "张泰交",
+   "role": "内升御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "浙江",
+  "长芦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13011,
+ "page_range": "270-271"
+}

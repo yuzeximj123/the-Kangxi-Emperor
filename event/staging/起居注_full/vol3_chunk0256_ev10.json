@@ -1,0 +1,27 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": "十六日庚申",
+ "event_role": "其他",
+ "summary": "赐江南苏松总兵官梁稍、河南南放总兵官史孔笔鞍马各一匹。",
+ "people": [
+  {
+   "name": "梁稍",
+   "role": "江南苏松总兵官"
+  },
+  {
+   "name": "史孔笔",
+   "role": "河南南放总兵官"
+  }
+ ],
+ "places": [
+  "江南",
+  "苏松",
+  "河南",
+  "南放"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25610,
+ "page_range": "547-548"
+}

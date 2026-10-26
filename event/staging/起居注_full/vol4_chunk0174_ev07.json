@@ -1,0 +1,35 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "初二日壬午",
+ "event_role": "贸易漕运",
+ "summary": "查仓贮米七百八十万石余足供三年，康熙帝议三十一年截留漕米、三十二年蠲免漕运。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江宁",
+  "京口",
+  "杭州",
+  "草州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17407,
+ "page_range": "360-361"
+}

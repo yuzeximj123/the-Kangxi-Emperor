@@ -1,0 +1,21 @@
+{
+ "reign_year": 17,
+ "month": 3,
+ "day_text": "二十五日丙申",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以迁移大行皇后梓宫致祭，巳时亲送至巩华城，与仁孝皇后同安于殿内，驻跸城外幔城。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巩华城",
+  "仁孝皇后殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15833,
+ "page_range": "373-374"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "十六日己未",
+ "event_role": "司法案件",
+ "summary": "步军校钟有瑞误拿良民赵三为盗拟革职，康熙帝以拟罪太重、所引例不符，发回另议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钟有瑞",
+   "role": "步军校"
+  },
+  {
+   "name": "赵三",
+   "role": "良民"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6919,
+ "page_range": "149-150"
+}

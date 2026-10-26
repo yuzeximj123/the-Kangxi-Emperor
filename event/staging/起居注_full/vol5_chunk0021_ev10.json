@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "二十三日庚申",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝至杨村，谕诸臣称百姓困于水灾，新堤若不遍阅于心不安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "杨村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2110,
+ "page_range": "52-53"
+}

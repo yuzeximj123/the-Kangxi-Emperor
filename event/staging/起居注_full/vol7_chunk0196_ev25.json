@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "二十日乙巳",
+ "event_role": "朝见受贺",
+ "summary": "玉田县防守御郭里等、都司杨鹿等来朝。",
+ "people": [
+  {
+   "name": "郭里",
+   "role": "玉田县防守御"
+  },
+  {
+   "name": "杨鹿",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "玉田县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19625,
+ "page_range": "403-404"
+}

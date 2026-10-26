@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初八日甲午",
+ "event_role": "其他",
+ "summary": "广西阵亡镶红族戏骑校阿尔泰丧至，康熙帝遣头等侍卫萨哈达携茶酒至丧次致奠。",
+ "people": [
+  {
+   "name": "阿尔泰",
+   "role": "广西阵亡镶红族戏骑校"
+  },
+  {
+   "name": "萨哈达",
+   "role": "头等侍卫"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 815,
+ "page_range": "59-60"
+}

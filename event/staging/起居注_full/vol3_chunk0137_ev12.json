@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 1,
+ "day_text": "二十八日",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏，吏部等都察院吏科奏大计处分直省官员三本。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达哈塔",
+   "role": "尚书"
+  },
+  {
+   "name": "李之芳",
+   "role": "官员"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13712,
+ "page_range": "309-310"
+}

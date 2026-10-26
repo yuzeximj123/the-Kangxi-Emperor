@@ -1,0 +1,37 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "event_role_note": null,
+ "summary": "侍郎罗察等审四川抚提一案，康熙论于养志隐奏不合，命俟席尔达查到时严问，并准议岳异龙罪。",
+ "people": [
+  {
+   "name": "罗察",
+   "role": "侍郎"
+  },
+  {
+   "name": "于养志",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "席尔达",
+   "role": "官员"
+  },
+  {
+   "name": "岳异龙",
+   "role": "被议罪官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14306,
+ "page_range": "296-297"
+}

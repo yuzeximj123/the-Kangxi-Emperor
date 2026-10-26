@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "初五日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题喀尔喀信顺额尔克代青诺颜等六台吉牲畜尽毙、饥荒请恤，康熙帝令速差官确察，到日即行议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "信顺额尔克代青诺颜",
+   "role": "喀尔喀台吉"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8405,
+ "page_range": "180-181"
+}

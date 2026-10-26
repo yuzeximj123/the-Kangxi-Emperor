@@ -1,0 +1,37 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "赵吉士奏陈董讷、慕天颜、田雯等会题重堤宜筑海口宜停，后忽改议，并言海口淤塞由串场河未浚。",
+ "people": [
+  {
+   "name": "赵吉士",
+   "role": "革职官员"
+  },
+  {
+   "name": "董讷",
+   "role": "大臣"
+  },
+  {
+   "name": "慕天颜",
+   "role": "大臣"
+  },
+  {
+   "name": "田雯",
+   "role": "大臣"
+  },
+  {
+   "name": "佛伦",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "海口",
+  "串场河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1813,
+ "page_range": "48-49"
+}

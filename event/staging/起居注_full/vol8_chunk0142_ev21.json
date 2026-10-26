@@ -1,0 +1,41 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "二十八日本已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝朱谕大学士松柱，因热河大雨而京中未雨，命写出询问京城大臣麦苗旱情及他处下雨情况，速写具奏。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  },
+  {
+   "name": "张文彬",
+   "role": "奏事"
+  },
+  {
+   "name": "杨万程",
+   "role": "洗马"
+  },
+  {
+   "name": "奇坦伦",
+   "role": "编修"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "热河",
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14221,
+ "page_range": "295-296"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "初十日辛丑",
+ "event_role": "司法案件",
+ "summary": "盛京骁骑校胡延瑚打死人命部议拟绞，康熙帝以其有阵伤功令所司再议。",
+ "people": [
+  {
+   "name": "胡延瑚",
+   "role": "盛京骁骑校"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20606,
+ "page_range": "469-470"
+}

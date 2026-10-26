@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙六十一年九月二十四日",
+ "reign_year": 61,
+ "month": 9,
+ "day": 23,
+ "event_role": "请安谢恩",
+ "summary": "署理两浙盐督印务、提督江西总兵官高其倬奏谢康熙帝赏赐鹿肉条三十二束，并称已烹荐祖考、分给同城文武。",
+ "people": [
+  {
+   "name": "高其倬",
+   "role": "署理两浙盐督印务、提督江西总兵官，奏折作者"
+  },
+  {
+   "name": "陈绪",
+   "role": "高其倬家人，赍捧赏赐鹿肉条至江宁"
+  },
+  {
+   "name": "张云龙",
+   "role": "提标把总，专差赍捧奏折"
+  },
+  {
+   "name": "高忠",
+   "role": "高其倬家人，专差赍捧奏折"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "署理兩江總督高其位奏謝賞賜鹿肉條摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "3003",
+ "order_index": 380
+}

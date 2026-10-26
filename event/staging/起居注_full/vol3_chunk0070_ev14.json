@@ -1,0 +1,23 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "十五日乙亥",
+ "event_role": "皇帝行止",
+ "summary": "未时，康熙帝由午门出正阳门，幸南苑，驻足大红门内。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "南苑",
+  "大红门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7014,
+ "page_range": "175-176"
+}

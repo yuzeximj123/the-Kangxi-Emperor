@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "马齐遵旨问户部青县、静海二处行盐事，户部将李天福情愿承揽应完之银着九年代销完结，康熙帝命到热河具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "李天福",
+   "role": "承揽人"
+  }
+ ],
+ "places": [
+  "青县",
+  "静海",
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15408,
+ "page_range": "319-320"
+}

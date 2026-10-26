@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题革退玉田披甲西伯、萨代控告防守御郭礼一案查属虚诬，康熙命萨代议罪具奏，不可再令披甲。",
+ "people": [
+  {
+   "name": "西伯",
+   "role": "革退披甲"
+  },
+  {
+   "name": "萨代",
+   "role": "革退披甲"
+  },
+  {
+   "name": "郭礼",
+   "role": "防守御"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "玉田"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16502,
+ "page_range": "341-342"
+}

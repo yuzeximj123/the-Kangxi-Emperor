@@ -1,0 +1,21 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "奏报自归化城启行后询问宁夏兵行程，孙思克称二月二十二日起程三十八日可至翁金，已遣人令其速报行至何处。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "归化城",
+  "翁金"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11701,
+ "page_range": "244-245"
+}

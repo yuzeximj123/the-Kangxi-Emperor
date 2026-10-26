@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "王熙奏称此工与运道无涉，康熙帝问乔莱开河地方是否有其庄地，乔莱称并不伤损宝应田地。",
+ "people": [
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "乔莱",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "宝应县",
+  "高邮",
+  "兴化",
+  "盐城",
+  "泰州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12505,
+ "page_range": "285-286"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "初五日壬子",
+ "event_role": "人事任免",
+ "summary": "吏部题少詹事李录耶员缺拟以侍读学士李负升补，康熙帝命徐乘义升补少詹事侍讲，并称学士王项龄为人佳、学问优。",
+ "people": [
+  {
+   "name": "李录耶",
+   "role": "少詹事"
+  },
+  {
+   "name": "李负",
+   "role": "侍读学士"
+  },
+  {
+   "name": "徐乘义",
+   "role": "官员"
+  },
+  {
+   "name": "王项龄",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1325,
+ "page_range": "36-37"
+}

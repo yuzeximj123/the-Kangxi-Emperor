@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕秦督尽心地方、绥靖边境，以副委任之意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "秦督",
+   "role": "秦省总督"
+  }
+ ],
+ "places": [
+  "秦省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5801,
+ "page_range": "173-174"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "二十三日",
+ "event_role": "人事任免",
+ "summary": "吏部题顺天、江南、浙江等处提督学政顾藻、许涩霖、郑开极员缺，将侍读张榕端等职名开列请旨。",
+ "people": [
+  {
+   "name": "顾藻",
+   "role": "提督学政"
+  },
+  {
+   "name": "许涩霖",
+   "role": "提督学政"
+  },
+  {
+   "name": "郑开极",
+   "role": "提督学政"
+  },
+  {
+   "name": "张榕端",
+   "role": "侍读"
+  }
+ ],
+ "places": [
+  "顺天",
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 319,
+ "page_range": "16-17"
+}

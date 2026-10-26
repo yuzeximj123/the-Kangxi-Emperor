@@ -1,0 +1,44 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请审题二青与刘偏头案，知县萧秉楷因二青死后方申报折子情由不合，应罚俸一年。",
+ "people": [
+  {
+   "name": "塞德",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "达尔占",
+   "role": "荆州将军"
+  },
+  {
+   "name": "二青",
+   "role": "赍奏折人"
+  },
+  {
+   "name": "硕塞",
+   "role": "鲁州佐领"
+  },
+  {
+   "name": "刘偏头",
+   "role": "硕塞家人"
+  },
+  {
+   "name": "萧秉楷",
+   "role": "邯郸县知县"
+  }
+ ],
+ "places": [
+  "邯郸县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24102,
+ "page_range": "493-494"
+}

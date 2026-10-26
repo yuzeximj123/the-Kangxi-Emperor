@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "二十一日",
+ "event_role": "议政听政",
+ "summary": "康熙帝问左都御史董讷河工事，董讷称不晓河工事宜、免冠叩首请罪；又问于成龙九卿所议有何说，于成龙免冠叩首求宽宥。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董讷",
+   "role": "左都御史"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 311,
+ "page_range": "16-17"
+}

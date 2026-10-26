@@ -1,0 +1,22 @@
+{
+ "reign_year": 31,
+ "month": 1,
+ "day_text": "三十日庚辰",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝问皇太后安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "受问安者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18314,
+ "page_range": "378-379"
+}

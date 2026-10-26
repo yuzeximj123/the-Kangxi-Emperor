@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十七日戊子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸新城县属高碑店，安肃县知县功祖顺等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "功祖顺",
+   "role": "安肃县知县"
+  }
+ ],
+ "places": [
+  "新城县",
+  "高碑店",
+  "安肃县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8606,
+ "page_range": "183-184"
+}

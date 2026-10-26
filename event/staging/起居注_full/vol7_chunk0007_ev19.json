@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十日壬申",
+ "event_role": "朝见受贺",
+ "summary": "河间府守备李文盛等、千总桑格等、把总杨德等来朝。",
+ "people": [
+  {
+   "name": "李文盛",
+   "role": "河间府守备"
+  },
+  {
+   "name": "桑格",
+   "role": "千总"
+  },
+  {
+   "name": "杨德",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "河间府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 719,
+ "page_range": "25-26"
+}

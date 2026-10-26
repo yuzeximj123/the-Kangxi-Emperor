@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "十八日于成",
+ "event_role": "人事任免",
+ "summary": "吏部题司道内升开列山东布政使刘瞎等职名，康熙帝谕令着问九卿。",
+ "people": [
+  {
+   "name": "刘瞎",
+   "role": "山东布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6114,
+ "page_range": "133-134"
+}

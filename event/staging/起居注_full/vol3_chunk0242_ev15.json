@@ -1,0 +1,40 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": "二十九日乙巳",
+ "event_role": "人事任免",
+ "summary": "九卿会推甘肃按察使索尔孙员缺，拟党爱为正、刘兰为陪，康熙帝询问后令党爱升补按察使。",
+ "people": [
+  {
+   "name": "党爱",
+   "role": "工部郎中"
+  },
+  {
+   "name": "刘兰",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "索尔孙",
+   "role": "甘肃按察使"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24215,
+ "page_range": "519-520"
+}

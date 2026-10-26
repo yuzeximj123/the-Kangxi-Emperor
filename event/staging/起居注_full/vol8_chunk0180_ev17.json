@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "初五日庚申",
+ "event_role": "奏报地方情形",
+ "summary": "康熙问葡升元等修书处是否闻有假冒王差之事，葡升元奏三阿哥常在修书处看书，并无此事。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "葡升元",
+   "role": "内翰林学士"
+  },
+  {
+   "name": "三阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18017,
+ "page_range": "371-372"
+}

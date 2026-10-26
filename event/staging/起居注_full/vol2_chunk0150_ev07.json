@@ -1,0 +1,40 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问张云翼能否为文及其父张勇文义，又询近世善书法者，陈廷敬荐董文骏，梁清标言其学董其昌，并问其履历。",
+ "people": [
+  {
+   "name": "张云翼",
+   "role": "大理寺卿"
+  },
+  {
+   "name": "张勇",
+   "role": "提督"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "董文骏",
+   "role": "书法家"
+  },
+  {
+   "name": "梁清标",
+   "role": "户部尚书"
+  },
+  {
+   "name": "张玉书",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "常州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15007,
+ "page_range": "343-344"
+}

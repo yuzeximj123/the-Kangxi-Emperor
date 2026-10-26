@@ -1,0 +1,50 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "大学士松柱等奏九卿称无深知清廉之人，康熙列举李陈常、额伦特、施世纶等操守好者，令问九卿并令举出清廉之员。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李陈常",
+   "role": "官员"
+  },
+  {
+   "name": "额伦特",
+   "role": "官员"
+  },
+  {
+   "name": "施世纶",
+   "role": "官员"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "官员"
+  },
+  {
+   "name": "杨琳",
+   "role": "官员"
+  },
+  {
+   "name": "李维钧",
+   "role": "官员"
+  },
+  {
+   "name": "白潢",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12901,
+ "page_range": "269-270"
+}

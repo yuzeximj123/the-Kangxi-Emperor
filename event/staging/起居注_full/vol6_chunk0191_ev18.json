@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "初四日任成",
+ "event_role": "朝见受贺",
+ "summary": "署霸州知州事东安县知县王友直等、霸州驻防防守御趟极图等来朝。",
+ "people": [
+  {
+   "name": "王友直",
+   "role": "署霸州知州事东安县知县"
+  },
+  {
+   "name": "趟极图",
+   "role": "霸州驻防防守御"
+  }
+ ],
+ "places": [
+  "霸州",
+  "东安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19118,
+ "page_range": "392-393"
+}

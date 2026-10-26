@@ -1,0 +1,29 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": "初四日丙子",
+ "event_role": "其他",
+ "summary": "康熙帝赐直隶巡抚赵弘党、天津总兵官杜呈泗《御制避暑山庄记》、《御选唐诗》各一部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "杜呈泗",
+   "role": "天津总兵官"
+  }
+ ],
+ "places": [
+  "直隶",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5229,
+ "page_range": "115-116"
+}

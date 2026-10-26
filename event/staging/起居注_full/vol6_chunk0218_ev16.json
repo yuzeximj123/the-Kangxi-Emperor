@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初八日辛酉",
+ "event_role": "河工水利",
+ "summary": "康熙帝问范承勋挑水坝修筑之意，范承勋奏今岁黄河水小，当尽力修筑增高加广更为有益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21816,
+ "page_range": "446-447"
+}

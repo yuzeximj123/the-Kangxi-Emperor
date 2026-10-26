@@ -1,0 +1,24 @@
+{
+ "reign_year": 53,
+ "month": 3,
+ "day_text": "二十六日乙卯",
+ "event_role": "人事任免",
+ "summary": "兵部题云南开化总兵官标下中军守备张应玉员缺，康熙帝命交领侍卫内大臣将汉侍卫等具题引见，阅射后补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张应玉",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "云南开化"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5707,
+ "page_range": "125-126"
+}

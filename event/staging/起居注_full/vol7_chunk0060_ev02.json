@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "马齐等呈追谥原任大学士王熙折子，康熙谕令谥以文靖。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "原任大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6002,
+ "page_range": "131-132"
+}

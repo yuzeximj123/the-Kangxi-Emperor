@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "偏沅巡抚韩世琦请以南宁马二千余匹暂于桂林喂养，康熙命照部议行，并令马匹勿令亏损，下严旨谕之。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩世琦",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "项吉图",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "南宁",
+  "桂林",
+  "柳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23403,
+ "page_range": "525-526"
+}

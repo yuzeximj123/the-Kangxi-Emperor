@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称郎中绥色、哈雅尔图均属好官，追问为何不在保举之内。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "绥色",
+   "role": "郎中"
+  },
+  {
+   "name": "哈雅尔图",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8206,
+ "page_range": "174-175"
+}

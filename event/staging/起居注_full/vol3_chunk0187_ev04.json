@@ -1,0 +1,31 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "十四日乙未",
+ "event_role": "人事任免",
+ "summary": "兵部题报延绥总兵李承因年老休致，康熙帝命河南河北总兵冯德昌调补陕西延绥总兵官。",
+ "people": [
+  {
+   "name": "李承",
+   "role": "陕西延绥总兵官"
+  },
+  {
+   "name": "冯德昌",
+   "role": "河南河北总兵官"
+  },
+  {
+   "name": "祁车伯",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "陕西",
+  "延绥",
+  "河南",
+  "河北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18704,
+ "page_range": "409-410"
+}

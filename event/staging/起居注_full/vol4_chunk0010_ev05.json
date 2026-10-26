@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "十一日甲寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝因章皇后丧事，不御乾清门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1005,
+ "page_range": "32-33"
+}

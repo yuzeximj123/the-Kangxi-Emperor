@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "十六日庚子",
+ "event_role": "人事任免",
+ "summary": "翰林院因编修顾图河身故开列日讲起居注官缺，康熙帝命蒋廷锡以原衔充日讲起居注官。",
+ "people": [
+  {
+   "name": "顾图河",
+   "role": "编修，已故"
+  },
+  {
+   "name": "王原祁",
+   "role": "侍读学士"
+  },
+  {
+   "name": "蒋廷锡",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13217,
+ "page_range": "275-276"
+}

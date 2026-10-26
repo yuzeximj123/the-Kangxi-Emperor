@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": "初七日庚申",
+ "event_role": "司法案件",
+ "summary": "覆请宗人府所题觉罗海敦妻寡妇案，拟将富尔敦枷号两月、鞭一百、发往黑龙江，康熙帝以富尔敦另闻，命将本发回一并议奏。",
+ "people": [
+  {
+   "name": "富尔敦",
+   "role": "原任护军参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19109,
+ "page_range": "393-394"
+}

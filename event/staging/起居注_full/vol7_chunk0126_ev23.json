@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "十二日本卯",
+ "event_role": "议政听政",
+ "summary": "山西巡抚噶礼因御史袁桥参奏已回奏，议差大臣往审，康熙帝令九卿詹事科道会同秉公议奏并警告偏徇者重处。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "袁桥",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "前大学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12623,
+ "page_range": "263-264"
+}

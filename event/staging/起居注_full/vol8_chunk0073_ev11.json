@@ -1,0 +1,29 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": "初二日庚午",
+ "event_role": "人事任免",
+ "summary": "兵部议广西提督张朝午题游击支能升广东崖州营游击请带所升之级仍留原任，康熙帝令依该提督所奏。",
+ "people": [
+  {
+   "name": "张朝午",
+   "role": "广西提督"
+  },
+  {
+   "name": "支能",
+   "role": "右营游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西",
+  "广东崖州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7311,
+ "page_range": "157-158"
+}

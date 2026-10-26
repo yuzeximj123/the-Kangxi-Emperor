@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "二十一日乙相",
+ "event_role": "司法案件",
+ "summary": "守紫禁城章京花色等空班拟革职，康熙帝令查其母与子是否现存再奏。",
+ "people": [
+  {
+   "name": "花色",
+   "role": "守紫禁城章京"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "紫禁城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14010,
+ "page_range": "290-291"
+}

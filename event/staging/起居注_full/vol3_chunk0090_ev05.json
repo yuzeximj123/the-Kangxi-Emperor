@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "二十一日庚成",
+ "event_role": "人事任免",
+ "summary": "吏部题补太常寺卿葛思泰升任员缺，拟色冷为正、那幕为陪；康熙帝认为色冷平常，改令穆成格升补太常寺卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "葛思泰",
+   "role": "太常寺卿"
+  },
+  {
+   "name": "色冷",
+   "role": "太仆寺卿"
+  },
+  {
+   "name": "那幕",
+   "role": "山西布政使"
+  },
+  {
+   "name": "穆成格",
+   "role": "太常寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9005,
+ "page_range": "215-216"
+}

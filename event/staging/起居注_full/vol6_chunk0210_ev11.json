@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "十六日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "工部奏郎中保格等查盛京工部修理永陵大戏需用物料浮多，康熙帝命都察院会同工部严察议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "保格",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "盛京",
+  "永陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21011,
+ "page_range": "430-431"
+}

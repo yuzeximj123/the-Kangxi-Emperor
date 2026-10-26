@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十二日甲子",
+ "event_role": "司法案件",
+ "summary": "刑部覆提督唐希顺题参参将李出事，康熙帝命问席尔达，移会满丕。",
+ "people": [
+  {
+   "name": "唐希顺",
+   "role": "提督"
+  },
+  {
+   "name": "李出",
+   "role": "参将"
+  },
+  {
+   "name": "满丕",
+   "role": "侍郎"
+  },
+  {
+   "name": "席尔达",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23012,
+ "page_range": "470-471"
+}

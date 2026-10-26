@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "二十二日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "给事中许志进条奏大计册籍应交九卿察勘，康熙帝以其徒启营求之路不准行。",
+ "people": [
+  {
+   "name": "许志进",
+   "role": "给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6205,
+ "page_range": "135-136"
+}

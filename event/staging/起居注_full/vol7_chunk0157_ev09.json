@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝询问学士噶敏图、瓦尔达、觉和托、博音代等所经之地，又问起居注官常鼐曾到何处。",
+ "people": [
+  {
+   "name": "噶敏图",
+   "role": "学士"
+  },
+  {
+   "name": "瓦尔达",
+   "role": "学士"
+  },
+  {
+   "name": "觉和托",
+   "role": "学士"
+  },
+  {
+   "name": "博音代",
+   "role": "学士"
+  },
+  {
+   "name": "常鼐",
+   "role": "起居注官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15709,
+ "page_range": "325-326"
+}

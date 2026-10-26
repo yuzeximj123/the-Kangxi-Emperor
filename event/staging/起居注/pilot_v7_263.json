@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "",
+ "event_role": "祭祀典礼",
+ "summary": "太常寺为礼祈谷坛请遣大臣行礼，康熙帝谕着巴浑德代行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴浑德",
+   "role": "代行礼大臣"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3263
+}

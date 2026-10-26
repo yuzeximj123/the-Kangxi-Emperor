@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "初七日甲成",
+ "event_role": "奏报灾情收成",
+ "event_summary": "山西巡抚穆尔赛奏报地震压死人数，康熙帝命尚书萨木哈带司官前往详勘拯救。",
+ "people": [
+  {
+   "name": "穆尔赛",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "萨木哈",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23708,
+ "page_range": "517-518"
+}

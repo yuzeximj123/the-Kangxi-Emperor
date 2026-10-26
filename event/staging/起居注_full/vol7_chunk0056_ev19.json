@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "初九日甲申",
+ "event_role": "人事任免",
+ "summary": "兵部题补直隶河间府副将师误德员缺，开列参领马世斌等，康熙帝命移文问巡抚、总兵具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "师误德",
+   "role": "河间府副将"
+  },
+  {
+   "name": "马世斌",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "河间府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5619,
+ "page_range": "123-124"
+}

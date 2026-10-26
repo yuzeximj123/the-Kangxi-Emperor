@@ -1,0 +1,37 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "曹寅谢恩复点巡视两淮盐课，并请假营葬其母、请示勅印交接办法。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "梁九功",
+   "role": "涉及人物"
+  },
+  {
+   "name": "尚之傑",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "江寧",
+  "兩淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批仅表示知道了，未作具体指示。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "184",
+ "source_title": "江寧織造曹寅奏謝復點巡視兩淮鹽課並請假營葬摺",
+ "order_index": 133
+}

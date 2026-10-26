@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请刑部等衙门议广东巡抚杨琳所题陈惠公、林唐生、陈修寿等案，拟照律正法，并议千总张权捕盗被鸟枪打死赏恤事。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "陈惠公",
+   "role": "案犯"
+  },
+  {
+   "name": "林唐生",
+   "role": "案犯"
+  },
+  {
+   "name": "陈修寿",
+   "role": "案犯"
+  },
+  {
+   "name": "张权",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10700,
+ "page_range": "225-226"
+}

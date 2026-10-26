@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "十八日壬午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸碾谷温泉，赐温属王延寿乳牛五头等物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王延寿",
+   "role": "受赐者"
+  }
+ ],
+ "places": [
+  "碾谷温泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3611,
+ "page_range": "107-108"
+}

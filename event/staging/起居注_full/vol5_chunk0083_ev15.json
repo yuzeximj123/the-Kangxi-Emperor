@@ -1,0 +1,33 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初四日癸巳",
+ "event_role": "人事任免",
+ "summary": "兵部题右卫将军希福员缺，康熙帝令费扬古补右卫将军兼管归化城将军事，俟三年后再行改补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "右卫将军"
+  },
+  {
+   "name": "马思喀",
+   "role": "镶黄旗副都统"
+  },
+  {
+   "name": "费扬古",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "右卫",
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8315,
+ "page_range": "176-177"
+}

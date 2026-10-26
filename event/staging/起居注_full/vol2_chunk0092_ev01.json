@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "三法司拟程林正殴死权祖立斩，康熙帝以尸无致命重伤、立决似属可矜，命再议。",
+ "people": [
+  {
+   "name": "程林正",
+   "role": "民人/被告"
+  },
+  {
+   "name": "权祖",
+   "role": "死者"
+  },
+  {
+   "name": "程淑济",
+   "role": "尸检对象"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9201,
+ "page_range": "227-228"
+}

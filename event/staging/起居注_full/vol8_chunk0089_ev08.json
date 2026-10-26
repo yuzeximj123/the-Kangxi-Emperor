@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "广西提督张朝午题请后营游击解登榜升任江南、安徽巡抚右营游击，乞以升衔留任，康熙帝命照所题留任。",
+ "people": [
+  {
+   "name": "张朝午",
+   "role": "广西提督"
+  },
+  {
+   "name": "解登榜",
+   "role": "后营游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西",
+  "江南",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8908,
+ "page_range": "189-190"
+}

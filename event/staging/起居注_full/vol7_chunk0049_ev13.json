@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "二十一日本卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝因湖广兵丁骄纵，命林本植解任，以俞益席补大同总兵并驰驿赴任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭玫",
+   "role": "湖广总督"
+  },
+  {
+   "name": "林本植",
+   "role": "湖广提督"
+  },
+  {
+   "name": "俞益席",
+   "role": "大同总兵"
+  }
+ ],
+ "places": [
+  "湖广",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4913,
+ "page_range": "109-110"
+}

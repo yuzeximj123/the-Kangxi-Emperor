@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "礼部题朝鲜国王申报国人杀死中国人一案，康熙帝命部院贤能司官、盛京司官、朝鲜国官在凤凰城会审察明议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李粘",
+   "role": "朝鲜国王"
+  }
+ ],
+ "places": [
+  "凤凰城",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15607,
+ "page_range": "323-324"
+}

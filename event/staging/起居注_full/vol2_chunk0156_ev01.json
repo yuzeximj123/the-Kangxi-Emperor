@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院参盛京八门城楼估价浮多，康熙帝命康旦降五级留任，图尔罕等革职免交刑部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "康旦",
+   "role": "盛京工部侍郎"
+  },
+  {
+   "name": "图尔罕",
+   "role": "郎中"
+  },
+  {
+   "name": "刘答",
+   "role": "员外郎"
+  },
+  {
+   "name": "党古里",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15601,
+ "page_range": "355-356"
+}

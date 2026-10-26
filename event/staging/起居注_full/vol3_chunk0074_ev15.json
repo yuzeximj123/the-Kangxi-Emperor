@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "十二日于寅",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕令光禄卿布占休致、钦天监副邵泰衢革职，并称工部主事德布色人品甚优。",
+ "people": [
+  {
+   "name": "布占",
+   "role": "光禄卿"
+  },
+  {
+   "name": "邵泰衢",
+   "role": "钦天监副"
+  },
+  {
+   "name": "德布色",
+   "role": "工部主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7415,
+ "page_range": "183-184"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "初九日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论张伯行虚言难副，任江苏巡抚后米价腾贵，未能移风易俗家给人足。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "江苏巡抚"
+  }
+ ],
+ "places": [
+  "江南",
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11605,
+ "page_range": "243-244"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部为甘肃升任总兵官孙思克员缺请旨，康熙帝命将王用予调补，因其与父王进宝汛地相近但所辖各异。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "甘肃升任总兵官"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康天保",
+   "role": "现任副将"
+  },
+  {
+   "name": "王用予",
+   "role": "候缺总兵官"
+  },
+  {
+   "name": "王进宝",
+   "role": "王用予之父"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2802,
+ "page_range": "91-92"
+}

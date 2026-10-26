@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "十八日丙申",
+ "event_role": "朝见受贺",
+ "summary": "丰润县知县金应隆、守备郭虎威等来朝见。",
+ "people": [
+  {
+   "name": "金应隆",
+   "role": "丰润县知县"
+  },
+  {
+   "name": "郭虎威",
+   "role": "丰润县守备"
+  }
+ ],
+ "places": [
+  "丰润县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11318,
+ "page_range": "269-270"
+}

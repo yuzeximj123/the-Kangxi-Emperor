@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "按察使金镇奏请旗下买人须知照原籍驻防满兵，并奏官兵私放贼盗事，康熙帝询问。",
+ "people": [
+  {
+   "name": "金镇",
+   "role": "按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁",
+  "镇江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17102,
+ "page_range": "385-386"
+}

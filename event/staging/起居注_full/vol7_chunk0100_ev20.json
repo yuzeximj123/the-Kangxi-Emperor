@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "二十二日庚辰",
+ "event_role": "其他",
+ "summary": "康熙帝阅第一卷称字佳词稍泛，亲拆弥封见为施云锦，江南人，询问读卷官是否识其人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施云锦",
+   "role": "贡士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10020,
+ "page_range": "211-212"
+}

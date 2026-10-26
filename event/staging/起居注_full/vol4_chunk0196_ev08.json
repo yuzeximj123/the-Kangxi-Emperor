@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 5,
+ "day_text": "初一日庚成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召尚书马齐、侍郎凯音布，谕令差贤能之人前往山西平阳府一带收买麦谷预备积贮，并令会同九卿、詹事、科道议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "凯音布",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "山西平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19608,
+ "page_range": "404-405"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十四日丁雍",
+ "event_role": "人事任免",
+ "summary": "江南将军额楚以病请解任，康熙帝以其旧将且有劳绩命留任。",
+ "people": [
+  {
+   "name": "额楚",
+   "role": "江南将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15122,
+ "page_range": "345-346"
+}

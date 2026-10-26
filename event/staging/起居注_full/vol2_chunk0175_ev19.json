@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "三十日壬寅",
+ "event_role": "人事任免",
+ "summary": "兵部题卓异副将田万侠等八人应越级升用，康熙帝以田万侠品行不佳发回再议。",
+ "people": [
+  {
+   "name": "田万侠",
+   "role": "副将"
+  },
+  {
+   "name": "石柱",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17519,
+ "page_range": "393-394"
+}

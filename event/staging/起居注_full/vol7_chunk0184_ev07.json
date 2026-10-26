@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "提督陕西学政潘从律题请朱轼任满后是否留陕守候，康熙帝认为总督题留不合，令潘从律留陕西守候。",
+ "people": [
+  {
+   "name": "潘从律",
+   "role": "提督陕西学政"
+  },
+  {
+   "name": "朱轼",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "华州",
+  "商州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18407,
+ "page_range": "379-380"
+}

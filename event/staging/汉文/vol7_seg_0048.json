@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十五年五月二十五日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 23,
+ "event_role": "请安谢恩",
+ "summary": "大学士王掞奏谢康熙赐药并陈述服药后泄止情形，表示将遵旨谨慎调理身体，以慰圣怀。",
+ "people": [
+  {
+   "name": "王掞",
+   "role": "大学士，奏折作者"
+  },
+  {
+   "name": "刘声芳",
+   "role": "太医，曾奉命诊视王掞"
+  },
+  {
+   "name": "朱谕",
+   "role": "翰林，曾奉命诊视王掞并为其调理"
+  }
+ ],
+ "places": [
+  "通州",
+  "京"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏為御製詩集經重加校改進呈摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "128",
+ "order_index": 48
+}

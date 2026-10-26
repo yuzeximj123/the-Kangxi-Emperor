@@ -1,0 +1,32 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问汉唐蜀运旧制，王熙奏对后，命直隶守道邵珊前往同德珠办理运务。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "邵珊",
+   "role": "直隶守道"
+  },
+  {
+   "name": "同德珠",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22600,
+ "page_range": "464-465"
+}

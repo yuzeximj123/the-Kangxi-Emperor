@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "初十日辛卯",
+ "event_role": "人事任免",
+ "summary": "奉旨依议，遣都统都思喀尔、台吉阿拉布潭德木楚克并司业萨尔图前往呼户诺尔。",
+ "people": [
+  {
+   "name": "都思喀尔",
+   "role": "都统"
+  },
+  {
+   "name": "阿拉布潭德木楚克",
+   "role": "台吉"
+  },
+  {
+   "name": "萨尔图",
+   "role": "司业"
+  }
+ ],
+ "places": [
+  "呼户诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18812,
+ "page_range": "386-387"
+}

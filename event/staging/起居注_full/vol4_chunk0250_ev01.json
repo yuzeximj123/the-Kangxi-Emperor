@@ -1,0 +1,22 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "本日起居注官为傅伸、陈元龙。",
+ "people": [
+  {
+   "name": "傅伸",
+   "role": "起居注官"
+  },
+  {
+   "name": "陈元龙",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25001,
+ "page_range": "512-513"
+}

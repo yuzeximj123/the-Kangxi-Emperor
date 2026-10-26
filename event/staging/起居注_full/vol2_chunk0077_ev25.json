@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "初十日已未",
+ "event_role": "人事任免",
+ "summary": "就福建出征将军喇哈达等题请保留提督诺迈事，议政王大臣两议，康熙帝询问尔等之意若何。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇哈达",
+   "role": "福建出征将军都统"
+  },
+  {
+   "name": "诺迈",
+   "role": "福建提督"
+  },
+  {
+   "name": "万正色",
+   "role": "新调提督"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7725,
+ "page_range": "197-198"
+}

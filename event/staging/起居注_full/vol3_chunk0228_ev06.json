@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问古时因灾变罢免大臣是否合于理，汤斌、余国柱分别奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "礼部尚书管詹事府事"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22806,
+ "page_range": "491-492"
+}

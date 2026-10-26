@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "湖广巡抚年遐龄参大冶县知县宫吕居官贪劣、德安府知府王又汗年老误事。",
+ "people": [
+  {
+   "name": "年遐龄",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "宫吕",
+   "role": "大冶县知县"
+  },
+  {
+   "name": "王又汗",
+   "role": "德安府知府"
+  }
+ ],
+ "places": [
+  "湖广",
+  "大冶县",
+  "德安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10407,
+ "page_range": "218-219"
+}

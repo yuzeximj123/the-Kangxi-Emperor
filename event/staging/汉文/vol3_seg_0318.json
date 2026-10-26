@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙五十一年正月初四日",
+ "reign_year": 51,
+ "month": null,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮奏谢皇上恩赐哈密瓜，表示感激并愿竭尽驽钝以报皇恩。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏折作者"
+  },
+  {
+   "name": "李应虎",
+   "role": "家人，赍捧哈密瓜回保定"
+  },
+  {
+   "name": "朱轼",
+   "role": "巡抚浙江等处地方提督军务、兵部尚书兼都察院右副都御史"
+  }
+ ],
+ "places": [
+  "直隶",
+  "保定",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸巡撫趙弘燮奏謝恩賜羊隻摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "1016",
+ "order_index": 318
+}

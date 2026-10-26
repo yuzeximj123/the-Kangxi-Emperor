@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "初三日甲子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝幸江南教场阅射，命各将军、副都统、总兵及内大臣、侍卫等射毕，亲射右发五矢五中、左发五矢四中，士民观者数万欢呼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南教场"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5614,
+ "page_range": "147-148"
+}

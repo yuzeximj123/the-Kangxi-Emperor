@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "二十七日壬子",
+ "event_role": "人事任免",
+ "summary": "兵部议广西投诚马承荫等五十三员官职，康熙帝以马承荫两次反叛不宜列尚书班次，命授二品官职再拟票签。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "马承荫",
+   "role": "投诚官员"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2410,
+ "page_range": "91-92"
+}

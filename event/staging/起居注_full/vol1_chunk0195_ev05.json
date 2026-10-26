@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "初四日乙丑",
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝复御乾清门赐浙江巡抚李本晟食，并召问陈奏。",
+ "people": [
+  {
+   "name": "李本晟",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19505,
+ "page_range": "447-448"
+}

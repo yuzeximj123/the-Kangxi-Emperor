@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十九日乙西",
+ "event_role": "皇帝行止",
+ "summary": "康熙御乾清宫，讲官牛钮、孙在丰、归允肃进讲“一阴一阳之谓道”三节，康熙亲讲毕，讲官照常讲说。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1405,
+ "page_range": "63-64"
+}

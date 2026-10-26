@@ -1,0 +1,37 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "初三日辛未",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御文华殿举行经筵大典，讲官库勒纳、熊赐履讲《四书》，张英、傅腊塔讲《易经》，毕后宴于太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 611,
+ "page_range": "22-23"
+}

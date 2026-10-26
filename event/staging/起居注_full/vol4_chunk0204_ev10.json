@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 8,
+ "day_text": "初一日戊寅",
+ "event_role": "朝见受贺",
+ "summary": "总兵官于元、霸昌道金云风、古北口防尉顾尔拜等来朝见。",
+ "people": [
+  {
+   "name": "于元",
+   "role": "总兵官"
+  },
+  {
+   "name": "金云风",
+   "role": "霸昌道"
+  },
+  {
+   "name": "顾尔拜",
+   "role": "古北口防尉"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20410,
+ "page_range": "420-421"
+}

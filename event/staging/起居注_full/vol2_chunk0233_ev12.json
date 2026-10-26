@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十五日壬戌",
+ "event_role": "人事任免",
+ "summary": "题设宁古塔左翼副都统，康熙帝命调侍郎温代补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温代",
+   "role": "侍郎"
+  },
+  {
+   "name": "额星格",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23312,
+ "page_range": "509-510"
+}

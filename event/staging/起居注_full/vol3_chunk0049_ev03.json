@@ -1,0 +1,36 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御保和殿，召见进贡的喀尔喀部落车臣汗下查罕衣特格尔图等及浙江温州总兵官康调元等赐食，并亲赐巴朗台吉酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "查罕衣特格尔图",
+   "role": "喀尔喀车臣汗下属"
+  },
+  {
+   "name": "达西",
+   "role": "喀尔喀来使"
+  },
+  {
+   "name": "巴朗",
+   "role": "台吉"
+  },
+  {
+   "name": "康调元",
+   "role": "浙江温州总兵官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4903,
+ "page_range": "133-134"
+}

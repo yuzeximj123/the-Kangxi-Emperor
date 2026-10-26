@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "大名道卞三公、知府谢淳、湛县知县王王等来朝。",
+ "people": [
+  {
+   "name": "卞三公",
+   "role": "大名道"
+  },
+  {
+   "name": "谢淳",
+   "role": "知府"
+  },
+  {
+   "name": "王王",
+   "role": "湛县知县"
+  }
+ ],
+ "places": [
+  "大名"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8505,
+ "page_range": "181-182"
+}

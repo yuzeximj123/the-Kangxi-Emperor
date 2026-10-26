@@ -1,0 +1,21 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "朔己酉",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝因天下统一，前往太祖、太宗山陵展祭，行告成礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太祖山陵",
+  "太宗山陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 0,
+ "page_range": "57-58"
+}

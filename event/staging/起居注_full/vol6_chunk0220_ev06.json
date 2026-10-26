@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十三日丙寅",
+ "event_role": "司法案件",
+ "summary": "刑部题陕西省秋审情真案内原任知县关表、王宗且以克扣籽粒银坐折，康熙帝命改缓决。",
+ "people": [
+  {
+   "name": "关表",
+   "role": "原任知县"
+  },
+  {
+   "name": "王宗且",
+   "role": "原任知县"
+  }
+ ],
+ "places": [
+  "陕西省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22006,
+ "page_range": "450-451"
+}

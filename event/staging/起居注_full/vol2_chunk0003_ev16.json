@@ -1,0 +1,39 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十七日癸酉",
+ "event_role": "贸易漕运",
+ "summary": "九卿等会议给事中李过条奏船只出海事宜，康熙帝主张小船沿岸行走，命即定议具奏。",
+ "people": [
+  {
+   "name": "李过",
+   "role": "给事中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "汉大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "直隶",
+  "山东",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 316,
+ "page_range": "49-50"
+}

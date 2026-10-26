@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "二十二日甲辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问舒书、凯音布等可否补学士，明珠等奏舒书外虽与人相合而未尝身任事务。",
+ "people": [
+  {
+   "name": "舒书",
+   "role": "少詹事"
+  },
+  {
+   "name": "凯音布",
+   "role": "监察御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18105,
+ "page_range": "397-398"
+}

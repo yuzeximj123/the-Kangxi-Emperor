@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "十八日癸卯",
+ "event_role": "朝见受贺",
+ "summary": "宝坻县防守御乌尔泰等、守备赵子成等、三河县知县李常华等来朝。",
+ "people": [
+  {
+   "name": "乌尔泰",
+   "role": "宝坻县防守御"
+  },
+  {
+   "name": "赵子成",
+   "role": "守备"
+  },
+  {
+   "name": "李常华",
+   "role": "三河县知县"
+  }
+ ],
+ "places": [
+  "宝坻县",
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19619,
+ "page_range": "403-404"
+}

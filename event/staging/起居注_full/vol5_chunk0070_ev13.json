@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "二十日康成",
+ "event_role": "人事任免",
+ "summary": "兵部题广东提督李镇昂应兼职衔，康熙帝就此请旨。",
+ "people": [
+  {
+   "name": "李镇昂",
+   "role": "广东提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7013,
+ "page_range": "150-151"
+}

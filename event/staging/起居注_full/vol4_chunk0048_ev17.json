@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "二十四日己巳",
+ "event_role": "其他",
+ "summary": "康熙赐镇守奉天将军绰克图弓箭、撒袋、蟒缎、披领、鞍马。",
+ "people": [
+  {
+   "name": "绰克图",
+   "role": "镇守奉天将军辅国公"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4817,
+ "page_range": "108-109"
+}

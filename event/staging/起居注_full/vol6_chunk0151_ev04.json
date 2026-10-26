@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "二十五日戊子",
+ "event_role": "人事任免",
+ "summary": "吏部奏西安府知府员缺，康熙帝命将直隶官四员记名，以居官素优的同知妾士到升补西安府知府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "布泰",
+   "role": "学士"
+  },
+  {
+   "name": "妾士到",
+   "role": "同知"
+  }
+ ],
+ "places": [
+  "西安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15104,
+ "page_range": "312-313"
+}

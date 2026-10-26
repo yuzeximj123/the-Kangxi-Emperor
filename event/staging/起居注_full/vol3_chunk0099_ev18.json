@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 7,
+ "day_text": "初八日丙寅",
+ "event_role": "司法案件",
+ "summary": "刑部议李才因争家产殴死堂叔李之荣拟立斩，康熙询问后命照部议处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李才",
+   "role": "案犯"
+  },
+  {
+   "name": "李之荣",
+   "role": "死者"
+  },
+  {
+   "name": "佛伦",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9918,
+ "page_range": "233-234"
+}

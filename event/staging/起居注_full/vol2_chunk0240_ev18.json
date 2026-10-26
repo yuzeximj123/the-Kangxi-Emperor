@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十八日乙酉",
+ "event_role": "人事任免",
+ "summary": "兵部题镶蓝旗前锋侍卫雅哈升任员缺，正拟三等护卫达善、陪拟护军校赛柱，康熙帝询问后以达善素善射，命补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达善",
+   "role": "三等护卫"
+  },
+  {
+   "name": "赛柱",
+   "role": "护军校"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "根特",
+   "role": "本旗都统"
+  },
+  {
+   "name": "额黑纳",
+   "role": "护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24018,
+ "page_range": "523-524"
+}

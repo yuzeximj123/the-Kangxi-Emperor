@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "二十四日庚辰",
+ "event_role": "司法案件",
+ "summary": "凌才殴兄凌成次日身死案，康熙帝以人命重大命交九卿、詹事、科道会同再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凌才",
+   "role": "案犯"
+  },
+  {
+   "name": "凌成",
+   "role": "死者"
+  },
+  {
+   "name": "匡存礼",
+   "role": "江南巡抚"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15615,
+ "page_range": "323-324"
+}

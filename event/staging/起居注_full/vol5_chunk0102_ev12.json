@@ -1,0 +1,34 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "初四日庚申",
+ "event_role": "人事任免",
+ "summary": "议政大臣等议覆，奉旨派侍郎马尔汉驻土木，未到前由朱都纳暂理，并命学士组色署理兵部。",
+ "people": [
+  {
+   "name": "马尔汉",
+   "role": "侍郎"
+  },
+  {
+   "name": "朱都纳",
+   "role": "大臣"
+  },
+  {
+   "name": "索诺和",
+   "role": "兵部大臣"
+  },
+  {
+   "name": "组色",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "土木",
+  "杀虎口",
+  "独石口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10212,
+ "page_range": "214-215"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "二十三日庚寅",
+ "event_role": "奏报地方情形",
+ "summary": "山海关差回户部郎中马尔汉进见，奏沿途麦田皆好，惟玉田、丰润稍旱，麦尚未秀出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马尔汉",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [
+  "山海关",
+  "玉田",
+  "丰润"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1711,
+ "page_range": "44-45"
+}

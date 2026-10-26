@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初七日丙午",
+ "event_role": "人事任免",
+ "summary": "吏部题补佥事图纳升任员缺，开列少詹喇巴等职名，康熙帝命原任起居注官侍读学士阿哈达升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "佥事"
+  },
+  {
+   "name": "喇巴",
+   "role": "少詹"
+  },
+  {
+   "name": "阿哈达",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21114,
+ "page_range": "465-466"
+}

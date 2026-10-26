@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以布政使张所志与巡抚同城必通同作弊，着照不齐例革职。",
+ "people": [
+  {
+   "name": "张所志",
+   "role": "布政使"
+  },
+  {
+   "name": "安世思",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25402,
+ "page_range": "543-544"
+}

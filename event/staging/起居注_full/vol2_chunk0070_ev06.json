@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "二十七日成实",
+ "event_role": "人事任免",
+ "summary": "吏部题补山东按察使员缺，康熙帝令九卿、科道选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡戴仁",
+   "role": "拟补道员"
+  },
+  {
+   "name": "张泊",
+   "role": "陪拟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7006,
+ "page_range": "183-184"
+}

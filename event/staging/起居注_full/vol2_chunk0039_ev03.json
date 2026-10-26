@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补理藩院侍郎员缺，康熙帝询问人选，命开列蒙古侍读学士及郎中具奏。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明爱",
+   "role": "大理寺卿"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "喇巴克",
+   "role": "蒙古侍读学士"
+  },
+  {
+   "name": "吴喇代",
+   "role": "蒙古侍读学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3903,
+ "page_range": "121-122"
+}

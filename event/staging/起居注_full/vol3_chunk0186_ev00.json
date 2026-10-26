@@ -1,0 +1,60 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿会推四川学道员缺，拟补悄玉，明珠等奏陈会推经过及沙澄言语游移情形。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "悄玉",
+   "role": "刑部郎中，拟补四川学道"
+  },
+  {
+   "name": "王日曾",
+   "role": "礼部郎中"
+  },
+  {
+   "name": "严我斯",
+   "role": "侍郎"
+  },
+  {
+   "name": "徐乾学",
+   "role": "侍郎"
+  },
+  {
+   "name": "张可前",
+   "role": "侍郎"
+  },
+  {
+   "name": "沙澄",
+   "role": "尚书"
+  },
+  {
+   "name": "张士标",
+   "role": "尚书"
+  },
+  {
+   "name": "李之芳",
+   "role": "尚书"
+  },
+  {
+   "name": "余国柱",
+   "role": "尚书"
+  },
+  {
+   "name": "董讷",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18600,
+ "page_range": "407-408"
+}

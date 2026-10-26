@@ -1,0 +1,45 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "十一日",
+ "event_role": "其他",
+ "summary": "康熙帝赐江天寺僧超乐、僧明真、避风馆僧源恒、僧明融、僧妙觉、僧僧澜、僧越光等御书经文字幅。",
+ "people": [
+  {
+   "name": "超乐",
+   "role": "江天寺僧"
+  },
+  {
+   "name": "明真",
+   "role": "僧"
+  },
+  {
+   "name": "源恒",
+   "role": "避风馆僧"
+  },
+  {
+   "name": "明融",
+   "role": "僧"
+  },
+  {
+   "name": "妙觉",
+   "role": "僧"
+  },
+  {
+   "name": "僧澜",
+   "role": "僧"
+  },
+  {
+   "name": "越光",
+   "role": "僧"
+  }
+ ],
+ "places": [
+  "江天寺",
+  "避风馆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8206,
+ "page_range": "174-175"
+}

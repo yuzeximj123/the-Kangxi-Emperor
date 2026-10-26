@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "十五日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论法良前任内务府官员为人朴实安静，所教庶吉士甚属不堪，命十七日将试卷携至畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "法良",
+   "role": "内务府官员"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5720,
+ "page_range": "125-126"
+}

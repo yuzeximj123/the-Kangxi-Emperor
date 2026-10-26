@@ -1,0 +1,50 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "初二日癸未",
+ "event_role": "人事任免",
+ "summary": "会典馆副总裁麻尔图、常书员缺，开列学士吴兴祖等职名启奏，康熙命徐廷伟、尹泰充补。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "麻尔图",
+   "role": "会典馆副总裁"
+  },
+  {
+   "name": "常书",
+   "role": "会典馆副总裁"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "学士"
+  },
+  {
+   "name": "徐廷化",
+   "role": "学士"
+  },
+  {
+   "name": "吴喇代",
+   "role": "学士"
+  },
+  {
+   "name": "库勒纳",
+   "role": "学士"
+  },
+  {
+   "name": "尹泰",
+   "role": "给事中"
+  },
+  {
+   "name": "徐廷伟",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18504,
+ "page_range": "405-406"
+}

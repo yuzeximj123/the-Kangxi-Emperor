@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "十四日戊成",
+ "event_role": "人事任免",
+ "summary": "吏部题川陕总督希福大计时未据实注考布政使希格，照例议降四级调用，康熙帝从宽留任。",
+ "people": [
+  {
+   "name": "希福",
+   "role": "川陕总督"
+  },
+  {
+   "name": "希格",
+   "role": "布政使"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "汉大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15401,
+ "page_range": "343-344"
+}

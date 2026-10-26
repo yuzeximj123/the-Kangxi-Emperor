@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": "十七日乙未",
+ "event_role": "人事任免",
+ "summary": "兵部以广东提督李镇鼎员缺开列副都统喻维邦、总兵官杨嘉瑞等职名，康熙帝命副都统卢崇耀补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李镇鼎",
+   "role": "广东提督"
+  },
+  {
+   "name": "喻维邦",
+   "role": "副都统"
+  },
+  {
+   "name": "杨嘉瑞",
+   "role": "总兵官"
+  },
+  {
+   "name": "卢崇耀",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 517,
+ "page_range": "20-21"
+}

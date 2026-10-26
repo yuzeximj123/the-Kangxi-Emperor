@@ -1,0 +1,37 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "二十三日己巳",
+ "event_role": "议政听政",
+ "summary": "内阁题陕西、江南主考，拣选侍讲李振裕、庶子陈论、赞善徐潮、汪霦，康熙帝询问人选。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李振裕",
+   "role": "侍讲"
+  },
+  {
+   "name": "陈论",
+   "role": "庶子"
+  },
+  {
+   "name": "徐潮",
+   "role": "赞善"
+  },
+  {
+   "name": "汪霦",
+   "role": "赞善"
+  }
+ ],
+ "places": [
+  "陕西",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3225,
+ "page_range": "99-100"
+}

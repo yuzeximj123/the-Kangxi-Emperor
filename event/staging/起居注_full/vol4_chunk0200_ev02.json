@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "云南巡抚王继文疏报土司高曦燕妻陈氏事，康熙帝命停其解送，仍给高曦燕完聚，此后逆属妇女一概不必行察。",
+ "people": [
+  {
+   "name": "王继文",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "高曦燕",
+   "role": "土司"
+  },
+  {
+   "name": "陈氏",
+   "role": "高曦燕之妻"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20002,
+ "page_range": "412-413"
+}

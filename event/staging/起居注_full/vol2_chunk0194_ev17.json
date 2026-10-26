@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "十二日癸丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补礼部郎中钟古尔代革职员缺，康熙帝令暂存本于衙门，待保举人名送至再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钟古尔代",
+   "role": "礼部郎中"
+  },
+  {
+   "name": "鄂屯",
+   "role": "拟正员外郎"
+  },
+  {
+   "name": "辛柱",
+   "role": "拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19417,
+ "page_range": "431-432"
+}

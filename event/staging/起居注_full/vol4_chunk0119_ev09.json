@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 4,
+ "day_text": "二十五日丙成",
+ "event_role": "谕旨决策",
+ "summary": "兵部题台臣杨敬儒条奏湖南陆路既有递运则水路船只宜停，议不准行；康熙帝命户、工二部会议添设船只具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨敬儒",
+   "role": "台臣"
+  }
+ ],
+ "places": [
+  "湖南",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11909,
+ "page_range": "250-251"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": "二十四日癸酉",
+ "event_role": "人事任免",
+ "summary": "吏部题补给事中严泰员缺，康熙帝命将久候者查明具奏，以郎中用之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "穆联",
+   "role": "候补给事中"
+  },
+  {
+   "name": "刘相",
+   "role": "刑部员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19006,
+ "page_range": "392-393"
+}

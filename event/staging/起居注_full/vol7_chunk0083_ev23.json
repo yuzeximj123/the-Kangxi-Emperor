@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十四日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝批评侍郎邵称布以折本请旨不将事之原委具奏，并论兵丁久不升迁、大臣苟且偷安之弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邵称布",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8323,
+ "page_range": "177-178"
+}

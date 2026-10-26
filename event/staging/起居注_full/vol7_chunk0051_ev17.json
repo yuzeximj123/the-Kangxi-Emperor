@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "十一日丙戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕鸿胪寺卿沙拜等，本地官员准其来朝，浙江官员待驾到彼处再令来朝，令越境来迎的巡抚张志栋等速回该管地方。",
+ "people": [
+  {
+   "name": "沙拜",
+   "role": "鸿胪寺卿"
+  },
+  {
+   "name": "张志栋",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [
+  "苏州府",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5117,
+ "page_range": "113-114"
+}

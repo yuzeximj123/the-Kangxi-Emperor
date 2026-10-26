@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初九日辛巳",
+ "event_role": "人事任免",
+ "summary": "吏部题补鸿胪寺少卿济哈纳告病员缺，康熙帝询问布达礼、傅尔哈二人，命以鸣赞何筷升补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "济哈纳",
+   "role": "鸿胪寺少卿"
+  },
+  {
+   "name": "布达礼",
+   "role": "拟正赞善"
+  },
+  {
+   "name": "傅尔哈",
+   "role": "拟陪"
+  },
+  {
+   "name": "何筷",
+   "role": "鸣赞"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18610,
+ "page_range": "415-416"
+}

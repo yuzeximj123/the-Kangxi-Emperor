@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初二日丙寅",
+ "event_role": "其他",
+ "summary": "康熙帝赐三屯营副将刘汉避白金二百两、马五匹，都司张谷贞白金百两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘汉避",
+   "role": "三屯营副将"
+  },
+  {
+   "name": "张谷贞",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "三屯营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12603,
+ "page_range": "262-263"
+}

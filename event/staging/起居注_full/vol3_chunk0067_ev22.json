@@ -1,0 +1,21 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "二十七日戊午",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙率王、内大臣、侍卫、部院大臣诣孝陵，于崇因殿献玉龟读祝文，以岁除礼大祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵",
+  "崇因殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6722,
+ "page_range": "169-170"
+}

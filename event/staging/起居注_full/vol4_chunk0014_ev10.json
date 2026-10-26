@@ -1,0 +1,34 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "初八日六已",
+ "event_role": "弹劾参奏",
+ "summary": "佛伦奏辩会议停修白驹等口及屯田事，指责董讷、慕天颜伙同党谋将己暗行巧陷。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "原任尚书"
+  },
+  {
+   "name": "董讷",
+   "role": "总督"
+  },
+  {
+   "name": "慕天颜",
+   "role": "官员"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "白驹",
+  "丁溪",
+  "草堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1410,
+ "page_range": "40-41"
+}

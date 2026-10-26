@@ -1,0 +1,42 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "二十日己巳",
+ "event_role": "人事任免",
+ "summary": "兵部题补护军参领，康熙帝询问传问情形后命马喀一并引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "麻尔汉",
+   "role": "镶蓝旗副都统"
+  },
+  {
+   "name": "韦驮",
+   "role": "护军参领"
+  },
+  {
+   "name": "息德",
+   "role": "拟正前锋护卫"
+  },
+  {
+   "name": "胡礼",
+   "role": "拟陪拜他喇布勒哈番"
+  },
+  {
+   "name": "马喀",
+   "role": "效力人员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7914,
+ "page_range": "201-202"
+}

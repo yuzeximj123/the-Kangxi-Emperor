@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "初二日乙卯",
+ "event_role": "人事任免",
+ "summary": "吏部题升任顺天府府尹卫既齐员缺，拟陈秘昌、唐朝芭，康熙帝命九卿选举堪任之人具奏。",
+ "people": [
+  {
+   "name": "卫既齐",
+   "role": "顺天府府尹"
+  },
+  {
+   "name": "陈秘昌",
+   "role": "都察院左佥都御史"
+  },
+  {
+   "name": "唐朝芭",
+   "role": "太仆寺正卿"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15607,
+ "page_range": "324-325"
+}

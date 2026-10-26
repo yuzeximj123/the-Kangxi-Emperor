@@ -1,0 +1,44 @@
+{
+ "date_raw": "五月初一日",
+ "reign_year": null,
+ "month": 5,
+ "day": 1,
+ "event_role": "请安谢恩",
+ "summary": "张玉书奏报自己入夏患病、蒙康熙遣御医诊视并赐御制药，服药后病情渐减，叩谢天恩并请圣训。",
+ "people": [
+  {
+   "name": "张玉书",
+   "role": "具奏大臣"
+  },
+  {
+   "name": "温达",
+   "role": "大学士，代奏张玉书病情"
+  },
+  {
+   "name": "刘声芳",
+   "role": "太医院院判，奉命诊视张玉书"
+  },
+  {
+   "name": "李德聪",
+   "role": "御医，奉命与张玉书商议调治"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，遣医赐药并朱批问病"
+  },
+  {
+   "name": "皇太后",
+   "role": "驻跸行宫，受恭迎"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批指示用药以愈心为要。",
+ "source_title": "張玉書謝恩",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 466
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "库勒纳奏问黑龙江日长夜短、日落不甚暗之故，康熙帝解释黑龙江极东北，日出日入皆近东北方。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19502,
+ "page_range": "402-403"
+}

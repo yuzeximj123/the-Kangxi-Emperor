@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙四十八年十一月十一日",
+ "reign_year": 48,
+ "month": 11,
+ "day": 11,
+ "event_role": "请安谢恩",
+ "summary": "江宁织造曹寅奏报在扬州督催料理各项文册，事竣拜本后即赴京复命，并恭请圣安。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏报人"
+  },
+  {
+   "name": "喇藏",
+   "role": "受命细察案情之人"
+  },
+  {
+   "name": "巴查微",
+   "role": "被提及有刀痕之人"
+  }
+ ],
+ "places": [
+  "扬州",
+  "西海",
+  "藏里"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧織造曹寅奏料理文册事竣後即赴京摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "602",
+ "order_index": 253
+}

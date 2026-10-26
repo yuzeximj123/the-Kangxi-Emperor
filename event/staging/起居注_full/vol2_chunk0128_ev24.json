@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "二十日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部题补翰林院侍讲学士，拟席特库、巴锡，帝以部院年久与文学不宜，命翰林院举学问优通者来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "席特库",
+   "role": "拟正官员"
+  },
+  {
+   "name": "巴锡",
+   "role": "拟陪官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12824,
+ "page_range": "299-300"
+}

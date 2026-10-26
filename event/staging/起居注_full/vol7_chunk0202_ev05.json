@@ -1,0 +1,22 @@
+{
+ "reign_year": 51,
+ "month": 1,
+ "day_text": "初二日丙戌",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝由神武门出西直门，赴畅春园驻足。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神武门",
+  "西直门",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20205,
+ "page_range": "415-416"
+}

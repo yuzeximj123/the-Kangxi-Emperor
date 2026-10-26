@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "十八日己巳",
+ "event_role": "谕旨决策",
+ "summary": "翰林院覆给事中许承宣请刊刻御制诗文，康熙帝谦称不敢媲美古人，姑勉从所请颁行。",
+ "people": [
+  {
+   "name": "许承宣",
+   "role": "给事中"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "陈奏",
+   "role": "科臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21513,
+ "page_range": "473-474"
+}

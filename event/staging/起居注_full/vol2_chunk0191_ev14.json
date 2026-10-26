@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十七日己亥",
+ "event_role": "谕旨决策",
+ "summary": "山西巡抚请蠲太原、大同二府逃亡人丁荒地钱粮，九卿等议自康熙二十一年始免三年，康熙帝谕令抚恤百姓使尽力田亩。",
+ "people": [
+  {
+   "name": "称尔赛",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太原",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19114,
+ "page_range": "425-426"
+}

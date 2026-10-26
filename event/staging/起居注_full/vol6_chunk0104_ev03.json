@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题驻防宁古塔拜他拉布进哈番达杨阿老病解任，议以达杨阿之子岳代承袭。",
+ "people": [
+  {
+   "name": "达杨阿",
+   "role": "拜他拉布进哈番"
+  },
+  {
+   "name": "固赛",
+   "role": "达杨阿之兄"
+  },
+  {
+   "name": "吴什八",
+   "role": "固赛之子"
+  },
+  {
+   "name": "岳代",
+   "role": "达杨阿之子"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10403,
+ "page_range": "218-219"
+}

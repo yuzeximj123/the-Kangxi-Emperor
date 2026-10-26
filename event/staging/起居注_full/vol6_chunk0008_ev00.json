@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "古北口总兵官马进良率所属官军迎接康熙帝，防御孙保、都司扬威、同知陈九鹏、笔帖式舒书等来朝见。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "孙保",
+   "role": "古北口防御"
+  },
+  {
+   "name": "扬威",
+   "role": "都司"
+  },
+  {
+   "name": "陈九鹏",
+   "role": "同知"
+  },
+  {
+   "name": "舒书",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 800,
+ "page_range": "26-27"
+}

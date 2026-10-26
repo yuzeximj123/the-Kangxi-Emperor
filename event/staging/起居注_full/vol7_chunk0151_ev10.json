@@ -1,0 +1,29 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝论四明山不通舟楫粮运难到盗不能久栖，引巡行陕西时潘育龙言山中盗贼不能窃伏及昭莫多战例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "潘育龙",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "四明山",
+  "陕西",
+  "昭莫多",
+  "大同",
+  "浑源州",
+  "左卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15110,
+ "page_range": "313-314"
+}

@@ -1,0 +1,52 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "补授云南总兵官，康熙帝采纳明珠所奏，命牛凤翔、李茂功、高必盛充总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "安亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "田象坤",
+   "role": "侯"
+  },
+  {
+   "name": "张俊",
+   "role": "参领"
+  },
+  {
+   "name": "牛凤翔",
+   "role": "参领"
+  },
+  {
+   "name": "高必盛",
+   "role": "参领"
+  },
+  {
+   "name": "陈素伦",
+   "role": "参领"
+  },
+  {
+   "name": "李茂功",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9903,
+ "page_range": "241-242"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 25,
+ "month": 8,
+ "day_text": "二十八日庚辰",
+ "event_role": "军务",
+ "event_summary": "工部等覆准福建总督王国安条奏，请于台湾建城并定驻防兵更番之例，康熙帝命台湾驻防兵更番永著为例。",
+ "people": [
+  {
+   "name": "王国安",
+   "role": "福建总督"
+  },
+  {
+   "name": "李光地",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18406,
+ "page_range": "403-404"
+}

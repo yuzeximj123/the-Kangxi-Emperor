@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十二日王午",
+ "event_role": "人事任免",
+ "summary": "吏部题请詹事徐乾学升任员缺，康熙帝询问郭茜可否，明珠等奏高士奇可用，康熙帝最终命郭茜补授詹事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郭茜",
+   "role": "拟任詹事"
+  },
+  {
+   "name": "高士奇",
+   "role": "内庭供奉"
+  },
+  {
+   "name": "徐乾学",
+   "role": "詹事"
+  },
+  {
+   "name": "王士祺",
+   "role": "少詹事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8302,
+ "page_range": "201-202"
+}

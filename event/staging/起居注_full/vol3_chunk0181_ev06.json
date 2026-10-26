@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "二十二日甲辰",
+ "event_role": "人事任免",
+ "summary": "明珠等奏侍读学士翁英历年亦久，康熙帝称翁英为人庸常。",
+ "people": [
+  {
+   "name": "翁英",
+   "role": "侍读学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18106,
+ "page_range": "397-398"
+}

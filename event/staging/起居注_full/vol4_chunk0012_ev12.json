@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "二十八日辛未",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝由朝阳门进东华门，回乾清门内偏殿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝阳门",
+  "东华门",
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1212,
+ "page_range": "36-37"
+}

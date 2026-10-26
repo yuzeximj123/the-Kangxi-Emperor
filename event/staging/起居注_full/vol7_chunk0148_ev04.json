@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "二十七日辛雍",
+ "event_role": "议政听政",
+ "summary": "大学士、九卿、詹事、科道奏称开河工程浩大，非诸臣所能办，请皇帝亲临指授方略。",
+ "people": [
+  {
+   "name": "大学士",
+   "role": "官员"
+  },
+  {
+   "name": "九卿",
+   "role": "官员"
+  },
+  {
+   "name": "詹事",
+   "role": "官员"
+  },
+  {
+   "name": "科道",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14804,
+ "page_range": "307-308"
+}

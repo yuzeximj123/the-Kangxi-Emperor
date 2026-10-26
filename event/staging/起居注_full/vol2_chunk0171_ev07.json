@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论布按各官条奏寻常，询问施天裔居官情况，明珠等奏其政绩平常。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "丁思孔",
+   "role": "布政使"
+  },
+  {
+   "name": "袭佳育",
+   "role": "布政使"
+  },
+  {
+   "name": "王定国",
+   "role": "按察使"
+  },
+  {
+   "name": "施天裔",
+   "role": "布政使"
+  },
+  {
+   "name": "施维翰",
+   "role": "巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17107,
+ "page_range": "385-386"
+}

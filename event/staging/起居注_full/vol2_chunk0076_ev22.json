@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "二十八日成申",
+ "event_role": "谕旨决策",
+ "summary": "浙江巡抚李本晟题富阳无铅铜可采请停止，户部议准，康熙帝以不合驳回拟申饬。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李本晟",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "富阳",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7622,
+ "page_range": "195-196"
+}

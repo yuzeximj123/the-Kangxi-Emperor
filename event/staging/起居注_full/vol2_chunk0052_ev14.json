@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十三日乙丑",
+ "event_role": "人事任免",
+ "summary": "题补汉军刑部员外郎员缺，康熙帝命该旗咨送才能之人由衙门会同吏部考试具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尤国才",
+   "role": "佐领"
+  },
+  {
+   "name": "郭镇朝",
+   "role": "荫生"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5214,
+ "page_range": "147-148"
+}

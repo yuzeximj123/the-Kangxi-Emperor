@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "开封营都司员缺，康熙命杨奉补授。",
+ "people": [
+  {
+   "name": "杨奉",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "开封营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8504,
+ "page_range": "181-182"
+}

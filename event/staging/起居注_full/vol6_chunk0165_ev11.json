@@ -1,0 +1,38 @@
+{
+ "reign_year": 39,
+ "month": 8,
+ "day_text": "初七日丁卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝传谕马齐，正红旗护军参领伊德浑所停俸禄自八月开复。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛保",
+   "role": "郎中"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  },
+  {
+   "name": "常寿",
+   "role": "奏事主事"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "伊德浑",
+   "role": "正红旗护军参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16511,
+ "page_range": "340-341"
+}

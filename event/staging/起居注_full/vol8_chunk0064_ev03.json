@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题长芦运使孔兴玫员缺，以贵州安顺府知府俞昌宗等开列，康熙帝命查前此保举运使人员具奏。",
+ "people": [
+  {
+   "name": "孔兴玫",
+   "role": "长芦运使"
+  },
+  {
+   "name": "俞昌宗",
+   "role": "贵州安顺府知府"
+  }
+ ],
+ "places": [
+  "长芦",
+  "贵州安顺府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6403,
+ "page_range": "139-140"
+}

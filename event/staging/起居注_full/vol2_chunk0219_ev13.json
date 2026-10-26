@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十八日丁卯",
+ "event_role": "司法案件",
+ "summary": "九卿会议盗掘坟墓事，康熙帝从明珠议，韩科等照先拟绞秋后处决，后犯照新例拟罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "韩科",
+   "role": "盗犯"
+  },
+  {
+   "name": "汪大光",
+   "role": "盗犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21913,
+ "page_range": "481-482"
+}

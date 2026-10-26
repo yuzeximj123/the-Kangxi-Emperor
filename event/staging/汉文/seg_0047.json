@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十一年六月初六日",
+ "reign_year": 41,
+ "month": 6,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "李林盛遵旨奏报陕甘地方情形与雨水收成，并颂扬皇上赈恤免赋之恩。",
+ "people": [
+  {
+   "name": "李林盛",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "陜西",
+  "甘肅"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并怀疑此汉文奏折未必是李林盛本人所能撰写。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "51",
+ "source_title": "陝甘提督李林盛奏報地方昇平並雨水收成情形摺",
+ "order_index": 47
+}

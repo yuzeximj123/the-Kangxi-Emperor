@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十三日甲申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸栾城县城内，赵州知州孙川、紊城县知县刘节等来朝。",
+ "people": [
+  {
+   "name": "孙川",
+   "role": "赵州知州"
+  },
+  {
+   "name": "刘节",
+   "role": "紊城县知县"
+  }
+ ],
+ "places": [
+  "栾城县",
+  "赵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8516,
+ "page_range": "181-182"
+}

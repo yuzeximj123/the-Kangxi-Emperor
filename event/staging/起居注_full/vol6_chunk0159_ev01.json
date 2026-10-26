@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题副都御史王绅员缺，开列宗人府励杜讷等职名，康熙帝令由进士出身者对品调用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王绅",
+   "role": "副都御史"
+  },
+  {
+   "name": "励杜讷",
+   "role": "宗人府官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15901,
+ "page_range": "328-329"
+}

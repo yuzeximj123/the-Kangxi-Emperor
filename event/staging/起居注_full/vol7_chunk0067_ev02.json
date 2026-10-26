@@ -1,0 +1,27 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝以邳州、徐州、具宁三处被灾不下山东，命交总河张鹏副派属员速行赈济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏副",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "邳州",
+  "徐州",
+  "具宁",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6702,
+ "page_range": "145-146"
+}

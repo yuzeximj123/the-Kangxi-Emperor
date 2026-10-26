@@ -1,0 +1,20 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初二日己巳",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝命敖汐铂为德行宫行礼。",
+ "people": [
+  {
+   "name": "敖汐铂",
+   "role": "行礼官员"
+  }
+ ],
+ "places": [
+  "德行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18814,
+ "page_range": "387-388"
+}

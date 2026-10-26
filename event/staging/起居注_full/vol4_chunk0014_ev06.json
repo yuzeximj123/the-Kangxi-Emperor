@@ -1,0 +1,54 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "初七日庚辰",
+ "event_role": "司法案件",
+ "summary": "刑部题李万景杀死其主应凌迟，康熙帝询问旧例及诸臣意见，伊桑阿等主张如部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "学士"
+  },
+  {
+   "name": "卢琦",
+   "role": "学士"
+  },
+  {
+   "name": "赵山",
+   "role": "学士"
+  },
+  {
+   "name": "王封滩",
+   "role": "学士"
+  },
+  {
+   "name": "阿喇密",
+   "role": "学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  },
+  {
+   "name": "李万景",
+   "role": "罪犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1406,
+ "page_range": "40-41"
+}

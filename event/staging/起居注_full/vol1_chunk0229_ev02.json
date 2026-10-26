@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十一日康成",
+ "event_role": "谕旨决策",
+ "summary": "吏部议秦省康熙十七年地丁钱粮未完一分以上，拟罚前任巡抚杭爱、甘肃巡抚巴锡俸一年，康熙帝念杭爱进川效力，宽免其罚俸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杭爱",
+   "role": "前任巡抚"
+  },
+  {
+   "name": "巴锡",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "秦省",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22902,
+ "page_range": "515-516"
+}

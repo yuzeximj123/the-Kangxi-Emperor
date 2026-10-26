@@ -1,0 +1,34 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十八日",
+ "event_role": "议政听政",
+ "summary": "大学士松柱、学士查强纳、敦拜、星俄特、常寿以折本请旨。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "查强纳",
+   "role": "学士"
+  },
+  {
+   "name": "敦拜",
+   "role": "学士"
+  },
+  {
+   "name": "星俄特",
+   "role": "学士"
+  },
+  {
+   "name": "常寿",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11109,
+ "page_range": "233-234"
+}

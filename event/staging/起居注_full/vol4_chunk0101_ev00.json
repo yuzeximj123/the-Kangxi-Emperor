@@ -1,0 +1,22 @@
+{
+ "reign_year": 29,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "诸臣遍观后奏称皇上节俭过甚，请执中适中，科道官员亦同奏节俭太过宜适中。",
+ "people": [
+  {
+   "name": "科道官员",
+   "role": "官员"
+  },
+  {
+   "name": "诸臣",
+   "role": "朝臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10100,
+ "page_range": "214-215"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "初四日",
+ "event_role": "议政听政",
+ "summary": "康熙帝询问九卿总督噶礼、巡抚张伯行互参一案之意，吴一碍、陈许、赵申乔、李光地等奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "吴一碍",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "陈许",
+   "role": "工部尚书"
+  },
+  {
+   "name": "赵申乔",
+   "role": "左都御史"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20513,
+ "page_range": "421-422"
+}

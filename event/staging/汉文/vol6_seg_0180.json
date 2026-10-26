@@ -1,0 +1,24 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "其他",
+ "summary": "镇守荆州等处将军拜唐阿年羹尧等上奏，请求皇帝允准所请，文中夹杂难以辨识的残片文字。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "镇守荆州等处将军拜唐阿"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（残片）",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 180
+}

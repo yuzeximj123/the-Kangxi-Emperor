@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "费扬古奏报询问宁夏兵起程日期，孙思克称二月二十二日起程约三十八日至翁金。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "内大臣伯"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "翁金",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12005,
+ "page_range": "250-251"
+}

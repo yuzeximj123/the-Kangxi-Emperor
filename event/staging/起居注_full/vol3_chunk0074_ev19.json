@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "十三日奖卯",
+ "event_role": "人事任免",
+ "summary": "吏部题兵部侍郎阿兰泰调补吏部员缺，康熙帝命佛伦调补，石柱升补刑部侍郎。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "石柱",
+   "role": "学士，升刑部侍郎"
+  },
+  {
+   "name": "佛伦",
+   "role": "刑部侍郎，调补吏部"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7419,
+ "page_range": "183-184"
+}

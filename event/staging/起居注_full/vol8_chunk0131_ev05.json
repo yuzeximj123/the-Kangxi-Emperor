@@ -1,0 +1,29 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "十九日庚辰",
+ "event_role": "朝见受贺",
+ "summary": "良乡县防守御萨尔都、知县彭其位、房山县知县王开运等来朝见。",
+ "people": [
+  {
+   "name": "萨尔都",
+   "role": "良乡县防守御"
+  },
+  {
+   "name": "彭其位",
+   "role": "良乡县知县"
+  },
+  {
+   "name": "王开运",
+   "role": "房山县知县"
+  }
+ ],
+ "places": [
+  "良乡县",
+  "房山县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13105,
+ "page_range": "273-274"
+}

@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十一年十月初日",
+ "reign_year": 51,
+ "month": 10,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报扬州、颍州等府稻谷收割完毕、米价仍贱、棉花约六七分收成，以及因九月少雨麦种推迟、现已下雨可起种麦，并进呈福州、扬州九月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人（臣）"
+  }
+ ],
+ "places": [
+  "扬州",
+  "颍州",
+  "福州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 113
+}

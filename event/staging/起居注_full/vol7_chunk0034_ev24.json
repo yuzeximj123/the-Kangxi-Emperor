@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "十一日戊子",
+ "event_role": "请安谢恩",
+ "summary": "已故都御史董讷之子、原任吏部文选司郎中董思凝请安来朝，求转奏为父求御书。",
+ "people": [
+  {
+   "name": "董思凝",
+   "role": "原任吏部文选司郎中"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  },
+  {
+   "name": "来保",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3424,
+ "page_range": "79-80"
+}

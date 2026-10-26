@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "二十一日甲午",
+ "event_role": "谕旨决策",
+ "summary": "治仪正存住等传谕依都额真胡必图苏满，因天寒令众人厚其衣服，并谕诸大臣、侍卫及众人等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "治仪正"
+  },
+  {
+   "name": "胡必图苏满",
+   "role": "依都额真"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6813,
+ "page_range": "147-148"
+}

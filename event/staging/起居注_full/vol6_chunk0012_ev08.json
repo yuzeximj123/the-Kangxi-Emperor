@@ -1,0 +1,46 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "二十二日已亥",
+ "event_role": "人事任免",
+ "summary": "康熙帝逐一询问保举人员，准瓦尔达、舒办等保举，不准吴鲁礼、赫寿、瓦尔达等保举。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "永爱",
+   "role": "侍郎"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "尚书"
+  },
+  {
+   "name": "凯音布",
+   "role": "官员"
+  },
+  {
+   "name": "瓦尔达",
+   "role": "宗人府郎中"
+  },
+  {
+   "name": "吴鲁礼",
+   "role": "提督衙门郎中"
+  },
+  {
+   "name": "赫寿",
+   "role": "刑科掌印给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1208,
+ "page_range": "34-35"
+}

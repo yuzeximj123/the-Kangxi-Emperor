@@ -1,0 +1,33 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论为君之道在安静，评程子、董子、颜子之说，强调居敬，并言本朝不设边防赖蒙古部落为屏藩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "程子",
+   "role": "理学家"
+  },
+  {
+   "name": "董子",
+   "role": "理学家"
+  },
+  {
+   "name": "颜子",
+   "role": "孔子弟子"
+  }
+ ],
+ "places": [
+  "中国",
+  "蒙古"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22501,
+ "page_range": "461-462"
+}

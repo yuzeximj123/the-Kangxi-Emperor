@@ -1,0 +1,38 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "十三日两子",
+ "event_role": "人事任免",
+ "summary": "宗人府考试宗室对清格等议叙等次具题，康熙帝以对清格、伊克达哈、明全、吕顺、般图马步射俱善，命给应得品级。",
+ "people": [
+  {
+   "name": "对清格",
+   "role": "宗室"
+  },
+  {
+   "name": "伊克达哈",
+   "role": "宗室"
+  },
+  {
+   "name": "明全",
+   "role": "宗室"
+  },
+  {
+   "name": "吕顺",
+   "role": "宗室"
+  },
+  {
+   "name": "般图",
+   "role": "宗室"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14905,
+ "page_range": "308-309"
+}

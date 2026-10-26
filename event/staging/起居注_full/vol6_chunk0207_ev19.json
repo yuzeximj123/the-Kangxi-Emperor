@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "二十二日戊实",
+ "event_role": "谕旨决策",
+ "summary": "马齐奏报独石口驿站笔帖式张保住未迟误，康熙帝命查明独石口以南迟误驿站，并谕虽有迟误不治罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  },
+  {
+   "name": "张保住",
+   "role": "独石口驿站笔帖式"
+  }
+ ],
+ "places": [
+  "独石口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20719,
+ "page_range": "424-425"
+}

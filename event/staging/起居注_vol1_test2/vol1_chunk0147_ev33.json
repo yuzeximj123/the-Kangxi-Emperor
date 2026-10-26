@@ -1,0 +1,36 @@
+{
+ "reign_year": 16,
+ "month": 10,
+ "day_text": "十八日辛西",
+ "event_role": "其他",
+ "summary": "康熙帝御弘德殿，讲官喇沙里、陈廷敬、叶方莲、张英进讲孟子两章，康熙帝亲讲后讲官照常进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方莲",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14733,
+ "page_range": "351-352"
+}

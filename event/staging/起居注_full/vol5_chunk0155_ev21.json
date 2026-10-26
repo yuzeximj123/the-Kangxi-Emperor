@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "十三日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "刑部尚书图纳题招抚黄番、黑番安插边内，噶尔丹所部厄鲁特二百余人解送京城，康熙帝称图纳料理甚善。",
+ "people": [
+  {
+   "name": "图纳",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "西拉顾尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15521,
+ "page_range": "320-321"
+}

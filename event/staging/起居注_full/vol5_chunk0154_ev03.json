@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题六品官布达西等解送充发罪犯脱逃，议革职，康熙帝命革职发往黑龙江当差。",
+ "people": [
+  {
+   "name": "布达西",
+   "role": "六品官"
+  },
+  {
+   "name": "刘真御",
+   "role": "六品官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15403,
+ "page_range": "318-319"
+}

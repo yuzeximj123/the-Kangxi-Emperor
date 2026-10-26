@@ -1,0 +1,46 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召将军阿木儿图、副都统叶儿苏等面谕，令抚恤军民、劝课农桑、开垦耕种。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿木儿图",
+   "role": "将军"
+  },
+  {
+   "name": "叶儿苏",
+   "role": "副都统"
+  },
+  {
+   "name": "哪泰",
+   "role": "副都统"
+  },
+  {
+   "name": "纳桑阿",
+   "role": "侍郎"
+  },
+  {
+   "name": "哈儿松阿",
+   "role": "侍郎"
+  },
+  {
+   "name": "杭爱",
+   "role": "侍郎"
+  },
+  {
+   "name": "赦色",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 108,
+ "page_range": "59-60"
+}

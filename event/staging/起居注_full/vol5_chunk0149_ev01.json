@@ -1,0 +1,42 @@
+{
+ "reign_year": 35,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "学士绥色员缺，康熙帝命哈雅尔图升补，并评论席尔登、努灰、华显等人才能。",
+ "people": [
+  {
+   "name": "绥色",
+   "role": "学士"
+  },
+  {
+   "name": "布泰",
+   "role": "侍读学士"
+  },
+  {
+   "name": "哈雅尔图",
+   "role": "升补学士"
+  },
+  {
+   "name": "席尔登",
+   "role": "翰林院侍读学士"
+  },
+  {
+   "name": "努灰",
+   "role": "少詹事"
+  },
+  {
+   "name": "华显",
+   "role": "觉罗"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14901,
+ "page_range": "308-309"
+}

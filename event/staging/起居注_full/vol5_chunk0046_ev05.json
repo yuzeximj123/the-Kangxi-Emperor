@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "二十四日戊午",
+ "event_role": "朝见受贺",
+ "summary": "浙江巡抚王维珍陛辞，康熙帝训谕其清白持心、振刷弊奸、使兵民辑睦文武协和，王维珍谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王维珍",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4605,
+ "page_range": "102-103"
+}

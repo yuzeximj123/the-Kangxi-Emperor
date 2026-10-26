@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙六十一年八月初一日",
+ "reign_year": 61,
+ "month": 8,
+ "day": 1,
+ "event_role": "请安谢恩",
+ "summary": "川陕总督年羹尧向康熙帝恭请圣安，报告自身平安并表达问候之意。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川陕西总督"
+  }
+ ],
+ "places": [
+  "四川",
+  "陕西"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "川陝總督年羹堯請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2999",
+ "order_index": 376
+}

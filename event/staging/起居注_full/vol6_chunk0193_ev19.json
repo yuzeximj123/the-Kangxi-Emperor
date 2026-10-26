@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "初五日壬辰",
+ "event_role": "河工水利",
+ "summary": "直隶巡抚李光地以不赔修武清县决堤官员议处具奏，康熙称临阅数次见工皆完竣，命交李光地查明具奏。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "武清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19319,
+ "page_range": "396-397"
+}

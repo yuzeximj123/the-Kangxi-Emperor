@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十七日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝遣噶尔丹使人格垒沾英还，谕其限七十日内还报，否则必进兵穷追。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "格垒沾英",
+   "role": "噶尔丹使者"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17608,
+ "page_range": "362-363"
+}

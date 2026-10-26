@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十二日丁酉",
+ "event_role": "人事任免",
+ "summary": "兵部题大名总兵官员缺拟投诚总兵杨来嘉补授，康熙帝从明珠议，待投诚人员俱到再行酌用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杨来嘉",
+   "role": "投诚总兵"
+  }
+ ],
+ "places": [
+  "大名"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2815,
+ "page_range": "99-100"
+}

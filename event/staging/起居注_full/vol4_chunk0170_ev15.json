@@ -1,0 +1,36 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "初七日己本",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御南苑内旧宫，大学士伊桑阿、阿兰泰等以折本请旨。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王国昌",
+   "role": "学士"
+  },
+  {
+   "name": "满未",
+   "role": "学士"
+  },
+  {
+   "name": "图纳哈",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "南苑内旧宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17015,
+ "page_range": "352-353"
+}

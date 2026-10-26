@@ -1,0 +1,20 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "领侍卫内大臣等会议防护马群及御营宿卫事宜，奏请增派护军、大臣分驻防护，侍卫及内府护军不必前往。",
+ "people": [
+  {
+   "name": "领侍卫内大臣",
+   "role": "会议官员"
+  }
+ ],
+ "places": [
+  "御营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12400,
+ "page_range": "258-259"
+}

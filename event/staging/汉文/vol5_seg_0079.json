@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十二年十月初二日",
+ "reign_year": 52,
+ "month": 10,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造主事曹颙向康熙帝请安，奏报江南百姓太平无事、米价每石八九钱不等，并进呈九月分晴雨录。",
+ "people": [
+  {
+   "name": "曹颙",
+   "role": "江宁织造主事，奏报人"
+  },
+  {
+   "name": "曹寅",
+   "role": "江宁织造郎中兼巡视两淮盐政，列名于奏折开头"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南",
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧織造曹顒奏報江南米價並進晴雨冊摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1447",
+ "order_index": 79
+}

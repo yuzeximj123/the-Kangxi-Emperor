@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初二日癸未",
+ "event_role": "人事任免",
+ "summary": "吏部题补光禄寺员缺，康熙帝以喇巴客不宜，命升补刑部郎中元哈。",
+ "people": [
+  {
+   "name": "喇巴客",
+   "role": "内阅侍读学士"
+  },
+  {
+   "name": "西式纳",
+   "role": "通政司左通政"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "元哈",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5711,
+ "page_range": "157-158"
+}

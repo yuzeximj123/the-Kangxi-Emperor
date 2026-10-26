@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十七日丁丁",
+ "event_role": "谕旨决策",
+ "summary": "陕西按察使鄂海向批本存住转奏请训旨，康熙帝谕以居官善恶自有定鉴，命于大学士前传谕。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21915,
+ "page_range": "448-449"
+}

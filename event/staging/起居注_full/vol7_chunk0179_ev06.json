@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝嘉赵世显追拿伪朱三太子之功，温达奏其果然旗下人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵世显",
+   "role": "官员"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17906,
+ "page_range": "369-370"
+}

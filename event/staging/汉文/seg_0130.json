@@ -1,0 +1,53 @@
+{
+ "date_raw": "康熙四十五年七月初一日",
+ "reign_year": 45,
+ "month": 7,
+ "day": null,
+ "event_role": "其他",
+ "summary": "曹寅奏报校刊《全唐诗》即将刻完并进呈样本，同时报告翰林病故及在扬州校刊人员情况。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "张廷玉",
+   "role": "联署人"
+  },
+  {
+   "name": "汪绎",
+   "role": "涉及人物"
+  },
+  {
+   "name": "彭定求",
+   "role": "涉及人物"
+  },
+  {
+   "name": "杨中讷",
+   "role": "涉及人物"
+  },
+  {
+   "name": "汪士鋐",
+   "role": "涉及人物"
+  },
+  {
+   "name": "徐树本",
+   "role": "涉及人物"
+  },
+  {
+   "name": "俞梅",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "江南",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称赞所刻书籍很好，命细看序文，并指示书完成后即打发相关人员。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "178",
+ "source_title": "江寧織造曹寅奏報下河河工告成並江蘇雨水糧價摺",
+ "order_index": 130
+}

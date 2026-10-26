@@ -1,0 +1,21 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初四日庚申",
+ "event_role": "皇帝行止",
+ "summary": "辰时康熙帝驾幸南苑，丁时还瀛台。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南苑",
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17,
+ "page_range": "43-44"
+}

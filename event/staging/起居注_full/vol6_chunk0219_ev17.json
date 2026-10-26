@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十一日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部遵旨将魏麟征引见，康熙帝称好即着补授延安府知府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏麟征",
+   "role": "延安府知府"
+  }
+ ],
+ "places": [
+  "延安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21917,
+ "page_range": "448-449"
+}

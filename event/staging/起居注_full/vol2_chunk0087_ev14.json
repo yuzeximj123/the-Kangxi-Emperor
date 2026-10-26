@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "二十七日丙午",
+ "event_role": "人事任免",
+ "summary": "吏部补授太仆寺正卿员缺，开列张可前、荣国事，明珠奏张可前可用，康熙从之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张可前",
+   "role": "通政司左通政"
+  },
+  {
+   "name": "荣国事",
+   "role": "大理寺少卿"
+  },
+  {
+   "name": "张吉午",
+   "role": "佥都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8714,
+ "page_range": "217-218"
+}

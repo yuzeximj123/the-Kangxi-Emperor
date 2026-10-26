@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十七日",
+ "event_role": "议政听政",
+ "summary": "康熙帝言索额图之党不断绝，召巴浑德询问，巴浑德奏称结党者当族诛。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴浑德",
+   "role": "大臣"
+  },
+  {
+   "name": "索额图",
+   "role": "已故大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19309,
+ "page_range": "397-398"
+}

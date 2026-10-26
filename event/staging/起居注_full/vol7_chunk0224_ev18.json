@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "二十六日戊寅",
+ "event_role": "人事任免",
+ "summary": "川陕总督鄂泰题西安理事同知佟玖员缺请以笔帖式魁通补授，康熙帝以督抚衙门笔帖式不便补授本处同知不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂泰",
+   "role": "川陕总督"
+  },
+  {
+   "name": "佟玖",
+   "role": "西安理事同知"
+  },
+  {
+   "name": "魁通",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22418,
+ "page_range": "459-460"
+}

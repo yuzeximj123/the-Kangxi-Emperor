@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问席格所查广西时价，席格奏报全州至桂林、平乐及浔州、南宁、梧州等地米稻草价格，并称所估较时价稍减。",
+ "people": [
+  {
+   "name": "席格",
+   "role": "员外郎"
+  }
+ ],
+ "places": [
+  "全州",
+  "桂林",
+  "平乐",
+  "浔州",
+  "南宁",
+  "梧州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25005,
+ "page_range": "557-558"
+}

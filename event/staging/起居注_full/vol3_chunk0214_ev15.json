@@ -1,0 +1,34 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十九日己卯",
+ "event_role": "人事任免",
+ "summary": "康熙询问马齐居官，王熙等称优，明珠奏马齐与总督图纳居官甚优为民称颂。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "官员"
+  },
+  {
+   "name": "图纳",
+   "role": "总督"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21415,
+ "page_range": "463-464"
+}

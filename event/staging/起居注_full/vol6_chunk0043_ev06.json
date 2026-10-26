@@ -1,0 +1,36 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "十九日",
+ "event_role": "人事任免",
+ "summary": "兵部覆马进良题石塘路都司张硕德员缺，请升补赵丹古、马瑞生，康熙帝准赵丹古补授，马瑞生不称职另拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马进良",
+   "role": "总兵"
+  },
+  {
+   "name": "张硕德",
+   "role": "石塘路都司"
+  },
+  {
+   "name": "赵丹古",
+   "role": "守备"
+  },
+  {
+   "name": "马瑞生",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "石塘路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4306,
+ "page_range": "96-97"
+}

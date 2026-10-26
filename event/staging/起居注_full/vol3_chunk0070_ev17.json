@@ -1,0 +1,21 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "十七日本丑",
+ "event_role": "皇帝行止",
+ "summary": "未时，康熙帝由正阳门进午门，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "正阳门",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7017,
+ "page_range": "175-176"
+}

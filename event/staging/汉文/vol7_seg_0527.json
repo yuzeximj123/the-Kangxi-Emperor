@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙伍拾陆年拾月初壹日",
+ "reign_year": 56,
+ "month": 10,
+ "day": 1,
+ "event_role": "奏报灾情收成",
+ "summary": "两广总督杨琳奏报广东早禾丰收、晚稻登场，通省收成十分，并报广东、广西各府米价及广西丰收情形。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广总督"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "潮州",
+  "肇庆",
+  "南雄",
+  "韶州",
+  "高州",
+  "雷州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "两广总督杨琳奏报秋收米价折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "1526",
+ "order_index": 527
+}

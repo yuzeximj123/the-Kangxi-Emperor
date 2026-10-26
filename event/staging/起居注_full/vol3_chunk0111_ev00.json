@@ -1,0 +1,44 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "event_summary": "兵部题补山西太原府总兵官缺，康熙询问明珠等征都统意见后，命以胡大臣补授太原总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "拉哈达",
+   "role": "征都统"
+  },
+  {
+   "name": "马哈达",
+   "role": "征都统"
+  },
+  {
+   "name": "根特",
+   "role": "征都统"
+  },
+  {
+   "name": "拉赛",
+   "role": "征都统"
+  },
+  {
+   "name": "胡大臣",
+   "role": "副将，补授太原总兵官"
+  }
+ ],
+ "places": [
+  "山西太原府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11100,
+ "page_range": "257-258"
+}

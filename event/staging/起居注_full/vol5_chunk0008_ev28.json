@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "十九日丁雍",
+ "event_role": "人事任免",
+ "summary": "康熙命贵州布政使董安国升补湖南巡抚，山西平阳府知府石文晶从优升补董安国员缺。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "董安国",
+   "role": "贵州布政使"
+  },
+  {
+   "name": "石文晶",
+   "role": "山西平阳府知府"
+  }
+ ],
+ "places": [
+  "湖南",
+  "贵州",
+  "山西平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 828,
+ "page_range": "26-27"
+}

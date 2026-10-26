@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初七日己卯",
+ "event_role": "司法案件",
+ "summary": "会议库苏里革职事，康熙帝询问议政王等所问情形，明珠奏库苏里前后供词矛盾，事涉翁爱临阵退却及被人提出坑中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "库苏里",
+   "role": "护军参领"
+  },
+  {
+   "name": "翁爱",
+   "role": "副都统"
+  },
+  {
+   "name": "阔武黑",
+   "role": "章京"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18515,
+ "page_range": "413-414"
+}

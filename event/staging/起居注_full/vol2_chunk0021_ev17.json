@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十六日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "御史郭维藩条奏清汰三营兵丁，康熙帝令大臣彻底清察、严定条例，会同兵部及督捕衙门详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭维藩",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2117,
+ "page_range": "85-86"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "初九日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论霍去病出陇西北地二千余里，称宁夏以西至瀚海多绝无人烟之地，去病必迂道而北，道里当不止二千里。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "霍去病",
+   "role": "汉代将领"
+  }
+ ],
+ "places": [
+  "陇西",
+  "宁夏",
+  "瀚海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16614,
+ "page_range": "344-345"
+}

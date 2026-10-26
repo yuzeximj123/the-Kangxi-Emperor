@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补直隶河间府、大名府副将员缺，康熙命师葡德升补河间府副将、净定国升补大名府副将、胡琨升补师莫德员缺。",
+ "people": [
+  {
+   "name": "师葡德",
+   "role": "参将"
+  },
+  {
+   "name": "净定国",
+   "role": "参将"
+  },
+  {
+   "name": "胡琨",
+   "role": "都司"
+  },
+  {
+   "name": "李光地",
+   "role": "荐举人"
+  }
+ ],
+ "places": [
+  "直隶河间府",
+  "直隶大名府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3601,
+ "page_range": "83-84"
+}

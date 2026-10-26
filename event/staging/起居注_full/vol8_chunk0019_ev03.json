@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初五日辛已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谓户部钱粮紧要，张鹏副不宜移动，刑部尚书亦紧要，赵申乔有操守但琐碎好争，督抚新任者未可轻迁，此本暂留。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "张鹏副",
+   "role": "户部尚书"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1903,
+ "page_range": "49-50"
+}

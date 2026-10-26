@@ -1,0 +1,38 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补工部汉侍郎员缺，开列内阁学士王守才等，康熙问堪用者，明珠荐金世鉴，李霨等亦言其通达事务，康熙称当思之。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王守才",
+   "role": "内阁学士"
+  },
+  {
+   "name": "马世济",
+   "role": "官员"
+  },
+  {
+   "name": "金世鉴",
+   "role": "学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16001,
+ "page_range": "363-364"
+}

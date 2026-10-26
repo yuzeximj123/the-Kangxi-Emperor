@@ -1,0 +1,36 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆直隶总督赵弘党题楚五等毒打刘荣远致死拟罪，康熙以已驳回数次令该部即行定拟。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "总督管理直隶巡抚事务"
+  },
+  {
+   "name": "刘荣远",
+   "role": "被害人"
+  },
+  {
+   "name": "楚五",
+   "role": "案犯"
+  },
+  {
+   "name": "赵大",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15307,
+ "page_range": "317-318"
+}

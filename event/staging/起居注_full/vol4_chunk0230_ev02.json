@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 4,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "理藩院题喀喇沁部落多罗杜棱郡王扎西之子一品塔布囊垂扎木素亡故，照例致祭。",
+ "people": [
+  {
+   "name": "扎西",
+   "role": "多罗杜棱郡王"
+  },
+  {
+   "name": "垂扎木素",
+   "role": "一品塔布囊"
+  }
+ ],
+ "places": [
+  "喀喇沁部落"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23002,
+ "page_range": "472-473"
+}

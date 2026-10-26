@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十五年十二月二十日",
+ "reign_year": 55,
+ "month": 12,
+ "day": 20,
+ "event_role": "贸易漕运",
+ "summary": "直隶巡抚郭世隆奏请制钱配搭使用及征赋收钱办法，请圣裁。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "奏报人"
+  },
+  {
+   "name": "王奕仁",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "直隶",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批令其速将此事具题上报。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "直隶巡抚奏请",
+ "order_index": 164
+}

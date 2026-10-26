@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "九卿等至乾清门跪奏，因天旱皇上忧劳过甚、圣容清减，公议请皇上暂为游豫或临幸畅春园以舒怀。",
+ "people": [
+  {
+   "name": "敦柱",
+   "role": "奏事官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7403,
+ "page_range": "160-161"
+}

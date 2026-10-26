@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初三日丁亥",
+ "event_role": "谕旨决策",
+ "summary": "工部题孔庙碑石自济宁送曲阜需造旱船架桥用银，康熙帝令差工部、内务府官各一员小心运送。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孔艇折",
+   "role": "衍圣公"
+  }
+ ],
+ "places": [
+  "济宁州",
+  "曲阜县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15206,
+ "page_range": "339-340"
+}

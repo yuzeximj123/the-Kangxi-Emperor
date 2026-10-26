@@ -1,0 +1,23 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "初八日甲子",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝由神武门出西直门，往雍镜峰问安，驻跸畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神武门",
+  "西直门",
+  "雍镜峰",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16417,
+ "page_range": "339-340"
+}

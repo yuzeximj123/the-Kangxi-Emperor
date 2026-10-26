@@ -1,0 +1,29 @@
+{
+ "reign_year": 29,
+ "month": 5,
+ "day_text": "初四日甲午",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝问徐元文所举赵苍壁如何，徐元文奏其任麻城知县，武昌兵噪时安抚百姓、修城预备，居官善、学问优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  },
+  {
+   "name": "赵苍壁",
+   "role": "湖广麻城县知县"
+  }
+ ],
+ "places": [
+  "湖广麻城县",
+  "武昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12107,
+ "page_range": "254-255"
+}

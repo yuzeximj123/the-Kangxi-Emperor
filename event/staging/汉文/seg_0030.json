@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙三十九年四月",
+ "reign_year": 39,
+ "month": 4,
+ "day": null,
+ "event_role": "其他",
+ "summary": "苏州织造李煦奏请借内帑银十万两营运资生，按年交本利银一万一千两，十年完清。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "江苏"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批仅记初六日，未载具体谕示内容。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "34",
+ "source_title": "苏州织造李煦奏陈顾借营运资生银十万两折",
+ "order_index": 30
+}

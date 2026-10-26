@@ -1,0 +1,37 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝召问礼部侍郎穆成格关于前会议开浚下河事，穆成格奏称公议河工暂行停止，汤斌等未向臣等说过。",
+ "people": [
+  {
+   "name": "穆成格",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "汤斌",
+   "role": "巡抚"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "总漕"
+  },
+  {
+   "name": "萨穆哈",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "七州县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16302,
+ "page_range": "361-362"
+}

@@ -1,0 +1,37 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "贸易漕运",
+ "summary": "礼部尚书喇都奏陈管见，建议查明沿海各省贸易大船数目报部，禁止再造洋海大船，以防范海贼、减少海上劫掠。",
+ "people": [
+  {
+   "name": "喇都",
+   "role": "礼部尚书、镶蓝旗满洲都统，奏折作者"
+  },
+  {
+   "name": "石柱",
+   "role": "学士，奉命查议海内贸易事宜"
+  },
+  {
+   "name": "杜臻",
+   "role": "侍郎，喇都曾随其前往广东福建"
+  }
+ ],
+ "places": [
+  "台湾",
+  "广东",
+  "福建",
+  "江南",
+  "浙江",
+  "暹罗国"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "礼部尚书镶蓝旗满洲都统臣喇都奏为敬陈管见恭请皇上睿鉴事",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "3094",
+ "order_index": 497
+}

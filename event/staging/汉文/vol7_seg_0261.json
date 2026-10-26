@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾年拾月贰拾柒日",
+ "reign_year": 50,
+ "month": 10,
+ "day": 27,
+ "event_role": "请安谢恩",
+ "summary": "山东巡抚李树德回奏钦遵圣训，感谢康熙指授并表态今后恪遵谕旨、留心查办前任巡抚昏官妄行之事。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "陈扬",
+   "role": "抚将（前任面谕中提及的官员）"
+  }
+ ],
+ "places": [
+  "山东",
+  "河南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告诫李树德节礼一事已颇有声名，不可不慎，并举例河南巡抚因节礼而坏声名。",
+ "source_title": "山东巡抚李树德奏为恪遵圣谕益加留心摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 261
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "十五日乙已",
+ "event_role": "司法案件",
+ "summary": "题康亲王府太监张文明被太监张宝等七人谋杀，照例审拟；康熙帝命该部查例具奏，张宝等交该王自行完结。",
+ "people": [
+  {
+   "name": "张文明",
+   "role": "康亲王府太监"
+  },
+  {
+   "name": "张宝",
+   "role": "太监"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7009,
+ "page_range": "150-151"
+}

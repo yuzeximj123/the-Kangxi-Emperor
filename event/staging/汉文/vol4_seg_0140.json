@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十一年十月壬子日",
+ "reign_year": 51,
+ "month": 10,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "李图奏报扬州、颍州等府天气晴和、米价低廉、百姓乐业、地方无事。",
+ "people": [
+  {
+   "name": "李图",
+   "role": "奏报官员（自称臣）"
+  }
+ ],
+ "places": [
+  "扬州",
+  "颍州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 140
+}

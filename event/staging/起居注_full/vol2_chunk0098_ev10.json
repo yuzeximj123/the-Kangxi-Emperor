@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "十六日乙未",
+ "event_role": "人事任免",
+ "summary": "兵部题补荆州将军员缺，康熙帝命议政王大臣会推公侯伯大臣具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "保住",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9810,
+ "page_range": "239-240"
+}

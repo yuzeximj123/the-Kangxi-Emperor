@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "提督施琅题请将厦门总兵官杨嘉瑞调补金门、金门总兵官陈龙移驻南澳，议不准行，康熙询问石柱缘由后着照部议行。",
+ "people": [
+  {
+   "name": "施琅",
+   "role": "提督"
+  },
+  {
+   "name": "杨嘉瑞",
+   "role": "厦门总兵官"
+  },
+  {
+   "name": "陈龙",
+   "role": "金门总兵官"
+  },
+  {
+   "name": "石柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "厦门",
+  "金门",
+  "南澳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3800,
+ "page_range": "111-112"
+}

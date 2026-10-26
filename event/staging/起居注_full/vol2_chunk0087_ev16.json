@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "二十七日丙午",
+ "event_role": "司法案件",
+ "summary": "九卿议张鳌殴死亲兄张龙一案两议，康熙念其母朱氏年老无人侍养，令依后议减等发落并明白票出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张鳌",
+   "role": "案犯"
+  },
+  {
+   "name": "张龙",
+   "role": "死者"
+  },
+  {
+   "name": "朱氏",
+   "role": "张鳌之母"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8716,
+ "page_range": "217-218"
+}

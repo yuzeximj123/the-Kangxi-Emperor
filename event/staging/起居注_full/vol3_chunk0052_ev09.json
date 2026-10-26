@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初八日庚子",
+ "event_role": "谕旨决策",
+ "summary": "一鼓后侍卫二格捧出御书“清注”二字赐从臣观览，传谕此为应徐旭龄所请书赐珍珠泉者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "二格",
+   "role": "侍卫"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "珍珠泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5209,
+ "page_range": "139-140"
+}

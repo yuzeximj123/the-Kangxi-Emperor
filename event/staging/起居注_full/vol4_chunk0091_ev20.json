@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 11,
+ "day_text": "十六日己酉",
+ "event_role": "谕旨决策",
+ "summary": "江南江西总督傅腊塔题请免征江宁廊棚税银，户部议不准，康熙帝令照总督所题蠲免。",
+ "people": [
+  {
+   "name": "傅腊塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9120,
+ "page_range": "194-195"
+}

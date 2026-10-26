@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称湖南丈量田地百姓或受累，命咨行总督吴瑞详察具奏，并称赞吴瑞居官甚善。",
+ "people": [
+  {
+   "name": "吴瑞",
+   "role": "总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5802,
+ "page_range": "126-127"
+}

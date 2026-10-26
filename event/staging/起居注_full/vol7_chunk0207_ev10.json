@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "初八日辛酉",
+ "event_role": "人事任免",
+ "summary": "吏部覆请河南布政使王家栋以原品休致，康熙帝准行，并令李芯补授该缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鹿佑",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "王家栋",
+   "role": "布政使"
+  },
+  {
+   "name": "李芯",
+   "role": "补授布政使"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20710,
+ "page_range": "425-426"
+}

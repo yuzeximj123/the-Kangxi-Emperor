@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十日两子",
+ "event_role": "人事任免",
+ "summary": "吏部题正白旗三等阿达哈哈番门都病故应以其子巴雅思虎承袭，康熙以巴雅思虎良和，命其弟巴哈纳承袭。",
+ "people": [
+  {
+   "name": "门都",
+   "role": "三等阿达哈哈番"
+  },
+  {
+   "name": "巴雅思虎",
+   "role": "门都之子"
+  },
+  {
+   "name": "巴哈纳",
+   "role": "门都之弟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 415,
+ "page_range": "51-52"
+}

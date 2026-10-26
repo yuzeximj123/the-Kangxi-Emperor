@@ -1,0 +1,37 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "初九日乙丑",
+ "event_role": "祭祀典礼",
+ "summary": "各部院衙门章奏交送内阁，康熙帝御文华殿举行经筵大典，讲官讲《四书》《书经》，毕宴于太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "杜到",
+   "role": "讲官"
+  },
+  {
+   "name": "席尔达",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14217,
+ "page_range": "296-297"
+}

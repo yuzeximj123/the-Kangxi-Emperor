@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "初二日癸西",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召问定海总兵孙维统出身及经历，谕令严束兵丁、勿扰民、毋虚冒粮饷，并赐鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙维统",
+   "role": "浙江定海总兵官"
+  }
+ ],
+ "places": [
+  "定海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19807,
+ "page_range": "439-440"
+}

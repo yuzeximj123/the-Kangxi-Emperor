@@ -1,0 +1,50 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题奏户部郎中杜尔莽等审理葛醋一案迟延，拟将杜尔苏等降五级调用，尚书苏赫不候旨完结即分辨具奏应销级罚俸。",
+ "people": [
+  {
+   "name": "杜尔莽",
+   "role": "户部郎中"
+  },
+  {
+   "name": "苏赫",
+   "role": "尚书"
+  },
+  {
+   "name": "杜尔苏",
+   "role": "官员"
+  },
+  {
+   "name": "刘住",
+   "role": "官员"
+  },
+  {
+   "name": "马克度",
+   "role": "官员"
+  },
+  {
+   "name": "括特",
+   "role": "官员"
+  },
+  {
+   "name": "陶乐",
+   "role": "官员"
+  },
+  {
+   "name": "何隆",
+   "role": "官员"
+  },
+  {
+   "name": "特贝",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16100,
+ "page_range": "334-335"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "河南巡抚张圣佐奏御批奏折已与差往大臣看过，康熙帝令严票进呈，并查张廷枢等所参拿问李延蕊、张育徽、白证有无保举及保举之人。",
+ "people": [
+  {
+   "name": "张圣佐",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "张廷枢",
+   "role": "官员"
+  },
+  {
+   "name": "李延蕊",
+   "role": "原任知府"
+  },
+  {
+   "name": "张育徽",
+   "role": "原任知县"
+  },
+  {
+   "name": "白证",
+   "role": "原任知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21005,
+ "page_range": "431-432"
+}

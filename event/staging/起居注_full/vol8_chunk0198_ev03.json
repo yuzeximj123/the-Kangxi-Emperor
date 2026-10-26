@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐等呈报九卿举出监修仓廒官员户部员外郎富宁等职名，康熙命将伊等之名拟签进呈。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "富宁",
+   "role": "户部员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19803,
+ "page_range": "407-408"
+}

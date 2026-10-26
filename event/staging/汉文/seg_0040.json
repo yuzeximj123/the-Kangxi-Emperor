@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十年九月",
+ "reign_year": 40,
+ "month": 9,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报苏州今年稻禾丰收、早稻已收割晚禾登场，并恭请圣安。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "44",
+ "source_title": "苏州织造李煦奏报稻禾收成并请安折",
+ "order_index": 40
+}

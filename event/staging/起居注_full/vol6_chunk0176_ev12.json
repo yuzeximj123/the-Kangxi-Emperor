@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "十六日乙刻",
+ "event_role": "议政听政",
+ "summary": "康熙帝召李光地、朝琦询问自张各庄至葛家坞修石堤是否经久有益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "朝琦",
+   "role": "分司"
+  }
+ ],
+ "places": [
+  "张各庄",
+  "葛家坞"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17612,
+ "page_range": "362-363"
+}

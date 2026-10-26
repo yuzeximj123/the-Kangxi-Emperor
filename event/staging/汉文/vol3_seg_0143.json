@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十年四月十二日",
+ "reign_year": 50,
+ "month": 4,
+ "day": 12,
+ "event_role": "收到奏折",
+ "summary": "苏州织造李煦就晴雨录迟至今年二月才进呈一事明白回奏，承认昏愦遗忘之咎，请求处分，并感激皇上未即加罪。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "管理苏州织造大理寺卿，奏折作者"
+  }
+ ],
+ "places": [
+  "苏州",
+  "京"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，命以后凡李煦奏折到京即当奏闻，以免京中久留生出别事。",
+ "source_title": "苏州织造李煦奏为晴雨录迟进明白回奏摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "410",
+ "order_index": 143
+}

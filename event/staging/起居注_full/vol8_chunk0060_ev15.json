@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 5,
+ "day_text": "二十七日戊戌",
+ "event_role": "朝见受贺",
+ "summary": "古北口驿传道员外郎罗括泰、管又同知郑富明、防御布太、都司孙梦刨等来朝。",
+ "people": [
+  {
+   "name": "罗括泰",
+   "role": "古北口驿传道员外郎"
+  },
+  {
+   "name": "郑富明",
+   "role": "管又同知"
+  },
+  {
+   "name": "布太",
+   "role": "防御"
+  },
+  {
+   "name": "孙梦刨",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6015,
+ "page_range": "131-132"
+}

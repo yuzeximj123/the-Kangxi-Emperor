@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "十一日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "湖广总督题湖南仓谷五十万石内已舂米二十万石恐朽烂请料理，康熙帝令将截留米粮给散荆州兵丁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "总漕"
+  }
+ ],
+ "places": [
+  "湖南",
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19906,
+ "page_range": "408-409"
+}

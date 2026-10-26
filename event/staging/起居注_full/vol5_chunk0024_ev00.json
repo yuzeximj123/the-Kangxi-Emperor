@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部题河南巡抚顾汗转运陕西米石耗损一千三百余石应补缴，康熙以河南百姓连年转运劳苦、陕西田禾丰收，命通行豁免补折耗米。",
+ "people": [
+  {
+   "name": "顾汗",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2400,
+ "page_range": "58-59"
+}

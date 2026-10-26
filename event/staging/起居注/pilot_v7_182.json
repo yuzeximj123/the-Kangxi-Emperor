@@ -1,0 +1,29 @@
+{
+ "date_raw": "初三日",
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "初三日",
+ "event_role": "收到奏折",
+ "summary": "驻扎西宁喇嘛商南多尔济奏报拉臧起解假达赖喇嘛情由。",
+ "people": [
+  {
+   "name": "商南多尔济",
+   "role": "西宁喇嘛"
+  },
+  {
+   "name": "拉臧",
+   "role": "蒙古首领"
+  },
+  {
+   "name": "第巴",
+   "role": "藏王"
+  }
+ ],
+ "places": [
+  "西宁",
+  "西藏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3182
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "二十九日甲成",
+ "event_role": "人事任免",
+ "summary": "翰林院题日讲起居注官法良等员缺，康熙帝命将开列之人问翰林院掌院学士具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "法良",
+   "role": "日讲起居注官"
+  },
+  {
+   "name": "卫齐",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5514,
+ "page_range": "121-122"
+}

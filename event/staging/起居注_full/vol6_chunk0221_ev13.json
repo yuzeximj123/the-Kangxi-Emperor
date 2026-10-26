@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十六日己巳",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等遵旨以岳昇龙问九卿具奏，九卿皆言其优，侍郎喻成龙、御史李先复称其兵民相安、人才矫健。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "岳昇龙",
+   "role": "总兵"
+  },
+  {
+   "name": "喻成龙",
+   "role": "侍郎"
+  },
+  {
+   "name": "李先复",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22113,
+ "page_range": "452-453"
+}

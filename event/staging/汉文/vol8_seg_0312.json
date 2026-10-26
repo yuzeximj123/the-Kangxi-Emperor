@@ -1,0 +1,45 @@
+{
+ "date_raw": "康熙六十年二月二十七日",
+ "reign_year": 60,
+ "month": 2,
+ "day": null,
+ "event_role": "弹劾参奏",
+ "summary": "直隶总督赵弘燮参奏永定河南岸分司雅思海及在工河员修堤不实、漫口报数不实，请旨惩处并拨银赶修。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督管理巡抚事务，奏参者"
+  },
+  {
+   "name": "齐苏勒",
+   "role": "北岸分司"
+  },
+  {
+   "name": "雅思海",
+   "role": "南岸分司，被参河员"
+  },
+  {
+   "name": "谢蕊厚",
+   "role": "江南学院，富户，赔修责任人"
+  },
+  {
+   "name": "李愈",
+   "role": "通永道，奉命拨银督修"
+  }
+ ],
+ "places": [
+  "永定河",
+  "南岸",
+  "北岸",
+  "候家良村",
+  "南堤头",
+  "北堤头"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸總督趙弘燮奏參不職河員摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2914",
+ "order_index": 312
+}

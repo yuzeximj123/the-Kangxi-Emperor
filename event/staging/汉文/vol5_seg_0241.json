@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十二年六月二十日",
+ "reign_year": 52,
+ "month": 6,
+ "day": 19,
+ "event_role": "请安谢恩",
+ "summary": "河南巡抚鹿祐奏谢皇上传谕问病并再赐丹药，表示感激涕零，愿黾勉供职以报皇恩。",
+ "people": [
+  {
+   "name": "鹿祐",
+   "role": "河南巡抚，奏折作者"
+  },
+  {
+   "name": "李林",
+   "role": "署理甘肃提督事务、兰州等处总兵官（奏折中提及）"
+  },
+  {
+   "name": "吴英",
+   "role": "鹿祐家人，传旨者"
+  }
+ ],
+ "places": [
+  "河南",
+  "甘肃",
+  "兰州",
+  "热河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "河南巡撫鹿祐奏謝傳諭問病情並再賜丹劑摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1603",
+ "order_index": 241
+}

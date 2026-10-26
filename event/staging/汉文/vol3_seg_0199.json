@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾年陆月贰拾壹日",
+ "reign_year": 50,
+ "month": 6,
+ "day": 21,
+ "event_role": "请安谢恩",
+ "summary": "赵弘燮奏谢皇上钦赐鹿肉干、糟野鸡，称已跪迎祇领并望阙叩头谢恩，表示感激圣恩、愿合家顶戴。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚（奏折作者，自称奉命抚直）"
+  },
+  {
+   "name": "觉罗满保",
+   "role": "总督（进呈奏折者）"
+  }
+ ],
+ "places": [
+  "郊外",
+  "署"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "赵弘燮谢赐摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 199
+}

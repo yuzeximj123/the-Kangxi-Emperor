@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十六日丙子",
+ "event_role": "司法案件",
+ "summary": "刑部议赵氏妖言惑众、关海等营求免拿应革职，康熙帝依议并命再议巴克三口供连索讷诲事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵氏",
+   "role": "案犯"
+  },
+  {
+   "name": "关海",
+   "role": "案犯"
+  },
+  {
+   "name": "巴克三",
+   "role": "案犯"
+  },
+  {
+   "name": "索讷诲",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22205,
+ "page_range": "501-502"
+}

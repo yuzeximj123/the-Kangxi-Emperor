@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "十四日癸亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行幄听政，吏部议宜山县委署知县王坤骂贼不屈兄弟被害无恤例，康熙帝命议叙具奏。",
+ "people": [
+  {
+   "name": "王坤",
+   "role": "宜山县委署知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宜山县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7811,
+ "page_range": "199-200"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "十九日乙刻",
+ "event_role": "谕旨决策",
+ "summary": "九卿会议江西巡抚安世时题请安插裁兵须令得所，康熙帝令传问任撒旦、杨周宪意见。",
+ "people": [
+  {
+   "name": "安世时",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "任撒旦",
+   "role": "官员"
+  },
+  {
+   "name": "杨周宪",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12313,
+ "page_range": "281-282"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初一日王辰",
+ "event_role": "人事任免",
+ "summary": "詹事府詹事沈共病故员缺，康熙帝以徐乾学学问最优，命补授詹事。",
+ "people": [
+  {
+   "name": "徐乾学",
+   "role": "补授詹事"
+  },
+  {
+   "name": "沈共",
+   "role": "詹事，病故"
+  },
+  {
+   "name": "周之麟",
+   "role": "少詹，开列"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6105,
+ "page_range": "157-158"
+}

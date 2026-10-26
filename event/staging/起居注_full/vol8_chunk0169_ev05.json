@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "马齐赞康熙帝记忆力奇异，康熙帝与马齐论及和尔当、把叙等人记性。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "和尔当",
+   "role": "官员"
+  },
+  {
+   "name": "把叙",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16905,
+ "page_range": "349-350"
+}

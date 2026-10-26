@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "广州副都统石如融员缺，康熙帝简选参领何天培升补广州副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石如融",
+   "role": "广州副都统"
+  },
+  {
+   "name": "何天培",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "广州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1801,
+ "page_range": "47-48"
+}

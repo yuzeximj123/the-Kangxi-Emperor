@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十六日辛已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士勒德洪、明珠、王申，凡居官以清廉为要，令九卿将所知内外大小官员举出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2718,
+ "page_range": "89-90"
+}

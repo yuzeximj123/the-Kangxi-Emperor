@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十六日癸未",
+ "event_role": "人事任免",
+ "summary": "兵部题补护军参领员缺，康熙帝以巴格、沙岱俱平常且沙岱轻佻，命察明该旗效力之人另奏。",
+ "people": [
+  {
+   "name": "巴格",
+   "role": "拟正一等护卫"
+  },
+  {
+   "name": "沙岱",
+   "role": "拟陪一等护卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25220,
+ "page_range": "561-562"
+}

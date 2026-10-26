@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "十四日癸卯",
+ "event_role": "司法案件",
+ "summary": "兵部等议原任福建副都统胡启元等受贿留住应撤兵丁，拟绞监候，康熙帝令依部议。",
+ "people": [
+  {
+   "name": "胡启元",
+   "role": "原任福建副都统"
+  },
+  {
+   "name": "杜荣",
+   "role": "原任参领"
+  },
+  {
+   "name": "张君锡",
+   "role": "兵丁"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9708,
+ "page_range": "229-230"
+}

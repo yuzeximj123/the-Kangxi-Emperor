@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部拟孟阿康持刀砍孙茂芝劫银依抢劫律斩监候，康熙帝以其杀人得财可恶，命照杀人得财律另议具奏。",
+ "people": [
+  {
+   "name": "孟阿康",
+   "role": "罪犯"
+  },
+  {
+   "name": "孙茂芝",
+   "role": "被害人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13205,
+ "page_range": "275-276"
+}

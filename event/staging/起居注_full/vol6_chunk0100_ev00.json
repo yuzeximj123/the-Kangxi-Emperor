@@ -1,0 +1,22 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就吕师时莫母一案降旨，认为其母即回并无罪过，不必再查，此后此类事照此完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吕师时莫母",
+   "role": "涉案人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10000,
+ "page_range": "210-211"
+}

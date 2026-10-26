@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙谕胡会恩、陈元龙到家可多留数日，至镇江随驾回京，二人谢恩出。",
+ "people": [
+  {
+   "name": "胡会恩",
+   "role": "学士"
+  },
+  {
+   "name": "陈元龙",
+   "role": "右庶子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "镇江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8701,
+ "page_range": "184-185"
+}

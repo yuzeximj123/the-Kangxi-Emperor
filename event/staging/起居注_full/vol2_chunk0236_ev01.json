@@ -1,0 +1,35 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "云南布政使田启光丁忧员缺，康熙帝命以李世昌补授，不用陪拟的金镇。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "田启光",
+   "role": "云南布政使"
+  },
+  {
+   "name": "李世昌",
+   "role": "湖北按察使"
+  },
+  {
+   "name": "金镇",
+   "role": "江苏按察使"
+  }
+ ],
+ "places": [
+  "云南",
+  "湖北",
+  "江苏",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23601,
+ "page_range": "515-516"
+}

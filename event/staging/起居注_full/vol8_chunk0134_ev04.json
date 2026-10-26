@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "汉九卿、詹事、科道奏称贵州巡抚刘荫枢所奏折子无用失体，请交部议处，康熙帝说明并未欲亲征，系误听小报。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "贵州",
+  "西宁",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13404,
+ "page_range": "279-280"
+}

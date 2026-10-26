@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "十七日两子",
+ "event_role": "河工水利",
+ "summary": "康熙帝谕郭甲务以上南岸旧堤甚薄，交原任河南巡抚李国亮效力，速作排桩于堤外。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李国亮",
+   "role": "原任河南巡抚"
+  }
+ ],
+ "places": [
+  "郭甲务"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17626,
+ "page_range": "362-363"
+}

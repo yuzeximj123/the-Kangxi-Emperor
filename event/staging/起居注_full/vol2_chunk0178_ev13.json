@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十六日戊午",
+ "event_role": "司法案件",
+ "summary": "议政王等会议领侍卫内大臣索额图等罪，裕亲王福全请察议尚书介山等迎合往来，康熙帝命免察议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "福全",
+   "role": "和硕裕亲王"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣，罪人"
+  },
+  {
+   "name": "介山",
+   "role": "尚书"
+  },
+  {
+   "name": "禅塔海",
+   "role": "侍郎"
+  },
+  {
+   "name": "宜昌阿",
+   "role": "侍郎"
+  },
+  {
+   "name": "温代",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17813,
+ "page_range": "399-400"
+}

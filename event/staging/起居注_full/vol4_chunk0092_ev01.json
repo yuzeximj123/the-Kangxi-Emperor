@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 11,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "湖北巡抚吴琠陛辞请训，康熙帝询问有无陈奏，吴琠请求训谕并奏大计考语事。",
+ "people": [
+  {
+   "name": "吴琠",
+   "role": "湖北巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9201,
+ "page_range": "196-197"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": "十六日庚申",
+ "event_role": "司法案件",
+ "summary": "刑部侍郎色冷格等往审湖广巡抚张沂题参道员祖泽深贪酷事回奏，康熙帝询问审事是否公允及张沂居官如何。",
+ "people": [
+  {
+   "name": "色冷格",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "张沂",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "祖泽深",
+   "role": "道员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25609,
+ "page_range": "547-548"
+}

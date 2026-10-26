@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "二十三日乙未",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题原任监察御史沙木布家人荣保等指称伊哈纳为贼打死，依律分拟绞与流。",
+ "people": [
+  {
+   "name": "沙木布",
+   "role": "原任监察御史"
+  },
+  {
+   "name": "荣保",
+   "role": "沙木布家人"
+  },
+  {
+   "name": "伊哈纳",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4832,
+ "page_range": "106-107"
+}

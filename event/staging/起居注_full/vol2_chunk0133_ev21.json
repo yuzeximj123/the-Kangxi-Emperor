@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "二十日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "监察御史罗秉伦条奏盐丁应照旧额事，九卿两议，康熙帝从明珠等前议，令行该抚确查。",
+ "people": [
+  {
+   "name": "罗秉伦",
+   "role": "监察御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "苏拜",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13321,
+ "page_range": "309-310"
+}

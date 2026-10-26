@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十二年十二月初九日",
+ "reign_year": 52,
+ "month": 12,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "河南巡抚鹿祐以年老病重、痰气上升、语言蹇涩、两耳重听为由，据实陈情，请求皇上恩准休致。",
+ "people": [
+  {
+   "name": "鹿祐",
+   "role": "河南巡抚，上奏请求休致者"
+  },
+  {
+   "name": "皇上",
+   "role": "康熙帝，受奏请者"
+  }
+ ],
+ "places": [
+  "河南",
+  "中州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "河南巡撫鹿祐奏請病老休致摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1481",
+ "order_index": 115
+}

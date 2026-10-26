@@ -1,0 +1,22 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "二十日丙午",
+ "event_role": "皇帝行止",
+ "summary": "二十日丙午巳时，康熙自汤泉回至畅春园，在齐镜峰问安，驻跸畅春园。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汤泉",
+  "畅春园",
+  "齐镜峰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16116,
+ "page_range": "333-334"
+}

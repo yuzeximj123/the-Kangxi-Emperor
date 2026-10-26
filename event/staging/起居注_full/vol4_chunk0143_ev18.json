@@ -1,0 +1,20 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "十九日乙亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫，听部院各衙门官员面奏政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14318,
+ "page_range": "298-299"
+}

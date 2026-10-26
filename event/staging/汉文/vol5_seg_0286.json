@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年九月初十日",
+ "reign_year": 53,
+ "month": 9,
+ "day": 10,
+ "event_role": "奏报灾情收成",
+ "summary": "两广总督赵弘灿奏报广东广西两省晚稻茂盛可望丰收，待十月收获后详报收成分数与米价，并恭进微物数种、请皇上圣安。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督，奏报人"
+  },
+  {
+   "name": "柴逢智",
+   "role": "赵弘灿家人，专差赍奏者"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“朕安”，即皇帝回复自己安好。",
+ "source_title": "兩廣總督趙弘燦奏報兩廣晚稻可獲豐收並進微物數種摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1645",
+ "order_index": 286
+}

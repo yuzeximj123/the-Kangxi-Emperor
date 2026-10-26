@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 8,
+ "day_text": "初三日癸亥",
+ "event_role": "谕旨决策",
+ "summary": "刑部题四川重犯档案豆送违限请将该督抚交吏部议处，康熙帝以齐世武告病、贝和诺调补未久，命若到则已否则再行题奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐世武",
+   "role": "署巡抚事"
+  },
+  {
+   "name": "贝和诺",
+   "role": "调补巡抚"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16418,
+ "page_range": "338-339"
+}

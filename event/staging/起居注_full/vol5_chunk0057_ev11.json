@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "初六日戊成",
+ "event_role": "司法案件",
+ "summary": "督捕衙门题窝藏逃走太监明玉之张氏照例流徙，康熙帝以其为明玉昂母、不知逃走且年逾七十，命从宽免流徙。",
+ "people": [
+  {
+   "name": "张氏",
+   "role": "窝藏者"
+  },
+  {
+   "name": "明玉",
+   "role": "逃走太监"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5711,
+ "page_range": "124-125"
+}

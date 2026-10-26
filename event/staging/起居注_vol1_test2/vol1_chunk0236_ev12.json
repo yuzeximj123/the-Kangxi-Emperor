@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十日己卯",
+ "event_role": "司法案件",
+ "summary": "刑部题劫盗鲁三、魏三、富二等应立斩，康熙帝以未经杀人处斩太过，命为首一人立斩，余秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鲁三",
+   "role": "劫盗"
+  },
+  {
+   "name": "魏三",
+   "role": "劫盗"
+  },
+  {
+   "name": "富二",
+   "role": "劫盗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23612,
+ "page_range": "529-530"
+}

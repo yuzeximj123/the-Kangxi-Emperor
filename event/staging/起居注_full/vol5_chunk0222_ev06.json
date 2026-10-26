@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "臣等会议调兵诸事，议定孙思克、博济选派满洲兵一千、绿旗兵一千携四月粮前往阿南达处，由阿南达、李林隆统率进剿。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "将领"
+  },
+  {
+   "name": "博济",
+   "role": "将领"
+  },
+  {
+   "name": "阿南达",
+   "role": "统率大臣"
+  },
+  {
+   "name": "李林隆",
+   "role": "统率大臣"
+  }
+ ],
+ "places": [
+  "甘州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22206,
+ "page_range": "454-455"
+}

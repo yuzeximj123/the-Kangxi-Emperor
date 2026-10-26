@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "二十八日丙午",
+ "event_role": "朝见受贺",
+ "summary": "广宁县驻防防守尉祁庆格、广宁县知县项草等来朝。",
+ "people": [
+  {
+   "name": "祁庆格",
+   "role": "防守尉"
+  },
+  {
+   "name": "项草",
+   "role": "广宁县知县"
+  }
+ ],
+ "places": [
+  "广宁县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11421,
+ "page_range": "271-272"
+}

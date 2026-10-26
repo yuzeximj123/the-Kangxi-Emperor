@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "初十日丁丑",
+ "event_role": "皇帝行止",
+ "summary": "未时，康熙帝复御乾清门，赐请安进贡喀尔喀部落古西帝桑博罗厄尔克下等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "古西帝桑博罗厄尔克",
+   "role": "喀尔喀部落首领"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23809,
+ "page_range": "519-520"
+}

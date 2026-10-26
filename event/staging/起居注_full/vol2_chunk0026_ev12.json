@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初六日辛酉",
+ "event_role": "人事任免",
+ "summary": "康熙帝采纳宋德宜之议，命传谕吏部以哈占为川陕总督，解杨茂勋四川总督任，随大军进取云贵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈占",
+   "role": "川陕总督"
+  },
+  {
+   "name": "杨茂勋",
+   "role": "四川总督"
+  }
+ ],
+ "places": [
+  "四川",
+  "云南",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2612,
+ "page_range": "95-96"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": "二十一日两申",
+ "event_role": "司法案件",
+ "summary": "兵部题金华副将赵延庆贪酷应革职拿问，康熙帝以其在行间有效力，着革职，从宽免拿问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵延庆",
+   "role": "金华副将"
+  }
+ ],
+ "places": [
+  "金华"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25219,
+ "page_range": "539-540"
+}

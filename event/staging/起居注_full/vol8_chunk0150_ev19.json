@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": "十六日癸酉",
+ "event_role": "其他",
+ "summary": "处理凤阳关监督罗岱任内并无拖欠钱粮之处一折，康熙帝命俟回銮之日再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗岱",
+   "role": "凤阳关监督"
+  }
+ ],
+ "places": [
+  "凤阳关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15019,
+ "page_range": "311-312"
+}

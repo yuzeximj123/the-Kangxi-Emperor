@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "初九日",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内游宁居，传满大学士、学士、九卿、大臣等进，命皇太子出侍，议奉先殿祭祀皇太子行礼班次事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "游宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1007,
+ "page_range": "30-31"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": "十二日辛西",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士松柱、学士阿尔法、绰奇以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "阿尔法",
+   "role": "学士"
+  },
+  {
+   "name": "绰奇",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24515,
+ "page_range": "501-502"
+}

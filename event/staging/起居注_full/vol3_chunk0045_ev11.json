@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "初七日庚午",
+ "event_role": "司法案件",
+ "summary": "辰时御乾清门听政，刑部议文遇喜隐瞒方士周大升等拟立绞，康熙帝以案情糊涂、人命重大，命再详察。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "文遇喜",
+   "role": "案犯"
+  },
+  {
+   "name": "周大升",
+   "role": "方士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4511,
+ "page_range": "125-126"
+}

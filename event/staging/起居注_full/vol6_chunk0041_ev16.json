@@ -1,0 +1,22 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "初九日王午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自河合站渔于鹅头唐，未时启行，御舟驻通州之内家楼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河合站",
+  "鹅头唐",
+  "通州之内家楼"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4116,
+ "page_range": "92-93"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十一日本丑",
+ "event_role": "人事任免",
+ "summary": "题补右中允席柱病故员缺，拟传尔哈正、萨克新陪，康熙帝以詹事府与翰林院同属修书之处，命补学问淹通之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席柱",
+   "role": "右中允"
+  },
+  {
+   "name": "传尔哈",
+   "role": "赞善"
+  },
+  {
+   "name": "萨克新",
+   "role": "主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1124,
+ "page_range": "57-58"
+}

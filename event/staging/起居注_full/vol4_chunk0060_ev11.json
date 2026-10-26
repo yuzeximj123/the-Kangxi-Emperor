@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十七日乙丑",
+ "event_role": "议政听政",
+ "summary": "酉刻康熙帝幸观星台，召部院诸臣问汉臣中知天文者，与李光地论二十八宿、参觜距星、中星移动、恒星天动及五星联珠等历法问题。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "掌院学士"
+  }
+ ],
+ "places": [
+  "观星台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6011,
+ "page_range": "132-133"
+}

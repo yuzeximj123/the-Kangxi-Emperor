@@ -1,0 +1,42 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十八日壬寅",
+ "event_role": "人事任免",
+ "summary": "议补内阁侍读学士员缺，康熙帝询问人选后命齐色补授侍读学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "巴尔哈",
+   "role": "户部郎中拟正"
+  },
+  {
+   "name": "僧参",
+   "role": "制造库郎中拟陪"
+  },
+  {
+   "name": "傅继祖",
+   "role": "侍讲"
+  },
+  {
+   "name": "博极",
+   "role": "司业"
+  },
+  {
+   "name": "齐色",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14207,
+ "page_range": "319-320"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述故大学士吴珊小心谨慎、有言必陈，曾谏阻取打箭炉及征红苗，后皆成功，吴珊心服。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴珊",
+   "role": "故大学士"
+  }
+ ],
+ "places": [
+  "打箭炉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13500,
+ "page_range": "281-282"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝准贝和诺所题，将淳化县知县佟世禄等调补。",
+ "people": [
+  {
+   "name": "佟世禄",
+   "role": "淳化县知县"
+  },
+  {
+   "name": "贝和诺",
+   "role": "题请官员"
+  }
+ ],
+ "places": [
+  "淳化县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11600,
+ "page_range": "242-243"
+}

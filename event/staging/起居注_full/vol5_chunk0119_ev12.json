@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "二十六日辛亥",
+ "event_role": "弹劾参奏",
+ "summary": "进兵时索额图复奏称皇长子于乌兰布通之役实有余憾，不便使居前行，康熙帝以其自形胆怯恐遗彼为前行故惧而有是奏，不允。",
+ "people": [
+  {
+   "name": "索额图",
+   "role": "内大臣"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乌兰布通"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11912,
+ "page_range": "248-249"
+}

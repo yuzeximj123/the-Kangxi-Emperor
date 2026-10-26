@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "十七日甲申",
+ "event_role": "军务",
+ "summary": "兵部题议叙昭磨多地方战胜副都统阿玉得等，康熙帝闻阿玉答西路出征效力，命给阿玉拖沙喇哈番。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿玉得",
+   "role": "副都统"
+  },
+  {
+   "name": "布泰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "昭磨多",
+  "西路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10212,
+ "page_range": "214-215"
+}

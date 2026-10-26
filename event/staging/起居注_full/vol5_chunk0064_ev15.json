@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": "二十七日戊午",
+ "event_role": "谕旨决策",
+ "summary": "部院各衙门无奏章；康熙帝谕大学士，平阳府地震死伤甚多，令传集九卿询问应行应革之事，并给平阳府属现任京官假往视家室。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蒋弘道",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6415,
+ "page_range": "138-139"
+}

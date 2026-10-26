@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十三日丙寅",
+ "event_role": "起居注官记录",
+ "summary": "起居注官满保、查界记录当日事宜。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "起居注官"
+  },
+  {
+   "name": "查界",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22010,
+ "page_range": "450-451"
+}

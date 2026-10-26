@@ -1,0 +1,35 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "初五日己酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝赐镇守福建将军佟国瑶食，谕以恪遵国宪、安辑兵民，勿效哈喇库等营私害民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国瑶",
+   "role": "镇守福建将军"
+  },
+  {
+   "name": "孟乔芳",
+   "role": "前总督"
+  },
+  {
+   "name": "李率泰",
+   "role": "前总督"
+  }
+ ],
+ "places": [
+  "镇江",
+  "杭州",
+  "福建",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14409,
+ "page_range": "331-332"
+}

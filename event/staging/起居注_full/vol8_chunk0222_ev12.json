@@ -1,0 +1,44 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士马齐等以折本请旨，宗人府覆请正黄旗觉罗科普索之拜他拉布勒哈番袭与伊子温拜不准行，康熙依议。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "王抄",
+   "role": "大学士"
+  },
+  {
+   "name": "科普索",
+   "role": "觉罗"
+  },
+  {
+   "name": "温拜",
+   "role": "科普索之子"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22212,
+ "page_range": "455-456"
+}

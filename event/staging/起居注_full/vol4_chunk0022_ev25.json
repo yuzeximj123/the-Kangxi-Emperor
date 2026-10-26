@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "二十八日辛丑",
+ "event_role": "其他",
+ "summary": "康熙帝问第五卷查郧韩文如何，梁清标等奏文甚佳，因错落四字不敢置前三卷，翁叔元言以文论查郧韩尤佳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "翁叔元",
+   "role": "官员"
+  },
+  {
+   "name": "查郧韩",
+   "role": "贡士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2225,
+ "page_range": "56-57"
+}

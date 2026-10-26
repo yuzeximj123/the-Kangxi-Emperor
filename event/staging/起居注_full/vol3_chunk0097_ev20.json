@@ -1,0 +1,36 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "十九日成申",
+ "event_role": "议政听政",
+ "summary": "巳时，康熙帝御行幄，扈从侍郎佛伦，学士图纳、席尔达、牛钮以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "侍郎"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行幄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9720,
+ "page_range": "229-230"
+}

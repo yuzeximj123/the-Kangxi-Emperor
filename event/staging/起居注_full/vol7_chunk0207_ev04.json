@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "理藩院题请图谢图亲王阿拉善病故后袭爵人选，康熙帝令第三子鄂尔齐图袭封和硕图谢图亲王。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿拉善",
+   "role": "和硕图谢图亲王"
+  },
+  {
+   "name": "额尔德布图",
+   "role": "亲王长子"
+  },
+  {
+   "name": "鄂尔齐图",
+   "role": "亲王第三子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20704,
+ "page_range": "425-426"
+}

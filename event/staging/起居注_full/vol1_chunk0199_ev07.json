@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "十九日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "会议陕西提督孙思克进兵期间缓兵之罪应俟事平再议，康熙命从会议。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "陕西提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19907,
+ "page_range": "455-456"
+}

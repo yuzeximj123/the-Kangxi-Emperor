@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十五日庚午",
+ "event_role": "司法案件",
+ "summary": "三法司议王章隐匿汉人、买住同李之俊等诈僧人近善，王章应立斩、买住李之俊应秋后处绞，康熙帝命王章改为秋后处决。",
+ "people": [
+  {
+   "name": "王章",
+   "role": "罪犯"
+  },
+  {
+   "name": "买住",
+   "role": "罪犯"
+  },
+  {
+   "name": "李之俊",
+   "role": "罪犯"
+  },
+  {
+   "name": "近善",
+   "role": "僧人"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1519,
+ "page_range": "73-74"
+}

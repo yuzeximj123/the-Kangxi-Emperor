@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初七日戊戌",
+ "event_role": "司法案件",
+ "summary": "户部题盛京户部侍郎董国礼等私放官银得利未奏请革职，康熙帝令俟回讲日大学士会同该部议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董国礼",
+   "role": "盛京户部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13215,
+ "page_range": "275-276"
+}

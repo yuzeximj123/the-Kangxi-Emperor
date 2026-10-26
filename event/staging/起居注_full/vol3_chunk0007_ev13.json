@@ -1,0 +1,33 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "十四日庚成",
+ "event_role": "谕旨决策",
+ "summary": "郎中保奇、能得、额尔赛等奏请设立乌喇至爱浑一路驿站，康熙帝谕令会同将军副都统详议安设，从长计议。",
+ "people": [
+  {
+   "name": "保奇",
+   "role": "郎中"
+  },
+  {
+   "name": "能得",
+   "role": "郎中"
+  },
+  {
+   "name": "额尔赛",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乌喇",
+  "爱浑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 713,
+ "page_range": "49-50"
+}

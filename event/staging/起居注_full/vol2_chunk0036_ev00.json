@@ -1,0 +1,46 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问汉军御史及汉御史贤否，徐元文等奏郭维藩、祝钟灵等贤能，并论葛伊奔竞声名不佳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  },
+  {
+   "name": "郭维藩",
+   "role": "汉军御史"
+  },
+  {
+   "name": "祝钟灵",
+   "role": "汉军御史"
+  },
+  {
+   "name": "赵之昂",
+   "role": "汉军御史"
+  },
+  {
+   "name": "邵凤翔",
+   "role": "汉军御史"
+  },
+  {
+   "name": "谢兆昌",
+   "role": "汉御史"
+  },
+  {
+   "name": "葛伊",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3600,
+ "page_range": "115-116"
+}

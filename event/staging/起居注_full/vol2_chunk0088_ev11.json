@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "二十九日戊申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命内大臣奇他特、博罗特传谕苏尼忒多罗杜棱郡王阿育席，询问生计并训诫其抚恤部众、严禁侵扰。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "奇他特",
+   "role": "内大臣"
+  },
+  {
+   "name": "博罗特",
+   "role": "内大臣"
+  },
+  {
+   "name": "阿育席",
+   "role": "苏尼忒多罗杜棱郡王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8811,
+ "page_range": "219-220"
+}

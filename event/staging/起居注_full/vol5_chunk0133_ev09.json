@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部奏王惠敏不早赴牧场误班拟革职，张三等供章京未往不得擅带撒袋出营，奉旨依议。",
+ "people": [
+  {
+   "name": "王惠敏",
+   "role": "正白旗汉军骁骑校署章京事"
+  },
+  {
+   "name": "张三",
+   "role": "鸟枪拨什库"
+  }
+ ],
+ "places": [
+  "牧场"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13309,
+ "page_range": "276-277"
+}

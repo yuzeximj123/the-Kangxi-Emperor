@@ -1,0 +1,21 @@
+{
+ "reign_year": 10,
+ "month": 10,
+ "day_text": "十三日辛卯",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以还京，率诸王、贝勒、大臣诣福陵、昭陵行三跪九叩头礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福陵",
+  "昭陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 140,
+ "page_range": "59-60"
+}

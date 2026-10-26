@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "人事任免",
+ "summary": "康熙帝召满洲大学士、学士及满尚书至乾清宫，谕于成龙仍赴直隶巡抚任，慕天颜仍曲禁，候看河官员回定夺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  },
+  {
+   "name": "慕天颜",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2909,
+ "page_range": "70-71"
+}

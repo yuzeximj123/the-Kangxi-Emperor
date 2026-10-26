@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十七日丁亥",
+ "event_role": "司法案件",
+ "summary": "议屠应泰弟屠永泰子屠中潭诈称民人并将二女出嫁应革职、二女离异入官，康熙帝以不忍拆散婚配，命仍给还本夫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "屠应泰",
+   "role": "案中相关人"
+  },
+  {
+   "name": "屠永泰",
+   "role": "案中相关人"
+  },
+  {
+   "name": "屠中潭",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8419,
+ "page_range": "203-204"
+}

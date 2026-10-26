@@ -1,0 +1,35 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": "初七日庚寅",
+ "event_role": "人事任免",
+ "summary": "兵部题陕西凉州镇番营等五处参将员缺，康熙帝命补授方凯镇番营参将、张文焕怀来路参将。",
+ "people": [
+  {
+   "name": "方凯",
+   "role": "拟补参将"
+  },
+  {
+   "name": "张文焕",
+   "role": "状元"
+  },
+  {
+   "name": "康运昌",
+   "role": "游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "凉州",
+  "镇番营",
+  "怀来路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15110,
+ "page_range": "312-313"
+}

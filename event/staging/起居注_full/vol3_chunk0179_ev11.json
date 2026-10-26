@@ -1,0 +1,48 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "初九日辛卯",
+ "event_role": "议政听政",
+ "summary": "康熙御泳台勤政典听政，部院各衙门官员面奏毕，大学士等以折本请旨。",
+ "people": [
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "呈正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宁德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "禅布",
+   "role": "学士"
+  },
+  {
+   "name": "赛开汉",
+   "role": "学士"
+  },
+  {
+   "name": "葛思泰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "泳台勤政典"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17911,
+ "page_range": "393-394"
+}

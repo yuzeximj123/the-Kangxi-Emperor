@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年十月二十六日",
+ "reign_year": 53,
+ "month": 10,
+ "day": 26,
+ "event_role": "其他",
+ "summary": "广西巡抚陈元龙奏请捐三年全俸，交翰林院分给贫寒庶吉士，并建议各省督抚学臣一体捐助，另进长云竹五百枝。",
+ "people": [
+  {
+   "name": "陈元龙",
+   "role": "广西巡抚兼兵部左侍郎兼都察院右副都御史，奏请捐俸"
+  },
+  {
+   "name": "商成",
+   "role": "陈元龙家人，赍摺驰奏者"
+  }
+ ],
+ "places": [
+  "广西",
+  "翰林院"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "廣西巡撫陳元龍奏陳願捐俸三年給貧寒之席吉士並進雲竹摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1669",
+ "order_index": 309
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "初五日戊子",
+ "event_role": "人事任免",
+ "summary": "吏部题太常寺卿席哈纳员缺，拟满都正、拉锡陪，康熙帝令席哈纳仍管冬至祭祀，另选熟练礼仪者引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席哈纳",
+   "role": "太常寺卿"
+  },
+  {
+   "name": "满都",
+   "role": "山西布政使"
+  },
+  {
+   "name": "拉锡",
+   "role": "太仆寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22413,
+ "page_range": "458-459"
+}

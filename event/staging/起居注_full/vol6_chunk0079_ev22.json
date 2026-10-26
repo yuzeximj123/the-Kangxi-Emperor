@@ -1,0 +1,33 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "十三日癸丑",
+ "event_role": "朝见受贺",
+ "summary": "山东粮道朱延祯、德州知州杨尝城、守尉达尔花、拖沙喇哈番品级章京瓦济等来朝。",
+ "people": [
+  {
+   "name": "朱延祯",
+   "role": "山东粮道"
+  },
+  {
+   "name": "杨尝城",
+   "role": "德州知州"
+  },
+  {
+   "name": "达尔花",
+   "role": "守尉"
+  },
+  {
+   "name": "瓦济",
+   "role": "拖沙喇哈番品级章京"
+  }
+ ],
+ "places": [
+  "山东",
+  "德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7922,
+ "page_range": "168-169"
+}

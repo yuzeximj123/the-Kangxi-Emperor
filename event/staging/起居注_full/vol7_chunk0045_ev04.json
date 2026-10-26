@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "二十一日丁西",
+ "event_role": "起居注官记录",
+ "summary": "记录当日起居注官为宋大业、伟森。",
+ "people": [
+  {
+   "name": "宋大业",
+   "role": "起居注官"
+  },
+  {
+   "name": "伟森",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4504,
+ "page_range": "101-102"
+}

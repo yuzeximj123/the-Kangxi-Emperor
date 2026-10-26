@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙命停征广东今年钱粮，遣赵申乔同一满大臣往广东发银米赈济、查给兵丁、招安盗贼，并议八九月海运赈济。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "大臣"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1102,
+ "page_range": "33-34"
+}

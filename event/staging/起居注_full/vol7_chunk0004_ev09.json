@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初一日癸丑",
+ "event_role": "朝见受贺",
+ "summary": "易州知州董学礼等、紫荆关参将张谷贞等来朝。",
+ "people": [
+  {
+   "name": "董学礼",
+   "role": "易州知州"
+  },
+  {
+   "name": "张谷贞",
+   "role": "紫荆关参将"
+  }
+ ],
+ "places": [
+  "易州",
+  "紫荆关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 409,
+ "page_range": "19-20"
+}

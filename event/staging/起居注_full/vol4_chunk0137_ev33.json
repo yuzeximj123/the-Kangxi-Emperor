@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "十九日乙雍",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士伊桑阿等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "西安",
+   "role": "学士"
+  },
+  {
+   "name": "南达海",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13733,
+ "page_range": "286-287"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "二十九日庚辰",
+ "event_role": "人事任免",
+ "summary": "吏部题吏部郎中萨毕图升任员缺，正拟额德贝，陪拟马尔苏，康熙帝命选择具奏。",
+ "people": [
+  {
+   "name": "萨毕图",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "额德贝",
+   "role": "户部员外郎"
+  },
+  {
+   "name": "马尔苏",
+   "role": "陪拟官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19506,
+ "page_range": "425-426"
+}

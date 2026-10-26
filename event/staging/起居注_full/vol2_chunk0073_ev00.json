@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "未时，康熙帝前往五龙亭向太皇太后请安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "五龙亭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7300,
+ "page_range": "189-190"
+}

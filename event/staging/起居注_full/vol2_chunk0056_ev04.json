@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝御景山前殿，赐进贡土默特部落三品台吉达赖等食，询问苏尼忒等旗蒙古饥荒后情形，并赐镶领袍一件。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达赖",
+   "role": "土默特部落三品台吉"
+  },
+  {
+   "name": "巴雅里",
+   "role": "四品台吉"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5604,
+ "page_range": "155-156"
+}

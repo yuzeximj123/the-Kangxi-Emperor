@@ -1,0 +1,31 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙认为修理石堤无益，依张鹏翮所请停筑，并称赞永定河石堤坚固神速，马齐奏报工料齐备由内务府督理。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河道总督"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "永定河",
+  "霸州",
+  "文安",
+  "南河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2500,
+ "page_range": "61-62"
+}

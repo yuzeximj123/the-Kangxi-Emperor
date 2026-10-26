@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十七日壬申",
+ "event_role": "谕旨决策",
+ "summary": "御史徐廷筷请复差巡方，大学士勒德洪、明珠及学士徐元文均言不得其人则地方受害，康熙帝命暂停。",
+ "people": [
+  {
+   "name": "徐廷筷",
+   "role": "御史"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1609,
+ "page_range": "75-76"
+}

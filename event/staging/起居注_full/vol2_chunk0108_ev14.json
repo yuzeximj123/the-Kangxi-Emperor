@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "二十四日壬申",
+ "event_role": "谕旨决策",
+ "summary": "礼部题琉球进贡来使毛见龙等请命廷臣往封伊国王，康熙帝令特遣官往封，着该部再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "毛见龙",
+   "role": "琉球进贡来使"
+  }
+ ],
+ "places": [
+  "琉球"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10814,
+ "page_range": "259-260"
+}

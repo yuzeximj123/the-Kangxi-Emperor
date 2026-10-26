@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十三日王成",
+ "event_role": "谕旨决策",
+ "summary": "礼部题闲住朝请内大臣阿喇密应否与谥加祭，康熙帝以其仅袭父职并无劳绩，命不必与谥加祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿喇密",
+   "role": "闲住朝请内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9107,
+ "page_range": "225-226"
+}

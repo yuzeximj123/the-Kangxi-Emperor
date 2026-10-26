@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "怀来县知县白有斌等、守备王国朝等来朝。",
+ "people": [
+  {
+   "name": "白有斌",
+   "role": "怀来县知县"
+  },
+  {
+   "name": "王国朝",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "怀来县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18802,
+ "page_range": "386-387"
+}

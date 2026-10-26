@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "十四日己未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自杨村登岸，驻跸南郊红门内。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "杨村",
+  "南郊红门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5335,
+ "page_range": "117-118"
+}

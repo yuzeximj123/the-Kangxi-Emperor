@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "二十八日己巳",
+ "event_role": "人事任免",
+ "summary": "马齐等以开封营都司员缺，遵旨查由武进士补侍卫者应升品级具奏，皇帝令开列具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "开封营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8405,
+ "page_range": "179-180"
+}

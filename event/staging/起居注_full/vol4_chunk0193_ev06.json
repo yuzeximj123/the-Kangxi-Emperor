@@ -1,0 +1,29 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "十八日丁",
+ "event_role": "人事任免",
+ "summary": "总督倩腊塔题请将原任邳州知州孙居混戴罪留任，康熙帝以其居官实优准照所题留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倩腊塔",
+   "role": "总督"
+  },
+  {
+   "name": "孙居混",
+   "role": "原任邳州知州"
+  }
+ ],
+ "places": [
+  "淮安",
+  "邳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19306,
+ "page_range": "398-399"
+}

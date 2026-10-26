@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "十四日甲午",
+ "event_role": "司法案件",
+ "summary": "刑部题夏朝卿赌博拟革职枷号，失察佐领张文素等罚俸，康熙帝命依议完结并严申赌博之风。",
+ "people": [
+  {
+   "name": "夏朝卿",
+   "role": "赌博者"
+  },
+  {
+   "name": "张文素",
+   "role": "佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19806,
+ "page_range": "431-432"
+}

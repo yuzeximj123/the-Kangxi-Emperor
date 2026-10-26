@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "初八日王寅",
+ "event_role": "人事任免",
+ "summary": "山西太原府总兵官韩天伏题请以守备齐贤补授游击、千总张玉祯补授守备，康熙帝命该部速行调来引见。",
+ "people": [
+  {
+   "name": "韩天伏",
+   "role": "山西太原府总兵官"
+  },
+  {
+   "name": "齐贤",
+   "role": "守备"
+  },
+  {
+   "name": "张玉祯",
+   "role": "千总"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西太原府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12314,
+ "page_range": "256-257"
+}

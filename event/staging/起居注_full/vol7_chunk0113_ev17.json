@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "二十七日甲申",
+ "event_role": "朝见受贺",
+ "summary": "古北口管驿员外罗乃泰、拖沙喇哈番品级章京沙唐、同知赵弘把、都司许天德、把总李难等来朝。",
+ "people": [
+  {
+   "name": "罗乃泰",
+   "role": "古北口管驿员外"
+  },
+  {
+   "name": "沙唐",
+   "role": "拖沙喇哈番品级章京"
+  },
+  {
+   "name": "赵弘把",
+   "role": "同知"
+  },
+  {
+   "name": "许天德",
+   "role": "都司"
+  },
+  {
+   "name": "李难",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11317,
+ "page_range": "237-238"
+}

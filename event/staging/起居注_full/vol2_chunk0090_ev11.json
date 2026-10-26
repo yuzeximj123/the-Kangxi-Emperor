@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "初八日本已",
+ "event_role": "人事任免",
+ "summary": "吏部补授翰林院掌院学士，康熙帝依明珠奏准以陈廷敬补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "候补学士"
+  },
+  {
+   "name": "葛弘道",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9011,
+ "page_range": "223-224"
+}

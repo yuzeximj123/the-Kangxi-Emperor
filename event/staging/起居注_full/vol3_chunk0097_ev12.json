@@ -1,0 +1,42 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "十五日甲辰",
+ "event_role": "人事任免",
+ "summary": "吏部题杨素蕴等学道五员内升一员，康熙帝询问后令杨素蕴内升。",
+ "people": [
+  {
+   "name": "杨素蕴",
+   "role": "学道"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "高玉",
+   "role": "学道"
+  },
+  {
+   "name": "丁芝",
+   "role": "部属"
+  },
+  {
+   "name": "邹峰",
+   "role": "学道"
+  },
+  {
+   "name": "钱捷",
+   "role": "学道"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9712,
+ "page_range": "229-230"
+}

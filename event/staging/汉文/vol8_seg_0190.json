@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十七年五月二十日",
+ "reign_year": 57,
+ "month": 5,
+ "day": 20,
+ "event_role": "奏报地方情形",
+ "summary": "江宁巡抚吴存礼奏报苏州等府二麦收成后雨水调匀、秋苗茂盛及米麦豆价格，并差人赍折奏闻。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚，奏报人"
+  },
+  {
+   "name": "王天福",
+   "role": "标下把总，赍折差官"
+  },
+  {
+   "name": "丁自祥",
+   "role": "吴存礼家人，赍折随员"
+  }
+ ],
+ "places": [
+  "江宁",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧巡撫吳存禮奏報蘇州等府並報雨水情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2614",
+ "order_index": 190
+}

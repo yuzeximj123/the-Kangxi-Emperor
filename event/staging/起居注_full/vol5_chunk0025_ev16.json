@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十四日庚辰",
+ "event_role": "司法案件",
+ "summary": "三法司题太监钱文才打死民人徐二拟绞监候、李进学枷号杖责，康熙帝谕太监杀人断不可用。",
+ "people": [
+  {
+   "name": "钱文才",
+   "role": "太监"
+  },
+  {
+   "name": "徐二",
+   "role": "民人"
+  },
+  {
+   "name": "李进学",
+   "role": "太监"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2516,
+ "page_range": "60-61"
+}

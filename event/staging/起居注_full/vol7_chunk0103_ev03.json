@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙论设饭厂赈济贫民之弊，恐春间聚集贫民误农事、生劫夺，主张遣官分行赈济。",
+ "people": [
+  {
+   "name": "郑际泰",
+   "role": "科臣"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "山西",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10303,
+ "page_range": "217-218"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "二十八日甲申",
+ "event_role": "谕旨决策",
+ "summary": "江宁将军博济进奏请旨，康熙帝谕令其到任后和辑官员、爱惜兵民、勿纵满兵骚扰百姓。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博济",
+   "role": "江宁将军"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12616,
+ "page_range": "287-288"
+}

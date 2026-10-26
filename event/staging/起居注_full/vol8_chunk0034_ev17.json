@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "初八日王子",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆广东提督王文骏所题沿海防守武官三年无过加级、五年无过即升、水师营兵与战兵一例给钱粮议准行，康熙帝以有定例、纷更不可行，令不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王文骏",
+   "role": "广东提督"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3417,
+ "page_range": "79-80"
+}

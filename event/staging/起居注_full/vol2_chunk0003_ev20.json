@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十八日甲戌",
+ "event_role": "司法案件",
+ "summary": "兵部题湖广总督察原常德知府翁应兆从逆投诚事，康熙帝以该督所奏不合，命照部议行并严审具题。",
+ "people": [
+  {
+   "name": "翁应兆",
+   "role": "原常德知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "常德"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 320,
+ "page_range": "49-50"
+}

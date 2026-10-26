@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十二日戊戌",
+ "event_role": "弹劾参奏",
+ "summary": "伊桑阿奏九卿议浙江巡抚线一信革职事，原文至此中断。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "线一信",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2017,
+ "page_range": "50-51"
+}

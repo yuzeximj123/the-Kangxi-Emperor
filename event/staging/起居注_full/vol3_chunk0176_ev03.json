@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "二十三日乙刻",
+ "event_role": "人事任免",
+ "summary": "兵部题正蓝旗革职佐领满丕员缺，拟以何礼拟正、朱山拟陪，康熙帝以何礼族中皆系轮管，恐起争竞之端，命朱山补授佐领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "满丕",
+   "role": "革职佐领"
+  },
+  {
+   "name": "何礼",
+   "role": "阿达哈哈番"
+  },
+  {
+   "name": "朱山",
+   "role": "吏部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17603,
+ "page_range": "387-388"
+}

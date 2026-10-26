@@ -1,0 +1,33 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "初二日戊子",
+ "event_role": "河工水利",
+ "summary": "康熙论昨召靳辅、于成龙详询河图并令互相论难，决意依于成龙所言挑浚海口，询问所需钱粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "河臣"
+  },
+  {
+   "name": "于成龙",
+   "role": "河臣"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "淮安",
+  "扬州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12807,
+ "page_range": "291-292"
+}

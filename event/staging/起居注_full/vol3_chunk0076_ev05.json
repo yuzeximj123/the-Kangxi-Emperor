@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "十六日丙午",
+ "event_role": "人事任免",
+ "summary": "兵部题补护军参领科山升任员缺，康熙帝询问后令张库补授护军参领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张库",
+   "role": "拟正补授护军参领"
+  },
+  {
+   "name": "穆时世",
+   "role": "拟陪"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "显亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7605,
+ "page_range": "187-188"
+}

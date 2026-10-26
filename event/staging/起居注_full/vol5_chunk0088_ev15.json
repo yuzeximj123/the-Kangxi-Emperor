@@ -1,0 +1,29 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初七日乙丑",
+ "event_role": "河工水利",
+ "summary": "原任总河于成龙条奏河工事宜，康熙帝评其所言皆当可行，命批发现任总河确议具奏。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "原任总河"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "前任总河"
+  }
+ ],
+ "places": [
+  "龙汪闸",
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8815,
+ "page_range": "186-187"
+}

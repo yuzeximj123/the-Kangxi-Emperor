@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "十二日庚午",
+ "event_role": "人事任免",
+ "summary": "康熙帝谓云南巡抚佟钞秀任布政司时尚好，授巡抚后居官不善，命调回京听用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟钞秀",
+   "role": "云南巡抚"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9924,
+ "page_range": "209-210"
+}

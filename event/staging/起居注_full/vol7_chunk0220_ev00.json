@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝谕令不必令艾芳曾等前往质审，只取供词发往；温达赞同，称钦差大臣不应因被告诬告即行质审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "艾芳曾",
+   "role": "钦差大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22000,
+ "page_range": "451-452"
+}

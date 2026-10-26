@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十二日辛酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御乾清宫，讲官牛钮、张玉书、汤斌进讲《易》六五帝乙归妹等节，讲毕论《易》理精微难测。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  },
+  {
+   "name": "汤斌",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21705,
+ "page_range": "477-478"
+}

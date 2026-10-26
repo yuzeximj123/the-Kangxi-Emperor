@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "二十八日辛丑",
+ "event_role": "其他",
+ "summary": "康熙帝言范光阳文甚佳但三名皆浙江奈何，梁清标等奏第四卷张瑰章非浙江人，遂以张豫章置第三、范光阳二甲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "范光阳",
+   "role": "贡士"
+  },
+  {
+   "name": "张瑰章",
+   "role": "贡士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2229,
+ "page_range": "56-57"
+}

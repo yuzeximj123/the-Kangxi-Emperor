@@ -1,0 +1,36 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "巳时于太和门前传胪，赐武举卓日玮、丁爽、石钧一甲进士及第，朱色正等二十人二甲进士出身，程远等七十三人三甲同进士出身。",
+ "people": [
+  {
+   "name": "卓日玮",
+   "role": "一甲进士"
+  },
+  {
+   "name": "丁爽",
+   "role": "一甲进士"
+  },
+  {
+   "name": "石钧",
+   "role": "一甲进士"
+  },
+  {
+   "name": "朱色正",
+   "role": "二甲进士"
+  },
+  {
+   "name": "程远",
+   "role": "三甲进士"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4402,
+ "page_range": "98-99"
+}

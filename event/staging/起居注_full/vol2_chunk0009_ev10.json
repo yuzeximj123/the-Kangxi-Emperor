@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十一日",
+ "event_role": "谕旨决策",
+ "summary": "工部题原任给事中邹之瑛请认工复职，康熙帝问认工几何，明珠奏牌坊三座工价七千余两，命准令认工。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "邹之瑛",
+   "role": "原任给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 910,
+ "page_range": "61-62"
+}

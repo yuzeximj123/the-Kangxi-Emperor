@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "副都统阿南达与噶尔丹多尔即使者相约十月二十日至肃州，待其奏事使者至日再议，奉旨依议。",
+ "people": [
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "噶尔丹多尔即",
+   "role": "使者"
+  }
+ ],
+ "places": [
+  "肃州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16701,
+ "page_range": "344-345"
+}

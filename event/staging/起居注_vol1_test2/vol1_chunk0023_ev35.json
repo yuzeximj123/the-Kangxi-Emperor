@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 8,
+ "day_text": "二十二日甲子",
+ "event_role": "军务",
+ "summary": "康熙帝召蓟州官兵至驻足处命射毕，谕蓟州城守都司佥书葛元泰等训练甚善，但须全给军饷使沾实惠，严缉盗贼毋致扰民，兵丁仍加意训练。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葛元泰",
+   "role": "蓟州城守都司佥书"
+  }
+ ],
+ "places": [
+  "蓟州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2335,
+ "page_range": "103-104"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙与大学士议张鹏翮挑浚引河事，谓引河在烂泥浅之东尚有裨益，在西则地势高清水难出，姑令试挑。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "烂泥浅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15304,
+ "page_range": "316-317"
+}

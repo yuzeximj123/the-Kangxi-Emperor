@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "兵部议直隶巡抚赵弘党请严缉老瓜贼，大学士等议加票，康熙帝令照部议严拿。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12602,
+ "page_range": "263-264"
+}

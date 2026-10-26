@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝阅化家口拦河坝，谕范承烈在坝南筑月牙坝、用排桩芦声，并堵塞旧河下流之口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承烈",
+   "role": "内阁学士"
+  },
+  {
+   "name": "费扬古",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "化家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13802,
+ "page_range": "286-287"
+}

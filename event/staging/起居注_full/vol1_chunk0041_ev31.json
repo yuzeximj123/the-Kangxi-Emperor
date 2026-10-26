@@ -1,0 +1,30 @@
+{
+ "reign_year": 12,
+ "month": 4,
+ "day_text": "十八日本已",
+ "event_role": "其他",
+ "summary": "讲毕，傅达礼将史鹤龄、张英所作南苑赋各一章、诗各二首进呈御览，康熙帝留中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "讲官"
+  },
+  {
+   "name": "史鹤龄",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "编修"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4131,
+ "page_range": "139-140"
+}

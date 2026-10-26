@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "十九日戊申",
+ "event_role": "人事任免",
+ "summary": "兴安总兵官刘应龙请假葬母，康熙帝准给假三月。",
+ "people": [
+  {
+   "name": "刘应龙",
+   "role": "兴安总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "兴安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16910,
+ "page_range": "348-349"
+}

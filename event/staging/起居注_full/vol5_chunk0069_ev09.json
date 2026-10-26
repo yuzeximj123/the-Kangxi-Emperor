@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "十一日辛丑",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御乾清宫，大学士阿兰泰以折本请旨毕，奏九卿遵旨议覆皇上勤政爱民、赈灾蠲免诸事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6909,
+ "page_range": "148-149"
+}

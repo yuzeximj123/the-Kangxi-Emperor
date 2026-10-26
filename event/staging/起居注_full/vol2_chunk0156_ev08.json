@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "十二日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝质疑色克等称运河冰冻之说，命学士阿兰泰与户部堂官前往察看，若虚立行纠参。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色克",
+   "role": "郎中"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "通州",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15608,
+ "page_range": "355-356"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "十八日丙寅",
+ "event_role": "司法案件",
+ "summary": "陕西总督哈占题彭时亨迁移时口出背妄之言被拘禁，康熙帝斥其可恶当诛，并令议政王大臣会审议谭天秘情罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈占",
+   "role": "陕西总督"
+  },
+  {
+   "name": "彭时亨",
+   "role": "投诚人员"
+  },
+  {
+   "name": "谭天秘",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "陕西",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10709,
+ "page_range": "257-258"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初二日甲成",
+ "event_role": "人事任免",
+ "summary": "日讲官陈论员缺，康熙帝命交翰林院选择具奏。",
+ "people": [
+  {
+   "name": "陈论",
+   "role": "日讲官"
+  },
+  {
+   "name": "佘志贞",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7206,
+ "page_range": "155-156"
+}

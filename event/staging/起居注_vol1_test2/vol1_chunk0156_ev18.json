@@ -1,0 +1,32 @@
+{
+ "reign_year": 17,
+ "month": 2,
+ "day_text": "二十日辛西",
+ "event_role": "其他",
+ "summary": "辰时，康熙帝御弘德殿，讲官喇沙里、陈廷敬、叶方芳进讲，康熙帝亲讲毕，讲官照常进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方芳",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15618,
+ "page_range": "369-370"
+}

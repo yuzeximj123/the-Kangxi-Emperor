@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十一日丙子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝遣侍卫传谕询问诸王是否料及此行可直抵克鲁伦迅奏大功，并自述出征日食一餐、亲在前锋之先等劳苦。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴达禅",
+   "role": "一等侍卫副都统"
+  },
+  {
+   "name": "吴什",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "阿喇锡",
+   "role": "亲近侍卫"
+  }
+ ],
+ "places": [
+  "克鲁伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13804,
+ "page_range": "286-287"
+}

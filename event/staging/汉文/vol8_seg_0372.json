@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙六十一年六月二十九日",
+ "reign_year": 61,
+ "month": 6,
+ "day": 29,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报本年御稻一百亩于六月十六日收割，每亩约收三石，碾新米进呈，并报原田于六月二十五日第二次插秧、尚未抽穗。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "李维钧",
+   "role": "具奏奴才（署名人）"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報稻收成分數並二次苗秧已插情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2994",
+ "order_index": 372
+}

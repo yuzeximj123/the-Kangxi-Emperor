@@ -1,0 +1,33 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "明珠等奏传谕诸王大臣，皆称皇上筹虑甚当；康熙命都统公瓦山、侍郎郭吾前往黑龙江会同将军详议攻取雅克萨机宜。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "瓦山",
+   "role": "都统公"
+  },
+  {
+   "name": "郭吾",
+   "role": "侍郎"
+  },
+  {
+   "name": "萨布素",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "雅克萨"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4701,
+ "page_range": "129-130"
+}

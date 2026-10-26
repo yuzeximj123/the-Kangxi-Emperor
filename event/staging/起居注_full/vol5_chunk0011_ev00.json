@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝评价大成县知县祖延泰居官好、民亦称赞，而永清县等处知县无民称赞者。",
+ "people": [
+  {
+   "name": "祖延泰",
+   "role": "大成县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大成县",
+  "永清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1100,
+ "page_range": "32-33"
+}

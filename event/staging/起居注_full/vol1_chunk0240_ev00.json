@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "湖广将军贝子章泰奏报投诚伪将军柏成功熟悉云南形势，请照例给与半俸令其随征，兵部议覆。",
+ "people": [
+  {
+   "name": "章泰",
+   "role": "湖广将军贝子"
+  },
+  {
+   "name": "柏成功",
+   "role": "投诚伪将军"
+  }
+ ],
+ "places": [
+  "湖广",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24000,
+ "page_range": "537-538"
+}

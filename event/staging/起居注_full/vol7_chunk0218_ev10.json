@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十七日己卯",
+ "event_role": "朝见受贺",
+ "summary": "古北口关口防御布泰等、都司孙梦鹿等、管站员外郎罗音泰等来朝。",
+ "people": [
+  {
+   "name": "布泰",
+   "role": "古北口关口防御"
+  },
+  {
+   "name": "孙梦鹿",
+   "role": "都司"
+  },
+  {
+   "name": "罗音泰",
+   "role": "管站员外郎"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21810,
+ "page_range": "447-448"
+}

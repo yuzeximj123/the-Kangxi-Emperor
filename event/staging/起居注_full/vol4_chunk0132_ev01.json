@@ -1,0 +1,22 @@
+{
+ "reign_year": 29,
+ "month": 10,
+ "day_text": "初八日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕领侍卫大臣，因舅父佟国纲阵亡发引在即，决定明日亲临其丧，命预备。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国纲",
+   "role": "领侍卫内大臣、康熙帝舅父"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13201,
+ "page_range": "276-277"
+}

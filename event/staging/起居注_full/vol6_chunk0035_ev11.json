@@ -1,0 +1,34 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": "初二日本丑",
+ "event_role": "人事任免",
+ "summary": "大学士伊桑阿等奏请将皇子照例尽皆封王，康熙帝以视贤否加封为由拒绝，称四阿哥轻率、七阿哥鲁钝，意已决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "李天和",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3511,
+ "page_range": "80-81"
+}

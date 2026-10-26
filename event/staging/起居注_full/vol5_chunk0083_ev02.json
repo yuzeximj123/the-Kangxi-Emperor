@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝称理沙院员外郎铁图、色楞俱有志效力，马齐奏称伊等系贤能司官并说明署理理沙院时知其才能。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "铁图",
+   "role": "理沙院员外郎"
+  },
+  {
+   "name": "色楞",
+   "role": "理沙院员外郎"
+  },
+  {
+   "name": "马齐",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8302,
+ "page_range": "176-177"
+}

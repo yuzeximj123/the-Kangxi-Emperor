@@ -1,0 +1,28 @@
+{
+ "reign_year": 11,
+ "month": 12,
+ "day_text": "十一日生子",
+ "event_role": "朝见受贺",
+ "summary": "未时，康熙帝复御乾清门，赐宴进贡科尔沁额尔得尼郡王、一品台吉桑阿儿寨等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额尔得尼",
+   "role": "科尔沁郡王"
+  },
+  {
+   "name": "桑阿儿寨",
+   "role": "一品台吉"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2929,
+ "page_range": "115-116"
+}

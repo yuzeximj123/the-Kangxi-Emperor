@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆福建巡抚觉罗满保所题伊长脑持棍救父殴叔伊松致死拟立斩一案，康熙改为秋后处决。",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "伊长脑",
+   "role": "案犯"
+  },
+  {
+   "name": "伊松",
+   "role": "死者"
+  },
+  {
+   "name": "伊忠秋",
+   "role": "被殴者"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3801,
+ "page_range": "87-88"
+}

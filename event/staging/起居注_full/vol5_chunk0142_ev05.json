@@ -1,0 +1,36 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "初一日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命就行文呼户诺尔之事会议，若应行文即于此处行去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "喇锡",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [
+  "呼户诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14205,
+ "page_range": "294-295"
+}

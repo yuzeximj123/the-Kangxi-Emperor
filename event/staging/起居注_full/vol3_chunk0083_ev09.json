@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十二日王午",
+ "event_role": "皇帝行止",
+ "summary": "酉时康熙帝御感勤磺，殿试读卷官明珠等进呈策试贡士十卷请旨定夺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "感勤磺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8309,
+ "page_range": "201-202"
+}

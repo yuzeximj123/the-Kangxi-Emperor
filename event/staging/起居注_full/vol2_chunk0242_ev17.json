@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "二十七日甲午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出罗文峪口，驻跸沙河峪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "罗文峪口",
+  "沙河峪"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24217,
+ "page_range": "527-528"
+}

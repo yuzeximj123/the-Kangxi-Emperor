@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "三十日乙丑",
+ "event_role": "人事任免",
+ "summary": "靖逆将军张勇告病乞休，明珠奏其已病故，康熙帝令于本内票出惋惜之意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张勇",
+   "role": "靖逆将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2411,
+ "page_range": "83-84"
+}

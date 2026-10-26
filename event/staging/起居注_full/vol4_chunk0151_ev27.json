@@ -1,0 +1,29 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "二十一日丙午",
+ "event_role": "谕旨决策",
+ "summary": "工部等衙门转奏总兵官歼元请修古北口一带边墙，康熙帝谕守国之道在修德安民，不专恃险阻，斥其言无益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "歼元",
+   "role": "总兵官"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "古北口",
+  "喜峰口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15127,
+ "page_range": "314-315"
+}

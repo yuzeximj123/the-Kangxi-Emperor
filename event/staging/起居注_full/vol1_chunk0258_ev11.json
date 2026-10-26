@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十一日戊申",
+ "event_role": "军务",
+ "summary": "大将军贝子章泰题沅州大兵折给草料价值，康熙帝令讯明户部再奏。",
+ "people": [
+  {
+   "name": "章泰",
+   "role": "大将军贝子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "沅州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25811,
+ "page_range": "573-574"
+}

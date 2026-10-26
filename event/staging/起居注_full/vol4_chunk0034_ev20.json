@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 7,
+ "day_text": "初七日了丑",
+ "event_role": "司法案件",
+ "summary": "吏部题原任湖广巡抚柯永升等自尽情由，康熙帝命待事平之日再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "柯永升",
+   "role": "原任湖广巡抚"
+  },
+  {
+   "name": "叶蜡榴",
+   "role": "现任官员"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3420,
+ "page_range": "80-81"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "初四日己丑",
+ "event_role": "皇帝行止",
+ "summary": "午时康熙帝驾幸南郊，驻跸东宫，谕部院本章俱交内阁每日汇送南苑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南郊",
+  "东宫",
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1911,
+ "page_range": "81-82"
+}

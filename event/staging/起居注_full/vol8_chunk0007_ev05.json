@@ -1,0 +1,33 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "甘肃巡抚岳拜题补西宁副使道员缺，康熙帝询问后准以临洮知府杨宗仁补授。",
+ "people": [
+  {
+   "name": "岳拜",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "张绥远",
+   "role": "西宁副使道"
+  },
+  {
+   "name": "杨宗仁",
+   "role": "临洮知府"
+  },
+  {
+   "name": "绰奇",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "西宁",
+  "临洮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 705,
+ "page_range": "25-26"
+}

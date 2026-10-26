@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十一日辛效",
+ "event_role": "人事任免",
+ "summary": "吏部、翰林院会同考试满庶子员缺，进呈伊图等五卷，帝以文理俱优命伊图补庶子，余卷记明挨次补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊图",
+   "role": "拟补庶子"
+  },
+  {
+   "name": "朱马泰",
+   "role": "应考官员"
+  },
+  {
+   "name": "葛思泰",
+   "role": "应考官员"
+  },
+  {
+   "name": "获弱汉",
+   "role": "应考官员"
+  },
+  {
+   "name": "达葡",
+   "role": "应考官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21605,
+ "page_range": "489-490"
+}

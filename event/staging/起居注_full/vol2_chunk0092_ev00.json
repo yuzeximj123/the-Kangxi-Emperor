@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以古尔玛洪年高有劳绩，命给予谥号。",
+ "people": [
+  {
+   "name": "古尔玛洪",
+   "role": "受谥者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9200,
+ "page_range": "227-228"
+}

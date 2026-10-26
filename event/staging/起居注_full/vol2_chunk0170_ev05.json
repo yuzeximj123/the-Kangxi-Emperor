@@ -1,0 +1,22 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初二日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问九卿对起居注档册事公议结果，明珠奏称九卿不敢阅、向无私自缮写送史馆之例，帝命仍照旧例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17005,
+ "page_range": "383-384"
+}

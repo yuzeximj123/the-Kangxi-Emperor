@@ -1,0 +1,54 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": "二十四日癸酉",
+ "event_role": "司法案件",
+ "summary": "伊桑阿等奏九卿议王鸿绪、徐乾学处分事，康熙帝称五人之言亦是，本票知道了。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "官员"
+  },
+  {
+   "name": "徐乾学",
+   "role": "官员"
+  },
+  {
+   "name": "李振裕",
+   "role": "尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "都御史"
+  },
+  {
+   "name": "宫梦仁",
+   "role": "副都御史"
+  },
+  {
+   "name": "周清源",
+   "role": "参议"
+  },
+  {
+   "name": "刘国秦",
+   "role": "给事中"
+  },
+  {
+   "name": "郑端",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19009,
+ "page_range": "392-393"
+}

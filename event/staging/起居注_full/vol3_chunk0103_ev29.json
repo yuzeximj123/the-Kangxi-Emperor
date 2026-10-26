@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十一日戊辰",
+ "event_role": "人事任免",
+ "summary": "提督王进宝病故员缺请补，康熙帝以高和孟粗鄙，命调四川提督何传补陕西提督。",
+ "people": [
+  {
+   "name": "王进宝",
+   "role": "提督"
+  },
+  {
+   "name": "高乔",
+   "role": "总兵官"
+  },
+  {
+   "name": "何传",
+   "role": "四川提督"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "四川",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10329,
+ "page_range": "241-242"
+}

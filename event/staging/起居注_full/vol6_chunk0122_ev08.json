@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "初三日戊酉",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝闻顺天乡试众心不服、物论腾议，指所中童稚甚多，命九卿严查情弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "鹿佑",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "顺天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12208,
+ "page_range": "254-255"
+}

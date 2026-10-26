@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "三十日丁未",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题将巴士尔额尔可济农壮丁编为佐领、另为一扎萨克给印信并令移住吴喇忒附近，康熙帝命停其迁移，编佐领给印信依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴士尔额尔可济农",
+   "role": "蒙古济农"
+  }
+ ],
+ "places": [
+  "吴喇忒"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1313,
+ "page_range": "36-37"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十一年正月二十日",
+ "reign_year": 51,
+ "month": 1,
+ "day": 20,
+ "event_role": "奏报灾情收成",
+ "summary": "奏报直隶武清等地飞蝗已陆续捕灭、未伤田禾，并严饬地方官继续扑捕遗孽蝻子，以慰圣怀。",
+ "people": [
+  {
+   "name": "李成龙",
+   "role": "道员，奉命督率地方官扑捕飞蝗"
+  }
+ ],
+ "places": [
+  "武清县",
+  "通州",
+  "宛平县",
+  "大兴县",
+  "扬州府",
+  "清江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示皇帝已知悉此事。",
+ "source_title": "奏报飞蝗已尽",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 14
+}

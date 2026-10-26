@@ -1,0 +1,32 @@
+{
+ "date_raw": "未知",
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "赵弘燮奏报直隶部分州县洼地秋禾被淹，拟设粥厂赈济穷民并借仓粮、捐俸还项，请旨定夺。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "宝坻",
+  "丰润",
+  "玉田",
+  "蓟州",
+  "武清",
+  "永清",
+  "东安",
+  "梁城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批为“具题”，即令其按程序具题上报。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "赵弘燮奏明赈济事",
+ "order_index": 141
+}

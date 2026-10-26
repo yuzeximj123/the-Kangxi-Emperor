@@ -1,0 +1,32 @@
+{
+ "reign_year": 14,
+ "month": 11,
+ "day_text": "初一日乙酉",
+ "event_role": "其他",
+ "summary": "辰时康熙帝御弘德殿，讲官傅达礼、孙在丰、张英进讲《孟子》一章；讲毕学士傅达礼请辍讲，康熙帝以天气未甚寒仍令进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10341,
+ "page_range": "263-264"
+}

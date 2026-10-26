@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 4,
+ "day_text": "初二日己卯",
+ "event_role": "谕旨决策",
+ "summary": "宁古塔将军巴海题请议定巡踪采参官兵劝惩定例，康熙帝准兵部所议，并命再议妄拿无辜夺财之处分。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴海",
+   "role": "宁古塔将军"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11630,
+ "page_range": "275-276"
+}

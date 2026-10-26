@@ -1,0 +1,42 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "二十八日丙午",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行幄，大学士明珠等捧折本面奏，议将军赖塔题请议叙张其新招抚土司事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王守才",
+   "role": "学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "学士"
+  },
+  {
+   "name": "席柱",
+   "role": "学士"
+  },
+  {
+   "name": "赖塔",
+   "role": "将军"
+  },
+  {
+   "name": "张其新",
+   "role": "副将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11417,
+ "page_range": "271-272"
+}

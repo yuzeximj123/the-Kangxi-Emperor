@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "初四日乙丑",
+ "event_role": "河工水利",
+ "summary": "户部题江南海关监督舒司德请挑浚青龙江及归并狼福二营之税，康熙帝令照所奏开浚青龙江，归并之税行文该督确查。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "舒司德",
+   "role": "江南海关监督"
+  }
+ ],
+ "places": [
+  "青龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15605,
+ "page_range": "322-323"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "初六日",
+ "event_role": "其他",
+ "summary": "未时康熙帝出行宫至射箭教场，令善射侍卫、护军校与德州城守尉及营兵、山东总兵以下把总以上皆射，编修陈壮履亦令射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈壮履",
+   "role": "编修"
+  }
+ ],
+ "places": [
+  "射箭教场",
+  "德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3408,
+ "page_range": "79-80"
+}

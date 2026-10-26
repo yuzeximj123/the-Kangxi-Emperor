@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "十九日戊戌",
+ "event_role": "司法案件",
+ "summary": "覆请宗人府等审镇国公经希首告陶和气、舒奇案，康熙帝令陶和气从宽免凌迟自尽，舒奇依拟绞监候秋后处决。",
+ "people": [
+  {
+   "name": "经希",
+   "role": "镇国公/首告人"
+  },
+  {
+   "name": "陶和气",
+   "role": "案犯"
+  },
+  {
+   "name": "舒奇",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24315,
+ "page_range": "497-498"
+}

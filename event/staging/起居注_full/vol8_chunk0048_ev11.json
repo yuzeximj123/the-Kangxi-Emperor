@@ -1,0 +1,25 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": "二十一日甲午",
+ "event_role": "军务",
+ "summary": "兵部题往台湾换班船遭风损坏及沉溺兵器应令赔补，康熙帝令遭风损坏者免赔，捏报者议罪赔补，并令九卿议奏加恩溺死兵丁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "满保",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4811,
+ "page_range": "107-108"
+}

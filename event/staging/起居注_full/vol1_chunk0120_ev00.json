@@ -1,0 +1,21 @@
+{
+ "reign_year": 15,
+ "month": 8,
+ "day_text": "十五日乙丑",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝早御中和殿视祭夕月坛祝版，酉时亲赴夕月坛致祭后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "夕月坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12000,
+ "page_range": "297-298"
+}

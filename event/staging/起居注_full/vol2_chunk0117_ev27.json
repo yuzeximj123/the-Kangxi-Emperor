@@ -1,0 +1,25 @@
+{
+ "reign_year": 21,
+ "month": 4,
+ "day_text": "十六日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝认为贼寇已歼灭、各省底定，流民自然复业，不应以招徕加级，令写明朕意发京商酌覆奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班衣绣",
+   "role": "四川遵义县知县"
+  }
+ ],
+ "places": [
+  "盛京",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11727,
+ "page_range": "277-278"
+}

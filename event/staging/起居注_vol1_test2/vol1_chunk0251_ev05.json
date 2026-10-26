@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十八日乙刻",
+ "event_role": "其他",
+ "summary": "讲官库勒纳、叶方广、张玉书进讲，康熙帝亲讲比卦六二节，讲官进讲六三、六四节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方广",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25105,
+ "page_range": "559-560"
+}

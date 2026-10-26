@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议覆文爆具呈辨明已事，明珠建议仍交刑部，康熙准照部议行。",
+ "people": [
+  {
+   "name": "文爆",
+   "role": "具呈人"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25500,
+ "page_range": "567-568"
+}

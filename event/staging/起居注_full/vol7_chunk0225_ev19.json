@@ -1,0 +1,38 @@
+{
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "初七日戊子",
+ "event_role": "议政听政",
+ "summary": "大学士温达、学士众圣保、马良、傅尔、胡讷、马进泰以折本请旨。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "众圣保",
+   "role": "学士"
+  },
+  {
+   "name": "马良",
+   "role": "学士"
+  },
+  {
+   "name": "傅尔",
+   "role": "学士"
+  },
+  {
+   "name": "胡讷",
+   "role": "学士"
+  },
+  {
+   "name": "马进泰",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22519,
+ "page_range": "461-462"
+}

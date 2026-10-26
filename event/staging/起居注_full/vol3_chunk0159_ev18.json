@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "十一日甲子",
+ "event_role": "司法案件",
+ "summary": "刑部题汉军官员考试夹带文章之齐谦等十人拟枷号、鞭一百、流徙宁古塔，看守护军了头拟斩立决，康熙帝命从宽免死了头、免齐谦等流徙，各枷号鞭责。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐谦",
+   "role": "汉军官员"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15918,
+ "page_range": "353-354"
+}

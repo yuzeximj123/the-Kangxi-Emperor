@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "初七日己未",
+ "event_role": "谕旨决策",
+ "summary": "兵部题民人潘贤献进取台湾策议不准，康熙帝以微诚可嘉，命予一小官以示劝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "潘贤",
+   "role": "民人"
+  },
+  {
+   "name": "李光地",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5015,
+ "page_range": "143-144"
+}

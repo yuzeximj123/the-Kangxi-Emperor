@@ -1,0 +1,29 @@
+{
+ "reign_year": 32,
+ "month": 11,
+ "day_text": "二十七日丙寅",
+ "event_role": "司法案件",
+ "summary": "刑部题古北口外流盗张七等十一人斩首枭示，康熙帝命首犯张七、盛二即行正法，其余发往黑龙江为奴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张七",
+   "role": "首犯"
+  },
+  {
+   "name": "盛二",
+   "role": "首犯"
+  }
+ ],
+ "places": [
+  "古北口",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24906,
+ "page_range": "510-511"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 30,
+ "month": 8,
+ "day_text": "二十九日辛亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士伊桑阿、学士王国昌、西喇、传继祖、满丕以折本请旨。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王国昌",
+   "role": "学士"
+  },
+  {
+   "name": "西喇",
+   "role": "学士"
+  },
+  {
+   "name": "传继祖",
+   "role": "学士"
+  },
+  {
+   "name": "满丕",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15927,
+ "page_range": "330-331"
+}

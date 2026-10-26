@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十五年五月十九日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 19,
+ "event_role": "奏报灾情收成",
+ "summary": "江宁织造曹頫奏报江南二麦收成情形，并进呈雨录。",
+ "people": [
+  {
+   "name": "曹頫",
+   "role": "江宁织造"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江寧織造曹頫奏報江南二麥收成並進雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "121",
+ "order_index": 97
+}

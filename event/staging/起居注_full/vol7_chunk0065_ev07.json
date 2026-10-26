@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "初八日王子",
+ "event_role": "人事任免",
+ "summary": "康熙帝命亲近侍卫海青传谕大学士席哈纳，管驿站员外郎郭礼无过犯，着以应升之缺遇缺即补，所遗员缺选出差有身家者补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海青",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "郭礼",
+   "role": "管驿站员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6507,
+ "page_range": "141-142"
+}

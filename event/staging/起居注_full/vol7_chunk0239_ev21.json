@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "十二日辛卯",
+ "event_role": "奏报地方情形",
+ "summary": "山东总兵官李雄奏称洋中有贼船四只，康熙帝与李光地议论其或来归顺或往他处，李雄率兵去尚未得实信。",
+ "people": [
+  {
+   "name": "李雄",
+   "role": "山东总兵官"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23921,
+ "page_range": "489-490"
+}

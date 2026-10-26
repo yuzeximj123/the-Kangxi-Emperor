@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥所奏含糊不合，追述四十四年巡阅河工面谕张鹏翮限期完工，令其明白回奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11503,
+ "page_range": "241-242"
+}

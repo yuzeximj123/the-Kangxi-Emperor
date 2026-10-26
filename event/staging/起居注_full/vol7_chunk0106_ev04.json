@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "二十日",
+ "event_role": "弹劾参奏",
+ "summary": "广东将军管源忠参奏镶黄旗参领王之蛟赋性强横、行事懈怠、操练不赴、营务废弛，康熙帝命察明其系部选或彼地推补具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "管源忠",
+   "role": "广东将军"
+  },
+  {
+   "name": "王之蛟",
+   "role": "镶黄旗参领"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10604,
+ "page_range": "223-224"
+}

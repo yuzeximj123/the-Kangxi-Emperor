@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十三日王成",
+ "event_role": "谕旨决策",
+ "summary": "御史戴王络条奏皇太子应出阁读书事，康熙帝称此事当行，着票该部议奏。",
+ "people": [
+  {
+   "name": "戴王络",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9109,
+ "page_range": "225-226"
+}

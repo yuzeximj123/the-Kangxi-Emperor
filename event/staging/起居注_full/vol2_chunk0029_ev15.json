@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十五日庚子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝谕大学士勒德洪、明珠，因体弱将幸南苑调养数日，令传谕汉大臣知之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2915,
+ "page_range": "101-102"
+}

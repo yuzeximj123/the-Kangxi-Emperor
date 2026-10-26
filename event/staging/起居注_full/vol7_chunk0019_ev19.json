@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十三日癸西",
+ "event_role": "人事任免",
+ "summary": "山西巡抚噶礼题阳曲县知县员缺，请将赵城县知县刘显文调补，康熙帝准照所题调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "刘显文",
+   "role": "赵城县知县，调补阳曲县"
+  }
+ ],
+ "places": [
+  "山西",
+  "阳曲县",
+  "赵城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1919,
+ "page_range": "49-50"
+}

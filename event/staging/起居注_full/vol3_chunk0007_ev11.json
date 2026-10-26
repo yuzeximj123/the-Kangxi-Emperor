@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "十四日庚成",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御乾清宫，讲官牛钮、孙在丰、汤斌进讲六四等章节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "汤斌",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 711,
+ "page_range": "49-50"
+}

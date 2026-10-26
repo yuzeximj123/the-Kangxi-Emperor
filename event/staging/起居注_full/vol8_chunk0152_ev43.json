@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 8,
+ "day_text": "二十七日甲寅",
+ "event_role": "其他",
+ "summary": "康熙帝赐科尔沁图谢图亲王鄂尔帝图、辅国公布尼马物品。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂尔帝图",
+   "role": "科尔沁图谢图亲王"
+  },
+  {
+   "name": "布尼马",
+   "role": "辅国公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15243,
+ "page_range": "315-316"
+}

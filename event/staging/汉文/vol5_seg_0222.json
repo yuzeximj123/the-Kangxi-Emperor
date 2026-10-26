@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十二年五月二十九日",
+ "reign_year": 52,
+ "month": 5,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "浙江巡抚王度昭奏报黄岩县民潘邦教等聚众抢谷案，首犯已提解省城收禁，余党解散，现遵旨会审拟罪并候旨施行。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚，奏报人"
+  },
+  {
+   "name": "潘邦教",
+   "role": "黄岩县聚众抢谷首犯"
+  }
+ ],
+ "places": [
+  "浙江",
+  "台州",
+  "黄岩县",
+  "省会"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "浙江巡撫王度昭奏報黃巖縣民聚衆搶穀案犯業經解省待審摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1585",
+ "order_index": 222
+}

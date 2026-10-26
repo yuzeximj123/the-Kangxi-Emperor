@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙五十三年十一月壬日",
+ "reign_year": 53,
+ "month": 11,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "福建浙江总督范时崇奏报福建八府一州秋收米价及台湾凤山二县偏灾情形，并请拨谷平粜、运米接济台郡兵民。",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "福建等处地方提督军务兼理粮饷巡抚"
+  },
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "陈璸",
+   "role": "台厦道"
+  }
+ ],
+ "places": [
+  "福建",
+  "福州府",
+  "台湾",
+  "凤山",
+  "台厦",
+  "台郡"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "奏闻事",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 323
+}

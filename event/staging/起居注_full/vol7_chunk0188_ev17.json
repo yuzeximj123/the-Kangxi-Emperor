@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初七日壬戌",
+ "event_role": "人事任免",
+ "summary": "覆请吏部所题内阁学士博音贷员缺开列事，康熙帝询问后令以马良升补内阁学士，仍兼管光禄寺事。",
+ "people": [
+  {
+   "name": "博音贷",
+   "role": "内阁学士"
+  },
+  {
+   "name": "马良",
+   "role": "光禄寺卿"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18817,
+ "page_range": "387-388"
+}

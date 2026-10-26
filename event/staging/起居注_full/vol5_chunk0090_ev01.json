@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "因同知赵弘党居官好且其父赵良栋效力甚多，命将赵弘党升补天津道。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "同知"
+  },
+  {
+   "name": "赵良栋",
+   "role": "赵弘党之父"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9001,
+ "page_range": "190-191"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": "二十四日于辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问福建提督杨琳居官，李光地称好，帝称其文武全才。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨琳",
+   "role": "福建提督"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8114,
+ "page_range": "173-174"
+}

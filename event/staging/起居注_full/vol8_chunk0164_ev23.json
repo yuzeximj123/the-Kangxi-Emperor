@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "初十日丙寅",
+ "event_role": "其他",
+ "summary": "是日赐云贵总督鄂陈锡鞍马、弓矢、朝服，赐齐齐哈尔副都统哪三鞍马。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂陈锡",
+   "role": "云贵总督"
+  },
+  {
+   "name": "哪三",
+   "role": "齐齐哈尔副都统"
+  }
+ ],
+ "places": [
+  "齐齐哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16423,
+ "page_range": "339-340"
+}

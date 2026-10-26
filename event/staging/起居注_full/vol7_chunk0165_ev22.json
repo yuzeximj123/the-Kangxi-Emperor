@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "十二日广午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝问大学士张玉书九卿内可有习律吕之学者，命尔等问奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16522,
+ "page_range": "341-342"
+}

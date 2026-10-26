@@ -1,0 +1,50 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "十二日辛丑",
+ "event_role": "人事任免",
+ "summary": "都察院题考授中书事，吏部议将库勒纳等降二级调用，康熙帝命各降二级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "尚书"
+  },
+  {
+   "name": "赵士麟",
+   "role": "侍郎"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "彭孙通",
+   "role": "侍郎"
+  },
+  {
+   "name": "邵保",
+   "role": "郎中"
+  },
+  {
+   "name": "马进泰",
+   "role": "员外郎"
+  },
+  {
+   "name": "赵君泰",
+   "role": "员外郎"
+  },
+  {
+   "name": "应霖",
+   "role": "给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7710,
+ "page_range": "164-165"
+}

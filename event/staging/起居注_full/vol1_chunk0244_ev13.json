@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "二十一日己酉",
+ "event_role": "谕旨决策",
+ "summary": "九卿等会议死罪减等及军流罪犯发遣事，康熙帝从索额图议，命依议行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乌喇",
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24413,
+ "page_range": "545-546"
+}

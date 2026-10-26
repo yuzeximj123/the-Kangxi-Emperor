@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾柒年闰月日",
+ "reign_year": 57,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "延绥总兵官李林盛奏报宁夏等地边防安妥、军务训练情形，并遣员恭请圣安。",
+ "people": [
+  {
+   "name": "李林盛",
+   "role": "镇守陕西延绥等处地方副将管总兵官事"
+  },
+  {
+   "name": "马进",
+   "role": "李林盛标下旗员，遣派请安"
+  }
+ ],
+ "places": [
+  "陕西",
+  "延绥",
+  "宁夏",
+  "肃州",
+  "甘州",
+  "酒泉"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，表示自己安好。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 110
+}

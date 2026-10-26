@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 8,
+ "day_text": "二十七日乙西",
+ "event_role": "军务",
+ "summary": "兵部题镇海将军张思恭请将沙船虎船照旧例留一处及令兵丁过孔子庙下马，康熙帝令战船之处再议具奏，余交礼部议。",
+ "people": [
+  {
+   "name": "张思恭",
+   "role": "镇海将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12827,
+ "page_range": "268-269"
+}

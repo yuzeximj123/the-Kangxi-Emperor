@@ -1,0 +1,40 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "十三日癸巳",
+ "event_role": "军务",
+ "summary": "兵部题将军张勇参孙继善事，康熙帝称部议太过，令发回再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张勇",
+   "role": "将军"
+  },
+  {
+   "name": "孙继善",
+   "role": "副将"
+  },
+  {
+   "name": "尚善",
+   "role": "大将军"
+  },
+  {
+   "name": "吴三桂",
+   "role": "逆贼"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7314,
+ "page_range": "189-190"
+}

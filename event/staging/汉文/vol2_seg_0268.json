@@ -1,0 +1,28 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "浙江巡抚黄秉中上折恭请皇上圣安，康熙朱批斥责其不奏报地方民生雨旸、米价、盗案等事，请安无用，甚属不合。",
+ "people": [
+  {
+   "name": "黄秉中",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙斥责黄秉中只请安而不奏报地方民生、雨旸、米价、盗案等情形，认为甚属不合。",
+ "source_title": "浙江巡撫黃秉中奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 268
+}

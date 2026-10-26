@@ -1,0 +1,27 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "二十七日",
+ "event_role": "皇帝行止",
+ "summary": "辰时，康熙帝巡视工部郎中牛钮所监修河西务刷儿渡等处堤岸，自畅春园起行驻跸南红门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "工部郎中"
+  }
+ ],
+ "places": [
+  "河西务",
+  "刷儿渡",
+  "畅春园",
+  "南红门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18408,
+ "page_range": "379-380"
+}

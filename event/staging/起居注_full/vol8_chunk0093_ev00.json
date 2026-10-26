@@ -1,0 +1,22 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "统领宗室查尔图一案审结，查尔图未查明索浑岱逃案即除名痛打革退护军，兵部妄称已审补授护军校，拟革查尔图护军统领职。",
+ "people": [
+  {
+   "name": "查尔图",
+   "role": "护军统领"
+  },
+  {
+   "name": "索浑岱",
+   "role": "逃案当事人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9300,
+ "page_range": "197-198"
+}

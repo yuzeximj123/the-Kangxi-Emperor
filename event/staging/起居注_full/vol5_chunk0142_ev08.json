@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "初一日乙酉",
+ "event_role": "军务",
+ "summary": "大学士伊桑阿奏胡什木克驿站所留马匹倒毙多，请交原任中书阿临等牧放、撤回时带回交兵部。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿临",
+   "role": "原任中书"
+  }
+ ],
+ "places": [
+  "胡什木克"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14208,
+ "page_range": "294-295"
+}

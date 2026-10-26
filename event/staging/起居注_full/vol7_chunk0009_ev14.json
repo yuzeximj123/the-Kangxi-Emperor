@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初六日丁亥",
+ "event_role": "司法案件",
+ "summary": "都察院题参原任吏部郎中赦图浑不遵定例顺从侍郎特默德，拟革职，康熙命降五级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赦图浑",
+   "role": "原任吏部郎中"
+  },
+  {
+   "name": "特默德",
+   "role": "侍郎"
+  },
+  {
+   "name": "朱兰泰",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 914,
+ "page_range": "29-30"
+}

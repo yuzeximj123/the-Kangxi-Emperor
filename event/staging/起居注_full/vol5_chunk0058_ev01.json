@@ -1,0 +1,42 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "伊桑阿等遵旨询问湖广人江葡、张明先等关于湖南新荒田地丈量是否劳民，二人各陈所见。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "江葡",
+   "role": "太常寺少卿"
+  },
+  {
+   "name": "张明先",
+   "role": "编修"
+  },
+  {
+   "name": "韩世琦",
+   "role": "前任巡抚"
+  },
+  {
+   "name": "兴永朝",
+   "role": "前任巡抚"
+  },
+  {
+   "name": "王梁",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "湖南",
+  "湖广",
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5801,
+ "page_range": "126-127"
+}

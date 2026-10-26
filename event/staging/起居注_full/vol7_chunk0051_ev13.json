@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "初十日乙酉",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝舟过常州府，知府秦邦英、游击施肇瑛等来朝。",
+ "people": [
+  {
+   "name": "秦邦英",
+   "role": "常州府知府"
+  },
+  {
+   "name": "施肇瑛",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "常州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5113,
+ "page_range": "113-114"
+}

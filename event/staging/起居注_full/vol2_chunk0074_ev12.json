@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "十六日丙申",
+ "event_role": "司法案件",
+ "summary": "沈过造款首告大学士冯溥事虚行诈真，部议立行处斩，康熙帝以情迫控告令俟秋后发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈过造",
+   "role": "首告人"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7412,
+ "page_range": "191-192"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": "二十二日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝训谕浙江巡抚徐元梦训练满洲兵、宽恕钱粮亏空、学张伯行操守而勿学其办事、用人随材器使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "王度昭",
+   "role": "官员"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8103,
+ "page_range": "173-174"
+}

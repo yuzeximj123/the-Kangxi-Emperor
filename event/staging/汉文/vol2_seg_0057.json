@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十七年九月初一日",
+ "reign_year": 47,
+ "month": 9,
+ "day": 1,
+ "event_role": "奏报灾情收成",
+ "summary": "福建巡抚张伯行奏报闽省雨旸时若、早稻丰收、晚稻可望大获，米价平稳，民生得所，并陈地方巡防安辑情形。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "福建",
+  "泉",
+  "漳",
+  "延",
+  "建",
+  "邵",
+  "汀"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "福建巡撫張伯行奏報雨暘時若早稻豐收晚稻亦可大獲摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "395",
+ "order_index": 57
+}

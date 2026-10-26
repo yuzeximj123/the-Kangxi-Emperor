@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十二日戊实",
+ "event_role": "司法案件",
+ "summary": "三法司议吴国鼎使人将金得信抉目折腿致死拟绞，康熙帝以所议模糊、心尚疑，命另行核拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴国鼎",
+   "role": "案犯"
+  },
+  {
+   "name": "金得信",
+   "role": "被害人"
+  },
+  {
+   "name": "吴三黑",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1208,
+ "page_range": "59-60"
+}

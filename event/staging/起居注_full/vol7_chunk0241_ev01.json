@@ -1,0 +1,34 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕俞文言、张霖、查日昌皆大不端之人，秋审断不可宥，即遇恩赦亦不可少。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俞文言",
+   "role": "罪犯"
+  },
+  {
+   "name": "张霖",
+   "role": "罪犯"
+  },
+  {
+   "name": "查日昌",
+   "role": "罪犯"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24101,
+ "page_range": "493-494"
+}

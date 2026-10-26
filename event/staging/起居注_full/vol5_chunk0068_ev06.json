@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "初四日甲午",
+ "event_role": "人事任免",
+ "summary": "户部题欠草料议令带补，康熙帝命以郎中苏赫纳补授监督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏赫纳",
+   "role": "郎中，补授监督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6806,
+ "page_range": "146-147"
+}

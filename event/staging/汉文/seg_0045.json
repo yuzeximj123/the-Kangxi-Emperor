@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十一年三月",
+ "reign_year": 41,
+ "month": 3,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "李煦在苏州任上恭贺康熙万寿，并奏报苏州春景雨水菜麦情形。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "蘇州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知自己身体安好，但近京天旱令其心中不安。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "49",
+ "source_title": "蘇州織造李煦奏為祝賀萬壽並報雨水菜麥情形摺",
+ "order_index": 45
+}

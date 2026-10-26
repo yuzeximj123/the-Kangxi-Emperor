@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 1,
+ "day_text": "二十三日王子",
+ "event_role": "人事任免",
+ "summary": "就翰林院所题补授经筵讲官赫寿员缺，康熙帝命试其讲读声音来奏。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "经筵讲官"
+  },
+  {
+   "name": "哈山",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15411,
+ "page_range": "319-320"
+}

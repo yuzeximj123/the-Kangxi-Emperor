@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十九年二月初二日",
+ "reign_year": 59,
+ "month": 2,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造部【颜】奏报江南太平无事、米价照常及百姓安乐情形，并进呈正月分晴雨录，恭请圣安。",
+ "people": [
+  {
+   "name": "【颜】",
+   "role": "江宁织造部官员，奏报人"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批评其家差事甚多，指烧法琅等事不知骗了多少磁器，命其今后非上传旨意即查察声名奏闻，否则事发将一体得罪。",
+ "source_title": "江寧織造部【顔】奏報江南米價並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2846",
+ "order_index": 238
+}

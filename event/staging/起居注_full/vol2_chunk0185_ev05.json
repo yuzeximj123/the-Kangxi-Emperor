@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初六日戊寅",
+ "event_role": "奏报地方情形",
+ "summary": "贵州巡抚杨敖建题请丈量土苗田地展限，户部议不准，康熙帝以贵州山地崎岖准其展限，命该抚会同侍郎库勒纳议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨敖建",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "库勒纳",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18505,
+ "page_range": "413-414"
+}

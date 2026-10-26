@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "初九日丙辰",
+ "event_role": "人事任免",
+ "summary": "吏部题刑部员外郎员缺拟补佐领李时进，康熙帝询问旗内乏人缘由并命吏部定例具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李时进",
+   "role": "佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12007,
+ "page_range": "283-284"
+}

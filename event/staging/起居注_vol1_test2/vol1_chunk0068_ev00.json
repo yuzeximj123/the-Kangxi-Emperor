@@ -1,0 +1,24 @@
+{
+ "reign_year": 13,
+ "month": 3,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝再次御乾清门，赐四川左路随征总兵官朱衣客食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱衣客",
+   "role": "四川左路随征总兵官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6800,
+ "page_range": "193-194"
+}

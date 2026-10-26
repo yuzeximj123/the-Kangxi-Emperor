@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "十五日己亥",
+ "event_role": "司法案件",
+ "summary": "宗人府拟闲散宗室儒富砍杀家人乱儿枷号鞭责拘禁，康熙帝以其为父报仇有丈夫气，命从宽免治罪。",
+ "people": [
+  {
+   "name": "儒富",
+   "role": "闲散宗室"
+  },
+  {
+   "name": "乱儿",
+   "role": "家人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14408,
+ "page_range": "299-300"
+}

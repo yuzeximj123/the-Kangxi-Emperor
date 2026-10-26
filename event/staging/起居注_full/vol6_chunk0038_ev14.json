@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": "初五日己酉",
+ "event_role": "人事任免",
+ "summary": "山西按察使巴哈布赴任请训旨，康熙帝谕以秉公审断刑名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴哈布",
+   "role": "山西按察使"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3814,
+ "page_range": "86-87"
+}

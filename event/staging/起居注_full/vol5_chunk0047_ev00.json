@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "云南稚庆总兵官姚仪奏请孔雀钥事，康熙帝以孔雀钥系赐效力旧臣之物不准，伊桑阿附和，帝命发还奏章。",
+ "people": [
+  {
+   "name": "姚仪",
+   "role": "云南稚庆总兵官"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4700,
+ "page_range": "104-105"
+}

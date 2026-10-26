@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初一日辛酉",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏完毕，刑部郎中赵山等以往审易州州同页绩芳诬良为盗事请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵山",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "页绩芳",
+   "role": "易州州同"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "易州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7708,
+ "page_range": "189-190"
+}

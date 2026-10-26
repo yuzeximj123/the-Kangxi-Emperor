@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": "初四日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁学士陆莱员缺，康熙帝以韩菼候缺已久、学问好，命补授学士。",
+ "people": [
+  {
+   "name": "陆莱",
+   "role": "内阁学士"
+  },
+  {
+   "name": "韩菼",
+   "role": "原任内阁学士"
+  },
+  {
+   "name": "李刍",
+   "role": "少詹事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7206,
+ "page_range": "154-155"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "初一日癸亥",
+ "event_role": "谕旨决策",
+ "summary": "直隶巡抚于成龙请于遵化州驿设立马车三十辆供陵寝之用，兵部议裁留，康熙帝命如巡抚所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "遵化州驿",
+  "遵化",
+  "石门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9306,
+ "page_range": "198-199"
+}

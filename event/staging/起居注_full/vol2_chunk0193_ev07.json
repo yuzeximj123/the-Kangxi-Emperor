@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "summary": "议政王等会推西安副都统分爱革职员缺，康熙命以年久堪用的陪拟章泰补授。",
+ "people": [
+  {
+   "name": "分爱",
+   "role": "西安副都统"
+  },
+  {
+   "name": "达哈泰",
+   "role": "郎中参领"
+  },
+  {
+   "name": "章泰",
+   "role": "监察御史参领"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19307,
+ "page_range": "429-430"
+}

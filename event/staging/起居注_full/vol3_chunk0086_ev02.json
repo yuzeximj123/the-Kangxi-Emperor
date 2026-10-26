@@ -1,0 +1,33 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题舟山总兵孙维统病故员缺，康熙帝命吴英调补舟山总兵官，王万祥升补兴化总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙维统",
+   "role": "舟山总兵"
+  },
+  {
+   "name": "吴英",
+   "role": "调补舟山总兵官"
+  },
+  {
+   "name": "王万祥",
+   "role": "升补兴化总兵官"
+  }
+ ],
+ "places": [
+  "舟山",
+  "兴化"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8602,
+ "page_range": "207-208"
+}

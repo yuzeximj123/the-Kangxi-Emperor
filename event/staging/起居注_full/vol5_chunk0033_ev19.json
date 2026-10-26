@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "十四日庚辰",
+ "event_role": "人事任免",
+ "summary": "吏部题江苏等七府未完芦课银两，将承追江苏巡抚宋荦等议处，康熙帝令宋荦于近京繁剧之地补用。",
+ "people": [
+  {
+   "name": "宋荦",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3319,
+ "page_range": "76-77"
+}

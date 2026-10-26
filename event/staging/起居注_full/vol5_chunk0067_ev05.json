@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "二十八日己丑",
+ "event_role": "人事任免",
+ "summary": "工部侍郎徐潮员缺，康熙帝谕令升学士李楠补授工部侍郎。",
+ "people": [
+  {
+   "name": "徐潮",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "李楠",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6705,
+ "page_range": "144-145"
+}

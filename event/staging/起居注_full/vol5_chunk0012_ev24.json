@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "二十二日庚申",
+ "event_role": "议政听政",
+ "summary": "康熙帝烛下阅第一卷，问读卷诸臣是否知其人、见过字迹，王熙等奏实不知、年老无读书之人不相往来，熊赐履张英奏字迹不能辨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  },
+  {
+   "name": "张英",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1224,
+ "page_range": "34-35"
+}

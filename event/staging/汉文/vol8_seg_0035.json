@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十七年四月二十日",
+ "reign_year": 57,
+ "month": 4,
+ "day": 9,
+ "event_role": "军务",
+ "summary": "署理甘肃提督范时捷奏明因甘州距西宁遥远，不便前往与侍郎色尔图同办兵马粮饷事务，请圣主睿鉴。",
+ "people": [
+  {
+   "name": "范时捷",
+   "role": "署理甘肃提督事务、宁夏总兵官，奏折作者"
+  },
+  {
+   "name": "色尔图",
+   "role": "侍郎，赴西宁办理兵马粮饷"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "宁夏",
+  "甘州",
+  "西宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“是”，认可范时捷所奏。",
+ "source_title": "署理甘肅提督范時捷奏明不便前往西寧緣由摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2598",
+ "order_index": 35
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 15,
+ "month": 12,
+ "day_text": "三十日成申",
+ "event_role": "皇帝行止",
+ "summary": "未时大设卤簿，康熙帝出大红门，由正阳门进午门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大红门",
+  "正阳门",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12613,
+ "page_range": "309-310"
+}

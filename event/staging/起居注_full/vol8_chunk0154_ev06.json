@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐遵旨问九卿山东巡抚欧陈锡居官何如，九卿言其居官好，康熙帝以云南总督紧要、红奇办事优而未移动，命到热河具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "欧陈锡",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "红奇",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山东",
+  "云南",
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15406,
+ "page_range": "319-320"
+}

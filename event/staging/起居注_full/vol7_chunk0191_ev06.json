@@ -1,0 +1,36 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙阅满保所呈免朝鲜国贡物折，称满文论旨甚佳，令润色汉文缮写呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "满保",
+   "role": "学士"
+  },
+  {
+   "name": "傻子",
+   "role": "奏事员外郎"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19106,
+ "page_range": "393-394"
+}

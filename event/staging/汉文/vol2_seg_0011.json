@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十七年五月初六日",
+ "reign_year": 47,
+ "month": 5,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "闽浙总督梁鼐奏谢康熙帝钦差侍卫传旨垂问其安好，表示感激涕零，愿竭犬马之忱以报圣恩。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "闽浙总督，奏折具奏人"
+  },
+  {
+   "name": "岳思铎",
+   "role": "钦差侍卫，传旨垂问"
+  },
+  {
+   "name": "施世纶",
+   "role": "总督漕运、巡抚浙江等处地方军务兼理粮饷、兵部右侍郎兼都察院右副都御史"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批先言近日雨水十分足了，后又批知道了。",
+ "source_title": "閩浙總督梁鼐奏謝欽差傳旨垂問摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "350",
+ "order_index": 11
+}

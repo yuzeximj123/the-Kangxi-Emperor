@@ -1,0 +1,33 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "阿南达报已将滚布查罕等一百二十五口交拨什库纪阑泰及守备刘震送往大同交山西巡抚，于三月二十五日起程，侍郎安布禄转奏，奉旨知道了。",
+ "people": [
+  {
+   "name": "阿南达",
+   "role": "官员"
+  },
+  {
+   "name": "纪阑泰",
+   "role": "拨什库"
+  },
+  {
+   "name": "刘震",
+   "role": "守备"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "大同",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20502,
+ "page_range": "420-421"
+}

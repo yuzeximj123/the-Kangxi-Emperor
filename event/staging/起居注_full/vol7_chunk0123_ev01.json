@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "正白旗福兴之女卖与雅奇家弱死，福兴等殴打苏一凤，议处福兴等并追究太监张玉同往之责。",
+ "people": [
+  {
+   "name": "福兴",
+   "role": "正白旗人"
+  },
+  {
+   "name": "雅奇",
+   "role": "同族"
+  },
+  {
+   "name": "苏一凤",
+   "role": "雅奇家人"
+  },
+  {
+   "name": "张玉",
+   "role": "太监"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12301,
+ "page_range": "257-258"
+}

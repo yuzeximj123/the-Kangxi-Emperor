@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "二十九日甲子",
+ "event_role": "谕旨决策",
+ "summary": "工部题乌喇打珠人采珠缺少，请将总尉罗禅、穆哈纳等降二级罚俸，称克登革任，康熙帝命称克登从宽留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗禅",
+   "role": "总尉"
+  },
+  {
+   "name": "穆哈纳",
+   "role": "总尉"
+  },
+  {
+   "name": "称克登",
+   "role": "总管"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9708,
+ "page_range": "205-206"
+}

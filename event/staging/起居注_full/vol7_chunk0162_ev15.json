@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "二十六日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "礼部覆山东巡抚葛陈锡题请加增山东乡试中额不准行，康熙帝命再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葛陈锡",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16215,
+ "page_range": "335-336"
+}

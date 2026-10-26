@@ -1,0 +1,38 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿等奏报遵旨询问傅腊塔关于籽粒等事在京可否完结，并呈览傅腊塔等所奏折子，康熙帝览奏颌之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "官员"
+  },
+  {
+   "name": "和诺",
+   "role": "巡抚"
+  },
+  {
+   "name": "布喀",
+   "role": "官员"
+  },
+  {
+   "name": "吴乘谦",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10004,
+ "page_range": "210-211"
+}

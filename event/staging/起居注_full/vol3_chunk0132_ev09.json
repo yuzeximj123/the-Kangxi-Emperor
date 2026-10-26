@@ -1,0 +1,21 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十七日癸卯",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝由朝阳门进东华门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝阳门",
+  "东华门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13209,
+ "page_range": "299-300"
+}

@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙四十八年",
+ "reign_year": 48,
+ "month": null,
+ "day": 10,
+ "event_role": "请安谢恩",
+ "summary": "浙江巡抚黄秉中恭请圣安，并奏报浙江雨旸时若、早稻丰收、施药济民及山阴诸暨竹生竹米可食，进呈竹米竹穗御览。",
+ "people": [
+  {
+   "name": "黄秉中",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "绍兴府",
+  "山阴县",
+  "诸暨县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示知道了，并谕令以后食物玩器一概不必进献。",
+ "source_title": "浙江巡撫黃秉中奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "616",
+ "order_index": 230
+}

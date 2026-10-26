@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部尚书吴一昔员缺，以户部尚书张鹏翮等开列请旨，康熙帝命伯回蛮日具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴一昔",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2103,
+ "page_range": "53-54"
+}

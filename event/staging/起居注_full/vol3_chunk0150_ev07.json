@@ -1,0 +1,21 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "二十四日戊实",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自玉泉山移驻南苑旧宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "玉泉山",
+  "南苑旧宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15007,
+ "page_range": "335-336"
+}

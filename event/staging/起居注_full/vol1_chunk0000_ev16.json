@@ -1,0 +1,28 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "十七日乙丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸双台，敖汉部多罗郡王布过、土默特部多罗达尔汉贝勒卓里克图及台吉塔布囊等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布过",
+   "role": "敖汉部多罗郡王"
+  },
+  {
+   "name": "卓里克图",
+   "role": "土默特部多罗达尔汉贝勒"
+  }
+ ],
+ "places": [
+  "双台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16,
+ "page_range": "57-58"
+}

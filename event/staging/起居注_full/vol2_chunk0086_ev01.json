@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "三法司题邢兆诬告主人孙尔昌等为强盗劫银，议应立绞，康熙命从部议。",
+ "people": [
+  {
+   "name": "邢兆",
+   "role": "家仆"
+  },
+  {
+   "name": "孙尔昌",
+   "role": "家主"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8601,
+ "page_range": "215-216"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初九日乙已",
+ "event_role": "司法案件",
+ "summary": "九卿会议孙四抛弃主人骸骨盗取伪物改议立斩，康熙帝从之并定相关定例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李需",
+   "role": "官员"
+  },
+  {
+   "name": "孙四",
+   "role": "罪犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 606,
+ "page_range": "47-48"
+}

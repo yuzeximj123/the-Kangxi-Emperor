@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "十六日乙丑",
+ "event_role": "弹劾参奏",
+ "summary": "直隶学院杨名时参保定知府祖允熹迟误考试议降一级，康熙帝命发回该部取口供另议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨名时",
+   "role": "直隶学院"
+  },
+  {
+   "name": "祖允熹",
+   "role": "保定府知府"
+  }
+ ],
+ "places": [
+  "保定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2420,
+ "page_range": "59-60"
+}

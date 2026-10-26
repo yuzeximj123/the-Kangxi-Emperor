@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十九日本丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸献县所属张白村。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "献县",
+  "张白村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3311,
+ "page_range": "77-78"
+}

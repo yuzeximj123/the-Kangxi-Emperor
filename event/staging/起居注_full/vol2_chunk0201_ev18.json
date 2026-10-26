@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十九日庚寅",
+ "event_role": "人事任免",
+ "summary": "兵部题补正红旗佐领胡席穆病故员缺，康熙帝令以胡席穆子华色补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡席穆",
+   "role": "正红旗佐领"
+  },
+  {
+   "name": "堪泰",
+   "role": "拟补人员"
+  },
+  {
+   "name": "华色",
+   "role": "胡席穆子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20118,
+ "page_range": "445-446"
+}

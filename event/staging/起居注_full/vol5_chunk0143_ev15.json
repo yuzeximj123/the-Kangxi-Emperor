@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "初九日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "因天热，康熙帝谕沿途预备冰水、梅汤、香薷汤，前队大兵进毕后交付皇长子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "独石口",
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14315,
+ "page_range": "296-297"
+}

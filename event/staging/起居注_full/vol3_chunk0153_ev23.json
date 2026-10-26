@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "十三日了西",
+ "event_role": "弹劾参奏",
+ "summary": "吏部等题川陕总督希福徇庇布政使希格不行据实注考，议降四级调用，康熙帝命问九卿希福居官贤否。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "川陕总督"
+  },
+  {
+   "name": "希格",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "川陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15323,
+ "page_range": "341-342"
+}

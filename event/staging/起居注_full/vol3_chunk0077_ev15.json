@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初一日辛酉",
+ "event_role": "其他",
+ "summary": "进呈江南江西总督于成龙祭文、碑文，康熙帝称于成龙系本朝至清之官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7715,
+ "page_range": "189-190"
+}

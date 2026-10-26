@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "十七日乙未",
+ "event_role": "朝见受贺",
+ "summary": "驻防玉田县协领乌兰、知县幕成周、把总任国圣等来朝见。",
+ "people": [
+  {
+   "name": "乌兰",
+   "role": "驻防玉田县协领"
+  },
+  {
+   "name": "幕成周",
+   "role": "玉田县知县"
+  },
+  {
+   "name": "任国圣",
+   "role": "玉田县把总"
+  }
+ ],
+ "places": [
+  "玉田县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11316,
+ "page_range": "269-270"
+}

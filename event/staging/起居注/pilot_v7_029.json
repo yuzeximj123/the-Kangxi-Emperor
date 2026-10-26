@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "展时",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕李锦居官不善，着该部议处具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李锦",
+   "role": "大兴县知县"
+  }
+ ],
+ "places": [
+  "大兴县",
+  "黄梅县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3029
+}

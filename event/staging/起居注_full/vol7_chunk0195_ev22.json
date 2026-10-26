@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "十三日成成",
+ "event_role": "起居注官记录",
+ "summary": "记录是日起居注官为揆叙、获更。",
+ "people": [
+  {
+   "name": "揆叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "获更",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19522,
+ "page_range": "401-402"
+}

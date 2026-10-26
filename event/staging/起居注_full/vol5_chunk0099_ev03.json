@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "二十八日乙酉",
+ "event_role": "朝见受贺",
+ "summary": "通惠河等处监督张格、通州知州王光席、守备刘进玉等来朝。",
+ "people": [
+  {
+   "name": "张格",
+   "role": "通惠河等处监督"
+  },
+  {
+   "name": "王光席",
+   "role": "通州知州"
+  },
+  {
+   "name": "刘进玉",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9903,
+ "page_range": "208-209"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "初二日成成",
+ "event_role": "朝见受贺",
+ "summary": "盛京工部侍郎傅德、理事官帕海赴任请训旨，康熙帝谕以勤敏办事、遵守前人成法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅德",
+   "role": "盛京工部侍郎"
+  },
+  {
+   "name": "帕海",
+   "role": "理事官"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3117,
+ "page_range": "72-73"
+}

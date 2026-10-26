@@ -1,0 +1,48 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝述河南盗亢班据神后寨为乱，总兵汉君洗、巡抚张圣佐等隐匿不奏，遣在京大臣往剿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "亢班",
+   "role": "盗贼"
+  },
+  {
+   "name": "汉君洗",
+   "role": "总兵官"
+  },
+  {
+   "name": "张圣佐",
+   "role": "巡抚"
+  },
+  {
+   "name": "李锡",
+   "role": "巡抚"
+  },
+  {
+   "name": "李廷臣",
+   "role": "知府"
+  },
+  {
+   "name": "白泪",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "河南",
+  "神后寨",
+  "西安",
+  "陕州",
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21703,
+ "page_range": "445-446"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": "二十九日",
+ "event_role": "皇帝行止",
+ "summary": "自太皇太后圣躬违豫以来，康熙帝日在慈宁宫恭侍，遍检方书亲调药饵，昼夜席地而坐，衣不解带，寝食俱废。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "祖母"
+  }
+ ],
+ "places": [
+  "慈宁宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25413,
+ "page_range": "543-544"
+}

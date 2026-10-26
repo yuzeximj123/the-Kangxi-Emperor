@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年十一",
+ "reign_year": 53,
+ "month": null,
+ "day": 27,
+ "event_role": "奏报地方情形",
+ "summary": "京口将军何天培遵旨奏报到任后地方安静、兵民相安、米价平稳及水师营伍整顿、兵马船只数目情形。",
+ "people": [
+  {
+   "name": "何天培",
+   "role": "京口将军，奏报人"
+  },
+  {
+   "name": "马三奇",
+   "role": "前任将军"
+  }
+ ],
+ "places": [
+  "京口",
+  "江阴"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批要求何天培一到任即将兵民情形奏报上来。",
+ "source_title": "京口將軍何天培奏為遵旨奏報兵民情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1675",
+ "order_index": 316
+}

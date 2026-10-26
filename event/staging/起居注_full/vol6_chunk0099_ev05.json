@@ -1,0 +1,22 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "理藩院题盗马图萨拟正法，康熙帝称立法为警戒蒙古不肖者，图萨首先犯禁盗马拟正法甚当，后犯断不宽免。",
+ "people": [
+  {
+   "name": "图萨",
+   "role": "盗马犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9905,
+ "page_range": "208-209"
+}

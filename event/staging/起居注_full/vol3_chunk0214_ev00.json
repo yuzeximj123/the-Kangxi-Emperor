@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部议左都御史董讷劾礼部尚书张士杜庸陋应休致，康熙以其谨慎老成着留任。",
+ "people": [
+  {
+   "name": "董讷",
+   "role": "左都御史"
+  },
+  {
+   "name": "张士杜",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21400,
+ "page_range": "463-464"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "二十五日丙子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早幸畅春园，申时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16303,
+ "page_range": "338-339"
+}

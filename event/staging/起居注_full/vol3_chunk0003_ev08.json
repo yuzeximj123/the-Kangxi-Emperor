@@ -1,0 +1,33 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "二十九日乙未",
+ "event_role": "军务",
+ "summary": "兵部题补浙江温州总兵员缺，康熙帝议裁京口总兵一员并清查冒饷兵丁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "陈世凯",
+   "role": "浙江温州总兵官"
+  }
+ ],
+ "places": [
+  "京口",
+  "浙江温州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 308,
+ "page_range": "41-42"
+}

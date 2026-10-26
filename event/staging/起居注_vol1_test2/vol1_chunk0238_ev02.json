@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十八日丁雍",
+ "event_role": "谕旨决策",
+ "summary": "云南巡抚伊辟请召募额兵，部议不允，康熙帝以云南路远令该抚召募标兵，并令将预借钱粮之处一并再议。",
+ "people": [
+  {
+   "name": "伊辟",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23802,
+ "page_range": "533-534"
+}

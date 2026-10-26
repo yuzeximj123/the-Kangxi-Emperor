@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "季夏恭侍太皇太后、皇太后避暑畅春园，躬执温清之礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 26213,
+ "page_range": "559-560"
+}

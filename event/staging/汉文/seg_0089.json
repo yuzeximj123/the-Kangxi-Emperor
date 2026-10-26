@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙四十四年十一月",
+ "reign_year": 44,
+ "month": 11,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "赵弘燮谢赐御书舞鹤扇，并奏报校刊全唐诗事及盐务任满后诗局暂交李煦代管。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "彭定求",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "135",
+ "source_title": "苏州织造李煦奏报遣来大夫到扬并代进宋荦谢疏摺",
+ "order_index": 89
+}

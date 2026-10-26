@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十三日王成",
+ "event_role": "议政听政",
+ "summary": "御史张志栋条奏补授各官请遵五十五日定例、停止缺扣补，部议遵例行，康熙帝命九卿、詹事、科、道会议。",
+ "people": [
+  {
+   "name": "张志栋",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9106,
+ "page_range": "225-226"
+}

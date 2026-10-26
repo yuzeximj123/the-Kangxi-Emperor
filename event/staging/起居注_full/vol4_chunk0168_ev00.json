@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "康熙帝赐朝鲜国王李焞谢恩正使议政府右议政六点、副使议政府右参赞姜硕宾等鞍马、彩缎、纳布、银两等物。",
+ "people": [
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "六点",
+   "role": "朝鲜谢恩正使、议政府右议政"
+  },
+  {
+   "name": "姜硕宾",
+   "role": "朝鲜谢恩副使、议政府右参赞"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16800,
+ "page_range": "348-349"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "十四日庚辰",
+ "event_role": "司法案件",
+ "summary": "三法司题韩锤等系康亲王之奴侮王，拟立绞、绞监候等，康熙帝令韩狂监禁秋后处决，余依议。",
+ "people": [
+  {
+   "name": "韩锤",
+   "role": "康亲王之奴"
+  },
+  {
+   "name": "韩锐",
+   "role": "康亲王之奴"
+  },
+  {
+   "name": "韩俊",
+   "role": "知县"
+  },
+  {
+   "name": "韩世琦",
+   "role": "官员"
+  },
+  {
+   "name": "何氏",
+   "role": "韩世琦之妻"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3321,
+ "page_range": "76-77"
+}

@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十年二月初三日",
+ "reign_year": 50,
+ "month": 2,
+ "day": 3,
+ "event_role": "请安谢恩",
+ "summary": "江宁织造曹寅恭请圣安，报告江南太平、米价如常，并进呈正月晴雨录，康熙朱批询问两淮亏空补完情况及新任运使如何。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏报人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南",
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙先答朕安，继而询问两淮亏空近日是否补完以及新任运使表现如何。",
+ "source_title": "江寧織造曹寅奏請聖安並報米價等情摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "803",
+ "order_index": 106
+}

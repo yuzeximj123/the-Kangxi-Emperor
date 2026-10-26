@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十二年十二月二十六日",
+ "reign_year": 52,
+ "month": 12,
+ "day": null,
+ "event_role": "贸易漕运",
+ "summary": "江宁织造曹颙奏报李煦代任盐差一年所得余银五十八万余两的支出清单，逐项列明解送江苏织造、江宁织造及代商完欠等款项，尚余银三万六千余两。",
+ "people": [
+  {
+   "name": "曹颙",
+   "role": "江宁织造，奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "代任盐差一年"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江苏"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江西巡撫佟國勷奏為齎送江西輿圖摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1490",
+ "order_index": 125
+}

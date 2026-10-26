@@ -1,0 +1,31 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "二十一日辛酉",
+ "event_role": "河工水利",
+ "summary": "户部尚书马齐等自淮安回，具奏所察河工事，康熙帝谕河道淤垫须深浚河身。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "户部尚书"
+  },
+  {
+   "name": "喻成龙",
+   "role": "督捕侍郎"
+  },
+  {
+   "name": "常寿",
+   "role": "工部侍郎"
+  }
+ ],
+ "places": [
+  "淮安",
+  "清口",
+  "洪泽湖",
+  "高宝"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8012,
+ "page_range": "170-171"
+}

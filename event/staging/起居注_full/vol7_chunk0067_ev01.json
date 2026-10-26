@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "康熙帝论运米至沿河州县易、郑城泰安稍难、登莱更难，欲行海运，命察前海运大臣司员职名具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "沿河州县",
+  "郑城",
+  "泰安",
+  "登",
+  "莱"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6701,
+ "page_range": "145-146"
+}

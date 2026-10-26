@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "初二日乙丑",
+ "event_role": "司法案件",
+ "summary": "刑部议韩玉成杀伤本家刘姐等三人拟斩监候，康熙帝以其情罪可恶、援律尚轻，命另行严议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩玉成",
+   "role": "案犯"
+  },
+  {
+   "name": "刘姐",
+   "role": "被害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4412,
+ "page_range": "123-124"
+}

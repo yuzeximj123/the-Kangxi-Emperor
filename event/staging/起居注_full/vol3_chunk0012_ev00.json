@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝认为傅尔哈学问平常，命吏部与詹事府会同考试后具奏补用。",
+ "people": [
+  {
+   "name": "傅尔哈",
+   "role": "论俸叙用人员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1200,
+ "page_range": "59-60"
+}

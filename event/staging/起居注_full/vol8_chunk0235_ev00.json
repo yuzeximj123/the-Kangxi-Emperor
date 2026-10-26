@@ -1,0 +1,26 @@
+{
+ "reign_year": 57,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝手书谕旨，自述病体羸瘦足痛难行，理政积压，又痛皇太后丧事未能尽心，并虑不法之徒谋放出二阿哥，忧愤难安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  },
+  {
+   "name": "二阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23500,
+ "page_range": "481-482"
+}

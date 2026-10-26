@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "王进宝请撤回标下劳苦被伤兵丁，会议不准，康熙命依会议。",
+ "people": [
+  {
+   "name": "王进宝",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云",
+  "贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25503,
+ "page_range": "567-568"
+}

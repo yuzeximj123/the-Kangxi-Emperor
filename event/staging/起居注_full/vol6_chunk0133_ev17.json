@@ -1,0 +1,40 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "二十七日辛卯",
+ "event_role": "人事任免",
+ "summary": "大学士伊桑阿等遵旨拣选鸿胪寺少卿，开列御史常寿等八人绿头签具奏，奉旨以常寿升补。",
+ "people": [
+  {
+   "name": "常寿",
+   "role": "御史"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "大学士"
+  },
+  {
+   "name": "存柱",
+   "role": "奏事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13317,
+ "page_range": "276-277"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕修治下河须审上流会赴下流宣泄，详勘后于来年仲春兴工，并照永定河例多派京官分委同时兴工。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "下河",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6501,
+ "page_range": "140-141"
+}

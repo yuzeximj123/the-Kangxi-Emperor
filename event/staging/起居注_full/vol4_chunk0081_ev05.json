@@ -1,0 +1,38 @@
+{
+ "reign_year": 28,
+ "month": 8,
+ "day_text": "初九日",
+ "event_role": "人事任免",
+ "summary": "吏部题补翰林院侍讲王项龄、王拨升任员缺，拟补励杜讷、郑开极，康熙帝以二人学问平常令另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王项龄",
+   "role": "翰林院侍讲"
+  },
+  {
+   "name": "王拨",
+   "role": "翰林院侍讲"
+  },
+  {
+   "name": "励杜讷",
+   "role": "拟补侍讲"
+  },
+  {
+   "name": "郑开极",
+   "role": "拟补侍讲"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8105,
+ "page_range": "174-175"
+}

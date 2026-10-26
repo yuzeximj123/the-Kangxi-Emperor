@@ -1,0 +1,30 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补道府官员，康熙询问刘芳踊为人，得知其曾任山东巡抚不称职降补知府，且有声名及目疾，令其致仕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  },
+  {
+   "name": "刘芳踊",
+   "role": "题补官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19600,
+ "page_range": "449-450"
+}

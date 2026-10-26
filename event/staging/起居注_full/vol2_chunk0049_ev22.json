@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "二十八日辛亥",
+ "event_role": "人事任免",
+ "summary": "兵部题请投诚伪将军江吉、杨一宝等俱补授副将；康熙帝以江西等处被其残破，今福建既定情迫来归，发回该部再议。",
+ "people": [
+  {
+   "name": "江吉",
+   "role": "伪将军"
+  },
+  {
+   "name": "杨一宝",
+   "role": "伪将军"
+  }
+ ],
+ "places": [
+  "江西",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4922,
+ "page_range": "141-142"
+}

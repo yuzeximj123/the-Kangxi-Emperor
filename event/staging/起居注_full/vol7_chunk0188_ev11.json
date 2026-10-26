@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初二日己巳",
+ "event_role": "人事任免",
+ "summary": "康熙帝就班汉杰一案令贝和诺降一级调用，以松柱补授其缺，俟代任者到后再令前来。",
+ "people": [
+  {
+   "name": "贝和诺",
+   "role": "官员"
+  },
+  {
+   "name": "松柱",
+   "role": "带管盛京将军事务都统"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18811,
+ "page_range": "387-388"
+}

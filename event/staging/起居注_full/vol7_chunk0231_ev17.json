@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 9,
+ "day_text": "二十九日己酉",
+ "event_role": "人事任免",
+ "summary": "吏部覆浙江巡抚王度昭所题高其佩分赔银两违限案，康熙帝命照该抚所请开复。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "高其佩",
+   "role": "温处道"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23117,
+ "page_range": "473-474"
+}

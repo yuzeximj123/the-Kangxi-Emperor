@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "初二日成申",
+ "event_role": "谕旨决策",
+ "summary": "王熙奏遵旨公议，称皇太子学问大成，自古未有，但实无学行兼优可辅导之人；康熙帝询问达哈塔、汤斌意见。",
+ "people": [
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "达哈塔",
+   "role": "官员"
+  },
+  {
+   "name": "汤斌",
+   "role": "官员"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23115,
+ "page_range": "497-498"
+}

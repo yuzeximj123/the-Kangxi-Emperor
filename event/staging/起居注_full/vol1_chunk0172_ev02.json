@@ -1,0 +1,23 @@
+{
+ "reign_year": 17,
+ "month": 11,
+ "day_text": "初九日丙午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早往皇太后宫问安后，复幸温泉，由神武门出东直门，驻中邦和郡南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "皇太后宫",
+  "神武门",
+  "东直门",
+  "中邦和郡南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17202,
+ "page_range": "401-402"
+}

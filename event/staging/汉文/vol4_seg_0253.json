@@ -1,0 +1,40 @@
+{
+ "date_raw": "康熙五十二年六月十二日",
+ "reign_year": 52,
+ "month": 6,
+ "day": 16,
+ "event_role": "河工水利",
+ "summary": "直隶巡抚赵弘燮奏报永定河南岸安澜、北岸第八工小卫堡大堤漫开数丈，已饬令查勘并另摺再奏。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏报人"
+  },
+  {
+   "name": "张称",
+   "role": "南北两岸分司"
+  },
+  {
+   "name": "孙泰",
+   "role": "北岸分司"
+  },
+  {
+   "name": "噶礼",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "永定河",
+  "南岸",
+  "北岸",
+  "小卫堡",
+  "东清县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批称知道了，北岸无碍于事。",
+ "source_title": "直隸巡撫趙弘燮奏報大名府等處得雨霑足摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1364",
+ "order_index": 253
+}

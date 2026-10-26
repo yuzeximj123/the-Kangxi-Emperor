@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十五日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝启行，宁夏官民奏谢亲临之恩并请颁圣训勒石，康熙初不允，后命交内阁大学士议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21700,
+ "page_range": "444-445"
+}

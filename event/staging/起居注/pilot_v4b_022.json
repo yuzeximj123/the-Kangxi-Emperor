@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙二十八年二月二十五日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十五日匡辫",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕刑部尚书图纳等，命察明绿旗兵备马人数酌量给赏，并停扬州备马。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "马齐",
+   "role": "都御史"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "扬州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2022
+}

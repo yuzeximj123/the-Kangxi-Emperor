@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕陕西离京甚近，无事之时自当特来巡幸，吴赫再三恳请终不允。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴赫",
+   "role": "陕西总督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21203,
+ "page_range": "434-435"
+}

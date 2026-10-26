@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初十日己巳",
+ "event_role": "奏报地方情形",
+ "summary": "康熙问山东、京师以南雨情，冯溥奏山东已得雨，李霨奏真定一带亦得雨。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东",
+  "真定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23421,
+ "page_range": "525-526"
+}

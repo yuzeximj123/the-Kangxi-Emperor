@@ -1,0 +1,23 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝自大行太皇太后殡宫乘四人轿由朝阳门进东华门，幕居于乾清门外之左。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大行太皇太后殡宫",
+  "朝阳门",
+  "东华门",
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 301,
+ "page_range": "18-19"
+}

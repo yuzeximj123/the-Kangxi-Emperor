@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "初十日戊辰",
+ "event_role": "人事任免",
+ "summary": "浙闽总督金世荣题绍兴副将员缺，坐推提标中军参将陈升，康熙帝命照所题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金世荣",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "陈升",
+   "role": "提标中军参将"
+  }
+ ],
+ "places": [
+  "绍兴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9915,
+ "page_range": "209-210"
+}

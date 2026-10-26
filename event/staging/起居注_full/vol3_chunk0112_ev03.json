@@ -1,0 +1,36 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "大学士明珠等以会议山西巡抚穆尔赛议处之题请旨，皇帝令科尔坤、阿兰泰等分别降级留任或免降。",
+ "people": [
+  {
+   "name": "穆尔赛",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "科尔坤",
+   "role": "尚书"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "侍郎"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11203,
+ "page_range": "259-260"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就招抚逆党敕书事，提出宽宥携孙投诚者并许在滇者密通消息为内应，命大学士等商拟。",
+ "people": [
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "滇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20503,
+ "page_range": "467-468"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": "十四日成午",
+ "event_role": "人事任免",
+ "summary": "康熙帝以盛京将军绰克度人材庸常、兵不约束，令议政大臣、宗人府、九卿会议并询曾官盛京额伦特等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "绰克度",
+   "role": "盛京将军"
+  },
+  {
+   "name": "额伦特",
+   "role": "曾官盛京者"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3908,
+ "page_range": "88-89"
+}

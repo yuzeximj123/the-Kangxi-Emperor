@@ -1,0 +1,21 @@
+{
+ "reign_year": 16,
+ "month": 1,
+ "day_text": "初一日戊宽",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝率诸王、内大臣、大学士等先后赴太皇太后宫、皇太后宫行礼，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12801,
+ "page_range": "313-314"
+}

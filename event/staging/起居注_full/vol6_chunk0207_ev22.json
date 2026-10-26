@@ -1,0 +1,34 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "二十三日己卯",
+ "event_role": "人事任免",
+ "summary": "陕西总督席尔达题请留任高陵县知县王继溥、澄城知县刘元标，康熙帝准其留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "陕西总督"
+  },
+  {
+   "name": "王继溥",
+   "role": "高陵县知县"
+  },
+  {
+   "name": "刘元标",
+   "role": "澄城知县"
+  }
+ ],
+ "places": [
+  "陕西",
+  "高陵县",
+  "澄城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20722,
+ "page_range": "424-425"
+}

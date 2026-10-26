@@ -1,0 +1,20 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "初二日庚申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸冰窖地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "冰窖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18311,
+ "page_range": "376-377"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "二十五日辛刻",
+ "event_role": "司法案件",
+ "summary": "刑部以用票药之李三拟立斩，康熙以未详问用票药之处发回，令明白审问写入本内具奏。",
+ "people": [
+  {
+   "name": "李三",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20307,
+ "page_range": "416-417"
+}

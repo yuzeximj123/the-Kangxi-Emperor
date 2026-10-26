@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "张伯行奏请于直隶等地建立社仓，议不准行；康熙论社仓无益，赈济不善易生变乱，引李自成之乱为戒。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "奏事官员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "九卿",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "直隶",
+  "浙江",
+  "常州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16101,
+ "page_range": "333-334"
+}

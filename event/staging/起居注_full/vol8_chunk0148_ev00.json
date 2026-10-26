@@ -1,0 +1,20 @@
+{
+ "reign_year": 55,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就杭关钱粮征收事降旨，命交与该巡抚监收。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "杭关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14800,
+ "page_range": "307-308"
+}

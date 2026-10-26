@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "记述康熙帝决计亲征噶尔丹，祭告天地宗庙，分遣费扬古等由西路、黑龙江乌喇兵防东路，大军由中路出独石口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  }
+ ],
+ "places": [
+  "独石口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14320,
+ "page_range": "296-297"
+}

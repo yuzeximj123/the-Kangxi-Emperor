@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "就礼部题朝鲜国王请禁止捕鱼洋船一事，康熙帝认为沿海倚捕鱼为生者多不可禁止，命如到彼国可追捕则擒解，不可则放炮击逐。",
+ "people": [
+  {
+   "name": "李科",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15402,
+ "page_range": "319-320"
+}

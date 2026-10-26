@@ -1,0 +1,38 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "初一日丙辰",
+ "event_role": "人事任免",
+ "summary": "兵部奏巡捕营参将盛天社系奉旨补授，今俸满请补用或留任，康熙帝令仍留巡捕营。",
+ "people": [
+  {
+   "name": "盛天社",
+   "role": "巡捕营参将"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "因丕",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "黑寿",
+   "role": "学士"
+  },
+  {
+   "name": "舒兰",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12520,
+ "page_range": "261-262"
+}

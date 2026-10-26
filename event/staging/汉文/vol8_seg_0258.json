@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾玖年伍月",
+ "reign_year": 59,
+ "month": 5,
+ "day": null,
+ "event_role": "军务",
+ "summary": "奏报带吉州营守备马进德及亲随人役前往固原等处巡查地方，并专差兵丁家人赍捧奏闻。",
+ "people": [
+  {
+   "name": "马进德",
+   "role": "吉州营守备"
+  },
+  {
+   "name": "王时茂",
+   "role": "兵丁"
+  },
+  {
+   "name": "张起龙",
+   "role": "家人"
+  }
+ ],
+ "places": [
+  "吉州营",
+  "固原"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝谕示所奏依议，并称近闻操演营伍实心出力者甚少，令其留心。",
+ "source_title": "残片",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 258
+}

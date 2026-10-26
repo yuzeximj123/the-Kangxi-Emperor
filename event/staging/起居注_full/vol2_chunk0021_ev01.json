@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑科覆奏秋决，议古纳杀主一案，康熙帝令牢固监禁、监候，不必覆奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "古纳",
+   "role": "犯人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2101,
+ "page_range": "85-86"
+}

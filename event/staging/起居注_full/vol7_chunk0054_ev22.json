@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "二十三日戊辰",
+ "event_role": "人事任免",
+ "summary": "吏部题山东学道徐炯等四员议推内升京堂，康熙帝以其中无优者命停止内升。",
+ "people": [
+  {
+   "name": "徐炯",
+   "role": "山东学道"
+  },
+  {
+   "name": "张泰交",
+   "role": "学院"
+  },
+  {
+   "name": "姜橚",
+   "role": "学院"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5422,
+ "page_range": "119-120"
+}

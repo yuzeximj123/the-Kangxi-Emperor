@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十二日甲午",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝赐山西巡抚噶礼御书诗一幅，平定州知州刘平嘉来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "刘平嘉",
+   "role": "平定州知州"
+  }
+ ],
+ "places": [
+  "平定州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7707,
+ "page_range": "165-166"
+}

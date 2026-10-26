@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "十四日己酉",
+ "event_role": "人事任免",
+ "summary": "将前此考试一等、二等官员引见，康熙帝命喀拜补授监察御史、硕戴补授郎中。",
+ "people": [
+  {
+   "name": "喀拜",
+   "role": "监察御史"
+  },
+  {
+   "name": "硕戴",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7320,
+ "page_range": "158-159"
+}

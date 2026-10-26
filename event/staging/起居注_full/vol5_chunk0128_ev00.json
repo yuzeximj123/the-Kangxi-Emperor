@@ -1,0 +1,48 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣等议奏将喀尔喀台吉等编为旗队、设管甲喇人员并请与土谢图亲王等一同训练。",
+ "people": [
+  {
+   "name": "阿尔尼",
+   "role": "尚书"
+  },
+  {
+   "name": "拜音察克",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "西喇",
+   "role": "侍郎"
+  },
+  {
+   "name": "喇锡",
+   "role": "侍读学士"
+  },
+  {
+   "name": "额办沙津",
+   "role": "土谢图亲王"
+  },
+  {
+   "name": "额符班第",
+   "role": "达尔汉亲王"
+  },
+  {
+   "name": "巴克席胡和尔",
+   "role": "贝勒"
+  }
+ ],
+ "places": [
+  "喀伦地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12800,
+ "page_range": "266-267"
+}

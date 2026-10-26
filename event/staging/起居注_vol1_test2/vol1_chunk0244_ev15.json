@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "二十一日己酉",
+ "event_role": "起居注官记录",
+ "summary": "康熙帝御懋勤殿，讲官库勒纳、叶方蓝、张玉书进讲蒙卦等节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蓝",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24415,
+ "page_range": "545-546"
+}

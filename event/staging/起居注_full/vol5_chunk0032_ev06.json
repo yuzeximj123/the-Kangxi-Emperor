@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "初四日庚午",
+ "event_role": "人事任免",
+ "summary": "吏部题赞善沈朝初员缺拟升编修仇兆鳌，康熙帝以其考试文字平常，命将科分年久之人开列具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "仇兆鳌",
+   "role": "编修"
+  },
+  {
+   "name": "沈朝初",
+   "role": "赞善"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3206,
+ "page_range": "74-75"
+}

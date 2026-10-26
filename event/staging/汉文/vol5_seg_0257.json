@@ -1,0 +1,36 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "江西巡抚白潢奏报直隶各府秋禾约收分数，多数府属收成八至十分不等，惟平乡、鸡泽、开州、东明等县雨水未足，收成稍歉。",
+ "people": [
+  {
+   "name": "白潢",
+   "role": "巡抚江西等处地方、兼理粮饷、都察院右副都御史加一级纪录十次"
+  }
+ ],
+ "places": [
+  "江西",
+  "顺天府",
+  "永平府",
+  "河间府",
+  "真定府",
+  "顺德府",
+  "广平府",
+  "大名府",
+  "宣化府",
+  "平乡县",
+  "鸡泽县",
+  "开州",
+  "东明县"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "奏报秋禾约收分数摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 257
+}

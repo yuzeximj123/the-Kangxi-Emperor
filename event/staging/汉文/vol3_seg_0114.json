@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十年二月二十五日",
+ "reign_year": 50,
+ "month": 2,
+ "day": 25,
+ "event_role": "朝见受贺",
+ "summary": "天津总兵杜呈泗以康熙五十年万寿之期，恭请入朝庆贺，恳请俯准以抒下悃。",
+ "people": [
+  {
+   "name": "杜呈泗",
+   "role": "镇守直隶天津等处地方总兵官都督佥事，奏请入朝庆贺"
+  },
+  {
+   "name": "赵弘燮",
+   "role": "总督守直隶天津等处地方提督军务、兵部尚书兼都察院右副都御史"
+  }
+ ],
+ "places": [
+  "直隶",
+  "天津"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批不准其入朝，并批一“吉”字。",
+ "source_title": "天津總兵杜呈泗奏請入朝慶賀萬壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "811",
+ "order_index": 114
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十四年三月十三日",
+ "reign_year": 54,
+ "month": 3,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "原任古北口提督马进良奏请告归田里，蒙皇上格外施恩赏赉，特具折恭谢天恩并请圣安。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "原任古北口提督，奏折作者"
+  },
+  {
+   "name": "马龙僉",
+   "role": "马进良之子，代为进折"
+  }
+ ],
+ "places": [
+  "古北口",
+  "西宁",
+  "任邱县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批记日期并称恩任邱县臣马进良。",
+ "source_title": "原任古北口提督馬進良奏謝恩施格外允歸田里摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1750",
+ "order_index": 34
+}

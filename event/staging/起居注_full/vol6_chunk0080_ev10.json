@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "二十日庚申",
+ "event_role": "朝见受贺",
+ "summary": "东平州知州谢可英、嘉祥县知县曹景休、管河千总左光祖等来朝见。",
+ "people": [
+  {
+   "name": "谢可英",
+   "role": "东平州知州"
+  },
+  {
+   "name": "曹景休",
+   "role": "嘉祥县知县"
+  },
+  {
+   "name": "左光祖",
+   "role": "管河千总"
+  }
+ ],
+ "places": [
+  "东平州",
+  "嘉祥县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8010,
+ "page_range": "170-171"
+}

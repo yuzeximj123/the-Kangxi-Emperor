@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十年六月十八日",
+ "reign_year": 50,
+ "month": 6,
+ "day": 9,
+ "event_role": "请安谢恩",
+ "summary": "陕西兴安总兵赵良佐因京城雨泽愆期、圣体违和而上奏恭请圣安，表达忧惶与祝愿。",
+ "people": [
+  {
+   "name": "赵良佐",
+   "role": "陕西兴安总兵，奏请圣安者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批回复"
+  }
+ ],
+ "places": [
+  "陕西",
+  "兴安",
+  "兰州",
+  "京城",
+  "宁州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知自己安好，并称今年各地秋成颇好。",
+ "source_title": "廣州將軍管源忠奏報地方早稻豐收米價平賤並請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "886",
+ "order_index": 192
+}

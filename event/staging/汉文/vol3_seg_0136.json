@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十年四月初二日",
+ "reign_year": 50,
+ "month": 4,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹寅奏报江南大麦收割、小麦垂熟、时和米贱、百姓欢乐，并进呈三月分晴雨录，恭请圣安。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏报人"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，并命曹寅在麦收之后迅速奏报收成分数。",
+ "source_title": "江寧織造曹寅奏報麥熟米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "829",
+ "order_index": 136
+}

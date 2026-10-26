@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 7,
+ "day_text": "初六日庚申",
+ "event_role": "人事任免",
+ "summary": "吏部题理藩院尚书班第员缺，康熙帝谕仍着班第兼管理藩院尚书事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班第",
+   "role": "理藩院尚书"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14812,
+ "page_range": "306-307"
+}

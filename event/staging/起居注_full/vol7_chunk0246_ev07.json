@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": "十五日甲子",
+ "event_role": "其他",
+ "summary": "康熙帝赐副将郑明、李麒马各二匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郑明",
+   "role": "副将"
+  },
+  {
+   "name": "李麒",
+   "role": "副将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24607,
+ "page_range": "503-504"
+}

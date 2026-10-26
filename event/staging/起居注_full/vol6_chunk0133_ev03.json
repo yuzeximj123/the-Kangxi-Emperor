@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问署川陕总督尚书席尔达居官如何，伊桑阿等奏其居官好，康熙帝评其练达有方。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "署川陕总督事务尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13303,
+ "page_range": "276-277"
+}

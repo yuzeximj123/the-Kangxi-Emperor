@@ -1,0 +1,20 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "念孔子为万世之师、阙里为圣人之地，特发帑金修葺庙宇。",
+ "people": [
+  {
+   "name": "孔子",
+   "role": "万世之师"
+  }
+ ],
+ "places": [
+  "阙里"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22107,
+ "page_range": "454-455"
+}

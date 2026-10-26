@@ -1,0 +1,22 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "十五日甲午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早出东华门、崇文门观视贡甸田禾，当日驻于通州新各庄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "崇文门",
+  "通州新各庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19301,
+ "page_range": "398-399"
+}

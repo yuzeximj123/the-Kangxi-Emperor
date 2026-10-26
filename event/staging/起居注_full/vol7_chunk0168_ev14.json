@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "初八日丙申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕礼部自本月十一日至十三日祈雨三日，因尚书贝和诺懒惰懈弛，令户部尚书称和伦代伊祈祷。",
+ "people": [
+  {
+   "name": "傻子",
+   "role": "奏事"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "贝和诺",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "称和伦",
+   "role": "户部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16814,
+ "page_range": "347-348"
+}

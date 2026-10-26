@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部尚书索诺和员缺，康熙帝命九门提督凯音布补授兵部尚书，仍暂带管九门提督步兵事，并停其巡夜。",
+ "people": [
+  {
+   "name": "索诺和",
+   "role": "兵部尚书（员缺）"
+  },
+  {
+   "name": "传腊塔",
+   "role": "左都御史"
+  },
+  {
+   "name": "凯音布",
+   "role": "九门提督，补授兵部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15300,
+ "page_range": "316-317"
+}

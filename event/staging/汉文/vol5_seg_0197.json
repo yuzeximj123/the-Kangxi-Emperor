@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年四月二十二日",
+ "reign_year": 53,
+ "month": 4,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "贵西总兵官张朝午专差家人赍折恭请圣安，并附进土产药材柳种，恳请皇上赐收，以尽孝敬之心。",
+ "people": [
+  {
+   "name": "张朝午",
+   "role": "提督贵西总兵官左都督，奏折具奏人"
+  },
+  {
+   "name": "朱文玉",
+   "role": "张朝午家人，专差赍折进京"
+  }
+ ],
+ "places": [
+  "贵西",
+  "边方"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知自己安好，所奏之事已知晓。",
+ "source_title": "廣西提督張朝午奏請聖安並進土產藥材摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1560",
+ "order_index": 197
+}

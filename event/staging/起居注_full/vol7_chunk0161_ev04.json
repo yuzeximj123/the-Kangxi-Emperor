@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初七日丙申",
+ "event_role": "司法案件",
+ "summary": "刑部等覆安徽巡抚叶九思题白亮公与白景荣争水角口，白亮公夺铁还击致白景荣伤重殒命，拟斩监候，康熙帝以满汉文不符命查奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶九思",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "白亮公",
+   "role": "案犯"
+  },
+  {
+   "name": "白景荣",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16104,
+ "page_range": "333-334"
+}

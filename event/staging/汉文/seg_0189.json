@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙肆拾陆年捌月拾壹日",
+ "reign_year": 46,
+ "month": 8,
+ "day": 11,
+ "event_role": "奏报地方情形",
+ "summary": "江宁巡抚郎廷极奏报已将西洋人丽嘉宾、石可圣、林济各三人差人护送进京。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "奏报人"
+  },
+  {
+   "name": "丽嘉宾",
+   "role": "涉及人物"
+  },
+  {
+   "name": "石可圣",
+   "role": "涉及人物"
+  },
+  {
+   "name": "林济各",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "奏为护送西洋人进京摺",
+ "order_index": 189
+}

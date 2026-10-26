@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "都御史于成龙等奏请将湖滩河朔仓米运三千五百石至喀拉木伦交大将军费扬古，请旨定夺。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "都御史"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "喀拉木伦",
+  "湖滩河朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16905,
+ "page_range": "348-349"
+}

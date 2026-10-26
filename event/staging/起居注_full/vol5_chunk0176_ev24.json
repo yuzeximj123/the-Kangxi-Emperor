@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "初一日癸未",
+ "event_role": "其他",
+ "summary": "被俘为奴之厄鲁特人等，康熙帝皆赐其本主银使赎还之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "厄鲁特俘奴",
+   "role": "被俘为奴者"
+  },
+  {
+   "name": "本主",
+   "role": "俘奴主人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17624,
+ "page_range": "362-363"
+}

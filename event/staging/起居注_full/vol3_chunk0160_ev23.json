@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "十八日洱未",
+ "event_role": "其他",
+ "summary": "左都御史陈廷敬、内阁学士牛钮、徐乾学捧《鉴古辑览》一百卷进呈御览，康熙帝命留览。",
+ "people": [
+  {
+   "name": "陈廷敬",
+   "role": "左都御史"
+  },
+  {
+   "name": "牛钮",
+   "role": "内阁学士"
+  },
+  {
+   "name": "徐乾学",
+   "role": "内阁学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16023,
+ "page_range": "355-356"
+}

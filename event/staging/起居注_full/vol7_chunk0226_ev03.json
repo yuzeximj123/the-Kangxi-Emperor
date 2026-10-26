@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "十一日王搬",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御东门赐达赖喇嘛请安人等食并亲赐车臣台吉敦多普达锡酒。",
+ "people": [
+  {
+   "name": "噶尔丹张译喀木布",
+   "role": "达赖喇嘛请安人"
+  },
+  {
+   "name": "素扎押额木齐喇臧汗",
+   "role": "使人"
+  },
+  {
+   "name": "车臣台吉敦多普达锡",
+   "role": "使人"
+  }
+ ],
+ "places": [
+  "东门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22603,
+ "page_range": "463-464"
+}

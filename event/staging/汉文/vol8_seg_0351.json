@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙六十年十月初一日",
+ "reign_year": 60,
+ "month": 10,
+ "day": 1,
+ "event_role": "人事任免",
+ "summary": "川陕总督年羹尧奏请以散赈来陕的户部主事傅德补授西安粮道，并陈明自己荐人无私、恳请圣主鉴察施行。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "川陕总督，奏请人"
+  },
+  {
+   "name": "傅德",
+   "role": "户部主事，被荐补授西安粮道"
+  },
+  {
+   "name": "祖允煐",
+   "role": "前任西安粮道，任意亏空"
+  }
+ ],
+ "places": [
+  "西安",
+  "四川",
+  "陕西",
+  "秦蜀"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批称已有旨了，钦此。",
+ "source_title": "川陝總督年羹堯奏請以傅德肯補授西安糧道摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2959",
+ "order_index": 351
+}

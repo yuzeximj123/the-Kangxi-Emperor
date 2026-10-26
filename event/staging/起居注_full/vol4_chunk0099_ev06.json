@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 1,
+ "day_text": "初三日乙未",
+ "event_role": "谕旨决策",
+ "summary": "御史李时谦奏疏，康熙帝降旨自省薄德致民贫灾甚，并命九卿詹事科道会议于成龙事及审刑衙门等弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李时谦",
+   "role": "御史"
+  },
+  {
+   "name": "徐元文",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9906,
+ "page_range": "210-211"
+}

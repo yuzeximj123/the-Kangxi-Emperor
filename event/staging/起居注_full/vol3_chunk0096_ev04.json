@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "阿尔尼、佛伦传谕关保所奏二事：进兵时顺风助战、驻军时鹿群自山趋下供军食，今平定故宣示。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲随侍卫"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "传谕大臣"
+  },
+  {
+   "name": "佛伦",
+   "role": "传谕大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9604,
+ "page_range": "227-228"
+}

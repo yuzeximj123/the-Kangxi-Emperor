@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾伍年拾贰月贰拾捌日",
+ "reign_year": 55,
+ "month": 12,
+ "day": 28,
+ "event_role": "请安谢恩",
+ "summary": "江西巡抚佟国勷奏报其侄法海蒙恩特授广东巡抚并抵江西，代呈法海奏折，谢恩并表尽心图报之意。",
+ "people": [
+  {
+   "name": "佟国勷",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "法海",
+   "role": "广东巡抚（佟国勷之侄）"
+  },
+  {
+   "name": "陆祥",
+   "role": "家人（赍送奏折者）"
+  }
+ ],
+ "places": [
+  "江西",
+  "广东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知。",
+ "source_title": "江西巡抚佟国勷奏谢恩准法海署理巡抚摺（康熙五十五年十二月二十八日）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 294
+}

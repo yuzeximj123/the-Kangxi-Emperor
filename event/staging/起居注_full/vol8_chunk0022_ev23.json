@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初九日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论假称旨意之罪甚可恶不可不惩，举永平府等处假称旨意案例，申明须面君核实方可行刑。",
+ "people": [
+  {
+   "name": "巴哈拉",
+   "role": "员外郎"
+  },
+  {
+   "name": "李永贵",
+   "role": "洪阳道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "永平府",
+  "洪阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2223,
+ "page_range": "55-56"
+}

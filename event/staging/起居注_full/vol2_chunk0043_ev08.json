@@ -1,0 +1,37 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "十四日",
+ "event_role": "人事任免",
+ "summary": "守备黄明以军功改授知府，康熙帝询问后从部议准行，但谕不可为常例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "黄明",
+   "role": "守备"
+  },
+  {
+   "name": "王全春",
+   "role": "前陕西官员"
+  }
+ ],
+ "places": [
+  "岳州",
+  "巩昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4308,
+ "page_range": "129-130"
+}

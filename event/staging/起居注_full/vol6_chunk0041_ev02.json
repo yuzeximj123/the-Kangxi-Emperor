@@ -1,0 +1,21 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "初一日甲成",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝启行至河合站登舟，驻于武清县红庙梗子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河合站",
+  "武清县红庙梗子"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4102,
+ "page_range": "92-93"
+}

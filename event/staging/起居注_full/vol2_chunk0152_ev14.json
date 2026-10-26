@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十六日己丑",
+ "event_role": "弹劾参奏",
+ "summary": "湖广巡抚王新命荐举武昌道卢崇兴等五员，康熙帝称钱永肤非贤而当举之人，令将荐举内人再行详究具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "卢崇兴",
+   "role": "武昌道"
+  },
+  {
+   "name": "钱永肤",
+   "role": "被荐举人"
+  }
+ ],
+ "places": [
+  "湖广",
+  "武昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15214,
+ "page_range": "347-348"
+}

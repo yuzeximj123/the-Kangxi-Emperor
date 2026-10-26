@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "初九日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部题补户部员外郎，康熙帝认为达礼胡庸劣，欲以翁格纳补授，询问后因达礼胡操守清而仍补达礼胡。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达礼胡",
+   "role": "原任御史"
+  },
+  {
+   "name": "翁格纳",
+   "role": "户部主事"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1403,
+ "page_range": "71-72"
+}

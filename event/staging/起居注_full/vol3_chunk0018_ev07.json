@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初四日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补监察御史于瑜降调员缺，正拟刑部郎中李锁、陪拟吏部郎中马君宠，康熙帝询问后命补授李锁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李锁",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "马君宠",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "于瑜",
+   "role": "监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1807,
+ "page_range": "71-72"
+}

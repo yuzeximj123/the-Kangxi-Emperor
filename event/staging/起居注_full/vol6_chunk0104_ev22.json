@@ -1,0 +1,38 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "十二日戊申",
+ "event_role": "人事任免",
+ "summary": "伊桑阿奏侍读学士舒略诚实、满图堪用；康熙帝询问御史白硕色，钱齐保不知，帝命补授白硕色为学士以示众人。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "舒略",
+   "role": "侍读学士"
+  },
+  {
+   "name": "满图",
+   "role": "侍读学士"
+  },
+  {
+   "name": "白硕色",
+   "role": "御史"
+  },
+  {
+   "name": "钱齐保",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10422,
+ "page_range": "218-219"
+}

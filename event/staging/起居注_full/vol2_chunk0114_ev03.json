@@ -1,0 +1,35 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "二十日戊成",
+ "event_role": "朝见受贺",
+ "summary": "桃林等处官员宫爱、傅昌、根式、佟世锡等来朝。",
+ "people": [
+  {
+   "name": "宫爱",
+   "role": "工部员外郎"
+  },
+  {
+   "name": "傅昌",
+   "role": "副将署都督同知"
+  },
+  {
+   "name": "根式",
+   "role": "协领"
+  },
+  {
+   "name": "佟世锡",
+   "role": "永平府知府"
+  }
+ ],
+ "places": [
+  "桃林",
+  "山营",
+  "湾州",
+  "永平府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11403,
+ "page_range": "271-272"
+}

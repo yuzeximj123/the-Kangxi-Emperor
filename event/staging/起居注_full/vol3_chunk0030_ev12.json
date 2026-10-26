@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "初八日王寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕福善留温泉养病，令兄弟用心护视、医官加意调治，并不时奏报病势。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  }
+ ],
+ "places": [
+  "温泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3012,
+ "page_range": "95-96"
+}

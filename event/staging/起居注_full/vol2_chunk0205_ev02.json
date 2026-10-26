@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "福建提督施琅题报澎湖已克、台湾不日可下，请议设兵；康熙帝嘉其奋勇攻克澎湖，命增写票签拟旨。",
+ "people": [
+  {
+   "name": "施琅",
+   "role": "福建提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "澎湖",
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20502,
+ "page_range": "453-454"
+}

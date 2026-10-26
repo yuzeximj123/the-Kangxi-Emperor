@@ -1,0 +1,22 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官满保、查异记录。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "起居注官"
+  },
+  {
+   "name": "查异",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17801,
+ "page_range": "366-367"
+}

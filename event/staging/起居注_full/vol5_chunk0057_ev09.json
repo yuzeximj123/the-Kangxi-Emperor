@@ -1,0 +1,36 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "初六日戊成",
+ "event_role": "人事任免",
+ "summary": "康熙帝以余泰来长芦出差倡率商人助船运米甚效力，命内升；任弘嘉非办事之人，此次外转停止。",
+ "people": [
+  {
+   "name": "余泰来",
+   "role": "御史"
+  },
+  {
+   "name": "任弘嘉",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "长芦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5709,
+ "page_range": "124-125"
+}

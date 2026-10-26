@@ -1,0 +1,38 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝赐食于台吉车臣、阿玉西、巴达喇虎及西安将军马喇、副都统西尔哈达等，并命侍卫送酒。",
+ "people": [
+  {
+   "name": "车臣",
+   "role": "台吉"
+  },
+  {
+   "name": "阿玉西",
+   "role": "台吉"
+  },
+  {
+   "name": "巴达喇虎",
+   "role": "台吉"
+  },
+  {
+   "name": "马喇",
+   "role": "西安将军"
+  },
+  {
+   "name": "西尔哈达",
+   "role": "副都统"
+  },
+  {
+   "name": "宛舒克",
+   "role": "公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16400,
+ "page_range": "340-341"
+}

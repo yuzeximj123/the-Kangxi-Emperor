@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "二十日庚辰",
+ "event_role": "司法案件",
+ "summary": "覆请刑部汇题案内打死家人七儿之索柱革退秀才一事，康熙帝依议并命查奏索柱系何人子孙。",
+ "people": [
+  {
+   "name": "索柱",
+   "role": "武秀才"
+  },
+  {
+   "name": "七儿",
+   "role": "家人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13710,
+ "page_range": "285-286"
+}

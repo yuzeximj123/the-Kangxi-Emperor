@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "初七日己本",
+ "event_role": "人事任免",
+ "summary": "兵部题镶白旗满洲都统莽吉禄员缺，康熙帝以伊勒慎人材颇优，命升补都统。",
+ "people": [
+  {
+   "name": "莽吉禄",
+   "role": "镶白旗满洲都统"
+  },
+  {
+   "name": "伊勒慎",
+   "role": "拟升都统"
+  },
+  {
+   "name": "班达尔沙",
+   "role": "蒙古都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17017,
+ "page_range": "352-353"
+}

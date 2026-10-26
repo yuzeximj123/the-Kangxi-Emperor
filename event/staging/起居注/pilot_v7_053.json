@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十五年十四日戊辰",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十四日戊辰",
+ "event_role": "收到奏折",
+ "summary": "两广总督郭世隆回奏运使陆曾亏空银两分年带征事，康熙帝令与范时崇等所题一并议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭世隆",
+   "role": "两广总督"
+  },
+  {
+   "name": "陆曾",
+   "role": "运使"
+  },
+  {
+   "name": "范时崇",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3053
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议将苦佳进调补泗城副将，康熙命将本发回，令部查明应升之员再议具奏。",
+ "people": [
+  {
+   "name": "苦佳进",
+   "role": "副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "泗城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12900,
+ "page_range": "269-270"
+}

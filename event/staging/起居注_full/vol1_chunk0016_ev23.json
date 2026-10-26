@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 6,
+ "day_text": "二十日甲午",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝与傅达礼论水旱蝗灾，忧江南尤其。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "翰林院学士"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1623,
+ "page_range": "89-90"
+}

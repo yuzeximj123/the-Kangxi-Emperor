@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十五日戊子",
+ "event_role": "朝见受贺",
+ "summary": "早康熙帝御太和门视朝，文武升转官员谢恩，鲁特部落噶尔当博硕克图汗来使卓礼克图温布等行礼，赐茶后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卓礼克图温布",
+   "role": "鲁特部落来使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15203,
+ "page_range": "347-348"
+}

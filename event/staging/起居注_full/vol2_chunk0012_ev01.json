@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "甘肃巡抚巴锡题报西宁土司吉天锡病故，请令其孙吉大永袭职，部覆不允，康熙帝命照所请再议。",
+ "people": [
+  {
+   "name": "巴锡",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "吉天锡",
+   "role": "西宁土司"
+  },
+  {
+   "name": "吉象泰",
+   "role": "吉天锡之子"
+  },
+  {
+   "name": "吉大永",
+   "role": "吉象泰之子"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1201,
+ "page_range": "67-68"
+}

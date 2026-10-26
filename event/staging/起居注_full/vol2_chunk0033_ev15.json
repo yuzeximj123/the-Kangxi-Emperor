@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": "十七日辛未",
+ "event_role": "人事任免",
+ "summary": "兵部覆贝子章泰疏请投诚提督李本深来京，康熙帝询问大学士，明珠赞同部议，康熙帝准行。",
+ "people": [
+  {
+   "name": "章泰",
+   "role": "贝子"
+  },
+  {
+   "name": "李本深",
+   "role": "投诚提督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3315,
+ "page_range": "109-110"
+}

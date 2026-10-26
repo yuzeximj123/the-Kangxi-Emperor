@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": "二十四日于辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问湖广总兵额伦特，侍郎胡作梅称其居官好、地方有裨益，帝称其声名好操守清。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额伦特",
+   "role": "湖广总兵官"
+  },
+  {
+   "name": "胡作梅",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8117,
+ "page_range": "173-174"
+}

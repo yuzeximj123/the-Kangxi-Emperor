@@ -1,0 +1,21 @@
+{
+ "reign_year": 15,
+ "month": 10,
+ "day_text": "初七日丙辰",
+ "event_role": "其他",
+ "summary": "康熙帝幸泳台，阅天下中式武举马步箭后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "泳台",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12240,
+ "page_range": "301-302"
+}

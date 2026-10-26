@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "十三日乙卯",
+ "event_role": "司法案件",
+ "summary": "审阅强奸之米八、张五，上以盛五得张五银二十两明是卖奸，大有可疑，不必勾。",
+ "people": [
+  {
+   "name": "米八",
+   "role": "罪犯"
+  },
+  {
+   "name": "张五",
+   "role": "罪犯"
+  },
+  {
+   "name": "盛五",
+   "role": "涉案人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13912,
+ "page_range": "289-290"
+}

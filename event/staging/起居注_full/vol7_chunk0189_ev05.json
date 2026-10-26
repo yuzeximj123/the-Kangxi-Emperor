@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初九日甲子",
+ "event_role": "弹劾参奏",
+ "summary": "吏部覆内监试监察御史阿尔赛等题参正主考赵申乔等顺天府乡试榜文揭晓过期，请照例各罚俸三个月。",
+ "people": [
+  {
+   "name": "阿尔赛",
+   "role": "内监试监察御史"
+  },
+  {
+   "name": "赵申乔",
+   "role": "都察院左都御史、正主考"
+  }
+ ],
+ "places": [
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18905,
+ "page_range": "389-390"
+}

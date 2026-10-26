@@ -1,0 +1,21 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "二十七日戊子",
+ "event_role": "皇帝行止",
+ "summary": "午时，康熙帝由崇文门进东华门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "崇文门",
+  "东华门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6634,
+ "page_range": "142-143"
+}

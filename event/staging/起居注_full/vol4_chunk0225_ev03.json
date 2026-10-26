@@ -1,0 +1,34 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙指初五日谢恩时刑部员外郎万象失仪，监察御史多散、杨念祖、吴一旨等不纠参，命交部严察议处。",
+ "people": [
+  {
+   "name": "万象",
+   "role": "刑部员外郎"
+  },
+  {
+   "name": "多散",
+   "role": "监察御史"
+  },
+  {
+   "name": "杨念祖",
+   "role": "监察御史"
+  },
+  {
+   "name": "吴一旨",
+   "role": "监察御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22503,
+ "page_range": "462-463"
+}

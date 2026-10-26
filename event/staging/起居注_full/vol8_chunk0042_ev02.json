@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕九卿教习庶吉士当读正经书兼重诗文，并命修书对书处派庶吉士行走。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王敬铭",
+   "role": "一甲第一名"
+  },
+  {
+   "name": "魏廷珍",
+   "role": "一甲第三名"
+  }
+ ],
+ "places": [
+  "武英殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4202,
+ "page_range": "95-96"
+}

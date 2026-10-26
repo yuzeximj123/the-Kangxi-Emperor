@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "康熙帝命至南书房赐食，汤斌谢恩而出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "南书房"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16208,
+ "page_range": "359-360"
+}

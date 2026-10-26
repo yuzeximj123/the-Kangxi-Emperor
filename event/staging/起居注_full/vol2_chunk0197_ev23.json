@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "二十九日庚午",
+ "event_role": "人事任免",
+ "summary": "吏部题补侍读学士孙在丰升任员缺，康熙帝询问后命以王封澜补授侍讲学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙在丰",
+   "role": "侍读学士"
+  },
+  {
+   "name": "卢琦",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "王封澜",
+   "role": "庶子"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19723,
+ "page_range": "437-438"
+}

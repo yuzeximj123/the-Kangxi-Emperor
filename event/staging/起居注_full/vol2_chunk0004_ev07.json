@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十九日乙雍",
+ "event_role": "人事任免",
+ "summary": "大将军图海请立汉中一营，题守备王化兴为副将，兵部以升副将太优不允，康熙以王化兴效力素闻，命依所请升补。",
+ "people": [
+  {
+   "name": "图海",
+   "role": "大将军"
+  },
+  {
+   "name": "王化兴",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "汉中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 407,
+ "page_range": "51-52"
+}

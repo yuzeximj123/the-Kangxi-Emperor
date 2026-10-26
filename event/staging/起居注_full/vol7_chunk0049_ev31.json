@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "二十六日王申",
+ "event_role": "谕旨决策",
+ "summary": "议定每被火房一间偿银三两，康熙帝命亲近侍卫海青等监视给散。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海青",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4931,
+ "page_range": "109-110"
+}

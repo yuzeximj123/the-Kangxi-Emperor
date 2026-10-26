@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "二十三日美卯",
+ "event_role": "司法案件",
+ "summary": "三法司议强贼刘君启等拟立斩，康熙帝从明珠议，将自首之刘桂之改为秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "刘君启",
+   "role": "强贼"
+  },
+  {
+   "name": "刘桂之",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7602,
+ "page_range": "195-196"
+}

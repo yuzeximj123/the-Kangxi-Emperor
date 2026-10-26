@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "十八日丁",
+ "event_role": "谕旨决策",
+ "summary": "兵部议原任黄岩总兵标下守备鲍子仪等出洋遇风船碎应赔补并查参，康熙帝以海船本为护商渔而设，斥其不合，令再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鲍子仪",
+   "role": "原任黄岩总兵官标下中营守备"
+  }
+ ],
+ "places": [
+  "黄岩"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19307,
+ "page_range": "398-399"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "初七日丙辰",
+ "event_role": "人事任免",
+ "summary": "都御史李楠致书知府赵风诏拟革职，康熙帝询问马齐后命李楠从宽免革职，降五级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "李楠",
+   "role": "都御史"
+  },
+  {
+   "name": "赵风诏",
+   "role": "知府"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2320,
+ "page_range": "57-58"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记录本日起居注官为史世、塞尔图。",
+ "people": [
+  {
+   "name": "史世",
+   "role": "起居注官"
+  },
+  {
+   "name": "塞尔图",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7402,
+ "page_range": "159-160"
+}

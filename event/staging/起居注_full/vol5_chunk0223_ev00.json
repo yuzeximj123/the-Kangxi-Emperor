@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十五日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸黄河西岸沙刺树，遣阿拉布潭等往呼户诺尔台吉处宣谕后回奏诸台吉愿来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿拉布潭",
+   "role": "多罗额驸"
+  },
+  {
+   "name": "德木楚克",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "黄河西岸沙刺树",
+  "呼户诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22300,
+ "page_range": "456-457"
+}

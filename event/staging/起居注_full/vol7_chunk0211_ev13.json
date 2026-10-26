@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": "十三日丙申",
+ "event_role": "司法案件",
+ "summary": "覆请吏部所题海贼郑尽心等劫夺案，淮扬道王英谋等分别拟革职降级调用，康熙帝令从宽免革职调用，各降二级留任戴罪效力。",
+ "people": [
+  {
+   "name": "郑尽心",
+   "role": "海贼"
+  },
+  {
+   "name": "王英谋",
+   "role": "淮扬道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "淮扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21113,
+ "page_range": "433-434"
+}

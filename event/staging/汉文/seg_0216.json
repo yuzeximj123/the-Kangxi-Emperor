@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十七年正月二十二日",
+ "reign_year": 47,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "陕西提督潘育龙奏请将潼关营千总张世奇补授提标右营守备员缺。",
+ "people": [
+  {
+   "name": "潘育龙",
+   "role": "奏报人"
+  },
+  {
+   "name": "张世奇",
+   "role": "涉及人物"
+  },
+  {
+   "name": "潘曾莹",
+   "role": "联署人"
+  }
+ ],
+ "places": [
+  "陕西",
+  "潼关"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批示知道了，表示已阅知此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "291",
+ "source_title": "陕西提督潘育龙奏为恳讨干员陆补提标右营守备摺",
+ "order_index": 216
+}

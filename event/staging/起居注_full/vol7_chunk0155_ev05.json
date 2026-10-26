@@ -1,0 +1,33 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": "二十六日乙卯",
+ "event_role": "朝见受贺",
+ "summary": "霸州防守御阿达哈、知州王之琦、游击钱俊，永清县知县路永龄等来朝见。",
+ "people": [
+  {
+   "name": "阿达哈",
+   "role": "霸州防守御"
+  },
+  {
+   "name": "王之琦",
+   "role": "霸州知州"
+  },
+  {
+   "name": "钱俊",
+   "role": "游击"
+  },
+  {
+   "name": "路永龄",
+   "role": "永清县知县"
+  }
+ ],
+ "places": [
+  "霸州",
+  "永清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15505,
+ "page_range": "321-322"
+}

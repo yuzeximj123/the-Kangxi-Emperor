@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 10,
+ "day_text": "初四日庚子",
+ "event_role": "其他",
+ "summary": "康熙帝复御乾清门，赐进贡台吉阿喇纳、杨我等及江南总督阿席熙食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿喇纳",
+   "role": "科和尔兴国二品台吉"
+  },
+  {
+   "name": "杨我",
+   "role": "吴喇戒部落三品台吉"
+  },
+  {
+   "name": "阿席熙",
+   "role": "江南总督"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5609,
+ "page_range": "169-170"
+}

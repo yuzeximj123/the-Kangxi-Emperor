@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "十九日辛酉",
+ "event_role": "祭祀典礼",
+ "summary": "卯时奉安大行太皇太后梓宫于宝殿之座，康熙帝五鼓即至，哀恸不止，亲扶梓宫升龙輴，行三跪九叩礼，痛哭良久。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "裕亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [
+  "享殿",
+  "宝殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2704,
+ "page_range": "66-67"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "十四日丙申",
+ "event_role": "人事任免",
+ "summary": "九卿詹事科道会推河南巡抚王日藻员缺，拟张集正、章钦文陪，康熙询问后升补章钦文为河南巡抚。",
+ "people": [
+  {
+   "name": "王日藻",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "张集",
+   "role": "佥都御史"
+  },
+  {
+   "name": "章钦文",
+   "role": "苏松布政使"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18007,
+ "page_range": "395-396"
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十一日甲戌",
+ "event_role": "奏报地方情形",
+ "summary": "康熙问吏治，汤斌奏称江南吏治自于成龙、余国柱后渐归醇谨，并称松江知府鲁超才具亦优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "余国柱",
+   "role": "官员"
+  },
+  {
+   "name": "鲁超",
+   "role": "松江知府"
+  }
+ ],
+ "places": [
+  "江南",
+  "松江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16116,
+ "page_range": "357-358"
+}

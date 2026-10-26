@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "初九日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "关保传谕议政大臣，令议遣夸色往欧德地方掘井事交前锋统领，议政大臣议奏交都统兼前锋统领硕秀，奉旨依议。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "夸色",
+   "role": "官员"
+  },
+  {
+   "name": "硕秀",
+   "role": "都统兼前锋统领"
+  }
+ ],
+ "places": [
+  "欧德"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10319,
+ "page_range": "216-217"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士马齐开列满汉大臣职名请差往巴尔库儿督理屯田，康熙帝命差海寿、梁世勋去。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "海寿",
+   "role": "副都御史、盛京兵部侍郎"
+  },
+  {
+   "name": "梁世勋",
+   "role": "汉大臣"
+  }
+ ],
+ "places": [
+  "巴尔库儿",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21306,
+ "page_range": "437-438"
+}

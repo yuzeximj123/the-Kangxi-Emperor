@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读唐太宗论长孙无忌及侍臣语论，称赞唐太宗偃武修文、安不忘危。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐太宗",
+   "role": "唐朝皇帝"
+  },
+  {
+   "name": "长孙无忌",
+   "role": "唐臣"
+  },
+  {
+   "name": "魏征",
+   "role": "唐臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11208,
+ "page_range": "236-237"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "十七日乙未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸玉田县城东。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "玉田县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11315,
+ "page_range": "269-270"
+}

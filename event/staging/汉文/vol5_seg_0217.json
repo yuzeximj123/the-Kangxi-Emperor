@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十二年五月二十五日",
+ "reign_year": 52,
+ "month": 5,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "镇筸总兵官董象台奏报苗民情形并恭请圣安，另附福建巡抚金鋐奏报台湾府陷失、百姓被害惨状。",
+ "people": [
+  {
+   "name": "董象台",
+   "role": "镇筸总兵官，奏报人"
+  },
+  {
+   "name": "金鋐",
+   "role": "福建巡抚，附奏人"
+  }
+ ],
+ "places": [
+  "镇筸",
+  "台湾府",
+  "福建",
+  "西宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，回应请安。",
+ "source_title": "鎮筸總兵官董象台奏報苗民情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1580",
+ "order_index": 217
+}

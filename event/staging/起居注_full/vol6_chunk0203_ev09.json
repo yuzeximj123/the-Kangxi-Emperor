@@ -1,0 +1,20 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "二十五日辛刻",
+ "event_role": "谕旨决策",
+ "summary": "御史魏寿期条奏汉中府田粮盐课增免、司坊官员回避、州县官禁止擅用非刑三事。",
+ "people": [
+  {
+   "name": "魏寿期",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "汉中府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20309,
+ "page_range": "416-417"
+}

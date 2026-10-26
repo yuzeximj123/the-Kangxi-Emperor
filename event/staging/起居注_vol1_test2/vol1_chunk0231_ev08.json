@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十九日戊午",
+ "event_role": "军务",
+ "summary": "兵部议都统毕里克图取阶州文县致迟赴略阳无容议处，康熙帝照部议结。",
+ "people": [
+  {
+   "name": "毕里克图",
+   "role": "都统"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "阶州",
+  "文县",
+  "略阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23108,
+ "page_range": "519-520"
+}

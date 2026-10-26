@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "于成龙奏称霸州游击万世泽恤兵爱民、捕盗勤慎，并述其运米时救护从役之事。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  },
+  {
+   "name": "万世泽",
+   "role": "霸州游击"
+  },
+  {
+   "name": "福善",
+   "role": "公"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3705,
+ "page_range": "84-85"
+}

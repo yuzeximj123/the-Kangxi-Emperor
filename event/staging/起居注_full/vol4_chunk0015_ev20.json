@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "陆祖修奏称海口若不尽开则以前所费钱粮可惜，康熙帝谓开海口乃必然应行之事，但当论下河当挑与否及重堤筑与不筑。",
+ "people": [
+  {
+   "name": "陆祖修",
+   "role": "九卿官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "海口",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1520,
+ "page_range": "42-43"
+}

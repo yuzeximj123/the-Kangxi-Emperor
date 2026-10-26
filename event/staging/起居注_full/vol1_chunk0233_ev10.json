@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初五日甲子",
+ "event_role": "军务",
+ "summary": "兵部议前锋统领硕岱在荆州不即渡江、永兴失利、阵亡骨殖不即收回，康熙帝命姑免拘禁令回私家，待穆占等回再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "硕岱",
+   "role": "前锋统领"
+  },
+  {
+   "name": "穆占",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "荆州",
+  "永兴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23310,
+ "page_range": "523-524"
+}

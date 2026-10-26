@@ -1,0 +1,33 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "十七日成实",
+ "event_role": "司法案件",
+ "summary": "就窃盗庞国求殴死陈文昌案，刑部拟斩监候秋后处决，康熙帝以律内谋杀得财者皆即处斩，令再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "灰寿",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "庞国求",
+   "role": "窃盗"
+  },
+  {
+   "name": "陈文昌",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13023,
+ "page_range": "271-272"
+}

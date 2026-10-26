@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述往年布尔尼反叛时色冷坚持不从、劝阻朱尔札哈王之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布尔尼",
+   "role": "反叛者"
+  },
+  {
+   "name": "色冷",
+   "role": "坚持不从者"
+  },
+  {
+   "name": "朱尔札哈王",
+   "role": "蒙古王公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12801,
+ "page_range": "299-300"
+}

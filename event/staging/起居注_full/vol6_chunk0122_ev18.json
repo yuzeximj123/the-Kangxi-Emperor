@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "初五日已刻",
+ "event_role": "人事任免",
+ "summary": "康熙帝命席尔达调补礼部尚书仍署总督事，马尔汉调补兵部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "马尔汉",
+   "role": "兵部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12218,
+ "page_range": "254-255"
+}

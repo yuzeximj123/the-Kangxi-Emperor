@@ -1,0 +1,36 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十九日辛未",
+ "event_role": "军务",
+ "summary": "兵部题总督巴锡参游击高鉴事，康熙以李芳述有声名，命遣部院堂官往审。",
+ "people": [
+  {
+   "name": "李芳述",
+   "role": "提督"
+  },
+  {
+   "name": "巴锡",
+   "role": "总督"
+  },
+  {
+   "name": "高鉴",
+   "role": "游击"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23118,
+ "page_range": "472-473"
+}

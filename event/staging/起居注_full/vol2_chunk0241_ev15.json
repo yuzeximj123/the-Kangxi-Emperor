@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "二十一日戊子",
+ "event_role": "人事任免",
+ "summary": "议正白旗原副都统博济世职承袭，康熙帝以汤蔓已管佐领，命择其已成立之弟承袭再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博济",
+   "role": "原任副都统"
+  },
+  {
+   "name": "富泰",
+   "role": "博济之孙"
+  },
+  {
+   "name": "汤蔓",
+   "role": "佐领"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24115,
+ "page_range": "525-526"
+}

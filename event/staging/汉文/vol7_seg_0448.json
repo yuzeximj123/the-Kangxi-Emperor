@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十六年六月十二日",
+ "reign_year": 56,
+ "month": 6,
+ "day": 12,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报扬州至苏州一带雨水调匀、禾苗茂盛、米价低廉、民心安定，并称御稻长势胜于去年，待收割后再行奏闻，同时表达对康熙避暑热河的依恋之情。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "扬州",
+  "苏州",
+  "热河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知晓，并提及此前已有旨意。",
+ "source_title": "蘇州織造李煦奏報蘇州雨水並報京城及各省得雨緣由摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2450",
+ "order_index": 448
+}

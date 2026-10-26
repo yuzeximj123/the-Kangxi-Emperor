@@ -1,0 +1,21 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "十六日辛西",
+ "event_role": "谕旨决策",
+ "summary": "工部覆黑龙江将军萨布素题木城已坏应重建，康熙命移文该将军筹划永久长策，不得累兵丁，一面兴工一面奏闻。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3313,
+ "page_range": "76-77"
+}

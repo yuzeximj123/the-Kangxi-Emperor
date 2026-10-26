@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十九年十月初二日",
+ "reign_year": 49,
+ "month": 10,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报扬州自入冬以来天气晴和、麦收丰稔、万民乐业，并进呈扬州九月晴雨册，恭请圣安。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "管理苏州织造、大理寺卿兼巡视两淮盐课监察御史，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州",
+  "福州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏進揚州晴雨冊摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "747",
+ "order_index": 48
+}

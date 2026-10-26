@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "十七日甲成",
+ "event_role": "人事任免",
+ "summary": "康熙帝命学士二格亲往牛郎山，择其子弟一人交付看守渡船事而回，以便教习庶吉士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "二格",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "牛郎山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11109,
+ "page_range": "233-234"
+}

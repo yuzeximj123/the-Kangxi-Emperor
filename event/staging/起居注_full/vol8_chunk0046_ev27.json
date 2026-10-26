@@ -1,0 +1,33 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": "十六日已丑",
+ "event_role": "朝见受贺",
+ "summary": "古北口管站员外郎罗音泰、同知郑富民、都司孙和孟鹿等及石匣营副将郑明等来朝。",
+ "people": [
+  {
+   "name": "罗音泰",
+   "role": "古北口管站员外郎"
+  },
+  {
+   "name": "郑富民",
+   "role": "同知"
+  },
+  {
+   "name": "孙和孟鹿",
+   "role": "都司"
+  },
+  {
+   "name": "郑明",
+   "role": "石匣营副将"
+  }
+ ],
+ "places": [
+  "古北口",
+  "石匣营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4627,
+ "page_range": "103-104"
+}

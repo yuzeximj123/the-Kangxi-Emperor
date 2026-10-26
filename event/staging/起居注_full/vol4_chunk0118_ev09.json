@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 4,
+ "day_text": "十八日己卯",
+ "event_role": "奏报地方情形",
+ "summary": "户部侍郎阿山等奏报沧州东安等处穷兵家口数目，康熙帝询问山东田禾雨水及河水情形，郎中周特奏对。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "周特",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "沧州",
+  "东安",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11809,
+ "page_range": "248-249"
+}

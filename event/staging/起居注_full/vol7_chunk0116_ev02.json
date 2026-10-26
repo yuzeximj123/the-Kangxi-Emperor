@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部审黑龙江闲散满洲黑色脚踢致死赖皮尼家陈尔平，拟绞监候，查明黑色系旧满洲，康熙帝依议并谕秋审宽宥后发往江南浙江。",
+ "people": [
+  {
+   "name": "黑色",
+   "role": "闲散满洲"
+  },
+  {
+   "name": "赖皮尼",
+   "role": "戏骑校"
+  },
+  {
+   "name": "陈尔平",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11602,
+ "page_range": "243-244"
+}

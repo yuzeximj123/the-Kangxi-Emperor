@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十三年七月二十九日",
+ "reign_year": 43,
+ "month": 7,
+ "day": 29,
+ "event_role": "奏报地方情形",
+ "summary": "四川提督岳昇龙奏报到任后整顿营务、清查饷银，并报今年雨水调顺、全蜀丰收。",
+ "people": [
+  {
+   "name": "岳昇龙",
+   "role": "奏报人"
+  }
+ ],
+ "places": [
+  "四川",
+  "川北",
+  "成都",
+  "川西",
+  "川南",
+  "川东"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "14",
+ "source_title": "四川提督岳昇龙奏报到任整顿营务并今年雨水调顺折",
+ "order_index": 12
+}

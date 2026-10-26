@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "都察院审高天培出首原任兵部尚书萨木哈家人塞克图等隐匿吴三桂下应入官之人属实，张五私通海贼事虚，康熙帝如所议。",
+ "people": [
+  {
+   "name": "高天培",
+   "role": "出首人"
+  },
+  {
+   "name": "萨木哈",
+   "role": "原任兵部尚书"
+  },
+  {
+   "name": "塞克图",
+   "role": "萨木哈家人"
+  },
+  {
+   "name": "张五",
+   "role": "涉案人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11604,
+ "page_range": "243-244"
+}

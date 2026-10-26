@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "十六日甲戌",
+ "event_role": "人事任免",
+ "summary": "兵部覆总督郭玫题镇竿营游击守备员缺请准题补湖广武锡，议不准行，帝以镇竿营系要地、郭玫所题补官员皆优，着照所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭玫",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "镇竿营",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18505,
+ "page_range": "380-381"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "十二日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "侍卫关保传谕，斥温保居官不堪残虐小民、甘度居官亦不堪，蒲州之民皆叛入山。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "温保",
+   "role": "官员"
+  },
+  {
+   "name": "甘度",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "蒲州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23812,
+ "page_range": "486-487"
+}

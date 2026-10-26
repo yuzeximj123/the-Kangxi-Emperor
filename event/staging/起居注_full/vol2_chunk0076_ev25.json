@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "二十九日己西",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝率皇太子自南郊围猎，驻张家湾东里二泗地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "南郊",
+  "张家湾东里二泗"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7625,
+ "page_range": "195-196"
+}

@@ -1,0 +1,44 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "二十三日丙戌",
+ "event_role": "人事任免",
+ "summary": "吏部题补湖广巡抚幕天颜调补员缺，康熙帝询问后命九卿会推。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "幕天颜",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "学士"
+  },
+  {
+   "name": "准洽",
+   "role": "大理寺卿"
+  },
+  {
+   "name": "石琳",
+   "role": "浙江布政使"
+  },
+  {
+   "name": "郎廷柜",
+   "role": "广东布政使"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4913,
+ "page_range": "133-134"
+}

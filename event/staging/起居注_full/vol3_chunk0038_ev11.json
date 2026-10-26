@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "初三日丙申",
+ "event_role": "其他",
+ "summary": "赐巴林王纳木达克、贝子吴尔占、温纯、多罗额阿喇布谈及台吉以下兵丁以上俱赐食。",
+ "people": [
+  {
+   "name": "纳木达克",
+   "role": "巴林王"
+  },
+  {
+   "name": "吴尔占",
+   "role": "贝子"
+  },
+  {
+   "name": "温纯",
+   "role": "贝子"
+  },
+  {
+   "name": "阿喇布谈",
+   "role": "多罗额"
+  }
+ ],
+ "places": [
+  "巴林"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3811,
+ "page_range": "111-112"
+}

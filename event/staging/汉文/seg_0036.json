@@ -1,0 +1,47 @@
+{
+ "date_raw": "康熙四十年三月",
+ "reign_year": 40,
+ "month": 3,
+ "day": null,
+ "event_role": "贸易漕运",
+ "summary": "李煦奏报与曹寅等会议选派莫尔森赴东洋，并报孙岳颁房屋兴建进度。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "曹寅",
+   "role": "涉及人物"
+  },
+  {
+   "name": "敖福合",
+   "role": "涉及人物"
+  },
+  {
+   "name": "莫尔森",
+   "role": "涉及人物"
+  },
+  {
+   "name": "孙岳颁",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "杭州",
+  "江宁",
+  "东洋"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙叮嘱出洋之事千万不可露出行迹。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "40",
+ "source_title": "苏州织造李煦奏陈杭州织造乌林达莫尔森可去东洋折",
+ "order_index": 36
+}

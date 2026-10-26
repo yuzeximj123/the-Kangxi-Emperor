@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十七年七月十六日",
+ "reign_year": 57,
+ "month": 7,
+ "day": 16,
+ "event_role": "司法案件",
+ "summary": "苏州织造李煦奏报常州府武进县捕役查获匪类，搜出纸條伪劄，供出华子文等十余名并已擒获，督抚正严饬缉捕党羽，奴才以风闻先奏。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "华子文",
+   "role": "被供出并擒获的匪类"
+  }
+ ],
+ "places": [
+  "常州府",
+  "武进县",
+  "常州城外钟驿前"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報蘇州收漕情形並進新米摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2658",
+ "order_index": 92
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "二十六日庚午",
+ "event_role": "人事任免",
+ "summary": "湖广提督俞益谟题请以连阳营游击段少臣等补授鲁州参将张国保等员缺，康熙帝依所请补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俞益谟",
+   "role": "湖广提督"
+  },
+  {
+   "name": "张国保",
+   "role": "鲁州参将"
+  },
+  {
+   "name": "段少臣",
+   "role": "连阳营游击"
+  }
+ ],
+ "places": [
+  "鲁州",
+  "连阳营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6613,
+ "page_range": "143-144"
+}

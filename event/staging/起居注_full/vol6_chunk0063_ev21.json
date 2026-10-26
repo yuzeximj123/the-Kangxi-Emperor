@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十四日甲午",
+ "event_role": "人事任免",
+ "summary": "兵部覆广州副都统魏黑纳员缺，将京口协领王世臣等引见；康熙帝令召彼处协领引见，称此缺非紧要。",
+ "people": [
+  {
+   "name": "魏黑纳",
+   "role": "广州副都统"
+  },
+  {
+   "name": "王世臣",
+   "role": "京口协领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广州",
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6321,
+ "page_range": "136-137"
+}

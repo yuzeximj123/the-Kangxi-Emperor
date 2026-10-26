@@ -1,0 +1,29 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "十七日成实",
+ "event_role": "军务",
+ "summary": "广西巡抚傅弘烈请亲率官兵进剿云贵，兵部议不允，康熙帝从索额图言不令前进。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅弘烈",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广西",
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19815,
+ "page_range": "453-454"
+}

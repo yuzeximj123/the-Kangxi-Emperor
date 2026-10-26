@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十六年七月初八日",
+ "reign_year": 56,
+ "month": 7,
+ "day": 8,
+ "event_role": "奏报灾情收成",
+ "summary": "两广总督杨琳奏报广东春夏雨水充足、早禾收割完毕，通省收成九至十分，各府米价平稳，晚禾已栽插且禾苗茂盛。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广总督"
+  }
+ ],
+ "places": [
+  "广东",
+  "广",
+  "惠",
+  "潮",
+  "肇",
+  "南",
+  "韶",
+  "高",
+  "雷",
+  "廉"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 469
+}

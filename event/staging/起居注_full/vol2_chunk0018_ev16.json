@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "二十七日壬午",
+ "event_role": "皇帝行止",
+ "summary": "因高皇后忌辰，康熙帝不理政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1816,
+ "page_range": "79-80"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请将原任西安将军席柱即行正法，康熙以正值军兴且席柱曾为将军，令暂收贮，俟避暑回日再议。",
+ "people": [
+  {
+   "name": "席柱",
+   "role": "原任西安将军"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18502,
+ "page_range": "381-382"
+}

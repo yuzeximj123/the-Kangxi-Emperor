@@ -1,0 +1,34 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "温达等奏白亮公打死绝服兄白景荣拟斩本内满文遗漏即字，询问刑部尚书齐世武等，康熙令白亮公依拟应斩监候秋后处决，并令饬行。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "白亮公",
+   "role": "案犯"
+  },
+  {
+   "name": "白景荣",
+   "role": "死者"
+  },
+  {
+   "name": "齐世武",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16309,
+ "page_range": "337-338"
+}

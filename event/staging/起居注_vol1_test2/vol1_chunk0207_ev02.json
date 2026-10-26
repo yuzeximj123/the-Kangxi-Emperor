@@ -1,0 +1,29 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝因出师荆州之郭尔罗斯部落三品台吉俄齐里率将士凯旋，遣内大臣寿世特等迎劳于天津。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俄齐里",
+   "role": "郭尔罗斯部落三品台吉"
+  },
+  {
+   "name": "寿世特",
+   "role": "内大臣"
+  }
+ ],
+ "places": [
+  "天津",
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20702,
+ "page_range": "471-472"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十六日癸巳",
+ "event_role": "人事任免",
+ "summary": "兵部题台湾总兵姚唐三年已满开列许凤等，康熙帝令姚唐再留三年。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚唐",
+   "role": "台湾总兵官"
+  },
+  {
+   "name": "许凤",
+   "role": "总兵官"
+  },
+  {
+   "name": "陈玉",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "台湾",
+  "浙闽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8817,
+ "page_range": "187-188"
+}

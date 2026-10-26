@@ -1,0 +1,38 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "温达奏荐侍读德音学问好、译汉文佳，请补侍读学士，康熙命将德音等两人授为额外侍读学士，缺出裁之。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "德音",
+   "role": "侍读"
+  },
+  {
+   "name": "张玉书",
+   "role": "官员"
+  },
+  {
+   "name": "把叙",
+   "role": "起居注左都御史"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2411,
+ "page_range": "59-60"
+}

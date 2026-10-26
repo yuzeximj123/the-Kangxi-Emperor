@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "户部题喇普他示等妄行告争田地一案，拟将杜棱等枷号鞭责、佟孝变价交部，康熙帝令田地或立官庄或拨驻防兵，交户部与内务府会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇普他示",
+   "role": "涉案人"
+  },
+  {
+   "name": "杜棱",
+   "role": "涉案人"
+  },
+  {
+   "name": "佟孝",
+   "role": "六品官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15605,
+ "page_range": "323-324"
+}

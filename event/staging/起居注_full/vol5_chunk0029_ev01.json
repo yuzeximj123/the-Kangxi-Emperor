@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "伊桑阿等奏赞善陆荣为人老实、学问好，康熙帝询问更深科分者，王熙举侍读学士李铠，康熙帝评李铠粗鲁、文学寻常，命陆荣升补内阁学士。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "陆荣",
+   "role": "赞善"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "李铠",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2901,
+ "page_range": "68-69"
+}

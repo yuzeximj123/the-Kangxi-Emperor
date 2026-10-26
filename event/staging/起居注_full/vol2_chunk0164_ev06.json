@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十九日王辰",
+ "event_role": "司法案件",
+ "summary": "议原任两广总督金光祖革职事，康熙帝查后给关防未送贼，念其勤劳，着依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "金光祖",
+   "role": "原任两广总督"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16406,
+ "page_range": "371-372"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "于成龙奏称即使非靳辅亲自放水，亦系其属官所为，靳辅不行约束，江南百姓欲食其肉。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "奏对官员"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1508,
+ "page_range": "42-43"
+}

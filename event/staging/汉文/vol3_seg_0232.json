@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾年玖月",
+ "reign_year": 50,
+ "month": 9,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "镇海将军马三奇奏报京口及江南各地丰收、米价平减、旗兵得借帑银置办生计，士民感戴圣恩。",
+ "people": [
+  {
+   "name": "马三奇",
+   "role": "镇海将军一等侯，奏报人"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士，被优恤之老臣"
+  }
+ ],
+ "places": [
+  "京口",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 232
+}

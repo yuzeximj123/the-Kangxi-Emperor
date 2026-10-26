@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "二十二日戊袖",
+ "event_role": "祭祀典礼",
+ "summary": "太常寺题徐元丙疏奏北郊配位事，康熙帝以众论不一命暂停，折子留内阁从容讨论。",
+ "people": [
+  {
+   "name": "徐元丙",
+   "role": "太常寺官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "徐乾学",
+   "role": "内阁学士"
+  },
+  {
+   "name": "韩莱",
+   "role": "内阁学士"
+  },
+  {
+   "name": "孙在丰",
+   "role": "翰林院学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12511,
+ "page_range": "285-286"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣等会议调遣兵马诸事，认为圣谕周详俱应钦奉施行，议定移文舒恕、孙思克、李林隆、阿南达、满丕等遵行。",
+ "people": [
+  {
+   "name": "舒恕",
+   "role": "将军"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "李林隆",
+   "role": "提督"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "满丕",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21406,
+ "page_range": "438-439"
+}

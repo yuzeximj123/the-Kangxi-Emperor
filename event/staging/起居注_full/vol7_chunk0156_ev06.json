@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "户部覆湖广容美土司田曼如请准所买民田勿赎一案，康熙帝令本暂收贮，待赵申乔到后问明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "田曼如",
+   "role": "湖广容美土司"
+  },
+  {
+   "name": "赵申乔",
+   "role": "升任巡抚"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15606,
+ "page_range": "323-324"
+}

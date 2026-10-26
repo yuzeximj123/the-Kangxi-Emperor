@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "二十六日乙雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕将迟误公文五日的马治德、遗失公文的金铎革去坐台按军法处斩，金匀仍行流徙，并令均平安设驿站。",
+ "people": [
+  {
+   "name": "马治德",
+   "role": "坐台回子"
+  },
+  {
+   "name": "金铎",
+   "role": "坐台"
+  },
+  {
+   "name": "金匀",
+   "role": "流徙者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23206,
+ "page_range": "474-475"
+}

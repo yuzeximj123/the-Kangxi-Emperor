@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙谕领侍卫内大臣，令安郡王同副都统雅图驻扎归化城，其下人等出役日入者令回京，并移咨费扬古。",
+ "people": [
+  {
+   "name": "安郡王",
+   "role": "郡王"
+  },
+  {
+   "name": "雅图",
+   "role": "副都统"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "归化城",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16901,
+ "page_range": "348-349"
+}

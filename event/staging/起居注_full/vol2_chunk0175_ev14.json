@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "二十七日己亥",
+ "event_role": "朝见受贺",
+ "summary": "巡察直隶尚书魏象枢、侍郎科尔坤、直隶巡抚格尔古德来朝。",
+ "people": [
+  {
+   "name": "魏象枢",
+   "role": "巡察直隶尚书"
+  },
+  {
+   "name": "科尔坤",
+   "role": "侍郎"
+  },
+  {
+   "name": "格尔古德",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "庆都县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17514,
+ "page_range": "393-394"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "二十六日丙午",
+ "event_role": "军务",
+ "summary": "康熙帝问运米至大军驻扎处路程，李先复奏郭多里到大军处尚二千四五百里，回湖滩河朔一千七八百里。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李先复",
+   "role": "兵部左侍郎"
+  },
+  {
+   "name": "艾芳曾",
+   "role": "接运官员"
+  }
+ ],
+ "places": [
+  "郭多里",
+  "湖滩河朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21718,
+ "page_range": "445-446"
+}

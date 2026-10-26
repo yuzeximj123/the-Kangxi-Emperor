@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅朝奇到处说谎钻刺案，与大学士议后令免勾，交刑部严加拘禁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朝奇",
+   "role": "案犯"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "俞文言",
+   "role": "同案人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24207,
+ "page_range": "495-496"
+}

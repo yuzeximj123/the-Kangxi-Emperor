@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读魏征十思疏论，强调慎始慎终、朝乾夕惕，杜讷对答称颂。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏征",
+   "role": "唐臣"
+  },
+  {
+   "name": "杜讷",
+   "role": "臣子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11209,
+ "page_range": "236-237"
+}

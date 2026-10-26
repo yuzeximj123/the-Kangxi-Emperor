@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "初二日庚成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召领侍卫内大臣、满汉大学士、九卿等，论册立皇太子事，斥索额图僭拟仪注，命酌古准今定议皇太子仪注。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "原大学士"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 311,
+ "page_range": "17-18"
+}

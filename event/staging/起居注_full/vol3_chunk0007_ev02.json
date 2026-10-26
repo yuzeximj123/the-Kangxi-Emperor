@@ -1,0 +1,40 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题浙江巡抚王国安升任员缺，开列内阁学士王守才等，康熙帝询问后以赵士麒补授。",
+ "people": [
+  {
+   "name": "王国安",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "王守才",
+   "role": "内阁学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "马世讲",
+   "role": "副都御史"
+  },
+  {
+   "name": "赵士麒",
+   "role": "副都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 702,
+ "page_range": "49-50"
+}

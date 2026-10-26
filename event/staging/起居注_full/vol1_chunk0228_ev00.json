@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就万正色、姚启圣军功议叙事降旨，认为姚启圣亦曾效力援剿，不可全无叙录，命仍着议叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "万正色",
+   "role": "将领"
+  },
+  {
+   "name": "姚启圣",
+   "role": "将领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22800,
+ "page_range": "513-514"
+}

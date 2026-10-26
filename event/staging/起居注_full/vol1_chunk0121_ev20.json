@@ -1,0 +1,24 @@
+{
+ "reign_year": 15,
+ "month": 9,
+ "day_text": "十二日辛卯",
+ "event_role": "朝见受贺",
+ "summary": "知县谢孝举、石匣游击李玉方等来朝。",
+ "people": [
+  {
+   "name": "谢孝举",
+   "role": "知县"
+  },
+  {
+   "name": "李玉方",
+   "role": "石匣游击"
+  }
+ ],
+ "places": [
+  "石匣"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12120,
+ "page_range": "299-300"
+}

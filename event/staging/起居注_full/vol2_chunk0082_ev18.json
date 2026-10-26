@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "初五日甲申",
+ "event_role": "其他",
+ "summary": "出征莉州阵亡镶红旗三等护卫色冷灵梯到来，康熙帝遣一等侍卫额尔济免往奠茶酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色冷",
+   "role": "阵亡镶红旗三等护卫"
+  },
+  {
+   "name": "额尔济免",
+   "role": "一等侍卫"
+  }
+ ],
+ "places": [
+  "莉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8218,
+ "page_range": "207-208"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 13,
+ "month": 3,
+ "day_text": "初五日已已",
+ "event_role": "朝见受贺",
+ "summary": "早，康熙帝御太和殿视朝，文武升转官员谢恩，喀尔喀部落布达里图布辛等及琉球国进贡正使吴美德、副使等行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布达里图布辛",
+   "role": "喀尔喀部落使者"
+  },
+  {
+   "name": "吴美德",
+   "role": "琉球国进贡正使耳目官"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6809,
+ "page_range": "193-194"
+}

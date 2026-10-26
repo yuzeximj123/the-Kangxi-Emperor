@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "十六日壬午",
+ "event_role": "人事任免",
+ "summary": "吏部题内升外转引见司官，库坦纳奏谈九乾曾保举、黎日升办事庸常。",
+ "people": [
+  {
+   "name": "库坦纳",
+   "role": "官员"
+  },
+  {
+   "name": "谈九乾",
+   "role": "司官"
+  },
+  {
+   "name": "黎日升",
+   "role": "司官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3325,
+ "page_range": "76-77"
+}

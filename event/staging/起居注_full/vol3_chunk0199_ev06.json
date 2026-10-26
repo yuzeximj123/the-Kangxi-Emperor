@@ -1,0 +1,21 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "十六日丙申",
+ "event_role": "其他",
+ "summary": "康熙帝发出御书扁额八面及定海山扁额一面，命转交礼部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "白鹿洞书院",
+  "天太书院"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19906,
+ "page_range": "433-434"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "工部题补司库员缺，拟勒贝为正、蒙古为陪，康熙以勒贝狂妄，命以原品随旗行走，补用拟陪之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒贝",
+   "role": "拟正司库"
+  },
+  {
+   "name": "蒙古",
+   "role": "拟陪司库"
+  },
+  {
+   "name": "齐色",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20102,
+ "page_range": "437-438"
+}

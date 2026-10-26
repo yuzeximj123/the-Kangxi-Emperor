@@ -1,0 +1,22 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "伊桑阿等奏称诸臣感念皇上体恤，并请康熙帝隔三四日御门一次听理，康熙帝以听政三十余年已成常规、不日日御门即觉不安为由拒绝，仍照常每日御门听政。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25101,
+ "page_range": "514-515"
+}

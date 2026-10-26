@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝责山东巡抚李炜居官不善、百姓乏食鬻子女而不奏闻，命传问九卿；又言直隶巡抚沈朝聘居官素优但年迈善忘，欲令原品致仕。",
+ "people": [
+  {
+   "name": "李炜",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3405,
+ "page_range": "78-79"
+}

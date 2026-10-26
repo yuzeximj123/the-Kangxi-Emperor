@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "二十五日丁卯",
+ "event_role": "朝见受贺",
+ "summary": "早康熙帝御太和门视朝，升转文武官员谢恩，朝正进贡喀尔喀部落土谢图汗来使行礼，礼毕赐茶并召头目至阶下赐之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "占木把拉",
+   "role": "喀尔喀来使头目"
+  },
+  {
+   "name": "科恨巴图尔",
+   "role": "台吉"
+  },
+  {
+   "name": "色勒业克",
+   "role": "来使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16907,
+ "page_range": "381-382"
+}

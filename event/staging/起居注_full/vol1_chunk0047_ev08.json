@@ -1,0 +1,23 @@
+{
+ "reign_year": 12,
+ "month": 7,
+ "day_text": "初九日两子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出午门，设卤簿，由正阳门幸南苑，驻中东宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "南苑",
+  "中东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4708,
+ "page_range": "151-152"
+}

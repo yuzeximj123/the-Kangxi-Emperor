@@ -1,0 +1,42 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "十五日丙实",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等以内阁侍读学士伊道员缺呈览，康熙帝命喇都浑补授，并斥阿尔毕忒虎无品行。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿玉特",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "喇都浑",
+   "role": "补授内阁侍读学士"
+  },
+  {
+   "name": "阿尔毕忒虎",
+   "role": "开列人员"
+  },
+  {
+   "name": "巴图赖",
+   "role": "前开列人员"
+  },
+  {
+   "name": "尹泰",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1224,
+ "page_range": "35-36"
+}

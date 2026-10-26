@@ -1,0 +1,24 @@
+{
+ "reign_year": 15,
+ "month": 12,
+ "day_text": "二十二日庚午",
+ "event_role": "军务",
+ "summary": "四川大兵班师回京，康熙帝遣内大臣、侍卫等祭奠阵亡前锋统领胡里布以下至护军校、骁骑校，并抚慰亡故将士妻子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡里布",
+   "role": "阵亡前锋统领"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12716,
+ "page_range": "311-312"
+}

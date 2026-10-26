@@ -1,0 +1,20 @@
+{
+ "reign_year": 24,
+ "month": 8,
+ "day_text": "二十五日美丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸上原。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "上原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10122,
+ "page_range": "237-238"
+}

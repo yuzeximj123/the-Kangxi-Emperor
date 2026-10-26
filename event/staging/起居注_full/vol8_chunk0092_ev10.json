@@ -1,0 +1,41 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "初五日庚午",
+ "event_role": "司法案件",
+ "summary": "刑部等覆请广东强盗唐阶、凌二别等照律正法，康熙帝命将造意为首、放火伤人者正法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "满不",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "陈行仁",
+   "role": "受害者"
+  },
+  {
+   "name": "黄亚三",
+   "role": "受害者"
+  },
+  {
+   "name": "唐阶",
+   "role": "强盗"
+  },
+  {
+   "name": "凌二别",
+   "role": "强盗"
+  }
+ ],
+ "places": [
+  "广东",
+  "廉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9210,
+ "page_range": "195-196"
+}

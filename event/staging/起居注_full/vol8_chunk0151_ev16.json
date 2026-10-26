@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": "二十五日",
+ "event_role": "议政听政",
+ "summary": "康熙帝问大学士马齐等是否见昨日九卿两议之朱批上谕，马齐、左都御史搢叙奏称议政会议曾述与贝子苏笃等，皆以为神。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "搢叙",
+   "role": "左都御史"
+  },
+  {
+   "name": "苏笃",
+   "role": "贝子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15116,
+ "page_range": "313-314"
+}

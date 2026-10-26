@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十八日已效",
+ "event_role": "军务",
+ "summary": "议政大臣奏言亲近侍卫关保传谕，大同喂马之新满洲护军二百名并自京师带来新满洲护军等事。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "大同",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19132,
+ "page_range": "392-393"
+}

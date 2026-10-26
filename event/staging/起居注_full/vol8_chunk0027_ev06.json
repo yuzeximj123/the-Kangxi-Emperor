@@ -1,0 +1,40 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题侍郎艾芳曾带胡琪对质高必弘病故事，康熙帝询问艾芳曾为人及审理办法，命于京中审理，需取供处行文赵申乔于彼处取供。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "艾芳曾",
+   "role": "侍郎"
+  },
+  {
+   "name": "胡琪",
+   "role": "原任广东惠潮道"
+  },
+  {
+   "name": "高必弘",
+   "role": "原任布政司"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2706,
+ "page_range": "65-66"
+}

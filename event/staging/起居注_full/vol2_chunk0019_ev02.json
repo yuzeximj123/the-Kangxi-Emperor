@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝复御乾清门，赐进贡的素曼、苏尼戒、科尔沁、翁牛特等部落王台吉茶。",
+ "people": [
+  {
+   "name": "俄齐尔",
+   "role": "多罗达和尔汉郡王"
+  },
+  {
+   "name": "阿育锡",
+   "role": "多罗杜棱郡王"
+  },
+  {
+   "name": "喇迪",
+   "role": "一品台吉"
+  },
+  {
+   "name": "吴尔土那素图",
+   "role": "四品台吉"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1902,
+ "page_range": "81-82"
+}

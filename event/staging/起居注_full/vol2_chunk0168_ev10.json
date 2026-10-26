@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部尚书郭四海病故员缺，康熙帝以总督哈占可用但川陕紧要，令留本待补帅颜保员缺一并启奏。",
+ "people": [
+  {
+   "name": "郭四海",
+   "role": "刑部尚书，病故"
+  },
+  {
+   "name": "喀尔图",
+   "role": "左都御史"
+  },
+  {
+   "name": "哈占",
+   "role": "总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "帅颜保",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "川陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16810,
+ "page_range": "379-380"
+}

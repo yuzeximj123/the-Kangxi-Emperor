@@ -1,0 +1,38 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "列载随从起居注官拒叙、常寿、党阿加、常簿、阿克教、阿尔赛。",
+ "people": [
+  {
+   "name": "拒叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "常寿",
+   "role": "起居注官"
+  },
+  {
+   "name": "党阿加",
+   "role": "起居注官"
+  },
+  {
+   "name": "常簿",
+   "role": "起居注官"
+  },
+  {
+   "name": "阿克教",
+   "role": "起居注官"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7221,
+ "page_range": "155-156"
+}

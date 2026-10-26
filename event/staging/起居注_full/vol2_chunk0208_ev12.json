@@ -1,0 +1,44 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "二十八日丁酉",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士达岱病故员缺，康熙帝询问麻尔图、图纳等人居官情况，命以麻尔图补授。",
+ "people": [
+  {
+   "name": "达岱",
+   "role": "内阁学士"
+  },
+  {
+   "name": "图纳",
+   "role": "詹事"
+  },
+  {
+   "name": "麻尔图",
+   "role": "陕西布政使"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "丹代",
+   "role": "侍读学士"
+  },
+  {
+   "name": "阿哈达",
+   "role": "侍读学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20812,
+ "page_range": "459-460"
+}

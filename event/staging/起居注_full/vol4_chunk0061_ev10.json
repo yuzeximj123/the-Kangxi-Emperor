@@ -1,0 +1,40 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十九日己卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝赐江南总督傅腊塔、巡抚洪之杰等及办理舟船夫役知县以上官员羊酒等物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "江南总督"
+  },
+  {
+   "name": "洪之杰",
+   "role": "巡抚"
+  },
+  {
+   "name": "江有良",
+   "role": "巡抚"
+  },
+  {
+   "name": "李国亮",
+   "role": "布政使"
+  },
+  {
+   "name": "郑端",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6110,
+ "page_range": "134-135"
+}

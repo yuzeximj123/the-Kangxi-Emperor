@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "三十日辛亥",
+ "event_role": "弹劾参奏",
+ "summary": "尚书介山纠参学士纪振疆将伊弟用为同知，又题参伪将军耿继美将所属王三英违则私带回京，康熙帝命交议政王会议。",
+ "people": [
+  {
+   "name": "介山",
+   "role": "尚书"
+  },
+  {
+   "name": "纪振疆",
+   "role": "学士"
+  },
+  {
+   "name": "耿继美",
+   "role": "伪将军"
+  },
+  {
+   "name": "王三英",
+   "role": "所属"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6315,
+ "page_range": "169-170"
+}

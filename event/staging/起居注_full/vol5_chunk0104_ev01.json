@@ -1,0 +1,36 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕议政大臣及大学士，因宣化镇兵未经操练不堪用，遣马武、阿尔拜前去拣择兵丁，不堪者拔回，并选足护送二十四位炮之兵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许盛",
+   "role": "前任宣化总兵官"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "阿尔拜",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宣化"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10401,
+ "page_range": "218-219"
+}

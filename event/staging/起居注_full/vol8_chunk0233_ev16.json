@@ -1,0 +1,25 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": "二十一日庚午",
+ "event_role": "司法案件",
+ "summary": "康熙帝又问戴保，责其先往海关时奏赵姓族众聚居或至作乱、往蒙古时奏扎赖特等修理器械有谋叛之意，多年并无动静，戴保不能对。",
+ "people": [
+  {
+   "name": "戴保",
+   "role": "被问者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "海关",
+  "蒙古地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23316,
+ "page_range": "477-478"
+}

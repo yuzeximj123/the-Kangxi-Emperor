@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "初七日己丑",
+ "event_role": "司法案件",
+ "summary": "刑部以刘大等吓诈成才拟正法，明珠等奏可改秋后，康熙准改秋后，并令将案内两太监行吓诈者于秋审时奏明惩治。",
+ "people": [
+  {
+   "name": "刘大",
+   "role": "案犯"
+  },
+  {
+   "name": "成才",
+   "role": "被吓诈者"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17905,
+ "page_range": "393-394"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "十五日甲子",
+ "event_role": "朝见受贺",
+ "summary": "驻防固安县防守御钟希布、都司李自芳等来朝。",
+ "people": [
+  {
+   "name": "钟希布",
+   "role": "防守御"
+  },
+  {
+   "name": "李自芳",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "固安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7815,
+ "page_range": "199-200"
+}

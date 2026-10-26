@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "二十一日庚子",
+ "event_role": "人事任免",
+ "summary": "宗人府题左宗正贝子准达员缺，康熙命章泰补授宗人府左宗正。",
+ "people": [
+  {
+   "name": "准达",
+   "role": "贝子左宗正"
+  },
+  {
+   "name": "章泰",
+   "role": "贝子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8610,
+ "page_range": "215-216"
+}

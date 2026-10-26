@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "初三日王子",
+ "event_role": "朝见受贺",
+ "summary": "河间府通判臧弘祖、杨村营守备侯庆凯等来朝见。",
+ "people": [
+  {
+   "name": "臧弘祖",
+   "role": "河间府通判"
+  },
+  {
+   "name": "侯庆凯",
+   "role": "杨村营守备"
+  }
+ ],
+ "places": [
+  "河间府",
+  "杨村营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7705,
+ "page_range": "197-198"
+}

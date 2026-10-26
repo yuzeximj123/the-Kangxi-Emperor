@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "二十四日奖丑",
+ "event_role": "议政听政",
+ "summary": "覆请户部议山西巡抚苏克济奏销各官捐买米价一案，康熙帝询问松柱意见，命查明各省买米价一并具奏。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14209,
+ "page_range": "295-296"
+}

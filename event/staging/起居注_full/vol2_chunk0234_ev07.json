@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十六日癸刻",
+ "event_role": "司法案件",
+ "summary": "刑部议在平知县举首克什图经过其地以私事嘱托，康熙帝命从部议，并嘉奖该知县议叙以止嘱托之风。",
+ "people": [
+  {
+   "name": "克什图",
+   "role": "防御"
+  },
+  {
+   "name": "屠绷",
+   "role": "在平知县"
+  }
+ ],
+ "places": [
+  "在平"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23407,
+ "page_range": "511-512"
+}

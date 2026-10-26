@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "二十八日成申",
+ "event_role": "弹劾参奏",
+ "summary": "御史故充美奏请敕各部堂官虚心裁决、厘剔私弊，康熙帝命该部议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "故充美",
+   "role": "御史"
+  },
+  {
+   "name": "于连芳",
+   "role": "刑部司官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7621,
+ "page_range": "195-196"
+}

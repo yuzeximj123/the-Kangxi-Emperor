@@ -1,0 +1,36 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "二十七日辛卯",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝览湖广总督郭琇所查杨凤起、赵国琏等事，令移文郭琇再查刚五达等往审公与不公及途中是否乱行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭琇",
+   "role": "湖广总督"
+  },
+  {
+   "name": "杨凤起",
+   "role": "被查官员"
+  },
+  {
+   "name": "赵国琏",
+   "role": "被查官员"
+  },
+  {
+   "name": "刚五达",
+   "role": "往审官员"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12108,
+ "page_range": "252-253"
+}

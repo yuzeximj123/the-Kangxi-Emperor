@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "十一日癸丑",
+ "event_role": "人事任免",
+ "summary": "吏部题升任刑部侍郎传腊塔员缺，康熙帝以阿喇密为人诚实，着升补侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿喇密",
+   "role": "学士"
+  },
+  {
+   "name": "传腊塔",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "凯音布",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2517,
+ "page_range": "62-63"
+}

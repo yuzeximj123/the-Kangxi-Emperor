@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "十二日甲子",
+ "event_role": "人事任免",
+ "summary": "覆请户部题更换江南海关监督倭黑，开列刑部主事张保等职名，康熙令部院再行保举有品行勤慎年久者，并欲调补刑部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭黑",
+   "role": "江南海关监督"
+  },
+  {
+   "name": "张保",
+   "role": "刑部主事"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21513,
+ "page_range": "441-442"
+}

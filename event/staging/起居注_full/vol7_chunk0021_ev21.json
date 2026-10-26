@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "十七日丁酉",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝出行宫，率皇太子、诸皇子及善射侍卫射，又令大臣丹济拉、巴尔虎、护军校、护军等射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "丹济拉",
+   "role": "大臣"
+  },
+  {
+   "name": "巴尔虎",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2121,
+ "page_range": "53-54"
+}

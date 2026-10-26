@@ -1,0 +1,37 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "十四日",
+ "event_role": "司法案件",
+ "summary": "刑部题总兵官许盛侵克马料银两拟立斩，康熙准行正法，大学士等奏论其居官甚劣。",
+ "people": [
+  {
+   "name": "许盛",
+   "role": "总兵官"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江西",
+  "宣化"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15605,
+ "page_range": "322-323"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "十一日己卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝奉太皇太后前往五台山，出西华门，王以下文武各官蟒服跪送，出阜成门后扶掖太皇太后降辇入行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇帝祖母"
+  }
+ ],
+ "places": [
+  "西华门",
+  "阜成门",
+  "万安寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22403,
+ "page_range": "491-492"
+}

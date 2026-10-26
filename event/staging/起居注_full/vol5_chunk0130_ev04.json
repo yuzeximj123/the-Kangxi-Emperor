@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "初九日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕索额图，拟拣选绿旗马兵会同费扬古向巴颜乌阑追剿噶尔丹，绿旗步兵留大臣管辖随后缓行，令议政大臣会议面奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "巴颜乌阑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13004,
+ "page_range": "270-271"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "初七日戊寅",
+ "event_role": "议政听政",
+ "summary": "戌时皇帝御行宫，大学士马齐等以折本请旨，户部题山东布政使刘连等亏空钱粮请交总漕桑格鞫审。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "邵称布",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "色德里",
+   "role": "学士"
+  },
+  {
+   "name": "满丕",
+   "role": "学士"
+  },
+  {
+   "name": "刘连",
+   "role": "山东布政使"
+  },
+  {
+   "name": "桑格",
+   "role": "总漕"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8432,
+ "page_range": "179-180"
+}

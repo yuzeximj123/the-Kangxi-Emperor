@@ -1,0 +1,20 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "二十六日",
+ "event_role": "请安谢恩",
+ "summary": "是日，康熙帝前往宁寿宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁寿宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23305,
+ "page_range": "476-477"
+}

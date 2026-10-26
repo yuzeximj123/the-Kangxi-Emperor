@@ -1,0 +1,31 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "浙江巡抚王然题报大岚山哨聚流人行劫嵊县芒田村杀柯绍昌一人，又行劫慈溪、上虞，官兵斩贼四名擒李元龙等十五名。",
+ "people": [
+  {
+   "name": "王然",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "柯绍昌",
+   "role": "被杀村民"
+  },
+  {
+   "name": "李元龙",
+   "role": "被擒贼人"
+  }
+ ],
+ "places": [
+  "大岚山",
+  "嵊县芒田村",
+  "慈溪县",
+  "上虞县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15105,
+ "page_range": "313-314"
+}

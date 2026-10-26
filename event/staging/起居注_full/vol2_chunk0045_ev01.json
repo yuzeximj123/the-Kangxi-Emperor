@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补翰林院侍讲员缺，康熙帝询问何托情况后，着补授何托为侍讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "希福",
+   "role": "学士"
+  },
+  {
+   "name": "何托",
+   "role": "被补授侍讲者"
+  },
+  {
+   "name": "传成格",
+   "role": "陪拟者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4501,
+ "page_range": "133-134"
+}

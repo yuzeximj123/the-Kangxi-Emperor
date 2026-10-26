@@ -1,0 +1,29 @@
+{
+ "reign_year": 32,
+ "month": 3,
+ "day_text": "二十二日两寅",
+ "event_role": "人事任免",
+ "summary": "吏部题覆直隶巡抚郭世隆奏请宣化府新设知府员缺，康熙帝命涿州知州秦钞琦升补。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "秦钞琦",
+   "role": "涿州知州"
+  },
+  {
+   "name": "于成龙",
+   "role": "荐举官员"
+  }
+ ],
+ "places": [
+  "宣化府",
+  "涿州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22912,
+ "page_range": "470-471"
+}

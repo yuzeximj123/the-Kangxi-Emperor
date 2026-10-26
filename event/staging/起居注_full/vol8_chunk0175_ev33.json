@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "十二日丁丁",
+ "event_role": "司法案件",
+ "summary": "覆请刑部所题殴死杨士奎之李斤元应照律拟绞监候秋后处决，李二等应鞭一百。",
+ "people": [
+  {
+   "name": "李斤元",
+   "role": "案犯"
+  },
+  {
+   "name": "杨士奎",
+   "role": "死者"
+  },
+  {
+   "name": "李二",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17533,
+ "page_range": "361-362"
+}

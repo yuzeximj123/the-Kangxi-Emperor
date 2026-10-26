@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部题提督唐希顺请四川补授副将等官速令赴任，康熙准行并命行文署总督席尔达于陕西、四川二省拣选调补。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐希顺",
+   "role": "提督"
+  },
+  {
+   "name": "席尔达",
+   "role": "署总督事"
+  }
+ ],
+ "places": [
+  "四川",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19601,
+ "page_range": "402-403"
+}

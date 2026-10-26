@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "初一日庚午",
+ "event_role": "人事任免",
+ "summary": "吏部题三河县知县彭鹏盗案限满未获应降一级调用，康熙帝以其居官最善着降一级从宽留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭鹏",
+   "role": "三河县知县"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4610,
+ "page_range": "104-105"
+}

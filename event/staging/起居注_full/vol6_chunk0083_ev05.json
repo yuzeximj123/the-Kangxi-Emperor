@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题原任将军董元卿请随子留住京口就医，议不准行，康熙帝依所请准其留住京口医治。",
+ "people": [
+  {
+   "name": "董元卿",
+   "role": "原任将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8305,
+ "page_range": "176-177"
+}

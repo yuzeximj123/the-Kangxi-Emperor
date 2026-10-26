@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝准胡戴仁升补布政使，令品行不佳的范时秀来京以旗下员缺补用。",
+ "people": [
+  {
+   "name": "胡戴仁",
+   "role": "被升补布政使者"
+  },
+  {
+   "name": "范时秀",
+   "role": "被令来京补用者"
+  },
+  {
+   "name": "雍建",
+   "role": "被评价居官亦好者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17100,
+ "page_range": "377-378"
+}

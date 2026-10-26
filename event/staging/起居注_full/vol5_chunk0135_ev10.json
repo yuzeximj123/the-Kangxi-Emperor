@@ -1,0 +1,36 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "马思喀移文行在兵部，报喀尔喀十名赍费扬古咨文前来，费扬古兵已次塔阑布喇克地方，大学士伊桑阿转奏奉旨知道了。",
+ "people": [
+  {
+   "name": "马思喀",
+   "role": "平北大将军"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "阿南达",
+   "role": "使者"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "敦柱",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "塔阑布喇克地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13510,
+ "page_range": "280-281"
+}

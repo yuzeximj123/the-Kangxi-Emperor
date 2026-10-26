@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十三年十月十六日",
+ "reign_year": 53,
+ "month": 10,
+ "day": 16,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报盐差任满、将赴京陛见，并报告扬州等地米价照常仍贱、地方无事、百姓乐业，进呈扬州十月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報蘇揚米價並進晴雨冊摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1685",
+ "order_index": 327
+}

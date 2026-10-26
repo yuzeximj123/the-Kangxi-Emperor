@@ -1,0 +1,27 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "四川眉州知州金一凤赴任违限六月议革职，康熙帝命对违限官员计月多寡处分仍留原任，令酌议拟票。",
+ "people": [
+  {
+   "name": "金一凤",
+   "role": "四川眉州知州"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川",
+  "云南",
+  "贵州",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9902,
+ "page_range": "208-209"
+}

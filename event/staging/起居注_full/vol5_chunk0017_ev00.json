@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命州县官员遇蝗灾即亲赴现场率民掩捕，并传谕河南、山西、陕西等地一体遵行，令转传户部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南",
+  "山西",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1700,
+ "page_range": "44-45"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝与温达等议论历朝水涝灾情，感叹惜田禾，并提及太祖、太宗、世祖及明成化年间水灾旧事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "长安门",
+  "端门",
+  "棋盘街"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2601,
+ "page_range": "63-64"
+}

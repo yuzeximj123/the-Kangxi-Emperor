@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 5,
+ "day_text": "二十二日于子",
+ "event_role": "朝见受贺",
+ "summary": "盛京刑部侍郎邬黑陛辞请训，康熙帝谕其到任后诸事须奉公而行。",
+ "people": [
+  {
+   "name": "邬黑",
+   "role": "盛京刑部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12234,
+ "page_range": "256-257"
+}

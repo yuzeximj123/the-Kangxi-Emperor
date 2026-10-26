@@ -1,0 +1,20 @@
+{
+ "reign_year": 10,
+ "month": 12,
+ "day_text": "十八日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召傅达礼至懋勤殿，谕其出身包衣、素行贤良特加宽宥，今起居注职任重大故加简用，命其勉尽职业。",
+ "people": [
+  {
+   "name": "傅达礼",
+   "role": "翰林院掌院学士、礼部侍郎"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 423,
+ "page_range": "65-66"
+}

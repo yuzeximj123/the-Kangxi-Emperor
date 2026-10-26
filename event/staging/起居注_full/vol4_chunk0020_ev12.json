@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "二十一日甲午",
+ "event_role": "谕旨决策",
+ "summary": "议政王会议左都御史马齐条奏差往俄罗斯大臣不分满汉，康熙令九卿拟具应遣官员具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "左都御史"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "俄罗斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2012,
+ "page_range": "52-53"
+}

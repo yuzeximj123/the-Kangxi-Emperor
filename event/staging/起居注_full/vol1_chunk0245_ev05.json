@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "二十八日丙辰",
+ "event_role": "人事任免",
+ "summary": "兵部议原任游击严弘应令军前候用，康熙帝询问其本末，命兵部确察其事迹具奏。",
+ "people": [
+  {
+   "name": "严弘",
+   "role": "原任游击"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宜都县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24505,
+ "page_range": "547-548"
+}

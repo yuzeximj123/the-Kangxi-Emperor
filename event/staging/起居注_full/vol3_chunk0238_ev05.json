@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十四日庚申",
+ "event_role": "谕旨决策",
+ "summary": "侍卫尔格、海青传旨询问汤斌病情，谕令其归家调治，皇太子照常读书写字暂停讲书，待病愈照前讲书。",
+ "people": [
+  {
+   "name": "尔格",
+   "role": "侍卫"
+  },
+  {
+   "name": "海青",
+   "role": "侍卫"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23805,
+ "page_range": "511-512"
+}

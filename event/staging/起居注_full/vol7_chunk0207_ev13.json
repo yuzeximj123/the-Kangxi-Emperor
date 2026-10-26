@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "初八日辛酉",
+ "event_role": "人事任免",
+ "summary": "湖广总督鄂海题宝庆副将员缺，康熙帝令将长沙协副将邵登云调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂海",
+   "role": "湖广总督"
+  },
+  {
+   "name": "施定国",
+   "role": "宝庆副将"
+  },
+  {
+   "name": "邵登云",
+   "role": "长沙协副将"
+  }
+ ],
+ "places": [
+  "宝庆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20713,
+ "page_range": "425-426"
+}

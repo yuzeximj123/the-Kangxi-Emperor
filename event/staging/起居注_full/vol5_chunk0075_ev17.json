@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "初一日庚寅",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁侍读学士萧永藻员缺，拟武进贤为正、赵世芳为陪，康熙帝以监察御史范承列为人优、出自令族，令升补内阁侍读学士。",
+ "people": [
+  {
+   "name": "萧永藻",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "武进贤",
+   "role": "汉军监察御史"
+  },
+  {
+   "name": "赵世芳",
+   "role": "官员"
+  },
+  {
+   "name": "范承列",
+   "role": "监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7517,
+ "page_range": "160-161"
+}

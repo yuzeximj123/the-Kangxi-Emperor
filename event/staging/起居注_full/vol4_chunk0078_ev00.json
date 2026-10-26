@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就吴兴宦在福建用兵时颇有劳绩一事，命询问九卿。",
+ "people": [
+  {
+   "name": "吴兴宦",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7800,
+ "page_range": "168-169"
+}

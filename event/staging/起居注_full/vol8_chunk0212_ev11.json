@@ -1,0 +1,38 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "初五日乙酉",
+ "event_role": "司法案件",
+ "summary": "刑部题正黄旗闲散格尔布告六哥等不忠不孝案审虚，拟枷号鞭责，康熙帝命待进京问巴浑德及该旗大臣再奏。",
+ "people": [
+  {
+   "name": "格尔布",
+   "role": "正黄旗闲散"
+  },
+  {
+   "name": "六哥",
+   "role": "避甘之子"
+  },
+  {
+   "name": "黑尔图",
+   "role": "避甘之子"
+  },
+  {
+   "name": "达福宁图",
+   "role": "岳甘之子"
+  },
+  {
+   "name": "巴浑德",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21211,
+ "page_range": "435-436"
+}

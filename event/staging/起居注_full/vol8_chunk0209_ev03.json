@@ -1,0 +1,33 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "山东巡抚李树德请将提督学政陈沂震复任三年，四川巡抚年次莞请将提督学政座庆谋复任三年，康熙帝俱准再留三年。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "陈沂震",
+   "role": "提督学政"
+  },
+  {
+   "name": "年次莞",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "座庆谋",
+   "role": "提督学政"
+  }
+ ],
+ "places": [
+  "山东",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20903,
+ "page_range": "429-430"
+}

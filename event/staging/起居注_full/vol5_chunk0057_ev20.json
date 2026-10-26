@@ -1,0 +1,33 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "初八日庚子",
+ "event_role": "人事任免",
+ "summary": "康熙帝问松柱齐世为人材具，松柱奏未同处行走但同族人称其材优；帝称齐世忠厚、系董鄂额驸亲孙、宗派亦好。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "学士"
+  },
+  {
+   "name": "齐世",
+   "role": "副都统"
+  },
+  {
+   "name": "董鄂额驸",
+   "role": "齐世祖父"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "荆州",
+  "岳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5720,
+ "page_range": "124-125"
+}

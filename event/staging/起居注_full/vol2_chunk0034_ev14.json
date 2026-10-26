@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": "二十一日乙亥",
+ "event_role": "军务",
+ "summary": "贝子准达题奏水陆两路进剿谭弘等贼事，康熙以其推诿延迟、待噶尔汉哈占等剿灭谭弘彭士享后方行进兵，命旨内票明。",
+ "people": [
+  {
+   "name": "准达",
+   "role": "贝子"
+  },
+  {
+   "name": "谭弘",
+   "role": "逆贼"
+  },
+  {
+   "name": "彭士享",
+   "role": "逆贼"
+  },
+  {
+   "name": "噶尔汉",
+   "role": "将领"
+  },
+  {
+   "name": "哈占",
+   "role": "将领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3414,
+ "page_range": "111-112"
+}

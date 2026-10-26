@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "初三日了刻",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝祭淑慧长公主墓奠酒，复遣直郡王致祭，赐守护公主第官员、兵役人等银币有差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "直郡王",
+   "role": "致祭者"
+  }
+ ],
+ "places": [
+  "淑慧长公主墓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21315,
+ "page_range": "436-437"
+}

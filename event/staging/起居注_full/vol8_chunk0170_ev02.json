@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部议安徽巡抚梁世勋请将康熙四十六等年钱粮分年带征不准，康熙帝令发还一并议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁世勋",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "和伦",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17002,
+ "page_range": "351-352"
+}

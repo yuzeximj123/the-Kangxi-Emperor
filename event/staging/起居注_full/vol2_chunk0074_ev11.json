@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "十六日丙申",
+ "event_role": "司法案件",
+ "summary": "刑部议徐昭远首告陈光祖隐匿吴逆资本事请旨，康熙帝令差贤能司官会同该督研审，以后此等首告不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐昭远",
+   "role": "首告人"
+  },
+  {
+   "name": "陈光祖",
+   "role": "被首告人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7411,
+ "page_range": "191-192"
+}

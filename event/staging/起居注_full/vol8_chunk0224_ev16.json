@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "二十六日丙子",
+ "event_role": "谕旨决策",
+ "summary": "康熙谕大学士王掞等论密奏之道，谓大臣为股肱耳目应密奏闻见，并言前朝用近侍刺探之弊。",
+ "people": [
+  {
+   "name": "王掞",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "五台",
+  "武当"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22416,
+ "page_range": "459-460"
+}

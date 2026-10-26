@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十一年二月",
+ "reign_year": 51,
+ "month": 2,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "浙江巡抚王度昭奏贺康熙帝万寿，并报告奉命常理江宁巡抚印务、率两省文武建道场祝寿及遣家人代叩谢恩。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚（巡察浙江臣）"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝，万寿节受贺者"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，告诫江宁巡抚职任重大、南方风俗需留意凡事不可苟且，并批注“轻了”，命以后不必再进折。",
+ "source_title": "浙江巡撫王度昭奏賀萬壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1040",
+ "order_index": 5
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十五年七月",
+ "reign_year": 55,
+ "month": 7,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "江宁巡抚有陆跪请皇上圣躬万安，康熙朱批报安并赐御书诗对扇及四阿哥所写扇一柄，命不必具本谢恩。",
+ "people": [
+  {
+   "name": "有陆",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "四阿哥",
+   "role": "书写扇子者"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙报平安，赐御书诗对扇及四阿哥所写扇一柄，并命不必具本谢恩。",
+ "source_title": "江寧巡撫吳存禮奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2190",
+ "order_index": 199
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "理藩院等题土嘿特旗下阿育西被殴死案，康熙令诺敏乌巴三义免绞，哈拉鄂钦、绰敏监候秋审再奏。",
+ "people": [
+  {
+   "name": "阿育西",
+   "role": "被殴死者"
+  },
+  {
+   "name": "诺敏乌巴三义",
+   "role": "阿育西之父"
+  },
+  {
+   "name": "绰敏",
+   "role": "阿育西之弟"
+  },
+  {
+   "name": "哈拉鄂钦",
+   "role": "家奴"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3504,
+ "page_range": "81-82"
+}

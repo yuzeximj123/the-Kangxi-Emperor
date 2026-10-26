@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初十日甲戌",
+ "event_role": "河工水利",
+ "summary": "工部覆总河于成龙题请修筑高家堰等坏堤议不准行，康熙帝以该部因明季字样驳回未当，发还另议具奏。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "淮安",
+  "扬州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12814,
+ "page_range": "266-267"
+}

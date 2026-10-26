@@ -1,0 +1,29 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "礼部覆福建巡抚陈玉请赐尤溪县南溪先贤所生之处扁额，康熙帝恐与李光地所请扁额重复，令查明具奏。",
+ "people": [
+  {
+   "name": "陈玉",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "尤溪县",
+  "南溪"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14904,
+ "page_range": "309-310"
+}

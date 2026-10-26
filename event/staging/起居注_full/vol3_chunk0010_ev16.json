@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "初六日王申",
+ "event_role": "人事任免",
+ "summary": "兵部降调郎中额尔毕纳员缺，拟正吉吉里、拟陪戴都理，康熙以吉吉里为人平常，令另行选择具奏。",
+ "people": [
+  {
+   "name": "额尔毕纳",
+   "role": "郎中"
+  },
+  {
+   "name": "吉吉里",
+   "role": "员外郎"
+  },
+  {
+   "name": "戴都理",
+   "role": "督捕员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1016,
+ "page_range": "55-56"
+}

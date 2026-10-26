@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "二十八日丁丑",
+ "event_role": "奏报地方情形",
+ "summary": "护军统领鄂克济哈奏报察罕多尔即、孤猛多尔即之父滚布相关事宜。",
+ "people": [
+  {
+   "name": "鄂克济哈",
+   "role": "护军统领"
+  },
+  {
+   "name": "滚布",
+   "role": "察罕多尔即、孤猛多尔即之父"
+  },
+  {
+   "name": "察罕多尔即",
+   "role": "相关人"
+  },
+  {
+   "name": "孤猛多尔即",
+   "role": "相关人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23312,
+ "page_range": "476-477"
+}

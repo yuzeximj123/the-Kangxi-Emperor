@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初七日忆卯",
+ "event_role": "司法案件",
+ "summary": "刑部题王廷政案，康熙帝以管成流徙逃回骚扰西山，责刑部脱卸管成反议原告罪，令司员引见、发回另议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王廷政",
+   "role": "原告"
+  },
+  {
+   "name": "管成",
+   "role": "流徙之人"
+  }
+ ],
+ "places": [
+  "西山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2908,
+ "page_range": "69-70"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "初五日已效",
+ "event_role": "人事任免",
+ "summary": "吏部题江宁巡抚王新命升任员缺，开列学士金祥等，康熙帝命九卿、詹事、科、道会同选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "金祥",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3001,
+ "page_range": "95-96"
+}

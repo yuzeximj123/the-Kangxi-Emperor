@@ -1,0 +1,28 @@
+{
+ "reign_year": 13,
+ "month": 4,
+ "day_text": "二十五日已未",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿视朝，文武升转官员谢恩，准噶尔部落噶尔丹台吉属下头目八十五人行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹台吉",
+   "role": "准噶尔部落台吉"
+  },
+  {
+   "name": "下达赖起",
+   "role": "进贡头目"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7111,
+ "page_range": "199-200"
+}

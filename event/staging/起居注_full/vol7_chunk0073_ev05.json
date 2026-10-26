@@ -1,0 +1,34 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初六日戊寅",
+ "event_role": "人事任免",
+ "summary": "吏部题都察院副都御史陈论员缺，康熙帝命姜柱升补副都御史，传作补授佥都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈论",
+   "role": "都察院副都御史"
+  },
+  {
+   "name": "江葡",
+   "role": "宗人府府丞"
+  },
+  {
+   "name": "姜柱",
+   "role": "拟升副都御史"
+  },
+  {
+   "name": "传作",
+   "role": "拟补佥都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7305,
+ "page_range": "157-158"
+}

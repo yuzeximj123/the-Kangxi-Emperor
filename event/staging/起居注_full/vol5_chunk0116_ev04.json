@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "十七日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令速移文大将军费扬古，报明其兵现抵何处及何时可至土喇、巴颜乌兰，由旁路驿站速奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "克鲁伦",
+  "土喇",
+  "巴颜乌兰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11604,
+ "page_range": "242-243"
+}

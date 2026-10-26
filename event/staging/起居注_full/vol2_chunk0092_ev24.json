@@ -1,0 +1,21 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "二十六日乙亥",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸米峪口，因米峪有虎伤害民人，于米峪口南山放围亲殪二大虎并一小虎，自此民绝虎害。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "米峪口",
+  "米峪口南山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9224,
+ "page_range": "227-228"
+}

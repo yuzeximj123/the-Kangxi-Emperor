@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十八日甲申",
+ "event_role": "人事任免",
+ "summary": "尚书库勒纳奏何托为人不及且年老，席米图人材素优有志效力。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "尚书"
+  },
+  {
+   "name": "何托",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "席米图",
+   "role": "翰林院侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2616,
+ "page_range": "62-63"
+}

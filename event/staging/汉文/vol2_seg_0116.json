@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙四十八年二月二十一日",
+ "reign_year": 48,
+ "month": 2,
+ "day": 21,
+ "event_role": "奏报地方情形",
+ "summary": "江西巡抚郎廷极奏报江西自正月至二月雨水调匀、省城及外府米价大致平稳，并称农事顺利、二麦菜子将收、民安物阜。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "巡抚江西等处地方兼理军务都察院右副都御史"
+  }
+ ],
+ "places": [
+  "江西",
+  "省城",
+  "赣州",
+  "九江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "江西雨水米價",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 116
+}

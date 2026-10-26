@@ -1,0 +1,30 @@
+{
+ "reign_year": 18,
+ "month": 8,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝论李宗孔等所请赃犯家产尽绝宜免家口入官，魏象枢奏外官贪污事发须皇上遣官察审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李宗孔",
+   "role": "大臣"
+  },
+  {
+   "name": "魏象枢",
+   "role": "大臣"
+  },
+  {
+   "name": "赵之符",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19109,
+ "page_range": "439-440"
+}

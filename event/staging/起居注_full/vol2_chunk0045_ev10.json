@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "仓场总督噶尔图等、副将康国臣等、顺义县防守尉穆舒等、知县钟韵远等来朝。",
+ "people": [
+  {
+   "name": "噶尔图",
+   "role": "仓场总督、户部侍郎"
+  },
+  {
+   "name": "康国臣",
+   "role": "副将"
+  },
+  {
+   "name": "穆舒",
+   "role": "顺义县防守尉"
+  },
+  {
+   "name": "钟韵远",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "顺义县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4510,
+ "page_range": "133-134"
+}

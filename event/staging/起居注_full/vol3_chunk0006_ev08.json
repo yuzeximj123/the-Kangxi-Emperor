@@ -1,0 +1,40 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初九日乙已",
+ "event_role": "其他",
+ "summary": "未时康熙帝御景山内前殿，召见并赐食秦曼、阿霸、翁牛式、苏尼特、吴喇式等部落台吉贝子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴勒木济",
+   "role": "固山贝子"
+  },
+  {
+   "name": "马西",
+   "role": "四品台吉"
+  },
+  {
+   "name": "吴尔占",
+   "role": "四品台吉"
+  },
+  {
+   "name": "达代",
+   "role": "四品台吉"
+  },
+  {
+   "name": "纳称",
+   "role": "三品台吉"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 608,
+ "page_range": "47-48"
+}

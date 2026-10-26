@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初一日本西",
+ "event_role": "人事任免",
+ "summary": "福建浙江总督施维翰员缺，开列吏部左侍郎张土标等职名请旨。",
+ "people": [
+  {
+   "name": "施维翰",
+   "role": "福建浙江总督"
+  },
+  {
+   "name": "张土标",
+   "role": "吏部左侍郎"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 404,
+ "page_range": "43-44"
+}

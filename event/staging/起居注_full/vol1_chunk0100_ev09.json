@@ -1,0 +1,27 @@
+{
+ "reign_year": 14,
+ "month": 9,
+ "day_text": "初八日癸巳",
+ "event_role": "皇帝行止",
+ "summary": "早，康熙帝出安定门至汤山温泉迎太皇太后，至行宫问安，驻跸怀柔县南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "安定门",
+  "汤山温泉",
+  "太皇太后行宫",
+  "怀柔县南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10009,
+ "page_range": "257-258"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "二十三日辛巳",
+ "event_role": "起居注官记录",
+ "summary": "记载当日起居注官为宋大业、阿金。",
+ "people": [
+  {
+   "name": "宋大业",
+   "role": "起居注官"
+  },
+  {
+   "name": "阿金",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19213,
+ "page_range": "394-395"
+}

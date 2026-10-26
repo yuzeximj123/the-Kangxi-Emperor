@@ -1,0 +1,28 @@
+{
+ "reign_year": 16,
+ "month": 8,
+ "day_text": "十六日庚申",
+ "event_role": "朝见受贺",
+ "summary": "未时，康熙帝御景山内前殿，赐进贡的喀尔喀部落和硕亲王诺那依、四品台吉塞棱等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺那依",
+   "role": "和硕亲王"
+  },
+  {
+   "name": "塞棱",
+   "role": "四品台吉"
+  }
+ ],
+ "places": [
+  "景山内前殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14315,
+ "page_range": "343-344"
+}

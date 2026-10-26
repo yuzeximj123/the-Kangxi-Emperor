@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "十五日丙实",
+ "event_role": "人事任免",
+ "summary": "通政司参议员缺，康熙帝命以原任巡抚倭伦照所降品级随旗行走，拟陪刘住补授。",
+ "people": [
+  {
+   "name": "倭伦",
+   "role": "原任巡抚，照所降品级随旗行走"
+  },
+  {
+   "name": "刘住",
+   "role": "拟陪，补授"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1221,
+ "page_range": "35-36"
+}

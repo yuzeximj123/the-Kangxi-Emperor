@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐等奏广州参领王之蛟由京选授，康熙帝命将王之蛟革职，该督察审具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王之蛟",
+   "role": "广州参领"
+  }
+ ],
+ "places": [
+  "广州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10702,
+ "page_range": "225-226"
+}

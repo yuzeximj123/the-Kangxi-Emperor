@@ -1,0 +1,50 @@
+{
+ "date_raw": "本月拾贰日",
+ "reign_year": null,
+ "month": null,
+ "day": 12,
+ "event_role": "弹劾参奏",
+ "summary": "两广总督赵弘灿奏报右翼镇标兵丁因营将苛虐滥行裁汰而聚众出城，经安谕归营，并参劾游击盖镇、王昇及总兵罗联芳约束无能。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督，奏报人"
+  },
+  {
+   "name": "盖镇",
+   "role": "右翼镇中军游击，被参劾"
+  },
+  {
+   "name": "王昇",
+   "role": "右翼镇右营游击，被参劾"
+  },
+  {
+   "name": "叶生",
+   "role": "千总，被指怠玩乖张"
+  },
+  {
+   "name": "罗联芳",
+   "role": "右翼镇总兵官，被指约束无能"
+  },
+  {
+   "name": "和养性",
+   "role": "左营游击，曾与守备互讦"
+  },
+  {
+   "name": "王玫",
+   "role": "本营守备，曾与和养性互讦"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "较场"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "两广总督赵弘灿奏报右翼镇标兵丁聚众出城摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "714",
+ "order_index": 266
+}

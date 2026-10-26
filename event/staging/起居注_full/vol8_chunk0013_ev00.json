@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "诸皇子领宗室子赐茶酒饭食并分颁桌食，宫内赐年老妇人坐。",
+ "people": [
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "宗室子",
+   "role": "宗室"
+  }
+ ],
+ "places": [
+  "宫内"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1300,
+ "page_range": "37-38"
+}

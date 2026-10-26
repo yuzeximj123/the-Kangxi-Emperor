@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十二日",
+ "event_role": "人事任免",
+ "summary": "吏部题江南江西总督于成龙病故员缺，开列吏部侍郎张士标等，康熙帝命大学士会同九卿举出有才能廉洁之人。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "张士标",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2606,
+ "page_range": "87-88"
+}

@@ -1,0 +1,52 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题浙江省秋审重犯，康熙帝以各案为首者已正法或情有可原，俱改为缓决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宣氏",
+   "role": "犯人"
+  },
+  {
+   "name": "唐和尚",
+   "role": "犯人"
+  },
+  {
+   "name": "赵大",
+   "role": "犯人"
+  },
+  {
+   "name": "王老六",
+   "role": "犯人"
+  },
+  {
+   "name": "喻显生",
+   "role": "犯人"
+  },
+  {
+   "name": "莱溥福",
+   "role": "犯人"
+  },
+  {
+   "name": "苏六",
+   "role": "犯人"
+  },
+  {
+   "name": "张四",
+   "role": "犯人"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22106,
+ "page_range": "452-453"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "十三日辛未",
+ "event_role": "人事任免",
+ "summary": "题补道府事，康熙询问翰林刘涵，王熙称其优，遂命刘涵补授江宁府知府，余依议。",
+ "people": [
+  {
+   "name": "刘涵",
+   "role": "翰林"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁府",
+  "扬州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18424,
+ "page_range": "378-379"
+}

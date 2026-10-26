@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "初八日",
+ "event_role": "河工水利",
+ "summary": "御史刘抹条奏兴直隶水利，康熙帝认为此事甚宜行但濒河旗民杂处难行，命移文该抚酌量渐次行之。",
+ "people": [
+  {
+   "name": "刘抹",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17404,
+ "page_range": "358-359"
+}

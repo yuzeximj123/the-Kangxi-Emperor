@@ -1,0 +1,21 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十五日丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕此行特为百姓阅视河道咨访风俗，因禹陵在途躬往致祭，归时便道过西湖聊尔寓目，并非游玩，未曾停息，所奏不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西湖",
+  "禹陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5717,
+ "page_range": "126-127"
+}

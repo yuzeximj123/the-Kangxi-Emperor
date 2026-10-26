@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "十五日庚辰",
+ "event_role": "司法案件",
+ "summary": "覆请刑部等衙门覆安徽巡抚梁世勋所题李玉打死小功服兄李乾方案，康熙帝以李乾方辱骂拳殴在先，改李玉为应斩监候秋后处决。",
+ "people": [
+  {
+   "name": "李玉",
+   "role": "案犯"
+  },
+  {
+   "name": "李乾方",
+   "role": "死者"
+  },
+  {
+   "name": "梁世勋",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9310,
+ "page_range": "197-198"
+}

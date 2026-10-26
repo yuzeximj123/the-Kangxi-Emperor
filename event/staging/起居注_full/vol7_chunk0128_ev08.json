@@ -1,0 +1,42 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士马齐遵旨选择经筵讲官，简得殷特布、思否、黑寿、华色、塞尔图，康熙命以塞尔图为经筵讲官。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "殷特布",
+   "role": "侍郎"
+  },
+  {
+   "name": "思否",
+   "role": "侍郎"
+  },
+  {
+   "name": "黑寿",
+   "role": "学士"
+  },
+  {
+   "name": "华色",
+   "role": "侍读学士"
+  },
+  {
+   "name": "塞尔图",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12808,
+ "page_range": "267-268"
+}

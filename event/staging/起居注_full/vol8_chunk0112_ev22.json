@@ -1,0 +1,34 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "三十日壬辰",
+ "event_role": "司法案件",
+ "summary": "周海宇强奸处女张营照拟处决，张辅曾、高启隆改为缓决。",
+ "people": [
+  {
+   "name": "周海宇",
+   "role": "案犯"
+  },
+  {
+   "name": "张营",
+   "role": "受害者"
+  },
+  {
+   "name": "张辅曾",
+   "role": "案犯"
+  },
+  {
+   "name": "高启隆",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11222,
+ "page_range": "235-236"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "二十日庚寅",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙由西华门出西直门，驻跸畅春园，部院应面奏事宜仍面奏外，其余奏章每日交送内阁转送畅春园听理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西华门",
+  "西直门",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24521,
+ "page_range": "502-503"
+}

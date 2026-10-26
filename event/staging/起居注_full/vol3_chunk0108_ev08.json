@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十三日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙论九卿会议应秉公合议、不得推诿，命查出十八年申饬九卿谕旨与九卿看，并指汉大臣瞻徇同年门生偏向立议者多。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "张志栋",
+   "role": "科道官员"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10808,
+ "page_range": "251-252"
+}

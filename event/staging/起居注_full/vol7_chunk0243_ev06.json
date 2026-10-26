@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅黑旦儿随主往喀尔沱取茶时因争背茶壶角口拔刀刺死八儿案，着勾决。",
+ "people": [
+  {
+   "name": "黑旦儿",
+   "role": "案犯"
+  },
+  {
+   "name": "八儿",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "喀尔沱"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24306,
+ "page_range": "497-498"
+}

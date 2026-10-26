@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问员外郎吴禄礼、常寿何如，图纳称俱可，马齐称伊等皆系提督拣选司官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴禄礼",
+   "role": "员外郎"
+  },
+  {
+   "name": "常寿",
+   "role": "员外郎"
+  },
+  {
+   "name": "图纳",
+   "role": "大臣"
+  },
+  {
+   "name": "马齐",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8303,
+ "page_range": "176-177"
+}

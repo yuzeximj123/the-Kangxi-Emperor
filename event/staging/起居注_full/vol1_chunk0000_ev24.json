@@ -1,0 +1,24 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "二十一日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕盛京将军阿木儿图等，察明披甲中伤老病退甲闲散之人具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿木儿图",
+   "role": "盛京将军"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24,
+ "page_range": "57-58"
+}

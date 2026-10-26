@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十七年十二月二十日",
+ "reign_year": 47,
+ "month": 12,
+ "day": 18,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮奏请皇上圣躬万安，康熙朱批自述气血尚弱，并提及东巡时皇太子随行等候之事。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏请万安"
+  },
+  {
+   "name": "王新命",
+   "role": "总督河道提督军务兵部尚书兼都察院右副都御史加三级，领衔具奏"
+  },
+  {
+   "name": "皇太子",
+   "role": "随康熙东巡"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙自述气血还弱，并提及东巡时皇太子于戊戌年三月十八日末跟随出等候。",
+ "source_title": "直隸巡撫趙弘燮奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "433",
+ "order_index": 94
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "初二日成成",
+ "event_role": "朝议听政",
+ "summary": "康熙帝询问松柱为人，伊桑阿等奏其颇优、办事亦好，帝言其行走勤谨诚实但办事好未以为然。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "学士，被评议"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3122,
+ "page_range": "72-73"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初十日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题五品官索诺称等给房产议不准行，康熙帝以索诺称等系噶尔丹未灭前归顺，令交该部量品级给房。",
+ "people": [
+  {
+   "name": "索诺称",
+   "role": "五品官"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "蒙古首领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12815,
+ "page_range": "266-267"
+}

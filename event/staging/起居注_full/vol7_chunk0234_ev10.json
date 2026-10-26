@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题广东提督施世坚员缺开列副都统许廷臣等职名请旨，康熙帝命会同九卿公同荐举具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施世坚",
+   "role": "广东提督"
+  },
+  {
+   "name": "许廷臣",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23410,
+ "page_range": "479-480"
+}

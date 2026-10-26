@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "二十二日戊袖",
+ "event_role": "人事任免",
+ "summary": "兵部题补盛京将军伊巴汉调补员缺，康熙帝命议政王等会推品行素优之人具奏。",
+ "people": [
+  {
+   "name": "伊巴汉",
+   "role": "盛京将军"
+  },
+  {
+   "name": "佛尔诺",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12515,
+ "page_range": "285-286"
+}

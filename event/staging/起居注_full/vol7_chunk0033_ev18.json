@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十九日本丑",
+ "event_role": "人事任免",
+ "summary": "甘肃巡抚齐世武题请以武进士曹械补授守备，原缺已推盛尔扬，康熙帝命曹械照题补授，盛尔扬留彼处候缺补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐世武",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "曹械",
+   "role": "武进士"
+  },
+  {
+   "name": "盛尔扬",
+   "role": "候补守备"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3318,
+ "page_range": "77-78"
+}

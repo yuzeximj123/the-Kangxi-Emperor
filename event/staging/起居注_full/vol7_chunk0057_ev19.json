@@ -1,0 +1,36 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "十五日庚寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫，大学士马齐等以折本请旨完毕，马齐等以庶吉士散馆考试诸卷呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "吴珊",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5719,
+ "page_range": "125-126"
+}

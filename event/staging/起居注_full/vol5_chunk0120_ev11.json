@@ -1,0 +1,33 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "初十日",
+ "event_role": "军务",
+ "summary": "费扬古等率大兵自乌兰厄尔几起程，至察军和朔时孙思克、博济、阿南达率西安满兵五百轻骑前来。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "内大臣伯"
+  },
+  {
+   "name": "孙思克",
+   "role": "振武将军"
+  },
+  {
+   "name": "博济",
+   "role": "西安将军"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "乌兰厄尔几",
+  "察军和朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12011,
+ "page_range": "250-251"
+}

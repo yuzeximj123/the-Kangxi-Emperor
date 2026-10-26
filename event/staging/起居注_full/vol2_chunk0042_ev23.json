@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "十一日甲子",
+ "event_role": "奏报地方情形",
+ "summary": "湖南巡抚韩世琦奏闻原任四川提督王之昂、总兵官费雅达等骸骨发回行事。",
+ "people": [
+  {
+   "name": "韩世琦",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "王之昂",
+   "role": "原任四川提督"
+  },
+  {
+   "name": "费雅达",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "湖南",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4223,
+ "page_range": "127-128"
+}

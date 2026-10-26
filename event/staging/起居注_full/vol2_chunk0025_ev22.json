@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初三日成午",
+ "event_role": "其他",
+ "summary": "福建海澄阵亡镶蓝旗前锋校卦色丧至，康熙帝遣头等侍卫达尔赛携茶酒致奠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卦色",
+   "role": "镶蓝旗前锋校"
+  },
+  {
+   "name": "达尔赛",
+   "role": "头等侍卫"
+  }
+ ],
+ "places": [
+  "福建海澄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2522,
+ "page_range": "93-94"
+}

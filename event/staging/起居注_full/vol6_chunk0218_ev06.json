@@ -1,0 +1,38 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿议提督王万祥员缺，保举总兵叶日芳、吕孝德，康熙帝问何不保举马进良，伊桑阿奏马进良被人告故去名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王万祥",
+   "role": "提督"
+  },
+  {
+   "name": "叶日芳",
+   "role": "总兵官"
+  },
+  {
+   "name": "吕孝德",
+   "role": "总兵官"
+  },
+  {
+   "name": "马进良",
+   "role": "总兵官"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21806,
+ "page_range": "446-447"
+}

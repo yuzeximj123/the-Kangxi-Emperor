@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙命侍卫关保传谕，令将染病蒙古吴奇尔交其弟布达及柏林堡守备小心看视调养，并规定病愈或病故后的处置办法。",
+ "people": [
+  {
+   "name": "吴奇尔",
+   "role": "蒙古"
+  },
+  {
+   "name": "布达",
+   "role": "吴奇尔之弟"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "诺尔布",
+   "role": "散秩大臣"
+  }
+ ],
+ "places": [
+  "柏林堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19601,
+ "page_range": "402-403"
+}

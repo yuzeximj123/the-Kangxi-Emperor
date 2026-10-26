@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初四日乙酉",
+ "event_role": "人事任免",
+ "summary": "兵部题补山永等九处地方副将拟郭惠等，康熙以山永地方紧要命另行选择具奏，喜升高等依拟用。",
+ "people": [
+  {
+   "name": "郭惠",
+   "role": "拟补副将"
+  },
+  {
+   "name": "喜升高",
+   "role": "拟用官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山永"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5815,
+ "page_range": "159-160"
+}

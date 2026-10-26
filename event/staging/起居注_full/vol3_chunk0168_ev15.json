@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "二十日癸卯",
+ "event_role": "司法案件",
+ "summary": "三法司题通判戴纯故杀雇工人唐明亮拟绞，并将戴纶、李时谦分别拟罪，明珠等奏九卿意见，康熙帝命戴纶、李时谦免徒流、杖罪。",
+ "people": [
+  {
+   "name": "戴纯",
+   "role": "通判"
+  },
+  {
+   "name": "唐明亮",
+   "role": "雇工人"
+  },
+  {
+   "name": "戴纶",
+   "role": "员外郎"
+  },
+  {
+   "name": "李时谦",
+   "role": "御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16815,
+ "page_range": "371-372"
+}

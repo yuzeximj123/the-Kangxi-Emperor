@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初四日丙子",
+ "event_role": "谕旨决策",
+ "summary": "户部题原任芜湖关监督邓秉恒捐银一万四百余两无议叙之例，康熙帝令照钞关征收溢额分数议叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邓秉恒",
+   "role": "原任芜湖关监督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "芜湖关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17017,
+ "page_range": "383-384"
+}

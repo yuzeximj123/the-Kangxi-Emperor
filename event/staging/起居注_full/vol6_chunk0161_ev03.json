@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": "初九日康子",
+ "event_role": "奏报地方情形",
+ "summary": "户部员外郎邓德奏报新安等处买米事宜，康熙帝询问当地禾稼及米价。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邓德",
+   "role": "户部员外郎"
+  }
+ ],
+ "places": [
+  "新安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16103,
+ "page_range": "332-333"
+}

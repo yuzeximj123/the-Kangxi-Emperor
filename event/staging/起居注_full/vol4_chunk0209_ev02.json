@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "初一日丙子",
+ "event_role": "人事任免",
+ "summary": "吏部等题差往呼尔河种地都统班达尔沙、侍郎舒恕等耕种不力，康熙帝令将班达尔沙降一级罚俸革去都统任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班达尔沙",
+   "role": "都统"
+  },
+  {
+   "name": "舒恕",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "呼尔河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20902,
+ "page_range": "430-431"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": "初六日甲寅",
+ "event_role": "议政听政",
+ "summary": "领侍卫内大臣、大学士、各部院大臣赴畅春园奏请此次祈谷坛暂停亲祭，遣官行礼。",
+ "people": [
+  {
+   "name": "翁子",
+   "role": "治仪正"
+  },
+  {
+   "name": "双全",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14907,
+ "page_range": "309-310"
+}

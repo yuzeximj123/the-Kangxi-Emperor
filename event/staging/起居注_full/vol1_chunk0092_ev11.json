@@ -1,0 +1,24 @@
+{
+ "reign_year": 14,
+ "month": 5,
+ "day_text": "二十四日于午",
+ "event_role": "请安谢恩",
+ "summary": "是日屏风铭呈御，康熙帝赏其书法，赐表里各三匹，并命于乾清门赐茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈莽",
+   "role": "国子监祭酒"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9211,
+ "page_range": "241-242"
+}

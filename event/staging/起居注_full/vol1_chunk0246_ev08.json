@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初三日庚申",
+ "event_role": "人事任免",
+ "summary": "陕西总督哈占请以都司祁彻白补本标副将，部议不允，康熙帝命照该督所请补用。",
+ "people": [
+  {
+   "name": "哈占",
+   "role": "陕西总督"
+  },
+  {
+   "name": "祁彻白",
+   "role": "都司"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24608,
+ "page_range": "549-550"
+}

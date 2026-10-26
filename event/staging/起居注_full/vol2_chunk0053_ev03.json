@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补宁古塔副都统员缺，正拟达克萨喀、陪拟乌黑，康熙帝以其年老，命开列左翼四旗护军参领及骁骑参领职名来奏。",
+ "people": [
+  {
+   "name": "达克萨喀",
+   "role": "前锋参领"
+  },
+  {
+   "name": "乌黑",
+   "role": "护军参领"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5303,
+ "page_range": "149-150"
+}

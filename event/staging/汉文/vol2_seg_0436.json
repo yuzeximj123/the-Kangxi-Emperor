@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙四十八年四月初二日",
+ "reign_year": 48,
+ "month": 4,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹寅奏报江南米价及麦收情形，向康熙帝汇报地方粮价与农业收成状况。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造，奏报人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江宁织造曹寅奏报江南米价并麦收情形折",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "480",
+ "order_index": 436
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "二十六日辛未",
+ "event_role": "议政听政",
+ "summary": "巳时康熙帝御文华殿行经筵大典，命席尔达、韩莱讲《四书》，傅继祖、徐秉义讲《易经》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "尚书"
+  },
+  {
+   "name": "韩莱",
+   "role": "尚书"
+  },
+  {
+   "name": "傅继祖",
+   "role": "侍郎"
+  },
+  {
+   "name": "徐秉义",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "文华殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5502,
+ "page_range": "121-122"
+}

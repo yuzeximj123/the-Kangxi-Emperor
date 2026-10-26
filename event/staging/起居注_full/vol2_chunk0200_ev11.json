@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "初九日庚辰",
+ "event_role": "人事任免",
+ "summary": "兵部议宁古塔将军巴海奏苏通等处田禾未收应革去将军世职，康熙帝命察明其世职因何功绩而得具奏。",
+ "people": [
+  {
+   "name": "巴海",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "苏通"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20011,
+ "page_range": "443-444"
+}

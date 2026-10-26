@@ -1,0 +1,20 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": "二十五日戊成",
+ "event_role": "祭祀典礼",
+ "summary": "因岁终祭太庙，康熙帝开始斋戒三日。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4906,
+ "page_range": "109-110"
+}

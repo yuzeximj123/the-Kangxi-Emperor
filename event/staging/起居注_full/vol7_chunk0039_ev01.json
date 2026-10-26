@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆奏总督阿山参劾盐商汪狂一案，康熙帝询问汪狂恶迹是否属实，张玉书奏商人多深怨之，帝命询问九卿中江南人具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "汪狂",
+   "role": "盐商"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3901,
+ "page_range": "89-90"
+}

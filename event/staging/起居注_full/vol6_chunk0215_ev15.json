@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十二日丙午",
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚李光地奏报广平县水灾，康熙帝欲询问此事故令其来京。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广平县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21515,
+ "page_range": "440-441"
+}

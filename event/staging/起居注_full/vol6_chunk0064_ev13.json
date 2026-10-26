@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十六日丙申",
+ "event_role": "司法案件",
+ "summary": "理藩院题张嘉库图克图、纳木札尔格隆等违例，拟绞，康熙帝从宽免绞，革张嘉库图克图之号，纳木札尔格隆充发盛京。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张嘉库图克图",
+   "role": "库图克图"
+  },
+  {
+   "name": "纳木札尔格隆",
+   "role": "格隆"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6413,
+ "page_range": "138-139"
+}

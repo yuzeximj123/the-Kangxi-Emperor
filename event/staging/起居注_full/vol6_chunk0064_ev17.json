@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十七日本西",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏完毕，前往湖广茶陵州审事郎中刚五达等请训。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刚五达",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "茶陵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6417,
+ "page_range": "138-139"
+}

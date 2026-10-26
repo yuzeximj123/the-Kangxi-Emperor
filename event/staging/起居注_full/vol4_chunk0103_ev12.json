@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 2,
+ "day_text": "初七日已已",
+ "event_role": "谕旨决策",
+ "summary": "户部议奉天将军公绕克托请以盛京所征税银归各城税银采买米粮，康熙帝准所请，并命将军会同盛京户部府尹速议积谷折米事宜。",
+ "people": [
+  {
+   "name": "绕克托",
+   "role": "奉天将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "奉天",
+  "锦州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10312,
+ "page_range": "218-219"
+}

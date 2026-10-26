@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "十五日丙子",
+ "event_role": "司法案件",
+ "summary": "就护军伊佛纳家人黑子戳死家人李信案，康熙帝令查明伊佛纳系新满洲或旧满洲及黑子来历具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊佛纳",
+   "role": "护军"
+  },
+  {
+   "name": "黑子",
+   "role": "家人"
+  },
+  {
+   "name": "李信",
+   "role": "家人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13017,
+ "page_range": "271-272"
+}

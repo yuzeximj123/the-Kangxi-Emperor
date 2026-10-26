@@ -1,0 +1,41 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题宁夏总兵官阿兰泰员缺，康熙帝以陕西督标副将张岳人材强健、家计殷实，令补授宁夏总兵官。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "宁夏总兵官"
+  },
+  {
+   "name": "武进贤",
+   "role": "镶黄旗参领"
+  },
+  {
+   "name": "张岳",
+   "role": "陕西督标副将"
+  },
+  {
+   "name": "杨麟",
+   "role": "潮标副将"
+  },
+  {
+   "name": "凯音布",
+   "role": "步军统领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8804,
+ "page_range": "186-187"
+}

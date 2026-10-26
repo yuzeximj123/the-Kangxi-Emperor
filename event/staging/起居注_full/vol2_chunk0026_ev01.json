@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "盛京将军安朱护题请采参禁例，议政王大臣等会议应照十五年定例，康熙帝以例太严恐人多陷法且人参稀少，着依议。",
+ "people": [
+  {
+   "name": "安朱护",
+   "role": "盛京将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2601,
+ "page_range": "95-96"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "二十二日丙辰",
+ "event_role": "贸易漕运",
+ "summary": "伊桑阿等遵旨询问广东编修李象元等盐价上涨情形，康熙帝令户部行查，到时以加上额具题不必行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "李象元",
+   "role": "广东编修"
+  },
+  {
+   "name": "沙拜",
+   "role": "盐臣"
+  }
+ ],
+ "places": [
+  "广东",
+  "广州府",
+  "潮州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4603,
+ "page_range": "102-103"
+}

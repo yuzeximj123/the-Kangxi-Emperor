@@ -1,0 +1,27 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "吏部尚书张鹏瑚奏张家口副将紧要不可调用，康熙帝称张家口系内地并无要处，命留意访察武人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏瑚",
+   "role": "吏部尚书"
+  }
+ ],
+ "places": [
+  "张家口",
+  "直隶",
+  "山西",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17805,
+ "page_range": "367-368"
+}

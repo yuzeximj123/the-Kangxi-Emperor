@@ -1,0 +1,32 @@
+{
+ "reign_year": 16,
+ "month": 3,
+ "day_text": "初八日甲申",
+ "event_role": "其他",
+ "summary": "辰时康熙帝御弘德殿，讲官喇沙里、陈廷敬、张英进讲《通鉴纲目》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13132,
+ "page_range": "319-320"
+}

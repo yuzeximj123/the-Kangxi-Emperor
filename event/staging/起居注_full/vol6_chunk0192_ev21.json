@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "二十八日丙成",
+ "event_role": "人事任免",
+ "summary": "江西巡抚马如龙请求解任，康熙帝令行文总督阿山询问其病势及能否办事。",
+ "people": [
+  {
+   "name": "马如龙",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "阿山",
+   "role": "总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19221,
+ "page_range": "394-395"
+}

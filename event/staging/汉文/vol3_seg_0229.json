@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙伍拾年玖月初贰日",
+ "reign_year": 50,
+ "month": 9,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹寅奏报江南晚稻丰收、米价平稳、百姓安乐，并呈八月晴雨录，恭请圣安。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏报人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南",
+  "江浙"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝问安，并称风闻江浙盗案甚多，询问是否属实。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 229
+}

@@ -1,0 +1,27 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就于成龙条奏中修理通州、天津一带河道及培修高家堰堤事，认为有当酌议之处，强调高堰保淮敌黄紧要，令将本带回再详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "通州",
+  "天津",
+  "高家堰",
+  "淮安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 300,
+ "page_range": "16-17"
+}

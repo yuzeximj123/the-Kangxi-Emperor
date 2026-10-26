@@ -1,0 +1,31 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "江西巡抚白潢据实胪列巡抚衙门各项旧规，包括节礼银、漕规礼银、关税规礼、盐规银等，并表明禁革态度。",
+ "people": [
+  {
+   "name": "白潢",
+   "role": "江西巡抚，奏折作者"
+  },
+  {
+   "name": "宋荦",
+   "role": "前任巡抚，曾不收盐规"
+  }
+ ],
+ "places": [
+  "江西",
+  "湖口",
+  "赣州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙肯定不收节礼的做法，并指出白潢到任后已禁革。",
+ "zhupi_summary_note": null,
+ "source_title": "江西巡抚白潢奏为据实胪列巡抚衙门各项旧规折",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 8
+}

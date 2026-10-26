@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "初二日癸辫",
+ "event_role": "人事任免",
+ "summary": "吏部题补本部郎中赖塔员缺，康熙帝以朱贵为人不及，命拟陪罗多里补授，朱贵解部任随旗行走。",
+ "people": [
+  {
+   "name": "赖塔",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "朱贵",
+   "role": "工部员外郎"
+  },
+  {
+   "name": "罗多里",
+   "role": "刑部员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6017,
+ "page_range": "130-131"
+}

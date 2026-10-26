@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初二日于午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就阿南达所奏降旨，令示议政大臣将进巴车尔白交吴达禅喇锡询明启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴达禅喇锡",
+   "role": "官员"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "存柱",
+   "role": "批本官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20406,
+ "page_range": "418-419"
+}

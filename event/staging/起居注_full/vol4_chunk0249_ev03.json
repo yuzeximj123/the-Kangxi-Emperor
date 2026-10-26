@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 11,
+ "day_text": "二十七日丙寅",
+ "event_role": "人事任免",
+ "summary": "宗人府议三等阿达哈哈番觉罗钟特病故应由长子巴艇承袭，康熙帝以巴艇庸劣，着照钟特遗言令其第四子新宝承袭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗钟特",
+   "role": "三等阿达哈哈番（病故）"
+  },
+  {
+   "name": "巴艇",
+   "role": "钟特长子"
+  },
+  {
+   "name": "新宝",
+   "role": "钟特第四子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24903,
+ "page_range": "510-511"
+}

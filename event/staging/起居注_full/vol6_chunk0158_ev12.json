@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "二十日辛已",
+ "event_role": "军务",
+ "summary": "兵部覆福建水师提督吴英题请乌船改赶赠船等事议不准行，康熙令问该督及陆路提督具奏，并查明乌船改造缘由。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴英",
+   "role": "福建水师提督"
+  }
+ ],
+ "places": [
+  "福建",
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15812,
+ "page_range": "326-327"
+}

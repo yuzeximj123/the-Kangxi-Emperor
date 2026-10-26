@@ -1,0 +1,34 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿等呈进凌绍雯试卷，康熙命张英读汉文后亲阅清书，并询问汪霦其人及清书学习情况。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "张英",
+   "role": "读卷官"
+  },
+  {
+   "name": "汪霦",
+   "role": "起居注官"
+  },
+  {
+   "name": "凌绍雯",
+   "role": "贡士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2300,
+ "page_range": "58-59"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官文志鲸、阿克敦记录。",
+ "people": [
+  {
+   "name": "文志鲸",
+   "role": "起居注官"
+  },
+  {
+   "name": "阿克敦",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4204,
+ "page_range": "95-96"
+}

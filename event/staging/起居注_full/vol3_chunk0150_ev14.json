@@ -1,0 +1,44 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "二十七日辛已",
+ "event_role": "人事任免",
+ "summary": "兵部题广东顺德总兵官员缺，康熙帝采纳明珠等奏，命刘诏升补顺德总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "刘诏",
+   "role": "拟补总兵"
+  },
+  {
+   "name": "郑侨柱",
+   "role": "拟补总兵"
+  },
+  {
+   "name": "李之芳",
+   "role": "尚书"
+  },
+  {
+   "name": "杜至",
+   "role": "尚书"
+  },
+  {
+   "name": "石柱",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "广东顺德"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15014,
+ "page_range": "335-336"
+}

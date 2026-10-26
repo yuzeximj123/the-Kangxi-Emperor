@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十八日乙酉",
+ "event_role": "人事任免",
+ "summary": "四川提督何傅调补陕西员缺，康熙以吴英有学问且劳绩，令补授。",
+ "people": [
+  {
+   "name": "何傅",
+   "role": "四川提督"
+  },
+  {
+   "name": "高登科",
+   "role": "总兵"
+  },
+  {
+   "name": "黄大来",
+   "role": "总兵"
+  },
+  {
+   "name": "吴英",
+   "role": "总兵"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "四川",
+  "陕西",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10917,
+ "page_range": "253-254"
+}

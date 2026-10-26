@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十二日丙午",
+ "event_role": "司法案件",
+ "summary": "刑部秋审山东情真罪犯韩良田杀赵氏案，康熙帝议其情有可原，命照议完结。",
+ "people": [
+  {
+   "name": "韩良田",
+   "role": "罪犯"
+  },
+  {
+   "name": "赵氏",
+   "role": "死者"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13406,
+ "page_range": "279-280"
+}

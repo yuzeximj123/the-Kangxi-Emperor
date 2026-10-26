@@ -1,0 +1,40 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "九卿会议江南秋审各案，康熙帝细阅后命机日祖等监候，冯氏、王白良、王祥、崔廷选缓决，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "冯氏",
+   "role": "罪犯"
+  },
+  {
+   "name": "王白良",
+   "role": "罪犯"
+  },
+  {
+   "name": "王祥",
+   "role": "罪犯"
+  },
+  {
+   "name": "崔廷选",
+   "role": "罪犯"
+  },
+  {
+   "name": "机日祖",
+   "role": "待质审之人"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1702,
+ "page_range": "77-78"
+}

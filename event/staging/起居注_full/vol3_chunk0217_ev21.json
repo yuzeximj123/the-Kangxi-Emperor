@@ -1,0 +1,20 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十二日庚寅",
+ "event_role": "司法案件",
+ "summary": "刑部题三等侍卫莫洛拟罪事，康熙帝认为莫洛系妄行之人，命照部议枷号、鞭责，发往黑龙江当差。",
+ "people": [
+  {
+   "name": "莫洛",
+   "role": "三等侍卫"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21721,
+ "page_range": "469-470"
+}

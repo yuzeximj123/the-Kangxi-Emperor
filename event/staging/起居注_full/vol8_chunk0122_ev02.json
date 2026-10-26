@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门覆两江总督赫寿所题张恩等劫崇明县裴汶霖商船夺衣米案，请照律立斩，康熙帝令将为首之人正法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赫寿",
+   "role": "两江总督兼管巡抚事务"
+  },
+  {
+   "name": "张恩",
+   "role": "案犯"
+  },
+  {
+   "name": "裴汶霖",
+   "role": "商船船主"
+  },
+  {
+   "name": "张明山",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "崇明县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12202,
+ "page_range": "255-256"
+}

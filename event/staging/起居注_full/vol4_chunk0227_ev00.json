@@ -1,0 +1,28 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝论佛伦任山东巡抚时早知恶人而不究，因党类众多恐如于七故事，令严惩压良霸占者，着再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "前任山东巡抚"
+  },
+  {
+   "name": "喻成龙",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22700,
+ "page_range": "466-467"
+}

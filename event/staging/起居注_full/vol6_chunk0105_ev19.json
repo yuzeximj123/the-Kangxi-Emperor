@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "十六日王子",
+ "event_role": "司法案件",
+ "summary": "刑部拟谋死拨什库席哈泰之六十三立斩、加功之费扬鼓绞，康熙令将妄用偷盗之人为拨什库的佐领交都统惩处。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "席哈泰",
+   "role": "拨什库"
+  },
+  {
+   "name": "六十三",
+   "role": "罪犯"
+  },
+  {
+   "name": "费扬鼓",
+   "role": "罪犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10519,
+ "page_range": "220-221"
+}

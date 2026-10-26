@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "十五日乙已",
+ "event_role": "人事任免",
+ "summary": "吏部题镶蓝旗三等阿达哈哈番郭逢培病故无亲生子孙，议由其亲弟之子郭英丕承袭；康熙帝以其有行间效力功牌，准袭一次。",
+ "people": [
+  {
+   "name": "郭逢培",
+   "role": "镶蓝旗三等阿达哈哈番"
+  },
+  {
+   "name": "郭英丕",
+   "role": "郭逢培亲弟之子"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7004,
+ "page_range": "150-151"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝就应斩人犯过多一案，命会同三法司详议，除不应免者外发遣黑龙江、吉林、乌拉撑船，秦佑改秋后斩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "秦佑",
+   "role": "人犯"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "吉林",
+  "乌拉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16500,
+ "page_range": "341-342"
+}

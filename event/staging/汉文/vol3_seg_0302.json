@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十年十二月十二日",
+ "reign_year": 50,
+ "month": 12,
+ "day": 13,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州、扬州十一月降雪尺寸，认为冬雪为来年丰年之兆，并报米价仍贱、地方无事，同时进呈两地晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報蘇揚得雪米價仍賤並進晴雨册摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "1000",
+ "order_index": 302
+}

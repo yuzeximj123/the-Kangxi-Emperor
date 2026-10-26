@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十七年八月十六日",
+ "reign_year": 57,
+ "month": 8,
+ "day": 16,
+ "event_role": "奏报地方情形",
+ "summary": "江宁巡抚吴存礼奏报江宁等府州县春夏雨泽调匀、二麦丰收、秋成可期及当地米麦豆价格，并差人赍摺奏闻。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚（奏报人）"
+  },
+  {
+   "name": "郭绍祖",
+   "role": "标下兵丁（赍摺者）"
+  },
+  {
+   "name": "赵国栋",
+   "role": "吴存礼家人（赍摺者）"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并称今年北方收成颇好，口外每仓石不足三钱。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 112
+}

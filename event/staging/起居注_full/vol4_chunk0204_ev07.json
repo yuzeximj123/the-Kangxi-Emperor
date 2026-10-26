@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 8,
+ "day_text": "三十日丁丑",
+ "event_role": "朝见受贺",
+ "summary": "监督税务礼部员外郎达赖、密云县知县陈世丛、守备李云攻等来朝见。",
+ "people": [
+  {
+   "name": "达赖",
+   "role": "监督税务礼部员外郎"
+  },
+  {
+   "name": "陈世丛",
+   "role": "密云县知县"
+  },
+  {
+   "name": "李云攻",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20407,
+ "page_range": "420-421"
+}

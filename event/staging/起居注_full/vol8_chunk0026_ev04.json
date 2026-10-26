@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补汉军中书潘弘雪员缺，康熙帝询问后令以进士、举人补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "王之璋",
+   "role": "监生"
+  },
+  {
+   "name": "潘弘雪",
+   "role": "汉军中书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2604,
+ "page_range": "63-64"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十四日己巳",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门面奏，九卿等遵旨议移文总河于成龙速修河工。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  },
+  {
+   "name": "李楠",
+   "role": "侍郎"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11101,
+ "page_range": "232-233"
+}

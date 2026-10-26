@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命马龙授为额外参将，军前效力行走；镇江城守参将员缺另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马龙",
+   "role": "额外参将"
+  }
+ ],
+ "places": [
+  "镇江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21509,
+ "page_range": "441-442"
+}

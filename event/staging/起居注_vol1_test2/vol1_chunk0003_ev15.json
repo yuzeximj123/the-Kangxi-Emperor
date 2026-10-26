@@ -1,0 +1,20 @@
+{
+ "reign_year": 10,
+ "month": 11,
+ "day_text": "十六日癸辫",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝亲往天坛牺牲所视牲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天坛牺牲所"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 315,
+ "page_range": "63-64"
+}

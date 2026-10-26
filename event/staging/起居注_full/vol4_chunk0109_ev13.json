@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "二十九日庚申",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝以天少雨泽忧劳盼望降雨，伊桑阿等奏前雨数次田土湿润，得二三指雨即有益，康熙帝言口外来人云口外已大有雨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "口外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10913,
+ "page_range": "230-231"
+}

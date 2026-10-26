@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙伍拾捌年捌月日",
+ "reign_year": 58,
+ "month": 8,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "浙江提督王世臣奏请圣安，报告海疆宁谧、雨旸时若、二麦早禾收成及米价稍平，并遣家人王忠代恭请圣安。",
+ "people": [
+  {
+   "name": "王世臣",
+   "role": "提督浙江等处地方总兵官从一品升任，奏请圣安"
+  },
+  {
+   "name": "王忠",
+   "role": "王世臣家人，代恭请圣安"
+  },
+  {
+   "name": "蓝理",
+   "role": "提督浙江等处地方总兵官，具奏"
+  }
+ ],
+ "places": [
+  "浙江",
+  "杭嘉湖三府",
+  "南温"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 205
+}

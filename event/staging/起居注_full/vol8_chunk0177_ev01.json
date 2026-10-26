@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请宋宽殴伤宋显名致死拟立斩一案，康熙帝改宋宽为应斩监候，秋后处决。",
+ "people": [
+  {
+   "name": "宋宽",
+   "role": "案犯"
+  },
+  {
+   "name": "宋显名",
+   "role": "死者"
+  },
+  {
+   "name": "赵弘赤",
+   "role": "总督管理直隶巡抚事务"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17701,
+ "page_range": "365-366"
+}

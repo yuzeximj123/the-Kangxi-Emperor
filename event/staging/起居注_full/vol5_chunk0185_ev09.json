@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "初三日甲申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召于成龙等问运米起程日期，严责其欲援引己党同行、延误军务，于成龙免冠请罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "督运粮锦都察院左都御史"
+  }
+ ],
+ "places": [
+  "克鲁伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18509,
+ "page_range": "380-381"
+}

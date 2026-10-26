@@ -1,0 +1,26 @@
+{
+ "reign_year": 12,
+ "month": 10,
+ "day_text": "二十二日成午",
+ "event_role": "起居注官记录",
+ "summary": "扈从起居注官为喇沙里、孙在丰、张英。",
+ "people": [
+  {
+   "name": "喇沙里",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "张英",
+   "role": "扈从起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5726,
+ "page_range": "171-172"
+}

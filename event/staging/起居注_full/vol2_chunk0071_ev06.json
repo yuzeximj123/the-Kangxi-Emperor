@@ -1,0 +1,42 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初三日癸未",
+ "event_role": "人事任免",
+ "summary": "吏部题本部司员内升外转事，康熙帝询问意见后令郑重内升，因司官无多外转暂停这一次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "学士"
+  },
+  {
+   "name": "郑重",
+   "role": "文选司郎中"
+  },
+  {
+   "name": "李如兰",
+   "role": "官员"
+  },
+  {
+   "name": "田七善",
+   "role": "吏部司官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7106,
+ "page_range": "185-186"
+}

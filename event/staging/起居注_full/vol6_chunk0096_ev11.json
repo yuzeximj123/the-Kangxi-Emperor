@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": "初一日戊戌",
+ "event_role": "人事任免",
+ "summary": "康熙帝命郭表补授湖广总督速赴新任，李辉祖调回补授刑部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭表",
+   "role": "湖广总督"
+  },
+  {
+   "name": "李辉祖",
+   "role": "刑部侍郎"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9611,
+ "page_range": "202-203"
+}

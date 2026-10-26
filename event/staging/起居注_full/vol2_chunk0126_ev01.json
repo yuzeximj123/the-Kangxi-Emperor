@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "初六日王午",
+ "event_role": "人事任免",
+ "summary": "安徽巡抚徐国相将王佑等十员题请议叙，兵部议不准行，康熙帝令再议具奏。",
+ "people": [
+  {
+   "name": "徐国相",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "王佑",
+   "role": "被题请议叙官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12601,
+ "page_range": "295-296"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初十日己酉",
+ "event_role": "司法案件",
+ "summary": "刑部题故明废王、定王坟被发，拟贼韩科等绞，康熙帝以盗发王坟不得与平人一例，命从重拟罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩科",
+   "role": "贼犯"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21208,
+ "page_range": "467-468"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十八年六月二十一日",
+ "reign_year": 48,
+ "month": 6,
+ "day": 21,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮因皇上巡幸口外，上摺恭请圣安。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，上奏请安"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，巡幸口外"
+  }
+ ],
+ "places": [
+  "口外"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸巡撫趙弘燮奏為恭逢皇上巡幸口外恭請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "521",
+ "order_index": 478
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十六日癸丑",
+ "event_role": "人事任免",
+ "summary": "川陕总督佛伦题请以知府祖允图补授陕西粮道，议不准行，康熙帝以祖允图居官甚善，命依该督所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  },
+  {
+   "name": "祖允图",
+   "role": "兖州府知府"
+  }
+ ],
+ "places": [
+  "陕西",
+  "兖州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2018,
+ "page_range": "50-51"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": "二十五日",
+ "event_role": "谕旨决策",
+ "summary": "户部覆请承德等州县照旧例收米豆，康熙帝命将更改旧例的董弘骨及改议之司官一并察议具奏。",
+ "people": [
+  {
+   "name": "董弘骨",
+   "role": "官员"
+  },
+  {
+   "name": "伯唐保",
+   "role": "署理盛京将军事务前锋统领"
+  }
+ ],
+ "places": [
+  "承德"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15111,
+ "page_range": "313-314"
+}

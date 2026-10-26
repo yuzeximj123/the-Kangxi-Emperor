@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初三日乙未",
+ "event_role": "朝见受贺",
+ "summary": "献县知县白元享、河间府右营千总孙自贤等来朝。",
+ "people": [
+  {
+   "name": "白元享",
+   "role": "献县知县"
+  },
+  {
+   "name": "孙自贤",
+   "role": "河间府右营千总"
+  }
+ ],
+ "places": [
+  "献县",
+  "河间府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5121,
+ "page_range": "137-138"
+}

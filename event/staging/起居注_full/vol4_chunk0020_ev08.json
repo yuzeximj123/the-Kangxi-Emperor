@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "十九日生辰",
+ "event_role": "人事任免",
+ "summary": "吏部题湖广总督徐国相革职员缺请旨，康熙令裁去总督之缺，王熙赞同。",
+ "people": [
+  {
+   "name": "徐国相",
+   "role": "湖广总督"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2008,
+ "page_range": "52-53"
+}

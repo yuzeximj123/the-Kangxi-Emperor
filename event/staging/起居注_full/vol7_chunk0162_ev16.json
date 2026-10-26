@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "二十六日乙卯",
+ "event_role": "人事任免",
+ "summary": "兵部题云南开化总兵官黄冬钱员缺开列杨长泰等，康熙帝命将调记名副将十员查开折子具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄冬钱",
+   "role": "云南开化总兵官"
+  },
+  {
+   "name": "杨长泰",
+   "role": "镶黄旗汉军参领"
+  }
+ ],
+ "places": [
+  "云南开化"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16216,
+ "page_range": "335-336"
+}

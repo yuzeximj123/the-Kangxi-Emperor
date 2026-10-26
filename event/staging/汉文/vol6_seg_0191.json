@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十四年十一月初二日",
+ "reign_year": 54,
+ "month": 11,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "河南巡抚李锡奏报豫省十月二十七、二十八日省城附近州县得雪二三寸，地土滋润，来年麦收有望，并恭请圣安。",
+ "people": [
+  {
+   "name": "李锡",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚都察院右副都御史加三级"
+  }
+ ],
+ "places": [
+  "河南",
+  "豫省",
+  "省城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批表示自己安好，奏折已知悉。",
+ "source_title": "河南巡撫李錫奏報雨雪情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1925",
+ "order_index": 191
+}

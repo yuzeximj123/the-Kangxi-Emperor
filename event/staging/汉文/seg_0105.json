@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十四年",
+ "reign_year": 44,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "王鸿绪密奏传作楫出关途中因未给解役赏银遭绑缚抢劫，汪晋征亦称此事属实。",
+ "people": [
+  {
+   "name": "王鸿绪",
+   "role": "奏报人"
+  },
+  {
+   "name": "传作楫",
+   "role": "涉及人物"
+  },
+  {
+   "name": "汪晋征",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知悉此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "143",
+ "source_title": "工部尚书王鸿绪奏报传作楫在外被解役抢劫摺",
+ "order_index": 105
+}

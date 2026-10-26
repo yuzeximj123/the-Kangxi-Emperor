@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "总河赵世显奏遵旨筑天妃坝以上、证家汪以下长堤并挑桃庄引河，康熙帝谕此口断不可开，命九卿、詹事、科、道会同详议具奏。",
+ "people": [
+  {
+   "name": "赵世显",
+   "role": "总河"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天妃坝",
+  "证家汪",
+  "桃庄",
+  "清河",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20012,
+ "page_range": "411-412"
+}

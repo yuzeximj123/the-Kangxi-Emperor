@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "初六日庚成",
+ "event_role": "其他",
+ "summary": "康熙帝赐镶黄旗蒙古旗下原任亲军校绰尔齐巴颜马、牛、羊、甸帽、衣服、银两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "绰尔齐巴颜",
+   "role": "原任亲军校"
+  }
+ ],
+ "places": [
+  "中关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3407,
+ "page_range": "79-80"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "初九日戊子",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗护军参领员缺，正拟雅兔、陪拟丘蓝布，康熙帝以雅兔非贵族之裔质问何故拟正，命问该王再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雅兔",
+   "role": "拟正护军参领"
+  },
+  {
+   "name": "丘蓝布",
+   "role": "拟陪包衣参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9508,
+ "page_range": "233-234"
+}

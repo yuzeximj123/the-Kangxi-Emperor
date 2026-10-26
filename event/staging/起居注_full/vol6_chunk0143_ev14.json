@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "初九日壬寅",
+ "event_role": "河工水利",
+ "event_role_note": null,
+ "summary": "康熙览九卿会议河工折，论堵塞黄水入清口则漕船难行，议未必可行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "清口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14314,
+ "page_range": "296-297"
+}

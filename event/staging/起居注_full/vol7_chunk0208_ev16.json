@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "二十三日两子",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘赤题霸昌道员缺请以淮安府知府姚陶补授，半年未到任，请另拣选；康熙帝令祁国宦调补霸昌道。",
+ "people": [
+  {
+   "name": "赵弘赤",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "姚陶",
+   "role": "淮安府知府"
+  },
+  {
+   "name": "祁国宦",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20816,
+ "page_range": "427-428"
+}

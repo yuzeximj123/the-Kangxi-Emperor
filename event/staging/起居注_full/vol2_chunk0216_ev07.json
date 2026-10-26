@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十日己未",
+ "event_role": "谕旨决策",
+ "summary": "翰林院覆奏刊刻御制诗文事，康熙帝初意未决，大学士李霨、王熙奏请刊刻颁赐中外，康熙帝从之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21607,
+ "page_range": "475-476"
+}

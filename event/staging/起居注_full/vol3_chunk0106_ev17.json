@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十九日两子",
+ "event_role": "人事任免",
+ "summary": "因宗人府左宗正贝子张泰罢任，康熙帝命福善补左宗正、哈尔萨补右宗正、苏弩补左宗人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张泰",
+   "role": "贝子、左宗正"
+  },
+  {
+   "name": "福善",
+   "role": "贝子"
+  },
+  {
+   "name": "哈尔萨",
+   "role": "公"
+  },
+  {
+   "name": "苏弩",
+   "role": "公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10617,
+ "page_range": "247-248"
+}

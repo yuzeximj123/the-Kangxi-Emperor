@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": "十八日丙戌",
+ "event_role": "弹劾参奏",
+ "summary": "部议以不训练官兵议处范承勋降三级、张鹏翮降一级罚俸，康熙帝以部议不合，令只议范承勋，本发回该部。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "前任总督"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "现任总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9418,
+ "page_range": "198-199"
+}

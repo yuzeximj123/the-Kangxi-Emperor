@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十六日癸丑",
+ "event_role": "司法案件",
+ "summary": "刑部议兵丁穆尔浑于擂鼓台为贼所执应立绞，康熙帝命从宽免死减等发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "穆尔浑",
+   "role": "兵丁"
+  }
+ ],
+ "places": [
+  "擂鼓台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23006,
+ "page_range": "503-504"
+}

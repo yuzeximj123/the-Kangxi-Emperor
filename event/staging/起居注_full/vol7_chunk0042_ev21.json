@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "十六日于辰",
+ "event_role": "司法案件",
+ "summary": "两江总督阿山为布政使张四教具奏议革职，康熙帝以亏空银两已补完，命免追赔，阿山革职留任。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "张四教",
+   "role": "布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4221,
+ "page_range": "95-96"
+}

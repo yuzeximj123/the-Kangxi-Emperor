@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝告诫洪之杰以安静为主，除积弊、纠参属官须至公无私，洪之杰奏请抵任后体察陈奏并求保全。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "洪之杰",
+   "role": "地方大吏"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3100,
+ "page_range": "74-75"
+}

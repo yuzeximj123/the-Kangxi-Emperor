@@ -1,0 +1,21 @@
+{
+ "reign_year": 56,
+ "month": 8,
+ "day_text": "初一日壬午",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝自热河起行，驻跸黄土坎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "热河",
+  "黄土坎"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20505,
+ "page_range": "421-422"
+}

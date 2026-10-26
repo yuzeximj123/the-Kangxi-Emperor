@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十六日己巳",
+ "event_role": "起居注官记录",
+ "summary": "记起居注官徐元正、塞尔图。",
+ "people": [
+  {
+   "name": "徐元正",
+   "role": "起居注官"
+  },
+  {
+   "name": "塞尔图",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7112,
+ "page_range": "153-154"
+}

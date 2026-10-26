@@ -1,0 +1,33 @@
+{
+ "reign_year": 27,
+ "month": 6,
+ "day_text": "初三日甲辰",
+ "event_role": "人事任免",
+ "summary": "吏部题原任江南学道赵岩补授福建兴泉参议道，康熙以其居官甚优着从优内升。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵岩",
+   "role": "原任江南学道"
+  },
+  {
+   "name": "于成龙",
+   "role": "总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南",
+  "福建兴泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3220,
+ "page_range": "76-77"
+}

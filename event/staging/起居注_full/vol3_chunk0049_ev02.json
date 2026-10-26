@@ -1,0 +1,38 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "礼部侍郎胡简敬升任员缺，康熙帝询问后决定将董讷升补礼部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "胡简敬",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "学士"
+  },
+  {
+   "name": "弘道",
+   "role": "官员"
+  },
+  {
+   "name": "董讷",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4902,
+ "page_range": "133-134"
+}

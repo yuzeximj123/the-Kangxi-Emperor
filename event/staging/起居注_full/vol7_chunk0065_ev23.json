@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "十三日了已",
+ "event_role": "人事任免",
+ "summary": "山东巡抚王国昌题因赈济请将刘略暂留布政使任、赵弘党暂留按察使任，康熙帝着照所请暂留原任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "刘略",
+   "role": "布政使"
+  },
+  {
+   "name": "赵弘党",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6523,
+ "page_range": "141-142"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "初一日了丑",
+ "event_role": "司法案件",
+ "summary": "议政王大臣会议简亲王于罗子山对敌退回一事，康熙帝以简亲王败回是实、军法应严，前议为当，后议徇情不合，命严责拟票来看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "简亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [
+  "罗子山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12416,
+ "page_range": "291-292"
+}

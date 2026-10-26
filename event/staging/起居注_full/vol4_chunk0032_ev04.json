@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "二十三日甲午",
+ "event_role": "皇帝行止",
+ "summary": "康熙往刘大行太皇太后梓宫，由东华门出朝阳门，驻中三河夏店。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "朝阳门",
+  "三河夏店"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3204,
+ "page_range": "76-77"
+}

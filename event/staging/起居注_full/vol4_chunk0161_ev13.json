@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "十八日己巳",
+ "event_role": "人事任免",
+ "summary": "吏部议覆江南江西总督傅腊塔、安徽巡抚江有良题请原任徽州府知府朱廷梅留任，康熙帝准照所题留任。",
+ "people": [
+  {
+   "name": "傅腊塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "江有良",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "朱廷梅",
+   "role": "原任徽州府知府"
+  }
+ ],
+ "places": [
+  "徽州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16113,
+ "page_range": "334-335"
+}

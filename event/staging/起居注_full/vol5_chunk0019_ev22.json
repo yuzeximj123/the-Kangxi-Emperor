@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十二日己本",
+ "event_role": "其他",
+ "summary": "康熙帝询问少詹朱阜其人如何，张玉书奏称还是读书人。",
+ "people": [
+  {
+   "name": "朱阜",
+   "role": "少詹"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1922,
+ "page_range": "48-49"
+}

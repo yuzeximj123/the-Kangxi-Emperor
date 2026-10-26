@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十四年十一月二十日",
+ "reign_year": 54,
+ "month": 11,
+ "day": 20,
+ "event_role": "其他",
+ "summary": "苏州织造李煦奏请颁发御制诗初集、二集原本以便照样装订三集，并请再赐新谷二石试种。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏请人"
+  },
+  {
+   "name": "宋荦",
+   "role": "原吏部尚书，曾进呈御制诗初集、二集"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏請頒發御製詩初二集以便三集照樣裝訂捐",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1946",
+ "order_index": 213
+}

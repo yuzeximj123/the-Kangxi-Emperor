@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十一日辛丑",
+ "event_role": "人事任免",
+ "summary": "山西巡抚噶礼题临汾县知县员缺请调平顺县知县徐国翘，康熙令照所题调补。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "徐国翘",
+   "role": "平顺县知县"
+  }
+ ],
+ "places": [
+  "山西",
+  "临汾县",
+  "平顺县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2216,
+ "page_range": "55-56"
+}

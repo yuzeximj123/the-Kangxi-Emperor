@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 8,
+ "day_text": "二十七日成袖",
+ "event_role": "谕旨决策",
+ "summary": "奏事治仪正傻子、双全传谕领侍卫内大臣公阿灵阿等，称连日雨雪不得行猎，然于来年耕种有益，不胜欣悦。",
+ "people": [
+  {
+   "name": "傻子",
+   "role": "奏事治仪正"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣公"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22923,
+ "page_range": "469-470"
+}

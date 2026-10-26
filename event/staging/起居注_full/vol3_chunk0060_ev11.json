@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "二十二日癸未",
+ "event_role": "朝见受贺",
+ "summary": "临清钞关监督理小院郎中喀喇、高唐州知州夏必等、游击杨遇春等来朝见。",
+ "people": [
+  {
+   "name": "喀喇",
+   "role": "临清钞关监督理小院郎中"
+  },
+  {
+   "name": "夏必",
+   "role": "高唐州知州"
+  },
+  {
+   "name": "杨遇春",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "临清",
+  "高唐州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6011,
+ "page_range": "155-156"
+}

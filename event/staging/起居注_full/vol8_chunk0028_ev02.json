@@ -1,0 +1,25 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题报立斩犯赵晋于监中自缢，狱官书吏失守且申报迟延，请严审参处，康熙令依议并令督抚明白回奏。",
+ "people": [
+  {
+   "name": "赵晋",
+   "role": "立斩罪犯"
+  },
+  {
+   "name": "赫寿",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2802,
+ "page_range": "67-68"
+}

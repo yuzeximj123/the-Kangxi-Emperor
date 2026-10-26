@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "二十九日全效",
+ "event_role": "谕旨决策",
+ "summary": "总河于成龙题请以苏礼等补授河工缺，部议不准，康熙帝准于成龙所请补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "苏礼",
+   "role": "候补官员"
+  },
+  {
+   "name": "江玉成",
+   "role": "候补官员"
+  },
+  {
+   "name": "赵弘图",
+   "role": "候补官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12536,
+ "page_range": "260-261"
+}

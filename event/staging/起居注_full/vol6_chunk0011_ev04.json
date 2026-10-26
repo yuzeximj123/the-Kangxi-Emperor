@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "十八日乙未",
+ "event_role": "人事任免",
+ "summary": "巡抚李国亮题开封府知府员缺乞拣选补授，议不准行，康熙帝允其请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李国亮",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "开封府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1104,
+ "page_range": "32-33"
+}

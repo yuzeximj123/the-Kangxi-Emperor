@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院题请御史内升外转，康熙帝令问九卿具奏；九卿举荐奉天府尹屠沂补副都御史员缺，康熙帝以奉天地方紧要令屠沂仍赴任，副都御史员缺再问九卿。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "屠沂",
+   "role": "奉天府尹，被举荐副都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18201,
+ "page_range": "375-376"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 11,
+ "month": 7,
+ "day_text": "二十七日庚子",
+ "event_role": "其他",
+ "summary": "巳时康熙帝御弘德磺，讲官傅达礼等进讲子夏问孝一章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "讲官"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "史大成",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德磺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2125,
+ "page_range": "99-100"
+}

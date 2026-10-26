@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初八日辛亥",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝遣领侍卫内大臣噶都、福山、索额图及每旗侍卫各十人往纯亲王墓奠酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶都",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "福山",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "每旗侍卫各十人",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "纯亲王墓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15512,
+ "page_range": "353-354"
+}

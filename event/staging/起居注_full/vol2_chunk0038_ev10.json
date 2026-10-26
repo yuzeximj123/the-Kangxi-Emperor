@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十二日丙申",
+ "event_role": "谕旨决策",
+ "summary": "议傅弘烈子傅万民请注销兵饷银十万两事，康熙帝采纳明珠意见，着依部议不允注销。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅万民",
+   "role": "傅弘烈之子"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "简亲王",
+   "role": "代题者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3810,
+ "page_range": "119-120"
+}

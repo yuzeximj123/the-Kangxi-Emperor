@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十三日戊子",
+ "event_role": "议政听政",
+ "summary": "明珠等奏奉旨传集九卿看戴王结条奏，九卿言圣训应编、武功告成宜勒成一书，康熙帝谕着编成一书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "戴王结",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13815,
+ "page_range": "319-320"
+}

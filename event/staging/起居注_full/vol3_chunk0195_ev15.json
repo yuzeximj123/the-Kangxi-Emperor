@@ -1,0 +1,42 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "初二日王午",
+ "event_role": "谕旨决策",
+ "summary": "启奏考选赵吉士等试卷，王熙奏格式错误四卷及郭玫、王灶荐举情况，康熙帝命参定。",
+ "people": [
+  {
+   "name": "赵吉士",
+   "role": "考生"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "程大夏",
+   "role": "考生"
+  },
+  {
+   "name": "郭玫",
+   "role": "官员"
+  },
+  {
+   "name": "汤斌",
+   "role": "荐举人"
+  },
+  {
+   "name": "王灶",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "荐举人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19515,
+ "page_range": "425-426"
+}

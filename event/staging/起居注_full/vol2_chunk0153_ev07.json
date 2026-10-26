@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十七日庚寅",
+ "event_role": "河工水利",
+ "summary": "户部尚书伊桑阿奏请令靳辅来京面奏河工事宜，大学士明珠等赞同，康熙帝令留本内阁待靳辅来京再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15307,
+ "page_range": "349-350"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "十九日戊辰",
+ "event_role": "人事任免",
+ "summary": "刑部郎中员缺，康熙帝命吏部会同刑部选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郎廷秀",
+   "role": "拟正候补郎中"
+  },
+  {
+   "name": "马君宠",
+   "role": "拟陪员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7908,
+ "page_range": "201-202"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "初六日戊子",
+ "event_role": "司法案件",
+ "summary": "覆请刑部所题越墙进旧泰仓内盗米赵三等贼发往黑龙江与新披甲人为奴，看仓拖沙喇哈番常里住等照例各罚俸二年半。",
+ "people": [
+  {
+   "name": "赵三",
+   "role": "盗米贼"
+  },
+  {
+   "name": "常里住",
+   "role": "看仓拖沙喇哈番"
+  }
+ ],
+ "places": [
+  "旧泰仓",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21844,
+ "page_range": "447-448"
+}

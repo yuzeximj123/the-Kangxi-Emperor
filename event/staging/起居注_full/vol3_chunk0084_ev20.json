@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十七日丁亥",
+ "event_role": "军务",
+ "summary": "提督施粮题进剿彭湖伤亡兵应给恤赏，兵部议军功未叙，康熙帝命一概速行议叙结案，使贫兵早受实惠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施粮",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "彭湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8420,
+ "page_range": "203-204"
+}

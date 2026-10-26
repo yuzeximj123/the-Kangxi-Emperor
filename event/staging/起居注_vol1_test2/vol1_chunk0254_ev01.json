@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议补内阁汉军侍读员缺，康熙帝询问考取第一名张起鹏可否补用，明珠荐孙冈，帝命孙冈一并引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张起鹏",
+   "role": "考取第一名"
+  },
+  {
+   "name": "孙冈",
+   "role": "原任中书今升都察院都事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25401,
+ "page_range": "565-566"
+}

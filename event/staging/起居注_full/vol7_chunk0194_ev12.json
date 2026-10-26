@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初二日丁雍",
+ "event_role": "谕旨决策",
+ "summary": "温达等奏以黄科中奏请捐纳一事问九卿，据云闽省水路运米艰难，候补授闽抚详议具题，康熙帝命本收贮衙门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "黄科中",
+   "role": "奏请官员"
+  }
+ ],
+ "places": [
+  "闽省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19412,
+ "page_range": "399-400"
+}

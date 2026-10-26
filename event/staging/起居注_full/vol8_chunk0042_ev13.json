@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "二十四日戊成",
+ "event_role": "军务",
+ "summary": "西安副都统巴尔布请训旨，康熙帝谕令告将军勤加训练西安之兵。",
+ "people": [
+  {
+   "name": "巴尔布",
+   "role": "西安副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4213,
+ "page_range": "95-96"
+}

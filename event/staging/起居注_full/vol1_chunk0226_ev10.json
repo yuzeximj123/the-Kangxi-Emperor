@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初七日丙申",
+ "event_role": "人事任免",
+ "summary": "兵部题补顺德总兵官，康熙以化璋效力行间骁勇且熟详水师事宜，命调补顺德总兵官，兼衔时仍着加级。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "化璋",
+   "role": "拟补顺德总兵官"
+  }
+ ],
+ "places": [
+  "顺德"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22610,
+ "page_range": "509-510"
+}

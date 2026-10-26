@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": "十五日成辰",
+ "event_role": "议政听政",
+ "summary": "大学士马齐、兵部侍郎查绚纳、学士酒克旦、勒什布以折本请旨。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "查绚纳",
+   "role": "兵部侍郎仍在学士处行走"
+  },
+  {
+   "name": "酒克旦",
+   "role": "学士"
+  },
+  {
+   "name": "勒什布",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19219,
+ "page_range": "395-396"
+}

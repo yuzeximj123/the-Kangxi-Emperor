@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "二十八日己丁",
+ "event_role": "人事任免",
+ "summary": "吏部以山西巡抚图纳升任员缺请旨，康熙帝命布政使马齐升补山西巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "马齐",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18918,
+ "page_range": "413-414"
+}

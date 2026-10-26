@@ -1,0 +1,40 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "十六日丙午",
+ "event_role": "议政听政",
+ "summary": "康熙帝御旧宫，与明珠等以折本请旨，议副都御史张可前条奏冲繁县令拣选调补等款。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "张可前",
+   "role": "副都御史"
+  }
+ ],
+ "places": [
+  "旧宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7604,
+ "page_range": "187-188"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 3,
+ "day_text": "初八日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召兵部尚书明珠，称因修葺宫室暂驻瀛台，今天时亢旱，即日回宫修省。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "兵部尚书"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3808,
+ "page_range": "133-134"
+}

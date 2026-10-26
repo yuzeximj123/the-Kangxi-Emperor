@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题罗森家人柏紫一案应俟罗森事结后再议，康熙帝认为柏紫冤枉，罗森欲杀之以灭口，明珠奏柏紫系杨府建审明拟斩，康熙帝从之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗森",
+   "role": "当事人"
+  },
+  {
+   "name": "柏紫",
+   "role": "罗森家人"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杨府建",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6901,
+ "page_range": "181-182"
+}

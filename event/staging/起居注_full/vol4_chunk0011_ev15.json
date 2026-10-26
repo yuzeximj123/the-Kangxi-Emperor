@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "二十四日本卯",
+ "event_role": "人事任免",
+ "summary": "吏部题通政使司左通政张昂苏休致员缺，拟以右通政王承祖转补、太常寺少卿李绍闻补王承祖缺，康熙帝以李绍闻其人不佳，着问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张昂苏",
+   "role": "通政使司左通政"
+  },
+  {
+   "name": "王承祖",
+   "role": "右通政"
+  },
+  {
+   "name": "李绍闻",
+   "role": "太常寺少卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1115,
+ "page_range": "34-35"
+}

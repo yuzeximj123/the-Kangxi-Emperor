@@ -1,0 +1,20 @@
+{
+ "reign_year": 13,
+ "month": 1,
+ "day_text": "十五日",
+ "event_role": "请安谢恩",
+ "summary": "宴罢，众臣谢恩毕，康熙帝回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6513,
+ "page_range": "187-188"
+}

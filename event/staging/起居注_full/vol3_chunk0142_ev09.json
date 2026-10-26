@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十八日壬寅",
+ "event_role": "司法案件",
+ "summary": "刑部题陈文泰赌钱打死陈文贵拟立斩、张文纪帮打拟绞监候，康熙帝询问后命交九卿详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "陈文泰",
+   "role": "犯人"
+  },
+  {
+   "name": "陈文贵",
+   "role": "死者"
+  },
+  {
+   "name": "张文纪",
+   "role": "从犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14209,
+ "page_range": "319-320"
+}

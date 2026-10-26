@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十四日王申",
+ "event_role": "谕旨决策",
+ "summary": "有人奏请增《周礼集注》并御制序文、科场以《周礼》出题，熊赐履奏称无益，康熙帝称以《周礼》出题反觉其易。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3214,
+ "page_range": "75-76"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "二十三日甲申",
+ "event_role": "司法案件",
+ "summary": "刑部议造作伪诗黄来仪等应援赦事，康熙帝询问可否援赦，索额图奏无知愚民一时妄作应援赦，康熙帝从之。",
+ "people": [
+  {
+   "name": "黄来仪",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20012,
+ "page_range": "457-458"
+}

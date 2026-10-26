@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "二十一日",
+ "event_role": "司法案件",
+ "summary": "河南巡抚李国亮题鹿邑县女子陈三姐孝养其母不肯出嫁而死请旌表，康熙帝以不合人伦之常不准旌表，批发行文。",
+ "people": [
+  {
+   "name": "李国亮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "陈三姐",
+   "role": "鹿邑县女子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "鹿邑县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13311,
+ "page_range": "276-277"
+}

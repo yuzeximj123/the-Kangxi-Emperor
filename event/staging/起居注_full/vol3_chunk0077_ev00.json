@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "是日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸永清县韩村，东安县防尉莫琐里等、知县吴兆龙前来朝见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "莫琐里",
+   "role": "东安县防尉"
+  },
+  {
+   "name": "吴兆龙",
+   "role": "东安县知县"
+  }
+ ],
+ "places": [
+  "永清县韩村",
+  "东安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7700,
+ "page_range": "189-190"
+}

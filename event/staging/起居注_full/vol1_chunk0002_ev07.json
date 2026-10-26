@@ -1,0 +1,22 @@
+{
+ "reign_year": 10,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召将军阿木儿图面谕，称其非无能之人，命其镇守地方、勉副圣意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿木儿图",
+   "role": "将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 207,
+ "page_range": "61-62"
+}

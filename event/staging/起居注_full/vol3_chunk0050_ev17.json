@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "二十六日己丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召总兵官陈龙、林贤，谕以福建沿海已平定，命宣抚绥兵民使各相安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈龙",
+   "role": "总兵官"
+  },
+  {
+   "name": "林贤",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5017,
+ "page_range": "135-136"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "镶红旗副都统牛钮员缺，康熙帝令将宗室将军、公、侯、伯及精奇尼哈番查来具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "镶红旗副都统"
+  },
+  {
+   "name": "席尔达",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2704,
+ "page_range": "64-65"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "因广西按察司员缺，康熙帝览九卿所荐道范时崇等四人，决定以郑昱补授广西按察司。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郑昱",
+   "role": "拟任广西按察司"
+  },
+  {
+   "name": "范时崇",
+   "role": "被荐道员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22401,
+ "page_range": "458-459"
+}

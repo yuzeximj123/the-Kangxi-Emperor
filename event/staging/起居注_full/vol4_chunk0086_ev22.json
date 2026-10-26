@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "二十四日本已",
+ "event_role": "人事任免",
+ "summary": "兵部题补正白旗汉军都统石文炳授福建将军员缺，康熙帝命石文炳子穆赫伦补授都统，令其祖华善协理旗务。",
+ "people": [
+  {
+   "name": "石文炳",
+   "role": "正白旗汉军都统"
+  },
+  {
+   "name": "穆赫伦",
+   "role": "石文炳子"
+  },
+  {
+   "name": "华善",
+   "role": "石文炳祖"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8622,
+ "page_range": "184-185"
+}

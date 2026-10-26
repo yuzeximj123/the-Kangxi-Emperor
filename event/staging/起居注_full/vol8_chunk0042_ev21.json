@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "二十四日戊成",
+ "event_role": "奏报灾情收成",
+ "summary": "工部覆四川巡抚年次尧题茂州等处地震城垣房屋倒坏，请开矿抽分或捐纳修葺，康熙帝令问九卿议奏。",
+ "people": [
+  {
+   "name": "年次尧",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "成都府",
+  "茂州",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4221,
+ "page_range": "95-96"
+}

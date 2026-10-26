@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 4,
+ "day_text": "二十日本西",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝途中谕大学士明珠，令盛京将军安诸护遍查沿边界限处掘损坟墓、暴露遗骨并埋瘗。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "安诸护",
+   "role": "盛京将军"
+  }
+ ],
+ "places": [
+  "沿边"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11736,
+ "page_range": "277-278"
+}

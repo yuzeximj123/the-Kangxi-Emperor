@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "江南将军鄂克进等买马送至江宁养肥，康熙帝嘉其不误军机。",
+ "people": [
+  {
+   "name": "鄂克进",
+   "role": "江南将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22310,
+ "page_range": "457-458"
+}

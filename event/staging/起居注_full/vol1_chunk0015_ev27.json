@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 5,
+ "day_text": "二十七日壬申",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝御观德殿，召推升云南总兵平西亲王属下参领张足法命射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张足法",
+   "role": "推升云南总兵平西亲王属下参领"
+  }
+ ],
+ "places": [
+  "观德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1527,
+ "page_range": "87-88"
+}

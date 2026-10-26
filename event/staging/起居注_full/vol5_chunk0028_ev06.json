@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "伊桑阿、阿兰泰、王熙、张玉书等奏请以佛伦任内阁大学士，康熙以尚书职任与大学士不悬殊，命暂待之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2806,
+ "page_range": "66-67"
+}

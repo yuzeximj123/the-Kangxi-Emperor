@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "十三日辛卯",
+ "event_role": "司法案件",
+ "summary": "议政王大臣会议原任布政使成格、笔帖式巴席、舒书从贼应立斩事，康熙帝着巴席依拟立斩，成格、舒书改为立绞。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "成格",
+   "role": "原任布政使"
+  },
+  {
+   "name": "巴席",
+   "role": "笔帖式"
+  },
+  {
+   "name": "舒书",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11222,
+ "page_range": "267-268"
+}

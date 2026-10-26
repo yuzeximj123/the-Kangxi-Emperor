@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "通州升任知州王光席员缺，部议不准以清苑县知县吴存礼补授，康熙帝命照该抚所题戴罪补授。",
+ "people": [
+  {
+   "name": "王光席",
+   "role": "通州升任知州（员缺）"
+  },
+  {
+   "name": "吴存礼",
+   "role": "清苑县知县，补授通州知州"
+  }
+ ],
+ "places": [
+  "通州",
+  "清苑县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15302,
+ "page_range": "316-317"
+}

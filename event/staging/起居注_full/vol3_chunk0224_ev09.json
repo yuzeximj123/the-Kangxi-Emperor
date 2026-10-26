@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "十七日甲子",
+ "event_role": "议政听政",
+ "summary": "因文皇后忌辰，康熙帝不御乾清门，命明珠、王熙、宋德宜至乾清宫内以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22409,
+ "page_range": "483-484"
+}

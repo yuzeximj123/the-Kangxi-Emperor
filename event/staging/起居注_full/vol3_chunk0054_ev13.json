@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "苏松常镇督粮道刘见等、扬州营游击罗泰明等来朝见康熙帝。",
+ "people": [
+  {
+   "name": "刘见",
+   "role": "苏松常镇督粮道"
+  },
+  {
+   "name": "罗泰明",
+   "role": "扬州营游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "仪真"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5413,
+ "page_range": "143-144"
+}

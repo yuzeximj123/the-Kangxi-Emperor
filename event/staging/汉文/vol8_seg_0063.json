@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十七年七月十四日",
+ "reign_year": 57,
+ "month": 7,
+ "day": 3,
+ "event_role": "请安谢恩",
+ "summary": "湖广提督高其位因远居南方不能随侍康熙帝巡幸热河，特差人赍摺恭请圣安。",
+ "people": [
+  {
+   "name": "高其位",
+   "role": "提督湖广总兵官，奏请圣安者"
+  },
+  {
+   "name": "郭乾",
+   "role": "高其位孙下千总，赍摺差官"
+  },
+  {
+   "name": "高孝",
+   "role": "高其位家人，赍摺差人"
+  }
+ ],
+ "places": [
+  "湖广",
+  "热河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知自己安好，并表示已阅知。",
+ "source_title": "湖廣提督高其位奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2653",
+ "order_index": 63
+}

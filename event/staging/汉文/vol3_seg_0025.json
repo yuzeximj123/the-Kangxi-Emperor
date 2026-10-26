@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十九年八月二十二日",
+ "reign_year": 49,
+ "month": 8,
+ "day": 13,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦遵旨查访并奏报南方造言生事之徒已敛迹、米价甚平、丰收在即、地方极其安静，并进呈苏州扬州六七月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州",
+  "南方"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已知悉所奏内容。",
+ "source_title": "蘇州織造李煦奏報造言生事之徒今已斂跡米價甚平摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "726",
+ "order_index": 25
+}

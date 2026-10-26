@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "初七日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝御笔朱书谕旨命兼写汉文发往京师，自述抱关而出步履未健、天时亢旱焦劳，勉君臣同心祈祷并令详晰传谕在京诸臣。",
+ "people": [
+  {
+   "name": "傻子",
+   "role": "奏事"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16811,
+ "page_range": "347-348"
+}

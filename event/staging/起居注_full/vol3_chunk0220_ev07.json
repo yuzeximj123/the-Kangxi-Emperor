@@ -1,0 +1,33 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "二十六日甲戌",
+ "event_role": "人事任免",
+ "summary": "陕西按察使乌赫赴任前请训，康熙帝询问其学识经历并训诲，命其传谕总督图纳等。",
+ "people": [
+  {
+   "name": "乌赫",
+   "role": "陕西按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "总督"
+  },
+  {
+   "name": "腊塔",
+   "role": "西安官员"
+  }
+ ],
+ "places": [
+  "西安",
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22007,
+ "page_range": "475-476"
+}

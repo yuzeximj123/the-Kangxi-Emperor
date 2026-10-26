@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "二十八日庚申",
+ "event_role": "奏报地方情形",
+ "summary": "汤斌奏称皇上巡行所过钱粮尽免、需用不派民间、赏恤穷苦，地方各官已严禁，纤夫已给工食，愿送驾渡江始回。",
+ "people": [
+  {
+   "name": "汤斌",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章钦文",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5514,
+ "page_range": "145-146"
+}

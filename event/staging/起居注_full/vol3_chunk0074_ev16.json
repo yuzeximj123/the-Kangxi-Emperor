@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "十二日于寅",
+ "event_role": "其他",
+ "summary": "赐广东提督许贞备鞍马一匹、撒袋一副，直隶巡抚崔滞马一匹。",
+ "people": [
+  {
+   "name": "许贞",
+   "role": "广东提督"
+  },
+  {
+   "name": "崔滞",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "广东",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7416,
+ "page_range": "183-184"
+}

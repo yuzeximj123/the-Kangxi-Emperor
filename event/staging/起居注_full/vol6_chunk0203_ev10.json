@@ -1,0 +1,36 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "二十五日辛刻",
+ "event_role": "谕旨决策",
+ "summary": "康熙批评所奏六本冗长，令照定额字数陈奏，并驳魏寿期汉中府民稀系明末张献忠所致之说。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "魏寿期",
+   "role": "御史"
+  },
+  {
+   "name": "张献忠",
+   "role": "流贼"
+  }
+ ],
+ "places": [
+  "汉中府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20310,
+ "page_range": "416-417"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十二日丁雍",
+ "event_role": "请安谢恩",
+ "summary": "已时，康熙帝诣太皇太后、皇太后宫问安。本日起居注官阿山、秦松龄记录。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "起居注官"
+  },
+  {
+   "name": "秦松龄",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13814,
+ "page_range": "319-320"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "二十日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "差往广东审事内阁学士萨尔泰、通政使汤右曾入请训旨，康熙谕从公审理莫怀私意。",
+ "people": [
+  {
+   "name": "萨尔泰",
+   "role": "内阁学士"
+  },
+  {
+   "name": "汤右曾",
+   "role": "通政司通政使"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19917,
+ "page_range": "409-410"
+}

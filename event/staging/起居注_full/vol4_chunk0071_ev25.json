@@ -1,0 +1,30 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "初一日两申",
+ "event_role": "人事任免",
+ "summary": "吏部题补吏科给事中镶黄旗达哈塔解任员缺，康熙帝命将昨日考取一等、二等内做深者拟票送进。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达哈塔",
+   "role": "吏科给事中"
+  },
+  {
+   "name": "艾色",
+   "role": "拟正"
+  },
+  {
+   "name": "齐什",
+   "role": "拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7125,
+ "page_range": "154-155"
+}

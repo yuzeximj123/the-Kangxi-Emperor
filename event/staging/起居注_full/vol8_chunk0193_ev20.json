@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": "二十七日庚辰",
+ "event_role": "司法案件",
+ "summary": "都察院议顺诚郡王祭文迟延，礼部尚书陈庭等降二级调用，徐元梦、汤右曾罚俸，康熙令暂候。",
+ "people": [
+  {
+   "name": "陈庭",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "华色",
+   "role": "侍读学士"
+  },
+  {
+   "name": "徐元梦",
+   "role": "左都御史"
+  },
+  {
+   "name": "汤右曾",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19320,
+ "page_range": "397-398"
+}

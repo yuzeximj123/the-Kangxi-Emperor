@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "二十一日己已",
+ "event_role": "朝见受贺",
+ "summary": "三河县知县任训、防守尉纳棱格、三河营守备韩弘荫等来朝。",
+ "people": [
+  {
+   "name": "任训",
+   "role": "三河县知县"
+  },
+  {
+   "name": "纳棱格",
+   "role": "防守尉"
+  },
+  {
+   "name": "韩弘荫",
+   "role": "三河营守备"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4027,
+ "page_range": "123-124"
+}

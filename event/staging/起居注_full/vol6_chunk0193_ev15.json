@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "初五日壬辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙问侍郎常寿陵寝工程是否完工，常寿称尚有水难以动工，康熙质疑并命侍卫马武往问舒略，舒略否认有水之语，康熙斥常寿欺妄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "侍郎"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "舒略",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19315,
+ "page_range": "396-397"
+}

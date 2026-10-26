@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "二十日王申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以督捕事务紧要、李绍闻平庸且系山东人，令停用，命督捕衙门另开列应转补之人具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李绍闻",
+   "role": "通政使司左参议"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17503,
+ "page_range": "385-386"
+}

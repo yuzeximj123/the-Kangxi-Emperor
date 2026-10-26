@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "初五日癸巳",
+ "event_role": "朝见受贺",
+ "summary": "延绥总兵官李承恩陛见，康熙帝谕令整顿兵马、固御地方、抚辑兵民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李承恩",
+   "role": "延绥总兵官"
+  }
+ ],
+ "places": [
+  "榆林"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23916,
+ "page_range": "535-536"
+}

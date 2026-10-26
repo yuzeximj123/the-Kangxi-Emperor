@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "十七日壬戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝赴海泊为德行宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "海泊为德行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5409,
+ "page_range": "119-120"
+}

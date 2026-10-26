@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十六日于午",
+ "event_role": "人事任免",
+ "summary": "户部题遣员外郎吴达库往张家口收税；康熙帝以其庸常，命选贤能官员前往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴达库",
+   "role": "拟遣员外郎"
+  }
+ ],
+ "places": [
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1319,
+ "page_range": "61-62"
+}

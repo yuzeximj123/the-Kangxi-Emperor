@@ -1,0 +1,28 @@
+{
+ "reign_year": 14,
+ "month": 7,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝在乾清门赐食给进贡的那尔布都统下属四品台吉卓尔、苏尼特部落查木苏、科尔沁永安固龙长公主下属敦布等人。",
+ "people": [
+  {
+   "name": "卓尔",
+   "role": "四品台吉"
+  },
+  {
+   "name": "查木苏",
+   "role": "苏尼特部落使者"
+  },
+  {
+   "name": "敦布",
+   "role": "科尔沁永安固龙长公主下属"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9700,
+ "page_range": "251-252"
+}

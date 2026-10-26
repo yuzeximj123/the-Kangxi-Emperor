@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 1,
+ "day_text": "二十六日甲寅",
+ "event_role": "弹劾参奏",
+ "summary": "兵部覆署川陕总督席尔达题参四川建昌总兵官施应元大不称职，议革职。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "署川陕总督"
+  },
+  {
+   "name": "施应元",
+   "role": "四川建昌总兵官"
+  }
+ ],
+ "places": [
+  "四川",
+  "建昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18924,
+ "page_range": "388-389"
+}

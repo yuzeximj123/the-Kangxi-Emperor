@@ -1,0 +1,29 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "弹劾参奏",
+ "summary": "学士蔡升元参劾贵州巡抚刘荫枢避差贪位、粗鄙昏庸，指其托病辞差、闻任即行、奏报不实、贴黄违例，请皇上将其罢斥以肃官方。",
+ "people": [
+  {
+   "name": "蔡升元",
+   "role": "学士，具摺参劾者"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚，被参劾对象"
+  }
+ ],
+ "places": [
+  "贵州",
+  "塞上"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批注明查二拨俱系一样，未知主意。",
+ "source_title": "学士蔡升元奏为特参大吏避差贪位粗鄙昏庸请罢斥以彰臣职事摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "3087",
+ "order_index": 490
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题请将步军统领隆科多拿送的大盗窦尔东等照例即行正法，康熙帝以其行凶多年、杀人多，令首犯凌迟，发回着隆科多会同三法司议奏。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "窦尔东",
+   "role": "大盗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20400,
+ "page_range": "419-420"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以唐孙华学优，着额外授为礼部主事，令于翰林院行走。",
+ "people": [
+  {
+   "name": "唐孙华",
+   "role": "知县"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "把叙",
+   "role": "明珠之子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3305,
+ "page_range": "76-77"
+}

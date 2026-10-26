@@ -1,0 +1,26 @@
+{
+ "reign_year": 17,
+ "month": 5,
+ "day_text": "二十二日辛酉",
+ "event_role": "起居注官记录",
+ "summary": "扈从起居注官为喇沙里、张玉书、牛钮。",
+ "people": [
+  {
+   "name": "喇沙里",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "张玉书",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "牛钮",
+   "role": "扈从起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16223,
+ "page_range": "381-382"
+}

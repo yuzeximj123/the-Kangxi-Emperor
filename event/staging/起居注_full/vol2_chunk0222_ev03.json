@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初五日癸酉",
+ "event_role": "议政听政",
+ "summary": "康熙帝御太和门视朝，文武升转官员谢恩，厄鲁特噶尔当博硕克图使臣等行礼赐茶。",
+ "people": [
+  {
+   "name": "厄尔克格龙",
+   "role": "厄鲁特使臣"
+  },
+  {
+   "name": "墨勒根鄂木布",
+   "role": "阿育祁台吉来使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22203,
+ "page_range": "487-488"
+}

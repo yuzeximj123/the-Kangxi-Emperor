@@ -1,0 +1,38 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "初二日丙戌",
+ "event_role": "司法案件",
+ "summary": "吏部侍郎常书奏覆佟国维参伊桑阿徇情庇护一案，察马匹关系军需甚重，请交部严查议处。",
+ "people": [
+  {
+   "name": "常书",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "佟国维",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "兵部事务大臣"
+  },
+  {
+   "name": "阿临",
+   "role": "管驿站官员"
+  },
+  {
+   "name": "甘应选",
+   "role": "管驿站官员"
+  },
+  {
+   "name": "白奇",
+   "role": "管驿站官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14214,
+ "page_range": "294-295"
+}

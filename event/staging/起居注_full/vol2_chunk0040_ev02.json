@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "丰润县民杨廷试告劣生唐汉中父子霸夺其妻，康熙帝令差刑部司官亲往严审具奏。",
+ "people": [
+  {
+   "name": "杨廷试",
+   "role": "丰润县民"
+  },
+  {
+   "name": "唐汉中",
+   "role": "劣生"
+  }
+ ],
+ "places": [
+  "丰润县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4002,
+ "page_range": "123-124"
+}

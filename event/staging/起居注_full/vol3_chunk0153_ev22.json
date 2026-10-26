@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "十三日了西",
+ "event_role": "祭祀典礼",
+ "summary": "内阁等衙门具题皇太子出阁讲书典礼，康熙帝询问释奠文庙之礼，明珠称会典无此礼，帝命已之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "文庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15322,
+ "page_range": "341-342"
+}

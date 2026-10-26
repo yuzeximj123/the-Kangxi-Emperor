@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十九日庚寅",
+ "event_role": "司法案件",
+ "summary": "晚间康熙帝御行幄，吏部题郎中色忒等失察笔帖式穆克善私责长史索拜应各罚俸六月，康熙帝认为所议尚轻，令再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色忒",
+   "role": "郎中"
+  },
+  {
+   "name": "穆克善",
+   "role": "笔帖式"
+  },
+  {
+   "name": "索拜",
+   "role": "长史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20117,
+ "page_range": "445-446"
+}

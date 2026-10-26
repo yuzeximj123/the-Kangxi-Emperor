@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "董讷奏称汉字稿系己写，屯田稿不曾写，佛伦至红花铺遣笔帖式送稿来看时已将原稿改窜。",
+ "people": [
+  {
+   "name": "董讷",
+   "role": "奏对官员"
+  },
+  {
+   "name": "佛伦",
+   "role": "会议大臣"
+  }
+ ],
+ "places": [
+  "红花铺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1504,
+ "page_range": "42-43"
+}

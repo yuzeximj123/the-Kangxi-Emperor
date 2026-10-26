@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "十八日辛已",
+ "event_role": "谕旨决策",
+ "summary": "理藩院议给额尔克戴清讷颜等六台吉所属饥民杀虎口仓米，康熙帝令差贤能官监视发给。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额尔克戴清讷颜",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "杀虎口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8909,
+ "page_range": "190-191"
+}

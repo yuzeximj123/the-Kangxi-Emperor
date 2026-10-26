@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十二日辛亥",
+ "event_role": "人事任免",
+ "summary": "南昌水师总兵蔡璋员缺，兵部请旨开列，康熙帝以江西已平定，令不必推补，蔡璋旧属将士愿随行者听其随往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蔡璋",
+   "role": "南昌水师总兵"
+  }
+ ],
+ "places": [
+  "南昌",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22908,
+ "page_range": "515-516"
+}

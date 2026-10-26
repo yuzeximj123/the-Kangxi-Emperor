@@ -1,0 +1,42 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十六日己丑",
+ "event_role": "人事任免",
+ "summary": "吏部为大学士冯溥员缺请旨开列，康熙帝称黄机、吴正治持重老成人品甚佳，着补大学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  },
+  {
+   "name": "黄机",
+   "role": "汉尚书"
+  },
+  {
+   "name": "吴正治",
+   "role": "汉尚书"
+  },
+  {
+   "name": "梁清标",
+   "role": "官员"
+  },
+  {
+   "name": "魏象枢",
+   "role": "官员"
+  },
+  {
+   "name": "徐元文",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15212,
+ "page_range": "347-348"
+}

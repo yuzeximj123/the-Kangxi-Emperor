@@ -1,0 +1,37 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "二十七日丁酉",
+ "event_role": "人事任免",
+ "summary": "兵部题四川松潘总兵官高鼎员缺，康熙帝以永宁副将卓策厚重练军务，升授松潘总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高鼎",
+   "role": "松潘总兵官"
+  },
+  {
+   "name": "卓策",
+   "role": "永宁副将"
+  },
+  {
+   "name": "管源忠",
+   "role": "汉军参领"
+  },
+  {
+   "name": "陈寿",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "四川松潘",
+  "四川永宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24616,
+ "page_range": "504-505"
+}

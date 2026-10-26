@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十九年四月二十九日",
+ "reign_year": 59,
+ "month": 4,
+ "day": 29,
+ "event_role": "请安谢恩",
+ "summary": "赵弘燮奏谢皇上派章文镌驰驿至其署内调治异症，并奏明章文镌已留用一年有余、尽心用药使其康复，请求送回馆职。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "总督管理直隶巡抚事务兵部右侍郎兼都察院右副都御史，奏折作者"
+  },
+  {
+   "name": "章文镌",
+   "role": "奉命驰驿至赵弘燮署内调治的医官"
+  },
+  {
+   "name": "来保",
+   "role": "奉恩旨办理相关事务的官员"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "云南巡抚甘国璧奏报滇省二麦收成及雨泽沾足折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 355
+}

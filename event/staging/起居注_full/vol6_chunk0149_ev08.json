@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "十三日两子",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题未曾收到巴尔虎人众行文于王盆苏克等，令其收送游牧察哈尔地方，康熙帝以议未详发还再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王盆苏克",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "察哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14908,
+ "page_range": "308-309"
+}

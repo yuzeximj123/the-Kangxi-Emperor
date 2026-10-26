@@ -1,0 +1,21 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝论治黄河须赖清水入黄河，方能冲刷黄河泥沙，认为修理御坝有益河工。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄河",
+  "御坝"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2900,
+ "page_range": "69-70"
+}

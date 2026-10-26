@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "明珠奏议广东紧要，建议以福建巡抚吴兴祚补授两广总督，康熙询问其居官后准奏。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴兴祚",
+   "role": "福建巡抚，补授两广总督"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "广东",
+  "福建",
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10200,
+ "page_range": "247-248"
+}

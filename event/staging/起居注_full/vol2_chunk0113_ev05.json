@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕江宁巡抚余国柱，勉其敬慎清廉、爱惜斯民，余国柱奏谢皇恩。",
+ "people": [
+  {
+   "name": "余国柱",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11305,
+ "page_range": "269-270"
+}

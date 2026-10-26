@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "二十四日癸酉",
+ "event_role": "请安谢恩",
+ "summary": "翰林院掌院学士库勒纳奏病乞留并请御医诊治，康熙帝命御医马之俊往治。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "朱马泰",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "敦柱",
+   "role": "亲随侍卫"
+  },
+  {
+   "name": "马之俊",
+   "role": "御医"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三屯营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9218,
+ "page_range": "227-228"
+}

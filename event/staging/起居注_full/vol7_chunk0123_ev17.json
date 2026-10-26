@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "初七日壬辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士马齐等以折本请旨，议川陕总督博济题陕西未完余米三十一万石请顶捐事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "思丕",
+   "role": "学士"
+  },
+  {
+   "name": "黑寿",
+   "role": "学士"
+  },
+  {
+   "name": "博济",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12317,
+ "page_range": "257-258"
+}

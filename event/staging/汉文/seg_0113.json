@@ -1,0 +1,60 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "弹劾参奏",
+ "summary": "王鸿绪密奏户兵两部徇庇黄纯祐包揽捐纳马匹图利，并附闻张霖劣迹及请密封御批。",
+ "people": [
+  {
+   "name": "王鸿绪",
+   "role": "奏报人"
+  },
+  {
+   "name": "黄纯祐",
+   "role": "涉及人物"
+  },
+  {
+   "name": "汤右曾",
+   "role": "涉及人物"
+  },
+  {
+   "name": "屠粹忠",
+   "role": "涉及人物"
+  },
+  {
+   "name": "曹鉴伦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "张霖",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李光地",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李秀",
+   "role": "涉及人物"
+  },
+  {
+   "name": "殷德布",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "152",
+ "source_title": "工部尚书王鸿绪奏陈户兵两部徇庇黄纯祐捐纳折",
+ "order_index": 113
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "二十九日",
+ "event_role": "人事任免",
+ "summary": "兵部覆署川陕总督席尔达题请新调山东之陕西博乐营副将刘体义仍留原任，康熙帝准照所题。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "署川陕总督事尚书"
+  },
+  {
+   "name": "刘体义",
+   "role": "陕西博乐营副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18303,
+ "page_range": "376-377"
+}

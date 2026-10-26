@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初九日本丑",
+ "event_role": "司法案件",
+ "summary": "刑部题雅朱等争路闯正阳门拟杖责，康熙帝命严禁随从推挤争行，着会同吏、兵二部确议定例。",
+ "people": [
+  {
+   "name": "雅朱",
+   "role": "案犯"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "正阳门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22311,
+ "page_range": "489-490"
+}

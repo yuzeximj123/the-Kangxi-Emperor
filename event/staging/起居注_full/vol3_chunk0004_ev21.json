@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初三日已亥",
+ "event_role": "人事任免",
+ "summary": "吏部题刑部侍郎禅塔海缘事员缺，康熙帝询问原任侍郎鄂尔多，明珠奏其学问办事俱佳，命补用。",
+ "people": [
+  {
+   "name": "禅塔海",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "鄂尔多",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 421,
+ "page_range": "43-44"
+}

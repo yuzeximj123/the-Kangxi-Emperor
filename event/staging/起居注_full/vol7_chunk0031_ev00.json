@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "马齐奏问徐州对直河湾如何取直开凿，康熙帝称此工多费不过十万两，命照永定河修治。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "徐州",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3100,
+ "page_range": "73-74"
+}

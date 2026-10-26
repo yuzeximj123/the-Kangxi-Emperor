@@ -1,0 +1,41 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "初五日吴未",
+ "event_role": "谕旨决策",
+ "summary": "宗人府题闲散宗室勒尔金赠朱方旦扁额事，康熙言朱方旦系狂妄小人，命不必行查即行议结。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒尔金",
+   "role": "闲散宗室"
+  },
+  {
+   "name": "朱方旦",
+   "role": "标榜之人"
+  },
+  {
+   "name": "王新命",
+   "role": "巡抚"
+  },
+  {
+   "name": "张朝珍",
+   "role": "原任巡抚"
+  },
+  {
+   "name": "对亲",
+   "role": "差遣官员"
+  }
+ ],
+ "places": [
+  "荆州",
+  "武昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11020,
+ "page_range": "263-264"
+}

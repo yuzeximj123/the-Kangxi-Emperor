@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "十七日甲辰",
+ "event_role": "司法案件",
+ "summary": "击败逆贼谢成一案，部议就扒伪将军洪元义应交军前正法，康熙帝命查明洪元义初为何官、因何从贼再奏。",
+ "people": [
+  {
+   "name": "谢成",
+   "role": "逆贼"
+  },
+  {
+   "name": "洪元义",
+   "role": "伪将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25710,
+ "page_range": "571-572"
+}

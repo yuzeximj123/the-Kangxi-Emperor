@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝令费扬古军前黑龙江兵一百人俱带往，察哈尔兵计米足支四月，选派携带行粮会合于郭多里巴尔哈孙之地。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  }
+ ],
+ "places": [
+  "郭多里巴尔哈孙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21404,
+ "page_range": "438-439"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "初一日成实",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸息城具属检桥村南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "息城",
+  "检桥村南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3322,
+ "page_range": "77-78"
+}

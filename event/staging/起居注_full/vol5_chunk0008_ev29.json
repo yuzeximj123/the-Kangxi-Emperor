@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "十九日丁雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙谕伊桑阿等，通州仓米平价发粜米价顿减，命截留武清一带漕运酌量赈济，并传谕郭世隆不时巡察。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "郭世隆",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "通州",
+  "武清"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 829,
+ "page_range": "26-27"
+}

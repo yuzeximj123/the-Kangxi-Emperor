@@ -1,0 +1,33 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝称江南学院余正健操守好，李维钧才守俱优，令九卿将如陈玉等清操共知者奏闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "余正健",
+   "role": "江南学院"
+  },
+  {
+   "name": "李维钧",
+   "role": "直隶守道"
+  },
+  {
+   "name": "陈玉",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "江南",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12313,
+ "page_range": "257-258"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十三日己亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝称将军金世荣甚优、屡闻声誉，伊桑阿等奏其曾任江南提督，江南人至今感思。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金世荣",
+   "role": "将军"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2110,
+ "page_range": "52-53"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": "二十四日己雍",
+ "event_role": "谕旨决策",
+ "summary": "户部覆给事中姜桶条奏长安华阴等处缺从捐纳银米，康熙帝命部院满汉堂官各一员前往查核。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姜桶",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "长安",
+  "华阴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3715,
+ "page_range": "84-85"
+}

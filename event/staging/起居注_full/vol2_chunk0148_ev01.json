@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "二十五日已已",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门视朝，升转文武官员谢恩，喀尔喀来使、安南贡使等行礼，赐茶后回宫。",
+ "people": [
+  {
+   "name": "额尔克代清诺颜",
+   "role": "喀尔喀部落"
+  },
+  {
+   "name": "诺穆齐",
+   "role": "喀尔喀来使"
+  },
+  {
+   "name": "申全",
+   "role": "安南国进贡正使"
+  },
+  {
+   "name": "邓公开",
+   "role": "安南国陪臣"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14801,
+ "page_range": "339-340"
+}

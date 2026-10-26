@@ -1,0 +1,29 @@
+{
+ "reign_year": 55,
+ "month": 6,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝向马齐等言浙江今年雨水甚大数处被灾，吴江县以西田禾甚好，以东禾稻未种米价腾贵，着九卿会同议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "吴江县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14805,
+ "page_range": "307-308"
+}

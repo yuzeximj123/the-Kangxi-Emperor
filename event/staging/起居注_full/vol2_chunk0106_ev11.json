@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "侍讲莉讷、王鸿绪、高土厅、郭匠等侍讲，奎文焕若琳琅。",
+ "people": [
+  {
+   "name": "莉讷",
+   "role": "侍讲"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "侍讲"
+  },
+  {
+   "name": "高土厅",
+   "role": "侍讲"
+  },
+  {
+   "name": "郭匠",
+   "role": "侍讲"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10611,
+ "page_range": "255-256"
+}

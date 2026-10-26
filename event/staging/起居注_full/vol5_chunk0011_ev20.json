@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "十六日甲寅",
+ "event_role": "人事任免",
+ "summary": "吏部题江西巡抚马如龙请于应升官内简用广信府知府崔明佐员缺，议不准行，康熙帝命将保举官查奏选用。",
+ "people": [
+  {
+   "name": "马如龙",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "崔明佐",
+   "role": "广信府知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西",
+  "广信府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1120,
+ "page_range": "32-33"
+}

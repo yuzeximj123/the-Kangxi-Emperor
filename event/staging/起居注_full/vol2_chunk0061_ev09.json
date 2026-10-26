@@ -1,0 +1,27 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "十三日甲午",
+ "event_role": "军务",
+ "summary": "湖广巡抚王新命请移文四川总督巡抚将进剿云南大兵钱粮自湖广运至重庆转解，康熙命川湖官员协力速输，迟误严处。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "四川",
+  "重庆",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6109,
+ "page_range": "165-166"
+}

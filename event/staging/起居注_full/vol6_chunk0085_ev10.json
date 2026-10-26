@@ -1,0 +1,33 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十五日甲午",
+ "event_role": "请安谢恩",
+ "summary": "总督郭世隆、副都统胡什布等率浙江满汉文武官员跪请康熙帝再留数日，康熙帝允再留一日。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭世隆",
+   "role": "总督"
+  },
+  {
+   "name": "胡什布",
+   "role": "副都统"
+  },
+  {
+   "name": "存住",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "杭州府",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8510,
+ "page_range": "180-181"
+}

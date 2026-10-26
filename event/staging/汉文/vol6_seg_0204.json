@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙五十五年二月十五日",
+ "reign_year": 55,
+ "month": 2,
+ "day": 11,
+ "event_role": "请安谢恩",
+ "summary": "肃州总兵路振声奏谢钦差侍卫颁赐克食及鹿肉，并恭报接奉朱批、分赏官兵，表示感激图报。",
+ "people": [
+  {
+   "name": "路振声",
+   "role": "肃州总兵官，具奏人"
+  },
+  {
+   "name": "黄灿",
+   "role": "路振声家人，赍送奏折"
+  },
+  {
+   "name": "黄瓒",
+   "role": "路振声家人，赍捧奏折来肃"
+  }
+ ],
+ "places": [
+  "安南",
+  "陕西肃州",
+  "巴尔祐儿行营"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批表示自己安好，已知所奏之事。",
+ "source_title": "肅州總兵路振聲奏謝欽差侍衛頒賜克食摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "2014",
+ "order_index": 204
+}

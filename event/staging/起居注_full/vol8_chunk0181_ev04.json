@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "贵州巡抚刘荫枢题报赴任日期，康熙帝以其前曾告病，命将现在病势如何之处奏闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18104,
+ "page_range": "373-374"
+}

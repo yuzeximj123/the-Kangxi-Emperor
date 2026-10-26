@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": "十六日成申",
+ "event_role": "司法案件",
+ "summary": "兵部覆将军沙纳海题鸟喇佐领诺尔布解送犯人不知去向议行查，康熙责其迟延推诿，命沙纳海亲察实情回奏。",
+ "people": [
+  {
+   "name": "沙纳海",
+   "role": "将军"
+  },
+  {
+   "name": "诺尔布",
+   "role": "鸟喇佐领"
+  }
+ ],
+ "places": [
+  "鸟喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15317,
+ "page_range": "316-317"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 1,
+ "day_text": "十二日辛丑",
+ "event_role": "起居注官记录",
+ "summary": "记是日起居注官为常和多、命长策。",
+ "people": [
+  {
+   "name": "常和多",
+   "role": "起居注官"
+  },
+  {
+   "name": "命长策",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15302,
+ "page_range": "317-318"
+}

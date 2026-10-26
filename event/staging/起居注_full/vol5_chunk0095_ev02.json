@@ -1,0 +1,25 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "因哈辅诸郡水灾，康熙帝屡次发仓赈济，减价平粜，并传谕蠲免顺、永、保、河四府来岁额赋及香河等四县今岁未完钱粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "哈辅诸郡",
+  "顺",
+  "永",
+  "保",
+  "河",
+  "香河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9502,
+ "page_range": "200-201"
+}

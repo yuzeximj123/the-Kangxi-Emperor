@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十七日乙未",
+ "event_role": "人事任免",
+ "summary": "吏部题补副都御史觉罗腻拜员缺，明珠、王熙等荐布政使傅喇塔，康熙帝以其居官甚优命升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  },
+  {
+   "name": "傅喇塔",
+   "role": "布政使"
+  },
+  {
+   "name": "觉罗腻拜",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21812,
+ "page_range": "471-472"
+}

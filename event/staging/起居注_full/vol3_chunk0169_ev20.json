@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "二十七日庚成",
+ "event_role": "人事任免",
+ "summary": "户部题湖口抽分拟差工部郎中苏尔特，康熙帝以其未闻操守好处，令仍充侍卫并另拟关差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "苏尔特",
+   "role": "工部郎中"
+  }
+ ],
+ "places": [
+  "湖口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16920,
+ "page_range": "373-374"
+}

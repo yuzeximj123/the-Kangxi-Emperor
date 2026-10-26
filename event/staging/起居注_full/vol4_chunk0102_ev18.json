@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 1,
+ "day_text": "初二日甲子",
+ "event_role": "其他",
+ "summary": "是日，赐广东高州总兵张英奇营鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张英奇",
+   "role": "广东高州总兵"
+  }
+ ],
+ "places": [
+  "广东",
+  "高州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10218,
+ "page_range": "216-217"
+}

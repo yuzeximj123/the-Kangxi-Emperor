@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十七日己未",
+ "event_role": "司法案件",
+ "summary": "会议都统阿密达平凉攻战时不能禁阻兵退应革职，康熙帝以其劳绩多，命革佐领降五级从宽留都统任。",
+ "people": [
+  {
+   "name": "阿密达",
+   "role": "都统"
+  },
+  {
+   "name": "桑格",
+   "role": "都统"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "平凉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17908,
+ "page_range": "401-402"
+}

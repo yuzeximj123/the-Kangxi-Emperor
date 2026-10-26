@@ -1,0 +1,21 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "二十三日甲申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸武清县所属北仓对岸船上。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "武清县",
+  "北仓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6628,
+ "page_range": "142-143"
+}

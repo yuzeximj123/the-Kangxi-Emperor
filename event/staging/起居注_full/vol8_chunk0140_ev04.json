@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士松柱奏三年已满京试一等进士田长文等以知县用，九卿称其忠厚肯读书，康熙帝命交吏部记名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "田长文",
+   "role": "进士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14004,
+ "page_range": "291-292"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "二十一日己酉",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士觉和托员缺，康熙帝命查开列内侍深、列名在前者补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "噶敏图",
+   "role": "户部侍郎兼管学士事"
+  },
+  {
+   "name": "满保",
+   "role": "学士"
+  },
+  {
+   "name": "觉和托",
+   "role": "内阁学士"
+  },
+  {
+   "name": "巴格",
+   "role": "内阁侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17014,
+ "page_range": "351-352"
+}

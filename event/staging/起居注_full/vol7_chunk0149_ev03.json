@@ -1,0 +1,21 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": "初一日己酉",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御中和殿受内大臣侍卫及各部院官员庆贺礼，又御太和殿受诸王文武及朝正外藩蒙古、朝鲜陪臣进表庆贺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14903,
+ "page_range": "309-310"
+}

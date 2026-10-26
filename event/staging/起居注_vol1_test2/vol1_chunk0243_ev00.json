@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝在乾清门逐一详览诸臣所书札子，论及大赦不必行、热审减等之法已行则刑狱不可谓不宽。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "大臣"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24300,
+ "page_range": "543-544"
+}

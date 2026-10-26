@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 9,
+ "day_text": "十七日丁丁",
+ "event_role": "人事任免",
+ "summary": "覆请兵部所题福建水师提督吴英员缺，康熙帝命施世骠调补福建水师提督，其遗缺令详思熟谙水陆之人补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴英",
+   "role": "福建水师提督"
+  },
+  {
+   "name": "施世骠",
+   "role": "福建水师提督"
+  },
+  {
+   "name": "许廷臣",
+   "role": "镶白旗副都统"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23032,
+ "page_range": "471-472"
+}

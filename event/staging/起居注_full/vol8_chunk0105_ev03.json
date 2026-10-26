@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院题更换两淮盐课监察御史李陈常员缺，康熙命李陈常再留一年清理草寅、李风积年拖欠钱粮。",
+ "people": [
+  {
+   "name": "李陈常",
+   "role": "两淮盐课监察御史"
+  },
+  {
+   "name": "草寅",
+   "role": "拖欠钱粮者"
+  },
+  {
+   "name": "李风",
+   "role": "拖欠钱粮者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10503,
+ "page_range": "221-222"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "初三日戊实",
+ "event_role": "河工水利",
+ "summary": "康熙帝遍阅徐家湾等埽、祥符等坝及新修河口，登舟阅堤，与张鹏翮议加长矶嘴坝、建挑水坝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "徐家湾",
+  "祥符",
+  "烟墩"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5016,
+ "page_range": "111-112"
+}

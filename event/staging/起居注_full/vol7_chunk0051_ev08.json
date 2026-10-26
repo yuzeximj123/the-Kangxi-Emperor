@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "初七日壬午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝过邵伯更楼，谕总河张鹏翮速回清江浦料理转运截留漕粮，差官前往散赈山东饥民。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "邵伯更楼",
+  "清江浦",
+  "山东",
+  "扬州",
+  "沙坝桥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5108,
+ "page_range": "113-114"
+}

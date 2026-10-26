@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "二十六日于寅",
+ "event_role": "朝见受贺",
+ "summary": "厄鲁特丹津阿拉布坦来朝，康熙帝御保和殿受其三跪九叩礼，召至宝座前以蒙古礼相见并赐避风石素珠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "丹津阿拉布坦",
+   "role": "厄鲁特来朝台吉"
+  },
+  {
+   "name": "吴什",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "喇锡",
+   "role": "乾清门侍卫"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4512,
+ "page_range": "101-102"
+}

@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十六年七月十五日",
+ "reign_year": 46,
+ "month": 7,
+ "day": 15,
+ "event_role": "请安谢恩",
+ "summary": "陕西提督潘育龙年迈思君，遣家人进献自造桃起并代叩请圣安。",
+ "people": [
+  {
+   "name": "潘育龙",
+   "role": "奏报人"
+  },
+  {
+   "name": "潘安",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示知道了。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "247",
+ "source_title": "陕西提督潘育龙奏请圣安摺（康熙四十六年七月十五日）",
+ "order_index": 179
+}

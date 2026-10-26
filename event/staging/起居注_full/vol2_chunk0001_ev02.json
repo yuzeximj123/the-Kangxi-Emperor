@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "郎中俄齐礼勘明盛京田地事，康熙帝以盛京田地关系旗民，命差贤能司官会同盛京将军等确议边界具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俄齐礼",
+   "role": "郎中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 102,
+ "page_range": "45-46"
+}

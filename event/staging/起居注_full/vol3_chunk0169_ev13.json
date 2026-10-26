@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "二十五日成申",
+ "event_role": "人事任免",
+ "summary": "吏部题补礼部侍郎葛弘道调补员缺，康熙帝以徐乾学学问优长补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "徐乾学",
+   "role": "学士"
+  },
+  {
+   "name": "张英",
+   "role": "学士"
+  },
+  {
+   "name": "孙在丰",
+   "role": "翰林学士"
+  },
+  {
+   "name": "葛弘道",
+   "role": "礼部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16913,
+ "page_range": "373-374"
+}

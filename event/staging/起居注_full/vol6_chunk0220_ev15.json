@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十四日丁卯",
+ "event_role": "起居注官记录",
+ "summary": "起居注官把叙、杨名时记录当日事宜。",
+ "people": [
+  {
+   "name": "把叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "杨名时",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22015,
+ "page_range": "450-451"
+}

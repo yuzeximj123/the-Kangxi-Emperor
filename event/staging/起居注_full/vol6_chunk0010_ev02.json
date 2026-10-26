@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "生员百姓请留原任顺义县知县黄景式，巡抚沈朝聘查覆其为良吏，康熙帝命降级留任。",
+ "people": [
+  {
+   "name": "黄景式",
+   "role": "原任顺义县知县"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "顺义县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1002,
+ "page_range": "30-31"
+}

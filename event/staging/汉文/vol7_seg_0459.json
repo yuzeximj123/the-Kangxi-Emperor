@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十六年六月二十六日",
+ "reign_year": 56,
+ "month": 6,
+ "day": 26,
+ "event_role": "请安谢恩",
+ "summary": "肃州总兵许廷臣奏请圣安并谢恩，称年老衰迈、久未瞻仰天颜，进献葛布沙米等物，朱批谕以谨慎善后。",
+ "people": [
+  {
+   "name": "许廷臣",
+   "role": "陕西肃州总兵官加一级，具折请安进献"
+  },
+  {
+   "name": "路振声",
+   "role": "肃州总兵，奏折题名所署"
+  }
+ ],
+ "places": [
+  "肃州",
+  "陕西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称朕安、奏折知道了，并谕以谨慎为要、尽善后之计。",
+ "source_title": "肃州总兵路振声奏报军前兵丁情形折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 459
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十二日己丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自楚河港登岸，驻跸响口村。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "楚河港",
+  "响口村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8734,
+ "page_range": "185-186"
+}

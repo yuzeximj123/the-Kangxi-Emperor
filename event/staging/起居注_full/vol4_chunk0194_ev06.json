@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "二十日己亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝因陕西民饥心切忧劳，移驻瀛台调摄，命传谕九卿、詹事、科道知之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "瀛台",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19406,
+ "page_range": "400-401"
+}

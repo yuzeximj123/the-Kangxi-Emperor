@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十三日庚辰",
+ "event_role": "请安谢恩",
+ "summary": "原任湖南巡抚韩世琦调补四川巡抚，具疏谢恩；康熙帝谕四川边方要地，命其清廉自守、表率属吏，并命拟旨票进。",
+ "people": [
+  {
+   "name": "韩世琦",
+   "role": "调补四川巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23914,
+ "page_range": "521-522"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初七日忆卯",
+ "event_role": "人事任免",
+ "summary": "吏部题左论德杨大稚员缺，拟王化鹤转补、潘应宾升补，康熙帝以潘应宾平常，令问翰林院具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨大稚",
+   "role": "左论德"
+  },
+  {
+   "name": "王化鹤",
+   "role": "右论德"
+  },
+  {
+   "name": "潘应宾",
+   "role": "中人允"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2905,
+ "page_range": "69-70"
+}

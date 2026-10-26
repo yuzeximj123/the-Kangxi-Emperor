@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 10,
+ "day_text": "初六日丁未",
+ "event_role": "朝见受贺",
+ "summary": "管盛京将军事固山贝子苏努、副都统博定、杨福等率所属官军来朝。",
+ "people": [
+  {
+   "name": "苏努",
+   "role": "固山贝子管盛京将军事"
+  },
+  {
+   "name": "博定",
+   "role": "副都统"
+  },
+  {
+   "name": "杨福",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5724,
+ "page_range": "124-125"
+}

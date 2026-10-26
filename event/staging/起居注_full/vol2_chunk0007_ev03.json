@@ -1,0 +1,23 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "event_scope": "朝议",
+ "summary": "三法司议高得存打死人命应处斩，康熙以审问未明，令再加详审具奏。",
+ "people": [
+  {
+   "name": "高得存",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 703,
+ "page_range": "57-58"
+}

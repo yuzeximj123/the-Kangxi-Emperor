@@ -1,0 +1,25 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "二十五日癸卯",
+ "event_role": "朝见受贺",
+ "summary": "条子边上新台门驻防章京陈有名、驻防宁远州骁骑校齐天长等来朝。",
+ "people": [
+  {
+   "name": "陈有名",
+   "role": "章京"
+  },
+  {
+   "name": "齐天长",
+   "role": "骁骑校"
+  }
+ ],
+ "places": [
+  "条子边上新台门",
+  "宁远州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11413,
+ "page_range": "271-272"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十六年七月十三日",
+ "reign_year": 56,
+ "month": 7,
+ "day": 11,
+ "event_role": "贸易漕运",
+ "summary": "苏州织造李煦奏报其兼任淮盐任内所得六万六千两银如何解交，请旨定夺；康熙朱批令解京存库并补完户部银。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "淮盐",
+  "京",
+  "内库",
+  "户部"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示解京之事一也，事不如存库，并令李煦到京将户部银补完。",
+ "source_title": "蘇州織造李煦奏報本任雜款內交納之銀如何解交摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2484",
+ "order_index": 476
+}

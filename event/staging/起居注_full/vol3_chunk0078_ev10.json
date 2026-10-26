@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初二日王成",
+ "event_role": "人事任免",
+ "summary": "兵部题补正白旗蒙古副都统等缺，康熙帝令升补一等侍卫胡世塔，并谕卓尔和不必推举。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡世塔",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "罗奇",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "卓尔和",
+   "role": "护军参领"
+  },
+  {
+   "name": "拖伦",
+   "role": "拟陪官员"
+  },
+  {
+   "name": "额星格",
+   "role": "正白旗蒙古副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7810,
+ "page_range": "191-192"
+}

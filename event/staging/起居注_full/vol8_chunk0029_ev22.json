@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": "二十九日甲帮",
+ "event_role": "其他",
+ "summary": "康熙帝问学士舒兰眼肿及病情，论服补药无益、医者之言不可信，左都御史把叙亦言医者不知配药之理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "舒兰",
+   "role": "学士"
+  },
+  {
+   "name": "把叙",
+   "role": "左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2922,
+ "page_range": "69-70"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部呈览直隶各省罪犯秋审册，康熙帝以今岁三月已颁恩诏、罪犯无多，命今年秋审停止。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6802,
+ "page_range": "147-148"
+}

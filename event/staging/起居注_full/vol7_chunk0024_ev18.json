@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "十六日乙丑",
+ "event_role": "弹劾参奏",
+ "summary": "礼科给事中宗柱等题直隶学院杨大鹤考试解册迟延议降调，康熙帝以其名声不堪命革职发河工效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宗柱",
+   "role": "礼科给事中"
+  },
+  {
+   "name": "杨大鹤",
+   "role": "直隶学院"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2418,
+ "page_range": "59-60"
+}

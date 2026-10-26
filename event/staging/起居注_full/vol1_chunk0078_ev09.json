@@ -1,0 +1,32 @@
+{
+ "reign_year": 13,
+ "month": 9,
+ "day_text": "十七日戊寅",
+ "event_role": "议政听政",
+ "summary": "辰时，康熙帝御后殿，讲官喇沙里、孙在丰、张英进讲故大德必得其位三节、无忧者其为文王乎一章、武王周公其达孝矣乎二节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "后殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7809,
+ "page_range": "213-214"
+}

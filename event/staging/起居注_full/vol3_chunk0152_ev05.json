@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初三日丁亥",
+ "event_role": "人事任免",
+ "summary": "吏部议覆吴源起失仪不能条奏应降级，康熙帝令削去纪录四次抵降一级，调补部属官员。",
+ "people": [
+  {
+   "name": "吴源起",
+   "role": "礼科给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15205,
+ "page_range": "339-340"
+}

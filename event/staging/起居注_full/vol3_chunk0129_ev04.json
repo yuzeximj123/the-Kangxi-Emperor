@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "event_summary": "兵部议骁骑参领噶达浑原令禁止喧呼反大声斥责应罚俸一年，康熙帝询问勒德洪后命革去噶达浑参领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶达浑",
+   "role": "骁骑参领"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12904,
+ "page_range": "293-294"
+}

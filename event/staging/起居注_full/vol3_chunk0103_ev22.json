@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "初十日丁卯",
+ "event_role": "人事任免",
+ "summary": "兵部题补祭礼看养牲畜正五品官，康熙帝命索尔和多升补此缺。",
+ "people": [
+  {
+   "name": "索尔浑",
+   "role": "镶黄旗护军校"
+  },
+  {
+   "name": "色黑",
+   "role": "正蓝旗护军校"
+  },
+  {
+   "name": "索尔和多",
+   "role": "拟补官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10322,
+ "page_range": "241-242"
+}

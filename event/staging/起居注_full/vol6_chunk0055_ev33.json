@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "十九日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以关宾人材矫健且系赵良栋荐举之人，谕令关宾等照该督所题升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关宾",
+   "role": "参将"
+  },
+  {
+   "name": "赵良栋",
+   "role": "荐举人"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5533,
+ "page_range": "120-121"
+}

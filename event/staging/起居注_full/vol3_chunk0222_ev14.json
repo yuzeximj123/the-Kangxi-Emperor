@@ -1,0 +1,34 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "初八日乙卯",
+ "event_role": "奏报地方情形",
+ "summary": "镇守杭州将军胡图奏病势危急，康熙帝称其在浙江居官甚好，命从优拟票。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡图",
+   "role": "杭州将军"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江南",
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22214,
+ "page_range": "479-480"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十六日丙戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝谕讲官常书等，因瀛台门进讲观听烦杂，欲移至内殿进讲，随后召至内殿进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "瀛台门",
+  "内殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8412,
+ "page_range": "203-204"
+}

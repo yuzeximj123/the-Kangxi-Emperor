@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十六日戊辰",
+ "event_role": "人事任免",
+ "summary": "内净会同翰林院题补朱彝尊日讲官员缺，开列卢琦等职名，康熙帝询问拟补人选。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱彝尊",
+   "role": "日讲官"
+  },
+  {
+   "name": "卢琦",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "邵吴远",
+   "role": "拟补人选"
+  },
+  {
+   "name": "王封泣",
+   "role": "拟补人选"
+  },
+  {
+   "name": "严我斯",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18119,
+ "page_range": "405-406"
+}

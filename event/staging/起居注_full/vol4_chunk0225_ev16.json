@@ -1,0 +1,37 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "十二日丙戌",
+ "event_role": "人事任免",
+ "summary": "吏部题福建按察使董延祚员缺，康熙以河南府知府汪楫居官甚优，着升补福建按察使。",
+ "people": [
+  {
+   "name": "董延祚",
+   "role": "福建按察使"
+  },
+  {
+   "name": "江皋",
+   "role": "副使道拟正"
+  },
+  {
+   "name": "高缉睿",
+   "role": "拟陪"
+  },
+  {
+   "name": "汪楫",
+   "role": "河南府知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "河南府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22516,
+ "page_range": "462-463"
+}

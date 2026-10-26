@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 6,
+ "day_text": "三十日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "礼部覆朝鲜国王李焞因年迈请封妾子为世子议不准，康熙命照所请准行。",
+ "people": [
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 218,
+ "page_range": "14-15"
+}

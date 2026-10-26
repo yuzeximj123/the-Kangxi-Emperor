@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙论泽旺阿拉布坦不足为虑，但其移兵到藏，道路艰远，议过岁三四月出兵，以二百余人便可破之。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "泽旺阿拉布坦",
+   "role": "敌酋"
+  },
+  {
+   "name": "李先复",
+   "role": "汉人官员"
+  }
+ ],
+ "places": [
+  "哈密",
+  "藏",
+  "噶斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22202,
+ "page_range": "455-456"
+}

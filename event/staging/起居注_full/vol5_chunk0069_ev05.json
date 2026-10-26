@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "酉时康熙帝召尚书张英至乾清宫，论天时与人事相感召，命传九卿、詹事、科道集议政事宜兴宜革者奏闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张英",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6905,
+ "page_range": "148-149"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "二十八日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部题补广东按察使员缺，正拟道员胡戴仁、陪拟张激；康熙帝以二人庸常，命九卿等官会推。",
+ "people": [
+  {
+   "name": "胡戴仁",
+   "role": "道员"
+  },
+  {
+   "name": "张激",
+   "role": "拟陪官员"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4919,
+ "page_range": "141-142"
+}

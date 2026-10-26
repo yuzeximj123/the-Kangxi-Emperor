@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝阅五格试卷，以其字迹不堪、初学书写，令停此一科，下次再试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "五格",
+   "role": "贡士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14601,
+ "page_range": "304-305"
+}

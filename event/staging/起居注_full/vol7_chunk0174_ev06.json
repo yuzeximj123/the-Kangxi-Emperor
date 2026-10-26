@@ -1,0 +1,40 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆直隶巡抚赵弘党所题万琼、张浩看戏起衅，刘弘善殴伤万琼致死案，康熙帝准刘弘善绞监候，张浩革去生员。",
+ "people": [
+  {
+   "name": "刘弘善",
+   "role": "案犯"
+  },
+  {
+   "name": "万琼",
+   "role": "死者"
+  },
+  {
+   "name": "张浩",
+   "role": "起衅生员"
+  },
+  {
+   "name": "李氏",
+   "role": "刘弘善之母"
+  },
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "刘家庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17406,
+ "page_range": "359-360"
+}

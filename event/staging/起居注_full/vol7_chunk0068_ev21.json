@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "二十五日戊戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸山羊谷、噶海交界地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山羊谷",
+  "噶海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6821,
+ "page_range": "147-148"
+}

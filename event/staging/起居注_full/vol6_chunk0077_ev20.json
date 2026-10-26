@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "初二日壬寅",
+ "event_role": "人事任免",
+ "summary": "右卫副都统禅布陛辞请训，康熙帝谕凡事遵将军而行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "禅布",
+   "role": "右卫副都统"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7720,
+ "page_range": "164-165"
+}

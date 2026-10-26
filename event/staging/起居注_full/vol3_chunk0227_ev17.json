@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "十五日生辰",
+ "event_role": "奏报灾情收成",
+ "summary": "已时康熙帝御乾清宫，大学士等进奏会同九卿公议，称皇上敬天爱民、蠲免钱粮、省刑宽罪，然甘霖未足，或因内外臣工有不肖者未能奉行德意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "大学士",
+   "role": "大臣"
+  },
+  {
+   "name": "九卿",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22717,
+ "page_range": "489-490"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "初五日王申",
+ "event_role": "其他",
+ "summary": "康熙帝御保和殿赐喀尔喀、厄鲁特来使等食，并命侍卫赐酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杞郎阿厄尔得尼绰克图阿海达喇穆札布台吉",
+   "role": "喀尔喀土谢图汗之子"
+  },
+  {
+   "name": "厄尔德尼巴图尔喷楚克",
+   "role": "车臣汗次子"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23620,
+ "page_range": "515-516"
+}

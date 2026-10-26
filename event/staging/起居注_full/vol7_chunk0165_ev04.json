@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谓张玉书，朱子书在李光地处校勘，条目皆熊赐履所定稳当，系正大紧要之书，须随得随刻令告成。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16504,
+ "page_range": "341-342"
+}

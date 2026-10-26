@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣会议西路备兵养马事宜，议定派部院才能官会同巡抚在甘肃等处饲养，奉旨依议。",
+ "people": [
+  {
+   "name": "议政大臣等",
+   "role": "议政大臣"
+  },
+  {
+   "name": "李学圣",
+   "role": "送马官员"
+  }
+ ],
+ "places": [
+  "西安",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17604,
+ "page_range": "362-363"
+}

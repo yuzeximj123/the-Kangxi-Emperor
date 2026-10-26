@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十一日辛丑",
+ "event_role": "人事任免",
+ "summary": "京口将军马三奇题京口副将员缺请补鹤世英，康熙令照所题补授京口水师营副将。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马三奇",
+   "role": "京口将军"
+  },
+  {
+   "name": "鹤世英",
+   "role": "厢黄旗参领"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2215,
+ "page_range": "55-56"
+}

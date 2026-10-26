@@ -1,0 +1,21 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部议福建提督施世能请挑选记名人员发往台湾澎湖候缺，康熙不准行。",
+ "people": [
+  {
+   "name": "施世能",
+   "role": "福建提督"
+  }
+ ],
+ "places": [
+  "台湾",
+  "澎湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4701,
+ "page_range": "105-106"
+}

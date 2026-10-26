@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "二十四日戊实",
+ "event_role": "人事任免",
+ "summary": "吏部题詹事府詹事朱马泰员缺，康熙帝采纳明珠等建议，命学问优通的尹泰补授詹事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "朱马泰",
+   "role": "詹事"
+  },
+  {
+   "name": "翁英",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "尹泰",
+   "role": "侍读学士"
+  },
+  {
+   "name": "德格勒",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15005,
+ "page_range": "335-336"
+}

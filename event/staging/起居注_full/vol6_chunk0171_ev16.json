@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "二十九日戊午",
+ "event_role": "人事任免",
+ "summary": "山西巡抚噶礼题知州于廷绚保留原任，康熙帝以其居官廉能照所升知府品级留知州任、弗以为例，并称好官难得。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "于廷绚",
+   "role": "知州"
+  },
+  {
+   "name": "吴珊",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17116,
+ "page_range": "352-353"
+}

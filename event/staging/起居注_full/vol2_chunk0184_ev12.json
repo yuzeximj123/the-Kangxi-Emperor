@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初五日丁丑",
+ "event_role": "其他",
+ "summary": "黄芳泰奏伊兄黄芳度等遗骨暴露漳州，乞假归葬，康熙帝命黄芳泰回漳州收殓。",
+ "people": [
+  {
+   "name": "黄芳泰",
+   "role": "官员"
+  },
+  {
+   "name": "黄芳度",
+   "role": "殉难官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "漳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18412,
+ "page_range": "411-412"
+}

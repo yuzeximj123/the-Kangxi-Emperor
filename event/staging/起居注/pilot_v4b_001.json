@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙二十八年二月十六日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十六日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝颁谕浙江总督王骛，命修葺禹王庙、增添守祀人役并赐银二百两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王骛",
+   "role": "浙江总督"
+  }
+ ],
+ "places": [
+  "禹王庙",
+  "杭州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2001
+}

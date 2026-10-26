@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "松柱等奏补授巡抚张伯行员缺，九卿举出浙江巡抚徐元梦、福建巡抚等人员。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11508,
+ "page_range": "241-242"
+}

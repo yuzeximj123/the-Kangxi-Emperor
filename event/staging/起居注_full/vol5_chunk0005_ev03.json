@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "二十七日己丑",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问颜光教为人，傅继祖奏其厚重且系先贤之后，康熙帝遂差颜光教提督浙江学政。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅继祖",
+   "role": "学士"
+  },
+  {
+   "name": "颜光教",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 503,
+ "page_range": "20-21"
+}

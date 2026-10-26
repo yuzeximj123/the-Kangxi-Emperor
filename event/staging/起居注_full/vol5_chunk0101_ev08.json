@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "三十日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命关保传谕佟国维等，修治道路不堪，着交于成龙待车辆一过随即修理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "佟国维",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10108,
+ "page_range": "212-213"
+}

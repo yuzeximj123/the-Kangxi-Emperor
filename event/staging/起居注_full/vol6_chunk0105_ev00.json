@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙就马进良疏请将年老守备朱逢升等留任、严一林等有缺补用一事作出谕旨，准行。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马进良",
+   "role": "上疏官员"
+  },
+  {
+   "name": "朱逢升",
+   "role": "守备"
+  },
+  {
+   "name": "严一林",
+   "role": "候补官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10500,
+ "page_range": "220-221"
+}

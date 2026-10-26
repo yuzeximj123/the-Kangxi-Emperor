@@ -1,0 +1,42 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赐王九龄、张廷玉、孙岳颁、彭孙通、顾履吉、褚繁等人御书匾额，张廷玉等奏谢恩。",
+ "people": [
+  {
+   "name": "王九龄",
+   "role": "翰林院侍读学士"
+  },
+  {
+   "name": "张廷玉",
+   "role": "侍读学士"
+  },
+  {
+   "name": "孙岳颁",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "彭孙通",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "顾履吉",
+   "role": "百岁老人"
+  },
+  {
+   "name": "褚繁",
+   "role": "九十二岁老人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8808,
+ "page_range": "186-187"
+}

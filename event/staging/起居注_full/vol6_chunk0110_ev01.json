@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "初六日辛刁",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸保安州，宣化府同知赵国器等地方官员来朝见。",
+ "people": [
+  {
+   "name": "赵国器",
+   "role": "宣化府同知"
+  },
+  {
+   "name": "杨放相",
+   "role": "保安州知州"
+  },
+  {
+   "name": "徐异阶",
+   "role": "怀来路守备"
+  }
+ ],
+ "places": [
+  "保安州",
+  "怀来"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11001,
+ "page_range": "230-231"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十四日丁卯",
+ "event_role": "人事任免",
+ "summary": "兵部覆宁夏总兵刘官统题请议叙征噶尔丹效力之王国保，议准行，康熙帝命在京者引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘官统",
+   "role": "宁夏总兵官"
+  },
+  {
+   "name": "王国保",
+   "role": "效力人员"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7007,
+ "page_range": "151-152"
+}

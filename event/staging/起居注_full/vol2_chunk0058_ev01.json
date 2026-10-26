@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题贼犯张四私出边口，请查报十四年以后守口官员职名，康熙命不必行察，只察议现任官员。",
+ "people": [
+  {
+   "name": "张四",
+   "role": "贼犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5801,
+ "page_range": "159-160"
+}

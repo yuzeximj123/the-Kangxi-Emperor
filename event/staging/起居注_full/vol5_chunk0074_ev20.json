@@ -1,0 +1,23 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": "二十一日辛巳",
+ "event_role": "奏报灾情收成",
+ "summary": "甘肃巡抚舒恕题报西宁卫范家庄、朱家堡、夜胜堡等处山裂及雹打水冲被灾情形，康熙帝命该督亲往详查速奏。",
+ "people": [
+  {
+   "name": "舒恕",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "西宁卫",
+  "范家庄",
+  "朱家堡",
+  "夜胜堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7420,
+ "page_range": "158-159"
+}

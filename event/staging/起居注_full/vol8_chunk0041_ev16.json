@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "十六日庚寅",
+ "event_role": "人事任免",
+ "summary": "覆请吏部覆江南巡抚张伯行所题华亭县知县何瑞员缺请拣选补授议不准行一疏，康熙帝命着查保举卓异知县等具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "江南巡抚"
+  },
+  {
+   "name": "何瑞",
+   "role": "华亭县知县"
+  }
+ ],
+ "places": [
+  "江南",
+  "华亭县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4116,
+ "page_range": "93-94"
+}

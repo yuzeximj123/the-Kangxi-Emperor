@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "十九日庚寅",
+ "event_role": "司法案件",
+ "summary": "刑部题张上采、王四助、周尚库等争夺煤窑杀死人口，以光棍例请旨。",
+ "people": [
+  {
+   "name": "张上采",
+   "role": "案犯"
+  },
+  {
+   "name": "王四助",
+   "role": "案犯"
+  },
+  {
+   "name": "周尚库",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5534,
+ "page_range": "120-121"
+}

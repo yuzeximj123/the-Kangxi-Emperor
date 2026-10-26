@@ -1,0 +1,23 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "初八日壬申",
+ "event_role": "谕旨决策",
+ "summary": "理藩院覆奏教养蒙古事，康熙帝令以察罕脑儿、奎苏贮米兑换喀尔喀牛羊散给贫穷蒙古。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "察罕脑儿",
+  "奎苏",
+  "兴安",
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11518,
+ "page_range": "240-241"
+}

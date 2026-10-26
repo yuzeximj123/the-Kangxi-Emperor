@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": "初七日两辰",
+ "event_role": "其他",
+ "summary": "康熙帝赐裕亲王保泰、简亲王之子永乾、镇国公普贵各马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "保泰",
+   "role": "裕亲王"
+  },
+  {
+   "name": "永乾",
+   "role": "简亲王之子"
+  },
+  {
+   "name": "普贵",
+   "role": "镇国公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24501,
+ "page_range": "501-502"
+}

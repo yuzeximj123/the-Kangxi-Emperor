@@ -1,0 +1,21 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令军前受伤残废者，可行走者补南苑门军仓库等处老军缺，曾为护军校、骁骑校者补各馆头目、副头目缺，令食钱粮。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "南苑门",
+  "军仓库"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25202,
+ "page_range": "516-517"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请都察院御史邹涩鲁等、吏科刑科给事中钱以地等内升外转开列，康熙令问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邹涩鲁",
+   "role": "御史"
+  },
+  {
+   "name": "钱以地",
+   "role": "刑科给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16205,
+ "page_range": "335-336"
+}

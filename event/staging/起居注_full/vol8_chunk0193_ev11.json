@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": "二十一日甲成",
+ "event_role": "人事任免",
+ "summary": "康熙御正门，兵部侍郎党阿责、查绚纳引见武举孙尚九等四十八人，阅射准其遣往。",
+ "people": [
+  {
+   "name": "党阿责",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "查绚纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "孙尚九",
+   "role": "武举"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19311,
+ "page_range": "397-398"
+}

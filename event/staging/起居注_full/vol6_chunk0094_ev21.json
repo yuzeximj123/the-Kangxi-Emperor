@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": "十九日丁亥",
+ "event_role": "司法案件",
+ "summary": "尚书傅腊塔、两江总督张鹏翮进前奏布喀所告籽粒事，康熙帝问二人之心是否相同，张鹏翮答相同。",
+ "people": [
+  {
+   "name": "傅腊塔",
+   "role": "尚书"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "两江总督"
+  },
+  {
+   "name": "布喀",
+   "role": "告状人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9421,
+ "page_range": "198-199"
+}

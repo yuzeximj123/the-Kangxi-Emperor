@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问马齐等议如何，马齐建议发各处流徒者至天津耕种水田，帝又问李光地直隶闲田情况。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶",
+  "永清"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9803,
+ "page_range": "207-208"
+}

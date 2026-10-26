@@ -1,0 +1,24 @@
+{
+ "reign_year": 16,
+ "month": 6,
+ "day_text": "初五日",
+ "event_role": "其他",
+ "summary": "讲毕，命张英写行草大字三幅，康熙帝御笔书“存诚忠孝”四大字赐之，张英于乾清门谢恩而退。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张英",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13913,
+ "page_range": "335-336"
+}

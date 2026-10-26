@@ -1,0 +1,32 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "二十七日庚辰",
+ "event_role": "朝见受贺",
+ "summary": "是日，镇守古北口等处总兵官葡元、防御喇萨里都司杨应几、同知张霖等来朝见。",
+ "people": [
+  {
+   "name": "葡元",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "喇萨里",
+   "role": "防御都司"
+  },
+  {
+   "name": "杨应几",
+   "role": "都司"
+  },
+  {
+   "name": "张霖",
+   "role": "同知"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15826,
+ "page_range": "328-329"
+}

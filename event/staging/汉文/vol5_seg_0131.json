@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十二年",
+ "reign_year": 52,
+ "month": null,
+ "day": 24,
+ "event_role": "请安谢恩",
+ "summary": "大学士李光地因脾病未愈在家休息，未能亲赴恭请圣安，后闻内侍询问病情，遂具折叩谢圣恩并奏明服药后病情渐平。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，奏折作者"
+  },
+  {
+   "name": "萧永藻",
+   "role": "官员，代李光地应答内侍询问"
+  },
+  {
+   "name": "王掞",
+   "role": "官员，代李光地应答内侍询问"
+  }
+ ],
+ "places": [
+  "京"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙叮嘱李光地小心调理脾病，指出京中水苦土咸、湿热难医，并告知已就泉水一事下旨。",
+ "source_title": "大學士李光地奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1496",
+ "order_index": 131
+}

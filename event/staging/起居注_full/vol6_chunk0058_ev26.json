@@ -1,0 +1,36 @@
+{
+ "reign_year": 37,
+ "month": 10,
+ "day_text": "十九日庚申",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝升坐，盛京官员、守陵各官及朝鲜国使臣行三跪九叩礼，进酒奏乐，召苏努、博定、杨福及齐蓝布温达等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏努",
+   "role": "管盛京将军事固山贝子"
+  },
+  {
+   "name": "博定",
+   "role": "副都统"
+  },
+  {
+   "name": "杨福",
+   "role": "宗室"
+  },
+  {
+   "name": "齐蓝布温达",
+   "role": "总管"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5826,
+ "page_range": "126-127"
+}

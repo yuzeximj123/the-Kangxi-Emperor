@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十六日甲成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝起行至大兴县杨家庄，下马亲自扶犁耕地良久，当日驻跸永清县城南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大兴县杨家庄",
+  "永清县城南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3302,
+ "page_range": "77-78"
+}

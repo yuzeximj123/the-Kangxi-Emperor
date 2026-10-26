@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初八日全已",
+ "event_role": "谕旨决策",
+ "summary": "大学士等以圣体违和再三奏请停止亲祭天坛，康熙帝准遣官代祭，仍照常斋戒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傻子",
+   "role": "奏事员外郎"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "天坛",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19502,
+ "page_range": "401-402"
+}

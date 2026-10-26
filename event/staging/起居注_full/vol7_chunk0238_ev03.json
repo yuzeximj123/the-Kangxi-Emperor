@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题山西、山东、河南三省情真案内折角六事，康熙帝命折角处俱缓决，并谕俞文言系大光棍不可纵，秋审勿宽宥。",
+ "people": [
+  {
+   "name": "俞文言",
+   "role": "案犯"
+  },
+  {
+   "name": "蒋陈锡",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山西",
+  "山东",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23803,
+ "page_range": "487-488"
+}

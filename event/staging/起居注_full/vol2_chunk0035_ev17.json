@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初二日丙戌",
+ "event_role": "人事任免",
+ "summary": "翰林院学士库勒纳等遵旨增设讲官，开列翰詹坊局官员引见，康熙帝命原任侍读学士孙在丰于额外补任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "孙在丰",
+   "role": "原任侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3517,
+ "page_range": "113-114"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "二十四日于辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御舟由中河阅视河道，遂自清河县渡黄河南巡。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中河",
+  "清河县",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5421,
+ "page_range": "120-121"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "十二日辛西",
+ "event_role": "司法案件",
+ "summary": "坐塘笔帖式移朱虎家人李二戳死书办王显，武清知县章曾印议叙，康熙帝依议并以应升品级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李二",
+   "role": "家人"
+  },
+  {
+   "name": "王显",
+   "role": "书办"
+  },
+  {
+   "name": "章曾印",
+   "role": "武清县知县"
+  }
+ ],
+ "places": [
+  "武清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2411,
+ "page_range": "59-60"
+}

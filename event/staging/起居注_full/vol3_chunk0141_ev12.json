@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十五日已雍",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门视朝，升转文武官员谢恩，厄鲁特噶尔丹来使行礼赐茶，召达木巴哈什哈至阶下赐茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达木巴哈什哈",
+   "role": "来使"
+  },
+  {
+   "name": "察汗诺木布",
+   "role": "进贡来使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14112,
+ "page_range": "317-318"
+}

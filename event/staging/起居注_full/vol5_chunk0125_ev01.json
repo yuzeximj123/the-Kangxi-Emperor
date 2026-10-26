@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "大学士伊桑阿转奏于成龙报米车已出沙碛但未开写运至何处及米数，康熙帝命兵部再移咨查问。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "沙碛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12501,
+ "page_range": "260-261"
+}

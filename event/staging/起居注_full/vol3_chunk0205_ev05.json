@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "二十七日丁丑",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝在保和殿视岁暮享太庙祝版，完毕后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "太庙",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20505,
+ "page_range": "445-446"
+}

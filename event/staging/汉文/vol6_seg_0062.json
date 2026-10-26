@@ -1,0 +1,33 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮感恩图报，举荐可用将弁，并奏报泽旺阿喇蒲坦侵扰哈密、清军将其击败之事。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "总督管理直隶巡抚事务兵部右侍郎兼都察院右副都御史，奏折作者"
+  },
+  {
+   "name": "泽旺阿喇蒲坦",
+   "role": "侵扰哈密的敌方首领"
+  },
+  {
+   "name": "路振声",
+   "role": "肃州镇臣，领兵击败贼帅"
+  }
+ ],
+ "places": [
+  "哈密",
+  "肃州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（赵弘燮举荐将弁）",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 62
+}

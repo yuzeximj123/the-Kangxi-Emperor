@@ -1,0 +1,42 @@
+{
+ "date_raw": "康熙四十五年二月初二日",
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "初二日",
+ "event_role": "起居注官记录",
+ "summary": "康熙帝询问汪霦、吴涵、何焯人品，起居注官把叙及马齐奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "把叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "汪霦",
+   "role": "被评价"
+  },
+  {
+   "name": "熊赐履",
+   "role": "被提及"
+  },
+  {
+   "name": "吴涵",
+   "role": "被评价"
+  },
+  {
+   "name": "何焯",
+   "role": "被评价"
+  },
+  {
+   "name": "马齐",
+   "role": "奏对"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3059
+}

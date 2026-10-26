@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十五日壬申",
+ "event_role": "司法案件",
+ "summary": "理藩院议进宝诬告诺尔布等谋反拟斩，康熙帝以情罪可恶依部议。",
+ "people": [
+  {
+   "name": "进宝",
+   "role": "案犯"
+  },
+  {
+   "name": "诺尔布",
+   "role": "被诬告者"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24924,
+ "page_range": "555-556"
+}

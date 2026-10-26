@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾年伍月拾壹日",
+ "reign_year": 50,
+ "month": 5,
+ "day": 11,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报直隶及保府等地得雨、时气轻微易愈，并回应皇上对八府及江南等省雨情的关切。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "巡抚直隶等处佥都御史"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "京中",
+  "江南",
+  "河南",
+  "山东",
+  "山西",
+  "口外",
+  "保府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "奏明事",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 157
+}

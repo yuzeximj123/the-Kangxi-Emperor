@@ -1,0 +1,23 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "礼部题请四川、福建、广东、广西四省正副主考，开列编修沈宗敬等职名，康熙令问九卿具奏。",
+ "people": [
+  {
+   "name": "沈宗敬",
+   "role": "编修"
+  }
+ ],
+ "places": [
+  "四川",
+  "福建",
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19300,
+ "page_range": "397-398"
+}

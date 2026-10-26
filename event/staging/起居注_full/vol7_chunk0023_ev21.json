@@ -1,0 +1,40 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "初七日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论科道纠参之弊，谓汉大臣书信往来甚多，若果贪污理宜参处，倘怀私忿以些微细故题参必滋扰。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "法良",
+   "role": "起居注官"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "大臣"
+  },
+  {
+   "name": "李光地",
+   "role": "大臣"
+  },
+  {
+   "name": "郭琇",
+   "role": "大臣"
+  },
+  {
+   "name": "彭鹏",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2321,
+ "page_range": "57-58"
+}

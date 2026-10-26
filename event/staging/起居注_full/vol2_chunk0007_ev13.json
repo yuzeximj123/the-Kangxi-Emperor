@@ -1,0 +1,41 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初三日己丑",
+ "event_role": "人事任免",
+ "event_scope": "朝议",
+ "summary": "兵部题贵州安知等处新授总兵官四员应兼职衔，康熙以姚玉现经总督蔡毓荣题参察议，令俟察议完结再议奏，余照部议。",
+ "people": [
+  {
+   "name": "姚玉",
+   "role": "总兵官"
+  },
+  {
+   "name": "蔡毓荣",
+   "role": "总督"
+  },
+  {
+   "name": "兰泗",
+   "role": "总兵官"
+  },
+  {
+   "name": "四十六",
+   "role": "总兵官"
+  },
+  {
+   "name": "郭秉贞",
+   "role": "总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 713,
+ "page_range": "57-58"
+}

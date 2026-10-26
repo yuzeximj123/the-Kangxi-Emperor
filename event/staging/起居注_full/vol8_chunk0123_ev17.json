@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "十二日甲成",
+ "event_role": "朝见受贺",
+ "summary": "辰时康熙帝御畅春园内洲宁居听政，宗人府引欲往盛京居住之闲散宗室索党引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索党",
+   "role": "闲散宗室"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "洲宁居",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12317,
+ "page_range": "257-258"
+}

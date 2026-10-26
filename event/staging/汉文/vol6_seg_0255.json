@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十四年八月初七日",
+ "reign_year": 54,
+ "month": 8,
+ "day": 7,
+ "event_role": "请安谢恩",
+ "summary": "湖广提督高其位恭逢康熙万寿，因不能随班朝贺，率合营将弁设坛祝寿，并遣家人李永敬捧表恭请圣安。",
+ "people": [
+  {
+   "name": "高其位",
+   "role": "湖广提督兵部尚书"
+  },
+  {
+   "name": "李永敬",
+   "role": "高其位家人，奉命捧表进京"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，表示自己安好。",
+ "source_title": "湖廣提督高其位奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1860",
+ "order_index": 255
+}

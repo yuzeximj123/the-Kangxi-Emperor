@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "二十二卓庚午",
+ "event_role": "人事任免",
+ "summary": "康熙帝问侍读学士优劣，明珠奏傅继祖甚优，帝以詹事府紧要，命凯音布升补少詹事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "傅继祖",
+   "role": "侍读学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21503,
+ "page_range": "465-466"
+}

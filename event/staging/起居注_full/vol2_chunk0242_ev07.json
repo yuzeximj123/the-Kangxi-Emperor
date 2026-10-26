@@ -1,0 +1,22 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "二十三日庚寅",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率王、内大臣、侍卫、部院大臣官员至孝陵行三跪九叩礼、奠酒，并祭仁孝皇后、孝昭皇后陵举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵",
+  "仁孝皇后陵",
+  "孝昭皇后陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24207,
+ "page_range": "527-528"
+}

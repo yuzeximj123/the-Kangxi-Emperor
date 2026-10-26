@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 6,
+ "day_text": "二十九日甲午",
+ "event_role": "人事任免",
+ "summary": "康熙帝命鄂尔多带所降二级仍留原任，董讷前居官颇优，亦着降二级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂尔多",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "董讷",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7721,
+ "page_range": "166-167"
+}

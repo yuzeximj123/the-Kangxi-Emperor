@@ -1,0 +1,33 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝训谕山西巡抚温保，称许傅腊塔、马齐居官好，勉其洁己自励、为政刚断。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温保",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "原任江南总督"
+  },
+  {
+   "name": "马齐",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6900,
+ "page_range": "148-149"
+}

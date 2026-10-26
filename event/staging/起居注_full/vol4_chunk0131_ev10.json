@@ -1,0 +1,29 @@
+{
+ "reign_year": 29,
+ "month": 10,
+ "day_text": "初五日壬戌",
+ "event_role": "军务",
+ "summary": "户部议覆黑龙江将军萨布素题请，将墨尔根官田分给移驻官兵水手人役耕种，康熙帝依议并令会议索伦等是否仍开垦。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "安诸祷",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "墨尔根",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13110,
+ "page_range": "274-275"
+}

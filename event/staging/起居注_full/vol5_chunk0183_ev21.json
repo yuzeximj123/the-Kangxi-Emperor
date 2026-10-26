@@ -1,0 +1,22 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十二日甲戌",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝闻去年大水，淮、扬、徐州等州县人民被水冲济尚栖河岸，令将三十五年各项钱粮尽行蠲免，三十四年未完钱粮于三十七年带征。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "淮",
+  "扬",
+  "徐州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18321,
+ "page_range": "376-377"
+}

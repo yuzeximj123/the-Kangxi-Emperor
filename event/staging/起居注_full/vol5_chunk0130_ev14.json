@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十一日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝遣谕大将军费扬古，询问前两次赐书是否收到及西路兵消息，并遣蒙古乡导持书驰往侦探。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "土喇",
+  "巴颜乌阑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13014,
+ "page_range": "270-271"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "初八日本已",
+ "event_role": "军务",
+ "summary": "福建水师提督施琅题请侍卫吴奇历随征台湾，兵部议不准，康熙帝命依施琅所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施琅",
+   "role": "福建水师提督"
+  },
+  {
+   "name": "吴奇历",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "福建",
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9013,
+ "page_range": "223-224"
+}

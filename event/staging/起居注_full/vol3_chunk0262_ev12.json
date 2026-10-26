@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "仲秋驾幸口外，皇太子及诸皇子随从骑射，皇上以身作则亲自指授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "口外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 26212,
+ "page_range": "559-560"
+}

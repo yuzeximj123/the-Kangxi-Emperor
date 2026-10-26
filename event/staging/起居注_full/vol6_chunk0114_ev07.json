@@ -1,0 +1,40 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "二十九日甲子",
+ "event_role": "司法案件",
+ "summary": "九卿覆奏河南省秋审情真重犯，康熙帝以王二丑、崔魁醉后斗殴致死情有可原，着缓决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王二丑",
+   "role": "犯人"
+  },
+  {
+   "name": "韩子蹇",
+   "role": "相关人"
+  },
+  {
+   "name": "杨志高",
+   "role": "死者"
+  },
+  {
+   "name": "崔魁",
+   "role": "犯人"
+  },
+  {
+   "name": "邓明",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "河南省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11407,
+ "page_range": "238-239"
+}

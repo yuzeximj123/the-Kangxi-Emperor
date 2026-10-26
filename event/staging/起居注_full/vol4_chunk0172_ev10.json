@@ -1,0 +1,25 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "二十一日辛未",
+ "event_role": "谕旨决策",
+ "summary": "甘肃巡抚布喀陛辞请训，康熙谕其经过西安时向总督巡抚言明所见灾情，并务正己为属官表率、奉公爱民。",
+ "people": [
+  {
+   "name": "布喀",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17210,
+ "page_range": "356-357"
+}

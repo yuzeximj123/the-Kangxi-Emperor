@@ -1,0 +1,33 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": "二十一日已本",
+ "event_role": "人事任免",
+ "summary": "吏部题奉天府府尹王国安丁忧员缺开列人选，康熙帝以盛京民生困苦、员缺紧要，令选补善者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国安",
+   "role": "奉天府府尹"
+  },
+  {
+   "name": "李锦",
+   "role": "光禄寺卿"
+  },
+  {
+   "name": "杨尔洲",
+   "role": "太仆寺卿"
+  }
+ ],
+ "places": [
+  "奉天府",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9409,
+ "page_range": "198-199"
+}

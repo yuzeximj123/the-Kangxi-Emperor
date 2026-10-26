@@ -1,0 +1,29 @@
+{
+ "reign_year": 53,
+ "month": 3,
+ "day_text": "二十六日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "京口将军何天培请训旨，康熙帝谕以京口地方紧要，须留意练兵修船，并批评此前南巡时将军以风信为辞不行操练。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何天培",
+   "role": "京口将军"
+  },
+  {
+   "name": "马三奇",
+   "role": "提及官员"
+  }
+ ],
+ "places": [
+  "京口",
+  "金山寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5702,
+ "page_range": "125-126"
+}

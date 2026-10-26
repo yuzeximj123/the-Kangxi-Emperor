@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "十八日己巳",
+ "event_role": "人事任免",
+ "summary": "兵部题护军参领纳秦升任员缺，拟佐领图西希正、护军校博托科陪，康熙帝命博托科升补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "纳秦",
+   "role": "护军参领"
+  },
+  {
+   "name": "图西希",
+   "role": "佐领"
+  },
+  {
+   "name": "博托科",
+   "role": "护军校"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19219,
+ "page_range": "419-420"
+}

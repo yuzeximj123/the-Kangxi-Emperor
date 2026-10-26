@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "江苏巡抚于准题原任镇江知府谭允诚赔完扣克银两请免死减等，部议那移银两完日再议，康熙帝令速催未完银两。",
+ "people": [
+  {
+   "name": "于准",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "谭允诚",
+   "role": "原任镇江知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "镇江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12502,
+ "page_range": "261-262"
+}

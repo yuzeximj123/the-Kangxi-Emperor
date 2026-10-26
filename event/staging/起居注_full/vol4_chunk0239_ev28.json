@@ -1,0 +1,29 @@
+{
+ "reign_year": 32,
+ "month": 8,
+ "day_text": "十四日乙西",
+ "event_role": "朝见受贺",
+ "summary": "古北口等处抽分制造库郎中齐蓝布、密云县知县陈士镍、守备李允庆等来朝。",
+ "people": [
+  {
+   "name": "齐蓝布",
+   "role": "郎中"
+  },
+  {
+   "name": "陈士镍",
+   "role": "知县"
+  },
+  {
+   "name": "李允庆",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "古北口",
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23928,
+ "page_range": "490-491"
+}

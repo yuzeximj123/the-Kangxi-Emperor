@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "初四日于成",
+ "event_role": "谕旨决策",
+ "summary": "御史陈勋条奏裁僻驿移马安塘及改卫所为州县，康熙帝准裁并驿站，断不准改卫所为州县，并引于成龙、郭世龙旧事为证。",
+ "people": [
+  {
+   "name": "陈勋",
+   "role": "御史"
+  },
+  {
+   "name": "于成龙",
+   "role": "前直隶巡抚"
+  },
+  {
+   "name": "郭世龙",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9718,
+ "page_range": "205-206"
+}

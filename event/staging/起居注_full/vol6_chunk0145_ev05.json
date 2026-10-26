@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补甘肃提督孙思克员缺，康熙帝称已遣雷继尊署理，本暂留衙门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "甘肃提督"
+  },
+  {
+   "name": "雷继尊",
+   "role": "署理甘肃提督"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14505,
+ "page_range": "300-301"
+}

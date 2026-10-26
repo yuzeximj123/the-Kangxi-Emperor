@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "初六日王辰",
+ "event_role": "司法案件",
+ "summary": "户部题原任北新关监督喀清阿与原任宁波监督德成互相讦参一案，郎中佛保审讯拟罪，康熙帝命部院堂官一员会同该抚审明具奏。",
+ "people": [
+  {
+   "name": "喀清阿",
+   "role": "原任北新关监督"
+  },
+  {
+   "name": "德成",
+   "role": "原任宁波监督"
+  },
+  {
+   "name": "佛保",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18313,
+ "page_range": "377-378"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命行文江西巡抚马如龙协助米十万石运至扬州、淮安交宋荦赈济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马如龙",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "宋荦",
+   "role": "江苏巡抚"
+  }
+ ],
+ "places": [
+  "江西",
+  "扬州",
+  "淮安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10302,
+ "page_range": "216-217"
+}

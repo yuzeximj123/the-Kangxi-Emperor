@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "二十七日丙成",
+ "event_role": "其他",
+ "summary": "康熙帝询问讲官能赐事所习何经，能赐事答习《尚书》，帝问是否看《性理大全》《皇极经世》，能赐事奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "能赐事",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9312,
+ "page_range": "221-222"
+}

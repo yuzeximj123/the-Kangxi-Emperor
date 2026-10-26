@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 11,
+ "day_text": "十七日再辰",
+ "event_role": "人事任免",
+ "summary": "宗人府题觉罗勒德浑老病辞职，康熙帝令其第七子纳秦承袭阿思哈尼哈番世职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗勒德浑",
+   "role": "阿思哈尼哈番"
+  },
+  {
+   "name": "纳秦",
+   "role": "勒德浑第七子"
+  },
+  {
+   "name": "通吉",
+   "role": "勒德浑长子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24806,
+ "page_range": "508-509"
+}

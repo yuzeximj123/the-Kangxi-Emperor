@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初五日壬辰",
+ "event_role": "皇帝行止",
+ "event_summary": "巳时，康熙御瀛台紫光阁，赐读卷官大学士觉罗勒德洪、明珠等坐，亲试武举骑射并考试杨允文等步射、开弓、舞刀、掇石。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "读卷官大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "读卷官大学士"
+  },
+  {
+   "name": "杨允文",
+   "role": "武举考生"
+  }
+ ],
+ "places": [
+  "瀛台紫光阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11114,
+ "page_range": "257-258"
+}

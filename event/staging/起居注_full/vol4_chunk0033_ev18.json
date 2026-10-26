@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 6,
+ "day_text": "十一日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕往奉天审事监察御史德珠、郭世隆，令从公审断，可会同彼处大臣会审或自行详审奏闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德珠",
+   "role": "监察御史"
+  },
+  {
+   "name": "郭世隆",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3318,
+ "page_range": "78-79"
+}

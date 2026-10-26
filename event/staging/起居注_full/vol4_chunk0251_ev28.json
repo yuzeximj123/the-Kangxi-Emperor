@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": "十三日于午",
+ "event_role": "朝见受贺",
+ "summary": "天津总兵官李朝冉赴任陛辞，奏请训谕，康熙帝谕令到任使兵民和睦、安辑地方、不生事端，李朝冉表示谨遵训谕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李朝冉",
+   "role": "天津总兵官"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25128,
+ "page_range": "514-515"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十七年九月二十五日",
+ "reign_year": 47,
+ "month": 9,
+ "day": 25,
+ "event_role": "请安谢恩",
+ "summary": "江宁织造曹寅闻十八阿哥薨逝及异常之变，心神恍惚，奏报江南太平、米价已贱，恭请圣安并宽慰皇上。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造、通政使司通政使，奏报人"
+  },
+  {
+   "name": "十八阿哥",
+   "role": "薨逝的皇子"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧織造曹寅奏為又聞異常之變恭請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "403",
+ "order_index": 65
+}

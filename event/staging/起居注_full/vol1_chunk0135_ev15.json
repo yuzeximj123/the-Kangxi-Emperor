@@ -1,0 +1,32 @@
+{
+ "reign_year": 16,
+ "month": 4,
+ "day_text": "二十四日庚午",
+ "event_role": "其他",
+ "summary": "辰时康熙帝御弘德殿，讲官喇沙里、陈廷族、叶方获进讲《孟子》今之诸侯取之于民也三节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷族",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方获",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13515,
+ "page_range": "327-328"
+}

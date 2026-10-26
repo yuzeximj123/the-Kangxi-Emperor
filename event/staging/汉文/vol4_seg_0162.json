@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙五十一年",
+ "reign_year": 51,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "云南巡抚吴存礼等官员分别上摺恭请皇上圣安，康熙朱批回复自己安好并询问臣子病情及口外水土情况。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "云南巡抚，奏请圣安"
+  },
+  {
+   "name": "祖秉衡",
+   "role": "镇守云南等处总兵官世袭阿达哈哈番加一级，奏请圣安"
+  },
+  {
+   "name": "李光地",
+   "role": "奏摺恭请皇上圣安"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批回复"
+  }
+ ],
+ "places": [
+  "云南",
+  "口外"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批回复自己安好，并询问臣子病情及说明口外水土好、饮食起居气色颇好。",
+ "source_title": "雲南巡撫吳存禮奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1164",
+ "order_index": 162
+}

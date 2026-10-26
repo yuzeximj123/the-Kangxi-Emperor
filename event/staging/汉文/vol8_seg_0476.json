@@ -1,0 +1,28 @@
+{
+ "date_raw": "闰肆月贰拾贰日",
+ "reign_year": null,
+ "month": 4,
+ "day": 22,
+ "event_role": "收到奏折",
+ "summary": "江苏巡抚宋荦奏报已跪接御书万寿寺诗宣卷及自造诗宣卷，交付萨库杭受讫，候其入京恭捧入奏并勒石。",
+ "people": [
+  {
+   "name": "宋荦",
+   "role": "江苏巡抚，奏报人"
+  },
+  {
+   "name": "萨库杭",
+   "role": "催记，接收诗宣卷者"
+  }
+ ],
+ "places": [
+  "万寿寺"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "宋荦题奏",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 476
+}

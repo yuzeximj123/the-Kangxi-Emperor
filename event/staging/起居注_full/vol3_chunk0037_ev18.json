@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "二十八日壬辰",
+ "event_role": "军务",
+ "summary": "议政王等议赵赖军罪，康熙帝指出革加级纪录与效力议叙不符例，令查前例。",
+ "people": [
+  {
+   "name": "赵赖",
+   "role": "原任贵州提督今升都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3718,
+ "page_range": "109-110"
+}

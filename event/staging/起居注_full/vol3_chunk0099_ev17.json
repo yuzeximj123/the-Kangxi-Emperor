@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 7,
+ "day_text": "初八日丙寅",
+ "event_role": "贸易漕运",
+ "summary": "礼部议朝鲜国王李焞题请暂停贸易应罚银一万两，康熙命照部议但姑免这一次，仍着照常贸易。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9917,
+ "page_range": "233-234"
+}

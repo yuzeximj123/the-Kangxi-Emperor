@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初六日本丑",
+ "event_role": "人事任免",
+ "summary": "吏部尚书陈廷敬、刑部尚书徐乾学上请解任，康熙帝准以原官解任，修书总裁等项照旧管理。",
+ "people": [
+  {
+   "name": "陈廷敬",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "徐乾学",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3013,
+ "page_range": "72-73"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "十月二十五日",
+ "reign_year": null,
+ "month": 10,
+ "day": 25,
+ "event_role": "请安谢恩",
+ "summary": "大学士李光地奏谢皇上恩赐绿砚，并陈述自己年老多病、请求宽限行期，待病愈后再赴京觐见。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，奏折作者"
+  },
+  {
+   "name": "满保",
+   "role": "福建总督，传旨者"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批告知皇帝身体安康，并询问大学士李光地家中事务。",
+ "source_title": "大学士李光地奏谢恩赐绿砚摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2381",
+ "order_index": 278
+}

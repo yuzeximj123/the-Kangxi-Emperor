@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "二十四日癸酉",
+ "event_role": "人事任免",
+ "summary": "署领镇守四川事开列参领傅喀等，康熙帝称傅喀才优胜任，着署领所留兵丁镇守四川。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅喀",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8018,
+ "page_range": "203-204"
+}

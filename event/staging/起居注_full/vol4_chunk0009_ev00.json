@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就萨尔图拟陪事谕令：戴禅补授驻防协领，尹达浑因勤劳及在雅克萨效力病故，着议叙具奏。",
+ "people": [
+  {
+   "name": "萨尔图",
+   "role": "拜他喇布勒哈番拟陪"
+  },
+  {
+   "name": "戴禅",
+   "role": "拟正补授驻防协领"
+  },
+  {
+   "name": "尹达浑",
+   "role": "曾看河运粮、往雅克萨效力病故"
+  }
+ ],
+ "places": [
+  "雅克萨"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 900,
+ "page_range": "30-31"
+}

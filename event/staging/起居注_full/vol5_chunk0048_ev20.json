@@ -1,0 +1,33 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": "初九日癸酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝御乾清宫，就侍郎安布禄所奏直隶贫民赈济事，命将米一半散给、一半折银，余米减价令民贱买，并传问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "直隶",
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4820,
+ "page_range": "106-107"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "二十九日己未",
+ "event_role": "司法案件",
+ "summary": "三法司议曹三卖身及妻假用他人名姓拟立斩事，康熙帝以为与光棍例少异，命改为监候秋后，大学士索额图、明珠亦以为然。",
+ "people": [
+  {
+   "name": "曹三",
+   "role": "案犯"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24515,
+ "page_range": "547-548"
+}

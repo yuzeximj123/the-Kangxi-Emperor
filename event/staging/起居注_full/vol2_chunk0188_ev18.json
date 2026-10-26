@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "十八日庚寅",
+ "event_role": "人事任免",
+ "summary": "题补兵部员外郎张建绩升任员缺，正拟记国宝、陪拟金德顺，康熙帝询问后命以记国宝升补员外郎。",
+ "people": [
+  {
+   "name": "张建绩",
+   "role": "兵部员外郎升任"
+  },
+  {
+   "name": "记国宝",
+   "role": "内阁中书拟补"
+  },
+  {
+   "name": "金德顺",
+   "role": "陪拟员外郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18818,
+ "page_range": "419-420"
+}

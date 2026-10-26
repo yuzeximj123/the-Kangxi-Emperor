@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十六日丙申",
+ "event_role": "人事任免",
+ "summary": "开写绿头签启奏后奉旨，理事官鄂海授陕西按察使。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "理事官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21907,
+ "page_range": "448-449"
+}

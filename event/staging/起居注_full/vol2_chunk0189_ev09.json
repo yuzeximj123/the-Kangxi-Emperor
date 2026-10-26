@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "十九日辛卯",
+ "event_role": "司法案件",
+ "summary": "户部题齐赞寡、李志等侵占安州地亩应议罪，事在赦前准免议，康熙帝命照部议完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐赞寡",
+   "role": "涉案人"
+  },
+  {
+   "name": "李志",
+   "role": "涉案人"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "安州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18909,
+ "page_range": "421-422"
+}

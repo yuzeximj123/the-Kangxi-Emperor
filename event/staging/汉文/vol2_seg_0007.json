@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙四十七年四月",
+ "reign_year": 47,
+ "month": 4,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦向康熙帝恭请万安，并进献苏州新出枇杷果，请皇上恩鉴。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "管理苏州织造大理寺卿兼巡视两淮盐课监察御史"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "蘇州織造李煦奏進枇杷並請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "347",
+ "order_index": 7
+}

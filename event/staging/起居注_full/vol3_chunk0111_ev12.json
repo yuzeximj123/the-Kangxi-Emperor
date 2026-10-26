@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初五日壬辰",
+ "event_role": "谕旨决策",
+ "event_summary": "理藩院议喀尔喀部落汗诺颜等未奏厄尔德尼台吉为扎萨克及岁贡事，康熙命议政王、贝勒、大臣、蒙古大臣会同确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "厄尔德尼台吉",
+   "role": "喀尔喀台吉"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11112,
+ "page_range": "257-258"
+}

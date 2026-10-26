@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "三十日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部题学士德珠员缺，康熙帝询问侍读学士后，命陶岱升补学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德珠",
+   "role": "学士"
+  },
+  {
+   "name": "席米图",
+   "role": "光禄寺正卿"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "陶岱",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2710,
+ "page_range": "64-65"
+}

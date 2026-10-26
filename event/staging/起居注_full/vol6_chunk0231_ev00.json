@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙命移文满丰，会同提督岳异龙、巡抚贝和诺再行定议赵良栋信用之人随腾出师事。",
+ "people": [
+  {
+   "name": "赵良栋",
+   "role": "原任官员"
+  },
+  {
+   "name": "满丰",
+   "role": "官员"
+  },
+  {
+   "name": "岳异龙",
+   "role": "提督"
+  },
+  {
+   "name": "贝和诺",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23100,
+ "page_range": "472-473"
+}

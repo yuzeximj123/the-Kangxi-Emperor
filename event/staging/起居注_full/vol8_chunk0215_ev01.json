@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论绿旗兵不可无满兵监视，若预调荆州满兵二千驻成都，康泰兵变或可避免；马齐奏称皇上筹画事后无有不验。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "荆州",
+  "成都"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21501,
+ "page_range": "441-442"
+}

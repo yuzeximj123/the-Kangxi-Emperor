@@ -1,0 +1,27 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝询问郎城河口与霸州距离、所用夫役及堤工进度，于成龙奏报并请会同工部定议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "郎城河口",
+  "霸州",
+  "张家庄",
+  "卢沟桥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3700,
+ "page_range": "84-85"
+}

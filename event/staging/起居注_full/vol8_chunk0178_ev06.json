@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评余正健居官虽清而不能办事，顺天府事务俱坏，萧永藻称其正气，帝斥不能办事虽正无用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "余正健",
+   "role": "顺天府府尹"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17806,
+ "page_range": "367-368"
+}

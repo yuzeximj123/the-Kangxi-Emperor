@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 1,
+ "day_text": "二十日甲子",
+ "event_role": "谕旨决策",
+ "summary": "礼部题朝鲜国王进贡礼物查收，康熙帝嘉其恭顺输应军需，命停年贡黄金百两及蓝青红木绵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李米",
+   "role": "朝鲜国王"
+  }
+ ],
+ "places": [
+  "朝鲜国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22310,
+ "page_range": "458-459"
+}

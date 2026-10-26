@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等题报宁乡县临县村庄安守仁等十三人抢夺案，为首拟立斩，康熙帝以人犯众多且已投降，命从宽议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安守仁",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "宁乡县",
+  "临县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5003,
+ "page_range": "110-111"
+}

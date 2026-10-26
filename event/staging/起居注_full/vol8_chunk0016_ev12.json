@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "十五日",
+ "event_role": "其他",
+ "summary": "康熙帝赐大学士李光地、萧永藻、王掞御书匾对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "王掞",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1612,
+ "page_range": "43-44"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "二十三日甲辰",
+ "event_role": "谕旨决策",
+ "summary": "汉军八品官王天荣因居关厢交兵部议处，康熙帝认为禁汉军居关厢不当，令再议另拟票签。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王天荣",
+   "role": "汉军八品官"
+  }
+ ],
+ "places": [
+  "关厢"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6201,
+ "page_range": "167-168"
+}

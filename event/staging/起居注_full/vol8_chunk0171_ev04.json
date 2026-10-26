@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "二十七日奖丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早御中和殿，视祭太庙祝版后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17104,
+ "page_range": "353-354"
+}

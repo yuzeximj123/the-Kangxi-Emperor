@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 8,
+ "day_text": "初三日庚申",
+ "event_role": "请安谢恩",
+ "summary": "科尔沁纯信公主、和硕额驸班第、泰曼多罗达尔汉郡王垂中遣使来请安进贡。",
+ "people": [
+  {
+   "name": "纯信公主",
+   "role": "科尔沁公主"
+  },
+  {
+   "name": "班第",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "垂中",
+   "role": "泰曼多罗达尔汉郡王"
+  }
+ ],
+ "places": [
+  "张三营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18011,
+ "page_range": "371-372"
+}

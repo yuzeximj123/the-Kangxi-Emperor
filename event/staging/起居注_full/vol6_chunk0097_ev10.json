@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "覆议佥都御史王绅参董安国不称职，董已别案革职，康熙帝命俟工竣再议，此本着留中。",
+ "people": [
+  {
+   "name": "王绅",
+   "role": "佥都御史"
+  },
+  {
+   "name": "董安国",
+   "role": "被参官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9710,
+ "page_range": "204-205"
+}

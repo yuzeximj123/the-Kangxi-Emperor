@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "初七日戊子",
+ "event_role": "人事任免",
+ "summary": "兵部题覆总兵官葡元保题请录用军功都督吕虎臣等，议不准行；康熙帝谕吕虎臣等曾行间效力，着照葡元所题录用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葡元保",
+   "role": "总兵官"
+  },
+  {
+   "name": "吕虎臣",
+   "role": "都督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16504,
+ "page_range": "342-343"
+}

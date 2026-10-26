@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "初十日乙未",
+ "event_role": "司法案件",
+ "summary": "三法司议张大春同笔帖式称舒、侍卫巴式打死施景义案，康熙帝令会同吏、兵二部议奏。",
+ "people": [
+  {
+   "name": "张大春",
+   "role": "案犯"
+  },
+  {
+   "name": "称舒",
+   "role": "笔帖式"
+  },
+  {
+   "name": "巴式",
+   "role": "侍卫"
+  },
+  {
+   "name": "施景义",
+   "role": "死者"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2006,
+ "page_range": "83-84"
+}

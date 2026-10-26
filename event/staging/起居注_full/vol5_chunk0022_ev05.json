@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "起居注官记述康熙帝念运河一带百姓水灾，春间命修筑堤防，工竣亲阅，新堤十二处计二千余丈，沿途询民疾苦，百姓感戴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "杨村",
+  "天津",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2205,
+ "page_range": "54-55"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "十六日辛卯",
+ "event_role": "人事任免",
+ "summary": "镶白旗蒙古都统席布臣因年老身病奏请解任，康熙帝令仍留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席布臣",
+   "role": "镶白旗蒙古都统"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6716,
+ "page_range": "177-178"
+}

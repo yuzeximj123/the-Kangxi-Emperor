@@ -1,0 +1,36 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "十一日癸丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士伊桑阿、王熙等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "阿喇密",
+   "role": "学士"
+  },
+  {
+   "name": "石文桂",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2516,
+ "page_range": "62-63"
+}

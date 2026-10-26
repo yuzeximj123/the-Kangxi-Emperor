@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "二十五日甲辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补安徽布政使马逸姿员缺，开列四川按察使沙木哈等十四员，康熙帝命问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马逸姿",
+   "role": "安徽布政使"
+  },
+  {
+   "name": "沙木哈",
+   "role": "四川按察使"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24405,
+ "page_range": "499-500"
+}

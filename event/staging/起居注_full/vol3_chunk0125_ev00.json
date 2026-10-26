@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅重犯招词，命勾决六十六名重犯，其中花善因案情有疑留待一年后再议。",
+ "people": [
+  {
+   "name": "花善",
+   "role": "重犯"
+  },
+  {
+   "name": "徐赣学",
+   "role": "奏称者"
+  },
+  {
+   "name": "牛钮",
+   "role": "大学士"
+  },
+  {
+   "name": "韩莱",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12500,
+ "page_range": "285-286"
+}

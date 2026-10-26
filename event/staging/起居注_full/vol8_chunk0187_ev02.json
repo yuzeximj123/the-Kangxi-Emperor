@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请理藩院尚书阿灵阿员缺，康熙帝命赫寿补授理藩院尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "理藩院尚书"
+  },
+  {
+   "name": "敦拜",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "赫寿",
+   "role": "理藩院尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18702,
+ "page_range": "385-386"
+}

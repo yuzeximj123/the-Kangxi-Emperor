@@ -1,0 +1,20 @@
+{
+ "reign_year": 13,
+ "month": 12,
+ "day_text": "二十九日成午",
+ "event_role": "皇帝行止",
+ "summary": "少顷康熙帝前往巩华城，申时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巩华城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8333,
+ "page_range": "223-224"
+}

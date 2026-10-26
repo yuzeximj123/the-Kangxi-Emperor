@@ -1,0 +1,42 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "十九日甲成",
+ "event_role": "司法案件",
+ "summary": "刑部奏喇嘛太监巴国用家雇工张大姐杀死四岁孩童济儿拟凌迟，康熙帝改为立斩。",
+ "people": [
+  {
+   "name": "张大姐",
+   "role": "雇工妇人"
+  },
+  {
+   "name": "巴国用",
+   "role": "喇嘛太监"
+  },
+  {
+   "name": "周氏",
+   "role": "巴国用之媳"
+  },
+  {
+   "name": "济儿",
+   "role": "被杀孩童"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "因丕",
+   "role": "学士"
+  },
+  {
+   "name": "黑寿",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12102,
+ "page_range": "253-254"
+}

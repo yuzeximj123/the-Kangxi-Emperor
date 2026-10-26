@@ -1,0 +1,40 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "刑部尚书范承勋遵旨查议正黄旗汉军副都统李照申将本旗马迁往原任布政使祖文明派修九公主之子五福房屋一案，议将祖文明枷号两月并追未完银两。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "李照",
+   "role": "正黄旗汉军副都统"
+  },
+  {
+   "name": "祖文明",
+   "role": "原任布政使，被议罪人"
+  },
+  {
+   "name": "五福",
+   "role": "九公主之子"
+  },
+  {
+   "name": "文龄",
+   "role": "接收呈控者"
+  }
+ ],
+ "places": [
+  "派州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "刑部查議",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 399
+}

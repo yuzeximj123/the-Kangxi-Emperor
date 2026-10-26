@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 1,
+ "day_text": "十九日庚戌",
+ "event_role": "谕旨决策",
+ "summary": "户部尚书赵申乔奏宝泉局炉头请预支半年工价，康熙帝以其前后言不符，令将折双回、于本上用印由衙门批发。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宝泉局"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12802,
+ "page_range": "267-268"
+}

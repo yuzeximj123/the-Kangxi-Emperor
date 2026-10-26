@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十日己卯",
+ "event_role": "人事任免",
+ "summary": "将军王进宝题投诚伪将军杨来嘉、伪总兵路之嵩等应议叙，康熙帝命杨来嘉等赴京量材录用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王进宝",
+   "role": "将军"
+  },
+  {
+   "name": "杨来嘉",
+   "role": "伪将军"
+  },
+  {
+   "name": "路之嵩",
+   "role": "伪总兵"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23611,
+ "page_range": "529-530"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初一日本西",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评崔蔚林旷官多、品概文章平常，命衙门学士观其病势来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔蔚林",
+   "role": "詹事府少詹"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 412,
+ "page_range": "43-44"
+}

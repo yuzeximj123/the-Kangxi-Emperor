@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补镶亲王包胡参领桑格病故员缺，拟令一等护卫巴拉兼管，康熙帝以其轻浮不准，命问王。",
+ "people": [
+  {
+   "name": "桑格",
+   "role": "参领"
+  },
+  {
+   "name": "巴拉",
+   "role": "一等护卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1000,
+ "page_range": "31-32"
+}

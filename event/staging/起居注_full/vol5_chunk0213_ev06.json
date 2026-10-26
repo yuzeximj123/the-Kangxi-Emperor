@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "闰三月初十日",
+ "event_role": "军务",
+ "summary": "费扬古移文行在理藩院，报称参赞侍郎满丕送到来降格垒沽英都拉尔之子女十口等已交驿站递送归化城副都统阿第处。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "移文者"
+  },
+  {
+   "name": "满丕",
+   "role": "参赞侍郎"
+  },
+  {
+   "name": "格垒沽英都拉尔",
+   "role": "来降者"
+  },
+  {
+   "name": "阿第",
+   "role": "归化城副都统"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21306,
+ "page_range": "436-437"
+}

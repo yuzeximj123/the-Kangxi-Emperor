@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘党题请霸昌道、真定府知府员缺拣选补授，康熙帝令九卿会同将现任官员内拣选具奏。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "白壁琛",
+   "role": "拟补霸昌道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "霸昌道",
+  "真定府",
+  "云南曲靖府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18405,
+ "page_range": "379-380"
+}

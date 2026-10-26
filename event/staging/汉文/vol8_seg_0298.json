@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十九年十月二十三日",
+ "reign_year": 59,
+ "month": 10,
+ "day": 23,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏报其子李兴回苏州传述康熙圣躬强健、精神充足及行围哨鹿情形，并谢赏赐克食及垂询老母之恩。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏折作者"
+  },
+  {
+   "name": "李兴",
+   "role": "李煦之子，回苏州传述圣安并蒙赏"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批及赏赐者"
+  }
+ ],
+ "places": [
+  "苏州",
+  "穗州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示知道了。",
+ "source_title": "苏州织造李煦奏谢子李兴回苏传述圣安并蒙赏摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2900",
+ "order_index": 298
+}

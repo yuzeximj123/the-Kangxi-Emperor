@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门拟将佐领华善、伊纳海及银匠马之元斩决，康熙帝以库银未短少，改为革职免死。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "华善",
+   "role": "佐领"
+  },
+  {
+   "name": "伊纳海",
+   "role": "拜他喇布勒哈番"
+  },
+  {
+   "name": "马之元",
+   "role": "银匠"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7701,
+ "page_range": "164-165"
+}

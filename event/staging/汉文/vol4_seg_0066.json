@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙伍拾壹年肆月贰拾玖日",
+ "reign_year": 51,
+ "month": 4,
+ "day": 29,
+ "event_role": "收到奏折",
+ "summary": "直隶巡抚赵弘燮奏请皇上对留中未批的捕蝗参劾奏折予以批示，并汇报收到请安摺朱批。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏折作者"
+  },
+  {
+   "name": "施世纶",
+   "role": "总漕，具摺人"
+  },
+  {
+   "name": "汤令",
+   "role": "宝坻县令，因捕蝗不力被参"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "宝坻"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批告知已发去了。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 66
+}

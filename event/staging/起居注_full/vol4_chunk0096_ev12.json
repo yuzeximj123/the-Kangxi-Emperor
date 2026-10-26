@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "二十日壬午",
+ "event_role": "议政听政",
+ "summary": "康熙问副都御史许三礼，许三礼奏河南薄收，米谷搬运山西、直隶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许三礼",
+   "role": "副都御史"
+  }
+ ],
+ "places": [
+  "河南",
+  "山西",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9612,
+ "page_range": "204-205"
+}

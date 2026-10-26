@@ -1,0 +1,25 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "初八日戊子",
+ "event_role": "谕旨决策",
+ "summary": "户部议覆陕西巡抚萨纪图请发常平仓米谷四万余石赈济西安被灾贫民，康熙帝准议并令动支正项钱粮，派部院堂官一员前往亲行给散。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨纪图",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17604,
+ "page_range": "364-365"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "伊桑阿等奏补授广东巡抚事，九卿议调桑格补授，康熙帝以山东紧要、桑格不可轻调，命九卿另行选举。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "桑格",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "郭世隆",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "佛伦",
+   "role": "前巡抚"
+  }
+ ],
+ "places": [
+  "广东",
+  "山东",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 402,
+ "page_range": "18-19"
+}

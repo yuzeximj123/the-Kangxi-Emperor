@@ -1,0 +1,36 @@
+{
+ "reign_year": 11,
+ "month": 5,
+ "day_text": "初四日己酉",
+ "event_role": "其他",
+ "summary": "康熙帝御弘德殿，讲官进讲《论语》贫而无谄一章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "讲官"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "史大成",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1409,
+ "page_range": "85-86"
+}

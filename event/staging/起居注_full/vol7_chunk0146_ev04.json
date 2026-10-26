@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "因陕西布政使员缺，引见苏克济等八人，康熙帝询马齐后以苏克济补授陕西布政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "苏克济",
+   "role": "陕西布政使"
+  },
+  {
+   "name": "塞尔图",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14604,
+ "page_range": "303-304"
+}

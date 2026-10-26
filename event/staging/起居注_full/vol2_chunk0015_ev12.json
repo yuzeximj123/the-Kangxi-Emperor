@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十四日己巳",
+ "event_role": "人事任免",
+ "summary": "杭州将军马哈达代题汉军参领李九思患病应解任，康熙帝疑其中别有缘故，命再察明。",
+ "people": [
+  {
+   "name": "马哈达",
+   "role": "杭州将军"
+  },
+  {
+   "name": "李九思",
+   "role": "汉军参领"
+  },
+  {
+   "name": "康亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [
+  "杭州",
+  "延平"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1512,
+ "page_range": "73-74"
+}

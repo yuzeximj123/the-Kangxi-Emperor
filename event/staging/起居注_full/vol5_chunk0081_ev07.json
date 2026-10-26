@@ -1,0 +1,25 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十六日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "云南巡抚石文最题屯田钱粮照河阳县征收，康熙帝命嗣后屯田赋额照河阳县民田上则征收。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石文最",
+   "role": "云南巡抚"
+  }
+ ],
+ "places": [
+  "云南",
+  "河阳县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8107,
+ "page_range": "172-173"
+}

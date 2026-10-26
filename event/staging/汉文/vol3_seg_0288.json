@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十年十一月十四日",
+ "reign_year": 50,
+ "month": 11,
+ "day": 14,
+ "event_role": "人事任免",
+ "summary": "云南巡抚吴存礼奏请为长子吴永年赏给差使或令其效力边地，并报告滇省雨水调匀、庄稼丰收及米粮时价。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "吴永年",
+   "role": "吴存礼长子，曾任贵州安顺府通判"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州",
+  "安顺府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "雲南巡撫吳存禮奏請賞給長子差使並報雨水糧價摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "988",
+ "order_index": 288
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "初二日乙卯",
+ "event_role": "人事任免",
+ "summary": "礼部题已故温州总兵官藉友勋应否与谥，康熙帝评其材力矫健（原文未完）。",
+ "people": [
+  {
+   "name": "藉友勋",
+   "role": "温州总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "温州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15417,
+ "page_range": "318-319"
+}

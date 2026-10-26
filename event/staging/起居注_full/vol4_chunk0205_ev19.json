@@ -1,0 +1,33 @@
+{
+ "reign_year": 31,
+ "month": 8,
+ "day_text": "二十五日王寅",
+ "event_role": "人事任免",
+ "summary": "兵部题陕西提督何傅、贵州提督陈奇员缺；康熙帝令李林隆升补陕西提督、李芳述升补贵州提督。",
+ "people": [
+  {
+   "name": "何傅",
+   "role": "陕西提督"
+  },
+  {
+   "name": "陈奇",
+   "role": "贵州提督"
+  },
+  {
+   "name": "李林隆",
+   "role": "副都统"
+  },
+  {
+   "name": "李芳述",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "陕西",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20519,
+ "page_range": "422-423"
+}

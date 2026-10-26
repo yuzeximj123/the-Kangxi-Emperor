@@ -1,0 +1,20 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将安州等十一州县明年地丁钱粮尽行蠲免，以利贫民生产度日。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4901,
+ "page_range": "108-109"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "初九日戊子",
+ "event_role": "司法案件",
+ "summary": "刑部题镶红旗蒙古都统班第佐领护军校毕礼克控告案交兵部议奏，康熙帝以不合会议程序发还，令兵部与该都统副都统会议具奏。",
+ "people": [
+  {
+   "name": "班第",
+   "role": "镶红旗蒙古都统"
+  },
+  {
+   "name": "毕礼克",
+   "role": "护军校"
+  },
+  {
+   "name": "噶海",
+   "role": "亲军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23909,
+ "page_range": "489-490"
+}

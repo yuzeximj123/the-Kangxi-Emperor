@@ -1,0 +1,21 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十三日成申",
+ "event_role": "河工水利",
+ "summary": "康熙出所绘河图谕大学士伊桑阿等及九卿，称天下最重者惟治河，若不治则淮扬百姓将致沦没。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "淮扬",
+  "洪泽湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11020,
+ "page_range": "230-231"
+}

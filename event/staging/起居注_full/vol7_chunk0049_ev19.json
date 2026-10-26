@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "二十二日成搬",
+ "event_role": "朝见受贺",
+ "summary": "平原县知县王世声来朝见。",
+ "people": [
+  {
+   "name": "王世声",
+   "role": "平原县知县"
+  }
+ ],
+ "places": [
+  "平原县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4919,
+ "page_range": "109-110"
+}

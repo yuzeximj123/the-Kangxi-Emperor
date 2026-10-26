@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十四日庚子",
+ "event_role": "人事任免",
+ "summary": "伊桑阿奏九卿称南昌总兵叶日芳居官甚好，康熙帝命降级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "叶日芳",
+   "role": "南昌总兵"
+  }
+ ],
+ "places": [
+  "南昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2117,
+ "page_range": "52-53"
+}

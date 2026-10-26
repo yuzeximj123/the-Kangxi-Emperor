@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与九卿等议论穆尔赛为人老实之说，追问陈廷敬、科尔坤、葛弘道，斥责大臣推诿不忠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "左都御史"
+  },
+  {
+   "name": "科尔坤",
+   "role": "大臣"
+  },
+  {
+   "name": "葛弘道",
+   "role": "侍郎"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10500,
+ "page_range": "245-246"
+}

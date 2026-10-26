@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "已时康熙帝御内殿，大学士等捧京城秋审情真重犯三覆奏本面奏请旨，康熙帝逐一披阅招册，命明珠依次陈奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李和需",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23502,
+ "page_range": "513-514"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "二十三日两子",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行凤，大学士勒德洪、学士噶尔图、和希福捧折本面奏请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "噶尔图",
+   "role": "学士"
+  },
+  {
+   "name": "和希福",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4516,
+ "page_range": "133-134"
+}

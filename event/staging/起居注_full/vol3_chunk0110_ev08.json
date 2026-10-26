@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "三十日",
+ "event_role": "人事任免",
+ "summary": "吏部题詹事府少詹王士祯告假员缺，拟侍读学士王封汉升补，康熙帝命问明并会同翰林院拟奏。",
+ "people": [
+  {
+   "name": "王士祯",
+   "role": "詹事府少詹"
+  },
+  {
+   "name": "王封汉",
+   "role": "侍读学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11008,
+ "page_range": "255-256"
+}

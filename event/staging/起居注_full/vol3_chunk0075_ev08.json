@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "徐旭龄奏谢圣谕，表示即出都门、不胜依恋，康熙命其候于乾清门并赐食。",
+ "people": [
+  {
+   "name": "徐旭龄",
+   "role": "漕运总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7508,
+ "page_range": "185-186"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读元世祖遣使穷河源事，论元人都实远履发源之地纪载详明，远胜汉张骞、唐薛元鼎，驳论者以为无益之说。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜讷",
+   "role": "臣"
+  },
+  {
+   "name": "张骞",
+   "role": "汉使"
+  },
+  {
+   "name": "都实",
+   "role": "元使"
+  }
+ ],
+ "places": [
+  "星宿海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11603,
+ "page_range": "244-245"
+}

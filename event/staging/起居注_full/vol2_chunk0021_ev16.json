@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十六日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "兵部郎中喀霓布奏请雇船载兵，康熙帝令其专往料理，务期无累于民，会同督抚定议请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀霓布",
+   "role": "兵部郎中"
+  }
+ ],
+ "places": [
+  "苏州府",
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2116,
+ "page_range": "85-86"
+}

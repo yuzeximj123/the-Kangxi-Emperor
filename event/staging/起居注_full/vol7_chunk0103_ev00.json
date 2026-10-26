@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "偏沅巡抚赵申乔奏请将承审不实的布政使董昭放、按察使郎廷栋革职留任，康熙准奏。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "董昭放",
+   "role": "布政使"
+  },
+  {
+   "name": "郎廷栋",
+   "role": "按察使"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广常德府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10300,
+ "page_range": "217-218"
+}

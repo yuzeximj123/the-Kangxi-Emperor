@@ -1,0 +1,23 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝对湖南式量虑其扰民、江右脚价准其开苍、滇省屯粮允其轻减、粤西象只停其查解。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南",
+  "江右",
+  "滇省",
+  "粤西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9510,
+ "page_range": "200-201"
+}

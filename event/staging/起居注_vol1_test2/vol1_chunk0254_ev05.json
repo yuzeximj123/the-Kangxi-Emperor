@@ -1,0 +1,40 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝御瀛台前亭，赐吴喇式、克什克屯、喀尔喀、土默特等部落台吉茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦楚克",
+   "role": "吴喇式部落三品台吉"
+  },
+  {
+   "name": "库伦",
+   "role": "吴喇式部落四品台吉"
+  },
+  {
+   "name": "特古思黑尔",
+   "role": "克什克屯部落四品台吉"
+  },
+  {
+   "name": "扎米羊",
+   "role": "喀尔喀部落二品台吉"
+  },
+  {
+   "name": "阿称胡郎",
+   "role": "土默特部落四品台吉"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25405,
+ "page_range": "565-566"
+}

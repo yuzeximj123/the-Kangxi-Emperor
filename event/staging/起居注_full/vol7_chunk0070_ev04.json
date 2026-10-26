@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十四日丁卯",
+ "event_role": "人事任免",
+ "summary": "吏部议甘肃巡抚齐世武援赦免罪，康熙帝以其居官尚优但性偏执，着降五级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐世武",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7004,
+ "page_range": "151-152"
+}

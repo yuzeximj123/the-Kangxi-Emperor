@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "康熙帝遣内大臣公常泰赐提督陈福终，其子陈师济率族人于行宫前谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常泰",
+   "role": "内大臣公"
+  },
+  {
+   "name": "陈福",
+   "role": "提督"
+  },
+  {
+   "name": "陈师济",
+   "role": "陈福之子"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20703,
+ "page_range": "424-425"
+}

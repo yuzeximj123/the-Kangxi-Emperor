@@ -1,0 +1,38 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "十五日甲实",
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿、阿兰泰，学士布泰、噶礼、胡会思、顾祖荣以折本请旨。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "布泰",
+   "role": "学士"
+  },
+  {
+   "name": "噶礼",
+   "role": "学士"
+  },
+  {
+   "name": "胡会思",
+   "role": "学士"
+  },
+  {
+   "name": "顾祖荣",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9009,
+ "page_range": "190-191"
+}

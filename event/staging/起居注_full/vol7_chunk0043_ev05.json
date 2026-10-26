@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "十七日癸巳",
+ "event_role": "人事任免",
+ "summary": "兵部题补荆州副都统阿济礼员缺，康熙帝命调西安副都统年常阿补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "年常阿",
+   "role": "西安副都统"
+  },
+  {
+   "name": "博济",
+   "role": "将军"
+  },
+  {
+   "name": "阿济礼",
+   "role": "荆州副都统"
+  }
+ ],
+ "places": [
+  "荆州",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4305,
+ "page_range": "97-98"
+}

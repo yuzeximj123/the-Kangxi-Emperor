@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾貳年捌月貳拾叁日",
+ "reign_year": 52,
+ "month": 8,
+ "day": 23,
+ "event_role": "河工水利",
+ "summary": "浙江巡抚王度昭奏报海塘倾圮情形及修筑工费，请将司库余银留作随时修砌之用，并陈海汛巡防禁私盐事。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚，奏报人"
+  }
+ ],
+ "places": [
+  "浙江",
+  "海宁",
+  "平湖",
+  "海盐",
+  "嘉湖",
+  "苏松"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "浙江巡撫王度昭奏報海汛防及修築海塘工費摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "146",
+ "order_index": 56
+}

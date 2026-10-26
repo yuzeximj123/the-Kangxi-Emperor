@@ -1,0 +1,23 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "奏报江南各府州县同日得雨沾足、畿南普遍降雨、秋禾可播种成长，并恭缴朱批以慰圣怀。",
+ "people": [],
+ "places": [
+  "江南",
+  "三辅",
+  "畿南",
+  "京东",
+  "京北"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示去冬至今春少雨雪，担忧夏末秋初多雨，事关重大。",
+ "source_title": "江南得雨",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 196
+}

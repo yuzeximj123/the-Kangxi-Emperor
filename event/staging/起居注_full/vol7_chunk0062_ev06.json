@@ -1,0 +1,38 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "二十二日丙寅",
+ "event_role": "人事任免",
+ "summary": "马齐等遵旨将司道官员内升问九卿，九卿举出布政使刘瞻等，康熙帝令刘瞻内升。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "刘瞻",
+   "role": "布政使"
+  },
+  {
+   "name": "施世给",
+   "role": "布政使"
+  },
+  {
+   "name": "赵世显",
+   "role": "布政使"
+  },
+  {
+   "name": "郑显",
+   "role": "按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6206,
+ "page_range": "135-136"
+}

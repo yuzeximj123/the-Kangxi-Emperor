@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "初十日丙寅",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问盐法道喻成龙居官，王熙奏其作知府时居官亦好，康熙帝命喻成龙升补山东按察使司按察使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "喻成龙",
+   "role": "盐法道"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14221,
+ "page_range": "296-297"
+}

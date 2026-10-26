@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "二十四日辛未",
+ "event_role": "人事任免",
+ "summary": "兵部覆福建总督郭世隆请闽省副将以下员缺于本省官员调补不准，康熙帝以台湾、澎湖官员三年一更调补迟延，命照该督所请补授。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "福建总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "台湾",
+  "澎湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1619,
+ "page_range": "42-43"
+}

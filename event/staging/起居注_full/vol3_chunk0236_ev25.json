@@ -1,0 +1,25 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十二日庚午",
+ "event_role": "皇帝行止",
+ "summary": "早，康熙帝迎皇太后，送皇太后至玉泉山宫内，未时驻跸畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "玉泉山",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23625,
+ "page_range": "507-508"
+}

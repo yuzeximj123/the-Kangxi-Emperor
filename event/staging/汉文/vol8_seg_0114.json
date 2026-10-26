@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙伍拾柒年捌月贰拾陆日",
+ "reign_year": 57,
+ "month": 8,
+ "day": 26,
+ "event_role": "请安谢恩",
+ "summary": "福州将军黄秉钺上折向康熙帝请安，康熙朱批告知自己安好，并称黄秉钺离京后身体颇觉好转。",
+ "people": [
+  {
+   "name": "黄秉钺",
+   "role": "福州将军，上折请安者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "福州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，并说黄秉钺离京后身体颇觉好转。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 114
+}

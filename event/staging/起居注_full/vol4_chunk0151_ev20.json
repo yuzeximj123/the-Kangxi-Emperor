@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "十九日甲辰",
+ "event_role": "司法案件",
+ "summary": "刑部等题满朱西理塔布等夺御厂之牛应立绞，康熙帝从宽免死，令鞭一百为奴。",
+ "people": [
+  {
+   "name": "满朱西理塔布",
+   "role": "罪犯"
+  },
+  {
+   "name": "虎班代",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "御厂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15120,
+ "page_range": "314-315"
+}

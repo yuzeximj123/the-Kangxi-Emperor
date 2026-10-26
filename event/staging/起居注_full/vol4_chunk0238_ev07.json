@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 7,
+ "day_text": "二十七日已已",
+ "event_role": "人事任免",
+ "summary": "兵部题山东登州总兵官曹应秽员缺，康熙帝以石匣副将吕八音为人优、材力壮健，升授总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "曹应秽",
+   "role": "山东登州总兵官"
+  },
+  {
+   "name": "吕八音",
+   "role": "石匣副将，升总兵官"
+  }
+ ],
+ "places": [
+  "山东",
+  "登州",
+  "石匣"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23807,
+ "page_range": "488-489"
+}

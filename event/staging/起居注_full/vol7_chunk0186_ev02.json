@@ -1,0 +1,27 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "福建巡抚黄秉中题请蠲免台湾三县五十年本色米石，康熙以其迟至秋季方奏，令都察院察议，并谕来年蠲免。",
+ "people": [
+  {
+   "name": "黄秉中",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾府",
+  "台湾县",
+  "诸罗县",
+  "凤山县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18602,
+ "page_range": "383-384"
+}

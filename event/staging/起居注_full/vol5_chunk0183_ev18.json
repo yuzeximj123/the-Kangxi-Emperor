@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十二日甲戌",
+ "event_role": "人事任免",
+ "summary": "理藩院侍郎西喇员缺，康熙帝令将内阁学士觉罗三宝等职名开列，着会同班第选择具奏，班第有所知亦令保奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "西喇",
+   "role": "理藩院侍郎"
+  },
+  {
+   "name": "觉罗三宝",
+   "role": "内阁学士"
+  },
+  {
+   "name": "班第",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18318,
+ "page_range": "376-377"
+}

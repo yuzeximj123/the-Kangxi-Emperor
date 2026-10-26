@@ -1,0 +1,35 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙览张鹏翮所奏，忧虑高家堰决口将危及扬州淮安宿迁百姓，马齐称皇上屡次申谕。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河道总督"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "黄河",
+  "高家堰",
+  "洪泽湖",
+  "运河",
+  "淮安",
+  "扬州",
+  "宿迁",
+  "唐埂六坝"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2501,
+ "page_range": "61-62"
+}

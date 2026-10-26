@@ -1,0 +1,22 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "十五日辛酉",
+ "event_role": "皇帝行止",
+ "summary": "卯时，康熙帝由午门出正阳门，驻跸南苑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2605,
+ "page_range": "62-63"
+}

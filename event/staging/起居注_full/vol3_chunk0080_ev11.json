@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初十日庚午",
+ "event_role": "谕旨决策",
+ "summary": "户部题江南浙江税差开列郎中觉罗李立马等，帝命九卿、詹事、科道会同选择清廉之人具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗李立马",
+   "role": "拟差郎中"
+  }
+ ],
+ "places": [
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8011,
+ "page_range": "195-196"
+}

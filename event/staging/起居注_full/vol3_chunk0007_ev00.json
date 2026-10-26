@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吴申拟补杭州防守御员缺，推举拜色为正拟、穆成格为陪拟，康熙帝询问拜色推举缘由。",
+ "people": [
+  {
+   "name": "吴申",
+   "role": "官员"
+  },
+  {
+   "name": "拜色",
+   "role": "拟补杭州防守御"
+  },
+  {
+   "name": "穆成格",
+   "role": "陪拟参领"
+  },
+  {
+   "name": "郭焉",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 700,
+ "page_range": "49-50"
+}

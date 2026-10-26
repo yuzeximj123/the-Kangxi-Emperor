@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "十八日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥责捐纳之人不顾礼义廉耻，提及李国亮、布颜图等事，并责问王号往陕西赈济不过为人捐纳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李国亮",
+   "role": "官员"
+  },
+  {
+   "name": "布颜图",
+   "role": "吏部左侍郎"
+  },
+  {
+   "name": "王号",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 111,
+ "page_range": "12-13"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初五日丁丑",
+ "event_role": "司法案件",
+ "summary": "户部议郎中詹布礼凤阳仓差溢额银四万两，康熙帝命詹布礼既溢税银，着议处。",
+ "people": [
+  {
+   "name": "詹布礼",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "凤阳仓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18408,
+ "page_range": "411-412"
+}

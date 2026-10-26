@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "十一日甲辰",
+ "event_role": "人事任免",
+ "summary": "兵部题原任兖州参将王继先中伤实属冤抑应复原降二级，康熙帝令追复所降之级并给驿归其丧。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王继先",
+   "role": "原任兖州参将"
+  }
+ ],
+ "places": [
+  "兖州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8420,
+ "page_range": "180-181"
+}

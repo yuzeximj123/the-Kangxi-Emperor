@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "十五日丙子",
+ "event_role": "人事任免",
+ "summary": "就补授黑龙江将军杨福员缺事，康熙帝令迟数日再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨福",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13016,
+ "page_range": "271-272"
+}

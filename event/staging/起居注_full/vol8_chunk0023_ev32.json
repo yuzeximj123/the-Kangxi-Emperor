@@ -1,0 +1,38 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "二十五日辛未",
+ "event_role": "议政听政",
+ "summary": "已时康熙帝御行宫，大学士温达、松柱，学士舒兰、马良、绰奇以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "舒兰",
+   "role": "学士"
+  },
+  {
+   "name": "马良",
+   "role": "学士"
+  },
+  {
+   "name": "绰奇",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2332,
+ "page_range": "57-58"
+}

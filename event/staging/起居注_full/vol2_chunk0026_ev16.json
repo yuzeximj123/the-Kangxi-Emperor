@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初八日癸亥",
+ "event_role": "请安谢恩",
+ "summary": "诸王、贝子、内大臣、侍卫及部院大臣至中左门请安，康熙帝命侍卫传谕身本安但少觉困倦，太医云不宜见风故未御门，以后不必请安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "对亲",
+   "role": "内班侍卫衣都额真"
+  }
+ ],
+ "places": [
+  "中左门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2616,
+ "page_range": "95-96"
+}

@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十六年十月",
+ "reign_year": 46,
+ "month": 10,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "李煦奏报苏州所属民田收割收成约七八分、米价行情，并进献新出冬笋。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  }
+ ],
+ "places": [
+  "蘇州",
+  "福州",
+  "兩淮"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "272",
+ "source_title": "蘇州織造李煦奏報蘇屬民田收成並進冬笋摺",
+ "order_index": 199
+}

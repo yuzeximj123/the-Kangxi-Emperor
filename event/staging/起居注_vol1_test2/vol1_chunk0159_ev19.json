@@ -1,0 +1,29 @@
+{
+ "reign_year": 17,
+ "month": 3,
+ "day_text": "二十一日辛西",
+ "event_role": "祭祀典礼",
+ "summary": "卯时，康熙帝御太和门，遣庄亲王博果铎、信都王鄂扎赍册宝往巩华城，册谥大行皇后为孝昭皇后。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博果铎",
+   "role": "庄亲王"
+  },
+  {
+   "name": "鄂扎",
+   "role": "信都王"
+  }
+ ],
+ "places": [
+  "太和门",
+  "巩华城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15919,
+ "page_range": "375-376"
+}

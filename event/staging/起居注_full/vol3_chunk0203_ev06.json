@@ -1,0 +1,29 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十六日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "福建提督张云终题报施琅在泉州建碑亭勒御制诗不便，康熙帝斥施琅借端招摇，令发还礼部严饬不得于公所立碑。",
+ "people": [
+  {
+   "name": "张云终",
+   "role": "福建提督"
+  },
+  {
+   "name": "施琅",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "泉州",
+  "天地春"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20306,
+ "page_range": "441-442"
+}

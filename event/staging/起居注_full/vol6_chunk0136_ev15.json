@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 1,
+ "day_text": "二十三日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝因巴林公主病故传谕，述其蒙太皇太后眷爱、迎养京师、亲视终年及含笑而逝，叹慰不已。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴林公主",
+   "role": "病故公主"
+  }
+ ],
+ "places": [
+  "蒙古地方",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13615,
+ "page_range": "282-283"
+}

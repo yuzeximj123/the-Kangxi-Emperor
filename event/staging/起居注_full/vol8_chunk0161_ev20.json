@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "二十一日本未",
+ "event_role": "人事任免",
+ "summary": "吏部题通政使司通政使周道新员缺，以太常寺正卿李敏启等职名开列，康熙着问九卿具奏。",
+ "people": [
+  {
+   "name": "周道新",
+   "role": "通政使"
+  },
+  {
+   "name": "李敏启",
+   "role": "太常寺正卿"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "九卿",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16120,
+ "page_range": "333-334"
+}

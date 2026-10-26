@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初九日戊辰",
+ "event_role": "司法案件",
+ "summary": "兵部议叛道吴之茂、韩晋卿凌迟处死，王平落等首级枭悬示众，康熙命吴之茂、韩晋卿候旨发落，王平水等首级枭示。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴之茂",
+   "role": "叛道"
+  },
+  {
+   "name": "韩晋卿",
+   "role": "叛道"
+  },
+  {
+   "name": "王平落",
+   "role": "叛犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23413,
+ "page_range": "525-526"
+}

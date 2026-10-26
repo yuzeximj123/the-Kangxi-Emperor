@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "初十日丙申",
+ "event_role": "司法案件",
+ "summary": "来君美殴打孙仲侯致死案，本当拟绞但在保辜限外十日死，康熙帝命九卿、詹事、科道会议具奏。",
+ "people": [
+  {
+   "name": "来君美",
+   "role": "案犯"
+  },
+  {
+   "name": "孙仲侯",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11417,
+ "page_range": "239-240"
+}

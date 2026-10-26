@@ -1,0 +1,54 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "军务",
+ "summary": "闽浙督抚奏报永春、德化匪类聚众扰民已解散，贼首陈五显惧罪潜逃深山，现遣官招抚并就抚情形。",
+ "people": [
+  {
+   "name": "陈五显",
+   "role": "贼首，聚众扰民后潜逃就抚"
+  },
+  {
+   "name": "佟沛年",
+   "role": "泉道"
+  },
+  {
+   "name": "李鋐",
+   "role": "汀漳道"
+  },
+  {
+   "name": "尚之珩",
+   "role": "陆路提标参将"
+  },
+  {
+   "name": "吴英",
+   "role": "水师提臣"
+  },
+  {
+   "name": "吴应鹏",
+   "role": "游击，吴英之子，差人招谕"
+  },
+  {
+   "name": "赵完璧",
+   "role": "候补知府，会委招抚"
+  },
+  {
+   "name": "蓝",
+   "role": "前提臣"
+  }
+ ],
+ "places": [
+  "永春",
+  "德化",
+  "深山"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批认为免脱别省即可指日可擒，未必如此。",
+ "source_title": "闽浙督抚奏报陈五显就抚情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 268
+}

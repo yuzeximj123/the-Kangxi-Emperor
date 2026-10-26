@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "十七日庚午",
+ "event_role": "军务",
+ "summary": "大学士阿兰泰、尚书马齐奏报学士朱都纳所请增草豆喂养茶易马匹及调益二千马匹之事，议定照宣化府例喂养，停止调益二千。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  },
+  {
+   "name": "李学圣",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "宣化府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17406,
+ "page_range": "358-359"
+}

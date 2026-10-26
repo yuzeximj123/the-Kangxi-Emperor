@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "二十一日",
+ "event_role": "司法案件",
+ "summary": "九卿题刚五达等拟监候秋后处决，康熙帝以案涉知州赵国宣家人，责部欲速结，命严审刚五达面从背违之情。",
+ "people": [
+  {
+   "name": "刚五达",
+   "role": "案犯"
+  },
+  {
+   "name": "赵国宣",
+   "role": "知州"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13310,
+ "page_range": "276-277"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "十二日于寅",
+ "event_role": "人事任免",
+ "summary": "宗人府题右宗人公瓦山病故员缺，康熙帝命花善补授。",
+ "people": [
+  {
+   "name": "瓦山",
+   "role": "右宗人公"
+  },
+  {
+   "name": "门度",
+   "role": "镇国公"
+  },
+  {
+   "name": "花善",
+   "role": "补授右宗人"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7412,
+ "page_range": "183-184"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十八日壬寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕明珠等将亲制嘉奖于成龙之诗装成手卷赍去颁赐。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "库勒纳",
+   "role": "学士"
+  },
+  {
+   "name": "对亲",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4014,
+ "page_range": "123-124"
+}

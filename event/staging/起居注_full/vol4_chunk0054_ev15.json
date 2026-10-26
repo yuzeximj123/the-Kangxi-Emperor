@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "二十三日辛卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝问尚书图纳、左都御史马齐等看河时如此险处何未虑及，图纳等奏议于馆北遥堤修减水坝三座令水入海。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "尚书"
+  },
+  {
+   "name": "马齐",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "中河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5415,
+ "page_range": "120-121"
+}

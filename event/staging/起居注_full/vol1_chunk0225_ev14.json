@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初二日辛卯",
+ "event_role": "人事任免",
+ "summary": "兵部题补前锋护卫，康熙帝以博代年老有疾，命达海补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博代",
+   "role": "二等护卫"
+  },
+  {
+   "name": "达海",
+   "role": "拖沙喇哈番"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22514,
+ "page_range": "507-508"
+}

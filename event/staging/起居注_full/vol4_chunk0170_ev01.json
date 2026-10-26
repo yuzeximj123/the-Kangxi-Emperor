@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥尚书石柱、侍郎宜尔格图等良懦无定见、不能竭力奉公，命依部议降五级调用。",
+ "people": [
+  {
+   "name": "石柱",
+   "role": "工部尚书"
+  },
+  {
+   "name": "宜尔格图",
+   "role": "工部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17001,
+ "page_range": "352-353"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "初六日王拱",
+ "event_role": "谕旨决策",
+ "summary": "学士陶岱因往盛京赈济并从盛京运米至乌喇请训，康熙帝命速行督运，传谕彼处将军、副都统、五部侍郎、府尹等加意效力。",
+ "people": [
+  {
+   "name": "陶岱",
+   "role": "内阁学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9919,
+ "page_range": "208-209"
+}

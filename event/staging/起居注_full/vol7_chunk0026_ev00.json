@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 8,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与马齐等议满洲、蒙古、汉军进士增额及满洲进士学问平常事，并训诫法海勤学。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "法海",
+   "role": "国昂之子、侍十三阿哥"
+  },
+  {
+   "name": "法良",
+   "role": "起居注官"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2600,
+ "page_range": "63-64"
+}

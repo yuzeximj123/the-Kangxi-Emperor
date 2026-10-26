@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初一日乙卯",
+ "event_role": "奏报地方情形",
+ "summary": "云南巡抚王继文条奏滇省山岭险阻致制钱壅滞价贵、铜矿采取甚少，部议令采铜报部，康熙帝以其所奏多不实，着九卿议奏。",
+ "people": [
+  {
+   "name": "王继文",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14509,
+ "page_range": "325-326"
+}

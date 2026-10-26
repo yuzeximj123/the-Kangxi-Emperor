@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "二十日甲实",
+ "event_role": "朝见受贺",
+ "summary": "巡抚高承奏称伊大里雅国进贡方物，上以其因送闵明我而来，命传问闵明我启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高承",
+   "role": "巡抚"
+  },
+  {
+   "name": "闵明我",
+   "role": "西洋人"
+  }
+ ],
+ "places": [
+  "俄罗斯",
+  "西洋",
+  "伊大里雅国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4516,
+ "page_range": "100-101"
+}

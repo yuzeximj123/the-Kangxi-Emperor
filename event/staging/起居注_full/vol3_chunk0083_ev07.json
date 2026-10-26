@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十二日王午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召范承勋至御栅前问奏，范承勋谢恩并请训，康熙帝谕以洁己爱民、秉公从直、勿听信幕客，并戒汉军外任多带家口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "郝浴",
+   "role": "官员"
+  },
+  {
+   "name": "崔维雅",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8307,
+ "page_range": "201-202"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "初四日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "大学士明珠传谕江宁府知府于成龙，称其居官廉洁，赐御书手卷一轴以示旌扬，勉其始终勿改操守。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "江宁府知府"
+  }
+ ],
+ "places": [
+  "江宁府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5618,
+ "page_range": "147-148"
+}

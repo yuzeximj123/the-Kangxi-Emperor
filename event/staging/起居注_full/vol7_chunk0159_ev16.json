@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初一日庚寅",
+ "event_role": "人事任免",
+ "summary": "吏部请大选邹中等官员，康熙帝指出张鹏翮属有一司官系书办之子，令问张鹏翮具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "邹中",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15916,
+ "page_range": "329-330"
+}

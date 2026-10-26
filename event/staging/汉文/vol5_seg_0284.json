@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年九月初四日",
+ "reign_year": 53,
+ "month": 9,
+ "day": 4,
+ "event_role": "奏报地方情形",
+ "summary": "云南巡抚甘国璧奏报滇省夏秋雨水沾足、田禾茂盛，据布政使卢询详报收成八至十分，并陈报米价及市斗与仓斗折算情形。",
+ "people": [
+  {
+   "name": "甘国璧",
+   "role": "云南巡抚，奏报人"
+  },
+  {
+   "name": "卢询",
+   "role": "布政使，详报收成分数"
+  }
+ ],
+ "places": [
+  "云南",
+  "滇省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示知道了，并指出米价不算很贱。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 284
+}

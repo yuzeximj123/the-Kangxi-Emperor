@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "十五日丙申",
+ "event_role": "人事任免",
+ "summary": "兵部题陕西西安副都统柏天租员缺，康熙帝令问右翼汉军都统等，将曾效力、人材壮健可用者具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "柏天租",
+   "role": "陕西西安副都统"
+  },
+  {
+   "name": "王维珍",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "陕西西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16710,
+ "page_range": "346-347"
+}

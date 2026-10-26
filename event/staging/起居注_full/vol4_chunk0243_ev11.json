@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "初二日壬申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就彭鹏参顺天乡试事谕示治天下当敦崇大体，不主张亲行刑讯穷究主考同考及举人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭鹏",
+   "role": "给事中"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "徐舍",
+   "role": "举人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24311,
+ "page_range": "498-499"
+}

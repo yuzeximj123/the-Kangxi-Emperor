@@ -1,0 +1,42 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "军务",
+ "summary": "闽浙总督范时崇遵旨逐条议复千总郭王森所陈海防十事，就保甲稽查、水师选补、渔船营牌、兵饷预给、配船兵数、海山蓬厂、火药钱粮等款详加斟酌损益。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "闽浙总督，奏折作者"
+  },
+  {
+   "name": "郭王森",
+   "role": "千总，条陈海防十事者"
+  },
+  {
+   "name": "金世荣",
+   "role": "前督臣，曾题请严造船给照"
+  },
+  {
+   "name": "张云翼",
+   "role": "原任江南提督，曾疏称议处奸船出入海口"
+  }
+ ],
+ "places": [
+  "闽浙",
+  "福建",
+  "浙江",
+  "广东",
+  "温州",
+  "江南",
+  "海山"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "閩浙總督范時崇奏為遵旨議復郭王森條陳海防十事摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 122
+}

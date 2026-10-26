@@ -1,0 +1,24 @@
+{
+ "reign_year": 14,
+ "month": 10,
+ "day_text": "十三日",
+ "event_role": "朝见受贺",
+ "summary": "敬州知州会时进等、署曹州营都司事守备尤三省等来朝。",
+ "people": [
+  {
+   "name": "会时进",
+   "role": "敬州知州"
+  },
+  {
+   "name": "尤三省",
+   "role": "署曹州营都司事守备"
+  }
+ ],
+ "places": [
+  "敬州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10237,
+ "page_range": "261-262"
+}

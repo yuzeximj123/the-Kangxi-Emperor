@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十八年十月二十二日",
+ "reign_year": 48,
+ "month": 10,
+ "day": 22,
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚赵弘燮奏报今年九十月间雨雪调匀，南三府及内陆府麦苗生长良好，明年春花丰收可期，恭慰圣怀。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "南三府",
+  "内陆府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸巡撫趙弘燮奏報麥苗甚好豐收可期摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "596",
+ "order_index": 247
+}

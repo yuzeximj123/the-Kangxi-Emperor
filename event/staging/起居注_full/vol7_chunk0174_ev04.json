@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "礼部题请赐恤原任广东琼州总兵官孙成龙，康熙帝谕不必与恤。",
+ "people": [
+  {
+   "name": "孙成龙",
+   "role": "原任广东琼州总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东琼州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17404,
+ "page_range": "359-360"
+}

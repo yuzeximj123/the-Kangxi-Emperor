@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "二十一日",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读阿喇密升任员缺，康熙帝以员缺紧要令大学士会同吏部选择具奏。",
+ "people": [
+  {
+   "name": "阿喇密",
+   "role": "内阁侍读，升任"
+  },
+  {
+   "name": "额席伦",
+   "role": "户部主事，正拟"
+  },
+  {
+   "name": "邬尔瑚",
+   "role": "礼部主事，陪拟"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16815,
+ "page_range": "379-380"
+}

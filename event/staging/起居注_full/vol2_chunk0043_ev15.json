@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "十五日",
+ "event_role": "人事任免",
+ "summary": "题补内阁侍读学士，正拟郎中布占、陪拟给事中苏拜，康熙帝以二人迥然不同，命苏拜补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布占",
+   "role": "郎中"
+  },
+  {
+   "name": "苏拜",
+   "role": "给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4315,
+ "page_range": "129-130"
+}

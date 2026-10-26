@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十二日丙午",
+ "event_role": "谕旨决策",
+ "summary": "通政使张格请示拨给拉都浑等马驼糗粮，康熙帝命照定例明白拨给。",
+ "people": [
+  {
+   "name": "张格",
+   "role": "通政使"
+  },
+  {
+   "name": "拉都浑",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13404,
+ "page_range": "279-280"
+}

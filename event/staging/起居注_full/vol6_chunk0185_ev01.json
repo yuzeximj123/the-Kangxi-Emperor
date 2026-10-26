@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "十四日壬申",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题奏杀一家无罪三人照律凌迟，御史郑惟孜以斗殴误杀持两议，帝询问傅腊塔、熊赐履后决定依律凌迟，删去后议并发还条奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "刑部官员"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "郑惟孜",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18501,
+ "page_range": "380-381"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命开列草维成等职名，并谕古北口总兵官缺以副将保柱补授，以约束满汉兵丁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "草维成",
+   "role": "职名开列者"
+  },
+  {
+   "name": "保柱",
+   "role": "副将，补授古北口总兵官"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12300,
+ "page_range": "257-258"
+}

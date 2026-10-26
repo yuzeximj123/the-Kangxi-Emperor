@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿推举湖北粮道田雯居官有贤声、人品亦优，应内升，康熙帝准从。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "田雯",
+   "role": "湖北粮道"
+  }
+ ],
+ "places": [
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10300,
+ "page_range": "241-242"
+}

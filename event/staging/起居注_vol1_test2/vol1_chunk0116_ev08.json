@@ -1,0 +1,28 @@
+{
+ "reign_year": 15,
+ "month": 6,
+ "day_text": "初五日两辰",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿视朝，文武升转官员谢恩，厄鲁特部落达尔汉喇玛等行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达尔汉喇玛",
+   "role": "厄鲁特部落进贡使"
+  },
+  {
+   "name": "绰克免鄂木步",
+   "role": "厄鲁特部落进贡使"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11608,
+ "page_range": "289-290"
+}

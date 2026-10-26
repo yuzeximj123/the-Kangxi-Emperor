@@ -1,0 +1,40 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "二十三日丙辰",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿传胪，赐贡士汪绎等进士及第出身有差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汪绎",
+   "role": "一甲进士"
+  },
+  {
+   "name": "季愈",
+   "role": "一甲进士"
+  },
+  {
+   "name": "王露",
+   "role": "一甲进士"
+  },
+  {
+   "name": "张成遇",
+   "role": "二甲进士"
+  },
+  {
+   "name": "史贻直",
+   "role": "三甲进士"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14602,
+ "page_range": "302-303"
+}

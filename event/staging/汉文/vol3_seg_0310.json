@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十年十二月",
+ "reign_year": 50,
+ "month": 12,
+ "day": 2,
+ "event_role": "请安谢恩",
+ "summary": "大学士李光地奏谢康熙遣内侍视病并多次赏赐海水、鹿尾等物，表示感恩惭仄。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，奏折作者"
+  },
+  {
+   "name": "存住",
+   "role": "奏事人员"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "大學士李光地奏謝眷念恩賜摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "1008",
+ "order_index": 310
+}

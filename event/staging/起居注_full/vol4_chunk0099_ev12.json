@@ -1,0 +1,20 @@
+{
+ "reign_year": 29,
+ "month": 1,
+ "day_text": "初六日成成",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝因有事于祈谷坛，斋戒三日。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9912,
+ "page_range": "210-211"
+}

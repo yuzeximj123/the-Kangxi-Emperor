@@ -1,0 +1,33 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "二十一日本未",
+ "event_role": "人事任免",
+ "summary": "吏部题山东布政使李成龙员缺，以湖广按察使张文灿职名开列，康熙着问九卿具奏。",
+ "people": [
+  {
+   "name": "李成龙",
+   "role": "山东布政使"
+  },
+  {
+   "name": "张文灿",
+   "role": "湖广按察使"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "九卿",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "山东",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16121,
+ "page_range": "333-334"
+}

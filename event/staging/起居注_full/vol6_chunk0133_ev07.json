@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "二十一日",
+ "event_role": "人事任免",
+ "summary": "鸿胪寺少卿图尔亲员缺，康熙帝谕令拣选鸣赞、赞礼等熟习人员补授，开列绿头签候回宫具奏。",
+ "people": [
+  {
+   "name": "图尔亲",
+   "role": "鸿胪寺少卿"
+  },
+  {
+   "name": "法生",
+   "role": "赞善"
+  },
+  {
+   "name": "艾山",
+   "role": "钦天监监副"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13307,
+ "page_range": "276-277"
+}

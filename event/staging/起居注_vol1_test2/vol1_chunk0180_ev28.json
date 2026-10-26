@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 4,
+ "day_text": "十二日丙子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝为遏必隆建祠立碑，亲制碑文，追念孝昭皇后并嘉其父母，赐碑勒石。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "遏必隆",
+   "role": "一等公"
+  },
+  {
+   "name": "孝昭皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18028,
+ "page_range": "417-418"
+}

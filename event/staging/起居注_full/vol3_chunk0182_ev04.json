@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士勒德洪、明珠等回奏翰林官调补外用事，转述吏部尚书达哈塔、侍郎库勒纳等称圣论极是，应甄别不及者对品调补，康熙帝令再议具奏。",
+ "people": [
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "徐廷侍",
+   "role": "学士"
+  },
+  {
+   "name": "达哈塔",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "库勒纳",
+   "role": "管翰林院学士事侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18204,
+ "page_range": "399-400"
+}

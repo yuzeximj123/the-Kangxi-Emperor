@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 8,
+ "day_text": "二十五日本丑",
+ "event_role": "谕旨决策",
+ "summary": "工部等题覆王国安条奏台湾修造城池、建立学校、考取生员、驻防兵三年一换等事，康熙帝称好并令问明李光地具奏。",
+ "people": [
+  {
+   "name": "王国安",
+   "role": "条奏人"
+  },
+  {
+   "name": "李光地",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18320,
+ "page_range": "401-402"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "二十四日乙效",
+ "event_role": "谕旨决策",
+ "summary": "吏部题汉军无职掌官员及年老闲散人员欲居住关厢者令其居住，有职掌官员及兵丁仍不许，前居关厢八品官王天荧应免议处，康熙帝命议政王、大臣会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王天荧",
+   "role": "八品官"
+  }
+ ],
+ "places": [
+  "关厢"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6911,
+ "page_range": "181-182"
+}

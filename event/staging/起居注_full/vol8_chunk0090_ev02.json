@@ -1,0 +1,33 @@
+{
+ "reign_year": 54,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补宁古塔将军员缺，康熙帝以护军统领穆森人优堪任，命其前往署理。",
+ "people": [
+  {
+   "name": "穆森",
+   "role": "护军统领，署理宁古塔将军"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9002,
+ "page_range": "191-192"
+}

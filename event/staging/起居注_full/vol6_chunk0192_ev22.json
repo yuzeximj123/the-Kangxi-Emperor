@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "二十八日丙成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论督抚之任宜用汉人，汉军费用多无益于民，并称赞张鹏翮、彭鹏居官办事。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "彭鹏",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19222,
+ "page_range": "394-395"
+}

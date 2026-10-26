@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 8,
+ "day_text": "初二日王寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕内阁学士凯音布等，徐治都标下兵丁屡战伤亡者多，令户、兵二部贤能司员会同提督、巡抚察明，即在武昌赏赐，以免穷兵受累、日后增减移迟之弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凯音布",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [
+  "武昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3628,
+ "page_range": "84-85"
+}

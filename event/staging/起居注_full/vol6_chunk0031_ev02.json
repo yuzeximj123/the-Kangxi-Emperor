@@ -1,0 +1,27 @@
+{
+ "reign_year": 37,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝讲述巡幸江浙山陕所见，指出州县私派由督抚布按科派所致，表示对贪官断不姑容。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "清廉官员"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江南",
+  "陕西",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3102,
+ "page_range": "72-73"
+}

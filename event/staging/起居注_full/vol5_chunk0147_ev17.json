@@ -1,0 +1,27 @@
+{
+ "reign_year": 35,
+ "month": 7,
+ "day_text": "初二日两辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内海宁居听政，仓场侍郎德珠、石文桂遵旨呈览河道绘图并奏便民行船情形。",
+ "people": [
+  {
+   "name": "德珠",
+   "role": "仓场侍郎"
+  },
+  {
+   "name": "石文桂",
+   "role": "仓场侍郎"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "海宁居",
+  "通州",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14717,
+ "page_range": "304-305"
+}

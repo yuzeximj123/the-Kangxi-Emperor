@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "二十四日丁酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论靳辅欲丈出余田为屯田不当，称河道坏于靳辅之手不可信，主张待继任者治河六七年后定论，并诫臣下勿怀私陷害。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "南方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2109,
+ "page_range": "54-55"
+}

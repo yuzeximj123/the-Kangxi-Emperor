@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "两广总督杨琳题浔州丁忧副将麦世位在任守制，康熙帝命麦世位在任守制。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "麦世位",
+   "role": "浔州副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浔州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22311,
+ "page_range": "457-458"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "靳辅参奏于成龙与其幕客陈潢结为兄弟、私通书札；于成龙辩称所通书札俱用官函露封，并无私处。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  },
+  {
+   "name": "陈潢",
+   "role": "靳辅幕客"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1602,
+ "page_range": "44-45"
+}

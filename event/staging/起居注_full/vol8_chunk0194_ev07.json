@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题刘顺卿殴子误伤亲兄刘德卿致死拟立斩，康熙帝命九卿、詹事、科、道会议具奏。",
+ "people": [
+  {
+   "name": "刘顺卿",
+   "role": "犯人"
+  },
+  {
+   "name": "刘德卿",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19407,
+ "page_range": "399-400"
+}

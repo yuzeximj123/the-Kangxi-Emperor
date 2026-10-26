@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "初四日己酉",
+ "event_role": "人事任免",
+ "summary": "吏部题补左都御史员缺，开列侍郎沙赖等，康熙帝以杭爱年久且有劳绩、其人亦优，命补杭爱。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙赖",
+   "role": "侍郎"
+  },
+  {
+   "name": "杭爱",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13023,
+ "page_range": "303-304"
+}

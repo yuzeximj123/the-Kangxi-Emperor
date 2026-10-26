@@ -1,0 +1,33 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝因总督殷泰病笃，调鄂海补陕西总督，湖广总督另着人补，令缮写旨意呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "殷泰",
+   "role": "总督"
+  },
+  {
+   "name": "鄂海",
+   "role": "官员"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "陕西",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1506,
+ "page_range": "41-42"
+}

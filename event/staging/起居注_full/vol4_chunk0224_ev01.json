@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "初二日丙子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝训示前往归化城等三处垦种的内大臣公坡尔盆等，强调勤耕、因地选种早熟麦类并试雪水拌种。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "坡尔盆",
+   "role": "内大臣公"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22401,
+ "page_range": "460-461"
+}

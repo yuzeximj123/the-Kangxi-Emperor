@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "二十三日壬寅",
+ "event_role": "朝见受贺",
+ "summary": "早，康熙帝以天下荡平上太皇太后、皇太后徽号，率内大臣、侍卫赴两宫进奏本行礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "受徽号"
+  },
+  {
+   "name": "皇太后",
+   "role": "受徽号"
+  }
+ ],
+ "places": [
+  "两宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10111,
+ "page_range": "245-246"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初八日己丑",
+ "event_role": "皇帝行止",
+ "summary": "辰时康熙御乾清宫，亲讲《易经》六四樽酒等节，讲官库勒纳、叶方蔼、孙在丰进讲九五、上六等节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5919,
+ "page_range": "161-162"
+}

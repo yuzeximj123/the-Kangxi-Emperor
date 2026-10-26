@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "二十六日",
+ "event_role": "司法案件",
+ "summary": "户部等审毛来凤控告李淑德一案，康熙以毛来凤好兴词讼狂妄，令集正蓝旗都统等问讯具奏。",
+ "people": [
+  {
+   "name": "毛来凤",
+   "role": "原任山西太原总兵官"
+  },
+  {
+   "name": "李淑德",
+   "role": "正蓝旗汉军参领"
+  },
+  {
+   "name": "李正宗",
+   "role": "原任都统"
+  },
+  {
+   "name": "杨代雅图",
+   "role": "都统"
+  },
+  {
+   "name": "陶和气",
+   "role": "步军统领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18614,
+ "page_range": "383-384"
+}

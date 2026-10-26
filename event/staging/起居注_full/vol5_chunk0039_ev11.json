@@ -1,0 +1,21 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "十四日己卯",
+ "event_role": "皇帝行止",
+ "summary": "午时，康熙帝由东直门进神武门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东直门",
+  "神武门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3911,
+ "page_range": "88-89"
+}

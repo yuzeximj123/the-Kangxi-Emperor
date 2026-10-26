@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十八日己未",
+ "event_role": "其他",
+ "summary": "康熙帝升教场箭亭赐宴陕西官兵，蒙古诸王贝勒公台吉等与宴，遍赐官兵食并亲赐将军、巡抚、副都统、提督、总兵等酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博济",
+   "role": "西安将军"
+  },
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "教场箭亭",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8116,
+ "page_range": "173-174"
+}

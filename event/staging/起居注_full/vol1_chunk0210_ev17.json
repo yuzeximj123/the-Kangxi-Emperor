@@ -1,0 +1,30 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "初六日丁卯",
+ "event_role": "司法案件",
+ "summary": "李添玉纠伙杀人案，康熙帝以惨杀多命可恶，命将为首之人照杀死一家非死罪三人律坐罪，票明下部再议。",
+ "people": [
+  {
+   "name": "李添玉",
+   "role": "案犯"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21017,
+ "page_range": "477-478"
+}

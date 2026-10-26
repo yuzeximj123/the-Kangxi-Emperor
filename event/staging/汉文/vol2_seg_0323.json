@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾玖年伍月贰拾柒日",
+ "reign_year": 59,
+ "month": 5,
+ "day": 27,
+ "event_role": "奏报地方情形",
+ "summary": "臣奏报地方得雨、田禾无碍及时和年丰情形，并报已照发来式样督造钢五百斤遣家人刘士杰进呈，请敕下察收。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广总督巡抚，兵部右侍郎兼都察院右副都御史，奏报人"
+  },
+  {
+   "name": "刘士杰",
+   "role": "杨琳家人，负责押送钢斤进京"
+  }
+ ],
+ "places": [
+  "广东",
+  "广"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "皇上表示自己安好，并称广东海贼之事时刻在心。",
+ "source_title": "（前折延续）",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "901",
+ "order_index": 323
+}

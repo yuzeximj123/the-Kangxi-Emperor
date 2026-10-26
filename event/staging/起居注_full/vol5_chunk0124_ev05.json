@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "亲近侍卫关保传谕议政大臣，询问喀喇沁王扎西、公沙木巴喇锡步兵或留或否，议政大臣会议后奏明二人所留步兵数目。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "扎西",
+   "role": "喀喇沁王"
+  },
+  {
+   "name": "沙木巴喇锡",
+   "role": "公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12405,
+ "page_range": "258-259"
+}

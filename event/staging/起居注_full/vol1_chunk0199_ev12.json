@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "二十日辛已",
+ "event_role": "谕旨决策",
+ "summary": "幕天颜条奏江西丁逃地荒应招集丁户渐次征粮，九卿议不准行，康熙以江西连遭灾患，令九卿再议酌量除免。",
+ "people": [
+  {
+   "name": "幕天颜",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19912,
+ "page_range": "455-456"
+}

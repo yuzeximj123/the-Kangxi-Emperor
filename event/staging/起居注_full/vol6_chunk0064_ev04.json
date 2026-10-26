@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十五日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就户部议华阴等县捐助银米限年内完结事，指为虚语，令问户部堂官具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "华阴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6404,
+ "page_range": "138-139"
+}

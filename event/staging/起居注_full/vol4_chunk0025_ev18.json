@@ -1,0 +1,33 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "十一日癸丑",
+ "event_role": "人事任免",
+ "summary": "吏部题直隶巡道胡献币员缺，康熙帝以其紧要，着问巡抚于成龙举出具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡献币",
+   "role": "直隶巡道"
+  },
+  {
+   "name": "丹达礼",
+   "role": "福建兴泉道"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "福建兴泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2518,
+ "page_range": "62-63"
+}

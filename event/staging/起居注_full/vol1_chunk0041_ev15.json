@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 4,
+ "day_text": "十三日王子",
+ "event_role": "其他",
+ "summary": "康熙帝御弘德殿，讲官傅达礼、熊赐履、孙在丰进讲《论语》一章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "讲官"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4115,
+ "page_range": "139-140"
+}

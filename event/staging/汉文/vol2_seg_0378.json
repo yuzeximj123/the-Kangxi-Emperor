@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十七年七月二十五日",
+ "reign_year": 47,
+ "month": 7,
+ "day": 25,
+ "event_role": "人事任免",
+ "summary": "四川提督岳升龙上奏保举参将李元洙升补夔州副将。",
+ "people": [
+  {
+   "name": "岳升龙",
+   "role": "四川提督，保举人"
+  },
+  {
+   "name": "李元洙",
+   "role": "参将，被保举升补夔州副将"
+  }
+ ],
+ "places": [
+  "四川",
+  "夔州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "四川提督岳升龙奏为保举参将李元洙升补夔州副将摺｜康熙四十七年七月二十五日",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 378
+}

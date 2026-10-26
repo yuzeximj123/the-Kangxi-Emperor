@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "十三日已已",
+ "event_role": "人事任免",
+ "summary": "兵部题五品官朱集义私往汲州议革职，康熙帝令从宽免革职，降二级发往宁古塔效力，遇缺补用。",
+ "people": [
+  {
+   "name": "朱集义",
+   "role": "五品官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汲州",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12117,
+ "page_range": "277-278"
+}

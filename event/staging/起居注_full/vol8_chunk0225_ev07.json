@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "三十日庚辰",
+ "event_role": "皇帝行止",
+ "summary": "皇太后违和，康熙帝昼夜焦劳致圣体不安，仍勉强至宁寿宫问安；诸王大臣请往汤泉调治，康熙帝不允。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "宁寿宫",
+  "汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22507,
+ "page_range": "461-462"
+}

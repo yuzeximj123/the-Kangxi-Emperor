@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十四年七月日",
+ "reign_year": 54,
+ "month": 7,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "浙江巡抚觉罗满保上奏向康熙皇帝请安，询问圣躬安康。",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "浙江巡抚、提督军务、兵部右侍郎兼都察院右副都御史、总督"
+  },
+  {
+   "name": "沈【?】",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "福建"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙自述立夏以来因天旱内心不安、身体清减，年老易烦闷心跳失眠，需到口外水土好处调养。",
+ "source_title": "浙江巡抚觉罗满保奏请圣安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "413",
+ "order_index": 146
+}

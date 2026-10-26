@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "户部题请更换宝泉局监督，开列郎中王图炜、员外郎罗复晋等职名，康熙命交与赵申乔举出。",
+ "people": [
+  {
+   "name": "王图炜",
+   "role": "郎中"
+  },
+  {
+   "name": "罗复晋",
+   "role": "员外郎"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "宝泉局"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13300,
+ "page_range": "277-278"
+}

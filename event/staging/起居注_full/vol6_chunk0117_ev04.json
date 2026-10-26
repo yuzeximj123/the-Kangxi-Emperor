@@ -1,0 +1,22 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "初十日甲成",
+ "event_role": "皇帝行止",
+ "summary": "康熙早出神武门、阜成门，巡视永定河堤至高陵地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神武门",
+  "阜成门",
+  "高陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11704,
+ "page_range": "244-245"
+}

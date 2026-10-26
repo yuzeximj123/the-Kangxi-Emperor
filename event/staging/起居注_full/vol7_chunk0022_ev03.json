@@ -1,0 +1,38 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙认为吏部议处太苛，大臣受一围屏不可轻拟革职，并引孙岳颁、彭鹏、李光地、赵申乔等为例。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "李振裕",
+   "role": "尚书"
+  },
+  {
+   "name": "孙岳颁",
+   "role": "官员"
+  },
+  {
+   "name": "彭鹏",
+   "role": "巡抚"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "赵申乔",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2203,
+ "page_range": "55-56"
+}

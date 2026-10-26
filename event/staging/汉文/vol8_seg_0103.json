@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙伍拾柒年捌月初壹日",
+ "reign_year": 57,
+ "month": 8,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹頫向康熙请安，并奏报江南早稻丰收、米价平稳、百姓安乐，同时呈送七月晴雨录。",
+ "people": [
+  {
+   "name": "曹頫",
+   "role": "江宁织造，奏报人"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“朕安”，表示自己安好。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 103
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": "十九日生辰",
+ "event_role": "起居注官记录",
+ "summary": "扈从起居注官揆叙、常得、阿尔赛记录。",
+ "people": [
+  {
+   "name": "揆叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "常得",
+   "role": "起居注官"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4714,
+ "page_range": "105-106"
+}

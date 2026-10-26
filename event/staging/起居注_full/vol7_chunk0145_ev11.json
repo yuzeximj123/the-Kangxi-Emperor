@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "十六日庚子",
+ "event_role": "司法案件",
+ "summary": "李贵新因五十九出逃复回不服，以棍击之致死，康熙帝命从宽免死照例减等发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李贵新",
+   "role": "案犯"
+  },
+  {
+   "name": "五十九",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14511,
+ "page_range": "301-302"
+}

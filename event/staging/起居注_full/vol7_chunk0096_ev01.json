@@ -1,0 +1,33 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部拟原任遵化营千总朱之桂立斩、三屯营游击赵坤及副将段腾龙降二级调用，康熙从宽免朱之桂死减等发落，段腾龙、赵坤免治罪。",
+ "people": [
+  {
+   "name": "朱之桂",
+   "role": "原任遵化营千总"
+  },
+  {
+   "name": "赵坤",
+   "role": "三屯营游击"
+  },
+  {
+   "name": "段腾龙",
+   "role": "三屯营副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "遵化",
+  "三屯营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9601,
+ "page_range": "203-204"
+}

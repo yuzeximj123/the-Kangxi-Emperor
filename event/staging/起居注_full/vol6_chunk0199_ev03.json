@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "十一日戊辰",
+ "event_role": "人事任免",
+ "summary": "吏部题原任淮扬道薛晋因家人勒索民银离任质审无关涉议复原职，康熙帝令行文问总漕桑格、总河张鹏翮具奏其居官如何。",
+ "people": [
+  {
+   "name": "薛晋",
+   "role": "原任淮扬道"
+  },
+  {
+   "name": "桑格",
+   "role": "总漕"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "淮扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19903,
+ "page_range": "408-409"
+}

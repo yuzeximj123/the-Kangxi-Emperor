@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十七日己卯",
+ "event_role": "朝见受贺",
+ "summary": "通州副将金弘振、采育防守尉常寿、旧州营都司吴道辅等前来朝见。",
+ "people": [
+  {
+   "name": "金弘振",
+   "role": "通州副将"
+  },
+  {
+   "name": "常寿",
+   "role": "采育防守尉"
+  },
+  {
+   "name": "吴道辅",
+   "role": "旧州营都司"
+  }
+ ],
+ "places": [
+  "通州",
+  "采育",
+  "旧州营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 817,
+ "page_range": "27-28"
+}

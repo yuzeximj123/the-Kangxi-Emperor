@@ -1,0 +1,30 @@
+{
+ "reign_year": 53,
+ "month": 4,
+ "day_text": "初四日乙雍",
+ "event_role": "谕旨决策",
+ "summary": "户部尚书赵申乔条奏香山副将移驻前山寨，康熙帝称香山澳地方留心已久，移驻城外无益烦琐，命发回。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  },
+  {
+   "name": "彭继勋",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "香山",
+  "前山寨",
+  "香山澳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5813,
+ "page_range": "127-128"
+}

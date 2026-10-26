@@ -1,0 +1,29 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": "初九日己巳",
+ "event_role": "人事任免",
+ "summary": "兵部题授宁夏将军，康熙帝以右卫护军统领舒书人材壮健、屡次效力行间，命授宁夏将军。",
+ "people": [
+  {
+   "name": "舒书",
+   "role": "右卫护军统领"
+  },
+  {
+   "name": "马思哈",
+   "role": "镶黄旗副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7216,
+ "page_range": "154-155"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十六日辛已",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御泳台门，讲官牛钮、孙在丰、归人允肃进讲阳卦多阴一章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归人允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "泳台门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2715,
+ "page_range": "89-90"
+}

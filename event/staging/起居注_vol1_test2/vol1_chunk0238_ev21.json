@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初二日庚寅",
+ "event_role": "人事任免",
+ "summary": "吏部议殉难广东巡抚马雄镇加赠兵部尚书衔，康熙帝以其坚守臣节始终不变，议叙尚轻，令再议具奏。",
+ "people": [
+  {
+   "name": "马雄镇",
+   "role": "殉难广东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23821,
+ "page_range": "533-534"
+}

@@ -1,0 +1,31 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初四日于子",
+ "event_role": "人事任免",
+ "summary": "湖广总督林本直题参九溪副将张陈武妄称荐举卓异、谎称送礼求荐，康熙命将张陈武调补山东文登营副将。",
+ "people": [
+  {
+   "name": "林本直",
+   "role": "湖广总督"
+  },
+  {
+   "name": "张陈武",
+   "role": "九溪副将"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "九溪",
+  "山东",
+  "文登营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2812,
+ "page_range": "67-68"
+}

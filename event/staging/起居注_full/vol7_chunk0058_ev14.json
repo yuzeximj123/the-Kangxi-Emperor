@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "二十三日戊成",
+ "event_role": "人事任免",
+ "summary": "总督桑格题标下中军副将等缺，请以参将李胜等补授，康熙帝照所题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "总督"
+  },
+  {
+   "name": "李胜",
+   "role": "参将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5814,
+ "page_range": "127-128"
+}

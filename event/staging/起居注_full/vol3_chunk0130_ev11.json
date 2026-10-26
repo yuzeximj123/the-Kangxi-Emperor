@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "初七日癸巳",
+ "event_role": "军务",
+ "summary": "兵部议往黑龙江墨尔根地方料理官兵船只，康熙帝命户、兵二部遣贤能司官同将军萨布苏会议具奏。",
+ "people": [
+  {
+   "name": "萨布苏",
+   "role": "将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江墨尔根"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13011,
+ "page_range": "295-296"
+}

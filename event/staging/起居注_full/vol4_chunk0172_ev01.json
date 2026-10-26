@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙问及降雪对麦田的影响，郭世隆奏报今年秋麦种植甚广，民间称此雪有益秋麦，明春无雨亦不足忧。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17201,
+ "page_range": "356-357"
+}

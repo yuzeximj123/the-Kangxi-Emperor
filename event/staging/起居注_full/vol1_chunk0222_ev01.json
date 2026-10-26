@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题柳魏成业家盗案，议免步军总尉朱三等处分，康熙帝命仍照定例议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "希福",
+   "role": "学士"
+  },
+  {
+   "name": "朱三",
+   "role": "步军总尉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22201,
+ "page_range": "501-502"
+}

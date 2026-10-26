@@ -1,0 +1,25 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "陕西巡抚噶什图跪进奏折，附陈今年地方雨泽情形，并提及甘肃地方事务。",
+ "people": [
+  {
+   "name": "噶什图",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "甘肃"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "陕西巡抚噶什图奏报雨泽",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 268
+}

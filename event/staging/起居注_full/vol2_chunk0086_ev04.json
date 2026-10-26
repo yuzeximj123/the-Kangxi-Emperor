@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "礼部题戈继纠参邵泰种事，勒德洪等议将本发还焚毁，康熙是之。",
+ "people": [
+  {
+   "name": "戈继",
+   "role": "礼部官员"
+  },
+  {
+   "name": "邵泰种",
+   "role": "被参官员"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8604,
+ "page_range": "215-216"
+}

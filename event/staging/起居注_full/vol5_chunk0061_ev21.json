@@ -1,0 +1,20 @@
+{
+ "reign_year": 34,
+ "month": 3,
+ "day_text": "二十一日壬午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝移驻畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6121,
+ "page_range": "132-133"
+}

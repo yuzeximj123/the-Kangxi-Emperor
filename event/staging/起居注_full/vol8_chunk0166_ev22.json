@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "二十九日乙本",
+ "event_role": "人事任免",
+ "summary": "吏部题河南巡抚李锡员缺，以学士顾悦履等职名开列请旨，帝令将九卿先前举出人员查奏。",
+ "people": [
+  {
+   "name": "李锡",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "顾悦履",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16622,
+ "page_range": "343-344"
+}

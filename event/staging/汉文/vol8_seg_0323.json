@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙六十年六月初九日",
+ "reign_year": 60,
+ "month": 6,
+ "day": 9,
+ "event_role": "奏报地方情形",
+ "summary": "川陕总督年羹尧奏报自热河陛辞回京后，与朱轼、卢询面商山西、陕西两省散赈事宜，并遵旨驰驿前往办理，请求准予便宜行事。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川陕西总督加三级纪录三次，奏报人"
+  },
+  {
+   "name": "朱轼",
+   "role": "左都御史"
+  },
+  {
+   "name": "卢询",
+   "role": "光禄寺卿"
+  }
+ ],
+ "places": [
+  "热河",
+  "京",
+  "山西",
+  "陕西"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "川陝總督年羹堯奏報在陝未見維揚一帶",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2931",
+ "order_index": 323
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 17,
+ "month": 10,
+ "day_text": "二十日",
+ "event_role": "其他",
+ "summary": "内大臣塔达、吴穆纳等遵旨赐兰泗等表里织匹有差，并赐兵丁茶。",
+ "people": [
+  {
+   "name": "塔达",
+   "role": "内大臣"
+  },
+  {
+   "name": "吴穆纳",
+   "role": "内大臣"
+  },
+  {
+   "name": "兰泗",
+   "role": "三屯营副将"
+  }
+ ],
+ "places": [
+  "三屯营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17122,
+ "page_range": "399-400"
+}

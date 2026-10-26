@@ -1,0 +1,20 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "是日康熙帝居于殡宫之侧。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "殡宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 503,
+ "page_range": "22-23"
+}

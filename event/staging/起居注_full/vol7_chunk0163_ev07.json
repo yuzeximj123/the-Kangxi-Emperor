@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "江南提督师懿德题请将为盗案降一级调用之江阴营守备侯永吉带所降三级留任，康熙照所请。",
+ "people": [
+  {
+   "name": "师懿德",
+   "role": "江南提督"
+  },
+  {
+   "name": "侯永吉",
+   "role": "江阴营守备"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江阴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16307,
+ "page_range": "337-338"
+}

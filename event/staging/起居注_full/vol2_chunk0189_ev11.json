@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "十九日辛卯",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗蒙古都统员缺，康熙帝询问显亲王意见后命色格补授蒙古都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "显亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "班达尔善",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "博济",
+   "role": "长史"
+  },
+  {
+   "name": "蟒吉禄",
+   "role": "副都统"
+  },
+  {
+   "name": "色格",
+   "role": "补授蒙古都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18911,
+ "page_range": "421-422"
+}

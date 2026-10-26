@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十二日甲子",
+ "event_role": "司法案件",
+ "summary": "议原任经略莫洛、郎中宜成格等被害应议叙，总兵伍什三降王辅臣应处绞，康熙帝命依议议叙莫洛，伍什三改拟立斩再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "莫洛",
+   "role": "原任经略"
+  },
+  {
+   "name": "宜成格",
+   "role": "郎中"
+  },
+  {
+   "name": "伍什三",
+   "role": "原任总兵官"
+  },
+  {
+   "name": "王辅臣",
+   "role": "叛将"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18008,
+ "page_range": "403-404"
+}

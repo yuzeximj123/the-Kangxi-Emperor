@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": "十三日甲子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸阿纳达岭口，赏赐大臣、官兵、蒙古王台吉鹿，并赐科尔沁辅国公布尼、乌尔图纳苏免马各一匹及随围蒙古银币。",
+ "people": [
+  {
+   "name": "布尼",
+   "role": "科尔沁辅国公"
+  },
+  {
+   "name": "乌尔图纳苏免",
+   "role": "受赐者"
+  }
+ ],
+ "places": [
+  "阿纳达岭口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20809,
+ "page_range": "427-428"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初六日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部题盛京礼部鸣赞张巴员缺，拟七十八正、吴达禅陪，康熙帝用七十八，以吴达禅举止轻傲解任。",
+ "people": [
+  {
+   "name": "张巴",
+   "role": "盛京礼部鸣赞"
+  },
+  {
+   "name": "七十八",
+   "role": "盛京户部笔帖式"
+  },
+  {
+   "name": "吴达禅",
+   "role": "拟陪人员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8811,
+ "page_range": "186-187"
+}

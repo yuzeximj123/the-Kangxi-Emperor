@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "二十三日壬申",
+ "event_role": "朝见受贺",
+ "summary": "防守喜峰口防御萨克刹、喜峰口游击林旺、喜峰口八品笔帖式倭什屯等来朝。",
+ "people": [
+  {
+   "name": "萨克刹",
+   "role": "防守喜峰口防御"
+  },
+  {
+   "name": "林旺",
+   "role": "喜峰口游击"
+  },
+  {
+   "name": "倭什屯",
+   "role": "喜峰口八品笔帖式"
+  }
+ ],
+ "places": [
+  "喜峰口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9216,
+ "page_range": "227-228"
+}

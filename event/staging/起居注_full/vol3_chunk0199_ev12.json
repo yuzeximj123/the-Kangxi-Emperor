@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "十七日丁酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥徐旭龄回奏巧饰诈称，命严加察议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "官员"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19912,
+ "page_range": "433-434"
+}

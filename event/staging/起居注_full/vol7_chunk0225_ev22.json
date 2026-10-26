@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "初七日戊子",
+ "event_role": "司法案件",
+ "summary": "刑部汇题海塔挑伊七岁幼弟二达子脚筋拟枷号鞭责，康熙帝命枷责后发往白都纳当差。",
+ "people": [
+  {
+   "name": "海塔",
+   "role": "罪犯"
+  },
+  {
+   "name": "二达子",
+   "role": "受害者"
+  }
+ ],
+ "places": [
+  "白都纳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22522,
+ "page_range": "461-462"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "二十四日庚寅",
+ "event_role": "司法案件",
+ "summary": "三法司题打死高文造意之王孝已死应准抵偿、王二坡拟减等流徙，康熙帝谓似应照部议，明珠述汉大学士之意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王孝",
+   "role": "造意者"
+  },
+  {
+   "name": "王二坡",
+   "role": "拟减等流徙者"
+  },
+  {
+   "name": "高文",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1519,
+ "page_range": "65-66"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "初五日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命奏事主事存住、蓝翎常寿传谕大学士马齐，宣府等处驿站笔帖式设站年久可悯，尽行撤回，有事令站人驰奏。",
+ "people": [
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  },
+  {
+   "name": "常寿",
+   "role": "蓝翎"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宣府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20416,
+ "page_range": "418-419"
+}

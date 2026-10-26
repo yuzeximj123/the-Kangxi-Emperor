@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问汤斌高成美为人，汤斌称其有才，康熙论居官有才须操守谨慎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  },
+  {
+   "name": "高成美",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16200,
+ "page_range": "359-360"
+}

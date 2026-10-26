@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就热河王家营安站事指出部议未明车辆捐助之处，命动用正项钱粮或馆所马匹，不足则添上驷院马匹，或派富户修完给与，交此处大臣会同议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "热河",
+  "王家营",
+  "喀喇城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17300,
+ "page_range": "357-358"
+}

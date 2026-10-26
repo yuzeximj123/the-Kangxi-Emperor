@@ -1,0 +1,21 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "二十日匡已",
+ "event_role": "谕旨决策",
+ "summary": "题苏、松等府州县员缺请令九卿保举注册补用，九卿会议不准，康熙帝从九卿议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "苏",
+  "松"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16412,
+ "page_range": "371-372"
+}

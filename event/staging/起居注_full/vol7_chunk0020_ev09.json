@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初三日闫未",
+ "event_role": "司法案件",
+ "summary": "刑部题邬三等偷刨人参拟秋后绞，康熙帝命宽免死，照例减等发落。",
+ "people": [
+  {
+   "name": "邬三",
+   "role": "案犯"
+  },
+  {
+   "name": "田进善",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2009,
+ "page_range": "51-52"
+}

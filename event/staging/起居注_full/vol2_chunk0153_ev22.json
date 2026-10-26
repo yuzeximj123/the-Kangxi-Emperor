@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "二十日癸巳",
+ "event_role": "朝见受贺",
+ "summary": "获州知州王彦窒、都司茹黑等来朝。",
+ "people": [
+  {
+   "name": "王彦窒",
+   "role": "获州知州"
+  },
+  {
+   "name": "茹黑",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "获州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15322,
+ "page_range": "349-350"
+}

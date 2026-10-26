@@ -1,0 +1,21 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "本月十三日",
+ "event_role": "议政听政",
+ "summary": "议政大臣议覆宁夏、兰州设兵驻防无益，应停止驻防，所占营房取原价还官、房归原主，奉旨依议。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近一等侍卫"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "兰州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21805,
+ "page_range": "446-447"
+}

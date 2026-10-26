@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "二十一日己酉",
+ "event_role": "司法案件",
+ "summary": "户部议原任四品官顾禄控告弟妻及养子金保住等糜费家产一案情虚，因顾禄病故请存案完结，康熙帝照部议完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "顾禄",
+   "role": "原任四品官"
+  },
+  {
+   "name": "塞楼",
+   "role": "顾禄之弟"
+  },
+  {
+   "name": "金保住",
+   "role": "养子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17016,
+ "page_range": "351-352"
+}

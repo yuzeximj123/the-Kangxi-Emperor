@@ -1,0 +1,25 @@
+{
+ "reign_year": 11,
+ "month": 10,
+ "day_text": "初七日戊申",
+ "event_role": "皇帝行止",
+ "summary": "驻跸平家潭，顺义县文武各官来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "顺义县文武各官",
+   "role": "地方官员"
+  }
+ ],
+ "places": [
+  "平家潭",
+  "顺义县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2514,
+ "page_range": "107-108"
+}

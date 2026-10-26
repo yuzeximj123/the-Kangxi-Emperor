@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "十七日乙亥",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝谓礼部尚书席尔达等，因旱祈雨未足，命自十八日起斋戒三日再行祈请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10010,
+ "page_range": "211-212"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝前往刘太皇太后、皇太后宫中问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20800,
+ "page_range": "459-460"
+}

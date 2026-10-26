@@ -1,0 +1,33 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚赵弘燮奏报顺天等府二麦收成分数，并请对歉收的顺德、广平、大名三府加意抚绥、招徕流民。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏报人"
+  }
+ ],
+ "places": [
+  "京师",
+  "顺天府",
+  "永平府",
+  "保定府",
+  "河间府",
+  "真定府",
+  "顺德府",
+  "广平府",
+  "大名府",
+  "宣化府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批指出去年收成颇好，今年秋成尚不可定，叮嘱着实办理。",
+ "source_title": "直隶巡抚赵弘燮奏报得雨分寸日期折",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 80
+}

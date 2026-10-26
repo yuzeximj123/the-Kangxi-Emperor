@@ -1,0 +1,25 @@
+{
+ "reign_year": 11,
+ "month": 3,
+ "day_text": "二十九日乙雍",
+ "event_role": "起居注官记录",
+ "summary": "起居注官总结此行：凡过岭、进膳、登辇、降辇，皇上备极敬慎，一路往还略无倦容；在赤城时每间二日必遣近侍至京问皇太后安，赞其天性纯孝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "赤城",
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1119,
+ "page_range": "79-80"
+}

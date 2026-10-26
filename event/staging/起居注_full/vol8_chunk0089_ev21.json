@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 3,
+ "day_text": "初四日庚子",
+ "event_role": "人事任免",
+ "summary": "吏部题江西学道费霖、福建学道张为经以平常具题应照例以佥事道用，康熙帝命查奏发往河工效力之例，并问九卿二人为学道何如。",
+ "people": [
+  {
+   "name": "费霖",
+   "role": "江西学道"
+  },
+  {
+   "name": "张为经",
+   "role": "福建学道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8921,
+ "page_range": "189-190"
+}

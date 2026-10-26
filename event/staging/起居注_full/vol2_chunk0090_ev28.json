@@ -1,0 +1,44 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十二日辛西",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御保和殿，赐进贡厄鲁特、土默特、吴喇忒等部落来使及台吉等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尼尔克格龙",
+   "role": "来使"
+  },
+  {
+   "name": "察汉温布",
+   "role": "来使"
+  },
+  {
+   "name": "巴颜白克",
+   "role": "来使"
+  },
+  {
+   "name": "厄尔克多托诺",
+   "role": "来使"
+  },
+  {
+   "name": "素朱克兔",
+   "role": "三品塔布囊"
+  },
+  {
+   "name": "末伦贷",
+   "role": "四品台吉"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9028,
+ "page_range": "223-224"
+}

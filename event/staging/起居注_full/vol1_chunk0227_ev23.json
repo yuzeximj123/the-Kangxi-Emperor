@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十四日癸卯",
+ "event_role": "军务",
+ "summary": "福建总督姚启圣攻取海贼十八寨事，康熙认为本止票知道了太轻，索额图奏进剿事宜系提督万正色首先题请。",
+ "people": [
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "万正色",
+   "role": "提督"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22723,
+ "page_range": "511-512"
+}

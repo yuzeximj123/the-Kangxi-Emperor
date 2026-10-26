@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": "十六日成辰",
+ "event_role": "议政听政",
+ "summary": "马齐奏称太宗用兵神奇，并言康熙帝驻汤泉时传谕速移出树林避雷，众人惊异。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太宗皇帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20113,
+ "page_range": "413-414"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 2,
+ "day_text": "十七日壬午",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御弘德殿，讲官喇沙里、张玉书进讲《尚书》王人求多闻等三节，帝亲讲毕，讲官照常进讲。",
+ "people": [
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17717,
+ "page_range": "411-412"
+}

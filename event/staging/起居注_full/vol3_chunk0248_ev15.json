@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 10,
+ "day_text": "初十日乙卯",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝驻跸雄县十里铺，雄县防守尉戴音达里、署雄县知县事县丞张权忍、把总陈志鹿来朝。",
+ "people": [
+  {
+   "name": "戴音达里",
+   "role": "雄县防守尉"
+  },
+  {
+   "name": "张权忍",
+   "role": "署雄县知县事县丞"
+  },
+  {
+   "name": "陈志鹿",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "雄县十里铺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24815,
+ "page_range": "531-532"
+}

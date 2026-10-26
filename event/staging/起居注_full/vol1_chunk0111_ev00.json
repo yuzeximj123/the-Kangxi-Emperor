@@ -1,0 +1,32 @@
+{
+ "reign_year": 15,
+ "month": 3,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝御保和殿，赐进贡达赖喇嘛来使卓当看布、沙布中圳苏及提鲁特部落来使阿尔达尔筋桑、额尔克下等食。",
+ "people": [
+  {
+   "name": "卓当看布",
+   "role": "达赖喇嘛来使"
+  },
+  {
+   "name": "沙布中圳苏",
+   "role": "达赖喇嘛来使"
+  },
+  {
+   "name": "阿尔达尔筋桑",
+   "role": "提鲁特部落来使"
+  },
+  {
+   "name": "额尔克下",
+   "role": "提鲁特部落来使"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11100,
+ "page_range": "279-280"
+}

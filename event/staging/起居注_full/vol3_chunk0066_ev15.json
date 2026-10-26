@@ -1,0 +1,33 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十八日己未",
+ "event_role": "司法案件",
+ "summary": "宗人府闲散宗室颜代告兄厄起等隐匿房田，康熙帝令依议完结，参领查哈达徇庇革职发乌喇、宁古塔等处用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "颜代",
+   "role": "闲散宗室"
+  },
+  {
+   "name": "厄起",
+   "role": "颜代之兄"
+  },
+  {
+   "name": "查哈达",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "乌喇",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6615,
+ "page_range": "167-168"
+}

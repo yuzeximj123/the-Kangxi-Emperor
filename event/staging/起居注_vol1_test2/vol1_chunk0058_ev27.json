@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 11,
+ "day_text": "初二日",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝复御乾清门，赐科尔沁、翁牛忒、克什克屯部落台吉等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索尼对",
+   "role": "科尔沁国一品台吉"
+  },
+  {
+   "name": "班第",
+   "role": "翁牛忒部落三品台吉"
+  },
+  {
+   "name": "阿育什",
+   "role": "克什克屯部落一品台吉"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5827,
+ "page_range": "173-174"
+}

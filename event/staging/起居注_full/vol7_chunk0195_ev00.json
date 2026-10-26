@@ -1,0 +1,21 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初五日庚寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝前往海泊为德行宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "海泊",
+  "德行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19500,
+ "page_range": "401-402"
+}

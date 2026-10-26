@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "兵部题请再议叙湖滩河朔等三路设站人员，康熙认为自备马匹情愿前往者议叙尚轻，部议仅加级未当。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔图",
+   "role": "废官"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖滩河朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2700,
+ "page_range": "64-65"
+}

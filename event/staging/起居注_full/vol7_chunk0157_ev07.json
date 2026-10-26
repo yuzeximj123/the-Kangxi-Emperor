@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "大学士温达奏称凡遵皇上指授行事无不尽善，康熙帝因论黄河水性善移及古时黄水由天津入海、后渐移南方等情。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄河",
+  "天津",
+  "德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15707,
+ "page_range": "325-326"
+}

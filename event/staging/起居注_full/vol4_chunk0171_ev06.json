@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "十三日癸亥",
+ "event_role": "人事任免",
+ "summary": "吏部题总督仓场户部侍郎员缺，康熙帝命伊图升补总督仓场户部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊图",
+   "role": "总督仓场户部侍郎"
+  },
+  {
+   "name": "凯音布",
+   "role": "原总督仓场户部侍郎"
+  },
+  {
+   "name": "西安",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17106,
+ "page_range": "354-355"
+}

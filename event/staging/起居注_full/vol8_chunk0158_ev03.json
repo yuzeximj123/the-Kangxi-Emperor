@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等题打死张四之王二、打死刘起栋之雷大、打死刘汉如之刘顺均拟绞监候秋后处决，康熙帝令问赵申乔等另写两议具奏。",
+ "people": [
+  {
+   "name": "王二",
+   "role": "绞犯"
+  },
+  {
+   "name": "雷大",
+   "role": "绞犯"
+  },
+  {
+   "name": "刘顺",
+   "role": "绞犯"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15803,
+ "page_range": "327-328"
+}

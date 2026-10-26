@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十一日甲申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝以定远平寇大将军贝子章泰、征南大将军都统赖塔自云南凯旋，率在京诸王大臣等出郊迎劳，越卢沟桥驻跸西南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章泰",
+   "role": "定远平寇大将军贝子"
+  },
+  {
+   "name": "赖塔",
+   "role": "征南大将军都统"
+  }
+ ],
+ "places": [
+  "卢沟桥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15110,
+ "page_range": "345-346"
+}

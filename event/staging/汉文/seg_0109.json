@@ -1,0 +1,66 @@
+{
+ "date_raw": "康熙四十四年",
+ "reign_year": 44,
+ "month": null,
+ "day": null,
+ "event_role": "弹劾参奏",
+ "summary": "王鸿绪密奏河臣张鹏翮请捐补河员欠帑一事，指其暗脱张弼等摊赔并揭山东捏增养民数目。",
+ "people": [
+  {
+   "name": "王鸿绪",
+   "role": "奏报人"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "涉及人物"
+  },
+  {
+   "name": "董安国",
+   "role": "涉及人物"
+  },
+  {
+   "name": "于成龙",
+   "role": "涉及人物"
+  },
+  {
+   "name": "常维桢",
+   "role": "涉及人物"
+  },
+  {
+   "name": "终世禄",
+   "role": "涉及人物"
+  },
+  {
+   "name": "阿山",
+   "role": "涉及人物"
+  },
+  {
+   "name": "张弼",
+   "role": "涉及人物"
+  },
+  {
+   "name": "王谦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "佟世禄",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "陕西",
+  "山东",
+  "高堰"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙仅批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "147",
+ "source_title": "工部尚书王鸿绪奏报会审陈汝弼匿卷犯赃案情形折",
+ "order_index": 109
+}

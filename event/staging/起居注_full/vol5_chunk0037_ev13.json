@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "十七日于子",
+ "event_role": "谕旨决策",
+ "summary": "提督孙思克请给外藩蒙古进贡牲口项合，康熙帝准行，并命给提督李林隆、总兵官王化行勘合。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "提督"
+  },
+  {
+   "name": "李林隆",
+   "role": "提督"
+  },
+  {
+   "name": "王化行",
+   "role": "总兵官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3713,
+ "page_range": "84-85"
+}

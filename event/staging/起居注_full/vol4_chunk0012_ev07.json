@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "二十七日庚午",
+ "event_role": "弹劾参奏",
+ "summary": "总河靳辅题参总漕莫天颜等，康熙帝论是非并令九卿一并察议。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "莫天颜",
+   "role": "总漕"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1207,
+ "page_range": "36-37"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 16,
+ "month": 5,
+ "day_text": "二十九日甲辰",
+ "event_role": "请安谢恩",
+ "summary": "喇沙里等奏称皇上圣学日新，臣等苟有所见尽心敷陈；康熙帝诣太皇太后宫问安。",
+ "people": [
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13822,
+ "page_range": "333-334"
+}

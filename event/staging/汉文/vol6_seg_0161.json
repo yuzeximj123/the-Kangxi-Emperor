@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十四年九月二十日",
+ "reign_year": 54,
+ "month": 9,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "直隶总督赵弘燮奏谢康熙帝赐御纂《周易折中》及鹿肉等物，并谢遣医治病之恩。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督、兵部右侍郎兼都察院右副都御史"
+  },
+  {
+   "name": "章文鐄",
+   "role": "原任江南常州府知府、春秋馆修书人员，奉命驰驿赴赵弘燮署用药"
+  }
+ ],
+ "places": [
+  "直隶",
+  "江南常州府",
+  "保定"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸總督趙弘燮奏謝御賜書食物摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1893",
+ "order_index": 161
+}

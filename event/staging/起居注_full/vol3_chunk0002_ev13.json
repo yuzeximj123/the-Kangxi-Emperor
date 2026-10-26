@@ -1,0 +1,38 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "二十六日壬辰",
+ "event_role": "人事任免",
+ "summary": "议政王等会推正红旗护军统领纪尔塔布升任员缺，康熙帝询问后命胡巴补授护军统领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "胡巴",
+   "role": "副都统"
+  },
+  {
+   "name": "渣喇克图",
+   "role": "拟陪副都统"
+  },
+  {
+   "name": "纪尔塔布",
+   "role": "正红旗护军统领"
+  },
+  {
+   "name": "康亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 213,
+ "page_range": "39-40"
+}

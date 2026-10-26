@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "申时，康熙帝仍还玉泉山。本日起居注官沈莽、朱马泰记录。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈莽",
+   "role": "起居注官"
+  },
+  {
+   "name": "朱马泰",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "玉泉山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13805,
+ "page_range": "319-320"
+}

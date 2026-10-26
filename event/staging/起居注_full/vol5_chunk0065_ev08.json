@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "初四日乙丑",
+ "event_role": "人事任免",
+ "summary": "吏部题盛京礼部员外郎舒穆图员缺，拟顾泰为正、常子保为陪，康熙帝以常子保人材不及令革职，此缺另行选择具奏。",
+ "people": [
+  {
+   "name": "舒穆图",
+   "role": "盛京礼部员外郎"
+  },
+  {
+   "name": "顾泰",
+   "role": "工部主事"
+  },
+  {
+   "name": "常子保",
+   "role": "礼部主事"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6508,
+ "page_range": "140-141"
+}

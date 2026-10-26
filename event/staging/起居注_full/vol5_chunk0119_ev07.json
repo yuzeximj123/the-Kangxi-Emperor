@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "二十五日庚戌",
+ "event_role": "军务",
+ "summary": "喀喇沁王扎西奏请前进侦探，称已住二日，后队兵已至，请示应交何人，康熙帝命其子噶尔藏额验处领兵，自率此处兵于营防驻扎，严禁声息火烛。",
+ "people": [
+  {
+   "name": "扎西",
+   "role": "喀喇沁王"
+  },
+  {
+   "name": "噶尔藏额验",
+   "role": "扎西之子"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  },
+  {
+   "name": "喀瓦尔达",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11907,
+ "page_range": "248-249"
+}

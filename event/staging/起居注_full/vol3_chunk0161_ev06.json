@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十日癸酉",
+ "event_role": "人事任免",
+ "summary": "康熙以讲官邬黑、顾沂不胜记注之事，命解其日讲官起居注任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邬黑",
+   "role": "讲官"
+  },
+  {
+   "name": "顾沂",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16106,
+ "page_range": "357-358"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "二十日丙申",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶黄旗满洲副都统乌黑员缺，开列包柱、佛尔诺，帝以其平常，命照常开列应升者具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "乌黑",
+   "role": "出缺副都统"
+  },
+  {
+   "name": "包柱",
+   "role": "开列官员"
+  },
+  {
+   "name": "佛尔诺",
+   "role": "开列官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12826,
+ "page_range": "299-300"
+}

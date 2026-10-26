@@ -1,0 +1,44 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十一量戊实",
+ "event_role": "司法案件",
+ "summary": "理藩院议逃往罗刹之诺摩托等即行正法，康熙帝以其无知愚徒，命从宽免死并妻子交该管衙门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺摩托",
+   "role": "逃犯"
+  },
+  {
+   "name": "代布",
+   "role": "逃犯"
+  },
+  {
+   "name": "顾辛泰",
+   "role": "逃犯"
+  },
+  {
+   "name": "岳苏乌儿",
+   "role": "逃犯"
+  },
+  {
+   "name": "按都甘简",
+   "role": "逃犯"
+  },
+  {
+   "name": "黑叶尔臣",
+   "role": "逃犯"
+  }
+ ],
+ "places": [
+  "罗刹"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10717,
+ "page_range": "249-250"
+}

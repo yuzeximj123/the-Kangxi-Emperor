@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "初四日庚辰",
+ "event_role": "河工水利",
+ "summary": "河督张罗副题请挑浚运河，康熙帝命界首以下运河若极浅有碍漕运即照题挑浚，否则停止，留银于紧要工程。",
+ "people": [
+  {
+   "name": "张罗副",
+   "role": "河督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "界首",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4117,
+ "page_range": "93-94"
+}

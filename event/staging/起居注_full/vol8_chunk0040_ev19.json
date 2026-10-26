@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "十一日忆西",
+ "event_role": "议政听政",
+ "summary": "酉时，康熙帝御乾清宫，读卷官松柱等以典试一百九十六卷公阅择十卷呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "读卷官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4019,
+ "page_range": "91-92"
+}

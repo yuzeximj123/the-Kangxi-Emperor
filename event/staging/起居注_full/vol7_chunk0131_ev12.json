@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "初九日癸巳",
+ "event_role": "军务",
+ "summary": "兵部议四川提督岳昇龙题打箭炉出征把总补用事不准行，康熙帝命将立功把总通行取到来京引见议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "岳昇龙",
+   "role": "四川提督"
+  }
+ ],
+ "places": [
+  "四川",
+  "打箭炉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13112,
+ "page_range": "273-274"
+}

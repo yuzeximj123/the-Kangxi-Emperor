@@ -1,0 +1,25 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "初二日庚成",
+ "event_role": "谕旨决策",
+ "summary": "福建巡抚觉罗满保奏乡绅兵民在九仙山建碑亭庆贺万寿，康熙帝以曾禁建碑亭、不合，命拟申饬票签进呈。",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "九仙山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 309,
+ "page_range": "17-18"
+}

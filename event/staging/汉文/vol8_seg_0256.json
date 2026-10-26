@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙伍拾玖年伍月",
+ "reign_year": 59,
+ "month": 5,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "奏报兵丁王一忠等及家人张起龙、陈无折恭请圣安，康熙朱批问安并提及赏赐翎子之事。",
+ "people": [
+  {
+   "name": "王一忠",
+   "role": "兵丁"
+  },
+  {
+   "name": "张起龙",
+   "role": "家人"
+  },
+  {
+   "name": "陈无折",
+   "role": "家人"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，并称对方是旧抚兵，早应赏翎子，因不知情而即赐翎子。",
+ "source_title": "残片",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 256
+}

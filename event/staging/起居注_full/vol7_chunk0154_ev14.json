@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 1,
+ "day_text": "二十三日王子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命朝鲜国出数人会同盛京官员详看鸭绿江、土门江一带边界，查清可否立柳条边并问明使臣具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "鸭绿江",
+  "土门江",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15414,
+ "page_range": "319-320"
+}

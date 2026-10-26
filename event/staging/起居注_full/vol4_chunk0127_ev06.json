@@ -1,0 +1,22 @@
+{
+ "reign_year": 29,
+ "month": 7,
+ "day_text": "十四日癸卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝为抚慰北边外蒙古，由东华门出东直门，驻中河重庄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "东直门",
+  "中河重庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12706,
+ "page_range": "266-267"
+}

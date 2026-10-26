@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝命领侍卫内大臣公阿灵阿等监试游观光等马步射。",
+ "people": [
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣公，监试"
+  },
+  {
+   "name": "游观光",
+   "role": "应试者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7904,
+ "page_range": "169-170"
+}

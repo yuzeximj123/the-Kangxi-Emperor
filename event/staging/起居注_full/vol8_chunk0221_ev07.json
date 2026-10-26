@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "十七日",
+ "event_role": "皇帝行止",
+ "summary": "康熙至宁寿宫问安。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "王图炳",
+   "role": "起居注官"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "宁寿宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22107,
+ "page_range": "453-454"
+}

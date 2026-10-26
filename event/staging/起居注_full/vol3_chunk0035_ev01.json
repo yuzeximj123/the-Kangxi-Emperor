@@ -1,0 +1,37 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙询问总兵官中声名者，石柱奏称顺德总兵区璋整兵严肃、潮州总兵马三奇剿盗有益地方。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "石柱",
+   "role": "奏对官员"
+  },
+  {
+   "name": "区璋",
+   "role": "顺德府总兵官"
+  },
+  {
+   "name": "马三奇",
+   "role": "潮州总兵官"
+  },
+  {
+   "name": "马得功",
+   "role": "原任提督"
+  }
+ ],
+ "places": [
+  "顺德府",
+  "潮州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3501,
+ "page_range": "105-106"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十四日辛未",
+ "event_role": "谕旨决策",
+ "summary": "马世济条陈吴三桂等属下外官宜罢黜回京，康熙帝以宽仁不许一概罢黜，令照旨传谕给回原本。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马世济",
+   "role": "左副都御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "草申吉",
+   "role": "汉官"
+  },
+  {
+   "name": "罗森",
+   "role": "汉官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12313,
+ "page_range": "289-290"
+}

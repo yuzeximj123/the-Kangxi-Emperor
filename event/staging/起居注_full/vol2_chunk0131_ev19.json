@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "初八日癸丑",
+ "event_role": "人事任免",
+ "summary": "吏部题请直隶巡察大臣，康熙帝命汉大臣魏象枢去，满大臣科尔坤同往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "汉大臣"
+  },
+  {
+   "name": "科尔坤",
+   "role": "满大臣"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13119,
+ "page_range": "305-306"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": "十二日辛酉",
+ "event_role": "人事任免",
+ "summary": "黑龙江正红旗防守御喀图虎员缺，拟以佐领喀代拟正、佐领阿禄拟陪，康熙帝就阿禄才具及彭春删改奏语事降旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀图虎",
+   "role": "防守御"
+  },
+  {
+   "name": "喀代",
+   "role": "佐领"
+  },
+  {
+   "name": "阿禄",
+   "role": "佐领"
+  },
+  {
+   "name": "彭春",
+   "role": "都统"
+  },
+  {
+   "name": "邦纳密",
+   "role": "步兵总尉"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18807,
+ "page_range": "388-389"
+}

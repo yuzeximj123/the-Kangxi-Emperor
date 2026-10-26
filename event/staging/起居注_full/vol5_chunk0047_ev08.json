@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "二十六日庚申",
+ "event_role": "人事任免",
+ "summary": "吏部题郎中称和伦员缺，拟孔省正、葛德浑陪，康熙帝以二人俱劣，命以原品随旗行走，另拟具奏。",
+ "people": [
+  {
+   "name": "孔省",
+   "role": "员外郎拟正"
+  },
+  {
+   "name": "葛德浑",
+   "role": "拟陪"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4708,
+ "page_range": "104-105"
+}

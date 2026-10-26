@@ -1,0 +1,28 @@
+{
+ "reign_year": 13,
+ "month": 11,
+ "day_text": "二十日己卯",
+ "event_role": "请安谢恩",
+ "summary": "卯时，因太宗懿靖大贵妃薨逝，康熙帝步行随皇太后进宫举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  },
+  {
+   "name": "太宗懿靖大贵妃",
+   "role": "大贵妃"
+  }
+ ],
+ "places": [
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8147,
+ "page_range": "219-220"
+}

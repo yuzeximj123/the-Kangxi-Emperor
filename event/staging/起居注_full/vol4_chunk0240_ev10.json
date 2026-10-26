@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 8,
+ "day_text": "二十六日丁丁",
+ "event_role": "人事任免",
+ "summary": "康熙帝以督捕理事官顾藻提督直隶学政居官颇善、书法亦佳，着升授学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "顾藻",
+   "role": "督捕理事官"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24010,
+ "page_range": "492-493"
+}

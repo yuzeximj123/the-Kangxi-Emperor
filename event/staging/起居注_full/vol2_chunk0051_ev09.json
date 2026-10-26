@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "初十日壬戌",
+ "event_role": "人事任免",
+ "summary": "吏部题补左都御史，因无候缺之员，康熙帝命萨称哈补都察院左都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "萨称哈",
+   "role": "补都察院左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5109,
+ "page_range": "145-146"
+}

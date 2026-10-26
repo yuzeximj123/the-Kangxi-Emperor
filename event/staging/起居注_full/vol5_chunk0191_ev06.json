@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十四日乙未",
+ "event_role": "谕旨决策",
+ "summary": "山西地方道路着按察使巴锡、道官王辅鸠工监看，侍郎常寿前往按程备办草料柴薪。",
+ "people": [
+  {
+   "name": "巴锡",
+   "role": "按察使"
+  },
+  {
+   "name": "王辅",
+   "role": "道官"
+  },
+  {
+   "name": "常寿",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19106,
+ "page_range": "392-393"
+}

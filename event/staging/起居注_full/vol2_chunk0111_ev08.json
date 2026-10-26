@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "初六日甲申",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御保和殿举行经筵大典，讲官伊桑阿、徐元文进讲《四书》，陈廷敬、牛钮进讲《易经》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "讲官"
+  },
+  {
+   "name": "徐元文",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11108,
+ "page_range": "265-266"
+}

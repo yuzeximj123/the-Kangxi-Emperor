@@ -1,0 +1,36 @@
+{
+ "reign_year": 28,
+ "month": 8,
+ "day_text": "十六日己卯",
+ "event_role": "议政听政",
+ "summary": "晚间皇上御行宫，大学士伊桑阿、凯音布、迈图、西安以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "大学士"
+  },
+  {
+   "name": "迈图",
+   "role": "大学士"
+  },
+  {
+   "name": "西安",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8212,
+ "page_range": "176-177"
+}

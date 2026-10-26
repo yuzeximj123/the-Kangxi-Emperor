@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "魏象枢奉旨入蓝清宫谢恩，康熙帝命坐赐茶，魏象枢跪奏感激并请宣付史馆。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "蓝清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5101,
+ "page_range": "137-138"
+}

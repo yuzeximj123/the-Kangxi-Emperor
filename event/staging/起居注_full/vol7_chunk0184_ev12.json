@@ -1,0 +1,40 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士温达等查奏杭州副都统代塞等四员职名，康熙帝令高登符驰驿速赴杭州到任。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "代塞",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "道服色",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "高登符",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "李如松",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18412,
+ "page_range": "379-380"
+}

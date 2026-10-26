@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "初八日壬戌",
+ "event_role": "人事任免",
+ "summary": "云贵总督贝和诺题云南巡抚郭环请在任守制，康熙帝命郭环在任守制。",
+ "people": [
+  {
+   "name": "贝和诺",
+   "role": "云贵总督"
+  },
+  {
+   "name": "郭环",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13809,
+ "page_range": "287-288"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十四年三月初七日",
+ "reign_year": 54,
+ "month": 3,
+ "day": 7,
+ "event_role": "请安谢恩",
+ "summary": "江宁织造曹頫奏报抵江宁省觐老母、传宣圣旨并上任接印视事，代母陈情恭谢天恩。",
+ "people": [
+  {
+   "name": "曹頫",
+   "role": "江宁织造，奏折具奏人"
+  },
+  {
+   "name": "曹頫之母",
+   "role": "曹頫老母，受恩奉养对象"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧織造曹頫奏代母陳情謝天恩摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1745",
+ "order_index": 29
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部拟补黑龙江等地革职官员，康熙认为发配罪人之处不宜补授，命查八旗现任官情愿效力者具奏，限五年无过议叙优升。",
+ "people": [
+  {
+   "name": "齐体物",
+   "role": "知府拟陪"
+  },
+  {
+   "name": "赵友明",
+   "role": "员缺"
+  },
+  {
+   "name": "缪冒荣",
+   "role": "原任知府拟正"
+  },
+  {
+   "name": "庄存仁",
+   "role": "原任知府拟陪"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20200,
+ "page_range": "414-415"
+}

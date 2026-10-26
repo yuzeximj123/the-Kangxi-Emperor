@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "初七日甲子",
+ "event_role": "人事任免",
+ "summary": "兵部题黑龙江副都统雅齐纳革职员缺，康熙帝命协领纳秦升补此缺。",
+ "people": [
+  {
+   "name": "雅齐纳",
+   "role": "黑龙江副都统"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "侍郎"
+  },
+  {
+   "name": "纳秦",
+   "role": "协领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10305,
+ "page_range": "241-242"
+}

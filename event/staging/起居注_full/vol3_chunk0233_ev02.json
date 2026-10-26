@@ -1,0 +1,22 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝说明委任汤斌等因向有声望而非专选才学，并称内廷考试已知其学。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "受任之臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23302,
+ "page_range": "501-502"
+}

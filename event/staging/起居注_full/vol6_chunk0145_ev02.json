@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "户部等议知州李六成承催亏空迟延降级戴罪，康熙帝命将谢廷珊亏空挪移赃银交刑部速追完。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李六成",
+   "role": "知州"
+  },
+  {
+   "name": "谢廷珊",
+   "role": "原任知州"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14502,
+ "page_range": "300-301"
+}

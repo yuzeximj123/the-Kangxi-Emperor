@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "十一日王成",
+ "event_role": "司法案件",
+ "summary": "刑部将打死陈大胜之陈朝引留养亲例具奏，康熙帝以其父亦有罪命另议具奏。",
+ "people": [
+  {
+   "name": "陈朝",
+   "role": "案犯"
+  },
+  {
+   "name": "陈第盛",
+   "role": "陈朝之父"
+  },
+  {
+   "name": "陈大胜",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1213,
+ "page_range": "35-36"
+}

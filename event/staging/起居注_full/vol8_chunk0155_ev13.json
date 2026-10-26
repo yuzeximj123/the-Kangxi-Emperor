@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙谕大学士马齐，称科道为耳目，满汉官员内如有可参者满可参汉、汉可参满，并举原任将军席柱在西安放官挑四为例。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "席柱",
+   "role": "原任将军"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15513,
+ "page_range": "321-322"
+}

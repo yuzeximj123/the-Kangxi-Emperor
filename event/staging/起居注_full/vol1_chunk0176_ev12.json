@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 2,
+ "day_text": "初三日戊搬",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝复御乾清门，赐荆州随征总兵官姚兴食；是日早赐姚兴鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚兴",
+   "role": "荆州随征总兵官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17612,
+ "page_range": "409-410"
+}

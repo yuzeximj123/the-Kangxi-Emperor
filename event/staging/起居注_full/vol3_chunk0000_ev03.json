@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "初一日本卯",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门受诸王贝勒文武官员及朝正外藩、朝鲜等国使臣庆贺元旦表行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3,
+ "page_range": "35-36"
+}

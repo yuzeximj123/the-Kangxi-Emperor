@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问宁尔讲为人如何，吴琠、张鹏翮奏称其奏疏指东话西支离、为人浮躁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴琠",
+   "role": "臣工"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "臣工"
+  },
+  {
+   "name": "宁尔讲",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 508,
+ "page_range": "20-21"
+}

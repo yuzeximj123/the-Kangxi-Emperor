@@ -1,0 +1,24 @@
+{
+ "reign_year": 14,
+ "month": 4,
+ "day_text": "二十九日了已",
+ "event_role": "其他",
+ "summary": "康熙帝未时御保和殿，赐达赖喇嘛使人墨尔根圳素食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "墨尔根圳",
+   "role": "达赖喇嘛使人"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9025,
+ "page_range": "237-238"
+}

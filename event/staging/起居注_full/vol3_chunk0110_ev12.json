@@ -1,0 +1,21 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "三十日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命都察院会同工部查阅崇文门、正阳门修造工程具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "崇文门",
+  "正阳门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11012,
+ "page_range": "255-256"
+}

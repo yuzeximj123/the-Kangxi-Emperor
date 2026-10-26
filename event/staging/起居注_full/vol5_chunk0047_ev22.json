@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "三十日甲子",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清门听政，部院各衙门官员面奏毕，陕西西安布政使禅布赴任奏请训旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "禅布",
+   "role": "陕西西安布政使"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "陕西西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4722,
+ "page_range": "104-105"
+}

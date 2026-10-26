@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "初九日庚寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝问王熙、张玉书突厥为今何国，二人奏称但知为西北部落未考其详。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16610,
+ "page_range": "344-345"
+}

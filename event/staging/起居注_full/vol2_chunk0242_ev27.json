@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "三十日",
+ "event_role": "军务",
+ "summary": "议政王等议穆赫临祖山头败北功罪相抵仍议叙，康熙斥其失机陷城，令拟切责票签再严议。",
+ "people": [
+  {
+   "name": "穆赫临",
+   "role": "将领"
+  },
+  {
+   "name": "明珠",
+   "role": "内阁大学士"
+  },
+  {
+   "name": "赖塔",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "祖山头",
+  "海澄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24227,
+ "page_range": "527-528"
+}

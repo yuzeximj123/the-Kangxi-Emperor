@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 3,
+ "day_text": "十七日癸卯",
+ "event_role": "祭祀典礼",
+ "summary": "太常寺请四月初一行熏夏礼祭太庙，或亲行礼或遣大臣恭代，康熙以足疾未愈命明珠恭代行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14517,
+ "page_range": "302-303"
+}

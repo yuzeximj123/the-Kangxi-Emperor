@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "二十六日戊寅",
+ "event_role": "司法案件",
+ "summary": "刑部题二喜打死梁炳子拟绞监候，康熙帝依拟，并命将同弟打死人又逃走之大喜枷责完日发往打牲乌拉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "二喜",
+   "role": "罪犯"
+  },
+  {
+   "name": "大喜",
+   "role": "罪犯"
+  },
+  {
+   "name": "梁炳子",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "打牲乌拉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22416,
+ "page_range": "459-460"
+}

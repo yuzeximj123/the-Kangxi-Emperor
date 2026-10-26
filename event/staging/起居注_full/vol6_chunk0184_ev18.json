@@ -1,0 +1,22 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "十二日庚午",
+ "event_role": "司法案件",
+ "summary": "刑部题陶柱私铸钱拟正法，康熙命免正法，将其子女发内务府佐领当差，此后发内务府者各旗轮流供重役。",
+ "people": [
+  {
+   "name": "陶柱",
+   "role": "私铸钱犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18418,
+ "page_range": "378-379"
+}

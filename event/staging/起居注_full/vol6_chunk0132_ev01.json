@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝批评总河于成龙修高家堰时惑于属下，将一百八十万两银分布未运物料，现不得已再给五十万两，遣董讷等前往坚修高家堰。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "董讷",
+   "role": "奉命大臣"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "清口",
+  "邵伯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13201,
+ "page_range": "274-275"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "二十日辛已",
+ "event_role": "谕旨决策",
+ "summary": "工部郎中敬赛等往镇江察勘坏船请训旨，康熙令察明数目具题并交总督速修，戒以从实具奏、修理坚固。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敬赛",
+   "role": "工部郎中"
+  }
+ ],
+ "places": [
+  "镇江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15809,
+ "page_range": "326-327"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "三十日成实",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士韩菊请假员缺，康熙帝命李振裕升补内阁学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩菊",
+   "role": "内阁学士"
+  },
+  {
+   "name": "李振裕",
+   "role": "侍讲"
+  },
+  {
+   "name": "归允肃",
+   "role": "少詹事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21524,
+ "page_range": "465-466"
+}

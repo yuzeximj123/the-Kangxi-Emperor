@@ -1,0 +1,40 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "十七日",
+ "event_role": "司法案件",
+ "summary": "吏部议直隶巡抚于成龙等因用人夫迟误应处分，康熙帝命于成龙免处分，程汲等革职交刑部，黄锦革职，余官察明具题。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "程汲",
+   "role": "巡道"
+  },
+  {
+   "name": "董世琦",
+   "role": "官员"
+  },
+  {
+   "name": "石天枢",
+   "role": "官员"
+  },
+  {
+   "name": "黄锦",
+   "role": "知府"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6711,
+ "page_range": "146-147"
+}

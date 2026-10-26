@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年十月初六日",
+ "reign_year": 53,
+ "month": 10,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦代两淮盐运使李陈常奏谢授御史巡视两淮盐课之恩，并请准其具折奏事、请示圣训。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，代奏人"
+  },
+  {
+   "name": "李陈常",
+   "role": "两淮盐运使，升授御史巡视两淮盐课"
+  }
+ ],
+ "places": [
+  "苏州",
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批准许李陈常具折奏事。",
+ "source_title": "蘇州織造李煦奏為代高安陳常謝恩並准其具摺奏事摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1663",
+ "order_index": 303
+}

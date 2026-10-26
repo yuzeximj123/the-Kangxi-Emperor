@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "初六日戊成",
+ "event_role": "人事任免",
+ "summary": "吏部题福建总督朱弘祚员缺，开列侍郎安布禄等；康熙帝以总督职任甚要，命问九卿具奏。",
+ "people": [
+  {
+   "name": "朱弘祚",
+   "role": "福建总督"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5704,
+ "page_range": "124-125"
+}

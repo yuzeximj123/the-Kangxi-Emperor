@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十四年十二月十五日",
+ "reign_year": 54,
+ "month": 12,
+ "day": 15,
+ "event_role": "请安谢恩",
+ "summary": "臣接家信得知奉旨署理江南总督印务，即改期于十五日起身赴任，并叩谢皇恩、恳请另简贤能。",
+ "people": [
+  {
+   "name": "范承烈",
+   "role": "臣叔，家信告知署理江南总督之旨"
+  },
+  {
+   "name": "皇上",
+   "role": "康熙帝，降旨任命并朱批"
+  }
+ ],
+ "places": [
+  "江南",
+  "闽",
+  "两江",
+  "闽浙"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“已有了”，表示已知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 225
+}

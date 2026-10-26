@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "初九日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责沙木哈身为礼部大臣，皇太子行礼班次有误宜即指陈，反请将旨记档，命交该部严加议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙木哈",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1009,
+ "page_range": "30-31"
+}

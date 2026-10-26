@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "二十四日奖丑",
+ "event_role": "司法案件",
+ "summary": "覆请兵部题革退大兴县知县李锦情愿运米效力不准行一案，康熙帝命李锦赶至运米之处效力行走。",
+ "people": [
+  {
+   "name": "李锦",
+   "role": "大兴县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大兴县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14211,
+ "page_range": "295-296"
+}

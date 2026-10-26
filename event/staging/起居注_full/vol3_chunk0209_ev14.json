@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": "二十三日于寅",
+ "event_role": "其他",
+ "summary": "皇太子讲官尹泰、汤斌、徐讲进讲皇太子宫，皇太子讲论女子与小人为难养也一节。",
+ "people": [
+  {
+   "name": "尹泰",
+   "role": "皇太子讲官"
+  },
+  {
+   "name": "汤斌",
+   "role": "皇太子讲官"
+  },
+  {
+   "name": "徐讲",
+   "role": "皇太子讲官"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "皇太子宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20914,
+ "page_range": "453-454"
+}

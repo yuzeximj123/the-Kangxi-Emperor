@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": "二十八日丁西",
+ "event_role": "司法案件",
+ "summary": "刑部议覆直隶巡抚赵弘党题王小四儿殴伤大功兄王子福越七日身死案，康熙帝命改监候秋后处决。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "王小四儿",
+   "role": "案犯"
+  },
+  {
+   "name": "王子福",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7006,
+ "page_range": "151-152"
+}

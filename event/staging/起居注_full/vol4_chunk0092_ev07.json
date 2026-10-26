@@ -1,0 +1,30 @@
+{
+ "reign_year": 28,
+ "month": 11,
+ "day_text": "十九日壬子",
+ "event_role": "其他",
+ "summary": "赐福州将军石文炳弓箭、撒袋、蟒缎、披领，又赐山东巡抚佛伦、湖广巡抚吴琠鞍马各一匹。",
+ "people": [
+  {
+   "name": "石文炳",
+   "role": "福州将军"
+  },
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "吴琠",
+   "role": "湖广巡抚"
+  }
+ ],
+ "places": [
+  "福州",
+  "山东",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9207,
+ "page_range": "196-197"
+}

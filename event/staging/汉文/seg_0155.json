@@ -1,0 +1,52 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": null,
+ "day": null,
+ "event_role": "河工水利",
+ "summary": "王鸿绪密奏九卿会议陕西捐纳补完事宜及官员对在部捐补河工例的分歧意见。",
+ "people": [
+  {
+   "name": "王鸿绪",
+   "role": "奏报人"
+  },
+  {
+   "name": "温达",
+   "role": "涉及人物"
+  },
+  {
+   "name": "曹鉴伦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "张睿",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李元振",
+   "role": "涉及人物"
+  },
+  {
+   "name": "希福纳",
+   "role": "涉及人物"
+  },
+  {
+   "name": "江蘩",
+   "role": "涉及人物"
+  },
+  {
+   "name": "博济",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "214",
+ "source_title": "工部尚书王鸿绪奏会议陕西捐纳情形并南河闸工事折",
+ "order_index": 155
+}

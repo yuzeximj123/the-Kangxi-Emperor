@@ -1,0 +1,21 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "初八日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "兵部题福陵、昭陵守陵兵丁升转事，康熙帝命该部再议调用之法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福陵",
+  "昭陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12003,
+ "page_range": "283-284"
+}

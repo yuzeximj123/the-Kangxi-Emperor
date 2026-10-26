@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "十四日乙未",
+ "event_role": "人事任免",
+ "summary": "兵部题正黄旗满洲副都统色黑解任员缺，康熙帝以俄克济哈有才干、人材优，令补授副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色黑",
+   "role": "正黄旗满洲副都统"
+  },
+  {
+   "name": "俄克济哈",
+   "role": "二等侍卫，补授副都统"
+  },
+  {
+   "name": "马锡",
+   "role": "蒙古副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16706,
+ "page_range": "346-347"
+}

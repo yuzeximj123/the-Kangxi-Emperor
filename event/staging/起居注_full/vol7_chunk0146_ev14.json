@@ -1,0 +1,21 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "二十日甲辰",
+ "event_role": "司法案件",
+ "summary": "汇题案内山东民迟新等行过盆山吃烟遗火延烧山草，议迟新罪。",
+ "people": [
+  {
+   "name": "迟新",
+   "role": "山东民"
+  }
+ ],
+ "places": [
+  "盆山",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14614,
+ "page_range": "303-304"
+}

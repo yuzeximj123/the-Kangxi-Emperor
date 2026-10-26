@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十四日己丑",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶红旗佐领员缺，康熙帝以武达库与侄争管佐领失手足之谊，令补授幕国良。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "武达库",
+   "role": "员外郎"
+  },
+  {
+   "name": "幕国良",
+   "role": "七品官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13903,
+ "page_range": "321-322"
+}

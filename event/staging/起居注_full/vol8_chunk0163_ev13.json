@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "三十日丙辰",
+ "event_role": "人事任免",
+ "summary": "马齐等遵旨以山东布政使李成龙员缺奏丁忧布政使王用霖、吕犹龙，康熙命王用霖补授。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "李成龙",
+   "role": "山东布政使"
+  },
+  {
+   "name": "王用霖",
+   "role": "丁忧布政使"
+  },
+  {
+   "name": "吕犹龙",
+   "role": "丁忧布政使"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16313,
+ "page_range": "337-338"
+}

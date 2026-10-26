@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "十二日广午",
+ "event_role": "贸易漕运",
+ "summary": "以奉旨收贮往理蜀运截神至漳、泉二府侍郎塔进泰为载米战船所奏折子覆请，康熙帝命问塔进泰具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "塔进泰",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "漳州",
+  "泉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16521,
+ "page_range": "341-342"
+}

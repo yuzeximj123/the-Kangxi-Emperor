@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "二十四日己丑",
+ "event_role": "人事任免",
+ "summary": "覆请吏部所题古北口同知员缺，康熙帝令照该抚所题补授知县王驴为古北口同知。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘党",
+   "role": "总督管理直隶巡抚事务"
+  },
+  {
+   "name": "王驴",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9406,
+ "page_range": "199-200"
+}

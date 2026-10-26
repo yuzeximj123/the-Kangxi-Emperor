@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "三十日己丑",
+ "event_role": "人事任免",
+ "summary": "王熙等会同翰林院拟升侍读、洗马等四缺人选，康熙帝准彭孙通、李应广、胡士著、高毅四人升补。",
+ "people": [
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "彭孙通",
+   "role": "国子监司业升侍读"
+  },
+  {
+   "name": "李应广",
+   "role": "中允升洗马"
+  },
+  {
+   "name": "胡士著",
+   "role": "侍讲拟升"
+  },
+  {
+   "name": "高毅",
+   "role": "中允拟升"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9503,
+ "page_range": "225-226"
+}

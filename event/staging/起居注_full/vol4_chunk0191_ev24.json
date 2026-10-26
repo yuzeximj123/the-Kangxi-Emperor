@@ -1,0 +1,27 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "十一日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "川陕总督葛思泰请拨银济军需，康熙帝欲动支户部库银一百万两送陕西备军需赈饥，命问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葛思泰",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "西安",
+  "凤翔",
+  "陕西",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19124,
+ "page_range": "394-395"
+}

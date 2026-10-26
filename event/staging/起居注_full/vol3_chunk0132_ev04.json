@@ -1,0 +1,21 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十五日辛丑",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率王大臣于孝陵崇恩殿献玉币、读祝文，行岁暮大祭礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵",
+  "崇恩殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13204,
+ "page_range": "299-300"
+}

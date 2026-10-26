@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "二十二日戊子",
+ "event_role": "人事任免",
+ "summary": "吏部题光禄寺正卿色特员缺，康熙帝命席米图升光禄寺正卿，何托以原品解任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席米图",
+   "role": "翰林院侍读学士"
+  },
+  {
+   "name": "何托",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "色特",
+   "role": "光禄寺正卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2624,
+ "page_range": "62-63"
+}

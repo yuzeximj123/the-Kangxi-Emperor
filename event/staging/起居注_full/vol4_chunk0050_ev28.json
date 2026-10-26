@@ -1,0 +1,37 @@
+{
+ "reign_year": 27,
+ "month": 12,
+ "day_text": "二十日己未",
+ "event_role": "朝见受贺",
+ "summary": "罗文峪关口守御严泰、防御折库纳，遵化营游击李得胜、千总姜佐周、把总邢得功等来朝。",
+ "people": [
+  {
+   "name": "严泰",
+   "role": "罗文峪关口守御"
+  },
+  {
+   "name": "折库纳",
+   "role": "防御"
+  },
+  {
+   "name": "李得胜",
+   "role": "遵化营游击"
+  },
+  {
+   "name": "姜佐周",
+   "role": "千总"
+  },
+  {
+   "name": "邢得功",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "罗文峪口",
+  "遵化营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5028,
+ "page_range": "112-113"
+}

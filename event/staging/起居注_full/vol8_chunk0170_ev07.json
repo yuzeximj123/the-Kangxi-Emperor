@@ -1,0 +1,34 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部审实拉普他孙等控告佐领色楞、五十儿克扣银两，拟革职枷号鞭责，康熙帝令将先年所告之事一并查明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "拉普他孙",
+   "role": "控告人"
+  },
+  {
+   "name": "色楞",
+   "role": "佐领"
+  },
+  {
+   "name": "五十儿",
+   "role": "佐领"
+  },
+  {
+   "name": "乌达礼",
+   "role": "色楞等曾祖"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17007,
+ "page_range": "351-352"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "初七日吴巳",
+ "event_role": "人事任免",
+ "summary": "兵部题管黑龙江水手执事人官高玉员缺，拟以原任道官周昌拟正。",
+ "people": [
+  {
+   "name": "高玉",
+   "role": "管黑龙江水手执事人官"
+  },
+  {
+   "name": "周昌",
+   "role": "原任道官"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20117,
+ "page_range": "412-413"
+}

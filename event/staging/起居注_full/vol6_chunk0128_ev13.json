@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初十日甲戌",
+ "event_role": "司法案件",
+ "summary": "兵部题湖广提督林本植拟罚俸六个月，康熙帝令从宽免罚，并谕督抚提督于细事拟罪太过，着另定例具奏。",
+ "people": [
+  {
+   "name": "林本植",
+   "role": "湖广提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12813,
+ "page_range": "266-267"
+}

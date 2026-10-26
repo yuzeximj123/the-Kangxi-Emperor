@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "云南学道余正健告病乞休，康熙帝准其照所请休致，并曾遣御医往视。",
+ "people": [
+  {
+   "name": "余正健",
+   "role": "云南学道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20501,
+ "page_range": "421-422"
+}

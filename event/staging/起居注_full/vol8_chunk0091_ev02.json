@@ -1,0 +1,22 @@
+{
+ "reign_year": 54,
+ "month": 3,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记录是日起居注官为阿克敦、陈璋。",
+ "people": [
+  {
+   "name": "阿克敦",
+   "role": "起居注官"
+  },
+  {
+   "name": "陈璋",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9102,
+ "page_range": "193-194"
+}

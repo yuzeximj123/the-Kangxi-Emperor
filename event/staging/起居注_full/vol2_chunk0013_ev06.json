@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "初三日戊午",
+ "event_role": "人事任免",
+ "summary": "理藩院题补归化城副都统二缺，康熙帝询问拟正陪人员是否在行间及有无出力，命察明具奏。",
+ "people": [
+  {
+   "name": "绰尔济雅克",
+   "role": "拟正参领"
+  },
+  {
+   "name": "噶尔马斯希",
+   "role": "拟正参领"
+  },
+  {
+   "name": "鄂尔折",
+   "role": "拟陪"
+  },
+  {
+   "name": "塔尔巴",
+   "role": "拟陪"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1306,
+ "page_range": "69-70"
+}

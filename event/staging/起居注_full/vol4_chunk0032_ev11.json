@@ -1,0 +1,56 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "三十日辛丑",
+ "event_role": "议政听政",
+ "summary": "康熙御瀛台勤政殿听政，部院各衙门官员面奏毕，大学士等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "学士"
+  },
+  {
+   "name": "石文桂",
+   "role": "学士"
+  },
+  {
+   "name": "王封澜",
+   "role": "学士"
+  },
+  {
+   "name": "萨木哈",
+   "role": "学士"
+  },
+  {
+   "name": "彭孙通",
+   "role": "学士"
+  },
+  {
+   "name": "李振容",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "瀛台勤政殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3211,
+ "page_range": "76-77"
+}

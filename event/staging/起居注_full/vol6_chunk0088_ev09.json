@@ -1,0 +1,38 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问孙岳颁、张玉书对吴廷祯的评价，念其学问好，准吴廷祯复还举人。",
+ "people": [
+  {
+   "name": "吴廷祯",
+   "role": "冒籍举人"
+  },
+  {
+   "name": "孙岳颁",
+   "role": "祭酒"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "存柱",
+   "role": "奏事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8809,
+ "page_range": "186-187"
+}

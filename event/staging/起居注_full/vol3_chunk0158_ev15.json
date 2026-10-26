@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初七日庚申",
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚于成龙题报原任大学士魏裔介病故，康熙帝询问此本。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "魏裔介",
+   "role": "原任大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15815,
+ "page_range": "351-352"
+}

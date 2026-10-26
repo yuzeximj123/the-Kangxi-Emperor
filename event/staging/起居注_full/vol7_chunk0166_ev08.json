@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "十六日甲成",
+ "event_role": "奏报地方情形",
+ "summary": "温达等遵旨询问塔进泰为福建战船所奏缘由，据云米多船少故奏闻，以原折覆请，康熙帝颔之发还。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "塔进泰",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16608,
+ "page_range": "343-344"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至天宁寺，御书“萧用”二字。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天宁寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5411,
+ "page_range": "143-144"
+}

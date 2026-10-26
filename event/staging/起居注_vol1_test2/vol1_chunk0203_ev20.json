@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "初一日壬辰",
+ "event_role": "人事任免",
+ "summary": "吏部请补内阁学士，康熙帝以翰林院学士与内阁学士无分别，着徐元文补授内阁学士。",
+ "people": [
+  {
+   "name": "徐元文",
+   "role": "原任翰林院掌院学士"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20320,
+ "page_range": "463-464"
+}

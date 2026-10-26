@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "初五日庚申",
+ "event_role": "奏报地方情形",
+ "summary": "康熙言启奏内称自江南起身，杨琳亦以为假冒王差事关系甚大。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨琳",
+   "role": "被提及官员"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18016,
+ "page_range": "371-372"
+}

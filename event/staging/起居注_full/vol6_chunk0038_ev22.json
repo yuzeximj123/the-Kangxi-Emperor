@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": "初十日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆议宁夏运米至郭多里等处人员议叙，康熙帝以尚未周至命交九卿再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "郭多里"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3822,
+ "page_range": "86-87"
+}

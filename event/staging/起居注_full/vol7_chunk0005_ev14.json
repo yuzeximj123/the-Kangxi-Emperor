@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初十日王成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸中菩萨顶，阅视中台、西台等庙完毕，赏引路兵卒银两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中菩萨顶",
+  "中台",
+  "西台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 514,
+ "page_range": "21-22"
+}

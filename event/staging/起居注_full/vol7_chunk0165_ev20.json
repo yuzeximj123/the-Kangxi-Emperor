@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "十二日广午",
+ "event_role": "人事任免",
+ "summary": "九卿遵旨为补授科道员缺开列所荐吏部郎中张为经等职名呈览，康熙帝命九卿荐举十人内视其做深者补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张为经",
+   "role": "吏部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16520,
+ "page_range": "341-342"
+}

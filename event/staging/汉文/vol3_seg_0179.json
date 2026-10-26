@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙五十年六月初二日",
+ "reign_year": 50,
+ "month": 6,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "江西巡抚郎廷极奏请圣安，并报告江西自春至夏雨泽充足、早稻丰收、米价平稳及省城各府田稻丰茂情形。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [
+  "江西",
+  "赣州",
+  "南安",
+  "省城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示已知悉，并告知京中口外近日雨水调和、田苗长势好，可望十分收成。",
+ "source_title": "江西巡撫郎廷極奏報年成雨水並請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "871",
+ "order_index": 179
+}

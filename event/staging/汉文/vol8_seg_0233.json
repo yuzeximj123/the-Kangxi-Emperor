@@ -1,0 +1,44 @@
+{
+ "date_raw": "康熙五十九年正月十五日",
+ "reign_year": 59,
+ "month": null,
+ "day": 21,
+ "event_role": "弹劾参奏",
+ "summary": "江西巡抚白潢奏报驿盐道张道源亏欠铜价银两已补还清楚，但又查出道库亏空七千余两，请宽限严催补足，否则题参革职。",
+ "people": [
+  {
+   "name": "白潢",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "佟国勷",
+   "role": "前江西巡抚"
+  },
+  {
+   "name": "张道源",
+   "role": "驿盐道"
+  },
+  {
+   "name": "祈国祚",
+   "role": "署道事臬司"
+  },
+  {
+   "name": "许兆麟",
+   "role": "布政使"
+  },
+  {
+   "name": "张小建",
+   "role": "道库存款相关人"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批认为所议甚妥，事完再看。",
+ "source_title": "江西巡撫白潢奏請以餘美賠補虧損銅價摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2841",
+ "order_index": 233
+}

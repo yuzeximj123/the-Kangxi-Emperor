@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十六日癸刻",
+ "event_role": "人事任免",
+ "summary": "兵部题补左江总兵官吉孙略升任员缺，康熙帝询问后以贵州副将唐光邦补授。",
+ "people": [
+  {
+   "name": "吉孙略",
+   "role": "左江总兵官"
+  },
+  {
+   "name": "唐光邦",
+   "role": "贵州副将"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "左江",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23406,
+ "page_range": "511-512"
+}

@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙肆拾叁年拾月",
+ "reign_year": 43,
+ "month": 10,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "臣奏报在浙江期间高凉等地地震情形及访询所见，并遵旨陈情、恭缴原折。",
+ "people": [
+  {
+   "name": "高凉",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "浙江",
+  "高凉"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "御批密奏，谕令钦遵皇上圣德，凡有天恩之见即指示遵依、勉力图效。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "（遵旨陳情）",
+ "order_index": 58
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "十九日戊子",
+ "event_role": "司法案件",
+ "summary": "兵部题湖广总督本思孔以武昌兵变将战守逃避官员分别具题，部议俱拿问，康熙命受伪职者革职拿问，余免拿问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "本思孔",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [
+  "湖广",
+  "武昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4724,
+ "page_range": "106-107"
+}

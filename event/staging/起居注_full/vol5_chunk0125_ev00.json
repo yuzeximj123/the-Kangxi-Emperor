@@ -1,0 +1,31 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝谕令在沙上铺垫柳枝以便车辆通行，酌留直隶八运及山东第一运余米，并命李岳、喀拜催趱前行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李岳",
+   "role": "侍郎"
+  },
+  {
+   "name": "喀拜",
+   "role": "左通政"
+  }
+ ],
+ "places": [
+  "和和尔博",
+  "路尔图",
+  "滚诺尔",
+  "喀伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12500,
+ "page_range": "260-261"
+}

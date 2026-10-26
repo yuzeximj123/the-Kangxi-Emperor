@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初一日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "大学士温达等覆请福建巡抚黄秉中题请免台湾府康熙五十年应征稻谷不准行，康熙帝令免五十一年应征稻谷一半。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "黄秉中",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾府",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18708,
+ "page_range": "385-386"
+}

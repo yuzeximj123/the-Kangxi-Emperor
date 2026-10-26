@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "二十七日",
+ "event_role": "人事任免",
+ "summary": "康熙帝命革哈尔萨所袭公爵，令其兄六格承袭，念其父故并悯六格朴实屈抑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈尔萨",
+   "role": "袭公爵者"
+  },
+  {
+   "name": "六格",
+   "role": "哈尔萨之兄"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19408,
+ "page_range": "423-424"
+}

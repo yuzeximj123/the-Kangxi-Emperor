@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "陕西总督吴赫题补宁夏玉泉营守备，康熙命许世隆升补京职，玉泉营员缺另行拣选具奏。",
+ "people": [
+  {
+   "name": "吴赫",
+   "role": "陕西总督"
+  },
+  {
+   "name": "孙疯祖",
+   "role": "玉泉营守备"
+  },
+  {
+   "name": "许世隆",
+   "role": "标下中营千总"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "玉泉营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2003,
+ "page_range": "50-51"
+}

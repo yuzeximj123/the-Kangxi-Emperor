@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就群臣请上尊号一事下旨，称前旨已批悉，此事反贻读后世，再无容读奏，并将奏本发回。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "传旨官员"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4400,
+ "page_range": "99-100"
+}

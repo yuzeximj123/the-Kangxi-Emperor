@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "初六日乙酉",
+ "event_role": "贸易漕运",
+ "summary": "户部尚书伊桑阿等与仓场侍郎奏议漕船迟误冻阻及官俸兵米于河滨给散事，康熙帝询问拖床运送可否。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "喀尔图",
+   "role": "仓场侍郎"
+  },
+  {
+   "name": "雅齐纳",
+   "role": "科臣"
+  }
+ ],
+ "places": [
+  "河滨"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8221,
+ "page_range": "207-208"
+}

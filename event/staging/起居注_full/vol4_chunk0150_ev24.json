@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "初七日于搬",
+ "event_role": "司法案件",
+ "summary": "奏护卫巴扎尔伊白葛儿明知博罗特谋叛而故纵逃走，议依律处绞；贝勒毕鲁瓦看守不严罚俸一年；逃犯博罗特通行严查。",
+ "people": [
+  {
+   "name": "巴扎尔伊白葛儿",
+   "role": "护卫"
+  },
+  {
+   "name": "博罗特",
+   "role": "逃犯"
+  },
+  {
+   "name": "毕鲁瓦",
+   "role": "贝勒"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15024,
+ "page_range": "312-313"
+}

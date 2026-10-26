@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "明珠奏查正红旗副都统扎喇克图所犯情罪及兵部屡令画一拟补未遵事。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "扎喇克图",
+   "role": "正红旗副都统"
+  },
+  {
+   "name": "哈尔萨",
+   "role": "官员"
+  },
+  {
+   "name": "讷墨孙",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11707,
+ "page_range": "269-270"
+}

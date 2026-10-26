@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "二十四日戊子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝遣侍郎观音宝传谕提督张云翼，因其远来陛见衣单，赐所服羊皮只并短貂皮祖。",
+ "people": [
+  {
+   "name": "观音宝",
+   "role": "侍郎"
+  },
+  {
+   "name": "张云翼",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5016,
+ "page_range": "110-111"
+}

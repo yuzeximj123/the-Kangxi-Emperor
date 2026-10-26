@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙五十六年四月二十六日",
+ "reign_year": 56,
+ "month": 4,
+ "day": 26,
+ "event_role": "奏报地方情形",
+ "summary": "江宁巡抚吴存礼奏报江苏等地春夏雨水调匀、二麦成熟，七府一州收成九至十分，秧苗栽插顺利，米豆价格平稳，百姓安乐。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "杨朝麟",
+   "role": "江苏布政使"
+  },
+  {
+   "name": "王天福",
+   "role": "把总"
+  },
+  {
+   "name": "李秉恒",
+   "role": "吴存礼家人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江苏",
+  "徐州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 403
+}

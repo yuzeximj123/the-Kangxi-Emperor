@@ -1,0 +1,25 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": "十三日戊子",
+ "event_role": "请安谢恩",
+ "summary": "巴林荣宪公主、厄鲁特多罗贝勒和硕额驸阿宝之妻郡主遣使请安进贡。",
+ "people": [
+  {
+   "name": "荣宪公主",
+   "role": "巴林公主"
+  },
+  {
+   "name": "阿宝",
+   "role": "厄鲁特多罗贝勒和硕额驸"
+  }
+ ],
+ "places": [
+  "巴林",
+  "厄鲁特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2530,
+ "page_range": "61-62"
+}

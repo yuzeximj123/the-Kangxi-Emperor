@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "二十九日辛刻",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命速行所拟谕，行文盛京将军等整备船只，将盛京仓米五千石运至莫尔浑阿敦收贮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "吉临",
+  "乌喇",
+  "盛京",
+  "莫尔浑阿敦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18014,
+ "page_range": "370-371"
+}

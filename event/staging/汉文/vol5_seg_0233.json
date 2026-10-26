@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十二年六月十三日",
+ "reign_year": 52,
+ "month": 6,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "江苏巡抚张伯行奏报所属江苏、松江、常州、扬州、淮安、徐州等府二麦收成分数，并陈报近日米价情形。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "江苏巡抚"
+  }
+ ],
+ "places": [
+  "江苏",
+  "镇江",
+  "松江",
+  "常州",
+  "扬州",
+  "淮安",
+  "徐州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江蘇巡撫張伯行奏報二麥収成分數並報近日米價情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1596",
+ "order_index": 233
+}

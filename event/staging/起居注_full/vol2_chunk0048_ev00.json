@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就总督甘文烛追赠一事裁定：追赠兵部尚书衔，送一子入监，不必赠宫保。",
+ "people": [
+  {
+   "name": "甘文烛",
+   "role": "总督"
+  },
+  {
+   "name": "范承席",
+   "role": "参照官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4800,
+ "page_range": "139-140"
+}

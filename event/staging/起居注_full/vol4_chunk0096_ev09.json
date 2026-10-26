@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "二十日壬午",
+ "event_role": "议政听政",
+ "summary": "已时康熙御乾清门，询问诸臣意见，伊桑阿、徐元文、王申等分别奏对闭余与免税事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9609,
+ "page_range": "204-205"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请广西提督张朝午题参新太营参将王启云擅自领兵与僮人交战一案，康熙帝认为参将似有功，票拟太重，着另票拟呈。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张朝午",
+   "role": "广西提督"
+  },
+  {
+   "name": "王启云",
+   "role": "新太营参将"
+  }
+ ],
+ "places": [
+  "广西",
+  "新太营",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8602,
+ "page_range": "183-184"
+}

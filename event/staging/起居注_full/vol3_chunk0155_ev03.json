@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十日甲辰",
+ "event_role": "人事任免",
+ "summary": "翰林院题日讲官孙在丰升任、王项龄丁忧员缺，开列侍读学士田喜老等职名，康熙帝令试讲书并问人品后再奏。",
+ "people": [
+  {
+   "name": "孙在丰",
+   "role": "日讲官"
+  },
+  {
+   "name": "王项龄",
+   "role": "日讲官"
+  },
+  {
+   "name": "田喜老",
+   "role": "侍读学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15503,
+ "page_range": "345-346"
+}

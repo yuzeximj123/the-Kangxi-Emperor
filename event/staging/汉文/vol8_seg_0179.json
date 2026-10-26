@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十八年四月二十四日",
+ "reign_year": 58,
+ "month": 4,
+ "day": 24,
+ "event_role": "谕旨决策",
+ "summary": "山东巡抚李树德遵旨议奏亏空钱粮完补之法，请以通省州县耗羡捐补亏空流抵，并请定承追亏空官员代赔议叙之例。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "直隶"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "山東巡撫李樹德奏為請定承追虧空銀兩之處分等事摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2753",
+ "order_index": 179
+}

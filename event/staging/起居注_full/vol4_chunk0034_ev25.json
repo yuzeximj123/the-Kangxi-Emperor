@@ -1,0 +1,32 @@
+{
+ "reign_year": 27,
+ "month": 7,
+ "day_text": "初七日了丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝训谕噶尔图洁己行事，效法杭爱、姚缔虞，令绥绅归籍、募民开垦、军粮应时给发。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔图",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "杭爱",
+   "role": "前任官员"
+  },
+  {
+   "name": "姚缔虞",
+   "role": "前任巡抚"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3425,
+ "page_range": "80-81"
+}

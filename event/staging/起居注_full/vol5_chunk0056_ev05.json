@@ -1,0 +1,22 @@
+{
+ "reign_year": 34,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户部预行晓示各州县，如蝗种复出竭力捕灭，并宣示去年捕蝗有益之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "山东",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5605,
+ "page_range": "122-123"
+}

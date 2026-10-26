@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十六年九月初九日",
+ "reign_year": 56,
+ "month": 9,
+ "day": 9,
+ "event_role": "贸易漕运",
+ "summary": "苏州织造李煦奏报将曹寅壬辰纲应得商人余银十一万两催齐解交曹頫，以补江宁织造衙门亏空，并报交经费银五十两。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "曹寅",
+   "role": "壬辰纲应得余银原主"
+  },
+  {
+   "name": "曹頫",
+   "role": "江宁织造，接收银两补亏"
+  }
+ ],
+ "places": [
+  "苏州",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示阅知。",
+ "source_title": "蘇州織造李煦奏報齊應得餘銀交貯以備懸宕摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2517",
+ "order_index": 506
+}

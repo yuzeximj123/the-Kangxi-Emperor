@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "兵部议云贵总督贝和诺题请沅江副将林国贤在任守制不准，康熙帝命林国贤在任守制。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "贝和诺",
+   "role": "云贵总督"
+  },
+  {
+   "name": "林国贤",
+   "role": "沅江副将"
+  }
+ ],
+ "places": [
+  "沅江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10602,
+ "page_range": "223-224"
+}

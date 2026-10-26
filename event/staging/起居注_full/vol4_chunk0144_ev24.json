@@ -1,0 +1,29 @@
+{
+ "reign_year": 30,
+ "month": 3,
+ "day_text": "初七日",
+ "event_role": "人事任免",
+ "summary": "吏部议覆江南江西总督傅腊塔题请，康熙准原任同知朱国相带所降四级留任。",
+ "people": [
+  {
+   "name": "朱国相",
+   "role": "原任同知"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14424,
+ "page_range": "300-301"
+}

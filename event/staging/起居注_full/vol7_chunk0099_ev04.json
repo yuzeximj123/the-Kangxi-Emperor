@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述吴三桂叛时索额图曾奏请斩主张迁徙吴三桂之人，索额图惧而退。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴三桂",
+   "role": "叛臣"
+  },
+  {
+   "name": "索额图",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9904,
+ "page_range": "209-210"
+}

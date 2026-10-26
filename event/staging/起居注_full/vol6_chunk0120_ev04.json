@@ -1,0 +1,31 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "二十日甲申",
+ "event_role": "河工水利",
+ "summary": "九卿入奏将河工事务移文于成龙令其详视河道，康熙帝谕以修清水所出之口为要并论黄河水势。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道官员"
+  },
+  {
+   "name": "董安国",
+   "role": "前河道官员"
+  }
+ ],
+ "places": [
+  "洪泽湖",
+  "高邮",
+  "运河",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12004,
+ "page_range": "250-251"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": "初三日壬申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责问吏部尚书库勒纳等误议革职卢腾龙等又掩饰议覆之事，库勒纳等免冠叩头而出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "兴永朝",
+   "role": "总漕"
+  },
+  {
+   "name": "卢腾龙",
+   "role": "知府"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25011,
+ "page_range": "512-513"
+}

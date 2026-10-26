@@ -1,0 +1,44 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "二十七日丙成",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士马齐等以折本请旨，覆请吏部所题礼部侍郎草山等员缺开列事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "查弱纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "酒克旦",
+   "role": "学士"
+  },
+  {
+   "name": "勒什布",
+   "role": "学士"
+  },
+  {
+   "name": "萨哈布",
+   "role": "学士"
+  },
+  {
+   "name": "尼雅达",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14607,
+ "page_range": "303-304"
+}

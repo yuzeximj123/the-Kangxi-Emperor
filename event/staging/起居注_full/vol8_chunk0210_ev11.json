@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": "二十二日癸酉",
+ "event_role": "人事任免",
+ "summary": "吏部议覆浙江巡抚朱轼题请提督学政汪滁再留三年不准，康熙帝以汪滁已经留任，令这本着发还。",
+ "people": [
+  {
+   "name": "朱轼",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "汪滁",
+   "role": "提督学政"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21011,
+ "page_range": "431-432"
+}

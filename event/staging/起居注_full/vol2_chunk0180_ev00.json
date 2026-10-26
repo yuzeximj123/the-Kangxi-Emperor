@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以刑部侍郎能一潇为人厚重、办事有才，命调补督捕侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "能一潇",
+   "role": "刑部侍郎，调补督捕侍郎"
+  },
+  {
+   "name": "王守才",
+   "role": "学士，开列职名"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18000,
+ "page_range": "403-404"
+}

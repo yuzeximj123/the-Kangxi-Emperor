@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "初三日乙酉",
+ "event_role": "其他",
+ "summary": "赐进贡之归化城达赖绰尔吉喇嘛并鄂尔多斯乡导佐领巴特马力士守纳及献羊人等白金。",
+ "people": [
+  {
+   "name": "达赖绰尔吉",
+   "role": "喇嘛"
+  },
+  {
+   "name": "巴特马力士守纳",
+   "role": "鄂尔多斯乡导佐领"
+  }
+ ],
+ "places": [
+  "归化城",
+  "鄂尔多斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17712,
+ "page_range": "364-365"
+}

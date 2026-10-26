@@ -1,0 +1,27 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "常鼐奏称曾到上海，答康熙帝问乍浦、上海船只往来及上海苏州人载本地纱绸布匹至长岐岛卖与倭国、回装红铜海菜贩卖等情。",
+ "people": [
+  {
+   "name": "常鼐",
+   "role": "起居注官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "上海",
+  "乍浦",
+  "长岐岛",
+  "松江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15710,
+ "page_range": "325-326"
+}

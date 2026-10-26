@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "二十六日辛巳",
+ "event_role": "请安谢恩",
+ "summary": "巳时康熙帝前往太皇太后、皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1814,
+ "page_range": "79-80"
+}

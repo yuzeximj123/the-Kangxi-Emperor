@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 8,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "event_summary": "本日起居注官归允肃、多奇记录。",
+ "people": [
+  {
+   "name": "归允肃",
+   "role": "起居注官"
+  },
+  {
+   "name": "多奇",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18404,
+ "page_range": "403-404"
+}

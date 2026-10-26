@@ -1,0 +1,29 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "二十七日丙午",
+ "event_role": "人事任免",
+ "summary": "理藩院题索伦总管博魁员缺，康熙帝以塔尔瑚兰曾率四十人往雅克萨侦探遇厄罗斯交战有功，命升补索伦总管。",
+ "people": [
+  {
+   "name": "塔尔瑚兰",
+   "role": "佐领"
+  },
+  {
+   "name": "博魁",
+   "role": "索伦总管"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "雅克萨",
+  "索伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19522,
+ "page_range": "402-403"
+}

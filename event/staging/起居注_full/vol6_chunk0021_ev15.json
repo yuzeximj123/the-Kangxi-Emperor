@@ -1,0 +1,40 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十四日庚子",
+ "event_role": "人事任免",
+ "summary": "吏部因浙江巡抚线一信员缺开列学士罗察等职名，康熙帝问九卿意见，伊桑阿奏九卿称张僵供应军需不曾派、汪查居官亦好。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "罗察",
+   "role": "学士"
+  },
+  {
+   "name": "线一信",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "张僵",
+   "role": "官员"
+  },
+  {
+   "name": "汪查",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2115,
+ "page_range": "52-53"
+}

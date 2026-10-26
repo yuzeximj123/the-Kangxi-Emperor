@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "初二日丁未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自娘娘庙登岸，往阅高家堰堤工，驻跸关王庙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "娘娘庙",
+  "高家堰",
+  "关王庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5317,
+ "page_range": "117-118"
+}

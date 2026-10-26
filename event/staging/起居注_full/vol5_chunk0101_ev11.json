@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "三十日丙辰",
+ "event_role": "朝见受贺",
+ "summary": "昌平州驻防防守尉穆锡泰、霸昌道高必弘、昌平州参将徐登甲等来朝。",
+ "people": [
+  {
+   "name": "穆锡泰",
+   "role": "昌平州驻防防守尉"
+  },
+  {
+   "name": "高必弘",
+   "role": "霸昌道"
+  },
+  {
+   "name": "徐登甲",
+   "role": "昌平州参将"
+  }
+ ],
+ "places": [
+  "昌平州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10111,
+ "page_range": "212-213"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "二十九日戊申",
+ "event_role": "谕旨决策",
+ "summary": "将军马哈达题请查缉逃人，督捕议不准行，康熙帝命九卿等官会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马哈达",
+   "role": "将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8807,
+ "page_range": "219-220"
+}

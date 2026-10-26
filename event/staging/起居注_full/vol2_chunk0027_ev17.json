@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "初六日辛卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补云、贵文职官员，明珠建议要缺就近补授、其余自京师选授预令前往，康熙帝同意。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云",
+  "贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2717,
+ "page_range": "97-98"
+}

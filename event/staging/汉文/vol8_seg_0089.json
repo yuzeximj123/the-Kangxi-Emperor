@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十七年七月十五日",
+ "reign_year": 57,
+ "month": 7,
+ "day": 14,
+ "event_role": "请安谢恩",
+ "summary": "湖广提督高其位因久离朝廷、瞻仰无由，特差家人高孝及马兵张轨、徐齐恭请皇帝圣安。",
+ "people": [
+  {
+   "name": "高其位",
+   "role": "湖广提督，奏请人"
+  },
+  {
+   "name": "高孝",
+   "role": "差遣家人"
+  },
+  {
+   "name": "张轨",
+   "role": "马兵"
+  },
+  {
+   "name": "徐齐",
+   "role": "马兵"
+  }
+ ],
+ "places": [
+  "楚省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批告知皇帝安好。",
+ "source_title": "福州將軍黃秉鉞奏報閩省早稻收成分數並米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2655",
+ "order_index": 89
+}

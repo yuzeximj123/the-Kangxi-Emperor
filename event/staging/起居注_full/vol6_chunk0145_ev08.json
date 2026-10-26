@@ -1,0 +1,34 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚李光地题欧州知州员缺，康熙帝命将三河县知县陈廷柏补授，所遗员缺令该抚选择奏闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "张延龄",
+   "role": "平谷县知县"
+  },
+  {
+   "name": "陈廷柏",
+   "role": "三河县知县"
+  }
+ ],
+ "places": [
+  "欧州",
+  "平谷县",
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14508,
+ "page_range": "300-301"
+}

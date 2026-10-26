@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "初四日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥孙果部议未明，责其不体任用之意、所行不端，并责勒德洪之子通义品行不端、结交败坏父名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙果",
+   "role": "部院官员"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "通义",
+   "role": "勒德洪之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20033,
+ "page_range": "435-436"
+}

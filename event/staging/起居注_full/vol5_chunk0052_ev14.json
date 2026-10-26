@@ -1,0 +1,23 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "二十一日甲寅",
+ "event_role": "军务",
+ "summary": "兵部题沙纳海请移驻官兵于白都纳并添防守尉，康熙命停添兵，议添补官员。",
+ "people": [
+  {
+   "name": "沙纳海",
+   "role": "白都纳副都统"
+  }
+ ],
+ "places": [
+  "白都纳",
+  "西白瓜尔查",
+  "黑龙江",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5214,
+ "page_range": "114-115"
+}

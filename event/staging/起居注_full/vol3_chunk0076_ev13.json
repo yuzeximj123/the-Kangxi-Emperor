@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "二十日庚戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕明珠，令学士不时严行稽察巡幸中强行买卖扰害百姓者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "雄县十里铺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7613,
+ "page_range": "187-188"
+}

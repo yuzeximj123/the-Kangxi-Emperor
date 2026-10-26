@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就举荐之事谕示马齐，举荐之事最宜从公。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "奏事大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4501,
+ "page_range": "101-102"
+}

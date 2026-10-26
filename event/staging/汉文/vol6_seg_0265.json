@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十五年二月初六日",
+ "reign_year": 55,
+ "month": 2,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "肃州总兵路振声奏谢钦差侍卫至巴尔库尔军前颁赐鹿尾素珠缎匹等物，率官兵望阙叩头谢恩，并表示愿奋力剿贼以报皇恩。",
+ "people": [
+  {
+   "name": "路振声",
+   "role": "陕西肃州总兵官"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "肃州",
+  "巴尔库尔",
+  "喀尔喀"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，所奏之事已知悉。",
+ "source_title": "肃州总兵路振声奏谢钦差侍卫颁赐克食折",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 265
+}

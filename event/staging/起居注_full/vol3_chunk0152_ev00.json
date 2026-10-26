@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿认为王国安居官不善，应解任，康熙帝令其仍留原任，待新巡抚到后再看。",
+ "people": [
+  {
+   "name": "王国安",
+   "role": "被议官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15200,
+ "page_range": "339-340"
+}

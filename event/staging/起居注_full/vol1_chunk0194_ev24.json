@@ -1,0 +1,44 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "初二日奖北",
+ "event_role": "司法案件",
+ "summary": "刑部议楚省民胡玉舒纠众夺寡妇管氏与其子为妻应拟绞事，康熙帝以子占寡妇为妻未治罪为疑，令再行确议。",
+ "people": [
+  {
+   "name": "胡玉舒",
+   "role": "楚省民"
+  },
+  {
+   "name": "管氏",
+   "role": "寡妇"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "汉溥",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "楚省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19424,
+ "page_range": "445-446"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "初九日庚午",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙幸西苑亲试中式武举步射及开弓舞刀掇石，召明珠等同观，试毕论今科武举马步射可观者绝少。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "魏象枢",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "西苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19616,
+ "page_range": "449-450"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命将邵吴远、王封洪补充讲官缺额，仍带讲官衔照常办事。",
+ "people": [
+  {
+   "name": "邵吴远",
+   "role": "补授讲官"
+  },
+  {
+   "name": "王封洪",
+   "role": "补授讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18200,
+ "page_range": "407-408"
+}

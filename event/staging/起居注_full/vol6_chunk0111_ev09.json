@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十六日辛亥",
+ "event_role": "人事任免",
+ "summary": "康熙帝以苏赫懒惰革其护军统领官，交裕亲王差遣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏赫",
+   "role": "镶白旗护军统领"
+  },
+  {
+   "name": "裕亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11109,
+ "page_range": "232-233"
+}

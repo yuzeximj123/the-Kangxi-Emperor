@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "初一日庚辰",
+ "event_role": "请安谢恩",
+ "summary": "巳时康熙帝诣太皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8123,
+ "page_range": "205-206"
+}

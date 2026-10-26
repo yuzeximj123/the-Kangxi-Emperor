@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令马思喀所统之兵资两月粮，余粮用船装运，所余众人携带，再余者于成龙等运至白塔地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马思喀",
+   "role": "将军"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "白塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21410,
+ "page_range": "438-439"
+}

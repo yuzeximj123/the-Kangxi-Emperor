@@ -1,0 +1,33 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": "初五日己酉",
+ "event_role": "司法案件",
+ "summary": "刑部题浙江仁和县盗犯陈茂生等拟立斩，康熙帝令为首正法、余从宽发黑龙江为新满洲兵奴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈茂生",
+   "role": "盗犯"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "浙江仁和县",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3815,
+ "page_range": "86-87"
+}

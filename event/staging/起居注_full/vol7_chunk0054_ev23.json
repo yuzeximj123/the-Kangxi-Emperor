@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "二十三日戊辰",
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官揆叙、陈壮履记录。",
+ "people": [
+  {
+   "name": "揆叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "陈壮履",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5423,
+ "page_range": "119-120"
+}

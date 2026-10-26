@@ -1,0 +1,21 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就东京辽阳官兵移住盖州事降旨，认为官兵久居本地各有产业，移住必致受累，海寇皆步行，调邻近官兵即可，着不必移住。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东京辽阳",
+  "盖州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15800,
+ "page_range": "327-328"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "十三日壬午",
+ "event_role": "人事任免",
+ "summary": "兵部题盛京佐领金色勒革职员缺，拟伊弟兄素正、扎思图陪，康熙从伊桑阿议，命金色勒仍为佐领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金色勒",
+   "role": "盛京佐领（留任）"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "伊弟兄素",
+   "role": "拟正"
+  },
+  {
+   "name": "扎思图",
+   "role": "拟陪"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4714,
+ "page_range": "106-107"
+}

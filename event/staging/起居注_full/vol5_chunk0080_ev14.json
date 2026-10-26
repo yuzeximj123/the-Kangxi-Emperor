@@ -1,0 +1,23 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十四日吴未",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝谕户部，直隶顺天、保定、河间、永平四府所属地方今岁水涝伤稼，巡幸所至遍加咨访，闻高阜之产尚有秋成。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺天府",
+  "保定府",
+  "河间府",
+  "永平府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8014,
+ "page_range": "170-171"
+}

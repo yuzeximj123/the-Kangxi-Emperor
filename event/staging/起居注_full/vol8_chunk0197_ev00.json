@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请议处采东珠缺少事，拟将总管称克登解任，康熙命称克登仍留原任。",
+ "people": [
+  {
+   "name": "称克登",
+   "role": "总管"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19700,
+ "page_range": "405-406"
+}

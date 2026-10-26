@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "十六日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召勒德洪、明珠传谕九卿，称京师为根本之地久旱可忧，欲亲行祈祷，命大小臣工尽诚斋戒实心祈祷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22812,
+ "page_range": "491-492"
+}

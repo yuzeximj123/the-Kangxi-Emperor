@@ -1,0 +1,36 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "奏折残件叙述军功人员效力及升赏情况，提及总兵吴光葛、守备刘英等原任立功累升及休致、袭职等事。",
+ "people": [
+  {
+   "name": "吴光葛",
+   "role": "总兵"
+  },
+  {
+   "name": "刘英",
+   "role": "原任守备，年老告终休致"
+  },
+  {
+   "name": "吴德麟",
+   "role": "原任官员，吴世昌之父"
+  },
+  {
+   "name": "吴世昌",
+   "role": "通判"
+  }
+ ],
+ "places": [
+  "费家古城"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（残件）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 389
+}

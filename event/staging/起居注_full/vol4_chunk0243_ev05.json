@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "初一日辛未",
+ "event_role": "人事任免",
+ "summary": "鸿胪寺少卿员缺，康熙帝以拟正拟陪俱年少，着升太常寺寺丞西哈纳为鸿胪寺少卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索柱",
+   "role": "赞善"
+  },
+  {
+   "name": "萨哈齐",
+   "role": "拟陪"
+  },
+  {
+   "name": "西哈纳",
+   "role": "太常寺寺丞"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24305,
+ "page_range": "498-499"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "十一日辛已",
+ "event_role": "人事任免",
+ "summary": "提督孙思克题请以江西九江营副将岳异龙调补副将员缺，康熙称曾召见岳异龙人材果优，命问兵部原保题之人具奏。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "提督"
+  },
+  {
+   "name": "岳异龙",
+   "role": "江西九江营副将"
+  }
+ ],
+ "places": [
+  "江西",
+  "九江营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24415,
+ "page_range": "500-501"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "二十八日甲实",
+ "event_role": "弹劾参奏",
+ "summary": "都察院为长芦巡盐御史迈色有罪拟革职拿问，康熙帝令姑勿拿问，俟赵弘尝审奏时再奏推缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "迈色",
+   "role": "长芦巡盐御史"
+  },
+  {
+   "name": "赵弘尝",
+   "role": "审案官员"
+  }
+ ],
+ "places": [
+  "长芦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11716,
+ "page_range": "245-246"
+}

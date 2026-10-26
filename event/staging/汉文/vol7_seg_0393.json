@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十九年四月二十五日",
+ "reign_year": 59,
+ "month": 4,
+ "day": 25,
+ "event_role": "贸易漕运",
+ "summary": "李煦代两淮众商奏请再借帑银一百二十万两，分十年完纳，并进呈商人呈子，请旨裁示。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奴才，上奏人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批断然拒绝借帑一事，命再不要提及。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 393
+}

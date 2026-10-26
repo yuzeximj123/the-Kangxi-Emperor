@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十七年五月二十八日",
+ "reign_year": 47,
+ "month": 5,
+ "day": 28,
+ "event_role": "奏报灾情收成",
+ "summary": "广东巡抚范时崇奏报广东早禾收成约九分、米价低廉、民生安宁，并请皇上圣安。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "广东巡抚，奏报人"
+  },
+  {
+   "name": "马世德",
+   "role": "差遣赍投奏折的家人"
+  }
+ ],
+ "places": [
+  "广东",
+  "江浙",
+  "岭南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "廣東巡撫范時崇奏報早禾收成九分摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "357",
+ "order_index": 18
+}

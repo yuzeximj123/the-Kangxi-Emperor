@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 4,
+ "day_text": "初七日甲申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝认为刘源系魏象枢题参革职之人，不可复原官，令还其原衔闲住，本发回京再裁酌。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘源",
+   "role": "原任主事"
+  },
+  {
+   "name": "魏象枢",
+   "role": "参劾者"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11708,
+ "page_range": "277-278"
+}

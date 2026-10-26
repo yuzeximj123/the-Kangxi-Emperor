@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "初七日辛卯",
+ "event_role": "人事任免",
+ "summary": "礼部题云贵正、副主考开列编修沈宗敬等职名，康熙以本内开列之人内外皆知、近年主考声名不佳，令问九卿具奏。",
+ "people": [
+  {
+   "name": "沈宗敬",
+   "role": "编修"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18515,
+ "page_range": "381-382"
+}

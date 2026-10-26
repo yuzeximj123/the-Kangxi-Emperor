@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝批评工部修盖内中数处估价浮银六千余两，责萨木哈、党古里等不肯尽心，命照朕所估由内中官员制造。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨木哈",
+   "role": "尚书"
+  },
+  {
+   "name": "党古里",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12500,
+ "page_range": "293-294"
+}

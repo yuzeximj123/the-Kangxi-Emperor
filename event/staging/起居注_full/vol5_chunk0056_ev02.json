@@ -1,0 +1,25 @@
+{
+ "reign_year": 34,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "宁夏、兰州驻防官兵住房议给民房，康熙帝令另造房以居官兵，并着问赵良栋具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵良栋",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "兰州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5602,
+ "page_range": "122-123"
+}

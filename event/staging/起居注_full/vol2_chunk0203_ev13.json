@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十四日甲实",
+ "event_role": "人事任免",
+ "summary": "兵部题副将周球请旨追赠职衔，康熙帝命加赠太子少保。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  },
+  {
+   "name": "萨海",
+   "role": "学士"
+  },
+  {
+   "name": "周球",
+   "role": "副将"
+  },
+  {
+   "name": "许占魁",
+   "role": "延绥总兵"
+  }
+ ],
+ "places": [
+  "延绥",
+  "毅州",
+  "永兴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20313,
+ "page_range": "449-450"
+}

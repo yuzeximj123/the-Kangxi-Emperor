@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝论鸟枪伤人案，认为鸟枪杀人因一时未中要害故延至十八日死，未曾折抵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19100,
+ "page_range": "393-394"
+}

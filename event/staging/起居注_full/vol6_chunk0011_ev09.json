@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "十八日乙未",
+ "event_role": "司法案件",
+ "summary": "兵部议将军孙思克所题通事马一善与守备于奋腾对质成案，康熙帝令照提督所奏完结，不必再令对质。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "马一善",
+   "role": "通事"
+  },
+  {
+   "name": "于奋腾",
+   "role": "守备"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1109,
+ "page_range": "32-33"
+}

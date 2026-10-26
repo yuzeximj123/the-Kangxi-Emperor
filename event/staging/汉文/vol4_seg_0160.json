@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十二年",
+ "reign_year": 52,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "福州将军祖良璧奏报福州府早禾晚稻栽插及雨水调匀、禾苗茂盛情形，并恭请圣安。",
+ "people": [
+  {
+   "name": "祖良璧",
+   "role": "福州将军"
+  },
+  {
+   "name": "祖世荣",
+   "role": "福州将军（题本署名）"
+  }
+ ],
+ "places": [
+  "福州",
+  "福州府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝答复圣安，并提及近日京中少雨。",
+ "source_title": "福州將軍祖良璧奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1158",
+ "order_index": 160
+}

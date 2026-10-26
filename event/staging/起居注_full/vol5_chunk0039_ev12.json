@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "十四日己卯",
+ "event_role": "起居注官记录",
+ "summary": "记载此次出行中，部院各衙门奏章每日交送内阁，内阁每三日一次传送行宫听理；扈从起居注官为常书、尹泰。",
+ "people": [
+  {
+   "name": "常书",
+   "role": "起居注官"
+  },
+  {
+   "name": "尹泰",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3912,
+ "page_range": "88-89"
+}

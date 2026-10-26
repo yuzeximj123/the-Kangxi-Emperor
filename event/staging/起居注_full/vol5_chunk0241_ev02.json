@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙斥温保任山西巡抚恣意贪杖致百姓离散，其属谢廷机、周贞不堪，保举如此岂可姑容。",
+ "people": [
+  {
+   "name": "温保",
+   "role": "学士/山西巡抚"
+  },
+  {
+   "name": "谢廷机",
+   "role": "萍州知州"
+  },
+  {
+   "name": "周贞",
+   "role": "山阴知县"
+  }
+ ],
+ "places": [
+  "山西",
+  "萍州",
+  "山阴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24102,
+ "page_range": "492-493"
+}

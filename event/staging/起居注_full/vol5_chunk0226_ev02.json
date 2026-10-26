@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赐领侍卫内大臣索额图、内大臣明珠、大学士伊桑阿、左都御史于成龙等鱼，又赐鄂尔多斯蒙古吴巴什等白金。",
+ "people": [
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  },
+  {
+   "name": "吴巴什",
+   "role": "鄂尔多斯蒙古"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22602,
+ "page_range": "462-463"
+}

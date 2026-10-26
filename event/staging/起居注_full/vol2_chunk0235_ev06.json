@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝论吉梦麟掘五服以内尊长坟开棺见尸凡七，斥为天下凶恶人；又论田三、朱条掘主坟开棺窃物，朱条罪更甚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吉梦麟",
+   "role": "案犯"
+  },
+  {
+   "name": "田三",
+   "role": "案犯"
+  },
+  {
+   "name": "朱条",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23506,
+ "page_range": "513-514"
+}

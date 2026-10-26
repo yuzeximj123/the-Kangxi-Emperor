@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 8,
+ "day_text": "初四日己巳",
+ "event_role": "司法案件",
+ "summary": "兵部题黑龙江副都统关保、协领都尔代等疲劳驿站，议革职、鞭一百、枷号两月。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "黑龙江副都统"
+  },
+  {
+   "name": "都尔代",
+   "role": "协领"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10714,
+ "page_range": "224-225"
+}

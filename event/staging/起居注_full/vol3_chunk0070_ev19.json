@@ -1,0 +1,20 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "十八日戊实",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以有事祈谷坛，斋戒三日，不理政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7019,
+ "page_range": "175-176"
+}

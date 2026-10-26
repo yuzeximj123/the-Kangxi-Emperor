@@ -1,0 +1,38 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十六日辛卯",
+ "event_role": "人事任免",
+ "summary": "兵部题补正红旗护军参领员缺，康熙帝以瓦尔达曾效力行间，令补授瓦尔达。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "巴喀",
+   "role": "阿达哈哈番散骑郎"
+  },
+  {
+   "name": "瓦尔达",
+   "role": "佐领"
+  },
+  {
+   "name": "郭四海",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "尹图",
+   "role": "护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13915,
+ "page_range": "321-322"
+}

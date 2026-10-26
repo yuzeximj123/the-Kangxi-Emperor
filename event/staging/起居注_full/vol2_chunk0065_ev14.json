@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "初八日己未",
+ "event_role": "人事任免",
+ "summary": "吏部题补广东布政使，正拟马斯良、陪拟余三汲，康熙帝称马斯良平常，命九卿会同选择。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马斯良",
+   "role": "按察使"
+  },
+  {
+   "name": "余三汲",
+   "role": "拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "屯泰",
+   "role": "题参者"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6514,
+ "page_range": "173-174"
+}

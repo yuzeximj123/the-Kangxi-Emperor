@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初二日庚午",
+ "event_role": "谕旨决策",
+ "summary": "宗人府会同吏部议觉罗、满洲官员一体参用事，康熙帝以宗人府品级不同、所议未合，命再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "蔡冲阿",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22011,
+ "page_range": "483-484"
+}

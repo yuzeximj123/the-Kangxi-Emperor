@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": "二十一日癸卯",
+ "event_role": "人事任免",
+ "summary": "吏部以贵州布政使孟世泰员缺拟升四川按察使李兴祖，康熙帝令照前问九卿写折具奏。",
+ "people": [
+  {
+   "name": "孟世泰",
+   "role": "贵州布政使"
+  },
+  {
+   "name": "李兴祖",
+   "role": "四川按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 106,
+ "page_range": "13-14"
+}

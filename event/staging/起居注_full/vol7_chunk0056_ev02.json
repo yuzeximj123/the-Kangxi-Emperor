@@ -1,0 +1,34 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问王式丹乡试名次及赵晋学问，许汝霖、王鸿绪等奏对，又称陈邦彦书法颇佳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许汝霖",
+   "role": "读卷官"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "读卷官"
+  },
+  {
+   "name": "陈邦彦",
+   "role": "二甲第六名进士"
+  },
+  {
+   "name": "陈元龙",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5602,
+ "page_range": "123-124"
+}

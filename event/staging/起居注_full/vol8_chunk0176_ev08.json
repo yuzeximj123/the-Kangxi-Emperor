@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "十八日癸卯",
+ "event_role": "起居注官记录",
+ "summary": "此行各部院奏章日送内阁，内阁三日一次递送行宫听理，康熙随报请皇太后安五次，扈从起居注官为常寿、阿克敦。",
+ "people": [
+  {
+   "name": "常寿",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "阿克敦",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "皇太后",
+   "role": "受请安者"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17608,
+ "page_range": "363-364"
+}

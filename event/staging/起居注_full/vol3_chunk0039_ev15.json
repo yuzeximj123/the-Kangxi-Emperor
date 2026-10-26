@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "十七日庚成",
+ "event_role": "人事任免",
+ "summary": "吏部题本部尚书宋德宜升任员缺，康熙帝以兵部尚书李之芳为人厚重，着转补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋德宜",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "李之芳",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "杜至",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3915,
+ "page_range": "113-114"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "二十五日甲戌",
+ "event_role": "朝见受贺",
+ "summary": "太平路都司佥书程应运等来朝。",
+ "people": [
+  {
+   "name": "程应运",
+   "role": "太平路都司佥书"
+  }
+ ],
+ "places": [
+  "太平路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9223,
+ "page_range": "227-228"
+}

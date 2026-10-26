@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "初二日辛卯",
+ "event_role": "朝见受贺",
+ "summary": "霸昌合事道许兆己等、密云县守备胡守因等来朝。",
+ "people": [
+  {
+   "name": "许兆己",
+   "role": "霸昌合事道"
+  },
+  {
+   "name": "胡守因",
+   "role": "密云县守备"
+  }
+ ],
+ "places": [
+  "霸昌",
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9511,
+ "page_range": "225-226"
+}

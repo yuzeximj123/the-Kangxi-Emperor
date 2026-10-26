@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "十九日戊辰",
+ "event_role": "人事任免",
+ "summary": "镶蓝旗护军参领员缺，康熙帝询问效力多者为何不拟，命传问该旗再行具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "息德",
+   "role": "拟正前锋护卫"
+  },
+  {
+   "name": "胡礼",
+   "role": "拟陪拜他喇布勒哈番"
+  },
+  {
+   "name": "马喀",
+   "role": "效力人员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7910,
+ "page_range": "201-202"
+}

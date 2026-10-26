@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十六年正月初一日",
+ "reign_year": 56,
+ "month": null,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "直隶总督赵弘燮奏报保定郡城于康熙五十五年十二月二十八日得雪，自卯时起至未时止，清苑县查报积雪三寸，先行具折恭闻。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "总督直隶巡抚事务、兵部右侍郎兼都察院右副都御史加四级，奏报人"
+  }
+ ],
+ "places": [
+  "保定郡城",
+  "清苑县",
+  "京中"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批称知道了，并指出此次降雪范围甚广，京城雪更大。",
+ "source_title": "直隸總督趙弘燮奏報得雪摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2202",
+ "order_index": 300
+}

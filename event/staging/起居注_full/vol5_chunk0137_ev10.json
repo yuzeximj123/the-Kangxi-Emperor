@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十日乙北",
+ "event_role": "奏报地方情形",
+ "summary": "镇守黑龙江将军萨布素、副都统喀戒常移文行在兵部，言奉旨准盛京、乌喇兵前来驻扎，萨布素领所属兵。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "镇守黑龙江将军"
+  },
+  {
+   "name": "喀戒常",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "盛京",
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13710,
+ "page_range": "284-285"
+}

@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙四十九年閏七月二十一日",
+ "reign_year": 49,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "延绥总兵李耀德奏报康熙巡幸口外恭请圣安，并转述接奉谕旨询问西洋画人及哆啰病故等事。",
+ "people": [
+  {
+   "name": "李耀德",
+   "role": "延绥总兵，奏折具奏人"
+  },
+  {
+   "name": "吕范时",
+   "role": "总黄旗参领，转传圣旨"
+  },
+  {
+   "name": "赵昌",
+   "role": "口传圣旨的传旨人"
+  },
+  {
+   "name": "哆啰",
+   "role": "已病故之人，曾受询问"
+  }
+ ],
+ "places": [
+  "口外"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "延綏總兵李耀德奏駕巡幸口外恭請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "714",
+ "order_index": 6
+}

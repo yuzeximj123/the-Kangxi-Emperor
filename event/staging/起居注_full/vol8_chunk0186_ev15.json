@@ -1,0 +1,23 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "十一日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士九卿等，通仓积米甚多，令详议将江西湖广漕粮截留几十万石留贮江浙备荒，并论捐纳不可行、凡事宜先事筹划。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通仓",
+  "江西",
+  "湖广",
+  "江浙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18615,
+ "page_range": "383-384"
+}

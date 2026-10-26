@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝言今天下太平日久曾经战阵大臣已少，知海战之法者益希，日后台湾可虑，台湾一失难以复得，李光地等奏皇上威德台湾永无可虑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13021,
+ "page_range": "271-272"
+}

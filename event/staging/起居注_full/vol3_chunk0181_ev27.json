@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "二十六日成申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问大学士九卿之议如何，明珠等以 后议为然，宋德宜谓后议固是而前议亦未为不可，康熙帝谓理无二是。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18127,
+ "page_range": "397-398"
+}

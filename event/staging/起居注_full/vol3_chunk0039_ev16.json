@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "十七日庚成",
+ "event_role": "人事任免",
+ "summary": "内阁学士汤斌升任员缺，康熙帝以郎中范承勋操守廉善、父兄有成绩，着升补学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "内阁学士"
+  },
+  {
+   "name": "葛弘道",
+   "role": "少詹事"
+  },
+  {
+   "name": "范承勋",
+   "role": "郎中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3916,
+ "page_range": "113-114"
+}

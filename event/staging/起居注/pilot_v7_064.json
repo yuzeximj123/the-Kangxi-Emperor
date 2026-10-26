@@ -1,0 +1,40 @@
+{
+ "date_raw": "康熙四十五年二月初四日",
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "初四日己未",
+ "event_role": "人事任免",
+ "summary": "兵部侍郎满丕引提督马进良题推昌平营参将等缺人员引见，康熙帝以越级无军功命另拟补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "满丕",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "马进良",
+   "role": "提督"
+  },
+  {
+   "name": "张世贤",
+   "role": "游击"
+  },
+  {
+   "name": "张守奎",
+   "role": "都司"
+  },
+  {
+   "name": "赵国良",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "昌平营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3064
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "初八日庚申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士马齐、学士来道、常寿以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "来道",
+   "role": "学士"
+  },
+  {
+   "name": "常寿",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22939,
+ "page_range": "468-469"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记是日起居注官为凑绍去、海宝。",
+ "people": [
+  {
+   "name": "凑绍去",
+   "role": "起居注官"
+  },
+  {
+   "name": "海宝",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10112,
+ "page_range": "213-214"
+}

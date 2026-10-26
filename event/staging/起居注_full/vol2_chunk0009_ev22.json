@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十四日庚子",
+ "event_role": "其他",
+ "summary": "讲官库勒纳、牛钮、常书进讲，康熙帝亲讲六五厥孚交如三节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 922,
+ "page_range": "61-62"
+}

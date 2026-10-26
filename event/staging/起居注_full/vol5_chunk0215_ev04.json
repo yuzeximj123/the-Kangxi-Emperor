@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "侍郎安布禄交批本存柱转奏厄鲁特奏章，康熙帝降旨知道了。",
+ "people": [
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "存柱",
+   "role": "批本官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21504,
+ "page_range": "440-441"
+}

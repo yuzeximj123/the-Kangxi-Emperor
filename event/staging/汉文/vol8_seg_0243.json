@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十九年三月初三日",
+ "reign_year": 59,
+ "month": 3,
+ "day": 3,
+ "event_role": "人事任免",
+ "summary": "四川总督年羹尧密奏请求以原任吏部侍郎塞尔图署理四川总督印务，以便自己安心领兵进剿西藏。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川总督，奏请人"
+  },
+  {
+   "name": "塞尔图",
+   "role": "原任吏部侍郎，被推荐署理四川总督"
+  },
+  {
+   "name": "噶尔弼",
+   "role": "进军统领，被建议独领兵进剿"
+  }
+ ],
+ "places": [
+  "四川",
+  "西藏"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并说明因是密摺已另封发去。",
+ "source_title": "四川總督年羹堯奏以塞爾圖署理總督摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2853",
+ "order_index": 243
+}

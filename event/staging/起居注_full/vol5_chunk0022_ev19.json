@@ -1,0 +1,33 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初二日戊辰",
+ "event_role": "司法案件",
+ "summary": "大理寺正卿陈玫器奏请为其父陈启泰殉节赐恤，康熙帝命不拘定例与谥以示旌表，并议陈丹赤死难事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈玫器",
+   "role": "大理寺正卿"
+  },
+  {
+   "name": "陈启泰",
+   "role": "道员"
+  },
+  {
+   "name": "陈丹赤",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "福建",
+  "温州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2219,
+ "page_range": "54-55"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "二十九日癸卯",
+ "event_role": "人事任免",
+ "summary": "新科进士等近前，康熙帝亲选庶吉士，并谕大学士、学士及兼管翰林院事左都御史把叙、侍郎汤右曾翰林官须读书积行之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "把叙",
+   "role": "左都御史兼管翰林院事"
+  },
+  {
+   "name": "汤右曾",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4313,
+ "page_range": "97-98"
+}

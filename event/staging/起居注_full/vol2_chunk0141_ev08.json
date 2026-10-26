@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "二十五日庚子",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门视朝，文武升转官员谢恩，噶尔丹博硕克图汗下台吉额尔克等进贡行礼，赐茶后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额尔克",
+   "role": "噶尔丹博硕克图汗下台吉"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14108,
+ "page_range": "325-326"
+}

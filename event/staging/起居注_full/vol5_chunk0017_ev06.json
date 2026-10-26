@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "十八日乙西",
+ "event_role": "人事任免",
+ "summary": "吏部题湖广总督员缺，开列侍郎布颜图等职名；康熙帝以原湖广巡抚吴瑞居官素善，令查其是否服阕具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴瑞",
+   "role": "原湖广巡抚"
+  },
+  {
+   "name": "布颜图",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1706,
+ "page_range": "44-45"
+}

@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十二年十月初六日",
+ "reign_year": 52,
+ "month": 10,
+ "day": 6,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州、扬州入冬后天气晴和、收割完毕、地方宁静、百姓乐业，并呈报两地米麦价格及九月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "福州",
+  "扬州",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報蘇揚米價並進晴雨冊摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1448",
+ "order_index": 80
+}

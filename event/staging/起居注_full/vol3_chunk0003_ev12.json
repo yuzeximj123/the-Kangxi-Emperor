@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "三十日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部侍郎员缺，康熙帝命察应升官员职名，并论内阁学士平常。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "禅塔海",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "石柱",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 312,
+ "page_range": "41-42"
+}

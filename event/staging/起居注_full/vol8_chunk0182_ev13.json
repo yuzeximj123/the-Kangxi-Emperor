@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "十二日丁卯",
+ "event_role": "人事任免",
+ "summary": "大学士马齐等查署理石匣副将事务参领张致历升缘由呈览，康熙帝令张致补授石匣副将。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张致",
+   "role": "署理石匣副将事务参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "石匣"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18213,
+ "page_range": "375-376"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 17,
+ "month": 6,
+ "day_text": "十七日两成",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御太和殿，视礼天祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16405,
+ "page_range": "385-386"
+}

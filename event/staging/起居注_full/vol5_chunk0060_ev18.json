@@ -1,0 +1,21 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "初二日癸辫",
+ "event_role": "军务",
+ "summary": "兵部题山海关总管车尔布赫请增添官兵，康熙帝以山海关紧要准添兵二十名，命再议添官及解送罪犯换兵事宜。",
+ "people": [
+  {
+   "name": "车尔布赫",
+   "role": "山海关总管"
+  }
+ ],
+ "places": [
+  "山海关",
+  "玉田"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6018,
+ "page_range": "130-131"
+}

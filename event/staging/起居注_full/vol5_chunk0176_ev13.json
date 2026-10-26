@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十七日庚辰",
+ "event_role": "其他",
+ "summary": "赐鄂尔多斯乡导佐领鄂木布及其兵卒并献羊诸人白金。",
+ "people": [
+  {
+   "name": "鄂木布",
+   "role": "鄂尔多斯乡导佐领"
+  },
+  {
+   "name": "献羊诸人",
+   "role": "献羊人员"
+  }
+ ],
+ "places": [
+  "鄂尔多斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17613,
+ "page_range": "362-363"
+}

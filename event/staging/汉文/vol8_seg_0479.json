@@ -1,0 +1,44 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "曹頫奏报常州武进县查获华子文伪造印札诈骗案，称系无赖穷民无知妄作，不足为虑。",
+ "people": [
+  {
+   "name": "曹頫",
+   "role": "奏报人，奴才"
+  },
+  {
+   "name": "华子文",
+   "role": "无锡县贫民，摇串铃卖膏药，主犯"
+  },
+  {
+   "name": "何灿公",
+   "role": "武进县民，被诱骗并仿造札票行骗"
+  },
+  {
+   "name": "蒋正容",
+   "role": "与华子文同伙雕印写札"
+  },
+  {
+   "name": "李煦",
+   "role": "朱批中提及，前日奏措库银捐西边一摺"
+  }
+ ],
+ "places": [
+  "常州",
+  "武进县",
+  "无锡县",
+  "苏州",
+  "省城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并指出李煦前日奏请措库银捐西边一摺甚为不妥，恐其病后糊涂被人哄骗、贻误钱粮。",
+ "source_title": "华子文案",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 479
+}

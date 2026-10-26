@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 11,
+ "day_text": "二十五日壬子",
+ "event_role": "弹劾参奏",
+ "summary": "户部题覆甘肃巡抚伊图参奏宁夏中卫千总鲁淑仓贮米麦豆潮烂短少，请交兵部解任严审。",
+ "people": [
+  {
+   "name": "伊图",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "鲁淑",
+   "role": "宁夏中卫千总"
+  }
+ ],
+ "places": [
+  "宁夏中卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13512,
+ "page_range": "282-283"
+}

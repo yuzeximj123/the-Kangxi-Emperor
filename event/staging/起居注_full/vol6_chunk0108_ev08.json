@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 8,
+ "day_text": "十八日全未",
+ "event_role": "谕旨决策",
+ "summary": "就淮扬被灾州县员缺拣选补用及河工无事人员发回一事，康熙帝谕令州县官亦照山陕例拣选，无事人员发回。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汪煜",
+   "role": "给事中"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "淮安",
+  "扬州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10808,
+ "page_range": "226-227"
+}

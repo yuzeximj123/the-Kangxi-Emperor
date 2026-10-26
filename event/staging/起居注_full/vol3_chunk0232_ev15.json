@@ -1,0 +1,36 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "初六日壬子",
+ "event_role": "人事任免",
+ "summary": "吏部题补安徽巡抚功柱斗升任员缺，康熙帝以顺天府府尹杨素理居官颇善，命升补安徽巡抚。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  },
+  {
+   "name": "杨素理",
+   "role": "顺天府府尹"
+  },
+  {
+   "name": "功柱斗",
+   "role": "安徽巡抚"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23215,
+ "page_range": "499-500"
+}

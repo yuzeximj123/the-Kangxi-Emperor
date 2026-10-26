@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 1,
+ "day_text": "二十五日癸卯",
+ "event_role": "谕旨决策",
+ "summary": "覆请浙江巡抚王度昭、提督吴禾奏招安海贼陈尚义等已解送赴京一事，康熙帝命查明迟延回奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "吴禾",
+   "role": "提督"
+  },
+  {
+   "name": "陈尚义",
+   "role": "海贼"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 208,
+ "page_range": "15-16"
+}

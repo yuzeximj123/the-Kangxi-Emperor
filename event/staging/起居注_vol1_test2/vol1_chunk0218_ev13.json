@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十八日戊午",
+ "event_role": "谕旨决策",
+ "summary": "广西巡抚傅弘烈请给大兵马草折价，康熙帝以数目不符，命差官往察时价定夺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅弘烈",
+   "role": "广西巡抚"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21813,
+ "page_range": "493-494"
+}

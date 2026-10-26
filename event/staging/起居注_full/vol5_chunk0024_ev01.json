@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗副都统苏黑、正蓝旗副都统色楞格员缺，康熙命长史称森补苏黑缺仍兼管长史，步军总尉雅图补色楞格缺。",
+ "people": [
+  {
+   "name": "称森",
+   "role": "长史"
+  },
+  {
+   "name": "雅图",
+   "role": "步军总尉"
+  },
+  {
+   "name": "思格色",
+   "role": "侍郎"
+  },
+  {
+   "name": "佛保",
+   "role": "盛京刑部侍郎"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2401,
+ "page_range": "58-59"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将不能开弓的王大献、李华国及骑射不堪的曹志宁俱交兵部。",
+ "people": [
+  {
+   "name": "王大献",
+   "role": "武举"
+  },
+  {
+   "name": "李华国",
+   "role": "武举"
+  },
+  {
+   "name": "曹志宁",
+   "role": "武举"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4204,
+ "page_range": "96-97"
+}

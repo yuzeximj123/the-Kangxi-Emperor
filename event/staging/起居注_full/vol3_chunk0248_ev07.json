@@ -1,0 +1,44 @@
+{
+ "reign_year": 26,
+ "month": 10,
+ "day_text": "初六日辛刻",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁蒙古侍读学士白达尔病故员缺，康熙帝命喀喇补授侍读学士。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "禅布",
+   "role": "学士"
+  },
+  {
+   "name": "额尔黑图",
+   "role": "学士"
+  },
+  {
+   "name": "觉罗狂拜",
+   "role": "学士"
+  },
+  {
+   "name": "白达尔",
+   "role": "内阁蒙古侍读学士"
+  },
+  {
+   "name": "喀喇",
+   "role": "理藩院郎中"
+  },
+  {
+   "name": "白尔黑",
+   "role": "工部郎中"
+  }
+ ],
+ "places": [
+  "旧宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24807,
+ "page_range": "531-532"
+}

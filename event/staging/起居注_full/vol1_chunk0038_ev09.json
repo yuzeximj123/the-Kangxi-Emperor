@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 3,
+ "day_text": "初八日戊寅",
+ "event_role": "请安谢恩",
+ "summary": "巳时康熙帝自瀛台往太皇太后、皇太后宫问安，毕后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3809,
+ "page_range": "133-134"
+}

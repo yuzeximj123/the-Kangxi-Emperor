@@ -1,0 +1,31 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十四日丁卯",
+ "event_role": "军务",
+ "summary": "马齐等遵旨奏山东海盗事，康熙帝令遣京师大臣前往招抚，细询贼情，交九卿等议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王文雄",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "山东",
+  "福建",
+  "浙江",
+  "崇明"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7012,
+ "page_range": "151-152"
+}

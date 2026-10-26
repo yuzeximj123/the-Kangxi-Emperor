@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "十六日辛酉",
+ "event_role": "议政听政",
+ "summary": "康熙帝在畅春园澹宁居召见大学士、学士及部院堂官，论南巡河工成功及沿途官员贤否。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河臣"
+  }
+ ],
+ "places": [
+  "畅春园澹宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5400,
+ "page_range": "119-120"
+}

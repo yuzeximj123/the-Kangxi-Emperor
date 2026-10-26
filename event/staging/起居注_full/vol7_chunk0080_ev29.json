@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十六日己巳",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝幸城内教场，率皇太子、诸皇子及善射侍卫等射，发矢皆中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "西安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8029,
+ "page_range": "171-172"
+}

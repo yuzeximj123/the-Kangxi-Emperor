@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部议覆山东登州总兵官李雄请分巡海汛，康熙命议政大臣会同九卿看图分定海汛议奏。",
+ "people": [
+  {
+   "name": "李雄",
+   "role": "山东登州总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "奉天",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7501,
+ "page_range": "161-162"
+}

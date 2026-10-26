@@ -1,0 +1,32 @@
+{
+ "reign_year": 32,
+ "month": 9,
+ "day_text": "初十日辛北",
+ "event_role": "人事任免",
+ "summary": "吏部题盛京兵部理事官巴拜员缺，拟杨舒为正、黄懋为陪，康熙帝以黄懋人材颇优升授理事官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴拜",
+   "role": "盛京兵部理事官"
+  },
+  {
+   "name": "杨舒",
+   "role": "太仆寺少卿"
+  },
+  {
+   "name": "黄懋",
+   "role": "鸿胪寺卿"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24113,
+ "page_range": "494-495"
+}

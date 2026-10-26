@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "初八日壬申",
+ "event_role": "河工水利",
+ "summary": "刑部将多奇等赎罪修永定河丈尺定议具奏，康熙帝以未叙高宽，令留本待回时定夺。",
+ "people": [
+  {
+   "name": "多奇",
+   "role": "赎罪修河人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11515,
+ "page_range": "240-241"
+}

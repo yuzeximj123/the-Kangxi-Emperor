@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "初五日戊子",
+ "event_role": "奏报地方情形",
+ "summary": "四川陕西总督葛思泰奏报宁夏总兵官李关兴病故，暂令游击陈宗显镇守，康熙令察例议恤。",
+ "people": [
+  {
+   "name": "葛思泰",
+   "role": "四川陕西总督"
+  },
+  {
+   "name": "李关兴",
+   "role": "宁夏总兵官"
+  },
+  {
+   "name": "陈宗显",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15418,
+ "page_range": "320-321"
+}

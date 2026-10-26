@@ -1,0 +1,20 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令严查天津等处恶棍聚集贩私盐、冬则劫掠之事，命再行详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9000,
+ "page_range": "223-224"
+}

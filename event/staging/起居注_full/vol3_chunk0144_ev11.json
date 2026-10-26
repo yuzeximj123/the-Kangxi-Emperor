@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "二十七日辛亥",
+ "event_role": "谕旨决策",
+ "summary": "覆议松威道王璧条奏停减四川运楠木，康熙帝以川民困苦、塞外松木可用，令九卿再详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王璧",
+   "role": "松威道"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14411,
+ "page_range": "323-324"
+}

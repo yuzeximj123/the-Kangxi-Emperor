@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "初九日要西",
+ "event_role": "请安谢恩",
+ "summary": "先差往广东、福建开拓海界的内阁学士石柱回京赴行在请安，奏请随皇上同进京，奉旨着留从。",
+ "people": [
+  {
+   "name": "石柱",
+   "role": "内阁学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3407,
+ "page_range": "103-104"
+}

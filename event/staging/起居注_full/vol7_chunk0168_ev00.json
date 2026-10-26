@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述曾密谕穆克登等与朝鲜官员沿江查看边界，要求查明两边边界来奏。",
+ "people": [
+  {
+   "name": "穆克登",
+   "role": "布塔哈乌拉总管"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜",
+  "江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16800,
+ "page_range": "347-348"
+}

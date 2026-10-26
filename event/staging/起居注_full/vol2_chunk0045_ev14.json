@@ -1,0 +1,21 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "二十二日乙雍",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸欧州所属郑家庄北。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "欧州",
+  "郑家庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4514,
+ "page_range": "133-134"
+}

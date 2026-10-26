@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": "初十日己巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸绍奇庄，申时出行宫前率皇太子、皇子、善射侍卫、天津总兵官杜呈泗等射，每发悉中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "杜呈泗",
+   "role": "天津总兵官"
+  }
+ ],
+ "places": [
+  "绍奇庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15713,
+ "page_range": "325-326"
+}

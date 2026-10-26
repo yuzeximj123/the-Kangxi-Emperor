@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "因国子监祭酒员缺，引见觉罗满保等四人，康熙帝询把叙后升满保为国子监祭酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗满保",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "把叙",
+   "role": "翰林院掌院学士起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14603,
+ "page_range": "303-304"
+}

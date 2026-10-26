@@ -1,0 +1,40 @@
+{
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "十六日丁酉",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士温达等以折本请旨。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "众圣保",
+   "role": "学士"
+  },
+  {
+   "name": "马良",
+   "role": "学士"
+  },
+  {
+   "name": "传尔",
+   "role": "学士"
+  },
+  {
+   "name": "胡讷",
+   "role": "学士"
+  },
+  {
+   "name": "马进泰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22615,
+ "page_range": "463-464"
+}

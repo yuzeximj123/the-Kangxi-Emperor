@@ -1,0 +1,34 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "初六日本未",
+ "event_role": "谕旨决策",
+ "summary": "大学士马齐、学士色德里、满丕以折本请旨，吏部题绿头签折子月终汇题事，康熙帝令部院各衙门汇题事俱停止。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "色德里",
+   "role": "学士"
+  },
+  {
+   "name": "满丕",
+   "role": "学士"
+  },
+  {
+   "name": "黄秉忠",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7838,
+ "page_range": "167-168"
+}

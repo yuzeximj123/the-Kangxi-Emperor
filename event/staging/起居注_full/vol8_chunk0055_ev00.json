@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以赵弘灿、满丕未据实奏报米价且巧饰回奏，将二人革职，并命问赵申乔回奏二人居官如何。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "总督"
+  },
+  {
+   "name": "满丕",
+   "role": "巡抚"
+  },
+  {
+   "name": "赵申乔",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5500,
+ "page_range": "121-122"
+}

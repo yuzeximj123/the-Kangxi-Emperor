@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": "二十四日辛西",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙询问湖广去岁秋成，马如龙奏闻湖广去岁亦大有。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马如龙",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9826,
+ "page_range": "206-207"
+}

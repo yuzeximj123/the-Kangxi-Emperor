@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "初五日甲午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕索额图等，念戴哈之母年迈思子，命兵部驰驿将戴哈从黑龙江取回。",
+ "people": [
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "戴哈",
+   "role": "原任参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7618,
+ "page_range": "162-163"
+}

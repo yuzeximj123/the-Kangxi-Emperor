@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十日生辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补太常寺正卿崔证升任员缺，开列荣国、准官，康熙帝评二人俱平常。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔证",
+   "role": "太常寺正卿"
+  },
+  {
+   "name": "荣国",
+   "role": "光禄寺卿"
+  },
+  {
+   "name": "准官",
+   "role": "太仆寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18915,
+ "page_range": "421-422"
+}

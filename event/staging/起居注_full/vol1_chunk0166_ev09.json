@@ -1,0 +1,28 @@
+{
+ "reign_year": 17,
+ "month": 8,
+ "day_text": "二十九日己卯",
+ "event_role": "其他",
+ "summary": "康熙帝召学士陈廷敬、侍读学士叶方蔼于南书房编纂。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "学士"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [
+  "南书房"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16609,
+ "page_range": "389-390"
+}

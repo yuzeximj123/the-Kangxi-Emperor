@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "二十一日丙子",
+ "event_role": "人事任免",
+ "summary": "尚之孝请将所属官员徐有名等仍行给与，兵部议不准，康熙帝命给与徐有名等为伊父看坟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尚之孝",
+   "role": "官员"
+  },
+  {
+   "name": "徐有名",
+   "role": "所属官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1707,
+ "page_range": "77-78"
+}

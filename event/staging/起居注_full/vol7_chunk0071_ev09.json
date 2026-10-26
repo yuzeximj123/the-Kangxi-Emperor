@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十六日己巳",
+ "event_role": "谕旨决策",
+ "summary": "大学士遵旨票拟甘肃巡抚齐世武降五级留任，康熙帝谕删去请禁止建立督抚德政碑一段。",
+ "people": [
+  {
+   "name": "齐世武",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7109,
+ "page_range": "153-154"
+}

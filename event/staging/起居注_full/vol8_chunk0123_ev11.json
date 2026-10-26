@@ -1,0 +1,40 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝问刘荫枢所奏贵州按察使白江居官，萧永藻奏其居官果好，帝令内外官员留心如陈玉、李陈常者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "官员"
+  },
+  {
+   "name": "白江",
+   "role": "贵州按察使"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "陈玉",
+   "role": "官员"
+  },
+  {
+   "name": "李陈常",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12311,
+ "page_range": "257-258"
+}

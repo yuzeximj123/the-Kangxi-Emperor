@@ -1,0 +1,38 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士温达、松柱、李光地、王拨等以折本请旨，康熙帝顾温达等论张伯行居官甚清，当爱惜保全。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "王拨",
+   "role": "大学士"
+  },
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23405,
+ "page_range": "479-480"
+}

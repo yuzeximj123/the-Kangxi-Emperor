@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "初九日甲子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝遣大学士伊桑阿致祭克鲁伦河之神。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "克鲁伦河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13000,
+ "page_range": "270-271"
+}

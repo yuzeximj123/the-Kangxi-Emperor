@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "初二日丁效",
+ "event_role": "朝见受贺",
+ "summary": "喀尔喀汗、诺颜、台吉等奏称土谢图汗引罪、策旺扎布袭封诚为恩典，随后行三跪九叩礼。",
+ "people": [
+  {
+   "name": "喀尔喀汗",
+   "role": "汗"
+  },
+  {
+   "name": "诺颜",
+   "role": "贵族"
+  },
+  {
+   "name": "台吉",
+   "role": "贵族"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14809,
+ "page_range": "308-309"
+}

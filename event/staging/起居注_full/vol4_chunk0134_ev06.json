@@ -1,0 +1,38 @@
+{
+ "reign_year": 29,
+ "month": 11,
+ "day_text": "十二日己亥",
+ "event_role": "谕旨决策",
+ "summary": "兵部议出征效力功加左都督陈机、王文雄以原品管游击事用等，康熙帝依议，命陈机等在新设营制官员缺补用。",
+ "people": [
+  {
+   "name": "陈机",
+   "role": "左都督"
+  },
+  {
+   "name": "王文雄",
+   "role": "左都督"
+  },
+  {
+   "name": "郭俊",
+   "role": "总兵官"
+  },
+  {
+   "name": "李正春",
+   "role": "守御所千总"
+  },
+  {
+   "name": "毕之兆",
+   "role": "白身人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13406,
+ "page_range": "280-281"
+}

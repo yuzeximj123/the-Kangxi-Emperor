@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆安徽巡抚梁世勋题吴氏再嫁后向姑毛氏索银致其自尽案，拟处斩，康熙令问九卿具奏。",
+ "people": [
+  {
+   "name": "吴氏",
+   "role": "案犯"
+  },
+  {
+   "name": "毛氏",
+   "role": "死者"
+  },
+  {
+   "name": "梁世勋",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12401,
+ "page_range": "259-260"
+}

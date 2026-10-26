@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 6,
+ "day_text": "十九日全已",
+ "event_role": "人事任免",
+ "summary": "四川提督岳异龙题顺庆营游击杜如昆请补授华林营参将，康熙帝以杜如昆素知，着照所题补授。",
+ "people": [
+  {
+   "name": "岳异龙",
+   "role": "四川提督"
+  },
+  {
+   "name": "杜如昆",
+   "role": "顺庆营游击"
+  }
+ ],
+ "places": [
+  "顺庆营",
+  "华林营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6340,
+ "page_range": "137-138"
+}

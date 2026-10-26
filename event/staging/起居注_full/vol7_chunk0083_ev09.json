@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十二日癸刻",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自西安回銮，驻跸临潼温泉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安",
+  "临潼温泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8309,
+ "page_range": "177-178"
+}

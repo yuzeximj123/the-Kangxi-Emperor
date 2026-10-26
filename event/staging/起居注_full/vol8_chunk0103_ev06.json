@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 7,
+ "day_text": "二十一日甲实",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸行宫，当日赐大学士松柱、尚书公孙征濒、左都御史把叙《周易折中》各一部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "公孙征濒",
+   "role": "尚书"
+  },
+  {
+   "name": "把叙",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10306,
+ "page_range": "217-218"
+}

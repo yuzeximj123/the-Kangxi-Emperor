@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初五日辛酉",
+ "event_role": "人事任免",
+ "summary": "吏部题补盛京工部侍郎，康熙帝以廖旦人虽平常而任此缺相宜，命即补授。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "廖旦",
+   "role": "拟补盛京工部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20,
+ "page_range": "43-44"
+}

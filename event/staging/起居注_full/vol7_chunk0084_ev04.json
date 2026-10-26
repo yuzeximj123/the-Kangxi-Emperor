@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "二十八日己巳",
+ "event_role": "谕旨决策",
+ "summary": "皇帝谕令速行该将军查明所给米能否度日，难支则具题议奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8404,
+ "page_range": "179-180"
+}

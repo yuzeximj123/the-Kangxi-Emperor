@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "十八日戊辰",
+ "event_role": "议政听政",
+ "summary": "康熙御行宫，大学士松柱等请旨，议宝泉宝源二局铜铅采买事，康熙令用商铅给户部银，矿禁发还。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "查有纳",
+   "role": "学士"
+  },
+  {
+   "name": "王纲明",
+   "role": "商人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12410,
+ "page_range": "259-260"
+}

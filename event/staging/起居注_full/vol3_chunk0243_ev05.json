@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 8,
+ "day_text": "初一日了未",
+ "event_role": "人事任免",
+ "summary": "吏部议耿介借老称疾求去应革职、汤斌荐举非人应革职，康熙命汤斌降五级留任，耿介革去少詹事以原任道员品级休致。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "耿介",
+   "role": "少詹事"
+  },
+  {
+   "name": "汤斌",
+   "role": "尚书"
+  },
+  {
+   "name": "吏部",
+   "role": "题请衙门"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24305,
+ "page_range": "521-522"
+}

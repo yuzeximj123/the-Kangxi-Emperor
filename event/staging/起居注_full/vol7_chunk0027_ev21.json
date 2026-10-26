@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初一日己酉",
+ "event_role": "司法案件",
+ "summary": "吏部议江南江西总督阿山等非，康熙帝以此案牵连甚多尚有应问，命阿山逐一明白回奏。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "江南江西总督"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2721,
+ "page_range": "65-66"
+}

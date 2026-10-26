@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "二十三日戊寅",
+ "event_role": "司法案件",
+ "summary": "吏部议刑部误将徒犯徐振业发流奉天，郎中佟湘年应降二级以纪录抵销，侍郎高珀应罚俸九月。",
+ "people": [
+  {
+   "name": "佟湘年",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "高珀",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "徐振业",
+   "role": "徒犯"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1718,
+ "page_range": "77-78"
+}

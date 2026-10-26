@@ -1,0 +1,34 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "十四日辛酉",
+ "event_role": "人事任免",
+ "summary": "吏部题少詹归公肃给假员缺拟王封泽升补，康熙帝询问后改令耿介升补。",
+ "people": [
+  {
+   "name": "归公肃",
+   "role": "少詹"
+  },
+  {
+   "name": "王封泽",
+   "role": "侍读学士"
+  },
+  {
+   "name": "耿介",
+   "role": "官员"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22320,
+ "page_range": "481-482"
+}

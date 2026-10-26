@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就制钱改铸一事发表意见，称昔日科尔坤、佛伦管钱局时曾改铸小式，今照旧改大亦美观，此事关系甚大，回京后面论。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "科尔坤",
+   "role": "前钱局管理者"
+  },
+  {
+   "name": "佛伦",
+   "role": "前钱局管理者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3500,
+ "page_range": "81-82"
+}

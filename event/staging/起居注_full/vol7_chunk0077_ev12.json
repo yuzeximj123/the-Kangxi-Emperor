@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十四日丙申",
+ "event_role": "朝见受贺",
+ "summary": "太原县知县胡凤天来朝。",
+ "people": [
+  {
+   "name": "胡凤天",
+   "role": "太原县知县"
+  }
+ ],
+ "places": [
+  "太原县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7712,
+ "page_range": "165-166"
+}

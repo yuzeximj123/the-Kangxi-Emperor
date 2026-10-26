@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙六十年五月十二日",
+ "reign_year": 60,
+ "month": 5,
+ "day": 12,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州地方雨旸时若、民安物阜，二麦收割约十分收成，米价上号九钱七分、次号八钱三分，并进呈福州四月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "李树德",
+   "role": "奴才，跪奏者"
+  }
+ ],
+ "places": [
+  "苏州",
+  "福州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報蘇州二麥收成並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2925",
+ "order_index": 320
+}

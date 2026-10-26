@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十六日辛已",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读学士员缺，明珠奏江有良等六员，康熙帝以江有良系年久司官命补授。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "江有良",
+   "role": "司官、拟补内阁侍读学士"
+  },
+  {
+   "name": "年遐龄",
+   "role": "候选官员"
+  },
+  {
+   "name": "孙冈",
+   "role": "候选官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2717,
+ "page_range": "89-90"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅陈世英、刘瀣恩典地唆讼并窃取骨殖诬陷致刘俊英监毙案，以刘俊英系监毙，令陈世英姑免勾。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈世英",
+   "role": "案犯"
+  },
+  {
+   "name": "刘瀣恩",
+   "role": "相关人"
+  },
+  {
+   "name": "刘士魁",
+   "role": "相关人"
+  },
+  {
+   "name": "刘俊英",
+   "role": "监毙者"
+  },
+  {
+   "name": "刘俊杰",
+   "role": "相关人"
+  },
+  {
+   "name": "八儿",
+   "role": "相关人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24226,
+ "page_range": "495-496"
+}

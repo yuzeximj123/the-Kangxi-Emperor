@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "初五日庚午",
+ "event_role": "人事任免",
+ "summary": "松柱等以内升外转事问都察院，举出攀绍和等，康熙帝命交堂官引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "把叙",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "攀绍和",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9214,
+ "page_range": "195-196"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "初十日己未",
+ "event_role": "人事任免",
+ "summary": "兵部题汉中总兵官员缺请旨开列，康熙帝命将周球劳绩票明，调补汉中总兵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "周球",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "汉中",
+  "江西",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2804,
+ "page_range": "99-100"
+}

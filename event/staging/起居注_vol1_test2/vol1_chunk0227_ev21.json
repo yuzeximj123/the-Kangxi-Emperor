@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十四日癸卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补兵部主事员缺，康熙询问正拟瓦尔达、陪拟音达礼可否，因学士佛伦言瓦尔达平常，命另推。",
+ "people": [
+  {
+   "name": "瓦尔达",
+   "role": "拟正"
+  },
+  {
+   "name": "音达礼",
+   "role": "拟陪"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22721,
+ "page_range": "511-512"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十七日甲申",
+ "event_role": "谕旨决策",
+ "summary": "户部议给事中屠粹忠条陈钱法事宜，康熙帝与明珠、李需、王申等议后，以钱法奉行已久不宜更张，命照部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "屠粹忠",
+   "role": "给事中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24012,
+ "page_range": "523-524"
+}

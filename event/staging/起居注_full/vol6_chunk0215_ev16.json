@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十二日丙午",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝询问京城附近及口外禾稼，伊桑阿、马齐奏禾稼甚茂。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "京城",
+  "口外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21516,
+ "page_range": "440-441"
+}

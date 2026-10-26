@@ -1,0 +1,29 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "十四日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "兵部尚书索诺和、内阁学士德珠请训旨往查山西平阳府以西被灾未报地方，康熙帝命尽心详查赈济饥民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索诺和",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "德珠",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [
+  "山西",
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19214,
+ "page_range": "396-397"
+}

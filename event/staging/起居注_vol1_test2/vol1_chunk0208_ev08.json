@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "二十一日",
+ "event_role": "其他",
+ "summary": "出师猎州郭尔罗斯部落三品台吉俄齐尔、都统沙里等率官兵还，康熙帝遣礼部尚书塞色赫等携茶酒于近郊迎劳。",
+ "people": [
+  {
+   "name": "俄齐尔",
+   "role": "郭尔罗斯部落三品台吉"
+  },
+  {
+   "name": "沙里",
+   "role": "都统"
+  },
+  {
+   "name": "塞色赫",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [
+  "猎州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20808,
+ "page_range": "473-474"
+}

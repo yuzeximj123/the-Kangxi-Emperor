@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初九日丙寅",
+ "event_role": "军务",
+ "summary": "云贵提督桑格、总兵官周邦宁不守常德退至荆州，部议革职降调，康熙命从部议戴罪留任图功自赎。",
+ "people": [
+  {
+   "name": "桑格",
+   "role": "云贵提督"
+  },
+  {
+   "name": "周邦宁",
+   "role": "总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "常德",
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24813,
+ "page_range": "553-554"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 12,
+ "month": 2,
+ "day_text": "二十日庚申",
+ "event_role": "请安谢恩",
+ "summary": "学士倩达礼等因翻译《大学衔义》蒙太皇太后赏责，同各官于慈宁宫前谢恩，复于太和殿前谢恩。",
+ "people": [
+  {
+   "name": "倩达礼",
+   "role": "学士"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  }
+ ],
+ "places": [
+  "慈宁宫",
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3603,
+ "page_range": "129-130"
+}

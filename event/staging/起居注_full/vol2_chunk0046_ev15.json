@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "二十七日庚辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝随太皇太后驾回幸温泉，驻跸遵化州城东南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "遵化州城东南",
+  "温泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4615,
+ "page_range": "135-136"
+}

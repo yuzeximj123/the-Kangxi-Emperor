@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "十六日己卯",
+ "event_role": "朝见受贺",
+ "summary": "效州知州杨天佑、千总王家福等来朝见。",
+ "people": [
+  {
+   "name": "杨天佑",
+   "role": "效州知州"
+  },
+  {
+   "name": "王家福",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "效州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8901,
+ "page_range": "190-191"
+}

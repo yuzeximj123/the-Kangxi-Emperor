@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "初六日本未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸曲沃县属郭马村南。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "曲沃县",
+  "郭马村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7837,
+ "page_range": "167-168"
+}

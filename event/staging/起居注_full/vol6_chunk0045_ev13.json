@@ -1,0 +1,33 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": "初七日庚成",
+ "event_role": "人事任免",
+ "summary": "吏部题广东布政司张建绩员缺，拟以西宁道刘殿衡补，康熙帝令刘殿衡暂留西宁，并令问九卿鲁超居官。",
+ "people": [
+  {
+   "name": "张建绩",
+   "role": "广东布政司"
+  },
+  {
+   "name": "刘殿衡",
+   "role": "西宁道"
+  },
+  {
+   "name": "鲁超",
+   "role": "按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4513,
+ "page_range": "100-101"
+}

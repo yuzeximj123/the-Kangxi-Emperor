@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "御史卫执蒲条奏请御门听政以五日或二三日为期，康熙帝谕示励精图治之意，命内阁、翰林院会同九卿、詹事、科道详议具奏。",
+ "people": [
+  {
+   "name": "卫执蒲",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2603,
+ "page_range": "87-88"
+}

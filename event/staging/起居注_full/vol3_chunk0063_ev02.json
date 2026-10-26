@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝召江南按察使于成龙之父于得水至乾清门，赐貂衣披领，谕其教子有方并勉励其子始终如一。",
+ "people": [
+  {
+   "name": "于得水",
+   "role": "原任阿达哈哈番、于成龙之父"
+  },
+  {
+   "name": "于成龙",
+   "role": "江南按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6302,
+ "page_range": "161-162"
+}

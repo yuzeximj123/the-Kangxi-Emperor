@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "三十日壬辰",
+ "event_role": "司法案件",
+ "summary": "高宗容因族弟高林原先持枪刺伊而殴之致越十日身死，康熙改为监候，免死减等完结。",
+ "people": [
+  {
+   "name": "高宗容",
+   "role": "案犯"
+  },
+  {
+   "name": "高林原",
+   "role": "死者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11226,
+ "page_range": "235-236"
+}

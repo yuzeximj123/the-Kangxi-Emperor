@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙肆拾柒年肆月初壹日",
+ "reign_year": 47,
+ "month": 4,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "曹寅奏报江南太平、平糶粮价及麦收可望，并代递戴宝奏摺、转报熊赐履回江宁谢恩。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "戴宝",
+   "role": "涉及人物"
+  },
+  {
+   "name": "熊赐履",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "江南",
+  "扬州",
+  "镇江",
+  "江宁",
+  "湖广",
+  "江西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "曹寅奏報江南平糶並代遞戴寶奏摺",
+ "order_index": 241
+}

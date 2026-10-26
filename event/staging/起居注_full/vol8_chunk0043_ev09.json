@@ -1,0 +1,38 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "二十七日辛丑",
+ "event_role": "司法案件",
+ "summary": "覆请巡视中城监察御史李楠所题光棍王兆兴控告寡妇张氏一案，康熙帝命该部察议具奏，并严饬李楠本内浮夸之语。",
+ "people": [
+  {
+   "name": "李楠",
+   "role": "巡视中城监察御史"
+  },
+  {
+   "name": "王兆兴",
+   "role": "光棍"
+  },
+  {
+   "name": "张氏",
+   "role": "寡妇"
+  },
+  {
+   "name": "谢承晖",
+   "role": "张氏故夫"
+  },
+  {
+   "name": "谢国桢",
+   "role": "谢承晖之侄"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4309,
+ "page_range": "97-98"
+}

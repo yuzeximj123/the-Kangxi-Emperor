@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补满洲副都统员缺，康熙帝以护军参领巴图为人颇优、材力壮健，命补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴图",
+   "role": "护军参领"
+  },
+  {
+   "name": "额星格",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "色根",
+   "role": "骁骑参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2102,
+ "page_range": "77-78"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 1,
+ "day_text": "二十三日辛丑",
+ "event_role": "军务",
+ "summary": "浙江巡抚王度昭、提督吴郡奏闻招安海贼陈尚义等一案，康熙帝作出处理。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "吴郡",
+   "role": "提督"
+  },
+  {
+   "name": "陈尚义",
+   "role": "海贼"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 108,
+ "page_range": "13-14"
+}

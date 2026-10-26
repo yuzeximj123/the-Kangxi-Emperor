@@ -1,0 +1,33 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "初八日成申",
+ "event_role": "弹劾参奏",
+ "summary": "兵部议将军共和级荣题参总督董卫国不听调度贻误军机，康熙帝以董卫国遵指授恢复镇远为可嘉，令交在京大学士拟票。",
+ "people": [
+  {
+   "name": "共和级荣",
+   "role": "将军"
+  },
+  {
+   "name": "董卫国",
+   "role": "总督"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "萨海",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "镇远府",
+  "平襄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20223,
+ "page_range": "447-448"
+}

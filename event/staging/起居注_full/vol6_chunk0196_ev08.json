@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "二十六日癸丑",
+ "event_role": "人事任免",
+ "summary": "吏部以大理寺卿员缺开列太常寺卿江繁等，康熙谕大理寺卿职任紧要，命将其次应升人员及翰林职名查奏，并开列江南、浙江学院。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "江繁",
+   "role": "太常寺卿"
+  }
+ ],
+ "places": [
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19608,
+ "page_range": "402-403"
+}

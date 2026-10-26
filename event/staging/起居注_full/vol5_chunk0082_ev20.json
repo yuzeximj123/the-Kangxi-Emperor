@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初二日辛卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝称内阁侍读钱齐保熟识，差遣回时启奏明白；伊桑阿奏钱齐保四五年前在户部时曾差往湖广等处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钱齐保",
+   "role": "内阁侍读"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8220,
+ "page_range": "174-175"
+}

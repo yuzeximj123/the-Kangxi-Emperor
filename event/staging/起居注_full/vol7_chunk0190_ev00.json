@@ -1,0 +1,40 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门覆请江西省缓决一案，康熙帝裁定何大粹等监候缓决，阮基六等改为可矜减等发落。",
+ "people": [
+  {
+   "name": "何大粹",
+   "role": "案犯"
+  },
+  {
+   "name": "张扁脑子",
+   "role": "案犯"
+  },
+  {
+   "name": "杨连友",
+   "role": "案犯"
+  },
+  {
+   "name": "阮基六",
+   "role": "案犯"
+  },
+  {
+   "name": "陈胡",
+   "role": "案犯"
+  },
+  {
+   "name": "饶搏发",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "江西省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19000,
+ "page_range": "391-392"
+}

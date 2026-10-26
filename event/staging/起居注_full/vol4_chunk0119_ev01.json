@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部议覆太常寺鸣赞伊密孙声音不好且误唱应降一级，正卿何簿、少卿布达理各罚俸一年；康熙帝命伊密孙以笔帖式补用，余如议。",
+ "people": [
+  {
+   "name": "伊密孙",
+   "role": "鸣赞"
+  },
+  {
+   "name": "何簿",
+   "role": "太常寺正卿"
+  },
+  {
+   "name": "布达理",
+   "role": "太常寺少卿"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11901,
+ "page_range": "250-251"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 4,
+ "day_text": "二十一日乙西",
+ "event_role": "其他",
+ "summary": "康熙帝御弘德殿，讲官叶方葡、张玉书进讲，帝亲讲毕，讲官照常进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶方葡",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18113,
+ "page_range": "419-420"
+}

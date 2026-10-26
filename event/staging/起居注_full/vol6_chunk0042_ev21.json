@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "十七日庚寅",
+ "event_role": "人事任免",
+ "summary": "盛京将军苏努赴任请训，康熙帝谕以盛京事务废弛、勿蹈公绰克度闲谈之弊，并允其坐名题补官员之请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏努",
+   "role": "盛京将军"
+  },
+  {
+   "name": "公绰克度",
+   "role": "前任官员"
+  }
+ ],
+ "places": [
+  "盛京",
+  "山海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4221,
+ "page_range": "94-95"
+}

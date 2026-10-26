@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十一年十月十二日",
+ "reign_year": 51,
+ "month": 10,
+ "day": 20,
+ "event_role": "其他",
+ "summary": "广东将军管源忠奏报驻广八旗监生、甲兵等百余人呈请就近在广东参加万寿恩科考试，请求圣裁。",
+ "people": [
+  {
+   "name": "管源忠",
+   "role": "镇守广州等处将军，奏报人"
+  },
+  {
+   "name": "高岐",
+   "role": "驻防广东八旗监生，呈请人代表"
+  }
+ ],
+ "places": [
+  "广东",
+  "广州",
+  "京师"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批令具题。",
+ "source_title": "廣東將軍管源忠奏報駐廣八旗監生等請就地參加萬壽恩科考試摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1224",
+ "order_index": 122
+}

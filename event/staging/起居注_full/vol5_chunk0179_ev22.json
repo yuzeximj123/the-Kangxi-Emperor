@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "十七日己亥",
+ "event_role": "人事任免",
+ "summary": "命张家口副将标下游击王文礁以原职管理张家口副将事，由关保传谕阿兰泰宣旨。",
+ "people": [
+  {
+   "name": "王文礁",
+   "role": "游击"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17922,
+ "page_range": "368-369"
+}

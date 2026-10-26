@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "初九日戊子",
+ "event_role": "军务",
+ "summary": "议政王等会议驻防荆州满洲将军官兵事，明珠奏应依所议每佐领六名驻防，康熙帝准依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9509,
+ "page_range": "233-234"
+}

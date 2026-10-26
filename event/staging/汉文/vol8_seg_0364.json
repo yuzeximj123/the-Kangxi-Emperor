@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙六十一年五月初二日",
+ "reign_year": 61,
+ "month": 5,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州二麦丰收、雨泽调匀、秧苗插莳、米价渐平，并进呈四月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "李维钧",
+   "role": "奏折末尾署名者"
+  }
+ ],
+ "places": [
+  "苏州",
+  "福州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江蘇巡撫吳存禮奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2986",
+ "order_index": 364
+}

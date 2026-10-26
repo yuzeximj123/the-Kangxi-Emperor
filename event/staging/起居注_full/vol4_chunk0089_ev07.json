@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "十八日辛已",
+ "event_role": "谕旨决策",
+ "summary": "户部议盛京等地屯庄因旱霜免租，康熙帝令户部侍郎阿山速往察明散给庄米。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "户部侍郎"
+  }
+ ],
+ "places": [
+  "盛京",
+  "辽阳",
+  "兴京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8907,
+ "page_range": "190-191"
+}

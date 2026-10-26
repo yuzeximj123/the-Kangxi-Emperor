@@ -1,0 +1,41 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "二十一日壬申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝召大学士以下、各部院员外郎以上官员集于瀛台，传谕赏赐并宴饮。",
+ "people": [
+  {
+   "name": "佟国维",
+   "role": "内大臣"
+  },
+  {
+   "name": "费扬古",
+   "role": "内务府总管"
+  },
+  {
+   "name": "张英",
+   "role": "学士"
+  },
+  {
+   "name": "敦柱",
+   "role": "侍卫"
+  },
+  {
+   "name": "萨莫汉",
+   "role": "侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀛台",
+  "太液池"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6814,
+ "page_range": "179-180"
+}

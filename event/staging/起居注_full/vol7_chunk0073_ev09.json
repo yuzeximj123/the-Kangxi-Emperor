@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初六日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论御史黄秉忠条陈饥民不许族人价买准赎之事，认为行之致山东饥民无栖身之所死者甚多，马齐奏陈卖身入旗实有裨益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄秉忠",
+   "role": "御史"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7309,
+ "page_range": "157-158"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十二日甲子",
+ "event_role": "议政听政",
+ "summary": "理藩院议多罗贝勒宋喇布游牧地方狭小令暂驻定边，康熙帝以所议含糊，命遣堂官详阅地方情形来覆。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋喇布",
+   "role": "多罗贝勒"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "定边"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18007,
+ "page_range": "403-404"
+}

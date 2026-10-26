@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题广西学道王如展员缺拟升刑部郎中李梦庚，康熙帝以李梦庚学问平常，命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王如展",
+   "role": "广西学道"
+  },
+  {
+   "name": "李梦庚",
+   "role": "刑部郎中"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17302,
+ "page_range": "389-390"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题延安府民崔云瑞等请将知府吴存礼留任，康熙帝令吴存礼革职留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔云瑞",
+   "role": "延安府民"
+  },
+  {
+   "name": "吴存礼",
+   "role": "知府"
+  }
+ ],
+ "places": [
+  "延安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 203,
+ "page_range": "15-16"
+}

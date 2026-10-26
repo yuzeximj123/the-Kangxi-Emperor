@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "镇守古北口总兵官马进良、副将江起等来彰，向乾清门侍卫马武口奏，请求皇上巡幸边外时到其衙门驻足一宿。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "镇守古北口等处总兵官"
+  },
+  {
+   "name": "江起",
+   "role": "副将"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  }
+ ],
+ "places": [
+  "古北口",
+  "彰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10600,
+ "page_range": "222-223"
+}

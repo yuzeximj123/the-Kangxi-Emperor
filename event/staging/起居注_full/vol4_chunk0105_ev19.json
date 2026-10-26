@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 2,
+ "day_text": "二十二日甲申",
+ "event_role": "人事任免",
+ "summary": "兵部题原任总督赵良栋在云南攻取城池劳绩显著请加恩，康熙帝谕给与拜他喇布勒哈番，并准洪升、张友成等录用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵良栋",
+   "role": "原任总督"
+  },
+  {
+   "name": "洪升",
+   "role": "投诚人员"
+  },
+  {
+   "name": "张友成",
+   "role": "投诚人员"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10519,
+ "page_range": "222-223"
+}

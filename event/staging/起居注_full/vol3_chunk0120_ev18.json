@@ -1,0 +1,20 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "初九日乙丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，兵部尚书梁清标等题补署步军校引见。",
+ "people": [
+  {
+   "name": "梁清标",
+   "role": "兵部尚书"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12018,
+ "page_range": "275-276"
+}

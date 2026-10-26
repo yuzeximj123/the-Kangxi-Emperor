@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 7,
+ "day_text": "二十六日己未",
+ "event_role": "人事任免",
+ "summary": "大学士松柱为补授荆州将军达尔占员缺开列议政大臣所举都统等职名，康熙帝令拜音布补授荆州将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "达尔占",
+   "role": "荆州将军"
+  },
+  {
+   "name": "拜音布",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10321,
+ "page_range": "217-218"
+}

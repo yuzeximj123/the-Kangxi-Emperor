@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 9,
+ "day_text": "二十九日己酉",
+ "event_role": "司法案件",
+ "summary": "刑部题镶黄旗巴戒伙同四十儿等打死二哥案，康熙帝命巴戒照新例正法，从犯依议，并令议处管属官员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴戒",
+   "role": "罪犯"
+  },
+  {
+   "name": "四十儿",
+   "role": "从犯"
+  },
+  {
+   "name": "二哥",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23120,
+ "page_range": "473-474"
+}

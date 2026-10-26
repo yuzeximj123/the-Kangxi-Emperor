@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "十七日丙申",
+ "event_role": "司法案件",
+ "summary": "康熙帝阅赵关持车档殴死魏良栋案，以真人命无可议着勾去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵关",
+   "role": "罪犯"
+  },
+  {
+   "name": "魏良栋",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24119,
+ "page_range": "493-494"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "二十七日于申",
+ "event_role": "人事任免",
+ "summary": "康熙帝问辛保地鲍为人，辛保奏李锁人优办事诚实，康熙帝称李铺办事切实，命补授山东巡抚。",
+ "people": [
+  {
+   "name": "辛保",
+   "role": "学士"
+  },
+  {
+   "name": "地鲍",
+   "role": "官员"
+  },
+  {
+   "name": "李锁",
+   "role": "官员"
+  },
+  {
+   "name": "李铺",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3414,
+ "page_range": "78-79"
+}

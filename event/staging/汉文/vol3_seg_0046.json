@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十九年九月二十六日",
+ "reign_year": 49,
+ "month": 9,
+ "day": 26,
+ "event_role": "奏报地方情形",
+ "summary": "奏报番蛮归化认纳杂粮、请赐号纸印信以便约束，并附地图说明游击周王麟不察地利深入蛮穴致官兵被害情由。",
+ "people": [
+  {
+   "name": "卢询",
+   "role": "建昌道，奉命同提督造具清册"
+  },
+  {
+   "name": "周王麟",
+   "role": "冕山营游击，不察地利深入蛮穴致官兵被害"
+  }
+ ],
+ "places": [
+  "建昌",
+  "冕山营"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，认为如此议结甚好，并留览所附地图。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 46
+}

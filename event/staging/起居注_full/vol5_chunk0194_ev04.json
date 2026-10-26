@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十八日己西",
+ "event_role": "朝见受贺",
+ "summary": "保德州知州唐文德、守备李起伸等来朝。",
+ "people": [
+  {
+   "name": "唐文德",
+   "role": "保德州知州"
+  },
+  {
+   "name": "李起伸",
+   "role": "保德营守备"
+  }
+ ],
+ "places": [
+  "保德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19404,
+ "page_range": "398-399"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "二十九日甲成",
+ "event_role": "人事任免",
+ "summary": "吏部题甘肃布政使能特员缺，拟御史觉罗巴哈布正、郎中石留柱陪，康熙帝称巡幸见圳吉里为人优长，意欲升授斯职。",
+ "people": [
+  {
+   "name": "觉罗巴哈布",
+   "role": "御史"
+  },
+  {
+   "name": "石留柱",
+   "role": "郎中"
+  },
+  {
+   "name": "圳吉里",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3418,
+ "page_range": "78-79"
+}

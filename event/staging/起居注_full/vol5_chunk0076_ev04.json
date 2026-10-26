@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题升补广州副都统，康熙帝询问牛钮，伊桑阿称其尽可，遂命升补。",
+ "people": [
+  {
+   "name": "牛钮",
+   "role": "通政使司左通政"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "呼图",
+   "role": "牛钮之父、原将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7604,
+ "page_range": "162-163"
+}

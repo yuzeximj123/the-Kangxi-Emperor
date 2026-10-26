@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "二十七日乙已",
+ "event_role": "朝见受贺",
+ "summary": "驻防锦州府城守尉齐把汉、三等佐领杜牛、锦州府知府孙成等来朝。",
+ "people": [
+  {
+   "name": "齐把汉",
+   "role": "城守尉"
+  },
+  {
+   "name": "杜牛",
+   "role": "三等佐领"
+  },
+  {
+   "name": "孙成",
+   "role": "锦州府知府"
+  }
+ ],
+ "places": [
+  "锦州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11416,
+ "page_range": "271-272"
+}

@@ -1,0 +1,73 @@
+{
+ "date_raw": "康熙五十七年七月十七日",
+ "reign_year": 57,
+ "month": 7,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报两淮商人高万顺等十二人第一次种田亩数及每亩收稻细数，呈康熙御览。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "高万顺",
+   "role": "两淮商人"
+  },
+  {
+   "name": "闵德裕",
+   "role": "两淮商人"
+  },
+  {
+   "name": "马德隆",
+   "role": "两淮商人"
+  },
+  {
+   "name": "吴敦厚",
+   "role": "两淮商人"
+  },
+  {
+   "name": "程弘益",
+   "role": "两淮商人"
+  },
+  {
+   "name": "吴德大",
+   "role": "两淮商人"
+  },
+  {
+   "name": "吴握玉",
+   "role": "两淮商人"
+  },
+  {
+   "name": "徐尚志",
+   "role": "两淮商人"
+  },
+  {
+   "name": "汪德睦",
+   "role": "两淮商人"
+  },
+  {
+   "name": "乔履顺",
+   "role": "两淮商人"
+  },
+  {
+   "name": "项鼎玉",
+   "role": "两淮商人"
+  },
+  {
+   "name": "何义大",
+   "role": "两淮商人"
+  }
+ ],
+ "places": [
+  "两淮",
+  "苏州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報今歲親往鹽差官民情摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2661",
+ "order_index": 95
+}

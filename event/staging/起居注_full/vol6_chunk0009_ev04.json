@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命阿兰泰扎敕策旺拉布坦，告以噶尔丹多尔济归附安置及逃去情由，令其留养或遣返。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "策旺拉布坦",
+   "role": "受敕者"
+  },
+  {
+   "name": "噶尔丹多尔济",
+   "role": "逃去部众首领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 904,
+ "page_range": "28-29"
+}

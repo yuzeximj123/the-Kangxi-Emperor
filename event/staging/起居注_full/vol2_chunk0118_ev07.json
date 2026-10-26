@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十八日忆已",
+ "event_role": "司法案件",
+ "summary": "乌喇流犯王廷试子王德控告伊父年老愿以身代，督捕议不准，康熙帝令父子并发回原籍不为例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王廷试",
+   "role": "流犯"
+  },
+  {
+   "name": "王德",
+   "role": "王廷试之子"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11807,
+ "page_range": "279-280"
+}

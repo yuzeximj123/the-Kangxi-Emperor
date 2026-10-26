@@ -1,0 +1,20 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命停止行文，即发雇价，令天津等处雇民挑滩，使公事告成而穷民得以度日。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6300,
+ "page_range": "136-137"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十八日戊子",
+ "event_role": "人事任免",
+ "summary": "兵部题补护军参领，正拟三等护卫格衣图，陪拟郎中纳雷，康熙帝有所指示。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "格衣图",
+   "role": "三等护卫"
+  },
+  {
+   "name": "纳雷",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22426,
+ "page_range": "505-506"
+}

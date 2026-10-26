@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "二十六日己丑",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝于保和殿赐食山东巡抚张鹏、福建金门总兵官陈龙、海坛总兵官林贤等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "陈龙",
+   "role": "福建金门总兵官"
+  },
+  {
+   "name": "林贤",
+   "role": "海坛总兵官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5015,
+ "page_range": "135-136"
+}

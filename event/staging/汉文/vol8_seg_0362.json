@@ -1,0 +1,43 @@
+{
+ "date_raw": "康熙六十一年五月初一日",
+ "reign_year": 61,
+ "month": 5,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "刑部尚书托赖等奏报，将山西巡抚苏克济家人赵七诈官害民所得玩器、缎匹、衣服等物解送内务府查收，并将价银入官。",
+ "people": [
+  {
+   "name": "托赖",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "德音",
+   "role": "署理山西巡抚印务内阁学士"
+  },
+  {
+   "name": "苏克济",
+   "role": "丁夏抚臣（山西巡抚）"
+  },
+  {
+   "name": "赵七",
+   "role": "苏克济家人，诈官害民案犯"
+  },
+  {
+   "name": "燕奎祖",
+   "role": "典史"
+  }
+ ],
+ "places": [
+  "山西",
+  "江南",
+  "上元",
+  "阳曲"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "刑部尚書托賴等奏爲將趙七名下玩器等物解送內務府摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2984",
+ "order_index": 362
+}

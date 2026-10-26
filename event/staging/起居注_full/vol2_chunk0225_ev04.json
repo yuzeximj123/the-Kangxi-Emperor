@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "十九日",
+ "event_role": "其他",
+ "summary": "五台县举人净襄献《射虎川记》，康熙帝览毕示学士牛钮、张玉书，念其寒士赐白金三十两。",
+ "people": [
+  {
+   "name": "净襄",
+   "role": "五台县举人"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "五台县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22504,
+ "page_range": "493-494"
+}

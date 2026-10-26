@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙四十二年八月",
+ "reign_year": 42,
+ "month": 8,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "江宁巡抚宋荦奏报江南江北雨水收成、徐淮秋灾查勘赈济及进呈御制诗集。",
+ "people": [
+  {
+   "name": "宋荦",
+   "role": "奏报人"
+  },
+  {
+   "name": "阿山",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "江宁",
+  "邳州",
+  "徐州",
+  "淮安",
+  "扬州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "64",
+ "source_title": "江宁巡抚宋荦奏报雨水收成并将御制诗集四部进呈摺",
+ "order_index": 57
+}

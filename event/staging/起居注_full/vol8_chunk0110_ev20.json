@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十四日丙子",
+ "event_role": "司法案件",
+ "summary": "刑部题路至仁打死盛京正黄旗安布立浑拖和常寿拟斩监候，康熙帝令照新例完结，本发还再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "路至仁",
+   "role": "案犯"
+  },
+  {
+   "name": "常寿",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11020,
+ "page_range": "231-232"
+}

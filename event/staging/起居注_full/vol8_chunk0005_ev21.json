@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "十一日己未",
+ "event_role": "朝见受贺",
+ "summary": "雄县防守御噶尔泰、知县胡世昌等来朝。",
+ "people": [
+  {
+   "name": "噶尔泰",
+   "role": "雄县防守御"
+  },
+  {
+   "name": "胡世昌",
+   "role": "雄县知县"
+  }
+ ],
+ "places": [
+  "雄县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 521,
+ "page_range": "21-22"
+}

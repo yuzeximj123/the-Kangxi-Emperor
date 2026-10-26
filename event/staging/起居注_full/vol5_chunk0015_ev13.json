@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "初四日辛未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论人心偏私则行背理，斥原任总漕兴永朝在淮安拆毁民房而称民皆乐从为无理可笑，并言正阳门外街旁占盖房屋事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "兴永朝",
+   "role": "原任总漕"
+  }
+ ],
+ "places": [
+  "淮安",
+  "正阳门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1513,
+ "page_range": "40-41"
+}

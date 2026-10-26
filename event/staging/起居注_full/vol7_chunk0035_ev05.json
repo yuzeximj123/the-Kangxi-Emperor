@@ -1,0 +1,40 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝遣海青、五哥、格宗传谕德州城守尉达尔化，称驱骑五十八善射，城内兵丁不及，令于额外授以骁骑校，俟彼旗分缺出即行顶补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海青",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "五哥",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "格宗",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "达尔化",
+   "role": "德州城守尉"
+  },
+  {
+   "name": "五十八",
+   "role": "善射兵丁"
+  }
+ ],
+ "places": [
+  "德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3505,
+ "page_range": "81-82"
+}

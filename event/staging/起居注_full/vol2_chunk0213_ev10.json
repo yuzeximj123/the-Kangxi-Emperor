@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "十三日",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗蒙古参领色勤木苏告病员缺，拟达布、那木僧格第，康熙帝以达布不堪参领之任，命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色勤木苏",
+   "role": "镶白旗蒙古参领"
+  },
+  {
+   "name": "达布",
+   "role": "拟补员外郎管佐领事"
+  },
+  {
+   "name": "那木僧格第",
+   "role": "拟陪阿思哈尼哈番"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21310,
+ "page_range": "469-470"
+}

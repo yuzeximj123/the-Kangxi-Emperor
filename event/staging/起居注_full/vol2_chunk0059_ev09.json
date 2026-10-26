@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初六日丁亥",
+ "event_role": "谕旨决策",
+ "summary": "户部覆给事中孙翡奏请免陕西房税议不准行，康熙以陕西百姓转输甚苦、岁旱，命概行蠲免。",
+ "people": [
+  {
+   "name": "孙翡",
+   "role": "给事中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5909,
+ "page_range": "161-162"
+}

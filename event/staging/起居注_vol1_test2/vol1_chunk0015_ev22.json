@@ -1,0 +1,20 @@
+{
+ "reign_year": 11,
+ "month": 5,
+ "day_text": "二十五日庚午",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝斋戒，卯时御太和殿视祝版。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1522,
+ "page_range": "87-88"
+}

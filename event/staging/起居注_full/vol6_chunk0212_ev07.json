@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 8,
+ "day_text": "十四日己已",
+ "event_role": "其他",
+ "summary": "康熙帝赐索伦官兵食毕，率皇太子、诸皇子及善射侍卫射于行宫中门外，命索伦官兵射，并赐扈从诸大臣、侍卫、定员及执事人、护军等鹿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "木石匣地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21207,
+ "page_range": "434-435"
+}

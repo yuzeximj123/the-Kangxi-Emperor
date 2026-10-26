@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "十五日辛雍",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝召问户部侍郎库勒纳病情及贵州风土，库勒纳奏病较愈但足无力，言贵州风土甚恶、云南差胜，同往司官笔帖式等皆曾受病。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 719,
+ "page_range": "49-50"
+}

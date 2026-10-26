@@ -1,0 +1,70 @@
+{
+ "reign_year": 25,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "event_summary": "翰林院题请翰林官外转，明珠等转奏库勒纳、张英举劾意见，康熙帝评论乔莱妄行等事。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "库勒纳",
+   "role": "侍郎"
+  },
+  {
+   "name": "张英",
+   "role": "学士"
+  },
+  {
+   "name": "乔莱",
+   "role": "翰林官"
+  },
+  {
+   "name": "孙岳颁",
+   "role": "翰林官"
+  },
+  {
+   "name": "毛升芳",
+   "role": "翰林官"
+  },
+  {
+   "name": "徐钒",
+   "role": "翰林官"
+  },
+  {
+   "name": "汉助",
+   "role": "翰林官"
+  },
+  {
+   "name": "杨作桢",
+   "role": "翰林官"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "葛思泰",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18402,
+ "page_range": "403-404"
+}

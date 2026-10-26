@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初七日戊戌",
+ "event_role": "人事任免",
+ "summary": "翰林院题经筵讲官张玉书丁忧员缺，康熙帝询问人选后，着将董讷补充经筵讲官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "经筵讲官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王封滩",
+   "role": "侍读学士"
+  },
+  {
+   "name": "董讷",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6213,
+ "page_range": "159-160"
+}

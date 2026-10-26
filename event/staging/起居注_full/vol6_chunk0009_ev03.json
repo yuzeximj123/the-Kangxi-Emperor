@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部覆盛京将军绰克都题参乌何礼大舒书，请交盛京三部侍郎会议，康熙帝命遣绥色前去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "绰克都",
+   "role": "盛京将军"
+  },
+  {
+   "name": "乌何礼大舒书",
+   "role": "被参者"
+  },
+  {
+   "name": "绥色",
+   "role": "在京大臣"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 903,
+ "page_range": "28-29"
+}

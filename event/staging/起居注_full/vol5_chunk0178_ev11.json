@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "初九日辛卯",
+ "event_role": "人事任免",
+ "summary": "谕榆林总兵官柯彩居官不职失兵心，着驰驿前来；升张家口副将施世禄为榆林总兵官。",
+ "people": [
+  {
+   "name": "柯彩",
+   "role": "榆林总兵官"
+  },
+  {
+   "name": "施世禄",
+   "role": "张家口副将升榆林总兵官"
+  }
+ ],
+ "places": [
+  "榆林",
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17811,
+ "page_range": "366-367"
+}

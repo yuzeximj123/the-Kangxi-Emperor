@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "二十三日",
+ "event_role": "军务",
+ "summary": "皇长子羽袖奏问总兵官马进良、白斌留兵粮情况，马进良言已用五十日粮，余粮随后运至。",
+ "people": [
+  {
+   "name": "羽袖",
+   "role": "皇长子"
+  },
+  {
+   "name": "马进良",
+   "role": "总兵官"
+  },
+  {
+   "name": "白斌",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "拖陵",
+  "和和尔博"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11812,
+ "page_range": "246-247"
+}

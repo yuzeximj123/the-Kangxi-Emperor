@@ -1,0 +1,37 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝论右翼都统人选，以喇赛虽涉永兴案但守城有功，和希福人优年壮，着补西安将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "喇赛",
+   "role": "右翼都统候选"
+  },
+  {
+   "name": "萨海",
+   "role": "学士"
+  },
+  {
+   "name": "和希福",
+   "role": "西安将军补授者"
+  }
+ ],
+ "places": [
+  "永兴",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15600,
+ "page_range": "355-356"
+}

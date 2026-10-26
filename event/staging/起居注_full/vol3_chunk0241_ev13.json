@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": "二十三日己亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以禅塔海往审广东沈上达一案徇情颠倒为例，告诫阿西谭等不得以套语面奏、徇私误事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "禅塔海",
+   "role": "奉差审案官"
+  },
+  {
+   "name": "沈上达",
+   "role": "广东案涉人"
+  },
+  {
+   "name": "阿西谭",
+   "role": "刑部郎中"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24113,
+ "page_range": "517-518"
+}

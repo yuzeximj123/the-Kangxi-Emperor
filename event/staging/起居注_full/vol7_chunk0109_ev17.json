@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初九日丙寅",
+ "event_role": "其他",
+ "summary": "是日赐杭州副都统道服色、草州副都统恩塞等鞍马。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "恩塞",
+   "role": "草州副都统"
+  }
+ ],
+ "places": [
+  "杭州",
+  "草州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10917,
+ "page_range": "229-230"
+}

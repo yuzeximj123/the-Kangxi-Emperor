@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "十二日庚子",
+ "event_role": "人事任免",
+ "summary": "九卿会议户部尚书梁清标为其婿何中柱营求嘱托应革职，康熙帝念其效力年久，命降五级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁清标",
+   "role": "户部尚书"
+  },
+  {
+   "name": "何中柱",
+   "role": "梁清标之婿"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24109,
+ "page_range": "539-540"
+}

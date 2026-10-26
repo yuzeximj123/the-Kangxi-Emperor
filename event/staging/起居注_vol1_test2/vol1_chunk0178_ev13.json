@@ -1,0 +1,30 @@
+{
+ "reign_year": 18,
+ "month": 3,
+ "day_text": "初二日丁酉",
+ "event_role": "朝见受贺",
+ "summary": "是日驻跸南哥亦村，固安县防守尉钟西布、永清营守备李汉贞、永清县知县万一葛等来朝。",
+ "people": [
+  {
+   "name": "钟西布",
+   "role": "固安县防守尉"
+  },
+  {
+   "name": "李汉贞",
+   "role": "永清营守备"
+  },
+  {
+   "name": "万一葛",
+   "role": "永清县知县"
+  }
+ ],
+ "places": [
+  "南哥亦村",
+  "固安县",
+  "永清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17813,
+ "page_range": "413-414"
+}

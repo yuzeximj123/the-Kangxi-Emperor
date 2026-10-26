@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "初八日六已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责能一潇先称有病不与议后又云同议，系推诿图免罪，深负大臣职任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "能一潇",
+   "role": "原任尚书"
+  }
+ ],
+ "places": [
+  "高加堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1413,
+ "page_range": "40-41"
+}

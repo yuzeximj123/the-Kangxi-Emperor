@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "初六日辛卯",
+ "event_role": "司法案件",
+ "summary": "九卿会审秋决重犯，康熙帝逐案详议：殿灾失火者减等、刘肖乾减等、李应宗等缓决、钟古监禁缓决、许氏改为情真。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "刘肖乾",
+   "role": "被告"
+  },
+  {
+   "name": "李应宗",
+   "role": "案犯"
+  },
+  {
+   "name": "钟古",
+   "role": "笔帖式"
+  },
+  {
+   "name": "许氏",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1916,
+ "page_range": "81-82"
+}

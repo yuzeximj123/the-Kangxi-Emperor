@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "十七日乙丑",
+ "event_role": "人事任免",
+ "summary": "兵部题广州将军卢崇耀员缺，康熙帝以管源忠人材颇优、约束甚严，命补授广州将军。",
+ "people": [
+  {
+   "name": "卢崇耀",
+   "role": "广州将军"
+  },
+  {
+   "name": "管源忠",
+   "role": "江西总兵官"
+  },
+  {
+   "name": "祖建极",
+   "role": "福州副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广州",
+  "福州",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3104,
+ "page_range": "73-74"
+}

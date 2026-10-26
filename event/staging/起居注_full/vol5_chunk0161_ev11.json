@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十九日于午",
+ "event_role": "奏报地方情形",
+ "summary": "议政大臣奏尚书班第称于成龙捐纳银十三万余两存察罕诺尔，护守官兵粮尽，请旨更换。",
+ "people": [
+  {
+   "name": "班第",
+   "role": "尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "察罕诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16111,
+ "page_range": "332-333"
+}

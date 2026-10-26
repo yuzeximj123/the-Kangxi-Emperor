@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "二十四日戊实",
+ "event_role": "司法案件",
+ "summary": "刑部等题周之罗冒定死罪案，议诺敏、张圭昧、石柱等降罚，康熙帝从宽免堂官降级、各罚俸一年，司官依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺敏",
+   "role": "尚书"
+  },
+  {
+   "name": "张圭昧",
+   "role": "尚书"
+  },
+  {
+   "name": "石柱",
+   "role": "侍郎"
+  },
+  {
+   "name": "陈布禄",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15006,
+ "page_range": "335-336"
+}

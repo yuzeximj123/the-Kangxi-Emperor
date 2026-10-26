@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 1,
+ "day_text": "二十七日乙卯",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁学士员缺开列太仆寺卿喇锡等，康熙帝命副都御史辛保、大理寺卿希福纳转补学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "辛保",
+   "role": "副都御史"
+  },
+  {
+   "name": "希福纳",
+   "role": "大理寺卿"
+  },
+  {
+   "name": "喇锡",
+   "role": "太仆寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19006,
+ "page_range": "390-391"
+}

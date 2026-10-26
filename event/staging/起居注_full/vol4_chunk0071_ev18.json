@@ -1,0 +1,30 @@
+{
+ "reign_year": 28,
+ "month": 4,
+ "day_text": "二十八日甲午",
+ "event_role": "人事任免",
+ "summary": "宗人府题正红旗参领法山升任员缺，康熙帝命将保举之言载入本内以便日后察考，并令此后照此例开写具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "法山",
+   "role": "正红旗参领"
+  },
+  {
+   "name": "哈尔费颜",
+   "role": "拟正"
+  },
+  {
+   "name": "硕色",
+   "role": "拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7118,
+ "page_range": "154-155"
+}

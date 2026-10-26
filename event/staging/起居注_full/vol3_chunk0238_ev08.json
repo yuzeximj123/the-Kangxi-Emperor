@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十五日",
+ "event_role": "谕旨决策",
+ "summary": "直隶巡抚于成龙题修堤岸，康熙帝论强盗之法莫如家给人足，命九卿会议时遣部司官往直隶与于成龙商议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23808,
+ "page_range": "511-512"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议韩世琦未将李党严刑致死，李棠击鼓诬告拟流徙三千里，康熙帝改判李棠入旗流徙宁古塔免死。",
+ "people": [
+  {
+   "name": "韩世琦",
+   "role": "近抚"
+  },
+  {
+   "name": "李棠",
+   "role": "诬告者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14700,
+ "page_range": "337-338"
+}

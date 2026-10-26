@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "署川卫总督事席尔达题请以已补济宁首管竭忠调补宁夏道员缺，康熙帝准其所请并令开列知府等职名。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "署川卫总督事、兵部尚书"
+  },
+  {
+   "name": "管竭忠",
+   "role": "济宁首管"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "济宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12001,
+ "page_range": "250-251"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 13,
+ "month": 9,
+ "day_text": "二十五日丙辰",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿视朝，文武升转官员及喀尔喀部落土谢图汗等谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "土谢图汗桑阿色巴车",
+   "role": "喀尔喀部落首领"
+  },
+  {
+   "name": "墨纳秦何烧齐阿喇纳",
+   "role": "喀尔喀部落使者"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7703,
+ "page_range": "211-212"
+}

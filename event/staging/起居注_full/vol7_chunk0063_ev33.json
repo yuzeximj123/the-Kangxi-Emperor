@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 6,
+ "day_text": "十八日王搬",
+ "event_role": "其他",
+ "summary": "康熙帝复召见莽机禄于行宫，出赐御衣一件、东珠凉帽一顶并食。",
+ "people": [
+  {
+   "name": "莽机禄",
+   "role": "原任荆州将军"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6333,
+ "page_range": "137-138"
+}

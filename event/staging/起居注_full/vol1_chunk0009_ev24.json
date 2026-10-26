@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "二十二日戊戌",
+ "event_role": "请安谢恩",
+ "summary": "孙一桂跪听旨意，悚惧奏称深悔前非、教训子孙以图报称，康熙帝谕以如此则尔之福。",
+ "people": [
+  {
+   "name": "孙一桂",
+   "role": "原任山西临晋县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "怀来城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 924,
+ "page_range": "75-76"
+}

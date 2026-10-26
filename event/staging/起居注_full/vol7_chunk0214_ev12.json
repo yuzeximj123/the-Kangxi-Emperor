@@ -1,0 +1,40 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "初五日己巳",
+ "event_role": "人事任免",
+ "summary": "康熙帝御乾清宫处理折本，命萨尔泰调补刑部左侍郎、博音岱调补刑部右侍郎、二郎保补授理藩院右侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萨尔泰",
+   "role": "官员"
+  },
+  {
+   "name": "博音岱",
+   "role": "官员"
+  },
+  {
+   "name": "二郎保",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21412,
+ "page_range": "439-440"
+}

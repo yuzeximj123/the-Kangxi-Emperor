@@ -1,0 +1,41 @@
+{
+ "date_raw": "康熙四十七年正月十六日",
+ "reign_year": 47,
+ "month": null,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "梁鼐奏报浙省宁绍交界聚众盗伙已被擒获审办，首犯张士勇兄弟在逃正严缉。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "奏报人"
+  },
+  {
+   "name": "张士勇",
+   "role": "涉及人物"
+  },
+  {
+   "name": "张念二",
+   "role": "涉及人物"
+  },
+  {
+   "name": "金严",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "绍兴",
+  "宁绍",
+  "大昆山",
+  "慈谿"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批仅作“批”字，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "285",
+ "source_title": "闽浙总督梁鼐奏报浙省拿获绍兴交界夥党见在确审情形摺",
+ "order_index": 210
+}

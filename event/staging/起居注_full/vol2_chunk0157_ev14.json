@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "十七日庚申",
+ "event_role": "其他",
+ "summary": "康熙帝赐江南京口右路水师总兵官陈华雯马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈华雯",
+   "role": "江南京口右路水师总兵官"
+  }
+ ],
+ "places": [
+  "江南京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15714,
+ "page_range": "357-358"
+}

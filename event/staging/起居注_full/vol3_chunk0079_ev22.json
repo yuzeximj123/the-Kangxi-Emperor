@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初八日成辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝召大学士明珠、提督麻尔吉、学士常书至养心殿，命阅满洲官员试卷，并问麻尔吉曾否阅《性理大全》。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "麻尔吉",
+   "role": "提督"
+  },
+  {
+   "name": "常书",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "养心殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7922,
+ "page_range": "193-194"
+}

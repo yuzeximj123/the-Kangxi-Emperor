@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十一年三月二十六日",
+ "reign_year": 51,
+ "month": 3,
+ "day": 26,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦向康熙帝恭请万安，康熙帝朱批回复朕安。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造、大理寺卿兼巡视两淮盐课监察御史，奏报人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝，朱批回复者"
+  }
+ ],
+ "places": [
+  "苏州",
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批回复朕安。",
+ "source_title": "蘇州織造李煦奏報伯行意有不平摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1055",
+ "order_index": 17
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "二十九日本未",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝遣佟国维、明珠往北镇庙行礼，赐庙祝白金五十两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国维",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "北镇庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11422,
+ "page_range": "271-272"
+}

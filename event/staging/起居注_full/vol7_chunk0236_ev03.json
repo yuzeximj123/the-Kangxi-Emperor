@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "十五日乙丑",
+ "event_role": "司法案件",
+ "summary": "刑部覆江西巡抚郎廷极所题能大梁殴伤邓大苟致死案，拟绞监候；康熙帝以情有可原，命从宽免死，照例减等发落。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "能大梁",
+   "role": "案犯"
+  },
+  {
+   "name": "邓大苟",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23603,
+ "page_range": "483-484"
+}

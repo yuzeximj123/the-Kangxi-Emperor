@@ -1,0 +1,22 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "十一日辛丑",
+ "event_role": "奏报灾情收成",
+ "summary": "九卿奏称四方水旱即遣官赈济蠲免，盛京米贵发海运积米接济，平阳地震发帑金赈济修城，今雨水稍过请弛圣怀。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京",
+  "平阳府",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6910,
+ "page_range": "148-149"
+}

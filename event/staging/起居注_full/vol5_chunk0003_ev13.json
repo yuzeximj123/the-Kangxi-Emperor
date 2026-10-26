@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "二十一日",
+ "event_role": "河工水利",
+ "summary": "康熙帝问河南一带黄河险工有无更易，于成龙称险工并无更易；康熙帝令河南黄河堤岸单薄低矮处加工培修，并令九卿、詹事、科道有所见悉宜敷陈。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "河南",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 313,
+ "page_range": "16-17"
+}

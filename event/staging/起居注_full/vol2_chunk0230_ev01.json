@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝御景山内前殿，赐宴来朝的各部蒙古王公台吉等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班第额",
+   "role": "科尔沁国和硕达尔汉亲王"
+  },
+  {
+   "name": "罗布藏",
+   "role": "喀尔喀多罗贝勒"
+  },
+  {
+   "name": "鄂其礼",
+   "role": "泰曼部落多罗达尔汉郡王"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23001,
+ "page_range": "503-504"
+}

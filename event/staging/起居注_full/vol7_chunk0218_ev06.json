@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十五日丁丑",
+ "event_role": "朝见受贺",
+ "summary": "怀柔县知县于执中等、古北口等处抽木税兵部郎中尼唐阿等来朝。",
+ "people": [
+  {
+   "name": "于执中",
+   "role": "怀柔县知县"
+  },
+  {
+   "name": "尼唐阿",
+   "role": "兵部郎中"
+  }
+ ],
+ "places": [
+  "怀柔县",
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21806,
+ "page_range": "447-448"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝察知镶白旗蒙古补授佐领时副都统因格参推挽同族未回避，命交兵部看守严加议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "因格参",
+   "role": "副都统"
+  },
+  {
+   "name": "端卓克",
+   "role": "引见人员"
+  },
+  {
+   "name": "巴三",
+   "role": "引见人员"
+  },
+  {
+   "name": "张赛",
+   "role": "引见人员"
+  },
+  {
+   "name": "裕亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6904,
+ "page_range": "148-149"
+}

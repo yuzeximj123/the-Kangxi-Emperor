@@ -1,0 +1,20 @@
+{
+ "reign_year": 15,
+ "month": 11,
+ "day_text": "十四日于辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以有事南郊，斋戒不理政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南郊"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12523,
+ "page_range": "307-308"
+}

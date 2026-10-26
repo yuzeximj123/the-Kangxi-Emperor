@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "二十日庚辰",
+ "event_role": "人事任免",
+ "summary": "松柱等以山东按察使蔡琦员缺开列霸昌道祁国首等职名覆请，康熙帝命问九卿。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "蔡琦",
+   "role": "山东按察使"
+  },
+  {
+   "name": "祁国首",
+   "role": "霸昌道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13714,
+ "page_range": "285-286"
+}

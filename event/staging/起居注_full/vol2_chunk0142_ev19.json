@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "二十九日甲辰",
+ "event_role": "司法案件",
+ "summary": "刑部遵旨详问逆贼谭弘之子谭天伦等九人处斩事回奏，康熙帝谕谭天伦着正法，陈朴等八人乃无知连累。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "谭天伦",
+   "role": "谭弘之子"
+  },
+  {
+   "name": "陈朴",
+   "role": "连累者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14219,
+ "page_range": "327-328"
+}

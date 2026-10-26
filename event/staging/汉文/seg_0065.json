@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十三年十二月十二日",
+ "reign_year": 43,
+ "month": 12,
+ "day": 12,
+ "event_role": "贸易漕运",
+ "summary": "曹寅奏报江船及内河船隻建造将竣工，请示应于何处候旨遵行。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江寧"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示已有安排，令其照旧例伺候。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "92",
+ "source_title": "江寧織造曹寅奏請應於何處候摺",
+ "order_index": 65
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝引见教官王盛英等一百一十人，逐一详问履历，将年迈及才力不及的知县梅成枢、通判韩文灶、教官杨永构等革退。",
+ "people": [
+  {
+   "name": "王盛英",
+   "role": "教官"
+  },
+  {
+   "name": "梅成枢",
+   "role": "知县"
+  },
+  {
+   "name": "韩文灶",
+   "role": "通判"
+  },
+  {
+   "name": "杨永构",
+   "role": "教官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15100,
+ "page_range": "313-314"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "大将军赖塔题请准之瑛军前投诚加录用，部议待查，康熙帝称闻其曾为伪巡抚，命阿兰泰等查明有无受伪职来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赖塔",
+   "role": "大将军"
+  },
+  {
+   "name": "准之瑛",
+   "role": "原任云南布政使"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6501,
+ "page_range": "173-174"
+}

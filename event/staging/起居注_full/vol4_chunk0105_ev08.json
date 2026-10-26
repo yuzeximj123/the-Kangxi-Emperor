@@ -1,0 +1,41 @@
+{
+ "reign_year": 29,
+ "month": 2,
+ "day_text": "十七日已卯",
+ "event_role": "谕旨决策",
+ "summary": "工部题估修阙里圣庙工料价值，康熙帝谕不动支部内钱粮，如数发内帑银采办修理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "阙里",
+  "圣庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10508,
+ "page_range": "222-223"
+}

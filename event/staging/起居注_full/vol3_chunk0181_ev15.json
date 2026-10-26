@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "二十五日丁未",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝早御太和门视朝，升转文武官员谢恩，安南国进表谢恩正使阮进财等行礼，赐茶后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阮进财",
+   "role": "安南国进表谢恩正使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18115,
+ "page_range": "397-398"
+}

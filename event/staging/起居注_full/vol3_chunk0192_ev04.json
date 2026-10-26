@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "王嫩奏张觅为人说慎，吴正治、宋德宜奏张鹏居官亦善，康熙帝命张觅升补刑部右侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王嫩",
+   "role": "官员"
+  },
+  {
+   "name": "张觅",
+   "role": "官员"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "张鹏",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19204,
+ "page_range": "419-420"
+}

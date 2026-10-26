@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "十一日乙效",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝问琼州地方形势百姓生计，石柱奏琼州周围二千七百余里，生黎熟黎约十万余口，近城者富饶，远者容色陋，地产沉香槟榔花椒等物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石柱",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [
+  "琼州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3416,
+ "page_range": "103-104"
+}

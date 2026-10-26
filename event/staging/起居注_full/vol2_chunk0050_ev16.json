@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "初七日己未",
+ "event_role": "谕旨决策",
+ "summary": "达赖喇嘛三本献礼请罪，康熙帝从明珠议收其礼物赐温旨，请罪二事仍交议政王会议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "达赖喇嘛",
+   "role": "喇嘛"
+  },
+  {
+   "name": "吴三桂",
+   "role": "叛臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5016,
+ "page_range": "143-144"
+}

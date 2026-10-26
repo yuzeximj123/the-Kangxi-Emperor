@@ -1,0 +1,29 @@
+{
+ "reign_year": 53,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就许贞在江西开垦田亩、巡抚佟国吉奏准将其子孙入江西民籍一事，质问如何议逐回福建，命发回再议具奏。",
+ "people": [
+  {
+   "name": "许贞",
+   "role": "在江西开垦田亩者"
+  },
+  {
+   "name": "佟国吉",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6600,
+ "page_range": "143-144"
+}

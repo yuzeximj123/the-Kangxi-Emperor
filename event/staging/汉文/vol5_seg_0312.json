@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年十月二十七日",
+ "reign_year": 53,
+ "month": 10,
+ "day": 20,
+ "event_role": "奏报地方情形",
+ "summary": "浙江巡抚王度昭奏报初冬保定府清苑县及永平府卢龙、昌黎等县陆续得雪，以慰圣怀并预祝来年二麦丰稔。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚、兵部右侍郎兼都察院右副都御史"
+  }
+ ],
+ "places": [
+  "浙江",
+  "保定府",
+  "清苑县",
+  "永平府",
+  "卢龙县",
+  "昌黎县"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸巡撫趙弘燮奏報瑞雪摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1672",
+ "order_index": 312
+}

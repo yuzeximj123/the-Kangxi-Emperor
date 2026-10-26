@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称罗察视河言并无泛流，指李光地挟仇题参，并批出此事与罗察往视事宜一并处理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "罗察",
+   "role": "侍郎"
+  },
+  {
+   "name": "吴禄礼",
+   "role": "永定河分司"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10306,
+ "page_range": "216-217"
+}

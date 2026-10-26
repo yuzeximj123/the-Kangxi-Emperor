@@ -1,0 +1,36 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十七日丙申",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝称咨访知张鹏翮居官善、兵民称颂，吴琠、宋荦居官皆善，云南总督巴锡居官亦好。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总督"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  },
+  {
+   "name": "宋荦",
+   "role": "巡抚"
+  },
+  {
+   "name": "巴锡",
+   "role": "云南总督"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8609,
+ "page_range": "182-183"
+}

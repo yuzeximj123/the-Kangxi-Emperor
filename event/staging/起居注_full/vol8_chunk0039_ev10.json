@@ -1,0 +1,25 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "初二日两子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论浙江海中渔船因防汛官兵索钱被迫为海贼，向提督吴郡下论旨欲使提镇知之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴郡",
+   "role": "浙江提督"
+  }
+ ],
+ "places": [
+  "浙江",
+  "海口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3910,
+ "page_range": "89-90"
+}

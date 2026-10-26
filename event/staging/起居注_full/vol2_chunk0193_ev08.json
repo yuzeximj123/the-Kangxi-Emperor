@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "summary": "兵部题补定海总兵员缺，康熙命孙雅统补授定海总兵官。",
+ "people": [
+  {
+   "name": "孙雅统",
+   "role": "总兵"
+  },
+  {
+   "name": "件大寅",
+   "role": "定海总兵"
+  }
+ ],
+ "places": [
+  "定海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19308,
+ "page_range": "429-430"
+}

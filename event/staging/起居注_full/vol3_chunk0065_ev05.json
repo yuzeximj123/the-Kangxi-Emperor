@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十五日丙午",
+ "event_role": "议政听政",
+ "summary": "九卿詹事科道会议直隶学差照旧例开列，江南浙江学道改为学院开列，其余各省用进士出身郎中道府，康熙谕选择惟在得人。",
+ "people": [
+  {
+   "name": "余国柱",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6505,
+ "page_range": "165-166"
+}

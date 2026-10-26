@@ -1,0 +1,24 @@
+{
+ "reign_year": 10,
+ "month": 12,
+ "day_text": "初九日丙成",
+ "event_role": "人事任免",
+ "summary": "兵部以四川建昌总兵官员缺开列副将林本植等十员题请，奉旨令林本植、何德成来京引见。",
+ "people": [
+  {
+   "name": "林本植",
+   "role": "副将"
+  },
+  {
+   "name": "何德成",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "四川建昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 408,
+ "page_range": "65-66"
+}

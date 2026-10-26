@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十五日庚成",
+ "event_role": "人事任免",
+ "summary": "原任内大臣、大学士、正黄旗汉军都统巴泰以年老请休致，康熙帝命以原衔致仕行走。",
+ "people": [
+  {
+   "name": "巴泰",
+   "role": "原任内大臣、大学士、都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2015,
+ "page_range": "75-76"
+}

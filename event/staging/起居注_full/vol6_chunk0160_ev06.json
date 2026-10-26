@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "理藩院题商南多尔济等奏策旺拉卜滩遣人往呼户诺尔台吉处事，康熙帝令问侍郎常寿等再行具奏。",
+ "people": [
+  {
+   "name": "商南多尔济",
+   "role": "奏事者"
+  },
+  {
+   "name": "策旺拉卜滩",
+   "role": "蒙古首领"
+  },
+  {
+   "name": "常寿",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "呼户诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16006,
+ "page_range": "330-331"
+}

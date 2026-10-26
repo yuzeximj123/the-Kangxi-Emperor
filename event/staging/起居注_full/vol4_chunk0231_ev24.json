@@ -1,0 +1,21 @@
+{
+ "reign_year": 32,
+ "month": 4,
+ "day_text": "十七日庚寅",
+ "event_role": "皇帝行止",
+ "summary": "辰时康熙由西直门进西华门回宫。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西直门",
+  "西华门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23124,
+ "page_range": "474-475"
+}

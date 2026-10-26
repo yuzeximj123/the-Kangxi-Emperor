@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十七日己未",
+ "event_role": "人事任免",
+ "summary": "吏部题补监察御史白为采内升员缺，正拟孙冈、陪拟马君宠，康熙帝询问后命以孙冈补授。",
+ "people": [
+  {
+   "name": "孙冈",
+   "role": "刑部郎中，拟补监察御史"
+  },
+  {
+   "name": "马君宠",
+   "role": "吏部郎中，陪拟"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李需春",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17903,
+ "page_range": "401-402"
+}

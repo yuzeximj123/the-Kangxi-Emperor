@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "覆请浙闽总督觉罗满保题报自旅顺口逃海贼陈君元伙贼内阿吉卫等十七人连船拿获、杀死孝阿二等十五人，康熙帝嘉奖，令将游击议叙具奏。",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "陈君元",
+   "role": "逃海贼"
+  },
+  {
+   "name": "阿吉卫",
+   "role": "贼伙"
+  },
+  {
+   "name": "孝阿二",
+   "role": "贼伙"
+  }
+ ],
+ "places": [
+  "旅顺口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20406,
+ "page_range": "419-420"
+}

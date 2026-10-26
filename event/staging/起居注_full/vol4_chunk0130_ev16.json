@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 9,
+ "day_text": "二十一日戊申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫，大学士伊桑阿、阿兰泰以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13016,
+ "page_range": "272-273"
+}

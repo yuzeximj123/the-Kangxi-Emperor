@@ -1,0 +1,22 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "二十六日癸酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝登景终山，谕年老有疾及体胖大臣不必登山，是日猎二虎于九山，晚驻跸米峪口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "景终山",
+  "九山",
+  "米峪口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1621,
+ "page_range": "42-43"
+}

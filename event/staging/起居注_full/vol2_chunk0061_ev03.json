@@ -1,0 +1,46 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "副都御史宋文运参御史曾袖、罗秉伦妄行条奏、保留丁忧巡抚安世鼎等事，康熙与大学士议后命该部议奏。",
+ "people": [
+  {
+   "name": "宋文运",
+   "role": "副都御史"
+  },
+  {
+   "name": "曾袖",
+   "role": "御史"
+  },
+  {
+   "name": "罗秉伦",
+   "role": "御史"
+  },
+  {
+   "name": "安世鼎",
+   "role": "丁忧巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "汉大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6103,
+ "page_range": "165-166"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初二日甲寅",
+ "event_role": "人事任免",
+ "summary": "康熙帝顾大学士马齐，因田种玉曾为大臣且年已七十余，着将原降之级复还，传谕吏部知道。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "田种玉",
+   "role": "原任礼部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 412,
+ "page_range": "19-20"
+}

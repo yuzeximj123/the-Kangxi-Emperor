@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十八日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝与麻尔图讨论外省事件迟延之故，麻尔图奏称地方辽远、雨雪阻滞所致。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "西安",
+  "汉中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23107,
+ "page_range": "505-506"
+}

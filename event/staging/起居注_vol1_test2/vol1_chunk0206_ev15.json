@@ -1,0 +1,32 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "十二日癸卯",
+ "event_role": "弹劾参奏",
+ "summary": "科员公参江抚慕天颜部议降四级留任，康熙帝依部议并谕其操守不廉当痛改前非。",
+ "people": [
+  {
+   "name": "慕天颜",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20615,
+ "page_range": "469-470"
+}

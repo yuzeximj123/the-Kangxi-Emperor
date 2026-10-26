@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十一日本丑",
+ "event_role": "弹劾参奏",
+ "summary": "侍读学士常书同大学士等回奏考试监察御史朱衣贵事，康熙帝以其人品良劣，命交吏部察明巡抚原举缘由具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "侍读学士"
+  },
+  {
+   "name": "朱衣贵",
+   "role": "监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1122,
+ "page_range": "57-58"
+}

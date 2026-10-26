@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初三日戊戌",
+ "event_role": "人事任免",
+ "summary": "户部题请崇文门税课差兵部郎中塞式、左翼税课差刑部员外郎安泰，康熙帝命另拣选谨慎有操守官员具奏。",
+ "people": [
+  {
+   "name": "塞式",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "安泰",
+   "role": "刑部员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "崇文门",
+  "左翼"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1802,
+ "page_range": "71-72"
+}

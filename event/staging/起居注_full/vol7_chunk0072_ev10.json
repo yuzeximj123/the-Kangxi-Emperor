@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初二日甲成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令学士常寿招抚海上贸易失业抢夺之人，并令暂停今岁运米待明春。",
+ "people": [
+  {
+   "name": "常寿",
+   "role": "学士"
+  },
+  {
+   "name": "钱齐保",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7210,
+ "page_range": "155-156"
+}

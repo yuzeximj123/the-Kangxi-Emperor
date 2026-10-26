@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "十八日壬申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，大学士同九卿议奏河工事务，询问会议结果。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13108,
+ "page_range": "272-273"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "十五日丙子",
+ "event_role": "其他",
+ "summary": "长沙阵亡护军校松要格尔布灵柩至，康熙帝遣头等侍卫马塔、莫尔浑携茶酒致奠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马塔",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "莫尔浑",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "松要格尔布",
+   "role": "护军校"
+  }
+ ],
+ "places": [
+  "长沙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19804,
+ "page_range": "453-454"
+}

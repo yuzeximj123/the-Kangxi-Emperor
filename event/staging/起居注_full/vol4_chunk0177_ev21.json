@@ -1,0 +1,21 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "二十一日辛丑",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝至暂安泰典行三跪九叩头礼、三奠酒举哀，又诣孝陵行三跪九叩头礼、三奠酒举哀，毕至陵三奠酒举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "暂安泰典",
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17721,
+ "page_range": "366-367"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝认为护军统领之职紧要，因松柱材力矫健，命补授护军统领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15700,
+ "page_range": "324-325"
+}

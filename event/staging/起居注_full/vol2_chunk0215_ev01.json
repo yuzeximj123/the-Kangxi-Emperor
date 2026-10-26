@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "月初一、初二两日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论施琅独力平台之功甚大，应封伯，命与九卿、詹事、科道会议具奏。",
+ "people": [
+  {
+   "name": "施琅",
+   "role": "将领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "海岛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21501,
+ "page_range": "473-474"
+}

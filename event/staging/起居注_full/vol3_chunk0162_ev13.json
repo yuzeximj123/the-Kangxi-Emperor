@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十二日乙刻",
+ "event_role": "人事任免",
+ "summary": "明珠等奏学士王起元厚重能办事、副都御史赵之鼎为人亦优，康熙命王起元补授广西巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王起元",
+   "role": "学士"
+  },
+  {
+   "name": "赵之鼎",
+   "role": "副都御史"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16213,
+ "page_range": "359-360"
+}

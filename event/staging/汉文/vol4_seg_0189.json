@@ -1,0 +1,31 @@
+{
+ "date_raw": "二月十五日",
+ "reign_year": null,
+ "month": 2,
+ "day": 15,
+ "event_role": "朝见受贺",
+ "summary": "苏州织造李煦奏报两淮众商感激皇恩，坚持赴京叩祝康熙六十万寿，虽奉御批不必来京，商人仍踊跃进京，请求代奏。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，御批及万寿庆典对象"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州",
+  "京中",
+  "阙"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "御批“知道了。商人不必来京”，令商人不必进京叩祝。",
+ "source_title": "苏州织造李煦奏报两淮商人赴京叩祝万寿摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 189
+}

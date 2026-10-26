@@ -1,0 +1,50 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝追忆图海、莫罗、哈占、折库讷等旧臣记性与人品，并评杜立德、张玉书、萧永藻等汉大学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图海",
+   "role": "大学士"
+  },
+  {
+   "name": "莫罗",
+   "role": "经略"
+  },
+  {
+   "name": "哈占",
+   "role": "总督"
+  },
+  {
+   "name": "折库讷",
+   "role": "尚书"
+  },
+  {
+   "name": "杜立德",
+   "role": "汉大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "尚之信",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16906,
+ "page_range": "349-350"
+}

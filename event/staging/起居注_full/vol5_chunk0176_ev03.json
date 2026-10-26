@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕议政大臣西路备兵紧要，令饲养马匹于甘肃等处并会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李学圣",
+   "role": "送马官员"
+  },
+  {
+   "name": "议政诸大臣",
+   "role": "议政大臣"
+  }
+ ],
+ "places": [
+  "西安",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17603,
+ "page_range": "362-363"
+}

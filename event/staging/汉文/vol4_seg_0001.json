@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十一年二月二十八日",
+ "reign_year": 51,
+ "month": 2,
+ "day": 28,
+ "event_role": "朝见受贺",
+ "summary": "杭州织造郎中孙文成恭逢康熙万寿圣诞，设香案望阙叩头庆贺，并上折称颂皇帝仁德、祝愿福寿绵长。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "管理杭州织造事郎中兼佐领，上奏祝贺者"
+  },
+  {
+   "name": "康熙",
+   "role": "当朝皇帝，万寿圣诞受贺者"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "孙文成奏贺万寿",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 1
+}

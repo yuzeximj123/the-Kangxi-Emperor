@@ -1,0 +1,33 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "初二日",
+ "event_role": "人事任免",
+ "summary": "提督徐治都请调京山县知县祖嘉落与宛县知县龙鳞锦互调，吏部议不准，康熙帝谕令照所奏调补，不为例。",
+ "people": [
+  {
+   "name": "徐治都",
+   "role": "提督"
+  },
+  {
+   "name": "祖嘉落",
+   "role": "京山县知县"
+  },
+  {
+   "name": "龙鳞锦",
+   "role": "宛县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京山县",
+  "宛县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6405,
+ "page_range": "171-172"
+}

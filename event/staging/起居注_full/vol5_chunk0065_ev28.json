@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "十一日壬申",
+ "event_role": "朝见受贺",
+ "summary": "是日，通州副将毛来凤等、道沈志达等、监督程大夏等、知州王光席等来朝。",
+ "people": [
+  {
+   "name": "毛来凤",
+   "role": "通州副将"
+  },
+  {
+   "name": "沈志达",
+   "role": "道员"
+  },
+  {
+   "name": "程大夏",
+   "role": "监督"
+  },
+  {
+   "name": "王光席",
+   "role": "知州"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6528,
+ "page_range": "140-141"
+}

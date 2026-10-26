@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读武后不罪净朝隐祷少室山事论，批评朝隐献媚、武后崇长谄谀失体。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "净朝隐",
+   "role": "唐臣"
+  },
+  {
+   "name": "武则天",
+   "role": "唐太后"
+  }
+ ],
+ "places": [
+  "少室山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11214,
+ "page_range": "236-237"
+}

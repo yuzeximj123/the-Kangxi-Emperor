@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "马齐奏称穆和伦曾任中书尚有可取，但暗昧执拗不知改过；康熙帝又论给事中莫洛、雅齐纳托辞密奏之事。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "穆和伦",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "莫洛",
+   "role": "给事中"
+  },
+  {
+   "name": "雅齐纳",
+   "role": "给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11402,
+ "page_range": "239-240"
+}

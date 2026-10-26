@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "湖北巡抚年遐龄、蒲州营游击高将、知州李六成等来朝。",
+ "people": [
+  {
+   "name": "年遐龄",
+   "role": "湖北巡抚"
+  },
+  {
+   "name": "高将",
+   "role": "蒲州营游击"
+  },
+  {
+   "name": "李六成",
+   "role": "知州"
+  }
+ ],
+ "places": [
+  "湖北",
+  "蒲州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8003,
+ "page_range": "171-172"
+}

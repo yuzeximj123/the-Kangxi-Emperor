@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": "二十五日甲拱",
+ "event_role": "人事任免",
+ "summary": "大学士吴正治称年老乞休，康熙帝命照所拟票签行，不予驰驿遣官送回。",
+ "people": [
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20919,
+ "page_range": "453-454"
+}

@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十二年八月二十日",
+ "reign_year": 52,
+ "month": 8,
+ "day": 21,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报苏州、扬州雨水调匀，早稻已收割、晚稻正在刈获，年景上好，并报米麦价格。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報蘇撫早稻已收晚稻現在刈獲摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1422",
+ "order_index": 53
+}

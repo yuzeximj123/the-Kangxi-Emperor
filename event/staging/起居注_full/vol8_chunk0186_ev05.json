@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "二",
+ "event_role": "人事任免",
+ "summary": "翰林院所题日讲官把叙员缺开列侍讲学士富尔敦等职名，陈璋、赵能诏员缺开列李统等职名，康熙帝令问翰林院具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "富尔敦",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "陈璋",
+   "role": "日讲官"
+  },
+  {
+   "name": "赵能诏",
+   "role": "日讲官"
+  },
+  {
+   "name": "李统",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18605,
+ "page_range": "383-384"
+}

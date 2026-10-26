@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "汤斌奏陈高家堰等减水坝层层泄水致七州县受灾，主张塞高家堰堤、修理下河以安民生。",
+ "people": [
+  {
+   "name": "汤斌",
+   "role": "官员"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "高邮州",
+  "洪泽湖",
+  "运河",
+  "七州县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20803,
+ "page_range": "451-452"
+}

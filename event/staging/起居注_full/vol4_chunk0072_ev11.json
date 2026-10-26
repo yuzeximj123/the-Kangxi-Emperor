@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "初七日壬寅",
+ "event_role": "人事任免",
+ "summary": "康熙帝命吏部尚书阿兰泰补授内阁满大学士，户部尚书徐元文补授内阁汉大学士。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "吏部尚书补授内阁大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "户部尚书补授内阁大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7211,
+ "page_range": "156-157"
+}

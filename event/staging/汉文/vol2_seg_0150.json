@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙肆拾捌年肆月拾柒日",
+ "reign_year": 48,
+ "month": 4,
+ "day": 17,
+ "event_role": "请安谢恩",
+ "summary": "闽浙总督梁鼐接奉康熙帝御批后，上摺恭谢圣恩并请圣安，表达对皇帝身体的关切与忠诚。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "闽浙总督"
+  },
+  {
+   "name": "常逢策",
+   "role": "梁鼐家人，代其赍摺请安"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道”，表示已阅知悉。",
+ "source_title": "閩浙總督梁鼐奏請聖安並陳愚悃摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "490",
+ "order_index": 150
+}

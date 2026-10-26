@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官朱彼、王思轼记录。",
+ "people": [
+  {
+   "name": "朱彼",
+   "role": "起居注官"
+  },
+  {
+   "name": "王思轼",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4206,
+ "page_range": "95-96"
+}

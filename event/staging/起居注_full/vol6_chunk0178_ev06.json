@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "二十四日",
+ "event_role": "河工水利",
+ "summary": "康熙问水高石堤几何，范承勋奏水尚不能漫过新筑石堤，王鸿绪奏高家堰旧石坦水虽漫过其上尚有加筑土坦。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17806,
+ "page_range": "366-367"
+}

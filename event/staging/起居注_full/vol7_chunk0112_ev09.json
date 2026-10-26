@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "十九日丙子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝准宗人府所议，给闲散宗室四德等房屋田地奴仆，并动支户部库银为吴尔泰等置房买人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "四德",
+   "role": "闲散宗室"
+  },
+  {
+   "name": "吴尔泰",
+   "role": "闲散宗室"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11209,
+ "page_range": "235-236"
+}

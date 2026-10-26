@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士王熙奏问杨周宪关于理数之说及九卿会议意见，康熙帝称此论亦佳。",
+ "people": [
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "杨周宪",
+   "role": "被询问者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13006,
+ "page_range": "295-296"
+}

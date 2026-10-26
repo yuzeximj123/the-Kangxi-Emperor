@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "广东高雷廉总兵官员缺，康熙帝命云南沅江副将李馆枚补授，以汉军年少壮健者任广东要地。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李馆枚",
+   "role": "云南沅江副将"
+  }
+ ],
+ "places": [
+  "广东",
+  "云南沅江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2401,
+ "page_range": "59-60"
+}

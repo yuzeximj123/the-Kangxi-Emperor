@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "初五日辛未",
+ "event_role": "人事任免",
+ "summary": "副都御史赵士志升任员缺，康熙询问张可前，明珠、李霨称其守分安静，康熙遂令张可前升补此缺。",
+ "people": [
+  {
+   "name": "赵士志",
+   "role": "副都御史"
+  },
+  {
+   "name": "张可前",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1011,
+ "page_range": "55-56"
+}

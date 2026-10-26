@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十七日",
+ "event_role": "议政听政",
+ "summary": "康熙帝指斥耿额为索额图家奴，负恩结党，耿额叩首自辩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "耿额",
+   "role": "尚书"
+  },
+  {
+   "name": "索额图",
+   "role": "已故大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19308,
+ "page_range": "397-398"
+}

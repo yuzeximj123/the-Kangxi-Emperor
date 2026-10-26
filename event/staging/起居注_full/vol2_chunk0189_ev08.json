@@ -1,0 +1,27 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "十九日辛卯",
+ "event_role": "军务",
+ "summary": "赵良栋奏保宁叙功及成都克取效力不均，请敕部一例议叙，康熙帝命议政王大臣会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵良栋",
+   "role": "銮仪卫銮仪使"
+  }
+ ],
+ "places": [
+  "保宁",
+  "成都",
+  "云南",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18908,
+ "page_range": "421-422"
+}

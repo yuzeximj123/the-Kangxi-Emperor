@@ -1,0 +1,35 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "十八日戊辰",
+ "event_role": "贸易漕运",
+ "summary": "户部覆周祚显条陈买湖广河南米运甘肃，议不准行，康熙从部议。",
+ "people": [
+  {
+   "name": "周祚显",
+   "role": "御史"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "常泰",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "河南",
+  "甘肃",
+  "肃州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12414,
+ "page_range": "259-260"
+}

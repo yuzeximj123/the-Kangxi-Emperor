@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "十一日庚寅",
+ "event_role": "河工水利",
+ "summary": "协理河务府丞徐廷至陵辞行请训，康熙帝谕以河道关系国计民生，令其从新辅而行、勿听浮言。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐廷",
+   "role": "协理河务府丞"
+  },
+  {
+   "name": "新辅",
+   "role": "河臣"
+  }
+ ],
+ "places": [
+  "高邮",
+  "邵伯",
+  "淮安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19123,
+ "page_range": "394-395"
+}

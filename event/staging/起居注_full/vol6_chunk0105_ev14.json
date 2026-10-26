@@ -1,0 +1,31 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "十六日王子",
+ "event_role": "人事任免",
+ "summary": "杭州副都统鄂齐尔、江宁副都统阿尔纳等赴任请训旨，康熙谕令亲率兵丁不时训练。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "阿尔纳",
+   "role": "江宁副都统"
+  }
+ ],
+ "places": [
+  "杭州",
+  "江宁",
+  "浙江",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10514,
+ "page_range": "220-221"
+}

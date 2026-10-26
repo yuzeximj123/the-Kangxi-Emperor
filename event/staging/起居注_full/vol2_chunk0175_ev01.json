@@ -1,0 +1,31 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "宁古塔将军巴海奏罗察侵费牙喀地方，兵部议设兵驻防，康熙帝以未详察情形发回再议。",
+ "people": [
+  {
+   "name": "巴海",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "萨布苏",
+   "role": "副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "费牙喀",
+  "爱浑",
+  "呼马尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17501,
+ "page_range": "393-394"
+}

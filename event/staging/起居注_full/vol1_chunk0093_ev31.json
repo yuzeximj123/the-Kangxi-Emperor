@@ -1,0 +1,28 @@
+{
+ "reign_year": 14,
+ "month": 5,
+ "day_text": "十六日癸卯",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝陈设卤簿，率在京王、贝勒、大臣、侍卫及八旗都统等衣蟒服迎凯旋军于南苑大红门，行三跪九叩礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂查",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "图海",
+   "role": "副将军"
+  }
+ ],
+ "places": [
+  "南苑大红门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9331,
+ "page_range": "243-244"
+}

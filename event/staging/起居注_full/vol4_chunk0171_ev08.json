@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "十三日癸亥",
+ "event_role": "人事任免",
+ "summary": "兵部题前锋统领员缺，康熙帝以硕医曾试用、人材果优，命补授前锋统领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "硕医",
+   "role": "前锋统领"
+  },
+  {
+   "name": "班达尔沙",
+   "role": "原前锋统领"
+  },
+  {
+   "name": "伯四格",
+   "role": "护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17108,
+ "page_range": "354-355"
+}

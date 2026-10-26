@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "二十九日丙辰",
+ "event_role": "奏报灾情收成",
+ "summary": "遵旨查奏甘肃等四处豁免钱粮及被灾钱粮数目，康熙帝命甘肃钱粮尽行豁免，共二十六万余两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3706,
+ "page_range": "85-86"
+}

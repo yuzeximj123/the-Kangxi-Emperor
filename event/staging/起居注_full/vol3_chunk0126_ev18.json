@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "二十九日乙酉",
+ "event_role": "人事任免",
+ "summary": "御乾清门听政，吏部题补光禄寺少卿王维珍员缺，康熙帝询问候补许登隆后令于在外员缺调用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "许登隆",
+   "role": "候补官员"
+  },
+  {
+   "name": "王维珍",
+   "role": "光禄寺少卿"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12618,
+ "page_range": "287-288"
+}

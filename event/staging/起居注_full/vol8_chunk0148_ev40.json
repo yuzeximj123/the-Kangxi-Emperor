@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": "初四日辛西",
+ "event_role": "皇帝行止",
+ "summary": "寅时康熙帝自汤泉至热河驻跸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汤泉",
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14840,
+ "page_range": "307-308"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "九卿奏萧玫并非有意打死萧武，因催拖欠钱粮情急所致，康熙帝命萧玫改为应斩监候，秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萧玫",
+   "role": "催粮人"
+  },
+  {
+   "name": "萧武",
+   "role": "拖欠钱粮者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23413,
+ "page_range": "479-480"
+}

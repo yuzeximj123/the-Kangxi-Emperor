@@ -1,0 +1,29 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "二十八日甲捕",
+ "event_role": "谕旨决策",
+ "summary": "道士跪求赐庙名号，康熙帝以其侥幸求赐、意在惑民而拒绝，并谕明珠自古好释老无益有损，道士应清静修身。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "道士",
+   "role": "金阁山灵真观道士"
+  }
+ ],
+ "places": [
+  "金阁山",
+  "灵真观"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1006,
+ "page_range": "77-78"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "二十六日于辰",
+ "event_role": "贸易漕运",
+ "summary": "伊桑阿奏遵旨询问兴永朝济船苗桂等行月粮何故不给，对称日久不记，查河南浅船并无给与行月粮。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "兴永朝",
+   "role": "官员"
+  },
+  {
+   "name": "苗桂",
+   "role": "船户"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2630,
+ "page_range": "62-63"
+}

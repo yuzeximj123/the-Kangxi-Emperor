@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "三十日己本",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部侍郎员缺，康熙帝以学士叶方欧才品优长，着兼原衔升授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王守才",
+   "role": "内阁学士"
+  },
+  {
+   "name": "叶方欧",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8813,
+ "page_range": "219-220"
+}

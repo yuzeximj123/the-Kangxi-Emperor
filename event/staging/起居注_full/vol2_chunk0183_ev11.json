@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初二日甲戌",
+ "event_role": "军务",
+ "summary": "议政王等会议将军噶尔汉闻贼信不即赴房县救援，拟免籍没革去将军，康熙帝命仍留任降五级罚俸一年。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔汉",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "房县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18311,
+ "page_range": "409-410"
+}

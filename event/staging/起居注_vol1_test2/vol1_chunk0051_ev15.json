@@ -1,0 +1,20 @@
+{
+ "reign_year": 12,
+ "month": 8,
+ "day_text": "二十七日甲子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出阜成门观获，丁时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "阜成门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5115,
+ "page_range": "159-160"
+}

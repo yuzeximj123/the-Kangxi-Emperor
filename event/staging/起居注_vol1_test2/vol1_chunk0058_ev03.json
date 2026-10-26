@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 10,
+ "day_text": "二十五日辛酉",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿视朝，文武升转官员及喀尔喀、厄鲁特部落头目等谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博尔极吉特对图台吉",
+   "role": "喀尔喀部落台吉"
+  },
+  {
+   "name": "诺颜质卓",
+   "role": "厄鲁特部落头目"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5803,
+ "page_range": "173-174"
+}

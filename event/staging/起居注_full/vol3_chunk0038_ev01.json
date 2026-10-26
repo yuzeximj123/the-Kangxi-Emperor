@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "九卿会议因估计修理铁锁桥钱粮浮多，议将总督获迄荣、巡抚杨雍建、布政使柯罗等革职，道员劳之辩等革职提问，康熙认为所议太过，令削去加级纪录、酌量降级留任。",
+ "people": [
+  {
+   "name": "获迄荣",
+   "role": "总督"
+  },
+  {
+   "name": "杨雍建",
+   "role": "巡抚"
+  },
+  {
+   "name": "柯罗",
+   "role": "布政使"
+  },
+  {
+   "name": "劳之辩",
+   "role": "道员"
+  }
+ ],
+ "places": [
+  "铁锁桥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3801,
+ "page_range": "111-112"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十三日丙辰",
+ "event_role": "司法案件",
+ "summary": "刑部题李玉家被盗续获强盗李九等应立决，康熙询问，明珠等奏因得财多未拟票，康熙以正法病死者多命改秋后。",
+ "people": [
+  {
+   "name": "李九",
+   "role": "强盗"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4110,
+ "page_range": "117-118"
+}

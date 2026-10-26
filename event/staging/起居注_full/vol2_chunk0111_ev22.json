@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "初八日丙戌",
+ "event_role": "奏报地方情形",
+ "summary": "慕天颜题请苏松浮粮应酌量裁减，康熙帝就慕天颜在任时情形有所论及。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "慕天颜",
+   "role": "原任巡抚"
+  }
+ ],
+ "places": [
+  "苏松"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11122,
+ "page_range": "265-266"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "灵宝县知县许班来朝见皇帝。",
+ "people": [
+  {
+   "name": "许班",
+   "role": "灵宝县知县"
+  }
+ ],
+ "places": [
+  "灵宝县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8401,
+ "page_range": "179-180"
+}

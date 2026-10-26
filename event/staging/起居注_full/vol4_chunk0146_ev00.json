@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅毕各卷，询问文章有无不堪者，王熙奏称无甚不堪但有一卷字迹潦草，帝令拆名阅看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "读卷官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14600,
+ "page_range": "304-305"
+}

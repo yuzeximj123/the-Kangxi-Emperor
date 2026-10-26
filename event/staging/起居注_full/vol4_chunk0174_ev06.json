@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "初二日壬午",
+ "event_role": "弹劾参奏",
+ "summary": "副都御史李元振条奏严禁计处属员控告上官及令督抚自陈，康熙帝命问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李元振",
+   "role": "副都御史"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17406,
+ "page_range": "360-361"
+}

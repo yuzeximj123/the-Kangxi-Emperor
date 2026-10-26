@@ -1,0 +1,40 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十二日庚午",
+ "event_role": "议政听政",
+ "summary": "是日早皇太子读书无逸斋，达哈塔、汤斌入行礼侍立，詹事尹泰侍立东，起居注官朱都纳、米汉雯侍立西。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "达哈塔",
+   "role": "官员"
+  },
+  {
+   "name": "汤斌",
+   "role": "官员"
+  },
+  {
+   "name": "尹泰",
+   "role": "詹事"
+  },
+  {
+   "name": "朱都纳",
+   "role": "起居注官"
+  },
+  {
+   "name": "米汉雯",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "无逸斋"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23626,
+ "page_range": "507-508"
+}

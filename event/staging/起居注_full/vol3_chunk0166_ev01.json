@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "初四日丁刻",
+ "event_role": "人事任免",
+ "summary": "康熙帝御乾清门听政，命田喜震补日讲起居注官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "礼部侍郎管翰林院事"
+  },
+  {
+   "name": "张英",
+   "role": "掌院学士"
+  },
+  {
+   "name": "田喜震",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16601,
+ "page_range": "367-368"
+}

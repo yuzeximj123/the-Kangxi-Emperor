@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "遵旨问翰林院日讲官左都御史把叙员缺，康熙帝命海宝以原衔充日讲官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "把叙",
+   "role": "左都御史"
+  },
+  {
+   "name": "海宝",
+   "role": "检讨"
+  },
+  {
+   "name": "索泰",
+   "role": "编修"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18709,
+ "page_range": "385-386"
+}

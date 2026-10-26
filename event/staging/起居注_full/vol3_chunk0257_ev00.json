@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称赞陈紫芝弹劾贪官张汭，命吏部将其内升，以儆贪官、鼓励科道。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张汭",
+   "role": "贪官"
+  },
+  {
+   "name": "陈紫芝",
+   "role": "科道官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25700,
+ "page_range": "549-550"
+}

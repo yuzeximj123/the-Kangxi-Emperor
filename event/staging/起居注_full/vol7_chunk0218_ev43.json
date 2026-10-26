@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "初六日戊子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕八十儿依拟应斩监候秋后处决，伊勒尔、图连拿持刀惟人者二人可嘉，交理藩院照例给赏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "八十儿",
+   "role": "案犯"
+  },
+  {
+   "name": "伊勒尔",
+   "role": "拿持刀者"
+  },
+  {
+   "name": "图连",
+   "role": "拿持刀者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21843,
+ "page_range": "447-448"
+}

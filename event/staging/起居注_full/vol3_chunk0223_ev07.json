@@ -1,0 +1,25 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "初十日己巳",
+ "event_role": "其他",
+ "summary": "赐陕西宁夏总兵官李滴兴鞍马一匹。",
+ "people": [
+  {
+   "name": "李滴兴",
+   "role": "陕西宁夏总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22307,
+ "page_range": "481-482"
+}

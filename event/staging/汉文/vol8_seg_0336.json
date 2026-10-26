@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙六十年八月初一日",
+ "reign_year": 60,
+ "month": 8,
+ "day": 1,
+ "event_role": "请安谢恩",
+ "summary": "江南提督高其位奏报抵任后整饬营伍地方情形，并恭请圣安，差兵丁陈昌林、家人高忠赍捧奏折进呈。",
+ "people": [
+  {
+   "name": "高其位",
+   "role": "江南提督总兵官"
+  },
+  {
+   "name": "陈昌林",
+   "role": "差标下兵丁，赍捧奏折"
+  },
+  {
+   "name": "高忠",
+   "role": "家人，赍捧奏折"
+  }
+ ],
+ "places": [
+  "江南",
+  "楚"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”，并注明康熙六十年八月初一日。",
+ "source_title": "江南提督高其位奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2944",
+ "order_index": 336
+}

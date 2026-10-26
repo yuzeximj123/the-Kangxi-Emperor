@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初四日己巳",
+ "event_role": "司法案件",
+ "summary": "贵州巡抚王燕题熟苗生苗伤人治罪事，康熙帝以部议未悉情由，令交九卿确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王燕",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21709,
+ "page_range": "444-445"
+}

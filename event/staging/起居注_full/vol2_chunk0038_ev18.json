@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十三日丁酉",
+ "event_role": "司法案件",
+ "summary": "都察院副都御史科尔坤等往审甘肃巡抚巴锡等，康熙帝谕令虚公详审，分别议罪具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "科尔坤",
+   "role": "都察院副都御史"
+  },
+  {
+   "name": "巴锡",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "柏成栋",
+   "role": "涉案官员"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3818,
+ "page_range": "119-120"
+}

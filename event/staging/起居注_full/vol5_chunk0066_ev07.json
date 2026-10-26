@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "十四日乙雍",
+ "event_role": "河工水利",
+ "summary": "康熙帝阅视新修鹿家口堤岸，并向巡抚沈朝聘、总兵官李镇罗指示应加增筑之处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "巡抚"
+  },
+  {
+   "name": "李镇罗",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "鹿家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6607,
+ "page_range": "142-143"
+}

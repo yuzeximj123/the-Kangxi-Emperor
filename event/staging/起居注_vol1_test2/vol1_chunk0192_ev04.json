@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 9,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赐山东登州府总兵官李林盛鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李林盛",
+   "role": "山东登州府总兵官"
+  }
+ ],
+ "places": [
+  "山东登州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19204,
+ "page_range": "441-442"
+}

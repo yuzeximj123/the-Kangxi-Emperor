@@ -1,0 +1,36 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝复御乾清门，赐进贡的素曼、吴喇忒、阿霸寺、土默特等部台吉、都统等食。",
+ "people": [
+  {
+   "name": "俄齐尔",
+   "role": "素曼部落多罗郡王"
+  },
+  {
+   "name": "踢尔马",
+   "role": "吴喇忒部落四品台吉"
+  },
+  {
+   "name": "色冷",
+   "role": "吴喇忒部落四品台吉"
+  },
+  {
+   "name": "策尔本儿",
+   "role": "阿霸寺部落四品台吉"
+  },
+  {
+   "name": "拜三代",
+   "role": "土默特部落都统"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20801,
+ "page_range": "473-474"
+}

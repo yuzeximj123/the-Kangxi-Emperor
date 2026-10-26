@@ -1,0 +1,21 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以连年修永定河采尽京都一带芦苇致穷民无垫席，命将赔补芦苇尽行宽免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京都",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21805,
+ "page_range": "446-447"
+}

@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十五年六月二十五日",
+ "reign_year": 55,
+ "month": 6,
+ "day": 25,
+ "event_role": "奏报地方情形",
+ "summary": "奴才李煦奏报福州近日米价、雨水调匀地方无事，并奏报御种稻子收割及新米进呈、新谷泡秧插蒔情形。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奴才，奏报人"
+  }
+ ],
+ "places": [
+  "福州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称所指不甚明白，命再写奏来。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 161
+}

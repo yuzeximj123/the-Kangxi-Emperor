@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙肆拾玖年叁月拾贰日",
+ "reign_year": 49,
+ "month": 3,
+ "day": 12,
+ "event_role": "请安谢恩",
+ "summary": "巡视长芦盐政监察御史赵弘燮上奏向康熙皇帝请安，祝愿圣躬万安，皇帝朱批回复自己身体大安。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "巡视长芦盐政监察御史加二级，奏请圣安者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批回复者"
+  }
+ ],
+ "places": [
+  "长芦"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示自己身体大安，饮食起居比先前好时并不差。",
+ "source_title": "直隶巡抚赵弘燮奏请圣安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "463",
+ "order_index": 126
+}

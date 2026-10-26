@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 11,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "熊赐履等讲官受赏后奏谢，康熙帝命侍卫引至太和殿前谢恩。",
+ "people": [
+  {
+   "name": "熊赐履",
+   "role": "汉讲官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2801,
+ "page_range": "113-114"
+}

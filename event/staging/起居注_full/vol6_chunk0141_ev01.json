@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部覆议郭玫所拟给民间明季王田收租事，康熙令速追及总督郭镁问是否累民再行完结。",
+ "people": [
+  {
+   "name": "郭玫",
+   "role": "题奏官员"
+  },
+  {
+   "name": "郭镁",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "京师",
+  "十三州县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14101,
+ "page_range": "292-293"
+}

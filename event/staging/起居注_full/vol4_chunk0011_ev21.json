@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "二十五日成辰",
+ "event_role": "人事任免",
+ "summary": "九卿回奏李绍闻为人平常、巡盐两浙声名不佳，康熙帝令李绍闻革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李绍闻",
+   "role": "太常寺少卿"
+  }
+ ],
+ "places": [
+  "两浙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1121,
+ "page_range": "34-35"
+}

@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙伍拾年伍月初贰日",
+ "reign_year": 50,
+ "month": 5,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "浙江巡抚王度昭奏报浙江春夏雨水调匀、豆麦蚕丝收成及米麦豆价格情形，以慰圣怀。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚，奏报人"
+  },
+  {
+   "name": "师懿德",
+   "role": "江宁提督，见于奏折标题"
+  }
+ ],
+ "places": [
+  "浙江",
+  "杭嘉湖三府",
+  "浙东",
+  "浙西",
+  "松江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知”，表示已知悉奏报。",
+ "source_title": "江宁提督师懿德奏为请将松江官文地方有司承管摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 151
+}

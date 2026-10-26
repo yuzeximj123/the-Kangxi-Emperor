@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙四十二年八月二十四日",
+ "reign_year": 42,
+ "month": 8,
+ "day": 24,
+ "event_role": "奏报地方情形",
+ "summary": "宋荦奏报江南淮徐夏灾勘报、祈雨情形，并请示御制诗序文及进呈事宜。",
+ "people": [
+  {
+   "name": "宋荦",
+   "role": "奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "宋士奇",
+   "role": "涉及人物"
+  },
+  {
+   "name": "宋英",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "江南",
+  "淮徐"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "命交李煦进呈后再颁发御制序文。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "62",
+ "source_title": "江宁巡抚宋荦奏请颁发御制诗序文并江南祈雨等情摺",
+ "order_index": 55
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "二十日乙已",
+ "event_role": "军务",
+ "summary": "都统噶尔干、湖广提督徐治都题报恢复巫山县，康熙帝命票优旨奖励。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔干",
+   "role": "都统"
+  },
+  {
+   "name": "徐治都",
+   "role": "湖广提督"
+  }
+ ],
+ "places": [
+  "巫山县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2210,
+ "page_range": "87-88"
+}

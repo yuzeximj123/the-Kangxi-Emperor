@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "伊桑阿等奏问马齐、王早关于彭鹏条奏运米多派之事，马齐等称若不行查属徇情故议行查。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "王早",
+   "role": "尚书"
+  },
+  {
+   "name": "彭鹏",
+   "role": "条奏官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22901,
+ "page_range": "470-471"
+}

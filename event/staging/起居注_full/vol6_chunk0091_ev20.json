@@ -1,0 +1,36 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "二十二日辛酉",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕大学士伊桑阿、阿兰泰，念原任给事中李宗孔老迈，令酌议以给事中应升京堂职衔授之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存柱",
+   "role": "奏事"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "李宗孔",
+   "role": "原任给事中"
+  }
+ ],
+ "places": [
+  "扬州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9120,
+ "page_range": "192-193"
+}

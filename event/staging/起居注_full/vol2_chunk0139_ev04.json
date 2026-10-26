@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十四日己丑",
+ "event_role": "军务",
+ "summary": "福建将军佟国瑶请带健丁披甲赴福建支给粮饷，兵部议不准，康熙帝令依部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佟国瑶",
+   "role": "福建将军"
+  }
+ ],
+ "places": [
+  "福建",
+  "郧阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13904,
+ "page_range": "321-322"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "陕西总督吴赫奏报西安府父老兵民请求康熙帝由内地回銮，以慰百姓瞻仰天颜、谢再造之恩。",
+ "people": [
+  {
+   "name": "吴赫",
+   "role": "陕西总督"
+  },
+  {
+   "name": "存柱",
+   "role": "批本"
+  }
+ ],
+ "places": [
+  "西安府",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21200,
+ "page_range": "434-435"
+}

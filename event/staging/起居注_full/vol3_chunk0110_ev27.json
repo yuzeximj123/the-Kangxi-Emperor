@@ -1,0 +1,21 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初三日庚寅",
+ "event_role": "奏报灾情收成",
+ "summary": "户部覆巡抚芒柱斗题报凤阳、泗州等四州县水灾。",
+ "people": [
+  {
+   "name": "芒柱斗",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "凤阳",
+  "泗州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11027,
+ "page_range": "255-256"
+}

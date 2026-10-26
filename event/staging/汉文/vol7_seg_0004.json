@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙五十九年四月二十四日",
+ "reign_year": 59,
+ "month": 4,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "云南提督张谷贞上奏称布政使卢询廉洁有才、为第一良吏，因其前任江南按察司任内失察被降调，请求皇上宽免处分以惜贤才。",
+ "people": [
+  {
+   "name": "张谷贞",
+   "role": "云南提督，上奏人"
+  },
+  {
+   "name": "卢询",
+   "role": "云南布政使，被奏请宽免降调处分者"
+  },
+  {
+   "name": "陈琼",
+   "role": "文中与卢询类比之官员"
+  },
+  {
+   "name": "德麟",
+   "role": "前任江南按察司任内失察事件相关人物"
+  }
+ ],
+ "places": [
+  "云南",
+  "江南",
+  "滇"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "雲南提督張谷貞奏請寬免布政使盧詢降調處分摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2072",
+ "order_index": 4
+}

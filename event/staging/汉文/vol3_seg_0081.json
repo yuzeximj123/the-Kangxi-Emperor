@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十年十二月二十四日",
+ "reign_year": 50,
+ "month": 12,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮密奏遵旨止五千两钱粮，令署道根究库总书陈维新追查弊情，俟查明另行具奏。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "陈维新",
+   "role": "库总书"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批知道了。",
+ "source_title": "直隸巡撫趙弘燮奏為恭報瑞雪摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "1005",
+ "order_index": 81
+}

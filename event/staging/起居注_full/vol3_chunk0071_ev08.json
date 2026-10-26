@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "二十四日甲申",
+ "event_role": "人事任免",
+ "summary": "题补侍讲尹泰升任员缺，康熙帝以无已考试者，命考试补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尹泰",
+   "role": "侍讲"
+  },
+  {
+   "name": "尼雅汉",
+   "role": "员外郎"
+  },
+  {
+   "name": "班代",
+   "role": "拟陪官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7108,
+ "page_range": "177-178"
+}

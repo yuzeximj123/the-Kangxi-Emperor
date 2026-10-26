@@ -1,0 +1,37 @@
+{
+ "reign_year": 36,
+ "month": 6,
+ "day_text": "十三日辛西",
+ "event_role": "谕旨决策",
+ "summary": "山西布政使齐什武赴任请训，康熙帝谕以廉介持身、公正处事，并警告勿效温保贪污。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐什武",
+   "role": "山西布政使"
+  },
+  {
+   "name": "温保",
+   "role": "官员"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "官员"
+  },
+  {
+   "name": "倭伦",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山西",
+  "山陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 104,
+ "page_range": "12-13"
+}

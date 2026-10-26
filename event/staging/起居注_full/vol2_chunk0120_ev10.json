@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "初九日丙辰",
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝御景山内前殿，赐喀尔喀、齐特、苏尼忒等部落来使食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺诺",
+   "role": "喀尔喀达尔汉亲王"
+  },
+  {
+   "name": "萨马第",
+   "role": "护国公"
+  },
+  {
+   "name": "达喇木格礼第",
+   "role": "齐特二品台吉"
+  },
+  {
+   "name": "托济格里",
+   "role": "苏尼忒二品台吉"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12010,
+ "page_range": "283-284"
+}

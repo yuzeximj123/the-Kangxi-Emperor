@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部议覆张廷枢请将拿获贼犯之新安县知县钱涩议叙，康熙帝命依议以应升之缺即用。",
+ "people": [
+  {
+   "name": "张廷枢",
+   "role": "尚书"
+  },
+  {
+   "name": "钱涩",
+   "role": "新安县知县"
+  },
+  {
+   "name": "李一宁",
+   "role": "贼犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "新安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22303,
+ "page_range": "457-458"
+}

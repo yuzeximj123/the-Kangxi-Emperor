@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝指出镶红旗平郡王所属补授官员有情弊，命将都统公苏努等传至问明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏努",
+   "role": "都统公"
+  }
+ ],
+ "places": [
+  "镶红旗"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11401,
+ "page_range": "263-264"
+}

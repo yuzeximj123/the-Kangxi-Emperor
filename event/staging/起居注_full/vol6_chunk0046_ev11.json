@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": "二十日癸刻",
+ "event_role": "司法案件",
+ "summary": "理藩院题济陇库图克图附合噶尔丹应正法，康熙帝命将其师徒安置小唐，令附近汛守官兵、步军监视，食用之物该部议请。",
+ "people": [
+  {
+   "name": "济陇库图克图",
+   "role": "喇嘛"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "小唐"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4611,
+ "page_range": "102-103"
+}

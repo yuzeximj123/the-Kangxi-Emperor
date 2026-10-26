@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "初八日王子",
+ "event_role": "人事任免",
+ "summary": "兵部题福建金门总兵官朱光祖员缺，开列镶黄旗参领白云光等及副将等职名，康熙帝以所知之人已用讫，令问九卿各举所知。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱光祖",
+   "role": "福建金门总兵官"
+  },
+  {
+   "name": "白云光",
+   "role": "镶黄旗参领"
+  }
+ ],
+ "places": [
+  "福建",
+  "金门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3418,
+ "page_range": "79-80"
+}

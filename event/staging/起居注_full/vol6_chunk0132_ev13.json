@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "二十日",
+ "event_role": "谕旨决策",
+ "summary": "九卿覆御史郑维孜条陈中式举人令同学生员出结保无冒籍顶名，议不准行，康熙帝令将条奏发回，冒籍有知者指名参奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郑维孜",
+   "role": "御史"
+  },
+  {
+   "name": "王辕",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宛平",
+  "大兴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13213,
+ "page_range": "274-275"
+}

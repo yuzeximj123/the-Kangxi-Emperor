@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十二日己卯",
+ "event_role": "谕旨决策",
+ "summary": "工部侍郎金世鉴、左副都御史雅思哈奉差往江南、浙江展沿海边界，康熙帝谕以察明原产给还原主，廉洁自励。",
+ "people": [
+  {
+   "name": "金世鉴",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "雅思哈",
+   "role": "都察院左副都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23905,
+ "page_range": "521-522"
+}

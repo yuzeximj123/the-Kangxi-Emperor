@@ -1,0 +1,32 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "二十一日壬申",
+ "event_role": "其他",
+ "summary": "照例赐琉球国中山王尚贞及进贡正使温允杰、副使金元达、都通事郑职良等缎布。",
+ "people": [
+  {
+   "name": "尚贞",
+   "role": "琉球国中山王"
+  },
+  {
+   "name": "温允杰",
+   "role": "进贡正使耳目官"
+  },
+  {
+   "name": "金元达",
+   "role": "副使正议大夫"
+  },
+  {
+   "name": "郑职良",
+   "role": "都通事"
+  }
+ ],
+ "places": [
+  "琉球国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16212,
+ "page_range": "336-337"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "十六日乙刻",
+ "event_role": "河工水利",
+ "summary": "康熙帝自锡家地遍视永定河堤，至北阅又河湾指示敦拜设筑挑水声。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦拜",
+   "role": "分司"
+  }
+ ],
+ "places": [
+  "锡家地",
+  "永定河",
+  "北阅又河湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17618,
+ "page_range": "362-363"
+}

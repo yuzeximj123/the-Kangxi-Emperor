@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "初四日乙巳",
+ "event_role": "人事任免",
+ "summary": "吏部题补翰林院学士陈廷敬升任员缺，康熙帝以员缺紧要，命将学士张玉书调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "翰林院学士升任"
+  },
+  {
+   "name": "朱之佐",
+   "role": "侍读学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "学士调补"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19219,
+ "page_range": "427-428"
+}

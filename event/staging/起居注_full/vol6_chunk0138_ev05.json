@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "初二日丙寅",
+ "event_role": "河工水利",
+ "summary": "康熙帝谕尚书萨木哈，要儿滤东被水冲刷处须预算挑水坝，备桩声等物，将亲临指示修筑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨木哈",
+   "role": "尚书"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  }
+ ],
+ "places": [
+  "要儿滤"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13805,
+ "page_range": "286-287"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "二十一日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕内大臣佟国维、索额图、明珠等，科尔沁王贝勒等驰至守服可悦，命议赏赐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国维",
+   "role": "内大臣"
+  },
+  {
+   "name": "索额图",
+   "role": "内大臣"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "图巴",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "班第",
+   "role": "内务府总管"
+  },
+  {
+   "name": "费扬古",
+   "role": "内务府总管"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 416,
+ "page_range": "20-21"
+}

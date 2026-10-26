@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "二十二日本未",
+ "event_role": "朝见受贺",
+ "summary": "阿鲁科尔沁多罗郡王垂备宴献康熙帝及皇太子、诸皇子，并宴诸大臣、侍卫、蒙古王、贝勒、贝子、公、台吉等。",
+ "people": [
+  {
+   "name": "垂",
+   "role": "阿鲁科尔沁多罗郡王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "阿鲁科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21024,
+ "page_range": "430-431"
+}

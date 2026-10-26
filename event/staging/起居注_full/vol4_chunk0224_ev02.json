@@ -1,0 +1,36 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "初二日丙子",
+ "event_role": "人事任免",
+ "summary": "康熙帝命监察御史禅布巡视两浙盐政，称其出差有益商民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "禅布",
+   "role": "监察御史"
+  },
+  {
+   "name": "沙海",
+   "role": "左都御史"
+  },
+  {
+   "name": "色得礼",
+   "role": "监察御史"
+  },
+  {
+   "name": "勒贝",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "两浙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22402,
+ "page_range": "460-461"
+}

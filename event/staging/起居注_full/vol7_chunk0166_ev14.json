@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "二十日成实",
+ "event_role": "司法案件",
+ "summary": "覆请吏部议四川巡抚年羹尧回奏查审蛮苗不亲往一案，拟照规避例革职。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "罗都",
+   "role": "顽蛮"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16614,
+ "page_range": "343-344"
+}

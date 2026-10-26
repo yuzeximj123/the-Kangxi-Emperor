@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "初九日丙午",
+ "event_role": "司法案件",
+ "summary": "兵部议阿思哈尼哈番孙延昌应革职交内务府，明珠以其系孙延龄之兄同弟反叛、情罪可恶，所议尚轻，康熙帝着发还该部再议具奏。",
+ "people": [
+  {
+   "name": "孙延昌",
+   "role": "阿思哈尼哈番"
+  },
+  {
+   "name": "孙延龄",
+   "role": "孙延昌之弟"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24319,
+ "page_range": "529-530"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "初六日丙申",
+ "event_role": "河工水利",
+ "summary": "九卿等会议总河靳辅题请修建减水诸坝，康熙帝命差熟谙河工司官速往与靳辅详议，视是否损民田而定兴工或确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "江南",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7221,
+ "page_range": "179-180"
+}

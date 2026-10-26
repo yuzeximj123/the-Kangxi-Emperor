@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十四年五月",
+ "reign_year": 44,
+ "month": 5,
+ "day": null,
+ "event_role": "其他",
+ "summary": "江宁巡抚宋犖奏请将州县官经征新粮与接征旧欠分别考成，以清理积欠、稳定吏治。",
+ "people": [
+  {
+   "name": "宋犖",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "徽州府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙认可宋犖所奏，令其具题正式上奏。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "103",
+ "source_title": "江寧巡撫宋犖奏為將錢糧分別經征接考成事摺",
+ "order_index": 76
+}

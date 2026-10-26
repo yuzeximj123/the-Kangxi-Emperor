@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十九日壬申",
+ "event_role": "司法案件",
+ "summary": "康熙帝责问刑部审杨回子剔目划股案悖谬，傅腊塔免冠认罪，命三法司覆审。",
+ "people": [
+  {
+   "name": "傅腊塔",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "杨回子",
+   "role": "案犯"
+  },
+  {
+   "name": "常寿",
+   "role": "官员"
+  },
+  {
+   "name": "李楠",
+   "role": "三法司官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22207,
+ "page_range": "454-455"
+}

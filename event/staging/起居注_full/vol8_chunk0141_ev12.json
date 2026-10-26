@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "十三日壬寅",
+ "event_role": "人事任免",
+ "summary": "大学士松柱等奏九卿言礼部尚书陈诜尚能行走，以原折覆请，康熙命陈诜仍着行走。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "陈诜",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14112,
+ "page_range": "293-294"
+}

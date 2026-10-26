@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 6,
+ "day_text": "初二日两子",
+ "event_role": "人事任免",
+ "summary": "亲近侍卫海青等传谕大学士席哈纳，马进良以副将管总兵事效力七八年、居官声名优，着加都督同知衔管理总兵事。",
+ "people": [
+  {
+   "name": "海青",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "马进良",
+   "role": "副将管总兵事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6303,
+ "page_range": "137-138"
+}

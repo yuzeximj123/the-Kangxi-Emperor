@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "二十三日丙辰",
+ "event_role": "河工水利",
+ "summary": "康熙帝论徐廷乍条奏河务，疑其希望总河并非为河工起见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐廷乍",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "已故总河"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14608,
+ "page_range": "302-303"
+}

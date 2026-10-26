@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "初七日戊寅",
+ "event_role": "议政听政",
+ "summary": "礼部题山西平定州知州刘孕嘉请追谥其父广西富川县知县刘钦邻一事请旨。",
+ "people": [
+  {
+   "name": "刘孕嘉",
+   "role": "山西平定州知州"
+  },
+  {
+   "name": "刘钦邻",
+   "role": "广西富川县知县"
+  }
+ ],
+ "places": [
+  "山西平定州",
+  "广西富川县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8434,
+ "page_range": "179-180"
+}

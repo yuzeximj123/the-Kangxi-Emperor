@@ -1,0 +1,25 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "初九日壬午",
+ "event_role": "人事任免",
+ "summary": "兵部题补广东提督员缺，康熙帝以广东提督关系海上事宜，调江西提督许贞补授广东提督，江西提督员缺停其补授。",
+ "people": [
+  {
+   "name": "许贞",
+   "role": "江西提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16110,
+ "page_range": "365-366"
+}

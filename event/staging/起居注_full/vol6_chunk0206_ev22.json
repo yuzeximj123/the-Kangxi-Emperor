@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "十四日庚午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝赐喀尔喀贝勒喇麻扎布旗分王塞椤阿海等、台吉鄂穆布之女阿必达等币。",
+ "people": [
+  {
+   "name": "喇麻扎布",
+   "role": "喀尔喀贝勒"
+  },
+  {
+   "name": "塞椤阿海",
+   "role": "王"
+  },
+  {
+   "name": "鄂穆布",
+   "role": "台吉"
+  },
+  {
+   "name": "阿必达",
+   "role": "鄂穆布之女"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20622,
+ "page_range": "422-423"
+}

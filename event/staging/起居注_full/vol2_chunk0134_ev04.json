@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "二十二日丁卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝言达虎里所贪岂止于此但未发觉，大学士明珠称罪已重，帝命依部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "达虎里",
+   "role": "监督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13404,
+ "page_range": "311-312"
+}

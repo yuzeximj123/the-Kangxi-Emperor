@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": "十六日乙丑",
+ "event_role": "其他",
+ "summary": "康熙帝赐辅国公苏尔金塞勒、额驸孙承运马各一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏尔金塞勒",
+   "role": "辅国公"
+  },
+  {
+   "name": "孙承运",
+   "role": "额驸"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24610,
+ "page_range": "503-504"
+}

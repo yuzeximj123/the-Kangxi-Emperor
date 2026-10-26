@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 5,
+ "day_text": "十四日癸未",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝御观德殿，召陕西西宁总兵官王可臣、云南鹤鹿总兵官赵德胜命射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王可臣",
+   "role": "陕西西宁总兵官"
+  },
+  {
+   "name": "赵德胜",
+   "role": "云南鹤鹿总兵官"
+  }
+ ],
+ "places": [
+  "观德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4321,
+ "page_range": "143-144"
+}

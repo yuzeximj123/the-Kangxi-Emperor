@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十九年四月二十一日",
+ "reign_year": 59,
+ "month": 4,
+ "day": 21,
+ "event_role": "请安谢恩",
+ "summary": "直隶总督赵弘燮奏谢皇上恩赐鹿肉条，表示感激并愿与同城官员共勉奉公。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督，奏折作者"
+  },
+  {
+   "name": "李凤",
+   "role": "赵弘燮家人，自口外看回"
+  }
+ ],
+ "places": [
+  "口外",
+  "中土"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隶总督赵弘燮奏报二麦约计收成分数折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 245
+}

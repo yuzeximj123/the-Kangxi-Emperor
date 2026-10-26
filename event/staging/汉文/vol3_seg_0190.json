@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十年六月十二日",
+ "reign_year": 50,
+ "month": 6,
+ "day": null,
+ "event_role": "祭祀典礼",
+ "summary": "西宁总兵马际伯奏报请借通经之人祈雨，并差家人李佳赍折奏进。",
+ "people": [
+  {
+   "name": "马际伯",
+   "role": "西宁总兵，奏报人"
+  },
+  {
+   "name": "李佳",
+   "role": "马际伯家人，赍折奏进者"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称朕安，并言仁心可回造化，闻祝圣之歌欢忭之至。",
+ "source_title": "直隸巡撫趙弘燮奏報雨澤情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "881",
+ "order_index": 190
+}

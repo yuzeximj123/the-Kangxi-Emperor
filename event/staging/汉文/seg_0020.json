@@ -1,0 +1,44 @@
+{
+ "date_raw": "康熙四十三年十一月二十日",
+ "reign_year": 43,
+ "month": 11,
+ "day": 20,
+ "event_role": "弹劾参奏",
+ "summary": "湖南布政使王道熙奏报遭巡抚辱骂及清查烟户里甲中受欺压情事，请求敕旨。",
+ "people": [
+  {
+   "name": "王道熙",
+   "role": "奏报人"
+  },
+  {
+   "name": "张维垣",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李亨时",
+   "role": "涉及人物"
+  },
+  {
+   "name": "刘荣",
+   "role": "涉及人物"
+  },
+  {
+   "name": "陈佳几",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "湖南",
+  "长沙府",
+  "常德府",
+  "长沙县",
+  "善化县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告诫王道熙自立之后所造之事不可有一字隐瞒掩饰。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "22",
+ "source_title": "湖南布政使王道熙奏为遭受巡抚辱骂事折前残",
+ "order_index": 20
+}

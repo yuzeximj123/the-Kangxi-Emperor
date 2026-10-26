@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题充发宁古塔之赵廉逃回并怀仇杀傅保，拟秋后处决，康熙帝以其为光棍、所议不合，命另行具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵廉",
+   "role": "逃犯"
+  },
+  {
+   "name": "傅保",
+   "role": "被害人"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4204,
+ "page_range": "94-95"
+}

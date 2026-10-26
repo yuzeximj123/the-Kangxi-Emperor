@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "初一日甲实",
+ "event_role": "其他",
+ "summary": "康熙帝赐盛京将军唐保住、宁古塔将军觉罗蒙鄂落、黑龙江将军宗室杨福每人银一千两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐保住",
+   "role": "盛京将军"
+  },
+  {
+   "name": "觉罗蒙鄂落",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "杨福",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20506,
+ "page_range": "421-422"
+}

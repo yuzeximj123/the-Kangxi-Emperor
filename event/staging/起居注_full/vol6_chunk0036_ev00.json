@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "直隶巡抚沈朝聘仅赈济具呈生员马如了等十五人，康熙认为不明，命部议具奏。",
+ "people": [
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "马如了",
+   "role": "具呈生员"
+  }
+ ],
+ "places": [
+  "保定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3600,
+ "page_range": "82-83"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "十五日戊戌",
+ "event_role": "人事任免",
+ "summary": "大学士阿兰泰请与学士倭伦同往右卫并请训旨，康熙令俱进内。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "倭伦",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16507,
+ "page_range": "340-341"
+}

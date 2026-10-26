@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": "二十九日庚申",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等奏九卿意见，称康熙帝勤政恤民、无应兴应革之处；左都御史蒋弘道等谢恩愿回籍看视，康熙帝谕前往官员不必定限，事毕方来。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "蒋弘道",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6423,
+ "page_range": "138-139"
+}

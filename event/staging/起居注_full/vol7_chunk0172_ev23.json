@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "二十八日丙辰",
+ "event_role": "人事任免",
+ "summary": "康熙谕张玉书病故未久，此本暂收贮俟回讲后再奏；李光地患病，陈廷敬年老告休，令其暂到署办理事务。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "原任大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17223,
+ "page_range": "355-356"
+}

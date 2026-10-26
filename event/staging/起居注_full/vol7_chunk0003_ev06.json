@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赐贵州安笼总兵官林捅、福建汀州总兵官阮钦为蒂马各一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "林捅",
+   "role": "贵州安笼总兵官"
+  },
+  {
+   "name": "阮钦为",
+   "role": "福建汀州总兵官"
+  }
+ ],
+ "places": [
+  "贵州安笼",
+  "福建汀州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 306,
+ "page_range": "17-18"
+}

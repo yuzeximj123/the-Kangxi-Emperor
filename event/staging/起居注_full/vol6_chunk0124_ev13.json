@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "十三日本未",
+ "event_role": "河工水利",
+ "summary": "康熙帝命捧出木制河图，向伊桑阿、马齐指授详论清口改移事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "清口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12413,
+ "page_range": "258-259"
+}

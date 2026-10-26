@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿覆请升任四川按察使许兆蚀员缺，举出直隶大名道李育德等，康熙帝准李育德补授。",
+ "people": [
+  {
+   "name": "许兆蚀",
+   "role": "四川按察使"
+  },
+  {
+   "name": "李育德",
+   "role": "直隶大名道"
+  }
+ ],
+ "places": [
+  "四川",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20900,
+ "page_range": "429-430"
+}

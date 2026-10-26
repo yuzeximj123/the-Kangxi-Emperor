@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "据广西巡抚陈元龙、提督张旺等题请，命升任布政使黄国材带所升之衔留原任。",
+ "people": [
+  {
+   "name": "陈元龙",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "张旺",
+   "role": "提督"
+  },
+  {
+   "name": "黄国材",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20403,
+ "page_range": "419-420"
+}

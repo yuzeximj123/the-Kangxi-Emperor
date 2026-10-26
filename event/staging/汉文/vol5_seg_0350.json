@@ -1,0 +1,30 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "其他",
+ "summary": "大学士李光地奏报承修御纂《周易折中》已进呈部分卦章，并请求准其孙李清植在京参加乡试。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，承修御纂周易折中"
+  },
+  {
+   "name": "李清植",
+   "role": "李光地之孙，泉州府学生员"
+  }
+ ],
+ "places": [
+  "泉州府",
+  "福建",
+  "京"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称已有旨意。",
+ "source_title": "大学士李光地奏报病情及遵行节省书籍已详慎校勘折",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 350
+}

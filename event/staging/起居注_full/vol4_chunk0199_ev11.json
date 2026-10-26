@@ -1,0 +1,26 @@
+{
+ "reign_year": 31,
+ "month": 6,
+ "day_text": "初二日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问总督葛思泰居官及百姓评价，索诺和奏已治罪、未闻百姓说好。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索诺和",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "葛思泰",
+   "role": "总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19911,
+ "page_range": "410-411"
+}

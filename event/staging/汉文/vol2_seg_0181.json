@@ -1,0 +1,41 @@
+{
+ "date_raw": "康熙四十一年四月廿七日",
+ "reign_year": 41,
+ "month": 4,
+ "day": 27,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮奏报各属得雨日期分寸，并附谢恩内容，涉及李煦署理两淮盐政及蒙赐物品谢恩。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "李煦",
+   "role": "两淮巡盐御史、江宁织造"
+  },
+  {
+   "name": "阿山",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "文绶",
+   "role": "李煦家人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "扬州",
+  "江宁",
+  "江南",
+  "江西",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”。",
+ "source_title": "直隸巡撫趙弘燮奏報各屬得雨日期分寸摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 181
+}

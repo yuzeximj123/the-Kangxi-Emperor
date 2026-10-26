@@ -1,0 +1,29 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "初八日六已",
+ "event_role": "弹劾参奏",
+ "summary": "于成龙奏称下河必当开浚，指责靳辅听信陈满百计阻挠海口工程，系嫉妒私心。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "陈满",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "下河",
+  "海口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1415,
+ "page_range": "40-41"
+}

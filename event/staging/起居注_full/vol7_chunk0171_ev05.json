@@ -1,0 +1,20 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题奏街道厅高遐昌不查街道、受赂令造房三百余间占据街道，拟革职发往奉天，康熙帝以所拟属轻，发还再议。",
+ "people": [
+  {
+   "name": "高遐昌",
+   "role": "街道厅"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17105,
+ "page_range": "353-354"
+}

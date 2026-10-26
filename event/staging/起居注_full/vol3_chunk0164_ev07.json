@@ -1,0 +1,42 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十六日己卯",
+ "event_role": "人事任免",
+ "summary": "大学士等以折本请旨，翰林院题补日讲起居注官员缺，康熙帝命侍讲朱都纳补授讲官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "侍讲"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16407,
+ "page_range": "363-364"
+}

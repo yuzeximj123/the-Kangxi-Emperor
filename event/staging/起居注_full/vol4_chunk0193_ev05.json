@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "十八日丁",
+ "event_role": "谕旨决策",
+ "summary": "户部题覆偏沅巡抚王梁玻请将湖南丈出地亩于三十一年起征钱粮，康熙帝令九卿、詹事、科道会同确议是否贻累民生。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王梁玻",
+   "role": "偏沅巡抚"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19305,
+ "page_range": "398-399"
+}

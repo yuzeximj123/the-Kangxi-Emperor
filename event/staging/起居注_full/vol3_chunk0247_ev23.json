@@ -1,0 +1,34 @@
+{
+ "reign_year": 26,
+ "month": 9,
+ "day_text": "二十八日癸卯",
+ "event_role": "人事任免",
+ "summary": "礼部侍郎徐乾学升任员缺，开列学士卢琦等；康熙帝询问王网昌为人，王熙奏其学问平常而朴实，帝命王网昌升补礼部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐乾学",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "卢琦",
+   "role": "学士"
+  },
+  {
+   "name": "王网昌",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24723,
+ "page_range": "529-530"
+}

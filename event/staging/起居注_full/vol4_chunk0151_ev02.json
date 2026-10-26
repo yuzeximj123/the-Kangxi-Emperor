@@ -1,0 +1,20 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "是日赐三旗护军、八旗前锋牛羊，康熙帝驻跸福延山。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福延山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15102,
+ "page_range": "314-315"
+}

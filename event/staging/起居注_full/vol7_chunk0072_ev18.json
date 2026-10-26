@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初四日两子",
+ "event_role": "其他",
+ "summary": "康熙帝在太和殿前策试天下中式武举。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7218,
+ "page_range": "155-156"
+}

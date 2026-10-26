@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十三日戊午",
+ "event_role": "谕旨决策",
+ "summary": "学士牛钮、孙在丰以次日部院无本章请停讲一日，康熙帝传谕仍来进讲，以后每日照常进讲不必间断。",
+ "people": [
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "孙在丰",
+   "role": "学士"
+  },
+  {
+   "name": "敦柱",
+   "role": "奏事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2219,
+ "page_range": "79-80"
+}

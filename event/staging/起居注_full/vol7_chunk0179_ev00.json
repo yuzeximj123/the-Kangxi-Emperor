@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请雷滚殴死雷文锡一案，康熙帝谕改为应斩监候、秋后处决。",
+ "people": [
+  {
+   "name": "雷滚",
+   "role": "案犯"
+  },
+  {
+   "name": "雷文锡",
+   "role": "死者"
+  },
+  {
+   "name": "雷士显",
+   "role": "涉案人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17900,
+ "page_range": "369-370"
+}

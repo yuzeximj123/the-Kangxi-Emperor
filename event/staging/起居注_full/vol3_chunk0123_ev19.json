@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "二十日丙子",
+ "event_role": "司法案件",
+ "summary": "礼部议通判王国祯等吓诈安南国官员银五千余两，康熙帝令遣官严审。",
+ "people": [
+  {
+   "name": "王国祯",
+   "role": "通判"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安南国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12319,
+ "page_range": "281-282"
+}

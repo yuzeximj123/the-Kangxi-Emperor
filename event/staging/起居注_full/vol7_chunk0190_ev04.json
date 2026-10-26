@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "浙江巡抚王度昭回奏粮艘迟误缘由，康熙帝令将本收贮，俟各督抚具题到日一并覆奏。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "杭州",
+  "嘉兴",
+  "湖州",
+  "临清",
+  "福建",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19004,
+ "page_range": "391-392"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 15,
+ "month": 2,
+ "day_text": "二十九日王子",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝御景山内前殿赐宴进贡的翁牛式、苏尼忒、喀喇沁部落台吉等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "楚阳巴察儿",
+   "role": "翁牛式三品台吉"
+  },
+  {
+   "name": "萨尼特",
+   "role": "苏尼忒四品台吉"
+  },
+  {
+   "name": "巴达立",
+   "role": "喀喇沁四品塔布吉"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10913,
+ "page_range": "275-276"
+}

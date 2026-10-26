@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "三十日己丑",
+ "event_role": "谕旨决策",
+ "summary": "勒德洪等传问九卿云南产铜运京事宜，康熙帝令问曾到云南之德尔得等，若铜多则差官取解。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德尔得",
+   "role": "曾到云南官员"
+  }
+ ],
+ "places": [
+  "云南",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9504,
+ "page_range": "225-226"
+}

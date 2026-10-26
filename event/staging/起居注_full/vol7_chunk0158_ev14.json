@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": "二十二日辛已",
+ "event_role": "皇帝行止",
+ "summary": "未时，康熙帝自西华门出西直门，往畅春园驻足。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西华门",
+  "西直门",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15814,
+ "page_range": "327-328"
+}

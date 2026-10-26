@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称不勤学习但思科道主事者不可遂其意，此皆傅继祖、张英教习不严所致，着交该部严加议处，试卷示九卿并传旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅继祖",
+   "role": "教习官"
+  },
+  {
+   "name": "张英",
+   "role": "教习官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1208,
+ "page_range": "34-35"
+}

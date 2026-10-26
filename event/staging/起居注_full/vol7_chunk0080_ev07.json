@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十一日",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝入潼关城，陕西绅衿士庶设香案献果食，男妇执香跪迎，欢呼祝万岁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "潼关城",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8007,
+ "page_range": "171-172"
+}

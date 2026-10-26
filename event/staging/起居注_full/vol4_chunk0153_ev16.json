@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 6,
+ "day_text": "十七日辛未",
+ "event_role": "弹劾参奏",
+ "summary": "江宁巡抚郑端奏上海县知县董蜀术酷劣纠参后士民聚众侮辱职官水洗公堂，康熙命该部严察议奏。",
+ "people": [
+  {
+   "name": "郑端",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "董蜀术",
+   "role": "上海县知县"
+  },
+  {
+   "name": "何元龙",
+   "role": "书办"
+  }
+ ],
+ "places": [
+  "上海县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15316,
+ "page_range": "318-319"
+}

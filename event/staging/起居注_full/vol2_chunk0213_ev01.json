@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "广西巡抚于浴奏称患病，康熙帝询问病情，李霨奏报其七月间已故，康熙帝称其有才堪用、广西劳绩显著，命增拟优旨。",
+ "people": [
+  {
+   "name": "于浴",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21301,
+ "page_range": "469-470"
+}

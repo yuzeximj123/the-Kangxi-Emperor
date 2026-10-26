@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "十一日王成",
+ "event_role": "司法案件",
+ "summary": "田四私铸钱拟正法，康熙帝命交总督桑格严察外省私铸小钱。",
+ "people": [
+  {
+   "name": "田四",
+   "role": "案犯"
+  },
+  {
+   "name": "桑格",
+   "role": "总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1214,
+ "page_range": "35-36"
+}

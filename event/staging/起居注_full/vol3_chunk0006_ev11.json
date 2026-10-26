@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初十日丙午",
+ "event_role": "人事任免",
+ "summary": "都察院题请台员内升外转，康熙帝命净兴邦内升，外转暂停，并令进士出身者另拟员缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "净兴邦",
+   "role": "台员"
+  },
+  {
+   "name": "王国泰",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 611,
+ "page_range": "47-48"
+}

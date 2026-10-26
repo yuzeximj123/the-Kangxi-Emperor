@@ -1,0 +1,26 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "户部尚书穆和伦等奏请将已升詹事府中允的朱麟留在户部两处办事行走，并请补授其原任主事员缺。",
+ "people": [
+  {
+   "name": "穆和伦",
+   "role": "户部尚书（致仕仍着原任行走加二级）"
+  },
+  {
+   "name": "朱麟",
+   "role": "原任户部主事，已升詹事府中允"
+  }
+ ],
+ "places": [],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "户部请旨补授员缺摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 116
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十九日己丑",
+ "event_role": "人事任免",
+ "summary": "吏部为詹事府右中允高其个员缺，拟以翰林院检讨宋如展补授，康熙帝命问翰林院掌院学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高其",
+   "role": "詹事府右中允"
+  },
+  {
+   "name": "宋如展",
+   "role": "翰林院检讨"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13707,
+ "page_range": "285-286"
+}

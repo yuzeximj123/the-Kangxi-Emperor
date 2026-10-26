@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初五日己巳",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问浙江巡抚张贡如何，王泽弘奏其有才，裴翔麟奏其居官平常。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张贡",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "王泽弘",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "裴翔麟",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12614,
+ "page_range": "262-263"
+}

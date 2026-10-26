@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十二日乙卯",
+ "event_role": "议政听政",
+ "summary": "康熙御乾清宫，讲官孙在丰、常书、归人允肃进讲《论语》两节。",
+ "people": [
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "归人允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4102,
+ "page_range": "117-118"
+}

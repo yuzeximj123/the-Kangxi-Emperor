@@ -1,0 +1,36 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题德琳违旨假死脱逃，失察官员甘国壁、王景责等降调，康熙令依议从宽留任。",
+ "people": [
+  {
+   "name": "德琳",
+   "role": "罪人"
+  },
+  {
+   "name": "甘国壁",
+   "role": "登莱青道"
+  },
+  {
+   "name": "王景责",
+   "role": "副将"
+  },
+  {
+   "name": "蒋陈锡",
+   "role": "巡抚"
+  },
+  {
+   "name": "李雄",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "山东胶州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4705,
+ "page_range": "105-106"
+}

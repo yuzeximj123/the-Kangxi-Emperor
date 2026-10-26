@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "陕西巡抚鄂海奏报兴安州水灾，康熙称留心地方疾苦，命将兴安州本年钱粮暂且停征。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "兴安州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12804,
+ "page_range": "267-268"
+}

@@ -1,0 +1,27 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "十六日壬申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令盛京及乌喇兵依萨布素所奏前进屯扎，萨布素率兵一千五百资三月粮于四月初启行前来克鲁伦。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "盛京",
+  "乌喇",
+  "克鲁伦",
+  "俄浓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10608,
+ "page_range": "222-223"
+}

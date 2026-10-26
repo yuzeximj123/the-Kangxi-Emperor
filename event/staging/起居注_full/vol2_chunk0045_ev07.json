@@ -1,0 +1,27 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "辰时太皇太后幸遵化温泉，康熙帝齐至宫候送，扶掖登舆，随行至李家桥驻跸处，步送进行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  }
+ ],
+ "places": [
+  "遵化温泉",
+  "东华门",
+  "东直门",
+  "李家桥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4507,
+ "page_range": "133-134"
+}

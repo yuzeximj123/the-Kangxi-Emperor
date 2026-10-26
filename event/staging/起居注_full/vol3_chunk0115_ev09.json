@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "十八日乙巳",
+ "event_role": "弹劾参奏",
+ "summary": "四川巡抚韩世琦题土司地方楠木不能运出，部议不准仍令催运，康熙帝命查韩世琦从前章奏，指其前后托辞。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩世琦",
+   "role": "四川巡抚"
+  }
+ ],
+ "places": [
+  "四川",
+  "偏沅",
+  "丁阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11509,
+ "page_range": "265-266"
+}

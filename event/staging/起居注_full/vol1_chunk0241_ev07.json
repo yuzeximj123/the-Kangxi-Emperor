@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "十二日庚子",
+ "event_role": "贸易漕运",
+ "summary": "御史西柱条奏山海关应行抽税，九卿议不允行；康熙帝询问大学士明珠，明珠主张抽税，帝命再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "西柱",
+   "role": "御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24107,
+ "page_range": "539-540"
+}

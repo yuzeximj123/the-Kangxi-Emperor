@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "部议追查宁夏镇标革职守备黄孟降浮冒兵粮事，康熙帝念陈福尽节身殉，命再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈福",
+   "role": "宁夏镇标守备"
+  },
+  {
+   "name": "黄孟降",
+   "role": "革职守备"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20102,
+ "page_range": "459-460"
+}

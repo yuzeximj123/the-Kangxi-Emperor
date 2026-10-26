@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "孙金岳、李秉中所打之人先后身死，康熙改为监候，免死完结。",
+ "people": [
+  {
+   "name": "孙金岳",
+   "role": "案犯"
+  },
+  {
+   "name": "李秉中",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11210,
+ "page_range": "235-236"
+}

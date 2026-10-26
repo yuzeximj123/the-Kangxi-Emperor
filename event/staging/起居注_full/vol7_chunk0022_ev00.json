@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "已时康熙御行宫，大学士马齐等以折本请旨，吏部题广东按察司员缺开列候补人员。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "铁图",
+   "role": "学士"
+  },
+  {
+   "name": "纪和尔塔浑",
+   "role": "学士"
+  },
+  {
+   "name": "赵世显",
+   "role": "候补按察司"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2200,
+ "page_range": "55-56"
+}

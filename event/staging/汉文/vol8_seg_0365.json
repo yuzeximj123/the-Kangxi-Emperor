@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙六十一年五月二十日",
+ "reign_year": 61,
+ "month": 5,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "江宁提督高其位奏陈自己年迈耳聋、精力渐衰，难以胜任海疆重任，据实陈情并预先请求训旨。",
+ "people": [
+  {
+   "name": "高其位",
+   "role": "江宁提督（提督江南总兵官）"
+  }
+ ],
+ "places": [
+  "江南",
+  "湖广"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江蘇巡撫吳存禮奏爲年老耳聾請准休致摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2987",
+ "order_index": 365
+}

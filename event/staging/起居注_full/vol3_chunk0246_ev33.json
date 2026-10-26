@@ -1,0 +1,29 @@
+{
+ "reign_year": 26,
+ "month": 9,
+ "day_text": "十八日癸巳",
+ "event_role": "请安谢恩",
+ "summary": "辰时康熙帝诣太皇太后、皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24633,
+ "page_range": "527-528"
+}

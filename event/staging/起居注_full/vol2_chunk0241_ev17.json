@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "二十一日戊子",
+ "event_role": "人事任免",
+ "summary": "川陕总督哈占题请游击冯德昌补授副将，部议不准，康熙帝以其才力壮健准补副将。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈占",
+   "role": "川陕总督"
+  },
+  {
+   "name": "冯德昌",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "川陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24117,
+ "page_range": "525-526"
+}

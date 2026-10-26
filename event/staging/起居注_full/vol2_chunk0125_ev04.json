@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "初二日戊实",
+ "event_role": "人事任免",
+ "summary": "题补副都御史员缺，康熙帝论高尔位、吴珊，命吴珊补缺，并令传旨面谕满汉诸臣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "高尔位",
+   "role": "应升官员"
+  },
+  {
+   "name": "吴珊",
+   "role": "应升官员"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12504,
+ "page_range": "293-294"
+}

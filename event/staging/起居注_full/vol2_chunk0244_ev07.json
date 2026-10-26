@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "初十日",
+ "event_role": "司法案件",
+ "summary": "议政王等议盐山岭未收都统伊理布等骸骨，将亲随兵丁贾麻塞等即行处斩，康熙帝命从宽免死减等发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊理布",
+   "role": "都统"
+  },
+  {
+   "name": "贾麻塞",
+   "role": "亲随兵丁"
+  },
+  {
+   "name": "尔格",
+   "role": "亲随兵丁"
+  },
+  {
+   "name": "星塞",
+   "role": "亲随兵丁"
+  }
+ ],
+ "places": [
+  "盐山岭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24407,
+ "page_range": "531-532"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘党请调张安世补清苑县知县、王亦宣补固安县知县，康熙帝准以王奕宣调补固安。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "张安世",
+   "role": "固安县知县"
+  },
+  {
+   "name": "王亦宣",
+   "role": "安平县知县，调补固安县知县"
+  }
+ ],
+ "places": [
+  "清苑县",
+  "固安县",
+  "安平县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14103,
+ "page_range": "293-294"
+}

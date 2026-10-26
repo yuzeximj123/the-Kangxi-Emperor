@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 3,
+ "day_text": "二十七日癸刻",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御畅春园内游宁居听政，江南提督杜呈泗、福建提督穆廷杖赴任恭请训旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜呈泗",
+   "role": "江南提督"
+  },
+  {
+   "name": "穆廷杖",
+   "role": "福建提督"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "游宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9104,
+ "page_range": "193-194"
+}

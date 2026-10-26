@@ -1,0 +1,33 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚于成龙奏报所属顺天、永平、宣化、保定、河间、真定、顺德、广平、大名等府二麦登场后的实际收成分数，并说明各地雨水先后不同导致收成差异。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "巡抚直隶等处地方总理粮饷兵部右侍郎兼都察院右副都御史加一级，奏报人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "顺天",
+  "永平",
+  "宣化",
+  "保定",
+  "河间",
+  "真定",
+  "顺德",
+  "广平",
+  "大名"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 210
+}

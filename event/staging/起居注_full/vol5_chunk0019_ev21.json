@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十二日己本",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称近日命翰林官员入内轮直，观其所学比汉军官员远胜，王熙奏称皇上作养人材、翰林莫不勉力思奋。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1921,
+ "page_range": "48-49"
+}

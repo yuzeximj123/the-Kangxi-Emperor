@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "二十三日丁卯",
+ "event_role": "司法案件",
+ "summary": "覆请刑部题原任侍郎巴锡之子甘生身带刀伤死于门首一案，康熙帝命甘生、佛伦发遣三姓处披甲当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "甘生",
+   "role": "亲军"
+  },
+  {
+   "name": "佛伦",
+   "role": "三等侍卫"
+  },
+  {
+   "name": "巴锡",
+   "role": "原任侍郎"
+  }
+ ],
+ "places": [
+  "三姓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3616,
+ "page_range": "83-84"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十日壬申",
+ "event_role": "人事任免",
+ "summary": "都察院左都御史赵申乔题湖南衡州府蓝山县知县尹秦等勤慎清廉，请行取引见，康熙帝准其所请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "左都御史"
+  },
+  {
+   "name": "尹秦",
+   "role": "蓝山县知县"
+  }
+ ],
+ "places": [
+  "湖南衡州府",
+  "蓝山县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21613,
+ "page_range": "443-444"
+}

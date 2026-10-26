@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "二十二日癸卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕领侍卫内大臣公福善亲视桥梁，使行装一一前渡。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  }
+ ],
+ "places": [
+  "朔州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19217,
+ "page_range": "394-395"
+}

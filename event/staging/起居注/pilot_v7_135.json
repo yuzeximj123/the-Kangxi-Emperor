@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十五年十五日",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕以山东来年钱粮银一两折钱二千并折收铜器以尽私钱，令九卿等详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "思丕",
+   "role": "侍郎"
+  },
+  {
+   "name": "九卿",
+   "role": "议政官员"
+  }
+ ],
+ "places": [
+  "山东",
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3135
+}

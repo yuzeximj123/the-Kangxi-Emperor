@@ -1,0 +1,21 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "十三日庚寅",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝早赴太皇太后、皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22705,
+ "page_range": "489-490"
+}

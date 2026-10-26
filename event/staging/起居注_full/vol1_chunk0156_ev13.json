@@ -1,0 +1,36 @@
+{
+ "reign_year": 17,
+ "month": 2,
+ "day_text": "十八日己未",
+ "event_role": "其他",
+ "summary": "已时，康熙帝御保和殿举行经筵大典，讲官王品、库勒纳进讲《四书》，温代、陈廷敬进讲《书经》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王品",
+   "role": "讲官"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "温代",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15613,
+ "page_range": "369-370"
+}

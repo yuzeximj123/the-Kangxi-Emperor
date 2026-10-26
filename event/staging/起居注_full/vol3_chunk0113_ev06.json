@@ -1,0 +1,44 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "理藩院等议厄鲁特来使衣特木根殴死商人王治民拟绞，康熙命处斩并传集厄鲁特人众宣谕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "衣特木根",
+   "role": "凶犯"
+  },
+  {
+   "name": "王治民",
+   "role": "被杀商人"
+  },
+  {
+   "name": "厄尔克达尔汉",
+   "role": "来使"
+  },
+  {
+   "name": "沙里巴图儿台吉",
+   "role": "来使"
+  }
+ ],
+ "places": [
+  "北馆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11306,
+ "page_range": "261-262"
+}

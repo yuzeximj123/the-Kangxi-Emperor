@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十年六月十一日",
+ "reign_year": 50,
+ "month": 6,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "湖广提督额伦特（实为江琦）具摺恭请圣安，表达蒙恩难报、不能随扈的依恋之情。",
+ "people": [
+  {
+   "name": "江琦",
+   "role": "提督甘肃总兵官（具奏人）"
+  },
+  {
+   "name": "额伦特",
+   "role": "湖广提督（题名所载）"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“朕安”，即皇帝回复自己安好。",
+ "source_title": "湖廣提督額倫特奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "877",
+ "order_index": 185
+}

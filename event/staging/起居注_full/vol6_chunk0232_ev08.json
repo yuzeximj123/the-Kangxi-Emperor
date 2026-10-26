@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "吏部奏扬州府知府刘池员缺，康熙以御史左必蕃补授扬州知府，并传谕以科道外转用知府非有他意。",
+ "people": [
+  {
+   "name": "左必蕃",
+   "role": "御史"
+  },
+  {
+   "name": "刘池",
+   "role": "扬州府知府"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "扬州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23208,
+ "page_range": "474-475"
+}

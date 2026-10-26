@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "初四日庚申",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗满洲都统员缺，康熙帝令莽吉禄补授满洲都统，塔尔代升补蒙古都统。",
+ "people": [
+  {
+   "name": "莽吉禄",
+   "role": "蒙古都统"
+  },
+  {
+   "name": "塔尔代",
+   "role": "官员"
+  },
+  {
+   "name": "博极",
+   "role": "镶白旗满洲都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11915,
+ "page_range": "273-274"
+}

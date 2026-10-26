@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "二十日丙午",
+ "event_role": "议政听政",
+ "summary": "覆请吏部所题顶补陈元龙教习庶吉士员缺，康熙帝询问开列人员及彭始技、王思轼学问人品。",
+ "people": [
+  {
+   "name": "陈元龙",
+   "role": "原教习庶吉士"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "王思轼",
+   "role": "内阁学士"
+  },
+  {
+   "name": "彭始技",
+   "role": "内阁学士"
+  },
+  {
+   "name": "邹士融",
+   "role": "内阁学士"
+  },
+  {
+   "name": "把叙",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18513,
+ "page_range": "381-382"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命川陕总督察明往四川审事罗察、布泰审事是否公否及有无刻行，具奏。",
+ "people": [
+  {
+   "name": "罗察",
+   "role": "审事官"
+  },
+  {
+   "name": "布泰",
+   "role": "审事官"
+  }
+ ],
+ "places": [
+  "四川",
+  "川陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12701,
+ "page_range": "264-265"
+}

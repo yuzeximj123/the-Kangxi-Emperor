@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 5,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝御乾清门，赐总兵官王可臣食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王可臣",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4402,
+ "page_range": "145-146"
+}

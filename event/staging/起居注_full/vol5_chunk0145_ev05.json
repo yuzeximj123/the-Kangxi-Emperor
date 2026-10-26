@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "十七日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "宣化府总兵官白斌奏请陛见，康熙以其到任未久竭力整顿、兵丁马匹器械充足、实心效力，命停其来京陛见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "白斌",
+   "role": "宣化府总兵官"
+  }
+ ],
+ "places": [
+  "宣化府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14505,
+ "page_range": "300-301"
+}

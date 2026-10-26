@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "十五日庚寅",
+ "event_role": "朝见受贺",
+ "summary": "早，杭州将军丹岱、福建将军兼浙闽总督金世荣等来朝。",
+ "people": [
+  {
+   "name": "丹岱",
+   "role": "杭州将军"
+  },
+  {
+   "name": "金世荣",
+   "role": "福建将军兼浙闽总督"
+  }
+ ],
+ "places": [
+  "杭州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5124,
+ "page_range": "113-114"
+}

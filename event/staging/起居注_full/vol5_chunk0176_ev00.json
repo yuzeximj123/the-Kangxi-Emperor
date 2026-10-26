@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论噶尔丹先犯我境故败亡，曲在噶尔丹，仍欲降之，诸大臣奏赞其仁德。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "格垒沾英",
+   "role": "噶尔丹使者"
+  },
+  {
+   "name": "诸大臣",
+   "role": "朝臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17600,
+ "page_range": "362-363"
+}

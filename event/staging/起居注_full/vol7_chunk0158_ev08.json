@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士温达等，驳王葡条奏禁商人、迁沿海百姓之议，指出福建人稠地少，百姓倚海贸易为生，若禁止迁移则民无所生。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "王葡",
+   "role": "条奏官员"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15808,
+ "page_range": "327-328"
+}

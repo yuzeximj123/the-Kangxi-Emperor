@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕赫成格刀伤家人五儿十一处情可恶，着枷号三月、鞭一百、发往白都纳披甲当差，并查其子孙及何以取为笔帖式。",
+ "people": [
+  {
+   "name": "赫成格",
+   "role": "广善库笔帖式"
+  },
+  {
+   "name": "五儿",
+   "role": "家人"
+  }
+ ],
+ "places": [
+  "白都纳",
+  "广善库"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8003,
+ "page_range": "171-172"
+}

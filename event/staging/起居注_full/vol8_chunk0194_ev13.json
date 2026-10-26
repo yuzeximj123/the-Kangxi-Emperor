@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "刑部汇题韩大等将制钱镕化为铜变卖拟枷号杖流，康熙帝依议，并命户部详察收买废铜及铜价节省银两具奏。",
+ "people": [
+  {
+   "name": "韩大",
+   "role": "犯人"
+  },
+  {
+   "name": "韩五",
+   "role": "从犯"
+  },
+  {
+   "name": "王纲明",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三姓地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19413,
+ "page_range": "399-400"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初九日壬戌",
+ "event_role": "人事任免",
+ "summary": "吏部以巡抚李光地回奏原任知县朝连相事情不实议降三级调用，康熙帝以其回奏从容、所议未当，命察明孔钞璋旧案。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "朝连相",
+   "role": "原任知县"
+  },
+  {
+   "name": "孔钞璋",
+   "role": "原任昌平州知州"
+  }
+ ],
+ "places": [
+  "昌平州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21904,
+ "page_range": "448-449"
+}

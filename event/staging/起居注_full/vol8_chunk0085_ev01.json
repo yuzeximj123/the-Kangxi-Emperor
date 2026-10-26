@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问李光地储在文与方苞优劣，李光地称储在文八股更稳妥，康熙帝认为储在文优于方苞。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "储在文",
+   "role": "士子"
+  },
+  {
+   "name": "方苞",
+   "role": "士子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8501,
+ "page_range": "181-182"
+}

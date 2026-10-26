@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初八日戊午",
+ "event_role": "司法案件",
+ "summary": "刑部题得讲打死马六拟绞秋后处决，康熙帝命满洲打死汉人案亦议处佐领、族长。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "得讲",
+   "role": "案犯"
+  },
+  {
+   "name": "马六",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1817,
+ "page_range": "47-48"
+}

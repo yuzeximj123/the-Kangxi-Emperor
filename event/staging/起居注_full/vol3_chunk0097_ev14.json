@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "十五日甲辰",
+ "event_role": "司法案件",
+ "summary": "刑部题张彩书、邹可远明知法葆故意隐匿拟立斩，康熙帝以其未知反情，令监候秋后处决。",
+ "people": [
+  {
+   "name": "张彩书",
+   "role": "隐匿者"
+  },
+  {
+   "name": "邹可远",
+   "role": "隐匿者"
+  },
+  {
+   "name": "法葆",
+   "role": "逃犯"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9714,
+ "page_range": "229-230"
+}

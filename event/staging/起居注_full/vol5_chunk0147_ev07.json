@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "三十日甲实",
+ "event_role": "人事任免",
+ "summary": "吏部题刑部侍郎尹泰员缺，康熙帝以学士绥色可用能办事且谨慎，命升补侍郎。",
+ "people": [
+  {
+   "name": "尹泰",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "博济",
+   "role": "内阁学士"
+  },
+  {
+   "name": "绥色",
+   "role": "学士，升补侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14707,
+ "page_range": "304-305"
+}

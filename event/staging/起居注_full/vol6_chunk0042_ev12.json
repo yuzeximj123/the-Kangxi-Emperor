@@ -1,0 +1,20 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "十四日丁亥",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝亲诣方泽祭地，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "方泽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4212,
+ "page_range": "94-95"
+}

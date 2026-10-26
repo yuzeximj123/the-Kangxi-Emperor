@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "十九日王午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝顾谕巡抚李光地、分司朝琦，称此一带堤岸修筑最好，命流水闸暂停修筑，于闸左右滩口泄水，明年再定夺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "朝琦",
+   "role": "分司"
+  }
+ ],
+ "places": [
+  "子牙河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15009,
+ "page_range": "310-311"
+}

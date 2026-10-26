@@ -1,0 +1,34 @@
+{
+ "reign_year": 16,
+ "month": 11,
+ "day_text": "十八日辛卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕大学士勒德洪、明珠，命侍讲学士张英在内供奉食正四品俸，高士奇加内交中书衔食正六品俸，并由内务府拨给房屋。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张英",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "高士奇",
+   "role": "内供奉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15022,
+ "page_range": "357-358"
+}

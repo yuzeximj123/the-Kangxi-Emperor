@@ -1,0 +1,32 @@
+{
+ "date_raw": "二十二日",
+ "reign_year": null,
+ "month": null,
+ "day": 22,
+ "event_role": "请安谢恩",
+ "summary": "李光地奏谢皇上颁赐荔蔻藿等物，并回奏坐汤后病情好转、两手溃烂未愈但已入直办事，恭请圣安。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "奏事大臣"
+  },
+  {
+   "name": "王朝卿",
+   "role": "总管，传旨颁赐"
+  },
+  {
+   "name": "光然",
+   "role": "李光地之祖，品尝赐物"
+  }
+ ],
+ "places": [
+  "南书房"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批告知朕安，并询问坐汤后情形，末又批示知道了，嘱凡病毒尽气为好。",
+ "source_title": "李光地奏谢赐物",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 507
+}

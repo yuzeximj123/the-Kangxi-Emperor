@@ -1,0 +1,33 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问可用讲官人选，王申等奏黄与坚、关世绳可用，帝问其学问人品籍贯后，命黄与坚、关世绳亦充讲官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王申",
+   "role": "官员"
+  },
+  {
+   "name": "黄与坚",
+   "role": "讲官"
+  },
+  {
+   "name": "关世绳",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "太仓州",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15802,
+ "page_range": "351-352"
+}

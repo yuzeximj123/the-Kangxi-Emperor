@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "初八日戊申",
+ "event_role": "朝见受贺",
+ "summary": "静海县知县沈润、都司俞成等来朝。",
+ "people": [
+  {
+   "name": "沈润",
+   "role": "静海县知县"
+  },
+  {
+   "name": "俞成",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "静海县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7907,
+ "page_range": "168-169"
+}

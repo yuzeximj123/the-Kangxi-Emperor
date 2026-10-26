@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "赐进贡朝鲜国陪臣昌城君李侯等缎匹银两有差，赐进贡琉球国耳目官毛见龙等缎匹表里有差。",
+ "people": [
+  {
+   "name": "李侯",
+   "role": "朝鲜陪臣昌城君"
+  },
+  {
+   "name": "毛见龙",
+   "role": "琉球耳目官"
+  }
+ ],
+ "places": [
+  "朝鲜",
+  "琉球"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9703,
+ "page_range": "237-238"
+}

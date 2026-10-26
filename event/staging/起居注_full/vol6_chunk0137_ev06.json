@@ -1,0 +1,34 @@
+{
+ "reign_year": 39,
+ "month": 1,
+ "day_text": "二十八日壬戌",
+ "event_role": "人事任免",
+ "summary": "都察院题御史张世画等内升外转引见，康熙帝逐一询问条奏次数，并问左都御史哈雅尔图诸人优劣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张世画",
+   "role": "御史"
+  },
+  {
+   "name": "哈雅尔图",
+   "role": "左都御史"
+  },
+  {
+   "name": "卢起龙",
+   "role": "御史"
+  },
+  {
+   "name": "马希历",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13706,
+ "page_range": "284-285"
+}

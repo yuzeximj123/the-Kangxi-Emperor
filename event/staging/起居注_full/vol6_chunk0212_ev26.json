@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 8,
+ "day_text": "二十三日成实",
+ "event_role": "谕旨决策",
+ "summary": "张鹏翮奏原任都察院左都御史董讷于桃庄工所病故，康熙帝命照其原品应得恤典查明具奏。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "董讷",
+   "role": "原任都察院左都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "桃庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21226,
+ "page_range": "434-435"
+}

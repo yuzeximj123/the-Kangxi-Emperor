@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议平郡王长史人选，康熙帝命问王以王古礼堪用，并斥庄亲王长史西忒库狂妄恶劣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王古礼",
+   "role": "候选长史"
+  },
+  {
+   "name": "西忒库",
+   "role": "庄亲王长史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14606,
+ "page_range": "302-303"
+}

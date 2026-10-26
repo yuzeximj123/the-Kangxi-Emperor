@@ -1,0 +1,21 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "二十一日甲成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸三河县所属兔东马房。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三河县",
+  "兔东马房"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4512,
+ "page_range": "133-134"
+}

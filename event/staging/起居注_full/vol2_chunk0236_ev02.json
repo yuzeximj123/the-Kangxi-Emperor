@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "湖南巡抚韩世琦请停长沙等州县烟酒典铺增加税课，康熙帝令详议停征来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩世琦",
+   "role": "原任湖南巡抚"
+  }
+ ],
+ "places": [
+  "湖南",
+  "长沙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23602,
+ "page_range": "515-516"
+}

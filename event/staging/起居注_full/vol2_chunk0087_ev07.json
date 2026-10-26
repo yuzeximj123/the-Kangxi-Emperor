@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "二十五日甲辰",
+ "event_role": "其他",
+ "summary": "辰时康熙御乾清宫，讲官库勒纳、叶方落、孙在丰进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方落",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8707,
+ "page_range": "217-218"
+}

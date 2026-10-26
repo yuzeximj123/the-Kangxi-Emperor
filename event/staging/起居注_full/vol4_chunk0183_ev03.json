@@ -1,0 +1,22 @@
+{
+ "reign_year": 31,
+ "month": 1,
+ "day_text": "二十九日己卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论《明史》纂修宜详加斟酌，举弘治召崇王、正德匿名文卷等事，谓不可尽信书，宦官为害历代有之但明亡不尽由太监，作史须秉公持平，熊赐履不必参奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "被论者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18303,
+ "page_range": "378-379"
+}

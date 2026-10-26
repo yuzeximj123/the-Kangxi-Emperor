@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "左赞善徐乾学、郑之诬、右赞善沈上坟、王妖方等班笔侍日月。",
+ "people": [
+  {
+   "name": "徐乾学",
+   "role": "左赞善"
+  },
+  {
+   "name": "郑之诬",
+   "role": "左赞善"
+  },
+  {
+   "name": "沈上坟",
+   "role": "右赞善"
+  },
+  {
+   "name": "王妖方",
+   "role": "右赞善"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10617,
+ "page_range": "255-256"
+}

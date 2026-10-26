@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十二日戊戌",
+ "event_role": "军务",
+ "summary": "兵部议浙江提督陈世凯等招致洪符瑞等降官兵不准议叙，康熙命仍行议叙以鼓励将来。",
+ "people": [
+  {
+   "name": "陈世凯",
+   "role": "浙江提督"
+  },
+  {
+   "name": "洪符瑞",
+   "role": "降官兵"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13116,
+ "page_range": "297-298"
+}

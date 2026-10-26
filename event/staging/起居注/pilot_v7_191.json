@@ -1,0 +1,32 @@
+{
+ "date_raw": "初六日",
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "初六日庚寅",
+ "event_role": "司法案件",
+ "summary": "直隶巡抚赵弘燮奏吴贵拦截江以文打死劫物，依抄抢律拟斩监候，康熙帝准行且令秋审不得赦免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "吴贵",
+   "role": "罪犯"
+  },
+  {
+   "name": "江以文",
+   "role": "被害人"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3191
+}

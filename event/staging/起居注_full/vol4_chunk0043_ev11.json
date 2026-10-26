@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "十四日癸丑",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝至大行太皇太后暂安奉殿痛哭，又往孝陵行礼举哀，再至皇后陵举哀，晚复至暂安奉殿哭良久。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "暂安奉殿",
+  "孝陵",
+  "皇后陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4311,
+ "page_range": "98-99"
+}

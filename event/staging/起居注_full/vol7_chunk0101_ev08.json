@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝定殿试名次：施云锦一甲一名，吕葆中一甲二名，贾国维一甲三名，以第六卷置第四、第四置第六，余如所定。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施云锦",
+   "role": "一甲一名"
+  },
+  {
+   "name": "吕葆中",
+   "role": "一甲二名"
+  },
+  {
+   "name": "贾国维",
+   "role": "一甲三名"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10108,
+ "page_range": "213-214"
+}

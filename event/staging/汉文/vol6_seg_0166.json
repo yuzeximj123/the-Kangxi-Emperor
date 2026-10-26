@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十四年十月初四日",
+ "reign_year": 54,
+ "month": 10,
+ "day": 4,
+ "event_role": "奏报灾情收成",
+ "summary": "江宁织造主事曹顺奏报江南太平无事，米价每石六钱至七钱三四分不等，晚稻渐次收割，收成十分丰足，并呈九月分晴雨录。",
+ "people": [
+  {
+   "name": "曹顺",
+   "role": "江宁织造主事，奏报人"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，览奏知米价甚贱，深感欣慰。",
+ "source_title": "江寧織造曹頫奏報江南米價收成摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1898",
+ "order_index": 166
+}

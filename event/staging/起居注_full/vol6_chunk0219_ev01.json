@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝论江南丰收、河南山西山东先旱后收及直隶旗民杂处生计丰足，谓地方大吏好则雨水调匀田禾丰收。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南",
+  "河南",
+  "山西",
+  "山东",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21901,
+ "page_range": "448-449"
+}

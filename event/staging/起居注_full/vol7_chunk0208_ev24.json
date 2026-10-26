@@ -1,0 +1,20 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "二十七日庚辰",
+ "event_role": "议政听政",
+ "summary": "此次巡行中，部院各衙门奏章每日送内阁，内阁三日一次递送行宫听理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20824,
+ "page_range": "427-428"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初八日王辰",
+ "event_role": "谕旨决策",
+ "summary": "工部题请差往潘家口等处稽查木料，康熙帝以恐累直隶之民，命问明各部堂官来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "满丰",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "潘家口",
+  "四川",
+  "喀喇沁部落",
+  "翁牛戒部落",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15307,
+ "page_range": "341-342"
+}

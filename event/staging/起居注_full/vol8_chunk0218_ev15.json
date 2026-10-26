@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "三十日庚成",
+ "event_role": "人事任免",
+ "summary": "吏部题偏沅巡抚李发四病故员缺，以学士遍升元等职名开列，康熙令将近处者补授。",
+ "people": [
+  {
+   "name": "李发四",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "遍升元",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "偏沅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21815,
+ "page_range": "447-448"
+}

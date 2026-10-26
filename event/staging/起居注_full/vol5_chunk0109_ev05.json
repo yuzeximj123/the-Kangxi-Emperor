@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "马武传谕，宣化镇兵令得便先行已行文，古北口兵现驻胡什木克地方令驻扎等候，宣化府红衣炮二十四位交付总兵官马进良随大兵后行。",
+ "people": [
+  {
+   "name": "马武",
+   "role": "官员"
+  },
+  {
+   "name": "马进良",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "胡什木克",
+  "宣化府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10905,
+ "page_range": "228-229"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "伊桑阿奏补授经筵讲官人选，康熙命罗察、舒略补授经筵讲官并令善训之。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "罗察",
+   "role": "经筵讲官"
+  },
+  {
+   "name": "舒略",
+   "role": "经筵讲官"
+  },
+  {
+   "name": "常寿",
+   "role": "候选讲官"
+  },
+  {
+   "name": "赖都",
+   "role": "候选讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23202,
+ "page_range": "474-475"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十二日戊实",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清门听政，吏部官员奏事，帝谕侍郎色赫语言蹇涩，嗣后着额星格启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色赫",
+   "role": "侍郎"
+  },
+  {
+   "name": "额星格",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1204,
+ "page_range": "59-60"
+}

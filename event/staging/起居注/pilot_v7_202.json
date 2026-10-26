@@ -1,0 +1,28 @@
+{
+ "date_raw": "十五日己亥",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十五日己亥",
+ "event_role": "人事任免",
+ "summary": "两江总督阿山题徐州知州佟国强等承追河银不完降级调用请留任，康熙帝照所题降级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "佟国强",
+   "role": "徐州知州"
+  }
+ ],
+ "places": [
+  "徐州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3202
+}

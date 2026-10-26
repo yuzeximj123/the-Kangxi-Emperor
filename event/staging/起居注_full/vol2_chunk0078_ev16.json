@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "十六日乙丑",
+ "event_role": "议政听政",
+ "summary": "图海咨请王辅臣骨榇及属下官兵安置，兵部题覆，康熙帝命依部议，王辅臣骨榇家口来京，并责图海不合。",
+ "people": [
+  {
+   "name": "图海",
+   "role": "大将军"
+  },
+  {
+   "name": "王辅臣",
+   "role": "将军"
+  },
+  {
+   "name": "哈占",
+   "role": "总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "平凉",
+  "四川",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7816,
+ "page_range": "199-200"
+}

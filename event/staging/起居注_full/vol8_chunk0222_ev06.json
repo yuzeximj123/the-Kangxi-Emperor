@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙斥李锡在河南居官不好、私派科敛，九卿科道无人参奏，罪当立决。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "李锡",
+   "role": "河南巡抚"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22206,
+ "page_range": "455-456"
+}

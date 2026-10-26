@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十六日癸未",
+ "event_role": "其他",
+ "summary": "康熙帝御瀛台前亭，赐进贡吴喇忒部落三品台吉达锡、四品台吉阿毕达等茶。",
+ "people": [
+  {
+   "name": "达锡",
+   "role": "三品台吉"
+  },
+  {
+   "name": "阿毕达",
+   "role": "四品台吉"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀛台前亭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25221,
+ "page_range": "561-562"
+}

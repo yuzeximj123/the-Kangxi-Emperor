@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "二十一日本卯",
+ "event_role": "人事任免",
+ "summary": "古北口总兵官马进良请以游击李默等补参将，康熙帝准照所题补授。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "李默",
+   "role": "游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4912,
+ "page_range": "109-110"
+}

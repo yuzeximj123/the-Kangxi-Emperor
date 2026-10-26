@@ -1,0 +1,32 @@
+{
+ "reign_year": 11,
+ "month": 9,
+ "day_text": "二十五日本卯",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝更素服率王、贝勒、各大臣至孝陵明楼前行三跪九叩礼并举哀，又三献历举哀毕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王",
+   "role": "宗室"
+  },
+  {
+   "name": "贝勒",
+   "role": "宗室"
+  },
+  {
+   "name": "各大臣",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "孝陵明楼前"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2403,
+ "page_range": "105-106"
+}

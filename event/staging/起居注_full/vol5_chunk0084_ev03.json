@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初七日丙申",
+ "event_role": "议政听政",
+ "summary": "康熙御乾清门听政，部院各衙门官员面奏毕，大学士伊桑阿、阿兰泰同各部院大臣将所举贤能笔帖式一百二十三员职名开写折子依次引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8403,
+ "page_range": "178-179"
+}

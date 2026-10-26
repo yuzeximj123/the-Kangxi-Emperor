@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初三日已亥",
+ "event_role": "司法案件",
+ "summary": "少詹崔蔚林告病乞休，康熙帝命麻尔图、图纳验视，奏其病状似无甚重病。",
+ "people": [
+  {
+   "name": "崔蔚林",
+   "role": "少詹"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 422,
+ "page_range": "43-44"
+}

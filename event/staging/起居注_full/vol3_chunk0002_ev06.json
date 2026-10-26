@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "二十五日辛卯",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝早射放祈谷坛致祭毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 206,
+ "page_range": "39-40"
+}

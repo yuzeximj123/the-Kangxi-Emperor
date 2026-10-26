@@ -1,0 +1,27 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "二十七日己丑",
+ "event_role": "军务",
+ "summary": "兵部题川陕总督佛伦请修理黄城儿旧城驻防，议不准行，康熙帝以地图形势言其紧要，令总督提督等详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "黄城儿",
+  "甘州",
+  "西宁",
+  "打章滩"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 505,
+ "page_range": "20-21"
+}

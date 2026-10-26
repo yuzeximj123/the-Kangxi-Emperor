@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕会议政事须详察合理，补授大僚当秉公痛改陋习，并自述听政年久、善恶是非无不知。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张汗",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "瀛台",
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2910,
+ "page_range": "70-71"
+}

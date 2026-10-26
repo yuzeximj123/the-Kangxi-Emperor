@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "初八日",
+ "event_role": "谕旨决策",
+ "summary": "左副都御史余国柱奏请更撰给礼乐章，康熙帝询问大学士，明珠奏应交礼部、翰林院确议定例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "余国柱",
+   "role": "左副都御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9504,
+ "page_range": "233-234"
+}

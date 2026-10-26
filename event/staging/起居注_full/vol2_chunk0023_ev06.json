@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "二十三日戊申",
+ "event_role": "人事任免",
+ "summary": "刑部侍郎高铬乞休，康熙帝询问议处，令魏象枢明白回奏荐举高铬缘由。",
+ "people": [
+  {
+   "name": "高铬",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "魏象枢",
+   "role": "都御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2306,
+ "page_range": "89-90"
+}

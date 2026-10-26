@@ -1,0 +1,37 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "十七日王辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内光宁居听政，部院各衙门官员面奏完毕，大学士马齐等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "吴琪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "光宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5726,
+ "page_range": "125-126"
+}

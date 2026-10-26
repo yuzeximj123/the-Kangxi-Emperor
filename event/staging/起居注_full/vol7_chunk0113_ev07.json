@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "二十三日庚辰",
+ "event_role": "朝见受贺",
+ "summary": "古北口等处地方抽分大理寺寺正李兆龙、翰林院八品笔帖式五十一、密云县把总赵蕊谷来朝。",
+ "people": [
+  {
+   "name": "李兆龙",
+   "role": "大理寺寺正"
+  },
+  {
+   "name": "五十一",
+   "role": "翰林院八品笔帖式"
+  },
+  {
+   "name": "赵蕊谷",
+   "role": "密云县把总"
+  }
+ ],
+ "places": [
+  "古北口",
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11307,
+ "page_range": "237-238"
+}

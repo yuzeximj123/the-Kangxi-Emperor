@@ -1,0 +1,34 @@
+{
+ "reign_year": 32,
+ "month": 6,
+ "day_text": "十八日庚寅",
+ "event_role": "司法案件",
+ "summary": "三法司题太医孙斯百等误用人参致康熙帝烦躁甚病，又妄言用附子肉桂，拟斩；康熙帝令从宽免死，各责二十板，永不许行医。",
+ "people": [
+  {
+   "name": "孙斯百",
+   "role": "太医"
+  },
+  {
+   "name": "孙徽百",
+   "role": "太医"
+  },
+  {
+   "name": "郑起唤",
+   "role": "太医"
+  },
+  {
+   "name": "罗性涵",
+   "role": "太医"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23519,
+ "page_range": "482-483"
+}

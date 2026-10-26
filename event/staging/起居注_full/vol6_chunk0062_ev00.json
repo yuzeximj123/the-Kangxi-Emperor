@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就下河疏浚事谕令：若桑格等能保水消田出，则令开浚，并将御史吴十生条奏发九卿详询确议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "官员"
+  },
+  {
+   "name": "吴十生",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6200,
+ "page_range": "134-135"
+}

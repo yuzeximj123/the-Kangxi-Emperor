@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕直隶巡抚格尔古德严查地方恶绅欺凌武断、旗下庄头为害等弊，格尔古德奏对。",
+ "people": [
+  {
+   "name": "格尔古德",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金世德",
+   "role": "前良吏"
+  },
+  {
+   "name": "于成龙",
+   "role": "前良吏"
+  }
+ ],
+ "places": [
+  "直隶",
+  "江南",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11306,
+ "page_range": "269-270"
+}

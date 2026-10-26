@@ -1,0 +1,25 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "初七日匡未",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝在头堡，辰时赴太皇太后行宫问安，午时返回。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "祖母"
+  }
+ ],
+ "places": [
+  "头堡",
+  "太皇太后行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 825,
+ "page_range": "73-74"
+}

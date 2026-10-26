@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "初六日",
+ "event_role": "其他",
+ "summary": "赐杭州副都统胡希布鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡希布",
+   "role": "杭州副都统"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 709,
+ "page_range": "24-25"
+}

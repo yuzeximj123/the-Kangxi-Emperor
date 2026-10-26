@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就承缉官员议处本发还该部再议，并令将王永痊案与杨起龙案一并交地方官严缉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王永痊",
+   "role": "案犯"
+  },
+  {
+   "name": "杨起龙",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14500,
+ "page_range": "333-334"
+}

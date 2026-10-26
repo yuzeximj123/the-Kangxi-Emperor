@@ -1,0 +1,29 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "西安总兵官祁某上奏恭请皇帝圣安，康熙朱批回复自己身体安善，并提及听闻其声名颇好但身手虚弱多病，询问出榜晓谕之事是否属实。",
+ "people": [
+  {
+   "name": "祁？",
+   "role": "镇守陕西西安等处地方总兵官左都督世袭一等精奇尼哈番，上奏请安者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己身体安善，称听闻祁某声名颇好但身手虚弱多病，并询问其出榜晓谕等语是否属实。",
+ "source_title": "（西安总兵请安）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 461
+}

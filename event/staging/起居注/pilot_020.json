@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙十年九月二十一日己巳",
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "二十一日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝周视盛京城池，赐年老无告鳏寡孤独者银两，并谕盛京将军阿木儿图察奏披甲中伤老病退甲闲散之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿木儿图",
+   "role": "盛京将军"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20
+}

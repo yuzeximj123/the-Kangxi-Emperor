@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题内阁票签侍读戴纳升任员缺，拟穆黑伦正、阿米达陪，康熙命开列应升官员具奏。",
+ "people": [
+  {
+   "name": "戴纳",
+   "role": "内阁票签侍读（升任）"
+  },
+  {
+   "name": "穆黑伦",
+   "role": "内阁中书（拟正）"
+  },
+  {
+   "name": "阿米达",
+   "role": "拟陪"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4701,
+ "page_range": "106-107"
+}

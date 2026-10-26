@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "宗室公吞珠、领侍卫内大臣公国田佟国维、副都统阿尔纳、学士宋等参与会议。",
+ "people": [
+  {
+   "name": "吞珠",
+   "role": "宗室公"
+  },
+  {
+   "name": "佟国维",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "阿尔纳",
+   "role": "副都统"
+  },
+  {
+   "name": "宋",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11720,
+ "page_range": "244-245"
+}

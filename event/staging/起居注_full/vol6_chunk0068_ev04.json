@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初八日戊申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕阿兰泰等前往水西，宜将土司苗蛮及百姓生业、地方形势详加审视，不得轻忽。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "郎中"
+  },
+  {
+   "name": "阿金",
+   "role": "检讨"
+  }
+ ],
+ "places": [
+  "水西",
+  "威宁",
+  "大定府",
+  "黔西",
+  "平远"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6804,
+ "page_range": "146-147"
+}

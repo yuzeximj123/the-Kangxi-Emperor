@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命乾清门侍卫马武传谕徐庆，令其十二日早来领御书匾额。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "徐庆",
+   "role": "受谕官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17501,
+ "page_range": "360-361"
+}

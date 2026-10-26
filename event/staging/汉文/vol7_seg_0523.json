@@ -1,0 +1,31 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "山东巡抚李树德上摺向康熙帝请安，康熙朱批报安并提醒其留心登莱青三府饥民寻食之事。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "登",
+  "莱",
+  "青"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙报平安，并告知言官奏报登莱青三府饥民四处寻食，命李树德留心。",
+ "source_title": "山东巡抚李树德奏请圣安摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2532",
+ "order_index": 523
+}

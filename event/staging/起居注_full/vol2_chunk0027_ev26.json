@@ -1,0 +1,37 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "初八日巳",
+ "event_role": "司法案件",
+ "summary": "议副都统备安于福建海泪县从贼事，明珠建议交吏兵刑三部会同议奏，康熙帝从之。",
+ "people": [
+  {
+   "name": "备安",
+   "role": "副都统"
+  },
+  {
+   "name": "孟安",
+   "role": "官员"
+  },
+  {
+   "name": "康亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "海泪县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2726,
+ "page_range": "97-98"
+}

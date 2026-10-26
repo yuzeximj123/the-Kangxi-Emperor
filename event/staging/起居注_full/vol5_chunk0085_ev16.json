@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "十七日丙午",
+ "event_role": "请安谢恩",
+ "summary": "朝鲜国王李灶谢恩恭进礼物，正使全城君李混、副使李彦纲等照例赐马、绸织、银两等物。",
+ "people": [
+  {
+   "name": "李灶",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "李混",
+   "role": "正使全城君"
+  },
+  {
+   "name": "李彦纲",
+   "role": "副使议政府右参赞"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8516,
+ "page_range": "180-181"
+}

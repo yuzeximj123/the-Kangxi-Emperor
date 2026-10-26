@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 11,
+ "day_text": "二十七日丙寅",
+ "event_role": "人事任免",
+ "summary": "康熙帝以兵部侍郎舒恕随从躲避、人材不及，着解侍郎任；督捕侍郎博济保举过多、举止轻率，着降三级调用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "舒恕",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "博济",
+   "role": "督捕侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24907,
+ "page_range": "510-511"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 9,
+ "day_text": "二十五日辛卯",
+ "event_role": "朝见受贺",
+ "summary": "早，康熙帝御太和殿视朝，文武升转各官谢恩，进贡喀尔喀部落额尔得尼格楚尔等行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额尔得尼格楚尔",
+   "role": "喀尔喀部落进贡使"
+  },
+  {
+   "name": "济巴免",
+   "role": "喀尔喀部落进贡使"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5506,
+ "page_range": "167-168"
+}

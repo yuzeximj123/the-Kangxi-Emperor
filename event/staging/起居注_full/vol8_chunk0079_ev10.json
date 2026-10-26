@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": "二十日戊子",
+ "event_role": "议政听政",
+ "summary": "大学士、各部院大臣至南石槽接驾，康熙帝询问户部尚书赵申乔告退之意并加以训诫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  },
+  {
+   "name": "萧永藻",
+   "role": "官员"
+  },
+  {
+   "name": "富宁安",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "南石槽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7910,
+ "page_range": "169-170"
+}

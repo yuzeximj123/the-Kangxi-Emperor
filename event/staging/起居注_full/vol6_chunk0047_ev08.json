@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "初六日戊寅",
+ "event_role": "司法案件",
+ "summary": "阿兰泰奏温保、甘度等拟正法一案，九卿以办造军需车辆派取民间请旨，康熙帝命革职从宽免死。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "温保",
+   "role": "原任巡抚"
+  },
+  {
+   "name": "甘度",
+   "role": "布政使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4708,
+ "page_range": "104-105"
+}

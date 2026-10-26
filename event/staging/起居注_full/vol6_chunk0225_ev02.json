@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "广东总督石琳题潮州总兵官薛受益亲母病故例应丁忧，康熙命薛受益在任守制。",
+ "people": [
+  {
+   "name": "石琳",
+   "role": "广东总督"
+  },
+  {
+   "name": "薛受益",
+   "role": "潮州总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "潮州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22502,
+ "page_range": "460-461"
+}

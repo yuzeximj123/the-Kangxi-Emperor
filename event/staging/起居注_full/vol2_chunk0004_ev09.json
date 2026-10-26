@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十九日乙雍",
+ "event_role": "皇帝行止",
+ "summary": "康熙御瀛台前亭，赐进贡鄂尔多斯部落多罗贝勒达尔扎、扎萨克二品台吉巴珠等及喀尔喀部落三品台吉褚裔等茶。",
+ "people": [
+  {
+   "name": "达尔扎",
+   "role": "鄂尔多斯部落多罗贝勒"
+  },
+  {
+   "name": "巴珠",
+   "role": "扎萨克二品台吉"
+  },
+  {
+   "name": "褚裔",
+   "role": "喀尔喀部落三品台吉"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 409,
+ "page_range": "51-52"
+}

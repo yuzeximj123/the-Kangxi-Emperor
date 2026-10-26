@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十日辛酉",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝御箭亭，率皇太子、诸皇子及善射侍卫等射，发矢皆中，继令记名善射官兵射毕回行宫。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "随行"
+  },
+  {
+   "name": "诸皇子",
+   "role": "随行"
+  },
+  {
+   "name": "善射侍卫",
+   "role": "随行"
+  }
+ ],
+ "places": [
+  "箭亭",
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8213,
+ "page_range": "175-176"
+}

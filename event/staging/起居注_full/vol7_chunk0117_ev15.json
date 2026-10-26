@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "二十八日甲实",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝与马齐论铁索桥源流，指云南铁索桥坚固，安乐以石为柱贯铁索恐久后未必坚固。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南",
+  "安乐",
+  "达赖喇嘛地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11715,
+ "page_range": "245-246"
+}

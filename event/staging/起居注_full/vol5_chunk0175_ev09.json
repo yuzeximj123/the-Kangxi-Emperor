@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十二日乙亥",
+ "event_role": "其他",
+ "summary": "赐来贡之公杜棱旗下夏班第等、同贝勒宋喇布前往人阿鲁等及献羊人等白金有差。",
+ "people": [
+  {
+   "name": "杜棱",
+   "role": "公"
+  },
+  {
+   "name": "夏班第",
+   "role": "杜棱旗下"
+  },
+  {
+   "name": "宋喇布",
+   "role": "贝勒"
+  },
+  {
+   "name": "阿鲁",
+   "role": "随行人员"
+  }
+ ],
+ "places": [
+  "折固思台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17509,
+ "page_range": "360-361"
+}

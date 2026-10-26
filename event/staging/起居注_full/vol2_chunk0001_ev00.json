@@ -1,0 +1,37 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问杨维乔、王遵训为人，李霨、冯溥奏对，遂命王遵训内升、杨维乔外转。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  },
+  {
+   "name": "杨维乔",
+   "role": "官员"
+  },
+  {
+   "name": "王遵训",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山东",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 100,
+ "page_range": "45-46"
+}

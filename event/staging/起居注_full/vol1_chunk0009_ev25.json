@@ -1,0 +1,26 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "二十三日己亥",
+ "event_role": "皇帝行止",
+ "summary": "午时康熙帝过浩门岭，不往赤城而由别路赴温泉问太皇太后安，酉时回赤城内行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "浩门岭",
+  "赤城",
+  "温泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 925,
+ "page_range": "75-76"
+}

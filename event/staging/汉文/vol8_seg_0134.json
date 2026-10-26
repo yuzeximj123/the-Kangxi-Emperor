@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十七年九月二十五日",
+ "reign_year": 57,
+ "month": 9,
+ "day": 25,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报第一番御稻收割后在原田再种，七月立秋前插秧、九月二十日收割，每亩得稻二石六斗，碾新米进呈，并报乡绅商人所种第二番御稻收割情形。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批为李煦跪奏之语，涉及所收稻子数量及进呈事宜。",
+ "source_title": "蘇州織造李煦奏報稻香稻收成情形並進新米摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2704",
+ "order_index": 134
+}

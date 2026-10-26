@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "户部覆请暂缓直隶宝坛等十四州县未完钱粮、来年催征并动支仓谷借赈贫民，康熙准行。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "总督管理直隶巡抚事务"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "宝坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11200,
+ "page_range": "235-236"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": "二十六日庚午",
+ "event_role": "司法案件",
+ "summary": "兵部覆黑龙江将军萨布素所参佐领阿木瑚朗、巴林拟革职鞭一百不准折赎，康熙帝令俱革职交萨布素惩治。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "阿木瑚朗",
+   "role": "佐领"
+  },
+  {
+   "name": "巴林",
+   "role": "佐领"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4013,
+ "page_range": "90-91"
+}

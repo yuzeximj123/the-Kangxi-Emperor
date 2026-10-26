@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命查侍卫王廷梅是否在刘谦等殴打任友弥处，若在则革职拿问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王廷梅",
+   "role": "侍卫"
+  },
+  {
+   "name": "刘谦",
+   "role": "左都御史"
+  },
+  {
+   "name": "任友弥",
+   "role": "被殴者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10901,
+ "page_range": "229-230"
+}

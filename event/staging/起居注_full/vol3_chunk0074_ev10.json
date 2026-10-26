@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "十二日于寅",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清门听政，吏部题司官内升外转，引见郎中尹源进等九员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "尚书"
+  },
+  {
+   "name": "李含春",
+   "role": "选司官员"
+  },
+  {
+   "name": "尹源进",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7410,
+ "page_range": "183-184"
+}

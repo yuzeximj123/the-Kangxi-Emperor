@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初七日甲辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕张英，命翰林院、詹事府、国子监官员每日轮四员到南书房侍直以备咨询。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张英",
+   "role": "兼管翰林院事尚书"
+  },
+  {
+   "name": "常书",
+   "role": "管翰林院事侍郎"
+  }
+ ],
+ "places": [
+  "南书房"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1904,
+ "page_range": "48-49"
+}

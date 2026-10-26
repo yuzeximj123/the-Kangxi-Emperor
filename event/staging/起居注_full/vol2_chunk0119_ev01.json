@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补正红旗副都统员缺，康熙帝询问胡巴为人，明珠称其颇优、行间效力，遂命胡巴补授副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "胡巴",
+   "role": "护军参领，补授副都统"
+  },
+  {
+   "name": "阿吉礼",
+   "role": "郎中兼参领，陪拟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11901,
+ "page_range": "281-282"
+}

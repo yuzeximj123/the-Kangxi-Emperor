@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": "初八日癸未",
+ "event_role": "人事任免",
+ "summary": "吏部题湖广布政司王燕员缺，拟以陕西西宁道刘殿衡补，康熙以西宁紧要发回另拟。",
+ "people": [
+  {
+   "name": "王燕",
+   "role": "湖广布政司"
+  },
+  {
+   "name": "刘殿衡",
+   "role": "陕西西宁道"
+  }
+ ],
+ "places": [
+  "湖广",
+  "西宁",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3607,
+ "page_range": "82-83"
+}

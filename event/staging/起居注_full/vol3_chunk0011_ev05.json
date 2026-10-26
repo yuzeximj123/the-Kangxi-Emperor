@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "初八日甲成",
+ "event_role": "人事任免",
+ "summary": "议原任四川巡抚杭爱赐谥事，康熙帝询问麻尔图杭爱居官情形后，命赐谥勤训。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  },
+  {
+   "name": "杭爱",
+   "role": "原任四川巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1105,
+ "page_range": "57-58"
+}

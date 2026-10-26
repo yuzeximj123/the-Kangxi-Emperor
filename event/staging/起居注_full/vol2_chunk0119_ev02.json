@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝言古塔乌喇流徙人犯困苦，无房屋资本又重困于差徭，南人难当苦寒，命李霨、冯溥等酌议改发辽阳等处安置并撰写上谕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "古塔乌喇",
+  "辽阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11902,
+ "page_range": "281-282"
+}

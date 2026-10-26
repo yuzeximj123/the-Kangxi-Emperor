@@ -1,0 +1,20 @@
+{
+ "reign_year": 16,
+ "month": 12,
+ "day_text": "二十六日己亥",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝御太和殿，视郊天祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15111,
+ "page_range": "359-360"
+}

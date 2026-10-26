@@ -1,0 +1,25 @@
+{
+ "reign_year": 32,
+ "month": 3,
+ "day_text": "初九日吴丑",
+ "event_role": "人事任免",
+ "summary": "吏部升补道府等官，康熙帝以河南府知府职甚紧要，命邳州知州孙居谴升补河南府知府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙居谴",
+   "role": "邳州知州"
+  }
+ ],
+ "places": [
+  "河南府",
+  "邳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22804,
+ "page_range": "468-469"
+}

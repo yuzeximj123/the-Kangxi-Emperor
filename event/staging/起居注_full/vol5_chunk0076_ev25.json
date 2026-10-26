@@ -1,0 +1,20 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "初九日戊戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸青城。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "青城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7625,
+ "page_range": "162-163"
+}

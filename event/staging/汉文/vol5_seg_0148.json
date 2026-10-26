@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾贰年拾贰月初拾日",
+ "reign_year": 52,
+ "month": 12,
+ "day": 10,
+ "event_role": "请安谢恩",
+ "summary": "郎廷极奏谢皇上破格擢用及钦差按图计程抵江省查勘，自陈足疾年迈，并报地方米麦收成与米价。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "总督漕运巡抚江西等处地方提督军务兼理粮饷兵部尚书兼都察院右副都御史"
+  },
+  {
+   "name": "巴霁纳",
+   "role": "钦差内阁学士"
+  },
+  {
+   "name": "李华之",
+   "role": "钦差内阁学士"
+  }
+ ],
+ "places": [
+  "江西",
+  "江省城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批准其奏谢。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 148
+}

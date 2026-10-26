@@ -1,0 +1,37 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论赵弘参奏三王爷游行各省事，称赵弘党最为有功，并提及仇机私铸九映令隆科多查拿。",
+ "people": [
+  {
+   "name": "赵弘",
+   "role": "参奏官员"
+  },
+  {
+   "name": "三王爷",
+   "role": "被参奏者"
+  },
+  {
+   "name": "仇机",
+   "role": "原任黄岩总兵"
+  },
+  {
+   "name": "隆科多",
+   "role": "步军统领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "各省",
+  "黄岩"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22500,
+ "page_range": "461-462"
+}

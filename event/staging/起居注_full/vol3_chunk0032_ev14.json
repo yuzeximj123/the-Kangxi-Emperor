@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "二十三日己巳",
+ "event_role": "议政听政",
+ "summary": "康熙帝询问学士汤斌为人，阿哈达奏称其质直能事，图纳奏称人品优长、平昔寡交。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "学士"
+  },
+  {
+   "name": "阿哈达",
+   "role": "学士"
+  },
+  {
+   "name": "图纳",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3214,
+ "page_range": "99-100"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "初九日甲子",
+ "event_role": "人事任免",
+ "summary": "古北口总兵官觉罗保柱题石匣副将赵坤员缺，请以参领张致补授或记名官员补授，康熙帝命查明张致历升之处折奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗保柱",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "赵坤",
+   "role": "石匣副将"
+  },
+  {
+   "name": "张致",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "古北口",
+  "石匣"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18116,
+ "page_range": "373-374"
+}

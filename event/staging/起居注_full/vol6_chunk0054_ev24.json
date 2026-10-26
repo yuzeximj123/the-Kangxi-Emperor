@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "初八日已卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸乌储滚之南，郭尔罗斯护国公安达西里等备宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安达西里",
+   "role": "郭尔罗斯护国公"
+  }
+ ],
+ "places": [
+  "乌储滚之南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5424,
+ "page_range": "118-119"
+}

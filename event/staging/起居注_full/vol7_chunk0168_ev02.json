@@ -1,0 +1,36 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆川陕总督氏泰题补四川提标中营参将等缺，康熙帝准杨君强依拟用，纪成斌、李莘照该督所请补授。",
+ "people": [
+  {
+   "name": "氏泰",
+   "role": "川陕总督"
+  },
+  {
+   "name": "杨君强",
+   "role": "松潘镇标左营游击"
+  },
+  {
+   "name": "纪成斌",
+   "role": "提标左营守备"
+  },
+  {
+   "name": "李莘",
+   "role": "蓝鱼侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16802,
+ "page_range": "347-348"
+}

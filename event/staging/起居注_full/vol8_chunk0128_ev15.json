@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 1,
+ "day_text": "初二日癸亥",
+ "event_role": "谕旨决策",
+ "summary": "户部题更换京仓、通仓监督，保举主事马尔赛等满汉二十二员差往，康熙帝谕收放米用红斛平斛、赢余常事，令交九卿议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马尔赛",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "京仓",
+  "通仓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12815,
+ "page_range": "267-268"
+}

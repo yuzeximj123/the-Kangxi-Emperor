@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "初五日戊寅",
+ "event_role": "人事任免",
+ "summary": "广西提督赵应奎告病乞休，康熙帝降优旨并令其子赵衍祥驰往省视。",
+ "people": [
+  {
+   "name": "赵应奎",
+   "role": "广西提督"
+  },
+  {
+   "name": "赵衍祥",
+   "role": "督捕理事官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "吉州",
+  "江西",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14914,
+ "page_range": "341-342"
+}

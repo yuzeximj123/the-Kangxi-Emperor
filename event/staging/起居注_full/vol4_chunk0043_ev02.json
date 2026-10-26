@@ -1,0 +1,42 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿等奏报九卿议覆柯永升、叶映榴死难追赠事，九卿认为柯永升不应追赠，叶映榴予谥出自皇上。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  },
+  {
+   "name": "萨木哈",
+   "role": "学士"
+  },
+  {
+   "name": "迈图",
+   "role": "学士"
+  },
+  {
+   "name": "柯永升",
+   "role": "封疆大臣"
+  },
+  {
+   "name": "叶映榴",
+   "role": "道员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4302,
+ "page_range": "98-99"
+}

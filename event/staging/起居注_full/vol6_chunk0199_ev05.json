@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "十一日戊辰",
+ "event_role": "人事任免",
+ "summary": "湖广总督郭隆题请以笔帖式图纳补授汉口同知，康熙帝依所请补授。",
+ "people": [
+  {
+   "name": "郭隆",
+   "role": "湖广总督"
+  },
+  {
+   "name": "图纳",
+   "role": "笔帖式"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汉口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19905,
+ "page_range": "408-409"
+}

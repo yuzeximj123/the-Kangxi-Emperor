@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙伍拾贰年贰月日",
+ "reign_year": 52,
+ "month": 2,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "湖广巡抚刘殿衡因康熙六旬万寿，奉旨不必来京，特遣长子袞入京叩祝圣寿，具折恭祝万寿无疆。",
+ "people": [
+  {
+   "name": "刘殿衡",
+   "role": "巡抚湖广都察院右副都御史"
+  },
+  {
+   "name": "袞",
+   "role": "刘殿衡长子，奉命入觐祝寿"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示阅知所奏。",
+ "source_title": "恭祝圣寿无疆",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 186
+}

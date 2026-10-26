@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": "二十二日乙已",
+ "event_role": "谕旨决策",
+ "summary": "御史温达礼等奏往山海关审理私参一案请训，康熙帝谕令从公审理，不得要钱徇情。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达礼",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "山海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21208,
+ "page_range": "435-436"
+}

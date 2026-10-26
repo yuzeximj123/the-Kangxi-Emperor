@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕浙闽总督王骛，书地平天成四字悬于禹庙，令地方官修理庙宇、增添守祀人役，并赐银二百两给守祠之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王骛",
+   "role": "浙闽总督"
+  }
+ ],
+ "places": [
+  "禹王庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5803,
+ "page_range": "128-129"
+}

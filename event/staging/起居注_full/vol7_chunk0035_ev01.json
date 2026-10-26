@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝对张玉书谈及昔日与马齐、图讷往阅河道，众人皆以减水坝可塞，若听众议则淮安、扬州等处不可问，强调知之不明确难定夺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "图讷",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "淮安",
+  "扬州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3501,
+ "page_range": "81-82"
+}

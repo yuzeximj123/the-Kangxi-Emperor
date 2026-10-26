@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐等遵旨以原任云贵总督郭表加谥号问九卿，九卿称其做官好，覆请后康熙着改签进呈。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "郭表",
+   "role": "原任云贵总督"
+  },
+  {
+   "name": "九卿",
+   "role": "大臣"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16105,
+ "page_range": "333-334"
+}

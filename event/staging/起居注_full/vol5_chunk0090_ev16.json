@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "二十二日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命阅武毕传集众官兵宣读此旨，领侍卫内大臣佟国维等、大学士伊桑阿等宣读上谕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国维",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "行宫门外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9016,
+ "page_range": "190-191"
+}

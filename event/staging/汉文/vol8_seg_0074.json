@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十七年六月二十八日",
+ "reign_year": 57,
+ "month": 6,
+ "day": 28,
+ "event_role": "奏报灾情收成",
+ "summary": "湖广巡抚张连登奏报湖北八府雨水调匀、早稻丰收及米粮价格下降情形，并差家人赍折奏闻以慰圣怀。",
+ "people": [
+  {
+   "name": "张连登",
+   "role": "湖广巡抚，奏报人"
+  },
+  {
+   "name": "苟兴夏",
+   "role": "张连登家人，赍捧奏折进京"
+  }
+ ],
+ "places": [
+  "湖广",
+  "湖北"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "湖廣巡撫張連登奏報雨水收成並糧價摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2639",
+ "order_index": 74
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十五年十月二十日",
+ "reign_year": 55,
+ "month": 10,
+ "day": 20,
+ "event_role": "收到奏折",
+ "summary": "河南巡抚李锡遵旨将奏折内字画写大，并回奏已遵谕旨缮写恭进，同时恭请皇上圣安。",
+ "people": [
+  {
+   "name": "李锡",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "李凤",
+   "role": "李锡家人，赍折回豫传旨"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "河南巡撫李錫奏為遵旨以居指內之字筆畫應加大摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2249",
+ "order_index": 252
+}

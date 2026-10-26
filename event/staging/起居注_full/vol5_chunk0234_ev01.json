@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令将归附厄鲁特人从口内送往，因天热恐生病，令自宁夏至船站骑索额图处马匹从边外送至张家口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "内大臣"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "船站",
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23401,
+ "page_range": "478-479"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "二十九日丁亥",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以岁除亲诣太庙致祭，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18713,
+ "page_range": "384-385"
+}

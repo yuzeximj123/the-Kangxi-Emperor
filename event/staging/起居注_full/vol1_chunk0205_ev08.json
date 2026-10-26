@@ -1,0 +1,25 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "初六日丁酉",
+ "event_role": "谕旨决策",
+ "summary": "户部覆允陕西巡抚杭爱请开汉中事例以济军需，康熙帝以汉中已恢复，令作速举行。",
+ "people": [
+  {
+   "name": "杭爱",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汉中",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20508,
+ "page_range": "467-468"
+}

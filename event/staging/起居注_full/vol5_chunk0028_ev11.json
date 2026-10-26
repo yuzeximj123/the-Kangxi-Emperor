@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": "初九日乙巳",
+ "event_role": "司法案件",
+ "summary": "户部郎中苏赫纳、刑部郎中称黑伦奏请审理绣岩防御马尔赛讦讼一案训旨，康熙命悉心从公审理务得真情，若徇情面回时决不轻恕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏赫纳",
+   "role": "户部郎中"
+  },
+  {
+   "name": "称黑伦",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "马尔赛",
+   "role": "绣岩防御"
+  }
+ ],
+ "places": [
+  "绣岩"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2811,
+ "page_range": "66-67"
+}

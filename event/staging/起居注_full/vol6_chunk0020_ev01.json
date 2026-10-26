@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题侍讲学士王九龄升任员缺，康熙命陈论升补，并令陈元龙、张廷玉停升转三年。",
+ "people": [
+  {
+   "name": "陈论",
+   "role": "拟补侍讲学士"
+  },
+  {
+   "name": "王九龄",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "陈元龙",
+   "role": "停升转官员"
+  },
+  {
+   "name": "张廷玉",
+   "role": "停升转官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2001,
+ "page_range": "50-51"
+}

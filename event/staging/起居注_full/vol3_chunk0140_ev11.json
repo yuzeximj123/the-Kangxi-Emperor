@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十二日丙申",
+ "event_role": "奏报地方情形",
+ "summary": "广西按察使黄性震题广西瘴气最多，请以地方相宜官员调用，康熙帝命九卿等确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄性震",
+   "role": "广西按察使"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14011,
+ "page_range": "315-316"
+}

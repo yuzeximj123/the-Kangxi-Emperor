@@ -1,0 +1,38 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十三日戊午",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部侍郎宋文运致仕员缺，康熙帝评王守才、金放祥平常，命开列其次应升者，王守才照原品别衙门调用。",
+ "people": [
+  {
+   "name": "宋文运",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "王守才",
+   "role": "内阁学士"
+  },
+  {
+   "name": "金放祥",
+   "role": "内阁学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "马世济",
+   "role": "官员"
+  },
+  {
+   "name": "张可前",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2216,
+ "page_range": "79-80"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十二日已已",
+ "event_role": "人事任免",
+ "summary": "明珠等遵旨询问张泰等保举过多事，康熙帝以宗人府无事务且官员少停其保举，并传谕张泰品行不端解任。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张泰",
+   "role": "宗人府官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宗人府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10404,
+ "page_range": "243-244"
+}

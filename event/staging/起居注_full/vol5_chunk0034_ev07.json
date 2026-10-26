@@ -1,0 +1,20 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "十八日甲申",
+ "event_role": "皇帝行止",
+ "summary": "是日，康熙帝移驻汤泉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3407,
+ "page_range": "78-79"
+}

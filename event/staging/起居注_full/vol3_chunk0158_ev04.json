@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称清廉如于成龙者甚少，明珠、王申等奏其品行清廉，皇上赐手书碑文勒石，芳名可传万世。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "原任总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15804,
+ "page_range": "351-352"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部侍郎员缺，康熙询问年久者及巡抚中优者，明珠荐布占、才哈、吕恺，康熙称杭爱亦优，最终以数哈补侍郎。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "布占",
+   "role": "年久官员"
+  },
+  {
+   "name": "才哈",
+   "role": "年久官员"
+  },
+  {
+   "name": "吕恺",
+   "role": "前任吏部官员"
+  },
+  {
+   "name": "杭爱",
+   "role": "巡抚"
+  },
+  {
+   "name": "数哈",
+   "role": "补侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16000,
+ "page_range": "363-364"
+}

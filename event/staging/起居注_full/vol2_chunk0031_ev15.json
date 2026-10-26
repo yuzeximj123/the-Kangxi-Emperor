@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "二十四日已西",
+ "event_role": "司法案件",
+ "summary": "兵部等衙门议保宁从贼外库等分别斩绞，康熙帝以非处决之时，命候明岁再奏。",
+ "people": [
+  {
+   "name": "外库",
+   "role": "从贼"
+  },
+  {
+   "name": "何三",
+   "role": "从贼"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3115,
+ "page_range": "105-106"
+}

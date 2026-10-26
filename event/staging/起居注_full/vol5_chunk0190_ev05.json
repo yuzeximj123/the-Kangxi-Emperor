@@ -1,0 +1,20 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十三日甲午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸怀安县。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "怀安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19005,
+ "page_range": "390-391"
+}

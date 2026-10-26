@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十年四月日",
+ "reign_year": 50,
+ "month": 4,
+ "day": null,
+ "event_role": "朝见受贺",
+ "summary": "四川巡抚年羹尧于康熙万寿圣节，延请高僧诵经祝寿，并遣家人进贡土物两种，以表祝贺与忠诚。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚革职留任"
+  },
+  {
+   "name": "李义",
+   "role": "年羹尧家人，奉命进京叩贺"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "四川巡抚年羹尧奏贺万寿并进土物摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1734",
+ "order_index": 16
+}

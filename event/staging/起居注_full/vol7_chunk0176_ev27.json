@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "二十五日癸未",
+ "event_role": "谕旨决策",
+ "summary": "户部题杀虎口缺额监督色尔登交吏部议处并追赔钱粮，康熙帝令依议，将色尔登等交都统枷号严追。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色尔登",
+   "role": "杀虎口监督"
+  }
+ ],
+ "places": [
+  "杀虎口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17627,
+ "page_range": "363-364"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "十三日癸亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝在畅春园内西厂试未阅完武举十九人步射及李显光等骑射，详阅记优。",
+ "people": [
+  {
+   "name": "李显光",
+   "role": "武举"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "外特布",
+   "role": "兵部尚书"
+  }
+ ],
+ "places": [
+  "畅春园内西厂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23514,
+ "page_range": "481-482"
+}

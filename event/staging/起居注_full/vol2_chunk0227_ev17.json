@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "初十日本未",
+ "event_role": "谕旨决策",
+ "summary": "九卿等以海寇底定请上尊号，康熙帝以台湾未顺不足为治道之缺、不愿烦扰粉饰，令传谕九卿等知之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22717,
+ "page_range": "497-498"
+}

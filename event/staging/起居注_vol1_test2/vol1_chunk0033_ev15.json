@@ -1,0 +1,26 @@
+{
+ "reign_year": 12,
+ "month": 1,
+ "day_text": "二十日辛卯",
+ "event_role": "起居注官记录",
+ "summary": "起居注官倩达礼、孙在丰、史稚龄讶从。",
+ "people": [
+  {
+   "name": "倩达礼",
+   "role": "起居注官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "起居注官"
+  },
+  {
+   "name": "史稚龄",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3315,
+ "page_range": "123-124"
+}

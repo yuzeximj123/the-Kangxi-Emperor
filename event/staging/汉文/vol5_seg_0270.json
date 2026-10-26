@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十三年八月初六日",
+ "reign_year": 53,
+ "month": 8,
+ "day": 6,
+ "event_role": "贸易漕运",
+ "summary": "四川巡抚年羹尧奏报渝关木税原额系将两年商木并作一年征收所致，如今木植采伐殆尽、商贩渐稀，难以如数征收，请免拘原额、尽收尽解。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚加三级，奏报人"
+  },
+  {
+   "name": "能泰",
+   "role": "前四川巡抚，题请设立渝关木税"
+  }
+ ],
+ "places": [
+  "四川",
+  "渝关",
+  "渝江",
+  "川东"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "四川巡抚年羹尧奏报马木税羡余难以如数征收摺（康熙五十三年八月初六日）",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1631",
+ "order_index": 270
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "十九日庚寅",
+ "event_role": "人事任免",
+ "summary": "兵部覆云贵总督王继文题云南沅江副将员缺，拟将卓异参将关宾坐名升补，关宾员缺拟以游击王文誉补授，议不准行。",
+ "people": [
+  {
+   "name": "王继文",
+   "role": "云贵总督"
+  },
+  {
+   "name": "关宾",
+   "role": "参将"
+  },
+  {
+   "name": "王文誉",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "云南",
+  "沅江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5532,
+ "page_range": "120-121"
+}

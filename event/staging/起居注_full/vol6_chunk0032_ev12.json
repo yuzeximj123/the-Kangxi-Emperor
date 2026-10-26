@@ -1,0 +1,40 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "初六日辛亥",
+ "event_role": "朝见受贺",
+ "summary": "阜平县知县史匡经、把总杨远来朝，康熙帝问二人何如，席哈纳奏百姓俱云好，帝命问沈朝聘具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "史匡经",
+   "role": "阜平县知县"
+  },
+  {
+   "name": "杨远",
+   "role": "把总"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "官员"
+  },
+  {
+   "name": "存住",
+   "role": "转奏官"
+  }
+ ],
+ "places": [
+  "阜平县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3212,
+ "page_range": "74-75"
+}

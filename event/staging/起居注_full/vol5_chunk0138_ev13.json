@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十二日丁丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕派拨什库一名带厄鲁特罗垒厄木七同来人一名星驰前去，令二郎保从西宁前往晓谕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗垒厄木七",
+   "role": "厄鲁特"
+  },
+  {
+   "name": "二郎保",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13813,
+ "page_range": "286-287"
+}

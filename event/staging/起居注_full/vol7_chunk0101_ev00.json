@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅殿试第二卷，赞其文佳而字稍逊施云锦，拆视知为浙江人吕葆中，询问张玉书等其家世。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吕葆中",
+   "role": "贡士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10100,
+ "page_range": "213-214"
+}

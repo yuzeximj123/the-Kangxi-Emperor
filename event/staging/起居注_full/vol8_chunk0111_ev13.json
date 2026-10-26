@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十八日",
+ "event_role": "司法案件",
+ "summary": "刑部题将打死般五儿之苏朱和尔监候、俟脱逃苏四拿获之日质审；康熙帝以苏朱尔即凶犯理应拟死罪监候，部议未拟罪所议含糊，发还再议。",
+ "people": [
+  {
+   "name": "苏朱和尔",
+   "role": "凶犯"
+  },
+  {
+   "name": "苏四",
+   "role": "脱逃人"
+  },
+  {
+   "name": "般五儿",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11113,
+ "page_range": "233-234"
+}

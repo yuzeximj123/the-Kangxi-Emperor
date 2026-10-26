@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初七日丙申",
+ "event_role": "谕旨决策",
+ "summary": "康熙询问所举笔帖式中是否有大臣亲戚，命各部院堂官具奏，图纳奏镀蓝旗笔帖式拜都为前锋统领硕散之胞弟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "官员"
+  },
+  {
+   "name": "拜都",
+   "role": "镀蓝旗笔帖式"
+  },
+  {
+   "name": "硕散",
+   "role": "前锋统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8404,
+ "page_range": "178-179"
+}

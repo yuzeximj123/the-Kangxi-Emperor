@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "马齐等会同户部议覆直隶巡抚赵弘杰、天津总兵蓝理奏请开垦直隶荒田洼地为水田，议定给田、买田、升科等章程。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "赵弘杰",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "蓝理",
+   "role": "天津总兵官"
+  }
+ ],
+ "places": [
+  "直隶",
+  "天津",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9802,
+ "page_range": "207-208"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "初三日丙午",
+ "event_role": "河工水利",
+ "summary": "康熙帝述南巡亲历高加堰南北及清口高邮沿堤详览，知减水坝实为累民，斥靳辅糜费钱粮贻害地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "河臣"
+  }
+ ],
+ "places": [
+  "高加堰",
+  "清口",
+  "高邮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 809,
+ "page_range": "28-29"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "川陕总督殷泰题报四川提督马际伯病故，康熙帝深为惊悼，命察例具奏恤典。",
+ "people": [
+  {
+   "name": "殷泰",
+   "role": "川陕总督"
+  },
+  {
+   "name": "马际伯",
+   "role": "四川提督"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21312,
+ "page_range": "437-438"
+}

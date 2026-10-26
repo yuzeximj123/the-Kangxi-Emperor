@@ -1,0 +1,32 @@
+{
+ "reign_year": 13,
+ "month": 4,
+ "day_text": "十九日癸丑",
+ "event_role": "皇帝行止",
+ "summary": "未时，康熙帝御保和殿，赐进贡喀尔喀部落色内、胡鲁克、那儿布等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色内",
+   "role": "喀尔喀部落使者"
+  },
+  {
+   "name": "胡鲁克",
+   "role": "喀尔喀部落使者"
+  },
+  {
+   "name": "那儿布",
+   "role": "喀尔喀部落使者"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7043,
+ "page_range": "197-198"
+}

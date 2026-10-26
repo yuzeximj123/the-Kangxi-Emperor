@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "十二日丙申",
+ "event_role": "司法案件",
+ "summary": "吏部议河东巡盐御史阿哈善题知县徐国玫火焚盐引、钱粮已完请开复，康熙帝提及广东许报盐课事发，令再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿哈善",
+   "role": "河东巡盐御史"
+  },
+  {
+   "name": "徐国玫",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "河东",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14320,
+ "page_range": "297-298"
+}

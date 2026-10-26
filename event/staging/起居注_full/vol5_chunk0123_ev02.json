@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "二十九日甲实",
+ "event_role": "军务",
+ "summary": "康熙帝命将喀喇沁扎西王参领门笃所管挽车兵三百名器械口粮行李备齐交门特速赶前来。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "吴什",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "门笃",
+   "role": "参领"
+  },
+  {
+   "name": "门特",
+   "role": "领兵官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12302,
+ "page_range": "256-257"
+}

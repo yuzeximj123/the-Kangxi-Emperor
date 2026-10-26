@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "松柱奏江昂金等问九卿情形并呈折子，帝命江昂金补授口北道。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "江昂金",
+   "role": "补授口北道"
+  },
+  {
+   "name": "董思凝",
+   "role": "官员"
+  },
+  {
+   "name": "王俊",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "口北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9908,
+ "page_range": "209-210"
+}

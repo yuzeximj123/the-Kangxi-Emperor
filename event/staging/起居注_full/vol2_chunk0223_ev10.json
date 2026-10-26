@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初九日本丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补兵部郎中喀尼布员缺，康熙帝以正陪俱平常，命以兵部员外郎纪尔他洪补授。",
+ "people": [
+  {
+   "name": "喀尼布",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "觉罗罗达",
+   "role": "拟正员外郎"
+  },
+  {
+   "name": "乌西哈",
+   "role": "拟陪员外郎"
+  },
+  {
+   "name": "纪尔他洪",
+   "role": "兵部员外郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22310,
+ "page_range": "489-490"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请礼部所题云南楚姚蒙景总兵官骆佐赐恤事，康熙帝询问骆伍居官如何，命问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "骆佐",
+   "role": "云南楚姚蒙景总兵官"
+  },
+  {
+   "name": "骆伍",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20003,
+ "page_range": "411-412"
+}

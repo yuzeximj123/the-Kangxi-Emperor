@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝谕大学士温达，布忒哈乌拉总管称克登等审明朝鲜国人杀死中国人一案已交该王完结，令将审事司官带回。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "称克登",
+   "role": "布忒哈乌拉总管"
+  },
+  {
+   "name": "穆克登",
+   "role": "总管"
+  }
+ ],
+ "places": [
+  "布忒哈乌拉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18106,
+ "page_range": "373-374"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "伊桑阿奏查致祭祈谷坛无遇鼠搬而更日之例，康熙帝命于上辛初七日遣官致祭。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13002,
+ "page_range": "270-271"
+}

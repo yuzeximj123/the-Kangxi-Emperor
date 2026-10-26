@@ -1,0 +1,40 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "十九日戊辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补道府诸缺，康熙帝以胡介社年幼、宁夏边疆紧要，命该道缺另拟具奏，余依议用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡介社",
+   "role": "拟补道员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "汉大学士"
+  },
+  {
+   "name": "郭景昌",
+   "role": "拟补官员"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7907,
+ "page_range": "201-202"
+}

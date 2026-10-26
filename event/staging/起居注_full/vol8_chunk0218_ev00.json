@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论口外行路须先酌量形势，并论台湾、南澳归附使闽广贼无容身之地，沿海岛屿泊宿皆有定所。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李先复",
+   "role": "臣工"
+  },
+  {
+   "name": "魏方泰",
+   "role": "臣工"
+  }
+ ],
+ "places": [
+  "台湾",
+  "南澳",
+  "福建",
+  "广东",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21800,
+ "page_range": "447-448"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十五日壬戌",
+ "event_role": "人事任免",
+ "summary": "题设宁古塔右翼副都统，康熙帝命授给事中雅齐纳为副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雅齐纳",
+   "role": "给事中"
+  },
+  {
+   "name": "塞黑",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23313,
+ "page_range": "509-510"
+}

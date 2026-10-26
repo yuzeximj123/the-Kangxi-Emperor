@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "二十二日己酉",
+ "event_role": "河工水利",
+ "summary": "九卿议准靳辅所题黄河两岸筑堤工银一百五十八万余两先拨五十万两，康熙帝认为此工可缓，萨穆哈等附议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "萨穆哈",
+   "role": "九卿"
+  }
+ ],
+ "places": [
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11613,
+ "page_range": "267-268"
+}

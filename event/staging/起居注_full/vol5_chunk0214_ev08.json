@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "议政大臣奏阿兰泰所买羊一万六千五百内选肥者五千给从宁夏进发之兵充饥，余羊交地方官看守，奉旨全给进发之兵。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "副都统"
+  },
+  {
+   "name": "马思喀",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21408,
+ "page_range": "438-439"
+}

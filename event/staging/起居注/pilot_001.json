@@ -1,0 +1,22 @@
+{
+ "date_raw": "康熙十年九月初三日辛亥",
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "初三日辛亥",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝卯时出午门，素服不奏乐，出朝阳门，驻跸三河县，地方文武官员来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "朝阳门",
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1
+}

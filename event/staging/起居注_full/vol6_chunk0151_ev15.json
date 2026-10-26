@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记此次巡行部院各衙门奏章每日交送内阁，由内阁三日一次驿送行宫听理，起居注官把叙、阿金、满保记录。",
+ "people": [
+  {
+   "name": "把叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "阿金",
+   "role": "起居注官"
+  },
+  {
+   "name": "满保",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15115,
+ "page_range": "312-313"
+}

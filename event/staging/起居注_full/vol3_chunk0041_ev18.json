@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十四日丁巳",
+ "event_role": "人事任免",
+ "summary": "兵部题河南河北总兵官倩奎调补苏松水师总兵员缺，开列副将刘蒂虞等，康熙命汉德昌调补总兵官员缺。",
+ "people": [
+  {
+   "name": "倩奎",
+   "role": "河南河北总兵官"
+  },
+  {
+   "name": "刘蒂虞",
+   "role": "副将"
+  },
+  {
+   "name": "汉德昌",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "河南",
+  "河北",
+  "苏松"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4118,
+ "page_range": "117-118"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 57,
+ "month": 3,
+ "day_text": "初三日壬子",
+ "event_role": "奏报灾情收成",
+ "summary": "江苏巡抚吴存礼题蠲免沛县钱粮，康熙述南巡所见沛县地势洼下常被水灾，命查明历年奏请之事具奏，并会同九卿详议积水区画。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "沛县",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23816,
+ "page_range": "487-488"
+}

@@ -1,0 +1,53 @@
+{
+ "date_raw": "康熙四十六年",
+ "reign_year": 46,
+ "month": null,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "奏报苏州拿获谋劫藩库大盗及范溥窥探御前信息事，并请密批。",
+ "people": [
+  {
+   "name": "王鸿绪",
+   "role": "奏报人"
+  },
+  {
+   "name": "范溥",
+   "role": "涉及人物"
+  },
+  {
+   "name": "宋荦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "霍峒",
+   "role": "涉及人物"
+  },
+  {
+   "name": "张书绅",
+   "role": "涉及人物"
+  },
+  {
+   "name": "于圣其",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州",
+  "松江",
+  "葑门",
+  "太湖",
+  "吴江县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称此事不止一端、自己无一不知，并追问第一人及侍卫马姓等线索。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "282",
+ "source_title": "工部尚书王鸿绪奏报拿获苏州女子案并苏州大盗案摺",
+ "order_index": 208
+}

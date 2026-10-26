@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与李光地等观星论天文，指认三垣星座及老人星，诸臣叹服。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "臣子"
+  },
+  {
+   "name": "张玉书",
+   "role": "尚书"
+  },
+  {
+   "name": "图纳",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6100,
+ "page_range": "134-135"
+}

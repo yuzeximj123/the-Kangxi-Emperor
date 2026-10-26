@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "十八日辛雍",
+ "event_role": "其他",
+ "summary": "康熙帝赐暹罗国王及进贡来使坤地述列瓦提等纳级、布匹有差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "坤地述列瓦提",
+   "role": "暹罗进贡来使"
+  }
+ ],
+ "places": [
+  "暹罗"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4006,
+ "page_range": "115-116"
+}

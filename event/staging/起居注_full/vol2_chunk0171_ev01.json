@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "江苏布政使本思和孔奏请漕船直运至通仓并请蠲免基家湾被水地方钱粮，康熙帝询问河患。",
+ "people": [
+  {
+   "name": "本思和孔",
+   "role": "江苏布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "基家湾",
+  "通仓",
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17101,
+ "page_range": "385-386"
+}

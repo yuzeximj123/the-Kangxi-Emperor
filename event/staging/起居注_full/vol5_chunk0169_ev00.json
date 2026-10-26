@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙谕令将军萨布素免随军前往，其所带兵丁留大同喂养马匹听候，费扬古处五百兵到后亦往大同。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "将军"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16900,
+ "page_range": "348-349"
+}

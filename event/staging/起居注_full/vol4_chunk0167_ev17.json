@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "十六日丁酉",
+ "event_role": "人事任免",
+ "summary": "兵部题材福陵防御巴颜图称疾请以弟阿颜图承袭，康熙帝令阿颜图本身承袭防御一次，不为例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴颜图",
+   "role": "福陵防御"
+  },
+  {
+   "name": "阿颜图",
+   "role": "巴颜图之弟"
+  }
+ ],
+ "places": [
+  "福陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16717,
+ "page_range": "346-347"
+}

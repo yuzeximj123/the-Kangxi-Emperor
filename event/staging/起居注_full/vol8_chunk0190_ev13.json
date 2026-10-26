@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "二十二日丙午",
+ "event_role": "议政听政",
+ "summary": "大学士马齐奏请令侍读学士阿克敦一同对阅实录，康熙帝允准。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元梦",
+   "role": "左都御史"
+  },
+  {
+   "name": "阿克敦",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19013,
+ "page_range": "391-392"
+}

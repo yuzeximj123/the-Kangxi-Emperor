@@ -1,0 +1,50 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "十一日庚戌",
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿、王熙、梁清标，学士凯音布、朱都纳、彭孙通、李振裕、董讷、迈图以折本请旨。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  },
+  {
+   "name": "彭孙通",
+   "role": "学士"
+  },
+  {
+   "name": "李振裕",
+   "role": "学士"
+  },
+  {
+   "name": "董讷",
+   "role": "学士"
+  },
+  {
+   "name": "迈图",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4228,
+ "page_range": "96-97"
+}

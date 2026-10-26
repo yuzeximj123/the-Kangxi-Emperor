@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙称浙江巡抚朱轼具奏浙税正项外余银八千余两请赐养家，奏得最是；又及苏克济、额伦特所存余银济军需。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱轼",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "苏克济",
+   "role": "官员"
+  },
+  {
+   "name": "额伦特",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22207,
+ "page_range": "455-456"
+}

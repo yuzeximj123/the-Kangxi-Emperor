@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "十八日丙成",
+ "event_role": "朝见受贺",
+ "summary": "新泰县吴大梁、把总王成裕等来朝。",
+ "people": [
+  {
+   "name": "吴大梁",
+   "role": "新泰县官员"
+  },
+  {
+   "name": "王成裕",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "新泰县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5404,
+ "page_range": "120-121"
+}

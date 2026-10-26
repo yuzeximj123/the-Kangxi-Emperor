@@ -1,0 +1,20 @@
+{
+ "reign_year": 12,
+ "month": 8,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "康熙帝在保和殿考试汉军、汉人科道官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4916,
+ "page_range": "155-156"
+}

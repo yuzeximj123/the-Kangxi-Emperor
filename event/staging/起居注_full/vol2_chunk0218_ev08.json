@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十三日",
+ "event_role": "奏报灾情收成",
+ "summary": "户部覆山东巡抚徐旭龄奏长山、新城同日被水灾报灾分数不同，康熙帝命不必再察即议结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "长山",
+  "新城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21808,
+ "page_range": "479-480"
+}

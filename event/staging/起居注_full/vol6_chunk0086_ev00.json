@@ -1,0 +1,20 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "官员等恳请康熙帝再留一日静养，康熙帝允诺明日再留一日。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8600,
+ "page_range": "182-183"
+}

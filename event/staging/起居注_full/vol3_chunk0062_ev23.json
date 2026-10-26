@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初九日庚子",
+ "event_role": "人事任免",
+ "summary": "兵部题镶蓝旗前锋护卫常舒升任员缺，康熙帝询问人材后，着敦拜补授前锋护卫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常舒",
+   "role": "前锋护卫"
+  },
+  {
+   "name": "敦拜",
+   "role": "前锋校"
+  },
+  {
+   "name": "朱马喇",
+   "role": "拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6223,
+ "page_range": "159-160"
+}

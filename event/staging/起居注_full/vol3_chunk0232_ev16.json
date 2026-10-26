@@ -1,0 +1,34 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "初六日壬子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕明珠等，皇太子前必得谨慎之人朝夕讲究，欲用达哈塔、汤斌、耿介三人，命传问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "达哈塔",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "汤斌",
+   "role": "尚书"
+  },
+  {
+   "name": "耿介",
+   "role": "少詹事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23216,
+ "page_range": "499-500"
+}

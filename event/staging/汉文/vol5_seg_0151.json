@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙伍拾叁年五月拾玖日",
+ "reign_year": 53,
+ "month": 5,
+ "day": 19,
+ "event_role": "奏报地方情形",
+ "summary": "浙江巡抚朱轼奏报平度州知州任内开矿之事致成聚匪情形。",
+ "people": [
+  {
+   "name": "朱轼",
+   "role": "巡抚浙江等处地方提督军务兼理粮饷兵部右侍郎兼都察院右副都御史"
+  }
+ ],
+ "places": [
+  "平度州",
+  "浙江"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "向为平度州知州事",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 151
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "二十八日辛未",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝由东华门出朝阳门至大行太皇太后梓宫前，早晚二次上食时率诸王大臣举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "朝阳门",
+  "大行太皇太后梓宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1211,
+ "page_range": "36-37"
+}

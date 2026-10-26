@@ -1,0 +1,38 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "十五日戊寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士伊桑阿、学士迈图等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "迈图",
+   "role": "学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  },
+  {
+   "name": "博济",
+   "role": "学士"
+  },
+  {
+   "name": "郭世隆",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8820,
+ "page_range": "188-189"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "初六日己未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令李昌龄等免行查，令回原任，因其无力守城且不肯从逆。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李昌龄",
+   "role": "知县"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4204,
+ "page_range": "127-128"
+}

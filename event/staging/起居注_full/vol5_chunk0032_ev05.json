@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "初四日庚午",
+ "event_role": "奏报地方情形",
+ "summary": "理藩院郎中海牙尔图等呈览边外审事本章，奏报边外庄田田禾甚好、雨水充足，但边外之人不勤力耕耘，田中多草，苗不甚高，较关内稍差。",
+ "people": [
+  {
+   "name": "海牙尔图",
+   "role": "理藩院郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "边外",
+  "关内"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3205,
+ "page_range": "74-75"
+}

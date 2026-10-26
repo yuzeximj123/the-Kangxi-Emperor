@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十六年十月二十七日",
+ "reign_year": 56,
+ "month": 10,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "浙江巡抚朱轼奏报兼管杭州北关税务五个月来革除积弊、宽减税则、征收税银及赢余耗银存库候拨情形。",
+ "people": [
+  {
+   "name": "朱轼",
+   "role": "浙江巡抚，奏报人"
+  },
+  {
+   "name": "徐元梦",
+   "role": "前抚臣，曾革除北关弊窦"
+  }
+ ],
+ "places": [
+  "浙江",
+  "杭城",
+  "北关",
+  "南关"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "浙江巡撫朱軾奏報杭城雨暘米價情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2549",
+ "order_index": 542
+}

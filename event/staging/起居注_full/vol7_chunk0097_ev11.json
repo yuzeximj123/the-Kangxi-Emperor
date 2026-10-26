@@ -1,0 +1,21 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "初二日庚申",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝至庇沟泊为德行宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "庇沟泊",
+  "德行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9711,
+ "page_range": "205-206"
+}

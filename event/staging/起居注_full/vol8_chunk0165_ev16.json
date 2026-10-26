@@ -1,0 +1,23 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "十三日已已",
+ "event_role": "皇帝行止",
+ "summary": "康熙自畅春园启行，往暂安奉殿、孝陵，驻跸南苑旧宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "暂安奉殿",
+  "孝陵",
+  "南苑旧宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16516,
+ "page_range": "341-342"
+}

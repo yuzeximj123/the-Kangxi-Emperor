@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十一日丙午",
+ "event_role": "人事任免",
+ "summary": "明珠奏察明佛多和所袭官职缘由，康熙以布达礼不与兄子而自袭又令子继袭，命此职着巴图之子孙承袭。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛多和",
+   "role": "袭职人"
+  },
+  {
+   "name": "布达礼",
+   "role": "佛多和之父"
+  },
+  {
+   "name": "巴图",
+   "role": "布达礼之兄"
+  },
+  {
+   "name": "那秦",
+   "role": "佛多和之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1914,
+ "page_range": "73-74"
+}

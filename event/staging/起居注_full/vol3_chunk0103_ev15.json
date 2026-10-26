@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "初九日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召大学士至乾清宫，谕令部院堂上官一员速往淮扬踏勘灾情、拯救灾民。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清宫",
+  "淮",
+  "扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10315,
+ "page_range": "241-242"
+}

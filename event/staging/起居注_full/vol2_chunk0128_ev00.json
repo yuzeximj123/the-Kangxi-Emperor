@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝认为郎永清不足取，询问大学士意见，汉大学士称系九卿会推，帝命另推具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "郎永清",
+   "role": "被会推官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12800,
+ "page_range": "299-300"
+}

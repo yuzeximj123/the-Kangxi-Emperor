@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "初五日丙戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙就御史周士皇条奏停止亲征一事，说明噶尔丹险恶不可姑留，亲临塞外调度军务，并命明谕周士皇。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "周士皇",
+   "role": "御史"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "蒙古首领"
+  },
+  {
+   "name": "吴三桂",
+   "role": "叛臣"
+  }
+ ],
+ "places": [
+  "乌兰布通",
+  "克鲁伦",
+  "榆林"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18611,
+ "page_range": "382-383"
+}

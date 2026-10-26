@@ -1,0 +1,21 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "二十四日己西",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御保和殿视方泽坛祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "方泽坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15206,
+ "page_range": "316-317"
+}

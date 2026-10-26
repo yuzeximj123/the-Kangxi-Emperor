@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙四十五年五月初八日",
+ "reign_year": 45,
+ "month": 5,
+ "day": 8,
+ "event_role": "奏报灾情收成",
+ "summary": "贵州巡抚陈诜奏报所属府州夏季麦油及秋季米豆收成分数，并转述督催查报经过。",
+ "people": [
+  {
+   "name": "陈诜",
+   "role": "奏报人"
+  },
+  {
+   "name": "张建绩",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "贵州",
+  "湖北",
+  "川东",
+  "滇南",
+  "贵阳府",
+  "定番州",
+  "广顺州",
+  "开州",
+  "贵筑县"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "陈诜奏报麦收分数",
+ "order_index": 145
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部劾正黄旗汉军都统傅宁阿等奏郑克坪不赴射所私往密云县议革公职，康熙帝从宽免革。",
+ "people": [
+  {
+   "name": "郑克坪",
+   "role": "公"
+  },
+  {
+   "name": "傅宁阿",
+   "role": "正黄旗汉军都统"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12902,
+ "page_range": "269-270"
+}

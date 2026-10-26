@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户部、工部、光禄寺大臣，令会同九卿议定有益铺户填补欠项之处，并强调断不可开捐纳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "户部大臣",
+   "role": "户部衙门大臣"
+  },
+  {
+   "name": "工部大臣",
+   "role": "工部衙门大臣"
+  },
+  {
+   "name": "光禄寺大臣",
+   "role": "光禄寺衙门大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4900,
+ "page_range": "109-110"
+}

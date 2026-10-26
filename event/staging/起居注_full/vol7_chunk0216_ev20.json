@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十二日甲戌",
+ "event_role": "贸易漕运",
+ "summary": "江南海关倭黑题请展限三个月，康熙帝准展限三个月以免缺额不能赔补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭黑",
+   "role": "江南海关"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21620,
+ "page_range": "443-444"
+}

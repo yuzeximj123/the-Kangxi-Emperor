@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十五年五月十一日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 12,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州五月以来雨水调匀、稻秧插完、米价如常及新丝价格，并进呈苏州四月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "福州",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報蘇州米價併進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2093",
+ "order_index": 26
+}

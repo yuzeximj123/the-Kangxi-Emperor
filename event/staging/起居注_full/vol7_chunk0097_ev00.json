@@ -1,0 +1,40 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "两广总督郭世隆题参潮州镇标右营守备史鉴等私贩拒捕殴官致死，康熙帝命俱革职严提究拟。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "两广总督"
+  },
+  {
+   "name": "史鉴",
+   "role": "潮州镇标右营守备"
+  },
+  {
+   "name": "赖全",
+   "role": "涉案人"
+  },
+  {
+   "name": "周运",
+   "role": "涉案人"
+  },
+  {
+   "name": "王研",
+   "role": "涉案人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "潮州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9700,
+ "page_range": "205-206"
+}

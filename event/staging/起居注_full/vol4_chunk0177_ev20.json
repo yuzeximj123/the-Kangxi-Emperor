@@ -1,0 +1,37 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "二十日康子",
+ "event_role": "朝见受贺",
+ "summary": "三河县防守御马库等、知县张获、守备周渭等、敬州知州杨天佑、都司韩三奇等来朝。",
+ "people": [
+  {
+   "name": "马库",
+   "role": "三河县防守御"
+  },
+  {
+   "name": "张获",
+   "role": "三河县知县"
+  },
+  {
+   "name": "周渭",
+   "role": "守备"
+  },
+  {
+   "name": "杨天佑",
+   "role": "敬州知州"
+  },
+  {
+   "name": "韩三奇",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "三河县",
+  "敬州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17720,
+ "page_range": "366-367"
+}

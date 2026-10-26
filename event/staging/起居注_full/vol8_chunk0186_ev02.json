@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "二",
+ "event_role": "人事任免",
+ "summary": "覆请将控告伯父韩文的正蓝旗汉军阿达哈哈番韩地议革职，康熙帝谕令革职留任，停给俸银米石，令其效力赎罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩地",
+   "role": "阿达哈哈番"
+  },
+  {
+   "name": "韩文",
+   "role": "韩地伯父"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18602,
+ "page_range": "383-384"
+}

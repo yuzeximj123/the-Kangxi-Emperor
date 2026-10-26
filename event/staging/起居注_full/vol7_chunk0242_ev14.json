@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅陈复泰因买卖金刚钼角口拔刀砍死任一壁案，认为真人命，令勾去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈复泰",
+   "role": "案犯"
+  },
+  {
+   "name": "任一壁",
+   "role": "死者"
+  },
+  {
+   "name": "任黑子",
+   "role": "相关人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24214,
+ "page_range": "495-496"
+}

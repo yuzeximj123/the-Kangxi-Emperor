@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "初七日庚卯",
+ "event_role": "谕旨决策",
+ "summary": "户部题覆广东抽分郎中伊尔格图等请减西洋诸国商船税十分止取其二，康熙帝准行，称所减极当。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊尔格图",
+   "role": "广东抽分郎中"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13906,
+ "page_range": "313-314"
+}

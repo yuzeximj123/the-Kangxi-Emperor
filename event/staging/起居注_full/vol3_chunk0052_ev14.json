@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初十日王寅",
+ "event_role": "起居注官记录",
+ "summary": "起居注官记载武帝登泰山无风雨灾史策以为盛事，称颂康熙帝登降上下天色晴霁、和气四塞、百灵效顺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "泰山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5214,
+ "page_range": "139-140"
+}

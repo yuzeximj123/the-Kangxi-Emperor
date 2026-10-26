@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "初五日乙酉",
+ "event_role": "司法案件",
+ "summary": "浙江巡抚朱轼题苏草以扁担击苏涟致死拟斩立决，康熙帝命改为应斩监候秋后处决。",
+ "people": [
+  {
+   "name": "苏草",
+   "role": "案犯"
+  },
+  {
+   "name": "苏涟",
+   "role": "死者"
+  },
+  {
+   "name": "朱轼",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21216,
+ "page_range": "435-436"
+}

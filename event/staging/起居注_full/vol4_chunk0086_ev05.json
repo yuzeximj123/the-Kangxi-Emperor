@@ -1,0 +1,22 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "十八日辛雍",
+ "event_role": "弹劾参奏",
+ "summary": "都御史郭静题奏《全书》原有旧章宜斟酌损益不宜草率编辑，请简员纂修，康熙帝命九卿詹事科道确议具奏。",
+ "people": [
+  {
+   "name": "郭静",
+   "role": "都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8605,
+ "page_range": "184-185"
+}

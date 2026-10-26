@@ -1,0 +1,20 @@
+{
+ "reign_year": 14,
+ "month": 10,
+ "day_text": "十三日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸欧州东。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "欧州东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10236,
+ "page_range": "261-262"
+}

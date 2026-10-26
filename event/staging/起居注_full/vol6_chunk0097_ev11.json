@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部覆浙江巡抚张鹏请春季征粮宽缓、发仓米给兵、秋收征补，议不准，康熙帝命照所请行。",
+ "people": [
+  {
+   "name": "张鹏",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9711,
+ "page_range": "204-205"
+}

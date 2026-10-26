@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "二十四日本未",
+ "event_role": "朝见受贺",
+ "summary": "通州副将金双振、守备袁瑜等及顺义县防御常存等来朝。",
+ "people": [
+  {
+   "name": "金双振",
+   "role": "通州副将"
+  },
+  {
+   "name": "袁瑜",
+   "role": "守备"
+  },
+  {
+   "name": "常存",
+   "role": "顺义县防御"
+  }
+ ],
+ "places": [
+  "通州",
+  "顺义县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22909,
+ "page_range": "468-469"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院题差巡城御史拟德古，康熙帝责票签未拟出，令更换另拟。",
+ "people": [
+  {
+   "name": "德古",
+   "role": "御史"
+  },
+  {
+   "name": "石柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3705,
+ "page_range": "109-110"
+}

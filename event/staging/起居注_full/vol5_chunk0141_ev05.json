@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令赏赐将苏尼特旗分亦入数内，召尚书班第驰驿前来监视行赏，余银留贮，米粮留备。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班第",
+   "role": "尚书"
+  },
+  {
+   "name": "帖图",
+   "role": "员外郎"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "察罕诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14105,
+ "page_range": "292-293"
+}

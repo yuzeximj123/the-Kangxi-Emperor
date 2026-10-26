@@ -1,0 +1,42 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "初六日壬寅",
+ "event_role": "司法案件",
+ "summary": "大学士伊桑阿等进奏窃盗九儿一案会议，请准步军统领衙门给夹棍以讯窃盗。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "李天馥",
+   "role": "大学士"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "步军统领"
+  },
+  {
+   "name": "九儿",
+   "role": "窃盗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10334,
+ "page_range": "216-217"
+}

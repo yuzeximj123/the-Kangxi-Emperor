@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "十九日甲成",
+ "event_role": "弹劾参奏",
+ "summary": "都察院查户部奏销直隶康熙三十五年官兵钱粮逾限，议处相关官员，康熙帝责科道官未察议。",
+ "people": [
+  {
+   "name": "凯音布",
+   "role": "尚书"
+  },
+  {
+   "name": "勒奇纳",
+   "role": "郎中"
+  },
+  {
+   "name": "根特",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12104,
+ "page_range": "253-254"
+}

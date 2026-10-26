@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "十八日庚子",
+ "event_role": "军务",
+ "summary": "议政大臣等奏右卫鸟枪兵二百预备及马匹刍豆支给事宜，请照前锋四百例支给。",
+ "people": [
+  {
+   "name": "费扬固",
+   "role": "建威将军宗室"
+  },
+  {
+   "name": "硕复",
+   "role": "前锋统领"
+  }
+ ],
+ "places": [
+  "右卫",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17925,
+ "page_range": "368-369"
+}

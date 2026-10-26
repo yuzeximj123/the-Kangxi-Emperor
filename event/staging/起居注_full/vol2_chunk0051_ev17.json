@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十一日癸亥",
+ "event_role": "人事任免",
+ "summary": "吏部题补户部郎中，正拟称占、陪拟传成格，康熙帝命将应升员外郎各该部堂官保举来看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "称占",
+   "role": "正拟员外郎"
+  },
+  {
+   "name": "传成格",
+   "role": "陪拟员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5117,
+ "page_range": "145-146"
+}

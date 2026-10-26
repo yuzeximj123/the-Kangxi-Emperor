@@ -1,0 +1,22 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "十六日甲申",
+ "event_role": "皇帝行止",
+ "summary": "辰时康熙帝驾进济南府，观趵突、珍珠二泉，应诸臣之请御书“作霖”二大字，午时从南门出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "济南府",
+  "趵突泉",
+  "珍珠泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5319,
+ "page_range": "118-119"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "初十日壬戌",
+ "event_role": "人事任免",
+ "summary": "通政司参议缺，正拟寡嘉、陪拟达尔汉，勒德洪称寡嘉人品甚优办事有才，康熙帝命寡嘉补参议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "寡嘉",
+   "role": "补参议"
+  },
+  {
+   "name": "达尔汉",
+   "role": "陪拟赞善"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5110,
+ "page_range": "145-146"
+}

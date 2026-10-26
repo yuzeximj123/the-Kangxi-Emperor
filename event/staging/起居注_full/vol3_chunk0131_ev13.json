@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十二日戊戌",
+ "event_role": "人事任免",
+ "summary": "吏部启奏刑部主事伊巴礼升任员缺，拟正尹布珠、拟陪达里虎引见，康熙问询后命补用拟陪之达里虎。",
+ "people": [
+  {
+   "name": "伊巴礼",
+   "role": "刑部主事"
+  },
+  {
+   "name": "尹布珠",
+   "role": "内阁典籍"
+  },
+  {
+   "name": "达里虎",
+   "role": "国子监助教"
+  },
+  {
+   "name": "达哈塔",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13113,
+ "page_range": "297-298"
+}

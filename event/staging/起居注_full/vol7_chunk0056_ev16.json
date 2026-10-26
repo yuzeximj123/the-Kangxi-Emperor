@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "初九日甲申",
+ "event_role": "人事任免",
+ "summary": "翰林院题经筵讲官法良员缺，开列户部尚书凯音布等，康熙帝命以现任掌院学士充经筵讲官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凯音布",
+   "role": "户部尚书"
+  },
+  {
+   "name": "法良",
+   "role": "经筵讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5616,
+ "page_range": "123-124"
+}

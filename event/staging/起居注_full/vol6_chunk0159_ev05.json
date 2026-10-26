@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆浙江巡抚张勤题朱廷标私铸即行正法因无凭据再议，康熙帝以巡抚仍照前议奏不合，令交该督严加察明议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张勤",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "朱廷标",
+   "role": "私铸案犯"
+  },
+  {
+   "name": "布泰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15905,
+ "page_range": "328-329"
+}

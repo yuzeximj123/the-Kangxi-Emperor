@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "二十四日戊成",
+ "event_role": "司法案件",
+ "summary": "兵部题两广总督赵弘灿报总兵陆臣扬查海遭风坏船落水复出，部议疑有别故请查参，康熙帝令详查本发回再议。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督"
+  },
+  {
+   "name": "陆臣扬",
+   "role": "总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "碍石",
+  "坞泥沙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4215,
+ "page_range": "95-96"
+}

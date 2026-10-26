@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "初四日甲午",
+ "event_role": "谕旨决策",
+ "summary": "河南知府孙居混举首行贿议叙加级，康熙帝以其居官好准行加级并批出旨意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙居混",
+   "role": "河南知府"
+  },
+  {
+   "name": "温育栋",
+   "role": "候师县知县"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "河南",
+  "江南",
+  "邳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6805,
+ "page_range": "146-147"
+}

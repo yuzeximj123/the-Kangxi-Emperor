@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十九日己卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以御用袍帽赐江宁将军博济，嘉其勤劳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博济",
+   "role": "江宁将军"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6106,
+ "page_range": "134-135"
+}

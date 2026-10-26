@@ -1,0 +1,38 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初二日甲成",
+ "event_role": "人事任免",
+ "summary": "经筵讲官等员缺，康熙帝命和尔等伟集伊等诵读选择具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "吴融",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "吏部尚书兼直隶巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7205,
+ "page_range": "155-156"
+}

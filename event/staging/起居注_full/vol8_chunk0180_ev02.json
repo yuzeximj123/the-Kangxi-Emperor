@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题重庆总兵官韩成员缺，开列汉军参领白云炙、副将朱杰等，康熙命引见具奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩成员",
+   "role": "重庆总兵官"
+  },
+  {
+   "name": "白云炙",
+   "role": "镶黄旗汉军参领"
+  },
+  {
+   "name": "朱杰",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "重庆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18002,
+ "page_range": "371-372"
+}

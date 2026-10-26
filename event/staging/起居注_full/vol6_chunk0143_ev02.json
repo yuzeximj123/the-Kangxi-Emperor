@@ -1,0 +1,23 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "event_role_note": null,
+ "summary": "宗人府议裕亲王求还所罚俸禄不准，康熙以亲王无级可降，命仍给所罚之俸。",
+ "people": [
+  {
+   "name": "裕亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14302,
+ "page_range": "296-297"
+}

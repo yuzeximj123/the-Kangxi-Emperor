@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十七年閏八月初九日",
+ "reign_year": 57,
+ "month": null,
+ "day": 9,
+ "event_role": "贸易漕运",
+ "summary": "苏州织造李煦奏请令江西巡抚白潢勿禁邻省籴买，指出禁盐价有害国课，请待抚臣奏到后谕令循行盐法。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "白潢",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [
+  "苏州",
+  "江西"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏爲請令江西巡撫白潢勿禁隣省糴買摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2694",
+ "order_index": 126
+}

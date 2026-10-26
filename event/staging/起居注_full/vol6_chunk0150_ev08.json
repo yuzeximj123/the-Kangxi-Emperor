@@ -1,0 +1,21 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "十九日王午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早行，自王家口登小舟往视子牙河。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "王家口",
+  "子牙河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15008,
+ "page_range": "310-311"
+}

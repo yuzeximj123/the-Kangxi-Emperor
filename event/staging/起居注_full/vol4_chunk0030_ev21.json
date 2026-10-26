@@ -1,0 +1,32 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初九日庚辰",
+ "event_role": "其他",
+ "summary": "康熙帝又引见修撰沈廷文、编修查山韩、张玉章，令各奏姓名、职衔、籍贯毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈廷文",
+   "role": "修撰"
+  },
+  {
+   "name": "查山韩",
+   "role": "编修"
+  },
+  {
+   "name": "张玉章",
+   "role": "编修"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3021,
+ "page_range": "72-73"
+}

@@ -1,0 +1,27 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "初五日已西",
+ "event_role": "人事任免",
+ "summary": "四川巡抚于养志陛辞请训旨，康熙帝谕居官惟期清廉诚实、洁己奉公。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于养志",
+   "role": "四川巡抚"
+  }
+ ],
+ "places": [
+  "四川",
+  "湖广",
+  "云贵",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22716,
+ "page_range": "466-467"
+}

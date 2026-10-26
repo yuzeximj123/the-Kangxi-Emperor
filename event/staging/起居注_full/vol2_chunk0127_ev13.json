@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "十三日己丑",
+ "event_role": "谕旨决策",
+ "summary": "大学士勒德洪、明珠、李霨等代奏会议结果，康熙帝准清理刑狱即拟旨颁发，并令将拿禁人员暂行省释，俟大兵到日再拿禁议罪。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12713,
+ "page_range": "297-298"
+}

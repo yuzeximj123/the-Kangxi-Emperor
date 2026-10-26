@@ -1,0 +1,46 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初二日丙戌",
+ "event_role": "人事任免",
+ "summary": "大学士等遵旨议礼部尚书塞色黑等五人事，康熙帝命将塞色黑、田六善、朱裴下部院衙门察议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "塞色黑",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "田六善",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "朱裴",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "张士标",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "杨正中",
+   "role": "礼部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3518,
+ "page_range": "113-114"
+}

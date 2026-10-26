@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "三十日甲子",
+ "event_role": "朝见受贺",
+ "summary": "玉田县城守尉康泰等、玉田营都司张绍英等前来朝见康熙帝。",
+ "people": [
+  {
+   "name": "康泰",
+   "role": "玉田县城守尉"
+  },
+  {
+   "name": "张绍英",
+   "role": "玉田营都司"
+  }
+ ],
+ "places": [
+  "玉田县",
+  "玉田营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12544,
+ "page_range": "260-261"
+}

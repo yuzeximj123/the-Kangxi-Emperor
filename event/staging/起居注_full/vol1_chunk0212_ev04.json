@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "十六日",
+ "event_role": "议政听政",
+ "summary": "康熙御东宫内殿，兵部侍郎温代、工部尚书马喇、侍郎党古里等自京城来奏事。",
+ "people": [
+  {
+   "name": "温代",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "马喇",
+   "role": "工部尚书"
+  },
+  {
+   "name": "党古里",
+   "role": "工部侍郎"
+  }
+ ],
+ "places": [
+  "东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21204,
+ "page_range": "481-482"
+}

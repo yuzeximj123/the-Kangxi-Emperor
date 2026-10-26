@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": "二十一日癸丑",
+ "event_role": "人事任免",
+ "summary": "署总督事陶贷题参安庆府知府张慎浮躁，议降三级调用，康熙帝命降三级随旗行走。",
+ "people": [
+  {
+   "name": "陶贷",
+   "role": "署总督事"
+  },
+  {
+   "name": "张慎",
+   "role": "安庆府知府"
+  }
+ ],
+ "places": [
+  "安庆府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15406,
+ "page_range": "318-319"
+}

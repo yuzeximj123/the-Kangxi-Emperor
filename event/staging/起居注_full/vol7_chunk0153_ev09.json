@@ -1,0 +1,20 @@
+{
+ "reign_year": 50,
+ "month": 1,
+ "day_text": "十六日乙巳",
+ "event_role": "请安谢恩",
+ "summary": "是日康熙帝前往清泊为德行宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "清泊为德行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15309,
+ "page_range": "317-318"
+}

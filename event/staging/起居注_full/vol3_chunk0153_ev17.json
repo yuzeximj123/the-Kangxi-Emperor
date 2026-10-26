@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初十日甲午",
+ "event_role": "弹劾参奏",
+ "summary": "吏部等议陕西巡抚鄂恺大计时不据实注考布政使希格，应降四级调用，康熙帝以其居官不善依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "鄂恺",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "希格",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15317,
+ "page_range": "341-342"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读唐明皇次马嵬军士杀杨国忠论，评论唐明皇耽于逸乐任用杨国忠以致出奔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐明皇",
+   "role": "历史人物"
+  },
+  {
+   "name": "杨国忠",
+   "role": "历史人物"
+  }
+ ],
+ "places": [
+  "马嵬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11302,
+ "page_range": "238-239"
+}

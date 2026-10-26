@@ -1,0 +1,24 @@
+{
+ "reign_year": 16,
+ "month": 11,
+ "day_text": "十五日戊子",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝早御太和殿视朝，文武升转官员谢恩，厄鲁特部落达赖汗来使达颜寨桑等行礼赐茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达颜寨桑",
+   "role": "厄鲁特部落达赖汗来使"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15009,
+ "page_range": "357-358"
+}

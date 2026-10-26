@@ -1,0 +1,34 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初七日丙申",
+ "event_role": "司法案件",
+ "summary": "刑部等覆噶礼题被获劫夺王宝等船之盗犯郑龙等虽供非郑尽心一伙亦难凭信，应俟解到之日质审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "两江总督"
+  },
+  {
+   "name": "郑龙",
+   "role": "盗犯"
+  },
+  {
+   "name": "王宝",
+   "role": "船主"
+  },
+  {
+   "name": "郑尽心",
+   "role": "海贼"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16107,
+ "page_range": "333-334"
+}

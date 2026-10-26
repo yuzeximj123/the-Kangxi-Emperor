@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙命将达赖喇嘛使者、达赖汗使者准予陛见，免详巴使者陛见，议政大臣议奏获准。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达赖喇嘛使者",
+   "role": "使者"
+  },
+  {
+   "name": "达赖汗使者",
+   "role": "使者"
+  },
+  {
+   "name": "详巴使者",
+   "role": "使者"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16500,
+ "page_range": "340-341"
+}

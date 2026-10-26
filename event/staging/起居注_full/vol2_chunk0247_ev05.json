@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称林大忠等曾在行间著有勤劳，俱着降补以参将等缺用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "林大忠",
+   "role": "副将"
+  },
+  {
+   "name": "齐人龙",
+   "role": "副将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24705,
+ "page_range": "537-538"
+}

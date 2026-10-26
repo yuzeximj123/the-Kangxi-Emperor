@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十六日己巳",
+ "event_role": "人事任免",
+ "summary": "贵州巡抚王燕员缺，康熙帝命升四川布政使高起龙补授贵州巡抚，浙江按察使于准补授四川布政使。",
+ "people": [
+  {
+   "name": "高起龙",
+   "role": "四川布政使"
+  },
+  {
+   "name": "于准",
+   "role": "浙江按察使"
+  },
+  {
+   "name": "王燕",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [
+  "贵州",
+  "四川",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7108,
+ "page_range": "153-154"
+}

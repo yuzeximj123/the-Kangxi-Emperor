@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "十九日癸未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早从东华门出朝阳门，驻跸通州烟郊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "朝阳门",
+  "通州烟郊"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5001,
+ "page_range": "110-111"
+}

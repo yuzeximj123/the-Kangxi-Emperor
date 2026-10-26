@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "二十八日本已",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕王士诚人材壮健，着依该提督所请补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王士诚",
+   "role": "福建漳州副将"
+  },
+  {
+   "name": "徐治都",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "彝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7832,
+ "page_range": "166-167"
+}

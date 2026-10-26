@@ -1,0 +1,46 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "十六日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论翰林衙门专任作文翻书之职，责自库勒纳以来流为偷情，并称熊赐履教人惟恐其不学，张英是好人但最懒且惨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "教习"
+  },
+  {
+   "name": "傅达礼",
+   "role": "教习"
+  },
+  {
+   "name": "牛钮",
+   "role": "教习"
+  },
+  {
+   "name": "常书",
+   "role": "教习"
+  },
+  {
+   "name": "熊赐履",
+   "role": "教习"
+  },
+  {
+   "name": "库勒纳",
+   "role": "教习"
+  },
+  {
+   "name": "张英",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1127,
+ "page_range": "32-33"
+}

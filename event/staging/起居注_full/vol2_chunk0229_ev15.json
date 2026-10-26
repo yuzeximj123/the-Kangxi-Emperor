@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "李大、李二、李三、苏五、张大等人命一案，康熙帝以俞五已正法，若尽行正法人数太多。",
+ "people": [
+  {
+   "name": "李大",
+   "role": "案犯"
+  },
+  {
+   "name": "李二",
+   "role": "案犯"
+  },
+  {
+   "name": "李三",
+   "role": "案犯"
+  },
+  {
+   "name": "苏五",
+   "role": "案犯"
+  },
+  {
+   "name": "张大",
+   "role": "案犯"
+  },
+  {
+   "name": "王强",
+   "role": "争斗对方"
+  },
+  {
+   "name": "俞五",
+   "role": "已正法者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22915,
+ "page_range": "501-502"
+}

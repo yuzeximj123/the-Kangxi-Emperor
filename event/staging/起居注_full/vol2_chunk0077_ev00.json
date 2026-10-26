@@ -1,0 +1,20 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就大同捐纳之例下旨，认为捐纳使富者得益、米价腾贵、小民艰难，命九卿详确议之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7700,
+ "page_range": "197-198"
+}

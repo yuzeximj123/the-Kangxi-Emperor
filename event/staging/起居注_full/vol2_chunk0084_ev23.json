@@ -1,0 +1,21 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "十五日甲午",
+ "event_role": "谕旨决策",
+ "summary": "工科给事中雅齐纳等条奏九江关应移湖口抽分，户部议准，康熙命九卿詹事科道会议具奏。",
+ "people": [
+  {
+   "name": "雅齐纳",
+   "role": "工科给事中"
+  }
+ ],
+ "places": [
+  "九江",
+  "湖口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8423,
+ "page_range": "211-212"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问李斯义、陈齐永、马希画、刘玉等人情况，吴瑞奏陈齐永等任事勤慎，李斯义为人平常。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴瑞",
+   "role": "官员"
+  },
+  {
+   "name": "李斯义",
+   "role": "官员"
+  },
+  {
+   "name": "陈齐永",
+   "role": "官员"
+  },
+  {
+   "name": "马希画",
+   "role": "官员"
+  },
+  {
+   "name": "刘玉",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5001,
+ "page_range": "110-111"
+}

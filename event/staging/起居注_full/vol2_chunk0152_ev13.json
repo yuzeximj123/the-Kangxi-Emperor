@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十六日己丑",
+ "event_role": "人事任免",
+ "summary": "题补兵部尚书，康熙帝询问杭爱可否补授，勒德洪、明珠奏称杭爱历年久人才优，康熙帝命杭爱补兵部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杭爱",
+   "role": "官员"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15213,
+ "page_range": "347-348"
+}

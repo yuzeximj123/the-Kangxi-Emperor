@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十七年十二月十六日",
+ "reign_year": 47,
+ "month": 12,
+ "day": 15,
+ "event_role": "请安谢恩",
+ "summary": "陕西兰州总兵路振声接邸抄惊闻圣体违和，遣家人代请圣安，并陈依恋之诚。",
+ "people": [
+  {
+   "name": "路振声",
+   "role": "陕西兰州总兵官，具奏请安"
+  },
+  {
+   "name": "那那代",
+   "role": "路振声家人，奉命代请圣安"
+  }
+ ],
+ "places": [
+  "陕西",
+  "兰州",
+  "西宁州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示已阅知所奏请安之事。",
+ "source_title": "陝甘總兵路振聲奏為驚聞聖體違和叩請聖安事摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "432",
+ "order_index": 95
+}

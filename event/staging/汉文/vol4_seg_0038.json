@@ -1,0 +1,35 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮奏请以霸州州判陈超补授永清县知县，称其熟悉河务、才具颇优，可兼顾永定河工。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚、兵部右侍郎兼都察院右副都御史"
+  },
+  {
+   "name": "路永龄",
+   "role": "原永清县知县，奉旨革职"
+  },
+  {
+   "name": "陈超",
+   "role": "霸州州判，拟升补永清县知县"
+  }
+ ],
+ "places": [
+  "永清县",
+  "永定河",
+  "霸州",
+  "直隶"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隶巡抚赵弘燮奏请以陈昶补授永清知县摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1080",
+ "order_index": 38
+}

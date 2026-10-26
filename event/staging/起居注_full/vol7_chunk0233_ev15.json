@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "初六日两辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论陈鹏年稍有声誉学问亦优，噶礼久欲害之，张伯行听信陈鹏年之言致与噶礼不和，康熙以张伯行为天下第一清官不可参。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈鹏年",
+   "role": "官员"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23315,
+ "page_range": "477-478"
+}

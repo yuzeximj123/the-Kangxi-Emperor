@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赐琉球国进贡正使毛文祥、副使获国器等彩缕罗靴袜及毛青布有差。",
+ "people": [
+  {
+   "name": "毛文祥",
+   "role": "琉球国进贡正使耳目官"
+  },
+  {
+   "name": "获国器",
+   "role": "副使正议大夫"
+  },
+  {
+   "name": "王可法",
+   "role": "都通事官"
+  }
+ ],
+ "places": [
+  "琉球国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23403,
+ "page_range": "511-512"
+}

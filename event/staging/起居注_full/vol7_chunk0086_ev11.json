@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十八日己丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝论巡幸陕西所见满洲官地方诸事妥贴、汉官瞻望误事，席哈纳奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席哈纳",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8611,
+ "page_range": "183-184"
+}

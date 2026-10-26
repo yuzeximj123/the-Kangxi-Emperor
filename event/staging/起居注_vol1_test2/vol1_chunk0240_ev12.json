@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "初九日",
+ "event_role": "军务",
+ "summary": "福建总督姚启圣奏伪侯朱天贵自海上投诚，康熙以其率二万余兵并船三百余只来降甚为可嘉，命加优赏。",
+ "people": [
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "朱天贵",
+   "role": "伪侯"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24012,
+ "page_range": "537-538"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初一日己丑",
+ "event_role": "人事任免",
+ "summary": "吏部议殉难福建总督范承席加赠兵部尚书、道员陈启泰加赠光禄寺正卿衔，康熙帝以其守义殉节议叙尚轻，令再议具奏。",
+ "people": [
+  {
+   "name": "范承席",
+   "role": "殉难福建总督"
+  },
+  {
+   "name": "陈启泰",
+   "role": "殉难道员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23815,
+ "page_range": "533-534"
+}

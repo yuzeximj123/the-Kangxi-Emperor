@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读唐太宗谓赦有罪者贼良民论，认为赦不可数，当薄税敛敦教化。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐太宗",
+   "role": "唐朝皇帝"
+  },
+  {
+   "name": "诸葛亮",
+   "role": "蜀汉丞相"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11206,
+ "page_range": "236-237"
+}

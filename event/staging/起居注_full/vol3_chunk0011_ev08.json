@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "初九日乙效",
+ "event_role": "皇帝行止",
+ "summary": "早，康熙帝御乾清宫，讲官牛钮、孙在丰、归克击进讲易经六五贞吉无侮二节、上九有孚于饮酒二节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归克击",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1108,
+ "page_range": "57-58"
+}

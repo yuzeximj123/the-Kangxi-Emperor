@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙四十六年九月",
+ "reign_year": 46,
+ "month": 9,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "李煦奏谢康熙复命其巡视两淮盐政，并附呈天宁寺、虎丘山寺匾联尺寸拟改方案。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "两淮",
+  "天宁寺",
+  "虎丘山寺"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "267",
+ "source_title": "蘇州織造李煦奏謝復命巡視淮鹺摺（附天寧寺虎丘山寺匾聯尺寸）",
+ "order_index": 195
+}

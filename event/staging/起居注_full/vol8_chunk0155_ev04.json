@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆御史董鄂治题参指挥高泽榕将卖米制钱私行带回，拟革职杖八十准折赎，康熙以所议太轻将本发回令再议具奏。",
+ "people": [
+  {
+   "name": "董鄂治",
+   "role": "巡视南城监察御史"
+  },
+  {
+   "name": "郭盛宗",
+   "role": "书办首告人"
+  },
+  {
+   "name": "高泽榕",
+   "role": "指挥"
+  }
+ ],
+ "places": [
+  "南城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15504,
+ "page_range": "321-322"
+}

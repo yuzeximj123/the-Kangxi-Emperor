@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "十六日乙巳",
+ "event_role": "司法案件",
+ "summary": "兵部题宣化府总兵官许盛违例浮用预备火药等项马匹，议革职并革去军功所得拖沙拉哈番，康熙帝念其曾效力行间从宽免革职。",
+ "people": [
+  {
+   "name": "许盛",
+   "role": "宣化府总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宣化府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8512,
+ "page_range": "180-181"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": "二十日辛未",
+ "event_role": "人事任免",
+ "summary": "吏部议覆巡抚吴存礼所题长洲县知县许遇因越狱盗犯未获降二级调用，请带所降之级留任，康熙帝准照该抚所题留任。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "巡抚"
+  },
+  {
+   "name": "许遇",
+   "role": "长洲县知县"
+  }
+ ],
+ "places": [
+  "长洲县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20821,
+ "page_range": "427-428"
+}

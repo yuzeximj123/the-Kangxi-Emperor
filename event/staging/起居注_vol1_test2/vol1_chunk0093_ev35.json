@@ -1,0 +1,23 @@
+{
+ "reign_year": 14,
+ "month": 5,
+ "day_text": "十六日癸卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出大红门进正阳门，诣堂子行礼，率在京王、贝勒、大臣及凯旋王、大臣行三跪九叩礼，进午门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大红门",
+  "正阳门",
+  "堂子",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9335,
+ "page_range": "243-244"
+}

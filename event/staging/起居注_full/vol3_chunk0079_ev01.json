@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初五日乙丑",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门视彰，升转文武官员谢恩，喀尔喀等部落来使行礼，赐茶。",
+ "people": [
+  {
+   "name": "诺尔布",
+   "role": "扎萨克墨尔根颜来使"
+  },
+  {
+   "name": "布当郭尔和和尔泰",
+   "role": "厄尔德尼代青颜来使"
+  },
+  {
+   "name": "厄尔德木葛春",
+   "role": "诺木齐代青台吉来使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7901,
+ "page_range": "193-194"
+}

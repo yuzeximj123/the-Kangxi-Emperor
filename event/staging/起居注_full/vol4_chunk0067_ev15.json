@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "十八日",
+ "event_role": "人事任免",
+ "summary": "吏兵二部会奏原任副将今升总兵杨元强不趣革职知县姜玉回族议降一级，康熙帝命杨元强降一级从宽留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨元强",
+   "role": "总兵官"
+  },
+  {
+   "name": "姜玉",
+   "role": "革职知县"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6715,
+ "page_range": "146-147"
+}

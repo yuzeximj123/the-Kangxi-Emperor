@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十七日己卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝问鸿胪寺卿沙拜扈从中是否有未经亲阅骑射者，命守备袁瑜、笔帖式寿保等七人随行。",
+ "people": [
+  {
+   "name": "沙拜",
+   "role": "鸿胪寺卿"
+  },
+  {
+   "name": "袁瑜",
+   "role": "守备"
+  },
+  {
+   "name": "寿保",
+   "role": "笔帖式"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 818,
+ "page_range": "27-28"
+}

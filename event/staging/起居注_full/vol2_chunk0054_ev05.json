@@ -1,0 +1,37 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十九日辛未",
+ "event_role": "军务",
+ "summary": "云南提督桑格请补临沅等处总兵等缺，兵部议待云南全复再议，康熙命章泰、赖塔、花角荣、桑格会同详择具题。",
+ "people": [
+  {
+   "name": "桑格",
+   "role": "云南提督"
+  },
+  {
+   "name": "章泰",
+   "role": "大将军"
+  },
+  {
+   "name": "赖塔",
+   "role": "大将军"
+  },
+  {
+   "name": "花角荣",
+   "role": "总督"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南",
+  "临沅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5405,
+ "page_range": "151-152"
+}

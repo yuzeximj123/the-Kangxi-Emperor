@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "川陕总督鄂海题请新升凤翔府知府甘文暂留本任，康熙命照该督所请行。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "甘文",
+   "role": "新升凤翔府知府"
+  }
+ ],
+ "places": [
+  "凤翔府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10504,
+ "page_range": "221-222"
+}

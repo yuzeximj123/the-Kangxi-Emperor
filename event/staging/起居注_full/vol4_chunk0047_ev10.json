@@ -1,0 +1,21 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "十一日庚辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙自南苑移驻畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南苑",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4710,
+ "page_range": "106-107"
+}

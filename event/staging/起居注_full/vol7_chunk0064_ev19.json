@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "初三日丁未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝居景仁宫不理政事，辰时临和硕裕亲王丧。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和硕裕亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [
+  "景仁宫",
+  "裕亲王府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6419,
+ "page_range": "139-140"
+}

@@ -1,0 +1,44 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "十六日癸巳",
+ "event_role": "其他",
+ "summary": "康熙帝赐山东济府通判刘余需、知县郎廷槐、房之鹿、佟途年、陈祥放、滕永祯诗字各一幅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘余需",
+   "role": "山东济府通判"
+  },
+  {
+   "name": "郎廷槐",
+   "role": "知县"
+  },
+  {
+   "name": "房之鹿",
+   "role": "知县"
+  },
+  {
+   "name": "佟途年",
+   "role": "知县"
+  },
+  {
+   "name": "陈祥放",
+   "role": "知县"
+  },
+  {
+   "name": "滕永祯",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3511,
+ "page_range": "81-82"
+}

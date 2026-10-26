@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅赵世杰向主人五十九借银不遂署骂殴打案，原文至此中断。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵世杰",
+   "role": "案犯"
+  },
+  {
+   "name": "五十九",
+   "role": "主人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24227,
+ "page_range": "495-496"
+}

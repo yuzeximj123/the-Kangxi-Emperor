@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十六日癸酉",
+ "event_role": "谕旨决策",
+ "summary": "户部呈修成山东济南府《简明赋役全书》体式，康熙帝细览后与王熙等议条目繁多、丝忽细数免征等事，命交九卿详看议奏。",
+ "people": [
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东济南府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10511,
+ "page_range": "245-246"
+}

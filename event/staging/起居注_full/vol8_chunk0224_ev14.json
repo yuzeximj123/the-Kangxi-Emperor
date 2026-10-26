@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "二十六日丙子",
+ "event_role": "司法案件",
+ "summary": "刑部覆请赵凤诏应照律即行正法，康熙论居官安静则火耗些微可取，斥赵凤诏受贿失节，命依议票签进呈。",
+ "people": [
+  {
+   "name": "赵凤诏",
+   "role": "贪官"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "李锡",
+   "role": "河南任官"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22414,
+ "page_range": "459-460"
+}

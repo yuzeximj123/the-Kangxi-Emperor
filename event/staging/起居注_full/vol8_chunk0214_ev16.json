@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "十六日丙申",
+ "event_role": "朝见受贺",
+ "summary": "密云县抽分员外郎觉罗莫里布、知县朱英、守备黄国昌等来朝。",
+ "people": [
+  {
+   "name": "觉罗莫里布",
+   "role": "密云县抽分员外郎"
+  },
+  {
+   "name": "朱英",
+   "role": "知县"
+  },
+  {
+   "name": "黄国昌",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21416,
+ "page_range": "439-440"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "十五日",
+ "event_role": "人事任免",
+ "summary": "议本部侍郎屯泰拟降三级事，明珠以为部议少过，杜立德言其执拗，康熙帝令依部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "汉大学士"
+  },
+  {
+   "name": "屯泰",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4316,
+ "page_range": "129-130"
+}

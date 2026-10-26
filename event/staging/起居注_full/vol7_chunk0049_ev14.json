@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "二十一日本卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论孟大志贪劣，谓京师附近官知警，升任远地即改操守。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "总督"
+  },
+  {
+   "name": "孟大志",
+   "role": "贵州威宁总兵官"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "贵州威宁",
+  "石匣营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4914,
+ "page_range": "109-110"
+}

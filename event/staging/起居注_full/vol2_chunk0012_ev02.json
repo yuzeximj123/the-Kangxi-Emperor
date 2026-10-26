@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "贝子章泰请以石图下逃往武昌兵丁令柏成功统领并给总兵官札付，部议不允，康熙帝命如贝子所请，令柏成功统领兵丁立功自效。",
+ "people": [
+  {
+   "name": "章泰",
+   "role": "贝子"
+  },
+  {
+   "name": "石图",
+   "role": "官员"
+  },
+  {
+   "name": "柏成功",
+   "role": "旗下人"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "武昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1202,
+ "page_range": "67-68"
+}

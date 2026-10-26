@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "二十五日甲辰",
+ "event_role": "司法案件",
+ "summary": "刑部题六儿打死进财得财拟斩监候，康熙帝以应照强盗议处，本发还再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "六儿",
+   "role": "案犯"
+  },
+  {
+   "name": "进财",
+   "role": "被害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24406,
+ "page_range": "499-500"
+}

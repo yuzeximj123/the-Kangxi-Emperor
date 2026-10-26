@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "初十日癸酉",
+ "event_role": "司法案件",
+ "summary": "理藩院题郎中奔什附和仇家诬奏王扎西一案议革职秋后绞，康熙帝以班第急促、未取同去司官供词，发还详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "奔什",
+   "role": "郎中"
+  },
+  {
+   "name": "王扎西",
+   "role": "被诬奏者"
+  },
+  {
+   "name": "班第",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14817,
+ "page_range": "306-307"
+}

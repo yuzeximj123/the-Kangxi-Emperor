@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "二十三日辛卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝问靳辅当日如何筹划开浚中河，靳辅奏称开浚此河可束水入海，浅艘可行，不若行此河为便。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "中河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5416,
+ "page_range": "120-121"
+}

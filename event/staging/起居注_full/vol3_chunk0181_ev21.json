@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "二十六日成申",
+ "event_role": "议政听政",
+ "summary": "康熙帝询问后议诸臣意见，余国柱奏师生之谊最重，弟子居师长之上则先贤之灵不安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "余国柱",
+   "role": "官员"
+  },
+  {
+   "name": "李侗",
+   "role": "朱熹受业师"
+  },
+  {
+   "name": "朱熹",
+   "role": "先贤"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18121,
+ "page_range": "397-398"
+}

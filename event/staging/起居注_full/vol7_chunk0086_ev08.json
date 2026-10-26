@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十八日己丑",
+ "event_role": "人事任免",
+ "summary": "吏部题镶黄旗喇哈达请以世职与第六子承袭，康熙帝准其所请令第六子白雅柱承袭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇哈达",
+   "role": "镶黄旗人"
+  },
+  {
+   "name": "白雅柱",
+   "role": "喇哈达第六子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8608,
+ "page_range": "183-184"
+}

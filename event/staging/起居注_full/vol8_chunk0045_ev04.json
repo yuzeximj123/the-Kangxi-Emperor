@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 11,
+ "day_text": "初十日甲寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝率善射人员射箭，每发悉中，又命善骑射人员先骑射，并命选中宋如柏等十五人骑射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋如柏",
+   "role": "武举"
+  }
+ ],
+ "places": [
+  "畅春园内西厂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4504,
+ "page_range": "101-102"
+}

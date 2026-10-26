@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "二十七日庚申",
+ "event_role": "司法案件",
+ "summary": "礼部题冒籍举人王兆凤等议罪一案，康熙帝依议，令行查到日九卿完结，李蜂安置奉天。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王兆凤",
+   "role": "冒籍举人"
+  },
+  {
+   "name": "李蜂",
+   "role": "涉案官员"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14707,
+ "page_range": "304-305"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 32,
+ "month": 11,
+ "day_text": "二十九日已刻",
+ "event_role": "人事任免",
+ "summary": "康熙帝令徐乾学、高士奇、王鸿绪及徐停、彭典元休致回籍，彭鹏从宽免革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐乾学",
+   "role": "休致官员"
+  },
+  {
+   "name": "高士奇",
+   "role": "休致官员"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "休致官员"
+  },
+  {
+   "name": "徐停",
+   "role": "休致官员"
+  },
+  {
+   "name": "彭典元",
+   "role": "休致官员"
+  },
+  {
+   "name": "彭鹏",
+   "role": "言官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24708,
+ "page_range": "506-507"
+}

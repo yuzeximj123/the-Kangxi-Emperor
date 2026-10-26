@@ -1,0 +1,20 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "皇帝谕令大学士等，莱州等州县被灾，应遍至被灾之地亲行详勘据实具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "莱州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11200,
+ "page_range": "259-260"
+}

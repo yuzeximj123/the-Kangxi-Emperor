@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "初六日戊辰",
+ "event_role": "人事任免",
+ "summary": "吏部题翰林院侍读高其什员缺以侍讲魏廷珍调补、魏廷珍员缺以赞善吴士玉补授，康熙帝令会同翰林院议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高其什",
+   "role": "翰林院侍读"
+  },
+  {
+   "name": "魏廷珍",
+   "role": "侍讲"
+  },
+  {
+   "name": "吴士玉",
+   "role": "赞善"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12206,
+ "page_range": "255-256"
+}

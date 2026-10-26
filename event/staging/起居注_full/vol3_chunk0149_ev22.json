@@ -1,0 +1,46 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "二十一日乙亥",
+ "event_role": "人事任免",
+ "summary": "佥都御史房廷祯员缺，明珠奏议钱于、成其范、张集可用，康熙帝命张集升补。",
+ "people": [
+  {
+   "name": "房廷祯",
+   "role": "佥都御史"
+  },
+  {
+   "name": "袁景星",
+   "role": "左通政"
+  },
+  {
+   "name": "郑重",
+   "role": "右通政"
+  },
+  {
+   "name": "钱于",
+   "role": "官员"
+  },
+  {
+   "name": "成其范",
+   "role": "官员"
+  },
+  {
+   "name": "张集",
+   "role": "督捕理事官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14922,
+ "page_range": "333-334"
+}

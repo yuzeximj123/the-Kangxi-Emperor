@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就内阁事务紧要，命大学士等会同吏部选择拟补户部主事常明、光禄寺署正拖代等员具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常明",
+   "role": "拟户部主事"
+  },
+  {
+   "name": "拖代",
+   "role": "陪折光禄寺署正"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6900,
+ "page_range": "181-182"
+}

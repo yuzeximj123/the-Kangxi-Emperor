@@ -1,0 +1,29 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "贵州巡抚慕天颜题参布政使柯鼎等未及时揭报黎平府知府刘桢贪禁事迹，部议革职审问。",
+ "people": [
+  {
+   "name": "慕天颜",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "柯鼎",
+   "role": "布政使"
+  },
+  {
+   "name": "刘桢",
+   "role": "黎平府知府"
+  }
+ ],
+ "places": [
+  "贵州",
+  "黎平府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16501,
+ "page_range": "365-366"
+}

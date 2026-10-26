@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十二日丙申",
+ "event_role": "谕旨决策",
+ "summary": "议尚之隆请给其父海州房地事，康熙帝念平南亲王忠诚劳绩，命予优旨并差司官料理给与房地。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尚之隆",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "海州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3807,
+ "page_range": "119-120"
+}

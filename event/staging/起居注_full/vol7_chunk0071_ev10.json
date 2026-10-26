@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十六日己巳",
+ "event_role": "军务",
+ "summary": "康熙帝评论各省绿旗兵，称陕西兵最优，湖广兵今不堪用，满洲兵驻防荆州得计。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "湖广",
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7110,
+ "page_range": "153-154"
+}

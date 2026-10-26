@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝谕福建海坛总兵官员缺以副将程汉觅补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "程汉觅",
+   "role": "副将，补授福建海坛总兵官"
+  }
+ ],
+ "places": [
+  "福建海坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12301,
+ "page_range": "257-258"
+}

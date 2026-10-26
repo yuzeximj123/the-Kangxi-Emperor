@@ -1,0 +1,21 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "初五日于申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝经过宝应县、淮安府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宝应县",
+  "淮安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6202,
+ "page_range": "136-137"
+}

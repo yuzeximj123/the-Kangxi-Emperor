@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "诸王大臣奏称天颜清减，仍衣布衣居小室，衣带革袜竟夜不解，请行幸郊外或南苑近地，或移居宫内大厦宽解衣带以养圣躬。",
+ "people": [
+  {
+   "name": "诸王",
+   "role": "宗室"
+  },
+  {
+   "name": "大臣",
+   "role": "朝臣"
+  }
+ ],
+ "places": [
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 621,
+ "page_range": "24-25"
+}

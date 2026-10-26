@@ -1,0 +1,42 @@
+{
+ "date_raw": "康熙伍拾肆年陆月贰拾肆日",
+ "reign_year": 54,
+ "month": 6,
+ "day": 24,
+ "event_role": "军务",
+ "summary": "广东巡抚杨琳奏请随师效力征剿泽旺阿喇蒲坦，并奏报地方征米折色、香料帮贴及收成米价等事宜。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "泽旺阿喇蒲坦",
+   "role": "被征剿对象"
+  },
+  {
+   "name": "噶尔旦",
+   "role": "昔日被歼灭之敌"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "督臣"
+  }
+ ],
+ "places": [
+  "广东",
+  "福建",
+  "哈密",
+  "陕西",
+  "口外霓金",
+  "青藏"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称杨琳为封疆大吏所关匪轻，奏折已知。",
+ "type": "json_object",
+ "source_title": "（满文无汉字）",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 103
+}

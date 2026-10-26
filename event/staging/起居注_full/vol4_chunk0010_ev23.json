@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "十九日壬戌",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝前往皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1023,
+ "page_range": "32-33"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "十二日辛酉",
+ "event_role": "司法案件",
+ "summary": "广东巡抚金俊参狱官王贤开放商人沈上达锁链致毙，康熙帝疑杀人灭口，命侍郎禅达海严审。",
+ "people": [
+  {
+   "name": "金俊",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "王贤",
+   "role": "狱官"
+  },
+  {
+   "name": "沈上达",
+   "role": "商人"
+  },
+  {
+   "name": "禅达海",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7808,
+ "page_range": "199-200"
+}

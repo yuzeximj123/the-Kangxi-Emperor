@@ -1,0 +1,37 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "十作日乙西",
+ "event_role": "请安谢恩",
+ "summary": "太子率三皇子、四皇子、五皇子、七皇子及留京师内大臣、侍卫迎驾至天津卫，恭请圣安。",
+ "people": [
+  {
+   "name": "太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "三皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "四皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "五皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "七皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "天津卫",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6318,
+ "page_range": "138-139"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十四日丁酉",
+ "event_role": "河工水利",
+ "summary": "总河张鹏翮题请六漫闸之西停修石坝改筑土坝，康熙帝认为六漫闸紧要，命遣中书速往与张鹏翮商酌回奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "六漫闸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22714,
+ "page_range": "464-465"
+}

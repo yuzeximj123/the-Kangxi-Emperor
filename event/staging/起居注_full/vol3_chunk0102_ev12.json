@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "初四日辛西",
+ "event_role": "人事任免",
+ "summary": "题补福州府副都统胡启元员缺，康熙帝以祖光锡、邓之隆俱庸常，命另拟。",
+ "people": [
+  {
+   "name": "胡启元",
+   "role": "福州府副都统"
+  },
+  {
+   "name": "祖光锡",
+   "role": "京口正白旗协领"
+  },
+  {
+   "name": "邓之隆",
+   "role": "镶黄旗参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10212,
+ "page_range": "239-240"
+}

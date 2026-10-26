@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "十八日辛卯",
+ "event_role": "其他",
+ "summary": "是日赐喀尔喀默尔根济农、多罗郡王顾禄什希及官从大臣、侍卫、护军参领、部院大臣、官员、内务府官员、护军等鹿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "顾禄什希",
+   "role": "多罗郡王"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6807,
+ "page_range": "147-148"
+}

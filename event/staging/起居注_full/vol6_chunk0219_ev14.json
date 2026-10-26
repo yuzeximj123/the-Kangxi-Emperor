@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初十日癸亥",
+ "event_role": "司法案件",
+ "summary": "理藩院题披甲伍善打死纪兰太拟秋后绞，康熙帝以明年秋审终致释放，命发回再议并罚伍善牲畜给死者妻子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伍善",
+   "role": "披甲"
+  },
+  {
+   "name": "纪兰太",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21914,
+ "page_range": "448-449"
+}

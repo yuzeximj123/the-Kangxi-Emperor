@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补佥都御史徐旭龄升任员缺，康熙帝命将其次应升官员另拟具奏。",
+ "people": [
+  {
+   "name": "徐旭龄",
+   "role": "佥都御史"
+  },
+  {
+   "name": "陈放器",
+   "role": "左通政"
+  },
+  {
+   "name": "陈寿",
+   "role": "右通政"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17104,
+ "page_range": "385-386"
+}

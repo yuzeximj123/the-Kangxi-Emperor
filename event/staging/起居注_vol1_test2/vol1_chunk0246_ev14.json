@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初四日辛酉",
+ "event_role": "司法案件",
+ "summary": "吏部题郎中托必泰、拨什库巴代等往四川提督郑蛟麟处遇变殉身，康熙帝命依部议查明议恤具奏。",
+ "people": [
+  {
+   "name": "托必泰",
+   "role": "郎中"
+  },
+  {
+   "name": "巴代",
+   "role": "拨什库"
+  },
+  {
+   "name": "郑蛟麟",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24614,
+ "page_range": "549-550"
+}

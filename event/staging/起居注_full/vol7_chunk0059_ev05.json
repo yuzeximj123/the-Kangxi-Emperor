@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "二十六日辛丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏完毕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5905,
+ "page_range": "129-130"
+}

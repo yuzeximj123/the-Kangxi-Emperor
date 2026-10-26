@@ -1,0 +1,21 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": "二十七日康子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝临中和殿视太庙祝版，毕后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4909,
+ "page_range": "109-110"
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "理藩院、兵部等题偷盗黄寺台吉厄尔德尼阿海财物案，康熙帝改判为首者处斩，余发黑龙江，周佳相免罚。",
+ "people": [
+  {
+   "name": "张国勇",
+   "role": "为首贼"
+  },
+  {
+   "name": "张三",
+   "role": "从犯"
+  },
+  {
+   "name": "周佳相",
+   "role": "监守官拜他喇布勒哈番"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "黄寺",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3501,
+ "page_range": "80-81"
+}

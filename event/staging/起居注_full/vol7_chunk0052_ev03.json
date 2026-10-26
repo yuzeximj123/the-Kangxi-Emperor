@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "十七日",
+ "event_role": "人事任免",
+ "summary": "赐复原任学士卢琦、原任御史吴震方原品。",
+ "people": [
+  {
+   "name": "卢琦",
+   "role": "原任学士"
+  },
+  {
+   "name": "吴震方",
+   "role": "原任御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5203,
+ "page_range": "115-116"
+}

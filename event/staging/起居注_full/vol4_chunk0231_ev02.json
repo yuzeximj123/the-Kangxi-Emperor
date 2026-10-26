@@ -1,0 +1,35 @@
+{
+ "reign_year": 32,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙命将吴启爵转补天津卫总兵官，升台湾副将唐希到补贵州威宁总兵官，并令速开列琼州总兵员缺具奏。",
+ "people": [
+  {
+   "name": "吴启爵",
+   "role": "总兵官"
+  },
+  {
+   "name": "唐希到",
+   "role": "台湾副将"
+  },
+  {
+   "name": "谢英",
+   "role": "贵州威宁总兵官"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津卫",
+  "台湾",
+  "贵州威宁",
+  "琼州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23102,
+ "page_range": "474-475"
+}

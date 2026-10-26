@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "巳时",
+ "event_role": "朝见受贺",
+ "summary": "巳时康熙帝召翰林院掌院学士喇沙里至懋勤殿，赐所书《圣感寺碑石刻》一册及仿董其昌大书一轴，喇沙里谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "翰林院掌院学士"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20112,
+ "page_range": "459-460"
+}

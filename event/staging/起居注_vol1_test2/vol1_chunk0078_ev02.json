@@ -1,0 +1,23 @@
+{
+ "reign_year": 13,
+ "month": 9,
+ "day_text": "初十日辛未",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝由午门出正阳门，进南苑大红门，驻中东宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "南苑大红门",
+  "中东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7802,
+ "page_range": "213-214"
+}

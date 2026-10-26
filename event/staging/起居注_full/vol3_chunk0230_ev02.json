@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "大学士勒德洪等传出谕旨，令达哈塔、汤斌就董汉臣条奏应否议处具奏。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "达哈塔",
+   "role": "尚书"
+  },
+  {
+   "name": "汤斌",
+   "role": "尚书"
+  },
+  {
+   "name": "董汉臣",
+   "role": "条奏官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23002,
+ "page_range": "495-496"
+}

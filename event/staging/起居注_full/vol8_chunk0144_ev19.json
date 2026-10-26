@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "十二日垃未",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆请宣化总兵所属出征兵丁所借银两作十七个月抽扣，康熙帝令查明借银总数具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘党",
+   "role": "总督管理直隶巡抚事务"
+  }
+ ],
+ "places": [
+  "宣化"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14419,
+ "page_range": "299-300"
+}

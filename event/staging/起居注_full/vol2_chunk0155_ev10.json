@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初八日辛亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥吏部徇情从轻议拟堪泰案，命再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "堪泰",
+   "role": "监察御史"
+  },
+  {
+   "name": "罗文瑜",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15510,
+ "page_range": "353-354"
+}

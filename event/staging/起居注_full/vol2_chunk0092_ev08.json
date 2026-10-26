@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十九日戊辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝遣皇太子率皇子保清及诸臣、侍卫谒仁孝皇后、孝昭皇后陵读文大祭。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "保清",
+   "role": "皇子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "仁孝皇后陵",
+  "孝昭皇后陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9208,
+ "page_range": "227-228"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问张鹏翮康泰居官如何，张鹏翮奏康泰不善抚恤兵丁以致兵变。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "大臣"
+  },
+  {
+   "name": "康泰",
+   "role": "提督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21707,
+ "page_range": "445-446"
+}

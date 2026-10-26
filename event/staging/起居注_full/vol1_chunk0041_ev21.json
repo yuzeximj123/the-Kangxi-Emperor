@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 4,
+ "day_text": "十五日甲实",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿视朝，京察留任官员及喀尔喀部落进贡使臣谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿果东达哈思浑厄儿德尼衣儿邓那颜葛材尔",
+   "role": "喀尔喀部落进贡使臣"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4121,
+ "page_range": "139-140"
+}

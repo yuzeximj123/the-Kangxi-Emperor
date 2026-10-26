@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "马齐等呈报徐彩官先议发往三姓今改议充发三千里之处，康熙指出大相径庭，命发回再议具奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "徐彩官",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "三姓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19802,
+ "page_range": "407-408"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初四日癸北",
+ "event_role": "谕旨决策",
+ "summary": "兵部议山海关外驻防官兵盗案议处议叙应照良乡等处条例，康熙帝命行文奉天驻防将军确议再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山海关",
+  "良乡",
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23305,
+ "page_range": "523-524"
+}

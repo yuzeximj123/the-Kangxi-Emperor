@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 6,
+ "day_text": "初七日忆卯",
+ "event_role": "人事任免",
+ "summary": "兵部题京口副都统贺梭里病故员缺，康熙帝以先锋参领朱了瞒用兵行阵极善，命升补副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "贺梭里",
+   "role": "京口副都统，病故"
+  },
+  {
+   "name": "陶贷",
+   "role": "侍郎"
+  },
+  {
+   "name": "朱了瞒",
+   "role": "先锋参领，升补副都统"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11,
+ "page_range": "10-11"
+}

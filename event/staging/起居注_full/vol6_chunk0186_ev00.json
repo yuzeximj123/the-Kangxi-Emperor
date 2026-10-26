@@ -1,0 +1,36 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙命饥音布、邵称布会同总督石琳、巡抚彭鹏赴琼州审黎首王镇邦事，若不出降则审现有犯人并趁暑前速还。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "饥音布",
+   "role": "侍郎"
+  },
+  {
+   "name": "邵称布",
+   "role": "学士"
+  },
+  {
+   "name": "石琳",
+   "role": "总督"
+  },
+  {
+   "name": "彭鹏",
+   "role": "广东巡抚"
+  }
+ ],
+ "places": [
+  "琼州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18600,
+ "page_range": "382-383"
+}

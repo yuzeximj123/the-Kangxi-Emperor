@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题江宁巡抚张伯行员缺开列内阅学士王思轼等职名请旨，康熙帝命暂收贮，待九卿议覆具题再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王思轼",
+   "role": "内阅学士"
+  },
+  {
+   "name": "张伯行",
+   "role": "原任江宁巡抚"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23408,
+ "page_range": "479-480"
+}

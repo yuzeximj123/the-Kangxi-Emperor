@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初一日王午",
+ "event_role": "司法案件",
+ "summary": "户部等衙门题提塘雇工人朱文壁私雕假印拟秋后正法，郎中库库讷降一级调用、笔帖式王锦革职，康熙帝以近见雕假印销毁档案者甚多命再议。",
+ "people": [
+  {
+   "name": "朱文壁",
+   "role": "提塘雇工人"
+  },
+  {
+   "name": "库库讷",
+   "role": "郎中"
+  },
+  {
+   "name": "王锦",
+   "role": "笔帖式"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 828,
+ "page_range": "27-28"
+}

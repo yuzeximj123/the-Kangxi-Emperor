@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "初六日壬戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸万泉县属下浦，下浦副将张文焕率马步兵列于两旁恭迎圣驾，帝入行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张文焕",
+   "role": "下浦副将"
+  }
+ ],
+ "places": [
+  "万泉县下浦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20420,
+ "page_range": "418-419"
+}

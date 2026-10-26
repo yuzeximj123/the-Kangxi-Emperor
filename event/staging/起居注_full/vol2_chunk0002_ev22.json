@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十四日庚午",
+ "event_role": "司法案件",
+ "summary": "广东巡抚金俊题捏造妖言罪犯张大经、戴文礼岁久难获应记册徐缉，部议严缉不准记册，康熙帝命即完结不必追缉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金俊",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "张大经",
+   "role": "罪犯"
+  },
+  {
+   "name": "戴文礼",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 222,
+ "page_range": "47-48"
+}

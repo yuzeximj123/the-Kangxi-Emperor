@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部遵例开列记名应升副将官员，题补必州副将范维典员缺，康熙命以薛士杰补授。",
+ "people": [
+  {
+   "name": "范维典",
+   "role": "必州副将"
+  },
+  {
+   "name": "薛士杰",
+   "role": "拟补必州副将"
+  }
+ ],
+ "places": [
+  "必州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16406,
+ "page_range": "339-340"
+}

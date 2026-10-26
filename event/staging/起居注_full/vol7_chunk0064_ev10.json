@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 6,
+ "day_text": "二十七日辛丑",
+ "event_role": "其他",
+ "summary": "康熙帝驻跸行宫，奏事治仪正存住等传谕侍讲满保、检讨海宝，称其所作诗尚妥且老成，以御制诗写单条各赐一幅；满保、海宝奏谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "奏事治仪正"
+  },
+  {
+   "name": "满保",
+   "role": "侍讲"
+  },
+  {
+   "name": "海宝",
+   "role": "检讨"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6410,
+ "page_range": "139-140"
+}

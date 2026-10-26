@@ -1,0 +1,29 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": "二十日己丑",
+ "event_role": "司法案件",
+ "summary": "刑部等三都会题覆审拟巡抚江有良、巡盐少卿沙拜互参事，康熙帝以江有良居官不善、沙拜轻浮狂妄，俱革职。",
+ "people": [
+  {
+   "name": "江有良",
+   "role": "巡抚"
+  },
+  {
+   "name": "沙拜",
+   "role": "巡盐少卿"
+  },
+  {
+   "name": "张建绩",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "安徽",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25216,
+ "page_range": "516-517"
+}

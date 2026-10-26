@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十七日丙午",
+ "event_role": "军务",
+ "summary": "内阁学士佛伦、兵部督捕侍郎金锭奏闻辰龙关已恢复，请旨往理粮饷以济军需，康熙帝命速行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "内阁学士"
+  },
+  {
+   "name": "金锭",
+   "role": "兵部督捕侍郎"
+  }
+ ],
+ "places": [
+  "辰龙关",
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22810,
+ "page_range": "513-514"
+}

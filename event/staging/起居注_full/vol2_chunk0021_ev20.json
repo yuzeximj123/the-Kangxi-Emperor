@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十六日辛丑",
+ "event_role": "请安谢恩",
+ "summary": "巳时，康熙帝率皇太子赴太皇太后、皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2120,
+ "page_range": "85-86"
+}

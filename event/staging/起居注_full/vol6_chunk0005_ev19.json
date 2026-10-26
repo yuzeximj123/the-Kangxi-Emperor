@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": "十七日乙未",
+ "event_role": "弹劾参奏",
+ "summary": "甘肃巡抚郭洪奏请赴京请安，康熙帝以其曾赴宁夏而不至军前朝见，今方具奏请安殊属不合，命该部严加议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭洪",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 519,
+ "page_range": "20-21"
+}

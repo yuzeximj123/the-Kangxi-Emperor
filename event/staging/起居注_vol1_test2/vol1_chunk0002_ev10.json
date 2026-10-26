@@ -1,0 +1,24 @@
+{
+ "reign_year": 10,
+ "month": 10,
+ "day_text": "十五日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕盛京工部侍郎敖色等，此桥便于行人，着存留勿毁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敖色",
+   "role": "盛京工部侍郎"
+  }
+ ],
+ "places": [
+  "辽河桥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 210,
+ "page_range": "61-62"
+}

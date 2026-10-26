@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "管理茶马郎中党色请以茶易马分给各营各驿并扣除原价，康熙帝认为不可行，令该部照常议奏。",
+ "people": [
+  {
+   "name": "党色",
+   "role": "管理茶马郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19700,
+ "page_range": "404-405"
+}

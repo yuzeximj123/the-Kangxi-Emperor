@@ -1,0 +1,40 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "十七日丁酉",
+ "event_role": "司法案件",
+ "summary": "京口驻防参领马崇骏等首告巡抚慕天颜康熙十三、十四年米豆价值浮冒侵欺，康熙帝依部议令图尔臣审拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马崇骏",
+   "role": "京口驻防参领"
+  },
+  {
+   "name": "慕天颜",
+   "role": "巡抚"
+  },
+  {
+   "name": "图尔臣",
+   "role": "郎中"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "阿清",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7418,
+ "page_range": "191-192"
+}

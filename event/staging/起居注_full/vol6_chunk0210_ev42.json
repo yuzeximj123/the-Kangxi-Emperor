@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "二十八日癸丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝率皇太子、诸皇子及诸臣往视。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21042,
+ "page_range": "430-431"
+}

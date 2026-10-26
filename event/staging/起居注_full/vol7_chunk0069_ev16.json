@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "十六日己未",
+ "event_role": "议政听政",
+ "summary": "酉时康熙帝御行宫，大学士席哈纳、学士常寿、赵世芳以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "常寿",
+   "role": "学士"
+  },
+  {
+   "name": "赵世芳",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6916,
+ "page_range": "149-150"
+}

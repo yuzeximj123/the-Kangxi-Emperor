@@ -1,0 +1,40 @@
+{
+ "date_raw": "康熙二十八年二月二十九日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十九日本卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕总督傅腊塔、布政使郑端，责问地方结彩预备船只之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "总督"
+  },
+  {
+   "name": "郑端",
+   "role": "布政使"
+  },
+  {
+   "name": "图纳",
+   "role": "尚书"
+  },
+  {
+   "name": "苏赫",
+   "role": "尚书"
+  },
+  {
+   "name": "马齐",
+   "role": "都御史"
+  }
+ ],
+ "places": [
+  "秦淮江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2039
+}

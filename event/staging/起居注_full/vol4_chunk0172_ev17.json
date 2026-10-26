@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "二十三日癸酉",
+ "event_role": "其他",
+ "summary": "赐甘肃巡抚布喀鞍马一匹。",
+ "people": [
+  {
+   "name": "布喀",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17217,
+ "page_range": "356-357"
+}

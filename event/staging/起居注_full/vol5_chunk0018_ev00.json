@@ -1,0 +1,21 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以在红旗营料理驿站、军务勤劳为由，将相关人员优升为直隶守道。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "红旗营",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1800,
+ "page_range": "46-47"
+}

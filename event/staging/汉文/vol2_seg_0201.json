@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙肆拾捌年柒月日",
+ "reign_year": 48,
+ "month": 7,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "僧人宝诚奏报其迎请住持报恩寺的僧人临陶行事不法，并交出临陶亲笔书信，内有称国师、升降官员等危言，曾三次出首而刑部不准，故据实陈奏请圣裁。",
+ "people": [
+  {
+   "name": "宝诚",
+   "role": "具奏僧人，茶庵住持"
+  },
+  {
+   "name": "临陶",
+   "role": "被奏报的奸僧，报恩寺住持"
+  },
+  {
+   "name": "大阿哥",
+   "role": "宝诚回逼求助的皇子"
+  },
+  {
+   "name": "节英",
+   "role": "僧人，转交临陶书信者"
+  }
+ ],
+ "places": [
+  "报恩寺",
+  "京都"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "奸僧不法事",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 201
+}

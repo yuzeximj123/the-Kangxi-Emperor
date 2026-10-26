@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十年五月初六日",
+ "reign_year": 50,
+ "month": 5,
+ "day": 6,
+ "event_role": "奏报地方情形",
+ "summary": "云南巡抚吴存礼奏报滇省雨泽调匀、麦收七八分至十分、秋田播种青苗茂盛，兵民欢乐。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "云南巡抚，奏报人"
+  },
+  {
+   "name": "郭璞",
+   "role": "云贵总督，同往郊外看视庄稼"
+  }
+ ],
+ "places": [
+  "云南",
+  "滇省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，命以后凡有奏折须将米价写明奏闻。",
+ "source_title": "恭闻事",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 156
+}

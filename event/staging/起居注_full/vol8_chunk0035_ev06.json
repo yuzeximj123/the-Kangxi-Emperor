@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "浙江巡抚王度昭题请以宁绍分司李继席等补授嘉兴府知府同知，康熙命问九卿具奏。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "李继席",
+   "role": "宁绍分司"
+  }
+ ],
+ "places": [
+  "嘉兴府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3506,
+ "page_range": "81-82"
+}

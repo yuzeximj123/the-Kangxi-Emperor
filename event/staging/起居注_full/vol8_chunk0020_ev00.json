@@ -1,0 +1,22 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就海运米粮事谕示，令将二十万石运至广东散贮、十万石运至福建，待九月视广东收成再定赈济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "广东",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2000,
+ "page_range": "51-52"
+}

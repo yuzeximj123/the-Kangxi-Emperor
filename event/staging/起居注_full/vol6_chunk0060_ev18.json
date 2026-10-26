@@ -1,0 +1,33 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "初六日丙子",
+ "event_role": "朝见受贺",
+ "summary": "蟠桃口监督郎中时舒、永平府知府梁世勋、防守尉岸额尔德、副将黄登等来朝。",
+ "people": [
+  {
+   "name": "时舒",
+   "role": "蟠桃口监督郎中"
+  },
+  {
+   "name": "梁世勋",
+   "role": "永平府知府"
+  },
+  {
+   "name": "岸额尔德",
+   "role": "防守尉"
+  },
+  {
+   "name": "黄登",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "蟠桃口",
+  "永平府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6018,
+ "page_range": "130-131"
+}

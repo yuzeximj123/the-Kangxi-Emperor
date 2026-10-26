@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "二十五日痒卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补太仆寺卿边声廷升任员缺，康熙帝以陈寿、徐元开俱平常非材干之员，令开列其次应升者。",
+ "people": [
+  {
+   "name": "边声廷",
+   "role": "太仆寺卿"
+  },
+  {
+   "name": "陈寿",
+   "role": "通政司左通政"
+  },
+  {
+   "name": "徐元开",
+   "role": "右通政"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1604,
+ "page_range": "67-68"
+}

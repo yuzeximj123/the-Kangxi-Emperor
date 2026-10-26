@@ -1,0 +1,42 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "初四日壬辰",
+ "event_role": "人事任免",
+ "summary": "吏部题请两司官员内升，康熙帝以各员无著名者，命司道内升停这一次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "施天裔",
+   "role": "布政使"
+  },
+  {
+   "name": "余三汲",
+   "role": "按察使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23908,
+ "page_range": "535-536"
+}

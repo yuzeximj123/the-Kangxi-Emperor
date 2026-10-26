@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十七年十一月十二日",
+ "reign_year": 47,
+ "month": 11,
+ "day": 12,
+ "event_role": "奏报地方情形",
+ "summary": "福建巡抚张伯行奏报闽省年岁丰登、米价渐平、民生乐业，并陈设义学、劝耕蓄积、添设汛防、严查保甲等地方情形。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "福建巡抚，奏报人"
+  },
+  {
+   "name": "梁鼐",
+   "role": "督臣，与张伯行商酌添设汛防"
+  }
+ ],
+ "places": [
+  "福建",
+  "建阳县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "福建巡撫張伯行奏報年歲收成並地方情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "424",
+ "order_index": 88
+}

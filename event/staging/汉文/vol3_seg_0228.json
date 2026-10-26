@@ -1,0 +1,42 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "李光地以年老病重、疮毒久治不愈为由，上奏请求辞官归里，并请准其先休养、整理所修《朱子书》进呈后再返乡。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "奏折作者，时任吏部尚书（自称今职）"
+  },
+  {
+   "name": "张玉书",
+   "role": "同官，已故"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "同官，曾乞休"
+  },
+  {
+   "name": "林氏",
+   "role": "李光地祖母，获赐匾额"
+  },
+  {
+   "name": "兆庆",
+   "role": "李光地之父，获赐匾额"
+  }
+ ],
+ "places": [
+  "京畿",
+  "阙廷",
+  "里"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示览奏心伤，感叹旧臣凋零、自己亦老，不忍多言，命早晚回宫时当面再议。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 228
+}

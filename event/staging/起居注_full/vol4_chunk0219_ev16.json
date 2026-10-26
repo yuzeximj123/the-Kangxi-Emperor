@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "二十日甲午",
+ "event_role": "奏报地方情形",
+ "summary": "吏部侍郎傅腊塔奏报运往西安之米俱已运到，不至甚累于民，湖广米谷甚好胜常年。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "吏部侍郎"
+  }
+ ],
+ "places": [
+  "湖广",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21916,
+ "page_range": "450-451"
+}

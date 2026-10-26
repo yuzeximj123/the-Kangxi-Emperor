@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "初八日已已",
+ "event_role": "议政听政",
+ "summary": "康熙询问刘谦为人，赵申乔、张鹏翮奏其谨慎小心。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘谦",
+   "role": "官员"
+  },
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "吏部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12909,
+ "page_range": "269-270"
+}

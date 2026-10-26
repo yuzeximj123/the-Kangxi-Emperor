@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部覆两广巡盐郎中倭赫所题盐课拖欠议处事，康熙帝令问明所议系照范时崇定例抑或照倭赫所题具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭赫",
+   "role": "两广巡盐郎中"
+  },
+  {
+   "name": "范时崇",
+   "role": "原任巡抚"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15604,
+ "page_range": "323-324"
+}

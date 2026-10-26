@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "因呼户诺尔台吉盆苏克系达赖汗之弟且年老，升为贝勒。",
+ "people": [
+  {
+   "name": "盆苏克",
+   "role": "呼户诺尔台吉，升贝勒"
+  },
+  {
+   "name": "达赖汗",
+   "role": "盆苏克之兄"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8200,
+ "page_range": "175-176"
+}

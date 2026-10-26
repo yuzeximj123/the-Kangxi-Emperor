@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题请补授游击韩泪为中军副将、守备张荣祖为游击、千总孙成海为守备，康熙不准。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "振武将军"
+  },
+  {
+   "name": "韩泪",
+   "role": "游击"
+  },
+  {
+   "name": "张荣祖",
+   "role": "守备"
+  },
+  {
+   "name": "孙成海",
+   "role": "千总"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 800,
+ "page_range": "26-27"
+}

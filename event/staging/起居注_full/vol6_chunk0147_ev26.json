@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "初三日两宝",
+ "event_role": "河工水利",
+ "summary": "浙江总督郭志隆题请速给修理海船物料价值以便即行施工，康熙帝令依该督所题修理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭志隆",
+   "role": "浙江总督"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14726,
+ "page_range": "304-305"
+}

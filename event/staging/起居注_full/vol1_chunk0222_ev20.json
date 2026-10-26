@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十八日戊寅",
+ "event_role": "人事任免",
+ "summary": "正蓝旗噶柱援拜思哈等例请仍管佐领，兵部议不准，康熙帝命再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶柱",
+   "role": "正蓝旗人"
+  },
+  {
+   "name": "岳尔多",
+   "role": "佐领"
+  },
+  {
+   "name": "拜思哈",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22220,
+ "page_range": "501-502"
+}

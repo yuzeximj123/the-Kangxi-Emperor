@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "二十日甲戌",
+ "event_role": "人事任免",
+ "summary": "吏部题户部侍郎叶九思、刑部侍郎李旭升员缺开列祖允图等，康熙命收贮，待李仲极议革职事完一并补授。",
+ "people": [
+  {
+   "name": "叶九思",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "李旭升",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "祖允图",
+   "role": "副都御史"
+  },
+  {
+   "name": "李仲极",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19920,
+ "page_range": "409-410"
+}

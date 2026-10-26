@@ -1,0 +1,38 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题张文元因添载物件斗殴打死翟尚隆拟绞监候、拖沙喇哈番黄寿革职，康熙帝命发回会同刘芳声、徐彩官两议大臣再议。",
+ "people": [
+  {
+   "name": "张文元",
+   "role": "犯人"
+  },
+  {
+   "name": "翟尚隆",
+   "role": "死者"
+  },
+  {
+   "name": "黄寿",
+   "role": "拖沙喇哈番"
+  },
+  {
+   "name": "刘芳声",
+   "role": "官员"
+  },
+  {
+   "name": "徐彩官",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19409,
+ "page_range": "399-400"
+}

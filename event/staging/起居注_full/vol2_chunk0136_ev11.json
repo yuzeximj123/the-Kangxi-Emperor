@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "初四日己卯",
+ "event_role": "弹劾参奏",
+ "summary": "御史拉色条奏请留陕西近边及沿海火器、禁别省火器，康熙帝以治天下在政事得失不关火器，令一概禁止。",
+ "people": [
+  {
+   "name": "拉色",
+   "role": "御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13611,
+ "page_range": "315-316"
+}

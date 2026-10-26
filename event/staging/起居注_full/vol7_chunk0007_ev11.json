@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十日壬申",
+ "event_role": "人事任免",
+ "summary": "吏部奏西宁道绥德州知州员缺，康熙帝命张信革职留任，临章县知县赵于京补授绥德州知州。",
+ "people": [
+  {
+   "name": "张信",
+   "role": "官员"
+  },
+  {
+   "name": "赵于京",
+   "role": "临章县知县"
+  }
+ ],
+ "places": [
+  "绥德州",
+  "临章县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 711,
+ "page_range": "25-26"
+}

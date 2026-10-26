@@ -1,0 +1,23 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "三十日丙辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至皇太后宫问安后出午门，率诸王文武大臣至堂子行礼，出德胜门至排军处，三举炮，官兵整队进发。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "皇太后宫",
+  "午门",
+  "堂子",
+  "德胜门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10104,
+ "page_range": "212-213"
+}

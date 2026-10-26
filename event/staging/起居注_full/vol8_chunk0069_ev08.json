@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士松柱等奏九卿不能深知学差人员学问操守不敢妄举，请康熙帝简用。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6908,
+ "page_range": "149-150"
+}

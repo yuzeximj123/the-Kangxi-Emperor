@@ -1,0 +1,33 @@
+{
+ "reign_year": 53,
+ "month": 3,
+ "day_text": "二十六日乙卯",
+ "event_role": "军务",
+ "summary": "兵部议陈克登等招降海贼未将陈尚义伙内被风飘散四船招来，应追取把总札付分发山陕为兵，康熙帝命免追札付。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈克登",
+   "role": "招降官员"
+  },
+  {
+   "name": "陈尚义",
+   "role": "海贼"
+  },
+  {
+   "name": "林武升",
+   "role": "贼首"
+  }
+ ],
+ "places": [
+  "山",
+  "陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5706,
+ "page_range": "125-126"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "十四日甲午",
+ "event_role": "其他",
+ "summary": "未时康熙帝御景山内前典，赐喀尔喀部落来使博罗厄尔克等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博罗厄尔克",
+   "role": "喀尔喀土谢图汗来使"
+  },
+  {
+   "name": "齐尔西达尔",
+   "role": "扎萨克图汗来使"
+  },
+  {
+   "name": "济木巴扎木散格楚尔",
+   "role": "济布宗达木巴库图克图来使"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19807,
+ "page_range": "431-432"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 11,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命傅达礼将貂裘八领、羔裘八件等分赐汉讲官熊赐履等八员，每人各一，以示优眷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "传旨官员"
+  },
+  {
+   "name": "熊赐履",
+   "role": "汉讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2800,
+ "page_range": "113-114"
+}

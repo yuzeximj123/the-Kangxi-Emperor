@@ -1,0 +1,21 @@
+{
+ "reign_year": 16,
+ "month": 1,
+ "day_text": "三十日本未",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御中和殿，视祭社种坛祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "社种坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12923,
+ "page_range": "315-316"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "初九日壬申",
+ "event_role": "人事任免",
+ "summary": "翰林院题补学士牛钮日讲官员缺，康熙帝询问顾巴代、乌黑、明图、徐元梦等，命乌黑补充日讲官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "顾巴代",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "乌黑",
+   "role": "兵部员外郎"
+  },
+  {
+   "name": "明图",
+   "role": "官员"
+  },
+  {
+   "name": "徐元梦",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4609,
+ "page_range": "127-128"
+}

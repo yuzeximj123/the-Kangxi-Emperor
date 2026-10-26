@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "初六日壬子",
+ "event_role": "司法案件",
+ "summary": "理藩院题将劫丹巴哈什哈行装之伊滔等拟即绞，康熙命从宽免死，并其妻子遣往南方披甲。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊滔",
+   "role": "拟绞罪犯"
+  },
+  {
+   "name": "丹巴哈什哈",
+   "role": "被劫者"
+  }
+ ],
+ "places": [
+  "南方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2417,
+ "page_range": "58-59"
+}

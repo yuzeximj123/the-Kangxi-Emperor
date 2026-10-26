@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请广东汉军副都统何国云病故员缺简用，康熙命奏补旗下大臣时一并进呈此本。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何国云",
+   "role": "广东汉军副都统"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21102,
+ "page_range": "433-434"
+}

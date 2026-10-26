@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "十一日本卯",
+ "event_role": "弹劾参奏",
+ "summary": "都察院题掘坟王三拟情真、张登拟缓决不一，请将尚书达哈塔等罚俸一年、哈占等罚俸六月，康熙帝以系舛错从宽免。",
+ "people": [
+  {
+   "name": "达哈塔",
+   "role": "尚书"
+  },
+  {
+   "name": "哈占",
+   "role": "尚书"
+  },
+  {
+   "name": "王三",
+   "role": "掘坟犯"
+  },
+  {
+   "name": "张登",
+   "role": "掘坟犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12107,
+ "page_range": "277-278"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "十一日乙雍",
+ "event_role": "谕旨决策",
+ "summary": "山西巡抚噶礼题静乐、清源二县所欠三十六年钱粮请于三十九年带征，康熙帝准行。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "静乐县",
+  "清源县",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13909,
+ "page_range": "288-289"
+}

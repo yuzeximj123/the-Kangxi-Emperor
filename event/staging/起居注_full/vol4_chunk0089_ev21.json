@@ -1,0 +1,29 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "二十二日乙西",
+ "event_role": "朝见受贺",
+ "summary": "遵化州游击李国盛、罗文峪口守尉颜泰、知州祖公熹等来朝。",
+ "people": [
+  {
+   "name": "李国盛",
+   "role": "遵化州游击"
+  },
+  {
+   "name": "颜泰",
+   "role": "罗文峪口守尉"
+  },
+  {
+   "name": "祖公熹",
+   "role": "遵化州知州"
+  }
+ ],
+ "places": [
+  "遵化州",
+  "罗文峪口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8921,
+ "page_range": "190-191"
+}

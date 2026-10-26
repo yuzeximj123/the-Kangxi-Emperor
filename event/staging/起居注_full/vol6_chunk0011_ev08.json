@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "十八日乙未",
+ "event_role": "谕旨决策",
+ "summary": "礼部查覆布政使王钳贤为其父王之轩建祠祈赐匾额，议不准行，康熙帝以王之轩劳绩茂著令书匾赐之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王钳贤",
+   "role": "布政使"
+  },
+  {
+   "name": "王之轩",
+   "role": "原任提督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1108,
+ "page_range": "32-33"
+}

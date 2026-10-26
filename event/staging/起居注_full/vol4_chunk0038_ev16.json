@@ -1,0 +1,21 @@
+{
+ "reign_year": 27,
+ "month": 8,
+ "day_text": "二十三日癸亥",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自红川启行，驻跸松林岭前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "红川",
+  "松林岭前"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3816,
+ "page_range": "88-89"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "初六日戊寅",
+ "event_role": "人事任免",
+ "summary": "吏部题保定府理事满洲同知员缺，拟阿达善正、硕色陪，康熙帝以未悉其人，命与同知对品官员选择引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿达善",
+   "role": "拟正读祝官"
+  },
+  {
+   "name": "硕色",
+   "role": "拟陪助教"
+  }
+ ],
+ "places": [
+  "保定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4702,
+ "page_range": "104-105"
+}

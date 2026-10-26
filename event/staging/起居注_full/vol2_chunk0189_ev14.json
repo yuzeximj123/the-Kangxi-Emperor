@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十日生辰",
+ "event_role": "人事任免",
+ "summary": "兵部引见驻防西安镶白旗协领员缺，康熙帝斥阿克散人劣，命以陪拟李柱补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿克散",
+   "role": "二等护卫"
+  },
+  {
+   "name": "李柱",
+   "role": "阿达哈哈番，补授协领"
+  },
+  {
+   "name": "杭爱",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18914,
+ "page_range": "421-422"
+}

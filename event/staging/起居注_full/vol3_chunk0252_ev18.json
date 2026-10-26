@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": "二十一日两申",
+ "event_role": "人事任免",
+ "summary": "吏部题广东巡抚李士祯解任员缺，开列学士卢琦等，康熙帝命九卿将布政使内品行操守超群者拟出面奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李士祯",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "卢琦",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25218,
+ "page_range": "539-540"
+}

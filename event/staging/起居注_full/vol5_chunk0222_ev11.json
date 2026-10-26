@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议定大将军伯费扬古来会郭多里巴尔哈孙地方时统领此兵进剿噶尔丹，令舒书代理费扬古之事，侍郎广耕仍令原处驻扎。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "舒书",
+   "role": "代理事务"
+  },
+  {
+   "name": "广耕",
+   "role": "侍郎"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "进剿对象"
+  }
+ ],
+ "places": [
+  "郭多里巴尔哈孙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22211,
+ "page_range": "454-455"
+}

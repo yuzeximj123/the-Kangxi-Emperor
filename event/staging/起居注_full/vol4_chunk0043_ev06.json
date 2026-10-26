@@ -1,0 +1,23 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "十二日辛刻",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝奉大行太皇太后尊谥册宝送至暂安奉殿，亲视册宝降阶奉安彩亭后启行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和门",
+  "东华门",
+  "朝阳门",
+  "大黄庄东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4306,
+ "page_range": "98-99"
+}

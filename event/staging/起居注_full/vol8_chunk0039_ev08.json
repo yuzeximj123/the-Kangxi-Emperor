@@ -1,0 +1,25 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "初二日两子",
+ "event_role": "河工水利",
+ "summary": "大学士李光地奏永定河明时糜费二三百万无成效，康熙帝引芒牛河水费不过千金遂成万载之利。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "永定河",
+  "芒牛河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3908,
+ "page_range": "89-90"
+}

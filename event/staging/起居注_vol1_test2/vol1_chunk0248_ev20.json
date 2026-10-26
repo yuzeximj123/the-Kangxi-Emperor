@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初十日丁卯",
+ "event_role": "人事任免",
+ "summary": "菏陵总兵胡世宁遗下陈奏，康熙以其效力著劳，命以一子来京酌量录用。",
+ "people": [
+  {
+   "name": "胡世宁",
+   "role": "菏陵总兵"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "菏陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24820,
+ "page_range": "553-554"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 3,
+ "day_text": "初四日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "巳时康熙帝召傅达礼谕翰林官员职司修纂所系非轻，日讲官须心术端厚才学优长，命与熊赐履酌量考试具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "讲官"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3707,
+ "page_range": "131-132"
+}

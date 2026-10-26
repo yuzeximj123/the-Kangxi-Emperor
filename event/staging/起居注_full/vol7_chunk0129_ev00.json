@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "侍郎鲁瑚奏报审讯九门提督拿获贩卖新制大钱人犯一案，与提督陶和气各陈情由。",
+ "people": [
+  {
+   "name": "鲁瑚",
+   "role": "侍郎"
+  },
+  {
+   "name": "陶和气",
+   "role": "九门提督"
+  },
+  {
+   "name": "董清",
+   "role": "人犯"
+  }
+ ],
+ "places": [
+  "京城",
+  "保安州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12900,
+ "page_range": "269-270"
+}

@@ -1,0 +1,44 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "十八日于成",
+ "event_role": "人事任免",
+ "summary": "马齐等奏补授安徽巡抚事问九卿，康熙帝询问施世纶，最终谕令刘光美补授安徽巡抚。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "施世纶",
+   "role": "布政使"
+  },
+  {
+   "name": "赵世显",
+   "role": "布政使"
+  },
+  {
+   "name": "刘连",
+   "role": "布政使"
+  },
+  {
+   "name": "刘光美",
+   "role": "学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6120,
+ "page_range": "133-134"
+}

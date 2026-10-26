@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十六日己未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士伊桑阿等，免浙江康熙三十四、五、六年奏销未完民欠地丁钱粮米麦豆杂税，令督抚悉心奉行，严察侵冒官吏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8512,
+ "page_range": "180-181"
+}

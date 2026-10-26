@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十日乙未",
+ "event_role": "人事任免",
+ "summary": "命阿灵阿等阅视游击郭虎威等、守备沈必昌等、千总钱法等步骑射，千总钱法步射不堪且不能骑射，奉旨革职。",
+ "people": [
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "郭虎威",
+   "role": "游击"
+  },
+  {
+   "name": "沈必昌",
+   "role": "守备"
+  },
+  {
+   "name": "钱法",
+   "role": "千总"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5214,
+ "page_range": "115-116"
+}

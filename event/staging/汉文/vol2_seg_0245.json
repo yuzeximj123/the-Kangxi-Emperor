@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙四十八年十月二十日",
+ "reign_year": 48,
+ "month": 10,
+ "day": 18,
+ "event_role": "请安谢恩",
+ "summary": "湖广巡抚陈诜奏谢皇上钦赐鹿条、榛子等食物，并报告拟亲自勘查积贮亏空情形。",
+ "people": [
+  {
+   "name": "陈诜",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "陈世馆",
+   "role": "翰林院编修，陈诜之子"
+  }
+ ],
+ "places": [
+  "湖广",
+  "武昌",
+  "平湖门",
+  "口外行宫"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "湖廣巡撫陳詵奏謝欽賜食物並報擬親勘積貯虧空摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "594",
+ "order_index": 245
+}

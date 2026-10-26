@@ -1,0 +1,34 @@
+{
+ "reign_year": 29,
+ "month": 4,
+ "day_text": "十四日乙效",
+ "event_role": "人事任免",
+ "summary": "吏部尚书鄂尔多奏刑部主事员缺引见笔帖式，康熙帝令以历做三十一年笔帖式巴吉尔图补授，并令后续以年久笔帖式三员引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂尔多",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "戴屯",
+   "role": "鸣赞"
+  },
+  {
+   "name": "霍滕",
+   "role": "鸣赞"
+  },
+  {
+   "name": "巴吉尔图",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11720,
+ "page_range": "246-247"
+}

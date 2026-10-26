@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "初二日甲子",
+ "event_role": "谕旨决策",
+ "summary": "户部题直隶巡抚于成龙奏请减去长芦新增盐引以苏商民之困，议不准行，康熙帝谕令蠲免长芦新增盐引课额。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "长芦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9401,
+ "page_range": "200-201"
+}

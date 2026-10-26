@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "二十一日丁丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命存住、常寿传谕马齐，查本章迟至之由并谕驿站司官笔帖式勿轻渡山水。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  },
+  {
+   "name": "常寿",
+   "role": "蓝钾"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20716,
+ "page_range": "424-425"
+}

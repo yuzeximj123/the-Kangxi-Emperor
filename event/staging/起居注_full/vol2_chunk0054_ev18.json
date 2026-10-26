@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十一日",
+ "event_role": "司法案件",
+ "summary": "三法司题周济明违禁令郑才阉割其子，拟斩秋决，康熙以监候无益命免死减等发落。",
+ "people": [
+  {
+   "name": "周济明",
+   "role": "河间府民"
+  },
+  {
+   "name": "郑才",
+   "role": "案犯"
+  },
+  {
+   "name": "周明闪",
+   "role": "周济明之子"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河间府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5418,
+ "page_range": "151-152"
+}

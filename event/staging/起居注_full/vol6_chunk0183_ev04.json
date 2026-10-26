@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "二十九日",
+ "event_role": "军务",
+ "summary": "兵部覆四川提督唐希顺题请本标下三营照各省提督例添为五营并题补官员，康熙帝准添给标兵、照所请题补。",
+ "people": [
+  {
+   "name": "唐希顺",
+   "role": "四川提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川",
+  "松潘"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18304,
+ "page_range": "376-377"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝指出开浚下河关键在塞高家堰坝而非高邮州坝，并批评郑都等前奏速修成功之言已迟误。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郑都",
+   "role": "官员"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "高邮州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20801,
+ "page_range": "451-452"
+}

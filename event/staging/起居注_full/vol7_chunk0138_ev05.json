@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "初八日壬戌",
+ "event_role": "人事任免",
+ "summary": "吏部题昆山县知县程大复接催旧欠钱粮未完四分以上已革职请留任，议不准行，康熙帝命照该督所题革职留任。",
+ "people": [
+  {
+   "name": "桑格",
+   "role": "总漕"
+  },
+  {
+   "name": "程大复",
+   "role": "昆山县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "昆山县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13805,
+ "page_range": "287-288"
+}

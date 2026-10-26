@@ -1,0 +1,27 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十三日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "明珠等奏八旗都统等议定各旗分地更番防备救火，护军统领仍照前于该主门上看守，康熙帝称善。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "地安门",
+  "东安门",
+  "西安门",
+  "东西两长安门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21306,
+ "page_range": "461-462"
+}

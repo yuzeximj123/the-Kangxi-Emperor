@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "二十日甲辰",
+ "event_role": "人事任免",
+ "summary": "兵部题前锋统领硕获员缺，开列正黄旗护军统领鄂克济哈等职名；康熙称硕获有将略、练达兵事、人材果优，命员缺不必另补，仍令硕获兼管。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "硕获",
+   "role": "前锋统领"
+  },
+  {
+   "name": "鄂克济哈",
+   "role": "正黄旗护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14513,
+ "page_range": "300-301"
+}

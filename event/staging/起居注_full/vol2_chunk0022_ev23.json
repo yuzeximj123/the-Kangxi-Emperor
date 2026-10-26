@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "二十二日了未",
+ "event_role": "人事任免",
+ "summary": "刑部侍郎高儿自陈衰老请行罢斥，康熙帝以其系魏象枢荐举，未即准。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高儿",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "魏象枢",
+   "role": "荐举者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2223,
+ "page_range": "87-88"
+}

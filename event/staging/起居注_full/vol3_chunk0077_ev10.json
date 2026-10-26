@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初一日辛酉",
+ "event_role": "人事任免",
+ "summary": "吏部题礼部侍郎董讷转补员缺，开列学士葛弘道等，明珠等奏蒋弘道忠厚谨慎可补，康熙帝命蒋弘道补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "蒋弘道",
+   "role": "学士"
+  },
+  {
+   "name": "董讷",
+   "role": "礼部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7710,
+ "page_range": "189-190"
+}

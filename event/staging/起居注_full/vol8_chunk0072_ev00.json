@@ -1,0 +1,30 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥责察哈达指名控告大臣，命带九条铁锁交部严审，并令将谕旨告知拿人之处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "察哈达",
+   "role": "控告者"
+  },
+  {
+   "name": "富宁安",
+   "role": "大臣"
+  },
+  {
+   "name": "赵申乔",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7200,
+ "page_range": "155-156"
+}

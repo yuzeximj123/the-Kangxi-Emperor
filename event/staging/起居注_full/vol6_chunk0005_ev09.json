@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问吕包所参如何，吴琠奏称所参俱实，张鹏翮奏称事亦有据但论大体前日之旨甚当。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴琠",
+   "role": "臣工"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "臣工"
+  },
+  {
+   "name": "吕包",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 509,
+ "page_range": "20-21"
+}

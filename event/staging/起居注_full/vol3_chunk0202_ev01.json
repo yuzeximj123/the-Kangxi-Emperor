@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "初九日己未",
+ "event_role": "人事任免",
+ "summary": "吏部题寺丞西宝降调员缺，拟布尔哈正、外图库陪，康熙帝询问张达、萨木哈履历后命张达补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葛思泰",
+   "role": "学士"
+  },
+  {
+   "name": "张达",
+   "role": "读祝官"
+  },
+  {
+   "name": "萨木哈",
+   "role": "赞礼郎"
+  },
+  {
+   "name": "布尔哈",
+   "role": "赞礼郎"
+  },
+  {
+   "name": "外图库",
+   "role": "典簿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20201,
+ "page_range": "439-440"
+}

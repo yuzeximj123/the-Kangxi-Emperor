@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "二十七日丙成",
+ "event_role": "谕旨决策",
+ "summary": "工部议湖广巡抚石琳、浙江巡抚赵士麟请宽限运楠木杉木不准，康熙帝以恐累民令另议宽缓搬运之法具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石琳",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "赵士麟",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "湖广",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9311,
+ "page_range": "221-222"
+}

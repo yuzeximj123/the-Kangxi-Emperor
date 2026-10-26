@@ -1,0 +1,46 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "学士朱都纳等以折本请旨，伊桑阿等奏报会同兵部考验张绍英步射亦优，康熙帝命张绍英记名录用。",
+ "people": [
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  },
+  {
+   "name": "西安",
+   "role": "学士"
+  },
+  {
+   "name": "博济",
+   "role": "学士"
+  },
+  {
+   "name": "王国昌",
+   "role": "学士"
+  },
+  {
+   "name": "西喇",
+   "role": "学士"
+  },
+  {
+   "name": "布颜图",
+   "role": "学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "张绍英",
+   "role": "被考验者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10600,
+ "page_range": "224-225"
+}

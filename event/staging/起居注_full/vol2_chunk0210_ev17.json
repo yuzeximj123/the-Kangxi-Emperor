@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初四日癸卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫，讲官牛钮、张玉书、汤斌进讲渐女归吉一节、象目渐之进也一节，帝亲讲毕，讲官照常进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  },
+  {
+   "name": "汤斌",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21017,
+ "page_range": "463-464"
+}

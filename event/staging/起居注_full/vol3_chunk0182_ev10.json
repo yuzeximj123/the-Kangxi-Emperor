@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "三十日壬子",
+ "event_role": "朝见受贺",
+ "summary": "古北口守御喇萨里等、古北路都司施纯等来朝。",
+ "people": [
+  {
+   "name": "喇萨里",
+   "role": "古北口守御"
+  },
+  {
+   "name": "施纯",
+   "role": "古北路都司"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18210,
+ "page_range": "399-400"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "谷城县阵亡游击谭有禄，部议令其子元德候补守备，康熙命照应授品级于旗下员缺补用，并令察明各旗汉军武职官员之子应补员缺人数。",
+ "people": [
+  {
+   "name": "谭有禄",
+   "role": "阵亡游击"
+  },
+  {
+   "name": "谭元德",
+   "role": "谭有禄之子"
+  }
+ ],
+ "places": [
+  "谷城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 400,
+ "page_range": "51-52"
+}

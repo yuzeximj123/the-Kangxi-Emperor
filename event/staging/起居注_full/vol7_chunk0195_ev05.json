@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初九日甲午",
+ "event_role": "谕旨决策",
+ "summary": "户部覆四川巡抚年羹尧所题停止编审、视粮征收丁银事，康熙帝令收贮条奏本，待其条奏到日再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚"
+  }
+ ],
+ "places": [
+  "茂州",
+  "汶川",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19505,
+ "page_range": "401-402"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "summary": "康熙帝以刑部关系人命，提议礼部尚书郭四海以礼部尚书衔管刑部事，明珠称可，帝命会议拟票来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭四海",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6508,
+ "page_range": "173-174"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问江南众官内学问好者，张鹏翮奏称学问好者须忠君爱国实心办事，仅能诗文而素行不合者不得谓之学问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "臣工"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 507,
+ "page_range": "20-21"
+}

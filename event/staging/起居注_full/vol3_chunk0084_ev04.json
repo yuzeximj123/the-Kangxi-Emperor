@@ -1,0 +1,33 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十四日甲申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论国子监职司教育，批评徐元文之后因循苟且成流弊，并论翰林院须操履清廉以免需索礼仪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元文",
+   "role": "前祭酒"
+  },
+  {
+   "name": "阿礼瑚",
+   "role": "被点名者"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "国子监",
+  "翰林院"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8404,
+ "page_range": "203-204"
+}

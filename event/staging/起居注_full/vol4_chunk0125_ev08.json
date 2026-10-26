@@ -1,0 +1,33 @@
+{
+ "reign_year": 29,
+ "month": 6,
+ "day_text": "二十四日癸未",
+ "event_role": "人事任免",
+ "summary": "吏部题偏沅巡抚郑端调补、福建巡抚张促举革职员缺，康熙帝命于养志升偏沅巡抚、卞永誉升福建巡抚。",
+ "people": [
+  {
+   "name": "于养志",
+   "role": "升偏沅巡抚"
+  },
+  {
+   "name": "卞永誉",
+   "role": "升福建巡抚"
+  },
+  {
+   "name": "郑端",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "张促举",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "偏沅",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12508,
+ "page_range": "262-263"
+}

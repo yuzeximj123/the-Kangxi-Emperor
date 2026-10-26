@@ -1,0 +1,21 @@
+{
+ "reign_year": 30,
+ "month": 6,
+ "day_text": "二十四日戊实",
+ "event_role": "议政听政",
+ "summary": "康熙御畅春园内瀹宁居，听部院各衙门官员面奏政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "瀹宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15403,
+ "page_range": "320-321"
+}

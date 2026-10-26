@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 4,
+ "day_text": "十五日庚午",
+ "event_role": "朝见受贺",
+ "summary": "古北口居住拖沙勒哈番顾尔拜、总兵官蔡元、霸昌道许兆刨等来朝见。",
+ "people": [
+  {
+   "name": "顾尔拜",
+   "role": "拖沙勒哈番"
+  },
+  {
+   "name": "蔡元",
+   "role": "总兵官"
+  },
+  {
+   "name": "许兆刨",
+   "role": "霸昌道"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14720,
+ "page_range": "306-307"
+}

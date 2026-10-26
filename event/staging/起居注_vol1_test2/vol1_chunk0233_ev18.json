@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初六日乙丑",
+ "event_role": "军务",
+ "summary": "福建提督侯袭和奏立营海岸声言进取以分海贼兵力，康熙帝以其前后不合命饬行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "侯袭和",
+   "role": "福建提督"
+  }
+ ],
+ "places": [
+  "厦门",
+  "海岸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23318,
+ "page_range": "523-524"
+}

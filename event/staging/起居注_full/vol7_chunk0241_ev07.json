@@ -1,0 +1,36 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "温达等奏问原任四川巡抚能泰奏请开矿事，康熙帝言其一面奏请一面即行，并论手批谕旨俱在督抚处。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "能泰",
+   "role": "原任四川巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈锡",
+   "role": "前巡抚"
+  },
+  {
+   "name": "俞文言",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24107,
+ "page_range": "493-494"
+}

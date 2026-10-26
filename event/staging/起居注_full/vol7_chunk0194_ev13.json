@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初二日丁雍",
+ "event_role": "请安谢恩",
+ "summary": "是日康熙帝放流油为德行富问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "流油",
+   "role": "问安者"
+  },
+  {
+   "name": "德行富",
+   "role": "受问安者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19413,
+ "page_range": "399-400"
+}

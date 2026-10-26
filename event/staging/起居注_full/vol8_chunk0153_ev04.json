@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部等题西安将军席柱贻误军机、贪滥受贿应革职立绞，康熙斥其当斩，称已调吴智，令回讲之日具奏。",
+ "people": [
+  {
+   "name": "席柱",
+   "role": "西安将军"
+  },
+  {
+   "name": "吴智",
+   "role": "调任官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15304,
+ "page_range": "317-318"
+}

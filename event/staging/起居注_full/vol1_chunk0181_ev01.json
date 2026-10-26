@@ -1,0 +1,25 @@
+{
+ "reign_year": 18,
+ "month": 4,
+ "day_text": "十七日辛已",
+ "event_role": "其他",
+ "summary": "康熙帝途经国伦端顺长公主及辅政大臣一等公索尼墓，遣内大臣吴默讷各以酒奠之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴默讷",
+   "role": "内大臣"
+  }
+ ],
+ "places": [
+  "国伦端顺长公主墓",
+  "索尼墓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18101,
+ "page_range": "419-420"
+}

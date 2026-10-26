@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "初四日戊午",
+ "event_role": "祭祀典礼",
+ "summary": "太常寺题十二月二十五日文皇后忌辰应遣官祭暂安奉殿，康熙帝令遣官行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "文皇后",
+   "role": "忌辰祭祀对象"
+  }
+ ],
+ "places": [
+  "暂安奉殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19714,
+ "page_range": "405-406"
+}

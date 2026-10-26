@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题贾占儿砍伤伊主筑代拟立斩，康熙帝询问明珠等意见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "贾占儿",
+   "role": "罪犯"
+  },
+  {
+   "name": "筑代",
+   "role": "被害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11703,
+ "page_range": "269-270"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 16,
+ "month": 5,
+ "day_text": "十二日",
+ "event_role": "皇帝行止",
+ "summary": "申时康熙帝召喇沙里、沈荃至懋勤殿，谕称昨日幸香山寺登来青轩，题“普照乾坤”四字并记数语。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "沈荃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "懋勤殿",
+  "香山寺",
+  "来青轩"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13631,
+ "page_range": "329-330"
+}

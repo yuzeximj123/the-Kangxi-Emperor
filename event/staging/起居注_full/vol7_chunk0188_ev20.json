@@ -1,0 +1,36 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初七日壬戌",
+ "event_role": "司法案件",
+ "summary": "覆请刑部等衙门所题湖广缓决案内折角事，康熙帝逐一指摘情罪，令罗贵儿等改拟。",
+ "people": [
+  {
+   "name": "罗贵儿",
+   "role": "案犯"
+  },
+  {
+   "name": "罗子云",
+   "role": "案犯"
+  },
+  {
+   "name": "勾子",
+   "role": "案犯"
+  },
+  {
+   "name": "赵白玉",
+   "role": "案犯"
+  },
+  {
+   "name": "雷美贞",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18820,
+ "page_range": "387-388"
+}

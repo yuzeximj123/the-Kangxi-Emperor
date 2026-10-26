@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "太原总兵官金国正题请以臣标下游击杨辅世补授太原营参将，康熙帝准照所请补授。",
+ "people": [
+  {
+   "name": "金国正",
+   "role": "太原总兵官"
+  },
+  {
+   "name": "杨辅世",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "太原营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21600,
+ "page_range": "443-444"
+}

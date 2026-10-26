@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "十六日成子",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝御乾清宫，讲官牛钮、陈廷敬、孙在丰进讲井卦。",
+ "people": [
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18810,
+ "page_range": "419-420"
+}

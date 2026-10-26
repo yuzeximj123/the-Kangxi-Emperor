@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "三十日",
+ "event_role": "人事任免",
+ "summary": "议江南巡抚汤斌请留降级调用之常州府知府祖进朝原任，康熙帝询问诸臣。",
+ "people": [
+  {
+   "name": "汤斌",
+   "role": "江南巡抚"
+  },
+  {
+   "name": "祖进朝",
+   "role": "常州府知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "常州府",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11009,
+ "page_range": "255-256"
+}

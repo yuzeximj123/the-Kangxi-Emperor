@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": "初三日丙午",
+ "event_role": "人事任免",
+ "summary": "川陕总督乌赫题请松潘镇总兵周文英在任守制，康熙帝以其材力壮健、居官亦善，准照所请。",
+ "people": [
+  {
+   "name": "乌赫",
+   "role": "川陕总督"
+  },
+  {
+   "name": "周文英",
+   "role": "松潘镇总兵"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "松潘镇",
+  "神木"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4507,
+ "page_range": "100-101"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "初八日甲子",
+ "event_role": "谕旨决策",
+ "summary": "兵部以侍卫执事人等所乘马匹请旨，亲近侍卫海青等传谕领侍卫内大臣索额图，侍卫、蓝翎各给马五匹。",
+ "people": [
+  {
+   "name": "海青",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20427,
+ "page_range": "418-419"
+}

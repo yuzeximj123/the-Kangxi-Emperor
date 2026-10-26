@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议平阳府知府王辅称被噶礼挟仇参劾拟死罪，康熙帝命将王辅欠银及是否被参问九卿回奏，并指噶礼所保秦棠、赵风诏未必胜于王辅。",
+ "people": [
+  {
+   "name": "王辅",
+   "role": "平阳府知府"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  },
+  {
+   "name": "秦棠",
+   "role": "噶礼所保官员"
+  },
+  {
+   "name": "赵风诏",
+   "role": "噶礼所保官员"
+  }
+ ],
+ "places": [
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5503,
+ "page_range": "121-122"
+}

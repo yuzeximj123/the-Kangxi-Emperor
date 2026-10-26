@@ -1,0 +1,25 @@
+{
+ "reign_year": 15,
+ "month": 6,
+ "day_text": "十四日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "未时，康熙帝御乾清门赐杨茂勋食，询问招兵事宜，谕令其安抚军民、有方略具本陈奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨茂勋",
+   "role": "郧阳抚治"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "郧阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11634,
+ "page_range": "289-290"
+}

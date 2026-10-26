@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "皇帝谕明珠等，武举袁丽等四人马步箭及技艺俱不堪，姓名不必填入榜内，黄册错误交吏部、都察院察议。",
+ "people": [
+  {
+   "name": "袁丽",
+   "role": "武举"
+  },
+  {
+   "name": "胡之培",
+   "role": "武举"
+  },
+  {
+   "name": "李纬",
+   "role": "武举"
+  },
+  {
+   "name": "黄兆",
+   "role": "武举"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11205,
+ "page_range": "259-260"
+}

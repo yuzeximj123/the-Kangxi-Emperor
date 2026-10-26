@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政大臣奏请将都御史于成龙等所运米只运三分之一至郭多里巴尔哈孙，余留现到地方，并撤一月之粮交于成龙收贮备用。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "都御史"
+  },
+  {
+   "name": "哈雅尔图",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "郭多里巴尔哈孙",
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23500,
+ "page_range": "480-481"
+}

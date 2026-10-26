@@ -1,0 +1,33 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙论热河及黄河水势堤岸，述于成龙、董安国修河致坏，张鹏翮遵指授成功，并回忆亲勘河工标记御坝。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "河臣"
+  },
+  {
+   "name": "董安国",
+   "role": "河臣"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "和硕色",
+   "role": "河工官员"
+  }
+ ],
+ "places": [
+  "热河",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2808,
+ "page_range": "67-68"
+}

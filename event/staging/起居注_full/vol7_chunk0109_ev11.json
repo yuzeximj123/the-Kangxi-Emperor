@@ -1,0 +1,33 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初八日乙丑",
+ "event_role": "人事任免",
+ "summary": "吏部奏江苏按察使高必弘员缺，拟申奇贵拟正，康熙命以张伯行升补江苏按察使司按察使。",
+ "people": [
+  {
+   "name": "高必弘",
+   "role": "江苏按察使"
+  },
+  {
+   "name": "申奇贵",
+   "role": "拟正人员"
+  },
+  {
+   "name": "张伯行",
+   "role": "新任江苏按察使"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江苏",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10911,
+ "page_range": "229-230"
+}

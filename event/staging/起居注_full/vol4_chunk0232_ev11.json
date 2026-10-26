@@ -1,0 +1,32 @@
+{
+ "reign_year": 32,
+ "month": 4,
+ "day_text": "二十一日",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御保和殿，赐达赖喇嘛正副使及众台吉使臣等食。",
+ "people": [
+  {
+   "name": "查木巴领堪木布",
+   "role": "达赖喇嘛正使"
+  },
+  {
+   "name": "西喇布扎木三圳苏达赖",
+   "role": "达赖喇嘛副使"
+  },
+  {
+   "name": "威正齐呼拉帝桑",
+   "role": "汉之使臣"
+  },
+  {
+   "name": "丹津巴图尔",
+   "role": "使臣"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23211,
+ "page_range": "476-477"
+}

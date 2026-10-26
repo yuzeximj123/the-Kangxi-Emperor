@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "初六日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "荆元实又奏亏空钱粮令巡抚以下分赔，康熙帝以浙江江南亏空非一任所致，恐派取民间，不准行并问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "荆元实",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4707,
+ "page_range": "104-105"
+}

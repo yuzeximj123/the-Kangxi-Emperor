@@ -1,0 +1,42 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就水西产银及征讨旧事谕令不可生事，命将石文晟等奏折抄发湖南巡抚赵申乔、湖广提督俞益谟各抒己见速奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石文晟",
+   "role": "官员"
+  },
+  {
+   "name": "赵申乔",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "俞益谟",
+   "role": "湖广提督"
+  },
+  {
+   "name": "席尔达",
+   "role": "尚书"
+  },
+  {
+   "name": "刘夏衡",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "水西",
+  "湖南",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10800,
+ "page_range": "227-228"
+}

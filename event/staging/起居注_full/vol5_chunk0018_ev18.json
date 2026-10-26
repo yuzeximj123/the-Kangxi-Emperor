@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初六日癸卯",
+ "event_role": "人事任免",
+ "summary": "吏部题总督佛伦疏请将知县蒋陈锡等行取，议不准行；康熙帝以陕西被灾赈济勤劳，准如所请行取。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "总督"
+  },
+  {
+   "name": "蒋陈锡",
+   "role": "知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1818,
+ "page_range": "46-47"
+}

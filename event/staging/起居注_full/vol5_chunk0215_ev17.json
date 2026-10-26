@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十三日癸巳",
+ "event_role": "人事任免",
+ "summary": "吴达禅传谕，护军统领鄂克济哈既驻宁夏，其相关事务待后续安排。",
+ "people": [
+  {
+   "name": "吴达禅",
+   "role": "一等侍卫副都统"
+  },
+  {
+   "name": "鄂克济哈",
+   "role": "护军统领"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21517,
+ "page_range": "440-441"
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙伍拾壹年玖月贰拾日",
+ "reign_year": 51,
+ "month": 9,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "赫寿遵旨回任江南后具奏谢恩，并请求允准随班叩谒觐见天颜，以伸依恋之情。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "总督江南江西等处地方提督军务兼理粮饷兵部尚书兼都察院右副都御史，具奏人"
+  },
+  {
+   "name": "李保住",
+   "role": "具折家人，赍捧奏折至热河行在"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西",
+  "热河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批告知已闻其谢恩之奏，并无其他旨意，并问朕安。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 108
+}

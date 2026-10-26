@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十二年七月二十四日",
+ "reign_year": 52,
+ "month": 7,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "闽浙总督范时崇上折向康熙帝请安，康熙朱批指出此番内不当请安，不合。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "福建浙江总督"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批评范时崇此番请安不合时宜。",
+ "source_title": "閩浙總督范時崇奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1398",
+ "order_index": 26
+}

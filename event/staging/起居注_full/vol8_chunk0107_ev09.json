@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕及吴三桂旧部归顺后宽宥发回、卢道清等效力及攻取尼普楚鸭克萨城宽遣骂尔斯等事，示宽仁之意。",
+ "people": [
+  {
+   "name": "吴三桂",
+   "role": "叛臣"
+  },
+  {
+   "name": "王辅臣",
+   "role": "叛臣"
+  },
+  {
+   "name": "卢道清",
+   "role": "吧哆头目"
+  }
+ ],
+ "places": [
+  "平凉",
+  "保宁",
+  "四川",
+  "尼普楚",
+  "鸭克萨城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10709,
+ "page_range": "225-226"
+}

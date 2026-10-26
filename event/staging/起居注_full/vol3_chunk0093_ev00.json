@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "九卿等以四海升平、政事简少为由，请大朝之期及大雨大雪、大寒大暑日暂停启奏，康熙帝不允，令章奏仍交衙门，仅大雪大雨临时请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "九卿",
+   "role": "朝臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9300,
+ "page_range": "221-222"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "十六日壬申",
+ "event_role": "人事任免",
+ "summary": "吏部题补理藩院郎中朱虎降调员缺，拟布延图正、易道陪，康熙以易道为人颇优，命补授郎中。",
+ "people": [
+  {
+   "name": "朱虎",
+   "role": "理藩院郎中"
+  },
+  {
+   "name": "布延图",
+   "role": "员外郎"
+  },
+  {
+   "name": "易道",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12205,
+ "page_range": "279-280"
+}

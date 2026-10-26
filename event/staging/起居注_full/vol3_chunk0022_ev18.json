@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十三日戊午",
+ "event_role": "军务",
+ "summary": "明珠奏台湾总兵官员缺应于现任总兵内拣选调补，三年调补内地，康熙帝命开列现任总兵及参领职名具奏。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2218,
+ "page_range": "79-80"
+}

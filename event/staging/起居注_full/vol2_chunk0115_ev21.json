@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 3,
+ "day_text": "十四日壬戌",
+ "event_role": "人事任免",
+ "summary": "兵部题补杭州左翼副都统员缺，开列参领祖译小等十人；康熙帝采纳明珠意见，以真定总兵官石文炳补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "石文炳",
+   "role": "真定总兵官"
+  },
+  {
+   "name": "祖译小",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "杭州",
+  "真定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11521,
+ "page_range": "273-274"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初七日丙申",
+ "event_role": "朝见受贺",
+ "summary": "礼部侍郎额星格奏宁远靖寇大将军和硕安亲王自湖广凯旋请驾郊迎，康熙询问应出何门，认为所议未详审，命再议具奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "额星格",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "和硕安亲王",
+   "role": "宁远靖寇大将军"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22609,
+ "page_range": "509-510"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "总河张鹏翮奏请挑浚中河，康熙帝准照所请动支钱粮速行修筑。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "于成龙",
+   "role": "前河臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中河",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17302,
+ "page_range": "356-357"
+}

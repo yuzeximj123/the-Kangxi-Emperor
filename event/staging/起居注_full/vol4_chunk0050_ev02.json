@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以知府二十一缺，补授翰林官李涛、丁廷桂、汪相及汉军汉人郎中十一人、同知七人共二十一人为知府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李涛",
+   "role": "翰林官"
+  },
+  {
+   "name": "丁廷桂",
+   "role": "翰林官"
+  },
+  {
+   "name": "汪相",
+   "role": "翰林官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5002,
+ "page_range": "112-113"
+}

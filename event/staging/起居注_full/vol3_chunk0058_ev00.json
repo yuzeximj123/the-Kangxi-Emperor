@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝回至天妃阅，渡清口，又阅黄河南岸高家湾、谈家口及龙富等险工，驻桃源县北关。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天妃阅",
+  "清口",
+  "黄河南岸",
+  "高家湾",
+  "谈家口",
+  "龙富",
+  "桃源县北关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5800,
+ "page_range": "151-152"
+}

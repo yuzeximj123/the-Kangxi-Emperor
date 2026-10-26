@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 8,
+ "day_text": "初十日乙丑",
+ "event_role": "其他",
+ "summary": "宴毕康熙帝赐蒙古王、贝勒、贝子、公、台吉等鱼，又赐索伦乡导默楞格等七人及黑龙江将军地方定设围场之乡导、傣领多尔退等三十二人白金。",
+ "people": [
+  {
+   "name": "默楞格",
+   "role": "索伦乡导"
+  },
+  {
+   "name": "多尔退",
+   "role": "傣领"
+  }
+ ],
+ "places": [
+  "黑龙江将军地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21130,
+ "page_range": "432-433"
+}

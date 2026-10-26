@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "皇太子命汤斌展书指定《大学》《论语》章节，皇太子讲解洞中理解，汤斌、博济、叔元等启奏称赞。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  },
+  {
+   "name": "博济",
+   "role": "大臣"
+  },
+  {
+   "name": "叔元",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23801,
+ "page_range": "511-512"
+}

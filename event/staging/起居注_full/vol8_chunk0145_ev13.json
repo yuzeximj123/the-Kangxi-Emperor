@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "十六日乙效",
+ "event_role": "司法案件",
+ "summary": "大学士马齐等以折本请旨，覆请刑部所题将放米时抗拒监督之民黄承德议充军一蓝，康熙帝以其议甚轻命发往黑龙江等处，将本发回另议具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "查弱纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "黄承德",
+   "role": "民"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14513,
+ "page_range": "301-302"
+}

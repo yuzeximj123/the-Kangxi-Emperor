@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "二十三日甲实",
+ "event_role": "人事任免",
+ "summary": "大学士松柱等奏遵旨以卓异知府王以哮等问九卿，九卿举出陆安府知府段如曹等六员，康熙命所举六人及未保举三人俱带来引见。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "王以哮",
+   "role": "卓异知府"
+  },
+  {
+   "name": "段如曹",
+   "role": "陆安府知府"
+  }
+ ],
+ "places": [
+  "陆安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13317,
+ "page_range": "277-278"
+}

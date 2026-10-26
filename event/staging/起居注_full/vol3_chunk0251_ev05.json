@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": "初五日庚辰",
+ "event_role": "人事任免",
+ "summary": "兵部题佐领恩格礼调补员缺，康熙帝以纳尔库骑射不堪且诡言，命革去笔帖式交该王当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "恩格礼",
+   "role": "佐领"
+  },
+  {
+   "name": "查辛",
+   "role": "散骑郎"
+  },
+  {
+   "name": "纳尔库",
+   "role": "候补笔帖式"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25105,
+ "page_range": "537-538"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝训谕兴永朝洁己率属、抚恤小民，并注重文武和睦、调辑兵民。",
+ "people": [
+  {
+   "name": "兴永朝",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙",
+  "闽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8502,
+ "page_range": "182-183"
+}

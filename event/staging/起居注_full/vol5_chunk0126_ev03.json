@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "初四日己未",
+ "event_role": "谕旨决策",
+ "summary": "康熙谕大学士伊桑阿，令运粮左都御史于成龙将后运粮中六七千石选牲口速运至拖陵预备，余粮留贮喀伦近地以备凯旋。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "运粮左都御史"
+  }
+ ],
+ "places": [
+  "拖陵",
+  "喀伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12603,
+ "page_range": "262-263"
+}

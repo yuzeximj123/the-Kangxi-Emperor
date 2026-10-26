@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "初五日乙酉",
+ "event_role": "司法案件",
+ "summary": "江宁巡抚吴存礼题大盗吕三等照例即行正法，康熙帝问拟斩人数后命照前例完结。",
+ "people": [
+  {
+   "name": "吕三",
+   "role": "大盗"
+  },
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "酒克旦",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21217,
+ "page_range": "435-436"
+}

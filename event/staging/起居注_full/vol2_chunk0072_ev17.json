@@ -1,0 +1,46 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初八日戊子",
+ "event_role": "人事任免",
+ "summary": "议政王等会推正蓝旗蒙古副都统员缺，康熙帝询问雅海为人及所属，因安亲王所属已多，改授孙塔哈为副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雅海",
+   "role": "前锋参领"
+  },
+  {
+   "name": "孙塔哈",
+   "role": "护军参领"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒贝",
+   "role": "都统"
+  },
+  {
+   "name": "黎图",
+   "role": "副都统"
+  },
+  {
+   "name": "杨代",
+   "role": "副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7217,
+ "page_range": "187-188"
+}

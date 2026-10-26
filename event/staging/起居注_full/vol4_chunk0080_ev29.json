@@ -1,0 +1,29 @@
+{
+ "reign_year": 28,
+ "month": 8,
+ "day_text": "初五日戊辰",
+ "event_role": "其他",
+ "summary": "赐宁古塔将军佟宝弓箭、撒袋、蟒缎、披领、鞍马一匹，宁古塔副都统巴尔达、云南巡抚王继文鞍马各一匹。",
+ "people": [
+  {
+   "name": "佟宝",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "巴尔达",
+   "role": "宁古塔副都统"
+  },
+  {
+   "name": "王继文",
+   "role": "云南巡抚"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8029,
+ "page_range": "172-173"
+}

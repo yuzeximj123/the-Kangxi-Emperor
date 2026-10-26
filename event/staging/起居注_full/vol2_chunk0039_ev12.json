@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十四日戊戌",
+ "event_role": "贸易漕运",
+ "summary": "荷兰国请于福建不时互市，礼部议不允，康熙帝咨询诸臣后命依部议。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3912,
+ "page_range": "121-122"
+}

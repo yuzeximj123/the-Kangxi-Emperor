@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝述及先令直隶巡抚开河分泄耍儿渡水势，今阅堤岸见水患已除、百姓称便，并议武清县堤外筑重堤、暂树桩护岸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "耍儿渡",
+  "武清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4203,
+ "page_range": "94-95"
+}

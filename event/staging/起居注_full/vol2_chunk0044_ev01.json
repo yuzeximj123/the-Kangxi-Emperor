@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院题请实授监察御史任表伟，康熙帝以其人甚劣应即罢黜，后从该院议。",
+ "people": [
+  {
+   "name": "任表伟",
+   "role": "监察御史"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4401,
+ "page_range": "131-132"
+}

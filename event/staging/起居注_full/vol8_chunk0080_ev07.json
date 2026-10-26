@@ -1,0 +1,40 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论布政司件钦元居官甚好，张伯行参其交通海贼多疑所致，张伯行操守虽清为人糊涂无办事之才，陈鹏年有才今召进致张伯行事多舛错。",
+ "people": [
+  {
+   "name": "件钦元",
+   "role": "布政司"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "张鹏副",
+   "role": "钦差"
+  },
+  {
+   "name": "赫寿",
+   "role": "总督"
+  },
+  {
+   "name": "陈鹏年",
+   "role": "原任知府"
+  },
+  {
+   "name": "噶礼",
+   "role": "原任总督"
+  }
+ ],
+ "places": [
+  "黄天荡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8007,
+ "page_range": "171-172"
+}

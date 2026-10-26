@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "十七日丙申",
+ "event_role": "司法案件",
+ "summary": "康熙帝阅萧理保因旧怨持小刀戳死三保案，以情罪无可原著勾去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萧理保",
+   "role": "罪犯"
+  },
+  {
+   "name": "三保",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24123,
+ "page_range": "493-494"
+}

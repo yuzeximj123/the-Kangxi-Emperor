@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "初二日成成",
+ "event_role": "人事任免",
+ "summary": "詹事府赞善尤珍员缺，开列编修沈三曾等八人，康熙帝以沈三曾学好人优，着升补赞善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尤珍",
+   "role": "詹事府赞善，员缺"
+  },
+  {
+   "name": "沈三曾",
+   "role": "编修，升补赞善"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3118,
+ "page_range": "72-73"
+}

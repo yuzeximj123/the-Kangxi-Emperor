@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "户部覆浙江巡抚张僵题请豁免已故原丰城县柿源巡检李森亏空米石追赔，康熙帝以恐致亏空增多为由不准，令督抚代赔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张僵",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "李森",
+   "role": "原丰城县柿源巡检"
+  }
+ ],
+ "places": [
+  "丰城县",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16201,
+ "page_range": "334-335"
+}

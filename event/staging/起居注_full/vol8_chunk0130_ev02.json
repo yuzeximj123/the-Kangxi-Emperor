@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "初十日辛未",
+ "event_role": "议政听政",
+ "summary": "康熙帝御汤泉行宫，大学士松柱等以折本请旨，处理兵部等衙门题奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "酒克旦",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "汤泉行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13002,
+ "page_range": "271-272"
+}

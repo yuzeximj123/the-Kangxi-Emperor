@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初二日甲成",
+ "event_role": "人事任免",
+ "summary": "广西宣化县知县白几员缺，康熙帝命以候补知县吴成补授，并令规避广西甘肃者记名仍补该地。",
+ "people": [
+  {
+   "name": "吴成",
+   "role": "候补知县"
+  }
+ ],
+ "places": [
+  "广西",
+  "宣化县",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7207,
+ "page_range": "155-156"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十一日戊寅",
+ "event_role": "其他",
+ "summary": "康熙帝御瀛台前亭，赐进贡吴喇忒部落三等台吉乌尔图等、四品台吉鄂莫等茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "乌尔图",
+   "role": "吴喇忒部落三等台吉"
+  },
+  {
+   "name": "鄂莫",
+   "role": "吴喇忒部落四品台吉"
+  }
+ ],
+ "places": [
+  "瀛台前亭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25120,
+ "page_range": "559-560"
+}

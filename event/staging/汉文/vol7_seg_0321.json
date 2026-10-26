@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十五年五月初九日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 9,
+ "event_role": "奏报地方情形",
+ "summary": "山东巡抚李树德据实奏明东省捐纳米石分贮各州县卫所，原系折价领银采买，现查买贮情况并请缓买、清查亏空，以防累民。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚，奏折作者"
+  },
+  {
+   "name": "蒋陈锡",
+   "role": "前任山东巡抚，题请分拨捐纳米石"
+  }
+ ],
+ "places": [
+  "山东",
+  "东省",
+  "济宁",
+  "东昌府",
+  "通省各州县卫所"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "河南巡抚李锡奏陈仍进豫章四十箱折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 321
+}

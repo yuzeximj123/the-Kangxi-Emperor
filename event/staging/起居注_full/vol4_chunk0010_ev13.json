@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "十五日戊午",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁侍读学士阿喇密升任员缺，以马喇拟正、达移拟陪，康熙帝谕达移品行乖良、居官亦劣，着以旗缺用，马喇平常，另行选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿喇密",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "马喇",
+   "role": "理藩院郎中"
+  },
+  {
+   "name": "达移",
+   "role": "司业"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1013,
+ "page_range": "32-33"
+}

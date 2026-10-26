@@ -1,0 +1,46 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "二十四日癸酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝览范承谟、马雄镇碑文，称二人抗节不屈，命翰林院再行改撰，优加表扬以励风节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承谟",
+   "role": "忠臣"
+  },
+  {
+   "name": "马雄镇",
+   "role": "忠臣"
+  },
+  {
+   "name": "金光祖",
+   "role": "督抚"
+  },
+  {
+   "name": "刘秉政",
+   "role": "督抚"
+  },
+  {
+   "name": "草申吉",
+   "role": "督抚"
+  },
+  {
+   "name": "罗森",
+   "role": "督抚"
+  },
+  {
+   "name": "卢震",
+   "role": "督抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8020,
+ "page_range": "203-204"
+}

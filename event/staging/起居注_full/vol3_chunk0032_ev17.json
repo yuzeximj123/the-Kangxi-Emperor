@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "二十三日己巳",
+ "event_role": "议政听政",
+ "summary": "康熙帝比较汤斌与徐乾学，常书等奏汤斌道学优长、徐乾学文章富丽。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "学士"
+  },
+  {
+   "name": "徐乾学",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3217,
+ "page_range": "99-100"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "三十日戊辰",
+ "event_role": "奏报灾情收成",
+ "summary": "户部题直隶巡抚郭世隆疏称霸州等十州县水灾请赈，康熙帝令将天津等处仓米减价粜卖以益灾民，并与九卿详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭世隆",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "霸州",
+  "通州",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 515,
+ "page_range": "20-21"
+}

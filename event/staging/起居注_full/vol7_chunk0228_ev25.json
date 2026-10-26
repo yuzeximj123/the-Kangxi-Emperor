@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 8,
+ "day_text": "十三日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕：张积护母殴死张慎，母老无养，着九卿、詹事、科、道会同再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张积",
+   "role": "案犯"
+  },
+  {
+   "name": "张慎",
+   "role": "死者"
+  },
+  {
+   "name": "侠氏",
+   "role": "张积之母"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22825,
+ "page_range": "467-468"
+}

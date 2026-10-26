@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": "十七日乙未",
+ "event_role": "人事任免",
+ "summary": "翰林院以经筵讲官、刑部尚书图纳等员缺开列侍郎管翰林院事阿山等职名，康熙帝命选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "阿山",
+   "role": "侍郎管翰林院事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 516,
+ "page_range": "20-21"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "二十一日己酉",
+ "event_role": "司法案件",
+ "summary": "吏部议宣化府知府陈一朝等不申报营盘口外逃贼应革职，康熙帝命从宽免革职，各降二级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘尝",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "陈一朝",
+   "role": "宣化府知府"
+  },
+  {
+   "name": "李德功",
+   "role": "逃贼"
+  }
+ ],
+ "places": [
+  "宣化府",
+  "营盘口外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17015,
+ "page_range": "351-352"
+}

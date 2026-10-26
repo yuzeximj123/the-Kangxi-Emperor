@@ -1,0 +1,37 @@
+{
+ "reign_year": 53,
+ "month": 3,
+ "day_text": "十二日",
+ "event_role": "谕旨决策",
+ "summary": "工部侍郎常泰、大理寺少卿陈涩成往赈甘肃十四州县饥民请训旨，康熙帝指示教民牧养牛羊并介绍可食之物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常泰",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "陈涩成",
+   "role": "大理寺少卿"
+  },
+  {
+   "name": "鄂海",
+   "role": "总督"
+  },
+  {
+   "name": "岳拜",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5609,
+ "page_range": "123-124"
+}

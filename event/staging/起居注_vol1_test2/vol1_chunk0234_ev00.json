@@ -1,0 +1,49 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙与大学士议督捕侍郎金饶、刑部侍郎高玉、布政使王新命李士桢等补授，命九卿会推湖广钱粮官员。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李雳",
+   "role": "大学士"
+  },
+  {
+   "name": "金饶",
+   "role": "督捕侍郎"
+  },
+  {
+   "name": "高玉",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "王新命",
+   "role": "布政使"
+  },
+  {
+   "name": "李士桢",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "江西",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23400,
+ "page_range": "525-526"
+}

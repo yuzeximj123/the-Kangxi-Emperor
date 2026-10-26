@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "十五日癸卯",
+ "event_role": "朝见受贺",
+ "summary": "苏州都司吴开奇等、知州陈廷柏来朝。",
+ "people": [
+  {
+   "name": "吴开奇",
+   "role": "苏州都司"
+  },
+  {
+   "name": "陈廷柏",
+   "role": "知州"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18134,
+ "page_range": "372-373"
+}

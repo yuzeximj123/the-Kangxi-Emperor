@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "十九日癸未",
+ "event_role": "朝见受贺",
+ "summary": "通州仓监督刘光美等、通永道沈志达等、副将郝维圣等来朝见。",
+ "people": [
+  {
+   "name": "刘光美",
+   "role": "通州仓监督"
+  },
+  {
+   "name": "沈志达",
+   "role": "通永道"
+  },
+  {
+   "name": "郝维圣",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5002,
+ "page_range": "110-111"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "二十五日于辰",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门视朝，升转文武官员谢恩，喀尔喀部落台吉等行礼，赐茶后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "墨尔根代青台吉",
+   "role": "喀尔喀部落台吉"
+  },
+  {
+   "name": "额林臣台吉",
+   "role": "喀尔喀部落台吉"
+  },
+  {
+   "name": "西喇布台吉",
+   "role": "喀尔喀部落台吉"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6500,
+ "page_range": "142-143"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "初九日成午",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝问保定县知县李文英被灾分数，李文英奏北境被灾约四分已报巡抚，南境无灾。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李文英",
+   "role": "保定县知县"
+  }
+ ],
+ "places": [
+  "保定县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7719,
+ "page_range": "197-198"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝处置议处官员：马思喀革去领侍卫内大臣留内务府总管及佐领，巴浑德齐什降五级留任，硕落降二级留任，章京等革职留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马思喀",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "巴浑德齐什",
+   "role": "官员"
+  },
+  {
+   "name": "硕落",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2500,
+ "page_range": "60-61"
+}

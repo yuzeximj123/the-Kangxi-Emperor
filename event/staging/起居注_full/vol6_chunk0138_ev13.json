@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "初七日辛未",
+ "event_role": "河工水利",
+ "summary": "康熙帝问朝奇子牙河开浚情况，指出开河后水势东流恐妨运河，朝奇奏称难保仍由故道。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朝奇",
+   "role": "总理河道分司"
+  }
+ ],
+ "places": [
+  "子牙河",
+  "间庄",
+  "留庄",
+  "三角淀",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13813,
+ "page_range": "286-287"
+}

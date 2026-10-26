@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初一日辛已",
+ "event_role": "军务",
+ "summary": "康熙帝驻跸宁夏，议政大臣奏报阿南达疏称善巴凌堪布致书噶尔丹多尔济约盟会兵，请旨处置。",
+ "people": [
+  {
+   "name": "阿南达",
+   "role": "一等侍卫副都统"
+  },
+  {
+   "name": "噶尔丹多尔济",
+   "role": "蒙古台吉"
+  },
+  {
+   "name": "善巴凌堪布",
+   "role": "达赖喇嘛使者"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "察罕托落海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20401,
+ "page_range": "418-419"
+}

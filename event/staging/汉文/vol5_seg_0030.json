@@ -1,0 +1,29 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "广州将军管源忠遵旨奏报广东米价平稳、雨水调顺、晚禾茂盛，并陈述提督到任后整饬营汛、招抚山海贼寇，地方渐宁。",
+ "people": [
+  {
+   "name": "管源忠",
+   "role": "广州将军，奏报人"
+  },
+  {
+   "name": "提督",
+   "role": "广东提督，三月到任整饬营务"
+  }
+ ],
+ "places": [
+  "广州",
+  "广东"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "广州将军管源忠奏为遵旨奏报广东目下情形折",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 30
+}

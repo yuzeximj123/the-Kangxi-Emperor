@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "十二日戊戌",
+ "event_role": "河工水利",
+ "summary": "康熙帝问张鹏翮赵世显治河如何，张鹏翮奏称赵世显小心谨慎。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "赵世显",
+   "role": "总河"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16020,
+ "page_range": "331-332"
+}

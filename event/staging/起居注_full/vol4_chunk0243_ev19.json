@@ -1,0 +1,37 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "初五日乙亥",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御文华殿举行经筵大典，讲官张英、傅腊塔讲《四书》，傅继祖、彭孙通讲《书经》，毕宴于太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "讲官"
+  },
+  {
+   "name": "傅继祖",
+   "role": "讲官"
+  },
+  {
+   "name": "彭孙通",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24319,
+ "page_range": "498-499"
+}

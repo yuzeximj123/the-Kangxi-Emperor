@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命以俄罗腻补授护军参领。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "俄罗腻",
+   "role": "护军参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3000,
+ "page_range": "103-104"
+}

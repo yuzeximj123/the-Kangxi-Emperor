@@ -1,0 +1,45 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "初八日庚寅",
+ "event_role": "议政听政",
+ "summary": "议政大臣等议奏马思喀等所领兵留大同及右卫预备调遣事宜，奉旨依议。",
+ "people": [
+  {
+   "name": "马思喀",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "和常泰",
+   "role": "内大臣公"
+  },
+  {
+   "name": "鄂克济哈",
+   "role": "护军统领"
+  },
+  {
+   "name": "费扬古",
+   "role": "将军"
+  },
+  {
+   "name": "硕利",
+   "role": "前锋统领"
+  },
+  {
+   "name": "黄元",
+   "role": "副将"
+  },
+  {
+   "name": "阿尔拜",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "大同",
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17805,
+ "page_range": "366-367"
+}

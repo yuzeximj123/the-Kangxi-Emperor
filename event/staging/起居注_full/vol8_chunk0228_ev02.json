@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 12,
+ "day_text": "十五日乙未",
+ "event_role": "谕旨决策",
+ "summary": "近侍传谕：十七日朕诣宁寿宫先行亲奠，立于西阶，俟梓宫发引亲视升輴后回去，并称圣体安好未劳顿，令遍传众人心安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "近侍",
+   "role": "传谕者"
+  }
+ ],
+ "places": [
+  "宁寿宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22802,
+ "page_range": "467-468"
+}

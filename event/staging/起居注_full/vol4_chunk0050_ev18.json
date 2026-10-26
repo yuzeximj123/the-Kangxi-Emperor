@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 12,
+ "day_text": "十五日甲寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸米儿口，射殪三虎，大阿哥射殪一虎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "大阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "米儿口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5018,
+ "page_range": "112-113"
+}

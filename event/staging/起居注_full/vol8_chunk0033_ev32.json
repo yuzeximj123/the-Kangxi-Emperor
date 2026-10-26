@@ -1,0 +1,20 @@
+{
+ "reign_year": 52,
+ "month": 8,
+ "day_text": "二十日乙未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸红门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "红门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3332,
+ "page_range": "77-78"
+}

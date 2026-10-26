@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十二年六月",
+ "reign_year": 42,
+ "month": 6,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报漳州有人煽聚夺食，已将为首者杖毙，并请旨定夺后续题请事宜。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "吴陞",
+   "role": "联署人"
+  }
+ ],
+ "places": [
+  "漳州",
+  "福建",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批令与提督密议此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "57",
+ "source_title": "苏州织造李煦奏报漳州有人煽聚夺食已杖毙为首者摺",
+ "order_index": 49
+}

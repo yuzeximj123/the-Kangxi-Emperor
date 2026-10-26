@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "十八日丙辰",
+ "event_role": "皇帝行止",
+ "summary": "是日，康熙帝赴皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "问安对象"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1212,
+ "page_range": "34-35"
+}

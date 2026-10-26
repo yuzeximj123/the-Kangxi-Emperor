@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "初四日甲戌",
+ "event_role": "朝见受贺",
+ "summary": "山海关税差内阁侍读吴子祯、通判尚琨、总管山海关事务车尔百赫、都司洪见都等来朝。",
+ "people": [
+  {
+   "name": "吴子祯",
+   "role": "山海关税差内阁侍读"
+  },
+  {
+   "name": "尚琨",
+   "role": "通判"
+  },
+  {
+   "name": "车尔百赫",
+   "role": "总管山海关事务"
+  },
+  {
+   "name": "洪见都",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "山海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6014,
+ "page_range": "130-131"
+}

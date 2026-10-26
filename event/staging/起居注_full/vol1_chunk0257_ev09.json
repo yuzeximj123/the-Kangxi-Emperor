@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "十七日甲辰",
+ "event_role": "谕旨决策",
+ "summary": "兵部请遣本部才能司官料理福建回京官兵船只，康熙帝命依议行，并严饬禁止沿途勒索骚扰，违者从重治罪。",
+ "people": [
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25709,
+ "page_range": "571-572"
+}

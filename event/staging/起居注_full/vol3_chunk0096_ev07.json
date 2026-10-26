@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "古北口防御古尔拜等、古北路都司金书石春等来朝。",
+ "people": [
+  {
+   "name": "古尔拜",
+   "role": "古北口防御"
+  },
+  {
+   "name": "石春",
+   "role": "古北路都司金书"
+  }
+ ],
+ "places": [
+  "古北口",
+  "古北路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9607,
+ "page_range": "227-228"
+}

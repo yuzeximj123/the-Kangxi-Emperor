@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": "二十三日于寅",
+ "event_role": "人事任免",
+ "summary": "吏部题礼部右侍郎孙果解任员缺，康熙帝命升授巡抚图尔宕为礼部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙果",
+   "role": "礼部右侍郎"
+  },
+  {
+   "name": "图尔宕",
+   "role": "巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20913,
+ "page_range": "453-454"
+}

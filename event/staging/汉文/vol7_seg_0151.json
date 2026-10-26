@@ -1,0 +1,29 @@
+{
+ "date_raw": "四月二十七日",
+ "reign_year": null,
+ "month": 4,
+ "day": 27,
+ "event_role": "请安谢恩",
+ "summary": "王掞奏报自己脾腹洞泄、病情加重，恳请皇上颁赐治泄神药，并请求暂解阁务调养。",
+ "people": [
+  {
+   "name": "王掞",
+   "role": "上奏官员，患病请药"
+  },
+  {
+   "name": "李光地",
+   "role": "曾告知皇上製有治泄神药的大臣"
+  }
+ ],
+ "places": [
+  "热河",
+  "南书房"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知李光地泄时药量少尚未熟，旧药力大恐太热分心，令酌量使用并再养心腹，所收药未必对症，最能治汤，可派人去南书房取。",
+ "source_title": "王掞奏請賜藥並暫解閣務摺（殘）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 151
+}

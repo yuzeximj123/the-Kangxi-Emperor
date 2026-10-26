@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "御史吕兆琳请将汉中捐纳例移于西安，部议不允，康熙帝令再议，明珠奏陈就近捐纳之利。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吕兆琳",
+   "role": "御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "汉中",
+  "西安",
+  "四川",
+  "宝鸡",
+  "略阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 101,
+ "page_range": "45-46"
+}

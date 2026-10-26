@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "郭表奏称上河害民之事甚多，派车派夫在在骚动，屯田明系夺民已业，计亩重课实为累民，乃靳辅大负皇上。",
+ "people": [
+  {
+   "name": "郭表",
+   "role": "九卿官员"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "上河",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1517,
+ "page_range": "42-43"
+}

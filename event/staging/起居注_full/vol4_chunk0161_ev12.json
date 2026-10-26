@@ -1,0 +1,40 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "十八日己巳",
+ "event_role": "军务",
+ "summary": "议政大臣会议西安将军尼雅汉等不能尽力追剿巴图鲁厄尔克济农，拟革职降调，康熙帝分别裁决。",
+ "people": [
+  {
+   "name": "尼雅汉",
+   "role": "西安将军"
+  },
+  {
+   "name": "柏天艇",
+   "role": "副都统"
+  },
+  {
+   "name": "葛西",
+   "role": "郎中"
+  },
+  {
+   "name": "二郎保",
+   "role": "员外郎"
+  },
+  {
+   "name": "葛思泰",
+   "role": "总督"
+  },
+  {
+   "name": "巴图鲁厄尔克济农",
+   "role": "蒙古首领"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16112,
+ "page_range": "334-335"
+}

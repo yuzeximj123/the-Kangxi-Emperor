@@ -1,0 +1,34 @@
+{
+ "reign_year": 53,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论述钱法，称大小钱兼用便民，并追述科尔坤、佛伦、李光地等管理钱法旧事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "科尔坤",
+   "role": "前管理钱法官员"
+  },
+  {
+   "name": "佛伦",
+   "role": "前管理钱法官员"
+  },
+  {
+   "name": "李光地",
+   "role": "前直隶巡抚"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6702,
+ "page_range": "145-146"
+}

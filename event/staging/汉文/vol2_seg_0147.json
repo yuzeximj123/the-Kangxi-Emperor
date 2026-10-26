@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十七年十月初五日",
+ "reign_year": 47,
+ "month": 10,
+ "day": 18,
+ "event_role": "请安谢恩",
+ "summary": "偏沅巡抚赵申乔奏请圣安，报地方春雨米价渐贵，并代进西洋物品交南薰殿。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚都察院右副都御史，奏报人"
+  },
+  {
+   "name": "赵熊诏",
+   "role": "赵申乔家人，代赍捧奏折"
+  },
+  {
+   "name": "万若望",
+   "role": "西洋人，交进西洋物品"
+  }
+ ],
+ "places": [
+  "偏沅",
+  "南薰殿"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”。",
+ "source_title": "江寧織造曹寅奏報少寬聖懷並報江南民情摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "410",
+ "order_index": 147
+}

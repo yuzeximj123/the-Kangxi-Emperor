@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "理藩院员外郎鄂齐礼病裁员缺，康熙帝询问那燕泰、黑构二人，喇巴克奏其学平谨慎，帝命补拟正之人，并记巴图赖待后升。",
+ "people": [
+  {
+   "name": "鄂齐礼",
+   "role": "理藩院员外郎"
+  },
+  {
+   "name": "那燕泰",
+   "role": "拟正办事中书"
+  },
+  {
+   "name": "黑构",
+   "role": "拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "喇巴克",
+   "role": "学士"
+  },
+  {
+   "name": "巴图赖",
+   "role": "中书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19101,
+ "page_range": "425-426"
+}

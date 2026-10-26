@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "初五日己酉",
+ "event_role": "皇帝行止",
+ "summary": "裕亲王举殡，寅时康熙帝出东华门临王第奠酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和硕裕亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [
+  "东华门",
+  "裕亲王府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6421,
+ "page_range": "139-140"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "二十一日本未",
+ "event_role": "人事任免",
+ "summary": "吏部题广东巡抚杨琳员缺，以内阁学士顾悦履等职名开列，康熙以员缺紧要着问九卿具奏。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "顾悦履",
+   "role": "内阁学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "九卿",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16119,
+ "page_range": "333-334"
+}

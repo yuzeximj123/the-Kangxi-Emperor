@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "偏沅巡抚李发甲题大盗宋仁川拟立斩一案，康熙帝令大学士会同三法司将造意为首杀伤者一二人正法，余减等发黑龙江。",
+ "people": [
+  {
+   "name": "李发甲",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "宋仁川",
+   "role": "大盗案犯"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17705,
+ "page_range": "365-366"
+}

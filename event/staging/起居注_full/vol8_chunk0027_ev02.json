@@ -1,0 +1,31 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "九卿议请于盛京等地壮丁及投诚、流徙人员中选五百兵立水师左右二营，设副将等官，康熙帝认为兵多，命派司官往问盛京将军议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈尚义",
+   "role": "投诚首领"
+  },
+  {
+   "name": "郑尽心",
+   "role": "流徙宁古塔人员"
+  }
+ ],
+ "places": [
+  "盛京",
+  "锦州",
+  "宁古塔",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2702,
+ "page_range": "65-66"
+}

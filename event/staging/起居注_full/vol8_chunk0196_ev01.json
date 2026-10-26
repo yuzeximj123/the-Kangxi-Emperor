@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议覆江宁巡抚吴存礼所题大盗李元梅等照律即行处斩，康熙帝准照前完结。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "李元梅",
+   "role": "大盗"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19601,
+ "page_range": "403-404"
+}

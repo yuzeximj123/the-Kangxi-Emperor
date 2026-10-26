@@ -1,0 +1,21 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十一日庚辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸顺义县所属大东庄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺义县",
+  "大东庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7929,
+ "page_range": "168-169"
+}

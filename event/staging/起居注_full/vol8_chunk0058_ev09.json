@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 4,
+ "day_text": "初四日乙雍",
+ "event_role": "人事任免",
+ "summary": "吏部覆直隶巡抚赵弘题永定河分司根特满一年应更代，康熙帝命根特再留一年。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "根特",
+   "role": "永定河分司"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5809,
+ "page_range": "127-128"
+}

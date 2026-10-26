@@ -1,0 +1,48 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": "初十日癸巳",
+ "event_role": "人事任免",
+ "summary": "吏部题汉司官内升外转，康熙帝论宋文运、张鹏翮等廉吏，命此次升转停止。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "宋文运",
+   "role": "原任官员"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "原任江南总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15114,
+ "page_range": "312-313"
+}

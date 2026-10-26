@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "初二日癸北",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝率内大臣、侍卫、部院官员往明太祖陵，于孝陵前行三跪九叩头礼，次在宝城前奠酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "明太祖陵",
+  "孝陵",
+  "宝城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5602,
+ "page_range": "147-148"
+}

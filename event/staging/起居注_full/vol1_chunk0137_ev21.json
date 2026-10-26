@@ -1,0 +1,24 @@
+{
+ "reign_year": 16,
+ "month": 5,
+ "day_text": "二十日乙未",
+ "event_role": "皇帝行止",
+ "summary": "申时康熙帝召侍读牛钮至懋勤殿，命讲《大学》《中庸》各一节，讲毕命写字并亲书唐诗绝句一首。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "侍读"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13721,
+ "page_range": "331-332"
+}

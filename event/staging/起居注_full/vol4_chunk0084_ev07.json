@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "初五日戊戌",
+ "event_role": "人事任免",
+ "summary": "福州将军佟国瑶病故，康熙帝称其任事实心、廉介自持，令察例议给恤典。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国瑶",
+   "role": "福州将军"
+  }
+ ],
+ "places": [
+  "福州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8407,
+ "page_range": "180-181"
+}

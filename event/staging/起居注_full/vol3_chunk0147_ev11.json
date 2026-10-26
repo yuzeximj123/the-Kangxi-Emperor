@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初九日吴亥",
+ "event_role": "人事任免",
+ "summary": "兵部题补川北总兵官员缺，康熙帝以汉中副将马子云人材勇健、立有战功，命补授保宁总兵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马子云",
+   "role": "汉中副将"
+  }
+ ],
+ "places": [
+  "川北",
+  "汉中",
+  "保宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14711,
+ "page_range": "329-330"
+}

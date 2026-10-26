@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "十七日辛巳",
+ "event_role": "人事任免",
+ "summary": "康熙帝以河工笔帖式齐素勒明白练悉河工事务，着授为主事，协助分司料理河工事务。",
+ "people": [
+  {
+   "name": "齐素勒",
+   "role": "河工笔帖式"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11906,
+ "page_range": "248-249"
+}

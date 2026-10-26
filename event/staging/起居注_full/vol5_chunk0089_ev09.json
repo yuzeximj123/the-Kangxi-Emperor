@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "十一日已已",
+ "event_role": "人事任免",
+ "summary": "吏部题山东粮道刘安国员缺，拟以原任天津道朱士杰补授，康熙帝认为朱士杰庸常，命另选补用。",
+ "people": [
+  {
+   "name": "刘安国",
+   "role": "山东粮道"
+  },
+  {
+   "name": "朱士杰",
+   "role": "原任天津道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8909,
+ "page_range": "188-189"
+}

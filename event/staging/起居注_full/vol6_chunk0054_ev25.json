@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "初八日已卯",
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝御行宫宴诸王及蒙古王、内大臣、侍卫、文武诸臣，公安达西里等行三跪九叩头礼，进酒赐酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安达西里",
+   "role": "郭尔罗斯护国公"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5425,
+ "page_range": "118-119"
+}

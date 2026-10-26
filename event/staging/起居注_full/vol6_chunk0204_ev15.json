@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "初五日辛酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸宣化府西门外，总兵官尚宣率所属马步兵迎驾于二十里外，帝入行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尚宣",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "宣化府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20415,
+ "page_range": "418-419"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "二十日辛卯",
+ "event_role": "河工水利",
+ "summary": "康熙帝述西巡见汾渭与黄河相通，闻三门砥柱水势湍急船不能上，欲亲阅因陕州知州奏无路径未果。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汾",
+  "渭",
+  "黄河",
+  "三门砥柱",
+  "陕州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8719,
+ "page_range": "185-186"
+}

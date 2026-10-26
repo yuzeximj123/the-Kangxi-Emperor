@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 7,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "九卿奏潘宗洛任巡抚以来行事糊涂、才干平常不胜其任，康熙帝令回讲日奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "潘宗洛",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3109,
+ "page_range": "73-74"
+}

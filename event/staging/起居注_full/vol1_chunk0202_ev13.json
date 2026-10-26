@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "二十八日己丑",
+ "event_role": "人事任免",
+ "summary": "题补户部郎中员缺，正拟朱尔扎哈、陪拟复爱，康熙帝以朱尔扎哈办事无才，命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱尔扎哈",
+   "role": "正拟户部郎中"
+  },
+  {
+   "name": "复爱",
+   "role": "陪拟户部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20213,
+ "page_range": "461-462"
+}

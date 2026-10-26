@@ -1,0 +1,27 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政大臣议奏十月十三日谕旨，安排余闲人等驱赢瘦马匹往大同、右卫喂养，并议黑龙江兵去留。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "大同",
+  "右卫",
+  "归化城",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16501,
+ "page_range": "340-341"
+}

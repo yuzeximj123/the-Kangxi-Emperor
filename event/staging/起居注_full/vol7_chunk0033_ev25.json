@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "初一日成实",
+ "event_role": "朝见受贺",
+ "summary": "仓州城守尉常明、防御吴达礼、单城县知县王家驻、交河县知县张荣等来朝见。",
+ "people": [
+  {
+   "name": "常明",
+   "role": "仓州城守尉"
+  },
+  {
+   "name": "吴达礼",
+   "role": "防御"
+  },
+  {
+   "name": "王家驻",
+   "role": "单城县知县"
+  },
+  {
+   "name": "张荣",
+   "role": "交河县知县"
+  }
+ ],
+ "places": [
+  "仓州",
+  "单城县",
+  "交河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3325,
+ "page_range": "77-78"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "初三日本未",
+ "event_role": "人事任免",
+ "summary": "靖逆将军提督张勇以病请解任，康熙帝以其在西陲有益、蒙古畏惧，令仍留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张勇",
+   "role": "靖逆将军提督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "折尔肯",
+   "role": "官员"
+  },
+  {
+   "name": "孙思克",
+   "role": "提督"
+  },
+  {
+   "name": "王进宝",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "西陲"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14306,
+ "page_range": "329-330"
+}

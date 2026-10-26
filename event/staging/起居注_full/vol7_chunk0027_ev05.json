@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 8,
+ "day_text": "二十二日辛丑",
+ "event_role": "司法案件",
+ "summary": "刑部议三次逃人建昌打死和尚大杭拟斩监候，康熙帝以其情罪可恶无庸置疑，命交该将军即行处决。",
+ "people": [
+  {
+   "name": "建昌",
+   "role": "逃人犯人"
+  },
+  {
+   "name": "大杭",
+   "role": "和尚被害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2705,
+ "page_range": "65-66"
+}

@@ -1,0 +1,46 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议覆广东林富朝、湖广王四、直隶赵祥儿等大盗照律即行正法，康熙帝命仍照前完结。",
+ "people": [
+  {
+   "name": "林富朝",
+   "role": "大盗"
+  },
+  {
+   "name": "王四",
+   "role": "大盗"
+  },
+  {
+   "name": "赵祥儿",
+   "role": "大盗"
+  },
+  {
+   "name": "法海",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "刘典衡",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "赵弘演",
+   "role": "总督管理直隶巡抚事务"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "湖广",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19412,
+ "page_range": "399-400"
+}

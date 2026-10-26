@@ -1,0 +1,20 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "十九日壬申",
+ "event_role": "议政听政",
+ "summary": "康熙御乾清门听部院各衙门官员面奏政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16102,
+ "page_range": "357-358"
+}

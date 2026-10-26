@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝念原任大学士宋德宜，御书匾额赐其子宋骏业、宋大业，二人奏谢恩。",
+ "people": [
+  {
+   "name": "宋德宜",
+   "role": "原任大学士"
+  },
+  {
+   "name": "宋骏业",
+   "role": "给事中"
+  },
+  {
+   "name": "宋大业",
+   "role": "赞善"
+  },
+  {
+   "name": "存柱",
+   "role": "奏事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8807,
+ "page_range": "186-187"
+}

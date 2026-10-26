@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "初五日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝再传谕旨，令九卿面奏时从直具奏，不必以圣明奉承，并令李光地等将清字票签翻译汉字具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "仙子",
+   "role": "奏事治仪正"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23307,
+ "page_range": "477-478"
+}

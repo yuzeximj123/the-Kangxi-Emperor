@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "二十一日本卯",
+ "event_role": "人事任免",
+ "summary": "吏部奏詹事府詹事来道员缺，康熙帝命来道仍兼理詹事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "来道",
+   "role": "詹事"
+  },
+  {
+   "name": "萨音布",
+   "role": "少詹事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4906,
+ "page_range": "109-110"
+}

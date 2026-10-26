@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 1,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝详述海贼情形，以陈尚义等贼众由千余减至不满百人为例，说明严防之效。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈尚义",
+   "role": "海贼首领"
+  },
+  {
+   "name": "闫福玉",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "山东",
+  "盛京",
+  "刘公岛",
+  "尽山",
+  "花鸟"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 201,
+ "page_range": "15-16"
+}

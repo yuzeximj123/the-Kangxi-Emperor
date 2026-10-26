@@ -1,0 +1,22 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "十三日甲成",
+ "event_role": "谕旨决策",
+ "summary": "厄鲁得部落噶尔当遣使来贡，理藩院因无符验文书不令入关，康熙帝命验视属实即令入关。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔当",
+   "role": "厄鲁得部落首领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19716,
+ "page_range": "451-452"
+}

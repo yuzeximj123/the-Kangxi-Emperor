@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": "十六日成辰",
+ "event_role": "谕旨决策",
+ "summary": "户部议覆右卫将军费扬古所题归化城等处麻子换小米收贮事，康熙帝斥费扬古糊涂，交议政大臣议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "右卫将军"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20105,
+ "page_range": "413-414"
+}

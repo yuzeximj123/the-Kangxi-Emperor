@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "初七日庚寅",
+ "event_role": "司法案件",
+ "summary": "理藩院议厄腾、和和尔必免偷二哥马六匹照例拟立斩，康熙帝询问诸臣后命依议。",
+ "people": [
+  {
+   "name": "厄腾",
+   "role": "案犯"
+  },
+  {
+   "name": "和和尔必免",
+   "role": "案犯"
+  },
+  {
+   "name": "二哥",
+   "role": "失马者"
+  },
+  {
+   "name": "希福",
+   "role": "学士"
+  },
+  {
+   "name": "噶尔图",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4714,
+ "page_range": "137-138"
+}

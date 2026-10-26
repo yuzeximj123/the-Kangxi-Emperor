@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十四日辛未",
+ "event_role": "人事任免",
+ "summary": "吏部题补光禄寺正卿，正拟张可前、陪拟张永祺，康熙帝询问后命另拟具奏。",
+ "people": [
+  {
+   "name": "张可前",
+   "role": "拟正左通政"
+  },
+  {
+   "name": "张永祺",
+   "role": "拟陪大理寺少卿"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24915,
+ "page_range": "555-556"
+}

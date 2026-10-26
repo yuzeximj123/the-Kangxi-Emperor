@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "十八日甲子",
+ "event_role": "人事任免",
+ "summary": "伊桑阿奏九卿议提督林本植自陈事，康熙帝以其前任居官好，令留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "林本植",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "江西",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2614,
+ "page_range": "62-63"
+}

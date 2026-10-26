@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "初七日己未",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清宫，讲官库勒纳、叶方蔼、孙在丰、王多绪进讲《无妄》卦。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "王多绪",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5017,
+ "page_range": "143-144"
+}

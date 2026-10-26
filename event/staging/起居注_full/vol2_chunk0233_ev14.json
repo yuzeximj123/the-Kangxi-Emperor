@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十五日壬戌",
+ "event_role": "司法案件",
+ "summary": "刑部题老米踢中朱二致死应绞，康熙帝指出朱二先持刀赶老米、老米误伤致死，该部引斗殴律抵偿不符，命驳回再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "老米",
+   "role": "案犯"
+  },
+  {
+   "name": "朱二",
+   "role": "死者"
+  },
+  {
+   "name": "恩格忒",
+   "role": "踢倒朱二者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23314,
+ "page_range": "509-510"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "初五日已效",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，包从学士等以折本请旨，处理吏部题江宁巡抚王新命升任员缺事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "金祥",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3000,
+ "page_range": "95-96"
+}

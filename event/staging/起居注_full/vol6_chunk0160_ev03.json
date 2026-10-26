@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "户部题署总督事侍郎陶岱请免泗州、盱眙地丁钱粮，康熙帝命免三十九年地丁各项钱粮。",
+ "people": [
+  {
+   "name": "陶岱",
+   "role": "署总督事侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "泗州",
+  "盱眙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16003,
+ "page_range": "330-331"
+}

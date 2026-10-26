@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初五日辛丑",
+ "event_role": "人事任免",
+ "summary": "吏部题户科掌印给事中孙草丁忧员缺，拟补履粹忠，康熙以其轻浮，命开列以下应转官员来看。",
+ "people": [
+  {
+   "name": "孙草",
+   "role": "户科掌印给事中"
+  },
+  {
+   "name": "履粹忠",
+   "role": "给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 509,
+ "page_range": "45-46"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "二十九日乙丑",
+ "event_role": "议政听政",
+ "summary": "九卿等会议曹禾请封禅泰山不准行、王承祖请行巡狩准行，康熙帝命候旨行，令察明典礼具奏，本发回满汉大学士详议拟票。",
+ "people": [
+  {
+   "name": "曹禾",
+   "role": "翰林院编修"
+  },
+  {
+   "name": "王承祖",
+   "role": "科臣"
+  }
+ ],
+ "places": [
+  "泰山",
+  "孔林"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 913,
+ "page_range": "53-54"
+}

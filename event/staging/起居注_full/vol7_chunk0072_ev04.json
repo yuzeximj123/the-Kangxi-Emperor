@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初二日甲成",
+ "event_role": "人事任免",
+ "summary": "太常寺赞礼郎舒员缺，康熙帝命以郎中伍什补授。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "阿育得",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "伍什",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7204,
+ "page_range": "155-156"
+}

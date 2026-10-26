@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初九日乙酉",
+ "event_role": "人事任免",
+ "summary": "温达等奏请中书缺出于举人进士中拣选引见补用，康熙帝称善；李光地奏请以留京进士中字好学优者补汉中书，康熙帝亦善之。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "文志鲸",
+   "role": "教习"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2008,
+ "page_range": "51-52"
+}

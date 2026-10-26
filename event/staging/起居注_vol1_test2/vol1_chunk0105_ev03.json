@@ -1,0 +1,36 @@
+{
+ "reign_year": 14,
+ "month": 11,
+ "day_text": "二十日甲辰",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御景山内前殿，赐进贡的科尔沁国多罗贝勒鄂齐尔等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "科尔沁国多罗贝勒"
+  },
+  {
+   "name": "厄尔德尼",
+   "role": "多罗额驸"
+  },
+  {
+   "name": "阿世古",
+   "role": "阿鲁科尔沁国三品台吉"
+  },
+  {
+   "name": "东沙尔",
+   "role": "苏尼忒部落四品台吉"
+  }
+ ],
+ "places": [
+  "景山内前殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10503,
+ "page_range": "267-268"
+}

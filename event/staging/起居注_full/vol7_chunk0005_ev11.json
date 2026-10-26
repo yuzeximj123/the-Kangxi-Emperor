@@ -1,0 +1,38 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初九日六西",
+ "event_role": "人事任免",
+ "summary": "浙江布政使赵申乔员缺，拟才兴祖正、王然陪，康熙帝命将九卿保举郎延极补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "浙江布政使"
+  },
+  {
+   "name": "才兴祖",
+   "role": "四川按察使"
+  },
+  {
+   "name": "王然",
+   "role": "山东按察使"
+  },
+  {
+   "name": "郎延极",
+   "role": "九卿保举官"
+  }
+ ],
+ "places": [
+  "浙江",
+  "四川",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 511,
+ "page_range": "21-22"
+}

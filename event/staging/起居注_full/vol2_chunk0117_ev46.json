@@ -1,0 +1,21 @@
+{
+ "reign_year": 21,
+ "month": 4,
+ "day_text": "二十四日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至大路，驻跸壮镇堡地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大路",
+  "壮镇堡地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11746,
+ "page_range": "277-278"
+}

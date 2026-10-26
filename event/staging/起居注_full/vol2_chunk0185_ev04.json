@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初六日戊寅",
+ "event_role": "人事任免",
+ "summary": "卢崇魁等九人补授道、府，康熙帝以徐世茂为人甚劣命其休致，其缺另拟具奏，余依拟用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卢崇魁",
+   "role": "道府官"
+  },
+  {
+   "name": "徐世茂",
+   "role": "拟补知府"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18504,
+ "page_range": "413-414"
+}

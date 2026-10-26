@@ -1,0 +1,50 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "二十日乙卯",
+ "event_role": "人事任免",
+ "summary": "大学士伊桑阿等以折本请旨，奏荐博济等为皇太子讲官，康熙帝命补授博济。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王中",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  },
+  {
+   "name": "博济",
+   "role": "侍读学士"
+  },
+  {
+   "name": "尹泰",
+   "role": "侍讲"
+  },
+  {
+   "name": "顾仪",
+   "role": "侍讲"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7501,
+ "page_range": "162-163"
+}

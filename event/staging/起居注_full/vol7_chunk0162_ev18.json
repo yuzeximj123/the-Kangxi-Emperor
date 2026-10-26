@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "二十六日乙卯",
+ "event_role": "军务",
+ "summary": "兵部覆盛京兵部理事官阿锡菠题宁古塔、黑龙江应点阅盔甲议准行，康熙帝以每年阅视报部无益，本发还。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿锡菠",
+   "role": "盛京兵部理事官"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16218,
+ "page_range": "335-336"
+}

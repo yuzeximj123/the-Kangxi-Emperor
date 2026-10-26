@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十八日壬寅",
+ "event_role": "谕旨决策",
+ "summary": "户部题云南巡抚王继文回奏捐纳米草仍照采买原价估计，康熙帝斥其欺诈图便，命将陈廷敬题参之事一并再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王继文",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "参奏官员"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14208,
+ "page_range": "319-320"
+}

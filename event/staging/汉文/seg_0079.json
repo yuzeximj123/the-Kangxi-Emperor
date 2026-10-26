@@ -1,0 +1,43 @@
+{
+ "date_raw": "康熙四十四年六月",
+ "reign_year": 44,
+ "month": 6,
+ "day": null,
+ "event_role": "河工水利",
+ "summary": "河南巡抚赵弘燮奏陈中牟、郑州两处月堤题销缘由，自认未亲验即具题之冒昧罪，请候处分。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "徐潮",
+   "role": "涉及人物"
+  },
+  {
+   "name": "雅思泰",
+   "role": "涉及人物"
+  },
+  {
+   "name": "森图",
+   "role": "涉及人物"
+  },
+  {
+   "name": "王进楫",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "河南",
+  "中牟县",
+  "郑州",
+  "山东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝仅批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "106",
+ "source_title": "河南巡撫趙弘燮奏陳堤工題銷之由並認冒昧之罪摺",
+ "order_index": 79
+}

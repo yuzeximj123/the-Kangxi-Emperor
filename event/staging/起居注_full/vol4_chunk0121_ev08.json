@@ -1,0 +1,36 @@
+{
+ "reign_year": 29,
+ "month": 5,
+ "day_text": "初四日甲午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝准彭鹏、邵嗣尧、陆陇其、赵苍壁行取，并谕大学士令九卿各以所知保奏外任汉军官员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭鹏",
+   "role": "知县"
+  },
+  {
+   "name": "邵嗣尧",
+   "role": "知县"
+  },
+  {
+   "name": "陆陇其",
+   "role": "知县"
+  },
+  {
+   "name": "赵苍壁",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12108,
+ "page_range": "254-255"
+}

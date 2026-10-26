@@ -1,0 +1,29 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": "十九日丁亥",
+ "event_role": "人事任免",
+ "summary": "兵部议覆云贵总督郭到题贵州铜仁副将标下中军守备李先员缺，请简选补授，康熙命查出年满千总缮折一并进呈。",
+ "people": [
+  {
+   "name": "郭到",
+   "role": "云贵总督"
+  },
+  {
+   "name": "李先员",
+   "role": "贵州铜仁副将标下中军守备"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州",
+  "铜仁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7509,
+ "page_range": "161-162"
+}

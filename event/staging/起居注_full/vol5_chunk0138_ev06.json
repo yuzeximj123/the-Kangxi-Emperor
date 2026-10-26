@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十一日丙子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕称各旗蒙古王贝勒台吉于引路探信牧马掘井甚为效力，必使各得生计重行赏赉，并言将喀尔喀等合为一家。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴达禅",
+   "role": "一等侍卫副都统"
+  }
+ ],
+ "places": [
+  "喀伦",
+  "土喇",
+  "克鲁伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13806,
+ "page_range": "286-287"
+}

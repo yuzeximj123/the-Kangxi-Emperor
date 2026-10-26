@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十七日乙丑",
+ "event_role": "议政听政",
+ "summary": "辰时皇太子会讲，九卿齐集，康熙帝不御乾清门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21404,
+ "page_range": "463-464"
+}

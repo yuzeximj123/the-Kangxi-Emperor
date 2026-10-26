@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十七年四月二十五日",
+ "reign_year": 57,
+ "month": 4,
+ "day": 25,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦因皇太后安葬、康熙帝哀痛违和而上折，恳请节哀调养、保重圣体。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，上奏者"
+  },
+  {
+   "name": "皇太后",
+   "role": "已安葬，奏折中提及"
+  },
+  {
+   "name": "康熙帝",
+   "role": "万岁，奏折劝其节哀调养"
+  }
+ ],
+ "places": [
+  "苏州",
+  "山陵"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏爲皇太后旣經安葬請節哀調養摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2600",
+ "order_index": 46
+}

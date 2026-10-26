@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "初十日丙申",
+ "event_role": "司法案件",
+ "summary": "正黄旗原任侍卫胜德遗子凑柱等向阿尔吉善索银殴打，拟凌柱枷号鞭责；康熙帝命问明阿尔吉善、格尔葵具奏。",
+ "people": [
+  {
+   "name": "胜德",
+   "role": "原任侍卫"
+  },
+  {
+   "name": "凑柱",
+   "role": "胜德之子"
+  },
+  {
+   "name": "阿尔吉善",
+   "role": "索额图之子"
+  },
+  {
+   "name": "格尔葵",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11416,
+ "page_range": "239-240"
+}

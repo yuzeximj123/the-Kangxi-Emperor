@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十四年五月初一日",
+ "reign_year": 44,
+ "month": 5,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "曹寅奏谢康熙巡视全河、蠲租宥罪及加恩赏赉其家，并恭请圣安。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江寧",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知自身安善，京城附近雨水调和、禾苗茂盛，心中宽慰。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "99",
+ "source_title": "江寧織造曹寅奏謝巡視全河鹽有罪並蒙賞賚摺",
+ "order_index": 72
+}

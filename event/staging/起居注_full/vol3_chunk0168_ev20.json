@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "二十一日甲辰",
+ "event_role": "人事任免",
+ "summary": "兵部题碍石卫总兵官员缺请旨，康熙帝以江南副将刘泽深材健战功多，命升授总兵。",
+ "people": [
+  {
+   "name": "刘泽深",
+   "role": "江南副将"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "碍石卫",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16820,
+ "page_range": "371-372"
+}

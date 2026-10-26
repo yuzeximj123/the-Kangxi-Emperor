@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十二年十一月二十九日",
+ "reign_year": 52,
+ "month": 11,
+ "day": 8,
+ "event_role": "人事任免",
+ "summary": "江宁织造兼两淮盐漕御史李煦奏报交印起程赴京日期。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "江宁织造兼两淮盐漕御史，奏报人"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "漕運總督郎廷極奏請以王希舜補江安糧道摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1239",
+ "order_index": 75
+}

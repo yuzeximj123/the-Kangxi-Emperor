@@ -1,0 +1,42 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十二日戊实",
+ "event_role": "人事任免",
+ "summary": "兵部题正黄旗佐领员缺，康熙帝念吴丹勤劳谨慎，命察其行间情罪来奏以起用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴丹",
+   "role": "原任护军统领"
+  },
+  {
+   "name": "笑图",
+   "role": "郎中"
+  },
+  {
+   "name": "僧格",
+   "role": "前锋参领"
+  },
+  {
+   "name": "鄂克济哈",
+   "role": "将领"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1207,
+ "page_range": "59-60"
+}

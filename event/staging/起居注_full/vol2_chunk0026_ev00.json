@@ -1,0 +1,20 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大臣等公同推举总兵官，议定令其驻扎西宁以便操练士卒、固守地方。",
+ "people": [
+  {
+   "name": "大臣",
+   "role": "推举者"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2600,
+ "page_range": "95-96"
+}

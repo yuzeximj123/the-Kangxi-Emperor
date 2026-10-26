@@ -1,0 +1,46 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十九日两子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕九卿会议须从公直言，各陈所见，不得雷同缄默，并责问科尔坤、陈廷敬推诿之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "科尔坤",
+   "role": "大臣"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10615,
+ "page_range": "247-248"
+}

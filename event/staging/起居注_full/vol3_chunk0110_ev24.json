@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初三日庚寅",
+ "event_role": "人事任免",
+ "summary": "九卿会推山西布政使员缺，拟郎中布雅努为正、噶尔萨为陪，康熙帝询问二人情况。",
+ "people": [
+  {
+   "name": "布雅努",
+   "role": "郎中"
+  },
+  {
+   "name": "噶尔萨",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11024,
+ "page_range": "255-256"
+}

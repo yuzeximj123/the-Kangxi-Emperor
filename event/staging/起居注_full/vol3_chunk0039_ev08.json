@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "十六日已本",
+ "event_role": "人事任免",
+ "summary": "议政王等会推前锋统领沙纳哈调补护军统领员缺，正拟喀代、陪拟扎拉克图，康熙帝以喀代衰弱，着另选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙纳哈",
+   "role": "前锋统领"
+  },
+  {
+   "name": "喀代",
+   "role": "副都统"
+  },
+  {
+   "name": "扎拉克图",
+   "role": "拟陪人员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3908,
+ "page_range": "113-114"
+}

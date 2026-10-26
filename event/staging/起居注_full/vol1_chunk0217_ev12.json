@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十四日甲实",
+ "event_role": "司法案件",
+ "summary": "议江西总督董卫国回奏疏，康熙帝认为董卫国必有连染，命姑缓行察，俟还京定夺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董卫国",
+   "role": "江西总督"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21712,
+ "page_range": "491-492"
+}

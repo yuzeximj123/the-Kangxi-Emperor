@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "初八日丁丁",
+ "event_role": "人事任免",
+ "summary": "九卿等会推国子监司业拜山解任员缺，拟博极正、尹泰陪，康熙帝命博极补授司业。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "博极",
+   "role": "补授司业"
+  },
+  {
+   "name": "尹泰",
+   "role": "拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8707,
+ "page_range": "209-210"
+}

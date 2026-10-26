@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初四日乙卯",
+ "event_role": "军务",
+ "summary": "康熙帝询问孙思克回时情形，阿奇纳奏孙思克感恩，官兵鼓舞争先效力。",
+ "people": [
+  {
+   "name": "阿奇纳",
+   "role": "护军校"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神木县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19429,
+ "page_range": "398-399"
+}

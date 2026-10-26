@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御舟泊于武清县属十百户地方，香河县知县于采来朝见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于采",
+   "role": "香河县知县"
+  }
+ ],
+ "places": [
+  "武清县十百户",
+  "香河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13803,
+ "page_range": "286-287"
+}

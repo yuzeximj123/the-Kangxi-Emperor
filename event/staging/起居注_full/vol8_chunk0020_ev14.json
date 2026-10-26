@@ -1,0 +1,33 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "十一日丁亥",
+ "event_role": "朝见受贺",
+ "summary": "怀柔县知县于执中等、密云县知县朱英等、守备王道义等、收木税员外郎陈有义等来朝。",
+ "people": [
+  {
+   "name": "于执中",
+   "role": "怀柔县知县"
+  },
+  {
+   "name": "朱英",
+   "role": "密云县知县"
+  },
+  {
+   "name": "王道义",
+   "role": "守备"
+  },
+  {
+   "name": "陈有义",
+   "role": "收木税员外郎"
+  }
+ ],
+ "places": [
+  "怀柔县",
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2014,
+ "page_range": "51-52"
+}

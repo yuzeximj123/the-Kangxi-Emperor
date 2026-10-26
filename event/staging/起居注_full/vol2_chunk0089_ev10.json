@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "初四日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "工部议景山万福交、寿皇殿等处修造草率浮冒，将员外郎达连等交吏部察议，康熙命查明都察院是否曾查奏并一并察议。",
+ "people": [
+  {
+   "name": "达连",
+   "role": "员外郎"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "景山",
+  "寿皇殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8910,
+ "page_range": "221-222"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "十二日癸丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台门听部院各衙门官员面奏政事，并询问理藩院员外郎巴朗其人如何。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿穆瑚朗",
+   "role": "理藩院尚书"
+  },
+  {
+   "name": "巴朗",
+   "role": "理藩院员外郎"
+  }
+ ],
+ "places": [
+  "瀛台门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19416,
+ "page_range": "431-432"
+}

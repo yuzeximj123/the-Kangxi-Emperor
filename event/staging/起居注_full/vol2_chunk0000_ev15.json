@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初四日庚申",
+ "event_role": "谕旨决策",
+ "summary": "议政王大臣会议差往福建侍郎温代等题请开海禁，康熙帝与明珠议金门厦门须设重兵，海禁未可开。",
+ "people": [
+  {
+   "name": "温代",
+   "role": "侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "金门",
+  "厦门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15,
+ "page_range": "43-44"
+}

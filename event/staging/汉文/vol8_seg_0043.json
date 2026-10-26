@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙伍拾陆年肆月贰拾日",
+ "reign_year": 56,
+ "month": 4,
+ "day": 20,
+ "event_role": "奏报地方情形",
+ "summary": "赵弘燮奏报直隶各属时雨普沾、秋收可期，并转述皇上谕旨及岭南得雨情形，以慰圣怀。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "总督管理直隶巡抚事务、兵部右侍郎兼都察院右副都御史加拾级，奏报人"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "总督两广兼理广东广西事务、兵部右侍郎兼都察院右副都御史，署奏折日期者"
+  }
+ ],
+ "places": [
+  "直隶",
+  "岭南",
+  "广东",
+  "广西"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 43
+}

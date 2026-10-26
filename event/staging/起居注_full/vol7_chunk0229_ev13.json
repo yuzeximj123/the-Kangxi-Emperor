@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 8,
+ "day_text": "二十五日两子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以苏保生母系生子之妇，从宽免枷责，令照常在前锋行走。",
+ "people": [
+  {
+   "name": "苏保",
+   "role": "前锋"
+  },
+  {
+   "name": "赛保",
+   "role": "苏保之父、乾清门侍卫"
+  },
+  {
+   "name": "星蓝",
+   "role": "苏保之祖"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22913,
+ "page_range": "469-470"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "十一日甲辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士伊桑阿以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5046,
+ "page_range": "110-111"
+}

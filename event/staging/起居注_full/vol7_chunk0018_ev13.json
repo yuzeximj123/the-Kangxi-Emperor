@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初八日戊午",
+ "event_role": "人事任免",
+ "summary": "刑部侍郎组色员缺，康熙帝命工部侍郎舒略调补刑部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "组色",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "传伸",
+   "role": "学士"
+  },
+  {
+   "name": "舒略",
+   "role": "工部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1813,
+ "page_range": "47-48"
+}

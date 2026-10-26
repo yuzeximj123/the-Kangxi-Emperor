@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十一年二月十六日",
+ "reign_year": 51,
+ "month": 2,
+ "day": 11,
+ "event_role": "奏报地方情形",
+ "summary": "江西巡抚郎廷极奏报三府年成雨水米价等地方情形，并称已遵圣谕施行，具密折奏闻请皇上睿鉴。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚，奏报人"
+  },
+  {
+   "name": "觉罗满保",
+   "role": "总督闽浙等处地方军务兼理粮饷兵部尚书兼都察院右副都御史"
+  }
+ ],
+ "places": [
+  "江西",
+  "闽浙"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批称三府之事自己无从得知，须由郎廷极具题奏报才好。",
+ "source_title": "江西巡撫郎廷極奏報年成雨水米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1032",
+ "order_index": 47
+}

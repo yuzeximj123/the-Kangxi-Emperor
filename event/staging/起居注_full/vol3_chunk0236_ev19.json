@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十一日己巳",
+ "event_role": "其他",
+ "summary": "皇太子写楷书千字文一纸令汤斌观之，伊图、高裔同视并启称皇太子书法天然秀劲结构精密。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "汤斌",
+   "role": "官员"
+  },
+  {
+   "name": "伊图",
+   "role": "起居注官"
+  },
+  {
+   "name": "高裔",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23619,
+ "page_range": "507-508"
+}

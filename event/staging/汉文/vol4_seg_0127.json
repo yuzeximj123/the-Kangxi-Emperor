@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙五十二年十月初三日",
+ "reign_year": 52,
+ "month": 10,
+ "day": 3,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报扬州、苏州二麦种完、米价低廉、百姓乐业，并称派人查访江浙沿海，时届三冬未见贼船往来，进呈晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "扬州",
+  "苏州",
+  "浙江",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "苏州织造李煦奏为差人查访沿海地方情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 127
+}

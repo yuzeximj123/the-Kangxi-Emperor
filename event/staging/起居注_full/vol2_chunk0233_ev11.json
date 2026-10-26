@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十五日壬戌",
+ "event_role": "人事任免",
+ "summary": "兵部题设镇守宁古塔等处将军，康熙帝命以宁古塔副都统萨布素补授将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "萨布素",
+   "role": "宁古塔副都统"
+  },
+  {
+   "name": "席忒库",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23311,
+ "page_range": "509-510"
+}

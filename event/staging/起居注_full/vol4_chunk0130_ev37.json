@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 9,
+ "day_text": "二十八日乙卯",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御乾清宫，江苏巡抚郑端陛见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郑端",
+   "role": "江苏巡抚"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13037,
+ "page_range": "272-273"
+}

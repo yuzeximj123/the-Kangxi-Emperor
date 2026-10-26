@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就田到年、石文昌案及土司事务表态，认为二格所奏为是，命特差大臣往审，交九卿另议具奏。",
+ "people": [
+  {
+   "name": "田到年",
+   "role": "涉案已死官员"
+  },
+  {
+   "name": "石文昌",
+   "role": "涉案人"
+  },
+  {
+   "name": "二格",
+   "role": "奏事官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "武昌府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13200,
+ "page_range": "275-276"
+}

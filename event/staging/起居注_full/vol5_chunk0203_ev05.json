@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十九日",
+ "event_role": "请安谢恩",
+ "summary": "王化行等及众兵丁奏谢皇上养育之恩及亲赐饮食，誓同心防守边围、效力军前。",
+ "people": [
+  {
+   "name": "王化行",
+   "role": "总兵官"
+  },
+  {
+   "name": "白斌",
+   "role": "总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20305,
+ "page_range": "416-417"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "二十一日丁丑",
+ "event_role": "其他",
+ "summary": "康熙帝赐班第噶尔麻达尔扎及附住察哈尔之散秩大臣车林之妻、阿思哈尼哈番巴拜之妻等银币有差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班第噶尔麻达尔扎",
+   "role": "官员"
+  },
+  {
+   "name": "车林",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "巴拜",
+   "role": "阿思哈尼哈番"
+  }
+ ],
+ "places": [
+  "察哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20717,
+ "page_range": "424-425"
+}

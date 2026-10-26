@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "初一日丙申",
+ "event_role": "其他",
+ "summary": "康熙帝御行宫亲赐执事人役马匹，又幸牧场以牧场马匹亲赐内大臣、大学士、侍卫、内务府官员、新满洲及副将江琦、游击胡洋等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "江琦",
+   "role": "副将"
+  },
+  {
+   "name": "胡洋",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "行宫",
+  "牧场"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10915,
+ "page_range": "228-229"
+}

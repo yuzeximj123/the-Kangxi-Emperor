@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初五日甲质",
+ "event_role": "人事任免",
+ "summary": "陕西布政使麻尔图升任员缺，正拟郎中塞勒布、陪拟色黑，康熙帝以其皆平常，命另选通晓汉文官员具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "麻尔图",
+   "role": "陕西布政使"
+  },
+  {
+   "name": "塞勒布",
+   "role": "拟正郎中"
+  },
+  {
+   "name": "色黑",
+   "role": "拟陪"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21103,
+ "page_range": "465-466"
+}

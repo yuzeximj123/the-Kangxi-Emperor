@@ -1,0 +1,40 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "二十八日戊午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命明珠等传谕天津总兵官刘国轩，嘉其劝郑克塽纳土来归，赐第宅以示优眷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "仪度额真通图",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "海青",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "刘国轩",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "郑克塽",
+   "role": "郑氏归降者"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7623,
+ "page_range": "187-188"
+}

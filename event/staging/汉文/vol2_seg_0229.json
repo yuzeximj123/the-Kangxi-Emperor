@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙四十八年九月初十日",
+ "reign_year": 48,
+ "month": 9,
+ "day": 16,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮奏请以真定府知府祁国祚升补天津道副使员缺，称其清廉爱民、理繁治剧，堪胜冲要之地。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "祁国祚",
+   "role": "真定府知府，被奏请升补天津道"
+  },
+  {
+   "name": "吴存礼",
+   "role": "原天津道副使，已升补江西按察使"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "天津",
+  "江西",
+  "真定府",
+  "顺德"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸巡撫趙弘燮奏請以祁國祚陞補天津道監司摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "576",
+ "order_index": 229
+}

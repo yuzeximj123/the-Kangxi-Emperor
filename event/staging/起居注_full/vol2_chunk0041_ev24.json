@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "二十九日闪丑",
+ "event_role": "人事任免",
+ "summary": "孝陵总管罗敏老病奏请解任，兵部议允，康熙帝以其未效力托故乞休，令严察议奏。",
+ "people": [
+  {
+   "name": "罗敏",
+   "role": "孝陵总管"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4124,
+ "page_range": "125-126"
+}

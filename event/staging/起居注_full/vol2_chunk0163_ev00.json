@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝与明珠等议江镇道员人选，认为江镇近海紧要，命九卿、詹事、科道会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "江镇",
+  "苏松"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16300,
+ "page_range": "369-370"
+}

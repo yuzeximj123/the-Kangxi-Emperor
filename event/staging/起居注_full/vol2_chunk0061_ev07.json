@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "十三日甲午",
+ "event_role": "人事任免",
+ "summary": "吏部题补户部郎中员缺，康熙询问魏大善、博奇才具后，命补授博奇为郎中。",
+ "people": [
+  {
+   "name": "魏大善",
+   "role": "拟正太仆寺员外郎"
+  },
+  {
+   "name": "博奇",
+   "role": "拟陪兵部员外郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "潼关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6107,
+ "page_range": "165-166"
+}

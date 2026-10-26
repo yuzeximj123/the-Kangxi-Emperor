@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院题两淮盐差曹寅已故，请以曹显管理织造府事，康熙帝不准仍令曹家管理盐务。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "已故盐差"
+  },
+  {
+   "name": "曹显",
+   "role": "主事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6904,
+ "page_range": "149-150"
+}

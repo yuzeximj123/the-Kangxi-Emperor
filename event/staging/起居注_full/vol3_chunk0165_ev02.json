@@ -1,0 +1,44 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就柯鼎是否革职审问询问诸臣，最终决定柯鼎留任，本案交新任总督详审确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "柯鼎",
+   "role": "布政使"
+  },
+  {
+   "name": "慕天颜",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "刘桢",
+   "role": "黎平府知府"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16502,
+ "page_range": "365-366"
+}

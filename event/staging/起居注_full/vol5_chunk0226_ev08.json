@@ -1,0 +1,33 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "初三日壬子",
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿、侍郎安布禄将驿站等事口奏，奉旨议奏，议定黄河沿线留章京船只及穆纳河朔设站等事。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "关保",
+   "role": "亲近一等侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄河",
+  "穆纳河朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22608,
+ "page_range": "462-463"
+}

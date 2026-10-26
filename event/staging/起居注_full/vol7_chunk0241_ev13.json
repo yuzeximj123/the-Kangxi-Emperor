@@ -1,0 +1,34 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "十七日丙申",
+ "event_role": "司法案件",
+ "summary": "康熙帝阅罗杰、周芝荃受周三银两将邵文卿致死案，以邵文卿本有病着免勾。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗杰",
+   "role": "罪犯"
+  },
+  {
+   "name": "周芝荃",
+   "role": "罪犯"
+  },
+  {
+   "name": "周三",
+   "role": "行贿人"
+  },
+  {
+   "name": "邵文卿",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24113,
+ "page_range": "493-494"
+}

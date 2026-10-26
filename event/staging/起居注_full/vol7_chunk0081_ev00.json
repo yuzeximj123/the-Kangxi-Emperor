@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝检阅西安驻防官兵射箭，见皆精练，嘉悦并命记录善射者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8100,
+ "page_range": "173-174"
+}

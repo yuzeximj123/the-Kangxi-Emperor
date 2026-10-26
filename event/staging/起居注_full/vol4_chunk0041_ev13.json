@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "初三日王寅",
+ "event_role": "人事任免",
+ "summary": "吏部题陕西巡抚布雅努革职员缺请旨，康熙以按察司萨强图居官有名、为优，升补巡抚。",
+ "people": [
+  {
+   "name": "萨强图",
+   "role": "按察司"
+  },
+  {
+   "name": "布雅努",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4113,
+ "page_range": "94-95"
+}

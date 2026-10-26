@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 12,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "申时康熙帝由东华门出朝阳门，至皇太后梓宫前亲奠上食，哭泣尽哀，驻跸中行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "朝阳门",
+  "中行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23004,
+ "page_range": "471-472"
+}

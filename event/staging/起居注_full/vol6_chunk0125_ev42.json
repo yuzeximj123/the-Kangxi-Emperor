@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "二十九日全效",
+ "event_role": "人事任免",
+ "summary": "康熙帝命领侍卫内大臣公福善、乾清门侍卫马武等验视骑射，以把总沈一匡骑射不堪命革退。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "沈一匡",
+   "role": "把总"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12542,
+ "page_range": "260-261"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "初六日康子",
+ "event_role": "谕旨决策",
+ "summary": "户部覆直隶巡抚李光地回奏拨给金国相牧地事，康熙帝认为有理，命马齐前往详看定议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "金国相",
+   "role": "牧地相关人"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12307,
+ "page_range": "256-257"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "十八日己卯",
+ "event_role": "请安谢恩",
+ "summary": "学士孙在丰、侍讲学士高士奇等跪奏称颂康熙帝躬诣阙里宣扬圣化，为亿载太平之基。",
+ "people": [
+  {
+   "name": "孙在丰",
+   "role": "学士"
+  },
+  {
+   "name": "高士奇",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "阙里"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5919,
+ "page_range": "153-154"
+}

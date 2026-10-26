@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十八年十月二十日",
+ "reign_year": 48,
+ "month": 10,
+ "day": 20,
+ "event_role": "奏报灾情收成",
+ "summary": "湖广巡抚陈诜奏报楚省早禾通省十分大收、晚禾杂粮约六七分收成，米价因通商大减，地方盗案稀少，民心安乐。",
+ "people": [
+  {
+   "name": "陈诜",
+   "role": "湖广巡抚"
+  }
+ ],
+ "places": [
+  "湖广",
+  "楚省",
+  "江浙",
+  "四川",
+  "湖南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "湖廣巡撫陳詵奏報早晚兩禾收獲情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "592",
+ "order_index": 243
+}

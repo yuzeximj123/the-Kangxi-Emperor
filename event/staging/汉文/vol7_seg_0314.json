@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙二拾陆年正月拾日",
+ "reign_year": 26,
+ "month": 1,
+ "day": 10,
+ "event_role": "请安谢恩",
+ "summary": "甘肃提督总兵官李师鋋奏报遵旨亲自缮写请安折子，因眼疾未愈仍令家人代写，并说明缘由。",
+ "people": [
+  {
+   "name": "李师鋋",
+   "role": "甘肃提督总兵官，奏折作者"
+  },
+  {
+   "name": "赵之康",
+   "role": "家人，曾代录奏折"
+  },
+  {
+   "name": "赵之廉",
+   "role": "家人，代誊书词"
+  },
+  {
+   "name": "师懿德",
+   "role": "甘肃提督总兵官，署名者"
+  }
+ ],
+ "places": [
+  "江南",
+  "松江",
+  "甘肃"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了闻”，表示已阅知。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 314
+}

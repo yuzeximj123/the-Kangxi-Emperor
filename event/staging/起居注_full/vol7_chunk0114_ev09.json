@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "初八日甲午",
+ "event_role": "皇帝行止",
+ "summary": "申时康熙帝出行宫，率皇太子、诸皇子及正白旗侍卫等射箭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11409,
+ "page_range": "239-240"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "初一日丁未",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率诸王、贝勒、贝子、公、内大臣、侍卫、大学士等赴宁寿宫行礼，文武诸大臣官员于午门外随班行礼，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁寿宫",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4701,
+ "page_range": "105-106"
+}

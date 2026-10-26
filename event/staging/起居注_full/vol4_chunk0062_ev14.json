@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "初八日乙刻",
+ "event_role": "河工水利",
+ "summary": "康熙帝问中河之水取资骆马湖，若修禹王台御流、遇大旱湖水少，中河是否虑浅涸，王新命奏湖水甚大似可无虑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "骆马湖",
+  "禹王台",
+  "中河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6214,
+ "page_range": "136-137"
+}

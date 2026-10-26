@@ -1,0 +1,36 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十四日丁酉",
+ "event_role": "人事任免",
+ "summary": "贵州学道陈正员缺，拟胡作梅正、柴廷望陪，康熙帝命柴廷望补授学道，其文选司员缺着陈胸补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈正",
+   "role": "贵州学道"
+  },
+  {
+   "name": "胡作梅",
+   "role": "翰林院侍读"
+  },
+  {
+   "name": "柴廷望",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "陈胸",
+   "role": "补授文选司"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22712,
+ "page_range": "464-465"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十一日已已",
+ "event_role": "司法案件",
+ "summary": "大学士伊桑阿等遵旨查奏飞贼吴回子一案，康熙帝命细问九卿，有军前效力或父祖阵亡者减等发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "吴回子",
+   "role": "飞贼"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3202,
+ "page_range": "75-76"
+}

@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十年",
+ "reign_year": 50,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "江南提督师懿德向康熙帝恭请圣安，康熙朱批回复朕安，并命其以后奏折亲手书写。",
+ "people": [
+  {
+   "name": "师懿德",
+   "role": "提督江南等处地方总兵官"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝回复朕安，并令师懿德以后奏折须亲手书写。",
+ "source_title": "江南提督師懿德奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "1010",
+ "order_index": 312
+}

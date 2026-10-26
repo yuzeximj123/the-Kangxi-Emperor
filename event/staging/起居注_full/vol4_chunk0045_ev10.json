@@ -1,0 +1,42 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "二十八日丁卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召兵部满汉堂官，责问图纳补授佐领与花色争佐领二事处理不一，指其显有瞻徇情弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "尚书"
+  },
+  {
+   "name": "花色",
+   "role": "争佐领者"
+  },
+  {
+   "name": "纪尔塔布",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "禅布",
+   "role": "侍郎"
+  },
+  {
+   "name": "玫拜",
+   "role": "侍郎"
+  },
+  {
+   "name": "董讷",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4510,
+ "page_range": "102-103"
+}

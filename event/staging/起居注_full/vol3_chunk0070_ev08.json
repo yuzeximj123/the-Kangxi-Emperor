@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "十三日西",
+ "event_role": "谕旨决策",
+ "summary": "祭毕，康熙帝谕学士席尔达、太常卿葛思泰，令赞礼郎宣读祝版至御名时高声朗读，毋有顾忌。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "葛思泰",
+   "role": "太常卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7008,
+ "page_range": "175-176"
+}

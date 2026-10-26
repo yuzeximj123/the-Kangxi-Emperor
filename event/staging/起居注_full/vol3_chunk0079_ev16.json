@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初七日乙卯",
+ "event_role": "人事任免",
+ "summary": "光禄寺卿员缺，九卿等拟敦多礼为正、顾八代为陪，康熙帝命敦多礼升补光禄寺卿。",
+ "people": [
+  {
+   "name": "敦多礼",
+   "role": "拟正光禄寺卿"
+  },
+  {
+   "name": "顾八代",
+   "role": "拟陪侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7916,
+ "page_range": "193-194"
+}

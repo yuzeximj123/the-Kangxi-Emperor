@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙伍拾陆年拾月贰拾柒日",
+ "reign_year": 56,
+ "month": 10,
+ "day": 27,
+ "event_role": "奏报地方情形",
+ "summary": "山东巡抚李树德奏报济南府于十月二十五日至二十七日降大雪，积雪二尺余，有利来春麦苗，并称将另折奏报各府得雪日期。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东",
+  "济南府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示知道了，并令今冬不必再报雪。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 544
+}

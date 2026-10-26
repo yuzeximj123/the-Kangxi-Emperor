@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "十二日甲子",
+ "event_role": "人事任免",
+ "summary": "九卿遵旨为四川提督员缺荐天津总兵官杜呈泗等，康熙决定以康泰补授四川提督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜呈泗",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "康泰",
+   "role": "新任四川提督"
+  }
+ ],
+ "places": [
+  "四川",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21516,
+ "page_range": "441-442"
+}

@@ -1,0 +1,44 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初二日王子",
+ "event_role": "人事任免",
+ "summary": "覆请偏沅巡抚李发甲员缺，康熙帝询问张连登为人，李光地等奏其办事去得。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "张连登",
+   "role": "通政使"
+  },
+  {
+   "name": "张鹏翻",
+   "role": "官员"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "李发甲",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "葵升元",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [
+  "偏沅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22005,
+ "page_range": "451-452"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初十日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "大学士以折本请旨，御史梅锅条奏科场事宜，康熙帝谕令宽展日期细加校阅试卷，以无虚国家求才至意，交该部确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梅锅",
+   "role": "御史"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6311,
+ "page_range": "161-162"
+}

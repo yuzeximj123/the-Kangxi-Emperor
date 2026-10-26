@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十一日丁酉",
+ "event_role": "其他",
+ "summary": "是日赐贵州大定总兵官李超备芝马一匹。",
+ "people": [
+  {
+   "name": "李超",
+   "role": "贵州大定总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州大定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13110,
+ "page_range": "297-298"
+}

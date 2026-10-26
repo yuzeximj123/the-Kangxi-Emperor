@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "会议避京等处驻防兵本事，康熙帝询问大学士意见，明珠等赞同来年春耕秋获后陆续遣往，帝命户、兵二部详议耕种地亩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "避京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19000,
+ "page_range": "415-416"
+}

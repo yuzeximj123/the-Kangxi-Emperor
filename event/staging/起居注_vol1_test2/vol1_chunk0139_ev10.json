@@ -1,0 +1,36 @@
+{
+ "reign_year": 16,
+ "month": 6,
+ "day_text": "初五日",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿视朝，文武升转官员谢恩，进贡部落使者行礼，赐茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔当台吉",
+   "role": "进贡部落台吉"
+  },
+  {
+   "name": "巴图儿温布",
+   "role": "进贡使者"
+  },
+  {
+   "name": "踢尔玛代清和硕齐",
+   "role": "进贡使者"
+  },
+  {
+   "name": "巴图尔",
+   "role": "进贡使者"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13910,
+ "page_range": "335-336"
+}

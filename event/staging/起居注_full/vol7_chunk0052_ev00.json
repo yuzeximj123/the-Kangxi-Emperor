@@ -1,0 +1,36 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "巡抚张泰交等官员来朝，康熙帝驻足杭州府城，杭州士民设香案万岁牌结彩祝圣寿，拥挤数十里相庆。",
+ "people": [
+  {
+   "name": "张泰交",
+   "role": "巡抚"
+  },
+  {
+   "name": "郎廷极",
+   "role": "布政使"
+  },
+  {
+   "name": "于亢昌",
+   "role": "按察使"
+  },
+  {
+   "name": "朝见龙",
+   "role": "副将"
+  },
+  {
+   "name": "石文彬",
+   "role": "知府"
+  }
+ ],
+ "places": [
+  "杭州府城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5200,
+ "page_range": "115-116"
+}

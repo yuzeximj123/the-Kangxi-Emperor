@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初二日甲午",
+ "event_role": "人事任免",
+ "summary": "议内阁侍读董昌国升任员缺，康熙帝询问刘琅、李天桢二人后命刘琅补授侍读。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "董昌国",
+   "role": "内阁侍读"
+  },
+  {
+   "name": "刘琅",
+   "role": "兵部主事"
+  },
+  {
+   "name": "李天桢",
+   "role": "大理寺寺正"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5116,
+ "page_range": "137-138"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记是日起居注官为反叙、史壳。",
+ "people": [
+  {
+   "name": "反叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "史壳",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9702,
+ "page_range": "205-206"
+}

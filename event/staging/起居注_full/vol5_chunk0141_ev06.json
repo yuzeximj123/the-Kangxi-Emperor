@@ -1,0 +1,37 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣遵旨会议，定班第查明苏尼特两旗数目照赏，六旗赏银交班第及扎萨克监赏，余银留贮，米粮运贮察罕诺尔并派兵看守。",
+ "people": [
+  {
+   "name": "班第",
+   "role": "尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "帖图",
+   "role": "员外郎"
+  },
+  {
+   "name": "能泰",
+   "role": "给事中"
+  },
+  {
+   "name": "李沙",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "察罕诺尔",
+  "和和尔博"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14106,
+ "page_range": "292-293"
+}

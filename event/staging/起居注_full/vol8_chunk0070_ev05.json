@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": "二十八日丁西",
+ "event_role": "司法案件",
+ "summary": "刑部议覆两江总督赫寿会审吴泌等六犯及巡抚张伯行请详察原案事，康熙帝以部议不合，命照赫寿所题。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "吴泌",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "两江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7005,
+ "page_range": "151-152"
+}

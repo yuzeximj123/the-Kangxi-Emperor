@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "初四日甲午",
+ "event_role": "谕旨决策",
+ "summary": "广东提督许贞题荐参将李大勋，康熙帝命若未陛见则速行文令其来京引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许贞",
+   "role": "广东提督"
+  },
+  {
+   "name": "李大勋",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6807,
+ "page_range": "146-147"
+}

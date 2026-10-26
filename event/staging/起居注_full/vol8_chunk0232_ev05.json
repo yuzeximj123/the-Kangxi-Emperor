@@ -1,0 +1,21 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": "初八日本已",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自畅春园启行，驻跸汤泉行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "汤泉行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23205,
+ "page_range": "475-476"
+}

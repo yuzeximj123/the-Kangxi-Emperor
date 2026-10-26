@@ -1,0 +1,29 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "二十六日丙成",
+ "event_role": "人事任免",
+ "summary": "吏部题进士田长文补镇海县知县、王淑京补富川县知县，康熙帝以其诗文俱好，命问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "田长文",
+   "role": "进士"
+  },
+  {
+   "name": "王淑京",
+   "role": "进士"
+  }
+ ],
+ "places": [
+  "镇海县",
+  "富川县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13810,
+ "page_range": "287-288"
+}

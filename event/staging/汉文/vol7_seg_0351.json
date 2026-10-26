@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾陆年贰月",
+ "reign_year": 56,
+ "month": 2,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "镇守山西太原等处总兵官金国正遣人赍捧奏折，叩祝康熙皇帝圣寿无疆，以表感恩依恋之忱。",
+ "people": [
+  {
+   "name": "金国正",
+   "role": "镇守山西太原等处地方总兵官署都督佥事，具奏人"
+  },
+  {
+   "name": "高天奇",
+   "role": "兵丁，赍捧奏折叩祝圣寿"
+  },
+  {
+   "name": "李良",
+   "role": "家人，赍捧奏折叩祝圣寿"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 351
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "十六日乙丑",
+ "event_role": "司法案件",
+ "summary": "刑部题强盗吴回子等劫掠员外郎常明等家拟斩立决，康熙帝以伙贼多未审明发回详审，命严缉范克起等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴回子",
+   "role": "强盗"
+  },
+  {
+   "name": "常明",
+   "role": "员外郎"
+  },
+  {
+   "name": "范克起",
+   "role": "在逃人员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2423,
+ "page_range": "59-60"
+}

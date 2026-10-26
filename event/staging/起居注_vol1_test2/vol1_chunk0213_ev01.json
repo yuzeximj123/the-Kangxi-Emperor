@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "御史卫执蒲条陈捐纳等事，康熙帝斥其冗长无益，令以后条陈简明切实。",
+ "people": [
+  {
+   "name": "卫执蒲",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21301,
+ "page_range": "483-484"
+}

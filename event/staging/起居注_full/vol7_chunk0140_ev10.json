@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "十四日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "马齐等奏山东巡抚赵世显题请济南、临清开坊鼓铸事，康熙帝责山东私铸愈多无人举奏，命九卿明白回奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "赵世显",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "济南",
+  "临清"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14010,
+ "page_range": "291-292"
+}

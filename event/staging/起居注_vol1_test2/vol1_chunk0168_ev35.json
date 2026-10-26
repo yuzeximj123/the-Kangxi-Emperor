@@ -1,0 +1,24 @@
+{
+ "reign_year": 17,
+ "month": 9,
+ "day_text": "初一日己亥",
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝御景山内前殿，赐宴进贡科尔沁国一品台吉德德衣等、四子部落台吉等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德德衣",
+   "role": "科尔沁国一品台吉"
+  }
+ ],
+ "places": [
+  "景山内前殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16835,
+ "page_range": "393-394"
+}

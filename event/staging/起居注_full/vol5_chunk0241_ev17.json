@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "十九日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "户部题捐纳错误人员何钱等事，康熙与大学士议九卿之议，决定捐纳错误者概不准行依议完结。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "何钱",
+   "role": "捐纳人员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24117,
+ "page_range": "492-493"
+}

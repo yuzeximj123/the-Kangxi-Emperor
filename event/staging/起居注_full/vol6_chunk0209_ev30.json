@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "十四日己亥",
+ "event_role": "赏赐",
+ "summary": "康熙帝赐乌朱穆秦亲王色登敦多卜、公顾木布扎卜白金有差，乌朱穆秦台吉等麦白金及牧场人并献黄羊人等白金。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色登敦多卜",
+   "role": "乌朱穆秦亲王"
+  },
+  {
+   "name": "顾木布扎卜",
+   "role": "公"
+  }
+ ],
+ "places": [
+  "乌朱穆秦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20930,
+ "page_range": "428-429"
+}

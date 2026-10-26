@@ -1,0 +1,20 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初八日壬辰",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝率诸王、贝子、公等及内大臣、大学士、都统、尚书、精奇尼哈番、侍卫齐集宁宫，庆贺太皇太后圣诞礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3713,
+ "page_range": "117-118"
+}

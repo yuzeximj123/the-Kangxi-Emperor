@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": "二十五日壬申",
+ "event_role": "司法案件",
+ "summary": "兵部将御史奢翔参劾喂马监督萨哈布等议罪，康熙帝认为部议太无担当，命本发回另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "奢翔",
+   "role": "御史"
+  },
+  {
+   "name": "萨哈布",
+   "role": "喂马监督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4035,
+ "page_range": "91-92"
+}

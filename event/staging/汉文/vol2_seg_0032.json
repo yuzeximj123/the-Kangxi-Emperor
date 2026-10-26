@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十七年六月二十三日",
+ "reign_year": 47,
+ "month": 6,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹寅奏报麦收分数及米价，并条陈织造事宜六款，请将诰帛线罗养匠等费用在巡盐余银内支用。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏报人"
+  },
+  {
+   "name": "洪承畴",
+   "role": "内院臣，曾厘定神帛官诰两机房匠作工价"
+  }
+ ],
+ "places": [
+  "江宁",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批为“奉指与疏稿同”，即所奉旨意与疏稿内容相同。",
+ "source_title": "江寧織造曹寅奏報麥收分數並米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "372",
+ "order_index": 32
+}

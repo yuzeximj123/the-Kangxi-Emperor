@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 12,
+ "day_text": "初五日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "近侍魏珠传谕诸大臣，述康熙帝乘软舆请安、捧皇太后手及五阿哥请代理事被拒等语。",
+ "people": [
+  {
+   "name": "魏珠",
+   "role": "近侍"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "五阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22614,
+ "page_range": "463-464"
+}

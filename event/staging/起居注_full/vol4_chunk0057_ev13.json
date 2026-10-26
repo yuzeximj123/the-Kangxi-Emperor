@@ -1,0 +1,21 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十五日丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕前赴江宁仅留一二日，杭州地湿水土不宜，明日启行之意已定。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "杭州府",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5713,
+ "page_range": "126-127"
+}

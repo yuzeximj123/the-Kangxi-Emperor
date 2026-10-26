@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十四日丁卯",
+ "event_role": "谕旨决策",
+ "summary": "户部查奏乌喇虞人所借米数及贮仓米谷，康熙帝命借与乏人米止给一半，交该将军察明议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乌喇",
+  "宁古塔",
+  "吉临乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7006,
+ "page_range": "151-152"
+}

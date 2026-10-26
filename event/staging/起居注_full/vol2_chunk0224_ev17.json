@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "十六日甲申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸曲阳县北镇里地方，因行近五台，传谕自明日始扈从人等勿射生。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "曲阳县北镇里",
+  "五台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22417,
+ "page_range": "491-492"
+}

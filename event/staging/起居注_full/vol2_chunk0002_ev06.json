@@ -1,0 +1,20 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初十日丙寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台听部院各衙门官员面奏政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 206,
+ "page_range": "47-48"
+}

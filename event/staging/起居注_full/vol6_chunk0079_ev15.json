@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "十一日辛亥",
+ "event_role": "朝见受贺",
+ "summary": "东光县知县白为天、千总李应魁等来朝。",
+ "people": [
+  {
+   "name": "白为天",
+   "role": "东光县知县"
+  },
+  {
+   "name": "李应魁",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "东光县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7915,
+ "page_range": "168-169"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "来柱、杨二回子、杜黑猎、刘光玉、李五等指逃行诈二案，康熙帝以首犯已正法，为从者可从宽。",
+ "people": [
+  {
+   "name": "来柱",
+   "role": "案犯"
+  },
+  {
+   "name": "杨二回子",
+   "role": "案犯"
+  },
+  {
+   "name": "杜黑猎",
+   "role": "案犯"
+  },
+  {
+   "name": "刘光玉",
+   "role": "案犯"
+  },
+  {
+   "name": "李五",
+   "role": "案犯"
+  },
+  {
+   "name": "李有功",
+   "role": "已正法首犯"
+  },
+  {
+   "name": "杨五",
+   "role": "已正法首犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22923,
+ "page_range": "501-502"
+}

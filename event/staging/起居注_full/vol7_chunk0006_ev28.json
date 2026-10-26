@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十八日庚午",
+ "event_role": "人事任免",
+ "summary": "东川府知府员缺，康熙帝令彭鹏举荐之白静修调补东川府知府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭鹏",
+   "role": "官员"
+  },
+  {
+   "name": "白静修",
+   "role": "举荐人选"
+  }
+ ],
+ "places": [
+  "东川府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 628,
+ "page_range": "23-24"
+}

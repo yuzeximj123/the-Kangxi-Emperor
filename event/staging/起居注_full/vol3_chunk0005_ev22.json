@@ -1,0 +1,37 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初七日癸卯",
+ "event_role": "人事任免",
+ "summary": "江宁巡抚余国柱员缺，康熙以湖广巡抚王新命有办事之才，命调补江宁巡抚。",
+ "people": [
+  {
+   "name": "余国柱",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "王守才",
+   "role": "内阁学士"
+  },
+  {
+   "name": "王新命",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 522,
+ "page_range": "45-46"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部拟段五儿因戏戳伤刘凯多致死坐绞，康熙帝从宽免死减等发落。",
+ "people": [
+  {
+   "name": "段五儿",
+   "role": "案犯"
+  },
+  {
+   "name": "刘凯多",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7901,
+ "page_range": "169-170"
+}

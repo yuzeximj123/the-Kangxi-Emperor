@@ -1,0 +1,42 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕领侍卫内大臣索额图，命明珠、博第、苏永入等收贮米粮毕速来，留戴通、阿山在彼处收贮汉军火器营兵丁愿留米粮。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "博第",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "苏永入",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "戴通",
+   "role": "侍郎"
+  },
+  {
+   "name": "阿山",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10805,
+ "page_range": "226-227"
+}

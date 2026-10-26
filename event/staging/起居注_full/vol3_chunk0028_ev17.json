@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十八日癸未",
+ "event_role": "司法案件",
+ "summary": "康熙帝就扎哈里等罪依拟，命白尔黑革职、免枷号鞭责并妻流徙宁古塔，余俱依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "扎哈里",
+   "role": "案犯"
+  },
+  {
+   "name": "白尔黑",
+   "role": "守尉"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2817,
+ "page_range": "91-92"
+}

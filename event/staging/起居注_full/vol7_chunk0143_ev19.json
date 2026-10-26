@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "十二日丙申",
+ "event_role": "弹劾参奏",
+ "summary": "九卿议御史圳桥参劾晋抚噶礼事并无实据，噶礼回奏有证，康熙帝令进京后再问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "圳桥",
+   "role": "御史"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14319,
+ "page_range": "297-298"
+}

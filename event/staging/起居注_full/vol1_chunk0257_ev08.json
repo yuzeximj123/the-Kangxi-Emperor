@@ -1,0 +1,20 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "十七日甲辰",
+ "event_role": "人事任免",
+ "summary": "兵部请差武昌审事官员，康熙帝以此事关系重大，令折尔肯前往察审。",
+ "people": [
+  {
+   "name": "折尔肯",
+   "role": "审事官员"
+  }
+ ],
+ "places": [
+  "武昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25708,
+ "page_range": "571-572"
+}

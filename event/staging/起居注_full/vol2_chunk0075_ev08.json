@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "二十日庚子",
+ "event_role": "弹劾参奏",
+ "summary": "刑部尚书郭四海等题参本部司官于连芳等欲将别部司官对品坐名调补；康熙责于连芳素行不端，令该部议奏。",
+ "people": [
+  {
+   "name": "郭四海",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "于连芳",
+   "role": "刑部司官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7508,
+ "page_range": "193-194"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十二日丁雍",
+ "event_role": "弹劾参奏",
+ "summary": "为奉天府府尹高尔位题荐孙成纠参周志焕事，明珠奏询盛京官员情形，康熙帝谕举劾不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "高尔位",
+   "role": "奉天府府尹"
+  },
+  {
+   "name": "孙成",
+   "role": "官员"
+  },
+  {
+   "name": "周志焕",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13813,
+ "page_range": "319-320"
+}

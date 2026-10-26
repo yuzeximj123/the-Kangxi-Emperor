@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 10,
+ "day_text": "十四日乙卯",
+ "event_role": "朝见受贺",
+ "summary": "未时，康熙帝复御乾清门，赐宴问安来贡的科尔沁国一品台吉玛尼等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "玛尼",
+   "role": "科尔沁国一品台吉"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2603,
+ "page_range": "109-110"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 35,
+ "month": 2,
+ "day_text": "初一日丁交",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸温泉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "温泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9907,
+ "page_range": "208-209"
+}

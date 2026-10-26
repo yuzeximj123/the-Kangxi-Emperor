@@ -1,0 +1,20 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "初一日乙酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸布颜乌兰之地。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "布颜乌兰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21311,
+ "page_range": "436-437"
+}

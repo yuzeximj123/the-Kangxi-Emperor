@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅宋理宗诏赠朱熹太师信国公论，谓理宗信任奸壬，朱子在朝亦不得行其道，此皆掠美虚谈。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱熹",
+   "role": "宋儒"
+  },
+  {
+   "name": "杜讷",
+   "role": "臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11515,
+ "page_range": "242-243"
+}

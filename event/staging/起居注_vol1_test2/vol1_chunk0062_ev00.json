@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 12,
+ "day_text": "初三日戊成",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听部院各衙门官员面奏政事，直鼓厅科道官布舒等奏笔帖式求关差事，康熙帝斥其不合理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布舒",
+   "role": "科道官"
+  },
+  {
+   "name": "刘如汉",
+   "role": "科道官"
+  },
+  {
+   "name": "孙锡龄",
+   "role": "科道官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6200,
+ "page_range": "181-182"
+}

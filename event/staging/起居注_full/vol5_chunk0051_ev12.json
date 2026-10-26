@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "十四日",
+ "event_role": "人事任免",
+ "summary": "理藩院题鄂尔多斯多罗贝勒达尔查之职不准承袭，康熙帝以其忠义，命其子旺束克仍袭多罗贝勒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达尔查",
+   "role": "鄂尔多斯部落多罗贝勒"
+  },
+  {
+   "name": "旺束克",
+   "role": "达尔查之子"
+  }
+ ],
+ "places": [
+  "鄂尔多斯部落"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5112,
+ "page_range": "112-113"
+}

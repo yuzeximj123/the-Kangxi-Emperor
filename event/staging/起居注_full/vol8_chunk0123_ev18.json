@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "十二日甲成",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕闲散宗室索党往盛京行走不便，着授为福陵额外总尉，食俸在任行走。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索党",
+   "role": "福陵额外总尉"
+  }
+ ],
+ "places": [
+  "盛京",
+  "福陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12318,
+ "page_range": "257-258"
+}

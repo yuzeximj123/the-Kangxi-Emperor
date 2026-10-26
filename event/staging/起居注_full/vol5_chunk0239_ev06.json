@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "十三日",
+ "event_role": "朝见受贺",
+ "summary": "镇边路都司李人允庆等、怀来县知县白有斌等来朝贺。",
+ "people": [
+  {
+   "name": "李人允庆",
+   "role": "镇边路都司"
+  },
+  {
+   "name": "白有斌",
+   "role": "怀来县知县"
+  }
+ ],
+ "places": [
+  "镇边路",
+  "怀来县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23906,
+ "page_range": "488-489"
+}

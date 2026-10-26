@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "二十日庚申",
+ "event_role": "军务",
+ "summary": "康熙帝命领侍卫内大臣公福善、乾清门侍卫马武检视三屯营副将刘汉业等马步射。",
+ "people": [
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "刘汉业",
+   "role": "三屯营副将"
+  }
+ ],
+ "places": [
+  "三屯营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18212,
+ "page_range": "374-375"
+}

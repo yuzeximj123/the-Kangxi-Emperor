@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "二十三日丙午",
+ "event_role": "人事任免",
+ "summary": "吏部题补工部主事塔尔禅升任员缺，康熙帝令花尚升补主事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "花尚",
+   "role": "大理寺评事"
+  },
+  {
+   "name": "索伦",
+   "role": "内阁中书"
+  },
+  {
+   "name": "塔尔禅",
+   "role": "工部主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16907,
+ "page_range": "373-374"
+}

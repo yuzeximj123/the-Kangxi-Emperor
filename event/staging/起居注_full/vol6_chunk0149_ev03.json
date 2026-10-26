@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "十三日两子",
+ "event_role": "河工水利",
+ "summary": "康熙帝询问清口情形，常寿等奏据徐廷阜等称遵旨暂塞清口、挑宽引河，使湖水灌入运河，漕船过毕则闭，回空时启，以敌黄河之水。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "徐廷阜",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "清口",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14903,
+ "page_range": "308-309"
+}

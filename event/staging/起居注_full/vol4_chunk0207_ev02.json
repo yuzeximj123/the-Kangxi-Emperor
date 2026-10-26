@@ -1,0 +1,22 @@
+{
+ "reign_year": 31,
+ "month": 9,
+ "day_text": "十八日甲子",
+ "event_role": "司法案件",
+ "summary": "刑部题覆会审福建、四川、广西情真缓决可矜罪犯，康熙帝决定情真各犯今年停其正法，可矜者照例减等发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "四川",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20702,
+ "page_range": "426-427"
+}

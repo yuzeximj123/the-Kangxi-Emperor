@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": "十八日壬戌",
+ "event_role": "司法案件",
+ "summary": "康熙帝询问河南巡抚章钦文居官如何，九卿等奏其亦甚不堪，陈世安、陆祖修等奏久欲劾奏因无实据迟延。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章钦文",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "陈世安",
+   "role": "兵科给事中"
+  },
+  {
+   "name": "陆祖修",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25617,
+ "page_range": "547-548"
+}

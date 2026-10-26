@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 6,
+ "day_text": "初三日庚戌",
+ "event_role": "谕旨决策",
+ "summary": "镇守黑龙江将军萨布素条奏齐齐哈尔造城驻兵、设官庄十处收米贮仓等七事，康熙帝嘉其诚心筹画、俱得情理，令照所奏议行。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "镇守黑龙江等处将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "齐齐哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20113,
+ "page_range": "414-415"
+}

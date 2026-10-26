@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "初七日甲辰",
+ "event_role": "司法案件",
+ "summary": "刑部题盛京高大等一案移咨迟延，康熙帝令大学士交刑部另议盛京、宁古塔移问限期。",
+ "people": [
+  {
+   "name": "高大",
+   "role": "案犯"
+  },
+  {
+   "name": "阿赖",
+   "role": "司官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22711,
+ "page_range": "497-498"
+}

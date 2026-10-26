@@ -1,0 +1,32 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "西安副都统祖之辉员缺，康熙帝命将参领祖良弱升补。",
+ "people": [
+  {
+   "name": "祖之辉",
+   "role": "西安副都统"
+  },
+  {
+   "name": "石文桂",
+   "role": "仓场侍郎"
+  },
+  {
+   "name": "祖良弱",
+   "role": "参领"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17300,
+ "page_range": "358-359"
+}

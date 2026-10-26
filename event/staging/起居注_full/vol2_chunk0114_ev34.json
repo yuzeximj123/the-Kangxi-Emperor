@@ -1,0 +1,20 @@
+{
+ "reign_year": 21,
+ "month": 3,
+ "day_text": "初四日王子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝谒昭陵，行三跪九叩头礼，三奠酒举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "昭陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11434,
+ "page_range": "271-272"
+}

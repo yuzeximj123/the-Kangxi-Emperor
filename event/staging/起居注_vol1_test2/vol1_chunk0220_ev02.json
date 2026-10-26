@@ -1,0 +1,44 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补四川总兵官，康熙帝称高备、王朝海、王用予堪用，命易去赵名佑，以王进才补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高备",
+   "role": "所补总兵官"
+  },
+  {
+   "name": "王朝海",
+   "role": "所补总兵官"
+  },
+  {
+   "name": "王用予",
+   "role": "所补总兵官"
+  },
+  {
+   "name": "赵名佑",
+   "role": "拟易去者"
+  },
+  {
+   "name": "赵良栋",
+   "role": "题投诚者"
+  },
+  {
+   "name": "王进才",
+   "role": "拟补总兵官"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22002,
+ "page_range": "497-498"
+}

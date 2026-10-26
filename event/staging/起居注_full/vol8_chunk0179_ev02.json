@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请经筵讲官彭始技员缺，开列内阁学士王之枢等职名，康熙帝命俱令读试具奏。",
+ "people": [
+  {
+   "name": "彭始技",
+   "role": "经筵讲官"
+  },
+  {
+   "name": "王之枢",
+   "role": "内阁学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17902,
+ "page_range": "369-370"
+}

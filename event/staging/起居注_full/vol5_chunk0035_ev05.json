@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "二十三日己丑",
+ "event_role": "人事任免",
+ "summary": "吏部题礼部镶红旗员外郎缺，拟正金德纯、拟陪马震，康熙帝以二人轻佻劣材令随旗行走，命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金德纯",
+   "role": "候补员外郎"
+  },
+  {
+   "name": "马震",
+   "role": "原任吏部员外"
+  },
+  {
+   "name": "金俊",
+   "role": "原任巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3505,
+ "page_range": "80-81"
+}

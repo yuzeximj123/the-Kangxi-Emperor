@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十九日己丑",
+ "event_role": "人事任免",
+ "summary": "兵部题补前锋参领，康熙帝命将阿纳库、阿尔法及牛钮三人功绩讯明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿纳库",
+   "role": "拟驳骑参领"
+  },
+  {
+   "name": "阿尔法",
+   "role": "陪拟护军参领"
+  },
+  {
+   "name": "牛钮",
+   "role": "包衣佐领下参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22505,
+ "page_range": "507-508"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "二十一日乙相",
+ "event_role": "河工水利",
+ "summary": "九卿覆议挑浚高家堰东河以挽运石料，康熙帝令问工部堂官水从何出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "全双阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王照",
+   "role": "大学士"
+  },
+  {
+   "name": "张英",
+   "role": "大学士"
+  },
+  {
+   "name": "范承勋",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "黄河",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14007,
+ "page_range": "290-291"
+}

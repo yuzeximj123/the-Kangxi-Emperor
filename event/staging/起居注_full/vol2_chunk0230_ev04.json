@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十六日癸丑",
+ "event_role": "司法案件",
+ "summary": "户部议广西布政使崔维雅参已故巡抚郝浴冒销钱粮，康熙帝命差吏、户、刑三部司官同往察审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔维雅",
+   "role": "广西布政使"
+  },
+  {
+   "name": "郝浴",
+   "role": "已故巡抚"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23004,
+ "page_range": "503-504"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "初六日丙戌",
+ "event_role": "司法案件",
+ "summary": "理藩院会同三法司议覆抢夺奉差笔帖式季兰泰等马匹衣物案，拟斩首犯部赖、绞从犯巴素等二十八人，康熙帝命部赖处斩，余从宽免死入官为奴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "季兰泰",
+   "role": "奉差笔帖式"
+  },
+  {
+   "name": "部赖",
+   "role": "首犯"
+  },
+  {
+   "name": "巴素",
+   "role": "从犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17511,
+ "page_range": "362-363"
+}

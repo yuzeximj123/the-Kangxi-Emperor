@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "初四日乙丑",
+ "event_role": "人事任免",
+ "summary": "吏部题国子监祭酒邵穆布员缺，拟以御史色德里补授，康熙帝令邵穆布仍兼管国子监祭酒事务。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邵穆布",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "色德里",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15604,
+ "page_range": "322-323"
+}

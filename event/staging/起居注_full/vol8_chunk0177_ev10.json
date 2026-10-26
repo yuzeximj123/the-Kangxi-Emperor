@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "川陕总督鄂海题参固原知州赵尧章规避军机事务，康熙帝令将赵尧章革职拿交总督严审定拟。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "赵尧章",
+   "role": "固原知州"
+  }
+ ],
+ "places": [
+  "西宁",
+  "固原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17710,
+ "page_range": "365-366"
+}

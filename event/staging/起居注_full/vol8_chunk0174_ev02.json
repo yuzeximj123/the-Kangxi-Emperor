@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命将石匣副将赵坤、河间府副将卜应魁补授云南总兵官，并晓谕九卿、大学士。",
+ "people": [
+  {
+   "name": "赵坤",
+   "role": "石匣副将"
+  },
+  {
+   "name": "卜应魁",
+   "role": "河间府副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南",
+  "石匣",
+  "河间府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17402,
+ "page_range": "359-360"
+}

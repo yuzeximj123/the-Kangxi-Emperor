@@ -1,0 +1,41 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政大臣奏报已派兵迎护米粮、搜剿零散厄鲁特，因米粮已到遂停止派兵。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "将军"
+  },
+  {
+   "name": "辛保",
+   "role": "官员"
+  },
+  {
+   "name": "范承烈",
+   "role": "侍读学士"
+  },
+  {
+   "name": "毛来凤",
+   "role": "总兵官"
+  },
+  {
+   "name": "吕奇",
+   "role": "郎中"
+  },
+  {
+   "name": "伊对阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "翁金",
+  "那拉特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14100,
+ "page_range": "292-293"
+}

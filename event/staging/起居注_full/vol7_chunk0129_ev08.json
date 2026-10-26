@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "马齐等奏遵旨以巡抚噶礼事问九卿，九卿请发还另议，康熙帝命发还并审讯御史袁桥处递呈首告罪犯。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "噶礼",
+   "role": "巡抚"
+  },
+  {
+   "name": "袁桥",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12908,
+ "page_range": "269-270"
+}

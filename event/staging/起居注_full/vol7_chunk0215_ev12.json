@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "十二日甲子",
+ "event_role": "人事任免",
+ "summary": "覆请吏部所题刑部尚书哈山等参郎中达兰等照例革职，康熙令达兰等永不叙用，其缺于保举关差官员内选择引见，并补授礼部主事和顺为刑部员外郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈山",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "达兰",
+   "role": "郎中"
+  },
+  {
+   "name": "和顺",
+   "role": "礼部主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21512,
+ "page_range": "441-442"
+}

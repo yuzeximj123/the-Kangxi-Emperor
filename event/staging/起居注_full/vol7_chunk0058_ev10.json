@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "二十三日戊成",
+ "event_role": "人事任免",
+ "summary": "右翼前锋统领宗室诺罗布员缺，康熙帝以伯巴图郑重，命其兼理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺罗布",
+   "role": "右翼前锋统领"
+  },
+  {
+   "name": "瓦尔达",
+   "role": "护军统领"
+  },
+  {
+   "name": "伯巴图",
+   "role": "领侍卫内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5810,
+ "page_range": "127-128"
+}

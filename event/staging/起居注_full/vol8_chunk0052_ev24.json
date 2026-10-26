@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 1,
+ "day_text": "三十日壬申",
+ "event_role": "朝见受贺",
+ "summary": "雄县防守御踢尔太、天津道王光责等来朝见。",
+ "people": [
+  {
+   "name": "踢尔太",
+   "role": "雄县防守御"
+  },
+  {
+   "name": "王光责",
+   "role": "天津道"
+  }
+ ],
+ "places": [
+  "雄县",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5224,
+ "page_range": "115-116"
+}

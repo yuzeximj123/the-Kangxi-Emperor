@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "初九日王子",
+ "event_role": "司法案件",
+ "summary": "康熙帝谕审拟区香菜一案庇护营救瞻徇党类，又差色楞格往审张潮所参张沂贪劣事，色楞格奏案竟为庇护。",
+ "people": [
+  {
+   "name": "区香菜",
+   "role": "案中审拟对象"
+  },
+  {
+   "name": "色楞格",
+   "role": "奉差往审张潮所参事"
+  },
+  {
+   "name": "张潮",
+   "role": "参劾张沂之官"
+  },
+  {
+   "name": "张沂",
+   "role": "被参居官贪劣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 911,
+ "page_range": "30-31"
+}

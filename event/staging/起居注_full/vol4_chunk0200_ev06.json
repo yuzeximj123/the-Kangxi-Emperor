@@ -1,0 +1,22 @@
+{
+ "reign_year": 31,
+ "month": 6,
+ "day_text": "十二日庚寅",
+ "event_role": "人事任免",
+ "summary": "吏部题彭图之拜他喇布勒哈番等职照例与伊子华色承袭，康熙帝以彭图袭职后全无效力且互相争告，命不必承袭。",
+ "people": [
+  {
+   "name": "彭图",
+   "role": "袭职官员"
+  },
+  {
+   "name": "华色",
+   "role": "彭图之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20006,
+ "page_range": "412-413"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "十六日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙驻跸喀喇芒菜哈必尔汉并入行宫，宣化总兵官白斌等率官兵跪迎。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "白斌",
+   "role": "宣化总兵官"
+  }
+ ],
+ "places": [
+  "喀喇芒菜哈必尔汉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11514,
+ "page_range": "240-241"
+}

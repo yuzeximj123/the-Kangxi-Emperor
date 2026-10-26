@@ -1,0 +1,48 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十八日甲辰",
+ "event_role": "司法案件",
+ "summary": "三法司议程富等杀主程九案，康熙帝疑周之昂系代杀，令再详审确拟具奏。",
+ "people": [
+  {
+   "name": "程富",
+   "role": "犯人"
+  },
+  {
+   "name": "程德",
+   "role": "犯人"
+  },
+  {
+   "name": "大陶",
+   "role": "犯人"
+  },
+  {
+   "name": "周之昂",
+   "role": "造谋者"
+  },
+  {
+   "name": "张大",
+   "role": "在逃者"
+  },
+  {
+   "name": "周式之",
+   "role": "周之昂之子"
+  },
+  {
+   "name": "程九",
+   "role": "被害人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13222,
+ "page_range": "299-300"
+}

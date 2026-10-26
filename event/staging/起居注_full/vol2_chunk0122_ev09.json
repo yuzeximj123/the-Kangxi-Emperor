@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十日己卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以礼部事繁、尚书帅颜保托病不勤，命传谕吏部验明启奏，并令额库礼暂署礼部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "帅颜保",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "额库礼",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12209,
+ "page_range": "287-288"
+}

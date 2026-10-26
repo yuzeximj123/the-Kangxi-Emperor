@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "初二日两子",
+ "event_role": "谕旨决策",
+ "summary": "户部议原偏沅巡抚潘宗洛题请垦荒宽限，康熙帝令差户部章京会同湖广总督额伦特查勘湖南荒田虚实。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "潘宗洛",
+   "role": "原偏沅巡抚"
+  },
+  {
+   "name": "额伦特",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [
+  "湖南",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3903,
+ "page_range": "89-90"
+}

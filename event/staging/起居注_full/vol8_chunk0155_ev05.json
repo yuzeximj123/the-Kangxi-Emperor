@@ -1,0 +1,40 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题盛京秋审缓决案内草文举戳死张四、卢顺仁打死常寿、郭鸣凤致死王兴隆三案均拟绞监候，康熙谕俱改为情真。",
+ "people": [
+  {
+   "name": "草文举",
+   "role": "拟绞监候犯人"
+  },
+  {
+   "name": "张四",
+   "role": "被戳死者"
+  },
+  {
+   "name": "卢顺仁",
+   "role": "拟绞监候犯人"
+  },
+  {
+   "name": "常寿",
+   "role": "被打死者"
+  },
+  {
+   "name": "郭鸣凤",
+   "role": "拟绞监候犯人"
+  },
+  {
+   "name": "王兴隆",
+   "role": "致死案死者"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15505,
+ "page_range": "321-322"
+}

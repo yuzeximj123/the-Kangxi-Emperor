@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "二十三日乙未",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御菩萨顶傍正典，学士等捧折本面奏，议贵州巡抚杨雍建题踏勘平越等府及毕节等卫所荒地请展限事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨雍建",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [
+  "菩萨顶",
+  "平越",
+  "毕节"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17430,
+ "page_range": "391-392"
+}

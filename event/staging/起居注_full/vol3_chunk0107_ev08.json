@@ -1,0 +1,40 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十日于丑",
+ "event_role": "人事任免",
+ "summary": "议政王等会推福建副都统胡起元革职员缺，康熙帝询问后命祖建极补授副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "胡起元",
+   "role": "福建副都统"
+  },
+  {
+   "name": "祖建极",
+   "role": "参领，拟正"
+  },
+  {
+   "name": "李希进",
+   "role": "拟陪"
+  },
+  {
+   "name": "佟国刚",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10708,
+ "page_range": "249-250"
+}

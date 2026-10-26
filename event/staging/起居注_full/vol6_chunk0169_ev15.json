@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "二十日己酉",
+ "event_role": "司法案件",
+ "summary": "刑部等题龙岩县知县赵光荣诬良为盗覆审得情，康熙帝与熊赐履议处，欲定例部驳事件不交原问官审理。",
+ "people": [
+  {
+   "name": "赵光荣",
+   "role": "龙岩县知县"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "龙岩县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16915,
+ "page_range": "348-349"
+}

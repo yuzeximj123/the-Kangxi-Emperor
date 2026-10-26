@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿会推陕西布政使麻尔图升任员缺，正推监察御史布喀、陪推郎中希格，康熙以希格差胜令补授布政使。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "布喀",
+   "role": "正推监察御史"
+  },
+  {
+   "name": "希格",
+   "role": "陪推郎中"
+  },
+  {
+   "name": "麻尔图",
+   "role": "原陕西布政使"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21402,
+ "page_range": "471-472"
+}

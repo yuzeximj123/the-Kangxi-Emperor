@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "二十六日乙雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令马治德、金铎暂在驿站效力，此事留至湖滩河朔地方具奏，后于四月二十六日交批本存住具题。",
+ "people": [
+  {
+   "name": "马治德",
+   "role": "坐台回子"
+  },
+  {
+   "name": "金铎",
+   "role": "坐台"
+  },
+  {
+   "name": "存住",
+   "role": "批本"
+  }
+ ],
+ "places": [
+  "湖滩河朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23208,
+ "page_range": "474-475"
+}

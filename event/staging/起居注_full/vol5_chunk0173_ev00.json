@@ -1,0 +1,27 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "初一日",
+ "event_role": "奏报地方情形",
+ "summary": "某臣奏报自肃州发兵赴布隆吉尔哨探，与提督李林隆议派马步兵共一千，相机剪除来兵并遵旨协同孙思克。",
+ "people": [
+  {
+   "name": "李林隆",
+   "role": "提督"
+  },
+  {
+   "name": "孙思克",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "肃州",
+  "布隆吉尔",
+  "塔尔纳秦",
+  "哈密"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17300,
+ "page_range": "356-357"
+}

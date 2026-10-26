@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "初十日戊辰",
+ "event_role": "人事任免",
+ "summary": "翰林院为户部侍郎称丹、工部侍郎稳和伦经筵讲官员缺开列工部尚书温达等职名具奏，康熙帝命开列人员各试讲诵音节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "称丹",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "稳和伦",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "温达",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9914,
+ "page_range": "209-210"
+}

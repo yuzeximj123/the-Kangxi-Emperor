@@ -1,0 +1,34 @@
+{
+ "reign_year": 31,
+ "month": 11,
+ "day_text": "三十日乙已",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁侍读学士安布禄员缺，拟以太仆寺少卿杨舒拟正、织造库郎中巴布纳拟陪，康熙帝评论二人并令拣选。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "杨舒",
+   "role": "太仆寺少卿"
+  },
+  {
+   "name": "巴布纳",
+   "role": "织造库郎中"
+  },
+  {
+   "name": "牛钮",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21303,
+ "page_range": "438-439"
+}

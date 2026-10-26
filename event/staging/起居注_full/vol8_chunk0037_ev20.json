@@ -1,0 +1,38 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "二十六日庚午",
+ "event_role": "议政听政",
+ "summary": "各部院奏毕，大学士温达、松柱、李光地、萧永营、王掞及学士舒等入奏。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永营",
+   "role": "大学士"
+  },
+  {
+   "name": "王掞",
+   "role": "大学士"
+  },
+  {
+   "name": "舒",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3720,
+ "page_range": "85-86"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初八日庚子",
+ "event_role": "谕旨决策",
+ "summary": "徐旭龄奏请御笔留题以宠名泉，康熙帝命高士奇宣谕后援笔大书“激庙”二字赐留泉上。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "巡抚"
+  },
+  {
+   "name": "高士奇",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [
+  "趵突泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5206,
+ "page_range": "139-140"
+}

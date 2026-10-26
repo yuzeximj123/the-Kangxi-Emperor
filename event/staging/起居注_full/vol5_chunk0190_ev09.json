@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十三日甲午",
+ "event_role": "弹劾参奏",
+ "summary": "大学士伊桑阿等奏，侍卫安布禄、护军统领托伦预备蒙古乡导未经奏闻即擅自驰驿往召，议罚俸六个月，奉旨依议。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "托伦",
+   "role": "护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19009,
+ "page_range": "390-391"
+}

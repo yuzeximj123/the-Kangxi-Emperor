@@ -1,0 +1,40 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初五日丙申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院官员面奏，大学士等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6203,
+ "page_range": "159-160"
+}

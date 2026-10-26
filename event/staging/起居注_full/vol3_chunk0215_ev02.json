@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "二十二卓庚午",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕升大理寺卿王拜补副都御史，色冷格升补学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王拜",
+   "role": "大理寺卿"
+  },
+  {
+   "name": "色冷格",
+   "role": "按察使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21502,
+ "page_range": "465-466"
+}

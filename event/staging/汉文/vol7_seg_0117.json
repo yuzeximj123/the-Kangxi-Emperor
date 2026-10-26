@@ -1,0 +1,38 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "户部奏请补授司务德明、笔帖式喀锡泰及员外郎传重等员缺，并请将回避候缺的传重暂留部办事。",
+ "people": [
+  {
+   "name": "德明",
+   "role": "户部司务，拟补授朱麟主事员缺"
+  },
+  {
+   "name": "朱麟",
+   "role": "主事，其员缺待补"
+  },
+  {
+   "name": "喀锡泰",
+   "role": "正黄旗八品笔帖式，拟补授司务德明员缺"
+  },
+  {
+   "name": "传重",
+   "role": "正白旗员外郎，因回避暂留部办事"
+  },
+  {
+   "name": "阿金泰",
+   "role": "正白旗员外郎，升授户部郎中"
+  }
+ ],
+ "places": [],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "户部请旨补授员缺摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 117
+}

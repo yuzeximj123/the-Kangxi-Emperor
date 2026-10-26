@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十六年六月二十六日",
+ "reign_year": 56,
+ "month": 6,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "肃州总兵路振声奏报军前兵马器械整备情形，并遣家人进献肃州局造器物以表微忱，恭请圣安。",
+ "people": [
+  {
+   "name": "路振声",
+   "role": "陕西肃州总兵官"
+  },
+  {
+   "name": "张九如",
+   "role": "路振声家人，代其进献"
+  },
+  {
+   "name": "曹頫",
+   "role": "江宁织造主事"
+  }
+ ],
+ "places": [
+  "肃州",
+  "陕西",
+  "江南",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“朕安”“知道了”，另有圈点，表示已知悉所奏。",
+ "source_title": "肅州總兵路振聲奏報軍前兵丁情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2461",
+ "order_index": 441
+}

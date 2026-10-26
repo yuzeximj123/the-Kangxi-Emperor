@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十八日壬子",
+ "event_role": "谕旨决策",
+ "summary": "九卿议山东巡抚赵世显请于临清、济南开坊铸钱及收买小钱事，康熙帝命姑存之，待奉差缉拿山东私铸大臣还时再奏。",
+ "people": [
+  {
+   "name": "赵世显",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "九卿",
+   "role": "朝臣"
+  }
+ ],
+ "places": [
+  "山东",
+  "临清",
+  "济南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13613,
+ "page_range": "283-284"
+}

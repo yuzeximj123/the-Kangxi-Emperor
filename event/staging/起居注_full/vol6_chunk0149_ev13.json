@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "十五日成实",
+ "event_role": "司法案件",
+ "summary": "兵部题原任京口将军董元卿请留妻子仍住京口议不准，康熙帝命其妻子即令在彼居住。",
+ "people": [
+  {
+   "name": "董元卿",
+   "role": "原任京口将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14913,
+ "page_range": "308-309"
+}

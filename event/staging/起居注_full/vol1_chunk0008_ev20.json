@@ -1,0 +1,30 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "初六日于午",
+ "event_role": "其他",
+ "summary": "皇后所生长子承祜四岁，天性聪慧，康熙帝甚爱之；是日寅时包衣郎中多壁来奏皇子于初五日巳时病卒，康熙帝痛悼。",
+ "people": [
+  {
+   "name": "承祜",
+   "role": "皇子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇后",
+   "role": "皇后"
+  },
+  {
+   "name": "多壁",
+   "role": "包衣郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 820,
+ "page_range": "73-74"
+}

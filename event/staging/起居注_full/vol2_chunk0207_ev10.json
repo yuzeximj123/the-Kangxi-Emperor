@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "二十一日庚寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驾入古北口，驻跸潮河营西山之东。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "古北口",
+  "潮河营西山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20710,
+ "page_range": "457-458"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "二十七日庚午",
+ "event_role": "人事任免",
+ "summary": "吏部题补工科给事中莫洛员缺，正拟班代、陪拟傅德，康熙帝询问二人优劣，勒德洪奏傅德差可，康熙帝命补傅德为工科给事中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "莫洛",
+   "role": "工科给事中"
+  },
+  {
+   "name": "班代",
+   "role": "员外郎"
+  },
+  {
+   "name": "傅德",
+   "role": "拟陪人员"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15811,
+ "page_range": "359-360"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题奏员外郎车克楚浑之弟家人吉尔图打死黑色一案，康熙帝认为车克楚浑似有情弊，令其解任随旗行走并不准往河工。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "车克楚浑",
+   "role": "员外郎"
+  },
+  {
+   "name": "吉尔图",
+   "role": "家人"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10002,
+ "page_range": "210-211"
+}

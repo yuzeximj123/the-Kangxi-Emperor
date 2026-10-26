@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "二十日王申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命郑都、安桔库、卦拉、托席和差出，工部官因积习稽迟不可差往，另派内务府官二员同往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郑都",
+   "role": "户部郎中"
+  },
+  {
+   "name": "安桔库",
+   "role": "内阁侍读"
+  },
+  {
+   "name": "卦拉",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "托席和",
+   "role": "刑部员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17506,
+ "page_range": "385-386"
+}

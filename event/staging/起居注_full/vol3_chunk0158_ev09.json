@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初六日己未",
+ "event_role": "谕旨决策",
+ "summary": "管翰林院事侍郎库勒纳、学士张英启奏补授经筵讲官，康熙帝谕令《诗经》《通鉴》讲章交张英呈进内庭，每日捧至乾清门备讲暂行停止。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "侍郎"
+  },
+  {
+   "name": "张英",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15809,
+ "page_range": "351-352"
+}

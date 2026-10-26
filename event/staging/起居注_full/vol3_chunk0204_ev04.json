@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十七日",
+ "event_role": "司法案件",
+ "summary": "兵部题正黄旗汉军都统张所志等议罪事，康熙帝命张所志降三级留任、李林隆解任，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张所志",
+   "role": "正黄旗汉军都统"
+  },
+  {
+   "name": "李林隆",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20404,
+ "page_range": "443-444"
+}

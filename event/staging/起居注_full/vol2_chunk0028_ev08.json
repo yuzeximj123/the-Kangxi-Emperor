@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十一日丙申",
+ "event_role": "人事任免",
+ "summary": "兵部开列职名题补广东副都统，康熙帝以总兵官拜音达礼在广东变乱时奋勇可嘉，命即调补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "拜音达礼",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2808,
+ "page_range": "99-100"
+}

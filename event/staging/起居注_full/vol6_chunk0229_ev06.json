@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "二十二日忆已",
+ "event_role": "起居注官记录",
+ "summary": "记录起居注官张廷枢、满保。",
+ "people": [
+  {
+   "name": "张廷枢",
+   "role": "起居注官"
+  },
+  {
+   "name": "满保",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22906,
+ "page_range": "468-469"
+}

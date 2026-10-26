@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿等议常书丈路失误事，请交该部议处，奉旨令会议具奏。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "常书",
+   "role": "官员"
+  },
+  {
+   "name": "杨舒",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23800,
+ "page_range": "486-487"
+}

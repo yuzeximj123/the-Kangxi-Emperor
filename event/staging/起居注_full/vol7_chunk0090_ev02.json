@@ -1,0 +1,21 @@
+{
+ "reign_year": 45,
+ "month": 1,
+ "day_text": "初一日庚申",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御中和殿、太和殿，接受内外大臣及朝正外藩、朝鲜陪臣进表庆贺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9002,
+ "page_range": "191-192"
+}

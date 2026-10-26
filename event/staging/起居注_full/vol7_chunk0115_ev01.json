@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令直隶巡抚赵弘亲往天津，会同御史迈色严查查日昌等家产明白具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "迈色",
+   "role": "御史"
+  },
+  {
+   "name": "查日昌",
+   "role": "盐商"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11501,
+ "page_range": "241-242"
+}

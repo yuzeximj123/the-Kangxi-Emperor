@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "初十日全未",
+ "event_role": "谕旨决策",
+ "summary": "户部覆山东巡抚王国昌题泰安等二十七州县新旧钱粮至秋成再征，康熙帝谕令来秋征收以恤荒歉流民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "泰安州",
+  "山东",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4124,
+ "page_range": "92-93"
+}

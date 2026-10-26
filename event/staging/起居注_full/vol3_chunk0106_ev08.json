@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十八日乙效",
+ "event_role": "朝见受贺",
+ "summary": "辰时，四川巡抚姚缔虞陛辞，康熙帝召至乾清宫训谕其爱养抚绥四川百姓。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚缔虞",
+   "role": "四川巡抚"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10608,
+ "page_range": "247-248"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "二十一日甲申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝赐直隶巡抚李光地“凤志泪清”四大字，谕其居官素优故赐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "武清县杨村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15014,
+ "page_range": "310-311"
+}

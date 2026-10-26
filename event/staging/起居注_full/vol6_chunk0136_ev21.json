@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 1,
+ "day_text": "二十六日庚申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝率诸皇子、诸王、贝勒、贝子、公、内大臣、侍卫及大学士等送巴林公主殡至裕亲王园，于灵柩旁恸哭，诸王大臣再三劝解后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴林公主",
+   "role": "丧主"
+  }
+ ],
+ "places": [
+  "裕亲王园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13621,
+ "page_range": "282-283"
+}

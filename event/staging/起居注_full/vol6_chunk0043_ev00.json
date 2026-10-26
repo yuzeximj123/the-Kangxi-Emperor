@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕苏努赴盛京查看情形，若有益即启奏，并令严惩兵丁派差不去或私回者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏努",
+   "role": "臣工"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4300,
+ "page_range": "96-97"
+}

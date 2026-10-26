@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 10,
+ "day_text": "初三日甲辰",
+ "event_role": "朝见受贺",
+ "summary": "早，康熙帝以皇太后圣寿率诸王、内大臣、侍卫、文武官员于皇太后行宫前行庆贺礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "皇太后行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5716,
+ "page_range": "124-125"
+}

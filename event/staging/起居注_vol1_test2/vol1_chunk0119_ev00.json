@@ -1,0 +1,24 @@
+{
+ "reign_year": 15,
+ "month": 8,
+ "day_text": "初一日辛亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听部院各衙门官员面奏政事，工部请令地方官多备白炭应用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常鄞",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11900,
+ "page_range": "295-296"
+}

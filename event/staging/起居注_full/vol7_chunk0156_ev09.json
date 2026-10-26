@@ -1,0 +1,40 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等覆湖广巡抚陈许题黄佳禄戏打罗尔凤致死一案，拟照例减等，康熙帝以误引条例、巡抚交吏部不合，令本发还会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄佳禄",
+   "role": "案犯"
+  },
+  {
+   "name": "罗尔凤",
+   "role": "死者"
+  },
+  {
+   "name": "陈许",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "李世臣",
+   "role": "案例人"
+  },
+  {
+   "name": "杨兰公",
+   "role": "案例人"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15609,
+ "page_range": "323-324"
+}

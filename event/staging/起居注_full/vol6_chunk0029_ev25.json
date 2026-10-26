@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 1,
+ "day_text": "十四日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召策旺喇布滩之使阿拉木扎木巴等询问台吉安好及诺巴其疏参事由。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿拉木扎木巴",
+   "role": "策旺喇布滩使臣"
+  },
+  {
+   "name": "盆苏克丹津多和尔济寨桑",
+   "role": "策旺喇布滩使臣"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "澹宁堂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2925,
+ "page_range": "68-69"
+}

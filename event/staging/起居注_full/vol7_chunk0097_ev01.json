@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "归化城都统扎喇克图年老乞休，康熙帝命行文右卫将军验其步履如何。",
+ "people": [
+  {
+   "name": "扎喇克图",
+   "role": "归化城都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "归化城",
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9701,
+ "page_range": "205-206"
+}

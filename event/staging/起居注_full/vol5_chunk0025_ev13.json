@@ -1,0 +1,21 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十四日庚辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝在畅春园内渊宁居听政，部院各衙门官员面奏完毕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "渊宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2513,
+ "page_range": "60-61"
+}

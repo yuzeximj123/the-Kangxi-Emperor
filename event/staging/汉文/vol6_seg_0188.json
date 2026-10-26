@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十四年十一月初一日",
+ "reign_year": 54,
+ "month": 11,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹颙奏报江南总督赫寿之母病故、百姓罢市请留及江南太平、米价雨水菜麦等地方情形，并进晴雨录。",
+ "people": [
+  {
+   "name": "曹颙",
+   "role": "江宁织造主事，奏报人"
+  },
+  {
+   "name": "赫寿",
+   "role": "江南总督"
+  },
+  {
+   "name": "曹頫",
+   "role": "江宁织造主事，具奏请安及晴雨录"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批均为“知道了”，表示已阅知悉。",
+ "source_title": "江寧織造曹頫奏報江南米價雨水並晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1921",
+ "order_index": 188
+}

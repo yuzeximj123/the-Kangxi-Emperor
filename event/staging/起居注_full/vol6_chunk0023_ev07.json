@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十九日乙已",
+ "event_role": "人事任免",
+ "summary": "户部尚书马齐等启奏朝鲜粜米差遣大臣，康熙帝命侍郎贝和诺前往。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "户部尚书"
+  },
+  {
+   "name": "贝和诺",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2307,
+ "page_range": "56-57"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 8,
+ "day_text": "二十日壬寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命吴达禅、马武传谕：喀喇沁蒙古地方随从人等若盗马、抢夺、焚栅、掠乳酪等，依军法治罪，并晓谕内地例严禁。",
+ "people": [
+  {
+   "name": "吴达禅",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "马武",
+   "role": "头等侍卫"
+  }
+ ],
+ "places": [
+  "喀喇沁部落蒙古居住地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15913,
+ "page_range": "330-331"
+}

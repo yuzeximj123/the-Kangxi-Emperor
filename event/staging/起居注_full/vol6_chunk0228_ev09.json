@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十九日壬寅",
+ "event_role": "司法案件",
+ "summary": "刑部题民人崔岳私戴孔汰鱼帽擅入西华门拟绞，康熙帝以其风病是真、首告各件无影响，命拟绞监候，余依议结。",
+ "people": [
+  {
+   "name": "崔岳",
+   "role": "民人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西华门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22809,
+ "page_range": "466-467"
+}

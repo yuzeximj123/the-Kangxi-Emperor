@@ -1,0 +1,21 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "二十八日丙辰",
+ "event_role": "议政听政",
+ "summary": "覆请兵部覆直隶巡抚赵弘燮所题热河、喀喇城设立驿站一事。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "热河",
+  "喀喇城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17224,
+ "page_range": "355-356"
+}

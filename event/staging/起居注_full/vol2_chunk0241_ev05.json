@@ -1,0 +1,37 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十九日丙戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论陕西满洲官员居官声誉，称莫洛为总督之最，并论外官须廉洁爱民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "莫洛",
+   "role": "原总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "格尔古德",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "王申",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "陕西",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24105,
+ "page_range": "525-526"
+}

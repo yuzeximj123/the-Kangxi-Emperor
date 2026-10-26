@@ -1,0 +1,22 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "十七日甲午",
+ "event_role": "起居注官记录",
+ "summary": "记载此行部院各衙门奏章每日转送内阁、三日一驰送行宫听理，扈从起居注官为阿山、揆叙。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "揆叙",
+   "role": "扈从起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1037,
+ "page_range": "30-31"
+}

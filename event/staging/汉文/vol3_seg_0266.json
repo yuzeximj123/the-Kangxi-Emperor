@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙伍拾年拾月拾捌日",
+ "reign_year": 50,
+ "month": 10,
+ "day": 18,
+ "event_role": "请安谢恩",
+ "summary": "甘肃提督江琦奏请圣安，报告甘属雨水米价及收成丰足，并谢恩祗领御赐鹿肉条、鱼干等食物。",
+ "people": [
+  {
+   "name": "江琦",
+   "role": "提督甘肃总兵官，奏折作者"
+  },
+  {
+   "name": "王德",
+   "role": "江琦家人，遣其赍折进京"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "边陲",
+  "京口外",
+  "同城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "甘肃提督江琦奏请圣安并谢赐食物摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "968",
+ "order_index": 266
+}

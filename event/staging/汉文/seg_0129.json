@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十五年七月三十日",
+ "reign_year": 45,
+ "month": 7,
+ "day": 30,
+ "event_role": "司法案件",
+ "summary": "赵弘燮奏报奉旨会同御史迈色查察查日昌等人产业，因盐政档案不在巡抚衙门，请求暂缓提拏以便确查。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "迈色",
+   "role": "涉及人物"
+  },
+  {
+   "name": "查日昌",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "直隸",
+  "天津"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批表示等候圣裁批示遵行，并令具题来奏。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "182",
+ "source_title": "直隸巡撫趙弘燮奏報嚴查吞日昌金大中產業情形摺",
+ "order_index": 129
+}

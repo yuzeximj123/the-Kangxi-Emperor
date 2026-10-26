@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "初一日丙申",
+ "event_role": "谕旨决策",
+ "summary": "浙闽总督朱弘祚题请巡察泉州等处海口战船，康熙帝以巡察劳民、生一事不如损一事，不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱弘祚",
+   "role": "浙闽总督"
+  }
+ ],
+ "places": [
+  "泉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3618,
+ "page_range": "82-83"
+}

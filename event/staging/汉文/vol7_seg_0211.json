@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十九年四月二十五日",
+ "reign_year": 59,
+ "month": 4,
+ "day": 25,
+ "event_role": "奏报地方情形",
+ "summary": "护理贵州巡抚白潢奏报在黔劝民栽植纺织设学课读、捐借牛种招垦田土，并请旨是否禁止黔省官绅落业他省。",
+ "people": [
+  {
+   "name": "白潢",
+   "role": "护理贵州巡抚事务、布政使"
+  },
+  {
+   "name": "章二保",
+   "role": "赍折家人"
+  }
+ ],
+ "places": [
+  "贵州",
+  "黔",
+  "奉天",
+  "四川"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示知道了，并将奏折交与内阁。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 211
+}

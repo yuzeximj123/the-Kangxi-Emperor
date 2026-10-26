@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "十八日甲辰",
+ "event_role": "人事任免",
+ "summary": "户部题大通桥等仓监督差员外郎格尔特等，康熙帝令差各部院曾保举者，内务府保举者不必差遣。",
+ "people": [
+  {
+   "name": "格尔特",
+   "role": "员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大通桥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13217,
+ "page_range": "299-300"
+}

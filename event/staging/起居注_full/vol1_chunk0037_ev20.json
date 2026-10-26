@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 3,
+ "day_text": "初六日丙子",
+ "event_role": "谕旨决策",
+ "summary": "讲毕康熙帝召学士傅达礼，谕以移驻瀛台非图游观，因宫殿要柱损（原文至此）。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3720,
+ "page_range": "131-132"
+}

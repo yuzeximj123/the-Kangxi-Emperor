@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙伍拾肆年正月拾贰日",
+ "reign_year": 54,
+ "month": 1,
+ "day": 12,
+ "event_role": "奏报地方情形",
+ "summary": "宁夏副将王玮奏报保定等地春雪沾足、麦苗生长良好，并称颂皇上仁德致祥瑞，恭慰圣怀。",
+ "people": [
+  {
+   "name": "王玮",
+   "role": "宁夏驻扎地方副将管领兵官事，奏报人"
+  },
+  {
+   "name": "徐仁",
+   "role": "守备，因看守太监不严被议处"
+  },
+  {
+   "name": "尹齐",
+   "role": "太监，擅自刺头者"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "保定郡城",
+  "清苑县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示知道了，不必题参守备徐仁，闭印后交内务府处理。",
+ "source_title": "（前折延续）",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "964",
+ "order_index": 357
+}

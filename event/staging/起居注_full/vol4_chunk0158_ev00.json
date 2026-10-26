@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝认为吉等估计需银七万余两浮多，命侍读学士温保、监察御史德珠会同内务府官再行详细丈量料估。",
+ "people": [
+  {
+   "name": "吉",
+   "role": "估计官员"
+  },
+  {
+   "name": "温保",
+   "role": "侍读学士"
+  },
+  {
+   "name": "德珠",
+   "role": "监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15800,
+ "page_range": "328-329"
+}

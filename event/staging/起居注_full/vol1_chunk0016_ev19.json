@@ -1,0 +1,37 @@
+{
+ "reign_year": 11,
+ "month": 6,
+ "day_text": "二十日甲午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召翰林院学士傅达礼至丹陛，谕令其同侍卫吴海率御医如文照往礼部尚书此莘家诊视，以示满汉一视。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "吴海",
+   "role": "近侍侍卫"
+  },
+  {
+   "name": "如文照",
+   "role": "御医"
+  },
+  {
+   "name": "此莘",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [
+  "丹陛",
+  "此莘家"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1619,
+ "page_range": "89-90"
+}

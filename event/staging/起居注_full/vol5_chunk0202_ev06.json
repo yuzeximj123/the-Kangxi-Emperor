@@ -1,0 +1,40 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十七日戊实",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命宁夏闲散官员、武进士、举人、生员及富民情愿以己资军前效力者报名奏闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "马思喀",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20206,
+ "page_range": "414-415"
+}

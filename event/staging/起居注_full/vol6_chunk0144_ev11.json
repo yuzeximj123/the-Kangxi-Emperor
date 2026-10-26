@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "甘肃将军孙思克遗疏具奏，康熙惜其劳绩，令议优恤。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "甘肃将军"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14411,
+ "page_range": "298-299"
+}

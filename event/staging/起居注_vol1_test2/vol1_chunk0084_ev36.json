@@ -1,0 +1,28 @@
+{
+ "reign_year": 14,
+ "month": 1,
+ "day_text": "十五日甲成",
+ "event_role": "朝见受贺",
+ "summary": "早，康熙帝御太和殿视朝，文武升转官员谢恩，朝鲜国进贡正使李祯、副使尹深等行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李祯",
+   "role": "朝鲜国进贡正使"
+  },
+  {
+   "name": "尹深",
+   "role": "朝鲜国进贡副使"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8436,
+ "page_range": "225-226"
+}

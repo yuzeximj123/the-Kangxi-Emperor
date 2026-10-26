@@ -1,0 +1,42 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十四日甲实",
+ "event_role": "人事任免",
+ "summary": "议会推四川巡抚，康熙帝以杭爱才具可用，命将陕西巡抚杭爱调补四川巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "杭爱",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "巴锡",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "四川",
+  "陕西",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21711,
+ "page_range": "491-492"
+}

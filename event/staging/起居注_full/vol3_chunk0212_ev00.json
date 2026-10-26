@@ -1,0 +1,22 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "处理硕里家人李三逃走一事，令拘禁硕里，待拿获李三之日质审。",
+ "people": [
+  {
+   "name": "硕里",
+   "role": "涉案人"
+  },
+  {
+   "name": "李三",
+   "role": "硕里家人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21200,
+ "page_range": "459-460"
+}

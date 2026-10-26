@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "二十七日辛已",
+ "event_role": "贸易漕运",
+ "summary": "户部覆福建巡抚金镑题请台湾白糖、鹿皮照常贩卖、民间贸易禁止，康熙帝命问九卿来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金镑",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15013,
+ "page_range": "335-336"
+}

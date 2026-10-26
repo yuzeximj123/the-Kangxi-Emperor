@@ -1,0 +1,36 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝在行宫与大学士马齐等处理折本，议论山东总兵刘官统题参副将叶纪一事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "辛保",
+   "role": "学士"
+  },
+  {
+   "name": "刘官统",
+   "role": "山东总兵官"
+  },
+  {
+   "name": "叶纪",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20700,
+ "page_range": "424-425"
+}

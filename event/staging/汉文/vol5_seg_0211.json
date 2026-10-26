@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙五十三年五月初十日",
+ "reign_year": 53,
+ "month": 5,
+ "day": 10,
+ "event_role": "奏报地方情形",
+ "summary": "云南巡抚吴存礼奏请圣安，并报云南麦收米价渐平、秋田插秧及劝民勤耕节用情形。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "云南巡抚，奏报人"
+  },
+  {
+   "name": "丁祥",
+   "role": "吴存礼的赍摺家人"
+  },
+  {
+   "name": "卢询",
+   "role": "布政使，详报收成分数"
+  },
+  {
+   "name": "郭璘",
+   "role": "督臣"
+  }
+ ],
+ "places": [
+  "云南",
+  "滇省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "雲南巡撫吳存禮奏請聖安並報江南麥收米價稍貴及平糶情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1571",
+ "order_index": 211
+}

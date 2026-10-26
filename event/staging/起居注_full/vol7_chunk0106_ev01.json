@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "二十日",
+ "event_role": "谕旨决策",
+ "summary": "户部题陕西巡抚哇海参捐纳册籍迟延，拟罚西安府通判张最俸三个月，康熙帝准议并限两个月完结，逾期则议处督抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哇海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "张最",
+   "role": "西安府通判"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10601,
+ "page_range": "223-224"
+}

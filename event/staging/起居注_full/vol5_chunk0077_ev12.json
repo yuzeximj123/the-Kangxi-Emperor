@@ -1,0 +1,37 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "十二日辛丑",
+ "event_role": "人事任免",
+ "summary": "兵部题贵州总兵官卢崇耀员缺，康熙帝称马进良有劳绩、人材壮健。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卢崇耀",
+   "role": "贵州总兵官"
+  },
+  {
+   "name": "管源忠",
+   "role": "镶黄旗汉军参领"
+  },
+  {
+   "name": "马进良",
+   "role": "石匣营副将"
+  },
+  {
+   "name": "孙思克",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "贵州",
+  "石匣营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7712,
+ "page_range": "164-165"
+}

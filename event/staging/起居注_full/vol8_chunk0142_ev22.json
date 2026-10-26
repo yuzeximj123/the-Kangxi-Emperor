@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "二十八日本已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝朱谕松柱，询问京中是否求雨禁屠宰，命松柱会同礼部即行议奏。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14222,
+ "page_range": "295-296"
+}

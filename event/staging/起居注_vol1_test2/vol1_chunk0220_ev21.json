@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初九日己巳",
+ "event_role": "谕旨决策",
+ "summary": "户部议覆甘肃巡抚巴锡题请捐纳事，康熙帝以陕西百姓劳苦不可捐纳，命在四川捐纳并令九卿会议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "甘肃",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22021,
+ "page_range": "497-498"
+}

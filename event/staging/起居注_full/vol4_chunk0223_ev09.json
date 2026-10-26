@@ -1,0 +1,28 @@
+{
+ "reign_year": 32,
+ "month": 1,
+ "day_text": "二十日甲子",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问郑城百姓生计，张玉书、图纳奏郑城生计稍不如宿迁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "图纳",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "郑城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22309,
+ "page_range": "458-459"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "十六日癸卯",
+ "event_role": "司法案件",
+ "summary": "刑部议闲散满洲黑色打死黑龙江骁骑校赖必尼家人陈尔屏拟绞，康熙帝令行文该将军察明黑色来历再定夺。",
+ "people": [
+  {
+   "name": "黑色",
+   "role": "闲散满洲"
+  },
+  {
+   "name": "赖必尼",
+   "role": "黑龙江骁骑校"
+  },
+  {
+   "name": "陈尔屏",
+   "role": "赖必尼家人"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10510,
+ "page_range": "221-222"
+}

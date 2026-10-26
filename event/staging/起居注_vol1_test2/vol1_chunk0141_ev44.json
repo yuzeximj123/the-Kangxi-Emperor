@@ -1,0 +1,21 @@
+{
+ "reign_year": 16,
+ "month": 7,
+ "day_text": "十九日甲午",
+ "event_role": "谕旨决策",
+ "summary": "申时，康熙帝移驻瀛台，命各部院衙门章奏俱送内阁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀛台",
+  "内阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14144,
+ "page_range": "339-340"
+}

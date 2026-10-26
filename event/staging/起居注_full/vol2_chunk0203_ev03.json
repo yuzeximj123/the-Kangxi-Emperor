@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十一日辛雍",
+ "event_role": "人事任免",
+ "summary": "吏部题补江西巡抚佟康年病故员缺，康熙帝以安世里曾任江西居官不佳但系候补之人，命补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨海",
+   "role": "学士"
+  },
+  {
+   "name": "安世里",
+   "role": "候补巡抚"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20303,
+ "page_range": "449-450"
+}

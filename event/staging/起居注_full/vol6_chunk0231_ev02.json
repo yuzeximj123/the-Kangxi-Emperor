@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "顺义县知县杨棠、重河营把总王庭彦等来朝。",
+ "people": [
+  {
+   "name": "杨棠",
+   "role": "顺义县知县"
+  },
+  {
+   "name": "王庭彦",
+   "role": "重河营把总"
+  }
+ ],
+ "places": [
+  "顺义县",
+  "重河营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23102,
+ "page_range": "472-473"
+}

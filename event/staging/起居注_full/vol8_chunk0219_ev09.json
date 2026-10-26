@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐等查司库纳尼在四川家居住本内清字遗漏未写一事覆请，康熙帝命将打死家人米密之纳尼革去司库，交内务府总管以职事奏用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "纳尼",
+   "role": "司库"
+  },
+  {
+   "name": "米密",
+   "role": "纳尼家人"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21909,
+ "page_range": "449-450"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 17,
+ "month": 12,
+ "day_text": "十七日癸未",
+ "event_role": "谕旨决策",
+ "summary": "詹事沈荃以御笔“存诚”二字刻石进呈并请旨，康熙帝命有求者酌量拓与。",
+ "people": [
+  {
+   "name": "沈荃",
+   "role": "詹事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "詹事府署"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17328,
+ "page_range": "403-404"
+}

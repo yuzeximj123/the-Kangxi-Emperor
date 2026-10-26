@@ -1,0 +1,33 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十二日甲实",
+ "event_role": "军务",
+ "summary": "福建水师提督施琅题请总兵朱天贵复还汛地，兵部议覆行察，康熙帝令朱天贵官兵留后声援大兵，再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施琅",
+   "role": "福建水师提督"
+  },
+  {
+   "name": "朱天贵",
+   "role": "总兵官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17710,
+ "page_range": "397-398"
+}

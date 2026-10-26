@@ -1,0 +1,25 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "初二日两子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论赵申乔条奏河南黄河近边被冲田亩请免钱粮，指出被冲田免粮则新出田不应取粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "河南",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3909,
+ "page_range": "89-90"
+}

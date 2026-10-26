@@ -1,0 +1,40 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "十八日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部题顺天学差开列应差官员，明珠奏王顼绪应停差遣，董讷、陈论可用，康熙帝命董讷去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "王顼绪",
+   "role": "侍讲"
+  },
+  {
+   "name": "董讷",
+   "role": "侍讲"
+  },
+  {
+   "name": "陈论",
+   "role": "论德"
+  }
+ ],
+ "places": [
+  "顺天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10708,
+ "page_range": "257-258"
+}

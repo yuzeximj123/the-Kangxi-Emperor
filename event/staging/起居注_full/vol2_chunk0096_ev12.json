@@ -1,0 +1,44 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "十一日庚寅",
+ "event_role": "人事任免",
+ "summary": "议处将军杨凤翔等，康熙帝令带所降之级留任；莫天颜革职，阿席熙一并严议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨凤翔",
+   "role": "将军"
+  },
+  {
+   "name": "莫天颜",
+   "role": "官员"
+  },
+  {
+   "name": "阿席熙",
+   "role": "总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "苏松"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9612,
+ "page_range": "235-236"
+}

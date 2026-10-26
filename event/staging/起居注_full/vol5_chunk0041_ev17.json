@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十五日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论听政三十余年阅历已深，斥赵心作与彭鹏相好、彭鹏狂妄无定见无官体，闻福建督抚官员皆畏彭鹏、其兄弟族人往见开中门迎送。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵心作",
+   "role": "官员"
+  },
+  {
+   "name": "彭鹏",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4117,
+ "page_range": "92-93"
+}

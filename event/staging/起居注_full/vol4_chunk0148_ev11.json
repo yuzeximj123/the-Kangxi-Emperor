@@ -1,0 +1,40 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "初二日丁效",
+ "event_role": "其他",
+ "summary": "扈从诸王、贝子、公、内大臣、侍卫、文武大臣于行宫前跪奏，称自古以来边外蒙古皆另为一。",
+ "people": [
+  {
+   "name": "诸王",
+   "role": "扈从"
+  },
+  {
+   "name": "贝子",
+   "role": "扈从"
+  },
+  {
+   "name": "公",
+   "role": "扈从"
+  },
+  {
+   "name": "内大臣",
+   "role": "扈从"
+  },
+  {
+   "name": "侍卫",
+   "role": "扈从"
+  },
+  {
+   "name": "文武大臣",
+   "role": "扈从"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14811,
+ "page_range": "308-309"
+}

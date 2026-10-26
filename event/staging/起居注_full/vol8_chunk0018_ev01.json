@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "礼部覆请江南提督师葡德请将恩典与父并加谥号，康熙帝准其父师帝宾与谥。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "师葡德",
+   "role": "江南提督"
+  },
+  {
+   "name": "师帝宾",
+   "role": "师葡德之父"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1801,
+ "page_range": "47-48"
+}

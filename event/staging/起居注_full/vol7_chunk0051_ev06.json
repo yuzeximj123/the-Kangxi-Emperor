@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "初五日庚辰",
+ "event_role": "皇帝行止",
+ "summary": "御舟抵淮安府，康熙帝登岸入城阅视民生，百姓设香案跪迎，后登舟过宝应县。",
+ "people": [
+  {
+   "name": "王谦",
+   "role": "淮扬道"
+  },
+  {
+   "name": "来保",
+   "role": "浒墅关监督员外郎"
+  },
+  {
+   "name": "张增",
+   "role": "宝应县知县"
+  }
+ ],
+ "places": [
+  "淮安府",
+  "宝应县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5106,
+ "page_range": "113-114"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "广东巡抚杨琳题请以镇标水师右营游击周济调补臣标右营游击斐讼锡员缺，康熙准照所请调补。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "斐讼锡",
+   "role": "游击"
+  },
+  {
+   "name": "周济",
+   "role": "镇标水师右营游击"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13302,
+ "page_range": "277-278"
+}

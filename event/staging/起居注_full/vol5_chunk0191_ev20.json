@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十六日丁丁",
+ "event_role": "军务",
+ "summary": "令蒙古等束装以待，侍卫绰克图前去传谕左翼王、贝勒、贝子、台吉等毋以朕往宁夏间道前来请安，有力能自效者往宋喇布贝勒处听候调遣。",
+ "people": [
+  {
+   "name": "绰克图",
+   "role": "侍卫"
+  },
+  {
+   "name": "宋喇布",
+   "role": "贝勒"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19120,
+ "page_range": "392-393"
+}

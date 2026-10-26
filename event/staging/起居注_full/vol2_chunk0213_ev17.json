@@ -1,0 +1,33 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "十四日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "黄芳泰请以亲属在汀州者发往漳州料理殡项，兵部议准，康熙帝命依所请，并令黄芳泰此后此类家事免其题请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄芳泰",
+   "role": "官员"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "黄芳度",
+   "role": "殉难官员"
+  }
+ ],
+ "places": [
+  "汀州",
+  "漳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21317,
+ "page_range": "469-470"
+}

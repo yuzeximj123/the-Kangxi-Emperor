@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "未时",
+ "event_role": "人事任免",
+ "summary": "康熙帝命择有才干旗人补平阳府知府，以兵部郎中马朝融补授。",
+ "people": [
+  {
+   "name": "马朝融",
+   "role": "兵部郎中，补平阳府知府"
+  }
+ ],
+ "places": [
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7922,
+ "page_range": "169-170"
+}

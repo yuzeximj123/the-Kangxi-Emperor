@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 8,
+ "day_text": "十三日甲子",
+ "event_role": "人事任免",
+ "summary": "理藩院题归化城都统丹进员缺，开列子弟策汪多尔济及副都统延寿等职名请旨。",
+ "people": [
+  {
+   "name": "丹进",
+   "role": "归化城都统"
+  },
+  {
+   "name": "策汪多尔济",
+   "role": "骁骑校"
+  },
+  {
+   "name": "延寿",
+   "role": "归化城副都统"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22826,
+ "page_range": "467-468"
+}

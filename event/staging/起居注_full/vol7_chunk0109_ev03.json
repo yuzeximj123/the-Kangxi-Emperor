@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐等奏补大定州知州事，康熙命本发还作速拟补，并令速举云南四省缺出人员发往预备。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大定州",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10903,
+ "page_range": "229-230"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "二十五日壬午",
+ "event_role": "人事任免",
+ "summary": "吏部题刑部侍郎赵之瞻告病解任员缺，康熙帝命巡抚薛柱斗补授刑部侍郎。",
+ "people": [
+  {
+   "name": "赵之瞻",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "薛柱斗",
+   "role": "巡抚"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22924,
+ "page_range": "493-494"
+}

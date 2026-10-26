@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "初三日已匈",
+ "event_role": "军务",
+ "summary": "总兵官赵应奎请于袁临增设副将并添兵，兵部议不准，康熙帝命于本省不甚紧要地方额设兵内调往防守，着督抚提督会同定议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵应奎",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "袁临"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12511,
+ "page_range": "293-294"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕议政大臣，指示行军途中沙岗难行、马匹劳苦，令兵丁仆从步行，照常晨炊日出起程，日食两餐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "滚诺尔",
+  "楼社布喇克",
+  "和和尔博",
+  "胡什木克",
+  "嘲尔图",
+  "深诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10700,
+ "page_range": "224-225"
+}

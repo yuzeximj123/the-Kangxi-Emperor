@@ -1,0 +1,36 @@
+{
+ "reign_year": 15,
+ "month": 8,
+ "day_text": "十九日已已",
+ "event_role": "其他",
+ "summary": "康熙帝御保和殿举行经筵，命常蔓、王熙讲《四书》，喇沙里、徐元文讲《易经》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常蔓",
+   "role": "尚书"
+  },
+  {
+   "name": "王熙",
+   "role": "尚书"
+  },
+  {
+   "name": "喇沙里",
+   "role": "学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12010,
+ "page_range": "297-298"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十六日癸酉",
+ "event_role": "司法案件",
+ "summary": "刑部议出海贸易周粮等三十三人俱应立斩，康熙帝命俱免死，发往移住盛京新满洲披甲者为奴。",
+ "people": [
+  {
+   "name": "周粮",
+   "role": "出海贸易民人"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25013,
+ "page_range": "557-558"
+}

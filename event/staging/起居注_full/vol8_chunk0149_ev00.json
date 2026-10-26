@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题工部主事拉巴自马厂告假违限不去，拟降五级调用，康熙帝以其可恶，着革职拿送刑部。",
+ "people": [
+  {
+   "name": "拉巴",
+   "role": "工部主事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "马厂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14900,
+ "page_range": "309-310"
+}

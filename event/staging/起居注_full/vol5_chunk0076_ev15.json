@@ -1,0 +1,20 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "初五日甲午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸么亭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "么亭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7615,
+ "page_range": "162-163"
+}

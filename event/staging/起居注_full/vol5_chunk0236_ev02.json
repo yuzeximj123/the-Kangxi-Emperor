@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣会议阿南达等奏，议定钞录费扬古所奏二疏知会阿南达等，奉旨依议。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "丹巴",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "齐奇尔寨桑",
+   "role": "厄鲁特来使"
+  },
+  {
+   "name": "格允洛英",
+   "role": "厄鲁特降臣"
+  }
+ ],
+ "places": [
+  "巴颜恩都尔",
+  "噶斯",
+  "瀚海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23602,
+ "page_range": "482-483"
+}

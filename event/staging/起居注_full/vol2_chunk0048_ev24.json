@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "二十二日乙已",
+ "event_role": "司法案件",
+ "summary": "广东巡抚金俊题叛贼杨起龙等查缉无有请遍行各省稽查，康熙帝以推请具题不合命仍严缉捕获。",
+ "people": [
+  {
+   "name": "金俊",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "杨起龙",
+   "role": "叛贼"
+  },
+  {
+   "name": "郑得胜",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4824,
+ "page_range": "139-140"
+}

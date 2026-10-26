@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十八日壬子",
+ "event_role": "司法案件",
+ "summary": "大学士等核议情真案内不得财强盗宋名竹拟缓决及推姚禄落井之王子明拟缓决具奏，康熙帝询问宋名竹事核议情况。",
+ "people": [
+  {
+   "name": "宋名竹",
+   "role": "强盗"
+  },
+  {
+   "name": "王子明",
+   "role": "罪犯"
+  },
+  {
+   "name": "姚禄",
+   "role": "被害人"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13615,
+ "page_range": "283-284"
+}

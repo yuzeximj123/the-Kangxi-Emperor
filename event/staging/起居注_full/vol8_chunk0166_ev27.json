@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "二十九日乙本",
+ "event_role": "军务",
+ "summary": "兵部覆川陕总督鄂海请拣选陕西、河南等处官员各五员前往出兵之处，帝令交九卿于八旗汉军丁忧官及候补道员以下知县以上拣选三十员预备发往。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16627,
+ "page_range": "343-344"
+}

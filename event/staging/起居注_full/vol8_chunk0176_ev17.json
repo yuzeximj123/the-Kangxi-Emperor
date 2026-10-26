@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "二十二日丁未",
+ "event_role": "人事任免",
+ "summary": "覆请兵部题四川重庆总兵官韩成以老病乞休求入合州籍，康熙准其原品休致并准入合州民籍。",
+ "people": [
+  {
+   "name": "韩成",
+   "role": "四川重庆总兵官"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川合州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17617,
+ "page_range": "363-364"
+}

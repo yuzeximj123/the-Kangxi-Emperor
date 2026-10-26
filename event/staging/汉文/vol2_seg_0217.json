@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙四十八年八月十八日",
+ "reign_year": 48,
+ "month": 8,
+ "day": 18,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏谢康熙赦宥其不敬之罪并训诲之恩，表示此后小心谨慎、改过报效。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "管理福州织造大理寺卿，奏折具奏人"
+  }
+ ],
+ "places": [
+  "福州",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏謝赦宥不敬之罪摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "564",
+ "order_index": 217
+}

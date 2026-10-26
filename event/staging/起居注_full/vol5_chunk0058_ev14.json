@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "十二日甲辰",
+ "event_role": "人事任免",
+ "summary": "吏部因国子监启圣祠西廊房失火，议罚当月镶黄旗助教佛伦俸一年，康熙帝依议并令解任随旗行走。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "镶黄旗助教"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "国子监启圣祠"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5814,
+ "page_range": "126-127"
+}

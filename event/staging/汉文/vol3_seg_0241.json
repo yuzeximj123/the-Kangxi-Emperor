@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十年九月十七日",
+ "reign_year": 50,
+ "month": 9,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "广东提督施世骠遵旨回奏广东海上防剿情形、海贼零星无大股及广东总兵以下武官履职状况。",
+ "people": [
+  {
+   "name": "施世骠",
+   "role": "广东提督，奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批询问"
+  }
+ ],
+ "places": [
+  "广东",
+  "外洋"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "廣東提督施世驃奏爲據實回奏防勦海上情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "943",
+ "order_index": 241
+}

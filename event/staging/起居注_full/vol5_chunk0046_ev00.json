@@ -1,0 +1,42 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论高家堰开小河事，认为取近堤之土会冲刷堤址，指示不可取湖内之土，并令九卿明早面奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  },
+  {
+   "name": "靳辅",
+   "role": "前任总河"
+  },
+  {
+   "name": "佛伦",
+   "role": "大学士"
+  },
+  {
+   "name": "董讷",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "中门",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4600,
+ "page_range": "102-103"
+}

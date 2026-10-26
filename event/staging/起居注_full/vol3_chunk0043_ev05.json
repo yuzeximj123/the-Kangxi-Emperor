@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十九日王成",
+ "event_role": "人事任免",
+ "summary": "兵部题补正红旗满洲副都统噶哈解任员缺，拟蒙古副都统希禅、穆成格，康熙帝以不识其人令问议政王。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶哈",
+   "role": "正红旗满洲副都统"
+  },
+  {
+   "name": "希禅",
+   "role": "蒙古副都统"
+  },
+  {
+   "name": "穆成格",
+   "role": "拟补人员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4305,
+ "page_range": "121-122"
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十五年二月二十日",
+ "reign_year": 55,
+ "month": 2,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "直隶总督赵弘燮奏报保定府于二月二十一日晚降雪，清苑县积厚四寸，麦苗得润，预卜秋丰，并称颂圣主爱民。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督，奏报人"
+  },
+  {
+   "name": "李辉",
+   "role": "总督仓场户部右侍郎兼管钱法堂事务，奏折中署名具奏者"
+  }
+ ],
+ "places": [
+  "保定",
+  "清苑县",
+  "畿内"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸總督趙弘燮奏報保定得雪緣由摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "2021",
+ "order_index": 272
+}

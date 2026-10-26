@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "十六日乙刻",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责王新命既保成工何不早修完，令其具折奏报，并议开滩新河放水，清凉寺决口不必塞。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "原任总河"
+  }
+ ],
+ "places": [
+  "清凉寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17620,
+ "page_range": "362-363"
+}

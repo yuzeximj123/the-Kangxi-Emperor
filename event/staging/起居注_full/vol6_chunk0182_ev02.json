@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "十八日丙午",
+ "event_role": "朝见受贺",
+ "summary": "遵化州知州李铎、罗文峪驻防防御下涵、把总刘永奇等来朝。",
+ "people": [
+  {
+   "name": "李铎",
+   "role": "遵化州知州"
+  },
+  {
+   "name": "下涵",
+   "role": "罗文峪驻防防御"
+  },
+  {
+   "name": "刘永奇",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "遵化州",
+  "罗文峪"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18202,
+ "page_range": "374-375"
+}

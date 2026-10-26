@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "十一日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "皇帝问讲官徐元梦乌黑学问是否平常。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元梦",
+   "role": "讲官"
+  },
+  {
+   "name": "乌黑",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11223,
+ "page_range": "259-260"
+}

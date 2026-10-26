@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙四十五年十四日戊辰",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "十四日戊辰",
+ "event_role": "收到奏折",
+ "summary": "礼部奏四川巡抚能泰于泸河造铁索桥完工，请赐名并书碑文，康熙帝令候颁御书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "能泰",
+   "role": "四川巡抚"
+  }
+ ],
+ "places": [
+  "四川",
+  "泸河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3051
+}

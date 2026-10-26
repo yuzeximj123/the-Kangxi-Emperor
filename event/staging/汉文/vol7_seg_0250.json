@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十五年十月初二日",
+ "reign_year": 55,
+ "month": 10,
+ "day": 3,
+ "event_role": "奏报灾情收成",
+ "summary": "江宁巡抚吴存礼奏报由苏州织造李煦转交的御稻谷种两季试种收成数目，并说明因风灾第二季减产，拟将所收稻谷分给属员播种。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚，奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "苏州织造，转交御稻谷种者"
+  }
+ ],
+ "places": [
+  "江宁",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝两次朱批均为“知道了”，表示已阅知悉。",
+ "source_title": "江寧巡撫吳存禮奏報李煦轉交御稻穀種兩季收成情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2247",
+ "order_index": 250
+}

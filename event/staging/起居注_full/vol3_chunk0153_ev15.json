@@ -1,0 +1,36 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初十日甲午",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御瀛台勤政殿，大学士勒德洪、明珠及学士吴兴祖、王起元以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "学士"
+  },
+  {
+   "name": "王起元",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "瀛台勤政殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15315,
+ "page_range": "341-342"
+}

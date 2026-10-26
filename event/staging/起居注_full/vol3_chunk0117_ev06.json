@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "明珠奏情真二十五人中马进尼等十二人宜缓决，康熙帝令和尔等拟票送进。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "马进尼",
+   "role": "罪犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11706,
+ "page_range": "269-270"
+}

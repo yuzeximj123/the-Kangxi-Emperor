@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十四日两子",
+ "event_role": "司法案件",
+ "summary": "理藩院议归化城蒙古杜棱盗马拟绞并籍没家产，康熙以蒙古饥荒盗多，命免死鞭一百解京，余从部议。",
+ "people": [
+  {
+   "name": "杜棱",
+   "role": "蒙古盗马犯"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5513,
+ "page_range": "153-154"
+}

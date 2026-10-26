@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "十三日丙申",
+ "event_role": "司法案件",
+ "summary": "三法司题通判戴纯故杀雇工人拟绞，康熙命诺敏免罚俸，余犯再议。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "戴纯",
+   "role": "通判"
+  },
+  {
+   "name": "唐明亮",
+   "role": "雇工人"
+  },
+  {
+   "name": "李时谦",
+   "role": "案内人"
+  },
+  {
+   "name": "诺敏",
+   "role": "尚书"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16713,
+ "page_range": "369-370"
+}

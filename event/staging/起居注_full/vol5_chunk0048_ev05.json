@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": "初一日乙丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝因贵妃病笃，不理事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "贵妃",
+   "role": "贵妃"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4805,
+ "page_range": "106-107"
+}

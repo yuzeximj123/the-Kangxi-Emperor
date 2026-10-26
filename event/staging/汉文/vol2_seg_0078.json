@@ -1,0 +1,40 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "闽浙总督梁鼐奏报地方雨水收成、水陆宁静，并报盘获可疑人犯及南湾镇守备潘成龙巡哨遇贼殉职情形，请严行缉捕。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "闽浙总督，奏报人"
+  },
+  {
+   "name": "潘成龙",
+   "role": "南湾镇右营守备，巡哨海洋遇贼力战殉职"
+  },
+  {
+   "name": "吴英",
+   "role": "水师提督"
+  }
+ ],
+ "places": [
+  "闽安",
+  "连江",
+  "南湾",
+  "麦尾洋",
+  "广东",
+  "潮州",
+  "澄海",
+  "潮阳",
+  "福建"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示已阅知悉。",
+ "source_title": "闽浙总督梁鼐奏报雨水收成并朱三太子案及海上情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 78
+}

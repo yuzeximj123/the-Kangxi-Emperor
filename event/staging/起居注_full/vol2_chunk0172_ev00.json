@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士、学士捧折本面奏，兵部题奉天将军员缺，康熙帝询问伊把翰可否补授，明珠称其优勇，遂命补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "伊把翰",
+   "role": "护军统领"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17200,
+ "page_range": "387-388"
+}

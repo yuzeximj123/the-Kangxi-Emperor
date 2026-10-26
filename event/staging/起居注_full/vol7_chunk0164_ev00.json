@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请工部尚书徐元正员缺，康熙以陈许居官好且年久，着升为工部尚书。",
+ "people": [
+  {
+   "name": "陈许",
+   "role": "拟升工部尚书"
+  },
+  {
+   "name": "徐元正",
+   "role": "原工部尚书"
+  },
+  {
+   "name": "赵申乔",
+   "role": "都察院左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16400,
+ "page_range": "339-340"
+}

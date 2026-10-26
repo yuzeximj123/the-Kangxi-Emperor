@@ -1,0 +1,37 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "初八日",
+ "event_role": "人事任免",
+ "summary": "兵部题镶蓝旗汉军都统诺迈病故员缺，康熙帝令云南提督诺木图补授都统，永顺总兵偏图升授云南提督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺迈",
+   "role": "镶蓝旗汉军都统"
+  },
+  {
+   "name": "硕昔",
+   "role": "前锋统领"
+  },
+  {
+   "name": "诺木图",
+   "role": "云南提督"
+  },
+  {
+   "name": "偏图",
+   "role": "永顺总兵"
+  }
+ ],
+ "places": [
+  "云南",
+  "永顺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 716,
+ "page_range": "24-25"
+}

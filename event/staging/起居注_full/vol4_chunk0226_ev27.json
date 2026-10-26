@@ -1,0 +1,32 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "二十四日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝闻沈朝聘居官优而家贫，赐盘费银三百两，并命以升任职衔留任霸州。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "升任霸州知州"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22627,
+ "page_range": "464-465"
+}

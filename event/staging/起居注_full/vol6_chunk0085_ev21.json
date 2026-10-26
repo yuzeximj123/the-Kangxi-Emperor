@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十六日己未",
+ "event_role": "请安谢恩",
+ "summary": "总督郭世隆、副都统胡什布等率官民兵丁跪请康熙帝起程，再三叩头恳留。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "总督"
+  },
+  {
+   "name": "胡什布",
+   "role": "副都统"
+  },
+  {
+   "name": "存住",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "杭州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8521,
+ "page_range": "180-181"
+}

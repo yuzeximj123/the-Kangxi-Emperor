@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十五年三月初一日",
+ "reign_year": 55,
+ "month": 3,
+ "day": 1,
+ "event_role": "其他",
+ "summary": "贵州巡抚刘荫枢奏陈自己不谙苗民习俗、在奏折中误称钦差为“大人”，承认错误并请求康熙宽宥。",
+ "people": [
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚都察院右副都御史、加三级，上奏请罪者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知此事。",
+ "source_title": "貴州巡撫劉蔭樞奏陳不諳苗民在摺內誤稱大人摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "197",
+ "order_index": 250
+}

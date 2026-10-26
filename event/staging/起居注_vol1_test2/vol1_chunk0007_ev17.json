@@ -1,0 +1,29 @@
+{
+ "reign_year": 11,
+ "month": 1,
+ "day_text": "二十日本卯",
+ "event_role": "人事任免",
+ "summary": "广东总兵佟国财、四川总兵何德成赴任陛辞，康熙帝谕以清白自守、统辖兵民、毋侵克兵饷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国财",
+   "role": "广东总兵"
+  },
+  {
+   "name": "何德成",
+   "role": "四川总兵"
+  }
+ ],
+ "places": [
+  "广东",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 717,
+ "page_range": "71-72"
+}

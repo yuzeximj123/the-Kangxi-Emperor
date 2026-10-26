@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝拆第七卷询问会元裴之仙情况，伊桑阿、李杭、熊赐履等奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "裴之仙",
+   "role": "会元"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "李杭",
+   "role": "官员"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1303,
+ "page_range": "36-37"
+}

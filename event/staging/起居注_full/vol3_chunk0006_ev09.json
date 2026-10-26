@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初十日丙午",
+ "event_role": "人事任免",
+ "summary": "吏部题都察院左副都御史色克德解任员缺，康熙帝命太常卿席尔达补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色克德",
+   "role": "左副都御史"
+  },
+  {
+   "name": "喇都虎",
+   "role": "通政使"
+  },
+  {
+   "name": "席尔达",
+   "role": "太常卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 609,
+ "page_range": "47-48"
+}

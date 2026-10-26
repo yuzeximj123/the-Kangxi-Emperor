@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 3,
+ "day_text": "二十七日癸刻",
+ "event_role": "人事任免",
+ "summary": "吏部题礼部郎中张如绪父张世思年已百岁呈请终养，康熙帝准议，命张如绪未起程前来奏闻。",
+ "people": [
+  {
+   "name": "张如绪",
+   "role": "礼部郎中"
+  },
+  {
+   "name": "张世思",
+   "role": "张如绪之父"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9110,
+ "page_range": "193-194"
+}

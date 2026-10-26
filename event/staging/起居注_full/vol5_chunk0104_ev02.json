@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕马武、阿尔拜传谕总兵官白研，称宣化镇兵不堪用，兵丁全在精锐，兵本不堪则多带反误行师。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "阿尔拜",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "白研",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "宣化"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10402,
+ "page_range": "218-219"
+}

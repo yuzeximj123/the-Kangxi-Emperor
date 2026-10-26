@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十七日辛亥",
+ "event_role": "司法案件",
+ "summary": "马齐等奏查与王孔林相同前刺人后又刺人致死案例，大小子拟绞监候秋审改情真，并奏王孔林原案请旨。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王孔林",
+   "role": "罪犯"
+  },
+  {
+   "name": "大小子",
+   "role": "闲散人"
+  },
+  {
+   "name": "噶鲁",
+   "role": "佐领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13609,
+ "page_range": "283-284"
+}

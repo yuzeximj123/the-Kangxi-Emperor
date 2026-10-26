@@ -1,0 +1,21 @@
+{
+ "reign_year": 15,
+ "month": 5,
+ "day_text": "十一日",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝因夏至亲赴方泽坛致祭，祭毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "方泽坛",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11500,
+ "page_range": "287-288"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十一日",
+ "event_role": "祭祀典礼",
+ "summary": "遣礼部侍郎邵穆布致祭西岳华山。",
+ "people": [
+  {
+   "name": "邵穆布",
+   "role": "礼部侍郎"
+  }
+ ],
+ "places": [
+  "西岳华山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8008,
+ "page_range": "171-172"
+}

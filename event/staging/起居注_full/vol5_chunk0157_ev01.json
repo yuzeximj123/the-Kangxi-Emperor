@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部覆直隶巡抚沈朝聘题请以霸州知州祖延泰为东路捕盗同知，康熙准照部议用为同知，并令该抚另选霸州知州。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "祖延泰",
+   "role": "霸州知州"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15701,
+ "page_range": "324-325"
+}

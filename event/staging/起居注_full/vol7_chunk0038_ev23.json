@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": "初九日丙辰",
+ "event_role": "祭祀典礼",
+ "summary": "礼部覆浙江巡抚赵申乔题请孔子圣诞各省学宫行祭礼，议不准行，康熙帝亦认为各省学宫与阙里不同。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "阙里"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3823,
+ "page_range": "87-88"
+}

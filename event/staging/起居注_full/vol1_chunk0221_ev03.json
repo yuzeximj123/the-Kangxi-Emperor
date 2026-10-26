@@ -1,0 +1,44 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初十日庚午",
+ "event_role": "司法案件",
+ "summary": "刑部拟进财等盗取武英殿桶扇镀金什物罪两议具奏，康熙帝裁定进财、杨疙关系真正贼犯立斩，刘三依后议秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "希福",
+   "role": "学士"
+  },
+  {
+   "name": "进财",
+   "role": "贼犯"
+  },
+  {
+   "name": "杨疙",
+   "role": "贼犯"
+  },
+  {
+   "name": "刘三",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "武英殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22103,
+ "page_range": "499-500"
+}

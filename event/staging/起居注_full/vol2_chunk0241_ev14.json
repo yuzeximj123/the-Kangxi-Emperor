@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "二十一日戊子",
+ "event_role": "人事任免",
+ "summary": "吏部题补兵部郎中达汉泰降调员缺，康熙帝以罗达庸常令随旗上朝，命另选乌西哈等具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗达",
+   "role": "拟正官员"
+  },
+  {
+   "name": "乌西哈",
+   "role": "拟陪官员"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "察哈喇",
+   "role": "罗达之父"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24114,
+ "page_range": "525-526"
+}

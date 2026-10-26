@@ -1,0 +1,44 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "二十四日戊实",
+ "event_role": "议政听政",
+ "summary": "康熙帝在玉泉山内前亭御门听政，大学士等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "王起元",
+   "role": "学士"
+  },
+  {
+   "name": "禅布",
+   "role": "学士"
+  },
+  {
+   "name": "麻尔图",
+   "role": "记从学士"
+  }
+ ],
+ "places": [
+  "玉泉山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15003,
+ "page_range": "335-336"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "二十日庚申",
+ "event_role": "人事任免",
+ "summary": "吏部题山西右卫收放钱谷同知员缺，拟牙图正、马奇陪，康熙帝命于保举人员内选出引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牙图",
+   "role": "八品笔帖式拟正"
+  },
+  {
+   "name": "马奇",
+   "role": "助教拟陪"
+  }
+ ],
+ "places": [
+  "山西右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7204,
+ "page_range": "154-155"
+}

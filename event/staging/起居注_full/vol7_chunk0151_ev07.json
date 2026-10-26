@@ -1,0 +1,24 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝言曾闻江浙多无籍为盗而问现任官员乡绅及织造官皆云不知，李光地奏贼人出没莫测故不知。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江浙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15107,
+ "page_range": "313-314"
+}

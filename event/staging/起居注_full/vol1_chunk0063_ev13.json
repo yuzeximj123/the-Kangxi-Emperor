@@ -1,0 +1,36 @@
+{
+ "reign_year": 12,
+ "month": 12,
+ "day_text": "十五日庚成",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝未时复御乾清门，赐陈福、王进宝及巴林部落多罗郡王鄂齐儿、一品台吉格尔勒图等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈福",
+   "role": "官员"
+  },
+  {
+   "name": "王进宝",
+   "role": "官员"
+  },
+  {
+   "name": "鄂齐儿",
+   "role": "巴林部落多罗郡王"
+  },
+  {
+   "name": "格尔勒图",
+   "role": "一品台吉"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6313,
+ "page_range": "183-184"
+}

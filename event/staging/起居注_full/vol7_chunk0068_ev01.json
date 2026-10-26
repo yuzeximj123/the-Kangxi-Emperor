@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就湖广兵丁增额事谕称湖广与他省不同，或可照俞益谟所题行，他省不可一例，本发回另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俞益谟",
+   "role": "湖广提督"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6801,
+ "page_range": "147-148"
+}

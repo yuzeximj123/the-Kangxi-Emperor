@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙问石柱是否至香山澳，石柱奏澳民放炮远接、头目跪称感皇上隆恩得守旧业并获贸易。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "石柱",
+   "role": "奏对官员"
+  }
+ ],
+ "places": [
+  "广东",
+  "香山澳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3508,
+ "page_range": "105-106"
+}

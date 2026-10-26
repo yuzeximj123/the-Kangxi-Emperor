@@ -1,0 +1,33 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "初六日",
+ "event_role": "司法案件",
+ "summary": "刑部题镶红旗原任三等护卫阿思哈出首刨参事，康熙帝谕令查问公登色赖世等采参情由，不实说则革职籍没。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿思哈",
+   "role": "镶红旗原任三等护卫"
+  },
+  {
+   "name": "公登色赖世",
+   "role": "被查问者"
+  },
+  {
+   "name": "萨仆素",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 706,
+ "page_range": "24-25"
+}

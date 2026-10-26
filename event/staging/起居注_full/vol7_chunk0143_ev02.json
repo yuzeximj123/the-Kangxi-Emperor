@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "初五日己卫",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸中六沟，亲自射杀一虎，并赏赐喀喇城城守千总杨弘德细羊裘、标下兵丁粗羊各一。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨弘德",
+   "role": "喀喇城城守千总"
+  }
+ ],
+ "places": [
+  "中六沟",
+  "喀喇城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14302,
+ "page_range": "297-298"
+}

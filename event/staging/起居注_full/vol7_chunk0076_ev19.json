@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十八日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "理藩院覆扎萨克大喇嘛绰木柱儿喇木扎木巴请扩修庙宇，帝令永禁侵占民间田庐开广庙宇。",
+ "people": [
+  {
+   "name": "绰木柱儿喇木扎木巴",
+   "role": "扎萨克大喇嘛"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "涨州卫",
+  "卓泰克依特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7619,
+ "page_range": "163-164"
+}

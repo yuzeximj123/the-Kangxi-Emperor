@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问布政使杨朝麟居官如何，王乒奏其有才，康熙帝评其有才但不得兵心，或因过于苛刻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨朝麟",
+   "role": "布政使"
+  },
+  {
+   "name": "王乒",
+   "role": "奏对官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21900,
+ "page_range": "449-450"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十三日戊子",
+ "event_role": "人事任免",
+ "summary": "吏部题都察院监察御史希福纳员缺，拟孔汰正、和图陪，康熙帝改以郎中穆黑林补授监察御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福纳",
+   "role": "监察御史"
+  },
+  {
+   "name": "孔汰",
+   "role": "员外郎"
+  },
+  {
+   "name": "和图",
+   "role": "员外郎"
+  },
+  {
+   "name": "穆黑林",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4112,
+ "page_range": "92-93"
+}

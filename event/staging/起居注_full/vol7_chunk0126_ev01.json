@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "广州副都统汪世臣题请中军副将吴升留任守制，康熙帝令吴升照所题在任守制。",
+ "people": [
+  {
+   "name": "汪世臣",
+   "role": "广州副都统"
+  },
+  {
+   "name": "吴升",
+   "role": "中军副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12601,
+ "page_range": "263-264"
+}

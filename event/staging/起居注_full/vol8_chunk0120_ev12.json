@@ -1,0 +1,21 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "二十六日戊午",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝御太和殿视天坛视版，毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿",
+  "天坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12012,
+ "page_range": "251-252"
+}

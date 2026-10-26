@@ -1,0 +1,20 @@
+{
+ "reign_year": 17,
+ "month": 6,
+ "day_text": "十五日甲申",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝因亢旱祈雨，躬礼天坛，斋戒三日，不理政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16402,
+ "page_range": "385-386"
+}

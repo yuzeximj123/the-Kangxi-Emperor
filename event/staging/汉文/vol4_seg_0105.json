@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙五十一年九月初六日",
+ "reign_year": 51,
+ "month": 9,
+ "day": 6,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报淮扬盐场遭海潮冲击，但海水已退、灶户可煎盐，盐务无大碍，并报淮扬徐等地米价及秋收情形。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "淮安",
+  "扬州",
+  "徐州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報淮揚鹽場爲潮水所衝但不致有礙鹽務摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1894",
+ "order_index": 105
+}

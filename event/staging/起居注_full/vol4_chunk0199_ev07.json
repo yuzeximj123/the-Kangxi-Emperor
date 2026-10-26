@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 6,
+ "day_text": "二十八日丁丑",
+ "event_role": "谕旨决策",
+ "summary": "山西布政使舒书陛辞请训，康熙帝谕其勤勉清廉、为官表率、勿沽虚名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "舒书",
+   "role": "山西布政使"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19907,
+ "page_range": "410-411"
+}

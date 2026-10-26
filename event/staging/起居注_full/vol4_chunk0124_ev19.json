@@ -1,0 +1,38 @@
+{
+ "reign_year": 29,
+ "month": 6,
+ "day_text": "十五日甲成",
+ "event_role": "人事任免",
+ "summary": "吏部题江苏巡抚洪之杰革职员缺，康熙询问后调湖南巡抚郑端补授江苏巡抚。",
+ "people": [
+  {
+   "name": "洪之杰",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "郑端",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江苏",
+  "湖南",
+  "真定府惠强县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12419,
+ "page_range": "260-261"
+}

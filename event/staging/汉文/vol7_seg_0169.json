@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十五年六月二十七日",
+ "reign_year": 55,
+ "month": 6,
+ "day": 27,
+ "event_role": "朝见受贺",
+ "summary": "广东巡抚杨琳奏请陛见，称远离朝廷五年，广东要地巡抚重任需面奉圣训指示，并请面陈地方事宜。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "督臣"
+  },
+  {
+   "name": "李贵",
+   "role": "家人（送折人）"
+  }
+ ],
+ "places": [
+  "广东",
+  "福建",
+  "粤",
+  "闽"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "廣東巡撫楊琳奏請陞見摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2158",
+ "order_index": 169
+}

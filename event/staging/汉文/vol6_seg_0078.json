@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十四年六月初十日",
+ "reign_year": 54,
+ "month": 6,
+ "day": 10,
+ "event_role": "军务",
+ "summary": "工部右侍郎王度昭上奏，自陈年六十五精力未衰，愿赴军前效力运送兵粮，以报皇恩，并请皇上允准所请。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "工部右侍郎加三级，上奏请求赴军前效力"
+  },
+  {
+   "name": "泽旺阿喇蒲坦",
+   "role": "逆天作孽之敌酋"
+  },
+  {
+   "name": "双全",
+   "role": "奏事员外郎，转奏此折"
+  }
+ ],
+ "places": [
+  "午门"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批告知已经派出了。",
+ "source_title": "王度昭请赴军前",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 78
+}

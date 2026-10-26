@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": "二十四日庚子",
+ "event_role": "议政听政",
+ "summary": "内阁大学士会同九卿进前，达哈塔、伊桑阿奏称九卿一日两至乾清门以备咨询，并赞康熙帝日日听政自古未有，奏毕免冠叩首。",
+ "people": [
+  {
+   "name": "达哈塔",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24117,
+ "page_range": "517-518"
+}

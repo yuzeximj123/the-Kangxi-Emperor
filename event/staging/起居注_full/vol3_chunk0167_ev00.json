@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "明珠等奏王国昌、石文桂情况，康熙命石文桂升补。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王国昌",
+   "role": "曾任内阁衙门"
+  },
+  {
+   "name": "石文桂",
+   "role": "进士出身"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16700,
+ "page_range": "369-370"
+}

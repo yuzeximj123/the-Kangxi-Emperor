@@ -1,0 +1,33 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "二十八日戊巳",
+ "event_role": "人事任免",
+ "summary": "兵部题两江总督阿山请以江宁府城守副将王一桂调补督标中军副将，议准行，康熙以员缺紧要令将记名副将补授。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "仇机",
+   "role": "中军副将"
+  },
+  {
+   "name": "王一桂",
+   "role": "江宁府城守副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两江",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9612,
+ "page_range": "203-204"
+}

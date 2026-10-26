@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十三日辛酉",
+ "event_role": "人事任免",
+ "summary": "吏部题顺天府府尹钱廷升任员缺，明珠等奏九卿荐杨素列，康熙帝命升补府尹。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "杨素列",
+   "role": "奉天府府丞"
+  },
+  {
+   "name": "钱廷",
+   "role": "顺天府府尹"
+  },
+  {
+   "name": "徐许武",
+   "role": "佥都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21305,
+ "page_range": "461-462"
+}

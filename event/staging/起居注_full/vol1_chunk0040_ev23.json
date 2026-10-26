@@ -1,0 +1,20 @@
+{
+ "reign_year": 12,
+ "month": 4,
+ "day_text": "初四日癸卯",
+ "event_role": "谕旨决策",
+ "summary": "巡视南城御史参奏失火事，康熙帝谕令遇失火先遣侍卫往救，待火息后再行查议，不得于失火时执拿家主。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4023,
+ "page_range": "137-138"
+}

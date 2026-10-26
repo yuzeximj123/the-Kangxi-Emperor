@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "十六日丁本",
+ "event_role": "人事任免",
+ "summary": "吏部覆直隶巡抚于成龙题请行取阜城知县王灶，部议不准，康熙帝以于成龙荐举准行取，不为例。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "王灶",
+   "role": "阜城县知县"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "阜城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18711,
+ "page_range": "409-410"
+}

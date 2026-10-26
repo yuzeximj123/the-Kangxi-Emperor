@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "二十二日辛酉",
+ "event_role": "人事任免",
+ "summary": "兵部题将军孙思克请将副将韩成留永固城，议不准行，康熙帝令照孙思克所请，加韩成升任职衔管理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "韩成",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "永固城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9122,
+ "page_range": "192-193"
+}

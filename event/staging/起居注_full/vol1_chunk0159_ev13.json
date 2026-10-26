@@ -1,0 +1,22 @@
+{
+ "reign_year": 17,
+ "month": 3,
+ "day_text": "十七日本已",
+ "event_role": "皇帝行止",
+ "summary": "申时，康熙帝出南郊大红门，由正阳门进午门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南郊大红门",
+  "正阳门",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15913,
+ "page_range": "375-376"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "国子监祭酒尹泰员缺，康熙命大学士等会同吏部于翰林院詹事府官员内择学问优长素有品行者为郎中保住、御史贾色拟补。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "尹泰",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "保住",
+   "role": "郎中"
+  },
+  {
+   "name": "贾色",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2400,
+ "page_range": "58-59"
+}

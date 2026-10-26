@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "初一日丙寅",
+ "event_role": "人事任免",
+ "summary": "江南总督于成龙病故员缺请旨，康熙帝命将汉军、汉人官员开列具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "江南总督"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2416,
+ "page_range": "83-84"
+}

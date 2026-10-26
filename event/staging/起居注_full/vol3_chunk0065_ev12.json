@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十六日",
+ "event_role": "河工水利",
+ "summary": "九卿詹事科道会议决河，拟举安徽按察使于成龙，康熙询问后命差于成龙。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "安徽按察使"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6512,
+ "page_range": "165-166"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 5,
+ "day_text": "初六日乙亥",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝赴太皇太后宫问安，因太皇太后圣体违和，亲奉汤药省视，天颜悦怿，谕学士傅达礼太皇太后已大愈并进服滋补之药。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  },
+  {
+   "name": "傅达礼",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4231,
+ "page_range": "141-142"
+}

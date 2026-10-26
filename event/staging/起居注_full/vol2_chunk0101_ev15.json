@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "二十三日壬寅",
+ "event_role": "人事任免",
+ "summary": "题补顺天学院员缺，正拟朱典、陪拟王封洪，康熙帝以其平常，令开列应差官员亲加选用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱典",
+   "role": "侍读，拟正"
+  },
+  {
+   "name": "王封洪",
+   "role": "拟陪"
+  }
+ ],
+ "places": [
+  "顺天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10115,
+ "page_range": "245-246"
+}

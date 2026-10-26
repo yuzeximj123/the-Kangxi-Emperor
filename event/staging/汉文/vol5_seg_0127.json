@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十二年",
+ "reign_year": 52,
+ "month": null,
+ "day": 21,
+ "event_role": "请安谢恩",
+ "summary": "大学士李光地、王掞奏谢康熙赐宁古塔所产花果，赞其香味可比荔枝，并感念皇上推及草木、锡以嘉名，具折谢恩。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士、奏折具奏人"
+  },
+  {
+   "name": "王掞",
+   "role": "大学士、奏折具奏人"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "兴安大山",
+  "熟河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙询问李光地脾病近况，叮嘱用药须十分小心。",
+ "source_title": "大學士李光地等奏賀賜花果摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1492",
+ "order_index": 127
+}

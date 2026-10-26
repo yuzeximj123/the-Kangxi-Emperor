@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "十五日季子",
+ "event_role": "司法案件",
+ "summary": "三法司议孙四应拟斩秋后处决，康熙帝询问大学士所议如何，明珠奏奴仆殴骂家主立行斩绞。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "孙四",
+   "role": "罪犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24519,
+ "page_range": "533-534"
+}

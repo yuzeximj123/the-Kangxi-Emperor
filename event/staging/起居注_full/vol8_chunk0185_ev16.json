@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "初七日辛卯",
+ "event_role": "人事任免",
+ "summary": "兵部议覆川陕总督鄂海所参四川建昌总兵官张友凤隐匿抢夺案不报应革职，康熙以其衰老令革退。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "张友凤",
+   "role": "四川建昌总兵官"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川",
+  "建昌",
+  "越贿加巴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18516,
+ "page_range": "381-382"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "十七日甲成",
+ "event_role": "谕旨决策",
+ "summary": "马齐等呈览蠲免直隶、山东历年积欠钱粮上谕，康熙帝称所拟甚善即照行，并问于民有益否。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11115,
+ "page_range": "233-234"
+}

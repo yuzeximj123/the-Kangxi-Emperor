@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政大臣会议达赖汗庆贺歼灭噶尔丹表章及贡物处置，议定贡物交付事宜并请旨。",
+ "people": [
+  {
+   "name": "达赖汗",
+   "role": "上表庆贺者"
+  },
+  {
+   "name": "尼麻唐库图克图",
+   "role": "密奏者"
+  },
+  {
+   "name": "罗布贼凯遵蜂素",
+   "role": "来使"
+  },
+  {
+   "name": "保住",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20000,
+ "page_range": "410-411"
+}

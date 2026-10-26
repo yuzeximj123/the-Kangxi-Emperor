@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十六日己亥",
+ "event_role": "人事任免",
+ "summary": "吏部题安徽巡抚高承历被参回奏事应行文漕运总督桑格等查明，康熙帝以高承历居官庸劣命解任察议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高承历",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "桑格",
+   "role": "漕运总督"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22723,
+ "page_range": "464-465"
+}

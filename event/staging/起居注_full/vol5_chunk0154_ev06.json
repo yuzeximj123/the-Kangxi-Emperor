@@ -1,0 +1,38 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论此次出兵顾巴代不堪、高隅学问优人好，又言满洲庶吉士文学亦优，命此后拟文章令其分拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "顾巴代",
+   "role": "出兵官员"
+  },
+  {
+   "name": "高隅",
+   "role": "官员"
+  },
+  {
+   "name": "牛钮",
+   "role": "官员"
+  },
+  {
+   "name": "博济",
+   "role": "官员"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15406,
+ "page_range": "318-319"
+}

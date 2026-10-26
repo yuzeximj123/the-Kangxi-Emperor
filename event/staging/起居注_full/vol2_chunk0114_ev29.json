@@ -1,0 +1,21 @@
+{
+ "reign_year": 21,
+ "month": 3,
+ "day_text": "初三日辛亥",
+ "event_role": "人事任免",
+ "summary": "兵部题请贵州大定总兵官员缺，康熙帝谕以鹤庆丽江总兵官转补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州大定",
+  "鹤庆丽江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11429,
+ "page_range": "271-272"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "初一日丙申",
+ "event_role": "其他",
+ "summary": "康熙帝赐宁古塔副都统沙那海鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙那海",
+   "role": "宁古塔副都统"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3619,
+ "page_range": "82-83"
+}

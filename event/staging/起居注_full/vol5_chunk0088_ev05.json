@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初五日癸北",
+ "event_role": "人事任免",
+ "summary": "康熙帝以侍讲学士郝善为人平常，令其解任，并命掌院问其学问来奏。",
+ "people": [
+  {
+   "name": "郝善",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "图纳哈",
+   "role": "郝善之弟"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8805,
+ "page_range": "186-187"
+}

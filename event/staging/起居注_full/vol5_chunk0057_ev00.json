@@ -1,0 +1,22 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "初五日了本",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝未时由安定门进神武门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安定门",
+  "神武门",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5700,
+ "page_range": "124-125"
+}

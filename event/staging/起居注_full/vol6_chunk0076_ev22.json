@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 1,
+ "day_text": "二十八日戊成",
+ "event_role": "其他",
+ "summary": "康熙帝询问大学士白硕色其人如何，伊桑阿、阿兰泰、吴珊均称不知，康熙帝称白硕色乃诚实安静不趋承宦门之人，命问部院衙门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "白硕色",
+   "role": "御史"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "吴珊",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7622,
+ "page_range": "162-163"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "展时",
+ "event_role": "人事任免",
+ "summary": "议告病山西泽州知州陶自悦休致，康熙帝以其居官好、所学优，着来京。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陶自悦",
+   "role": "山西泽州知州"
+  },
+  {
+   "name": "揆叙",
+   "role": "起居注翰林院掌院"
+  }
+ ],
+ "places": [
+  "山西",
+  "泽州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3030
+}

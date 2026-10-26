@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "初八日丙午",
+ "event_role": "朝见受贺",
+ "summary": "江南安徽布政使李炜赴任前奏请训旨，康熙帝谕以洁己爱民、勿多取火耗、勉为清廉好官。",
+ "people": [
+  {
+   "name": "李炜",
+   "role": "江南安徽布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1002,
+ "page_range": "30-31"
+}

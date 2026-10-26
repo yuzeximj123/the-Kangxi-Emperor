@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "二十六日戊戌",
+ "event_role": "皇帝行止",
+ "summary": "是日，康熙帝驻跸唐县西四水。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "唐县",
+  "西四水"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17512,
+ "page_range": "393-394"
+}

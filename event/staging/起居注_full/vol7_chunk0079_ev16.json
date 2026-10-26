@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "未时",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士马齐、学士色德里、满下入奏，谕侍郭邵称布懒惰，此后着与学士等同入奏事。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "色德里",
+   "role": "学士"
+  },
+  {
+   "name": "满下",
+   "role": "学士"
+  },
+  {
+   "name": "郭邵称布",
+   "role": "侍，被谕"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7916,
+ "page_range": "169-170"
+}

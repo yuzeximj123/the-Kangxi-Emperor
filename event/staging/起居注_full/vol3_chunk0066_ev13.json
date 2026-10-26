@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十八日己未",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御乾清宫，讲官常书、孙在丰、归克击进讲《采华》三章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归克击",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6613,
+ "page_range": "167-168"
+}

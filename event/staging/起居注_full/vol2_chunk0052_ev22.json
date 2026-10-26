@@ -1,0 +1,33 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十四日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部题江西巡抚员缺，明珠等公举原任浙江布政使李士补，康熙帝素闻其贤，命补授江西巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李士补",
+   "role": "原任浙江布政使、补授江西巡抚"
+  },
+  {
+   "name": "李需",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [
+  "江西",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5222,
+ "page_range": "147-148"
+}

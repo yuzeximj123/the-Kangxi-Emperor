@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年三月初一日",
+ "reign_year": 53,
+ "month": 3,
+ "day": 9,
+ "event_role": "请安谢恩",
+ "summary": "原任陕西肃州总兵官李良臣上奏，恭祝康熙皇帝圣寿，颂扬皇上德寿并表达解职归里后依恋感恩之情。",
+ "people": [
+  {
+   "name": "李良臣",
+   "role": "原任陕西肃州总兵官都督佥事加贰级，奏折作者"
+  },
+  {
+   "name": "杨尽忠",
+   "role": "总兵官，日录中提及"
+  }
+ ],
+ "places": [
+  "陕西",
+  "肃州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏為保舉運使李陳常留督理鹽院摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1534",
+ "order_index": 161
+}

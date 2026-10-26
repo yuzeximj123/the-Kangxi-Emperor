@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "初八日戊成",
+ "event_role": "朝见受贺",
+ "summary": "康熙率诸王、贝勒、贝子、公及内大臣、侍卫、大学士等赴慈宁宫庆贺太皇太后圣诞，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "受贺者"
+  }
+ ],
+ "places": [
+  "慈宁宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7304,
+ "page_range": "181-182"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "补授刑部主事，康熙询问拟正许照临、陪拟高凤鸣二人为人，索额图称平常，命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "许照临",
+   "role": "拟正刑部主事"
+  },
+  {
+   "name": "高凤鸣",
+   "role": "陪拟刑部主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23401,
+ "page_range": "525-526"
+}

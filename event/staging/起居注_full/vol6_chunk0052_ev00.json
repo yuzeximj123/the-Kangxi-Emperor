@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问是否亲往公主、王所葬之地及皇太后父母葬地遥祭，命老臣会议密奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "发库山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5200,
+ "page_range": "114-115"
+}

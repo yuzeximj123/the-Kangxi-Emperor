@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初一日",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝前往法泊为德行宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "法泊",
+  "德行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1707,
+ "page_range": "45-46"
+}

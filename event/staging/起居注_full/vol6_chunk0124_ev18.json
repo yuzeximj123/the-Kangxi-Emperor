@@ -1,0 +1,22 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "十四日成申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝亲谒陵寝，由神武门出东直门，驻跸顺义县新庄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神武门",
+  "东直门",
+  "顺义县新庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12418,
+ "page_range": "258-259"
+}

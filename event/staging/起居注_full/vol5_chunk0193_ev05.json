@@ -1,0 +1,20 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "二十三日甲撒",
+ "event_role": "朝见受贺",
+ "summary": "山西宁武城守备史玉成等来朝。",
+ "people": [
+  {
+   "name": "史玉成",
+   "role": "山西宁武城守备"
+  }
+ ],
+ "places": [
+  "宁武"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19305,
+ "page_range": "396-397"
+}

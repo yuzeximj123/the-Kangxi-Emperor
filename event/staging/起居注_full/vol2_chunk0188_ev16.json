@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "十八日庚寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补论德西赖病故员缺，正拟觉罗罗达、陪拟勒新，康熙帝以宗人府官员须文理优通，命考试补授。",
+ "people": [
+  {
+   "name": "西赖",
+   "role": "论德病故"
+  },
+  {
+   "name": "觉罗罗达",
+   "role": "宗人府员外郎拟补"
+  },
+  {
+   "name": "勒新",
+   "role": "陪拟"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18816,
+ "page_range": "419-420"
+}

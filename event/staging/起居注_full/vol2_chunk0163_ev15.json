@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十八日痒卯",
+ "event_role": "谕旨决策",
+ "summary": "贵州巡抚杨雍建考试武举策题有讥讽，议应革职，康熙帝命从宽降五级留任并削去加级纪录。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨雍建",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16315,
+ "page_range": "369-370"
+}

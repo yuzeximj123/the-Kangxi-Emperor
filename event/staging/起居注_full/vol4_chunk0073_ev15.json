@@ -1,0 +1,54 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "十三日戊申",
+ "event_role": "人事任免",
+ "summary": "郎中穆占员缺，康熙帝询问考试一等人员后命将额什伦、音达礼等引见，喀拜一并引见。",
+ "people": [
+  {
+   "name": "穆占",
+   "role": "郎中"
+  },
+  {
+   "name": "额什伦",
+   "role": "员外郎"
+  },
+  {
+   "name": "音达礼",
+   "role": "员外郎"
+  },
+  {
+   "name": "傅惠",
+   "role": "官员"
+  },
+  {
+   "name": "佛保",
+   "role": "给事中"
+  },
+  {
+   "name": "长寿",
+   "role": "官员"
+  },
+  {
+   "name": "瓦奈",
+   "role": "官员"
+  },
+  {
+   "name": "喀拜",
+   "role": "侍读"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7315,
+ "page_range": "158-159"
+}

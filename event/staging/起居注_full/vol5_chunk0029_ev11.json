@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": "十五日辛亥",
+ "event_role": "人事任免",
+ "summary": "内阁侍读学士何托员缺，拟刑部郎中布泰为正、监察御史常在为陪，康熙帝以未知布泰文学优劣，命考试布泰。",
+ "people": [
+  {
+   "name": "何托",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "布泰",
+   "role": "刑部郎中"
+  },
+  {
+   "name": "常在",
+   "role": "监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2911,
+ "page_range": "68-69"
+}

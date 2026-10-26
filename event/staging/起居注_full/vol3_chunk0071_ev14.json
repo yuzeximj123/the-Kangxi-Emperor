@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "二十八日戊子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将徐乾学等十一人复试试卷详阅分别次序送进，并评论徐乾学所作《班马异同辨》精核风雅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐乾学",
+   "role": "翰林官员"
+  },
+  {
+   "name": "王申",
+   "role": "官员"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7114,
+ "page_range": "177-178"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 52,
+ "month": 1,
+ "day_text": "二十三日辛丑",
+ "event_role": "司法案件",
+ "summary": "大学士等覆请宗人府议陶和气贪污悖乱罪，拟凌迟，其子舒起拟绞监候，康熙帝命发回另议具奏。",
+ "people": [
+  {
+   "name": "陶和气",
+   "role": "公"
+  },
+  {
+   "name": "吴尔占",
+   "role": "公"
+  },
+  {
+   "name": "舒起",
+   "role": "陶和气之子"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "王抄",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 105,
+ "page_range": "13-14"
+}

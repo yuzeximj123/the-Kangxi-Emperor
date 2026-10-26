@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "十九日乙未",
+ "event_role": "奏报地方情形",
+ "summary": "湖广总兵雷如回奏事，康熙帝询问吴珊在湖广任总督时苗人是否有事及苗人与八排人多少。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雷如",
+   "role": "湖广总兵"
+  },
+  {
+   "name": "吴珊",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4402,
+ "page_range": "99-100"
+}

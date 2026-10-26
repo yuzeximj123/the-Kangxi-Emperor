@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆请将打死披甲五哥并谎奏的古北口总兵官杨铸革职、世职交部承袭，康熙命革退总兵官但仍留其世职于本身。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨铸",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "五哥",
+   "role": "披甲"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11402,
+ "page_range": "239-240"
+}

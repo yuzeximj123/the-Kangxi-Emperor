@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初二日王子",
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官王认清、海保记录。",
+ "people": [
+  {
+   "name": "王认清",
+   "role": "起居注官"
+  },
+  {
+   "name": "海保",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22009,
+ "page_range": "451-452"
+}

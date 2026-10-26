@@ -1,0 +1,37 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十二日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部题直隶巡抚崔滞员缺请旨，康熙帝命按察使于成龙升补直隶巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "董讷",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "于成龙",
+   "role": "按察使"
+  },
+  {
+   "name": "崔滞",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14008,
+ "page_range": "315-316"
+}

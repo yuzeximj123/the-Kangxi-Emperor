@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "三十日壬辰",
+ "event_role": "人事任免",
+ "summary": "吏部题江宁巡抚张伯行员缺，开列内院学士葡升元等职名，康熙命问九卿现任巡抚中能理烦剧者具奏。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "葡升元",
+   "role": "内院学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11215,
+ "page_range": "235-236"
+}

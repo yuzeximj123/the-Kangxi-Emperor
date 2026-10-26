@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 1,
+ "day_text": "初二日癸亥",
+ "event_role": "谕旨决策",
+ "summary": "礼部题安南国王黎维祯进贡之物交内务府议奏，康熙帝谕以后进贡之物折金银交广西布政司存库，原本发回交九卿议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黎维祯",
+   "role": "安南国王"
+  }
+ ],
+ "places": [
+  "安南",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12816,
+ "page_range": "267-268"
+}

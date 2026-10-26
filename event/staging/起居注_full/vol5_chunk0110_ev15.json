@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "二十九日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "大学士伊桑阿等转奏汉军迟误情由，康熙帝旨令示议政大臣等。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "侍郎"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11015,
+ "page_range": "230-231"
+}

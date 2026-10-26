@@ -1,0 +1,22 @@
+{
+ "reign_year": 39,
+ "month": 8,
+ "day_text": "二十六日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝以巡行塞外，由神武门出东华门，驻跸三家店。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神武门",
+  "东华门",
+  "三家店"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16404,
+ "page_range": "338-339"
+}

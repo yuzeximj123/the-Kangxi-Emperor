@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "十六日",
+ "event_role": "人事任免",
+ "summary": "理藩院题补协理旗下事务索宁病故员缺，康熙帝命西达协理，并照一品塔布囊例赐恤索宁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "西达",
+   "role": "协理旗下事务"
+  },
+  {
+   "name": "索宁",
+   "role": "已故协理旗下事务"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6707,
+ "page_range": "146-147"
+}

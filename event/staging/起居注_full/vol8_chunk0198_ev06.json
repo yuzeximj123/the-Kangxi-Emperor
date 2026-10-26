@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "二十五日戊申",
+ "event_role": "人事任免",
+ "summary": "覆请礼部所题陕西、江南正副主考官开列编修沈宗敬等职名一疏，康熙命仍着九卿举出，前次举出未差各官亦并列名具奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈宗敬",
+   "role": "编修"
+  }
+ ],
+ "places": [
+  "陕西",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19806,
+ "page_range": "407-408"
+}

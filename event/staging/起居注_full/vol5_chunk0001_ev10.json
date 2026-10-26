@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "十八日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就河工及捐纳事详加谕示，指出捐纳有累百姓、败坏礼义廉耻，并追问于成龙及诸臣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "库勒纳",
+   "role": "尚书"
+  },
+  {
+   "name": "王号",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 110,
+ "page_range": "12-13"
+}

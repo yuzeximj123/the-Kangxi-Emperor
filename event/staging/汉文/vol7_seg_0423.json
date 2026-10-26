@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十六年五月十一日",
+ "reign_year": 56,
+ "month": 5,
+ "day": 11,
+ "event_role": "人事任免",
+ "summary": "兵部尚书孙柱奏报现有推升大选、题补、期满千总及特调官员、王护卫、南漕效力人员共一百四十四员，请旨定夺带往热河或秋季引见。",
+ "people": [
+  {
+   "name": "孙柱",
+   "role": "兵部尚书，领衔上奏"
+  },
+  {
+   "name": "范时崇",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "党阿赖",
+   "role": "侍郎加一级降二级留任"
+  },
+  {
+   "name": "田从典",
+   "role": "兵部尚书兼管佐领事降三级留任"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“依议”，同意所请。",
+ "source_title": "兵部尚書孫柱奏請特調官員等引見日期摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2413",
+ "order_index": 423
+}

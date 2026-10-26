@@ -1,0 +1,27 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令九卿及在朝淮扬人确议开浚下河之事，认为不可轻议，须深悉水性地形之人方可定议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "直隶",
+  "浑河",
+  "下河",
+  "淮扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4900,
+ "page_range": "108-109"
+}

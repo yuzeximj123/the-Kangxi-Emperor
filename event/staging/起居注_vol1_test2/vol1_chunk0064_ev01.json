@@ -1,0 +1,21 @@
+{
+ "reign_year": 13,
+ "month": 1,
+ "day_text": "初一日丙寅",
+ "event_role": "请安谢恩",
+ "summary": "辰时康熙帝率诸王、贝勒、内大臣等赴太皇太后宫行礼，又向皇太后行礼，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6401,
+ "page_range": "185-186"
+}

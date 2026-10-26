@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十年十一月十四日",
+ "reign_year": 50,
+ "month": 11,
+ "day": 20,
+ "event_role": "人事任免",
+ "summary": "云南巡抚吴存礼因滇边紧要，奏请保举贤能道员，请皇上睿裁。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "云南巡抚，奏请人"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "雲南巡撫吳存禮奏為保舉賢能道員摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "987",
+ "order_index": 284
+}

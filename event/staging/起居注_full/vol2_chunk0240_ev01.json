@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "都察院议原任侍卫穆森等诈称伤残废应革职交刑部，都统巴浑代等未详勘应降级调用，兵部侍郎郭丕等应降级罚俸，康熙帝分别裁定。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "穆森",
+   "role": "原任侍卫"
+  },
+  {
+   "name": "巴浑代",
+   "role": "都统"
+  },
+  {
+   "name": "郭丕",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "达汉泰",
+   "role": "郎中"
+  },
+  {
+   "name": "鄂屯",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24001,
+ "page_range": "523-524"
+}

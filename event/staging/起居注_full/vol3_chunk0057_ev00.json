@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自江宁回銮，出石城门，御舟至仪凤门外，两岸数十万官民跪送，帝停舟谕示。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁",
+  "石城门",
+  "仪凤门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5700,
+ "page_range": "149-150"
+}

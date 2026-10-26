@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "黑龙江将军杨福题傅亭子打死祁义应绞，事在赦前请免死鞭责，康熙依议并查迟延之故。",
+ "people": [
+  {
+   "name": "杨福",
+   "role": "镇守黑龙江将军宗室"
+  },
+  {
+   "name": "傅亭子",
+   "role": "犯人"
+  },
+  {
+   "name": "祁义",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2805,
+ "page_range": "67-68"
+}

@@ -1,0 +1,32 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "李煦遵旨密报所闻王鸿绪散布东宫虽复位而圣心未定之妄谈，并请将奏折销毁以免祸患。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "具奏人，臣"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "被奏报散布妄谈之人"
+  },
+  {
+   "name": "张伯行",
+   "role": "江苏新抚臣，王鸿绪门生"
+  }
+ ],
+ "places": [
+  "江苏"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知晓，令将李煦亲写折子发回不存，命其再打听消息密奏。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 275
+}

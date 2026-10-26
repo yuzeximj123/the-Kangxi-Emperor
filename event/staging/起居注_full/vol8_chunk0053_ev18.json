@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": "十三日乙西",
+ "event_role": "司法案件",
+ "summary": "覆请刑部议江宁巡抚张伯行所题强盗范花子等应即处斩，但因系乞丐贫民迫于饥寒犯法，请减等事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "范花子",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5318,
+ "page_range": "117-118"
+}

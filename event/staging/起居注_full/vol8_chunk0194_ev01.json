@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部议驳陕甘总督鄂海请开大同捐马例于甘肃，康熙帝令陕西钱粮由该部料理，捐纳例不可开，原本发回再议。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大同",
+  "甘肃",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19401,
+ "page_range": "399-400"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "二十三日己巳",
+ "event_role": "议政听政",
+ "summary": "康熙帝问徐潮籍贯，常书等奏为浙江人；又问李振裕为人，奏称亦属老成。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "侍读学士"
+  },
+  {
+   "name": "徐潮",
+   "role": "赞善"
+  },
+  {
+   "name": "李振裕",
+   "role": "侍讲"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3229,
+ "page_range": "99-100"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十八日",
+ "event_role": "人事任免",
+ "summary": "吏部题监察御史员缺，拟补梁述祖、刘芳远，康熙以梁述祖曾任御史因不及解任，命改补部属，另拟具奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁述祖",
+   "role": "拟补监察御史"
+  },
+  {
+   "name": "刘芳远",
+   "role": "拟陪郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14004,
+ "page_range": "323-324"
+}

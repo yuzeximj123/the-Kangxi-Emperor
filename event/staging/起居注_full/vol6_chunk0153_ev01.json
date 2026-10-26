@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "河南布政司佟世雍员缺，拟按察司李成林为正、佟国勤为陪，康熙命二人速来京引见。",
+ "people": [
+  {
+   "name": "佟世雍",
+   "role": "河南布政司"
+  },
+  {
+   "name": "李成林",
+   "role": "按察司"
+  },
+  {
+   "name": "佟国勤",
+   "role": "按察司"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15301,
+ "page_range": "316-317"
+}

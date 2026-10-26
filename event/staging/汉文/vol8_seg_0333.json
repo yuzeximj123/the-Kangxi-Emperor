@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙陆拾年柒月日",
+ "reign_year": 60,
+ "month": 7,
+ "day": null,
+ "event_role": "其他",
+ "summary": "銮仪使茅师懿德因目生内障，奏请皇上赏发御医关体健为其下针治疗，以图报效。",
+ "people": [
+  {
+   "name": "茅师懿德",
+   "role": "銮仪使，奏请人"
+  },
+  {
+   "name": "关体健",
+   "role": "医生，曾为茅师懿德诊治"
+  },
+  {
+   "name": "董玉",
+   "role": "茅师懿德家人，代为赍捧奏折"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知大夫已告病回去，料想这几日内到京。",
+ "source_title": "銮仪使茅师懿德奏请赏发良医医治目疾",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 333
+}

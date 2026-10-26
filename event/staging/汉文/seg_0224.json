@@ -1,0 +1,46 @@
+{
+ "date_raw": "康熙四十七年三月初四日",
+ "reign_year": 47,
+ "month": 3,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "闽浙总督奏报四明山形势及张念一等抗官情节，并派员再勘绘具山图。",
+ "people": [
+  {
+   "name": "梁鼐",
+   "role": "奏报人"
+  },
+  {
+   "name": "满保",
+   "role": "联署人"
+  },
+  {
+   "name": "张念一",
+   "role": "涉及人物"
+  },
+  {
+   "name": "一念",
+   "role": "涉及人物"
+  },
+  {
+   "name": "吴开圻",
+   "role": "涉及人物"
+  },
+  {
+   "name": "杨先蓝",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "四明山",
+  "福建",
+  "浙江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "304",
+ "source_title": "闽浙总督梁鼐奏陈四明山形势并张念一等抗官前后情节摺",
+ "order_index": 224
+}

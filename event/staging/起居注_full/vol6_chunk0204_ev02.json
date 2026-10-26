@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "三十日丙辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早往泊为德问安，随后行幸塞外，自畅春园启行，驻跸昌平州属丈头村。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "泊为德",
+  "畅春园",
+  "昌平州丈头村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20402,
+ "page_range": "418-419"
+}

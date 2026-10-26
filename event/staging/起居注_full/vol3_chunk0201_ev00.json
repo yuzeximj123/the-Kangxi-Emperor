@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问李光地张沂为人，李光地称其居官安静，康熙遂命张沂升补湖广巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "学士"
+  },
+  {
+   "name": "张沂",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20100,
+ "page_range": "437-438"
+}

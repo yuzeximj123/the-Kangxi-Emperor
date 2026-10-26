@@ -1,0 +1,40 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "二十四日奖丑",
+ "event_role": "议政听政",
+ "summary": "大学士松柱等以折本请旨，覆请盛京户部侍郎董国礼等暂行革职留任督催亏欠银米一案，康熙帝准依议。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "酒克旦",
+   "role": "学士"
+  },
+  {
+   "name": "勒什布",
+   "role": "学士"
+  },
+  {
+   "name": "萨哈布",
+   "role": "学士"
+  },
+  {
+   "name": "董国礼",
+   "role": "盛京户部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14208,
+ "page_range": "295-296"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "初八日丁亥",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸考屯布拉克，后行至营积布拉克。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "考屯布拉克",
+  "营积布拉克"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23713,
+ "page_range": "484-485"
+}

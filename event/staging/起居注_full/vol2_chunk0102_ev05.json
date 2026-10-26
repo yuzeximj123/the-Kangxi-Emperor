@@ -1,0 +1,21 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "午时康熙率诸王大臣进太皇太后、皇太后加上徽号册宝，行礼毕御中和殿、太和门受贺颁诏天下。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10205,
+ "page_range": "247-248"
+}

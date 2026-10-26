@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评阅庶吉士试卷，称惟状元戴有裕卷可观宜置首名，第十七名诗文亦可，拆阅乃张耶章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "戴有裕",
+   "role": "状元"
+  },
+  {
+   "name": "张耶章",
+   "role": "进士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1205,
+ "page_range": "34-35"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 13,
+ "month": 1,
+ "day_text": "十六日辛巳",
+ "event_role": "朝见受贺",
+ "summary": "未时，康熙帝复往太皇太后宫设灯节宴，赐外藩王、贝勒、贝子、公、台吉等宴于宫门内，赐随驾大臣宴于宫门外。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6517,
+ "page_range": "187-188"
+}

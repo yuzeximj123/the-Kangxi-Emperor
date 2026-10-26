@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "翰林院题补经筵讲官二员缺，开列吏部尚书达哈塔等职名，明珠等奏报试讲情况并推荐欧思泰、朱马泰、阿山、德格勒可学习。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "达哈塔",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "欧思泰",
+   "role": "候选讲官"
+  },
+  {
+   "name": "朱马泰",
+   "role": "候选讲官"
+  },
+  {
+   "name": "阿山",
+   "role": "候选讲官"
+  },
+  {
+   "name": "德格勒",
+   "role": "候选讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11800,
+ "page_range": "271-272"
+}

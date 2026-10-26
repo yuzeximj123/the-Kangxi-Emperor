@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "初八日辛酉",
+ "event_role": "人事任免",
+ "summary": "兵部题宁古塔将军咨请管站官马济兰升补事，康熙帝令查明管站官员原系何部补授具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗蒙俄洛",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "马济兰",
+   "role": "管站六品官"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "乌拉",
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20711,
+ "page_range": "425-426"
+}

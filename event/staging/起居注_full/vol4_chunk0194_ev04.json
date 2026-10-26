@@ -1,0 +1,33 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "二十日己亥",
+ "event_role": "人事任免",
+ "summary": "尚书王览、沙木哈引见郎中鄂奇等六员，奏请带往陕西赈济，康熙帝令六员俱带去。",
+ "people": [
+  {
+   "name": "王览",
+   "role": "尚书"
+  },
+  {
+   "name": "沙木哈",
+   "role": "尚书"
+  },
+  {
+   "name": "鄂奇",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19404,
+ "page_range": "400-401"
+}

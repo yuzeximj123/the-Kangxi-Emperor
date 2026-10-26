@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "十五日己本",
+ "event_role": "人事任免",
+ "summary": "康熙帝以骑射不堪、人材庸劣为由，命将通州运粮千总李国华革退。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李国华",
+   "role": "通州运粮千总"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12501,
+ "page_range": "260-261"
+}

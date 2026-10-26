@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": "二十七日已卯",
+ "event_role": "军务",
+ "summary": "兵部覆广东广西总督杨琳所题拣选护军处行走之兵发广东录用事，康熙命将汉军一并发往，本收贮进京再奏。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "广东广西总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20316,
+ "page_range": "417-418"
+}

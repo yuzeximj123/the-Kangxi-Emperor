@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "兵部题云南投诚伪将军线绒等授三品官编入上三旗，康熙帝命吴三桂旗下健丁分散安插各处。",
+ "people": [
+  {
+   "name": "线绒",
+   "role": "投诚伪将军"
+  },
+  {
+   "name": "吴三桂",
+   "role": "叛臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17105,
+ "page_range": "385-386"
+}

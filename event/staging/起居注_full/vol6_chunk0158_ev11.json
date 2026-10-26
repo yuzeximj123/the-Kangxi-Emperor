@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "二十日辛已",
+ "event_role": "司法案件",
+ "summary": "吏部等衙门题鞠问逃人徇情曲让案，拟盛京侍郎额黑礼等革职、郎中赵麟绞，康熙改令赵麟革职编入内务府佐领当差，额黑礼等革职披甲效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额黑礼",
+   "role": "盛京侍郎"
+  },
+  {
+   "name": "赵麟",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15811,
+ "page_range": "326-327"
+}

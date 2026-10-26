@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初三日丁巳",
+ "event_role": "人事任免",
+ "summary": "吏部题工部侍郎席特纳年老休致员缺，康熙帝询问可用之人，未即定，留本再思。",
+ "people": [
+  {
+   "name": "席特纳",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "敦多礼",
+   "role": "学士"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14606,
+ "page_range": "327-328"
+}

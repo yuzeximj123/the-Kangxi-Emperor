@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "初五日辛未",
+ "event_role": "人事任免",
+ "summary": "詹事府赞善沈朝初员缺，遵旨选出年久编修王化鹤等七人引见，康熙帝认为无学问优者，命另将学问人品好者问明具奏补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王化鹤",
+   "role": "编修"
+  },
+  {
+   "name": "沈朝初",
+   "role": "赞善"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3212,
+ "page_range": "74-75"
+}

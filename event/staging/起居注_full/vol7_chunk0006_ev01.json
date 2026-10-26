@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赐山西巡抚噶礼御书“能体纯素”四大字、诗二幅，赐总兵官俞益谟“坤岳虎符”四大字、诗一幅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "俞益谟",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 601,
+ "page_range": "23-24"
+}

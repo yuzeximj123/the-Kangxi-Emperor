@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙闻广东米价腾贵每石至二两、广西米价至一两五钱，将军管源忠、巡抚陈元龙分别奏报。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "管源忠",
+   "role": "广东将军"
+  },
+  {
+   "name": "陈元龙",
+   "role": "广西巡抚"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1100,
+ "page_range": "33-34"
+}

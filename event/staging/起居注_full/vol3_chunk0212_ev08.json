@@ -1,0 +1,42 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "初九日丁巳",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士郭苯革职员缺，康熙帝询问诸臣后，以卢琦历俸既深，着升补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  },
+  {
+   "name": "卢琦",
+   "role": "少詹事，升补内阁学士"
+  },
+  {
+   "name": "高士奇",
+   "role": "侍读学士"
+  },
+  {
+   "name": "石文桂",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21208,
+ "page_range": "459-460"
+}

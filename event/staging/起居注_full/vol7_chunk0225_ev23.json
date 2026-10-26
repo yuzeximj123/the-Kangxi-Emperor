@@ -1,0 +1,27 @@
+{
+ "reign_year": 51,
+ "month": 7,
+ "day_text": "初七日戊子",
+ "event_role": "司法案件",
+ "summary": "刑部题拐卖杜哈禅夫妇子女之阿丫头等应刺字发遣宁古塔为奴，康熙帝命阿丫头巴喇发遣荆州、江南、浙江。",
+ "people": [
+  {
+   "name": "杜哈禅",
+   "role": "被拐卖者"
+  },
+  {
+   "name": "阿丫头巴喇",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "荆州",
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22523,
+ "page_range": "461-462"
+}

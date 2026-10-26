@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十五日庚成",
+ "event_role": "人事任免",
+ "summary": "福建总督施维翰病故，康熙帝以其人品优长居官实善，命拟优票送进。",
+ "people": [
+  {
+   "name": "施维翰",
+   "role": "福建总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "刘秉权",
+   "role": "原任巡抚"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2016,
+ "page_range": "75-76"
+}

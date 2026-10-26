@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初三日已未",
+ "event_role": "人事任免",
+ "summary": "题补典籍事，明珠奏中书署典籍事辛国兴才具颇优、办事历练，康熙帝命即以国兴补授。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "辛国兴",
+   "role": "中书署典籍事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12,
+ "page_range": "43-44"
+}

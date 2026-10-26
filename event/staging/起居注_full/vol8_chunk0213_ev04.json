@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "川陕总督鄂海题请刘朝柱仍留原任署理歼州副将事务，康熙帝照所题准行。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "刘朝柱",
+   "role": "原任巫山营游击"
+  }
+ ],
+ "places": [
+  "歼州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21304,
+ "page_range": "437-438"
+}

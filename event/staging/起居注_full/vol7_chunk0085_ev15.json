@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十二日癸未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸柏乡县城东，赐真定府来接副将标下二百兵白金，内丘县知县吴钟等来朝。",
+ "people": [
+  {
+   "name": "吴钟",
+   "role": "内丘县知县"
+  }
+ ],
+ "places": [
+  "柏乡县",
+  "真定府",
+  "内丘县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8515,
+ "page_range": "181-182"
+}

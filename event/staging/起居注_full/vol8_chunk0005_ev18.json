@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "初十日戊午",
+ "event_role": "朝见受贺",
+ "summary": "霸州防守御阿达哈、知州王之琦、游击杨麒等来朝。",
+ "people": [
+  {
+   "name": "阿达哈",
+   "role": "霸州防守御"
+  },
+  {
+   "name": "王之琦",
+   "role": "霸州知州"
+  },
+  {
+   "name": "杨麒",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 518,
+ "page_range": "21-22"
+}

@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十六年五月十六日",
+ "reign_year": 46,
+ "month": 5,
+ "day": 16,
+ "event_role": "奏报地方情形",
+ "summary": "湖广巡抚张连登奏报湖广春夏缺雨后，四月二十九、三十及五月初一、二日得雨入土深透，农民欢欣，丰收有望，具奏报慰民望。",
+ "people": [
+  {
+   "name": "张连登",
+   "role": "湖广巡抚都察院右副都御史，奏报人"
+  },
+  {
+   "name": "王度昭",
+   "role": "湖广布政使，呈报雨情"
+  }
+ ],
+ "places": [
+  "湖广",
+  "偏沅",
+  "武昌府",
+  "嘉鱼",
+  "蒲圻"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "张连登奏报得雨沾足",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 2
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "十五日癸未",
+ "event_role": "朝见受贺",
+ "summary": "齐河县知县黄雪、把总金梦显、备城县知县许定升、把总韩应科等来朝。",
+ "people": [
+  {
+   "name": "黄雪",
+   "role": "齐河县知县"
+  },
+  {
+   "name": "金梦显",
+   "role": "把总"
+  },
+  {
+   "name": "许定升",
+   "role": "备城县知县"
+  },
+  {
+   "name": "韩应科",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "齐河县",
+  "备城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5317,
+ "page_range": "118-119"
+}

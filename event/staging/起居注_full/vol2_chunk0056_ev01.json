@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "江宁巡抚慕天颜题报张天性等打劫施又儒家欲杀失主，沈淑静、孙子奇劝止并予饮食，请从宽，部议仍立斩。",
+ "people": [
+  {
+   "name": "慕天颜",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "张天性",
+   "role": "强盗"
+  },
+  {
+   "name": "施又儒",
+   "role": "失主"
+  },
+  {
+   "name": "沈淑静",
+   "role": "同伙劝止者"
+  },
+  {
+   "name": "孙子奇",
+   "role": "同伙劝止者"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5601,
+ "page_range": "155-156"
+}

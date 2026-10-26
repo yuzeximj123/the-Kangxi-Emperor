@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "二十三日丙辰",
+ "event_role": "人事任免",
+ "summary": "西安巡抚贝和诺题请李杰调补汉兴道，康熙帝斥其规避要地，命将贝和诺及李杰交部严处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "贝和诺",
+   "role": "西安巡抚"
+  },
+  {
+   "name": "李杰",
+   "role": "神木道"
+  }
+ ],
+ "places": [
+  "神木",
+  "汉兴",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14609,
+ "page_range": "302-303"
+}

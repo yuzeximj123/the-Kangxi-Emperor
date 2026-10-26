@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十年六月初六日",
+ "reign_year": 50,
+ "month": 6,
+ "day": 6,
+ "event_role": "贸易漕运",
+ "summary": "两广总督赵弘灿向康熙帝请安，并奏报已按前式折炼铜斤五百斤，差家人吴得名领送进京恭进，请皇上敕收。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督，奏折具奏人"
+  },
+  {
+   "name": "吴得名",
+   "role": "赵弘灿家人，负责领送铜斤进京"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批表示自己安好，并说明以后铜斤二百斤即够用了。",
+ "source_title": "兩廣總督趙弘燦奏進銅節摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "874",
+ "order_index": 182
+}

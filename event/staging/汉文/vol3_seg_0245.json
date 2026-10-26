@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十年九月二十八日",
+ "reign_year": 50,
+ "month": 9,
+ "day": 28,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州今秋丰收、米价低廉、天气晴和、百姓乐业，并进献洞庭山橘子。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造"
+  }
+ ],
+ "places": [
+  "福州",
+  "洞庭山"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報蘇州米價並進洞庭橘子摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "948",
+ "order_index": 245
+}

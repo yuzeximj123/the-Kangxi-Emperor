@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初六日己未",
+ "event_role": "人事任免",
+ "summary": "吏部以大学士王掞员缺照例请旨，康熙帝问张玉书服满否，令其来京供职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21717,
+ "page_range": "444-445"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "十一日癸亥",
+ "event_role": "司法案件",
+ "summary": "刑部覆盛京刑部解送开窗子拐卖人口杨七等拟绞监候，康熙帝令将为首笔帖式哈希及弟兄拿至京师严审后再议。",
+ "people": [
+  {
+   "name": "哈希",
+   "role": "笔帖式"
+  },
+  {
+   "name": "杨七",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "盛京",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22315,
+ "page_range": "457-458"
+}

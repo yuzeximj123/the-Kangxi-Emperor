@@ -1,0 +1,23 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十八日癸卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自江宁府回銮，至镇江府属避风馆登舟，泊于金山寺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁府",
+  "镇江府",
+  "避风馆",
+  "金山寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5313,
+ "page_range": "117-118"
+}

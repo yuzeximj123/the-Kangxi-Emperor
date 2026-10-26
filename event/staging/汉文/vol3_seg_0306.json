@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙伍拾贰年正月贰拾伍日",
+ "reign_year": 52,
+ "month": 1,
+ "day": 25,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮密奏守道祁国祚惟利是贤，请皇上另选贤能任守道，以利钱粮事务。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏折作者"
+  },
+  {
+   "name": "祁国祚",
+   "role": "守道，被参奏请求更换之人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称前日已将风闻的祁国祚之事谕知九卿。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 306
+}

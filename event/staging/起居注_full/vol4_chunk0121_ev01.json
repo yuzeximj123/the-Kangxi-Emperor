@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补通政司参议员缺，拟以降调左都御史郭玫补授，康熙帝斥其嘱托徇私、品行不端，令以原品休致。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭玫",
+   "role": "左都御史"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12101,
+ "page_range": "254-255"
+}

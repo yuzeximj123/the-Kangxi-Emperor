@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝述李锡由刘戎枢保举、九卿称可用而任巡抚，到任后加派不堪即撤回，以张圣佐升补，叹保举人实难。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李锡",
+   "role": "巡抚"
+  },
+  {
+   "name": "刘戎枢",
+   "role": "保举人"
+  },
+  {
+   "name": "张圣佐",
+   "role": "升补巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21704,
+ "page_range": "445-446"
+}

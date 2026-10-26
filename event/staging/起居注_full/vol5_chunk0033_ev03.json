@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝准张希良升补赞善员缺。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "沈朝初",
+   "role": "赞善"
+  },
+  {
+   "name": "张希良",
+   "role": "编修"
+  },
+  {
+   "name": "张物章",
+   "role": "编修"
+  },
+  {
+   "name": "凌绍雪",
+   "role": "编修"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3303,
+ "page_range": "76-77"
+}

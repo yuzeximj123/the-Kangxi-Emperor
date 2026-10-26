@@ -1,0 +1,46 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "三法司题覃应祥等与法葆同谋拟凌迟、陈英知情不首拟立斩，康熙以重罪人太多，命覃应祥等改为立斩。",
+ "people": [
+  {
+   "name": "法葆",
+   "role": "同谋"
+  },
+  {
+   "name": "覃应祥",
+   "role": "同谋犯"
+  },
+  {
+   "name": "计应隆",
+   "role": "同谋犯"
+  },
+  {
+   "name": "张四同子",
+   "role": "同谋犯"
+  },
+  {
+   "name": "王升温玉",
+   "role": "同谋犯"
+  },
+  {
+   "name": "陈英",
+   "role": "知情不首"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7503,
+ "page_range": "185-186"
+}

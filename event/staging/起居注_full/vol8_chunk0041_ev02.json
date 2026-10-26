@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谓左都御史把叙，第七名王餐字佳有似孙岳颁，命其识之，又论修书处之人常从学中来。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "把叙",
+   "role": "左都御史"
+  },
+  {
+   "name": "王餐",
+   "role": "贡士"
+  },
+  {
+   "name": "孙岳颁",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4102,
+ "page_range": "93-94"
+}

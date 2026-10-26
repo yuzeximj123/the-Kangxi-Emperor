@@ -1,0 +1,36 @@
+{
+ "reign_year": 53,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门议覆陕西巡抚永泰所题尤思变因救父持棍打伤尤星逢额角致死一案，拟立斩，康熙帝命九卿詹事科道等官会同再议具奏。",
+ "people": [
+  {
+   "name": "尤星逢",
+   "role": "被殴死者"
+  },
+  {
+   "name": "尤若武",
+   "role": "尤星逢斗殴对象"
+  },
+  {
+   "name": "尤思变",
+   "role": "尤若武之子、救人者"
+  },
+  {
+   "name": "永泰",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6603,
+ "page_range": "143-144"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "二十六日王辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论罚之典原为劝贤惩奸，令选用缘事宗室及有罪官员以下者效力护军。",
+ "people": [
+  {
+   "name": "谭泰",
+   "role": "提及官员子孙"
+  },
+  {
+   "name": "席汉",
+   "role": "提及官员子孙"
+  },
+  {
+   "name": "钟古尔代",
+   "role": "原任郎中"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "镶蓝旗"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1611,
+ "page_range": "67-68"
+}

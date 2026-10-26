@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读唐高宗时太子弘以牝天后事论，评论太子弘仁厚但宜曲为感悟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太子弘",
+   "role": "唐太子"
+  },
+  {
+   "name": "武则天",
+   "role": "唐天后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11213,
+ "page_range": "236-237"
+}

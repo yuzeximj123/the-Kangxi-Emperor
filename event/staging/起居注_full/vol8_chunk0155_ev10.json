@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部奏河南彰德府涉县民石起秀、李天斗因知县黄译多派钱粮越例妄闻，拟照冲突仪仗例佥妻发边卫充军。",
+ "people": [
+  {
+   "name": "石起秀",
+   "role": "涉县民，犯人"
+  },
+  {
+   "name": "李天斗",
+   "role": "涉县民，犯人"
+  },
+  {
+   "name": "黄译",
+   "role": "涉县知县"
+  }
+ ],
+ "places": [
+  "河南彰德府涉县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15510,
+ "page_range": "321-322"
+}

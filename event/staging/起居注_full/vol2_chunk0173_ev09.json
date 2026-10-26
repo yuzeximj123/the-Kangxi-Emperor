@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "十一日癸未",
+ "event_role": "皇帝行止",
+ "summary": "因章皇后忌辰，康熙帝不理政事，各部院衙门章奏俱交内阁；忌辰时御乾清宫，大学士等捧折本面奏请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17309,
+ "page_range": "389-390"
+}

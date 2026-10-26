@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初九日甲拱",
+ "event_role": "人事任免",
+ "summary": "吏部题佛多和所袭拜他喇布勒哈番等职应令其子纳秦承袭，康熙以非布达礼勤劳所得，命察明原得官职之人来看。",
+ "people": [
+  {
+   "name": "佛多和",
+   "role": "袭职人"
+  },
+  {
+   "name": "纳秦",
+   "role": "佛多和之子"
+  },
+  {
+   "name": "布达礼",
+   "role": "佛多和之父"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1905,
+ "page_range": "73-74"
+}

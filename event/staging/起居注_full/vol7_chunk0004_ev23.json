@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初五日丁巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸曲阳县所属珍李村，井陉道张笠匠等、真定府守备王永祯等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张笠匠",
+   "role": "井陉道"
+  },
+  {
+   "name": "王永祯",
+   "role": "真定府守备"
+  }
+ ],
+ "places": [
+  "珍李村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 423,
+ "page_range": "19-20"
+}

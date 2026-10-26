@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "初十日癸巳",
+ "event_role": "人事任免",
+ "summary": "礼部题浙江、江西、湖广正副主考官开列沈宗敬等职名，康熙帝令仍问九卿着伊等举出。",
+ "people": [
+  {
+   "name": "沈宗敬",
+   "role": "主考官人选"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江西",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19613,
+ "page_range": "403-404"
+}

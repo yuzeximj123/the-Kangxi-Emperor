@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "二十七日辛酉",
+ "event_role": "其他",
+ "summary": "康熙帝于迄鼻谷射杀一虎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "迄鼻谷"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3306,
+ "page_range": "101-102"
+}

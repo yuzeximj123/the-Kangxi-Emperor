@@ -1,0 +1,36 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "二十六日辛丑",
+ "event_role": "人事任免",
+ "summary": "马齐等奏刑部尚书陈廷敬员缺，询问九卿李光地、徐潮居官俱优，康熙帝命李光地升刑部尚书仍管理直隶巡抚事。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "李光地",
+   "role": "升刑部尚书"
+  },
+  {
+   "name": "徐潮",
+   "role": "候选官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5907,
+ "page_range": "129-130"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "初三日癸未",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝追问襄阳流民及督抚贤否，阿山称百姓说好、居官好，德珠称督抚不及傅腊塔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "德珠",
+   "role": "内净学士"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "襄阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18404,
+ "page_range": "380-381"
+}

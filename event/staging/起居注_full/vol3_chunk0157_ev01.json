@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "月二十四日",
+ "event_role": "司法案件",
+ "summary": "朝鲜国陪臣郑载汕应严拿交与该王，康熙询问诸臣意见后命免严拿，余依部议。",
+ "people": [
+  {
+   "name": "郑载汕",
+   "role": "朝鲜国陪臣"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15701,
+ "page_range": "349-350"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就海岛船只及擅官兵丁事，命施琅严加确察收抚，务靖根株，并在票签内批出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施琅",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "海岛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23500,
+ "page_range": "513-514"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "二十八日王寅",
+ "event_role": "司法案件",
+ "summary": "伊桑阿等奏遵旨诘问卫既齐，卫既齐供认狂妄污奏、轻率用兵、虚报军功三罪皆当死，康熙帝令将议处本照常送进。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "卫既齐",
+   "role": "贵州巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22704,
+ "page_range": "466-467"
+}

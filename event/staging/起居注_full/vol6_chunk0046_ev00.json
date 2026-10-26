@@ -1,0 +1,21 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命在浙江、福建二省总兵中择优选调补任，令速赴任并奏闻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4600,
+ "page_range": "102-103"
+}

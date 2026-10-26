@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十六日己丑",
+ "event_role": "谕旨决策",
+ "summary": "提督桑格、总兵官四十六、偏图自陈三本，康熙帝以其行间无劳绩，命照常拟票批发。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "提督"
+  },
+  {
+   "name": "四十六",
+   "role": "总兵官"
+  },
+  {
+   "name": "偏图",
+   "role": "总兵官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16309,
+ "page_range": "369-370"
+}

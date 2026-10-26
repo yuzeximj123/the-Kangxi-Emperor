@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "十五日乙已",
+ "event_role": "人事任免",
+ "summary": "宗人府请封尚善贝勒子噶图，康熙帝谕贝勒在师中缘事尚未议明，其子不便即行加封，俟师旋议明再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尚善",
+   "role": "贝勒"
+  },
+  {
+   "name": "噶图",
+   "role": "尚善之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21438,
+ "page_range": "485-486"
+}

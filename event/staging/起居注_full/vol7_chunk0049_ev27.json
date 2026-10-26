@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "二十四日庚午",
+ "event_role": "其他",
+ "summary": "康熙帝御书“源清流洁”悬趵突泉、“润物”悬珍珠泉、“学宗洙泗”悬书院。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "趵突泉",
+  "珍珠泉",
+  "书院"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4927,
+ "page_range": "109-110"
+}

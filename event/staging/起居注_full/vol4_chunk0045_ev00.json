@@ -1,0 +1,46 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "九卿等议光裕告兵丁肆行累民一案，因俱无实据且系旧事，议无良策，康熙帝询问诸臣意见。",
+ "people": [
+  {
+   "name": "光裕",
+   "role": "原告"
+  },
+  {
+   "name": "李天符",
+   "role": "尚书"
+  },
+  {
+   "name": "张玉书",
+   "role": "尚书"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "尚书"
+  },
+  {
+   "name": "图纳",
+   "role": "尚书"
+  },
+  {
+   "name": "巴拜",
+   "role": "言官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4500,
+ "page_range": "102-103"
+}

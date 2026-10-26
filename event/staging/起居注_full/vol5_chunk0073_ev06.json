@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "兵部侍郎朱都纳、内浆学士松柱启奏盛京赈济事，康熙帝询问盛京田禾及米粮储备，松柱奏报田禾收成与赈济可支月数。",
+ "people": [
+  {
+   "name": "朱都纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "松柱",
+   "role": "内浆学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京",
+  "天津海口",
+  "锦州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7306,
+ "page_range": "156-157"
+}

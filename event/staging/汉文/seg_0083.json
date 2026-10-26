@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十四年七月初一日",
+ "reign_year": 44,
+ "month": 7,
+ "day": null,
+ "event_role": "其他",
+ "summary": "曹寅奏报校刊《全唐诗》进展，翰林多已到齐，汪士鋐未到，因笔迹难统一恐一年内难竣工，中晚唐诗尚有遗失。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "彭定求",
+   "role": "涉及人物"
+  },
+  {
+   "name": "汪士鋐",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "江寧"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "110",
+ "source_title": "江寧織造曹寅奏報校刊全唐詩不敢少怠摺",
+ "order_index": 83
+}

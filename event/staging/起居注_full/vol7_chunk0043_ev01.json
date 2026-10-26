@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝念萨木哈、马尔汉年迈效力年久，命给还原职以正朝班观瞻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨木哈",
+   "role": "官员"
+  },
+  {
+   "name": "马尔汉",
+   "role": "官员"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4301,
+ "page_range": "97-98"
+}

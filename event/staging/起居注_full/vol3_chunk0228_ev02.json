@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问汤斌、达哈塔意见，汤斌称董汉臣条奏未说明应行之处难以详议，达哈塔称奢侈一款尚属可行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "礼部尚书管詹事府事"
+  },
+  {
+   "name": "达哈塔",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "董汉臣",
+   "role": "灵台郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22802,
+ "page_range": "491-492"
+}

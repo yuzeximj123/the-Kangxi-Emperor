@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "二十四日奖丑",
+ "event_role": "人事任免",
+ "summary": "覆请兵部议湖广巡抚刘殿衡题标中军游击夏麟员缺拣选补授一案，康熙帝命将应升记名人员查奏。",
+ "people": [
+  {
+   "name": "刘殿衡",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "夏麟",
+   "role": "标中军游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14210,
+ "page_range": "295-296"
+}

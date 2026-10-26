@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十五日了丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阅侍读学士，正拟布占、陪拟塞勒布，明珠、勒德洪奏布占居心洁净办事详练，康熙命布占补授。",
+ "people": [
+  {
+   "name": "布占",
+   "role": "拟补侍读学士"
+  },
+  {
+   "name": "塞勒布",
+   "role": "陪拟官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5519,
+ "page_range": "153-154"
+}

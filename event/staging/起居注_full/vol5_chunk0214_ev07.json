@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "议政大臣奏京师兵自宁夏遣往厄克阿喇尔侦灭噶尔丹粮锦马匹已行料理，请移文费扬古、阿南达，奉旨依议。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "厄克阿喇尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21407,
+ "page_range": "438-439"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾年肆月拾玖日",
+ "reign_year": 50,
+ "month": 4,
+ "day": 19,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报当地得雨情形，康熙朱批指出口外关东普遍有雨，唯近京一带生云即风，令其日夜忧心。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚、都察院右副都御史"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "口外",
+  "关东",
+  "京"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称口外关东一概不少雨，惟近京处生云即风，故夙夜不放心。",
+ "source_title": "直隶巡抚赵弘燮奏报得雨情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "412",
+ "order_index": 145
+}

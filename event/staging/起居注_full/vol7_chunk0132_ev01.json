@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "吏部因两广盐课未完议处开建县知县丁延昌等，康熙帝命不得照常例议处，发还另议。",
+ "people": [
+  {
+   "name": "丁延昌",
+   "role": "开建县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两广",
+  "开建县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13201,
+ "page_range": "275-276"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "编修王项齿、草禾、杜讷等记神圣功，职当琅函瑶版。",
+ "people": [
+  {
+   "name": "王项齿",
+   "role": "编修"
+  },
+  {
+   "name": "草禾",
+   "role": "编修"
+  },
+  {
+   "name": "杜讷",
+   "role": "编修"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10619,
+ "page_range": "255-256"
+}

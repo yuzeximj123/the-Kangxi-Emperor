@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "初八日癸卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸岔道，延庆州知州于翔汉、居庸关都司陈国英等来朝见。",
+ "people": [
+  {
+   "name": "于翔汉",
+   "role": "延庆州知州"
+  },
+  {
+   "name": "陈国英",
+   "role": "居庸关都司"
+  }
+ ],
+ "places": [
+  "岔道",
+  "延庆州",
+  "居庸关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11005,
+ "page_range": "230-231"
+}

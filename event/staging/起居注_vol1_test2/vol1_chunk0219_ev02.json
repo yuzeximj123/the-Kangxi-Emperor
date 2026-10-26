@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补满洲正詹事，康熙帝令开列各官由吏部、翰林院公同考试，牛钮、常书文学淹通不必考试，并称军前格尔古德所学甚优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "官员"
+  },
+  {
+   "name": "常书",
+   "role": "官员"
+  },
+  {
+   "name": "格尔古德",
+   "role": "军前官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21902,
+ "page_range": "495-496"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十八年九月初二日",
+ "reign_year": 48,
+ "month": 9,
+ "day": 2,
+ "event_role": "其他",
+ "summary": "江宁织造曹寅奏报大学士熊赐履于八月二十八日病故，并说明其先感寒成痢、卧床数日不起，因恐传闻不真，探实后具奏。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造，奏报人"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士，病故者"
+  }
+ ],
+ "places": [
+  "仪真"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝令曹寅再打听熊赐履用过何医药、临终言语及诸子情形，并询问曹寅是否送礼吊唁。",
+ "source_title": "江寧織造曹寅奏報熊賜履病故摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "574",
+ "order_index": 227
+}

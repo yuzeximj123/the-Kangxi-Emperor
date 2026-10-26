@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙五十年七月二十五日",
+ "reign_year": 50,
+ "month": 7,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "海澄公黄应缵感激皇上对其生父黄芳泰加赠恤典、谕祭隆恩，具折叩谢天恩。",
+ "people": [
+  {
+   "name": "黄应缵",
+   "role": "一等海澄公，具奏人"
+  },
+  {
+   "name": "黄芳泰",
+   "role": "黄应缵生父，获加赠恤典"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，谕叙加赠并赐优恤"
+  },
+  {
+   "name": "太皇太后",
+   "role": "陵寝受谒者"
+  }
+ ],
+ "places": [
+  "漳城",
+  "广东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "海澄公黃應纘奏爲感激聖恩懇准父祖移葬摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "914",
+ "order_index": 211
+}

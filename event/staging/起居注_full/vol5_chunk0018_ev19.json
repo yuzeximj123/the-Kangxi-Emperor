@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初六日癸卯",
+ "event_role": "人事任免",
+ "summary": "湖广布政使线一信员缺，拟王钞贤正、赵良壁陪；康熙帝未深知二人，命问九卿并令公举贤能、科道参劾不肖。",
+ "people": [
+  {
+   "name": "线一信",
+   "role": "湖广布政使"
+  },
+  {
+   "name": "王钞贤",
+   "role": "拟正官员"
+  },
+  {
+   "name": "赵良壁",
+   "role": "拟陪官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1819,
+ "page_range": "46-47"
+}

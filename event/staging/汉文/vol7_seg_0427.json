@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙五十九年四月初十日",
+ "reign_year": 59,
+ "month": 4,
+ "day": 10,
+ "event_role": "人事任免",
+ "summary": "奴才奏报宜都营参将卓异补授及庆协副将实授事，并保举该将才堪卓异，恳请皇上睿览批示施行。",
+ "people": [
+  {
+   "name": "硕伦式",
+   "role": "督臣"
+  },
+  {
+   "name": "张谷贞",
+   "role": "云南提臣"
+  },
+  {
+   "name": "卓异",
+   "role": "宜都营参将拟补人选"
+  }
+ ],
+ "places": [
+  "宜都营",
+  "滇省",
+  "庆协"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批称该员另有任用。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 427
+}

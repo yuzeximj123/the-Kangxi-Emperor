@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十四日成申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝令将官职给与巴尔达之子承袭，所查残疾者俱令其子承袭，嗣后此类俱议给其子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴尔达",
+   "role": "残疾承袭者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21528,
+ "page_range": "440-441"
+}

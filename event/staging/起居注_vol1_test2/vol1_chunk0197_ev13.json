@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "十三日甲成",
+ "event_role": "人事任免",
+ "summary": "刑部侍郎禅塔海奉差察审原任江南按察使准维雅，请旨起行，康熙帝谕以详慎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "禅塔海",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "准维雅",
+   "role": "原任江南按察使"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19713,
+ "page_range": "451-452"
+}

@@ -1,0 +1,27 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "马齐等奏山东、浙江二省应蠲明年钱粮已交户部察明，建议分年蠲免，康熙帝沉思后决定先蠲山东明岁钱粮及旧欠带征，浙江于后年再蠲，并命于上谕内书明。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东",
+  "浙江",
+  "云南",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7504,
+ "page_range": "161-162"
+}

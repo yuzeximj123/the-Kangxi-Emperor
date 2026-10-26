@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 7,
+ "day_text": "初八日庚子",
+ "event_role": "谕旨决策",
+ "summary": "户部郎中布钴等奉命浙江察海请旨，康熙帝谕令详察巡海官兵、增设防兵、严查私贩越界贸易。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布钴",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18524,
+ "page_range": "427-428"
+}

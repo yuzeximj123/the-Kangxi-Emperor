@@ -1,0 +1,44 @@
+{
+ "date_raw": "康熙四十四年十一月二十日",
+ "reign_year": 44,
+ "month": 11,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "河南巡抚赵弘燮奏谢皇上宽免其冒昧题销堤工之处分，并感激圣恩。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "雅思泰",
+   "role": "涉及人物"
+  },
+  {
+   "name": "徐潮",
+   "role": "涉及人物"
+  },
+  {
+   "name": "王道",
+   "role": "涉及人物"
+  },
+  {
+   "name": "良栋",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "河南",
+  "中年县",
+  "伶里店",
+  "鄚州",
+  "孙家楼"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "134",
+ "source_title": "河南巡抚赵弘燮奏谢宽免冒昧题销堤工处分摺",
+ "order_index": 88
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 11,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "赐朝鲜国正使东平君李杭、副使申厚载等银两、鞍马、纳布。",
+ "people": [
+  {
+   "name": "李杭",
+   "role": "朝鲜国正使东平君"
+  },
+  {
+   "name": "申厚载",
+   "role": "朝鲜国副使议政府参赞官"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9204,
+ "page_range": "196-197"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 15,
+ "month": 2,
+ "day_text": "十六日戊辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝早亲赴社种坛致祭，祭毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "社种坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11013,
+ "page_range": "277-278"
+}

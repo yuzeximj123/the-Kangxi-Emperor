@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "十一日己巳",
+ "event_role": "人事任免",
+ "summary": "兵部覆署川陕总督席尔达题定边营副将员缺，议不准罗大虎补授，康熙命照该督所题补授。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "署川陕总督"
+  },
+  {
+   "name": "罗大虎",
+   "role": "灵州营参将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "定边营",
+  "灵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18411,
+ "page_range": "378-379"
+}

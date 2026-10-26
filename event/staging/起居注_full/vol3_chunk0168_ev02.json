@@ -1,0 +1,46 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "十八日辛丑",
+ "event_role": "司法案件",
+ "summary": "三法司题戴纯因故杀雇工人唐明亮拟绞，康熙帝询问戴纶孝行及御史李时谦居官情况，命问九卿来奏。",
+ "people": [
+  {
+   "name": "戴纯",
+   "role": "人犯"
+  },
+  {
+   "name": "唐明亮",
+   "role": "雇工人"
+  },
+  {
+   "name": "戴纶",
+   "role": "员外郎"
+  },
+  {
+   "name": "李时谦",
+   "role": "御史"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16802,
+ "page_range": "371-372"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十八日乙刻",
+ "event_role": "人事任免",
+ "summary": "都察院题御史洪之杰试俸已满应实授，康熙帝询问试俸之意，命查试俸之例再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "洪之杰",
+   "role": "御史"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25104,
+ "page_range": "559-560"
+}

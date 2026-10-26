@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初五日辛已",
+ "event_role": "司法案件",
+ "summary": "吏部议原苏州知府陈鹏年附和巡抚于准分给修河银两不合应拟罪，因事在赦前请免议，康熙帝命本发还再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈鹏年",
+   "role": "原苏州知府"
+  },
+  {
+   "name": "于准",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1906,
+ "page_range": "49-50"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "松柱等以总兵官杨铸等三缺呈九卿保举通州副将魏经国等，康熙以所举皆新用副将，令再问九卿举出兵效力及人才好年久之副将。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "杨铸",
+   "role": "总兵官"
+  },
+  {
+   "name": "魏经国",
+   "role": "通州副将"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12108,
+ "page_range": "253-254"
+}

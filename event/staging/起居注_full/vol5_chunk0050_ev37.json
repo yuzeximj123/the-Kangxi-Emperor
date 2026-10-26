@@ -1,0 +1,21 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "初六日已刻",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝至暂安奉殿行三跪九叩头礼、三奠酒举哀，继至孝陵行三跪九叩头礼、三奠酒举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "暂安奉殿",
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5037,
+ "page_range": "110-111"
+}

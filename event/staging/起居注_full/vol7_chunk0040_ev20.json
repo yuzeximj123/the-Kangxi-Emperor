@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": "十五日壬戌",
+ "event_role": "起居注官记录",
+ "summary": "记录本日起居注官为满保、查异。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "起居注官"
+  },
+  {
+   "name": "查异",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4020,
+ "page_range": "91-92"
+}

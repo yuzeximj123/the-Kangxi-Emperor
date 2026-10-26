@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 8,
+ "day_text": "十八日全未",
+ "event_role": "人事任免",
+ "summary": "兵部题云贵总督巴锡保题城守营参将等员缺，部议不准，康熙帝令来京陛见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "云贵总督"
+  },
+  {
+   "name": "吴昆",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10810,
+ "page_range": "226-227"
+}

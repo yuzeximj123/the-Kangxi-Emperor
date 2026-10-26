@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "二十六日丙子",
+ "event_role": "军务",
+ "summary": "广东提督王文雄题报逃逸海贼陈君元等被伊标下官兵拿获、地方官中途夺去冒功，康熙命问九卿。",
+ "people": [
+  {
+   "name": "王文雄",
+   "role": "广东提督"
+  },
+  {
+   "name": "陈君元",
+   "role": "逃逸海贼"
+  }
+ ],
+ "places": [
+  "旅顺口",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22411,
+ "page_range": "459-460"
+}

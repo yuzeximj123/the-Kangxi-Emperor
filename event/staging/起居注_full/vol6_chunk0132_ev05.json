@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "十九日",
+ "event_role": "人事任免",
+ "summary": "兵部覆广东提督舱化行保题都司郑继宽补授游击，议不准行，康熙帝令照该提督所题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "舱化行",
+   "role": "广东提督"
+  },
+  {
+   "name": "郑继宽",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13205,
+ "page_range": "274-275"
+}

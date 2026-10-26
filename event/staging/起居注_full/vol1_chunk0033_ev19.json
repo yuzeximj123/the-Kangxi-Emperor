@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 1,
+ "day_text": "二十二日癸巳",
+ "event_role": "人事任免",
+ "summary": "午时，康熙帝幸景山，召拟补平西亲王下援担后镇总兵员缺王府长史卫朴，命射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卫朴",
+   "role": "王府长史"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3319,
+ "page_range": "123-124"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "十四日戊戌",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内澹宁居听政，户部尚书马齐奏事。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "澹宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14410,
+ "page_range": "298-299"
+}

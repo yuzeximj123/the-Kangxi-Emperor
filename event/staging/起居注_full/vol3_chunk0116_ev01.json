@@ -1,0 +1,37 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题贵州大定总兵官葛秉贞病故员缺，康熙帝拟调狼山总兵官姚仪补授，并令候补总兵李超明日引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葛秉贞",
+   "role": "贵州大定总兵官"
+  },
+  {
+   "name": "姚仪",
+   "role": "狼山总兵官"
+  },
+  {
+   "name": "李超",
+   "role": "候补总兵"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "贵州大定",
+  "狼山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11601,
+ "page_range": "267-268"
+}

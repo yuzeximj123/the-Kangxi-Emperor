@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十五日壬午",
+ "event_role": "谕旨决策",
+ "summary": "户部题崇文门抽分监督布雅妈溢额三分应交吏部议，康熙令依议并命两衙门会集一本具奏以免重复。",
+ "people": [
+  {
+   "name": "布雅妈",
+   "role": "崇文门抽分监督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10904,
+ "page_range": "253-254"
+}

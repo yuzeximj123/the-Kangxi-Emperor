@@ -1,0 +1,46 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初二日王子",
+ "event_role": "人事任免",
+ "summary": "大学士马齐等以折本请旨，覆请吏部补授侍讲学士，康熙帝命巴泰补授，马准年老不及着革退。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "王找",
+   "role": "大学士"
+  },
+  {
+   "name": "巴泰",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "马准",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22004,
+ "page_range": "451-452"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十六日己巳",
+ "event_role": "祭祀典礼",
+ "summary": "马武、色德里遵旨查明帝王陵及勋旧坟墓，议祭周文、武、成康，汉高祖、宣帝，唐高祖、太宗、宣宗陵，遣官致祭张勇、梁化凤坟，奏入奉旨依议。",
+ "people": [
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "色德里",
+   "role": "学士"
+  },
+  {
+   "name": "张勇",
+   "role": "提督"
+  },
+  {
+   "name": "梁化凤",
+   "role": "总兵"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8028,
+ "page_range": "171-172"
+}

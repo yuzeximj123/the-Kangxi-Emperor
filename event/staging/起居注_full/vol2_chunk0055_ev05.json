@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十二日甲成",
+ "event_role": "人事任免",
+ "summary": "兵部题补郎中，正拟傅成格、陪拟魏达善，康熙询问齐世、德古，明珠奏其堪用，康熙命德古补授郎中。",
+ "people": [
+  {
+   "name": "傅成格",
+   "role": "拟补兵部郎中"
+  },
+  {
+   "name": "魏达善",
+   "role": "陪拟官员"
+  },
+  {
+   "name": "齐世",
+   "role": "候选官员"
+  },
+  {
+   "name": "德古",
+   "role": "候选官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5505,
+ "page_range": "153-154"
+}

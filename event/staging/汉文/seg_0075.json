@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十四年五月",
+ "reign_year": 44,
+ "month": 5,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "李煦向康熙请安谢恩，并奏报苏州二麦丰收、雨水充足、秧苗插莳情形。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "淮北"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知抵京之日即得透雨，眼下田苗长势很好。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "102",
+ "source_title": "蘇州織造李煦奏報蘇州雨水禾情形並請安摺",
+ "order_index": 75
+}

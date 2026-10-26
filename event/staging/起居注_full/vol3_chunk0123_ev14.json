@@ -1,0 +1,46 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "十九日乙刻",
+ "event_role": "司法案件",
+ "summary": "理藩院议逃人于尔既尼等五人拟立斩，康熙帝令将于尔既尼立斩，余四人免死交该管。",
+ "people": [
+  {
+   "name": "于尔既尼",
+   "role": "逃人首犯"
+  },
+  {
+   "name": "布尔济带",
+   "role": "逃人"
+  },
+  {
+   "name": "邬束",
+   "role": "逃人"
+  },
+  {
+   "name": "恒德希",
+   "role": "逃人"
+  },
+  {
+   "name": "纳德",
+   "role": "逃人"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "马拉",
+   "role": "官员"
+  },
+  {
+   "name": "郎谭",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12314,
+ "page_range": "281-282"
+}

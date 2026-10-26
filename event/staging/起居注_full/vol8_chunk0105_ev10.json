@@ -1,0 +1,34 @@
+{
+ "reign_year": 54,
+ "month": 8,
+ "day_text": "十二日乙效",
+ "event_role": "其他",
+ "summary": "召大学士松柱、尚书公孙征问、侍讲学士阿克敦、翰林何国宗、吴孝登等，康熙亲洒宸翰赐阅。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "公孙征问",
+   "role": "尚书"
+  },
+  {
+   "name": "阿克敦",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "何国宗",
+   "role": "翰林"
+  },
+  {
+   "name": "吴孝登",
+   "role": "翰林"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10510,
+ "page_range": "221-222"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初四日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就蠲免河西被灾钱粮谕令将甘肃所属州县钱粮尽行蠲免，另写上谕呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "河西",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21712,
+ "page_range": "444-445"
+}

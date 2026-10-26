@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "初二日已已",
+ "event_role": "人事任免",
+ "summary": "吏部题阿达哈哈番归秦无应袭之弟议不准承袭，康熙帝以鲁白赫呈词有理，令查伊逊胞弟杨善吉进等子孙应袭者承袭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "归秦",
+   "role": "阿达哈哈番"
+  },
+  {
+   "name": "鲁白赫",
+   "role": "呈词人"
+  },
+  {
+   "name": "伊逊",
+   "role": "鲁白赫亲伯"
+  },
+  {
+   "name": "杨善吉进",
+   "role": "伊逊胞弟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10009,
+ "page_range": "210-211"
+}

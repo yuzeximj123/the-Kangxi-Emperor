@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "初六日庚寅",
+ "event_role": "人事任免",
+ "summary": "吏部题广东布政使鲁超员缺，开列安徽按察使董昭宦等七员具奏，康熙帝令按察使内居官优者问九卿具奏。",
+ "people": [
+  {
+   "name": "鲁超",
+   "role": "广东布政使"
+  },
+  {
+   "name": "董昭宦",
+   "role": "安徽按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21323,
+ "page_range": "436-437"
+}

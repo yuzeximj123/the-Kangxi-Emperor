@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "十五日庚子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率皇太子诸皇子祭淑惠公主墓奠酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "淑惠公主墓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20932,
+ "page_range": "428-429"
+}

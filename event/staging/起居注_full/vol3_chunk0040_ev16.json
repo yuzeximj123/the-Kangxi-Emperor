@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十一日甲实",
+ "event_role": "人事任免",
+ "summary": "刑部尚书魏象枢以老病乞休，康熙帝称其素虽好名但居官年久勤劳职任，命批与优旨，仍着驰驿回籍。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "刑部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4016,
+ "page_range": "115-116"
+}

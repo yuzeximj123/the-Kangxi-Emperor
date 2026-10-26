@@ -1,0 +1,42 @@
+{
+ "reign_year": 39,
+ "month": 8,
+ "day_text": "初三日癸亥",
+ "event_role": "人事任免",
+ "summary": "吏部题编修裴之仙等议降四级调用，康熙帝询其为人，命裴之仙照所降之级休致，查责常哥、阿金泰各降四级随族行走。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "裴之仙",
+   "role": "编修"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "傅伸",
+   "role": "起居注官"
+  },
+  {
+   "name": "搂叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "常哥",
+   "role": "官员"
+  },
+  {
+   "name": "阿金泰",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16417,
+ "page_range": "338-339"
+}

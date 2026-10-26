@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "二十二日乙刻",
+ "event_role": "朝见受贺",
+ "summary": "是日，昌平州防守御庞楚尼、参将徐登甲、知州王光庶等来朝见。",
+ "people": [
+  {
+   "name": "庞楚尼",
+   "role": "昌平州防守御"
+  },
+  {
+   "name": "徐登甲",
+   "role": "参将"
+  },
+  {
+   "name": "王光庶",
+   "role": "昌平州知州"
+  }
+ ],
+ "places": [
+  "昌平州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15817,
+ "page_range": "328-329"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝评侍读学士布泰奏对平常，故不升其为学士，佟国维、马齐、索额图等议论内阁官员职守。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布泰",
+   "role": "侍读学士"
+  },
+  {
+   "name": "佟国维",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14602,
+ "page_range": "302-303"
+}

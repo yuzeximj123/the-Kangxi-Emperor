@@ -1,0 +1,25 @@
+{
+ "reign_year": 32,
+ "month": 3,
+ "day_text": "二十六日庚午",
+ "event_role": "人事任免",
+ "summary": "兵部题覆天津总兵官刘国轩荐霍县营守备张大受愿于边疆效力，康熙帝以其人材壮健善射，命以沿边游击员缺补用。",
+ "people": [
+  {
+   "name": "刘国轩",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "张大受",
+   "role": "霍县营守备"
+  }
+ ],
+ "places": [
+  "天津",
+  "霍县营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22919,
+ "page_range": "470-471"
+}

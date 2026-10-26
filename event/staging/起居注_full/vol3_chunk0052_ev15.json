@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初十日王寅",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝驻跸泰山顶上，泰安州知州陈宇魁、守备陈虎等来朝见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈宇魁",
+   "role": "泰安州知州"
+  },
+  {
+   "name": "陈虎",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "泰山顶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5215,
+ "page_range": "139-140"
+}

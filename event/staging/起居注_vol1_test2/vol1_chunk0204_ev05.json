@@ -1,0 +1,34 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "初二日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "内阁捧折本请旨招抚逆党事，康熙帝谕招抚敕书不必加胁从字样，应声明其罪许其归诚，以诚感召远人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "吴应麒",
+   "role": "逆党"
+  },
+  {
+   "name": "夏国相",
+   "role": "逆党"
+  },
+  {
+   "name": "王屏藩",
+   "role": "逆党"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20405,
+ "page_range": "465-466"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "福建提督张云贾请假六个月回籍省母，康熙帝以福建去陕西甚远，给假七个月料理，事毕即回本任。",
+ "people": [
+  {
+   "name": "张云贾",
+   "role": "福建提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6903,
+ "page_range": "148-149"
+}

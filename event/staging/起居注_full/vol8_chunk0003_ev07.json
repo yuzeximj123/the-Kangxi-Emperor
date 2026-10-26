@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "初二日庚成",
+ "event_role": "人事任免",
+ "summary": "理藩院题辅国公索诺穆达西遗本请以次子诺尔布盆楚克承袭公爵，康熙帝命收贮遗本，待诺尔布盆楚克到日再奏。",
+ "people": [
+  {
+   "name": "索诺穆达西",
+   "role": "辅国公"
+  },
+  {
+   "name": "诺尔布盆楚克",
+   "role": "索诺穆达西次子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 307,
+ "page_range": "17-18"
+}

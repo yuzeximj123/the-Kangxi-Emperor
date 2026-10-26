@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐等以补授员外郎何国柱事问赵申乔，赵称其人办事去得，覆请后康熙着改签进呈。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "何国柱",
+   "role": "补授员外郎"
+  },
+  {
+   "name": "赵申乔",
+   "role": "大臣"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16106,
+ "page_range": "333-334"
+}

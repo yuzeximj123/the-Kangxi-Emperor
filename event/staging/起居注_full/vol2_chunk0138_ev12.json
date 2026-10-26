@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十二日丁雍",
+ "event_role": "司法案件",
+ "summary": "兵部议将投诚复叛之宋国富、何德成、董清芳令督哈占速送京，康熙帝谕严拿解送。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋国富",
+   "role": "投诚复叛者"
+  },
+  {
+   "name": "何德成",
+   "role": "投诚复叛者"
+  },
+  {
+   "name": "董清芳",
+   "role": "投诚复叛者"
+  },
+  {
+   "name": "哈占",
+   "role": "督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13812,
+ "page_range": "319-320"
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议步军甘年与官学生七十八等角口被折手腕案，康熙帝以扭结至景山官学共殴可恶，令会同内务府严察议奏并查父兄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "甘年",
+   "role": "步军"
+  },
+  {
+   "name": "七十八",
+   "role": "官学生"
+  },
+  {
+   "name": "七格",
+   "role": "官学生"
+  },
+  {
+   "name": "谢尼",
+   "role": "分管官"
+  }
+ ],
+ "places": [
+  "景山官学",
+  "北山门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7110,
+ "page_range": "153-154"
+}

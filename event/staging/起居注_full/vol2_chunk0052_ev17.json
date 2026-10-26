@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十三日乙丑",
+ "event_role": "贸易漕运",
+ "summary": "户部议将京城米二十万石运至宣府、再酌运大同收贮预备，康熙帝命差才能司官会同该抚定议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京城",
+  "宣府",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5217,
+ "page_range": "147-148"
+}

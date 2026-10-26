@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "初六日己丑",
+ "event_role": "司法案件",
+ "summary": "兵部题镶黄旗八品官佛济保等在虎渡口退却议以功抵罪分别降级罚俸，康熙帝认为当初失利致贼势猖獗、耗费钱粮，命票出再行严议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛济保",
+   "role": "镶黄旗八品官"
+  }
+ ],
+ "places": [
+  "虎渡口",
+  "太平街"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19908,
+ "page_range": "441-442"
+}

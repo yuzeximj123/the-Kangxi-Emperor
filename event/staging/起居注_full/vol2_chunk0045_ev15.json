@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "二十二日乙雍",
+ "event_role": "朝见受贺",
+ "summary": "获州知州董廷因、城守营都司爹书茹畦等来朝。",
+ "people": [
+  {
+   "name": "董廷因",
+   "role": "获州知州"
+  },
+  {
+   "name": "爹书茹畦",
+   "role": "城守营都司"
+  }
+ ],
+ "places": [
+  "获州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4515,
+ "page_range": "133-134"
+}

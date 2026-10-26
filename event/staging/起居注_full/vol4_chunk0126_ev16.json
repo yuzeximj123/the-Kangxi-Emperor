@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 7,
+ "day_text": "初十日己亥",
+ "event_role": "皇帝行止",
+ "summary": "因孝懿皇后忌辰，康熙帝不御乾清门，部院各衙门奏章俱交送内阁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孝懿皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "内阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12616,
+ "page_range": "264-265"
+}

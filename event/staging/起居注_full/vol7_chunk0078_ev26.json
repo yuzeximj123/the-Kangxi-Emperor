@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "初一日壬寅",
+ "event_role": "军务",
+ "summary": "康熙帝命领侍卫内大臣公阿灵阿等监试钱士谷等马步射。",
+ "people": [
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "钱士谷",
+   "role": "汾州营守备"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7826,
+ "page_range": "167-168"
+}

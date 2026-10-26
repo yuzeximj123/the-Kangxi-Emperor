@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十八年五月初九日",
+ "reign_year": 48,
+ "month": 5,
+ "day": 9,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报处州所属彭子英等人起事的缘由。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "彭子英",
+   "role": "处州起事首领"
+  }
+ ],
+ "places": [
+  "苏州",
+  "处州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "苏州织造李煦奏处州所属彭子英等起事缘由折",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 457
+}

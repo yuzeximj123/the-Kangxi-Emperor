@@ -1,0 +1,40 @@
+{
+ "date_raw": "康熙四十九年十一月十一日",
+ "reign_year": 49,
+ "month": 11,
+ "day": 14,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就编纂诸书未列分纂诸臣及奉进表一事传旨，命将纂修、缮写、监造各员衔名无论革职已故通行开列补入书内。",
+ "people": [
+  {
+   "name": "张常住",
+   "role": "传旨官员"
+  },
+  {
+   "name": "和素",
+   "role": "传旨官员"
+  },
+  {
+   "name": "高舆",
+   "role": "原任大臣，参与考定纂辑"
+  },
+  {
+   "name": "查昇",
+   "role": "翰林，参与博采群书、酌定"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝，发布谕旨"
+  }
+ ],
+ "places": [
+  "武英殿"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "張常住等所傳諭旨一件",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "766",
+ "order_index": 70
+}

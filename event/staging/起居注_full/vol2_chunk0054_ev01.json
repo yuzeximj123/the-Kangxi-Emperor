@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "补授江宁佐领，正拟马思喀，陪拟博合理，康熙以博合理兄项吉有劳绩命补佐领。",
+ "people": [
+  {
+   "name": "马思喀",
+   "role": "拖沙喇哈番"
+  },
+  {
+   "name": "博合理",
+   "role": "笔帖式"
+  },
+  {
+   "name": "项吉",
+   "role": "博合理之兄"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5401,
+ "page_range": "151-152"
+}

@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十三年十一月初四日",
+ "reign_year": 53,
+ "month": 11,
+ "day": 4,
+ "event_role": "请安谢恩",
+ "summary": "广东提督总兵官王文雄向康熙帝请安，康熙帝朱批询问拿获海贼系何处人，并要求以后奏折须奏闻。",
+ "people": [
+  {
+   "name": "王文雄",
+   "role": "广东提督总兵官"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝询问拿获海贼系何处人，并要求以后奏折须奏闻。",
+ "source_title": "廣東提督王文雄請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1674",
+ "order_index": 315
+}

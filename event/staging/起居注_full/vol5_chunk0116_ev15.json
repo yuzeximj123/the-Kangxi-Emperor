@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "二十一日丙午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令喀伦驿站与土木驿站各移文费扬古，报明兵至何处及何时至土喇、巴颜乌兰。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "翁金",
+  "土喇",
+  "巴颜乌兰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11615,
+ "page_range": "242-243"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": "初十日壬寅",
+ "event_role": "河工水利",
+ "summary": "康熙论张福口地势高清水难出，问李楠、张壹，二人奏所见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李楠",
+   "role": "侍郎"
+  },
+  {
+   "name": "张壹",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "烂泥浅",
+  "张福口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15224,
+ "page_range": "314-315"
+}

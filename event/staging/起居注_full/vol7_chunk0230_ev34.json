@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 9,
+ "day_text": "十七日丁丁",
+ "event_role": "司法案件",
+ "summary": "覆请刑部等衙门议山西巡抚苏克济所题流民陈四等未从管属地方经过、请免查参驱回事，康熙帝以陈四等各处流移糊口，命再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "陈四",
+   "role": "流民"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23034,
+ "page_range": "471-472"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "十二日辛西",
+ "event_role": "司法案件",
+ "summary": "强盗王四等拟即正法，康熙帝依议，并嘉奖把总邹应渔擒贼授为千总。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王四",
+   "role": "强盗"
+  },
+  {
+   "name": "邹应渔",
+   "role": "把总"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2410,
+ "page_range": "59-60"
+}

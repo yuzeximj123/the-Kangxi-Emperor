@@ -1,0 +1,34 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "皇长子等奏报遵康熙谕旨沿途节次存粮、拨给两路大兵米面，并移文于成龙接续运粮。",
+ "people": [
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "噶礼",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "克勒和朔",
+  "特勒尔即",
+  "拖陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14201,
+ "page_range": "294-295"
+}

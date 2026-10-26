@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十九日已亥",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问李铺病情，伊桑阿奏其病愈能行动，帝命补授安徽巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李铺",
+   "role": "候补官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6509,
+ "page_range": "140-141"
+}

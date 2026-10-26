@@ -1,0 +1,32 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "初八日六已",
+ "event_role": "河工水利",
+ "summary": "靳辅辩称并无阻挠下河工程之意，指慕天颜、孙在丰朋谋排挤，二人系亲家为董讷所知。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "慕天颜",
+   "role": "官员"
+  },
+  {
+   "name": "孙在丰",
+   "role": "官员"
+  },
+  {
+   "name": "董讷",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1416,
+ "page_range": "40-41"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "初四日庚申",
+ "event_role": "谕旨决策",
+ "summary": "甘肃巡抚伊图朴请来京陛见请安，康熙帝以其见各官具奏始行题请不合，着严饬不必来京陛见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊图",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13616,
+ "page_range": "284-285"
+}

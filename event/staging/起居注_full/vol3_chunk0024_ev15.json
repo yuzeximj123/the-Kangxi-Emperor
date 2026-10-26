@@ -1,0 +1,38 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "初一日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部题福建总督施维翰病故员缺请旨，康熙帝命以王国安调补，浙江总督停其补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "施维翰",
+   "role": "福建总督"
+  },
+  {
+   "name": "施琅",
+   "role": "提督"
+  },
+  {
+   "name": "王国安",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "衢州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2415,
+ "page_range": "83-84"
+}

@@ -1,0 +1,31 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "提督徐治都奏报重庆志州绿旗官兵多患伤寒，康熙帝命其所属官兵速回湖广。",
+ "people": [
+  {
+   "name": "徐治都",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈占",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "重庆",
+  "志州",
+  "四川",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8801,
+ "page_range": "219-220"
+}

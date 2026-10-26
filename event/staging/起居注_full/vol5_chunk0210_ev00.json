@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政大臣等议根都西下布派兵不选有马兵丁、擅减兵额，拟革退贝子及扎萨克，奉旨着议政大臣会议具奏。",
+ "people": [
+  {
+   "name": "根都西下布",
+   "role": "贝子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "尔纪胡地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21000,
+ "page_range": "430-431"
+}

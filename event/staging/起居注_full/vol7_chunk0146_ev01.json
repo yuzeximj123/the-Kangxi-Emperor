@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部奏查喜儿打死巴哈连事迟延原由，康熙帝以其迟延不合，命交都察院严察议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喜儿",
+   "role": "案犯"
+  },
+  {
+   "name": "巴哈连",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14601,
+ "page_range": "303-304"
+}

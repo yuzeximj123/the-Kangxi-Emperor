@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "礼部请示原任刑部侍郎宋文运是否给谥，康熙以其素日清廉，命给谥。",
+ "people": [
+  {
+   "name": "宋文运",
+   "role": "原任刑部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7501,
+ "page_range": "185-186"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "十一日甲子",
+ "event_role": "朝见受贺",
+ "summary": "仓场侍郎马涩戏、通永道霍炳、通州副将康国臣等来朝。",
+ "people": [
+  {
+   "name": "马涩戏",
+   "role": "仓场侍郎"
+  },
+  {
+   "name": "霍炳",
+   "role": "通永道"
+  },
+  {
+   "name": "康国臣",
+   "role": "通州副将"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4226,
+ "page_range": "127-128"
+}

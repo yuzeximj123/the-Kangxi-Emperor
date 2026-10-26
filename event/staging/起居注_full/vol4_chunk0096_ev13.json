@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "二十日壬午",
+ "event_role": "谕旨决策",
+ "summary": "康熙论救荒须先时预备，责问九卿督抚未早言灾情，诸臣称颂皇上先见之明。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赛胸汉",
+   "role": "户部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9613,
+ "page_range": "204-205"
+}

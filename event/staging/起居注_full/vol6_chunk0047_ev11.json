@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "十二日甲申",
+ "event_role": "谕旨决策",
+ "summary": "户部覆总渚格题建平县粳米改运籼米议不准，康熙帝以于百姓有益，命问户部堂官及仓场侍郎具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "总渚格",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "建平县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4711,
+ "page_range": "104-105"
+}

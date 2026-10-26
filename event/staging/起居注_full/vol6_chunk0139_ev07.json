@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "十一日乙雍",
+ "event_role": "司法案件",
+ "summary": "刑部等题废官华色殴打佐领兼散骑郎双全拟发黑龙江，康熙帝以其屡次行凶殴人，命该部另议具奏。",
+ "people": [
+  {
+   "name": "华色",
+   "role": "废官"
+  },
+  {
+   "name": "双全",
+   "role": "佐领兼散骑郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13907,
+ "page_range": "288-289"
+}

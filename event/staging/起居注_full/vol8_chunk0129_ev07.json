@@ -1,0 +1,36 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "初八日已已",
+ "event_role": "司法案件",
+ "summary": "礼部因御史董之料参劾储在文等，请提刘谦、竟蕉业等至京质审，以折子交奏事双全等转奏。",
+ "people": [
+  {
+   "name": "董之料",
+   "role": "御史"
+  },
+  {
+   "name": "储在文",
+   "role": "同考官"
+  },
+  {
+   "name": "刘谦",
+   "role": "官员"
+  },
+  {
+   "name": "竟蕉业",
+   "role": "官员"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12907,
+ "page_range": "269-270"
+}

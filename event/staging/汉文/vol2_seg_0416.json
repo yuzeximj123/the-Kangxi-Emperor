@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十八年三月初四日",
+ "reign_year": 48,
+ "month": 3,
+ "day": 4,
+ "event_role": "司法案件",
+ "summary": "江宁织造曹寅奏报江西刘名扬等人聚众欲图劫狱等情。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造，奏报人"
+  },
+  {
+   "name": "刘名扬",
+   "role": "江西聚众欲图劫狱者"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江西"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江宁织造曹寅奏报江西刘名扬等聚众欲图劫狱等情折（康熙四十八年三月初四日）",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 416
+}

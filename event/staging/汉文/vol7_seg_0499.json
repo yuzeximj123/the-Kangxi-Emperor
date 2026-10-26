@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙五十六年八月初一日",
+ "reign_year": 56,
+ "month": 8,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "偏沅巡抚李发甲奏报湖南中晚二禾均获十分收成、米价每石五钱至六钱，并报地方丰稔民苗乐业情形。",
+ "people": [
+  {
+   "name": "李发甲",
+   "role": "偏沅巡抚，奏报人"
+  },
+  {
+   "name": "宋致",
+   "role": "布政使，详报收成米价"
+  },
+  {
+   "name": "李任",
+   "role": "臣标右营千总，赍折差官"
+  },
+  {
+   "name": "李祥",
+   "role": "家人，赍折差官"
+  }
+ ],
+ "places": [
+  "湖南",
+  "偏沅"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好、所报已知，并指出奏折中“施行”二字用法不合。",
+ "source_title": "偏沅巡撫李發甲奏報中晚二禾收成分數米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2510",
+ "order_index": 499
+}

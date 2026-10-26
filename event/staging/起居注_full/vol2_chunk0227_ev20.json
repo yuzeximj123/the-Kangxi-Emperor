@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "初十日本未",
+ "event_role": "谕旨决策",
+ "summary": "礼部请旨原任经略莫洛应否与谥，康熙帝采纳明珠意见，以莫洛为国效力被同行提督反叛致命，命给与谥号。",
+ "people": [
+  {
+   "name": "莫洛",
+   "role": "原任经略"
+  },
+  {
+   "name": "陈福",
+   "role": "原任提督"
+  },
+  {
+   "name": "王辅臣",
+   "role": "提督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22720,
+ "page_range": "497-498"
+}

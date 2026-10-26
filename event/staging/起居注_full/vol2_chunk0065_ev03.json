@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "山西偏关等处参将员缺，掣签拟马子云补授，康熙帝称偏关非要地，命拣选内地要缺补授马子云。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马子云",
+   "role": "拟补参将"
+  }
+ ],
+ "places": [
+  "山西",
+  "偏关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6503,
+ "page_range": "173-174"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "广西巡抚陈元龙请训旨，康熙帝训以文武和睦、兵民相安、不时操练，并许其缮折请旨。",
+ "people": [
+  {
+   "name": "陈元龙",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18410,
+ "page_range": "379-380"
+}

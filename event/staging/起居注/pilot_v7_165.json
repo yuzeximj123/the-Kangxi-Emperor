@@ -1,0 +1,25 @@
+{
+ "date_raw": "十一日丙寅",
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "十一日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝朱批谕兵部，许凤人材矫健，着暂留京用于近海要地，仍食副将俸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许凤",
+   "role": "云南副将"
+  }
+ ],
+ "places": [
+  "京",
+  "近海要地"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3165
+}

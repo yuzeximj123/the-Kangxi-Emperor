@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝称阿尔法原任御史其人颇优，命将阿尔法、海宝、塞尔图充日讲起居注官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔法",
+   "role": "原任御史"
+  },
+  {
+   "name": "海宝",
+   "role": "官员"
+  },
+  {
+   "name": "塞尔图",
+   "role": "洗马"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5702,
+ "page_range": "125-126"
+}

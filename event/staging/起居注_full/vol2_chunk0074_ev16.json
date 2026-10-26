@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "十七日丁酉",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御瀛台门听部院各衙门官员面奏政事，问刑部尚书魏象枢等部中事件。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "刑部尚书"
+  }
+ ],
+ "places": [
+  "瀛台门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7416,
+ "page_range": "191-192"
+}

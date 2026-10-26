@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "未时",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论山西各官，称高启桂、李艇柱尚在效力，李艇柱详明练达，并斥保举引朋欺上之风。",
+ "people": [
+  {
+   "name": "高启桂",
+   "role": "道员，新升河南按察使"
+  },
+  {
+   "name": "李艇柱",
+   "role": "道员"
+  },
+  {
+   "name": "于成龙",
+   "role": "曾任用者"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7923,
+ "page_range": "169-170"
+}

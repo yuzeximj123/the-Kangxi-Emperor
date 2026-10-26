@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "二十九日甲成",
+ "event_role": "弹劾参奏",
+ "summary": "云贵总督巴锡题参威宁总兵官重大志扰害官兵，康熙帝命差大臣察审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "云贵总督"
+  },
+  {
+   "name": "重大志",
+   "role": "威宁总兵官"
+  }
+ ],
+ "places": [
+  "威宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5515,
+ "page_range": "121-122"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "二十一日己巳",
+ "event_role": "朝见受贺",
+ "summary": "收木税理藩院员外觉罗莫理布、知县朱英、守备黄国卿等来朝见。",
+ "people": [
+  {
+   "name": "觉罗莫理布",
+   "role": "理藩院员外"
+  },
+  {
+   "name": "朱英",
+   "role": "知县"
+  },
+  {
+   "name": "黄国卿",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19003,
+ "page_range": "391-392"
+}

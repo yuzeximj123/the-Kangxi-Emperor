@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": "二十日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称姚淳琳品行甚劣，并评价历年来学政惟董讷所行为佳，直隶学院李应应亦优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚淳琳",
+   "role": "湖广学道"
+  },
+  {
+   "name": "董讷",
+   "role": "学政"
+  },
+  {
+   "name": "李应应",
+   "role": "直隶学院"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25211,
+ "page_range": "539-540"
+}

@@ -1,0 +1,48 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "二十六日癸酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝批评现时讲官不肯读书、讲章草率，命将可用之人问明翰林院具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "史大成",
+   "role": "前讲官"
+  },
+  {
+   "name": "宋德宜",
+   "role": "前讲官"
+  },
+  {
+   "name": "徐元文",
+   "role": "前讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "前讲官"
+  },
+  {
+   "name": "张英",
+   "role": "前讲官"
+  },
+  {
+   "name": "王多绪",
+   "role": "前讲官"
+  },
+  {
+   "name": "沈荃",
+   "role": "前讲官"
+  }
+ ],
+ "places": [
+  "翰林院"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22509,
+ "page_range": "485-486"
+}

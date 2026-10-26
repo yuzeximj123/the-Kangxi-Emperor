@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "十四日辛丑",
+ "event_role": "人事任免",
+ "summary": "引见侍读明图、侍讲传继祖、郎中三宝，康熙帝询问明图，明珠称其翻译尚优，遂命明图升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "明图",
+   "role": "侍读，升补"
+  },
+  {
+   "name": "传继祖",
+   "role": "侍讲"
+  },
+  {
+   "name": "三宝",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11409,
+ "page_range": "263-264"
+}

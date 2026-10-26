@@ -1,0 +1,33 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "二十日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕山西巡抚倭伦、陕西巡抚党爱、甘肃巡抚郭洪，说明亲征缘由及体恤民生、禁止扰累科派之意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "党爱",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "郭洪",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "大同",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19209,
+ "page_range": "394-395"
+}

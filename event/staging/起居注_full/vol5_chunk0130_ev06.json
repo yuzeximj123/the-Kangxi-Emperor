@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "初九日甲子",
+ "event_role": "人事任免",
+ "summary": "大学士伊桑阿以绿头签启奏派大臣管领所留之兵，奉旨以内大臣阿密达充将军，胡什巴沙讲、阿山为参谋。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿密达",
+   "role": "内大臣、将军"
+  },
+  {
+   "name": "胡什巴沙讲",
+   "role": "副都统"
+  },
+  {
+   "name": "阿山",
+   "role": "左副都御史、参谋"
+  }
+ ],
+ "places": [
+  "克勒和朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13006,
+ "page_range": "270-271"
+}

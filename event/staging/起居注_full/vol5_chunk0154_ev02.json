@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "福州城守尉舒书补授宁古塔副都统，员外郎鄂里宣旨误传，部议降二级，康熙帝改为革职交该王当下贱差役。",
+ "people": [
+  {
+   "name": "舒书",
+   "role": "福州城守尉"
+  },
+  {
+   "name": "鄂里",
+   "role": "员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福州",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15402,
+ "page_range": "318-319"
+}

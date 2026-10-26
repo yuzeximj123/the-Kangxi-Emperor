@@ -1,0 +1,40 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "明珠奏察卫明德始末，康熙帝谕随征之人不宜留地方，命于票签内票明申饬。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "卫明德",
+   "role": "镶蓝旗包衣佐领护军"
+  },
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "祥布",
+   "role": "署护军统领"
+  },
+  {
+   "name": "伊永寿",
+   "role": "医药房书办"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24403,
+ "page_range": "545-546"
+}

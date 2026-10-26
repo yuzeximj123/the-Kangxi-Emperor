@@ -1,0 +1,53 @@
+{
+ "date_raw": "康熙四十二年九月初二日",
+ "reign_year": 42,
+ "month": 9,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "大学士伊桑阿等率众臣恭谢皇上南巡恩泽及远传温谕赐问平安。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "奏报人"
+  },
+  {
+   "name": "王熙",
+   "role": "联署人"
+  },
+  {
+   "name": "张清标",
+   "role": "联署人"
+  },
+  {
+   "name": "拜礼",
+   "role": "联署人"
+  },
+  {
+   "name": "迈图",
+   "role": "联署人"
+  },
+  {
+   "name": "索诺和",
+   "role": "联署人"
+  },
+  {
+   "name": "彭孙遹",
+   "role": "联署人"
+  },
+  {
+   "name": "郭琇",
+   "role": "联署人"
+  }
+ ],
+ "places": [
+  "齐鲁",
+  "扬吴"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "1",
+ "source_title": "大学士伊桑阿等奏谢温谕恩问平安摺",
+ "order_index": 0
+}

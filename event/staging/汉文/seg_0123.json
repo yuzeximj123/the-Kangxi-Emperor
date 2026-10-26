@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙肆拾伍年肆月貳拾貳日",
+ "reign_year": 45,
+ "month": 4,
+ "day": 22,
+ "event_role": "奏报灾情收成",
+ "summary": "江西巡抚郎廷极奏报当地春夏豆麦菜子丰收、禾苗茂盛，省城米价由灾年腾贵渐减至七钱余，百姓乐业。",
+ "people": [
+  {
+   "name": "郎廷極",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江西",
+  "江右",
+  "省城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知奏报内容。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": null,
+ "order_index": 123
+}

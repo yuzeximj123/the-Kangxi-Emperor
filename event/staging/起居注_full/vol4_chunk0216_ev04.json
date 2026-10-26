@@ -1,0 +1,26 @@
+{
+ "reign_year": 31,
+ "month": 11,
+ "day_text": "二十四日己巳",
+ "event_role": "人事任免",
+ "summary": "吏部题总河靳辅员缺，开列侍郎布颜图等职名，康熙以河工为要，令问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "布颜图",
+   "role": "本部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21604,
+ "page_range": "444-445"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部议覆两广总督赵弘灿题碣石总兵官陆臣扬查海遇风坏船溺死官兵事，康熙帝以风浪非人力可御，令免行查。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "两广总督"
+  },
+  {
+   "name": "陆臣扬",
+   "role": "碣石总兵官"
+  },
+  {
+   "name": "把叙",
+   "role": "起居注官左都御史"
+  }
+ ],
+ "places": [
+  "碣石",
+  "密云"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7106,
+ "page_range": "153-154"
+}

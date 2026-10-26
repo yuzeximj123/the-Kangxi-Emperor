@@ -1,0 +1,40 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "十六日庚午",
+ "event_role": "人事任免",
+ "summary": "会题福建按察使孔兴洪身故员缺，康熙帝询问后命田庆曾升补福建按察使。",
+ "people": [
+  {
+   "name": "孔兴洪",
+   "role": "福建按察使"
+  },
+  {
+   "name": "田庆曾",
+   "role": "河北道"
+  },
+  {
+   "name": "高成美",
+   "role": "淮扬道"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14907,
+ "page_range": "333-334"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "三十日庚子",
+ "event_role": "人事任免",
+ "summary": "吏部题直隶巡抚于成龙升任员缺，开列学士布泰等职名，康熙帝命李光地调补直隶巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "布泰",
+   "role": "学士"
+  },
+  {
+   "name": "李光地",
+   "role": "调补直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6511,
+ "page_range": "140-141"
+}

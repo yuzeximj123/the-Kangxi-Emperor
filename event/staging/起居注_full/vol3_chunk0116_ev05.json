@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "四川巡抚韩世琦参酉阳土司运解楠木迟延，部议免议，康熙帝斥韩世琦居官狼藉、前后推诿，交吏部严加议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩世琦",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "被引为对比的官员"
+  }
+ ],
+ "places": [
+  "四川",
+  "酉阳",
+  "偏沅",
+  "湖广",
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11605,
+ "page_range": "267-268"
+}

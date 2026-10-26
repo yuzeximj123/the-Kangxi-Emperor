@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "三十日甲实",
+ "event_role": "人事任免",
+ "summary": "礼部镶黄旗主事折库纳员缺，康熙帝命于该旗保举过笔帖式内将年久者补授。",
+ "people": [
+  {
+   "name": "折库纳",
+   "role": "礼部镶黄旗主事"
+  },
+  {
+   "name": "永存",
+   "role": "拟正助教"
+  },
+  {
+   "name": "随哈",
+   "role": "拟陪兵科笔帖式"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14710,
+ "page_range": "304-305"
+}

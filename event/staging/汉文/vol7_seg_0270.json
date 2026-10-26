@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙伍拾伍年拾壹月拾伍日",
+ "reign_year": 55,
+ "month": 11,
+ "day": 15,
+ "event_role": "军务",
+ "summary": "甘肃提督师懿德奏谢钦赐御佩宝珍及园场鲜味，并请旨以宁夏总兵范时捷统领宁夏官兵预备进剿。",
+ "people": [
+  {
+   "name": "师懿德",
+   "role": "甘肃提督总兵官，奏折作者"
+  },
+  {
+   "name": "范时捷",
+   "role": "宁夏总兵，被奏请统领宁夏官兵"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "宁夏"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并指出宁夏一镇关系不轻，且多一支兵即多费一分粮。",
+ "type": "json_object",
+ "source_title": "甘肃提督师懿德奏谢钦赐御佩宝珍园场鲜味并请旨事折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 270
+}

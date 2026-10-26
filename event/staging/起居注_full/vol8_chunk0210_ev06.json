@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "张圣佐奏贼首亢挺捕急自尽、获贼党八人，冯君洗奏获贼党十二人并招出良民一千零八十户还业；康熙帝令票知道了，虑贼寇滋蔓拟差大臣前往。",
+ "people": [
+  {
+   "name": "亢挺",
+   "role": "贼首"
+  },
+  {
+   "name": "张圣佐",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "冯君洗",
+   "role": "总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21006,
+ "page_range": "431-432"
+}

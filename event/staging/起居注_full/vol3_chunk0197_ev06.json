@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "初十日庚寅",
+ "event_role": "人事任免",
+ "summary": "吏部题郎中萨毕图升任员缺，拟以户部员外郎恩格礼拟正、巢可托拟陪，康熙帝询问后准以恩格礼升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "葛思泰",
+   "role": "学士"
+  },
+  {
+   "name": "萨毕图",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "恩格礼",
+   "role": "户部员外郎"
+  },
+  {
+   "name": "巢可托",
+   "role": "本部员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19706,
+ "page_range": "429-430"
+}

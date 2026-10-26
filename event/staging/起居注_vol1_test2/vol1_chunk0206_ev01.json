@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "初九日庚子",
+ "event_role": "人事任免",
+ "summary": "兵部议镇番副将达尔虎因菊人侵犯应降一级调用，康熙帝令降一级留任。",
+ "people": [
+  {
+   "name": "达尔虎",
+   "role": "镇番副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "镇番"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20601,
+ "page_range": "469-470"
+}

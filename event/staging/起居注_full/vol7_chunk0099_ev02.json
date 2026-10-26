@@ -1,0 +1,42 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追论鳌拜、遏必隆因圈地事杀苏纳海、朱昌祚、王登联冤苦，称此等事所不忍行，朱昌祚不当杀亦不当治罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鳌拜",
+   "role": "辅政大臣"
+  },
+  {
+   "name": "遏必隆",
+   "role": "辅政大臣"
+  },
+  {
+   "name": "苏纳海",
+   "role": "尚书"
+  },
+  {
+   "name": "朱昌祚",
+   "role": "总督"
+  },
+  {
+   "name": "王登联",
+   "role": "巡抚"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9902,
+ "page_range": "209-210"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "呈进侍读学士员缺考试应升官员各卷，康熙帝逐一阅毕，命开列名次送进，并询问郎中化粥汉情况。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "化粥汉",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21703,
+ "page_range": "477-478"
+}

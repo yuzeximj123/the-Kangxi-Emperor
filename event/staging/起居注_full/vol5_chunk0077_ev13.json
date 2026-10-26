@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "十二日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问古北口总兵官何应元行事，伊桑阿称其名声不好，康熙帝命回京后启奏定夺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "何应元",
+   "role": "古北口总兵官"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7713,
+ "page_range": "164-165"
+}

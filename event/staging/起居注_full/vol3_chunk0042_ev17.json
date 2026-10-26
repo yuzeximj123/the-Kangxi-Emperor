@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十七日庚申",
+ "event_role": "人事任免",
+ "summary": "吏部题补本部升任郎中范承勋员缺，拟王道钻正、毕兴林陪，康熙以王道钻谨厚补授郎中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "郎中"
+  },
+  {
+   "name": "王道钻",
+   "role": "员外郎"
+  },
+  {
+   "name": "毕兴林",
+   "role": "拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4217,
+ "page_range": "119-120"
+}

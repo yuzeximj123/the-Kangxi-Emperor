@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "十八日乙未",
+ "event_role": "奏报灾情收成",
+ "summary": "户部覆巡抚宋苹题淮安扬州所属盐城等州县水灾请入版荒册籍，议不准行，康熙帝令察议该抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋苹",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "淮安",
+  "扬州",
+  "盐城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1107,
+ "page_range": "32-33"
+}

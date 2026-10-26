@@ -1,0 +1,44 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "初三日壬辰",
+ "event_role": "司法案件",
+ "summary": "刑部覆审湖广鼓噪兵丁王贵等拟立决，康熙命首犯王贵等立斩，从犯依拟监候秋后处决，并处分相关官员。",
+ "people": [
+  {
+   "name": "吴进泰",
+   "role": "郎中"
+  },
+  {
+   "name": "王贵",
+   "role": "首犯兵丁"
+  },
+  {
+   "name": "王汉杰",
+   "role": "从犯兵丁"
+  },
+  {
+   "name": "董廷思",
+   "role": "官员"
+  },
+  {
+   "name": "施世纶",
+   "role": "官员"
+  },
+  {
+   "name": "董昭入",
+   "role": "官员"
+  },
+  {
+   "name": "俞益席",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9408,
+ "page_range": "199-200"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部覆请江南提督杜呈泗参奏守备金愤侵占兵产夺取民财一案，康熙帝命将金愤革职，由该督审明具奏。",
+ "people": [
+  {
+   "name": "杜呈泗",
+   "role": "江南提督"
+  },
+  {
+   "name": "金愤",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10200,
+ "page_range": "215-216"
+}

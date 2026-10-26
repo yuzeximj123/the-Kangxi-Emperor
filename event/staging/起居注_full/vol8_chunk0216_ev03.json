@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论陕西回河南经过陕州未见藏盗之处，亢班作乱因长吏不肖、知县滥派，又闻白莲教欲为乱，主张预知备办、速闻各省事。",
+ "people": [
+  {
+   "name": "亢班",
+   "role": "作乱者"
+  }
+ ],
+ "places": [
+  "陕西",
+  "河南",
+  "陕州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21603,
+ "page_range": "443-444"
+}

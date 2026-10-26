@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "二十三日己巳",
+ "event_role": "弹劾参奏",
+ "summary": "湖广总督徐国相题参武昌府同知亢从时等三员贪禁事，康熙帝称总督巡抚才至地方便参劾所属，前已有旨。",
+ "people": [
+  {
+   "name": "徐国相",
+   "role": "湖广总督"
+  },
+  {
+   "name": "亢从时",
+   "role": "武昌府同知"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "武昌府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3233,
+ "page_range": "99-100"
+}

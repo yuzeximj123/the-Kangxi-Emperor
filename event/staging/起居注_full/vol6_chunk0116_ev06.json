@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙欲令王新命管理永定河事，伊桑阿等奏称王新命于河工能节省钱粮，必有益。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "河工官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11606,
+ "page_range": "242-243"
+}

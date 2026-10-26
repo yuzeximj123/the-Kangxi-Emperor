@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "十九日己巳",
+ "event_role": "谕旨决策",
+ "summary": "户部题山西巡抚噶尔图请将平阳府等处未完钱粮分年征收议不准行，康熙帝以山陕百姓连被灾荒，着将未完银两米豆概免征收。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔图",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西",
+  "平阳府",
+  "山陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1214,
+ "page_range": "34-35"
+}

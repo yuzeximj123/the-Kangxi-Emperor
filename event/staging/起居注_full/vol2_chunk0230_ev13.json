@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十七日甲寅",
+ "event_role": "司法案件",
+ "summary": "广东强盗朱振声等五十四人合伙劫财杀伤多命拟立斩，康熙帝命三十六人依部议，十八人念系自首改拟斩监候。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱振声",
+   "role": "强盗"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23013,
+ "page_range": "503-504"
+}

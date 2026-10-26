@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝驳回化艇荣为云南官民市恩徇情的奏请，称吴三桂若成事则伊等岂非有功之人，断不可准。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "化艇荣",
+   "role": "奏请官员"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15200,
+ "page_range": "347-348"
+}

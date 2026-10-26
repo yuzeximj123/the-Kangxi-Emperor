@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": "二十七日庚辰",
+ "event_role": "人事任免",
+ "summary": "吏部议覆赵弘党请留丁忧服满王多吉、丁忧离任梁国珍于河工效力永为定例，议不准行，康熙令照督所请行。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "总督管理直隶巡抚事"
+  },
+  {
+   "name": "王多吉",
+   "role": "原任主敌丁忧服满"
+  },
+  {
+   "name": "梁国珍",
+   "role": "原任县丞"
+  }
+ ],
+ "places": [
+  "河工"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19321,
+ "page_range": "397-398"
+}

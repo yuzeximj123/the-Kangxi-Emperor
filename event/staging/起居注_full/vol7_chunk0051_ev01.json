@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "初四日己卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自桃源登舟巡视河堤，指出桃源烟墩至龙窝一带堤工卑矮应加高。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "桃源",
+  "烟墩",
+  "龙窝"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5101,
+ "page_range": "113-114"
+}

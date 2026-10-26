@@ -1,0 +1,33 @@
+{
+ "reign_year": 56,
+ "month": 1,
+ "day_text": "二十八日癸未",
+ "event_role": "人事任免",
+ "summary": "马齐等遵旨以江苏布政司员缺问九卿，九卿举出福建按察司董永芝等七人；康熙帝问张伯行是否知其中按察司七员。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "董永芝",
+   "role": "福建按察司"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江苏",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17411,
+ "page_range": "359-360"
+}

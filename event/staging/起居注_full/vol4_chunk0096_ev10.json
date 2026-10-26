@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "二十日壬午",
+ "event_role": "议政听政",
+ "summary": "康熙询问户部尚书王攻米价腾贵缘由，王攻奏登州米价未贵，西三府近运河故因搬运腾贵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王攻",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [
+  "登州",
+  "曲阜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9610,
+ "page_range": "204-205"
+}

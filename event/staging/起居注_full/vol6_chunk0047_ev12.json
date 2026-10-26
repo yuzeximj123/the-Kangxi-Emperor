@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "十二日甲申",
+ "event_role": "人事任免",
+ "summary": "兵部覆奉天副都统称泰年老患病乞解任议准，康熙帝以其欲幸盛京时奏请不合，命该部察议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "称泰",
+   "role": "奉天副都统"
+  }
+ ],
+ "places": [
+  "奉天",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4712,
+ "page_range": "104-105"
+}

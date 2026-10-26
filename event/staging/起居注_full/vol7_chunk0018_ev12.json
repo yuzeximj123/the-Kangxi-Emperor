@@ -1,0 +1,38 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初八日戊午",
+ "event_role": "人事任免",
+ "summary": "吏部侍郎徐乘义员缺，康熙帝命刑部侍郎吴涵调补吏部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐乘义",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "王封泽",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "许汝霖",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "吴涵",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1812,
+ "page_range": "47-48"
+}

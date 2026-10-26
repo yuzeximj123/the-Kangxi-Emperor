@@ -1,0 +1,29 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初一日壬申",
+ "event_role": "朝见受贺",
+ "summary": "杭州副都统丹代、广东副都统俄纶代奏请训旨，康熙帝问其启行日期并谕谨慎勤职、教习兵丁骑射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "丹代",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "俄纶代",
+   "role": "广东副都统"
+  }
+ ],
+ "places": [
+  "杭州",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2813,
+ "page_range": "68-69"
+}

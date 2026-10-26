@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "十二日垃未",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题海贼唐阿喜等照律立决枭示，康熙帝令照前例将造意为首杀伤者一二人正法，余减等发往黑龙江。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "唐阿喜",
+   "role": "海贼"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14421,
+ "page_range": "299-300"
+}

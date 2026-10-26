@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "十六日乙未",
+ "event_role": "皇帝行止",
+ "summary": "康熙御乾清宫，讲官库勒纳、叶方议、孙在丰进讲恒卦两节。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方议",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8427,
+ "page_range": "211-212"
+}

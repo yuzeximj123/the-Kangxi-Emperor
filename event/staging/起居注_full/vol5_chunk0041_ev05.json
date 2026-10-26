@@ -1,0 +1,37 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十二日丁效",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御文华殿举行经筵大典，讲官库勒纳、彭孙通讲《四书》，传腊塔、张英讲《书经》，毕后宴于太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "彭孙通",
+   "role": "讲官"
+  },
+  {
+   "name": "传腊塔",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4105,
+ "page_range": "92-93"
+}

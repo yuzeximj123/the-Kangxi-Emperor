@@ -1,0 +1,42 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十九日两子",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士席尔达员缺，康熙帝以顾巴代为人优、语言耿直，命补用此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "内阁学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "色勒布",
+   "role": "侍读学士"
+  },
+  {
+   "name": "翁英",
+   "role": "侍读学士"
+  },
+  {
+   "name": "赛必汉",
+   "role": "官员"
+  },
+  {
+   "name": "顾巴代",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10618,
+ "page_range": "247-248"
+}

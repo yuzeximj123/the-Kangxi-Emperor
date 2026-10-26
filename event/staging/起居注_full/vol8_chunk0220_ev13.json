@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初三日癸丑",
+ "event_role": "司法案件",
+ "summary": "覆请刑部议覆赵弘党所题王禧凤绑缚扼喉致死杨文甫拟绞监候案，康熙帝谓明系故杀，命会同三法司速议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘党",
+   "role": "总督管理直隶巡抚事务"
+  },
+  {
+   "name": "杨文甫",
+   "role": "案犯"
+  },
+  {
+   "name": "王禧凤",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22013,
+ "page_range": "451-452"
+}

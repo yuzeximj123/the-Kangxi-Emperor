@@ -1,0 +1,29 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初二日丙成",
+ "event_role": "奏报地方情形",
+ "summary": "明珠等奏遵旨问尚书达哈塔，达哈塔称在京师曾闻总督王国安行迹不善，到福建仅住三日未便问其行迹善否。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "达哈塔",
+   "role": "尚书"
+  },
+  {
+   "name": "王国安",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "福建",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15120,
+ "page_range": "337-338"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "十一日丁雍",
+ "event_role": "人事任免",
+ "summary": "吏部题补汉军内阁侍读学士员缺，康熙帝询问祝钟灵、邵凤翔，令内阁会同吏部选择具奏。",
+ "people": [
+  {
+   "name": "祝钟灵",
+   "role": "拟正监察御史"
+  },
+  {
+   "name": "邵凤翔",
+   "role": "拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "金放祥",
+   "role": "内阁官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12622,
+ "page_range": "295-296"
+}

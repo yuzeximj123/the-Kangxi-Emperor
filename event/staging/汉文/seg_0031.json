@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙三十九年十月十一日",
+ "reign_year": 39,
+ "month": 10,
+ "day": 11,
+ "event_role": "请安谢恩",
+ "summary": "高士奇致仕后向皇上、皇太后及众阿哥请安，并进献金华茶以表诚心。",
+ "people": [
+  {
+   "name": "高士奇",
+   "role": "奏报人"
+  }
+ ],
+ "places": [
+  "金华"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "35",
+ "source_title": "致仕高士奇奏进金华枣折",
+ "order_index": 31
+}

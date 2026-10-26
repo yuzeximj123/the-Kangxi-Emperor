@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记录起居注官塞尔图、沈搬垣。",
+ "people": [
+  {
+   "name": "塞尔图",
+   "role": "起居注官"
+  },
+  {
+   "name": "沈搬垣",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13304,
+ "page_range": "277-278"
+}

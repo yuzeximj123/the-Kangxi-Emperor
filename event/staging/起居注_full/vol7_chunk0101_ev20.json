@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "二十九日丁效",
+ "event_role": "人事任免",
+ "summary": "陕西按察使满普赴任请训旨，康熙帝谕其去后洁己奉公。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "满普",
+   "role": "陕西按察使"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10120,
+ "page_range": "213-214"
+}

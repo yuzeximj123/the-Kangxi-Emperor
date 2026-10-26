@@ -1,0 +1,33 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "三十日壬辰",
+ "event_role": "弹劾参奏",
+ "summary": "吏部题山西巡抚苏克济参劾太原知府赵凤诏，请遣大臣审讯，开列吏部侍郎孙柱等职名，康熙命问九卿具奏。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "太原知府"
+  },
+  {
+   "name": "孙柱",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11216,
+ "page_range": "235-236"
+}

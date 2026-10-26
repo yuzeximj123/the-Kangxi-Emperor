@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初四日乙效",
+ "event_role": "谕旨决策",
+ "summary": "礼部题山西省烈妇荆氏等应照例给银建坊，康熙帝令依议，并谕停止夫亡从死旌表之例、永行严禁从死。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "荆氏",
+   "role": "山西烈妇"
+  }
+ ],
+ "places": [
+  "山西省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3007,
+ "page_range": "72-73"
+}

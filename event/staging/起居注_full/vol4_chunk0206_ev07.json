@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 9,
+ "day_text": "初八日甲跨",
+ "event_role": "人事任免",
+ "summary": "吏部题工部郎中和孟格降级调用员缺，拟正息特、拟陪浑哲；康熙帝以和孟格曾修宁寿宫、人材颇优勤慎，命带所降之级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和孟格",
+   "role": "工部郎中"
+  },
+  {
+   "name": "息特",
+   "role": "原任郎中"
+  },
+  {
+   "name": "浑哲",
+   "role": "督捕员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20607,
+ "page_range": "424-425"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "十九日乙西",
+ "event_role": "议政听政",
+ "summary": "辰时，康熙帝御乾清门听政，部院各衙门官员面奏，大学士、学士以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 111,
+ "page_range": "37-38"
+}

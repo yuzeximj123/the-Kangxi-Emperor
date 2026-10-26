@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请议覆署理宁古塔将军事务都统称森所题，逃走三次充发之重德用斧砍死伊妻，照例拟斩监候改拟绞。",
+ "people": [
+  {
+   "name": "称森",
+   "role": "署理宁古塔将军都统"
+  },
+  {
+   "name": "重德",
+   "role": "充发犯人"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21518,
+ "page_range": "441-442"
+}

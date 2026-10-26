@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 9,
+ "day_text": "二十一日丙申",
+ "event_role": "司法案件",
+ "summary": "刑部题刘放振打死叔父应立斩，其子刘登化随父助殴应监候秋后处决；康熙帝准刘放振依议发落，以两命相抵免其子死罪，命刘登化减等发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘放振",
+   "role": "罪犯"
+  },
+  {
+   "name": "刘登化",
+   "role": "罪犯"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24704,
+ "page_range": "529-530"
+}

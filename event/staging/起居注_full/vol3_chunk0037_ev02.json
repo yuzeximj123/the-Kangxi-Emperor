@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "议徐国相题罗玉明改名欲夺土司官职案，康熙帝令差司官详审。",
+ "people": [
+  {
+   "name": "徐国相",
+   "role": "官员"
+  },
+  {
+   "name": "罗玉明",
+   "role": "无籍棍徒"
+  },
+  {
+   "name": "彭兆渭",
+   "role": "罗玉明改名"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3702,
+ "page_range": "109-110"
+}

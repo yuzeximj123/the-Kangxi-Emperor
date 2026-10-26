@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "初四日辛西",
+ "event_role": "人事任免",
+ "summary": "吏部题补佥都御史姚缔虞升任员缺，康熙帝命府丞房廷祯补授。",
+ "people": [
+  {
+   "name": "姚缔虞",
+   "role": "佥都御史"
+  },
+  {
+   "name": "袁景星",
+   "role": "左通政"
+  },
+  {
+   "name": "房廷祯",
+   "role": "府丞"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10205,
+ "page_range": "239-240"
+}

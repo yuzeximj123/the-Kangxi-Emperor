@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十六日癸酉",
+ "event_role": "司法案件",
+ "summary": "湖广撤回兵丁陈德持刃刺猪伤民致死，三法司议斩秋后处决，康熙帝以兵丁扰害民间、该部未严察统领之官，命再严议具奏。",
+ "people": [
+  {
+   "name": "陈德",
+   "role": "兵丁"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25012,
+ "page_range": "557-558"
+}

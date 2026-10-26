@@ -1,0 +1,42 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "初二日乙丑",
+ "event_role": "人事任免",
+ "summary": "议补户部郎中朱和尔扎哈降调员缺，康熙帝以都希、法山皆平常，命另选，并斥坐名补用有情弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "朱和尔扎哈",
+   "role": "户部郎中"
+  },
+  {
+   "name": "都希",
+   "role": "太仆寺员外郎"
+  },
+  {
+   "name": "法山",
+   "role": "工部员外郎"
+  },
+  {
+   "name": "色冷",
+   "role": "官员"
+  },
+  {
+   "name": "萨木哈",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4411,
+ "page_range": "123-124"
+}

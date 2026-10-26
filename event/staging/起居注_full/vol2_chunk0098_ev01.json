@@ -1,0 +1,42 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "勒德洪、明珠等传谕九卿，吏部尚书介山等奏请皇上俯允加上尊号以副天下仰望。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "介山",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "梁清标",
+   "role": "户部尚书"
+  },
+  {
+   "name": "郭四海",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "魏象枢",
+   "role": "刑部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9801,
+ "page_range": "239-240"
+}

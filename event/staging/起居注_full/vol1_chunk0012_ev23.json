@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 4,
+ "day_text": "初九日甲申",
+ "event_role": "谕旨决策",
+ "summary": "熊赐履奏请康熙帝节制巡游、慎起居以塞天下之望，康熙帝称已知外间议论。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "日讲官起居注翰林院掌院学士兼礼部侍郎"
+  }
+ ],
+ "places": [
+  "赤城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1223,
+ "page_range": "81-82"
+}

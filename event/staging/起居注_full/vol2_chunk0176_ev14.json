@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "初八日庚成",
+ "event_role": "人事任免",
+ "summary": "吏部题补侍郎希福升任员缺，康熙帝命盛京户部侍郎色赫调补吏部侍郎。",
+ "people": [
+  {
+   "name": "希福",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "色赫",
+   "role": "盛京户部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17614,
+ "page_range": "395-396"
+}

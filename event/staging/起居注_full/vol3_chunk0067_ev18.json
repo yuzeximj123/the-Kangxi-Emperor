@@ -1,0 +1,23 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "二十五日丙辰",
+ "event_role": "皇帝行止",
+ "summary": "早，康熙以岁除致祭孝陵，由东华门出朝阳门，驻足敬州。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "朝阳门",
+  "敬州",
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6718,
+ "page_range": "169-170"
+}

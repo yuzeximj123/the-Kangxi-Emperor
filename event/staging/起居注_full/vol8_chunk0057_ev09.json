@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 3,
+ "day_text": "二十六日乙卯",
+ "event_role": "人事任免",
+ "summary": "川陕总督鄂海题以波罗营副将陈俊调补提督标下中军副将，康熙帝允调补，陈俊员缺命交领侍卫内大臣将应升副将之汉侍卫具题引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "陈俊",
+   "role": "波罗营副将"
+  }
+ ],
+ "places": [
+  "波罗营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5709,
+ "page_range": "125-126"
+}

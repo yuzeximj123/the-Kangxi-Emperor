@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "已时皇太子临帖书写汉字一幅数百余字，一笔不苟，付汤斌等观看并获诸臣称赞。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  },
+  {
+   "name": "朱都纳",
+   "role": "记注官"
+  },
+  {
+   "name": "米汉雯",
+   "role": "记注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23704,
+ "page_range": "509-510"
+}

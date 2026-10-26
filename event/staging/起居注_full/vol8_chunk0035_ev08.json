@@ -1,0 +1,25 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "山西巡抚苏克济题请以解州知州祝增补授平阳府知府，康熙命问九卿。",
+ "people": [
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "祝增",
+   "role": "解州知州"
+  }
+ ],
+ "places": [
+  "平阳府",
+  "解州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3508,
+ "page_range": "81-82"
+}

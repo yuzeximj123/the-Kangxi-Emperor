@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十一日",
+ "event_role": "议政听政",
+ "summary": "未时康熙帝御箭亭率皇太子诸皇子及善射侍卫射箭，发矢皆中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "箭亭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8302,
+ "page_range": "177-178"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "初八日丙戌",
+ "event_role": "司法案件",
+ "summary": "议政王大臣会议拟将护军参领图尔都浑革职、鞭一百、籍没，乌黑等革职，康熙帝以其私议误军机、所议尚轻，命传谕再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图尔都浑",
+   "role": "护军参领"
+  },
+  {
+   "name": "巴尔布",
+   "role": "议政大臣"
+  },
+  {
+   "name": "岳甘",
+   "role": "议政大臣"
+  },
+  {
+   "name": "乌黑",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11118,
+ "page_range": "265-266"
+}

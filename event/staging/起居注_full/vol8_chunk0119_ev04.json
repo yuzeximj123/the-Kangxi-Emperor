@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿议陈瑸调任湖南巡抚等事未敢擅议，康熙帝命速调陈瑸来京引见并传谕九卿。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "陈瑸",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南",
+  "苏松",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11904,
+ "page_range": "249-250"
+}

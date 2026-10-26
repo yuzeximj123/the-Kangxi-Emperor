@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "二十日甲戌",
+ "event_role": "人事任免",
+ "summary": "吏部题翰林院掌院学士孙在丰升任员缺，康熙帝以张英厚重不干预外事，命补授。",
+ "people": [
+  {
+   "name": "孙在丰",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "张英",
+   "role": "学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14917,
+ "page_range": "333-334"
+}

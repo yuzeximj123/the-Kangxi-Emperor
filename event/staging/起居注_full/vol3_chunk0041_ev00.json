@@ -1,0 +1,25 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "明珠等奏报病故直隶巡抚格尔古德灵柩明日到京，康熙命交乾清门侍卫处理。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "格尔古德",
+   "role": "病故直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4100,
+ "page_range": "117-118"
+}

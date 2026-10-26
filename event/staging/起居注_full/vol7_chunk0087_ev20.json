@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "二十日辛卯",
+ "event_role": "河工水利",
+ "summary": "康熙帝命三贝勒同近御侍卫往看三门，回奏神人鬼三门系凿石开通，水势宽急，崖有拉船孔眼但未以船试验。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "三贝勒",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "三门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8720,
+ "page_range": "185-186"
+}

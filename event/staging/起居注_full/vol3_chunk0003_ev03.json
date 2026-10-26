@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "二十八日甲午",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕令太常寺卿佳育调补光禄寺卿，薛柱斗调补太常寺卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佳育",
+   "role": "调补光禄寺卿"
+  },
+  {
+   "name": "薛柱斗",
+   "role": "调补太常寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 303,
+ "page_range": "41-42"
+}

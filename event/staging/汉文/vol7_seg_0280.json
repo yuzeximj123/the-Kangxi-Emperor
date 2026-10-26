@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙伍拾伍年拾贰月初壹日",
+ "reign_year": 55,
+ "month": 12,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹頫奏报江南太平无事、米价每石一两至一两一钱、百姓安业，并进呈十一月晴雨录。",
+ "people": [
+  {
+   "name": "曹頫",
+   "role": "江宁织造，奏报人"
+  }
+ ],
+ "places": [
+  "江南",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "江宁织造曹頫奏报江南米价并进晴雨录摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2383",
+ "order_index": 280
+}

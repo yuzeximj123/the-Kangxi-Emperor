@@ -1,0 +1,23 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "以积储为天下大计，江宁、京口、杭州、荆州大兵驻防之地各截留三十年漕米十万以备所需。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁",
+  "京口",
+  "杭州",
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17909,
+ "page_range": "370-371"
+}

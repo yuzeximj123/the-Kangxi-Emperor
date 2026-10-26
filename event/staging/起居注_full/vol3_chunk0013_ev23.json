@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十七日业未",
+ "event_role": "人事任免",
+ "summary": "议政王等会推正红旗副都统扎喇克图员缺，拟穆成格正、托赖陪；康熙帝询问二人优劣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "扎喇克图",
+   "role": "原副都统"
+  },
+  {
+   "name": "穆成格",
+   "role": "拟正前锋参领"
+  },
+  {
+   "name": "托赖",
+   "role": "拟陪护军参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1323,
+ "page_range": "61-62"
+}

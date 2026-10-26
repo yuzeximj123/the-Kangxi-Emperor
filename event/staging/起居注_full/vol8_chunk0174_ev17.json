@@ -1,0 +1,33 @@
+{
+ "reign_year": 56,
+ "month": 1,
+ "day_text": "二十九日甲申",
+ "event_role": "人事任免",
+ "summary": "江苏布政使员缺，马齐等遵旨问张伯行，张伯行称江西按察使杨朝麟居官清廉，康熙帝命杨朝麟补授江苏布政使。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  },
+  {
+   "name": "杨朝麟",
+   "role": "江西按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江苏",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17417,
+ "page_range": "359-360"
+}

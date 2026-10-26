@@ -1,0 +1,20 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "祭祀典礼",
+ "summary": "礼部题请将皇上遣诸王阿哥拜谒明朝诸陵宣付起居注载档，康熙帝述四十年前曾至明陵并称所奏知道了。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "明朝十三陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18707,
+ "page_range": "385-386"
+}

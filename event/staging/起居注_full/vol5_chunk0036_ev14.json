@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "初一日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部题监察御史甘国枢员缺，拟卢起龙正、郭金城陪；康熙帝以御史职任言路紧要，命回京时引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "甘国枢",
+   "role": "监察御史"
+  },
+  {
+   "name": "卢起龙",
+   "role": "拟正人选"
+  },
+  {
+   "name": "郭金城",
+   "role": "拟陪人选"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3614,
+ "page_range": "82-83"
+}

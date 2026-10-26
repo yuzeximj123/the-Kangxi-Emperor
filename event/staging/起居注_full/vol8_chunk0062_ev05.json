@@ -1,0 +1,34 @@
+{
+ "reign_year": 53,
+ "month": 6,
+ "day_text": "初六日两子",
+ "event_role": "谕旨决策",
+ "summary": "康熙命起居注官及学士近前，谕太监不可假以威权，论明末太监专权误事及库银埋藏之弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "搂叙",
+   "role": "起居注官左都御史"
+  },
+  {
+   "name": "党阿赖",
+   "role": "起居注官"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "保定府",
+  "京师",
+  "养心殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6205,
+ "page_range": "135-136"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初七日丙申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以海贼船行外洋未入内洋，官兵巡防追缉难遍及，命水师两营官从宽免处分，该镇亦免察议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李雄",
+   "role": "登州府总兵官"
+  },
+  {
+   "name": "林拱",
+   "role": "水师前营游击"
+  },
+  {
+   "name": "陈雄",
+   "role": "水师后营游击"
+  }
+ ],
+ "places": [
+  "山东",
+  "登州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16112,
+ "page_range": "333-334"
+}

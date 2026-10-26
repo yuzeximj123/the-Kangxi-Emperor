@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十三日乙未",
+ "event_role": "朝见受贺",
+ "summary": "寿阳县知县刘应中、游击窦志伟等来朝。",
+ "people": [
+  {
+   "name": "刘应中",
+   "role": "寿阳县知县"
+  },
+  {
+   "name": "窦志伟",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "寿阳县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7710,
+ "page_range": "165-166"
+}

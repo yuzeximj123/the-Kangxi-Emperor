@@ -1,0 +1,22 @@
+{
+ "reign_year": 53,
+ "month": 1,
+ "day_text": "初九日辛雍",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝由神武门出西直门，前往畅春园驻跸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神武门",
+  "西直门",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5101,
+ "page_range": "113-114"
+}

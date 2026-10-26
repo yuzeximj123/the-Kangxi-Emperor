@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士明珠奏请以内升布政使补授太常寺等缺，康熙命将名次在前者补授。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "缆佳育",
+   "role": "前布政使"
+  },
+  {
+   "name": "芒柱斗",
+   "role": "前布政使"
+  },
+  {
+   "name": "胡异",
+   "role": "按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19000,
+ "page_range": "423-424"
+}

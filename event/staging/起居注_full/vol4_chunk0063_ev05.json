@@ -1,0 +1,38 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "初十日了丑",
+ "event_role": "朝见受贺",
+ "summary": "腾县知县史秉直、沙沟营守备徐可成、副将侯奇、同知臧兴祖、沛县知县梁文炳等来朝。",
+ "people": [
+  {
+   "name": "史秉直",
+   "role": "腾县知县"
+  },
+  {
+   "name": "徐可成",
+   "role": "沙沟营守备"
+  },
+  {
+   "name": "侯奇",
+   "role": "副将"
+  },
+  {
+   "name": "臧兴祖",
+   "role": "同知"
+  },
+  {
+   "name": "梁文炳",
+   "role": "沛县知县"
+  }
+ ],
+ "places": [
+  "腾县",
+  "沙沟营",
+  "沛县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6305,
+ "page_range": "138-139"
+}

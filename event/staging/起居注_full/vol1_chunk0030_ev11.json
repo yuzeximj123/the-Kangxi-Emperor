@@ -1,0 +1,22 @@
+{
+ "reign_year": 11,
+ "month": 12,
+ "day_text": "二十一日壬戌",
+ "event_role": "皇帝行止",
+ "summary": "辰时陈设卤簿，康熙帝出正阳门幸南郊，途经海会寺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "正阳门",
+  "南郊",
+  "海会寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3011,
+ "page_range": "117-118"
+}

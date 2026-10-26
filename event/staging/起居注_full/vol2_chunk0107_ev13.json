@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "十九日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补副都御史员缺，康熙帝询问年久者，明珠奏塞克德等年久，康熙帝命塞克德补副都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "塞克德",
+   "role": "郎中"
+  },
+  {
+   "name": "往布礼",
+   "role": "郎中"
+  },
+  {
+   "name": "塞勒布",
+   "role": "监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10713,
+ "page_range": "257-258"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "初九日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论不可长百姓刁风，徐元梦处置驱逐知县奸民，生员殴辱知县者必置之法，赈荒须防生事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元梦",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "浙江",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11608,
+ "page_range": "243-244"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "二十一日丁雍",
+ "event_role": "军务",
+ "summary": "福建提督施琅请于台湾设总兵官一员、副将一员、参将二员、兵八千，澎湖设副将一员、兵二千镇守，议政王大臣等会议准行。",
+ "people": [
+  {
+   "name": "施琅",
+   "role": "福建提督"
+  }
+ ],
+ "places": [
+  "台湾",
+  "澎湖",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 122,
+ "page_range": "37-38"
+}

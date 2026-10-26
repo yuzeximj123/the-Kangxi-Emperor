@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "议扎萨克图汗名号承袭，康熙帝以巴朗厄尔克阿海已故、其子幼稚，欲封来归之亲弟策旺扎布为亲王，命次日问众喀尔喀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴朗厄尔克阿海",
+   "role": "扎萨克图汗之子"
+  },
+  {
+   "name": "策旺扎布",
+   "role": "扎萨克图汗亲弟"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14801,
+ "page_range": "308-309"
+}

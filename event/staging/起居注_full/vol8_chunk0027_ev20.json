@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": "二十二日丁酉",
+ "event_role": "军务",
+ "summary": "兵部题山东总兵官李雄因原任游击腾国相与贼战时船被烧事请旨。",
+ "people": [
+  {
+   "name": "李雄",
+   "role": "山东总兵官"
+  },
+  {
+   "name": "腾国相",
+   "role": "原任游击"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2720,
+ "page_range": "65-66"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "二十八日戊子",
+ "event_role": "人事任免",
+ "summary": "公诺敏请照其父图海遗言停其叙功，兵部议仍行议叙，康熙帝命从诺敏之请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺敏",
+   "role": "公"
+  },
+  {
+   "name": "图海",
+   "role": "诺敏之父"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7113,
+ "page_range": "177-178"
+}

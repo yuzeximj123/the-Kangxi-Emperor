@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "初四日戊午",
+ "event_role": "司法案件",
+ "summary": "刑部覆题喀喇城千总葛永茂所辖兵丁葛鉴斗殴打死刘泰儿拟绞监候，康熙帝准拟并将葛永茂革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葛鉴",
+   "role": "兵丁"
+  },
+  {
+   "name": "刘泰儿",
+   "role": "死者"
+  },
+  {
+   "name": "葛永茂",
+   "role": "喀喇城千总"
+  }
+ ],
+ "places": [
+  "喀喇城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19713,
+ "page_range": "405-406"
+}

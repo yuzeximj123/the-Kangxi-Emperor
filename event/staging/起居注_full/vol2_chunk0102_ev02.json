@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "李胡拜之妻多罗格格控告其夫被贼拿后尽忠而死，兵部议行查，康熙以所闻甚确不必行查，命传谕安亲王发还原本。",
+ "people": [
+  {
+   "name": "李胡拜",
+   "role": "已故官员"
+  },
+  {
+   "name": "多罗格格",
+   "role": "李胡拜之妻"
+  },
+  {
+   "name": "吴三桂",
+   "role": "逆贼"
+  },
+  {
+   "name": "安亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10202,
+ "page_range": "247-248"
+}

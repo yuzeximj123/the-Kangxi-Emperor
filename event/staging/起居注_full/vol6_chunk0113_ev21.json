@@ -1,0 +1,40 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "二十八日癸亥",
+ "event_role": "司法案件",
+ "summary": "九卿覆江南省秋审情真重犯，康熙帝详阅后将笑瑞华等五人改为缓决。",
+ "people": [
+  {
+   "name": "笑瑞华",
+   "role": "案犯"
+  },
+  {
+   "name": "括君征",
+   "role": "案犯"
+  },
+  {
+   "name": "周忧",
+   "role": "案犯"
+  },
+  {
+   "name": "周相华",
+   "role": "案犯"
+  },
+  {
+   "name": "冯喜",
+   "role": "案犯"
+  },
+  {
+   "name": "沈蓝",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "江南省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11321,
+ "page_range": "236-237"
+}

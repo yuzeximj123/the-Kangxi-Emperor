@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十九日丙辰",
+ "event_role": "司法案件",
+ "summary": "兵丁陈德杀人一案，议马尔齐哈降四级、马顺德革职交刑部，康熙帝命马尔齐哈降四级仍留参领，马顺德革职免交刑部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马尔齐哈",
+   "role": "署副都统"
+  },
+  {
+   "name": "马顺德",
+   "role": "夸兰大"
+  },
+  {
+   "name": "陈德",
+   "role": "兵丁"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25921,
+ "page_range": "575-576"
+}

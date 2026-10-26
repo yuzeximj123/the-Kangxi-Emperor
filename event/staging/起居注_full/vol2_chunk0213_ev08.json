@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "十三日",
+ "event_role": "人事任免",
+ "summary": "吏部覆湖广巡抚王新命保举教官朱贞未开明实迹，应不准行，康熙帝斥其瞻徇情面，命改拟申饬票签送入。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "朱贞",
+   "role": "教官"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21308,
+ "page_range": "469-470"
+}

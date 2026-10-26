@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十五日庚子",
+ "event_role": "其他",
+ "summary": "刑部侍郎高镍奏对失记，康熙帝问记注官是否记载不能奏对者，朱马泰答有当记载者自行记载。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高镍",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "朱马泰",
+   "role": "记注官侍讲学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2109,
+ "page_range": "85-86"
+}

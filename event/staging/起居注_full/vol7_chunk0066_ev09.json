@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "二十六日庚午",
+ "event_role": "人事任免",
+ "summary": "吏部覆直隶巡抚李光地题请雄县知县张塘举报坐台笔帖式家人打死驿站马夫议叙事，康熙帝命将张塘议叙具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "张塘",
+   "role": "雄县知县"
+  },
+  {
+   "name": "胡圣保",
+   "role": "坐台笔帖式"
+  }
+ ],
+ "places": [
+  "雄县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6609,
+ "page_range": "143-144"
+}

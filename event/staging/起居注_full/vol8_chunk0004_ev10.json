@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "初五日癸丑",
+ "event_role": "人事任免",
+ "summary": "九卿保举甘国壁等，康熙帝授甘国壁为江苏按察使、张连登为湖北按察使。",
+ "people": [
+  {
+   "name": "甘国壁",
+   "role": "江苏按察使"
+  },
+  {
+   "name": "张连登",
+   "role": "湖北按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江苏",
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 410,
+ "page_range": "19-20"
+}

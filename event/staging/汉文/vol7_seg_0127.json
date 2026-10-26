@@ -1,0 +1,32 @@
+{
+ "date_raw": "闰三月初八日",
+ "reign_year": null,
+ "month": 3,
+ "day": 8,
+ "event_role": "请安谢恩",
+ "summary": "大学士李光地奏谢皇上恩赐并传旨关怀，报明家事可于八九个月完竣，拟于十月或十一月起程赴京。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，奏折作者"
+  },
+  {
+   "name": "魏廷珍",
+   "role": "翰林，传旨及转交折子之人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，传旨关怀李光地"
+  }
+ ],
+ "places": [
+  "清溪书屋"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "大学士李光地奏谢恩赐并报明春夏起程日期摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "180",
+ "order_index": 127
+}

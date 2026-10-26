@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": "十三日甲实",
+ "event_role": "其他",
+ "summary": "亲近侍卫关保传谕，赐公主缎五十端、白金五百两，额驸噶尔臧白金五百两，其余十户每户白金十两。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "和硕公主",
+   "role": "公主"
+  },
+  {
+   "name": "噶尔臧",
+   "role": "和硕额驸"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5102,
+ "page_range": "112-113"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "二十九日",
+ "event_role": "人事任免",
+ "summary": "礼部覆两广总督石琳题请广州府同知刘有成降级留任，康熙帝准照该督所题。",
+ "people": [
+  {
+   "name": "石琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "刘有成",
+   "role": "广州府同知"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18302,
+ "page_range": "376-377"
+}

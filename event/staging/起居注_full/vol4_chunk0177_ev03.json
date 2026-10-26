@@ -1,0 +1,20 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "十五日乙未",
+ "event_role": "议政听政",
+ "summary": "康熙帝御太和门视朝，升转文武官员谢恩完毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17703,
+ "page_range": "366-367"
+}

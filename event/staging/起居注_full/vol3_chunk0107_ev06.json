@@ -1,0 +1,41 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十日于丑",
+ "event_role": "人事任免",
+ "summary": "兵部题补琼州总兵官，康熙帝询问拟补人选后，决定调吴起蛟补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "陈龙",
+   "role": "拟补总兵官"
+  },
+  {
+   "name": "黄大来",
+   "role": "拟补总兵官"
+  },
+  {
+   "name": "吴英",
+   "role": "提督"
+  },
+  {
+   "name": "吴起蛟",
+   "role": "拟补琼州总兵官"
+  }
+ ],
+ "places": [
+  "琼州",
+  "舟山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10706,
+ "page_range": "249-250"
+}

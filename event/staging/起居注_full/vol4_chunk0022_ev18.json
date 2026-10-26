@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "二十八日辛丑",
+ "event_role": "其他",
+ "summary": "康熙帝问记注官汪需是否知丘升其人，汪需奏素识其人有才名，系丁卯科举人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汪需",
+   "role": "记注官"
+  },
+  {
+   "name": "丘升",
+   "role": "举人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2218,
+ "page_range": "56-57"
+}

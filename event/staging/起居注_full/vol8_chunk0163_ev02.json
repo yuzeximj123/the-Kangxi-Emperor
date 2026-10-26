@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆湖广巡抚刘典衡题大盗曾坤等照例正法，康熙命大学士会同三法司将造意为首杀伤人者各案一二人正法，余减等发黑龙江。",
+ "people": [
+  {
+   "name": "刘典衡",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "曾坤",
+   "role": "大盗"
+  }
+ ],
+ "places": [
+  "湖广",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16302,
+ "page_range": "337-338"
+}

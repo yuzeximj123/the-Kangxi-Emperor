@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "十五日两子",
+ "event_role": "谕旨决策",
+ "summary": "太常寺卿葛思泰钦奉上谕，言阙里为圣人之域，幸鲁致祭先师以宣扬文教，礼成后欲讲明经义，应否举行着内阁、部院等衙门会同议奏。",
+ "people": [
+  {
+   "name": "葛思泰",
+   "role": "太常寺卿"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "阙里"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5816,
+ "page_range": "151-152"
+}

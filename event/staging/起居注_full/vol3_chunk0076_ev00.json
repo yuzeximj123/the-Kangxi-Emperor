@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "明珠等议施天裔诈称钱粮未入库案，康熙帝询问诸臣意见后令依部议革职。",
+ "people": [
+  {
+   "name": "施天裔",
+   "role": "被参官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7600,
+ "page_range": "187-188"
+}

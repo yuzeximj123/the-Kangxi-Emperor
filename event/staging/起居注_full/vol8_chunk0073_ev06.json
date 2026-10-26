@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "右卫将军公费扬古报善单、浑津等处亢旱，康熙帝令遣部内章京一员查明具奏。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "右卫将军公"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "善单",
+  "浑津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7306,
+ "page_range": "157-158"
+}

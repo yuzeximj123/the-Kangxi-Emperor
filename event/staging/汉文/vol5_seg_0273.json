@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五拾壹年【閏】八月　日",
+ "reign_year": 51,
+ "month": 8,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "原任浙江提督王世臣具摺差人王忠代其恭谢圣恩并奏请圣安，兼报浙东雨水调匀、禾价平稳。",
+ "people": [
+  {
+   "name": "王世臣",
+   "role": "原任浙江提督，具奏请安谢恩"
+  },
+  {
+   "name": "王忠",
+   "role": "差人，代王世臣赍摺进京"
+  }
+ ],
+ "places": [
+  "浙江",
+  "浙东",
+  "北阙"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "原任浙江提督王世臣奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 273
+}

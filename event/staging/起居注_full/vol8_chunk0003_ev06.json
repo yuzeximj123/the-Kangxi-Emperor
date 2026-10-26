@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "初二日庚成",
+ "event_role": "司法案件",
+ "summary": "刑部等题疯疾蒋氏殴死亲姑薛氏拟凌迟，康熙帝以疯疾虚实难明，命问九卿。",
+ "people": [
+  {
+   "name": "蒋氏",
+   "role": "犯人"
+  },
+  {
+   "name": "薛氏",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 306,
+ "page_range": "17-18"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议庞国求偷盗并致陈文昌死亡案，引窃盗拒捕伤人律，康熙帝将本发还着再议。",
+ "people": [
+  {
+   "name": "庞国求",
+   "role": "案犯"
+  },
+  {
+   "name": "陈文昌",
+   "role": "被害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13100,
+ "page_range": "273-274"
+}

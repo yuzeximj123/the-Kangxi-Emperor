@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "初九日丁亥",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问日讲起居注官人选，王熙、李光地分别举荐，康熙帝命高毅、米汉雯、胡会恩俱充补日讲起居注官。",
+ "people": [
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "掌院学士"
+  },
+  {
+   "name": "高毅",
+   "role": "侍讲"
+  },
+  {
+   "name": "米汉雯",
+   "role": "中允"
+  },
+  {
+   "name": "胡会恩",
+   "role": "中允"
+  },
+  {
+   "name": "顾藻",
+   "role": "编修"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21708,
+ "page_range": "469-470"
+}

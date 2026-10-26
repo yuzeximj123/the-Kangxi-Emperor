@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "诸王大臣奏请皇太后节哀回宫暂息，皇太后论皇帝诚孝，令诸王大臣劝皇帝节哀。",
+ "people": [
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诸王大臣",
+   "role": "臣僚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 26001,
+ "page_range": "555-556"
+}

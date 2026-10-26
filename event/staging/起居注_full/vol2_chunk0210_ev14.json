@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初三日壬寅",
+ "event_role": "人事任免",
+ "summary": "吏科题科员内升外转开列掌印给事中王承祖等，康熙帝命姚缔镶内升，外转停止。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "王承祖",
+   "role": "掌印给事中"
+  },
+  {
+   "name": "姚缔镶",
+   "role": "科员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21014,
+ "page_range": "463-464"
+}

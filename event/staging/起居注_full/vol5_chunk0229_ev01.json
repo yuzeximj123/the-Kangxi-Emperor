@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "诸大臣称颂康熙帝三次亲征剿绝噶尔丹，请行庆贺礼；康熙帝归功于天，率皇长子及文武大臣行三跪九叩礼谢天，诸臣于行宫外庆贺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22901,
+ "page_range": "468-469"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "二十六日",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门议道官柏成栋诬告巡抚巴锡事虚，拟革职杖责折赎；按察使索尔孙因开便门拟革职，康熙帝以过议太过命再议。",
+ "people": [
+  {
+   "name": "柏成栋",
+   "role": "道官"
+  },
+  {
+   "name": "巴锡",
+   "role": "巡抚"
+  },
+  {
+   "name": "索尔孙",
+   "role": "按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6302,
+ "page_range": "169-170"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "议政听政",
+ "summary": "巳时，九卿至后左门，由敦住转奏询问于成龙之结果，于成龙称闻七州县百姓之言即入告。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  },
+  {
+   "name": "敦住",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "后左门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2908,
+ "page_range": "70-71"
+}

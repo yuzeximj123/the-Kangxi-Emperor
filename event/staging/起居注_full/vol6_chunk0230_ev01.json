@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "覆直隶巡抚李光地题郭家坞等工已被沙秦，应仍向王新命等扎赔银两，康熙帝从宽免其追取一万一千九百余两，余依议。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "王新命",
+   "role": "被追赔官员"
+  }
+ ],
+ "places": [
+  "郭家坞"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23001,
+ "page_range": "470-471"
+}

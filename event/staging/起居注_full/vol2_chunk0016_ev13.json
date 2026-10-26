@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十八日癸酉",
+ "event_role": "司法案件",
+ "summary": "三法司题江南秋审重犯事，康熙帝命徐大复等为从者缓决，别案情真者俱依议。",
+ "people": [
+  {
+   "name": "徐大复",
+   "role": "从犯"
+  },
+  {
+   "name": "齐隆",
+   "role": "从犯"
+  },
+  {
+   "name": "王五子",
+   "role": "从犯"
+  },
+  {
+   "name": "费七",
+   "role": "从犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1613,
+ "page_range": "75-76"
+}

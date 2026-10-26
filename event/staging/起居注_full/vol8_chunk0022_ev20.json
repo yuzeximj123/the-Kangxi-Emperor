@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初九日乙卯",
+ "event_role": "人事任免",
+ "summary": "兵部题请湖广永州总兵官祖维新员缺，以镶黄旗骁骑参领白云油等开列，康熙帝令问九卿于副将内各举所知。",
+ "people": [
+  {
+   "name": "祖维新",
+   "role": "湖广永州总兵官"
+  },
+  {
+   "name": "白云油",
+   "role": "镶黄旗骁骑参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广永州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2220,
+ "page_range": "55-56"
+}

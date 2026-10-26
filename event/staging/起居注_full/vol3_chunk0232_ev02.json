@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题湖南巡抚丁思孔荐举祁阳县知县王永昌清廉才能，康熙帝以丁思孔居官平常不准行。",
+ "people": [
+  {
+   "name": "丁思孔",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "王永昌",
+   "role": "祁阳县知县"
+  }
+ ],
+ "places": [
+  "祁阳县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23202,
+ "page_range": "499-500"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问山东巡抚张鹏为人，王申、吴正治、宋德宜奏其有操守，帝又闻总兵徐旭龄居官甚善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "王申",
+   "role": "官员"
+  },
+  {
+   "name": "吴正治",
+   "role": "官员"
+  },
+  {
+   "name": "宋德宜",
+   "role": "官员"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "总兵"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15101,
+ "page_range": "337-338"
+}

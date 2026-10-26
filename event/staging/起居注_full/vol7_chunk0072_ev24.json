@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初五日了丑",
+ "event_role": "其他",
+ "summary": "康熙帝阅殿试武举马步射，出瀛台紫光阁率皇太子诸皇子射，发矢皆中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [
+  "西华门",
+  "瀛台",
+  "紫光阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7224,
+ "page_range": "155-156"
+}

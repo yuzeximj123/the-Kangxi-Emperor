@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "十七日王辰",
+ "event_role": "人事任免",
+ "summary": "吏部一本以江南海州知州员缺奏闻，康熙帝命查服满知州及保举知县一并具折呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "海州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5727,
+ "page_range": "125-126"
+}

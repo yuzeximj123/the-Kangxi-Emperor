@@ -1,0 +1,46 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "十七日丁酉",
+ "event_role": "人事任免",
+ "summary": "吏部题学士赛绚汉升任员缺，康熙帝询问后命额尔黑图升补学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "赛绚汉",
+   "role": "学士"
+  },
+  {
+   "name": "尹泰",
+   "role": "詹事"
+  },
+  {
+   "name": "额尔黑图",
+   "role": "官员"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "陕西布政使"
+  },
+  {
+   "name": "布雅努",
+   "role": "山西布政使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19910,
+ "page_range": "433-434"
+}

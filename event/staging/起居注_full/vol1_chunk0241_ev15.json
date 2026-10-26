@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "十三日辛丑",
+ "event_role": "人事任免",
+ "summary": "山西提督周卜世请以守备张所元补本标游击、千总温友才补守备，部议不准，康熙帝命照所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "周卜世",
+   "role": "山西提督"
+  },
+  {
+   "name": "张所元",
+   "role": "守备"
+  },
+  {
+   "name": "温友才",
+   "role": "千总"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24115,
+ "page_range": "539-540"
+}

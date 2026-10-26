@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "初十日王成",
+ "event_role": "弹劾参奏",
+ "summary": "康熙谓大学士温达等，王思轼参陶和气一案有应议处，今陶和气不法彰明，王思轼所参属实，着交九卿审明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "王思轼",
+   "role": "学士"
+  },
+  {
+   "name": "陶和气",
+   "role": "原任步军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21505,
+ "page_range": "441-442"
+}

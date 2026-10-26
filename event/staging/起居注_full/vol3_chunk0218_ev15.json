@@ -1,0 +1,36 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十七日乙未",
+ "event_role": "人事任免",
+ "summary": "兵部题补前锋参领伍什员缺，拟倩成格为正、硕菜为陪，康熙帝以硕菜人材壮健命补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "倩成格",
+   "role": "护军参领"
+  },
+  {
+   "name": "硕菜",
+   "role": "拟陪参领"
+  },
+  {
+   "name": "伍什",
+   "role": "前锋参领"
+  }
+ ],
+ "places": [
+  "长沙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21815,
+ "page_range": "471-472"
+}

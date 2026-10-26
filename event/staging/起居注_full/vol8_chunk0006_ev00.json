@@ -1,0 +1,20 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "二十五日癸西",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸李家渠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "李家渠"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 600,
+ "page_range": "23-24"
+}

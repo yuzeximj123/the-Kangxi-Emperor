@@ -1,0 +1,36 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十六日己未",
+ "event_role": "人事任免",
+ "summary": "吏部题补户部侍郎李仙根降调员缺，康熙询问贵州巡抚杨雍建可用否，大学士等称其堪用，命查明所降之级。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李仙根",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "杨雍建",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4208,
+ "page_range": "119-120"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "吏部题钦天监监副李光洪革职员缺以何君锡拟补，康熙帝以其推算日食错误不堪，命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光洪",
+   "role": "钦天监监副"
+  },
+  {
+   "name": "何君锡",
+   "role": "冬官正"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1819,
+ "page_range": "48-49"
+}

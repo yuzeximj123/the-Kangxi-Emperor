@@ -1,0 +1,29 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "十九日庚辰",
+ "event_role": "弹劾参奏",
+ "summary": "满洲六科给事中苏拜等参奏江苏巡抚幕天颜，指其致江南百姓困苦流离、造船贻累于民、报灾巧诈，康熙询问有无实据。",
+ "people": [
+  {
+   "name": "苏拜",
+   "role": "满洲六科给事中"
+  },
+  {
+   "name": "幕天颜",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江苏",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19905,
+ "page_range": "455-456"
+}

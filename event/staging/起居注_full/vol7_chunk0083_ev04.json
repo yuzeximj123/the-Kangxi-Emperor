@@ -1,0 +1,38 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十一日",
+ "event_role": "其他",
+ "summary": "康熙帝赐布政使鄂罗、能泰，按察使何扔、鄂琦，道员黄明“清慎勤”三大字，又赐能泰、鄂琦诗各一幅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂罗",
+   "role": "布政使"
+  },
+  {
+   "name": "能泰",
+   "role": "布政使"
+  },
+  {
+   "name": "何扔",
+   "role": "按察使"
+  },
+  {
+   "name": "鄂琦",
+   "role": "按察使"
+  },
+  {
+   "name": "黄明",
+   "role": "道员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8304,
+ "page_range": "177-178"
+}

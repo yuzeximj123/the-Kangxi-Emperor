@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "十六日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "镇守古北口总兵官蔡元遗疏，康熙帝念其效力行间、人材壮健，命察例具奏恤典，并驰驿送归榇及家口往襄阳安插居住。",
+ "people": [
+  {
+   "name": "蔡元",
+   "role": "镇守古北口等处地方总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "古北口",
+  "襄阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21030,
+ "page_range": "432-433"
+}

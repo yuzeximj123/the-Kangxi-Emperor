@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "三十日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "讲官常书等奏冬至后向有停讲之例，请旨是否停讲；康熙帝谕天气虽寒可在宫中暖阁进讲，不必停讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6026,
+ "page_range": "155-156"
+}

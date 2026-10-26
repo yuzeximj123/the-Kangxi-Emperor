@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将林台吉之帮布尼塔尔等及伊驼马交归化城副都统阿第等解送，并着议政大臣处理与丹济喇分散情由。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "存柱",
+   "role": "批本"
+  },
+  {
+   "name": "吴达禅喇锡",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20700,
+ "page_range": "424-425"
+}

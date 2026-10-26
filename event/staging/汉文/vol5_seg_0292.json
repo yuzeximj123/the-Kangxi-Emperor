@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十三年九月二十七日",
+ "reign_year": 53,
+ "month": 9,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏谢康熙命李陈常以盐余银代补其所欠钱粮，感激涕零，表示竭尽犬马以报天恩。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏折作者，欠帑之人"
+  },
+  {
+   "name": "李陈常",
+   "role": "两淮巡盐御史，奉命以盐余银代补李煦欠项"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，降恩旨"
+  }
+ ],
+ "places": [
+  "苏州",
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏謝俞陳常以鹽餘代補欠帑摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1651",
+ "order_index": 292
+}

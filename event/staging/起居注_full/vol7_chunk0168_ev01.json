@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "兵部覆直隶巡抚赵弘淮题请在喀喇城热河添设二站，康熙帝不准，命在红旗营等处滋生人丁内拣选安设驿站，本发还再议。",
+ "people": [
+  {
+   "name": "赵弘淮",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "喀喇城",
+  "热河",
+  "红旗营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16801,
+ "page_range": "347-348"
+}

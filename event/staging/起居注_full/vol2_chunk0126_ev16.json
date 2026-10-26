@@ -1,0 +1,38 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "初十日丙戌",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读学士员缺，康熙帝令内阁会同吏部选择，最终调补阿哈达。",
+ "people": [
+  {
+   "name": "席忒库",
+   "role": "拟正郎中"
+  },
+  {
+   "name": "巴锡",
+   "role": "拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "阿哈达",
+   "role": "调补内阁侍读学士"
+  },
+  {
+   "name": "葛思泰",
+   "role": "候选官员"
+  },
+  {
+   "name": "朱马泰",
+   "role": "候选官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12616,
+ "page_range": "295-296"
+}

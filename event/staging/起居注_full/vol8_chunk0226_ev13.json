@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 12,
+ "day_text": "初五日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "诚亲王、十六阿哥传谕皇太后病势大增，康熙帝于苍震门内设帐衣不解带，足疾体不安恐不能支持。",
+ "people": [
+  {
+   "name": "诚亲王",
+   "role": "传谕皇子"
+  },
+  {
+   "name": "十六阿哥",
+   "role": "传谕皇子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "苍震门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22613,
+ "page_range": "463-464"
+}

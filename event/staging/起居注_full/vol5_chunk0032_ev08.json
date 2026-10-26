@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "初四日庚午",
+ "event_role": "人事任免",
+ "summary": "镶白旗副都统博托和员缺，康熙帝引见宗室及应升参领等官，询问后以护军参领党爱人材颇优，命升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "党爱",
+   "role": "护军参领"
+  },
+  {
+   "name": "花善",
+   "role": "前锋参领"
+  },
+  {
+   "name": "博托和",
+   "role": "镶白旗副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3208,
+ "page_range": "74-75"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "辰时",
+ "event_role": "其他",
+ "summary": "康熙帝问格物之义，魏象枢疑崔蔚林“如物者人也”之说，帝谓圣贤言语包蕴无穷，不必就数语翻驳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "崔蔚林",
+   "role": "进讲义者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20106,
+ "page_range": "459-460"
+}

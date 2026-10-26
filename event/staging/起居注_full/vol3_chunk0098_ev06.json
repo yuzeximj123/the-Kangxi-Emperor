@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "二十日己酉",
+ "event_role": "奏报地方情形",
+ "summary": "图纳、席尔达、牛钮、常书、朱马泰等捧阅御笔点定书籍，奏称点定精详、请照此刊布，并颂康熙圣不自圣、记忆过人。",
+ "people": [
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "官员"
+  },
+  {
+   "name": "牛钮",
+   "role": "官员"
+  },
+  {
+   "name": "常书",
+   "role": "官员"
+  },
+  {
+   "name": "朱马泰",
+   "role": "官员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9806,
+ "page_range": "231-232"
+}

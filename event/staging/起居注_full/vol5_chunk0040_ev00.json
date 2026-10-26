@@ -1,0 +1,36 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以王继文居官甚善、范承矶曾奏其优，命升补总督；石文蝴升补王继文员缺，俱令速到任。",
+ "people": [
+  {
+   "name": "常书",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "王继文",
+   "role": "巡抚"
+  },
+  {
+   "name": "范承矶",
+   "role": "总督"
+  },
+  {
+   "name": "石文蝴",
+   "role": "贵州布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4000,
+ "page_range": "90-91"
+}

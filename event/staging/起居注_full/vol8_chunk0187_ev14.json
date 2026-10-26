@@ -1,0 +1,27 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "十三日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝问户部尚书称和伦直隶米石事，命通仓米运近水州县由仓场总督运送，路远者交直隶巡抚速议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "称和伦",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [
+  "通仓",
+  "密云",
+  "古北口",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18714,
+ "page_range": "385-386"
+}

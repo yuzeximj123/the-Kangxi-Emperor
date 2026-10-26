@@ -1,0 +1,25 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "工部议覆两江总督傅腊塔请建宝山城并裁留官役工银，康熙帝不准裁银，命动支正项钱粮建造。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "宝山城",
+  "苏州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22601,
+ "page_range": "464-465"
+}

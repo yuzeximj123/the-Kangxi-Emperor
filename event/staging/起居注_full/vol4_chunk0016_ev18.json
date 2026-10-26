@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "初九日壬午",
+ "event_role": "河工水利",
+ "summary": "康熙帝问于成龙，于成龙奏修高加堰是靳辅分内事，为何又筑重堤糜费钱粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "高加堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1618,
+ "page_range": "44-45"
+}

@@ -1,0 +1,47 @@
+{
+ "date_raw": "康熙伍拾陆年伍月贰拾伍日",
+ "reign_year": 56,
+ "month": 5,
+ "day": 25,
+ "event_role": "人事任免",
+ "summary": "山东巡抚李树德奏报济南府知府张襄病故，请准保留其守制或于张振伟、褚升、刘天爵中简用一人补授首郡要缺。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "王用霖",
+   "role": "布政使"
+  },
+  {
+   "name": "张襄",
+   "role": "济南府知府（已故）"
+  },
+  {
+   "name": "张振伟",
+   "role": "济南府同知"
+  },
+  {
+   "name": "褚升",
+   "role": "东昌府高唐州知州"
+  },
+  {
+   "name": "刘天爵",
+   "role": "候补知府"
+  }
+ ],
+ "places": [
+  "山东",
+  "济南府",
+  "东昌府",
+  "高唐州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 435
+}

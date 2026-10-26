@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部议赈济山东饥民捐银之福善等加级纪录事，康熙帝令停其加级纪录，所交银两发还本人。",
+ "people": [
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "巴浑德",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14706,
+ "page_range": "305-306"
+}

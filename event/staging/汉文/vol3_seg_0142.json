@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十年四月初十日",
+ "reign_year": 50,
+ "month": 4,
+ "day": 10,
+ "event_role": "奏报地方情形",
+ "summary": "四川巡抚年羹尧奏报提督岳昇龙双目失明、病废难任，请皇上鉴察。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚，奏报人"
+  },
+  {
+   "name": "岳昇龙",
+   "role": "四川提督，患病失明者"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称提督名望甚大，惜其失明难做官，待其自行具题时自有温旨，并叮嘱此摺不可令人知道。",
+ "source_title": "四川巡抚年羹尧奏报提督岳昇龙两目病废摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "409",
+ "order_index": 142
+}

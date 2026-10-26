@@ -1,0 +1,37 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "二十六日癸卯",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝于巳时御文华殿举行经筵大典，讲官倩腊塔、熊赐履讲《四书》，阿山、张英讲《书经》，礼毕宴于太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倩腊塔",
+   "role": "讲官"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "阿山",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1300,
+ "page_range": "36-37"
+}

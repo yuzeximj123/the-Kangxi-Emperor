@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "京口将军杨凤翔因老病解任，开列提督孙思克等、副都统张思恭等，康熙帝命孙思克仍留旧任，张思恭升补京口将军缺。",
+ "people": [
+  {
+   "name": "杨凤翔",
+   "role": "京口将军"
+  },
+  {
+   "name": "孙思克",
+   "role": "提督"
+  },
+  {
+   "name": "张思恭",
+   "role": "副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10901,
+ "page_range": "230-231"
+}

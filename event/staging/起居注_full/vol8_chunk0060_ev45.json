@@ -1,0 +1,24 @@
+{
+ "reign_year": 53,
+ "month": 5,
+ "day_text": "十八日戊午",
+ "event_role": "人事任免",
+ "summary": "覆请兵部议古北口总兵官杨铸应改给关防、中军参将马龙应另行补授；康熙帝依议，令马龙仍照原品管理古北口总兵官标下中军游击事。",
+ "people": [
+  {
+   "name": "杨铸",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "马龙",
+   "role": "中军参将"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6045,
+ "page_range": "131-132"
+}

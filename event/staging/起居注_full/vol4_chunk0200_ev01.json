@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题覆副都统阿兰泰举送鄂罗诺等诈财案，康熙帝命将鄂罗诺即于披甲处斩示众，并嘉奖阿兰泰。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "镇守西安等处地方副都统"
+  },
+  {
+   "name": "鄂罗诺",
+   "role": "兵丁，诈财罪犯"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20001,
+ "page_range": "412-413"
+}

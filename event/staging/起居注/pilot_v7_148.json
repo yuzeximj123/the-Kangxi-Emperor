@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙四十五年十九日",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "癸酉",
+ "event_role": "司法案件",
+ "summary": "马齐奏询四川人李光复等言格勒尔图之妻姚自亮素行不可留，旨令与三法司详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "格勒尔图",
+   "role": "相关人员"
+  },
+  {
+   "name": "姚自亮",
+   "role": "格勒尔图之妻"
+  },
+  {
+   "name": "李光复",
+   "role": "大理寺少卿"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3148
+}

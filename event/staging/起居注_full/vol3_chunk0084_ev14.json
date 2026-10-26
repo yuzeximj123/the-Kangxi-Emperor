@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十六日丙戌",
+ "event_role": "人事任免",
+ "summary": "吏部题补工部解任随旗上朝郎中伊图员缺，拟觉罗海色、法山，康熙帝以海色平常衰老命罢职另拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊图",
+   "role": "解任郎中"
+  },
+  {
+   "name": "觉罗海色",
+   "role": "拟正候补郎中"
+  },
+  {
+   "name": "法山",
+   "role": "拟陪工部员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8414,
+ "page_range": "203-204"
+}

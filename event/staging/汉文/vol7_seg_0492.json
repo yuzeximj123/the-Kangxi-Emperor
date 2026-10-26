@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十六年八月十九日",
+ "reign_year": 56,
+ "month": 8,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "直隶总督赵弘燮奏报直属秋收及米价情形，并请援热河之例暂开宣化府烧锅之禁，以利小民。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "总督管理直隶巡抚事务、兵部右侍郎兼都察院右副都御史"
+  }
+ ],
+ "places": [
+  "热河",
+  "京中",
+  "保定",
+  "宣化",
+  "宣府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知口外收成丰足、小米价贱，而京中米价未减。",
+ "source_title": "直隸總督趙弘燮奏爲請照熱河之例暫開燒鍋之禁摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2504",
+ "order_index": 492
+}

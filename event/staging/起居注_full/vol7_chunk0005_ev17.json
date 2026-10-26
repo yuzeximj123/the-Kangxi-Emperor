@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十二日甲子",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御行宫，大学士马齐等以折本请旨，九卿议南河捐纳加道员人等先以初捐之职试用、保举后再以加捐之职补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "傅伸",
+   "role": "学士"
+  },
+  {
+   "name": "来都",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "南河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 517,
+ "page_range": "21-22"
+}

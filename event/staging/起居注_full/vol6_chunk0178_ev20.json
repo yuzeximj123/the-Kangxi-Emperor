@@ -1,0 +1,33 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "二十七日",
+ "event_role": "人事任免",
+ "summary": "总河张鹏翮面奏保题笔帖式马泰为通判缘由，康熙谕马泰乃虚伪倾险之人，令张鹏翮回奏以明悉此事，此奏以知道了批发完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "马泰",
+   "role": "笔帖式"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "淮安",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17820,
+ "page_range": "366-367"
+}

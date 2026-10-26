@@ -1,0 +1,34 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初六日戊寅",
+ "event_role": "人事任免",
+ "summary": "马齐奏会议科道官内升外转事，康熙帝命马士芳、吕琨内升，李发甲外转，科员外转此次停止。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "马士芳",
+   "role": "科道官"
+  },
+  {
+   "name": "吕琨",
+   "role": "科道官"
+  },
+  {
+   "name": "李发甲",
+   "role": "道员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7308,
+ "page_range": "157-158"
+}

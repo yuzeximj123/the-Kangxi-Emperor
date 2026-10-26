@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十三日",
+ "event_role": "司法案件",
+ "summary": "议正黄旗保住家被盗事，康熙帝以邻近有防夜步兵，命再严审务得实情。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "保住",
+   "role": "正黄旗包衣佐领下人"
+  }
+ ],
+ "places": [
+  "皇城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22407,
+ "page_range": "505-506"
+}

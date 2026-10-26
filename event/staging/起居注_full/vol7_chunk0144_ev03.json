@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "湖广偏沅巡抚赵申乔题请将因前任长宁县任内不报人命事革职之绥宁县知县吴祥生革职留任，康熙帝照所题准行。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "吴祥生",
+   "role": "绥宁县知县"
+  }
+ ],
+ "places": [
+  "绥宁县",
+  "长宁县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14403,
+ "page_range": "299-300"
+}

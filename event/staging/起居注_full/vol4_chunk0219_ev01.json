@@ -1,0 +1,26 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "总河靳辅荐举江南山清、盱眙同知冯佑等七人熟悉河务，康熙帝称已知之。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "冯佑",
+   "role": "江南山清、盱眙同知"
+  }
+ ],
+ "places": [
+  "江南",
+  "山清",
+  "盱眙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21901,
+ "page_range": "450-451"
+}

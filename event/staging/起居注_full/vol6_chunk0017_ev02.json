@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "初一日了丑",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚沈朝聘题请昌平州知州孔航璋留任，康熙以其居官果好准仍留原任。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "孔航璋",
+   "role": "昌平州知州"
+  }
+ ],
+ "places": [
+  "昌平州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1702,
+ "page_range": "44-45"
+}

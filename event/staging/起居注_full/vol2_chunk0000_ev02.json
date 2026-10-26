@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初一日本已",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁典籍，康熙帝以梁述祖平常、孙文光年幼，命查明应升之人来奏。",
+ "people": [
+  {
+   "name": "梁述祖",
+   "role": "拟补内阁典籍"
+  },
+  {
+   "name": "孙文光",
+   "role": "陪拟内阁典籍"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2,
+ "page_range": "43-44"
+}

@@ -1,0 +1,46 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "二十五日戊子",
+ "event_role": "人事任免",
+ "summary": "吏部题副都御史张鹏升任员缺，开列李延松等，康熙帝询问后补授崔斌为副都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏",
+   "role": "副都御史"
+  },
+  {
+   "name": "李延松",
+   "role": "宗人府府丞"
+  },
+  {
+   "name": "崔斌",
+   "role": "候补官员"
+  },
+  {
+   "name": "王守才",
+   "role": "曾任学士"
+  },
+  {
+   "name": "赵之贞",
+   "role": "候补官员"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5005,
+ "page_range": "135-136"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "初二日己丁",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸丰润县西北。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "丰润县西北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11812,
+ "page_range": "279-280"
+}

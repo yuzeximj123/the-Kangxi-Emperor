@@ -1,0 +1,20 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "十一日甲子",
+ "event_role": "军务",
+ "summary": "将军赖塔奏报杀云南黄草地方逆贼二十二营，斩获甚多，生擒伪官贼兵千余，获象五头。",
+ "people": [
+  {
+   "name": "赖塔",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "云南黄草"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4221,
+ "page_range": "127-128"
+}

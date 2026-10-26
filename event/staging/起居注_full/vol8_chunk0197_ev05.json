@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "十六日己刻",
+ "event_role": "司法案件",
+ "summary": "九卿议误打亲兄致死之刘顺卿减等，康熙以误伤平人尚不轻贷，命发回再议具奏。",
+ "people": [
+  {
+   "name": "刘顺卿",
+   "role": "犯人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19705,
+ "page_range": "405-406"
+}

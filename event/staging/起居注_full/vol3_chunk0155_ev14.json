@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十二日丙午",
+ "event_role": "人事任免",
+ "summary": "吏部题补织造库郎中僧参升任员缺，拟苏尔武正、穆里布陪，康熙帝询问后命穆里布补授。",
+ "people": [
+  {
+   "name": "僧参",
+   "role": "织造库郎中"
+  },
+  {
+   "name": "苏尔武",
+   "role": "工部郎中"
+  },
+  {
+   "name": "穆里布",
+   "role": "孝陵郎中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15514,
+ "page_range": "345-346"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙问李锡坐名题补按察司员缺之粮道张孟球是否在九卿保举内，汤右曾答记得未曾保举，康熙令查之。",
+ "people": [
+  {
+   "name": "李锡",
+   "role": "官员"
+  },
+  {
+   "name": "张孟球",
+   "role": "粮道"
+  },
+  {
+   "name": "汤右曾",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12110,
+ "page_range": "253-254"
+}

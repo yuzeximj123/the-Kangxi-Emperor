@@ -1,0 +1,33 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部题请增修霍县马头等处挑水坝及月堤，康熙帝命王家栋、上景超、于汉翔前往办理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王家栋",
+   "role": "差遣官员"
+  },
+  {
+   "name": "上景超",
+   "role": "差遣官员"
+  },
+  {
+   "name": "于汉翔",
+   "role": "差遣官员"
+  }
+ ],
+ "places": [
+  "霍县",
+  "马头"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14001,
+ "page_range": "291-292"
+}

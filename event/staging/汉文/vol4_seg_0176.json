@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十二年正月十九日",
+ "reign_year": 52,
+ "month": null,
+ "day": 13,
+ "event_role": "奏报地方情形",
+ "summary": "广州将军管源忠奏覆广东查拿盗贼、搜山已无贼踪及地方安靖情形，并恭慰圣怀。",
+ "people": [
+  {
+   "name": "管源忠",
+   "role": "广州将军，奏报人"
+  },
+  {
+   "name": "赵弘燮",
+   "role": "易州知州，恭折代奏"
+  }
+ ],
+ "places": [
+  "广州",
+  "韶州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "廣州將軍管源忠奏覆粤省盜案情形並米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "123",
+ "order_index": 176
+}

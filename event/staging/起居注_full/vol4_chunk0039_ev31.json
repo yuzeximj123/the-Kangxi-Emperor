@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 9,
+ "day_text": "十九日戊子",
+ "event_role": "朝见受贺",
+ "summary": "驻防古北口拖沙拉哈番品级章京拉沙里等、笔帖式萨西等、古北路都司爹书施纯等来朝。",
+ "people": [
+  {
+   "name": "拉沙里",
+   "role": "驻防古北口拖沙拉哈番品级章京"
+  },
+  {
+   "name": "萨西",
+   "role": "笔帖式"
+  },
+  {
+   "name": "施纯",
+   "role": "古北路都司爹书"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3931,
+ "page_range": "90-91"
+}

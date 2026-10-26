@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部请旨原任副将官斌复职事，康熙命其仍以都司佥书管理副将事，并补授通州副将。",
+ "people": [
+  {
+   "name": "官斌",
+   "role": "原任副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 901,
+ "page_range": "29-30"
+}

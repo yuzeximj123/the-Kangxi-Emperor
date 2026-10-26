@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 7,
+ "day_text": "二十五日已卯",
+ "event_role": "其他",
+ "summary": "是日赐西安驻防副都统马云直鞍马一匹。",
+ "people": [
+  {
+   "name": "马云直",
+   "role": "西安驻防副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15008,
+ "page_range": "310-311"
+}

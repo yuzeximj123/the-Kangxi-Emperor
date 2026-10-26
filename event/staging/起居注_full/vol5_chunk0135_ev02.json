@@ -1,0 +1,27 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "行在兵部移文抚远大将军，通报噶尔丹败逃情形及皇上亲追至拖诺山、班师迎米、调拨粮马等安排。",
+ "people": [
+  {
+   "name": "马思喀",
+   "role": "内大臣、大将军"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  }
+ ],
+ "places": [
+  "拖诺山",
+  "拖陵地方",
+  "克勒和朔地方",
+  "喀伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13502,
+ "page_range": "280-281"
+}

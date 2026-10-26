@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 2,
+ "day_text": "初三日",
+ "event_role": "人事任免",
+ "summary": "兵部补授四川总兵官，康熙帝以四川新复地方紧要，令将高和天、王用予、王朝海、赵名佑补授总兵四缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高和天",
+   "role": "总兵官"
+  },
+  {
+   "name": "王用予",
+   "role": "总兵官"
+  },
+  {
+   "name": "王朝海",
+   "role": "总兵官"
+  },
+  {
+   "name": "赵名佑",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21918,
+ "page_range": "495-496"
+}

@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙五十四年六月十五日",
+ "reign_year": 54,
+ "month": 6,
+ "day": 15,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报江苏巡抚张伯行会同两江总督赫寿在常州府审讯秋决人犯，以及张鹏翮等起身前往镇江府的行止。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "张伯行",
+   "role": "江苏巡抚"
+  },
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "事大人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "常州府",
+  "镇江府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "苏州织造李煦奏报张伯行并张鹏翮等近日行止折",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1807",
+ "order_index": 81
+}

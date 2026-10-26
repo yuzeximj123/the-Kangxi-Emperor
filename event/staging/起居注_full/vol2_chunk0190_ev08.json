@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十一日癸巳",
+ "event_role": "皇帝行止",
+ "summary": "已时康熙由西华门出西直门幸玉泉山，各部院章奏交内阁，命学士萨海随行，是日驻跸玉泉山。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨海",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "西华门",
+  "西直门",
+  "玉泉山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19008,
+ "page_range": "423-424"
+}

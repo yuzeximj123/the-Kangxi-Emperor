@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "初六日成辰",
+ "event_role": "司法案件",
+ "summary": "吏部题按察司高承枉承审迟延罚俸三月，康熙帝谕直隶各省乡绅扰害小民者多，令吏部移取高承历口供严议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高承枉",
+   "role": "按察司"
+  },
+  {
+   "name": "周廷鉴",
+   "role": "控告人"
+  },
+  {
+   "name": "胡简敬",
+   "role": "被控者"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9418,
+ "page_range": "200-201"
+}

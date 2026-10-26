@@ -1,0 +1,33 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "十八日戊辰",
+ "event_role": "人事任免",
+ "summary": "吏部覆御史周祚显题原任西安府管粮通判张晟亏空仓米，请将欠银官员革职严追，康熙依议。",
+ "people": [
+  {
+   "name": "周祚显",
+   "role": "御史"
+  },
+  {
+   "name": "张晟",
+   "role": "原任西安府管粮通判"
+  },
+  {
+   "name": "曾尚俊",
+   "role": "欠银官员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安府",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12413,
+ "page_range": "259-260"
+}

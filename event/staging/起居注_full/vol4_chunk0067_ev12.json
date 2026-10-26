@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "十七日",
+ "event_role": "谕旨决策",
+ "summary": "奉天府尹金世鉴题请将盛京八旗官兵庄头余地荒地勘出给民起科，康熙帝质疑并命其明白具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金世鉴",
+   "role": "奉天府尹"
+  }
+ ],
+ "places": [
+  "盛京",
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6712,
+ "page_range": "146-147"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 29,
+ "month": 1,
+ "day_text": "十二日甲辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户部重农劝耕，令直隶被灾州县劝谕捐输资助穷民牛种，八旗都统等酌量资助被灾贫乏官兵牛种。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10003,
+ "page_range": "212-213"
+}

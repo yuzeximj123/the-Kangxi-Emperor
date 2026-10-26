@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "二十五日甲午",
+ "event_role": "起居注官记录",
+ "summary": "记注官记述此行康熙帝每日清晨亲奉太皇太后行幄、沿途视膳问安，并每三日递送章奏、午夜披览未尝少辍。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "祖母"
+  },
+  {
+   "name": "常书",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "朱马泰",
+   "role": "扈从起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20720,
+ "page_range": "457-458"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十三日己亥",
+ "event_role": "议政听政",
+ "summary": "康熙帝称巡幸宁夏时见刘殿衡优长肯效力，阿兰泰奏其称职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘殿衡",
+   "role": "官员"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2108,
+ "page_range": "52-53"
+}

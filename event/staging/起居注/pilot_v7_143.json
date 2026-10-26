@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙四十五年十九日",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "癸酉",
+ "event_role": "谕旨决策",
+ "summary": "九卿以山东私钱甚多请罢赵世显开坊鼓铸之议并自请罪，旨令遣司官持折往问赵世显。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵世显",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "思丕",
+   "role": "侍郎"
+  },
+  {
+   "name": "九卿",
+   "role": "议政官员"
+  }
+ ],
+ "places": [
+  "山东",
+  "济南",
+  "临清"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3143
+}

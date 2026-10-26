@@ -1,0 +1,48 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十六日戊申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士温达等以折本请旨，处理吏部按察使员缺拟补事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "众圣保",
+   "role": "学士"
+  },
+  {
+   "name": "马良",
+   "role": "学士"
+  },
+  {
+   "name": "傅尔",
+   "role": "学士"
+  },
+  {
+   "name": "胡讷",
+   "role": "学士"
+  },
+  {
+   "name": "王用霖",
+   "role": "按察使"
+  },
+  {
+   "name": "王之麟",
+   "role": "四川川东参政道"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22111,
+ "page_range": "453-454"
+}

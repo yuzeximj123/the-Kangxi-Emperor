@@ -1,0 +1,35 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "初八日庚申",
+ "event_role": "人事任免",
+ "summary": "兵部题补宁古塔副都统，康熙帝以杨古岱无效力、马尔汉非才，命将护军参领一并另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马尔汉",
+   "role": "协领"
+  },
+  {
+   "name": "杨古岱",
+   "role": "陪拟官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "乌拉",
+  "江西",
+  "袁州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5023,
+ "page_range": "143-144"
+}

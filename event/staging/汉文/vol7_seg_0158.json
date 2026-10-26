@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十五年十月初二日",
+ "reign_year": 55,
+ "month": 10,
+ "day": 29,
+ "event_role": "请安谢恩",
+ "summary": "原任陕西肃州总兵官李玺特遣家人王国顺进京叩谢天恩，具折奏闻，康熙帝朱批知道了。",
+ "people": [
+  {
+   "name": "李玺",
+   "role": "原任陕西肃州总兵官都督佥事加贰级，具奏人"
+  },
+  {
+   "name": "王国顺",
+   "role": "李玺家人，奉命捧进奏折叩谢天恩"
+  }
+ ],
+ "places": [
+  "陕西",
+  "肃州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "兩廣總督趙弘燮奏【報】粤東收成【米】價並【進】果摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "240",
+ "order_index": 158
+}

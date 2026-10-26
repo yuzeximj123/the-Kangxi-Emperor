@@ -1,0 +1,36 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "event_summary": "刑部覆报镶白旗前锋苏赫陈家人博和代砍死本宅家人新二，拟斩监候，康熙令察明营中完结情形具奏。",
+ "people": [
+  {
+   "name": "博和代",
+   "role": "前锋家人"
+  },
+  {
+   "name": "新二",
+   "role": "家人"
+  },
+  {
+   "name": "苏赫陈",
+   "role": "前锋"
+  },
+  {
+   "name": "巴尔布",
+   "role": "署理西安将军事副都统"
+  },
+  {
+   "name": "颜布",
+   "role": "署理将军事都统"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18904,
+ "page_range": "389-390"
+}

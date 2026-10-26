@@ -1,0 +1,38 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "初八日王子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命侍卫二格将石刻升平嘉宴诗及御书御制序装成册页九十三册，赐与宴大臣官员，并分赐王熙、牛钮等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "二格",
+   "role": "侍卫"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  },
+  {
+   "name": "汉溥",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14511,
+ "page_range": "333-334"
+}

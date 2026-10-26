@@ -1,0 +1,40 @@
+{
+ "reign_year": 26,
+ "month": 10,
+ "day_text": "十一日丙辰",
+ "event_role": "人事任免",
+ "summary": "吏部题太常寺卿王遵训升任员缺，康熙帝命以佥都御史卫执蒲从优升补太常寺卿。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "禅布",
+   "role": "学士"
+  },
+  {
+   "name": "额尔黑图",
+   "role": "学士"
+  },
+  {
+   "name": "觉罗属拜",
+   "role": "学士"
+  },
+  {
+   "name": "王遵训",
+   "role": "太常寺卿"
+  },
+  {
+   "name": "卫执蒲",
+   "role": "佥都御史"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24816,
+ "page_range": "531-532"
+}

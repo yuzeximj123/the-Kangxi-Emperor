@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十六年二月二十五日",
+ "reign_year": 56,
+ "month": 2,
+ "day": 25,
+ "event_role": "军务",
+ "summary": "直隶总督赵弘燮转奏天津镇总兵马见伯请设水师、招募沿海渔户并动盐库银打造海船十只，并请以臣标空粮拨补水师兵额，具折请旨。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督、兵部右侍郎兼都察院右副都御史，具奏人"
+  },
+  {
+   "name": "马见伯",
+   "role": "天津镇总兵官，奏请设立水师招募沿海渔户"
+  }
+ ],
+ "places": [
+  "天津",
+  "大沽营",
+  "山东",
+  "奉天"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸總督趙弘燮奏請動用庫銀兩打造海船摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2349",
+ "order_index": 357
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙肆拾玖年肆月日",
+ "reign_year": 49,
+ "month": 4,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "广东提督施世骠奏请沿海游击缺出时，准照福建水师提督吴英四十七年之例，从守备中越衔拣选谙练水务之员题补，以重海疆得人。",
+ "people": [
+  {
+   "name": "施世骠",
+   "role": "广东提督，奏请人"
+  },
+  {
+   "name": "吴英",
+   "role": "福建水师提督，援引其四十七年题例"
+  }
+ ],
+ "places": [
+  "广东",
+  "福建",
+  "粤海"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 305
+}

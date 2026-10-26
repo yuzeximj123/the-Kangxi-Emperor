@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "二十九日戊申",
+ "event_role": "司法案件",
+ "summary": "兵部议将云南城内出往蒙古地方的赵永和交刑部，康熙帝以其非伪官免交刑部，着入官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章泰",
+   "role": "大将军贝子"
+  },
+  {
+   "name": "赵永和",
+   "role": "闲散之人"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8806,
+ "page_range": "219-220"
+}

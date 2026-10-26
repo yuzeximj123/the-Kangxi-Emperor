@@ -1,0 +1,29 @@
+{
+ "reign_year": 18,
+ "month": 8,
+ "day_text": "二十九日辛卯",
+ "event_role": "朝见受贺",
+ "summary": "满汉九卿、詹事、科道等官传集中左门，康熙帝召吏部侍郎折尔肯、屯泰至内殿谕旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "折尔肯",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "屯泰",
+   "role": "吏部侍郎"
+  }
+ ],
+ "places": [
+  "中左门",
+  "内殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18927,
+ "page_range": "435-436"
+}

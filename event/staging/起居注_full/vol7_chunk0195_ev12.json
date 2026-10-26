@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初九日甲午",
+ "event_role": "人事任免",
+ "summary": "补授侍讲学士本内夹开翰林官员名次折子，康熙帝以杨绪名声不佳，令问九卿、詹事、科道具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨绪",
+   "role": "翰林官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19512,
+ "page_range": "401-402"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十八日戊寅",
+ "event_role": "司法案件",
+ "summary": "吏部议福建巡抚吴兴祚代题陈梦雷辩明心迹不合事，康熙帝以草率命再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴兴祚",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "陈梦雷",
+   "role": "编修"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22216,
+ "page_range": "501-502"
+}

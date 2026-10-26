@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "浙江巡抚王度昭题钱塘县知县邹紫客员缺请补授，康熙帝命王度昭于本省官员内拣选具奏。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "邹紫客",
+   "role": "钱塘县知县"
+  }
+ ],
+ "places": [
+  "钱塘县",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20002,
+ "page_range": "411-412"
+}

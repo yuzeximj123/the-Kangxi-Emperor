@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙十年九月初五日癸丑",
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "初五日癸丑",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝驻跸沙里河，地方文武官员及科尔沁部镇国公都思哈儿来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "都思哈儿",
+   "role": "科尔沁部镇国公"
+  }
+ ],
+ "places": [
+  "沙里河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3
+}

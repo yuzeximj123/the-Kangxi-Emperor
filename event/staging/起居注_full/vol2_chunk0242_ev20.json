@@ -1,0 +1,22 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "二十七日甲午",
+ "event_role": "弹劾参奏",
+ "summary": "左都御史徐元文参候补御史萧鸣凤为知县时贪赃及居丧宿娼，康熙令交巡抚严审具奏。",
+ "people": [
+  {
+   "name": "徐元文",
+   "role": "左都御史"
+  },
+  {
+   "name": "萧鸣凤",
+   "role": "候补御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24220,
+ "page_range": "527-528"
+}

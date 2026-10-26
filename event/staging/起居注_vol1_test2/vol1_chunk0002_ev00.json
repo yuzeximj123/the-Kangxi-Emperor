@@ -1,0 +1,25 @@
+{
+ "reign_year": 10,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令巴海对飞牙喀、黑折等部广布教化、加强防御、操练士马、整备器械，并允许陈奏地方大事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴海",
+   "role": "宁古塔将军"
+  }
+ ],
+ "places": [
+  "飞牙喀",
+  "黑折"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 200,
+ "page_range": "61-62"
+}

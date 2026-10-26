@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "二十五日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝向格垒沾英宣谕，说明喀尔喀、厄鲁特皆本朝职贡之国，帝无偏徇，收养来归之人，并责噶尔丹背誓犯边，自取穷困。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "格垒沾英",
+   "role": "噶尔丹使人"
+  }
+ ],
+ "places": [
+  "东斯霹"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17516,
+ "page_range": "360-361"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 4,
+ "day_text": "初八日已已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户部尚书苏赫等，遣司官往察直隶防守官兵家口贫苦者以便赈恤。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏赫",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11706,
+ "page_range": "246-247"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "二十七日壬申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝问王国昌、吴兴祖学问，明珠称二人皆优，帝命吴兴祖补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王国昌",
+   "role": "监察御史"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13428,
+ "page_range": "311-312"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "十二日广午",
+ "event_role": "请安谢恩",
+ "summary": "是日，康熙帝赴洲铂为德行宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "洲铂",
+  "德行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16523,
+ "page_range": "341-342"
+}

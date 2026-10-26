@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题斗殴杀人绞犯蒋腾光援赦免罪，康熙帝指出案称食碱而死有误，命改正碱字，并申饬理藩院疏略。",
+ "people": [
+  {
+   "name": "蒋腾光",
+   "role": "绞犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "额贝都喇",
+   "role": "塞外之人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9904,
+ "page_range": "208-209"
+}

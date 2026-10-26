@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "初二日成成",
+ "event_role": "司法案件",
+ "summary": "刑部题候补知府卢承都家人邓寿殴打太医院吏目方珀，拟枷号四十日、鞭一百，卢承都销加级纪录。",
+ "people": [
+  {
+   "name": "邓寿",
+   "role": "卢承都家人，拟罪"
+  },
+  {
+   "name": "方珀",
+   "role": "太医院吏目，被殴"
+  },
+  {
+   "name": "卢承都",
+   "role": "候补知府，失于约束"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3120,
+ "page_range": "72-73"
+}

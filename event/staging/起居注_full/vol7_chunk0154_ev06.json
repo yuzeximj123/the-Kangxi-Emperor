@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "就湖广按察司郎廷栋员缺，康熙帝准湖广巡抚赵申乔所请，以衡永柳道王朝恩补授按察司。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "郎廷栋",
+   "role": "湖广按察司"
+  },
+  {
+   "name": "王朝恩",
+   "role": "衡永柳道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15406,
+ "page_range": "319-320"
+}

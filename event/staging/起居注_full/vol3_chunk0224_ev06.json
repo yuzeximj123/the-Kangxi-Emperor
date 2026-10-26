@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "十六日癸亥",
+ "event_role": "人事任免",
+ "summary": "兵部题台湾总兵官王化行兼衔署都司佥书，康熙帝授为都督佥书。",
+ "people": [
+  {
+   "name": "王化行",
+   "role": "台湾总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22406,
+ "page_range": "483-484"
+}

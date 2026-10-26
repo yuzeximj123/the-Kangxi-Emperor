@@ -1,0 +1,26 @@
+{
+ "reign_year": 31,
+ "month": 8,
+ "day_text": "十六日癸巳",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题私铸铜钱吴岳、李华俱拟斩立决、家产入官；康熙帝以二人系小人图利、一时无知，命从宽免死，发与黑。",
+ "people": [
+  {
+   "name": "吴岳",
+   "role": "私铸铜钱犯"
+  },
+  {
+   "name": "李华",
+   "role": "私铸铜钱犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20434,
+ "page_range": "420-421"
+}

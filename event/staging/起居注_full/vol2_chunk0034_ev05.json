@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": "二十日甲戌",
+ "event_role": "议政听政",
+ "summary": "早，康熙御乾清门听部院各衙门官员面奏政事，监察御史喇占奏请通州、天津一带贸易粮米加行税以裕国赋。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇占",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "通州",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3405,
+ "page_range": "111-112"
+}

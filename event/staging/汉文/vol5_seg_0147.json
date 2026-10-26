@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙伍拾叁年正月拾柒日",
+ "reign_year": 53,
+ "month": 1,
+ "day": 17,
+ "event_role": "朝见受贺",
+ "summary": "陕西兰州总兵官路振声因康熙万寿，远在边塞不能亲赴朝贺，率肃州文武官绅士民叩坛建醮祝寿，并遣家人进献藏香、蒔等物。",
+ "people": [
+  {
+   "name": "路振声",
+   "role": "陕西兰州总兵官，奏折作者"
+  },
+  {
+   "name": "王国玺",
+   "role": "路振声家人，代其进献物品"
+  },
+  {
+   "name": "马陆张华",
+   "role": "西宁总兵官"
+  }
+ ],
+ "places": [
+  "陕西",
+  "兰州",
+  "肃州",
+  "西宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批为“朕安”，即皇帝告知自己安好。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 147
+}

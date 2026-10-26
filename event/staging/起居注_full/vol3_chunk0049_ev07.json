@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "二十二日乙酉",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，钦天监与礼部请禁北方烧造砖瓦，康熙帝质疑其中有情弊，命礼部会同都察院另行详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "介山",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "钦天监监正",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4907,
+ "page_range": "133-134"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "十九日壬寅",
+ "event_role": "人事任免",
+ "summary": "监察御史席珠升任员缺，拟员外郎普海为正、西特库为陪，康熙帝命选择具奏。",
+ "people": [
+  {
+   "name": "席珠",
+   "role": "监察御史"
+  },
+  {
+   "name": "普海",
+   "role": "员外郎"
+  },
+  {
+   "name": "西特库",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16807,
+ "page_range": "371-372"
+}

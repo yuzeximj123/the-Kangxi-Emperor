@@ -1,0 +1,20 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十五日戊辰",
+ "event_role": "人事任免",
+ "summary": "吏部题湖南按察使常明扬员缺，请旨拟补，康熙帝命问九卿，道员内有居官优长者举奏。",
+ "people": [
+  {
+   "name": "常明扬",
+   "role": "湖南按察使"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22017,
+ "page_range": "450-451"
+}

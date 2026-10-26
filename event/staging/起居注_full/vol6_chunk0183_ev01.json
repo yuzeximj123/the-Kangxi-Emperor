@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "二十九日",
+ "event_role": "议政听政",
+ "summary": "酉时康熙帝御行宫，大学士马齐等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "邵穆布",
+   "role": "学士"
+  },
+  {
+   "name": "席哈纳",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18301,
+ "page_range": "376-377"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "二十五日戊申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝顾护军统领宗室费扬古等，说明原欲军中宴将士，因追噶尔丹至拖诺山运粮迟误迎粮而回，故今日赐食，并慰劳军士。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "护军统领宗室"
+  }
+ ],
+ "places": [
+  "拖诺山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17006,
+ "page_range": "350-351"
+}

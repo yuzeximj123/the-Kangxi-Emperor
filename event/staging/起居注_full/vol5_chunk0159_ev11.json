@@ -1,0 +1,37 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十四日丁丑",
+ "event_role": "谕旨决策",
+ "summary": "谕阿兰泰、马齐议右卫兵丁马匹就近赴大同牧养，后命阿尔拜前往监视分养、给实价勿苦百姓。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "多奇",
+   "role": "侍郎"
+  },
+  {
+   "name": "阿尔拜",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "大同",
+  "宣化"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15911,
+ "page_range": "328-329"
+}

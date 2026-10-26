@@ -1,0 +1,52 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "二十日辛已",
+ "event_role": "人事任免",
+ "summary": "吏部题运司石佳苏员缺，康熙以永平府知府梁世勋居官优长，令问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁世勋",
+   "role": "永平府知府"
+  },
+  {
+   "name": "李光地",
+   "role": "保奏者"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴瑞",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "张英",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "永平府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15810,
+ "page_range": "326-327"
+}

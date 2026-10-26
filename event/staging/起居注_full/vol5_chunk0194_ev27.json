@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初四日乙卯",
+ "event_role": "军务",
+ "summary": "护军校阿奇纳等押到噶尔丹之子塞卜屯巴尔住尔，康熙帝御行宫令其入见问话。",
+ "people": [
+  {
+   "name": "阿奇纳",
+   "role": "护军校"
+  },
+  {
+   "name": "塞卜屯巴尔住尔",
+   "role": "噶尔丹之子"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神木县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19427,
+ "page_range": "398-399"
+}

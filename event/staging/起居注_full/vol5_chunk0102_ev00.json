@@ -1,0 +1,40 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙命将费扬古所奏验试气井事送学士三宝转奏皇太子，并命三宝往古北口察修路及粮车行走情形。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "班第",
+   "role": "理藩院尚书"
+  },
+  {
+   "name": "西喇",
+   "role": "侍郎"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "三宝",
+   "role": "学士"
+  },
+  {
+   "name": "阿玉笔",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10200,
+ "page_range": "214-215"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "九卿保举蔡升元等六人补广东巡抚员缺，康熙特授翰林法海为广东巡抚。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "蔡升元",
+   "role": "内净学士"
+  },
+  {
+   "name": "法海",
+   "role": "翰林"
+  },
+  {
+   "name": "杨琳",
+   "role": "广东巡抚"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16305,
+ "page_range": "337-338"
+}

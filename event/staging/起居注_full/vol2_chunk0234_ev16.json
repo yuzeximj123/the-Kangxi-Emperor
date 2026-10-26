@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十八日乙丑",
+ "event_role": "人事任免",
+ "summary": "兵部题补凤凰城防御吴里海休致员缺，康熙帝询问袁留并命问侍郎阿兰泰。",
+ "people": [
+  {
+   "name": "吴里海",
+   "role": "凤凰城防御"
+  },
+  {
+   "name": "袁留",
+   "role": "八品笔帖式"
+  },
+  {
+   "name": "佛保",
+   "role": "在京七品官"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "凤凰城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23416,
+ "page_range": "511-512"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "十八日己巳",
+ "event_role": "人事任免",
+ "summary": "吏部题补川陕总督哈占升任员缺，康熙帝以希福才可用命补授此缺。",
+ "people": [
+  {
+   "name": "哈占",
+   "role": "川陕总督"
+  },
+  {
+   "name": "科尔坤",
+   "role": "侍郎"
+  },
+  {
+   "name": "希福",
+   "role": "左都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "川陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21511,
+ "page_range": "473-474"
+}

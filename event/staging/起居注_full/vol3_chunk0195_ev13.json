@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "初二日王午",
+ "event_role": "人事任免",
+ "summary": "宗人府题右宗人公哈尔萨革任员缺，开列贝子星厄、苏尔法，康熙帝命查其次公等。",
+ "people": [
+  {
+   "name": "哈尔萨",
+   "role": "右宗人公"
+  },
+  {
+   "name": "星厄",
+   "role": "贝子"
+  },
+  {
+   "name": "苏尔法",
+   "role": "贝子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19513,
+ "page_range": "425-426"
+}

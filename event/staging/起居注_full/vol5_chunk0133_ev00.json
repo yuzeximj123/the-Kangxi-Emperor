@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将西路兵粮即行给与，并责于成龙运米迟误，令将和披所运之米运至土喇备北进。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "土喇",
+  "克鲁伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13300,
+ "page_range": "276-277"
+}

@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙肆拾玖年拾壹月 日",
+ "reign_year": 49,
+ "month": 11,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮以守道员缺紧要，奏请将大名道郎国祚升补守道，称其才守兼优、理繁治剧。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏请人"
+  },
+  {
+   "name": "毓柱",
+   "role": "原守道，已病故"
+  },
+  {
+   "name": "郎国祚",
+   "role": "大名道，被奏请升补守道"
+  }
+ ],
+ "places": [
+  "直隶",
+  "大名"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "直隶巡抚赵弘燮奏请将祁国祚升补守道摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 75
+}

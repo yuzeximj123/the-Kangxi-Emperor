@@ -1,0 +1,34 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部奏请派收贮米粮大臣，康熙帝命内大臣明珠、散秩大臣博第、苏永入、侍郎戴通、副都御史阿山留此收贮，并派新满洲侍卫十员伐取树枝覆盖米粮。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "博第",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "苏永入",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "戴通",
+   "role": "侍郎"
+  },
+  {
+   "name": "阿山",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10801,
+ "page_range": "226-227"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十九日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕议政大臣，待博世和希等回报噶尔丹或降或逃情形后再进兵，令速行文孙思克、博济止其进兵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博世和希",
+   "role": "员外郎"
+  },
+  {
+   "name": "常寿",
+   "role": "笔帖式"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "博济",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "喀伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20306,
+ "page_range": "416-417"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "十三日甲成",
+ "event_role": "谕旨决策",
+ "summary": "大学士明珠自京城来奏事，康熙帝告以己躬全愈，可传谕群臣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21112,
+ "page_range": "479-480"
+}

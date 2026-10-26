@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题提督徐治都请将游击宣辅等补常宁各营员缺，康熙帝准宣辅补授，余缺令提督会同该抚议奏。",
+ "people": [
+  {
+   "name": "徐治都",
+   "role": "提督"
+  },
+  {
+   "name": "宣辅",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "常宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5302,
+ "page_range": "149-150"
+}

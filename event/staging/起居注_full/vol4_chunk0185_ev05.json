@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "初六日丙戌",
+ "event_role": "谕旨决策",
+ "summary": "差往训阳管理运送陕西米石的傅腊塔请训，康熙帝令其思维再奏请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "刑部侍郎"
+  }
+ ],
+ "places": [
+  "训阳",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18505,
+ "page_range": "382-383"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "三十日甲申",
+ "event_role": "司法案件",
+ "summary": "吏部题道员柏成栋等揭告甘肃巡抚巴锡等贪焚款项，议遣大臣往审，康熙帝与大学士议定应审虚实。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "柏成栋",
+   "role": "道员"
+  },
+  {
+   "name": "巴锡",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3507,
+ "page_range": "113-114"
+}

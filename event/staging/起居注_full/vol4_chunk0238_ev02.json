@@ -1,0 +1,34 @@
+{
+ "reign_year": 32,
+ "month": 7,
+ "day_text": "二十三日乙丑",
+ "event_role": "人事任免",
+ "summary": "兵部题报镶红旗蒙古佐领关代员缺，拟以三布岱为正、巴锡为陪，康熙帝追问原管佐领之子并责莽喀轻躁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "三布岱",
+   "role": "员外郎，拟正"
+  },
+  {
+   "name": "巴锡",
+   "role": "护军校，拟陪"
+  },
+  {
+   "name": "莽喀",
+   "role": "都统"
+  },
+  {
+   "name": "关代",
+   "role": "原管佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23802,
+ "page_range": "488-489"
+}

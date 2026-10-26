@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "十五日庚成",
+ "event_role": "祭祀典礼",
+ "summary": "礼部题已故都统根特作典遵旨添写庭命，康熙帝称根特为有福之人，命加祭一次并与谥。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "根特",
+   "role": "已故都统"
+  },
+  {
+   "name": "松柱",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3705,
+ "page_range": "84-85"
+}

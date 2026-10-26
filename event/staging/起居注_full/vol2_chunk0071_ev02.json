@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初二日壬午",
+ "event_role": "谕旨决策",
+ "summary": "议政王等会议汉军及满洲蒙古休致官员愿在关厢居住者听其居住事，康熙帝询问明珠等意见后从之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "介山",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "关厢"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7102,
+ "page_range": "185-186"
+}

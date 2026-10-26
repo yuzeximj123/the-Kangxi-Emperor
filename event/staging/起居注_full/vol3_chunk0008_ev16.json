@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "十九日乙卯",
+ "event_role": "人事任免",
+ "summary": "湖广巡抚王新命调补员缺，满汉大学士议以慕天颜补用，康熙帝命补授湖北巡抚，但以其前居官不佳，令拟诫饬旨意。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "慕天颜",
+   "role": "原任江南巡抚，补授湖北巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 816,
+ "page_range": "51-52"
+}

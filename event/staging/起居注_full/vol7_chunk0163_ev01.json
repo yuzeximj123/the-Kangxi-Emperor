@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "兵部覆监察御史杨艺生条奏请京城每十家编为一甲轮流稽查，康熙认为保甲互相稽查有益，令问九卿具奏。",
+ "people": [
+  {
+   "name": "杨艺生",
+   "role": "监察御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16301,
+ "page_range": "337-338"
+}

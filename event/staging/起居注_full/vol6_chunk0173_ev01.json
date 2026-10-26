@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "礼部覆奏浙闽总督郭世隆报英圭黎人哨船被风漂至，议移文遣还，康熙帝命该督酌量资助修船速遣还国。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17301,
+ "page_range": "356-357"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十七日生辰",
+ "event_role": "人事任免",
+ "summary": "刑部旗分员外郎员缺，正拟张奇、陪拟阿己事，康熙帝令吏部、刑部会同选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张奇",
+   "role": "中书"
+  },
+  {
+   "name": "阿己事",
+   "role": "陪拟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13919,
+ "page_range": "321-322"
+}

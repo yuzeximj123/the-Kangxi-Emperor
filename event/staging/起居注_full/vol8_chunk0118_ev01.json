@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请湖广巡抚刘殿衡所题张圣照误伤伯父张兆升致死案，康熙帝命九卿、詹事、科道会同再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘殿衡",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "张圣照",
+   "role": "案犯"
+  },
+  {
+   "name": "张兆升",
+   "role": "被害人"
+  },
+  {
+   "name": "张炳",
+   "role": "被殴者"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11801,
+ "page_range": "247-248"
+}

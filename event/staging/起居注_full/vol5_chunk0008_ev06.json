@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "初十日戊实",
+ "event_role": "谕旨决策",
+ "summary": "康熙以樊咸修曾劝阻萨穆哈，免其处分；萨穆哈年迈误事，着解任。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨穆哈",
+   "role": "吏科给事中"
+  },
+  {
+   "name": "樊咸修",
+   "role": "吏科给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 806,
+ "page_range": "26-27"
+}

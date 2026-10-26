@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十四年",
+ "reign_year": 44,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "工部尚书王鸿绪上折恭请康熙皇帝圣躬万安。",
+ "people": [
+  {
+   "name": "王鸿绪",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批告知此后奏帖应照南巡甄例在宫中呈递，以免风声外传，不必再奏请安。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "149",
+ "source_title": "工部尚书王鸿绪奏请万安折",
+ "order_index": 110
+}

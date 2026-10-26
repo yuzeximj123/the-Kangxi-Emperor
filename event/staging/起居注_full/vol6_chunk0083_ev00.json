@@ -1,0 +1,21 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "苏州、浙江军民人等恳请康熙帝于万寿节前临幸浙江，并托臣等代为启奏。",
+ "people": [
+  {
+   "name": "苏州浙江军民",
+   "role": "军民"
+  }
+ ],
+ "places": [
+  "苏州",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8300,
+ "page_range": "176-177"
+}

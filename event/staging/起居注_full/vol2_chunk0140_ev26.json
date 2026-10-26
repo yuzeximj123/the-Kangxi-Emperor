@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "二十三日戊戌",
+ "event_role": "司法案件",
+ "summary": "兵部题赵良栋所参朱衣客事宜，康熙以总督巡抚相隔甚远会审需时，命兵、刑二部各差贤能司官一员前往会审。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵良栋",
+   "role": "参奏官员"
+  },
+  {
+   "name": "朱衣客",
+   "role": "被参官员"
+  },
+  {
+   "name": "哈占",
+   "role": "总督"
+  },
+  {
+   "name": "杭爱",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14026,
+ "page_range": "323-324"
+}

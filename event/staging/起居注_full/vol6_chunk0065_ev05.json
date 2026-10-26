@@ -1,0 +1,38 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十八日戊成",
+ "event_role": "人事任免",
+ "summary": "兵部覆云贵总督王继文题补副将游击等员缺，议不准行；康熙帝命赵连壁、李进采至京引见，刘世周不必来京。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王继文",
+   "role": "云贵总督"
+  },
+  {
+   "name": "刘世周",
+   "role": "游击"
+  },
+  {
+   "name": "赵连壁",
+   "role": "守备"
+  },
+  {
+   "name": "李进采",
+   "role": "千总"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6505,
+ "page_range": "140-141"
+}

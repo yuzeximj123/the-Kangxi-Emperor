@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙伍拾壹年拾壹月贰拾贰日",
+ "reign_year": 51,
+ "month": 11,
+ "day": 22,
+ "event_role": "请安谢恩",
+ "summary": "直隶总督赵弘燮因闻皇上圣躬偶有微疾，远在保阳斋戒祈安，具摺恭请皇上圣躬万安。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督，奏摺具奏人"
+  },
+  {
+   "name": "皇太后",
+   "role": "康熙帝之母，朱批中提及病势可虑"
+  },
+  {
+   "name": "皇上",
+   "role": "康熙帝，奏请对象"
+  }
+ ],
+ "places": [
+  "保阳"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批称皇太后年高病重可虑，自己又多病。",
+ "source_title": "直隶总督赵弘燮奏为因闻皇上圣躬偶有微疾斋戒祈安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 20
+}

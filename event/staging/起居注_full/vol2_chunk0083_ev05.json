@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "初七日丙戌",
+ "event_role": "议政听政",
+ "summary": "早康熙帝御乾清门听部院各衙门官员面奏政事，户部官员奏河冻后用拖床运米事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "额库礼",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "喀尔图",
+   "role": "仓场侍郎"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8305,
+ "page_range": "209-210"
+}

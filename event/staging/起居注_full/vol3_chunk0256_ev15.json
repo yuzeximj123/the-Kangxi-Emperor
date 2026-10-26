@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 12,
+ "day_text": "十八日壬戌",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清门听政，部院各衙门官员面奏，山西道御史陈紫芝参奏湖广巡抚张沂居官贪劣应严处，并请察议保举之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈紫芝",
+   "role": "山西道御史"
+  },
+  {
+   "name": "张沂",
+   "role": "湖广巡抚"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25615,
+ "page_range": "547-548"
+}

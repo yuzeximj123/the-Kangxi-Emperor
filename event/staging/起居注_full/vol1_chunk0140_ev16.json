@@ -1,0 +1,28 @@
+{
+ "reign_year": 16,
+ "month": 6,
+ "day_text": "二十二日本卯",
+ "event_role": "其他",
+ "summary": "未时康熙帝御景山内前殿，赐进贡的吴喇忒部落三品台吉色尔固棱等、苏尼忒部落四品台吉阿玉西等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色尔固棱",
+   "role": "吴喇忒部落三品台吉"
+  },
+  {
+   "name": "阿玉西",
+   "role": "苏尼忒部落四品台吉"
+  }
+ ],
+ "places": [
+  "景山内前殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14016,
+ "page_range": "337-338"
+}

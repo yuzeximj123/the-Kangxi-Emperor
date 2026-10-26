@@ -1,0 +1,36 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十三日乙雍",
+ "event_role": "司法案件",
+ "summary": "覆请刑部等审奏孤礼业等毒死伊主鄂齐尔一案，康熙帝准照所审分别凌迟、革职、降级。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孤礼业",
+   "role": "罪犯"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "原任佐领"
+  },
+  {
+   "name": "倭赫丹津",
+   "role": "都统"
+  },
+  {
+   "name": "苏永几",
+   "role": "归化城副都统"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21707,
+ "page_range": "445-446"
+}

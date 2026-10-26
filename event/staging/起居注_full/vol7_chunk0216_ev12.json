@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十日壬申",
+ "event_role": "人事任免",
+ "summary": "翰林院题庶吉士李钟侨等二十六员读清书、下俊民等四十员读汉书，康熙帝以读清书人少命再添人具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李钟侨",
+   "role": "庶吉士"
+  },
+  {
+   "name": "下俊民",
+   "role": "庶吉士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21612,
+ "page_range": "443-444"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "初八日本已",
+ "event_role": "谕旨决策",
+ "summary": "明珠奏议政王大臣对宽免图海之罪不胜欢忭，康熙帝命宽免图海。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "图海",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9015,
+ "page_range": "223-224"
+}

@@ -1,0 +1,27 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政大臣奏报扎萨克等领兵殿后保护行李移入喀伦，并派侍郎满不、郎中桑格前往喀尔喀游牧外地哨探。",
+ "people": [
+  {
+   "name": "满不",
+   "role": "侍郎"
+  },
+  {
+   "name": "桑格",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "喀伦",
+  "喀尔喀",
+  "瀚海",
+  "塔喇布喇克"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17400,
+ "page_range": "358-359"
+}

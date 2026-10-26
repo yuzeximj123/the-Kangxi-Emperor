@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十九日丙子",
+ "event_role": "谕旨决策",
+ "summary": "大学士等奏会议尚之信应令赴京听审，康熙帝问昨何以云遣官察审，明珠奏诸臣奉圣谕始知睿虑周详，帝命传谕尚之信止令押送不必拘系。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "尚之信",
+   "role": "平南亲王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25110,
+ "page_range": "559-560"
+}

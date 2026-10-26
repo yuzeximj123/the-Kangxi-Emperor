@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙御瀛台前亭，赐翁牛忒部落四品台吉褚扬等、吴喇忒部落四品台吉拜胡赖等茶。",
+ "people": [
+  {
+   "name": "褚扬",
+   "role": "翁牛忒部落四品台吉"
+  },
+  {
+   "name": "拜胡赖",
+   "role": "吴喇忒部落四品台吉"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25504,
+ "page_range": "567-568"
+}

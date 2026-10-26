@@ -1,0 +1,21 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "因王辅居官好，升天津副使道，后因平阳府地震民困，命王辅以副使道衔仍管平阳府知府事。",
+ "people": [
+  {
+   "name": "王辅",
+   "role": "平阳府知府"
+  }
+ ],
+ "places": [
+  "天津",
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9000,
+ "page_range": "190-191"
+}

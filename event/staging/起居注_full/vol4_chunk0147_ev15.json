@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 4,
+ "day_text": "十四日己已",
+ "event_role": "其他",
+ "summary": "康熙帝赐石匣营副将王廷彪银五十二两，守备千总把总等十四员各银十两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王廷彪",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "石匣营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14715,
+ "page_range": "306-307"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "十七日乙巳",
+ "event_role": "人事任免",
+ "summary": "兵部题补正蓝旗骁骑参领拟郎中瓦礼祜，康熙帝询问瓦礼祜才具，命察明本旗效力之人具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "瓦礼祜",
+   "role": "拟补郎中"
+  },
+  {
+   "name": "胡西布",
+   "role": "陪拟拜他喇布勒哈番"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24312,
+ "page_range": "543-544"
+}

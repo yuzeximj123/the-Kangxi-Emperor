@@ -1,0 +1,44 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "十六日己未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕马齐、席哈纳，论山东赈济、防官员捏报冒领，并评王国昌老实、刘上巧虑，表示必究明此事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "刘上",
+   "role": "布政使"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6921,
+ "page_range": "149-150"
+}

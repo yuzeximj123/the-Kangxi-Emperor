@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "十七日丁巳",
+ "event_role": "谕旨决策",
+ "summary": "原任学士黄懋等前往教养蒙古陛辞请训旨，康熙帝谕以劝善惩恶为要，查明实无生计者零星赈给，会同蒙古王、扎萨克严禁盗贼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄懋",
+   "role": "原任学士"
+  }
+ ],
+ "places": [
+  "蒙古"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7019,
+ "page_range": "150-151"
+}

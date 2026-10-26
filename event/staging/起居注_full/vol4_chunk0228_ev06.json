@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 3,
+ "day_text": "初九日吴丑",
+ "event_role": "人事任免",
+ "summary": "兵部题覆功加副将陈起龙因履历少开一岁不准叙用，康熙帝以其人材壮健、弓马习熟、善涉水，命前往该省沿海地方以千总等缺补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈起龙",
+   "role": "功加副将"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22806,
+ "page_range": "468-469"
+}

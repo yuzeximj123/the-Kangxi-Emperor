@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "十四日戊寅",
+ "event_role": "人事任免",
+ "summary": "兵部覆总兵官俞益席题老营堡等地方参将、游击、守备员缺，议不准行，康熙帝命将所题十八人召至京师引见。",
+ "people": [
+  {
+   "name": "俞益席",
+   "role": "总兵官"
+  },
+  {
+   "name": "陆建衡",
+   "role": "参将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大同",
+  "老营堡",
+  "利民中路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12918,
+ "page_range": "268-269"
+}

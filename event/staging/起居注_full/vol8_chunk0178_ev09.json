@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请光禄寺署正费常等在热河养马以应升之缺即用，康熙帝命依议补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费常",
+   "role": "光禄寺署正"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17809,
+ "page_range": "367-368"
+}

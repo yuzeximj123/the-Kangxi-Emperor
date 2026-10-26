@@ -1,0 +1,12217 @@
+[
+ {
+  "event_id": 1,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "1",
+  "source_title": "大学士伊桑阿等奏谢温谕恩问平安摺",
+  "order_index": 0,
+  "date_raw": "康熙贰拾捌年贰月贰拾柒日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "大学士伊桑阿等率众臣恭谢皇上南巡恩泽及远传温谕赐问平安。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "伊桑阿",
+    "role": "奏报人"
+   },
+   {
+    "name": "王熙",
+    "role": "联署人"
+   },
+   {
+    "name": "张清标",
+    "role": "联署人"
+   },
+   {
+    "name": "拜礼",
+    "role": "联署人"
+   },
+   {
+    "name": "迈图",
+    "role": "联署人"
+   },
+   {
+    "name": "索诺和",
+    "role": "联署人"
+   },
+   {
+    "name": "彭孙遹",
+    "role": "联署人"
+   },
+   {
+    "name": "郭琇",
+    "role": "联署人"
+   }
+  ],
+  "places": [
+   "齐鲁",
+   "扬州府"
+  ]
+ },
+ {
+  "event_id": 2,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "2",
+  "source_title": "苏州织造李煦奏请万安摺",
+  "order_index": 1,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "苏州织造李煦身在任所，专摺恭请皇上万安，以表思念之诚。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙自述五月间偶感时气转为疟疾，至二十九日痊愈，现已大安如常。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": []
+ },
+ {
+  "event_id": 3,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "3",
+  "source_title": "苏州织造李煦奏报苏州得雨并报米价摺",
+  "order_index": 2,
+  "date_raw": "康熙三十二年七月",
+  "reign_year": 32,
+  "month": 7,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "苏州织造李煦奏报苏州六月降雨、旱情缓解及米价平稳、民情安定情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙称自己已大安，因忧心南方旱情而寝食不安，得此奏稍解忧虑，命秋收后再奏报，并叮嘱奏帖不可让人知道。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "淮徐",
+   "两浙"
+  ]
+ },
+ {
+  "event_id": 4,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "4",
+  "source_title": "苏州织造李煦奏报苏州雨水米价并进漆器摺",
+  "order_index": 3,
+  "date_raw": "康熙三十二年十月",
+  "reign_year": 32,
+  "month": 10,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李煦奏报苏州秋收雨水米价及民心安定情形，并进献洋漆雕漆器物。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已知悉奏报内容。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 5,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "5",
+  "source_title": "苏州织造李煦奏为弋腔教习叶国桢已到苏州摺",
+  "order_index": 4,
+  "date_raw": "康熙三十二年",
+  "reign_year": 32,
+  "month": null,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "李煦奏报弋腔教习叶国桢已到苏州，并叩谢皇恩，承诺戏班学成后送京。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已知晓此事。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "叶国桢",
+    "role": "涉及人物"
+   },
+   {
+    "name": "佛保",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 6,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "6",
+  "source_title": "苏州织造李煦奏进元旦龙袍并漆器摺（附单）",
+  "order_index": 5,
+  "date_raw": "康熙五十二年十二月",
+  "reign_year": 52,
+  "month": 12,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "苏州织造李煦奏报元旦万安，进呈龙袍及洋漆、雕漆器物清单。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 7,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "8",
+  "source_title": "苏州织造李煦奏进端午龙袍摺",
+  "order_index": 6,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "李煦借进呈端午龙袍之机向康熙帝请安，表达感激圣恩与依恋之情。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "福州"
+  ]
+ },
+ {
+  "event_id": 8,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "9",
+  "source_title": "苏州织造李煦奏请预发采办青蓝布疋价银摺",
+  "order_index": 7,
+  "date_raw": "康熙三十四年九月",
+  "reign_year": 34,
+  "month": 9,
+  "day_text": null,
+  "event_role": "贸易漕运",
+  "summary": "李煦奏请于今冬预发价银采办来年青蓝布三十万疋，以省价银、便民生。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，并告诫李煦玉泉不守法令，应断绝与其往来。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "玉泉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "上海"
+  ]
+ },
+ {
+  "event_id": 9,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "10",
+  "source_title": "江宁织造曹寅奏贺平定噶尔丹折",
+  "order_index": 8,
+  "date_raw": "康熙叁拾伍年陆月初捌日",
+  "reign_year": 35,
+  "month": 6,
+  "day_text": null,
+  "event_role": "军务",
+  "summary": "曹寅奏报江宁官民闻平定噶尔丹捷报后建醮庆祝并请圣安",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙自述亲统六师北征噶尔丹，旬有三日尽灭厄鲁特，归功上天眷祐",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "噶尔丹",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "朝天宫"
+  ]
+ },
+ {
+  "event_id": 10,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "11",
+  "source_title": "苏州织造李煦奏贺亲征噶尔丹获胜折",
+  "order_index": 9,
+  "date_raw": "康熙三十五年七月",
+  "reign_year": 35,
+  "month": 7,
+  "day_text": null,
+  "event_role": "军务",
+  "summary": "苏州织造李煦祝贺康熙亲征噶尔丹获胜，并请求陛见，兼报苏州雨泽调匀秋成可望。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙提及皖抚所奏及某人读书嗜古、呈送夫子卷帙等事，称已有旨处理。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "曹寅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "噶尔丹",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 11,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "12",
+  "source_title": "（佚名）奏为祝贺慈寿并请圣安折",
+  "order_index": 10,
+  "date_raw": "康熙三十五年九月二十八日",
+  "reign_year": 35,
+  "month": 9,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "臣僚遥祝皇太后寿辰并请圣安，附进年例祝仪及野物，康熙朱批告以亲征噶尔丹获胜、边境安定。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告以自身安善，噶尔丹因三次亲征势穷众叛、败遁自尽，余众悉平，边民得以休养。",
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   },
+   {
+    "name": "皇太子",
+    "role": "涉及人物"
+   }
+  ],
+  "places": []
+ },
+ {
+  "event_id": 12,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "13",
+  "source_title": "江宁织造曹寅奏贺征讨噶尔丹大捷折",
+  "order_index": 11,
+  "date_raw": "康熙叁拾陆年伍月初叁日",
+  "reign_year": 36,
+  "month": 5,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "曹寅在江宁接阅征讨噶尔丹大捷邸报，设香案望阙叩贺并请圣安，兼请皇上南巡。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "噶尔丹",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "江南"
+  ]
+ },
+ {
+  "event_id": 13,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "14",
+  "source_title": "四川提督岳昇龙奏报到任整顿营务并今年雨水调顺折",
+  "order_index": 12,
+  "date_raw": "康熙拾陆年玖月",
+  "reign_year": 16,
+  "month": 9,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "四川提督岳昇龙奏报到任后整顿营务、清查饷银，并报今年雨水调顺、全蜀丰收。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "四川",
+   "川北",
+   "成都",
+   "川西",
+   "川南",
+   "川东"
+  ]
+ },
+ {
+  "event_id": 14,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "15",
+  "source_title": "四川提督岳昇龙奏贺皇上大捷并谢温纶褒宠折",
+  "order_index": 13,
+  "date_raw": "康熙叁拾陆年",
+  "reign_year": 36,
+  "month": null,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "四川提督岳昇龙奏贺康熙亲征噶尔丹大捷，并谢温纶褒宠。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "噶尔丹",
+    "role": "涉及人物"
+   },
+   {
+    "name": "丹济刺",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "四川",
+   "西藏",
+   "哈密"
+  ]
+ },
+ {
+  "event_id": 15,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "16",
+  "source_title": "四川提督岳昇龙奏为筹画所属营伍请旨遵行事折",
+  "order_index": 14,
+  "date_raw": "康熙五十六年十月",
+  "reign_year": 56,
+  "month": 10,
+  "day_text": null,
+  "event_role": "军务",
+  "summary": "四川提督岳昇龙奏请调整川东各协营马步兵配置与增饷加兵，并请示董卜印务及土司承袭安插事宜。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "于养志",
+    "role": "涉及人物"
+   },
+   {
+    "name": "高班一柱",
+    "role": "涉及人物"
+   },
+   {
+    "name": "高若璠",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "四川",
+   "川东",
+   "重庆",
+   "化林",
+   "天全六番"
+  ]
+ },
+ {
+  "event_id": 16,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "17",
+  "source_title": "四川提督岳昇龙奏请宽处董卜印冤案内有关土司事折",
+  "order_index": 15,
+  "date_raw": "康熙叁拾陆年玖月",
+  "reign_year": 36,
+  "month": 9,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "四川提督岳昇龙奏请宽处董卜印冤案内有关土司，建议将威土司革职带罪护理，待其子年长后交代。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "朋吉卜",
+    "role": "涉及人物"
+   },
+   {
+    "name": "于养志",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "四川"
+  ]
+ },
+ {
+  "event_id": 17,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "18",
+  "source_title": "四川提督岳昇龙奏陈川省各土司雠杀纷争情形折",
+  "order_index": 16,
+  "date_raw": "康熙叁拾陆年玖月",
+  "reign_year": 36,
+  "month": 9,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "四川提督岳昇龙奏报川省各土司因仇杀争袭纷争不已，请旨查办承袭并宣谕国法。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "张黄",
+    "role": "涉及人物"
+   },
+   {
+    "name": "禄应龙",
+    "role": "涉及人物"
+   },
+   {
+    "name": "言觉卜细",
+    "role": "涉及人物"
+   },
+   {
+    "name": "出卜上目",
+    "role": "涉及人物"
+   },
+   {
+    "name": "长儿吉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "韩疏",
+    "role": "联署人"
+   }
+  ],
+  "places": [
+   "四川",
+   "荆郡",
+   "滇",
+   "黔",
+   "东川",
+   "金川",
+   "武冈州",
+   "小金川",
+   "木坪",
+   "瓦布寺"
+  ]
+ },
+ {
+  "event_id": 18,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "19",
+  "source_title": "四川提督岳昇龙奏请特赐孔雀翎折",
+  "order_index": 17,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "四川提督岳昇龙请求皇上特赐孔雀翎，以彰显恩宠、便于弹压地方。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批告知已有旨意，即此事已另有谕旨处理。",
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "四川"
+  ]
+ },
+ {
+  "event_id": 19,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "20",
+  "source_title": "江宁织造曹寅奏报押运赈米到淮情形折",
+  "order_index": 18,
+  "date_raw": "康熙叁拾陆年拾月贰拾贰日",
+  "reign_year": 36,
+  "month": 10,
+  "day_text": null,
+  "event_role": "贸易漕运",
+  "summary": "曹寅奏报押运赈米到淮，会同漕臣桑格按灾情轻重分发淮扬各地平粜，并报米价及百姓感戴情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批表示知道了，令其奏报。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "桑格",
+    "role": "联署人"
+   },
+   {
+    "name": "宋荦",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "淮",
+   "扬州府",
+   "江都",
+   "兴化",
+   "泰州",
+   "宝应",
+   "高邮",
+   "淮安府",
+   "山阳",
+   "安东",
+   "清河",
+   "桃源",
+   "沐阳",
+   "宿迁",
+   "邳州",
+   "盐城县"
+  ]
+ },
+ {
+  "event_id": 20,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "21",
+  "source_title": "江宁织造曹寅奏报江南雨水米价并请安折",
+  "order_index": 19,
+  "date_raw": "康熙叁拾柒年肆月拾叁日",
+  "reign_year": 37,
+  "month": 4,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "曹寅奏报江南太平无事、春寒多雨致低洼麦田略歉收及省城米价平稳，并恭请圣安。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江南",
+   "省城"
+  ]
+ },
+ {
+  "event_id": 21,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "22",
+  "source_title": "湖南布政使王道熙奏为遭受巡抚辱骂事折前残",
+  "order_index": 20,
+  "date_raw": "康熙叁拾玖年伍月",
+  "reign_year": 39,
+  "month": 5,
+  "day_text": null,
+  "event_role": "弹劾参奏",
+  "summary": "湖南布政使王道熙奏报遭巡抚辱骂及清查烟户里甲中受欺压情事，请求敕旨。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告诫王道熙自立之后所造之事不可有一字隐瞒掩饰。",
+  "people": [
+   {
+    "name": "王道熙",
+    "role": "奏报人"
+   },
+   {
+    "name": "张维垣",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李亨时",
+    "role": "涉及人物"
+   },
+   {
+    "name": "刘荣",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈佳几",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "湖南",
+   "长沙府",
+   "常德府",
+   "善化县"
+  ]
+ },
+ {
+  "event_id": 22,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "23",
+  "source_title": "苏州织造李煦奏报本署乌林达家人孙云等殴辱职官折",
+  "order_index": 21,
+  "date_raw": "康熙三十七年六月",
+  "reign_year": 37,
+  "month": 6,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "苏州织造李煦奏报本衙门乌林达家人孙云殴辱乡宦陆经远，已交有司监禁并移咨巡抚审究。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙称已留览巡抚的参本，表示知道了此事。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "孙云",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李永寿",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陆经远",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "常州"
+  ]
+ },
+ {
+  "event_id": 23,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "24",
+  "source_title": "苏州织造李煦奏为再陈孙云等殴辱职官情形折",
+  "order_index": 22,
+  "date_raw": "康熙三十七年六月日",
+  "reign_year": 37,
+  "month": 6,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "李煦奏报孙云等假冒尸亲聚众殴辱乡宦陆经远并抄抢，请将失察之李永寿交包衣议处。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "孙云",
+    "role": "涉及人物"
+   },
+   {
+    "name": "孙贵",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陆经远",
+    "role": "涉及人物"
+   },
+   {
+    "name": "季永寿",
+    "role": "涉及人物"
+   },
+   {
+    "name": "宋荦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "彭五",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陆君瑞",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李小三",
+    "role": "涉及人物"
+   },
+   {
+    "name": "徐斌",
+    "role": "涉及人物"
+   },
+   {
+    "name": "许来池",
+    "role": "涉及人物"
+   },
+   {
+    "name": "梅志德",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王翊子",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 24,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "25",
+  "source_title": "苏州织造李煦奏报夏季雨水米价如常折",
+  "order_index": 23,
+  "date_raw": "康熙三十七年六月",
+  "reign_year": 37,
+  "month": 6,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李煦奏报苏州入夏雨水调匀、秧苗插种、禾苗茂盛、米价如常、百姓乐业。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批示已知，命秋收后有人来便速报收成情形。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 25,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "26",
+  "source_title": "苏州织造李煦进单",
+  "order_index": 24,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "苏州织造李煦进呈佛手、荔枝、泉酒等南方土产果品与露酒清单，供内廷使用。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知进单内容。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 26,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "27",
+  "source_title": "苏州织造李煦奏报秋收米价并请安折",
+  "order_index": 25,
+  "date_raw": "康熙三十七年十二月",
+  "reign_year": 37,
+  "month": 12,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "李煦奏报苏州秋收丰足、米价平稳，并恭请圣安、说明未敢来京缘由。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批示秋收后有便人时奏闻。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 27,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "28",
+  "source_title": "江宁织造曹寅奏谢豁免南巡地方赋额并天恩普惠全家折",
+  "order_index": 26,
+  "date_raw": "康熙叁拾捌年伍月贰拾陆日",
+  "reign_year": 38,
+  "month": 5,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "曹寅奏谢皇上南巡时蠲免经过地方赋税、宽宥罪人，并谢天恩普惠全家。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": []
+ },
+ {
+  "event_id": 28,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "29",
+  "source_title": "江宁织造曹寅奏报江南麦秋并蚕丝大收折",
+  "order_index": 27,
+  "date_raw": "康熙叁拾捌年伍月贰拾陆日",
+  "reign_year": 38,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "曹寅奏报江南雨水充足、麦秋丰收、蚕丝大收，并恭请圣安。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批阅后表示知道了。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江南"
+  ]
+ },
+ {
+  "event_id": 29,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "30",
+  "source_title": "江宁织造曹寅奏报与督抚公议明陵俟秋凉修补折",
+  "order_index": 28,
+  "date_raw": "康熙叁拾捌年伍月贰拾陆日",
+  "reign_year": 38,
+  "month": 5,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "曹寅奏报与督抚等公议监修明陵，因暑雨待秋凉兴修，并请俟竣工勒石御书。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "陶岱",
+    "role": "联署人"
+   },
+   {
+    "name": "宋荦",
+    "role": "联署人"
+   },
+   {
+    "name": "丁易",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "明陵"
+  ]
+ },
+ {
+  "event_id": 30,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "31",
+  "source_title": "江宁织造曹寅奏报江南上江得雨并在湖广江西买米折",
+  "order_index": 29,
+  "date_raw": "康熙叁拾捌年拾贰月拾贰日",
+  "reign_year": 38,
+  "month": 12,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "曹寅奏报江南上江得雨、下江雨水及收成可望，并报在湖广江西买米、江宁米价稍贵情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知奏报内容。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "联署人"
+   },
+   {
+    "name": "张蓝",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江南",
+   "上江",
+   "下江",
+   "湖广",
+   "江西",
+   "江宁府",
+   "浙江"
+  ]
+ },
+ {
+  "event_id": 31,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "34",
+  "source_title": "苏州织造李煦奏陈顾借营运资生银十万两折",
+  "order_index": 30,
+  "date_raw": "初六日",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "苏州织造李煦奏请借内帑银十万两营运资生，按年交本利银一万一千两，十年完清。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批仅记初六日，未载具体谕示内容。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "江苏"
+  ]
+ },
+ {
+  "event_id": 32,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "35",
+  "source_title": "致仕高士奇奏进金华枣折",
+  "order_index": 31,
+  "date_raw": "康熙三十九年十月十二日",
+  "reign_year": 39,
+  "month": 10,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "高士奇致仕后向皇上、皇太后及众阿哥请安，并进献金华茶以表诚心。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "高士奇",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "金华"
+  ]
+ },
+ {
+  "event_id": 33,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "36",
+  "source_title": "致仕高士奇奏陈蛰无告情形夹片",
+  "order_index": 32,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "高士奇致仕闲居养母，谢皇上恩选其长子为庶吉士，并陈次子病重、母老妻亡之忧苦。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "高士奇",
+    "role": "奏报人"
+   },
+   {
+    "name": "高兴家",
+    "role": "涉及人物"
+   }
+  ],
+  "places": []
+ },
+ {
+  "event_id": 34,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "37",
+  "source_title": "致仕高士奇奏进恭纪赋",
+  "order_index": 33,
+  "date_raw": "康熙三十八年八月",
+  "reign_year": 38,
+  "month": 8,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "致仕官员高士奇进呈恭纪赋与御赐东珠赋，颂扬皇恩帝德。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "高士奇",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "长白山"
+  ]
+ },
+ {
+  "event_id": 35,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "38",
+  "source_title": "苏州织造李煦奏报由京回苏照常办事并得雪情形折",
+  "order_index": 34,
+  "date_raw": "康熙叁拾玖年拾贰月",
+  "reign_year": 39,
+  "month": 12,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李煦奏报由京回苏州照常办事，并报苏州、常州、镇江一带连日大雪、河流封冻渐开及来岁丰年之兆。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "镇江",
+   "常州"
+  ]
+ },
+ {
+  "event_id": 36,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "39",
+  "source_title": "苏州织造李煦奏陈贺万寿折",
+  "order_index": 35,
+  "date_raw": "康熙四十年三月",
+  "reign_year": 40,
+  "month": 3,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "苏州织造李煦在康熙万寿时具折叩祝，并奏报苏州春景雨水麦收情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批知道了，表示已阅知悉。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 37,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "40",
+  "source_title": "苏州织造李煦奏陈杭州织造乌林达莫尔森可去东洋折",
+  "order_index": 36,
+  "date_raw": "康熙四十年三月",
+  "reign_year": 40,
+  "month": 3,
+  "day_text": null,
+  "event_role": "贸易漕运",
+  "summary": "李煦奏报与曹寅等会议选派莫尔森赴东洋，并报孙岳颁房屋兴建进度。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙叮嘱出洋之事千万不可露出行迹。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "曹寅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "敖福合",
+    "role": "涉及人物"
+   },
+   {
+    "name": "莫尔森",
+    "role": "涉及人物"
+   },
+   {
+    "name": "孙岳颁",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "杭州",
+   "江宁府",
+   "东洋"
+  ]
+ },
+ {
+  "event_id": 38,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "41",
+  "source_title": "苏州织造李煦奏报莫尔森已从上海出洋折",
+  "order_index": 37,
+  "date_raw": "康熙五十四年六月初四日",
+  "reign_year": 54,
+  "month": 6,
+  "day_text": null,
+  "event_role": "贸易漕运",
+  "summary": "李煦奏报已议定由杭州织造乌林达莫尔森从上海出洋前往东洋，并已开船启程。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，并叮嘱莫尔森回日即连续上报。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "莫尔森",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "苏州",
+   "杭州",
+   "宁波",
+   "上海"
+  ]
+ },
+ {
+  "event_id": 39,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "42",
+  "source_title": "苏州织造李煦奏报雨水情形并孙岳颁房屋已完工折",
+  "order_index": 38,
+  "date_raw": "康熙四十年八月",
+  "reign_year": 40,
+  "month": 8,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李煦奏报苏州夏秋雨水调匀、田禾茂盛可望丰年，并报孙岳颁房屋已完工。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "孙岳颁",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 40,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "43",
+  "source_title": "江宁织造曹寅奏报江南丰收并请安折",
+  "order_index": 39,
+  "date_raw": "康熙四十一年玖月拾陆日",
+  "reign_year": 41,
+  "month": 9,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "曹寅奏报皇上回銮请安，并报江南各省丰收、民安物阜。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批表示已知悉所奏内容。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江南",
+   "苏州",
+   "庐凤"
+  ]
+ },
+ {
+  "event_id": 41,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "44",
+  "source_title": "苏州织造李煦奏报稻禾收成并请安折",
+  "order_index": 40,
+  "date_raw": "康熙四十年九月",
+  "reign_year": 40,
+  "month": 9,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "苏州织造李煦奏报苏州今年稻禾丰收、早稻已收割晚禾登场，并恭请圣安。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 42,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "45",
+  "source_title": "陕甘提督李林盛奏为遵旨具奏地方事宜并雨水等情折",
+  "order_index": 41,
+  "date_raw": "康熙伍拾年九月初日",
+  "reign_year": 50,
+  "month": 9,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李林盛遵旨回奏陕甘地方情形、雨水收成及赈济情况，并谢恩领赐。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，命今后奏折用满文书写，不必用印。",
+  "people": [
+   {
+    "name": "李林盛",
+    "role": "奏报人"
+   },
+   {
+    "name": "吴达禅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "喇西库",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吴廷礼",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "陕西",
+   "甘肃",
+   "河东",
+   "宁夏",
+   "兰州"
+  ]
+ },
+ {
+  "event_id": 43,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "46",
+  "source_title": "蘇州織造李煦奏報莫爾森出洋已回現己由蘇州進京摺",
+  "order_index": 42,
+  "date_raw": "康熙四十年十月",
+  "reign_year": 40,
+  "month": 10,
+  "day_text": null,
+  "event_role": "贸易漕运",
+  "summary": "苏州织造李煦奏报杭州织造莫尔森出洋事毕返回，已由苏州启程进京。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，并称今年苏州年成极好、万民欢悦，归功于皇上洪福。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "莫尔森",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "杭州",
+   "宁波"
+  ]
+ },
+ {
+  "event_id": 44,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "47",
+  "source_title": "蘇州織造李煦奏為蘇州修建祝聖道場摺",
+  "order_index": 43,
+  "date_raw": "康熙四十四年十一月",
+  "reign_year": 44,
+  "month": 11,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李煦奏报苏州稻谷丰收、冬景晴和、民安物阜，士民修建祝圣道场以报蠲免钱粮之恩。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 45,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "48",
+  "source_title": "福建水師提督吳英奏請聖安摺",
+  "order_index": 44,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "福建水师提督吴英岁暮上摺向康熙帝请安，康熙朱批告知己安并叮嘱关注闽省米价。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告知自己安好，并提及闻闽省米价昂贵、恐生意外，望将军回心以副体恤黎民之意。",
+  "people": [
+   {
+    "name": "吴英",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "福建"
+  ]
+ },
+ {
+  "event_id": 46,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "49",
+  "source_title": "蘇州織造李煦奏為祝賀萬壽並報雨水菜麥情形摺",
+  "order_index": 45,
+  "date_raw": "康熙四十一年三月",
+  "reign_year": 41,
+  "month": 3,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "李煦在苏州任上恭贺康熙万寿，并奏报苏州春景雨水菜麦情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告知自己身体安好，但近京天旱令其心中不安。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 47,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "50",
+  "source_title": "蘇州織造李煦奏報蘇州菜麥已經收割摺",
+  "order_index": 46,
+  "date_raw": "康熙四十一年五月",
+  "reign_year": 41,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李煦奏报苏州菜麦已收割、雨水充足、秧苗正在插种，百姓安悦。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告知京城春旱后立夏麦收、雨水充沛，自己将出关避暑，并嘱咐李煦酌情照看南归的申客中纳监者。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 48,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "51",
+  "source_title": "陝甘提督李林盛奏報地方昇平並雨水收成情形摺",
+  "order_index": 47,
+  "date_raw": "康熙肆拾年拾月",
+  "reign_year": 40,
+  "month": 10,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李林盛遵旨奏报陕甘地方情形与雨水收成，并颂扬皇上赈恤免赋之恩。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，并怀疑此汉文奏折未必是李林盛本人所能撰写。",
+  "people": [
+   {
+    "name": "李林盛",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "陕西",
+   "甘肃"
+  ]
+ },
+ {
+  "event_id": 49,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "陸瑋奏雨水",
+  "order_index": 48,
+  "date_raw": "康熙肆拾壹年陸月初壹日",
+  "reign_year": 41,
+  "month": 6,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "陆玮奏报凉宁甘肃四镇及兰州宁夏等地雨水禾稼情形，并请准仍以汉字具奏。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "陆玮",
+    "role": "奏报人"
+   },
+   {
+    "name": "郭世隆",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "凉州",
+   "宁夏",
+   "甘州",
+   "肃州",
+   "西宁县",
+   "兰州"
+  ]
+ },
+ {
+  "event_id": 50,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "57",
+  "source_title": "苏州织造李煦奏报漳州有人煽聚夺食已杖毙为首者摺",
+  "order_index": 49,
+  "date_raw": "康熙伍拾年伍月日",
+  "reign_year": 50,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "苏州织造李煦奏报漳州有人煽聚夺食，已将为首者杖毙，并请旨定夺后续题请事宜。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批令与提督密议此事。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "吴陞",
+    "role": "联署人"
+   }
+  ],
+  "places": [
+   "漳州",
+   "福建",
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 51,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "55",
+  "source_title": "福建提督梁鼐奏报苏州地方菜麦收成好摺",
+  "order_index": 50,
+  "date_raw": "康熙肆拾贰年伍月贰拾壹日",
+  "reign_year": 42,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "福建提督梁鼐奏报苏州菜麦收成及漳州长泰安溪奸民聚众夺食已被拿获处置情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批指示与提督商议此事。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "陈十二",
+    "role": "涉及人物"
+   },
+   {
+    "name": "刘俞",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈料",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈挺",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "苏州",
+   "泉州府",
+   "漳州",
+   "长泰",
+   "安溪"
+  ]
+ },
+ {
+  "event_id": 52,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "58",
+  "source_title": "江宁巡抚宋荦奏谢加级赐扁并代进巡抚宋荦奏疏摺",
+  "order_index": 51,
+  "date_raw": "康熙四十二年六月",
+  "reign_year": 42,
+  "month": 6,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "李煦恭请皇上万安，并代进江宁巡抚宋荦奏折，同时谢恩领御赐扇柄。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批表示知道了，并表达感激图报之意。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "宋荦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 53,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "59",
+  "source_title": "江宁巡抚宋荦奏谢御赐御笔书扇并御制诗已刻完摺",
+  "order_index": 52,
+  "date_raw": "康熙四十二年六月",
+  "reign_year": 42,
+  "month": 6,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "宋荦奏谢康熙赐御笔书扇及御制诗刻完，并遵旨具摺谢恩。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "高士奇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 54,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "60",
+  "source_title": "江宁织造曹寅奏报御书金字心经宝塔已敬悬金山寺并谢加级摺",
+  "order_index": 53,
+  "date_raw": "康熙肆拾贰年柒月初叁日",
+  "reign_year": 42,
+  "month": 7,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "曹寅奏报御书金字心经宝塔已送至金山寺敬悬，并谢三处织造各加一级之恩。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批表示知道了。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "高士奇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "丁皂保",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "金山寺",
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 55,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "61",
+  "source_title": "苏州织造李煦奏报苏州缺雨并报高士奇病故摺",
+  "order_index": 54,
+  "date_raw": "康熙四十二年七月",
+  "reign_year": 42,
+  "month": 7,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李煦奏报苏州入伏后雨水不足、山田觉旱及地方祈祷情形，并转报高士奇病故。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "高士奇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "宋荦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 56,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "62",
+  "source_title": "江宁巡抚宋荦奏请颁发御制诗序文并江南祈雨等情摺",
+  "order_index": 55,
+  "date_raw": "康熙四十二年七月",
+  "reign_year": 42,
+  "month": 7,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "宋荦奏报江南淮徐夏灾勘报、祈雨情形，并请示御制诗序文及进呈事宜。",
+  "has_zhupi": 1,
+  "zhupi_summary": "命交李煦进呈后再颁发御制序文。",
+  "people": [
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "宋士奇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "宋英",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江南",
+   "淮徐"
+  ]
+ },
+ {
+  "event_id": 57,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "63",
+  "source_title": "江宁织造曹寅奏报所访各处秋收丰歉及米价情形摺",
+  "order_index": 56,
+  "date_raw": "康熙肆拾贰年捌月贰拾肆日",
+  "reign_year": 42,
+  "month": 8,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "曹寅奏报江南各地秋收丰歉与米价情形，并请圣安。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示江南米价低廉、收成好，自己身体安善，对此甚为喜悦。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "江南",
+   "上江",
+   "山左"
+  ]
+ },
+ {
+  "event_id": 58,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "64",
+  "source_title": "江宁巡抚宋荦奏报雨水收成并将御制诗集四部进呈摺",
+  "order_index": 57,
+  "date_raw": "康熙四十二年八月日",
+  "reign_year": 42,
+  "month": 8,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "江宁巡抚宋荦奏报江南江北雨水收成、徐淮秋灾查勘赈济及进呈御制诗集。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "阿山",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "邳州",
+   "徐州",
+   "淮安府",
+   "扬州府"
+  ]
+ },
+ {
+  "event_id": 59,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "（遵旨陳情）",
+  "order_index": 58,
+  "date_raw": "康熙肆拾叁年拾月",
+  "reign_year": 43,
+  "month": 10,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "臣奏报在浙江期间高凉等地地震情形及访询所见，并遵旨陈情、恭缴原折。",
+  "has_zhupi": 1,
+  "zhupi_summary": "御批密奏，谕令钦遵皇上圣德，凡有天恩之见即指示遵依、勉力图效。",
+  "people": [
+   {
+    "name": "高凉",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "浙江",
+   "高凉"
+  ]
+ },
+ {
+  "event_id": 60,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "（恭謝天恩）",
+  "order_index": 59,
+  "date_raw": "康熙肆拾叁年伍月貳拾日",
+  "reign_year": 43,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "曹寅奏报江南麦收及雨水秧田情形，并请圣安宽慰圣怀。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告知近京麦子大收、雨旸时若、田苗甚好而米价略贵麦价小减。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "李发甲",
+    "role": "涉及人物"
+   },
+   {
+    "name": "宋荦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江南",
+   "江宁府",
+   "苏州",
+   "常州",
+   "山东"
+  ]
+ },
+ {
+  "event_id": 61,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "88",
+  "source_title": "江寧織造曹寅奏報禁止兩淮鹽課浮費摺",
+  "order_index": 60,
+  "date_raw": "康熙肆拾叁年柒月貳拾玖日",
+  "reign_year": 43,
+  "month": 7,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "曹寅谢恩受命巡视两淮盐务，请求赴京觐见，康熙朱批不必来京。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙称身体安好，令曹寅不必来京，明年南巡时再密摺请旨。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "两淮"
+  ]
+ },
+ {
+  "event_id": 62,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "7",
+  "source_title": "江寧巡撫宋犖奏謝御賜鹿肉並請萬安摺",
+  "order_index": 61,
+  "date_raw": "康熙四十三年十月",
+  "reign_year": 43,
+  "month": 10,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "宋犒奏谢御赐虎肉鹿肉等物并恭请皇上及皇太子安，另报御制诗装字改正事。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 63,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "89",
+  "source_title": "江寧織造曹寅奏報查過鹽商借帑情弊摺",
+  "order_index": 62,
+  "date_raw": "康熙肆拾叁年拾壹月貳拾貳日",
+  "reign_year": 43,
+  "month": 11,
+  "day_text": null,
+  "event_role": "贸易漕运",
+  "summary": "曹寅奏报查核两淮盐商借领库银实得不足及非商冒领等情弊，并称已令联保摊赔。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已知悉此事。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "两淮"
+  ]
+ },
+ {
+  "event_id": 64,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "90",
+  "source_title": "江寧織造曹寅奏陳摹刻高旻寺碑文摺",
+  "order_index": 63,
+  "date_raw": "康熙肆拾叁年拾貳月初貳日",
+  "reign_year": 43,
+  "month": 12,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "曹寅奏报奉旨摹勒高旻寺碑文上石并进呈墨拓，兼报两淮商民建行宫待南巡。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批阅后仅表示知道了。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "高士奇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "高旻寺",
+   "两淮"
+  ]
+ },
+ {
+  "event_id": 65,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "91",
+  "source_title": "江寧織造曹寅奏報以僧紀蔭主持高旻寺摺",
+  "order_index": 64,
+  "date_raw": "康熙肆拾叁年拾貳月初拾日",
+  "reign_year": 43,
+  "month": 12,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "曹寅奏报会同李煦延请僧纪荫主持高旻寺并迎请入院，代其谢恩。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批知道了，表示已阅知此事。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "联署人"
+   },
+   {
+    "name": "纪荫",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "高旻寺",
+   "馬蹟山",
+   "扬州府"
+  ]
+ },
+ {
+  "event_id": 66,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "92",
+  "source_title": "江寧織造曹寅奏請應於何處候摺",
+  "order_index": 65,
+  "date_raw": "康熙肆拾叁年拾貳月拾貳日",
+  "reign_year": 43,
+  "month": 12,
+  "day_text": null,
+  "event_role": "贸易漕运",
+  "summary": "曹寅奏报江船及内河船隻建造将竣工，请示应于何处候旨遵行。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批示已有安排，令其照旧例伺候。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府"
+  ]
+ },
+ {
+  "event_id": 67,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "93",
+  "source_title": "江寧織造曹寅奏進竹紙御製詩集並冬笋摺",
+  "order_index": 66,
+  "date_raw": "康熙四十三年十二月日",
+  "reign_year": 43,
+  "month": 12,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "宋荦奏请圣安，进呈竹纸刷印御製诗集及江南冬笋，并报校进旨已交织造处收贮。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，并赐御製诗一张、御笔字一张及御笔金字扇。",
+  "people": [
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "江南"
+  ]
+ },
+ {
+  "event_id": 68,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "94",
+  "source_title": "四川提督岳昇龍奏謝溫旨龍問並賜鹿肉摺",
+  "order_index": 67,
+  "date_raw": "康熙肆拾肆年正月日",
+  "reign_year": 44,
+  "month": 1,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "四川提督岳昇龙奏谢皇上温旨问候并赏赐御用鹿肉，表示阖家感激、分颁将士同沐恩波。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "马进伍",
+    "role": "涉及人物"
+   },
+   {
+    "name": "洪仁",
+    "role": "涉及人物"
+   },
+   {
+    "name": "能泰",
+    "role": "联署人"
+   }
+  ],
+  "places": [
+   "四川"
+  ]
+ },
+ {
+  "event_id": 69,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "95",
+  "source_title": "四川提督岳昇龍奏保舉馬爾值為永寧副將摺",
+  "order_index": 68,
+  "date_raw": "康熙肆拾玖年貳月日",
+  "reign_year": 49,
+  "month": 2,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "四川提督岳昇龙保举马尔值为永宁副将，并请调补广西梧州城守副将。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已知晓并有旨，对请调补一事朱批可否、俞允特调补出。",
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "馬爾值",
+    "role": "涉及人物"
+   },
+   {
+    "name": "唐希順",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "四川",
+   "永宁县",
+   "會川",
+   "東川",
+   "西蜀",
+   "漢州",
+   "广西",
+   "梧州"
+  ]
+ },
+ {
+  "event_id": 70,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "96",
+  "source_title": "安徽巡撫劉光美奏報秋成分數摺",
+  "order_index": 69,
+  "date_raw": "康熙肆拾肆年閏肆月貳拾貳日",
+  "reign_year": 44,
+  "month": 4,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "安徽巡抚刘光美奏报上江各府州麦秋收成分数，自十分至七八分不等。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "刘光美",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "安徽",
+   "庐州",
+   "池州",
+   "安庆",
+   "宁国",
+   "凤阳",
+   "滁州",
+   "徽州",
+   "太平",
+   "和州",
+   "广德州"
+  ]
+ },
+ {
+  "event_id": 71,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "97",
+  "source_title": "江寧巡撫宋犖奏為再謝寵有加並報麥季收成等情摺",
+  "order_index": 70,
+  "date_raw": "康熙四十四年閏四月",
+  "reign_year": 44,
+  "month": 4,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "宋犖叩谢康熙南巡赏赉之恩，并奏报属地麦季丰收及校刊通德纲目进度。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙称回京即降甘霖、雨泽甚好，并提及山东大旱，待派人去而宋犖所奏未回。",
+  "people": [
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "苏州",
+   "松江",
+   "淮安府",
+   "常州",
+   "镇江",
+   "扬州府",
+   "徐州"
+  ]
+ },
+ {
+  "event_id": 72,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "98",
+  "source_title": "江寧織造曹寅奏陳刊刻全唐詩集情形摺",
+  "order_index": 71,
+  "date_raw": "康熙肆拾肆年伍月初壹日",
+  "reign_year": 44,
+  "month": 5,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "曹寅奏报奉旨刊刻《全唐詩集》，彭定求等尚未到扬州，并请旨俞梅就近校刊及刊完后具本奏闻。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "彭定求",
+    "role": "涉及人物"
+   },
+   {
+    "name": "俞梅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "宋荦",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "扬州府",
+   "江蘇"
+  ]
+ },
+ {
+  "event_id": 73,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "99",
+  "source_title": "江寧織造曹寅奏謝巡視全河鹽有罪並蒙賞賚摺",
+  "order_index": 72,
+  "date_raw": "康熙肆拾肆年伍月初壹日",
+  "reign_year": 44,
+  "month": 5,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "曹寅奏谢康熙巡视全河、蠲租宥罪及加恩赏赉其家，并恭请圣安。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告知自身安善，京城附近雨水调和、禾苗茂盛，心中宽慰。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "江南"
+  ]
+ },
+ {
+  "event_id": 74,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "100",
+  "source_title": "河南巡撫趙弘燮奏為恭報豫省雨澤日期摺",
+  "order_index": 73,
+  "date_raw": "康熙肆拾年伍月貳拾壹日",
+  "reign_year": 40,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "河南巡抚赵弘燮奏报豫省各属得雨分寸及秋禾播种情形，先行奏闻以慰圣怀。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已知晓，并告知京城近日雨水很好。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "河南",
+   "省城"
+  ]
+ },
+ {
+  "event_id": 75,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "101",
+  "source_title": "河南巡撫趙弘燮奏報河南並無蝗蝻生發情由摺",
+  "order_index": 74,
+  "date_raw": "康熙五拾肆年八月",
+  "reign_year": 54,
+  "month": 8,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "河南巡抚赵弘燮奏报奉旨查察后河南境内及河滩并无蝗蝻生发，并令各属继续细查。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "许嗣兴",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "河南",
+   "临清州"
+  ]
+ },
+ {
+  "event_id": 76,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "102",
+  "source_title": "蘇州織造李煦奏報蘇州雨水禾情形並請安摺",
+  "order_index": 75,
+  "date_raw": "康熙四十四年五月 日",
+  "reign_year": 44,
+  "month": 5,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "李煦向康熙请安谢恩，并奏报苏州二麦丰收、雨水充足、秧苗插莳情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告知抵京之日即得透雨，眼下田苗长势很好。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "淮北"
+  ]
+ },
+ {
+  "event_id": 77,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "103",
+  "source_title": "江寧巡撫宋犖奏為將錢糧分別經征接考成事摺",
+  "order_index": 76,
+  "date_raw": "康熙四十四年五月 日具",
+  "reign_year": 44,
+  "month": 5,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "江宁巡抚宋犖奏请将州县官经征新粮与接征旧欠分别考成，以清理积欠、稳定吏治。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙认可宋犖所奏，令其具题正式上奏。",
+  "people": [
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "徽州府"
+  ]
+ },
+ {
+  "event_id": 78,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "104",
+  "source_title": "江寧巡撫宋犖奏報目下江南雨足秋成可望摺",
+  "order_index": 77,
+  "date_raw": "康熙四十四年五月",
+  "reign_year": 44,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "江宁巡抚奏报江南雨水充足、麦收及插秧情况，并预计秋成可望。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告知自身安好，京中雨晴适时、麦黍有收，口外情形亦好。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江南",
+   "大江以南"
+  ]
+ },
+ {
+  "event_id": 79,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "105",
+  "source_title": "河南巡撫趙弘燮奏報河南雨足秋成可望摺",
+  "order_index": 78,
+  "date_raw": "康熙肆拾玖年伍月",
+  "reign_year": 49,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "河南巡抚赵弘燮奏报各属有雨无蝗蝻，并委官细查防范，另报省城六月初二大雨待查。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "周联芳",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "河南",
+   "山东",
+   "省城"
+  ]
+ },
+ {
+  "event_id": 80,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "106",
+  "source_title": "河南巡撫趙弘燮奏陳堤工題銷之由並認冒昧之罪摺",
+  "order_index": 79,
+  "date_raw": "康熙肆拾肆年陸月初肆日",
+  "reign_year": 44,
+  "month": 6,
+  "day_text": null,
+  "event_role": "河工水利",
+  "summary": "河南巡抚赵弘燮奏陈中牟、郑州两处月堤题销缘由，自认未亲验即具题之冒昧罪，请候处分。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝仅批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "徐潮",
+    "role": "涉及人物"
+   },
+   {
+    "name": "雅思泰",
+    "role": "涉及人物"
+   },
+   {
+    "name": "森图",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王进楫",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "河南",
+   "中牟县",
+   "郑州",
+   "山东"
+  ]
+ },
+ {
+  "event_id": 81,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "107",
+  "source_title": "河南巡撫趙弘燮奏報豫省雨澤日期摺",
+  "order_index": 80,
+  "date_raw": "康熙朝汉文朱批奏折汇编目录条目未提供具体日期",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "河南巡抚赵弘燮奏报豫省各府州县五月至六月得雨日期及雨量，并报蝗蝻未生发。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批仅书“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "河南",
+   "开封府",
+   "祥符",
+   "陈留",
+   "杞县",
+   "太康",
+   "尉氏",
+   "鄢陵",
+   "扶沟",
+   "郑州",
+   "中牟县",
+   "阳武",
+   "原武",
+   "新郑",
+   "陈州",
+   "西华",
+   "商水",
+   "项城",
+   "许州",
+   "襄城",
+   "郾城",
+   "禹州",
+   "荥阳",
+   "归德府",
+   "商丘县",
+   "宁陵",
+   "虞城",
+   "夏邑",
+   "睢州",
+   "考城县",
+   "柘城",
+   "怀庆府",
+   "河内",
+   "济源",
+   "孟县",
+   "温县",
+   "河南府",
+   "洛阳",
+   "偃师",
+   "孟津",
+   "宜阳",
+   "登封",
+   "新安县",
+   "渑池",
+   "嵩县",
+   "卢氏",
+   "陕州",
+   "阌乡",
+   "南阳府",
+   "桐柏",
+   "邓州",
+   "内乡",
+   "新野县",
+   "淅川县",
+   "舞阳",
+   "汝宁府",
+   "汝阳",
+   "上蔡",
+   "确山",
+   "新蔡",
+   "罗山县",
+   "光州",
+   "光山县",
+   "固始",
+   "息县",
+   "商城县",
+   "汝州",
+   "郏县",
+   "通许",
+   "清川",
+   "封丘",
+   "延津",
+   "兰阳县",
+   "仪封县",
+   "临颍",
+   "长葛",
+   "密县",
+   "荥泽",
+   "河阴",
+   "氾水",
+   "鹿邑",
+   "修武",
+   "武陟",
+   "巩县",
+   "永宁县",
+   "灵宝",
+   "镇平",
+   "西平",
+   "遂平",
+   "鲁山",
+   "宝丰",
+   "伊阳",
+   "彰德府",
+   "汤阴县",
+   "磁州",
+   "安阳",
+   "临漳县",
+   "卫辉府",
+   "汲县",
+   "新乡",
+   "获嘉",
+   "淇县",
+   "辉县",
+   "唐县",
+   "叶县",
+   "林县",
+   "武安",
+   "涉县",
+   "沈丘",
+   "永城",
+   "裕州",
+   "沁阳",
+   "真阳",
+   "信阳"
+  ]
+ },
+ {
+  "event_id": 82,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "108",
+  "source_title": "江寧巡撫宋犖奏報雨水情形並進通鑑綱目摺",
+  "order_index": 81,
+  "date_raw": "康熙四十四年六月",
+  "reign_year": 44,
+  "month": 6,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "江宁巡抚宋荦奏报江南雨水秋禾及江北州县水淹补种情形，并进呈刻完通鉴纲目、请发序文凡例衔名。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙称御极以来已有旨，总目照旧样，并批示圈点方好。",
+  "people": [
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "薛载德",
+    "role": "涉及人物"
+   },
+   {
+    "name": "宋至",
+    "role": "涉及人物"
+   },
+   {
+    "name": "朱书",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "丹徒县",
+   "苏州府",
+   "江宁府",
+   "六合",
+   "山阳",
+   "清河",
+   "桃源",
+   "盐城县",
+   "江都",
+   "高邮",
+   "宝应",
+   "泰州",
+   "兴化"
+  ]
+ },
+ {
+  "event_id": 83,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "109",
+  "source_title": "江寧織造曹寅奏報清黃交漲邳州等處雨水情形摺",
+  "order_index": 82,
+  "date_raw": "康熙肆拾玖年柒月初壹日",
+  "reign_year": 49,
+  "month": 7,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "曹寅奏报清黄交涨后河水已退、沿江圩田被淹而山田丰收，并报盐价渐长盐务起色。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "邳州"
+  ]
+ },
+ {
+  "event_id": 84,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "110",
+  "source_title": "江寧織造曹寅奏報校刊全唐詩不敢少怠摺",
+  "order_index": 83,
+  "date_raw": "康熙四十四年五月",
+  "reign_year": 44,
+  "month": 5,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "曹寅奏报校刊《全唐诗》进展，翰林多已到齐，汪士鋐未到，因笔迹难统一恐一年内难竣工，中晚唐诗尚有遗失。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "彭定求",
+    "role": "涉及人物"
+   },
+   {
+    "name": "汪士鋐",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江宁府"
+  ]
+ },
+ {
+  "event_id": 85,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "180",
+  "source_title": "江宁织造曹寅奏报校刊全唐诗不敢少怠摺",
+  "order_index": 84,
+  "date_raw": "康熙肆拾肆年柒月初壹日",
+  "reign_year": 44,
+  "month": 7,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "曹寅奏报已派人四处访觅精通校对者，在丰润、仪真、扬州间随校随写刊刻《全唐诗》，不敢懈怠。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，并称赞该书凡例很好。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "丰润县",
+   "仪真",
+   "扬州府"
+  ]
+ },
+ {
+  "event_id": 86,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 85,
+  "date_raw": "康熙肆拾肆年柒月初肆日",
+  "reign_year": 44,
+  "month": 7,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "河南巡抚赵弘燮遵旨密报直隶、山东、陕西、湖广交界州县二麦收成、秋禾长势、蝗蝻及雨泽情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "周联芳",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "河南",
+   "开封府",
+   "兰阳县",
+   "直隶",
+   "大名府",
+   "长垣县",
+   "仪封县",
+   "东明县",
+   "卫辉府",
+   "睢城县",
+   "滑县",
+   "武陟",
+   "济县",
+   "彰德府",
+   "汤阴县",
+   "内黄县",
+   "临漳县",
+   "魏县",
+   "元城",
+   "南乐",
+   "清风",
+   "开州",
+   "磁州",
+   "广平府",
+   "邯郸县",
+   "成安县",
+   "归德府",
+   "虞城县",
+   "山东",
+   "兖州府",
+   "单县",
+   "考城县",
+   "曹州",
+   "曹县",
+   "金乡",
+   "鱼台",
+   "济南",
+   "东昌",
+   "德州",
+   "朝城",
+   "长清",
+   "河南府",
+   "陕州",
+   "閿乡",
+   "陕西",
+   "西安府",
+   "华阴",
+   "华州",
+   "渭南",
+   "临潼",
+   "长安",
+   "咸宁",
+   "三原",
+   "富平",
+   "醴泉",
+   "盩厔",
+   "鄠县",
+   "泾阳",
+   "蓝田",
+   "高陵",
+   "兴平",
+   "蒲城",
+   "咸阳",
+   "耀州",
+   "同官",
+   "乾州",
+   "武功",
+   "永寿",
+   "邠州",
+   "长武",
+   "三水",
+   "淳化",
+   "同州",
+   "韩城",
+   "朝邑",
+   "白水",
+   "郃阳",
+   "澄城",
+   "商州",
+   "商南",
+   "山阳",
+   "镇安",
+   "雒阳",
+   "凤翔府",
+   "宁夏",
+   "南阳府",
+   "新野县",
+   "湖广",
+   "襄阳府",
+   "襄阳县",
+   "枣阳县",
+   "邓州",
+   "光化县",
+   "郧阳府",
+   "均州",
+   "武当山",
+   "安陆",
+   "钟祥县",
+   "淅川县",
+   "巩府",
+   "商城县",
+   "黄州府",
+   "罗田县",
+   "麻城县",
+   "汝宁府",
+   "光山县",
+   "黄安县",
+   "黄陂县",
+   "武昌府",
+   "信阳州",
+   "德安府",
+   "应山县",
+   "罗山县",
+   "孝感县",
+   "云梦",
+   "汉阳"
+  ]
+ },
+ {
+  "event_id": 87,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 86,
+  "date_raw": "康熙伍拾肆年柒月初玖日",
+  "reign_year": 54,
+  "month": 7,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "广东提督赵弘灿具折向康熙帝请安，并奏报广东地方雨旸时若、年岁丰登及整饬营伍情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知所奏内容。",
+  "people": [
+   {
+    "name": "赵弘灿",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "广东"
+  ]
+ },
+ {
+  "event_id": 88,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "127",
+  "source_title": "江宁巡抚宋荦奏请万安摺",
+  "order_index": 87,
+  "date_raw": "康熙五十四年闰三月",
+  "reign_year": 54,
+  "month": null,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "河南巡抚奏报涉县飞蝗入境后官民协力扑捕尽绝、田禾未受损伤。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+  "people": [
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "杨宗义",
+    "role": "联署人"
+   },
+   {
+    "name": "张得先",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王赏二",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郭维祯",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王雄",
+    "role": "涉及人物"
+   },
+   {
+    "name": "黄泽",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "淮扬",
+   "山阳",
+   "清河",
+   "桃源",
+   "睢宁县",
+   "沭阳",
+   "安东",
+   "盐城县",
+   "高邮",
+   "泰州",
+   "江都",
+   "兴化",
+   "河南",
+   "邱县",
+   "磁州",
+   "涉县",
+   "彰德府"
+  ]
+ },
+ {
+  "event_id": 89,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "134",
+  "source_title": "河南巡抚赵弘燮奏谢宽免冒昧题销堤工处分摺",
+  "order_index": 88,
+  "date_raw": "康熙肆拾肆年捌月初肆日",
+  "reign_year": 44,
+  "month": 8,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "河南巡抚赵弘燮奏谢皇上宽免其冒昧题销堤工之处分，并感激圣恩。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "雅思泰",
+    "role": "涉及人物"
+   },
+   {
+    "name": "徐潮",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王道",
+    "role": "涉及人物"
+   },
+   {
+    "name": "良栋",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "河南",
+   "中年县",
+   "伶里店",
+   "鄚州",
+   "孙家楼"
+  ]
+ },
+ {
+  "event_id": 90,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "135",
+  "source_title": "苏州织造李煦奏报遣来大夫到扬并代进宋荦谢疏摺",
+  "order_index": 89,
+  "date_raw": "康熙肆拾肆年捌月拾伍日",
+  "reign_year": 44,
+  "month": 8,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "赵弘燮谢赐御书舞鹤扇，并奏报校刊全唐诗事及盐务任满后诗局暂交李煦代管。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "彭定求",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "河南"
+  ]
+ },
+ {
+  "event_id": 91,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "136",
+  "source_title": "江宁巡抚宋荦奏谢遣御医赐药并遵旨调养摺",
+  "order_index": 90,
+  "date_raw": "康熙四十四年八月",
+  "reign_year": 44,
+  "month": 8,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "梁鼐奏谢圣恩并遣家人代请圣安，宋荦奏报江苏各地秋成收成并请皇上、皇太子安。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙对两摺均朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "马得胜",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "福建",
+   "苏州",
+   "松江",
+   "常州",
+   "镇江",
+   "徐州",
+   "淮扬"
+  ]
+ },
+ {
+  "event_id": 92,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 91,
+  "date_raw": "康熙肆拾肆年玖月初捌日",
+  "reign_year": 44,
+  "month": 9,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "湖广巡抚刘殿衡据士民呈请，代奏恳请康熙皇帝巡幸湖广楚疆。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批仅表示知道了，未明确允准巡幸。",
+  "people": [
+   {
+    "name": "刘殿衡",
+    "role": "奏报人"
+   },
+   {
+    "name": "刘闻喜",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "湖广",
+   "楚",
+   "荆襄",
+   "江汉"
+  ]
+ },
+ {
+  "event_id": 93,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 92,
+  "date_raw": "康熙肆年柒月初　日",
+  "reign_year": 4,
+  "month": 7,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "河南巡抚奏报秋收完毕、民生乐业，并汇报涉县飞蝗已捕灭及防范来年蝗患。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝批阅后表示已知悉此事。",
+  "people": [
+   {
+    "name": "鹿祐",
+    "role": "奏报人"
+   },
+   {
+    "name": "文绶",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "河南",
+   "彰德府",
+   "涉县"
+  ]
+ },
+ {
+  "event_id": 94,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 93,
+  "date_raw": "未知",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "江南总督阿山等奏报所属地方雨水调顺、禾苗茂盛、万民乐业。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "阿山",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "江南"
+  ]
+ },
+ {
+  "event_id": 95,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 94,
+  "date_raw": "康熙肆拾肆年玖月貳拾貳日",
+  "reign_year": 44,
+  "month": 9,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "安徽巡抚刘光美奏谢康熙赏赐鹿舌鹿尾等物，并报秋成分数、恭请圣安。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "刘光美",
+    "role": "奏报人"
+   },
+   {
+    "name": "姚福禄",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "安徽",
+   "江南"
+  ]
+ },
+ {
+  "event_id": 96,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 95,
+  "date_raw": "康熙肆拾肆年玖月",
+  "reign_year": 44,
+  "month": 9,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "云南巡抚佟毓秀请求遇紧要事情先用密摺奏请圣训，然后再正式具题，以免失误。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "佟毓秀",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "云南"
+  ]
+ },
+ {
+  "event_id": 97,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 96,
+  "date_raw": "康熙五十九年玖月",
+  "reign_year": 59,
+  "month": 9,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "云南巡抚佟毓秀奏报滇省今年雨水调匀、各府收成丰稔，为近年所无。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "佟毓秀",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "云南",
+   "顺天府",
+   "清能",
+   "安澂江",
+   "大理",
+   "永昌",
+   "姚安",
+   "楚雄",
+   "鹤庆",
+   "蒙化",
+   "元江",
+   "开化",
+   "武定",
+   "景东",
+   "广西",
+   "江永北",
+   "广南",
+   "顺宁",
+   "粤沅",
+   "者乐甸"
+  ]
+ },
+ {
+  "event_id": 98,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 97,
+  "date_raw": "康熙四十四年九月",
+  "reign_year": 44,
+  "month": 9,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "江宁巡抚宋荦奏谢皇上宽免罚俸并赏赐鹿肉等物，同时报告已遵旨刊刻《通鉴》。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "查昇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 99,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "139",
+  "source_title": "安徽巡撫劉光美奏為鳳屬散賑情形摺",
+  "order_index": 98,
+  "date_raw": "康熙肆拾肆年拾月贰拾壹日",
+  "reign_year": 44,
+  "month": 10,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "湖广巡抚刘殿衡奏谢皇上赏赐鹿尾等物，并报校刻全唐诗进呈样本及高旻寺诗借刻事。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，样本都已改过发回。",
+  "people": [
+   {
+    "name": "刘殿衡",
+    "role": "奏报人"
+   },
+   {
+    "name": "刘喜",
+    "role": "涉及人物"
+   },
+   {
+    "name": "朱圭",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "湖广",
+   "高旻寺"
+  ]
+ },
+ {
+  "event_id": 100,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "133",
+  "source_title": "江宁巡抚宋荦奏为老病乞休事摺",
+  "order_index": 99,
+  "date_raw": "康熙四十四年十月",
+  "reign_year": 44,
+  "month": 10,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "江宁巡抚宋荦因老病痰症请求致仕休养，并奏报病情及赴淮扬督赈勘河经过。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已有旨意，叮嘱年老之人须小心饮食起居。",
+  "people": [
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "阿山",
+    "role": "涉及人物"
+   },
+   {
+    "name": "鄂克逊",
+    "role": "涉及人物"
+   },
+   {
+    "name": "曹寅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "淮扬",
+   "扬州府"
+  ]
+ },
+ {
+  "event_id": 101,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "137",
+  "source_title": "江宁巡抚宋荦奏进皇舆表册及另刻通鉴纲目二本摺",
+  "order_index": 100,
+  "date_raw": "康熙肆拾肆年拾贰月初捌日",
+  "reign_year": 44,
+  "month": 12,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "安徽巡抚刘光美奏报凤阳府属州县卫水灾后散赈情形及灾民得所。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批阅后表示知道了。",
+  "people": [
+   {
+    "name": "刘光美",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "凤阳府",
+   "安徽"
+  ]
+ },
+ {
+  "event_id": 102,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "140",
+  "source_title": "河南巡抚赵弘燮奏为陈展赴直隶巡抚新任缘由摺",
+  "order_index": 101,
+  "date_raw": "康熙肆拾贰年拾贰月贰拾壹日",
+  "reign_year": 42,
+  "month": 12,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "赵弘燮奏报调补直隶巡抚后料理漕粮交印起程及候李光地送印上任事宜。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝表示已知悉此事。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "李光地",
+    "role": "涉及人物"
+   },
+   {
+    "name": "许嗣兴",
+    "role": "涉及人物"
+   },
+   {
+    "name": "查日昌",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "河南",
+   "直隶",
+   "福建",
+   "闽封府"
+  ]
+ },
+ {
+  "event_id": 103,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "李光地题",
+  "order_index": 102,
+  "date_raw": "未知",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "河南巡抚李光地以题本形式向朝廷陈奏河南地方军政河务相关事宜。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "李光地",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "河南"
+  ]
+ },
+ {
+  "event_id": 104,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "141",
+  "source_title": "吏部尚书宋荦奏为病渐次平复不日就道赴任摺",
+  "order_index": 103,
+  "date_raw": "康熙四十四年十二月",
+  "reign_year": 44,
+  "month": 12,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "宋荦奏报病情渐愈即将赴京就任吏部尚书，并遣子先行候命、请安谢恩。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已知晓此事。",
+  "people": [
+   {
+    "name": "宋荦",
+    "role": "奏报人"
+   },
+   {
+    "name": "著圣托",
+    "role": "涉及人物"
+   },
+   {
+    "name": "宋至",
+    "role": "涉及人物"
+   },
+   {
+    "name": "黄运",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": []
+ },
+ {
+  "event_id": 105,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "142",
+  "source_title": "工部尚书王鸿绪奏陈宝泉局炉头借帑情弊缘由等情摺",
+  "order_index": 104,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "弹劾参奏",
+  "summary": "王鸿绪密奏宝泉、宝源两局炉头借帑银扣工食钱之弊，指赖都等侵扣分肥、亏损公帑，并附陈山东养民议叙案。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批认可王鸿绪所奏，并指出炉头工食原系零星给发，今一次先支利息甚微。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "赖都",
+    "role": "涉及人物"
+   },
+   {
+    "name": "姜辅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "色德里",
+    "role": "涉及人物"
+   },
+   {
+    "name": "和伦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "程文彝",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李元振",
+    "role": "涉及人物"
+   },
+   {
+    "name": "蔡攒",
+    "role": "涉及人物"
+   },
+   {
+    "name": "温达",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王绅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "京师",
+   "山东"
+  ]
+ },
+ {
+  "event_id": 106,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "143",
+  "source_title": "工部尚书王鸿绪奏报传作楫在外被解役抢劫摺",
+  "order_index": 105,
+  "date_raw": "康熙朝汉文朱批奏折汇编第143条",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "王鸿绪密奏传作楫出关途中因未给解役赏银遭绑缚抢劫，汪晋征亦称此事属实。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已知悉此事。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "传作楫",
+    "role": "涉及人物"
+   },
+   {
+    "name": "汪晋征",
+    "role": "涉及人物"
+   }
+  ],
+  "places": []
+ },
+ {
+  "event_id": 107,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "144",
+  "source_title": "工部尚书王鸿绪奏陈会审扎萨叩关索黄铜案等缘由摺",
+  "order_index": 106,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "密奏会审扎萨叩关索黄铜案及陈汝弼受贿案审理、户工二部议借银等事。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，命其将京中可阅之事密封密奏，切勿泄漏。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "秦布",
+    "role": "涉及人物"
+   },
+   {
+    "name": "牛钮",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王奂曾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "田明",
+    "role": "涉及人物"
+   },
+   {
+    "name": "黄钟",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吴金绶",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈汝弼",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王二",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吴璟",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王铨",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王原",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王焕",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王式谷",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李元振",
+    "role": "涉及人物"
+   },
+   {
+    "name": "温达",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "白都纳",
+   "山东"
+  ]
+ },
+ {
+  "event_id": 108,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "145",
+  "source_title": "密谕王鸿绪密奏京中可闻之事",
+  "order_index": 107,
+  "date_raw": "康熙年间（具体日期未载）",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "王鸿绪密奏谢恩，承诺谨守密谕、不泄风声，并称今后将随时密报京中见闻。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批“是”，表示认可王鸿绪的密奏与承诺。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": []
+ },
+ {
+  "event_id": 109,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "146",
+  "source_title": "工部尚书王鸿绪奏谢恭奉密谕并陈遵旨缮递密摺事摺",
+  "order_index": 108,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "王鸿绪密奏会审陈汝弼贪赃案经过，指问官改供捏供、拟罪失当。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙称赞此奏帖甚好，合乎大臣体统，并表示已明白所奏情形。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "陈汝弼",
+    "role": "涉及人物"
+   },
+   {
+    "name": "黄钟",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王二",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吴金绶",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王鸿烈",
+    "role": "涉及人物"
+   },
+   {
+    "name": "舒辂",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李振裕",
+    "role": "涉及人物"
+   },
+   {
+    "name": "屠粹忠",
+    "role": "涉及人物"
+   },
+   {
+    "name": "曹鉴伦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李录予",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王式丹",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王自修",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吴璟",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王铨",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王原",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王绅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": []
+ },
+ {
+  "event_id": 110,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "147",
+  "source_title": "工部尚书王鸿绪奏报会审陈汝弼匿卷犯赃案情形折",
+  "order_index": 109,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "弹劾参奏",
+  "summary": "王鸿绪密奏河臣张鹏翮请捐补河员欠帑一事，指其暗脱张弼等摊赔并揭山东捏增养民数目。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙仅批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "张鹏翮",
+    "role": "涉及人物"
+   },
+   {
+    "name": "董安国",
+    "role": "涉及人物"
+   },
+   {
+    "name": "于成龙",
+    "role": "涉及人物"
+   },
+   {
+    "name": "常维桢",
+    "role": "涉及人物"
+   },
+   {
+    "name": "佟世禄",
+    "role": "涉及人物"
+   },
+   {
+    "name": "阿山",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张弼",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王谦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "陕西",
+   "山东",
+   "高堰"
+  ]
+ },
+ {
+  "event_id": 111,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "149",
+  "source_title": "工部尚书王鸿绪奏请万安折",
+  "order_index": 110,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "工部尚书王鸿绪上折恭请康熙皇帝圣躬万安。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批告知此后奏帖应照南巡甄例在宫中呈递，以免风声外传，不必再奏请安。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": []
+ },
+ {
+  "event_id": 112,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "150",
+  "source_title": "工部尚书王鸿绪奏陈顺天乡试主考不公与论不服情形折",
+  "order_index": 111,
+  "date_raw": "康熙二十八年十一月",
+  "reign_year": 28,
+  "month": 11,
+  "day_text": null,
+  "event_role": "弹劾参奏",
+  "summary": "王鸿绪密奏顺天乡试主考汪霈与监卷御史丁棠发串通查卷、不能公心阅卷，致落卷多未批点，不中士子聚众斩草人泄愤，舆论不服。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已知悉所奏内容。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "汪霈",
+    "role": "涉及人物"
+   },
+   {
+    "name": "丁棠发",
+    "role": "涉及人物"
+   },
+   {
+    "name": "姚士藟",
+    "role": "涉及人物"
+   },
+   {
+    "name": "冯申",
+    "role": "涉及人物"
+   },
+   {
+    "name": "宋荦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "宋筠",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "顺天府",
+   "浙江",
+   "江浙",
+   "琉璃厂",
+   "菜市口",
+   "扬州府"
+  ]
+ },
+ {
+  "event_id": 113,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "151",
+  "source_title": "工部尚书王鸿绪奏陈黄纯祐包捐马价有弊并张霖私盐事折",
+  "order_index": 112,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "弹劾参奏",
+  "summary": "王鸿绪密奏黄纯祐包揽捐马加价舞弊及张霖私盐、李秀行贿等事，请康熙体察裁夺。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示无心访查，并称早知李秀之名及其为匪类，不便记写。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "黄纯祐",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张霖",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李光地",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李秀",
+    "role": "涉及人物"
+   },
+   {
+    "name": "殷德布",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "北直"
+  ]
+ },
+ {
+  "event_id": 114,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "152",
+  "source_title": "工部尚书王鸿绪奏陈户兵两部徇庇黄纯祐捐纳折",
+  "order_index": 113,
+  "date_raw": "康熙四十七年",
+  "reign_year": 47,
+  "month": null,
+  "day_text": null,
+  "event_role": "弹劾参奏",
+  "summary": "王鸿绪密奏户兵两部徇庇黄纯祐包揽捐纳马匹图利，并附闻张霖劣迹及请密封御批。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "黄纯祐",
+    "role": "涉及人物"
+   },
+   {
+    "name": "汤右曾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "屠粹忠",
+    "role": "涉及人物"
+   },
+   {
+    "name": "曹鉴伦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张霖",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李光地",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李秀",
+    "role": "涉及人物"
+   },
+   {
+    "name": "殷德布",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "京师"
+  ]
+ },
+ {
+  "event_id": 115,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "153",
+  "source_title": "工部尚书王鸿绪奏陈通仓折放烂米及山东养民议裁案内情弊折",
+  "order_index": 114,
+  "date_raw": "康熙肆拾伍年贰月拾壹日",
+  "reign_year": 45,
+  "month": 2,
+  "day_text": null,
+  "event_role": "弹劾参奏",
+  "summary": "王鸿绪密奏捐马包揽舞弊、通仓亏空搭放烂米及山东养民议叙过滥等弊。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批均称知道了，并嘱李煦勿听信京中浑托人等嘱托之事，又言京中少雨心忧。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "黄纯祐",
+    "role": "涉及人物"
+   },
+   {
+    "name": "于成龙",
+    "role": "涉及人物"
+   },
+   {
+    "name": "梅鍇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "马尔汉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "屠粹忠",
+    "role": "涉及人物"
+   },
+   {
+    "name": "钱肇修",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张霖",
+    "role": "涉及人物"
+   },
+   {
+    "name": "查日乾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "传作楫",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张睿",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王绅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李光地",
+    "role": "涉及人物"
+   },
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "希福纳",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王奂曾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "钮穆布",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "通州",
+   "山东",
+   "京师",
+   "山海关",
+   "天津",
+   "长芦",
+   "江宁府",
+   "扬州府",
+   "禹州",
+   "临颍",
+   "新城",
+   "清源",
+   "静海县",
+   "青县",
+   "宁古塔",
+   "李阳峪",
+   "蓟遵",
+   "芜湖",
+   "苏州",
+   "两淮"
+  ]
+ },
+ {
+  "event_id": 116,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "154",
+  "source_title": "直隸巡撫趙弘燮奏報所屬雨雪並遍搜蝻蝻情形摺",
+  "order_index": 115,
+  "date_raw": "康熙伍拾伍年十月廿日",
+  "reign_year": 55,
+  "month": 10,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶巡抚奏报所属州县得雪及二麦可望有收，并汇报遍搜蝗蝻情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知奏报内容。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "郝玉",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "任丘县",
+   "山东",
+   "河南",
+   "顺天府",
+   "香河",
+   "宝坻",
+   "蓟州",
+   "遵化州",
+   "顺德府",
+   "邢台",
+   "沙河",
+   "南和",
+   "平乡",
+   "广宗",
+   "钜鹿",
+   "任县",
+   "广平府",
+   "永年县",
+   "邯郸县",
+   "成安县",
+   "肥乡县",
+   "广平县",
+   "鸡泽县",
+   "大名府",
+   "开州",
+   "元城",
+   "南乐",
+   "清丰",
+   "东明县",
+   "长垣县",
+   "滑县",
+   "濬县",
+   "内黄县",
+   "魏县",
+   "宣化",
+   "永平",
+   "河间府",
+   "保定县",
+   "真定县"
+  ]
+ },
+ {
+  "event_id": 117,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "155",
+  "source_title": "直隸巡撫趙弘燮奏報借倉糧以平市價而利民生事摺",
+  "order_index": 116,
+  "date_raw": "康熙拾玖年叁月贰拾玖日",
+  "reign_year": 19,
+  "month": 3,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶入春雨少粮价上涨，赵弘燮请准动支常平仓粮三分减粜并借给穷民，秋后还仓。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批示令其尽快正式具题上报。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "直隶",
+   "畿辅",
+   "紫荆",
+   "密云县",
+   "东拜"
+  ]
+ },
+ {
+  "event_id": 118,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "156",
+  "source_title": "直隸巡撫趙弘燮奏報雨澤情形及察捕蝻蝻緣由摺",
+  "order_index": 117,
+  "date_raw": "康熙五十五年五月二十日",
+  "reign_year": 55,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶巡抚奏报各属得雨分寸、麦收情形，并委员巡查蝗蝻滋生以防患。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知奏报内容。",
+  "people": [
+   {
+    "name": "李维钧",
+    "role": "奏报人"
+   },
+   {
+    "name": "沈朝聘",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "保定府",
+   "顺天府",
+   "永平府",
+   "河间府",
+   "宣化府",
+   "真定府",
+   "大城县",
+   "房山",
+   "密云县",
+   "三河县",
+   "武清县",
+   "蓟州",
+   "玉田",
+   "滦州",
+   "抚宁县",
+   "昌黎县",
+   "沧州",
+   "静海县",
+   "景州",
+   "天津",
+   "宣化",
+   "怀安",
+   "保安",
+   "延庆",
+   "真定县",
+   "定州",
+   "新乐",
+   "行唐县",
+   "安平",
+   "赵州",
+   "高邑",
+   "良乡",
+   "涿州",
+   "固安县",
+   "昌平县",
+   "顺义县",
+   "怀柔县",
+   "宝坻",
+   "遵化州",
+   "丰润县",
+   "东光",
+   "开州",
+   "唐县",
+   "涞水县",
+   "易州",
+   "卢龙县"
+  ]
+ },
+ {
+  "event_id": 119,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 118,
+  "date_raw": "康熙四十五年三月日",
+  "reign_year": 45,
+  "month": 3,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李煦奏报苏州米价因福建商人高价购米出海而腾贵，并请皇上万安。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告知自己身体安善，肯定所奏，并追问另道上谕是否已由家人送到、不可迟误。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "福建",
+   "乍浦"
+  ]
+ },
+ {
+  "event_id": 120,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 119,
+  "date_raw": "康熙五十五年七月初四",
+  "reign_year": 55,
+  "month": 7,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶巡抚李维钧奏报各府州县三月至四月得雨情形及麦田沾润可及时播种。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告知关东不觉旱、永平府一带下大雨及口外雨少田苗甚好等情况。",
+  "people": [
+   {
+    "name": "李维钧",
+    "role": "奏报人"
+   },
+   {
+    "name": "赵弘燮",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "保定府",
+   "清苑县",
+   "河间府",
+   "永平府",
+   "卢龙县",
+   "昌黎县",
+   "滦州",
+   "迁安县",
+   "抚宁县",
+   "乐亭县",
+   "山海关",
+   "顺天府",
+   "遵化州",
+   "文安县",
+   "延庆",
+   "蓟州",
+   "丰润县",
+   "霸州",
+   "昌平县",
+   "永清县",
+   "保定县",
+   "盐山县",
+   "交河县",
+   "南皮县",
+   "宁津县",
+   "吴桥县",
+   "青县",
+   "海县",
+   "静县",
+   "景州",
+   "任丘县",
+   "新安县",
+   "雄县",
+   "安州",
+   "高阳县",
+   "蠡县",
+   "定兴县",
+   "容城县",
+   "易州",
+   "涞水县",
+   "广平府",
+   "永年县",
+   "清河县",
+   "邯郸县",
+   "成安县",
+   "肥乡县",
+   "广平县",
+   "鸡泽县",
+   "真定府",
+   "行唐县",
+   "获鹿县",
+   "灵寿县"
+  ]
+ },
+ {
+  "event_id": 121,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 120,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "御史噶礼奏报直隶各地蝗蝻生发及官民扑灭情形，并请严查潜滋暗长。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，并叮嘱再如会心留意。",
+  "people": [
+   {
+    "name": "噶礼",
+    "role": "奏报人"
+   },
+   {
+    "name": "王度昭",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "顺天府",
+   "三河县",
+   "真定府",
+   "真定县",
+   "藁城县",
+   "隆平县",
+   "顺德府",
+   "唐山县",
+   "武清县",
+   "通州",
+   "顺义县",
+   "平谷县",
+   "蓟州",
+   "河间府",
+   "肃宁县",
+   "献县",
+   "盐山县",
+   "静海县",
+   "柏乡县",
+   "天津",
+   "保"
+  ]
+ },
+ {
+  "event_id": 122,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 121,
+  "date_raw": "康熙肆拾伍年肆月日",
+  "reign_year": 45,
+  "month": 4,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "安徽巡抚刘光美奏报安徽各府州麦秋收成分数，并陈凤阳府属上年水灾赈济情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+  "people": [
+   {
+    "name": "刘光美",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "安徽",
+   "太平",
+   "滁州",
+   "宁国",
+   "池州",
+   "庐州",
+   "凤阳",
+   "和州",
+   "广德州",
+   "上江"
+  ]
+ },
+ {
+  "event_id": 123,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 122,
+  "date_raw": "未知",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "湖广巡抚刘殿衡奏报楚省二麦收成分数、米麦价平及潜泗灾民赈济安置情形。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "刘殿衡",
+    "role": "奏报人"
+   },
+   {
+    "name": "石文晟",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "湖广",
+   "楚省",
+   "武汉",
+   "汉阳",
+   "潜泗"
+  ]
+ },
+ {
+  "event_id": 124,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 123,
+  "date_raw": "康熙肆拾伍年肆月貳拾貳日",
+  "reign_year": 45,
+  "month": 4,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "江西巡抚郎廷极奏报当地春夏豆麦菜子丰收、禾苗茂盛，省城米价由灾年腾贵渐减至七钱余，百姓乐业。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知奏报内容。",
+  "people": [
+   {
+    "name": "郎廷极",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江西",
+   "江右",
+   "省城"
+  ]
+ },
+ {
+  "event_id": 125,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 124,
+  "date_raw": "康熙五十年正月初九日",
+  "reign_year": 50,
+  "month": 1,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "赵弘燮奏报各州县蝗蝻发生及扑灭情形，并参劾捕蝗不力的文安县知县。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝批知道了，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "郭晋熙",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "归仁县",
+   "沧州",
+   "唐山",
+   "任县",
+   "通州",
+   "武清县",
+   "东安",
+   "宝坻",
+   "宁晋",
+   "霸州",
+   "隆平县",
+   "文安县",
+   "静海县",
+   "三河县",
+   "盐山县",
+   "滦州",
+   "献县",
+   "西宁县",
+   "迁安县"
+  ]
+ },
+ {
+  "event_id": 126,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 125,
+  "date_raw": "康熙肆拾伍年伍月初伍日",
+  "reign_year": 45,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶巡抚赵弘燮奏请将河间府十五州县卫历年旧欠钱粮分三年带征，请旨定夺。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批示令其具题正式上奏。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "直隶",
+   "河间府",
+   "肃宁县",
+   "交河县",
+   "青县",
+   "景州",
+   "沧州",
+   "南皮县",
+   "盐山县",
+   "庆云县",
+   "吴桥县",
+   "东光",
+   "宁津县",
+   "静海县",
+   "天津",
+   "津军",
+   "扬州府"
+  ]
+ },
+ {
+  "event_id": 127,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 126,
+  "date_raw": "康熙肆拾贰年伍月贰拾日",
+  "reign_year": 42,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "赵弘燮奏报庆云、广平、临城三县民生困苦，请求缓征新旧钱粮以纾民力。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "李光地",
+    "role": "涉及人物"
+   },
+   {
+    "name": "鲍鈜",
+    "role": "联署人"
+   },
+   {
+    "name": "祖良模",
+    "role": "联署人"
+   }
+  ],
+  "places": [
+   "直隶",
+   "河间府",
+   "庆云县",
+   "广平府",
+   "广平县",
+   "真定府",
+   "临城县",
+   "盐城县"
+  ]
+ },
+ {
+  "event_id": 128,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "181",
+  "source_title": "直隸巡撫趙弘燮奏報永定河漫口修築完工並進食物摺",
+  "order_index": 127,
+  "date_raw": "康熙四十五年六月十八日",
+  "reign_year": 45,
+  "month": 6,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "赵弘燮奏请以王友直补通州知州、以李文斗或某道辅补中军游击，并请将天津四甲地方归并天津卫。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示李文斗为朕所素知，此人离不开河南，即不同意调补直隶中军。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "许毓芳",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王友直",
+    "role": "涉及人物"
+   },
+   {
+    "name": "佟国翼",
+    "role": "涉及人物"
+   },
+   {
+    "name": "罗文灿",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李文斗",
+    "role": "涉及人物"
+   },
+   {
+    "name": "某道辅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵良栋",
+    "role": "涉及人物"
+   },
+   {
+    "name": "穆清",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "直隶",
+   "通州",
+   "顺天府",
+   "东安县",
+   "清苑县",
+   "涿州",
+   "东昌府",
+   "湖广",
+   "澧州",
+   "河南",
+   "天津",
+   "天津卫",
+   "河东四甲",
+   "锦衣卫",
+   "銮仪卫",
+   "崔黄口",
+   "倚家庄",
+   "武清县"
+  ]
+ },
+ {
+  "event_id": 129,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "210",
+  "source_title": "直隸巡撫趙弘燮奏報查勘永定河堤工分別處理情形摺",
+  "order_index": 128,
+  "date_raw": "康熙四十五年十二月十二日",
+  "reign_year": 45,
+  "month": 12,
+  "day_text": null,
+  "event_role": "河工水利",
+  "summary": "直隶巡抚赵弘燮奏报查勘永定河漫口及子牙河上游堤岸情形，并嘱河官挑濬淤浅、防护堤工。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "靳辅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王友直",
+    "role": "涉及人物"
+   },
+   {
+    "name": "俞品",
+    "role": "涉及人物"
+   },
+   {
+    "name": "许汝霖",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郭一",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "永定河",
+   "子牙河",
+   "臧家桥",
+   "单家桥",
+   "东安县"
+  ]
+ },
+ {
+  "event_id": 130,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "182",
+  "source_title": "直隸巡撫趙弘燮奏報嚴查吞日昌金大中產業情形摺",
+  "order_index": 129,
+  "date_raw": "康熙五十八年七月十五日",
+  "reign_year": 58,
+  "month": 7,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "赵弘燮奏报奉旨会同御史迈色查察查日昌等人产业，因盐政档案不在巡抚衙门，请求暂缓提拏以便确查。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批表示等候圣裁批示遵行，并令具题来奏。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "迈色",
+    "role": "涉及人物"
+   },
+   {
+    "name": "查日昌",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "天津"
+  ]
+ },
+ {
+  "event_id": 131,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "178",
+  "source_title": "江寧織造曹寅奏報下河河工告成並江蘇雨水糧價摺",
+  "order_index": 130,
+  "date_raw": "康熙肆拾伍年柒月初壹日",
+  "reign_year": 45,
+  "month": 7,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "曹寅奏报校刊《全唐诗》即将刻完并进呈样本，同时报告翰林病故及在扬州校刊人员情况。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙称赞所刻书籍很好，命细看序文，并指示书完成后即打发相关人员。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "张廷玉",
+    "role": "联署人"
+   },
+   {
+    "name": "汪绎",
+    "role": "涉及人物"
+   },
+   {
+    "name": "彭定求",
+    "role": "涉及人物"
+   },
+   {
+    "name": "杨中讷",
+    "role": "涉及人物"
+   },
+   {
+    "name": "汪士鋐",
+    "role": "涉及人物"
+   },
+   {
+    "name": "徐树本",
+    "role": "涉及人物"
+   },
+   {
+    "name": "俞梅",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江南",
+   "扬州府"
+  ]
+ },
+ {
+  "event_id": 132,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "179",
+  "source_title": "江宁织造曹寅奏报两江湖广等处雨水收成等情摺",
+  "order_index": 131,
+  "date_raw": "康熙肆拾伍年玖月拾贰日",
+  "reign_year": 45,
+  "month": 9,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "曹寅奏报江南江西湖广雨水收成米价及下河河工告成，并转奏圣谕训诫三处织造和气共事。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批均为“知道了”，表示已阅知悉所奏各事。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "孙文成",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "迈色",
+    "role": "涉及人物"
+   },
+   {
+    "name": "金世扬",
+    "role": "联署人"
+   },
+   {
+    "name": "李毓柱",
+    "role": "联署人"
+   },
+   {
+    "name": "李发甲",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王清硕",
+    "role": "涉及人物"
+   },
+   {
+    "name": "查日昌",
+    "role": "涉及人物"
+   },
+   {
+    "name": "金大中",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张霖",
+    "role": "涉及人物"
+   },
+   {
+    "name": "鄂岱",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "镇江",
+   "扬州府",
+   "淮安府",
+   "安庆",
+   "广德州",
+   "湖北",
+   "湖南",
+   "江西",
+   "福建",
+   "广东",
+   "邳州",
+   "徐",
+   "天津",
+   "永定河",
+   "直隶"
+  ]
+ },
+ {
+  "event_id": 133,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "183",
+  "source_title": "直隶巡抚赵弘燮奏为恭进瑞谷事摺",
+  "order_index": 132,
+  "date_raw": "康熙四十五年十二月十二日",
+  "reign_year": 45,
+  "month": 12,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶巡抚赵弘燮奏报固安等县呈送瑞谷，并称各府秋禾茂盛，进呈御览。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道”，表示已阅知此事。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "秦安世",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "直隶",
+   "顺天府",
+   "固安县"
+  ]
+ },
+ {
+  "event_id": 134,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "184",
+  "source_title": "江寧織造曹寅奏謝復點巡視兩淮鹽課並請假營葬摺",
+  "order_index": 133,
+  "date_raw": "康熙肆拾伍年捌月初肆日",
+  "reign_year": 45,
+  "month": 8,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "曹寅谢恩复点巡视两淮盐课，并请假营葬其母、请示勅印交接办法。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批仅表示知道了，未作具体指示。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "梁九功",
+    "role": "涉及人物"
+   },
+   {
+    "name": "尚之傑",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "两淮"
+  ]
+ },
+ {
+  "event_id": 135,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "185",
+  "source_title": "貴州巡撫陳璸奏懇恩許進摺以便遵奉聖訓摺",
+  "order_index": 134,
+  "date_raw": "康熙肆拾伍年捌月初伍日",
+  "reign_year": 45,
+  "month": 8,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "贵州巡抚陈璸奏请循例进摺，以便随时恭请圣安并密奏地方事务、遵奉训旨。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已闻知所奏，知道了。",
+  "people": [
+   {
+    "name": "陈璸",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "贵州",
+   "湖北",
+   "川东"
+  ]
+ },
+ {
+  "event_id": 136,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "（廣東雨水豐收）",
+  "order_index": 135,
+  "date_raw": "未知",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "奏报广东省自康熙五十一年以来雨水调匀、田禾丰收、米价平减、地方安宁。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [],
+  "places": [
+   "广东"
+  ]
+ },
+ {
+  "event_id": 137,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "（昌平瑞穀雙穗）",
+  "order_index": 136,
+  "date_raw": "未知",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "奏报固安、昌平、顺义等地发现双穗瑞谷，函封进呈御览。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "丁克懋",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "固安县",
+   "昌平县",
+   "顺义县",
+   "畿甸"
+  ]
+ },
+ {
+  "event_id": 138,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "（江西巡撫題補知府）",
+  "order_index": 137,
+  "date_raw": "康熙五十三年八月二十五日",
+  "reign_year": 53,
+  "month": 8,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "江西巡抚郎廷极题请升补南昌府知府员缺，请旨补授。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+  "people": [
+   {
+    "name": "郎廷极",
+    "role": "奏报人"
+   },
+   {
+    "name": "吴熙",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江西",
+   "南昌府"
+  ]
+ },
+ {
+  "event_id": 139,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "269",
+  "source_title": "廣東巡撫范時崇奏陳粵鹽原委摺",
+  "order_index": 138,
+  "date_raw": "康熙四十五年八月",
+  "reign_year": 45,
+  "month": 8,
+  "day_text": null,
+  "event_role": "弹劾参奏",
+  "summary": "广东巡抚范时崇遵旨查陈粤盐亏空原委，请分别追补盐政各官亏欠并整顿盐务陋规。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示所奏内容已知道。",
+  "people": [
+   {
+    "name": "范时崇",
+    "role": "奏报人"
+   },
+   {
+    "name": "张天觉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陆曾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "石琳",
+    "role": "涉及人物"
+   },
+   {
+    "name": "萧永藻",
+    "role": "涉及人物"
+   },
+   {
+    "name": "沈恺曾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "杨茂祖",
+    "role": "涉及人物"
+   },
+   {
+    "name": "图巴理斯",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵弘灿",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李善",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郭世隆",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "广东",
+   "广西",
+   "两粤",
+   "广济桥",
+   "连乐埠"
+  ]
+ },
+ {
+  "event_id": 140,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "284",
+  "source_title": "廣東提督趙弘燦奏請聖安並陳會察鹽課未盡情節摺",
+  "order_index": 139,
+  "date_raw": "康熙肆拾伍年玖月初壹日",
+  "reign_year": 45,
+  "month": 9,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "广东提督赵弘灿请安并密陈两广盐课亏空缘由及整顿盐政建议。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批知道了，表示已阅。",
+  "people": [
+   {
+    "name": "赵弘灿",
+    "role": "奏报人"
+   },
+   {
+    "name": "张天觉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陆曾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "金国宝",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵世业",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "广东",
+   "两广",
+   "潮州"
+  ]
+ },
+ {
+  "event_id": 141,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "赵弘燮奏报完工事",
+  "order_index": 140,
+  "date_raw": "康熙五十一年十二月二十日",
+  "reign_year": 51,
+  "month": 12,
+  "day_text": null,
+  "event_role": "河工水利",
+  "summary": "赵弘燮奏报直隶工程补修完工，并称已派员逐处查勘，对平缓单薄不合式处再加帮筑。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "直隶",
+   "紫荆",
+   "密云县"
+  ]
+ },
+ {
+  "event_id": 142,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "赵弘燮奏明赈济事",
+  "order_index": 141,
+  "date_raw": "未知",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "赵弘燮奏报直隶部分州县洼地秋禾被淹，拟设粥厂赈济穷民并借仓粮、捐俸还项，请旨定夺。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批为“具题”，即令其按程序具题上报。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "直隶",
+   "宝坻",
+   "丰润县",
+   "玉田",
+   "蓟州",
+   "武清县",
+   "永清县",
+   "东安",
+   "梁城"
+  ]
+ },
+ {
+  "event_id": 143,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "赵弘燮奏请河间知府",
+  "order_index": 142,
+  "date_raw": "康熙肆拾贰年拾月貳拾玖日",
+  "reign_year": 42,
+  "month": 10,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "直隶巡抚赵弘燮奏请从俞品、李玉堂、赵弘援三员中特旨升补河间府知府空缺。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批告知已有旨意，此事已作处理。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "白为璣",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李光地",
+    "role": "涉及人物"
+   },
+   {
+    "name": "俞品",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李玉堂",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵弘援",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "河间府",
+   "天津",
+   "德州",
+   "雄县",
+   "大名府",
+   "保定府",
+   "满城县",
+   "古北口",
+   "庆云县"
+  ]
+ },
+ {
+  "event_id": 144,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "岳昇龙奏化林营制",
+  "order_index": 143,
+  "date_raw": "未知",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "岳昇龙奏请将成都城守副将改为化林协副将、化林参将改为城守参将，以加强边地统辖。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "赵成",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "四川",
+   "化林营",
+   "打箭炉",
+   "成都",
+   "木鸦"
+  ]
+ },
+ {
+  "event_id": 145,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "李煦奏请万安并进冬笋",
+  "order_index": 144,
+  "date_raw": "康熙四十五年十一月初七日",
+  "reign_year": 45,
+  "month": 11,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "李煦任满后因曹寅进京而暂署盐差，奏请圣安谢恩并进冬笋酱菜，兼报苏扬收成民情。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "曹寅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "俞亮贵",
+    "role": "涉及人物"
+   },
+   {
+    "name": "范茂",
+    "role": "涉及人物"
+   },
+   {
+    "name": "萨尔吉图",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "苏州",
+   "扬州府"
+  ]
+ },
+ {
+  "event_id": 146,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "陈诜奏报麦收分数",
+  "order_index": 145,
+  "date_raw": "康熙四十五年五月初八日",
+  "reign_year": 45,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "贵州巡抚陈诜奏报所属府州夏季麦油及秋季米豆收成分数，并转述督催查报经过。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "陈诜",
+    "role": "奏报人"
+   },
+   {
+    "name": "张建绩",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "贵州",
+   "湖北",
+   "川东",
+   "滇南",
+   "贵阳府",
+   "定番州",
+   "广顺州",
+   "开州",
+   "贵筑县"
+  ]
+ },
+ {
+  "event_id": 147,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "202",
+  "source_title": "贵州巡抚陈诜奏为通查各属麦荍收成分数缘由摺",
+  "order_index": 146,
+  "date_raw": "康熙肆拾伍年拾壹月拾玖日",
+  "reign_year": 45,
+  "month": 11,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "贵州巡抚陈诜汇总各府州县禀报，奏陈全省秋收米谷荞豆收成分数及雨水旱情。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "陈诜",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "贵州",
+   "贵定县",
+   "龙里县",
+   "修文县",
+   "安顺府",
+   "南笼厅",
+   "镇宁州",
+   "永宁州",
+   "普安州",
+   "普定县",
+   "清镇县",
+   "安平县",
+   "安南县",
+   "平越府",
+   "黄平州",
+   "余庆县",
+   "瓮安县",
+   "湄潭县",
+   "都匀府",
+   "独山州",
+   "麻哈州",
+   "清平县",
+   "镇远府",
+   "施秉县",
+   "思南府",
+   "安化县",
+   "印江县",
+   "婺川县",
+   "石阡府",
+   "龙泉县",
+   "思州府",
+   "铜仁府",
+   "黎平府",
+   "永从县",
+   "威宁府",
+   "大定州",
+   "平远州",
+   "黔西州",
+   "永宁县",
+   "毕节县"
+  ]
+ },
+ {
+  "event_id": 148,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "203",
+  "source_title": "贵州巡抚陈诜奏谢准具摺奏事并蒙赐鹿肉条摺",
+  "order_index": 147,
+  "date_raw": "康熙肆拾伍年拾壹月拾玖日",
+  "reign_year": 45,
+  "month": 11,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "贵州巡抚陈诜奏谢皇上准其具摺奏事并蒙赐鹿肉条，兼陈历官经历与感激之情。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "陈诜",
+    "role": "奏报人"
+   },
+   {
+    "name": "陈世倌",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "贵州",
+   "湖北",
+   "川东",
+   "楚",
+   "蜀",
+   "滇"
+  ]
+ },
+ {
+  "event_id": 149,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "204",
+  "source_title": "江西巡抚郎廷极奏谢以辅国公之妹下嫁长男摺",
+  "order_index": 148,
+  "date_raw": "康熙四十五年十一月二十日",
+  "reign_year": 45,
+  "month": 11,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "江西巡抚郎廷极奏谢皇上准许辅国公之妹下嫁其长子郎文杰并授四品辅国公婿。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "郎廷极",
+    "role": "奏报人"
+   },
+   {
+    "name": "郎文杰",
+    "role": "涉及人物"
+   },
+   {
+    "name": "色钦",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江西"
+  ]
+ },
+ {
+  "event_id": 150,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "205",
+  "source_title": "兵部奏报十日内给发勘合火牌用过车马数目等情摺",
+  "order_index": 149,
+  "date_raw": "康熙肆拾伍年拾壹月初柒日",
+  "reign_year": 45,
+  "month": 11,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "兵部遵旨每十日奏报京城与各省往来人员所用勘合火牌车马数目及折银开销。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "五十一",
+    "role": "涉及人物"
+   },
+   {
+    "name": "傻子",
+    "role": "涉及人物"
+   },
+   {
+    "name": "来保",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郭迁",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王梓珩",
+    "role": "涉及人物"
+   },
+   {
+    "name": "塞布赫",
+    "role": "涉及人物"
+   },
+   {
+    "name": "巴尔佳尔佳禄安",
+    "role": "涉及人物"
+   },
+   {
+    "name": "达赖",
+    "role": "涉及人物"
+   },
+   {
+    "name": "图臻",
+    "role": "涉及人物"
+   },
+   {
+    "name": "色楞",
+    "role": "涉及人物"
+   },
+   {
+    "name": "原杂华",
+    "role": "涉及人物"
+   },
+   {
+    "name": "安邦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "段务新",
+    "role": "涉及人物"
+   },
+   {
+    "name": "萨穆浑",
+    "role": "涉及人物"
+   },
+   {
+    "name": "博勒",
+    "role": "涉及人物"
+   },
+   {
+    "name": "戈备汔",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张鸣凤",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赴士奇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "林起鹏",
+    "role": "涉及人物"
+   },
+   {
+    "name": "白含滦",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "京城",
+   "畅春园",
+   "东华门",
+   "通州",
+   "良乡",
+   "昌平县",
+   "顺义县",
+   "黑龙江",
+   "喀喇河屯",
+   "古北口",
+   "怀柔县",
+   "云南"
+  ]
+ },
+ {
+  "event_id": 151,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "兵部拨给车马",
+  "order_index": 150,
+  "date_raw": "康熙四十五年十二月二十八日",
+  "reign_year": 45,
+  "month": 12,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "兵部汇报拨给车马、火牌、口粮及勘合等驿递事务，并奉旨预备马匹车辆。",
+  "has_zhupi": 1,
+  "zhupi_summary": "谕令东华门外每日预备马十四匹、骡子馆挑选拴车马六十匹、部前每日预备马四十匹车二十辆，其余知道了。",
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "黑龙江",
+   "古北口",
+   "西宁县",
+   "昌平县",
+   "良乡",
+   "通州",
+   "畅春苑",
+   "云南",
+   "盛京城",
+   "杀虎口",
+   "顺义县",
+   "沧州",
+   "宁古塔",
+   "霸州",
+   "固安县",
+   "山西",
+   "西安府",
+   "广东",
+   "四川",
+   "东华门"
+  ]
+ },
+ {
+  "event_id": 152,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "206",
+  "source_title": "江宁织造曹寅奏王子迎娶情形摺（康熙四十五年十二月初五日）",
+  "order_index": 151,
+  "date_raw": "康熙四十五年十二月初五日",
+  "reign_year": 45,
+  "month": 12,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "曹寅奏报王子迎娶礼数隆重、蒙恩赐宴，并恭请圣安、叩谢皇恩。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已知悉此事。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江南徽州府",
+   "扬州府"
+  ]
+ },
+ {
+  "event_id": 153,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "207",
+  "source_title": "直隶巡抚赵弘燮奏报瑞雪分寸摺（康熙四十五年十二月十一日）",
+  "order_index": 152,
+  "date_raw": "康熙四十五年五月拾壹日",
+  "reign_year": 45,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "李树德与师懿德会商天津开垦稻田收成及稻谷交仓暂贮事宜并请旨。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批同意所议，即依议。",
+  "people": [
+   {
+    "name": "李树德",
+    "role": "奏报人"
+   },
+   {
+    "name": "师懿德",
+    "role": "联署人"
+   },
+   {
+    "name": "存住",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "山东",
+   "天津",
+   "直隶"
+  ]
+ },
+ {
+  "event_id": 154,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "208",
+  "source_title": "直隶巡抚赵弘燮奏报瑞雪分寸摺（康熙四十五年十二月十一日）",
+  "order_index": 153,
+  "date_raw": "康熙四十五年十二月十一日",
+  "reign_year": 45,
+  "month": 12,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶巡抚赵弘燮奏报宣化、顺天等府州县入冬得雪分寸，麦根滋润可望来年丰收。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示九月廿一二日两场雪已足，自己早已知晓，故不为此雨雪称庆。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "直隶",
+   "宣化府",
+   "保安",
+   "延庆",
+   "宣化",
+   "万全",
+   "龙门",
+   "赤城",
+   "怀安",
+   "蔚县",
+   "怀来",
+   "顺天府",
+   "遵化州",
+   "大城县",
+   "永平府",
+   "卢龙县",
+   "滦州",
+   "抚宁县",
+   "昌黎县",
+   "乐亭县",
+   "山海",
+   "保定府",
+   "蠡县",
+   "河间府",
+   "青县",
+   "静海县",
+   "沧州",
+   "宁津县",
+   "交河县",
+   "景州",
+   "献县",
+   "东光",
+   "霸州",
+   "宁南",
+   "皮天津",
+   "真定府",
+   "行唐县",
+   "南宫",
+   "枣强",
+   "新河",
+   "武邑",
+   "深州",
+   "衡水",
+   "顺德府",
+   "广宗",
+   "钜鹿"
+  ]
+ },
+ {
+  "event_id": 155,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "209",
+  "source_title": "苏州织造李煦奏贺元旦并进冬笋等物摺（康熙四十五年十二月十三日）",
+  "order_index": 154,
+  "date_raw": "康熙四十五年十二月十三日",
+  "reign_year": 45,
+  "month": 12,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "苏州织造李煦恭请万安并进献冬笋等物，另附赵弘燮奏报查议张霖帑银事。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "赵弘燮",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "苏州",
+   "两淮",
+   "直隶",
+   "紫荆",
+   "密云县"
+  ]
+ },
+ {
+  "event_id": 156,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "214",
+  "source_title": "工部尚书王鸿绪奏会议陕西捐纳情形并南河闸工事折",
+  "order_index": 155,
+  "date_raw": "康熙四十二年",
+  "reign_year": 42,
+  "month": null,
+  "day_text": null,
+  "event_role": "河工水利",
+  "summary": "王鸿绪密奏九卿会议陕西捐纳补完事宜及官员对在部捐补河工例的分歧意见。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "温达",
+    "role": "涉及人物"
+   },
+   {
+    "name": "曹鉴伦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张睿",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李元振",
+    "role": "涉及人物"
+   },
+   {
+    "name": "希福纳",
+    "role": "涉及人物"
+   },
+   {
+    "name": "江蘩",
+    "role": "涉及人物"
+   },
+   {
+    "name": "博济",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "陕西"
+  ]
+ },
+ {
+  "event_id": 157,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "215",
+  "source_title": "工部尚书王鸿绪奏陈防止冒销钱粮办法并请盘查户库折",
+  "order_index": 156,
+  "date_raw": "康熙四十五年十二月十七日",
+  "reign_year": 45,
+  "month": 12,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "工部尚书王鸿绪奏报查审张霖冒销帑银案进展，并请盘查户库、追变还帮。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝表示已知悉此事。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "鄂岱",
+    "role": "涉及人物"
+   },
+   {
+    "name": "迈色",
+    "role": "涉及人物"
+   },
+   {
+    "name": "常绶",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张霖",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶"
+  ]
+ },
+ {
+  "event_id": 158,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "216",
+  "source_title": "工部尚书王鸿绪奏为访确陕西捐纳弊端并南河闸工事折",
+  "order_index": 157,
+  "date_raw": "康熙五十三年十一月二十九日",
+  "reign_year": 53,
+  "month": 11,
+  "day_text": null,
+  "event_role": "河工水利",
+  "summary": "奏报来安河堤工丈尺不足处赔补及遥堤改大堤等河工修理事宜。",
+  "has_zhupi": 1,
+  "zhupi_summary": "指示乘无玷扬玑缺虞行具题，并知悉所奏。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "王新命",
+    "role": "联署人"
+   },
+   {
+    "name": "温达",
+    "role": "涉及人物"
+   },
+   {
+    "name": "包图浑",
+    "role": "涉及人物"
+   },
+   {
+    "name": "皂保",
+    "role": "涉及人物"
+   },
+   {
+    "name": "色图浑",
+    "role": "涉及人物"
+   },
+   {
+    "name": "南达礼",
+    "role": "涉及人物"
+   },
+   {
+    "name": "尹办垦",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "陕西",
+   "来安河",
+   "高家堰",
+   "兰州",
+   "宛平县",
+   "石垡",
+   "固安县",
+   "第五朱营",
+   "泰清县",
+   "北哥夹",
+   "涿州",
+   "南蔡村"
+  ]
+ },
+ {
+  "event_id": 159,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "212",
+  "source_title": "广东巡抚范时崇奏报年丰收折",
+  "order_index": 158,
+  "date_raw": "康熙四十五年十二月",
+  "reign_year": 45,
+  "month": 12,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "广东巡抚范时崇奏谢皇上赏赐鹿肉条，表示感激并誓图报效。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "范时崇",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李士英",
+    "role": "涉及人物"
+   },
+   {
+    "name": "于准",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "广东",
+   "江宁府",
+   "两淮",
+   "通州",
+   "江苏"
+  ]
+ },
+ {
+  "event_id": 160,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "213",
+  "source_title": "广东巡抚范时崇奏谢赏赐鹿肉条折",
+  "order_index": 159,
+  "date_raw": "康熙四十五年十二月",
+  "reign_year": 45,
+  "month": 12,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "广东巡抚范时崇奏报广东夏秋两熟丰收、兵民粮食充足，并谢赏鹿肉。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "范时崇",
+    "role": "奏报人"
+   },
+   {
+    "name": "李臣",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "广东"
+  ]
+ },
+ {
+  "event_id": 161,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "218",
+  "source_title": "工部尚书王鸿绪奏报会审袁桥等贪婪赃银事摺",
+  "order_index": 160,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "工部尚书王鸿绪密奏会审袁桥参噶礼一案，详述买本告状、蔡璜身死及夹讯各情。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知此事。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "袁桥",
+    "role": "涉及人物"
+   },
+   {
+    "name": "噶礼",
+    "role": "涉及人物"
+   },
+   {
+    "name": "巴哈布",
+    "role": "涉及人物"
+   },
+   {
+    "name": "蔡璜",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吉维时",
+    "role": "涉及人物"
+   },
+   {
+    "name": "贾钰",
+    "role": "涉及人物"
+   },
+   {
+    "name": "蔡珍",
+    "role": "涉及人物"
+   },
+   {
+    "name": "温达",
+    "role": "涉及人物"
+   },
+   {
+    "name": "马朝瓒",
+    "role": "涉及人物"
+   },
+   {
+    "name": "胡炳",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郭明奇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李应甲",
+    "role": "涉及人物"
+   },
+   {
+    "name": "蔡珠",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "平遥县",
+   "山西",
+   "宿迁",
+   "太仓州",
+   "京师",
+   "畅春园"
+  ]
+ },
+ {
+  "event_id": 162,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "219",
+  "source_title": "贵州巡抚陈诜奏谢赏赐槽鹿尾等珍味摺尾缺",
+  "order_index": 161,
+  "date_raw": "康熙肆拾陆年贰月初壹日",
+  "reign_year": 46,
+  "month": 2,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "贵州巡抚陈诜奏谢康熙帝赏赐鹿尾、糟野鸡、鲞鱼等珍味，并率官员跪迎谢恩。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝称奏折均已批阅，并赏赐鹿尾、糟野鸡、鲞鱼，因路远鲜物难带，命将糟制之物带给陈诜之父食用。",
+  "people": [
+   {
+    "name": "陈诜",
+    "role": "奏报人"
+   },
+   {
+    "name": "陈世偕",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "贵州",
+   "湖北",
+   "川东"
+  ]
+ },
+ {
+  "event_id": 163,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "220",
+  "source_title": "贵州巡抚陈诜奏为直陈境内各土司情形并进图说摺",
+  "order_index": 162,
+  "date_raw": "康熙肆拾陆年贰月初壹日",
+  "reign_year": 46,
+  "month": 2,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "贵州巡抚陈诜奏陈通省土司苗獞分布、管辖及善恶情形并进图说。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "陈诜",
+    "role": "奏报人"
+   },
+   {
+    "name": "李芳述",
+    "role": "涉及人物"
+   },
+   {
+    "name": "禄天德",
+    "role": "涉及人物"
+   },
+   {
+    "name": "岑齐岱",
+    "role": "涉及人物"
+   },
+   {
+    "name": "罗君敬",
+    "role": "涉及人物"
+   },
+   {
+    "name": "杜天相",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王彰德",
+    "role": "涉及人物"
+   },
+   {
+    "name": "罗拱宸",
+    "role": "涉及人物"
+   },
+   {
+    "name": "天世臣",
+    "role": "涉及人物"
+   },
+   {
+    "name": "杨武功",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吴懋勋",
+    "role": "涉及人物"
+   },
+   {
+    "name": "蒙璋",
+    "role": "涉及人物"
+   },
+   {
+    "name": "杨圣教",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李缵宗",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张鸿模",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张大纪",
+    "role": "涉及人物"
+   },
+   {
+    "name": "于准",
+    "role": "涉及人物"
+   },
+   {
+    "name": "刘若鼐",
+    "role": "涉及人物"
+   },
+   {
+    "name": "刘付",
+    "role": "涉及人物"
+   },
+   {
+    "name": "高天凤",
+    "role": "涉及人物"
+   },
+   {
+    "name": "韩文灿",
+    "role": "涉及人物"
+   },
+   {
+    "name": "莫自新",
+    "role": "涉及人物"
+   },
+   {
+    "name": "黄绍祖",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈福",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "贵州",
+   "云南",
+   "四川",
+   "广西",
+   "湖南",
+   "铜仁府",
+   "石阡府",
+   "思州府",
+   "思南府",
+   "遵义",
+   "威宁",
+   "永宁县",
+   "乌蒙",
+   "泗城",
+   "安顺",
+   "普安州",
+   "贵阳府",
+   "定番州",
+   "安笼",
+   "南笼",
+   "平越府",
+   "都匀府",
+   "独山州",
+   "麻哈州",
+   "凯里",
+   "黎平府",
+   "黄平州",
+   "镇远府",
+   "靖州",
+   "修文县",
+   "清平县"
+  ]
+ },
+ {
+  "event_id": 164,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "221",
+  "source_title": "附硃谕一纸",
+  "order_index": 163,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "奏陈土司种类繁多风俗各异，主张治土司以不生事为主、不宜绳之以内地法制。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批论述土司风俗各异、王法难绳，主张宽严适度、以不生事为主，并指前任督抚惧生事而不肯上闻。",
+  "people": [],
+  "places": []
+ },
+ {
+  "event_id": 165,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "直隶巡抚奏请",
+  "order_index": 164,
+  "date_raw": "康熙五十五年十二月二十日",
+  "reign_year": 55,
+  "month": 12,
+  "day_text": null,
+  "event_role": "贸易漕运",
+  "summary": "直隶巡抚郭世隆奏请制钱配搭使用及征赋收钱办法，请圣裁。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批令其速将此事具题上报。",
+  "people": [
+   {
+    "name": "郭世隆",
+    "role": "奏报人"
+   },
+   {
+    "name": "王奕仁",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "浙江"
+  ]
+ },
+ {
+  "event_id": 166,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "223",
+  "source_title": "四川提督岳昇龙奏谢赐食物摺",
+  "order_index": 165,
+  "date_raw": "康熙肆拾陆年叁月初贰日",
+  "reign_year": 46,
+  "month": 3,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "四川提督岳昇龙奏谢康熙帝赏赐麞鹿尾、燻兔、麞野鸡等食物，表示感激并图报恩。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "四川",
+   "喀喇河屯"
+  ]
+ },
+ {
+  "event_id": 167,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "岳昇龙请安摺",
+  "order_index": 166,
+  "date_raw": "康熙肆拾陆年叁月初贰日",
+  "reign_year": 46,
+  "month": 3,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "四川提督岳昇龙因未能随驾南巡河工，具摺遥叩圣安。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "四川",
+   "淮右"
+  ]
+ },
+ {
+  "event_id": 168,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "朱谕密访苏州女子事",
+  "order_index": 167,
+  "date_raw": "康熙肆拾玖年叁月贰拾贰日",
+  "reign_year": 49,
+  "month": 3,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "王鸿绪密奏苏州等地有人买卖女子、官员强买人口及冒用御前名色等情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "陈世安",
+    "role": "涉及人物"
+   },
+   {
+    "name": "范溥",
+    "role": "涉及人物"
+   },
+   {
+    "name": "姜弘绪",
+    "role": "涉及人物"
+   },
+   {
+    "name": "严镗",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵朗玉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "五哥",
+    "role": "涉及人物"
+   },
+   {
+    "name": "迈子",
+    "role": "涉及人物"
+   },
+   {
+    "name": "德成格",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "太仓州",
+   "常熟县",
+   "徽州"
+  ]
+ },
+ {
+  "event_id": 169,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "329",
+  "source_title": "陕西提督潘育龙奏请圣安摺",
+  "order_index": 168,
+  "date_raw": "康熙肆拾陆年肆月初陆日",
+  "reign_year": 46,
+  "month": 4,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "陕西提督潘育龙因年老不能扈从康熙南巡阅河，遣家人代向皇上请安。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告知自己身体安善，江浙、山东麦已成熟丰收，甚感宽慰。",
+  "people": [
+   {
+    "name": "潘育龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "张应诏",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "陕西",
+   "淮河",
+   "江浙",
+   "山左"
+  ]
+ },
+ {
+  "event_id": 170,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "259",
+  "source_title": "湖广巡抚刘殿衡奏报秋成分数并米价平减摺",
+  "order_index": 169,
+  "date_raw": "康熙肆拾陆年肆月初捌日",
+  "reign_year": 46,
+  "month": 4,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "湖广巡抚刘殿衡奏谢皇上南巡期间召见赏赐之恩，并报回任沿途麦苗茂盛、地方宁静。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "刘殿衡",
+    "role": "奏报人"
+   },
+   {
+    "name": "刘喜",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "湖广",
+   "清江浦",
+   "淮城",
+   "三汊河",
+   "武昌",
+   "黄梅县",
+   "荆州府"
+  ]
+ },
+ {
+  "event_id": 171,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "310",
+  "source_title": "直隶巡抚赵弘燮奏报各属得雪得雨分寸情形摺",
+  "order_index": 170,
+  "date_raw": "康熙五十五年五月拾贰日",
+  "reign_year": 55,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶巡抚赵弘燮奏报各属闰月及四月得雨雪分寸、麦田播种情形，并报保定府城得雨。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知所奏雨泽情形。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "吴存礼",
+    "role": "涉及人物"
+   },
+   {
+    "name": "曹寅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈璸",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈诜",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵弘灿",
+    "role": "涉及人物"
+   },
+   {
+    "name": "范时崇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郎廷极",
+    "role": "涉及人物"
+   },
+   {
+    "name": "桑格",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李光地",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李玉堂",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张六十",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李氏",
+    "role": "涉及人物"
+   },
+   {
+    "name": "刘小吾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "刘运转",
+    "role": "涉及人物"
+   },
+   {
+    "name": "刘世友",
+    "role": "涉及人物"
+   },
+   {
+    "name": "查氏",
+    "role": "涉及人物"
+   },
+   {
+    "name": "世倬",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈世倌",
+    "role": "涉及人物"
+   },
+   {
+    "name": "多罗",
+    "role": "涉及人物"
+   },
+   {
+    "name": "佛保",
+    "role": "涉及人物"
+   },
+   {
+    "name": "巴哈喇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵明秋",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张有良",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "顺天府",
+   "顺义县",
+   "房山",
+   "香河",
+   "昌平县",
+   "通州",
+   "蓟州",
+   "遵化州",
+   "霸州",
+   "保定县",
+   "文安县",
+   "平谷县",
+   "东安",
+   "涿州",
+   "宛平县",
+   "大兴县",
+   "保定府",
+   "深泽县",
+   "淶水",
+   "雄县",
+   "河间府",
+   "肃宁县",
+   "青县",
+   "交河县",
+   "献县",
+   "任丘县",
+   "沧州",
+   "景州",
+   "阜城",
+   "静海县",
+   "吴桥县",
+   "宁津县",
+   "天津",
+   "真定府",
+   "真定县",
+   "井陉",
+   "获鹿县",
+   "藁城县",
+   "栾城",
+   "平山",
+   "定州",
+   "衡水",
+   "新河",
+   "冀州",
+   "南宫",
+   "高邑",
+   "柏乡县",
+   "饶阳",
+   "晋州",
+   "隆平县",
+   "宁晋",
+   "深州",
+   "顺德府",
+   "唐山",
+   "广宗",
+   "钜鹿",
+   "任县",
+   "广平府",
+   "永年县",
+   "肥乡县",
+   "清河",
+   "威县",
+   "广平县",
+   "鸡泽县",
+   "大名府",
+   "开州",
+   "东明县",
+   "南乐",
+   "清丰",
+   "长垣县",
+   "元城",
+   "内黄县",
+   "滑县",
+   "濬县",
+   "宣化府",
+   "宣化",
+   "万全",
+   "怀安",
+   "赤城",
+   "西宁县",
+   "龙门",
+   "怀来",
+   "良乡",
+   "延庆",
+   "完县",
+   "易州",
+   "曲周",
+   "江苏",
+   "江宁府",
+   "江南",
+   "江西",
+   "湖广",
+   "贵州",
+   "湖北",
+   "川东",
+   "广东",
+   "广西",
+   "澳门",
+   "山东",
+   "兖州",
+   "丰润县",
+   "宝坻",
+   "南昌"
+  ]
+ },
+ {
+  "event_id": 172,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "262",
+  "source_title": "工部尚书王鸿绪奏浙江抚藩欲派公费情形并揭马骡弊端摺",
+  "order_index": 171,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "王鸿绪密奏续访浙江抚藩派买人口及范溥强买、包揽捐纳等弊端，并请密防窥探。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“是”，表示认可所奏。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "范溥",
+    "role": "涉及人物"
+   },
+   {
+    "name": "查昇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李玉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵朗玉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陆南",
+    "role": "涉及人物"
+   },
+   {
+    "name": "黄明",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "苏州",
+   "石门县",
+   "扬州府",
+   "畅春园",
+   "虎丘",
+   "杭州",
+   "山东",
+   "泰州"
+  ]
+ },
+ {
+  "event_id": 173,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "260",
+  "source_title": "江宁织造曹寅奏报江南收成并盗案摺",
+  "order_index": 172,
+  "date_raw": "康熙肆拾陆年陆月贰拾日",
+  "reign_year": 46,
+  "month": 6,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "曹寅奏报仪真掣盐因河浅受阻及江南太平无事，康熙朱批询问南方旱情与盗案。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙称北方秋收大熟，但忧虑南方亢旱及盗案频发。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "仪真",
+   "江南"
+  ]
+ },
+ {
+  "event_id": 174,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "（李维钧奏雨泽）",
+  "order_index": 173,
+  "date_raw": "康熙四十五年五月二十四日",
+  "reign_year": 45,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李维钧奏报直隶雨泽沾足、秋禾秀发、蝗蝻绝迹及河堤防守情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示口外今年收成比往年更好，只担心秋霜来得早。",
+  "people": [
+   {
+    "name": "李维钧",
+    "role": "奏报人"
+   },
+   {
+    "name": "马齐",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶"
+  ]
+ },
+ {
+  "event_id": 175,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "253",
+  "source_title": "两广总督赵弘灿等奏报粤东年成并送有技艺西洋人赴京摺",
+  "order_index": 174,
+  "date_raw": "康熙肆拾玖年陆月贰拾捌日",
+  "reign_year": 49,
+  "month": 6,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "两广总督赵弘灿奏报粤东年成雨水调顺、谷熟丰收，并陈明缉盗安民、考核属官及进贡土物等事。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵弘灿",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "广东",
+   "广西",
+   "广惠潮"
+  ]
+ },
+ {
+  "event_id": 176,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "300",
+  "source_title": "江宁织造曹寅奏报自兖至宁一路闻见事宜摺",
+  "order_index": 175,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "曹寅奏报自兖州至江宁沿途所见闻的地方情形事宜。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "兖州",
+   "江宁府"
+  ]
+ },
+ {
+  "event_id": 177,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "244",
+  "source_title": "苏州织造李煦奏请万安摺（康熙四十六年六月）",
+  "order_index": 176,
+  "date_raw": "康熙肆拾陆年陆月日",
+  "reign_year": 46,
+  "month": 6,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "李煦在苏州恭请皇帝万安，进献湖笔小菜糖菓，并奏报苏州六月得雨情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示南巡归来即闻江南淮扬地方文武官员失职，近日又闻江浙少雨，担心繁文缛节过多。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "江南",
+   "淮扬",
+   "江浙"
+  ]
+ },
+ {
+  "event_id": 178,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "245",
+  "source_title": "广东巡抚范时崇奏报夏收摺（康熙四十六年六月）",
+  "order_index": 177,
+  "date_raw": "康熙四十六年六月",
+  "reign_year": 46,
+  "month": 6,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "广东巡抚范时崇奏报该省夏收丰稔、早谷登场及米价平稳情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "范时崇",
+    "role": "奏报人"
+   },
+   {
+    "name": "李佳",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "广东"
+  ]
+ },
+ {
+  "event_id": 179,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "246",
+  "source_title": "浙江巡抚朱轼奏谢圣躬万安并陈地方事宜摺（康熙五十七年七月初日）",
+  "order_index": 178,
+  "date_raw": "康熙五十七年七月初日",
+  "reign_year": 57,
+  "month": 7,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "浙江巡抚朱轼奏请圣安，并报告直隶及浙江雨水、秋禾长势与河防情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知奏报内容。",
+  "people": [
+   {
+    "name": "朱轼",
+    "role": "奏报人"
+   },
+   {
+    "name": "白潢",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "浙江",
+   "口外",
+   "完固口",
+   "浑家桥",
+   "戚家桥",
+   "子牙河",
+   "漳滏滹沱",
+   "永定河"
+  ]
+ },
+ {
+  "event_id": 180,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "247",
+  "source_title": "陕西提督潘育龙奏请圣安摺（康熙四十六年七月十五日）",
+  "order_index": 179,
+  "date_raw": "康熙肆拾陆年柒月拾伍日",
+  "reign_year": 46,
+  "month": 7,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "陕西提督潘育龙年迈思君，遣家人进献自造桃起并代叩请圣安。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批表示知道了。",
+  "people": [
+   {
+    "name": "潘育龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "潘安",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "陕西"
+  ]
+ },
+ {
+  "event_id": 181,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "248",
+  "source_title": "闽浙总督梁鼐奏请圣安摺（康熙四十六年七月）",
+  "order_index": 180,
+  "date_raw": "康熙肆拾陆年柒月",
+  "reign_year": 46,
+  "month": 7,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "梁鼐奏报浙省旱情得雨、海洋哨巡安靖及会审事竣回闽，并遣人恭请圣安。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "马得胜",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "福建",
+   "浙江",
+   "杭城",
+   "杭嘉湖绍"
+  ]
+ },
+ {
+  "event_id": 182,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "249",
+  "source_title": "闽浙总督梁鼐奏请恩赐御笔摺（康熙四十六年）",
+  "order_index": 181,
+  "date_raw": "康熙四十六年",
+  "reign_year": 46,
+  "month": null,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "梁鼐奏谢皇上赐地黄丸药，并恳请再赐御笔。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "清河",
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 183,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "奏谢天恩摺",
+  "order_index": 182,
+  "date_raw": "康熙肆拾年柒月贰拾肆日",
+  "reign_year": 40,
+  "month": 7,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "福建浙江巡抚上奏谢恩，恳请皇上再准赐给，以终犬马余生。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批表示知道了、准了。",
+  "people": [
+   {
+    "name": "某",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "福建",
+   "浙江"
+  ]
+ },
+ {
+  "event_id": 184,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "奏报雨水情形摺",
+  "order_index": 183,
+  "date_raw": "未知",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "提督奏报所属四镇四至六月雨水粮价及禾苗收成情形。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [],
+  "places": [
+   "甘州",
+   "肃州",
+   "西宁县",
+   "河西",
+   "河东",
+   "临巩二府",
+   "凉州",
+   "宁夏",
+   "庄浪营",
+   "花马池"
+  ]
+ },
+ {
+  "event_id": 185,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "偏沅巡抚赵申乔奏请圣安并报湖南雨水米价等情摺",
+  "order_index": 184,
+  "date_raw": "康熙肆拾陆年柒月",
+  "reign_year": 46,
+  "month": 7,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "偏沅巡抚赵申乔奏报湖南雨水米价、临湘民病施药及五寨长官司土官不法、红苗滋扰等边务情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批仅表示知道了。",
+  "people": [
+   {
+    "name": "赵申乔",
+    "role": "奏报人"
+   },
+   {
+    "name": "田弘天",
+    "role": "涉及人物"
+   },
+   {
+    "name": "唐宣明",
+    "role": "涉及人物"
+   },
+   {
+    "name": "哲尔肯",
+    "role": "涉及人物"
+   },
+   {
+    "name": "向友才",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵熊诏",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵亦普",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "湖南",
+   "长沙府",
+   "岳州",
+   "常德",
+   "临湘县",
+   "五寨长官司",
+   "辰州府",
+   "乾州",
+   "泸溪",
+   "麻阳"
+  ]
+ },
+ {
+  "event_id": 186,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "贵州巡抚陈诜奏报春麦大收夏雨沾足禾苗茂盛摺",
+  "order_index": 185,
+  "date_raw": "康熙四十六年八月十二日",
+  "reign_year": 46,
+  "month": 8,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "贵州巡抚陈诜奏报春麦丰收、夏雨沾足、禾苗茂盛，并陈报雨水米价情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批阅后仅表示知道了。",
+  "people": [
+   {
+    "name": "陈诜",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "贵州",
+   "湖北",
+   "川东",
+   "江西",
+   "九江府"
+  ]
+ },
+ {
+  "event_id": 187,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "254",
+  "source_title": "总督广东广西等处地方军务兼理粮饷兵部右侍郎兼都察院右副都御史臣赵弘灿、巡抚广东等处地方提督军务兼理粮饷都察院右副都御史臣范时崇奏跪请圣安",
+  "order_index": 186,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "两广总督赵弘灿与广东巡抚范时崇奏报广东丰收米价平稳并恭请圣安。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "赵弘灿",
+    "role": "奏报人"
+   },
+   {
+    "name": "范时崇",
+    "role": "联署人"
+   },
+   {
+    "name": "巴哈喇",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "广东",
+   "广西"
+  ]
+ },
+ {
+  "event_id": 188,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "奏为西洋人事奉旨遵行摺",
+  "order_index": 187,
+  "date_raw": "未知",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "佛保到广东传旨，安排西洋人事务，将多罗安置于泉门，并遵旨处理新到西洋人留粤与送京事宜。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "佛保",
+    "role": "涉及人物"
+   },
+   {
+    "name": "多罗",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "广东",
+   "泉门"
+  ]
+ },
+ {
+  "event_id": 189,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "奏为查明新到西洋人情形摺",
+  "order_index": 188,
+  "date_raw": "未知",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "查明新到西洋人共十一名，其中数人通天文、丝律、钟表技艺，余为传教士，遵部暂留广东。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "丽嘉宾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "怀精",
+    "role": "涉及人物"
+   },
+   {
+    "name": "石可圣",
+    "role": "涉及人物"
+   },
+   {
+    "name": "林济各",
+    "role": "涉及人物"
+   },
+   {
+    "name": "卫方济",
+    "role": "涉及人物"
+   },
+   {
+    "name": "曾颙思",
+    "role": "涉及人物"
+   },
+   {
+    "name": "德马诺",
+    "role": "涉及人物"
+   },
+   {
+    "name": "孔路师",
+    "role": "涉及人物"
+   },
+   {
+    "name": "白若翰",
+    "role": "涉及人物"
+   },
+   {
+    "name": "岑思理",
+    "role": "涉及人物"
+   },
+   {
+    "name": "利奥定",
+    "role": "涉及人物"
+   },
+   {
+    "name": "魏格尔",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "广东"
+  ]
+ },
+ {
+  "event_id": 190,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "奏为护送西洋人进京摺",
+  "order_index": 189,
+  "date_raw": "康熙肆拾陆年捌月拾壹日",
+  "reign_year": 46,
+  "month": 8,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "江宁巡抚郎廷极奏报已将西洋人丽嘉宾、石可圣、林济各三人差人护送进京。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了。",
+  "people": [
+   {
+    "name": "郎廷极",
+    "role": "奏报人"
+   },
+   {
+    "name": "丽嘉宾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "石可圣",
+    "role": "涉及人物"
+   },
+   {
+    "name": "林济各",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江宁府"
+  ]
+ },
+ {
+  "event_id": 191,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "261",
+  "source_title": "直隸巡撫趙弘燮奏報秋收實在分數摺（尾缺）",
+  "order_index": 190,
+  "date_raw": "康熙五十五年正月初三日",
+  "reign_year": 55,
+  "month": 1,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "直隶巡抚赵弘燮奏报各属秋禾收成实在分数，通盘匀算约十分。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "于成龙",
+    "role": "涉及人物"
+   },
+   {
+    "name": "曹寅",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "江南",
+   "浙江",
+   "湖广",
+   "江西",
+   "句容"
+  ]
+ },
+ {
+  "event_id": 192,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "263",
+  "source_title": "工部尚書王鴻緒奏浙江撫藩欲派公費情形並揭馬騾弊端摺",
+  "order_index": 191,
+  "date_raw": "康熙四十四年",
+  "reign_year": 44,
+  "month": null,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "密奏江浙雨水田禾收成及浙江抚藩拟加派公费、捐马舞弊等情。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已知悉所奏内容。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "张泰交",
+    "role": "涉及人物"
+   },
+   {
+    "name": "程銮",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王然",
+    "role": "涉及人物"
+   },
+   {
+    "name": "高其佩",
+    "role": "涉及人物"
+   },
+   {
+    "name": "梁鼐",
+    "role": "涉及人物"
+   },
+   {
+    "name": "黄明",
+    "role": "涉及人物"
+   },
+   {
+    "name": "俞之桂",
+    "role": "涉及人物"
+   },
+   {
+    "name": "朱天元",
+    "role": "涉及人物"
+   },
+   {
+    "name": "席哈纳",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "浙江",
+   "江苏",
+   "苏州",
+   "松江",
+   "常州",
+   "镇江",
+   "杭州",
+   "嘉興府",
+   "湖州府",
+   "湖南",
+   "湖北",
+   "江西",
+   "河南",
+   "山东",
+   "西湖"
+  ]
+ },
+ {
+  "event_id": 193,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "264",
+  "source_title": "江西巡撫郎廷極奏報承審南昌革職知縣虧空案情形摺",
+  "order_index": 192,
+  "date_raw": "康熙四十六年九月二十六日",
+  "reign_year": 46,
+  "month": 9,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "江西巡抚郎廷极奏报覆审南昌革职知县王廷对亏空案，追补完毕并拟罪。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "郎廷极",
+    "role": "奏报人"
+   },
+   {
+    "name": "王廷对",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张志栋",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李廷宰",
+    "role": "涉及人物"
+   },
+   {
+    "name": "刘涵",
+    "role": "涉及人物"
+   },
+   {
+    "name": "徐廷弼",
+    "role": "涉及人物"
+   },
+   {
+    "name": "卢承纶",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李足拿",
+    "role": "涉及人物"
+   },
+   {
+    "name": "刘海",
+    "role": "涉及人物"
+   },
+   {
+    "name": "庐承绘",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江西",
+   "南昌县",
+   "云南",
+   "嵩明州",
+   "南昌府"
+  ]
+ },
+ {
+  "event_id": 194,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "265",
+  "source_title": "江西巡撫郎廷極奏為續報年歲情形摺",
+  "order_index": 193,
+  "date_raw": "康熙四十六年九月二十六日",
+  "reign_year": 46,
+  "month": 9,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "郎廷极续报江西各府雨水调匀晚禾可望丰收，唯临江府四县因秋旱晚禾不能成熟，据实奏闻。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批仅表示知道了。",
+  "people": [
+   {
+    "name": "郎廷极",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "江西",
+   "临江府",
+   "清江",
+   "新喻",
+   "新淦",
+   "峡江"
+  ]
+ },
+ {
+  "event_id": 195,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "266",
+  "source_title": "蘇州織造李煦奏為御書天寧寺匾聯現已如式製造摺",
+  "order_index": 194,
+  "date_raw": "康熙五十年八月二十五日",
+  "reign_year": 50,
+  "month": 8,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李煦奏报江南雨泽、米价、盗案及福属田亩收成情形，以纾圣忧。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "王可成",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "苏州",
+   "江南",
+   "福屬"
+  ]
+ },
+ {
+  "event_id": 196,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "267",
+  "source_title": "蘇州織造李煦奏謝復命巡視淮鹺摺（附天寧寺虎丘山寺匾聯尺寸）",
+  "order_index": 195,
+  "date_raw": "康熙肆拾陆年玖月",
+  "reign_year": 46,
+  "month": 9,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "李煦奏谢康熙复命其巡视两淮盐政，并附呈天宁寺、虎丘山寺匾联尺寸拟改方案。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "两淮",
+   "天宁寺",
+   "虎丘山寺"
+  ]
+ },
+ {
+  "event_id": 197,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "268",
+  "source_title": "直隶巡抚赵弘燮奏报瑞雪摺",
+  "order_index": 196,
+  "date_raw": "康熙五十五年正月廿四日",
+  "reign_year": 55,
+  "month": 1,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶巡抚赵弘燮奏报保定府十月初五降瑞雪，麦苗得滋，先行恭奏以慰圣怀。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "郎廷极",
+    "role": "涉及人物"
+   },
+   {
+    "name": "范时崇",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "保定府",
+   "直隶",
+   "江西",
+   "广东"
+  ]
+ },
+ {
+  "event_id": 198,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "270",
+  "source_title": "直隶巡抚赵弘燮奏请钦授大名知府员缺摺",
+  "order_index": 197,
+  "date_raw": "康熙陆拾年拾贰月初叁日",
+  "reign_year": 60,
+  "month": 12,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "直隶巡抚赵弘燮奏请为大名府知府空缺钦授能员，并保举河间府同知俞品升补。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批称已有旨意，即此事已作处理。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "程濬",
+    "role": "涉及人物"
+   },
+   {
+    "name": "俞品",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "直隶",
+   "大名府",
+   "东明县",
+   "长垣县",
+   "河间府"
+  ]
+ },
+ {
+  "event_id": 199,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "271",
+  "source_title": "直隶巡抚赵弘燮奏报各属瑞雪尺寸摺",
+  "order_index": 198,
+  "date_raw": "康熙五十四年五月二十日",
+  "reign_year": 54,
+  "month": 5,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶巡抚赵弘燮奏报各府州县十月初得雪尺寸，麦根得润，预兆来春二麦丰收。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "赫寿",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "保定府",
+   "顺天府",
+   "昌平县",
+   "涿州",
+   "大城县",
+   "武清县",
+   "宝坻",
+   "怀柔县",
+   "清苑县",
+   "雄县",
+   "安州",
+   "满城县",
+   "束鹿",
+   "易州",
+   "新安县",
+   "安肃",
+   "容城县",
+   "唐县",
+   "蠡县",
+   "深泽县",
+   "祁州",
+   "高阳县",
+   "完县",
+   "定兴县",
+   "新城",
+   "河间府",
+   "吴桥县",
+   "东光",
+   "宁津县",
+   "任丘县",
+   "景州",
+   "沧州",
+   "青县",
+   "阜城",
+   "故城",
+   "静海县",
+   "献县",
+   "真定府",
+   "真定县",
+   "行唐县",
+   "武邑",
+   "曲阳",
+   "灵寿县",
+   "井陉",
+   "元氏",
+   "藁城县",
+   "栾城",
+   "平山",
+   "新乐",
+   "安平",
+   "柏乡县",
+   "隆平县",
+   "高邑",
+   "临城县",
+   "赞皇",
+   "宁晋",
+   "深州",
+   "冀州",
+   "定州",
+   "新河",
+   "南宫",
+   "阜平",
+   "饶阳",
+   "赵州",
+   "获鹿县",
+   "顺德府",
+   "邢台",
+   "内丘",
+   "沙河",
+   "和平乡",
+   "唐山",
+   "广宗",
+   "任县",
+   "广平府",
+   "永年县",
+   "邯郸县",
+   "肥乡县",
+   "曲周",
+   "威县",
+   "广平县",
+   "鸡泽县",
+   "清河",
+   "大名府",
+   "元城",
+   "清丰",
+   "内黄县",
+   "魏县",
+   "宣化府",
+   "宣化",
+   "怀安",
+   "万全",
+   "赤城",
+   "延庆",
+   "保安",
+   "怀来",
+   "西宁县"
+  ]
+ },
+ {
+  "event_id": 200,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "272",
+  "source_title": "蘇州織造李煦奏報蘇屬民田收成並進冬笋摺",
+  "order_index": 199,
+  "date_raw": "康熙肆拾陸年拾月",
+  "reign_year": 46,
+  "month": 10,
+  "day_text": null,
+  "event_role": "奏报灾情收成",
+  "summary": "李煦奏报苏州所属民田收割收成约七八分、米价行情，并进献新出冬笋。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "福州",
+   "两淮"
+  ]
+ },
+ {
+  "event_id": 201,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "273",
+  "source_title": "四川提督岳昇龍奏謝溫旨傳問並賜食品摺",
+  "order_index": 200,
+  "date_raw": "康熙肆拾陸年拾壹月貳拾壹日",
+  "reign_year": 46,
+  "month": 11,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "四川提督岳昇龙奏谢康熙遣人传问并赏赐鹿肉鱼干等食品，表示分颁将士共沐恩波。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙询问提督安好，并说明塞外行围所获鹿鱼赐予提督食用。",
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "四川",
+   "十六台"
+  ]
+ },
+ {
+  "event_id": 202,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "274",
+  "source_title": "直隸巡撫趙弘燮奏報保定等府又得瑞雪及其分寸摺",
+  "order_index": 201,
+  "date_raw": "康熙肆拾陸年捌月貳拾壹日",
+  "reign_year": 46,
+  "month": 8,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶巡抚赵弘燮续报保定、真定、大名等府州县得雪分寸日期，并称来年麦收可期。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知奏报内容。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "于准",
+    "role": "联署人"
+   },
+   {
+    "name": "俞品",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "保定府",
+   "清苑县",
+   "高阳县",
+   "安州",
+   "易州",
+   "唐县",
+   "满城县",
+   "蠡县",
+   "淶水",
+   "容城县",
+   "祁州",
+   "新安县",
+   "新城",
+   "安肃",
+   "定兴县",
+   "左所",
+   "真定府",
+   "真定县",
+   "元氏",
+   "衡水",
+   "新乐",
+   "藁城县",
+   "乐城",
+   "晋州",
+   "隆平县",
+   "高邑",
+   "宁晋",
+   "灵寿县",
+   "无极",
+   "曲阳",
+   "行唐县",
+   "平山",
+   "获鹿县",
+   "大名府",
+   "滑县",
+   "东明县",
+   "长垣县",
+   "顺天府",
+   "霸州",
+   "保定县",
+   "大城县",
+   "文安县",
+   "房山",
+   "涿州",
+   "河间府",
+   "盐山县",
+   "交河县",
+   "阜城",
+   "景州",
+   "任丘县"
+  ]
+ },
+ {
+  "event_id": 203,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "275",
+  "source_title": "直隸巡撫趙弘燮奏陳以私自查勘紅剥船地畝事摺",
+  "order_index": 202,
+  "date_raw": "康熙肆拾陆年拾壹月貳拾壹日",
+  "reign_year": 46,
+  "month": 11,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶巡抚赵弘燮奏明因大计事务繁忙，委派霸通二道代查红剥船地亩并先行奏闻。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“是”，表示同意赵弘燮所奏。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "满都礼",
+    "role": "涉及人物"
+   },
+   {
+    "name": "蒋陈锡",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李光地",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "通州",
+   "天津"
+  ]
+ },
+ {
+  "event_id": 204,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "276",
+  "source_title": "总督福建浙江等处地方军务兼理粮饷兵部右侍郎兼都察院右副都御史臣梁鼐谨奏为谨奏年岁收成地方情形事",
+  "order_index": 203,
+  "date_raw": "康熙伍拾陆年拾壹月",
+  "reign_year": 56,
+  "month": 11,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "梁鼐奏报闽浙年成米价、台湾旱情缓解及漳平穷民聚众图抢米船已拿获审办等地方情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已知晓，并指出折内所奏陆路提督为人粗鲁、在天津时人心不服，自己亦深知。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "吴英",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张应金",
+    "role": "涉及人物"
+   },
+   {
+    "name": "蓝理",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "福建",
+   "浙江",
+   "建宁",
+   "延平",
+   "邵武",
+   "汀州",
+   "兴化",
+   "漳州",
+   "泉州",
+   "福州",
+   "台湾",
+   "漳平"
+  ]
+ },
+ {
+  "event_id": 205,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "277",
+  "source_title": "巡抚青州泉理湖北川东等处地方提督军务都察院右副都御史加叁级臣陈诜谨奏为恭谢天恩事",
+  "order_index": 204,
+  "date_raw": "康熙肆拾陆年拾壹月贰拾陆日",
+  "reign_year": 46,
+  "month": 11,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "陈诜在贵州谢恩受赐鹿肉，并奏报劝民垦荒种粮、全省丰收米价平减情形。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "陈诜",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "贵州",
+   "湖北",
+   "川东"
+  ]
+ },
+ {
+  "event_id": 206,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "278",
+  "source_title": "苏州织造李煦奏报太仓州有人起事折",
+  "order_index": 205,
+  "date_raw": "康熙肆拾陆年拾贰月初柒日",
+  "reign_year": 46,
+  "month": 12,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李煦奏报太仓州永乐庵有人以红布裹头、竖大明旗号起事，官兵追擒林姓等犯，并报扬州冬雪情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "太仓州",
+   "扬州府",
+   "永乐庵"
+  ]
+ },
+ {
+  "event_id": 207,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "279",
+  "source_title": "偏沅巡抚赵申乔奏谢赏赐食物并报湖南雨水米价折",
+  "order_index": 206,
+  "date_raw": "康熙肆拾陆年拾贰月贰拾日",
+  "reign_year": 46,
+  "month": 12,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "偏沅巡抚赵申乔谢赏鹿肉等物，并奏报湖南雨顺米贱、南岳殿工告竣。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵申乔",
+    "role": "奏报人"
+   },
+   {
+    "name": "赵熊诏",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "湖南",
+   "南岳"
+  ]
+ },
+ {
+  "event_id": 208,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "280",
+  "source_title": "苏州织造李煦奏报苏州雨水米价折",
+  "order_index": 207,
+  "date_raw": "康熙肆拾陆年拾贰月",
+  "reign_year": 46,
+  "month": 12,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李煦奏报太仓盗案、一念和尚惑众及苏松米价腾贵情形，并贺新岁。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙称未见王可成所带密奏，命查明再奏；又言早知此案，并令密访浙江四明山贼情。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "陆三就",
+    "role": "涉及人物"
+   },
+   {
+    "name": "钱保",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王玉衡",
+    "role": "涉及人物"
+   },
+   {
+    "name": "一念和尚",
+    "role": "涉及人物"
+   },
+   {
+    "name": "石秀",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王文钦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "太仓州",
+   "刘河汛",
+   "永乐庵",
+   "苏松",
+   "湖广",
+   "浙江四明山",
+   "枫桥"
+  ]
+ },
+ {
+  "event_id": 209,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "282",
+  "source_title": "工部尚书王鸿绪奏报拿获苏州女子案并苏州大盗案摺",
+  "order_index": 208,
+  "date_raw": "康熙二十八年二月二十七日",
+  "reign_year": 28,
+  "month": 2,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "奏报苏州拿获谋劫藩库大盗及范溥窥探御前信息事，并请密批。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批称此事不止一端、自己无一不知，并追问第一人及侍卫马姓等线索。",
+  "people": [
+   {
+    "name": "王鸿绪",
+    "role": "奏报人"
+   },
+   {
+    "name": "范溥",
+    "role": "涉及人物"
+   },
+   {
+    "name": "宋荦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "霍峒",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张书绅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "于圣其",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "扬州府",
+   "松江",
+   "葑门",
+   "太湖",
+   "吴江县"
+  ]
+ },
+ {
+  "event_id": 210,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "283",
+  "source_title": "浙江提督王世臣奏报擒斩绍兴等处抗敌官兵之夥众摺",
+  "order_index": 209,
+  "date_raw": "康熙肆拾柒年正月初六日",
+  "reign_year": 47,
+  "month": 1,
+  "day_text": null,
+  "event_role": "军务",
+  "summary": "浙江提督王世臣奏报官兵在绍兴、慈溪等地追剿张廿一等贼伙，擒斩多名并缴获器械。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "王世臣",
+    "role": "奏报人"
+   },
+   {
+    "name": "陈陞",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李布荣",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张廿一",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张廿二",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "浙江",
+   "绍兴府",
+   "莆田县",
+   "慈溪县",
+   "渔溪",
+   "慧昙",
+   "五福寺",
+   "峰县",
+   "朱蒋村"
+  ]
+ },
+ {
+  "event_id": 211,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "285",
+  "source_title": "闽浙总督梁鼐奏报浙省拿获绍兴交界夥党见在确审情形摺",
+  "order_index": 210,
+  "date_raw": "康熙肆拾柒年正月日",
+  "reign_year": 47,
+  "month": 1,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "梁鼐奏报浙省宁绍交界聚众盗伙已被擒获审办，首犯张士勇兄弟在逃正严缉。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批仅作“批”字，表示已阅知悉。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "张士勇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张念二",
+    "role": "涉及人物"
+   },
+   {
+    "name": "金严",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "福建",
+   "浙江",
+   "绍兴府",
+   "宁绍",
+   "大崑山",
+   "慈溪县"
+  ]
+ },
+ {
+  "event_id": 212,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "286",
+  "source_title": "闽浙总督梁鼐奏请圣安摺",
+  "order_index": 211,
+  "date_raw": "",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "闽浙总督梁鼐向康熙帝恭请圣安，康熙朱批询问浙江麦子收成情况。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，并询问今年浙江麦子的收成情况。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "福建",
+   "浙江"
+  ]
+ },
+ {
+  "event_id": 213,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "287",
+  "source_title": "直隶巡抚赵弘燮奏为揀补真定知府事摺",
+  "order_index": 212,
+  "date_raw": "康熙肆拾柒年正月拾捌日",
+  "reign_year": 47,
+  "month": 1,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "直隶巡抚赵弘燮奏请为真定府知府员缺，调补张朝琮、吕犹龙或升补祁国祚，请圣裁。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批令赵弘燮具题正式上奏。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "刘中柱",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张朝琮",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吕犹龙",
+    "role": "涉及人物"
+   },
+   {
+    "name": "祁国祚",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "真定府",
+   "山西",
+   "永平府",
+   "蓟州",
+   "宣化府",
+   "德州",
+   "顺天府",
+   "大兴县",
+   "山东"
+  ]
+ },
+ {
+  "event_id": 214,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "288",
+  "source_title": "直隶巡抚赵弘燮奏请揀员补授河工各缺事摺",
+  "order_index": 213,
+  "date_raw": "康熙肆拾柒年五月拾捌日",
+  "reign_year": 47,
+  "month": 5,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "直隶巡抚赵弘燮奏请留任南岸分司皂保、更换衰老的北岸分司色图浑，并请复设永定河效力副笔帖式二十员以补河工正缺。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "皂保",
+    "role": "涉及人物"
+   },
+   {
+    "name": "色图浑",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李光地",
+    "role": "涉及人物"
+   },
+   {
+    "name": "效拜",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "紫荆关",
+   "永定河",
+   "郭家务"
+  ]
+ },
+ {
+  "event_id": 215,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "289",
+  "source_title": "直隶巡抚赵弘燮奏报所属捐社会米谷情形摺",
+  "order_index": 214,
+  "date_raw": "康熙捌年正月拾捌日",
+  "reign_year": 8,
+  "month": 1,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "直隶巡抚赵弘燮奏报所属社仓捐存米谷数目无多，请再试行一二年再议通行。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "金世扬",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "蓟东县",
+   "高阳县",
+   "冀州",
+   "宝寿",
+   "大城县"
+  ]
+ },
+ {
+  "event_id": 216,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "291",
+  "source_title": "陕西提督潘育龙奏为恳讨干员陆补提标右营守备摺",
+  "order_index": 216,
+  "date_raw": "康熙肆拾柒年正月貳拾貳日",
+  "reign_year": 47,
+  "month": 1,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "陕西提督潘育龙奏请将潼关营千总张世奇补授提标右营守备员缺。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝批示知道了，表示已阅知此事。",
+  "people": [
+   {
+    "name": "潘育龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "张世奇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "潘曾莹",
+    "role": "联署人"
+   }
+  ],
+  "places": [
+   "陕西",
+   "潼关"
+  ]
+ },
+ {
+  "event_id": 217,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "293",
+  "source_title": "直隸巡撫趙弘燮奏為遵旨查勘霸州苑家口等處堤岸事摺",
+  "order_index": 217,
+  "date_raw": "康熙肆拾叁年貳月初拾日",
+  "reign_year": 43,
+  "month": 2,
+  "day_text": null,
+  "event_role": "河工水利",
+  "summary": "奏报霸州苑家口等处堤岸查勘及天津监珠所种稻谷收贮事宜，并请旨遵行。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批表示知道了，认可所奏事宜。",
+  "people": [
+   {
+    "name": "于成龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "师懿德",
+    "role": "联署人"
+   },
+   {
+    "name": "赵弘燮",
+    "role": "涉及人物"
+   },
+   {
+    "name": "監珠",
+    "role": "涉及人物"
+   },
+   {
+    "name": "張裕",
+    "role": "涉及人物"
+   },
+   {
+    "name": "馬明德",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李輔世",
+    "role": "涉及人物"
+   },
+   {
+    "name": "富寧安",
+    "role": "涉及人物"
+   },
+   {
+    "name": "石文桂",
+    "role": "涉及人物"
+   },
+   {
+    "name": "佛保",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李光地",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "霸州",
+   "苑家口",
+   "天津",
+   "山东"
+  ]
+ },
+ {
+  "event_id": 218,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "294",
+  "source_title": "閩浙總督梁鼐奏為查明張念一等聚衆抗官情形摺",
+  "order_index": 218,
+  "date_raw": "康熙拾肆年闰月日",
+  "reign_year": 14,
+  "month": null,
+  "day_text": null,
+  "event_role": "军务",
+  "summary": "奏报浙江张念一等聚众抗官、官兵擒获及追查朱三太子奸党情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "指示另疏题参后自有旨意，未尽余贼必须搜捕。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "张念一",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张念二",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张君玉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "一念和尚",
+    "role": "涉及人物"
+   },
+   {
+    "name": "朱三太子",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王玉衡",
+    "role": "涉及人物"
+   },
+   {
+    "name": "钱保",
+    "role": "涉及人物"
+   },
+   {
+    "name": "叶天祥",
+    "role": "涉及人物"
+   },
+   {
+    "name": "马硕备",
+    "role": "涉及人物"
+   },
+   {
+    "name": "娄汝勋",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王锡五",
+    "role": "涉及人物"
+   },
+   {
+    "name": "柯绍昌",
+    "role": "涉及人物"
+   },
+   {
+    "name": "苏世望",
+    "role": "涉及人物"
+   },
+   {
+    "name": "周省凡",
+    "role": "涉及人物"
+   },
+   {
+    "name": "韩仁",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张顺",
+    "role": "涉及人物"
+   },
+   {
+    "name": "桑小成",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "福建",
+   "浙江",
+   "宁绍",
+   "嵊县",
+   "芦田村",
+   "慈溪县",
+   "台州府",
+   "章镇",
+   "宁波",
+   "余姚县",
+   "云楼",
+   "江苏",
+   "吴县",
+   "阊门",
+   "太仓州",
+   "苏州府",
+   "四明山",
+   "新昌县",
+   "上虞县",
+   "大嵐山",
+   "建宁",
+   "延平",
+   "镇海县",
+   "溪山",
+   "白马岗",
+   "上马冈"
+  ]
+ },
+ {
+  "event_id": 219,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "295",
+  "source_title": "湖廣提督俞益謨奏謝賞賜肉品摺",
+  "order_index": 219,
+  "date_raw": "康熙肆拾玖年贰月拾伍",
+  "reign_year": 49,
+  "month": 2,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "湖广提督俞益谟奏谢皇上赏赐肉品，并因谢恩本章被发还而具折陈情。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，并令以后凡有请安或地方事务即具折来奏；另询问浙江四明山贼情，责问地方官所管何事，要求察明具奏。",
+  "people": [
+   {
+    "name": "俞益谟",
+    "role": "奏报人"
+   },
+   {
+    "name": "梁鼐",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李芳述",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈辉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张世恩",
+    "role": "涉及人物"
+   },
+   {
+    "name": "徐应",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "湖广",
+   "贵州",
+   "福建",
+   "浙江",
+   "建阳县",
+   "四明山",
+   "大嵐山",
+   "宁绍"
+  ]
+ },
+ {
+  "event_id": 220,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "297",
+  "source_title": "江西巡撫郎廷極奏報雨水米價地方寧謐摺",
+  "order_index": 220,
+  "date_raw": "康熙四十七年",
+  "reign_year": 47,
+  "month": null,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "江西巡抚奏报入春雨水调匀、省城及各地米价平稳、地方盗贼稀少百姓安宁。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "郎廷极",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "江西",
+   "省城",
+   "赣州",
+   "袁州",
+   "江浙",
+   "福建",
+   "广东",
+   "湖南",
+   "湖北"
+  ]
+ },
+ {
+  "event_id": 221,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "299",
+  "source_title": "苏州织造李煦奏报浙江四明山张升一等拒敌官兵各情摺",
+  "order_index": 221,
+  "date_raw": "康熙肆拾柒年叁月初壹日",
+  "reign_year": 47,
+  "month": 3,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "李煦与曹寅分别奏报浙江四明山盗贼拒敌官兵及江宁米价平粜、百姓安堵等地方情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，命将晴雨折留中，并谕令以后凡闻地方细小之事必须具折奏报。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "郎廷布",
+    "role": "涉及人物"
+   },
+   {
+    "name": "桑格",
+    "role": "涉及人物"
+   },
+   {
+    "name": "熊赐履",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "苏州",
+   "浙江",
+   "四明山",
+   "江宁府",
+   "淮安府",
+   "杭州",
+   "山东",
+   "兖州府",
+   "滁州",
+   "六合县",
+   "陈家桥",
+   "福建",
+   "建康",
+   "扬州府",
+   "湖广"
+  ]
+ },
+ {
+  "event_id": 222,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "301",
+  "source_title": "江宁织造曹寅奏报浙江四明山张升一等拒敌官兵各情摺",
+  "order_index": 222,
+  "date_raw": "康熙伍拾年叁月",
+  "reign_year": 50,
+  "month": 3,
+  "day_text": null,
+  "event_role": "军务",
+  "summary": "梁鼐密奏台湾总兵王元纵酒废事、兵丁讙噪要挟，并请简选贤能补授台湾总兵。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙说明王元即黄元，胆量好但做官平常、不得官兵之心，因熟悉海外情形勉强任用，命再细察访奏闻。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "王元",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吴英",
+    "role": "涉及人物"
+   },
+   {
+    "name": "许凤",
+    "role": "涉及人物"
+   },
+   {
+    "name": "桑格",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "浙江",
+   "四明山",
+   "福建",
+   "湖州府",
+   "台湾",
+   "漳州"
+  ]
+ },
+ {
+  "event_id": 223,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "303",
+  "source_title": "闽浙总督梁鼐奏陈四明山形势并张念一等抗官前后情节摺",
+  "order_index": 223,
+  "date_raw": "康熙肆拾柒年贰月拾伍日",
+  "reign_year": 47,
+  "month": 2,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "遵旨查明浙江四明山并无贼人屯聚，并奏报张念一等抗官案始末及拿获情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝称已知，并询问浙江四明山有许多贼、地方官所管何事，命察明具奏。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "张念一",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张念二",
+    "role": "涉及人物"
+   },
+   {
+    "name": "叶天祥",
+    "role": "涉及人物"
+   },
+   {
+    "name": "柯绍昌",
+    "role": "涉及人物"
+   },
+   {
+    "name": "苏世望",
+    "role": "涉及人物"
+   },
+   {
+    "name": "妻汝初",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "福建",
+   "浙江",
+   "建阳县",
+   "四明山",
+   "大嵐山",
+   "余姚县",
+   "羊额岭",
+   "大岚村",
+   "丘庄",
+   "上马冈",
+   "下马冈",
+   "九里山",
+   "中村",
+   "鄞县",
+   "冀村",
+   "庆岭",
+   "杖锡山",
+   "奉化县",
+   "雪窦",
+   "柘坑",
+   "嵊县",
+   "慈溪县",
+   "阳觉殿",
+   "苏州"
+  ]
+ },
+ {
+  "event_id": 224,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "304",
+  "source_title": "闽浙总督梁鼐奏陈四明山形势并张念一等抗官前后情节摺",
+  "order_index": 224,
+  "date_raw": "康熙五十四年三月",
+  "reign_year": 54,
+  "month": 3,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "闽浙总督奏报四明山形势及张念一等抗官情节，并派员再勘绘具山图。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "满保",
+    "role": "联署人"
+   },
+   {
+    "name": "张念一",
+    "role": "涉及人物"
+   },
+   {
+    "name": "一念",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吴开圻",
+    "role": "涉及人物"
+   },
+   {
+    "name": "杨先蓝",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "四明山",
+   "福建",
+   "浙江"
+  ]
+ },
+ {
+  "event_id": 225,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "305",
+  "source_title": "福建巡抚张伯行奏查获抢米人犯并家人标兑兵事摺",
+  "order_index": 225,
+  "date_raw": "康熙肆拾柒年参月拾肆日",
+  "reign_year": 47,
+  "month": 3,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "奏报查获抢米首犯陈首魁及积盗朱章，并陈明家丁未补兵缺、扣存粮饷事。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "张伯行",
+    "role": "奏报人"
+   },
+   {
+    "name": "梁鼐",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈首魁",
+    "role": "涉及人物"
+   },
+   {
+    "name": "朱章",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李斯义",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "福建",
+   "永安县",
+   "魏家山坂尾",
+   "漳平",
+   "宁洋",
+   "大田",
+   "浙江省"
+  ]
+ },
+ {
+  "event_id": 226,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "306",
+  "source_title": "江宁织造曹寅奏报平粜米价尚未议定并代递戴宝奏摺事摺",
+  "order_index": 226,
+  "date_raw": "康熙肆拾柒年叁月拾陆日",
+  "reign_year": 47,
+  "month": 3,
+  "day_text": null,
+  "event_role": "贸易漕运",
+  "summary": "曹寅在扬州会同李煦陈奏盐务，并报截留漕米平粜米价尚未议定，代递戴宝奏折。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，告诫曹寅不可多事，日后安好。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "联署人"
+   },
+   {
+    "name": "桑格",
+    "role": "涉及人物"
+   },
+   {
+    "name": "戴宝",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "扬州府",
+   "江西",
+   "湖广"
+  ]
+ },
+ {
+  "event_id": 227,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "307",
+  "source_title": "江宁织造曹寅奏报截漕平粜并代递查尔勤奏摺事摺",
+  "order_index": 227,
+  "date_raw": "康熙肆拾柒年叁月贰拾壹日",
+  "reign_year": 47,
+  "month": 3,
+  "day_text": null,
+  "event_role": "贸易漕运",
+  "summary": "曹寅奏报总漕桑格截留湖广漕米十万石用于平粜，并代递查尔勤奏折。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知悉，并令曹寅若平粜官员中有多事者即写密折奏闻。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "桑格",
+    "role": "涉及人物"
+   },
+   {
+    "name": "查尔勤",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江南",
+   "湖广",
+   "江西",
+   "江宁府",
+   "淮"
+  ]
+ },
+ {
+  "event_id": 228,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "308",
+  "source_title": "直隶巡抚赵弘燮奏请诣封外祖父母事摺",
+  "order_index": 228,
+  "date_raw": "康熙肆拾叁年拾貳月貳拾壹日",
+  "reign_year": 43,
+  "month": 12,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "直隶巡抚赵弘燮陈情外祖父母养育之恩，援捐纳封赠例请封外祖父母。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "赵良栋",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郭氏",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郭友栢",
+    "role": "涉及人物"
+   },
+   {
+    "name": "马氏",
+    "role": "涉及人物"
+   },
+   {
+    "name": "范时崇",
+    "role": "联署人"
+   }
+  ],
+  "places": [
+   "直隶"
+  ]
+ },
+ {
+  "event_id": 229,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "309",
+  "source_title": "直隶巡抚赵弘燮奏为遵旨查勘霸州苑家口等处堤岸事摺",
+  "order_index": 229,
+  "date_raw": "康熙四十六年五月二十日",
+  "reign_year": 46,
+  "month": 5,
+  "day_text": null,
+  "event_role": "河工水利",
+  "summary": "直隶巡抚赵弘燮遵旨查勘霸州苑家口等处堤岸，估算工料银两并请捐俸兴修。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙同意按所议办理，叮嘱须在大雨前完工。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "直隶",
+   "霸州",
+   "苑家口",
+   "田家口",
+   "保定县",
+   "路疃村",
+   "任丘县",
+   "李广村",
+   "池鱼淀",
+   "高阳县",
+   "安州",
+   "冯村",
+   "新安县",
+   "白洋淀",
+   "马棚",
+   "同口村",
+   "台山",
+   "平口",
+   "信安",
+   "苏家桥"
+  ]
+ },
+ {
+  "event_id": 230,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "311",
+  "source_title": "闽浙总督梁鼐奏为拏获朱章陈首魁等人犯请旨严处摺",
+  "order_index": 230,
+  "date_raw": "康熙肆拾柒年叁月",
+  "reign_year": 47,
+  "month": 3,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "闽浙总督梁鼐奏报拏获朱章、陈首魁等人犯并请旨严处，另遵旨再奏浙江大岚山贼情及缉捕情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批称待具题到时有旨意，并对续奏贼情表示知道了。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "朱章",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈首魁",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吴海",
+    "role": "涉及人物"
+   },
+   {
+    "name": "许凤",
+    "role": "涉及人物"
+   },
+   {
+    "name": "宋致",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵完璧",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张念一",
+    "role": "涉及人物"
+   },
+   {
+    "name": "施而远",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王公亮",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈天祥",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王文秀",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张念二",
+    "role": "涉及人物"
+   },
+   {
+    "name": "一念",
+    "role": "涉及人物"
+   },
+   {
+    "name": "穆旦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "福建",
+   "浙江",
+   "闽广山海",
+   "清河口",
+   "漳州",
+   "诏安县",
+   "松栢山",
+   "扬州府",
+   "宁洋",
+   "漳平",
+   "大嵐山",
+   "嵊县",
+   "芦田村",
+   "慈溪县",
+   "阳觉殿",
+   "渔溪",
+   "苏州",
+   "绍兴府",
+   "余姚县",
+   "四明",
+   "大崑山",
+   "嘉定县",
+   "太仓州",
+   "报本寺"
+  ]
+ },
+ {
+  "event_id": 231,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "33",
+  "source_title": "江宁织造曹寅奏报江宁米价并传谕马匹喂养之法事摺",
+  "order_index": 231,
+  "date_raw": "康熙肆拾柒年叁月贰拾陆日",
+  "reign_year": 47,
+  "month": 3,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "曹寅奏报江宁米价、地方太平及晴雨录，并转奏扬州镇江平粜官员摺子。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，晴雨录留中不发。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "觉罗塞黑",
+    "role": "涉及人物"
+   },
+   {
+    "name": "戴宝",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵弘煜",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "扬州府",
+   "兴化",
+   "泰州",
+   "仪真",
+   "镇江"
+  ]
+ },
+ {
+  "event_id": 232,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "319",
+  "source_title": "闽浙总督梁鼐奏报大岚山贼四明山并朱三太子踪迹摺",
+  "order_index": 232,
+  "date_raw": "康熙肆拾柒年闰叁月日",
+  "reign_year": 47,
+  "month": 3,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "奏报追查大岚山、四明山贼伙及朱三太子踪迹，已获部分人犯并续行缉拿。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝表示已知悉此事。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "朱三太子",
+    "role": "涉及人物"
+   },
+   {
+    "name": "普尔竺",
+    "role": "涉及人物"
+   },
+   {
+    "name": "胡朴崖",
+    "role": "涉及人物"
+   },
+   {
+    "name": "胡云鹤",
+    "role": "涉及人物"
+   },
+   {
+    "name": "董载臣",
+    "role": "涉及人物"
+   },
+   {
+    "name": "董子仪",
+    "role": "涉及人物"
+   },
+   {
+    "name": "于祥麟",
+    "role": "涉及人物"
+   },
+   {
+    "name": "严间天",
+    "role": "涉及人物"
+   },
+   {
+    "name": "周楚珍",
+    "role": "涉及人物"
+   },
+   {
+    "name": "褚旦",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "余姚县",
+   "湖州府",
+   "山东",
+   "洞庭",
+   "江南",
+   "庐州",
+   "崇明县",
+   "堡镇"
+  ]
+ },
+ {
+  "event_id": 233,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "320",
+  "source_title": "闽浙总督梁鼐奏进四明山图幅摺",
+  "order_index": 233,
+  "date_raw": "",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "其他",
+  "summary": "闽浙总督梁鼐向康熙进呈四明山图一幅，康熙朱批表示已收下该图。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已收到四明山图。",
+  "people": [
+   {
+    "name": "梁鼐",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "四明山"
+  ]
+ },
+ {
+  "event_id": 234,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "（吴震方报雨）",
+  "order_index": 234,
+  "date_raw": "康熙五十三年六月初九日",
+  "reign_year": 53,
+  "month": 6,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "吴震方奏报保定府及满城等县闰三月得雨，麦可望丰收，以慰圣怀。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示已知晓，并称近京各处雨水已足。",
+  "people": [
+   {
+    "name": "吴震方",
+    "role": "奏报人"
+   },
+   {
+    "name": "赵弘燮",
+    "role": "联署人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "直隶",
+   "保定府",
+   "满城县",
+   "深泽县",
+   "祁州",
+   "庆都县"
+  ]
+ },
+ {
+  "event_id": 235,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "（赵弘燮奏明事）",
+  "order_index": 235,
+  "date_raw": "康熙肆拾柒年叁月初玖日",
+  "reign_year": 47,
+  "month": 3,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "赵弘燮奏陈直隶调补官员部议前后不一，恳请圣恩照察以杜中伤。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "许国栻",
+    "role": "涉及人物"
+   },
+   {
+    "name": "胥连相",
+    "role": "涉及人物"
+   },
+   {
+    "name": "佟国玺",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郑富民",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张安世",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "直隶",
+   "交河县",
+   "大城县",
+   "清苑县",
+   "涿州",
+   "密云县",
+   "三河县",
+   "固安县"
+  ]
+ },
+ {
+  "event_id": 236,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "323",
+  "source_title": "江宁织造曹寅奏报江南平粜时价并平粜官员情形摺",
+  "order_index": 236,
+  "date_raw": "康熙肆拾柒年闰叁月拾贰日",
+  "reign_year": 47,
+  "month": 3,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "曹寅奏报江宁开粜米价及平粜情形，并附报浙江审事所获叛逆人犯大概。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告知山东已拿获朱姓父子三人且口供明白，尚需拿住一念方好。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "郑英",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张廿一",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张廿二",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈天祥",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王文秀",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王公亮",
+    "role": "涉及人物"
+   },
+   {
+    "name": "施而远",
+    "role": "涉及人物"
+   },
+   {
+    "name": "叶天祥",
+    "role": "涉及人物"
+   },
+   {
+    "name": "一念",
+    "role": "涉及人物"
+   },
+   {
+    "name": "得道",
+    "role": "涉及人物"
+   },
+   {
+    "name": "左旋乾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "修智觉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "董奉园",
+    "role": "涉及人物"
+   },
+   {
+    "name": "叶伯玉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "屠文贤",
+    "role": "涉及人物"
+   },
+   {
+    "name": "朱兆奇",
+    "role": "涉及人物"
+   },
+   {
+    "name": "朱益",
+    "role": "涉及人物"
+   },
+   {
+    "name": "何子奋",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "江南",
+   "镇江",
+   "浙江",
+   "宁波",
+   "京师",
+   "京口",
+   "山东"
+  ]
+ },
+ {
+  "event_id": 237,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "325",
+  "source_title": "湖广提督俞益谟奏陈所属苗民情况及抚剿之法摺",
+  "order_index": 237,
+  "date_raw": "康熙肆拾贰年玖月贰拾肆日",
+  "reign_year": 42,
+  "month": 9,
+  "day_text": null,
+  "event_role": "军务",
+  "summary": "湖广提督俞益谟奏陈湖南红苗叛服无常，主张以剿为抚、乘冬进兵勒令归诚并设州县。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "俞益谟",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "湖广",
+   "湖南",
+   "广东",
+   "荆州",
+   "广西",
+   "贵州"
+  ]
+ },
+ {
+  "event_id": 238,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "苗疆善后",
+  "order_index": 238,
+  "date_raw": "康熙肆拾叁年间叁月拾伍日",
+  "reign_year": 43,
+  "month": 3,
+  "day_text": null,
+  "event_role": "军务",
+  "summary": "湖广提督俞益谟密奏苗疆抚防均非善策，请调川贵等省官兵于来年七八月会剿红苗并陈善后事宜。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批示红苗事小征剿事大，命俞益谟与督抚细心密商妥当后再写密摺奏报。",
+  "people": [
+   {
+    "name": "俞益谟",
+    "role": "奏报人"
+   },
+   {
+    "name": "吴长春",
+    "role": "涉及人物"
+   },
+   {
+    "name": "徐进朝",
+    "role": "涉及人物"
+   },
+   {
+    "name": "刘士璋",
+    "role": "涉及人物"
+   },
+   {
+    "name": "沈长禄",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王雄",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郑振",
+    "role": "涉及人物"
+   },
+   {
+    "name": "黄万年",
+    "role": "涉及人物"
+   },
+   {
+    "name": "罗庆",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "四川",
+   "广西",
+   "湖北",
+   "河南",
+   "湖南",
+   "辰沅",
+   "镇溪所",
+   "五寨司",
+   "乾州",
+   "衡永宝三府",
+   "荆州"
+  ]
+ },
+ {
+  "event_id": 239,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "岳昇龍招撫苗人條約",
+  "order_index": 239,
+  "date_raw": "未知",
+  "reign_year": null,
+  "month": null,
+  "day_text": null,
+  "event_role": "军务",
+  "summary": "岳昇龙拟定招抚苗人条约并晓谕投诚苗寨，恩威并施令其纳粮当差、勿再劫掠。",
+  "has_zhupi": 1,
+  "zhupi_summary": "朱批赞同其招抚方略，令招抚官明白晓谕苗人须遵六款方准就抚。",
+  "people": [
+   {
+    "name": "岳昇龙",
+    "role": "奏报人"
+   }
+  ],
+  "places": [
+   "天星寨",
+   "龍蛟洞",
+   "磨岩寨",
+   "乾州",
+   "五寨司",
+   "鎮筸鎮"
+  ]
+ },
+ {
+  "event_id": 240,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "李煦奏報四明山盜案並請安",
+  "order_index": 240,
+  "date_raw": "康熙肆拾柒年閏叁月",
+  "reign_year": 47,
+  "month": 3,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "李煦遵旨再查四明山盗案余党情形，并奏报朱三太子等要犯缉拿进展。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，并询问江南麦田收成歉薄的情况，命其明白奏报。",
+  "people": [
+   {
+    "name": "李煦",
+    "role": "奏报人"
+   },
+   {
+    "name": "张廿一",
+    "role": "涉及人物"
+   },
+   {
+    "name": "朱三太子",
+    "role": "涉及人物"
+   },
+   {
+    "name": "朱埊",
+    "role": "涉及人物"
+   },
+   {
+    "name": "朱載",
+    "role": "涉及人物"
+   },
+   {
+    "name": "朱坤",
+    "role": "涉及人物"
+   },
+   {
+    "name": "叶伯玉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "董载臣",
+    "role": "涉及人物"
+   },
+   {
+    "name": "濮爾柱",
+    "role": "涉及人物"
+   },
+   {
+    "name": "于祥麟",
+    "role": "涉及人物"
+   },
+   {
+    "name": "一念和尚",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "四明山",
+   "大嵐山",
+   "江浙",
+   "湖州府",
+   "长兴县",
+   "浙",
+   "江宁府",
+   "山东",
+   "曹县",
+   "霍山縣",
+   "太仓州",
+   "江南"
+  ]
+ },
+ {
+  "event_id": 241,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "曹寅奏報江南平糶並代遞戴寶奏摺",
+  "order_index": 241,
+  "date_raw": "康熙肆拾柒年肆月初壹日",
+  "reign_year": 47,
+  "month": 4,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "曹寅奏报江南太平、平糶粮价及麦收可望，并代递戴宝奏摺、转报熊赐履回江宁谢恩。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "戴宝",
+    "role": "涉及人物"
+   },
+   {
+    "name": "熊赐履",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江南",
+   "扬州府",
+   "镇江",
+   "江宁府",
+   "湖广",
+   "江西"
+  ]
+ },
+ {
+  "event_id": 242,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "328",
+  "source_title": "江寧織造曹寅奏報佛船已到普陀摺",
+  "order_index": 242,
+  "date_raw": "康熙肆拾柒年肆月初叁日",
+  "reign_year": 47,
+  "month": 4,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "曹寅奏报护送佛船已平安抵达普陀山，并转奏扬州平粜官员的奏折。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙批阅后表示知道了。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "李煦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "孙文成",
+    "role": "涉及人物"
+   },
+   {
+    "name": "曹宜",
+    "role": "涉及人物"
+   },
+   {
+    "name": "觉罗塞墨",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "扬州府",
+   "杭州",
+   "普陀山",
+   "南海"
+  ]
+ },
+ {
+  "event_id": 243,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "330",
+  "source_title": "陝西提督潘育龍奏為欽奉上諭揀選保送把總兵丁摺",
+  "order_index": 243,
+  "date_raw": "康熙肆拾柒年肆月初叁日",
+  "reign_year": 47,
+  "month": 4,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "潘育龙遵旨从提标拣选把总王建侯、兵丁郭文义保送兵部，供京城效力。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示阅知所奏拣选保送之事。",
+  "people": [
+   {
+    "name": "潘育龙",
+    "role": "奏报人"
+   },
+   {
+    "name": "王建侯",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郭文义",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郑友义",
+    "role": "涉及人物"
+   },
+   {
+    "name": "余起蛟",
+    "role": "涉及人物"
+   },
+   {
+    "name": "耿额",
+    "role": "涉及人物"
+   },
+   {
+    "name": "萧永藻",
+    "role": "涉及人物"
+   },
+   {
+    "name": "马武",
+    "role": "涉及人物"
+   },
+   {
+    "name": "殷特布",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王国安",
+    "role": "涉及人物"
+   },
+   {
+    "name": "恩丕",
+    "role": "涉及人物"
+   },
+   {
+    "name": "齐世武",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵弘灿",
+    "role": "联署人"
+   }
+  ],
+  "places": [
+   "陕西",
+   "直隶"
+  ]
+ },
+ {
+  "event_id": 244,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "奏報查拏王孟發情形",
+  "order_index": 244,
+  "date_raw": "康熙五十四年七月",
+  "reign_year": 54,
+  "month": 7,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "直隶巡抚赵弘燮奏报查拏王孟发（王正）等朱三太子案相关人犯及李宾阳解部情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示知道了，并要求直隶地方设法拿住王孟发。",
+  "people": [
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "王孟发",
+    "role": "涉及人物"
+   },
+   {
+    "name": "董载臣",
+    "role": "涉及人物"
+   },
+   {
+    "name": "石湘佩",
+    "role": "涉及人物"
+   },
+   {
+    "name": "石湘臯",
+    "role": "涉及人物"
+   },
+   {
+    "name": "董琅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "周伯章",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李嘉隐",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李文斗",
+    "role": "涉及人物"
+   },
+   {
+    "name": "何芬",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吴成格",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李宾阳",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵世显",
+    "role": "涉及人物"
+   },
+   {
+    "name": "高鉷",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈正寅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张彪",
+    "role": "涉及人物"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "山东",
+   "曹县",
+   "河南",
+   "仪封县",
+   "商丘县",
+   "居庸关",
+   "保定县",
+   "霸昌口",
+   "宣化府",
+   "西宁县"
+  ]
+ },
+ {
+  "event_id": 245,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "巡視長蘆鹽政",
+  "order_index": 245,
+  "date_raw": "乾隆元年肆月初捌日",
+  "reign_year": null,
+  "month": 4,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "奏报查拿伪朱三太子即王老先生父子及家人并解省审讯情形。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "馬爾泰",
+    "role": "奏报人"
+   },
+   {
+    "name": "王老先生",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王孟发",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张廷玉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李朋来",
+    "role": "涉及人物"
+   },
+   {
+    "name": "高鉽",
+    "role": "涉及人物"
+   },
+   {
+    "name": "嶽濬",
+    "role": "涉及人物"
+   },
+   {
+    "name": "蕭士瑞",
+    "role": "涉及人物"
+   },
+   {
+    "name": "張鳳儀",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈正寅",
+    "role": "涉及人物"
+   },
+   {
+    "name": "蘇爾昌",
+    "role": "涉及人物"
+   },
+   {
+    "name": "高拱乾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "慈煥",
+    "role": "涉及人物"
+   },
+   {
+    "name": "張月懷",
+    "role": "涉及人物"
+   },
+   {
+    "name": "董载臣",
+    "role": "涉及人物"
+   },
+   {
+    "name": "張坦洲",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李宾阳",
+    "role": "涉及人物"
+   },
+   {
+    "name": "周伯章",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵世显",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李文斗",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "长芦",
+   "登州府",
+   "安徽",
+   "潁州府",
+   "汶上县",
+   "濮阳县",
+   "济南府",
+   "山东",
+   "東兗道",
+   "杭城",
+   "江南",
+   "寧波",
+   "镇海县",
+   "湖州府",
+   "长兴县",
+   "嘉興府",
+   "舒城",
+   "曹县",
+   "宣化府",
+   "西宁县",
+   "東平州",
+   "秀水县",
+   "衍城縣",
+   "居庸关",
+   "保定县"
+  ]
+ },
+ {
+  "event_id": 246,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "奏报拏获要犯事",
+  "order_index": 246,
+  "date_raw": "康熙肆拾柒年捌月初玖日",
+  "reign_year": 47,
+  "month": 8,
+  "day_text": null,
+  "event_role": "司法案件",
+  "summary": "奏报西宁县拏获要犯李宾阳，并转报山东拏获王老先生等要犯押解浙江审理。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙表示山东的奏折已到，已知悉此事。",
+  "people": [
+   {
+    "name": "李宾阳",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王正一",
+    "role": "涉及人物"
+   },
+   {
+    "name": "赵世显",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王老先生",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王孟发",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张挺",
+    "role": "涉及人物"
+   },
+   {
+    "name": "李朋来",
+    "role": "涉及人物"
+   },
+   {
+    "name": "何芬",
+    "role": "涉及人物"
+   },
+   {
+    "name": "吴成格",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "西宁县",
+   "郭家庄",
+   "汶上县",
+   "浙江省"
+  ]
+ },
+ {
+  "event_id": 247,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "奏谢封赠外祖父母事",
+  "order_index": 247,
+  "date_raw": "康熙贰拾柒年闰贰月初玖日",
+  "reign_year": 27,
+  "month": 2,
+  "day_text": null,
+  "event_role": "请安谢恩",
+  "summary": "蒋陈锡、赵弘燮奏谢皇上准予封赠外祖父母，并陈明吏部驳议及遭台臣参奏之孤立处境。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+  "people": [
+   {
+    "name": "蒋陈锡",
+    "role": "奏报人"
+   },
+   {
+    "name": "赵弘燮",
+    "role": "奏报人"
+   },
+   {
+    "name": "王与曾",
+    "role": "涉及人物"
+   },
+   {
+    "name": "许图拭",
+    "role": "涉及人物"
+   },
+   {
+    "name": "于成龙",
+    "role": "联署人"
+   }
+  ],
+  "places": [
+   "山东",
+   "直隶",
+   "清苑县"
+  ]
+ },
+ {
+  "event_id": 248,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "奏报雨泽二麦情形事",
+  "order_index": 248,
+  "date_raw": "康熙肆拾肆年闰四月拾贰日",
+  "reign_year": 44,
+  "month": 4,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "奏报直隶各府州县闰三月至四月得雨及二麦长势、米价平减情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙告知京城十五夜得雨、气候调和。",
+  "people": [
+   {
+    "name": "马尔赛",
+    "role": "奏报人"
+   },
+   {
+    "name": "康熙帝",
+    "role": "批复人"
+   }
+  ],
+  "places": [
+   "顺天府",
+   "房山",
+   "永清县",
+   "保定县",
+   "霸州",
+   "东安",
+   "涿州",
+   "顺义县",
+   "密云县",
+   "昌平县",
+   "怀柔县",
+   "良乡",
+   "平谷县",
+   "通州",
+   "三河县",
+   "遵化州",
+   "太平府",
+   "滦州",
+   "卢龙县",
+   "迁安县",
+   "抚宁县",
+   "昌黎县",
+   "乐亭县",
+   "山海",
+   "满城县",
+   "安肃",
+   "定兴县",
+   "唐县",
+   "博野",
+   "庆都县",
+   "容城县",
+   "完县",
+   "蠡县",
+   "雄县",
+   "祁州",
+   "深泽县",
+   "安州",
+   "高阳县",
+   "易州",
+   "新安县",
+   "涞水县",
+   "河间府",
+   "静海县",
+   "天津",
+   "青县",
+   "盐山县",
+   "真定府",
+   "藁城县",
+   "定州",
+   "新乐",
+   "行唐县",
+   "隆平县",
+   "高邑",
+   "无极",
+   "元氏",
+   "宁晋",
+   "乐城",
+   "顺德府",
+   "邢台",
+   "任县",
+   "广宗",
+   "唐山",
+   "广平府",
+   "永年县",
+   "成安县",
+   "肥乡县",
+   "广平县",
+   "大名府",
+   "元城",
+   "魏县",
+   "南乐",
+   "清丰",
+   "内黄县",
+   "濬县",
+   "滑县",
+   "东明县",
+   "开州",
+   "长垣县",
+   "宣化府",
+   "保安",
+   "怀安",
+   "赤城",
+   "怀来"
+  ]
+ },
+ {
+  "event_id": 249,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": "奏报海洋巡哨剿贼情形摺",
+  "order_index": 249,
+  "date_raw": "康熙肆拾柒年闰叁月贰拾陆日",
+  "reign_year": 47,
+  "month": null,
+  "day_text": null,
+  "event_role": "军务",
+  "summary": "浙江提督王世臣奏报定海、黄岩、温州三镇出洋巡哨，先后剿获海上贼船贼犯情形。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "王世臣",
+    "role": "奏报人"
+   },
+   {
+    "name": "崔相国",
+    "role": "涉及人物"
+   },
+   {
+    "name": "蓝廷珍",
+    "role": "涉及人物"
+   },
+   {
+    "name": "谢胜",
+    "role": "涉及人物"
+   },
+   {
+    "name": "马良英",
+    "role": "涉及人物"
+   },
+   {
+    "name": "林子昂",
+    "role": "涉及人物"
+   },
+   {
+    "name": "薛祖断",
+    "role": "涉及人物"
+   },
+   {
+    "name": "丁廷植",
+    "role": "涉及人物"
+   },
+   {
+    "name": "庄龙",
+    "role": "涉及人物"
+   },
+   {
+    "name": "何得胜",
+    "role": "涉及人物"
+   },
+   {
+    "name": "施世骠",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王腾超",
+    "role": "涉及人物"
+   },
+   {
+    "name": "陈兴邦",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郭应龙",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "浙江",
+   "定海",
+   "黄岩",
+   "温州",
+   "三盘海汛",
+   "伏龙",
+   "北关",
+   "台山",
+   "南潭顶",
+   "吊邦",
+   "清水洋",
+   "韭山"
+  ]
+ },
+ {
+  "event_id": 250,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "336",
+  "source_title": "浙江提督王世臣奏報各鎮出海洋巡哨並在海上交戰情形摺",
+  "order_index": 250,
+  "date_raw": "康熙五十六年肆月拾伍日",
+  "reign_year": 56,
+  "month": 4,
+  "day_text": null,
+  "event_role": "军务",
+  "summary": "浙江提督王世臣奏报各镇水师出洋巡哨及在海上与贼船交战、擒获贼犯的情形。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+  "people": [
+   {
+    "name": "王世臣",
+    "role": "奏报人"
+   },
+   {
+    "name": "韩祖蘄",
+    "role": "涉及人物"
+   },
+   {
+    "name": "郭果裕",
+    "role": "涉及人物"
+   },
+   {
+    "name": "蔡元虎",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "浙江",
+   "黄岩"
+  ]
+ },
+ {
+  "event_id": 251,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "337",
+  "source_title": "江寧織造曹寅奏報現在平糶情形並進今年麥樣摺",
+  "order_index": 251,
+  "date_raw": "康熙肆拾柒年肆月拾陸日",
+  "reign_year": 47,
+  "month": 4,
+  "day_text": null,
+  "event_role": "奏报地方情形",
+  "summary": "曹寅奏报江宁平粜情形、麦收雨水及江南盗犯三太子等获解消息。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙朱批“知道了”“已有了”，表示已阅知所奏平粜及获犯情形。",
+  "people": [
+   {
+    "name": "曹寅",
+    "role": "奏报人"
+   },
+   {
+    "name": "查尔勤",
+    "role": "涉及人物"
+   },
+   {
+    "name": "叶伯玉",
+    "role": "涉及人物"
+   },
+   {
+    "name": "于祥麟",
+    "role": "涉及人物"
+   },
+   {
+    "name": "三太子",
+    "role": "涉及人物"
+   },
+   {
+    "name": "张廿一",
+    "role": "涉及人物"
+   },
+   {
+    "name": "一念",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "江宁府",
+   "江南",
+   "江浙",
+   "庐州",
+   "山东",
+   "浙江",
+   "杭州",
+   "天岚山"
+  ]
+ },
+ {
+  "event_id": 252,
+  "source_corpus": "汉文",
+  "source_vol": 1,
+  "source_no": "339",
+  "source_title": "肅州總兵劉漢業奏報得病原委及邊要務摺",
+  "order_index": 252,
+  "date_raw": "康熙肆拾柒年肆月拾陸日",
+  "reign_year": 47,
+  "month": 4,
+  "day_text": null,
+  "event_role": "人事任免",
+  "summary": "肃州总兵刘汉荣奏报患病调治经过，并恳请将王景爽改补永固协副将，以重边地得人。",
+  "has_zhupi": 1,
+  "zhupi_summary": "康熙帝表示所奏内容已知晓。",
+  "people": [
+   {
+    "name": "刘汉荣",
+    "role": "奏报人"
+   },
+   {
+    "name": "王景爽",
+    "role": "涉及人物"
+   },
+   {
+    "name": "殷泰",
+    "role": "涉及人物"
+   },
+   {
+    "name": "王国梁",
+    "role": "涉及人物"
+   }
+  ],
+  "places": [
+   "肃州",
+   "三汊河",
+   "滦州",
+   "永固",
+   "南山",
+   "大通河",
+   "山东",
+   "胶州",
+   "秦省"
+  ]
+ },
+ {
+  "event_id": 253,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 0,
+  "date_raw": "康熙十年九月初一日己酉",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "朔己酉",
+  "event_role": "祭祀典礼",
+  "summary": "康熙帝以寰宇一统，遣官告祭太祖、太宗山陵，行告成礼。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "太祖山陵",
+   "太宗山陵"
+  ]
+ },
+ {
+  "event_id": 254,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 1,
+  "date_raw": "康熙十年九月初三日辛亥",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "初三日辛亥",
+  "event_role": "皇帝行止",
+  "summary": "康熙帝卯时出午门，素服不奏乐，出朝阳门，驻跸三河县，地方文武官员来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "午门",
+   "朝阳门",
+   "三河县"
+  ]
+ },
+ {
+  "event_id": 255,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 2,
+  "date_raw": "康熙十年九月初四日壬子",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "初四日壬子",
+  "event_role": "皇帝行止",
+  "summary": "康熙帝驻跸别山，地方文武官员来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "别山"
+  ]
+ },
+ {
+  "event_id": 256,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 3,
+  "date_raw": "康熙十年九月初五日癸丑",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "初五日癸丑",
+  "event_role": "朝见受贺",
+  "summary": "康熙帝驻跸沙里河，地方文武官员及科尔沁部镇国公都思哈儿来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   },
+   {
+    "name": "都思哈儿",
+    "role": "科尔沁部镇国公"
+   }
+  ],
+  "places": [
+   "沙里河"
+  ]
+ },
+ {
+  "event_id": 257,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 4,
+  "date_raw": "康熙十年九月初六日甲寅",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "初六日甲寅",
+  "event_role": "皇帝行止",
+  "summary": "康熙帝驻跸梯子镇，地方文武官员来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "梯子镇"
+  ]
+ },
+ {
+  "event_id": 258,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 5,
+  "date_raw": "康熙十年九月初七日乙卯",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "初七日乙卯",
+  "event_role": "皇帝行止",
+  "summary": "康熙帝驻跸范家店，地方文武官员来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "范家店"
+  ]
+ },
+ {
+  "event_id": 259,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 6,
+  "date_raw": "康熙十年九月初八日丙辰",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "初八日丙辰",
+  "event_role": "皇帝行止",
+  "summary": "康熙帝驻跸榆关，地方文武官员来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "榆关"
+  ]
+ },
+ {
+  "event_id": 260,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 7,
+  "date_raw": "康熙十年九月初九日丁巳",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "初九日丁巳",
+  "event_role": "皇帝行止",
+  "summary": "康熙帝出山海关，驻跸姜女寺。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "山海关",
+   "姜女寺"
+  ]
+ },
+ {
+  "event_id": 261,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 8,
+  "date_raw": "康熙十年九月初十日戊午",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "初十日戊午",
+  "event_role": "皇帝行止",
+  "summary": "康熙帝驻跸狗儿河。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "狗儿河"
+  ]
+ },
+ {
+  "event_id": 262,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 9,
+  "date_raw": "康熙十年九月十一日己未",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "十一日己未",
+  "event_role": "朝见受贺",
+  "summary": "康熙帝驻跸烟台河，地方文武官员及喀喇沁部多罗杜棱郡王班达尔沙、镇国公乌忒巴喇等来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   },
+   {
+    "name": "班达尔沙",
+    "role": "喀喇沁部多罗杜棱郡王"
+   },
+   {
+    "name": "乌忒巴喇",
+    "role": "喀喇沁部镇国公"
+   }
+  ],
+  "places": [
+   "烟台河"
+  ]
+ },
+ {
+  "event_id": 263,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 10,
+  "date_raw": "康熙十年九月十二日庚申",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "十二日庚申",
+  "event_role": "朝见受贺",
+  "summary": "康熙帝驻跸连山，地方文武官员及土默特部贝子顾稳、台吉塔布吉等来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   },
+   {
+    "name": "顾稳",
+    "role": "土默特部贝子"
+   }
+  ],
+  "places": [
+   "连山"
+  ]
+ },
+ {
+  "event_id": 264,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 11,
+  "date_raw": "康熙十年九月十三日辛酉",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "十三日辛酉",
+  "event_role": "朝见受贺",
+  "summary": "康熙帝驻跸小陵河，土默特部三等台吉沙克都儿来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   },
+   {
+    "name": "沙克都儿",
+    "role": "土默特部三等台吉"
+   }
+  ],
+  "places": [
+   "小陵河"
+  ]
+ },
+ {
+  "event_id": 265,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 12,
+  "date_raw": "康熙十年九月十四日壬戌",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "十四日壬戌",
+  "event_role": "朝见受贺",
+  "summary": "康熙帝驻跸榆林堡，地方文武官员及元汉部和硕额驸齐伦巴图和鲁台吉等来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   },
+   {
+    "name": "齐伦巴图",
+    "role": "元汉部和硕额驸"
+   }
+  ],
+  "places": [
+   "榆林堡"
+  ]
+ },
+ {
+  "event_id": 266,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 13,
+  "date_raw": "康熙十年九月十五日癸亥",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "十五日癸亥",
+  "event_role": "朝见受贺",
+  "summary": "康熙帝驻跸盘山堡，秦曼部三等台吉鄂齐儿等来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   },
+   {
+    "name": "鄂齐儿",
+    "role": "秦曼部三等台吉"
+   }
+  ],
+  "places": [
+   "盘山堡"
+  ]
+ },
+ {
+  "event_id": 267,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 14,
+  "date_raw": "康熙十年九月十六日甲子",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "十六日甲子",
+  "event_role": "朝见受贺",
+  "summary": "康熙帝驻跸小河山，科尔沁国多罗秉图郡王额机因及台吉塔布吉等来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   },
+   {
+    "name": "额机因",
+    "role": "科尔沁国多罗秉图郡王"
+   }
+  ],
+  "places": [
+   "小河山"
+  ]
+ },
+ {
+  "event_id": 268,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 15,
+  "date_raw": "康熙十年九月十七日乙丑",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "十七日乙丑",
+  "event_role": "朝见受贺",
+  "summary": "康熙帝驻跸双台，敖汉部多罗郡王布过、土默特部多罗达尔汉贝勒卓里克图及台吉塔布囊等来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   },
+   {
+    "name": "布过",
+    "role": "敖汉部多罗郡王"
+   },
+   {
+    "name": "卓里克图",
+    "role": "土默特部多罗达尔汉贝勒"
+   }
+  ],
+  "places": [
+   "双台"
+  ]
+ },
+ {
+  "event_id": 269,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 16,
+  "date_raw": "康熙十年九月十八日丙寅",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "十八日丙寅",
+  "event_role": "朝见受贺",
+  "summary": "康熙帝渡辽河驻跸，科尔沁国和硕卓里克图亲王鄂齐儿、和硕达尔汉亲王班第额驸等来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   },
+   {
+    "name": "鄂齐儿",
+    "role": "科尔沁国和硕卓里克图亲王"
+   },
+   {
+    "name": "班第额驸",
+    "role": "科尔沁国和硕达尔汉亲王"
+   },
+   {
+    "name": "布达里",
+    "role": "多罗郡王"
+   },
+   {
+    "name": "图纳黑",
+    "role": "辅国公"
+   },
+   {
+    "name": "额儿德尼",
+    "role": "多罗额驸"
+   },
+   {
+    "name": "沙进",
+    "role": "和硕额驸"
+   }
+  ],
+  "places": [
+   "辽河"
+  ]
+ },
+ {
+  "event_id": 270,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 17,
+  "date_raw": "康熙十年九月十九日丁卯",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "十九日丁卯",
+  "event_role": "祭祀典礼",
+  "summary": "康熙帝至盛京，谒福陵、昭陵行三跪九叩礼并三献，众皆举哀，遂入盛京城观宫殿。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "盛京城",
+   "福陵",
+   "昭陵"
+  ]
+ },
+ {
+  "event_id": 271,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 18,
+  "date_raw": "康熙十年九月二十日戊辰",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "二十日戊辰",
+  "event_role": "祭祀典礼",
+  "summary": "康熙帝率诸王贝勒文武大臣于福陵设牺牲酒帛读祝，行告成礼。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "福陵"
+  ]
+ },
+ {
+  "event_id": 272,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 19,
+  "date_raw": "康熙十年九月二十一日己巳",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "二十一日己巳",
+  "event_role": "祭祀典礼",
+  "summary": "康熙帝于福陵设牲帛读祝举哀，三献行礼，祭毕回盛京。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "福陵",
+   "盛京城"
+  ]
+ },
+ {
+  "event_id": 273,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 20,
+  "date_raw": "康熙十年九月二十一日己巳",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "二十一日己巳",
+  "event_role": "谕旨决策",
+  "summary": "康熙帝周视盛京城池，赐年老无告鳏寡孤独者银两，并谕盛京将军阿木儿图察奏披甲中伤老病退甲闲散之人。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   },
+   {
+    "name": "阿木儿图",
+    "role": "盛京将军"
+   }
+  ],
+  "places": [
+   "盛京城"
+  ]
+ },
+ {
+  "event_id": 274,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 21,
+  "date_raw": "康熙十年九月二十一日己巳",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "二十一日己巳",
+  "event_role": "朝见受贺",
+  "summary": "科尔沁国头等台吉鄂齐儿等来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "鄂齐儿",
+    "role": "科尔沁国头等台吉"
+   }
+  ],
+  "places": []
+ },
+ {
+  "event_id": 275,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 22,
+  "date_raw": "康熙十年九月二十二日庚午",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "二十二日庚午",
+  "event_role": "祭祀典礼",
+  "summary": "康熙帝率诸王贝勒文武大臣于昭陵设牺牲酒帛读祝，行告成礼。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "昭陵"
+  ]
+ },
+ {
+  "event_id": 276,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 23,
+  "date_raw": "康熙十年九月二十二日庚午",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "二十二日庚午",
+  "event_role": "朝见受贺",
+  "summary": "科尔沁国多罗和郡王朱尔扎哈、扎鲁特部镇国公毛奇塔及台吉等来朝。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "朱尔扎哈",
+    "role": "科尔沁国多罗和郡王"
+   },
+   {
+    "name": "毛奇塔",
+    "role": "扎鲁特部镇国公"
+   }
+  ],
+  "places": []
+ },
+ {
+  "event_id": 277,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 24,
+  "date_raw": "康熙十年九月二十三日辛未",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "二十三日辛未",
+  "event_role": "祭祀典礼",
+  "summary": "康熙帝于昭陵设牲帛读祝举哀三献行礼，祭毕遣王、贝子、内大臣赴永陵致祭行告成礼。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "昭陵",
+   "永陵"
+  ]
+ },
+ {
+  "event_id": 278,
+  "source_corpus": "起居注",
+  "source_vol": 1,
+  "source_no": null,
+  "source_title": null,
+  "order_index": 25,
+  "date_raw": "康熙十年九月二十三日辛未",
+  "reign_year": 10,
+  "month": 9,
+  "day_text": "二十三日辛未",
+  "event_role": "朝见受贺",
+  "summary": "礼成后大宴颁赏，康熙帝设仪仗奏乐入盛京，御清宁宫大清门赐盛京文武官员及三陵总管以下官员蟒袍鞍马弓箭等物。",
+  "has_zhupi": 0,
+  "zhupi_summary": null,
+  "people": [
+   {
+    "name": "康熙帝",
+    "role": "皇帝"
+   }
+  ],
+  "places": [
+   "盛京城",
+   "清宁宫",
+   "大清门",
+   "永陵",
+   "福陵",
+   "昭陵"
+  ]
+ }
+]

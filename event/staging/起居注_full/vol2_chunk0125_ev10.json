@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "初三日已匈",
+ "event_role": "司法案件",
+ "summary": "内阁中书黄朝凤、黄国材因迟送直隶巡抚题参官员本章，吏部议革职，康熙帝以议太过命该部再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "黄朝凤",
+   "role": "内阁中书"
+  },
+  {
+   "name": "黄国材",
+   "role": "内阁中书"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12510,
+ "page_range": "293-294"
+}

@@ -1,0 +1,33 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "镇守广州等处将军管源起向皇太后、皇上请安，康熙帝朱批回复安好并询问广东盗案近况。",
+ "people": [
+  {
+   "name": "管源起",
+   "role": "镇守广州等处将军，上奏请安者"
+  },
+  {
+   "name": "皇太后",
+   "role": "受请安者"
+  },
+  {
+   "name": "皇上",
+   "role": "受请安者，即康熙帝"
+  }
+ ],
+ "places": [
+  "广州",
+  "广东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝回复皇太后与自己均安，并令管源起据实奏报广东盗案近日情形。",
+ "source_title": "管源起请安",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 488
+}

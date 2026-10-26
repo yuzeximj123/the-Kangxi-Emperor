@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部侍郎员缺，康熙评论学士萨海随简亲王出征无善状，命将缘事降级解任侍郎及年久者查明来看。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨海",
+   "role": "学士"
+  },
+  {
+   "name": "简亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "华善",
+   "role": "参赞之臣"
+  },
+  {
+   "name": "多诺",
+   "role": "参赞之臣"
+  }
+ ],
+ "places": [
+  "永兴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15900,
+ "page_range": "361-362"
+}

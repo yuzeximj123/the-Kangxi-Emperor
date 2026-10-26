@@ -1,0 +1,22 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "谕令费扬古地方事务着舒书代理，侍郎满耕仍留原处。",
+ "people": [
+  {
+   "name": "舒书",
+   "role": "代理费扬古事务"
+  },
+  {
+   "name": "满耕",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22205,
+ "page_range": "454-455"
+}

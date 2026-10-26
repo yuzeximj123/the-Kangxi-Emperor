@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十八日壬寅",
+ "event_role": "谕旨决策",
+ "summary": "明珠等奏九卿议覆土司事，康熙帝命撰敕严饬封疆大臣抚绥土司，并令具稿来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "蔡毓荣",
+   "role": "总督"
+  },
+  {
+   "name": "王继文",
+   "role": "巡抚"
+  },
+  {
+   "name": "哈占",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "云贵",
+  "四川",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14210,
+ "page_range": "319-320"
+}

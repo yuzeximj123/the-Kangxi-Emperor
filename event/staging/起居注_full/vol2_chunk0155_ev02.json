@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初五日戊申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御汤泉后殿，大学士等捧折本请旨，议监察御史徐廷筷条奏京通各仓坐粮厅监督选廉能司员差遣事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐廷筷",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "汤泉",
+  "京通各仓",
+  "坐粮厅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15502,
+ "page_range": "353-354"
+}

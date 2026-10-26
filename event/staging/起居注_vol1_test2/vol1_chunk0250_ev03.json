@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问孔国岱有何言，席格奏称孔国岱无所言，尚之信亦惟问皇上万安而已。",
+ "people": [
+  {
+   "name": "席格",
+   "role": "员外郎"
+  },
+  {
+   "name": "孔国岱",
+   "role": "官员"
+  },
+  {
+   "name": "尚之信",
+   "role": "藩王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25003,
+ "page_range": "557-558"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "初三日",
+ "event_role": "朝见受贺",
+ "summary": "喜峰口管理驿站员外郎马菠、防御萨克察、游击李正春等来朝，康熙帝命福善、马武等视其马步射。",
+ "people": [
+  {
+   "name": "马菠",
+   "role": "管理驿站员外郎"
+  },
+  {
+   "name": "萨克察",
+   "role": "防御"
+  },
+  {
+   "name": "李正春",
+   "role": "游击"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "喜峰口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18316,
+ "page_range": "376-377"
+}

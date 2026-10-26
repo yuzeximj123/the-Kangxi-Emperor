@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部以运船过淮逾限议罚总督张鹏翮、巡抚宋荦三个月，康熙以张鹏翮未莅任不可滥及，命察奏类似处分。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总督"
+  },
+  {
+   "name": "宋荦",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15302,
+ "page_range": "316-317"
+}

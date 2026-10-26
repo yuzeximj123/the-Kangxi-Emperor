@@ -1,0 +1,29 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": "初四日甲子",
+ "event_role": "人事任免",
+ "summary": "兵部题天津、太原总兵员缺，康熙帝以天津紧要，命将应补之人问九卿具奏。",
+ "people": [
+  {
+   "name": "李士达",
+   "role": "左都督管副将事"
+  },
+  {
+   "name": "毛来风",
+   "role": "副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津",
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7207,
+ "page_range": "154-155"
+}

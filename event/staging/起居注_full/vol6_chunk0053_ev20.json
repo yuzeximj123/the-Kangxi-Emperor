@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "初四日乙亥",
+ "event_role": "人事任免",
+ "summary": "户部题请崇文门监督差兵部主事梁弓，康熙帝命九卿保举官员，最终选定理藩院郎中黑谷担任此差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁弓",
+   "role": "兵部主事"
+  },
+  {
+   "name": "黑谷",
+   "role": "理藩院郎中"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5320,
+ "page_range": "116-117"
+}

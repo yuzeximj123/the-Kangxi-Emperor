@@ -1,0 +1,20 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "十三日乙卯",
+ "event_role": "其他",
+ "summary": "酉时，康熙帝御乾清宫，召满汉诸臣照品赐坐，作乐大宴，诸臣进酒，帝亲赐大学士、尚书、左都御史等酒，宴毕谢恩出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16626,
+ "page_range": "375-376"
+}

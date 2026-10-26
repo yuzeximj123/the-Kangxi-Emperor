@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十日壬寅",
+ "event_role": "议政听政",
+ "summary": "覆请四川巡抚年羹尧题请停止编审造册事，谕令总督殷泰会同该抚确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "殷泰",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22014,
+ "page_range": "451-452"
+}

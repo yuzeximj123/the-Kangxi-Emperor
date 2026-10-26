@@ -1,0 +1,21 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "十七日丙子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝至天坛祈雨，自西天门步行至坛致祭，祭毕仍步行出西天门方乘马回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天坛",
+  "西天门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23526,
+ "page_range": "527-528"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": "二十五日壬申",
+ "event_role": "弹劾参奏",
+ "summary": "巡视南城御史赐什图题参盗犯陈大家案下防吏目王世病。",
+ "people": [
+  {
+   "name": "赐什图",
+   "role": "巡视南城御史"
+  },
+  {
+   "name": "陈大家",
+   "role": "盗犯"
+  },
+  {
+   "name": "王世病",
+   "role": "防吏目"
+  }
+ ],
+ "places": [
+  "南城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4037,
+ "page_range": "91-92"
+}

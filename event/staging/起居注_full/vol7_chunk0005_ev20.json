@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十二日甲子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝阅视妙德庵，又阅视碧山寺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "妙德庵",
+  "碧山寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 520,
+ "page_range": "21-22"
+}

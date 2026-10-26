@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "十五日己酉",
+ "event_role": "人事任免",
+ "summary": "吏部题贵州按察使丹达礼员缺，以道员陆突蕃拟正、任风厚拟陪，康熙帝命任风厚补授贵州按察使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "丹达礼",
+   "role": "贵州按察使"
+  },
+  {
+   "name": "陆突蕃",
+   "role": "道员"
+  },
+  {
+   "name": "任风厚",
+   "role": "道员"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4425,
+ "page_range": "98-99"
+}

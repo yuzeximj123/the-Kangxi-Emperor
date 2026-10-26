@@ -1,0 +1,38 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "初三日",
+ "event_role": "人事任免",
+ "summary": "宗人府题年已及岁之宗室景颜等封公，康熙以景颜等不效力图报不应封公，令说与简亲王及贝子苏努，本发还。",
+ "people": [
+  {
+   "name": "景颜",
+   "role": "宗室"
+  },
+  {
+   "name": "景顺",
+   "role": "宗室"
+  },
+  {
+   "name": "杨桑阿",
+   "role": "宗室"
+  },
+  {
+   "name": "苏尔金",
+   "role": "苏努之子"
+  },
+  {
+   "name": "苏努",
+   "role": "贝子"
+  },
+  {
+   "name": "简亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13908,
+ "page_range": "289-290"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初二日甲寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝起行甫出易州西门，原任礼部侍郎降级田种玉跪送圣驾。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "田种玉",
+   "role": "原任礼部侍郎"
+  }
+ ],
+ "places": [
+  "易州西门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 411,
+ "page_range": "19-20"
+}

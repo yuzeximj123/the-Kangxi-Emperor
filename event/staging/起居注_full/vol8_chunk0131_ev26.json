@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "二十七日戊子",
+ "event_role": "司法案件",
+ "summary": "刑部议山西高氏持菜刀砍伤李贵之妻攻氏致死案，拟高氏立决，康熙帝以人命重大令九卿詹事科道会议具奏。",
+ "people": [
+  {
+   "name": "高氏",
+   "role": "案犯"
+  },
+  {
+   "name": "李贵",
+   "role": "相关人"
+  },
+  {
+   "name": "攻氏",
+   "role": "被害人"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13126,
+ "page_range": "273-274"
+}

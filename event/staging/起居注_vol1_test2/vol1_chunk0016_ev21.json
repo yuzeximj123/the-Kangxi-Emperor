@@ -1,0 +1,26 @@
+{
+ "reign_year": 11,
+ "month": 6,
+ "day_text": "二十日甲午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕御医如文照用心调治此莘之病。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "如文照",
+   "role": "御医"
+  },
+  {
+   "name": "此莘",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1621,
+ "page_range": "89-90"
+}

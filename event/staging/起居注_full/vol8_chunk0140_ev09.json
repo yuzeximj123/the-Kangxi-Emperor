@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "初七日丙申",
+ "event_role": "人事任免",
+ "summary": "宗人府参镇国公景顺、杨桑阿、辅国公苏努金等不效力，康熙帝命革退八分公，改给应得镇国将军等衔，在应效力处效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "景顺",
+   "role": "镇国公"
+  },
+  {
+   "name": "杨桑阿",
+   "role": "镇国公"
+  },
+  {
+   "name": "苏努金",
+   "role": "辅国公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14009,
+ "page_range": "291-292"
+}

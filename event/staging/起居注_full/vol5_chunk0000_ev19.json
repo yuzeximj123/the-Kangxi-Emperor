@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "十二日庚成",
+ "event_role": "其他",
+ "summary": "康熙帝赐云南永顺总兵官偏图马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "偏图",
+   "role": "云南永顺总兵官"
+  }
+ ],
+ "places": [
+  "云南永顺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19,
+ "page_range": "10-11"
+}

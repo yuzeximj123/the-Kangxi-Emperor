@@ -1,0 +1,46 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "初四日辛卯",
+ "event_role": "人事任免",
+ "summary": "康熙阅庶吉士试卷，拔吴廷桢为首，刘岩、王式丹、宋至、杨万程照拟授职，满书杨尤奇等二人亦授职。",
+ "people": [
+  {
+   "name": "吴廷桢",
+   "role": "庶吉士"
+  },
+  {
+   "name": "刘岩",
+   "role": "庶吉士"
+  },
+  {
+   "name": "王式丹",
+   "role": "庶吉士"
+  },
+  {
+   "name": "宋至",
+   "role": "庶吉士"
+  },
+  {
+   "name": "杨万程",
+   "role": "庶吉士"
+  },
+  {
+   "name": "杨尤奇",
+   "role": "庶吉士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10315,
+ "page_range": "217-218"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题荆州将军达尔占员缺，开列镶黄旗副都统寿志等职名，帝命开列都统、护军统领等名具奏，并询问松柱对达尔占的看法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "达尔占",
+   "role": "荆州将军"
+  },
+  {
+   "name": "寿志",
+   "role": "镶黄旗副都统"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9901,
+ "page_range": "209-210"
+}

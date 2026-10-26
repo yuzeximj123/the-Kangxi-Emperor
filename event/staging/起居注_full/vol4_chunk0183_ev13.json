@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 1,
+ "day_text": "三十日庚辰",
+ "event_role": "朝见受贺",
+ "summary": "赐朝鲜国王李焞及进贡正使议政府左参赞李宇罗、礼曹参判尹以道等鞍马、彩缎、银两有差。",
+ "people": [
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "李宇罗",
+   "role": "进贡正使议政府左参赞"
+  },
+  {
+   "name": "尹以道",
+   "role": "礼曹参判"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18313,
+ "page_range": "378-379"
+}

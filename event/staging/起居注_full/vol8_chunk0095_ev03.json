@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "礼部题朝鲜贡使晋平君李泽等偷买水牛角，康熙令交与该国王查明审理具奏。",
+ "people": [
+  {
+   "name": "李泽",
+   "role": "朝鲜贡使晋平君"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9503,
+ "page_range": "201-202"
+}

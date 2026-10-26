@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "初九日两子",
+ "event_role": "议政听政",
+ "event_summary": "康熙帝御乾清门听部院各衙门官员面奏政事，吏部题副都御史吴珊丁忧员缺遵旨请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴珊",
+   "role": "副都御史"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23719,
+ "page_range": "517-518"
+}

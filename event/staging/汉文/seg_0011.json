@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十三年五月",
+ "reign_year": 43,
+ "month": 5,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "曹寅在江宁接阅征讨噶尔丹大捷邸报，设香案望阙叩贺并请圣安，兼请皇上南巡。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "13",
+ "source_title": "江宁织造曹寅奏贺征讨噶尔丹大捷折",
+ "order_index": 11
+}

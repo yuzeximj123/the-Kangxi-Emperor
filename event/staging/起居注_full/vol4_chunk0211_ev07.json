@@ -1,0 +1,21 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "二十一日丙申",
+ "event_role": "弹劾参奏",
+ "summary": "户部题奏陕西巡抚布喀违旨未将宁夏粮米十万石运完又借端巧饰希图卸罪，应革去巡抚任交刑部从重治罪。",
+ "people": [
+  {
+   "name": "布喀",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21107,
+ "page_range": "434-435"
+}

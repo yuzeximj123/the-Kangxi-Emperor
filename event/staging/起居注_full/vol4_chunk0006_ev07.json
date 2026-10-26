@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕督抚在朕前皆如此说，至地方往往不符，人贵始终如一，当厉清操。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王骘",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "朱弘祚",
+   "role": "广东巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 607,
+ "page_range": "24-25"
+}

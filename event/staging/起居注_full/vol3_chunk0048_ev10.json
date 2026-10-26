@@ -1,0 +1,37 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "十八日辛巳",
+ "event_role": "人事任免",
+ "summary": "吏部题山东巡抚徐旭龄升任员缺，康熙帝采纳众议补授张鹏为山东巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张鹏",
+   "role": "副都御史"
+  },
+  {
+   "name": "郎廷棋",
+   "role": "广东布政使"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4810,
+ "page_range": "131-132"
+}

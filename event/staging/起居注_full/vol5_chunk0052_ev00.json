@@ -1,0 +1,20 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙认为沈恺曾条奏疏浚太湖无益，命严加议处。",
+ "people": [
+  {
+   "name": "沈恺曾",
+   "role": "条奏官员"
+  }
+ ],
+ "places": [
+  "太湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5200,
+ "page_range": "114-115"
+}

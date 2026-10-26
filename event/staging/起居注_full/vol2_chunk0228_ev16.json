@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十四日辛亥",
+ "event_role": "人事任免",
+ "summary": "拟补中允员缺，明珠等奏讲官内编修王琐龄资次在前、检讨李振裕学问为人俱佳，康熙以李振裕学问好书法佳，命补授。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王琐龄",
+   "role": "编修"
+  },
+  {
+   "name": "李振裕",
+   "role": "检讨"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "翰林院学士"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22816,
+ "page_range": "499-500"
+}

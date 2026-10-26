@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙四十八年七月十六日",
+ "reign_year": 48,
+ "month": 7,
+ "day": 7,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮奏请将已升通政司左参议的巡道李成龙以升衔留任带管直隶巡道事务，以利地方旗民杂处之刑名逃盗等事。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏请人"
+  },
+  {
+   "name": "李成龙",
+   "role": "直隶巡道，升补通政司左参议，被奏请以升衔带管原职"
+  },
+  {
+   "name": "左必蕃",
+   "role": "原任扬州府知府，援引为例者"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "昌平",
+  "扬州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報蘇州雨水調勻並米價已賤摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "553",
+ "order_index": 206
+}

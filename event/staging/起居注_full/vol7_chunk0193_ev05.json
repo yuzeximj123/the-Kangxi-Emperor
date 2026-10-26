@@ -1,0 +1,34 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十七日",
+ "event_role": "议政听政",
+ "summary": "康熙帝询问苏满查边、杨代为何不来，并问都统雅图是否知鄂善结党之事，雅图奏称不知。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏满",
+   "role": "官员"
+  },
+  {
+   "name": "杨代",
+   "role": "都统"
+  },
+  {
+   "name": "雅图",
+   "role": "都统"
+  },
+  {
+   "name": "鄂善",
+   "role": "都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19305,
+ "page_range": "397-398"
+}

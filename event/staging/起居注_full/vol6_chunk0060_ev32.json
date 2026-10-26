@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "十三日癸未",
+ "event_role": "皇帝行止",
+ "summary": "午时康熙帝随皇太后由东便门进东华门，候皇太后回宫后始回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "东便门",
+  "东华门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6032,
+ "page_range": "130-131"
+}

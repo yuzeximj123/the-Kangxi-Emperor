@@ -1,0 +1,40 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "十五日戊申",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清门听政，部院各衙门官员面奏完毕，大学士等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8520,
+ "page_range": "182-183"
+}

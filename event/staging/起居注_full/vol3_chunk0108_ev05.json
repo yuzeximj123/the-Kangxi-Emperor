@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十三日庚辰",
+ "event_role": "人事任免",
+ "summary": "兵部题请病故将军王进宝应赠何衔，康熙命加赠太子太保。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "王进宝",
+   "role": "病故将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10805,
+ "page_range": "251-252"
+}

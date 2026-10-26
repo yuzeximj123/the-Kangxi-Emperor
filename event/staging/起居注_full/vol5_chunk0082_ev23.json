@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初二日辛卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝询问员外郎西平为人，太仆寺卿杨舒奏称太仆寺无其办事之处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "西平",
+   "role": "员外郎"
+  },
+  {
+   "name": "杨舒",
+   "role": "太仆寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8223,
+ "page_range": "174-175"
+}

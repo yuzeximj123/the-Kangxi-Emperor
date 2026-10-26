@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初十日丁未",
+ "event_role": "奏报地方情形",
+ "summary": "户部郎中鄂起查看山东蝗虫回奏，称遵旨耕犁田亩后蝗不炽盛、已捕灭尽绝，康熙帝询问山东直隶麦田及雨水情形。",
+ "people": [
+  {
+   "name": "鄂起",
+   "role": "户部郎中"
+  },
+  {
+   "name": "桑格",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "直隶",
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1912,
+ "page_range": "48-49"
+}

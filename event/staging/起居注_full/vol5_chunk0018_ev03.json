@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以贫乏宗室图利无大干碍，若罚俸二年愈难为生，命登色、赖世从宽免罚俸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "登色",
+   "role": "镇国公"
+  },
+  {
+   "name": "赖世",
+   "role": "辅国公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1803,
+ "page_range": "46-47"
+}

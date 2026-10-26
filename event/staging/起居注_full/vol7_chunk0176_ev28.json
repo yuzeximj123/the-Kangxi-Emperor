@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "二十五日癸未",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题行动商船海央王邦安等照律立斩，康熙帝令问郑尽心等是否认得、是否同伙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王邦安",
+   "role": "海央"
+  },
+  {
+   "name": "郑尽心",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17628,
+ "page_range": "363-364"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十一量戊实",
+ "event_role": "人事任免",
+ "summary": "吏部题补兵部尚书员缺，康熙帝以达哈塔品行端方、年齿亦高，命补授吏部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "科尔坤",
+   "role": "尚书"
+  },
+  {
+   "name": "达哈塔",
+   "role": "拟补吏部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10713,
+ "page_range": "249-250"
+}

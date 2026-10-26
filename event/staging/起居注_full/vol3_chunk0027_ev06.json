@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十四日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读学士吴兴祖升任员缺，正拟祝钟灵、陪拟王国昌，康熙帝命开列应升官员职名送阅。",
+ "people": [
+  {
+   "name": "吴兴祖",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "祝钟灵",
+   "role": "监察御史、正拟"
+  },
+  {
+   "name": "王国昌",
+   "role": "陪拟"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2706,
+ "page_range": "89-90"
+}

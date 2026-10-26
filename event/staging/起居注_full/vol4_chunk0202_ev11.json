@@ -1,0 +1,36 @@
+{
+ "reign_year": 31,
+ "month": 7,
+ "day_text": "十五日壬戌",
+ "event_role": "人事任免",
+ "summary": "贵州巡抚卫既齐疏请革土官卢君宠职，以其长子不法改次子卢大晋承袭，康熙帝令问九卿。",
+ "people": [
+  {
+   "name": "卫既齐",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "卢君宠",
+   "role": "土官"
+  },
+  {
+   "name": "卢大乾",
+   "role": "卢君宠长子"
+  },
+  {
+   "name": "卢大晋",
+   "role": "卢君宠次子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20211,
+ "page_range": "416-417"
+}

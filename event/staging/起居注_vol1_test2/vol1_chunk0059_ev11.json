@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 11,
+ "day_text": "初五日庚午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝闻镇守盛京将军阿木尔图病危，念系封疆大臣，命章医看视，遣三等侍卫阿尔赛同太医院吏目孙之睦前往疗治。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿木尔图",
+   "role": "镇守盛京将军"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "三等侍卫"
+  },
+  {
+   "name": "孙之睦",
+   "role": "太医院吏目"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5911,
+ "page_range": "175-176"
+}

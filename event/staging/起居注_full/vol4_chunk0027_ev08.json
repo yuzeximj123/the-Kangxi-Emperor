@@ -1,0 +1,33 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "十九日辛酉",
+ "event_role": "人事任免",
+ "summary": "康熙帝命尔格、敦柱传谕内务府总管，选贤能章京之半调往暂行永设殿看守，须亲加选择调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尔格",
+   "role": "传谕官"
+  },
+  {
+   "name": "敦柱",
+   "role": "传谕官"
+  },
+  {
+   "name": "内务府总管",
+   "role": "内务府总管"
+  }
+ ],
+ "places": [
+  "孝陵",
+  "暂行永设殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2708,
+ "page_range": "66-67"
+}

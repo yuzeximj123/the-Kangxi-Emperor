@@ -1,0 +1,21 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "初八日",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝临幸巴颜额尔追，翁牛特诸台吉及蒙古男妇列跪道左，奏称蒙皇上教以谋生之道、禁止盗贼、赐牛羊使之蕃息，今又下嫁公主，合词迎驾欢呼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巴颜额尔追",
+  "翁牛特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12402,
+ "page_range": "259-260"
+}

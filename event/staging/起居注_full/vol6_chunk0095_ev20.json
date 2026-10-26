@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": "二十五日全已",
+ "event_role": "人事任免",
+ "summary": "大学士伊桑阿以年老染疾请解任，康熙帝顾阿兰泰言其厚重老成，不忍令解任，命将谕旨签批发。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9520,
+ "page_range": "200-201"
+}

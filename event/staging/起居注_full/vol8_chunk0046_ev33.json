@@ -1,0 +1,22 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": "十八日辛卯",
+ "event_role": "人事任免",
+ "summary": "吏部题鸿胪寺汉正卿张大有员缺无应补应升之人请暂行停止，康熙帝命陈放咸补授鸿胪寺卿。",
+ "people": [
+  {
+   "name": "张大有",
+   "role": "鸿胪寺汉正卿"
+  },
+  {
+   "name": "陈放咸",
+   "role": "补授鸿胪寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4633,
+ "page_range": "103-104"
+}

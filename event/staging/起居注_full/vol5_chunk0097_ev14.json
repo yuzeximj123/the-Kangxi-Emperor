@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 1,
+ "day_text": "十七日甲戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕汉诸臣所奏不为非，但噶尔丹狡诈非小寇，追述往年乌兰布通脱逃之悔，决意亲征以绝边患。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "理藩院尚书"
+  },
+  {
+   "name": "阿密达",
+   "role": "内大臣"
+  }
+ ],
+ "places": [
+  "乌兰布通",
+  "巴颜乌兰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9714,
+ "page_range": "204-205"
+}

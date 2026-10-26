@@ -1,0 +1,42 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问李光地部世隆、金世荣、梁租、吴英、张云等提督居官操练情形，并加评断。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "部世隆",
+   "role": "官员"
+  },
+  {
+   "name": "金世荣",
+   "role": "官员"
+  },
+  {
+   "name": "梁租",
+   "role": "提督"
+  },
+  {
+   "name": "吴英",
+   "role": "提督"
+  },
+  {
+   "name": "张云",
+   "role": "提督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11200,
+ "page_range": "235-236"
+}

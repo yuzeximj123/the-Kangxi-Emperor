@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙五十六年七月初六日",
+ "reign_year": 56,
+ "month": 7,
+ "day": null,
+ "event_role": "军务",
+ "summary": "四川松潘总兵路振扬奏报遵旨预备兵马，已遣发二千兵随提督康泰驻防黄胜关，并陈明自身随时可率兵出口效力。",
+ "people": [
+  {
+   "name": "路振扬",
+   "role": "四川松潘总兵官"
+  },
+  {
+   "name": "康泰",
+   "role": "提督"
+  },
+  {
+   "name": "常寿",
+   "role": "护信家人（赍折递送者）"
+  }
+ ],
+ "places": [
+  "松潘",
+  "黄胜关",
+  "柘木桥"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示康熙帝已阅知所奏。",
+ "source_title": "四川松潘總兵路振揚奏陳遵旨預備兵馬聽候調用摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2473",
+ "order_index": 464
+}

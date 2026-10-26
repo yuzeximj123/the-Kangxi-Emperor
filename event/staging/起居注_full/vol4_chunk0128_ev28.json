@@ -1,0 +1,29 @@
+{
+ "reign_year": 29,
+ "month": 8,
+ "day_text": "二十七日乙西",
+ "event_role": "人事任免",
+ "summary": "赵良栋题保白守仁等六十四员及西宁功加官员，康熙帝令如赵良栋所题行，余依议。",
+ "people": [
+  {
+   "name": "赵良栋",
+   "role": "官员"
+  },
+  {
+   "name": "白守仁",
+   "role": "功加官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12828,
+ "page_range": "268-269"
+}

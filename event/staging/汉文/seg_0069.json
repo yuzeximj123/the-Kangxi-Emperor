@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙四十四年二月二十八日",
+ "reign_year": 44,
+ "month": 2,
+ "day": 28,
+ "event_role": "奏报灾情收成",
+ "summary": "安徽巡抚刘光美奏报上江各府州麦秋收成分数，自十分至七八分不等。",
+ "people": [
+  {
+   "name": "刘光美",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "安徽",
+  "庐州",
+  "池州",
+  "安庆",
+  "宁国",
+  "凤阳",
+  "滁州",
+  "徽州",
+  "太平",
+  "和州",
+  "广德"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "96",
+ "source_title": "安徽巡撫劉光美奏報秋成分數摺",
+ "order_index": 69
+}

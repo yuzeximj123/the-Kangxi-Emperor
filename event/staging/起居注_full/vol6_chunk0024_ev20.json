@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "初七日癸丑",
+ "event_role": "朝见受贺",
+ "summary": "山西按察使囊吉里陛辞奏请训旨，康熙谕其体恤民隐勉力奉行，囊吉里奏谢图报。",
+ "people": [
+  {
+   "name": "囊吉里",
+   "role": "山西按察使"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2420,
+ "page_range": "58-59"
+}

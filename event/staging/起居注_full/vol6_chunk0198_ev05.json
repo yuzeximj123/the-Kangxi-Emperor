@@ -1,0 +1,21 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "初七日甲子",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御畅春园内洲宁居听政，部院各衙门官员面奏完毕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "洲宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19805,
+ "page_range": "406-407"
+}

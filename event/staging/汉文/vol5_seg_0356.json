@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙五十四年正月十二日",
+ "reign_year": 54,
+ "month": null,
+ "day": 10,
+ "event_role": "弹劾参奏",
+ "summary": "古北口总兵杨铸奏报河屯营守备徐仁看守太监尹睿疏忽，致其除夕擅自剃头，请示是否题参。",
+ "people": [
+  {
+   "name": "杨铸",
+   "role": "古北口总兵（副将管总兵官事）"
+  },
+  {
+   "name": "徐仁",
+   "role": "河屯营守备"
+  },
+  {
+   "name": "尹睿",
+   "role": "太监（被看守对象）"
+  }
+ ],
+ "places": [
+  "古北口",
+  "直隶",
+  "河屯营"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "古北口總兵楊鑄奏為請旨應否題參疏忽之守備事摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1712",
+ "order_index": 356
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝谕令襄吉里升补布政使，所遗员缺由巴哈布升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "襄吉里",
+   "role": "升补布政使"
+  },
+  {
+   "name": "巴哈布",
+   "role": "升补员缺"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3500,
+ "page_range": "80-81"
+}

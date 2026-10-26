@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十三日戊寅",
+ "event_role": "军务",
+ "summary": "康熙帝谕已过拖陵之米暂留拖陵，明珠移文即行运往；已出喀伦未至拖陵之米随到留贮；未出喀伦之米随处留贮，候大兵回时沿途应付。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "拖陵",
+  "喀伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13906,
+ "page_range": "288-289"
+}

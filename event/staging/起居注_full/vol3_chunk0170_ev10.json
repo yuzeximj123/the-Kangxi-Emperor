@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "初一日癸丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝因科尔沁国端贞长公主薨逝，不理事，命部院各衙门本章俱交送内阁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "端贞长公主",
+   "role": "科尔沁国长公主"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17010,
+ "page_range": "375-376"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初二日庚午",
+ "event_role": "谕旨决策",
+ "summary": "议政王大臣等会议西安驻防官兵令地方官供应车辆事，康熙帝依议，但恐地方官借端加派苦累小民，命票明通行申饬。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22012,
+ "page_range": "483-484"
+}

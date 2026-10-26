@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年八月二十五日",
+ "reign_year": 53,
+ "month": 8,
+ "day": 25,
+ "event_role": "人事任免",
+ "summary": "江西巡抚郎廷极题请升补南昌府知府员缺，请旨补授。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "奏报人"
+  },
+  {
+   "name": "吴熙",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "江西",
+  "南昌府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "（江西巡撫題補知府）",
+ "order_index": 137
+}

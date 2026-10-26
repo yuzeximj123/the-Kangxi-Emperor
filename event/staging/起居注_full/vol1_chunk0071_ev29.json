@@ -1,0 +1,24 @@
+{
+ "reign_year": 13,
+ "month": 5,
+ "day_text": "初二日乙丑",
+ "event_role": "其他",
+ "summary": "未时，康熙帝复御乾清门，赐河南河北总兵官佟徽年食、鞍马一匹、表里四匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟徽年",
+   "role": "河南河北总兵官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7129,
+ "page_range": "199-200"
+}

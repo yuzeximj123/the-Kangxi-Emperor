@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "初三日",
+ "event_role": "人事任免",
+ "summary": "会推正蓝旗蒙古都统员缺，拟夺岱、蕉图，康熙帝以其平常，命另推具奏。",
+ "people": [
+  {
+   "name": "夺岱",
+   "role": "拟正护军统领"
+  },
+  {
+   "name": "蕉图",
+   "role": "拟陪副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6411,
+ "page_range": "171-172"
+}

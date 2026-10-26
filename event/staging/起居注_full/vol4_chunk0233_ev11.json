@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 5,
+ "day_text": "初四日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士，平阳府连年歉收民多流移，令免本年正供外带征历年旧欠钱粮，着详察具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23311,
+ "page_range": "478-479"
+}

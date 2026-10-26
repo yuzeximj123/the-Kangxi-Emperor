@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "二十二日戊子",
+ "event_role": "朝见受贺",
+ "summary": "白都纳副都统沙那海赴任陛辞请训，康熙帝谕令凡事与将军萨卜素商酌，二三年后取回。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙那海",
+   "role": "白都纳地方副都统"
+  },
+  {
+   "name": "萨卜素",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "白都纳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3502,
+ "page_range": "80-81"
+}

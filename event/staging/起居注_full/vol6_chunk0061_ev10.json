@@ -1,0 +1,42 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "十五日乙酉",
+ "event_role": "河工水利",
+ "summary": "康熙帝召九卿及于成龙、王新命等，责问总漕桑格等请修下河事，九卿草率议准，未详询从前开浚诸人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "河臣"
+  },
+  {
+   "name": "王新命",
+   "role": "河臣"
+  },
+  {
+   "name": "桑格",
+   "role": "总漕"
+  },
+  {
+   "name": "萨木哈",
+   "role": "九卿"
+  },
+  {
+   "name": "凯音布",
+   "role": "前河臣"
+  },
+  {
+   "name": "孙在礼",
+   "role": "前河臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6110,
+ "page_range": "132-133"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命户部补西平，兵部堂官引见调来副将参将，并称赞副将刘凯材健人优、射箭好。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘凯",
+   "role": "副将"
+  },
+  {
+   "name": "马尔汉",
+   "role": "兵部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17100,
+ "page_range": "352-353"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就奉天正红旗协领员缺人选不满，斥将军推选劣员，命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索济",
+   "role": "拟坐名佐领"
+  },
+  {
+   "name": "禅布",
+   "role": "陪拟在京拜他喇布吉哈番"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14100,
+ "page_range": "325-326"
+}

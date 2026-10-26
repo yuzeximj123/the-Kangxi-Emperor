@@ -1,0 +1,36 @@
+{
+ "reign_year": 16,
+ "month": 8,
+ "day_text": "二十二日丙寅",
+ "event_role": "朝见受贺",
+ "summary": "未时，康熙帝御太和殿，遣索额图、李霨持节册立公遏必隆之女钮祜卢氏为皇后。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "正使大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "副使大学士"
+  },
+  {
+   "name": "遏必隆",
+   "role": "公"
+  },
+  {
+   "name": "钮祜卢氏",
+   "role": "皇后"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14402,
+ "page_range": "345-346"
+}

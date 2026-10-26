@@ -1,0 +1,24 @@
+{
+ "reign_year": 14,
+ "month": 9,
+ "day_text": "十一日丙申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝见太平庄南路旁民间坟墓被修平，谕大学士索额图令该部察议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "太平庄南路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10015,
+ "page_range": "257-258"
+}

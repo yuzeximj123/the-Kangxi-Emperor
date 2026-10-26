@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "十二日丁雍",
+ "event_role": "人事任免",
+ "summary": "马齐等遵旨复以大学士熊赐履引年乞休之本请旨，康熙帝准以原官解任，仍食俸留住京师备顾问。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5712,
+ "page_range": "125-126"
+}

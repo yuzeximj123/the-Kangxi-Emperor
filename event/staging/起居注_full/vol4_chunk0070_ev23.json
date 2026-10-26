@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 4,
+ "day_text": "二十日丙成",
+ "event_role": "祭祀典礼",
+ "summary": "大学士伊桑阿奏祈雨事例，议得山东、河南已得雨，直隶尚未沾足，应如十九年例祈祷，康熙帝命交礼部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东",
+  "河南",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7023,
+ "page_range": "152-153"
+}

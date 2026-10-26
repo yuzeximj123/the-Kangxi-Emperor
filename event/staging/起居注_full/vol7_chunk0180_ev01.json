@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 8,
+ "day_text": "二十五日",
+ "event_role": "人事任免",
+ "summary": "理藩院引黑龙江将军宗室杨福等坐名题补佐领索伦查礼尔图等，康熙帝阅其射后令照杨福等所题补授。",
+ "people": [
+  {
+   "name": "杨福",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "查礼尔图",
+   "role": "佐领"
+  }
+ ],
+ "places": [
+  "中行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18001,
+ "page_range": "371-372"
+}

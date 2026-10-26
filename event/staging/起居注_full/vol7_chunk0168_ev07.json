@@ -1,0 +1,36 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问大学士温达鄂奇为人，温达称其谨厚妥当，康熙帝谓鄂奇长于钻营有手段，交付审理为是；温达请指员办理兵部事务，康熙帝命满都来。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "鄂奇",
+   "role": "官员"
+  },
+  {
+   "name": "耿额",
+   "role": "尚书"
+  },
+  {
+   "name": "满都",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16807,
+ "page_range": "347-348"
+}

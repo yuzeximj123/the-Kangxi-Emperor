@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记载是日起居注官为海宝、吴延祯。",
+ "people": [
+  {
+   "name": "海宝",
+   "role": "起居注官"
+  },
+  {
+   "name": "吴延祯",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16001,
+ "page_range": "331-332"
+}

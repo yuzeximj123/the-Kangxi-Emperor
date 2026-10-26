@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "二十五日甲辰",
+ "event_role": "人事任免",
+ "summary": "四川提督康泰题请以守备马辅臣补授歼雅营游击，康熙帝照所请补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "康泰",
+   "role": "四川提督"
+  },
+  {
+   "name": "马辅臣",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24407,
+ "page_range": "499-500"
+}

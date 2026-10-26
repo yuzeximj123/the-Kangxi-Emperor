@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十二日戊实",
+ "event_role": "谕旨决策",
+ "summary": "直隶巡抚格尔古德进呈直隶地形图，康熙帝指其舛错不符甚多，命九卿会同详看各省地图务令真确。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "格尔古德",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1209,
+ "page_range": "59-60"
+}

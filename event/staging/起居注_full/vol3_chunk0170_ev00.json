@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问杨雍建举荐范时秀缘由，并告诫九卿对陪推之人应详慎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达哈塔",
+   "role": "官员"
+  },
+  {
+   "name": "杨雍建",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "范时秀",
+   "role": "被举荐官员"
+  },
+  {
+   "name": "九巍",
+   "role": "九卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17000,
+ "page_range": "375-376"
+}

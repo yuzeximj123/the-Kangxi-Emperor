@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 6,
+ "day_text": "初九日",
+ "event_role": "人事任免",
+ "summary": "康熙帝以德伯色为夸诈之人，着以原品随旗上朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德伯色",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3306,
+ "page_range": "78-79"
+}

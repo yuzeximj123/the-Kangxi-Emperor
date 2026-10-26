@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "十一日甲辰",
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚郭世隆题请蠲免密云县三十三年分应征豆二千余石，康熙帝以密云等州县谷不登、方遣官赈济，命免其追取。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5047,
+ "page_range": "110-111"
+}

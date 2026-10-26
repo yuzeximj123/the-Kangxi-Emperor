@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝告诫九卿保举之人亦当参出，不可轻保，以赵凤诏贪小为例说明人不可轻保。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "被引为鉴戒的官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21700,
+ "page_range": "445-446"
+}

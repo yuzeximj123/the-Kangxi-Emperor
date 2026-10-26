@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "因两广巡盐御史沈恺曾钱粮缺额，议罚保举之总督石琳、巡抚萧永藻，康熙帝令沈恺曾及督抚一同赔补，此本着另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈恺曾",
+   "role": "两广巡盐御史"
+  },
+  {
+   "name": "石琳",
+   "role": "总督"
+  },
+  {
+   "name": "萧永藻",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20004,
+ "page_range": "410-411"
+}

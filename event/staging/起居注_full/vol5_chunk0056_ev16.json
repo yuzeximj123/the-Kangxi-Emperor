@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 1,
+ "day_text": "二十七日已丑",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问九卿朱弘祚居官情形，众论皆同无可惜者，遂照部议降四级调用。",
+ "people": [
+  {
+   "name": "朱弘祚",
+   "role": "闽浙总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5616,
+ "page_range": "122-123"
+}

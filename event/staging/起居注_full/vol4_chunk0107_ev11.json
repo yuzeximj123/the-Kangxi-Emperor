@@ -1,0 +1,22 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "十三日甲搬",
+ "event_role": "人事任免",
+ "summary": "吏部题日讲官起居注、翰林院侍读洪俄贷患病令解任调理，康熙帝谕令在任调理并遣御医往治。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "洪俄贷",
+   "role": "翰林院侍读"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10711,
+ "page_range": "226-227"
+}

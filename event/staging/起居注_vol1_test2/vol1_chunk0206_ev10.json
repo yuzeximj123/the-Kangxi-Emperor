@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "十一日壬寅",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆准黄芳泰请给夫递送其兄芳世骨榇来京，康熙帝以非公事且无例令发部再议。",
+ "people": [
+  {
+   "name": "黄芳泰",
+   "role": "官员"
+  },
+  {
+   "name": "黄芳世",
+   "role": "已故官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20610,
+ "page_range": "469-470"
+}

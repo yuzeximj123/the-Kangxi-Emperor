@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就太监钱文才案指示记档，秋审时勿令幸免，并将李进学发往黑龙江与新满洲披甲之人为奴。",
+ "people": [
+  {
+   "name": "钱文才",
+   "role": "涉案太监"
+  },
+  {
+   "name": "李进学",
+   "role": "涉案太监"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2600,
+ "page_range": "62-63"
+}

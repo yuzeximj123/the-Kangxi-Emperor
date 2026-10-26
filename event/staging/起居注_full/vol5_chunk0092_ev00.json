@@ -1,0 +1,29 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议山西捐助驼马拨给康调元所需之数应用，余者喂肥备大兵之需，学士松柱等赞同。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "学士"
+  },
+  {
+   "name": "康调元",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山西",
+  "宣化府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9200,
+ "page_range": "194-195"
+}

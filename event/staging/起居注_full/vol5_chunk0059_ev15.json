@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "二十四日",
+ "event_role": "司法案件",
+ "summary": "沙河捕俗同知韦国佐失察衙役取贿议革职，康熙帝询问该抚意见，伊桑阿奏该抚称其勤勉。",
+ "people": [
+  {
+   "name": "韦国佐",
+   "role": "沙河捕俗同知"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "沙河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5915,
+ "page_range": "128-129"
+}

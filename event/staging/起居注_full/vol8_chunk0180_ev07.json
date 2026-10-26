@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "初三日戊午",
+ "event_role": "请安谢恩",
+ "summary": "是日康熙于畅春园问皇太后安。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "受问安者"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18007,
+ "page_range": "371-372"
+}

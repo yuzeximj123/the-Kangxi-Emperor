@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "初九日成成",
+ "event_role": "谕旨决策",
+ "summary": "户部题顺天府府尹张吉午疏请自康熙二十四年起民间开垦地亩永免圈取，议不准行，康熙帝谕民间自开田亩毋许圈取。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张吉午",
+   "role": "顺天府府尹"
+  }
+ ],
+ "places": [
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8715,
+ "page_range": "209-210"
+}

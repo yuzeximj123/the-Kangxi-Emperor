@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十三日庚辰",
+ "event_role": "人事任免",
+ "summary": "兵部题补銮仪使赵良栋告病员缺，康熙帝命林兴珠补授，以其投诚后在湖南军前有劳绩。",
+ "people": [
+  {
+   "name": "赵良栋",
+   "role": "銮仪使"
+  },
+  {
+   "name": "苏安化",
+   "role": "冠军使"
+  },
+  {
+   "name": "林兴珠",
+   "role": "补授者"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23912,
+ "page_range": "521-522"
+}

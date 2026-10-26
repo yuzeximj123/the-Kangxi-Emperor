@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "初六日甲申",
+ "event_role": "人事任免",
+ "summary": "兵部题补四川提督员缺，康熙帝以山东提督何傅操守谨慎、兼通文义，命调补四川提督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何傅",
+   "role": "山东提督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [
+  "四川",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11105,
+ "page_range": "265-266"
+}

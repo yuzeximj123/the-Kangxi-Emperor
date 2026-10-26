@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 6,
+ "day_text": "二十日甲午",
+ "event_role": "其他",
+ "summary": "康熙帝驻中行宫，亲近侍卫海青捧出御书“阐道醇雷”匾额，传谕景州知州周钱令悬董仲舒祠，并赐周钱御书扇。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海青",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "周钱",
+   "role": "景州知州"
+  },
+  {
+   "name": "董仲舒",
+   "role": "先贤"
+  }
+ ],
+ "places": [
+  "中行宫",
+  "景州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6403,
+ "page_range": "139-140"
+}

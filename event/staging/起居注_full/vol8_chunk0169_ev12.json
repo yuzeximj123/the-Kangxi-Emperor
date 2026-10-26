@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "二十二日戊申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕免顺天、永平二府来岁钱粮及历年旧欠，命查明开列具奏，并命户部议免江南旧欠钱粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三河",
+  "密云",
+  "永平府",
+  "顺天府",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16912,
+ "page_range": "349-350"
+}

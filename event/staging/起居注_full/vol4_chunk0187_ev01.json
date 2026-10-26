@@ -1,0 +1,23 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚郭世隆奏请暂开奉天关禁数月，允许肩挑畜驮者进关转卖粮食，以缓解永平、丰润、玉田等处米价腾贵。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "永平",
+  "丰润",
+  "玉田",
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18701,
+ "page_range": "386-387"
+}

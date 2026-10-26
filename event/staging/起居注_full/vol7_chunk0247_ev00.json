@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问大学士松柱当年攻平凉胡三泰时是否参与，松柱奏称在泰州罗门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "平凉",
+  "泰州罗门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24700,
+ "page_range": "505-506"
+}

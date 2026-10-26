@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十四日甲实",
+ "event_role": "军务",
+ "summary": "康熙帝闻成都捷音，筹划四川全省底定之策，命速议进兵保宁、重庆等处方略。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "杨茂助",
+   "role": "将领"
+  },
+  {
+   "name": "徐治都",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "成都",
+  "四川",
+  "保宁",
+  "重庆",
+  "壳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21709,
+ "page_range": "491-492"
+}

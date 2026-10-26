@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝告诫达木巴色尔济等喇嘛须遵则而行，并准其驰驿前往、携徒丹达礼格隆同往、赐扎萨克名、令照常贸易。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达木巴色尔济",
+   "role": "喇嘛"
+  },
+  {
+   "name": "徒丹达礼格隆",
+   "role": "喇嘛"
+  },
+  {
+   "name": "舒图",
+   "role": "郎中"
+  },
+  {
+   "name": "铁图",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 200,
+ "page_range": "15-16"
+}

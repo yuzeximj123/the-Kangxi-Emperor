@@ -1,0 +1,27 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "工部题总河王新命所奏卫河、丹河万金渠等处河工，康熙帝责石柱迁延，命速行河南巡抚具题再议。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "总河"
+  },
+  {
+   "name": "石柱",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "卫河",
+  "丹河",
+  "万金渠",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13702,
+ "page_range": "286-287"
+}

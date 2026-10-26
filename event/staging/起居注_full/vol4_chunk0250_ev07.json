@@ -1,0 +1,48 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": "初二日辛未",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏完毕，大学士伊桑阿等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "傅继祖",
+   "role": "学士"
+  },
+  {
+   "name": "温保",
+   "role": "学士"
+  },
+  {
+   "name": "戴通",
+   "role": "学士"
+  },
+  {
+   "name": "常级",
+   "role": "学士"
+  },
+  {
+   "name": "沈图",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25007,
+ "page_range": "512-513"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "初十日丙寅",
+ "event_role": "军务",
+ "summary": "兵部题请议赏提督孙思克标下与蒙古战阵亡被伤官兵，康熙帝命潘育龙等领兵出边杀阿奇老卜藏可嘉，一并议叙具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "提督"
+  },
+  {
+   "name": "潘育龙",
+   "role": "领兵官"
+  },
+  {
+   "name": "阿奇老卜藏",
+   "role": "被杀者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14222,
+ "page_range": "296-297"
+}

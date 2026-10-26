@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就陈了所奏两折及督抚节礼事发表谕旨，称此类琐事有关大体非庙堂所当议，并提及山东巡抚李树德、年羹尧等事，令拟签具奏。",
+ "people": [
+  {
+   "name": "陈了",
+   "role": "奏折官员"
+  },
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "年羹尧",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18202,
+ "page_range": "375-376"
+}

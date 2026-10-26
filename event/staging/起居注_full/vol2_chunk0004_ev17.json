@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十日两子",
+ "event_role": "司法案件",
+ "summary": "刑部议强盗庞进忠等俱应立斩，康熙以张龙江始终未招认，询问大学士，李霨等奏按律无分别，康熙命改为秋后处决。",
+ "people": [
+  {
+   "name": "庞进忠",
+   "role": "强盗"
+  },
+  {
+   "name": "张龙江",
+   "role": "案犯"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 417,
+ "page_range": "51-52"
+}

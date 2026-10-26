@@ -1,0 +1,25 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初十日成午",
+ "event_role": "奏报地方情形",
+ "summary": "礼部题报浙江巡抚赵申乔奏琉球国进贡来使柯纳什库等一百三十人遭风坏船，仅三人获救，请照例安置给发。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "柯纳什库",
+   "role": "琉球国进贡来使"
+  }
+ ],
+ "places": [
+  "琉球国",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3002,
+ "page_range": "71-72"
+}

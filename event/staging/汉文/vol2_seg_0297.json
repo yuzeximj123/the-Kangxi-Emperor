@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十九年四月十五日",
+ "reign_year": 49,
+ "month": 4,
+ "day": 15,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏报江南米价已平、扬州二麦长势良好可渐次收割，天气晴明民情欢悦，并进呈苏州扬州三月晴雨册，恭请皇上万安。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造、大理寺卿兼巡视两淮盐课监察御史，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報江南米價已平並二麥漸次收割摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "652",
+ "order_index": 297
+}

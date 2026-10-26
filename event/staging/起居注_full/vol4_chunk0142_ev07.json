@@ -1,0 +1,32 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "初六日壬戌",
+ "event_role": "人事任免",
+ "summary": "兵部题覆湖广总督本思和孔荐中军副将刘国兴、吕八音与例不符，康熙帝命准荐举注册。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "本思和孔",
+   "role": "湖广总督"
+  },
+  {
+   "name": "刘国兴",
+   "role": "中军副将"
+  },
+  {
+   "name": "吕八音",
+   "role": "中军副将"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14207,
+ "page_range": "296-297"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "初一日辛未",
+ "event_role": "其他",
+ "summary": "琉球国中山王尚贞及进贡正使马延器、副使王可法、都通事官郑士纶等照定例赐蟒缎、绸匹等物。",
+ "people": [
+  {
+   "name": "尚贞",
+   "role": "琉球国中山王"
+  },
+  {
+   "name": "马延器",
+   "role": "进贡正使耳目官"
+  },
+  {
+   "name": "王可法",
+   "role": "副使正议大夫"
+  },
+  {
+   "name": "郑士纶",
+   "role": "都通事官"
+  }
+ ],
+ "places": [
+  "琉球国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24306,
+ "page_range": "498-499"
+}

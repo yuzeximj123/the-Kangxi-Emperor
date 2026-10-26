@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "二十八日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "工部奏偏沅巡抚金玺应解四十年分桥杉等木动支正项采买，康熙令派贤能司官到时即行验收，严禁勒索迟延。",
+ "people": [
+  {
+   "name": "金玺",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20319,
+ "page_range": "416-417"
+}

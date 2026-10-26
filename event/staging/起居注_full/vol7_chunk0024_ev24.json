@@ -1,0 +1,27 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "十六日乙丑",
+ "event_role": "河工水利",
+ "summary": "总河张鹏翮奏请徐州至清口停筑石塌，康熙帝言黄河水势无定，筑堤逼水归故道恐致冲决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "徐州",
+  "清口",
+  "黄河",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2424,
+ "page_range": "59-60"
+}

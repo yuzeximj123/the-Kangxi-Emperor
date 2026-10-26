@@ -1,0 +1,48 @@
+{
+ "date_raw": "康熙四十四年",
+ "reign_year": 44,
+ "month": null,
+ "day": null,
+ "event_role": "弹劾参奏",
+ "summary": "王鸿绪密奏黄纯祐包揽捐马加价舞弊及张霖私盐、李秀行贿等事，请康熙体察裁夺。",
+ "people": [
+  {
+   "name": "王鸿绪",
+   "role": "奏报人"
+  },
+  {
+   "name": "黄纯祐",
+   "role": "涉及人物"
+  },
+  {
+   "name": "张霖",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李光地",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李秀",
+   "role": "涉及人物"
+  },
+  {
+   "name": "殷德布",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "北直"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示无心访查，并称早知李秀之名及其为匪类，不便记写。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "151",
+ "source_title": "工部尚书王鸿绪奏陈黄纯祐包捐马价有弊并张霖私盐事折",
+ "order_index": 112
+}

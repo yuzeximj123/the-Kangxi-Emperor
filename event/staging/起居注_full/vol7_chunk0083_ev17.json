@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十四日乙丑",
+ "event_role": "司法案件",
+ "summary": "刑部题牛有功打死杨三拟绞，康熙帝以其擒盗致死从宽免死，照例减等发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛有功",
+   "role": "巡逻者"
+  },
+  {
+   "name": "杨三",
+   "role": "盗马贼"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8317,
+ "page_range": "177-178"
+}

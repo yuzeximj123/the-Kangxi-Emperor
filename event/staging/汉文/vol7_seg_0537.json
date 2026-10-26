@@ -1,0 +1,33 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "山西太原总兵官金国正奏谢康熙帝赏赐鹿肉，并叙述率属官郊迎、设香案望阙叩谢天恩之事。",
+ "people": [
+  {
+   "name": "金国正",
+   "role": "镇守山西太原等处地方总兵官署都督佥事"
+  },
+  {
+   "name": "安明",
+   "role": "拾把擡把总"
+  },
+  {
+   "name": "李良",
+   "role": "家人"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "镇守山西太原等处地方总兵官金国正奏谢天恩摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2544",
+ "order_index": 537
+}

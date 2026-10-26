@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初十日辛丑",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝赐安南国王黎维祯及进贡正使阮公基、副使黎英俊等蟒缎等物有差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黎维祯",
+   "role": "安南国王"
+  },
+  {
+   "name": "阮公基",
+   "role": "进贡正使"
+  },
+  {
+   "name": "黎英俊",
+   "role": "进贡副使"
+  }
+ ],
+ "places": [
+  "安南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13227,
+ "page_range": "275-276"
+}

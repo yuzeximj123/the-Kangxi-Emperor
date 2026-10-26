@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "二十七日丙申",
+ "event_role": "谕旨决策",
+ "summary": "议福建总督姚启圣奏招抚台湾贼众事，康熙帝认为不许投诚恐其窜处外国生事，不如抚之为善。",
+ "people": [
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20805,
+ "page_range": "459-460"
+}

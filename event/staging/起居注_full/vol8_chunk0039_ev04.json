@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "初二日两子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝问学士邹士事湖广荒田情况，邹士事奏湖北无荒田、湖南亦不至如此之多。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邹士事",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "湖广",
+  "湖北",
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3904,
+ "page_range": "89-90"
+}

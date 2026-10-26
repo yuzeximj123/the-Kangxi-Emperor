@@ -1,0 +1,27 @@
+{
+ "reign_year": 17,
+ "month": 9,
+ "day_text": "初十日成申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝随太皇太后前往遵化温泉，出神武门，在京王以下文武各官跪送，至平家潭驻跸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  }
+ ],
+ "places": [
+  "遵化温泉",
+  "神武门",
+  "东直门",
+  "平家潭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17000,
+ "page_range": "397-398"
+}

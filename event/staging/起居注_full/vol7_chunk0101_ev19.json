@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "二十九日丁效",
+ "event_role": "人事任免",
+ "summary": "盛京户部侍郎董俄罗、工部侍郎席勒图赴任入请训旨，康熙帝命往盛京严察官员办事，使朝参习射及围猎不得有误。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董俄罗",
+   "role": "盛京户部侍郎"
+  },
+  {
+   "name": "席勒图",
+   "role": "工部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10119,
+ "page_range": "213-214"
+}

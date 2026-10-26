@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "给事中摩罗独留口奏，称吴三桂叛乱已平，建议王进宝镇守保宁、蔡航荣补云南总督并优恤绿旗兵丁。",
+ "people": [
+  {
+   "name": "摩罗",
+   "role": "给事中"
+  },
+  {
+   "name": "王进宝",
+   "role": "提督"
+  },
+  {
+   "name": "蔡航荣",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "保宁府",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9401,
+ "page_range": "231-232"
+}

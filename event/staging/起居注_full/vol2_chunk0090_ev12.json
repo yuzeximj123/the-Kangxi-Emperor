@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "初八日本已",
+ "event_role": "人事任免",
+ "summary": "巡抚慕天颜、李本晟因请展限致回空船只冻阻，部议降四级调用，康熙帝命降四级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "慕天颜",
+   "role": "巡抚"
+  },
+  {
+   "name": "李本晟",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9012,
+ "page_range": "223-224"
+}

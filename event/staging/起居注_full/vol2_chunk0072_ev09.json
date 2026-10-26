@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初六日丙戌",
+ "event_role": "司法案件",
+ "summary": "户部等题通州仓粮缺额，将监督赛纳等交刑部，康熙帝令依部议处置。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赛纳",
+   "role": "监督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7209,
+ "page_range": "187-188"
+}

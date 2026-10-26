@@ -1,0 +1,22 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "十六日两成",
+ "event_role": "奏报地方情形",
+ "summary": "湖广总督丁思孔题报运至河南荆子关米五万余石，已从河南运二万余石，今水涸难运，余存仓内俟春暖令河南巡抚运。",
+ "people": [
+  {
+   "name": "丁思孔",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [
+  "河南",
+  "荆子关",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24506,
+ "page_range": "502-503"
+}

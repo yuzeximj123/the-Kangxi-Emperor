@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初二日甲成",
+ "event_role": "军务",
+ "summary": "兵部覆山东登州总兵王文维题请添设水师营游击等官增造船只，康熙帝准行并命林洪林汇补游击。",
+ "people": [
+  {
+   "name": "王文维",
+   "role": "山东登州总兵"
+  },
+  {
+   "name": "林洪",
+   "role": "水师营游击"
+  },
+  {
+   "name": "林汇",
+   "role": "水师营游击"
+  }
+ ],
+ "places": [
+  "山东",
+  "登州",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7209,
+ "page_range": "155-156"
+}

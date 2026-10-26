@@ -1,0 +1,23 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "二十日丙午",
+ "event_role": "司法案件",
+ "summary": "覆请刑部等衙门所题云南、贵州、广西、四川四省秋审情真罪犯共九名一案。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州",
+  "广西",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18523,
+ "page_range": "381-382"
+}

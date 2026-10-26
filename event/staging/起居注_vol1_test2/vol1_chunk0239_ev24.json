@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "初七日乙未",
+ "event_role": "军务",
+ "summary": "湖南巡抚韩世琦奏请令湖南湖北官员捐修战船各四百五十只，康熙帝以船只多不坚固恐误粮饷，命该部再加详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩世琦",
+   "role": "湖南巡抚"
+  }
+ ],
+ "places": [
+  "湖南",
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23924,
+ "page_range": "535-536"
+}

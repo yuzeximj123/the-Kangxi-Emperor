@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "三法司议行劫卞大家盗犯杨二等拟斩，康熙帝询问陈鹏腾分财未同劫之罪，大学士勒德洪奏定例难移，帝命依部议并言人命重大当详慎商酌。",
+ "people": [
+  {
+   "name": "杨二",
+   "role": "盗犯"
+  },
+  {
+   "name": "陈鹏腾",
+   "role": "盗犯"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14601,
+ "page_range": "335-336"
+}

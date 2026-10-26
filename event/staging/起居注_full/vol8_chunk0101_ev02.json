@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆题劫夺商人匡三船之魏三等应斩，康熙帝命交张鹏副审明具奏。",
+ "people": [
+  {
+   "name": "魏三",
+   "role": "劫犯"
+  },
+  {
+   "name": "匡三",
+   "role": "商人"
+  },
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "张鹏副",
+   "role": "审案官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10102,
+ "page_range": "213-214"
+}

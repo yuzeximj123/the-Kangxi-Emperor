@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙六十年八月初八日",
+ "reign_year": 60,
+ "month": 8,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦遵旨密查张应诏声名及两淮运使情形，奏报张应诏迂腐无能、操守不如前，盐务壅滞、私贩盛行、商皆亏本。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "张应诏",
+   "role": "两淮盐运使，被查访声名者"
+  }
+ ],
+ "places": [
+  "两淮",
+  "江广口岸"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称近日闻得张应诏声名不好。",
+ "source_title": "蘇州織造李煦奏報巡撫張應詔居官情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2953",
+ "order_index": 345
+}

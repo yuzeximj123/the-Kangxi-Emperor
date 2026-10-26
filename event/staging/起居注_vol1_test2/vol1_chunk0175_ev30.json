@@ -1,0 +1,30 @@
+{
+ "reign_year": 18,
+ "month": 1,
+ "day_text": "二十七日吴辫",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕兵部侍郎温代，闻顺承郡王因提督佟徽年侵克兵饷八百两将其拘禁，认为提督乃国家大臣，王不得私行拘禁，此事当详察。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温代",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "佟徽年",
+   "role": "提督"
+  },
+  {
+   "name": "顺承郡王",
+   "role": "大将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17530,
+ "page_range": "407-408"
+}

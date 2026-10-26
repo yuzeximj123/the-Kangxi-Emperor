@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 8,
+ "day_text": "二十八日庚辰",
+ "event_role": "其他",
+ "event_summary": "赐安南国王黎维祺表里五十匹，正使陪臣阮进材等表里绢布等物有差。",
+ "people": [
+  {
+   "name": "黎维祺",
+   "role": "安南国王"
+  },
+  {
+   "name": "阮进材",
+   "role": "正使陪臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18409,
+ "page_range": "403-404"
+}

@@ -1,0 +1,54 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "二十四日丁效",
+ "event_role": "其他",
+ "summary": "康熙帝赐内阁大学士伊桑阿、学士迈图等及兵部侍郎觉罗腻拜锥等免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "迈图",
+   "role": "学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  },
+  {
+   "name": "博济",
+   "role": "学士"
+  },
+  {
+   "name": "郭世隆",
+   "role": "学士"
+  },
+  {
+   "name": "库勒纳",
+   "role": "管翰林院事侍郎"
+  },
+  {
+   "name": "思格则",
+   "role": "侍读学士"
+  },
+  {
+   "name": "顾仪",
+   "role": "侍讲"
+  },
+  {
+   "name": "觉罗腻拜锥",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8929,
+ "page_range": "190-191"
+}

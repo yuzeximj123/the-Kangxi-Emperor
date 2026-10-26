@@ -1,0 +1,20 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "二十六日癸亥",
+ "event_role": "司法案件",
+ "summary": "兵部题总兵官许盛为贼所执复潜往九江摇惑人心，请革其总兵及拖沙喇哈番交刑部议罪。",
+ "people": [
+  {
+   "name": "许盛",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "九江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6818,
+ "page_range": "148-149"
+}

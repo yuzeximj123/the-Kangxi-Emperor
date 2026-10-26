@@ -1,0 +1,38 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "河工水利",
+ "summary": "差往看河官员图纳、张玉书、马齐、成其范、徐廷急奏请训旨，康熙帝命其从公详看据实具奏。",
+ "people": [
+  {
+   "name": "图纳",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "张玉书",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "马齐",
+   "role": "左都御史"
+  },
+  {
+   "name": "成其范",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "徐廷急",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2905,
+ "page_range": "70-71"
+}

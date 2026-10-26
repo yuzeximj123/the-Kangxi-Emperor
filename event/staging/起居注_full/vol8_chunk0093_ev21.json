@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "十九日甲申",
+ "event_role": "人事任免",
+ "summary": "大学士松柱等以散馆王敬铭等四十八人试卷分等呈览，康熙帝称今岁教习庶吉士较往年甚优，以唐建中诗文翻译俱在三等，着革退。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "王敬铭",
+   "role": "散馆庶吉士"
+  },
+  {
+   "name": "唐建中",
+   "role": "庶吉士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9321,
+ "page_range": "197-198"
+}

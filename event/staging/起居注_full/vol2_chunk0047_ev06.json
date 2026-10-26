@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "初六日己丑",
+ "event_role": "军务",
+ "summary": "贵州提督赵赖题请安龙等处三镇标下随征兵丁即充额兵、三总兵速赴任，兵部覆无容议，康熙帝命议政王、大臣会议。",
+ "people": [
+  {
+   "name": "赵赖",
+   "role": "贵州提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州",
+  "安龙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4706,
+ "page_range": "137-138"
+}

@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十五年（页码288，日期未明）",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "",
+ "event_role": "人事任免",
+ "summary": "河间府知府员缺，康熙帝令以古北口同知赵弘把补授，陈陆电另行拟补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "陈陆电",
+   "role": "户部郎中"
+  },
+  {
+   "name": "赵弘把",
+   "role": "古北口同知"
+  }
+ ],
+ "places": [
+  "河间府",
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3017
+}

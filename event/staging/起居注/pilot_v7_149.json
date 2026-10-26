@@ -1,0 +1,25 @@
+{
+ "date_raw": "初六日",
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初六日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将五城官员、九门提督、府尹交都察院严加议处，以查拿小钱不力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "五城",
+  "九门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3149
+}

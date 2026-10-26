@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "二十日",
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官阿尔法、钱名世记录。",
+ "people": [
+  {
+   "name": "阿尔法",
+   "role": "起居注官"
+  },
+  {
+   "name": "钱名世",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10606,
+ "page_range": "223-224"
+}

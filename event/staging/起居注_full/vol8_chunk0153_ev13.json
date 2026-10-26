@@ -1,0 +1,27 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部覆两淮盐课御史李陈常题修筑瓜州花园港并息浪庵堤岸发银事，康熙指出银项来源不明，令查明再议。",
+ "people": [
+  {
+   "name": "李陈常",
+   "role": "巡视两淮盐课监察御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瓜州",
+  "花园港",
+  "息浪庵",
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15313,
+ "page_range": "317-318"
+}

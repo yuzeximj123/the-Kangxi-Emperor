@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "十六日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责傅继祖既有送来而不呈览，并称《资治通鉴》等书多从内庭翻译颁发，祭文碑文皆朕指示。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅继祖",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1124,
+ "page_range": "32-33"
+}

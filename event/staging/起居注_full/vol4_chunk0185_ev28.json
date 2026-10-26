@@ -1,0 +1,32 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "十六日丙申",
+ "event_role": "司法案件",
+ "summary": "刑部题覆贵州巡抚卫既齐疏称张延龄案内铜元宝追赔事，康熙帝以未审实据、不应向已故李超家属追赔，令回京时批发。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卫既齐",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "张延龄",
+   "role": "革职游击"
+  },
+  {
+   "name": "李超",
+   "role": "已故总兵"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18528,
+ "page_range": "382-383"
+}

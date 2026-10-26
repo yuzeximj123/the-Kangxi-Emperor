@@ -1,0 +1,44 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": "初八日乙未",
+ "event_role": "司法案件",
+ "summary": "理藩院覆请土默特沙克都尔杀死沙木巴等案，康熙帝改沙克都尔为斩监候，余依议。",
+ "people": [
+  {
+   "name": "沙木巴",
+   "role": "小校"
+  },
+  {
+   "name": "沙克都尔",
+   "role": "案犯"
+  },
+  {
+   "name": "噶尔麻",
+   "role": "沙木巴家人"
+  },
+  {
+   "name": "塞棱",
+   "role": "从犯"
+  },
+  {
+   "name": "丹津",
+   "role": "土默特都统"
+  },
+  {
+   "name": "倭赫",
+   "role": "归化城都统"
+  },
+  {
+   "name": "费扬社",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17718,
+ "page_range": "365-366"
+}

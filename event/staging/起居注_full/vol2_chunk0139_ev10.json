@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十五日庚寅",
+ "event_role": "弹劾参奏",
+ "summary": "革职周昌疏辨并条陈开海运，康熙帝斥其狂妄不肖，令条奏发还、辨本交部严察议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "周昌",
+   "role": "原任山东登莱道"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13910,
+ "page_range": "321-322"
+}

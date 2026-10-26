@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题捕役左相打死窃盗杨大拟绞监候，康熙帝命左相从宽免死照例减等完结。",
+ "people": [
+  {
+   "name": "左相",
+   "role": "捕役"
+  },
+  {
+   "name": "杨大",
+   "role": "窃盗"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16806,
+ "page_range": "347-348"
+}

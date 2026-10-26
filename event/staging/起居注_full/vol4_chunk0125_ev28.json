@@ -1,0 +1,20 @@
+{
+ "reign_year": 29,
+ "month": 6,
+ "day_text": "初一日庚寅",
+ "event_role": "军务",
+ "summary": "兵部题京口将军张思堆病请，以折本请旨。",
+ "people": [
+  {
+   "name": "张思堆",
+   "role": "京口将军"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12528,
+ "page_range": "262-263"
+}

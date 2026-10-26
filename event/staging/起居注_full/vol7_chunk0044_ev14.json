@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "二十日丙申",
+ "event_role": "谕旨决策",
+ "summary": "御史李发甲条奏云南省进士请均其数，康熙帝以不可因人定数，命云南等省不必照人数定额。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李发甲",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "云南",
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4414,
+ "page_range": "99-100"
+}

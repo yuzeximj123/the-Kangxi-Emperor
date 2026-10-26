@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "十六日己雍",
+ "event_role": "司法案件",
+ "summary": "湖广巡抚王新命题差陈志策等捕盗时射死二人伤六人，刑部议斩，康熙帝以该抚未详审命另审具奏。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "陈志策",
+   "role": "差官"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4811,
+ "page_range": "139-140"
+}

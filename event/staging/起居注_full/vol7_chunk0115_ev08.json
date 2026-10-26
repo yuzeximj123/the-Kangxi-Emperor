@@ -1,0 +1,40 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "马齐等奏湖广总督石文晟引疾乞休，康熙帝谕待赵申乔、俞益谟议覆时再请旨，今二人已故，令梅鋗、二格验病后再请旨。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "石文晟",
+   "role": "湖广总督"
+  },
+  {
+   "name": "赵申乔",
+   "role": "巡抚"
+  },
+  {
+   "name": "俞益谟",
+   "role": "提督"
+  },
+  {
+   "name": "梅鋗",
+   "role": "都御史"
+  },
+  {
+   "name": "二格",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11508,
+ "page_range": "241-242"
+}

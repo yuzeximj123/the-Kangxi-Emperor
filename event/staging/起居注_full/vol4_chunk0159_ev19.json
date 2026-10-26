@@ -1,0 +1,20 @@
+{
+ "reign_year": 30,
+ "month": 8,
+ "day_text": "二十三日乙巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸横河额欠额林臣家。",
+ "people": [
+  {
+   "name": "额林臣",
+   "role": "家主"
+  }
+ ],
+ "places": [
+  "横河额欠额林臣家"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15919,
+ "page_range": "330-331"
+}

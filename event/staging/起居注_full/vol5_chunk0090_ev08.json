@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "二十二日庚辰",
+ "event_role": "军务",
+ "summary": "康熙帝率皇太子及诸皇子披甲，遍观八旗官兵及火器营军容，令吹海螺鸣鼓进兵，九次发炮放枪，第十次连发连环鸟枪，进退回环皆听金鼓之节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9008,
+ "page_range": "190-191"
+}

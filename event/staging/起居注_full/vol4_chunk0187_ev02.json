@@ -1,0 +1,27 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命该部速议郭世隆所请，并令查明通州以东至山海关各庄屯米谷数目，照时价发出布散，以益青黄不接之民生。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭世隆",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "通州",
+  "山海关",
+  "永平",
+  "玉田"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18702,
+ "page_range": "386-387"
+}

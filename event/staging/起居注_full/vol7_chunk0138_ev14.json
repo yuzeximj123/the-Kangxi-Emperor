@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "初八日壬戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕方略内有圈点遗漏者皆以朱笔增补，将出征有劳绩之台吉德木椿增入，并查改皇太子率诸大臣迎驾之日错误。",
+ "people": [
+  {
+   "name": "德木椿",
+   "role": "台吉"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13814,
+ "page_range": "287-288"
+}

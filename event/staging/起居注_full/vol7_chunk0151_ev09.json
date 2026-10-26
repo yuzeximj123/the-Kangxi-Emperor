@@ -1,0 +1,25 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问大岚山为何，张玉书奏称即四明山中之一山。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "大岚山",
+  "四明山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15109,
+ "page_range": "313-314"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙称浙江提督吴升、湖广提督高其位、宁夏总兵官范时捷等于军饥皆清楚。",
+ "people": [
+  {
+   "name": "吴升",
+   "role": "浙江提督"
+  },
+  {
+   "name": "高其位",
+   "role": "湖广提督"
+  },
+  {
+   "name": "范时捷",
+   "role": "宁夏总兵官"
+  }
+ ],
+ "places": [
+  "浙江",
+  "湖广",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21403,
+ "page_range": "439-440"
+}

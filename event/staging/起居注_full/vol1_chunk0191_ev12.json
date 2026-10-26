@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 8,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "温代奏论吴三桂原系良民既反叛则为贼，并言吴三桂贼兵未到而江西等省人民反叛于建昌、饶州等处抗敌满洲。",
+ "people": [
+  {
+   "name": "温代",
+   "role": "兵部右侍郎"
+  },
+  {
+   "name": "吴三桂",
+   "role": "叛臣"
+  }
+ ],
+ "places": [
+  "江西",
+  "建昌",
+  "饶州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19112,
+ "page_range": "439-440"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙称张鹏翮为浙江巡抚时七年钱粮全完，马齐为山西巡抚时亦全完，今山西巡抚苏克济完本年及礼部亏空钱粮。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "前浙江巡抚"
+  },
+  {
+   "name": "马齐",
+   "role": "前山西巡抚"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "浙江",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1106,
+ "page_range": "33-34"
+}

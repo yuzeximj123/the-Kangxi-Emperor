@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 9,
+ "day_text": "二十二日成辰",
+ "event_role": "朝见受贺",
+ "summary": "陕西固原提督李林隆陛辞请训旨，康熙帝谕以训练士卒、惠爱百姓、谨守地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李林隆",
+   "role": "陕西固原提督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "固原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20716,
+ "page_range": "426-427"
+}

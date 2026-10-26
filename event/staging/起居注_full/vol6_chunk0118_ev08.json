@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙驻足冰豁，谕侍郎常寿、巡抚李光地、原任总河王新命等，因河被沙淤而高，命因低洼另滩河身，取滩河身之土修南岸并立桩声，令详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "侍郎"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "王新命",
+   "role": "原任河道总督"
+  }
+ ],
+ "places": [
+  "冰豁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11808,
+ "page_range": "246-247"
+}

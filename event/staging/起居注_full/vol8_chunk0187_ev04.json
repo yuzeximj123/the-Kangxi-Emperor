@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "户部议覆偏沅巡抚李发甲请销算赈济安乡等四县灾民米石，康熙帝疑仓粮不实借端销除，命再加确议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李发甲",
+   "role": "偏沅巡抚"
+  }
+ ],
+ "places": [
+  "安乡",
+  "永兴",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18704,
+ "page_range": "385-386"
+}

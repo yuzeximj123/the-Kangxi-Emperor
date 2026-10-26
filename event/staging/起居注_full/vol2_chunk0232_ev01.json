@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题强盗袁仲英等拟立斩，康熙帝以叶屎妹年仅十五、被哄诱入伙，命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "袁仲英",
+   "role": "强盗"
+  },
+  {
+   "name": "陈变光",
+   "role": "强盗"
+  },
+  {
+   "name": "何亚晚",
+   "role": "强盗"
+  },
+  {
+   "name": "叶屎妹",
+   "role": "强盗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23201,
+ "page_range": "507-508"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "康熙帝引孔子“民无信不立”之语问起居注官法良、揆叙，二人奏称皇上论极是。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "法良",
+   "role": "起居注官"
+  },
+  {
+   "name": "揆叙",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 703,
+ "page_range": "25-26"
+}

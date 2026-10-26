@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "二十日己本",
+ "event_role": "贸易漕运",
+ "summary": "户部题甘肃巡抚舒书奏称以茶换马与定例数目相合应销算，康熙帝询问以茶换马之事并令将此事从前查至五年具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "舒书",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8604,
+ "page_range": "182-183"
+}

@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙四十七年四月初三日",
+ "reign_year": 47,
+ "month": 4,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "陕西提督潘育龙因年老不能扈从康熙南巡阅河，遣家人代向皇上请安。",
+ "people": [
+  {
+   "name": "潘育龙",
+   "role": "奏报人"
+  },
+  {
+   "name": "张应诏",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "陕西",
+  "淮河",
+  "江浙",
+  "山左"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知自己身体安善，江浙、山东麦已成熟丰收，甚感宽慰。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "329",
+ "source_title": "陕西提督潘育龙奏请圣安摺",
+ "order_index": 168
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "二十八日本未",
+ "event_role": "人事任免",
+ "summary": "兵部题京口、黄岩总兵官员缺，康熙帝命徐九如补授黄岩总兵官，京口设副将并问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "林本植",
+   "role": "江南京口总兵官"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "黄岩总兵官"
+  },
+  {
+   "name": "管元忠",
+   "role": "参领"
+  },
+  {
+   "name": "徐九如",
+   "role": "拟补总兵官"
+  }
+ ],
+ "places": [
+  "京口",
+  "黄岩"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24315,
+ "page_range": "496-497"
+}

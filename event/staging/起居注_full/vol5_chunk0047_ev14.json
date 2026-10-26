@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "二十七日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕苏赫纳等：自右卫看起至归化城，详慎看定应设屯庄、所得米谷、修造房屋木植取用之处具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏赫纳",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "右卫",
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4714,
+ "page_range": "104-105"
+}

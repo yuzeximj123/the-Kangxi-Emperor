@@ -1,0 +1,29 @@
+{
+ "reign_year": 18,
+ "month": 2,
+ "day_text": "初二日本卯",
+ "event_role": "朝见受贺",
+ "summary": "抚远大将军公图海以请陛见自陕西军中至京，康熙帝遣礼部侍郎额星格携茶酒出德胜门迎劳。",
+ "people": [
+  {
+   "name": "图海",
+   "role": "抚远大将军公"
+  },
+  {
+   "name": "额星格",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "德胜门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17609,
+ "page_range": "409-410"
+}

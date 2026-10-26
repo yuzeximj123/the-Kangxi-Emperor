@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 4,
+ "day_text": "二十二日成子",
+ "event_role": "谕旨决策",
+ "summary": "户部题议漕运船只过淮违限官员，康熙帝以亲见江南水浅、瓜州口船只壅塞为由，免察取各官职名处分。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "丹阳",
+  "瓜州口",
+  "江西",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7103,
+ "page_range": "154-155"
+}

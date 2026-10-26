@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "二十二日丁丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补起居注馆主事员缺，拟尹达礼、胡住，康熙帝询问才学后命将应升官员一同考试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尹达礼",
+   "role": "国子监助教拟正"
+  },
+  {
+   "name": "胡住",
+   "role": "中书科中书拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1713,
+ "page_range": "77-78"
+}

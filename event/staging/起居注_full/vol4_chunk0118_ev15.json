@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 4,
+ "day_text": "二十日辛巳",
+ "event_role": "谕旨决策",
+ "summary": "户部侍郎阿山奏宝泉局一年收用铜斤细册，康熙帝斥其钱法流弊、委任属官，阿山认罪请竭力勤慎。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "节温代",
+   "role": "官员"
+  },
+  {
+   "name": "额库里",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11815,
+ "page_range": "248-249"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "初六日甲午",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝复御乾清门，赐进贡吴喇武部落四品台吉昂阿尔处尔等茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "昂阿尔处尔",
+   "role": "吴喇武部落四品台吉"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23921,
+ "page_range": "535-536"
+}

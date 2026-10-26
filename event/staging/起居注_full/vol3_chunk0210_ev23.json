@@ -1,0 +1,29 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "初四日王子",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏毕，九卿、詹事、科、道启奏会推山东巡抚郎永清病故员缺，正拟副都御史徐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郎永清",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "徐",
+   "role": "副都御史"
+  }
+ ],
+ "places": [
+  "山东",
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21023,
+ "page_range": "455-456"
+}

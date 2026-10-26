@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "初六日庚戌",
+ "event_role": "人事任免",
+ "summary": "刑部尚书郭四海奏请以王民新顶补镶蓝旗员外郎缺，康熙帝询问其为人后允准。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭四海",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "阿林",
+   "role": "拟正中书"
+  },
+  {
+   "name": "张廷柱",
+   "role": "拟陪主事"
+  },
+  {
+   "name": "王民新",
+   "role": "裁缺员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14411,
+ "page_range": "331-332"
+}

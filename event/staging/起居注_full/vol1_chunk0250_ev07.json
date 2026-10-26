@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问席格出身，席格奏由荫生出身，康熙帝对伊桑阿称席格在荫生中颇堪用，伊桑阿亦奏其人足用。",
+ "people": [
+  {
+   "name": "席格",
+   "role": "员外郎"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25007,
+ "page_range": "557-558"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 9,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "大学士松柱奏盛京刑部侍郎瓦尔达等将王任太等所欠银两互相推诿不行赔偿情由题参，已批发，今王任太等呈子请旨交何处。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "瓦尔达",
+   "role": "盛京刑部侍郎"
+  },
+  {
+   "name": "王任太",
+   "role": "被参人"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10706,
+ "page_range": "225-226"
+}

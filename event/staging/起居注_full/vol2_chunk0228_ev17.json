@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十四日辛亥",
+ "event_role": "弹劾参奏",
+ "summary": "副都御史马世济参总督于成龙、中军副将田万侯事，明珠就此奏对。",
+ "people": [
+  {
+   "name": "马世济",
+   "role": "副都御史"
+  },
+  {
+   "name": "于成龙",
+   "role": "总督"
+  },
+  {
+   "name": "田万侯",
+   "role": "中军副将"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22817,
+ "page_range": "499-500"
+}

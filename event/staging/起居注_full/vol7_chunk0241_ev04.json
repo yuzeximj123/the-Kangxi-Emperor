@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部汇题陈五免死发遣给胡世塔为奴，陈五随胡世塔来京后留逃人陈二之妻为妻，应发宁古塔正法。",
+ "people": [
+  {
+   "name": "陈五",
+   "role": "胡世塔家人"
+  },
+  {
+   "name": "胡世塔",
+   "role": "蓝翎"
+  },
+  {
+   "name": "陈二",
+   "role": "逃人"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24104,
+ "page_range": "493-494"
+}

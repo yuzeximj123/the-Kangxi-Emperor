@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙五十三年十月初九日",
+ "reign_year": 53,
+ "month": 10,
+ "day": 9,
+ "event_role": "请安谢恩",
+ "summary": "福州将军祖良璧奏谢皇上赏赐风干鹿肉条，表示感恩并愿竭犬马以报皇恩。",
+ "people": [
+  {
+   "name": "祖良璧",
+   "role": "福州将军世袭头等精奇尼哈番加二级，奏谢赏赐者"
+  },
+  {
+   "name": "黄道理",
+   "role": "祖良璧家人，赍捧赏赐物品到闽"
+  },
+  {
+   "name": "黄通理",
+   "role": "祖良璧家人，赍摺进呈"
+  }
+ ],
+ "places": [
+  "福州",
+  "闽",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示皇帝已阅知此事。",
+ "source_title": "福州將軍祖良璧奏謝賞賜食品摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1665",
+ "order_index": 305
+}

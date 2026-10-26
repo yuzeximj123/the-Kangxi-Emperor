@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "十九日乙效",
+ "event_role": "议政听政",
+ "summary": "议政大臣阅费扬古奏，议称所行甚善，俟至合金再奏，今无庸议；康熙帝令再议应否守候车辆前行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  }
+ ],
+ "places": [
+  "合金"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10711,
+ "page_range": "224-225"
+}

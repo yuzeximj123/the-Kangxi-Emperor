@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "居良路都司霍威等、延庆州知州武登科等来朝。",
+ "people": [
+  {
+   "name": "霍威",
+   "role": "居良路都司"
+  },
+  {
+   "name": "武登科",
+   "role": "延庆州知州"
+  }
+ ],
+ "places": [
+  "居良路",
+  "延庆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18701,
+ "page_range": "384-385"
+}

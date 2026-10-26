@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆山西巡抚苏克济所题程世英打死大功兄程世荣拟即行处斩一案，康熙以程世荣先辱骂撞击、程世英还击，命改为秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "程世英",
+   "role": "案犯"
+  },
+  {
+   "name": "程世荣",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11405,
+ "page_range": "239-240"
+}

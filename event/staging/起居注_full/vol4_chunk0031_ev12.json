@@ -1,0 +1,33 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "二十一日壬辰",
+ "event_role": "谕旨决策",
+ "summary": "诸王大臣奏请停止康熙帝往谒太皇太后梓宫，康熙帝以查看宫殿工程为由未允。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诸王",
+   "role": "宗室"
+  },
+  {
+   "name": "贝勒",
+   "role": "宗室"
+  },
+  {
+   "name": "大臣",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "瀛台勤政殿",
+  "暂安奉殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3112,
+ "page_range": "74-75"
+}

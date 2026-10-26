@@ -1,0 +1,34 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "将声名不好的李成略、喜宸蒜、张丙厚、王克昌等九卿诸臣俱革职。",
+ "people": [
+  {
+   "name": "李成略",
+   "role": "户部郎中"
+  },
+  {
+   "name": "喜宸蒜",
+   "role": "官员"
+  },
+  {
+   "name": "张丙厚",
+   "role": "官员"
+  },
+  {
+   "name": "王克昌",
+   "role": "工部郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21103,
+ "page_range": "433-434"
+}

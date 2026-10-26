@@ -1,0 +1,34 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "初九日庚午",
+ "event_role": "人事任免",
+ "summary": "吏部题太常寺正卿钱齐保员缺，拟鄂海为正、满都为陪，康熙帝以鸿胪寺正卿席哈纳谨慎诚实，升补太常寺正卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "鄂海",
+   "role": "布政司"
+  },
+  {
+   "name": "满都",
+   "role": "学士"
+  },
+  {
+   "name": "席哈纳",
+   "role": "鸿胪寺正卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15616,
+ "page_range": "322-323"
+}

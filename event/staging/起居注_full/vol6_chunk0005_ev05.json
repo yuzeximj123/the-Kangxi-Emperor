@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝历问提镇副将诸臣贤否，张鹏翮奏称武臣中无人出提督金世荣之右，康熙帝称金世荣居官诚善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "臣工"
+  },
+  {
+   "name": "金世荣",
+   "role": "提督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 505,
+ "page_range": "20-21"
+}

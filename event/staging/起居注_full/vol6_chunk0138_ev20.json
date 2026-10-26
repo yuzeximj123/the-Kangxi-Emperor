@@ -1,0 +1,34 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "初十日甲成",
+ "event_role": "河工水利",
+ "summary": "康熙帝往阅永定河修筑处，问李光地等河水东流是否妨运道，李光地奏请建闸并令刘德芳监筑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "朝奇",
+   "role": "分司"
+  },
+  {
+   "name": "刘德芳",
+   "role": "巡道"
+  }
+ ],
+ "places": [
+  "永定河",
+  "三圣口",
+  "柳岔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13820,
+ "page_range": "286-287"
+}

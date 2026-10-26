@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初一日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝认为此案发回巡抚仍照前审拟难以明白，着差部院堂官一员带陈许去审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "陈许",
+   "role": "科臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 407,
+ "page_range": "19-20"
+}

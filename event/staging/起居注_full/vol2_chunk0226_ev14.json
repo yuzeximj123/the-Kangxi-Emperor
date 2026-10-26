@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "二十七日乙未",
+ "event_role": "司法案件",
+ "summary": "会议护军参领瓦尔大在广西遗失大炮应降二级以功罪相抵免议，康熙帝令察明其永兴败阵旧案具奏。",
+ "people": [
+  {
+   "name": "瓦尔大",
+   "role": "护军参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西",
+  "永兴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22614,
+ "page_range": "495-496"
+}

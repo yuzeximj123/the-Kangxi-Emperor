@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初五日辛丑",
+ "event_role": "军务",
+ "summary": "川陕总督希福请驻西安并分兵戍汉中，康熙主张分拨保宁驻防，命明珠等会同兵部议之。",
+ "people": [
+  {
+   "name": "希福",
+   "role": "川陕总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "西安",
+  "汉中",
+  "保宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 510,
+ "page_range": "45-46"
+}

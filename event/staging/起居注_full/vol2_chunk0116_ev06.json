@@ -1,0 +1,20 @@
+{
+ "reign_year": 21,
+ "month": 3,
+ "day_text": "十九日丁卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝行围，射杀四虎，驻跸夸兰河地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "夸兰河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11606,
+ "page_range": "275-276"
+}

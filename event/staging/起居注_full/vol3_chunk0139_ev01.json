@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "赐朝鲜国王李焞及进贡正使朗原君李侃、副使李选等鞍马、表里、彩缎、貂皮、银两布匹等物有差。",
+ "people": [
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "李侃",
+   "role": "进贡正使朗原君"
+  },
+  {
+   "name": "李选",
+   "role": "副使议政府左参赞"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13901,
+ "page_range": "313-314"
+}

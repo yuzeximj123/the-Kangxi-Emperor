@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初五日壬辰",
+ "event_role": "人事任免",
+ "event_summary": "兵部题舟山总兵官吴英升任员缺，康熙命黄大来调补，黄大来员缺着康调元调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴英",
+   "role": "舟山总兵官"
+  },
+  {
+   "name": "黄大来",
+   "role": "调补舟山总兵官"
+  },
+  {
+   "name": "康调元",
+   "role": "调补黄大来员缺"
+  }
+ ],
+ "places": [
+  "舟山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11111,
+ "page_range": "257-258"
+}

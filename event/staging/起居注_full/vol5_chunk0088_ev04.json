@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初五日癸北",
+ "event_role": "人事任免",
+ "summary": "詹事府论德费雅汉等五员年老不能行走，部议原品休致，康熙帝询问后依议。",
+ "people": [
+  {
+   "name": "费雅汉",
+   "role": "詹事府论德"
+  },
+  {
+   "name": "傅尔哈",
+   "role": "詹事府论德"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅继祖",
+   "role": "学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8804,
+ "page_range": "186-187"
+}

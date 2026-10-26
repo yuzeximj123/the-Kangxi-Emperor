@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十日乙亥",
+ "event_role": "人事任免",
+ "summary": "兵部覆川陕总督身泰题请兰州副将李元泊在任守制不准行，康熙帝准李元泊留在任守制。",
+ "people": [
+  {
+   "name": "身泰",
+   "role": "川陕总督"
+  },
+  {
+   "name": "李元泊",
+   "role": "兰州副将"
+  }
+ ],
+ "places": [
+  "兰州",
+  "川陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19017,
+ "page_range": "391-392"
+}

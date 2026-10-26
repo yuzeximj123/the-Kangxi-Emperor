@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十七年七月二十日",
+ "reign_year": 57,
+ "month": 7,
+ "day": 20,
+ "event_role": "奏报地方情形",
+ "summary": "安徽巡抚李成龙奏报所属安徽等地麦收后雨泽及时，早稻已收、晚禾杂粮畅茂，惟岩宁二属山多之处山水骤发淹及民田，现正查勘抚绥，并进呈土物。",
+ "people": [
+  {
+   "name": "李成龙",
+   "role": "安徽巡抚，奏报人"
+  },
+  {
+   "name": "杨成",
+   "role": "千总，赍捧奏折"
+  },
+  {
+   "name": "周宁",
+   "role": "家人，赍捧奏折"
+  }
+ ],
+ "places": [
+  "安徽",
+  "岩宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "安徽巡撫李成龍奏報安慶等府屬得雨情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2664",
+ "order_index": 97
+}

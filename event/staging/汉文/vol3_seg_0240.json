@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十年九月十五日",
+ "reign_year": 50,
+ "month": 9,
+ "day": 15,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报在波罗河屯迎驾后回南，行至泰安州收到家人送来的苏州晴雨录及洞庭橘子，特进呈御览。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人（臣）"
+  },
+  {
+   "name": "曹寅",
+   "role": "题名所署江寧織造"
+  }
+ ],
+ "places": [
+  "波罗河屯",
+  "泰安州",
+  "苏州",
+  "洞庭"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧織造曹寅奏陳設法補完兩淮虧空摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 240
+}

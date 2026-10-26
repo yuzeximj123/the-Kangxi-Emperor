@@ -1,0 +1,22 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "初四日壬辰",
+ "event_role": "起居注官记录",
+ "summary": "记录当日起居注官为把叙、查异。",
+ "people": [
+  {
+   "name": "把叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "查异",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18007,
+ "page_range": "370-371"
+}

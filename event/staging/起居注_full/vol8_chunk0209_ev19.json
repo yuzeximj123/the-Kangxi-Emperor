@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "理藩院议黑龙江将军拖留题巴尔胡等附索伦达古里佐领下捕貂纳官应如所请，康熙帝以巴尔胡汉仗好不可群聚，命议政大臣议奏。",
+ "people": [
+  {
+   "name": "拖留",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "巴尔胡",
+   "role": "索伦达古里佐领下人"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "索伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20919,
+ "page_range": "429-430"
+}

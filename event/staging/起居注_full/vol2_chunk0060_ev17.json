@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "十二日癸巳",
+ "event_role": "司法案件",
+ "summary": "宗人府题闲散宗室宝住叩阍称其祖赖木布原系奉恩将军，没后父赖虎承袭，因鳌拜等罪牵累。",
+ "people": [
+  {
+   "name": "宝住",
+   "role": "闲散宗室"
+  },
+  {
+   "name": "赖木布",
+   "role": "奉恩将军"
+  },
+  {
+   "name": "赖虎",
+   "role": "承袭者"
+  },
+  {
+   "name": "鳌拜",
+   "role": "罪臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6017,
+ "page_range": "163-164"
+}

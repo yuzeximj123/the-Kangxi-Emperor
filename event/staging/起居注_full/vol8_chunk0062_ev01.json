@@ -1,0 +1,38 @@
+{
+ "reign_year": 53,
+ "month": 6,
+ "day_text": "初六日两子",
+ "event_role": "人事任免",
+ "summary": "吏部题补甘肃巡抚岳拜员缺，康熙以绰奇补授甘肃巡抚。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "绰奇",
+   "role": "户部侍郎兼管学士，补授甘肃巡抚"
+  },
+  {
+   "name": "岳拜",
+   "role": "原甘肃巡抚"
+  },
+  {
+   "name": "鄂海",
+   "role": "前西安巡抚"
+  },
+  {
+   "name": "歼升元",
+   "role": "内阅学士"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "西安",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6201,
+ "page_range": "135-136"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就江南学院李振裕、御史许三礼条奏先贤先儒从祀位次事，谕定位次应视道德行谊，不可据师弟为定例，并斥明末师生同年怀私标榜之风。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "学士"
+  },
+  {
+   "name": "李振裕",
+   "role": "江南学院"
+  },
+  {
+   "name": "许三礼",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18205,
+ "page_range": "399-400"
+}

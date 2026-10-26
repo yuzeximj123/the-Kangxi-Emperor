@@ -1,0 +1,37 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初八日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "马齐等奏两广亏空盐课问九卿，康熙命行文该抚查明具奏，并交新任巡抚范时崇等据实查明拖欠数目严追。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "范时崇",
+   "role": "新任巡抚"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "广东提督"
+  },
+  {
+   "name": "华善",
+   "role": "巡盐御史"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两广",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10912,
+ "page_range": "229-230"
+}

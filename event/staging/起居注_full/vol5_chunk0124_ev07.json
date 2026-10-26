@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "理藩院奏拖陵地方所留喀喇沁公沙木巴喇锡旗下赶车步兵共六百五十人，现到六十八人无口粮，请以噶礼所运米粮给与，后至者视米粮情况支给。",
+ "people": [
+  {
+   "name": "沙木巴喇锡",
+   "role": "公"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "拖陵地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12407,
+ "page_range": "258-259"
+}

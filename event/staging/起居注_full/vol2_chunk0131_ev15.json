@@ -1,0 +1,22 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "初七日壬子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝由午门出正阳门，幸南郊晾鹰台，试诸王、八旗大臣官员马匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "南郊晾鹰台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13115,
+ "page_range": "305-306"
+}

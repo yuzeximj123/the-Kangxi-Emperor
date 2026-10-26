@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 7,
+ "day_text": "十五日乙西",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝召福建水师提督施琅至乾清门赐食，复召至乾清宫，谕其尽心任使、敬慎保全功名，施琅奏谢。",
+ "people": [
+  {
+   "name": "施琅",
+   "role": "福建水师提督、靖海将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3519,
+ "page_range": "82-83"
+}

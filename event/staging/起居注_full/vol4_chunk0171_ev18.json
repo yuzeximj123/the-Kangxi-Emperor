@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "十七日丁卯",
+ "event_role": "朝见受贺",
+ "summary": "荆州将军莽吉禄陛辞请训，康熙帝谕以和睦兵民、勿偏徇扰民、加意训练官兵、相机行事。",
+ "people": [
+  {
+   "name": "莽吉禄",
+   "role": "荆州将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17118,
+ "page_range": "354-355"
+}

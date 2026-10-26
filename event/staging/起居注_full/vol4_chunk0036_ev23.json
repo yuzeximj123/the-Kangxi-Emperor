@@ -1,0 +1,21 @@
+{
+ "reign_year": 27,
+ "month": 7,
+ "day_text": "二十九日已雍",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸会岭下之榆山。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "会岭",
+  "榆山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3623,
+ "page_range": "84-85"
+}

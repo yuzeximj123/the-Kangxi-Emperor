@@ -1,0 +1,22 @@
+{
+ "reign_year": 17,
+ "month": 12,
+ "day_text": "十六日壬午",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以皇太子出痘颁诏天下。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17324,
+ "page_range": "403-404"
+}

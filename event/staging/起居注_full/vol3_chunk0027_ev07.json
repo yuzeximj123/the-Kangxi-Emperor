@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十四日己卯",
+ "event_role": "人事任免",
+ "summary": "给事中姬思哈降调员缺，正拟达哈塔、陪拟增寿，康熙帝以言官关系紧要命选择。",
+ "people": [
+  {
+   "name": "姬思哈",
+   "role": "给事中"
+  },
+  {
+   "name": "达哈塔",
+   "role": "员外郎、正拟"
+  },
+  {
+   "name": "增寿",
+   "role": "陪拟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2707,
+ "page_range": "89-90"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初一日癸丑",
+ "event_role": "弹劾参奏",
+ "summary": "江南江西总督阿山审覆监察御史傅作相疏参布政使卢崇兴私派累民等事，察审全虚，康熙帝着交该部议。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "傅作相",
+   "role": "监察御史"
+  },
+  {
+   "name": "卢崇兴",
+   "role": "布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 408,
+ "page_range": "19-20"
+}

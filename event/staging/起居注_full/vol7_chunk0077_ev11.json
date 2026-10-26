@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十四日丙申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸榆次县属石店村。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "榆次县石店村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7711,
+ "page_range": "165-166"
+}

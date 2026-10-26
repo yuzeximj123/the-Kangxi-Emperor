@@ -1,0 +1,30 @@
+{
+ "reign_year": 29,
+ "month": 9,
+ "day_text": "二十七日甲实",
+ "event_role": "人事任免",
+ "summary": "兵部题议副都统鄂莫克图应否接任，康熙帝以其有病解副都统任、仍留佐领，病痊补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "鄂莫克图",
+   "role": "副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13034,
+ "page_range": "272-273"
+}

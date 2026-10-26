@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "二十日乙亥",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸行宫，科尔沁多罗扎萨克图郡王鄂齐尔差参领吴特汉来请安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "科尔沁多罗扎萨克图郡王"
+  },
+  {
+   "name": "吴特汉",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3124
+}

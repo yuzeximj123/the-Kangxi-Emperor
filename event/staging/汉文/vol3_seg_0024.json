@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十九年八月二十二日",
+ "reign_year": 49,
+ "month": 8,
+ "day": 12,
+ "event_role": "人事任免",
+ "summary": "苏州织造李煦奏报盐法道李斯佺病危，恐将病故，恳请在其病故后另简贤员与曹寅等同心清理库帑。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "李斯佺",
+   "role": "盐法道，病危官员"
+  },
+  {
+   "name": "曹寅",
+   "role": "与李煦共同佐理库帑之员"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批称风闻库帑亏空甚多，不知尔等如何设法补完。",
+ "source_title": "蘇州織造李煦奏鹽法道李斯佺病危預請簡員佐理摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "725",
+ "order_index": 24
+}

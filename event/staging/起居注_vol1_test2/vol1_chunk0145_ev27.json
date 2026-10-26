@@ -1,0 +1,36 @@
+{
+ "reign_year": 16,
+ "month": 9,
+ "day_text": "十一日乙酉",
+ "event_role": "朝见受贺",
+ "summary": "蓟州城守营游击管都司佥书事张飞南、知州低时进、千总王哲、把总杨九会、赫向明来朝。",
+ "people": [
+  {
+   "name": "张飞南",
+   "role": "蓟州城守营游击管都司佥书事"
+  },
+  {
+   "name": "低时进",
+   "role": "蓟州知州"
+  },
+  {
+   "name": "王哲",
+   "role": "千总"
+  },
+  {
+   "name": "杨九会",
+   "role": "把总"
+  },
+  {
+   "name": "赫向明",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "蓟州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14527,
+ "page_range": "347-348"
+}

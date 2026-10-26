@@ -1,0 +1,42 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "理藩院题都统阿尔纳因不养育台吉和惠等致其流亡议革职，康熙帝令革职留任并仍养和惠等。",
+ "people": [
+  {
+   "name": "阿尔纳",
+   "role": "都统"
+  },
+  {
+   "name": "阿必达",
+   "role": "官员"
+  },
+  {
+   "name": "阿迪",
+   "role": "官员"
+  },
+  {
+   "name": "阿玉锡绰尔即",
+   "role": "官员"
+  },
+  {
+   "name": "雅克多尔即据",
+   "role": "官员"
+  },
+  {
+   "name": "和惠",
+   "role": "台吉"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8307,
+ "page_range": "176-177"
+}

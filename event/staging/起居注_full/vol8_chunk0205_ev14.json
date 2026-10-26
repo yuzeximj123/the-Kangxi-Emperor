@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 8,
+ "day_text": "初四日乙酉",
+ "event_role": "司法案件",
+ "summary": "刑部议汇题案内正蓝旗原任护军校哈尔布家人逃出为僧名恒修假刻巡抚图书化缘，拟枷号鞭责，康熙帝命发遣三姓地方再议。",
+ "people": [
+  {
+   "name": "哈尔布",
+   "role": "正蓝旗原任护军校"
+  },
+  {
+   "name": "恒修",
+   "role": "逃出为僧的家人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三姓地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20514,
+ "page_range": "421-422"
+}

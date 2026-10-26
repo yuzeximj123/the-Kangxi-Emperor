@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题太监张国栋打死二格拟绞监候，康熙帝令交刑部查照太监打死人即行正法之例查奏。",
+ "people": [
+  {
+   "name": "张国栋",
+   "role": "太监"
+  },
+  {
+   "name": "二格",
+   "role": "被害人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6903,
+ "page_range": "149-150"
+}

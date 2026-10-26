@@ -1,0 +1,37 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆请广东右翼镇标右营游击沈朝相、左营守备种彪臣员缺补授事，康熙命李顺补游击，张华引见时一并补授守备。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "广东广西总督"
+  },
+  {
+   "name": "沈朝相",
+   "role": "广东右翼镇标右营游击"
+  },
+  {
+   "name": "种彪臣",
+   "role": "左营守备"
+  },
+  {
+   "name": "李顺",
+   "role": "臣标左营守备"
+  },
+  {
+   "name": "张华",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23700,
+ "page_range": "485-486"
+}

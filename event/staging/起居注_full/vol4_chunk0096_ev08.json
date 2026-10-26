@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "二十日壬午",
+ "event_role": "议政听政",
+ "summary": "康熙命满汉大学士九卿等集议户部题覆御史陈葫玻请禁邻封闭余及免米船关税事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈葫玻",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9608,
+ "page_range": "204-205"
+}

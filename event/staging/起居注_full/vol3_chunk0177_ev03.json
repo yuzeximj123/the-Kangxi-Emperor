@@ -1,0 +1,21 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "二十七日己卯",
+ "event_role": "司法案件",
+ "summary": "兵部题潘吉士等十人从雷谷台、三贫河离去无踪应革职籍没家产妻子，康熙令免籍没，止停世职注册存案，事明再议。",
+ "people": [
+  {
+   "name": "潘吉士",
+   "role": "逃兵"
+  }
+ ],
+ "places": [
+  "雷谷台",
+  "三贫河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17703,
+ "page_range": "389-390"
+}

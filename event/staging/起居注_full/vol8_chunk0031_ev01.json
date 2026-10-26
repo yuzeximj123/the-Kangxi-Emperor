@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题奏私铸钱为首布麻子拟立斩、为从张大等拟立绞，康熙帝令候秋后并查宝源宝泉局鼓铸迟延剩铜情由。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布麻子",
+   "role": "私铸首犯"
+  },
+  {
+   "name": "张大",
+   "role": "私铸从犯"
+  }
+ ],
+ "places": [
+  "宝源局",
+  "宝泉局"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3101,
+ "page_range": "73-74"
+}

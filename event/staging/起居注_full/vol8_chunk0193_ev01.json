@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议覆盛京刑部所题王企区刺死谈佳言一案，拟绞监候，康熙令照族人杀旗人例再议。",
+ "people": [
+  {
+   "name": "王企区",
+   "role": "闲散"
+  },
+  {
+   "name": "谈佳言",
+   "role": "闲散"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19301,
+ "page_range": "397-398"
+}

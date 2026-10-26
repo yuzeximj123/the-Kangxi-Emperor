@@ -1,0 +1,58 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十六日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就御史靳让认罪折子询问其写字及条奏，论居官惟操守清廉不刻薄小民即为良吏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳让",
+   "role": "御史"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马奇",
+   "role": "大学士"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  },
+  {
+   "name": "华显",
+   "role": "官员"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "郭表",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "彭鹏",
+   "role": "官员"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22112,
+ "page_range": "452-453"
+}

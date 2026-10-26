@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "十三日辛卯",
+ "event_role": "其他",
+ "summary": "是日，赐直隶巡抚格尔古德、江宁巡抚余国柱鞍马各一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "格尔古德",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "余国柱",
+   "role": "江宁巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11225,
+ "page_range": "267-268"
+}

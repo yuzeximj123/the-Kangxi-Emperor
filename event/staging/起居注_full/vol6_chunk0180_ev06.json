@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "初四日壬辰",
+ "event_role": "河工水利",
+ "summary": "伊桑阿等奏报传集王新命、黑硕色对质河工事，康熙帝认为黑硕色所言现今即兴工挑滩甚谬，此河不可比黄河。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王新命",
+   "role": "河臣"
+  },
+  {
+   "name": "黑硕色",
+   "role": "河臣"
+  }
+ ],
+ "places": [
+  "南河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18006,
+ "page_range": "370-371"
+}

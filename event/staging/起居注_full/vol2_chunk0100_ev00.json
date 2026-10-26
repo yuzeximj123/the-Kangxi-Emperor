@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "监察御史郭维洲参奏总河靳辅徇情四次题留已升平乐知府苏凯，康熙命靳辅明白回奏。",
+ "people": [
+  {
+   "name": "郭维洲",
+   "role": "监察御史"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "苏凯",
+   "role": "已升平乐知府"
+  }
+ ],
+ "places": [
+  "平乐"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10000,
+ "page_range": "243-244"
+}

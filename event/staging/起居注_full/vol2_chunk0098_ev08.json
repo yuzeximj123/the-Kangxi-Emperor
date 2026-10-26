@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "十六日乙未",
+ "event_role": "人事任免",
+ "summary": "兵部题补云南四路总兵官员缺，引见海朝龙等，康熙帝命以军前副将牛凤翔补授，并令查送军功加级官员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛凤翔",
+   "role": "军前副将"
+  },
+  {
+   "name": "海朝龙",
+   "role": "拟补总兵官"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9808,
+ "page_range": "239-240"
+}

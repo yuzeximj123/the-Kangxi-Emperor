@@ -1,0 +1,21 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "十一日己西",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御保和殿视太庙祝版，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16,
+ "page_range": "10-11"
+}

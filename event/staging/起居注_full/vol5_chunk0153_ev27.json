@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": "二十八日辛刻",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝问今岁盛京田谷，拜都奏沿途近处田谷甚好；侍郎庸爱奏凤凰城、秀岩今春雨水均调、麦篆有收，七月时田谷茂盛。",
+ "people": [
+  {
+   "name": "拜都",
+   "role": "海道运米官"
+  },
+  {
+   "name": "庸爱",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "盛京",
+  "凤凰城",
+  "秀岩"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15327,
+ "page_range": "316-317"
+}

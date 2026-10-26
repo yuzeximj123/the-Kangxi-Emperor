@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "初四日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕班第，允鄂尔多斯贝勒宋喇布捕猎及黄河具船往来之请，募民耕种交部议奏。",
+ "people": [
+  {
+   "name": "班第",
+   "role": "领侍卫内大臣、尚书"
+  },
+  {
+   "name": "宋喇布",
+   "role": "鄂尔多斯多罗贝勒"
+  }
+ ],
+ "places": [
+  "察罕托会",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17203,
+ "page_range": "354-355"
+}

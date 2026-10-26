@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就土谢图汗与扎萨克图汗构乱及土谢图汗来归事，决定免其治罪、宣谕其过，并留其名号，命次日问众喀尔喀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "土谢图汗",
+   "role": "来归之汗"
+  },
+  {
+   "name": "扎萨克图汗",
+   "role": "被杀之汗"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14800,
+ "page_range": "308-309"
+}

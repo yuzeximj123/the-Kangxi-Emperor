@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补礼部尚书介山老病休致员缺，康熙命以户部尚书杭爱调补，科尔坤升补户部尚书。",
+ "people": [
+  {
+   "name": "介山",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "科尔坤",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "杭爱",
+   "role": "户部尚书"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6500,
+ "page_range": "165-166"
+}

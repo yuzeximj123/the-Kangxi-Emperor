@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "初六日辛卯",
+ "event_role": "人事任免",
+ "summary": "令侍郎额尔黑图迁移索诺称贝勒。",
+ "people": [
+  {
+   "name": "额尔黑图",
+   "role": "侍郎"
+  },
+  {
+   "name": "索诺称",
+   "role": "贝勒"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15015,
+ "page_range": "312-313"
+}

@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙拾玖年叁月贰拾玖日",
+ "reign_year": 19,
+ "month": 3,
+ "day": 29,
+ "event_role": "奏报地方情形",
+ "summary": "直隶入春雨少粮价上涨，赵弘燮请准动支常平仓粮三分减粜并借给穷民，秋后还仓。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "畿辅",
+  "紫荆",
+  "密云",
+  "东拜"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示令其尽快正式具题上报。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "155",
+ "source_title": "直隸巡撫趙弘燮奏報借倉糧以平市價而利民生事摺",
+ "order_index": 116
+}

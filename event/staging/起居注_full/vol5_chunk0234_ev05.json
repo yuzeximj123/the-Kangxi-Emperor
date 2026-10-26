@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "二十九日戊实",
+ "event_role": "谕旨决策",
+ "summary": "吴什传谕大学士伊桑阿，令京报及事件从张家口递送，并遣理藩院司官或笔帖式前往大同办理西边递送事宜。",
+ "people": [
+  {
+   "name": "吴什",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "张家口",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23405,
+ "page_range": "478-479"
+}

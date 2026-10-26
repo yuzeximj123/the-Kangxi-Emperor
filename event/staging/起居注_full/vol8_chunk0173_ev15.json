@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 1,
+ "day_text": "二十五日广辰",
+ "event_role": "人事任免",
+ "summary": "覆请广西巡抚陈元龙所题茶城县知县王汗在任守制事，康熙帝准照该抚所请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈元龙",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "王汗",
+   "role": "茶城县知县"
+  }
+ ],
+ "places": [
+  "茶城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17315,
+ "page_range": "357-358"
+}

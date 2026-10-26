@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初三日癸亥",
+ "event_role": "人事任免",
+ "summary": "吏部题汉中书施春等三缺开列张春庆等职名，康熙帝命考试人等之字，选字好者用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施春",
+   "role": "中书"
+  },
+  {
+   "name": "张春庆",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13415,
+ "page_range": "279-280"
+}

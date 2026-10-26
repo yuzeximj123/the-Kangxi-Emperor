@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "请安谢恩",
+ "summary": "是日，康熙帝遣齐汐铂往德行宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐汐铂",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "德行"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9908,
+ "page_range": "209-210"
+}

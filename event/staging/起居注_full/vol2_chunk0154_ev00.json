@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就金俊广东居官不善及尚之信家财物被侵取一事，指示其母不宜按例与祭，留本待回京详议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金俊",
+   "role": "广东官员"
+  },
+  {
+   "name": "尚之信",
+   "role": "已故藩王"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15400,
+ "page_range": "351-352"
+}

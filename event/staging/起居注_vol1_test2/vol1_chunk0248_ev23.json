@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初十日丁卯",
+ "event_role": "皇帝行止",
+ "summary": "讲官库勒纳、叶方蔼、张玉书进讲讼卦九五、上九二节，讲毕康熙复以修理宫殿移驻瀛台之故谕令知之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24823,
+ "page_range": "553-554"
+}

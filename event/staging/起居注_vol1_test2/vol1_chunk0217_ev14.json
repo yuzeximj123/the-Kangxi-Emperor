@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十四日甲实",
+ "event_role": "军务",
+ "summary": "将军赵良栋题报沿途所获粮米分给兵丁，康熙帝嘉其深入四川不请粮饷，命俟恢复成都本到日下旨褒美。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵良栋",
+   "role": "将军"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "四川",
+  "成都"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21714,
+ "page_range": "491-492"
+}

@@ -1,0 +1,44 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "初三日庚寅",
+ "event_role": "司法案件",
+ "summary": "刑部议张二等十六人伙打常寿、六哥一案及城门校、步军校不行缉拿事，康熙帝命会同兵部再行严察议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张二",
+   "role": "案犯"
+  },
+  {
+   "name": "常寿",
+   "role": "被打者"
+  },
+  {
+   "name": "六哥",
+   "role": "被打者"
+  },
+  {
+   "name": "白尔黑",
+   "role": "城门校"
+  },
+  {
+   "name": "陈庭进",
+   "role": "步军校"
+  },
+  {
+   "name": "郎四",
+   "role": "步军校"
+  }
+ ],
+ "places": [
+  "朝阳门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25407,
+ "page_range": "565-566"
+}

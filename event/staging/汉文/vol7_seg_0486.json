@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙五十六年八月初八日",
+ "reign_year": 56,
+ "month": 8,
+ "day": 8,
+ "event_role": "奏报地方情形",
+ "summary": "太原总兵金国正奏报山西地方今岁五月稍旱、六月后雨水调匀、秋禾茂盛，并称来岁春末有望，兵民商贾欢庆，兼向皇上请安。",
+ "people": [
+  {
+   "name": "金国正",
+   "role": "镇守山西太原等处地方总兵官、署都督佥事"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原",
+  "三晋",
+  "湖广"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "太原總兵金國正奏報地方年成並請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2498",
+ "order_index": 486
+}

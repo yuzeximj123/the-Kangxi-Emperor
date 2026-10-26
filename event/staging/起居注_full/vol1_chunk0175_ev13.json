@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 1,
+ "day_text": "十六日王子",
+ "event_role": "谕旨决策",
+ "summary": "侍直官沈荃于御门毕后方至，随行检举，康熙帝谕以偶尔违误事之常，不必引罪，沈荃谢恩出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈荃",
+   "role": "侍直官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17513,
+ "page_range": "407-408"
+}

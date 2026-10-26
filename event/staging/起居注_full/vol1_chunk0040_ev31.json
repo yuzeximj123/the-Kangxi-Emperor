@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 4,
+ "day_text": "初五日甲辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝复御乾清门，赐浙江平阳总兵官蔡朝佐食，又赐鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蔡朝佐",
+   "role": "浙江平阳总兵官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4031,
+ "page_range": "137-138"
+}

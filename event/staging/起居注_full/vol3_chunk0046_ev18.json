@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "十一日甲戌",
+ "event_role": "祭祀典礼",
+ "summary": "九卿会议皇上东巡宣乘便致祭泰山之神及阙里孔庙，康熙帝认为所议可行，明珠等赞同。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "泰山",
+  "阙里",
+  "孔庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4618,
+ "page_range": "127-128"
+}

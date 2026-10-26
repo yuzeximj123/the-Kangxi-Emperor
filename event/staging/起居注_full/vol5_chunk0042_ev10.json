@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十八日癸巳",
+ "event_role": "人事任免",
+ "summary": "吏部题镶黄旗御史常在员缺，拟郭里正、巴什陪，康熙帝命将本旗郎中员外郎开列引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常在",
+   "role": "御史"
+  },
+  {
+   "name": "郭里",
+   "role": "员外郎"
+  },
+  {
+   "name": "巴什",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4210,
+ "page_range": "94-95"
+}

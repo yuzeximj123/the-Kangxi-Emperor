@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "谕旨将喀尔喀与四十九旗一例编设，土谢图汗、车臣汗名号仍旧存留，封扎萨克图汗之弟策旺扎布为和硕亲王。",
+ "people": [
+  {
+   "name": "土谢图汗",
+   "role": "保留汗号"
+  },
+  {
+   "name": "车臣汗",
+   "role": "保留汗号"
+  },
+  {
+   "name": "策旺扎布",
+   "role": "封和硕亲王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14907,
+ "page_range": "310-311"
+}

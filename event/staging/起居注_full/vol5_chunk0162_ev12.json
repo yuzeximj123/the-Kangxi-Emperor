@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "三十日",
+ "event_role": "皇帝行止",
+ "summary": "康熙御行宫南门观绿旗官兵短大刀、藤牌毕，赐茶并赐绿旗兵王元勋、严中在等白金，又遍赐西地西里贝勒旗下及苏尼特年老穷困者。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "王元勋",
+   "role": "绿旗兵"
+  },
+  {
+   "name": "严中在",
+   "role": "绿旗兵"
+  }
+ ],
+ "places": [
+  "行宫南门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16212,
+ "page_range": "334-335"
+}

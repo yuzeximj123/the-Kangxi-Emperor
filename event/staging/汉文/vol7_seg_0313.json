@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙五十九年四月初十日",
+ "reign_year": 59,
+ "month": 4,
+ "day": 10,
+ "event_role": "奏报灾情收成",
+ "summary": "直隶总督赵弘燮奏报当地甘雨及时，二麦可望丰收。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督，奏报人"
+  },
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚（奏折中提及）"
+  },
+  {
+   "name": "岑师懿",
+   "role": "提督总兵官（奏折中提及）"
+  },
+  {
+   "name": "甘国祚",
+   "role": "家人，差遣进奏者"
+  }
+ ],
+ "places": [
+  "直隶",
+  "江宁",
+  "塞外"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隶总督赵弘燮奏报甘雨及时二麦可望丰收折（康熙五十九年四月初十日）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 313
+}

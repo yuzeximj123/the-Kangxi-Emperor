@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兴永朝请选择补授浙闽边海总兵、副将，康熙帝称现任者皆选用优长之人，海中小盗无妨。",
+ "people": [
+  {
+   "name": "兴永朝",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙",
+  "闽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8503,
+ "page_range": "182-183"
+}

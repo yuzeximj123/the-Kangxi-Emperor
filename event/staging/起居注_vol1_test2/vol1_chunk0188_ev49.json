@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 8,
+ "day_text": "二十一日全未",
+ "event_role": "谕旨决策",
+ "summary": "吏部郎中沙尔图等奉差福建造船奏请，康熙帝谕令实心料理，节省钱粮但船只关系武备务宜坚固，不可徒省有误军兴。",
+ "people": [
+  {
+   "name": "沙尔图",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18849,
+ "page_range": "433-434"
+}

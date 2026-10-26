@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十九日甲实",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝问满丕蒙古生业，满丕奏蒙古各复生业无饥困，惟惧盗。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "满丕",
+   "role": "侍邮"
+  }
+ ],
+ "places": [
+  "蒙古"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11206,
+ "page_range": "234-235"
+}

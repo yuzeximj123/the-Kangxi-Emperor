@@ -1,0 +1,38 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "初八日庚子",
+ "event_role": "人事任免",
+ "summary": "兵部题正红旗蒙古都统胡巴员缺，开列护军统领苏丹等；康熙帝询问副都统齐世为人，伊桑阿等称其优。",
+ "people": [
+  {
+   "name": "胡巴",
+   "role": "正红旗蒙古都统"
+  },
+  {
+   "name": "苏丹",
+   "role": "护军统领"
+  },
+  {
+   "name": "齐世",
+   "role": "副都统"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5719,
+ "page_range": "124-125"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初五日丙申",
+ "event_role": "人事任免",
+ "summary": "兵部题补杭州将军马哈达升任员缺，康熙帝以副都统胡图材力壮健、行间有劳绩，着内升补镇守杭州等处将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马哈达",
+   "role": "杭州将军"
+  },
+  {
+   "name": "胡图",
+   "role": "副都统"
+  },
+  {
+   "name": "佛罗诺",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6204,
+ "page_range": "159-160"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "天津总兵官马见伯题请补授河间副将员缺，康熙以缺紧要命兵部速行题补。",
+ "people": [
+  {
+   "name": "马见伯",
+   "role": "天津总兵官"
+  }
+ ],
+ "places": [
+  "天津",
+  "河间"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13301,
+ "page_range": "277-278"
+}

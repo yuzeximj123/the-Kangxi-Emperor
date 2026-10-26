@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十五日戊辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝问郭于蕉是否庶吉士及散馆考居等第，掌院学士把叙奏为庶吉士、二等第一。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭于蕉",
+   "role": "庶吉士"
+  },
+  {
+   "name": "把叙",
+   "role": "侍班掌院学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7017,
+ "page_range": "151-152"
+}

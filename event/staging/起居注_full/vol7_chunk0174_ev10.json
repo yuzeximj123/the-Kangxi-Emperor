@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆浙江巡抚王度昭所题方舍奶还击小功兄方一禄致死案，康熙帝准立斩改为监候秋后处决。",
+ "people": [
+  {
+   "name": "方舍奶",
+   "role": "案犯"
+  },
+  {
+   "name": "方一禄",
+   "role": "死者"
+  },
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17410,
+ "page_range": "359-360"
+}

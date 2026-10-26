@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": "十三日生辰",
+ "event_role": "人事任免",
+ "summary": "吏部题工科给事中何楷员缺，康熙帝命补授原任三河县知县彭鹏为工科给事中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何楷",
+   "role": "工科给事中"
+  },
+  {
+   "name": "彭鹏",
+   "role": "原任三河县知县"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19209,
+ "page_range": "396-397"
+}

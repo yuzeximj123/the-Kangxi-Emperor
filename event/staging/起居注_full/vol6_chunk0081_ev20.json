@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "初八日丁丑",
+ "event_role": "其他",
+ "summary": "康熙帝赐李楠御书“多识畜德”四大字、对联一副、唐诗一幅，赐汪查“游咏清风”四大字并字一幅，赐原任给事中李宗孔“游咏清风”。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李楠",
+   "role": "原任工部侍郎"
+  },
+  {
+   "name": "汪查",
+   "role": "原任布政使"
+  },
+  {
+   "name": "李宗孔",
+   "role": "原任给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8120,
+ "page_range": "172-173"
+}

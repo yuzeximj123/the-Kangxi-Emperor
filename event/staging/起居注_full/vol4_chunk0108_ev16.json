@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "二十六日本已",
+ "event_role": "谕旨决策",
+ "summary": "直隶巡抚于成龙题请再给银三十万备用，户部议不便再给，康熙帝命拨五万两散给。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "唐县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10816,
+ "page_range": "228-229"
+}

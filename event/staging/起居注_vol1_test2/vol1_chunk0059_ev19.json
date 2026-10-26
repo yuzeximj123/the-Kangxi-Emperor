@@ -1,0 +1,38 @@
+{
+ "reign_year": 12,
+ "month": 11,
+ "day_text": "初七日于申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称周敦颐《太极图》义理精奥，命学士熊赐履、编修叶方议、张英、修撰韩莱等各撰《太极图论》一篇进呈亲览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "侍读学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "学士"
+  },
+  {
+   "name": "叶方议",
+   "role": "编修"
+  },
+  {
+   "name": "张英",
+   "role": "编修"
+  },
+  {
+   "name": "韩莱",
+   "role": "修撰"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5919,
+ "page_range": "175-176"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初四日",
+ "event_role": "人事任免",
+ "summary": "九卿会推国子监祭酒阿里虎员缺，康熙以徐元梦人平常、朱都纳谨慎，命另推具奏。",
+ "people": [
+  {
+   "name": "阿里虎",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "徐元梦",
+   "role": "侍讲"
+  },
+  {
+   "name": "朱都纳",
+   "role": "侍讲"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15720,
+ "page_range": "349-350"
+}

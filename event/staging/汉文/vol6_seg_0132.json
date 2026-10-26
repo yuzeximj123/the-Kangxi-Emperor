@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十四年八月十二日",
+ "reign_year": 54,
+ "month": 8,
+ "day": 1,
+ "event_role": "奏报灾情收成",
+ "summary": "京口将军何天培奏报地方雨水收成及米价情形，并表达对康熙帝的感恩与对边事的关切。",
+ "people": [
+  {
+   "name": "何天培",
+   "role": "京口将军"
+  },
+  {
+   "name": "泽旺阿喇蒲坦",
+   "role": "侵犯哈密的蒙古首领"
+  },
+  {
+   "name": "噶尔旦",
+   "role": "被剿灭的蒙古首领"
+  }
+ ],
+ "places": [
+  "京口",
+  "哈密"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，已知晓奏报内容。",
+ "source_title": "京口將軍何天培奏報地方收成米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1863",
+ "order_index": 132
+}

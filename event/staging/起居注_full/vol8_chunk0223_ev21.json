@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "两广巡盐御史常保题请将盐法交与巡抚并将伊撤回，康熙帝命处理。",
+ "people": [
+  {
+   "name": "常保",
+   "role": "两广巡盐御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22321,
+ "page_range": "457-458"
+}

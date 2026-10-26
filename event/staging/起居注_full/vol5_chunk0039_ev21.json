@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "十六日辛巳",
+ "event_role": "人事任免",
+ "summary": "兵部题正白旗汉军都统称黑伦员缺，开列护军统领拖伦等；康熙帝命以福建将军石文炳补授，着来年二月来京。",
+ "people": [
+  {
+   "name": "称黑伦",
+   "role": "正白旗汉军都统"
+  },
+  {
+   "name": "拖伦",
+   "role": "护军统领"
+  },
+  {
+   "name": "石文炳",
+   "role": "福建将军，补授都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3921,
+ "page_range": "88-89"
+}

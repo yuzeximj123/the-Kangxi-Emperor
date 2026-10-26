@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 9,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙问左都御史刘谦殴打御史任奕弥一案，大学士松柱奏刘谦身为大臣殴打官员殊属不当。",
+ "people": [
+  {
+   "name": "刘谦",
+   "role": "左都御史"
+  },
+  {
+   "name": "任奕弥",
+   "role": "御史"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10809,
+ "page_range": "227-228"
+}

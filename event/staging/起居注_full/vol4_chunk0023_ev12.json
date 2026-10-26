@@ -1,0 +1,38 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "初一日癸卯",
+ "event_role": "司法案件",
+ "summary": "九卿诸臣详问李光地，并传问陈廷敬、徐乾学、王熙、彭孙通等曾见德格勒试卷否，皆云记其文有老母在家等语，全非作文之体。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "官员"
+  },
+  {
+   "name": "徐乾学",
+   "role": "官员"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "彭孙通",
+   "role": "学士"
+  },
+  {
+   "name": "德格勒",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2312,
+ "page_range": "58-59"
+}

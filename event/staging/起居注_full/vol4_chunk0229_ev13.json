@@ -1,0 +1,28 @@
+{
+ "reign_year": 32,
+ "month": 3,
+ "day_text": "二十二日两寅",
+ "event_role": "人事任免",
+ "summary": "兵部题覆湖广总督丁思孔荐陈天培，康熙帝以其父陈世凯效力显著，命以游击员缺补用。",
+ "people": [
+  {
+   "name": "丁思孔",
+   "role": "湖广总督"
+  },
+  {
+   "name": "陈天培",
+   "role": "拜他喇布勒哈番"
+  },
+  {
+   "name": "陈世凯",
+   "role": "原任提督"
+  }
+ ],
+ "places": [
+  "武昌左卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22913,
+ "page_range": "470-471"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "平阳镇总兵官李华、黄岩镇总兵官赵弘灿、温州镇总兵官葛茂勋等获赐，浙闽总督王骛、浙江布政使李之粹、按察使卞永誉等亦获赐缎匹。",
+ "people": [
+  {
+   "name": "李华",
+   "role": "平阳镇总兵官"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "黄岩镇总兵官"
+  },
+  {
+   "name": "葛茂勋",
+   "role": "温州镇总兵官"
+  },
+  {
+   "name": "王骛",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "李之粹",
+   "role": "浙江布政使"
+  },
+  {
+   "name": "卞永誉",
+   "role": "按察使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5800,
+ "page_range": "128-129"
+}

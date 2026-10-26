@@ -1,0 +1,21 @@
+{
+ "reign_year": 12,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "推升大同总兵官、汉中副将何传，并命其射箭。",
+ "people": [
+  {
+   "name": "何传",
+   "role": "汉中副将，推升大同总兵官"
+  }
+ ],
+ "places": [
+  "大同",
+  "汉中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4700,
+ "page_range": "151-152"
+}

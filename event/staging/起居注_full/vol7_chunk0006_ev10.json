@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十五日辛卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝起行，从万寿寺阅视，至阜平县所属王块镇村东河涯驻跸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "万寿寺",
+  "阜平县",
+  "王块镇村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 610,
+ "page_range": "23-24"
+}

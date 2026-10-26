@@ -1,0 +1,35 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召见宁古塔将军扎图，谕令其赴任后布教化、爱养兵丁、操练武备，并抚绥新满洲，可暂留佟宝一二月。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "扎图",
+   "role": "宁古塔等处将军"
+  },
+  {
+   "name": "佟宝",
+   "role": "盛京副都统"
+  },
+  {
+   "name": "巴海",
+   "role": "前将军（被提及）"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "乌喇",
+  "盛京",
+  "罗察"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22400,
+ "page_range": "491-492"
+}

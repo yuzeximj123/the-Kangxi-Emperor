@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "二十九日丙午",
+ "event_role": "人事任免",
+ "summary": "兵部题广东广州府副都统巴喀告病解任员缺，拟参领韩佐周正、李乌梁陪，康熙帝命不论满洲汉军另拟具奏。",
+ "people": [
+  {
+   "name": "巴喀",
+   "role": "广州府副都统"
+  },
+  {
+   "name": "韩佐周",
+   "role": "参领"
+  },
+  {
+   "name": "李乌梁",
+   "role": "参领"
+  }
+ ],
+ "places": [
+  "广东广州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23106,
+ "page_range": "497-498"
+}

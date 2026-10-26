@@ -1,0 +1,22 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "十四日壬寅",
+ "event_role": "皇帝行止",
+ "summary": "辰时康熙帝以谒陵由东门出崇文门，驻跸夏店。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东门",
+  "崇文门",
+  "夏店"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18130,
+ "page_range": "372-373"
+}

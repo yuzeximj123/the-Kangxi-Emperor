@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十八年八月十六日",
+ "reign_year": 48,
+ "month": 8,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮因圣驾远在口外，遣家人赍摺恭请皇帝万安，并感激皇帝屡次垂问其病情。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏请人"
+  },
+  {
+   "name": "文绶",
+   "role": "赵弘燮家人，赍摺进呈者"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "口外",
+  "行在",
+  "宫门"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "皇帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸巡撫趙弘燮奏爲聖駕遠在外口叩請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "562",
+ "order_index": 215
+}

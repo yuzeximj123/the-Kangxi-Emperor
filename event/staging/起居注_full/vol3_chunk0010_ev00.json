@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院议获州知州杨天佑因自称颂德政各处张挂应革职，康熙以其居官颇佳从宽免革职，降二级留任。",
+ "people": [
+  {
+   "name": "杨天佑",
+   "role": "获州知州"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "格尔古德",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "获州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1000,
+ "page_range": "55-56"
+}

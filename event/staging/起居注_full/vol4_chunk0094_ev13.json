@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": "初五日了卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追念浙江提督陈世凯人材雁健、行间效力，谕给恤典送柩还治所并如例送令回籍，述其病危谢恩情形。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈世凯",
+   "role": "浙江提督"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9413,
+ "page_range": "200-201"
+}

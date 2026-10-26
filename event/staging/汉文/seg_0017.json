@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十三年十月十三日",
+ "reign_year": 43,
+ "month": 10,
+ "day": 13,
+ "event_role": "其他",
+ "summary": "四川提督岳昇龙请求皇上特赐孔雀翎，以彰显恩宠、便于弹压地方。",
+ "people": [
+  {
+   "name": "岳昇龙",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批告知已有旨意，即此事已另有谕旨处理。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "19",
+ "source_title": "四川提督岳昇龙奏请特赐孔雀翎折",
+ "order_index": 17
+}

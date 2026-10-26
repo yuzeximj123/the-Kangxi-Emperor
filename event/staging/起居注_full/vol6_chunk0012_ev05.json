@@ -1,0 +1,42 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "二十一量戊成",
+ "event_role": "人事任免",
+ "summary": "吏部题补学士韩菼员缺，康熙帝询问胡会恩等进士科年，命李录予补授学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "李天馥",
+   "role": "大学士"
+  },
+  {
+   "name": "胡会恩",
+   "role": "少詹事"
+  },
+  {
+   "name": "李铠",
+   "role": "官员"
+  },
+  {
+   "name": "李录予",
+   "role": "官员"
+  },
+  {
+   "name": "顾祖荣",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1205,
+ "page_range": "34-35"
+}

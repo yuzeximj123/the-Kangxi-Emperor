@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": "十一日庚申",
+ "event_role": "其他",
+ "summary": "康熙帝赐喀喇沱扎萨克一品塔布囊格勒尔、多罗额有门都、和硕端静公主长史沙津达礼各马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "格勒尔",
+   "role": "喀喇沱扎萨克一品塔布囊"
+  },
+  {
+   "name": "门都",
+   "role": "多罗额有"
+  },
+  {
+   "name": "沙津达礼",
+   "role": "和硕端静公主长史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24512,
+ "page_range": "501-502"
+}

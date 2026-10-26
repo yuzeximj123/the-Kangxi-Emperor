@@ -1,0 +1,21 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "二十二日甲寅",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝召集生员耆老询问致灾之故，细与讲求拯济之策。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "高邮",
+  "宝应"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5408,
+ "page_range": "143-144"
+}

@@ -1,0 +1,49 @@
+{
+ "date_raw": "康熙五十七年正月十五日",
+ "reign_year": 57,
+ "month": null,
+ "day": 15,
+ "event_role": "司法案件",
+ "summary": "两广总督杨琳奏报缉拿东安县杀伤官兵案犯进展，已陆续拿获及自首、伤死五十三名，尚有二十余名未获，正限期追捕。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "张君臣",
+   "role": "守备，追贼拒捕受伤身死"
+  },
+  {
+   "name": "李小五",
+   "role": "动手杀伤守备的案犯"
+  },
+  {
+   "name": "莫世耀",
+   "role": "动手杀伤守备的案犯"
+  },
+  {
+   "name": "黄金聚",
+   "role": "动手伤兵的案犯"
+  },
+  {
+   "name": "赖亚二",
+   "role": "动手伤兵的案犯"
+  },
+  {
+   "name": "陈元",
+   "role": "动手伤兵的案犯"
+  }
+ ],
+ "places": [
+  "东安县",
+  "石山涧"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "兩廣總督楊琳奏爲陸續拿獲東安縣殺傷官兵徒衆摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2584",
+ "order_index": 30
+}

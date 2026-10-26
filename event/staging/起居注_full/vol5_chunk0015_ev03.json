@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "初一日戊辰",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问沈图往霸州等处察看散米及水势民生情形，沈图奏武清已无水种麦，霸州文安水灾尤甚，百姓感戴蠲免粜卖之恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈图",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "霸州",
+  "武清",
+  "文安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1503,
+ "page_range": "40-41"
+}

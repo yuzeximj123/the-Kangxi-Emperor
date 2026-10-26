@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初一日本西",
+ "event_role": "人事任免",
+ "summary": "吏部题补病故湖广总督董卫国员缺，开列总督仓场户部右侍郎马涩戏等职名调补。",
+ "people": [
+  {
+   "name": "董卫国",
+   "role": "病故湖广总督"
+  },
+  {
+   "name": "马涩戏",
+   "role": "总督仓场户部右侍郎"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 403,
+ "page_range": "43-44"
+}

@@ -1,0 +1,27 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "十九日己卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论治河应预防上流，命河臣留意徐州以上地方，并述黄河迁徙之性及明朝治河得失。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黑硕色",
+   "role": "原任员外"
+  }
+ ],
+ "places": [
+  "徐州",
+  "宁夏",
+  "河间府",
+  "微山湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3112,
+ "page_range": "73-74"
+}

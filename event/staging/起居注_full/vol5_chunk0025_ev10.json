@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初十日丙子",
+ "event_role": "人事任免",
+ "summary": "伊桑阿奏问康亲王补授正红旗副都统事，康熙帝以齐世人材颇优命升补副都统。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "齐世",
+   "role": "长史"
+  },
+  {
+   "name": "墨雅图",
+   "role": "前锋"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2510,
+ "page_range": "60-61"
+}

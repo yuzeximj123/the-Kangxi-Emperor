@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "十七日庚成",
+ "event_role": "人事任免",
+ "summary": "太常寺寺丞宋俄浑升任员缺，正拟觉和托、陪拟黑尔苏，康熙帝询问人选，明珠等奏觉和托谨慎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋俄浑",
+   "role": "太常寺寺丞"
+  },
+  {
+   "name": "觉和托",
+   "role": "内净典籍"
+  },
+  {
+   "name": "黑尔苏",
+   "role": "赞礼郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3918,
+ "page_range": "113-114"
+}

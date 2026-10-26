@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "臣等奏报通州米价较贱，百里外民往买者载道不绝，皆称皇上即天，若不发米减价粜卖百姓将无所依。",
+ "people": [
+  {
+   "name": "傅继祖",
+   "role": "起居注官"
+  },
+  {
+   "name": "张英",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 600,
+ "page_range": "22-23"
+}

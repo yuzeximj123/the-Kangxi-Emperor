@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "初四日癸巳",
+ "event_role": "朝见受贺",
+ "summary": "古北口等处监督翰林院侍读达尔汉西城、笔帖式牙克西库、守备陈良、把总吴文智来朝。",
+ "people": [
+  {
+   "name": "达尔汉西城",
+   "role": "翰林院侍读、监督"
+  },
+  {
+   "name": "牙克西库",
+   "role": "笔帖式"
+  },
+  {
+   "name": "陈良",
+   "role": "守备"
+  },
+  {
+   "name": "吴文智",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7614,
+ "page_range": "162-163"
+}

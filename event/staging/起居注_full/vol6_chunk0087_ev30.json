@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十九日成成",
+ "event_role": "其他",
+ "summary": "康熙赐玉泉禅寺僧等裕《金刚经》，并遍赐杭州府八旗七名以上老妇银两。",
+ "people": [
+  {
+   "name": "等裕",
+   "role": "玉泉禅寺僧"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "玉泉禅寺",
+  "杭州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8730,
+ "page_range": "184-185"
+}

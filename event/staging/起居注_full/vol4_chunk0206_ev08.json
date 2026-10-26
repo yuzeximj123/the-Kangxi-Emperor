@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 9,
+ "day_text": "初八日甲跨",
+ "event_role": "人事任免",
+ "summary": "兵部题覆陕西兴安总兵官程福亮以老病乞休与例不符，应令督抚验明；康熙帝以其效力年久、行间勤劳，命不必查验，拟温旨批出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "程福亮",
+   "role": "陕西兴安总兵官"
+  }
+ ],
+ "places": [
+  "陕西兴安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20608,
+ "page_range": "424-425"
+}

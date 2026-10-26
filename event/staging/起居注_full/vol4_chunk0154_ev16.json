@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "初五日戊子",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读学士满丕员缺，拟户部郎中纳垒为正、监察御史巴锡为陪，康熙令温保升补。",
+ "people": [
+  {
+   "name": "满丕",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "纳垒",
+   "role": "户部郎中"
+  },
+  {
+   "name": "巴锡",
+   "role": "监察御史"
+  },
+  {
+   "name": "温保",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15416,
+ "page_range": "320-321"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 40,
+ "month": 1,
+ "day_text": "十五日癸卯",
+ "event_role": "朝见受贺",
+ "summary": "巳时康熙帝御畅春园含淳堂，大宴朝正外藩蒙古左右两翼王贝勒贝子公台吉及内大臣侍卫大学士，奏乐进酒赐饮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "含淳堂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18910,
+ "page_range": "388-389"
+}

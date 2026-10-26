@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十二日王午",
+ "event_role": "谕旨决策",
+ "summary": "福建提督施粮题请议叙巡海道线一信等，部议不准，康熙帝以航海维艰、安插百姓有劳绩，命着议叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施粮",
+   "role": "福建提督"
+  },
+  {
+   "name": "线一信",
+   "role": "巡海道"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8303,
+ "page_range": "201-202"
+}

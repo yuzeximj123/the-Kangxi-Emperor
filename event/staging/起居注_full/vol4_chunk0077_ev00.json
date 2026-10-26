@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "三河县盗案逸贼逾限未获，拟将知县彭鹏降级调用，康熙以其善居官，从宽降一级留任，免其调用。",
+ "people": [
+  {
+   "name": "彭鹏",
+   "role": "三河县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7700,
+ "page_range": "166-167"
+}

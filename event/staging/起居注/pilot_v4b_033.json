@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙二十八年二月二十七日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十七日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝遣马武传谕江宁将军博济，嘉其勤劳孝行，命归治母丧并遣大臣往视。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马武",
+   "role": "侍卫"
+  },
+  {
+   "name": "博济",
+   "role": "江宁将军"
+  },
+  {
+   "name": "郎坦",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2033
+}

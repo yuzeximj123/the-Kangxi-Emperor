@@ -1,0 +1,30 @@
+{
+ "reign_year": 12,
+ "month": 5,
+ "day_text": "二十日己丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命侍卫吴丹、班第传谕，赐王可臣鞍马一匹、表里十匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴丹",
+   "role": "一等侍卫依都额真"
+  },
+  {
+   "name": "班第",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "王可臣",
+   "role": "陕西西宁总兵官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4343,
+ "page_range": "143-144"
+}

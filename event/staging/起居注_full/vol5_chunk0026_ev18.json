@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十八日甲申",
+ "event_role": "人事任免",
+ "summary": "镶蓝旗汉军副都统刘显芳员缺，康熙帝论韩佐周兄弟处处奔竞非可任之人，但因曾于行间效力着调补汉军副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘显芳",
+   "role": "镶蓝旗汉军副都统"
+  },
+  {
+   "name": "韩佐周",
+   "role": "福建总兵官"
+  },
+  {
+   "name": "韩佐栋",
+   "role": "韩佐周之弟"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2618,
+ "page_range": "62-63"
+}

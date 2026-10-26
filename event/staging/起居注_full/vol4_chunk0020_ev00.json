@@ -1,0 +1,37 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题苏楞格打死驿夫李世辅拟绞监候秋后处决，康熙就驿站骚扰问题谕令兵部定例。",
+ "people": [
+  {
+   "name": "苏楞格",
+   "role": "犯人"
+  },
+  {
+   "name": "李世辅",
+   "role": "驿夫"
+  },
+  {
+   "name": "王封滩",
+   "role": "官员"
+  },
+  {
+   "name": "朱都纳",
+   "role": "官员"
+  },
+  {
+   "name": "萨木哈",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "盛京",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2000,
+ "page_range": "52-53"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "初六日丁丑",
+ "event_role": "其他",
+ "summary": "皇帝命阿灵阿等监试沈奇等马步射，以林昂、张永纶、刘勋、常克明骑射俱劣具奏，奉旨着革退。",
+ "people": [
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "沈奇",
+   "role": "卫辉营参将"
+  },
+  {
+   "name": "林昂",
+   "role": "游击"
+  },
+  {
+   "name": "张永纶",
+   "role": "守备"
+  },
+  {
+   "name": "刘勋",
+   "role": "守备"
+  },
+  {
+   "name": "常克明",
+   "role": "把总"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8430,
+ "page_range": "179-180"
+}

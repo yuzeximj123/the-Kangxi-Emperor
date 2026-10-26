@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "中书科掌印中书缺员，多萨纳拟正、特默德拟陪，康熙命查应升之员及考试名次在前者来看。",
+ "people": [
+  {
+   "name": "多萨纳",
+   "role": "拟正中书科掌印中书"
+  },
+  {
+   "name": "特默德",
+   "role": "拟陪中书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12800,
+ "page_range": "291-292"
+}

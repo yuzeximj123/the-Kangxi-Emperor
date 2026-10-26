@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "十二日戊辰",
+ "event_role": "司法案件",
+ "summary": "刑部等议宁乡县强盗张旋玉等立斩枭示，郑子杰执械同往但至县门惧逃，康熙帝命张旋玉等依议处斩，郑子杰从宽免死。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张旋玉",
+   "role": "强盗"
+  },
+  {
+   "name": "郑子杰",
+   "role": "从犯"
+  }
+ ],
+ "places": [
+  "宁乡县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14228,
+ "page_range": "296-297"
+}

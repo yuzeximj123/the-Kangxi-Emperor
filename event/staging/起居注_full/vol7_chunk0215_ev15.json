@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "十二日甲子",
+ "event_role": "河工水利",
+ "summary": "覆请总河赵世显所题萧县等处修筑挑水坝等堤，康熙令照该督所请速动钱粮修筑坚固。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵世显",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "萧县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21515,
+ "page_range": "441-442"
+}

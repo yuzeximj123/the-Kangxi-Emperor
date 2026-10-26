@@ -1,0 +1,38 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "初九日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称赞宋华、苏克济、赵弘党、阎陈锡等历任久无清名亦无贪迹而地方安静者为好官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋华",
+   "role": "巡抚"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "阎陈锡",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山西",
+  "直隶",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11606,
+ "page_range": "243-244"
+}

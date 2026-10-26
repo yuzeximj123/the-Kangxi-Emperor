@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "二十五日丁卯",
+ "event_role": "人事任免",
+ "summary": "九卿等会推册封安南国王正副使，康熙帝询问明图后照所推以明图为正使、孙卓为副使差往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明图",
+   "role": "侍读拟正使"
+  },
+  {
+   "name": "孙卓",
+   "role": "编修拟副使"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "安南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16910,
+ "page_range": "381-382"
+}

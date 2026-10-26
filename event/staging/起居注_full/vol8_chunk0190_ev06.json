@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "二十二日丙午",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕令杨名时补授直隶巡道，赵弘把未到任前着陈鹏年以革职暂理霸昌道事务，顺德府知府员缺问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨名时",
+   "role": "直隶巡道"
+  },
+  {
+   "name": "陈鹏年",
+   "role": "暂理霸昌道事务"
+  },
+  {
+   "name": "赵弘把",
+   "role": "霸昌道"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19006,
+ "page_range": "391-392"
+}

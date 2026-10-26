@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "初四日甲午",
+ "event_role": "人事任免",
+ "summary": "两江总督范承勋题松江府知府厂嵘乞留任，康熙帝询问张玉书后准其留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "两江总督"
+  },
+  {
+   "name": "厂嵘",
+   "role": "松江府知府"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "松江府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6808,
+ "page_range": "146-147"
+}

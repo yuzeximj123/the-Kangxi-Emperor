@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "十六日癸卯",
+ "event_role": "人事任免",
+ "summary": "翰林院掌院学士员缺，遵旨开写吏部尚书宋华等职名请旨，康熙帝令徐潮兼管翰林院掌院学士事。",
+ "people": [
+  {
+   "name": "宋华",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "徐潮",
+   "role": "兼管翰林院掌院学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10511,
+ "page_range": "221-222"
+}

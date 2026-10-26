@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十七日己巳",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗骁骑参领，正拟色勒木素、陪拟赵纳思免，康熙帝询问都统后命色勒木素补参领。",
+ "people": [
+  {
+   "name": "色勒木素",
+   "role": "佐领"
+  },
+  {
+   "name": "赵纳思免",
+   "role": "拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "西伯臣",
+   "role": "都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5318,
+ "page_range": "149-150"
+}

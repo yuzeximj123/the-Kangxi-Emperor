@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": "初三日戊子",
+ "event_role": "人事任免",
+ "summary": "宴毕，康熙帝以皇子所服衣帽、数珠加赐扎萨克图汗之弟策旺扎布。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "策旺扎布",
+   "role": "扎萨克图汗之弟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14905,
+ "page_range": "310-311"
+}

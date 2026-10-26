@@ -1,0 +1,30 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "奴才向主子请安谢恩，感激屡蒙温旨及特恩放补京口将军，到任五月，并奏报江南庄家通河近水低田收成好、山田稍旱及米价情形。",
+ "people": [
+  {
+   "name": "何天培",
+   "role": "奴才（自称，京口将军）"
+  },
+  {
+   "name": "马依德",
+   "role": "奴才（自称）"
+  }
+ ],
+ "places": [
+  "京口",
+  "江南",
+  "庄家通河"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 285
+}

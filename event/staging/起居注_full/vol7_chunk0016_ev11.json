@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "二十五日丙午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传集汉大学士以下等官一百四十余员至保和殿，分赐御书并颁示论旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海青",
+   "role": "侍卫"
+  },
+  {
+   "name": "常寿",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1611,
+ "page_range": "43-44"
+}

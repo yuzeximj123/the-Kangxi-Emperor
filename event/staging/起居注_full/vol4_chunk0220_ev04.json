@@ -1,0 +1,22 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "二十二日丙申",
+ "event_role": "起居注官记录",
+ "summary": "记载本日起居注官为莫里溥、郑宇瑛，并记封印之事。",
+ "people": [
+  {
+   "name": "莫里溥",
+   "role": "起居注官"
+  },
+  {
+   "name": "郑宇瑛",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22004,
+ "page_range": "452-453"
+}

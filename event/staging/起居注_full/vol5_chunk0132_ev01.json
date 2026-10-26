@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "费扬古密奏运粮情形，称八十日口粮将满而小车运米难及大军，已拨骆驼迎取米石并请中路大军分粮接济。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "成龙",
+   "role": "运粮正卿"
+  }
+ ],
+ "places": [
+  "喀伦",
+  "土喇",
+  "把宿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13201,
+ "page_range": "274-275"
+}

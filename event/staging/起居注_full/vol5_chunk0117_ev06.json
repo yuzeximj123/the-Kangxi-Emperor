@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "十五日",
+ "event_role": "军务",
+ "summary": "十五日遣拨什库讷尔布、长史库即根等七人往克鲁伦河侦探厄鲁特信息，讷尔布等见厄鲁特哨卒约三十余人而还。",
+ "people": [
+  {
+   "name": "讷尔布",
+   "role": "拨什库"
+  },
+  {
+   "name": "库即根",
+   "role": "长史"
+  }
+ ],
+ "places": [
+  "克鲁伦河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11706,
+ "page_range": "244-245"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "礼部题杭州副都统雅塔里加祭葬，康熙以其简任以来未尽职效力，命祭葬加祭俱停止。",
+ "people": [
+  {
+   "name": "雅塔里",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13101,
+ "page_range": "297-298"
+}

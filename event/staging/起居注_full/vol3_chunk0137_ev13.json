@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 1,
+ "day_text": "二十八日",
+ "event_role": "人事任免",
+ "summary": "宗人府题镇国公百寿上元节朝会不到应革爵，康熙帝命革镇国公降为镇国将军交安亲王等约束。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "百寿",
+   "role": "镇国公"
+  },
+  {
+   "name": "安亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "信和郡王",
+   "role": "郡王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13713,
+ "page_range": "309-310"
+}

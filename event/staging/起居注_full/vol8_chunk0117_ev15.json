@@ -1,0 +1,22 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "十七日己酉",
+ "event_role": "人事任免",
+ "summary": "吏部题自行检举一案，康熙帝以侍讲员缺年久、翰林方可升任，认为以奇勒伦超补侍讲所奏不合，本发还。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "奇勒伦",
+   "role": "拟补侍讲"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11715,
+ "page_range": "245-246"
+}

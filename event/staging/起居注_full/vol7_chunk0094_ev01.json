@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "云贵总督贝和诺题请留镇远协副将李定邦在任守制，康熙准如所请。",
+ "people": [
+  {
+   "name": "贝和诺",
+   "role": "云贵总督"
+  },
+  {
+   "name": "李定邦",
+   "role": "镇远协副将"
+  }
+ ],
+ "places": [
+  "镇远"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9401,
+ "page_range": "199-200"
+}

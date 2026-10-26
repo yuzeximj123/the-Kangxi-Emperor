@@ -1,0 +1,23 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙论下河连年水患由清口清水不出、黄河浊水逆流入洪泽湖所致，主张大修河工。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "河工官员"
+  }
+ ],
+ "places": [
+  "清口",
+  "黄河",
+  "洪泽湖",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11604,
+ "page_range": "242-243"
+}

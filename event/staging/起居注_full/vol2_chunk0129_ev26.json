@@ -1,0 +1,22 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "二十六日壬寅",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝前往皇太后处问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "受问安者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12926,
+ "page_range": "301-302"
+}

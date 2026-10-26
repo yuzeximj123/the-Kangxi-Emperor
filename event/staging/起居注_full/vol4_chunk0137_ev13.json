@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "初十日丙寅",
+ "event_role": "朝见受贺",
+ "summary": "三屯营副将陈世现、守备朱逢升、千总孙应鬼等来朝见。",
+ "people": [
+  {
+   "name": "陈世现",
+   "role": "三屯营副将"
+  },
+  {
+   "name": "朱逢升",
+   "role": "守备"
+  },
+  {
+   "name": "孙应鬼",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "三屯营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13713,
+ "page_range": "286-287"
+}

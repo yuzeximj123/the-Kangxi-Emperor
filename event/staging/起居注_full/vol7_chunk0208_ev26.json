@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "二十八日辛已",
+ "event_role": "其他",
+ "summary": "赐朝鲜国王李焙所差冬至正朝万寿节及年贡正使研山君李述、副使金演等绸缎银两等物有差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李焙",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "李述",
+   "role": "正使研山君"
+  },
+  {
+   "name": "金演",
+   "role": "副使议政府左参赞"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20826,
+ "page_range": "427-428"
+}

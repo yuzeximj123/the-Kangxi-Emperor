@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "湖广提督俞益谟患发背不能会审土司田到年事，康熙帝令病痊后仍会同梅锅等审田考年一案。",
+ "people": [
+  {
+   "name": "俞益谟",
+   "role": "湖广提督"
+  },
+  {
+   "name": "梅锅",
+   "role": "钦差大臣"
+  },
+  {
+   "name": "田考年",
+   "role": "土司"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12504,
+ "page_range": "261-262"
+}

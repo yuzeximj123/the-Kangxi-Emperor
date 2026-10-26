@@ -1,0 +1,40 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十七日己卯",
+ "event_role": "司法案件",
+ "summary": "刑部题侍郎绥色等所审商人柴绍周、民人侯安边拟绞，康熙帝以知县陶自悦学问优、居官廉，命问九卿所审公否具奏。",
+ "people": [
+  {
+   "name": "绥色",
+   "role": "侍郎"
+  },
+  {
+   "name": "柴绍周",
+   "role": "商人"
+  },
+  {
+   "name": "侯安边",
+   "role": "民人"
+  },
+  {
+   "name": "陶自悦",
+   "role": "知县"
+  },
+  {
+   "name": "揆叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "儿氏县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 815,
+ "page_range": "27-28"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题福建巡抚吴兴宦遍缉叛犯王于玉未获，康熙命两省督抚不许互相推诿，仍着严缉。",
+ "people": [
+  {
+   "name": "吴兴宦",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "王于玉",
+   "role": "叛犯"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22702,
+ "page_range": "511-512"
+}

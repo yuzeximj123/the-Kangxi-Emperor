@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "刑部郎中布克施员缺，拟明辅正、序思格陪，康熙命将保举贤能员外郎俸次第一者补授。",
+ "people": [
+  {
+   "name": "明辅",
+   "role": "工部员外郎拟正"
+  },
+  {
+   "name": "序思格",
+   "role": "员外郎拟陪"
+  },
+  {
+   "name": "库勒纳",
+   "role": "吏部官员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 401,
+ "page_range": "18-19"
+}

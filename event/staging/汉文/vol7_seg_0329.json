@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙五十六年二月",
+ "reign_year": 56,
+ "month": 2,
+ "day": null,
+ "event_role": "朝见受贺",
+ "summary": "广东总兵官班第奏贺朝廷荡平海疆、恢复台湾，并遣人代叩祝万寿节、进献土物。",
+ "people": [
+  {
+   "name": "班第",
+   "role": "镇守广东等处地方总兵官、征剿将军，奏折作者"
+  },
+  {
+   "name": "贺喜",
+   "role": "臣标把总，奉命进京叩祝"
+  },
+  {
+   "name": "曹大",
+   "role": "亲信兵丁，随同进京"
+  },
+  {
+   "name": "潘从",
+   "role": "班第家人，随同进京"
+  }
+ ],
+ "places": [
+  "广东",
+  "台湾",
+  "西陲"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示已阅知悉。",
+ "source_title": "镇守广东总兵官班第奏贺荡平海疆摺（康熙五十六年二月）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2240",
+ "order_index": 329
+}

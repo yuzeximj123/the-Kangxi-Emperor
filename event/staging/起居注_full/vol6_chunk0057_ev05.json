@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝召萨布素、沙纳海、喀特胡至御座前亲赐酒，并按品级于门内外阶上下赐协领等官酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨布素",
+   "role": "将军"
+  },
+  {
+   "name": "沙纳海",
+   "role": "将军"
+  },
+  {
+   "name": "喀特胡",
+   "role": "副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5705,
+ "page_range": "124-125"
+}

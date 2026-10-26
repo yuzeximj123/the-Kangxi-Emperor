@@ -1,0 +1,37 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十六日丙申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝准伊锡噶路等所请，命照自京前来之例给驿马，交笔帖式石图追送侍郎常绥等带至嘉峪关、哈密。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常绥",
+   "role": "侍郎"
+  },
+  {
+   "name": "石图",
+   "role": "笔帖式"
+  },
+  {
+   "name": "伊锡噶路",
+   "role": "四子"
+  },
+  {
+   "name": "雅哈齐",
+   "role": "四子"
+  }
+ ],
+ "places": [
+  "嘉峪关",
+  "哈密"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21909,
+ "page_range": "448-449"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十三日乙雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论开荒六年起科之弊及生齿日繁、米价未平之由。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "赵申乔",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21710,
+ "page_range": "445-446"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十四日庚辰",
+ "event_role": "军务",
+ "summary": "以吴丹军罪查明启奏，康熙帝以其不救徐府、建昌失误机宜，命将原拟正之和图补授佐领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴丹",
+   "role": "军官"
+  },
+  {
+   "name": "和图",
+   "role": "补授佐领"
+  }
+ ],
+ "places": [
+  "徐府",
+  "建昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1309,
+ "page_range": "61-62"
+}

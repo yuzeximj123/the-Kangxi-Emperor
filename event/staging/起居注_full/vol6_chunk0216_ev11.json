@@ -1,0 +1,34 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十八日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝言慕琛为人不端、声名不佳、条奏不当，并论用人咨询大臣及诸臣保奏各为其党，命李旭升等内升、慕琛外转。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "慕琛",
+   "role": "官员"
+  },
+  {
+   "name": "李旭升",
+   "role": "官员"
+  },
+  {
+   "name": "彭鹏",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21611,
+ "page_range": "442-443"
+}

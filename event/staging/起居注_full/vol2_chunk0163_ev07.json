@@ -1,0 +1,40 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十六日己丑",
+ "event_role": "人事任免",
+ "summary": "九卿会推册封安南国王正副使，康熙帝询问满官可否差往，命再推优通汉文满官一员与汉官同往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙卓",
+   "role": "编修正使"
+  },
+  {
+   "name": "王又旦",
+   "role": "给事中副使"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "安南国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16307,
+ "page_range": "369-370"
+}

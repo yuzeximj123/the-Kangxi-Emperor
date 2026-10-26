@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "初四日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部尚书达哈塔等题工部员外郎正蓝旗温宝员缺，以刑部主事刘向拟正、户部主事黑成纳拟陪引见。",
+ "people": [
+  {
+   "name": "达哈塔",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "温宝",
+   "role": "工部员外郎"
+  },
+  {
+   "name": "刘向",
+   "role": "刑部主事，拟正"
+  },
+  {
+   "name": "黑成纳",
+   "role": "户部主事，拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22117,
+ "page_range": "477-478"
+}

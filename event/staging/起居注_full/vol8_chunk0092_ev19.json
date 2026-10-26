@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "初十日乙效",
+ "event_role": "司法案件",
+ "summary": "都察院题镶蓝旗乌枪护军索这贷中闻控告护军一案，康熙帝御畅春园内游宁居听政处理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索这贷中闻",
+   "role": "乌枪护军"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "游宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9219,
+ "page_range": "195-196"
+}

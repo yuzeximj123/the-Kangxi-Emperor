@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十一日丙成",
+ "event_role": "皇帝行止",
+ "summary": "酉时，康熙帝还自玉泉山回宫。起居注官牛钮记录。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "玉泉山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13811,
+ "page_range": "319-320"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 14,
+ "month": 5,
+ "day_text": "十六日癸卯",
+ "event_role": "军务",
+ "summary": "抚远大将军多罗信郡王鄂查、副将军都统大学士图海等统领大兵征讨察哈尔国王布尔尼，灭察哈尔国，班师凯旋。",
+ "people": [
+  {
+   "name": "鄂查",
+   "role": "抚远大将军、多罗信郡王"
+  },
+  {
+   "name": "图海",
+   "role": "副将军、都统、大学士"
+  },
+  {
+   "name": "布尔尼",
+   "role": "察哈尔国王"
+  }
+ ],
+ "places": [
+  "察哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9330,
+ "page_range": "243-244"
+}

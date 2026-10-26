@@ -1,0 +1,36 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十二日丙申",
+ "event_role": "人事任免",
+ "summary": "九卿会推甘肃布政使巴锡病故员缺，康熙帝询问图尔庆为人后命其升补甘肃布政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "图尔庆",
+   "role": "郎中"
+  },
+  {
+   "name": "传腊塔",
+   "role": "监察御史"
+  },
+  {
+   "name": "巴锡",
+   "role": "甘肃布政使"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14009,
+ "page_range": "315-316"
+}

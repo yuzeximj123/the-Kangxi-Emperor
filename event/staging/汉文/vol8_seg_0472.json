@@ -1,0 +1,28 @@
+{
+ "date_raw": "贰拾肆日",
+ "reign_year": null,
+ "month": null,
+ "day": 24,
+ "event_role": "奏报地方情形",
+ "summary": "奏报通州于二十四日子时起下大雨至天明未止，并说明将带笔帖式唐扬阿等会同巡抚张伯行查奏。",
+ "people": [
+  {
+   "name": "唐扬阿",
+   "role": "笔帖式"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "奏報通州雨",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 472
+}

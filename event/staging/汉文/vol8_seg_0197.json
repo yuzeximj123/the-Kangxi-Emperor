@@ -1,0 +1,32 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "山东巡抚李树德奏谢皇上此前赏赐御书单条，并援引历任巡抚获赐匾对之例，恳请皇上再赐匾额对联以便摹刻悬挂。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚，奏折作者"
+  },
+  {
+   "name": "佛伦",
+   "role": "前任山东巡抚"
+  },
+  {
+   "name": "蒋陈锡",
+   "role": "前任山东巡抚"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "山东巡抚李树德奏谢赏赐图对事摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2786",
+ "order_index": 197
+}

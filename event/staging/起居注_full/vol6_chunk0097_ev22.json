@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": "初十日丁未",
+ "event_role": "司法案件",
+ "summary": "刑部题窃犯九儿已三次被获拟斩，康熙帝以其较强盗更甚，命俟满大学士病愈会同凯音布议奏。",
+ "people": [
+  {
+   "name": "九儿",
+   "role": "窃犯"
+  },
+  {
+   "name": "凯音布",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9722,
+ "page_range": "204-205"
+}

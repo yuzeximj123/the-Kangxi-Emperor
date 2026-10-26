@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十三年十月",
+ "reign_year": 43,
+ "month": 10,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "曹寅奏报江南太平无事、春寒多雨致低洼麦田略歉收及省城米价平稳，并恭请圣安。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江南",
+  "省城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "21",
+ "source_title": "江宁织造曹寅奏报江南雨水米价并请安折",
+ "order_index": 19
+}

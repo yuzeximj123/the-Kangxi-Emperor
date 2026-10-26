@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 11,
+ "day_text": "十二日己亥",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题强盗徐二、张所经审拟立斩，康熙帝从宽免死，照例减等给与黑龙江披甲新满洲为奴。",
+ "people": [
+  {
+   "name": "徐二",
+   "role": "强盗"
+  },
+  {
+   "name": "张所",
+   "role": "强盗"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13407,
+ "page_range": "280-281"
+}

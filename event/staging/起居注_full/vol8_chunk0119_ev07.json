@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "大学士松柱奏运粮紧要，康熙帝论马毙粮误之弊，命议政大臣、大学士、满汉九卿会同详议军务具奏。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巴尔库尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11907,
+ "page_range": "249-250"
+}

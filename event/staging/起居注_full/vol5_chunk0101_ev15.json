@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "初一日丁巳",
+ "event_role": "人事任免",
+ "summary": "康熙帝命海青传旨，原任内大臣明珠着与议政之列。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海青",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "明珠",
+   "role": "原任内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10115,
+ "page_range": "212-213"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "十五日",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门视朝，文武升转官员谢恩，喀尔喀部落土谢图汗来使台吉白尔黑、秉图请安贡使吴尔哲图额尔禄克等行礼，赐茶毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "白尔黑",
+   "role": "台吉来使"
+  },
+  {
+   "name": "吴尔哲图额尔禄克",
+   "role": "请安贡使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4312,
+ "page_range": "129-130"
+}

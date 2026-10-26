@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙四十八年五月初八日",
+ "reign_year": 48,
+ "month": 5,
+ "day": 26,
+ "event_role": "其他",
+ "summary": "漕运总督桑格奏报自己奉调补授江南江西等处总督后回署理事的日期，并恭请圣安。",
+ "people": [
+  {
+   "name": "桑格",
+   "role": "漕运总督，奏报人"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝称自己自出口以来身体比先前又觉好些。",
+ "source_title": "直隸巡撫趙弘燮奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "500",
+ "order_index": 161
+}

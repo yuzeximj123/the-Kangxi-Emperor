@@ -1,0 +1,54 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "十三日乙卯",
+ "event_role": "司法案件",
+ "summary": "审阅诈骗人参银两之林三等，上以林三假冒九门提督家人吓诈银两，着将林三、叶三勾决，余不必勾。",
+ "people": [
+  {
+   "name": "林三",
+   "role": "罪犯"
+  },
+  {
+   "name": "叶三",
+   "role": "罪犯"
+  },
+  {
+   "name": "叶二",
+   "role": "罪犯"
+  },
+  {
+   "name": "丁大",
+   "role": "罪犯"
+  },
+  {
+   "name": "王章",
+   "role": "罪犯"
+  },
+  {
+   "name": "郭三",
+   "role": "罪犯"
+  },
+  {
+   "name": "李七",
+   "role": "罪犯"
+  },
+  {
+   "name": "李五",
+   "role": "罪犯"
+  },
+  {
+   "name": "丁二",
+   "role": "罪犯"
+  },
+  {
+   "name": "杨八郎",
+   "role": "罪犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13914,
+ "page_range": "289-290"
+}

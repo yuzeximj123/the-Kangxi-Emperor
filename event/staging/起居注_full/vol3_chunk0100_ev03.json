@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 7,
+ "day_text": "十八日丙子",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行幄，侍郎佛伦、学士图纳等以折本请旨，兵部题太常寺牺牲所所目、所副员缺请选用满官，议不准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "侍郎"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10003,
+ "page_range": "235-236"
+}

@@ -1,0 +1,41 @@
+{
+ "date_raw": "康熙四十八年正月十五日",
+ "reign_year": 48,
+ "month": null,
+ "day": 29,
+ "event_role": "请安谢恩",
+ "summary": "两广总督赵弘灿与广东巡抚范时崇奏请圣安，并报告奉旨寻访西洋格而墨斯（药）及转交西洋人书信、药炉等物，已差人赴澳门寻觅并收到部分药物呈送。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督"
+  },
+  {
+   "name": "范时崇",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "张常住",
+   "role": "武英殿监造员外郎，传旨人"
+  },
+  {
+   "name": "李人",
+   "role": "差官，赍送传旨"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "粤南",
+  "肇",
+  "澳门",
+  "广城"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸巡撫趙弘燮奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "443",
+ "order_index": 108
+}

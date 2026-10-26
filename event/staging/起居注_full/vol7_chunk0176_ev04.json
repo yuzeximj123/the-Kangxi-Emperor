@@ -1,0 +1,27 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命将理得浙江太湖营游击倭灰补授山西太原镇标右营游击。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭灰",
+   "role": "浙江太湖营游击"
+  }
+ ],
+ "places": [
+  "山西",
+  "太原",
+  "浙江",
+  "太湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17604,
+ "page_range": "363-364"
+}

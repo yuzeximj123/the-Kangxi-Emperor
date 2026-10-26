@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝御保和殿赐喀尔喀札萨克图汗子噶尔丹台吉等食并亲赐酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹台吉",
+   "role": "喀尔喀札萨克图汗子"
+  },
+  {
+   "name": "塞布吞阿海台吉",
+   "role": "噶尔丹族弟"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23303,
+ "page_range": "509-510"
+}

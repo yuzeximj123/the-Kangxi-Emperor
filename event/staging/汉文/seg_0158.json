@@ -1,0 +1,40 @@
+{
+ "date_raw": "康熙四十五年十二月",
+ "reign_year": 45,
+ "month": 12,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "广东巡抚范时崇奏谢皇上赏赐鹿肉条，表示感激并誓图报效。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李士英",
+   "role": "涉及人物"
+  },
+  {
+   "name": "于准",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "广东",
+  "江宁",
+  "两淮",
+  "通州",
+  "江苏"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "212",
+ "source_title": "广东巡抚范时崇奏报年丰收折",
+ "order_index": 158
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "二十六日癸未",
+ "event_role": "朝见受贺",
+ "summary": "石匣营副将师误德、游击赵武、守备张淑等、千总张六德等、把总陆金龙等来朝。",
+ "people": [
+  {
+   "name": "师误德",
+   "role": "石匣营副将"
+  },
+  {
+   "name": "赵武",
+   "role": "游击"
+  },
+  {
+   "name": "张淑等",
+   "role": "守备"
+  },
+  {
+   "name": "张六德等",
+   "role": "千总"
+  },
+  {
+   "name": "陆金龙等",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "石匣营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11314,
+ "page_range": "237-238"
+}

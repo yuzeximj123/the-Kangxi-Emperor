@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十九日丙辰",
+ "event_role": "军务",
+ "summary": "刑部侍郎宜昌阿奏尚之信不宜即送京，应待鼓噪兵丁或灭或抚再押送，康熙帝命依议行，押送兵百名乘驿骑来京，到日不必复往广东。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宜昌阿",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "尚之信",
+   "role": "藩王"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25924,
+ "page_range": "575-576"
+}

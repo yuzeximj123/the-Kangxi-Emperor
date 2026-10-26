@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": "初二日己酉",
+ "event_role": "谕旨决策",
+ "summary": "暂住密云县购养之苏尼忒等七旗贫人虽有粮粮并无衣服，康熙命大学士阿兰泰、侍卫吴达禅议奏。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "吴达禅",
+   "role": "亲近侍卫副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 714,
+ "page_range": "24-25"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十二日王子",
+ "event_role": "谕旨决策",
+ "summary": "户部覆河东巡盐御史曾寅条奏盐课事，康熙帝览奏有所谕示。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "曾寅",
+   "role": "河东巡盐御史"
+  }
+ ],
+ "places": [
+  "河东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21614,
+ "page_range": "489-490"
+}

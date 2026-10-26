@@ -1,0 +1,44 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题山西省缓决一案，康熙命张吉等监候缓决，黄甫胜等改为情真，曹寿民等改为可矜。",
+ "people": [
+  {
+   "name": "张吉",
+   "role": "案犯"
+  },
+  {
+   "name": "李如祥",
+   "role": "案犯"
+  },
+  {
+   "name": "赵世抢",
+   "role": "案犯"
+  },
+  {
+   "name": "黄甫胜",
+   "role": "案犯"
+  },
+  {
+   "name": "姚勋",
+   "role": "案犯"
+  },
+  {
+   "name": "曹寿民",
+   "role": "案犯"
+  },
+  {
+   "name": "张成虎",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19208,
+ "page_range": "395-396"
+}

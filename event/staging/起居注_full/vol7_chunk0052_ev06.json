@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "十八日癸巳",
+ "event_role": "河工水利",
+ "summary": "遣领侍卫内大臣公阿灵阿、侍郎傅继祖、来道阅视钱塘江坦。",
+ "people": [
+  {
+   "name": "阿灵阿",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "傅继祖",
+   "role": "侍郎"
+  },
+  {
+   "name": "来道",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "钱塘江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5206,
+ "page_range": "115-116"
+}

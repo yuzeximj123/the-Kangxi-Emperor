@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十三日辛酉",
+ "event_role": "司法案件",
+ "summary": "都察院题议原任刑部尚书希福等罪，康熙帝谕将敦多礼带所降余级发往黑龙江。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "原任刑部尚书"
+  },
+  {
+   "name": "敦多礼",
+   "role": "原系微员之人"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21304,
+ "page_range": "461-462"
+}

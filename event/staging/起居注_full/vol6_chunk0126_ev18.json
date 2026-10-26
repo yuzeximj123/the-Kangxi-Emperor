@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "初五日己巳",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问山东巡抚王国昌如何及火耗轻重，吕琨奏王国昌在地方安静，火耗亦未有增。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "吕琨",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12618,
+ "page_range": "262-263"
+}

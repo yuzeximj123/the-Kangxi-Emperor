@@ -1,0 +1,22 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "二十二日丁卯",
+ "event_role": "司法案件",
+ "summary": "宗人府因闲散宗室噶尔齐燕代吃闪控告内大臣额奇，请旨是否一并究拟或另交议处。",
+ "people": [
+  {
+   "name": "噶尔齐燕代吃闪",
+   "role": "闲散宗室"
+  },
+  {
+   "name": "额奇",
+   "role": "内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13401,
+ "page_range": "311-312"
+}

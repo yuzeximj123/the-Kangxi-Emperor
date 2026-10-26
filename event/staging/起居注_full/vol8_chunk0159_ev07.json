@@ -1,0 +1,29 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题镶白旗都统霍礼等出厂肥马瘦损应罚俸，康熙帝依议，舒占绕道行走免议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "霍礼",
+   "role": "镶白旗都统"
+  },
+  {
+   "name": "舒占",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "独石口",
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15907,
+ "page_range": "329-330"
+}

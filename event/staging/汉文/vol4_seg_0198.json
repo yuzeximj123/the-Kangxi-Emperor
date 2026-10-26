@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙伍拾贰年参月贰拾伍日",
+ "reign_year": 52,
+ "month": 3,
+ "day": 25,
+ "event_role": "奏报地方情形",
+ "summary": "高州府知府张其仁奏陈所见，并引两广总督赵弘灿题报早稻丰收、米价平减之事，请圣裁。",
+ "people": [
+  {
+   "name": "张其仁",
+   "role": "高州府知府，奏报人"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "两广总督，题报早稻丰收米价平减"
+  }
+ ],
+ "places": [
+  "高州府",
+  "京师",
+  "两广"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "高州府知府张其仁奏为所见仰请圣裁事折",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 198
+}

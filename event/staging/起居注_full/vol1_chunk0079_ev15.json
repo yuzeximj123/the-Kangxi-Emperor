@@ -1,0 +1,25 @@
+{
+ "reign_year": 13,
+ "month": 10,
+ "day_text": "初六日丙申",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率出征王及官员、在京王公大臣等赴堂子行礼，陈设大纛、鸣号拜毕，出西长安门目送领兵王启行后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "岳乐",
+   "role": "和硕安亲王"
+  }
+ ],
+ "places": [
+  "堂子",
+  "西长安门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7915,
+ "page_range": "215-216"
+}

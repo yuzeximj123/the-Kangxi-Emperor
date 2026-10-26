@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "十八日甲午",
+ "event_role": "贸易漕运",
+ "summary": "户部覆总督桑格题请沿途买卖浅粮另定例治罪，康熙帝以京师民食赖粮艘余米，命问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "总督"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4309,
+ "page_range": "97-98"
+}

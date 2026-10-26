@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "二十一日戊子",
+ "event_role": "弹劾参奏",
+ "summary": "奉天府尹金世鉴参牧马头目吴达禅率马厂人驱马入民田，帝命提拿并严议该管官员。",
+ "people": [
+  {
+   "name": "金世鉴",
+   "role": "奉天府尹"
+  },
+  {
+   "name": "吴达禅",
+   "role": "牧马头目"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6414,
+ "page_range": "140-141"
+}

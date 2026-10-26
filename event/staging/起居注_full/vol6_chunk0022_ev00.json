@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "三法司衙门覆议广东巡抚萧永藻题报强盗石兰生等拟斩一案，议准行。",
+ "people": [
+  {
+   "name": "萧永藻",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "石兰生",
+   "role": "强盗"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2200,
+ "page_range": "54-55"
+}

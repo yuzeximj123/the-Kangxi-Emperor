@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 10,
+ "day_text": "十三日己本",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝辰时往太皇太后宫问安毕，出午门，自崇文门进南苑大红门，驻足东宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "午门",
+  "崇文门",
+  "南苑大红门",
+  "东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5714,
+ "page_range": "171-172"
+}

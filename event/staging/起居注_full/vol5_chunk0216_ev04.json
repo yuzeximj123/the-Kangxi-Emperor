@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝对议政大臣所奏马匹调配事降旨依议，并令将库勒纳等送至册子每人给一头，分交于成龙、库勒纳处理。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "都御史"
+  }
+ ],
+ "places": [
+  "白塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21604,
+ "page_range": "442-443"
+}

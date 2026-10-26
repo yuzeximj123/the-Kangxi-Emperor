@@ -1,0 +1,22 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初七日乙亥",
+ "event_role": "谕旨决策",
+ "summary": "奉天将军伊巴汉题锦州、宁远水手迁巨流河运米请免钱粮，康熙帝命运米时地丁钱粮俱行蠲免。",
+ "people": [
+  {
+   "name": "伊巴汉",
+   "role": "奉天将军"
+  }
+ ],
+ "places": [
+  "锦州",
+  "宁远",
+  "巨流河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22213,
+ "page_range": "487-488"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十七日己已",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听部院各衙门官员面奏政事，兵部侍郎库勒纳等奏请前往贵州酌议土司事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18205,
+ "page_range": "407-408"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十四年五月二十一日",
+ "reign_year": 44,
+ "month": 5,
+ "day": 21,
+ "event_role": "奏报地方情形",
+ "summary": "河南巡抚赵弘燮奏报奉旨查察后河南境内及河滩并无蝗蝻生发，并令各属继续细查。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "许嗣与",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "河南",
+  "临清州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "101",
+ "source_title": "河南巡撫趙弘燮奏報河南並無蝗蝻生發情由摺",
+ "order_index": 74
+}

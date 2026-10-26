@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "二十三日王实",
+ "event_role": "人事任免",
+ "summary": "康熙帝命左都御史吴瑞升补刑部尚书员缺，张鹏副升补吴瑞所遗员缺。",
+ "people": [
+  {
+   "name": "吴瑞",
+   "role": "左都御史，升补刑部尚书"
+  },
+  {
+   "name": "张鹏副",
+   "role": "升补左都御史"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24212,
+ "page_range": "494-495"
+}

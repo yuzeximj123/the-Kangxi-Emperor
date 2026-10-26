@@ -1,0 +1,29 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": "二十四日丙申",
+ "event_role": "司法案件",
+ "summary": "覆请刑部汇题正法德林家人多泰因报信使主人逃走应枷号三个月鞭一百；康熙帝命多泰枷号鞭过后发往三姓与披甲之人为奴。",
+ "people": [
+  {
+   "name": "多泰",
+   "role": "德林家人"
+  },
+  {
+   "name": "德林",
+   "role": "多泰主人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "胶州",
+  "三姓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5409,
+ "page_range": "119-120"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 12,
+ "day_text": "十七日戊午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召学士熊赐履至懋勤殿，论言官风闻言事之弊及人主兼听广纳之道。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3003,
+ "page_range": "117-118"
+}

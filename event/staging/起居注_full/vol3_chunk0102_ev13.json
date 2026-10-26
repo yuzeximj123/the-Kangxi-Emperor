@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "初四日辛西",
+ "event_role": "司法案件",
+ "summary": "刑部题张林等杀张世兴父子三人两议，康熙帝采纳明珠等建议交九卿定议。",
+ "people": [
+  {
+   "name": "张林",
+   "role": "案犯"
+  },
+  {
+   "name": "张世兴",
+   "role": "被害人"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10213,
+ "page_range": "239-240"
+}

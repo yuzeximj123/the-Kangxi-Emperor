@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十八日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "议盛京侍郎塞黑题请丈量荡田苦地令民耕种事，康熙帝认为满洲人将有怨望，所得钱粮不过三千余两，命问户部堂官具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "塞黑",
+   "role": "盛京侍郎"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25304,
+ "page_range": "563-564"
+}

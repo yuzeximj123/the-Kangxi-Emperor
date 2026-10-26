@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "初九日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "吏部题张家口监督保住因不曾采买皮张议降级留任罚俸，康熙帝以今张家口与鄂罗斯贸易皮张易得，令保住或赔补或革职另议具奏。",
+ "people": [
+  {
+   "name": "保住",
+   "role": "张家口监督户部员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21331,
+ "page_range": "436-437"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 8,
+ "day_text": "二十七日丁卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝决定将裁革变崔及额齐尔图、布达西理三人协理扎鲁特部落旗下事务。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "变崔",
+   "role": "协理旗下事务"
+  },
+  {
+   "name": "额齐尔图",
+   "role": "协理旗下事务"
+  },
+  {
+   "name": "布达西理",
+   "role": "协理旗下事务"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3823,
+ "page_range": "88-89"
+}

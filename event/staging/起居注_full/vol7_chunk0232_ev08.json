@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "三十日庚成",
+ "event_role": "起居注官记录",
+ "summary": "记注起居注官把叙、常寿、海保、阿尔赛。",
+ "people": [
+  {
+   "name": "把叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "常寿",
+   "role": "起居注官"
+  },
+  {
+   "name": "海保",
+   "role": "起居注官"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23208,
+ "page_range": "475-476"
+}

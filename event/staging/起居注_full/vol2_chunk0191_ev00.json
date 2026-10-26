@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补户部郎中伊尔格图调补员缺，康熙帝命将票签侍读雍艾补授此缺。",
+ "people": [
+  {
+   "name": "伊尔格图",
+   "role": "户部郎中"
+  },
+  {
+   "name": "吴什巴",
+   "role": "拟正员外郎"
+  },
+  {
+   "name": "倭屯",
+   "role": "拟陪员外郎"
+  },
+  {
+   "name": "雍艾",
+   "role": "票签侍读"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19100,
+ "page_range": "425-426"
+}

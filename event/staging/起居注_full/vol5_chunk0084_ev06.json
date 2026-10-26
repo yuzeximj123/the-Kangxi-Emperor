@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "初七日丙申",
+ "event_role": "谕旨决策",
+ "summary": "太仆寺卿杨舒奏绥赫图曾为本衙门官、其人亦可，康熙顾副都统吴达禅询问，吴达禅奏绥赫图甚为良善、全无好处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨舒",
+   "role": "太仆寺卿"
+  },
+  {
+   "name": "绥赫图",
+   "role": "主簿"
+  },
+  {
+   "name": "吴达禅",
+   "role": "副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8406,
+ "page_range": "178-179"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "二十九日庚成",
+ "event_role": "人事任免",
+ "summary": "广东汉军副都统石如玉员缺，康熙帝令会推步军统领时一并议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石如玉",
+   "role": "广东汉军副都统"
+  },
+  {
+   "name": "范承烈",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1628,
+ "page_range": "43-44"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝在泳台门赐见西宁总兵官李芳述用食，询问其出身效力之处并谕令爱养兵士固守边陲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李芳述",
+   "role": "西宁总兵官"
+  }
+ ],
+ "places": [
+  "泳台门",
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21000,
+ "page_range": "463-464"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十五年二月初十日",
+ "reign_year": 55,
+ "month": 2,
+ "day": 10,
+ "event_role": "请安谢恩",
+ "summary": "甘肃提督师懿德奏谢康熙帝颁赐哈密等处满汉官兵食物并训谕，表示谨遵圣训、与旧将商议行事，愿竭力效命早日平定西陲。",
+ "people": [
+  {
+   "name": "师懿德",
+   "role": "甘肃提督总兵官，奏折作者"
+  },
+  {
+   "name": "席柱",
+   "role": "将军，同奏谢恩"
+  }
+ ],
+ "places": [
+  "巴里坤",
+  "哈密"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 264
+}

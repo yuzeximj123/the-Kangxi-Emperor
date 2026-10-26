@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十四日成申",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问王预龄居官何如，王熙奏其谨饬，又比较董讷，称王天龄考试仅及一半不能定优劣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王预龄",
+   "role": "官员"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "董讷",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15606,
+ "page_range": "347-348"
+}

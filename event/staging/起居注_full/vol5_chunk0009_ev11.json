@@ -1,0 +1,37 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": "初五日闪卯",
+ "event_role": "人事任免",
+ "summary": "兵部题宁古塔副都统雅泰员缺，康熙帝询问城守尉耿额，伊桑阿奏其积谷有益于兵，帝令耿额升补副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雅泰",
+   "role": "宁古塔副都统"
+  },
+  {
+   "name": "布颜图",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "耿额",
+   "role": "城守尉"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "应墩"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 911,
+ "page_range": "28-29"
+}

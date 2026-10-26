@@ -1,0 +1,37 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "十三日甲午",
+ "event_role": "人事任免",
+ "summary": "提督徐治都题请实授获州府署事阿大禅，部议不允，康熙依部议并令严旨速催四川补授官员赴任。",
+ "people": [
+  {
+   "name": "徐治都",
+   "role": "提督"
+  },
+  {
+   "name": "阿大禅",
+   "role": "获州府署事"
+  },
+  {
+   "name": "刘京",
+   "role": "补授官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "获州府",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6108,
+ "page_range": "165-166"
+}

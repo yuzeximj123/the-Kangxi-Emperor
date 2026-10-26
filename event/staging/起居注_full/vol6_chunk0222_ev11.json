@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十九日壬申",
+ "event_role": "司法案件",
+ "summary": "刑部等题江西省秋审重犯，康熙帝命刘月三改监候缓决，余照所审完结。",
+ "people": [
+  {
+   "name": "刘月三",
+   "role": "案犯"
+  },
+  {
+   "name": "邹应宜",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "江西省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22211,
+ "page_range": "454-455"
+}

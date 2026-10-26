@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部议奏琼州总兵官吴启爵征派黎人米石年月未报，应削去军功纪录一次，康熙准议。",
+ "people": [
+  {
+   "name": "吴启爵",
+   "role": "琼州总兵官"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "琼州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23101,
+ "page_range": "474-475"
+}

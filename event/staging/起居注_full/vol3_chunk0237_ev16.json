@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十三日己未",
+ "event_role": "起居注官记录",
+ "summary": "已时皇太子作书，书完以所书汉文示汤斌等，汤斌、傅叔元、博济称赞其书法兼钟王晋唐之长。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  },
+  {
+   "name": "傅叔元",
+   "role": "起居注官"
+  },
+  {
+   "name": "博济",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23716,
+ "page_range": "509-510"
+}

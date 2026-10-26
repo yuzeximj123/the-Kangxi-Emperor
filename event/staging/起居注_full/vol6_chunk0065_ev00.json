@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以董安国办理河工不合宜，命解任，以于成龙补授总河，速召来京陛见详议河务。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董安国",
+   "role": "原总河"
+  },
+  {
+   "name": "于成龙",
+   "role": "新任总河"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6500,
+ "page_range": "140-141"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 6,
+ "day_text": "十六日甲子",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题窃盗诺木土拟绞，康熙帝令从宽免绞减等发遣黑龙江为奴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺木土",
+   "role": "窃盗"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 112,
+ "page_range": "12-13"
+}

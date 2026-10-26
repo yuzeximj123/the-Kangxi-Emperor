@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "初二日辛未",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁学士董讷升任员缺开列少詹事王泽弘等，康熙帝命太常寺郭玫升补学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董讷",
+   "role": "内阁学士"
+  },
+  {
+   "name": "王泽弘",
+   "role": "少詹事"
+  },
+  {
+   "name": "郭玫",
+   "role": "太常寺"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4612,
+ "page_range": "104-105"
+}

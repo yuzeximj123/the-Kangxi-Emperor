@@ -1,0 +1,52 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "二十五日己酉",
+ "event_role": "人事任免",
+ "summary": "兵部题叙总兵官吴英等攻克台湾军功，康熙帝谕令分别给与世职、授官，有功官员遇缺先用。",
+ "people": [
+  {
+   "name": "吴英",
+   "role": "总兵官"
+  },
+  {
+   "name": "林贤",
+   "role": "总兵官"
+  },
+  {
+   "name": "陈昌",
+   "role": "总兵官"
+  },
+  {
+   "name": "陈龙",
+   "role": "官员"
+  },
+  {
+   "name": "杨嘉瑞",
+   "role": "官员"
+  },
+  {
+   "name": "葛释勋",
+   "role": "官员"
+  },
+  {
+   "name": "吴启事",
+   "role": "官员"
+  },
+  {
+   "name": "蓝理",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14403,
+ "page_range": "323-324"
+}

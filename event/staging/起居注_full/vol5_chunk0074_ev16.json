@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": "二十一日辛巳",
+ "event_role": "人事任免",
+ "summary": "工部制造库郎中恩伊里员缺，康熙帝称惟苏赫纳曾任监督、绥色为人尽可，命补授绥色为制造库郎中。",
+ "people": [
+  {
+   "name": "恩伊里",
+   "role": "工部制造库郎中"
+  },
+  {
+   "name": "苏赫纳",
+   "role": "郎中"
+  },
+  {
+   "name": "绥色",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7416,
+ "page_range": "158-159"
+}

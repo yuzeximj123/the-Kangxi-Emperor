@@ -1,0 +1,21 @@
+{
+ "reign_year": 37,
+ "month": 1,
+ "day_text": "二十四日庚子",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝由西直门进神武门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西直门",
+  "神武门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3011,
+ "page_range": "70-71"
+}

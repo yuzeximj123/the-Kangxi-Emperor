@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十日于丑",
+ "event_role": "其他",
+ "summary": "康熙帝赐广东碍石总兵官陈瑶备鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈瑶",
+   "role": "广东碍石总兵官"
+  }
+ ],
+ "places": [
+  "广东碍石"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10709,
+ "page_range": "249-250"
+}

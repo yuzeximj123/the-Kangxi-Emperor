@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙伍拾年拾壹月初拾日",
+ "reign_year": 50,
+ "month": 11,
+ "day": 10,
+ "event_role": "请安谢恩",
+ "summary": "原任陕西肃州总兵官麦良璧奏谢皇上朱批问安并赏赐鹿肉，表示感恩戴德，祝皇上万寿无疆。",
+ "people": [
+  {
+   "name": "麦良璧",
+   "role": "原任陕西肃州总兵官都督佥事加二级，奏折作者"
+  },
+  {
+   "name": "岑世佐",
+   "role": "涿州营参将"
+  },
+  {
+   "name": "陈国兴",
+   "role": "麦良璧家人，赍进奏折者"
+  }
+ ],
+ "places": [
+  "陕西",
+  "肃州",
+  "涿州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示皇帝已阅知此事。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 285
+}

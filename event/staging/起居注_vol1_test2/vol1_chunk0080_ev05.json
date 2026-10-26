@@ -1,0 +1,26 @@
+{
+ "reign_year": 13,
+ "month": 10,
+ "day_text": "十七日本未",
+ "event_role": "人事任免",
+ "summary": "康熙帝命头等侍卫对亲赐升任福建总兵官李栖芳鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "对亲",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "李栖芳",
+   "role": "福建总兵官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8005,
+ "page_range": "217-218"
+}

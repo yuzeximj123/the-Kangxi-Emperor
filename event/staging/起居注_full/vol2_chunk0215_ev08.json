@@ -1,0 +1,37 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "十七日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "明珠等奏会议施琅抚海功，请加封施琅并议叙标下官兵，康熙帝依议行。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "施琅",
+   "role": "伯"
+  },
+  {
+   "name": "张勇",
+   "role": "将军"
+  },
+  {
+   "name": "王进宝",
+   "role": "将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "海岛",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21508,
+ "page_range": "473-474"
+}

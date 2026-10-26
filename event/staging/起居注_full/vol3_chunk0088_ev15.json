@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "十六日乙巳",
+ "event_role": "议政听政",
+ "summary": "早康熙帝御瀛台内殿，讲官常书、孙在丰、归允肃进讲《君子偕老》《班今阳今》章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8815,
+ "page_range": "211-212"
+}

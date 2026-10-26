@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十年五月三十日",
+ "reign_year": 50,
+ "month": 5,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮奏请皇上将张连登升补通永道员缺，以资弹压地方，并称人地相宜。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚、都察院右副都御史"
+  },
+  {
+   "name": "张连登",
+   "role": "拟升补通永道员"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "通永"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批称已有旨了。",
+ "source_title": "直隸巡撫趙弘燮奏請陞補張連登為通永道員摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "868",
+ "order_index": 176
+}

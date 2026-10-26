@@ -1,0 +1,21 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": "初一日乙卯",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御中和殿受内大臣、侍卫及内阁、翰林院等执事各官行礼，又御太和门受诸王、文武官员及朝正外藩、朝鲜使臣庆贺元旦表行礼赐茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3205,
+ "page_range": "107-108"
+}

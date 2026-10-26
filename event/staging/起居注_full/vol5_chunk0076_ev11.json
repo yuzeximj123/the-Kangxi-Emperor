@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "初三日生辰",
+ "event_role": "朝见受贺",
+ "summary": "顺义县防守御卓博尔拖、知县黄景式、把总李尚文等来朝。",
+ "people": [
+  {
+   "name": "卓博尔拖",
+   "role": "顺义县防守御"
+  },
+  {
+   "name": "黄景式",
+   "role": "顺义县知县"
+  },
+  {
+   "name": "李尚文",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "顺义县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7611,
+ "page_range": "162-163"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 27,
+ "month": 12,
+ "day_text": "二十七日丙寅",
+ "event_role": "皇帝行止",
+ "summary": "午时康熙帝由朝阳门进东华门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝阳门",
+  "东华门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5038,
+ "page_range": "112-113"
+}

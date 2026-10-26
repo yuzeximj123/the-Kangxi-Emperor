@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论往西安审事傅腊塔、张鹏副等不妥人皆不服，张鹏副操守尚善但诸事随司官常佑专擅，俟拟定到日再裁夺。",
+ "people": [
+  {
+   "name": "傅腊塔",
+   "role": "审事官"
+  },
+  {
+   "name": "张鹏副",
+   "role": "审事官"
+  },
+  {
+   "name": "常佑",
+   "role": "司官"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12702,
+ "page_range": "264-265"
+}

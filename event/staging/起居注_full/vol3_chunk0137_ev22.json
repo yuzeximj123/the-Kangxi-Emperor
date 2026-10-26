@@ -1,0 +1,36 @@
+{
+ "reign_year": 25,
+ "month": 1,
+ "day_text": "初一日乙本",
+ "event_role": "人事任免",
+ "summary": "吏部等大计题参陕西布政使希格不谨拟革职，康熙帝询问后命希格革职余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希格",
+   "role": "陕西布政使"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "鄂恺",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13722,
+ "page_range": "309-310"
+}

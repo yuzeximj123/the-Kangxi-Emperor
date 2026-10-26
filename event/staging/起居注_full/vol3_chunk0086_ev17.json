@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "初六日乙未",
+ "event_role": "人事任免",
+ "summary": "吏部题工部郎中伊图解任员缺，拟以尼雅汉正、秦齐喇陪，康熙帝以尼雅汉为人甚良，命嗣后郎中缺不必拟补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尼雅汉",
+   "role": "员外郎拟正"
+  },
+  {
+   "name": "秦齐喇",
+   "role": "拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8617,
+ "page_range": "207-208"
+}

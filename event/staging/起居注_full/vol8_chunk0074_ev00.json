@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部尚书富宁安等引见应升翰林院官员，康熙询问高与履历并命查明。",
+ "people": [
+  {
+   "name": "富宁安",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "高与",
+   "role": "翰林院官员"
+  },
+  {
+   "name": "汤右曾",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7400,
+ "page_range": "159-160"
+}

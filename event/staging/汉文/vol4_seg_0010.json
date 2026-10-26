@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十一年二月初二日",
+ "reign_year": 51,
+ "month": 2,
+ "day": 2,
+ "event_role": "祭祀典礼",
+ "summary": "镇海将军马三奇会同京口文武旗营僚属在金山江天寺启建道场，虔诚讽诵，恭祝康熙皇帝万寿无疆并请圣安。",
+ "people": [
+  {
+   "name": "马三奇",
+   "role": "镇海将军一等侯，奏折具奏人"
+  }
+ ],
+ "places": [
+  "金山江天寺",
+  "京口"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "鎮海將軍馬三奇奏為率屬啓建道場共祝萬壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1046",
+ "order_index": 10
+}

@@ -1,0 +1,35 @@
+{
+ "date_raw": "柒月拾壹日",
+ "reign_year": null,
+ "month": 7,
+ "day": 11,
+ "event_role": "请安谢恩",
+ "summary": "陕西兰州总兵官路交华遣家人刘鼎赍摺进京，叩请皇帝圣安，并表达边地安闲、感荷皇恩之情。",
+ "people": [
+  {
+   "name": "路交华",
+   "role": "陕西兰州总兵官，具奏请安"
+  },
+  {
+   "name": "刘鼎",
+   "role": "路交华家人，赍摺进京代请圣安"
+  },
+  {
+   "name": "陈善",
+   "role": "陕西固原州总兵官，列名于摺末"
+  }
+ ],
+ "places": [
+  "陕西",
+  "兰州",
+  "固原州",
+  "京州盐场"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“朕安”，表示皇帝安好。",
+ "source_title": "路交華請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 205
+}

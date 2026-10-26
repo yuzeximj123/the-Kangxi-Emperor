@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十一日辛雍",
+ "event_role": "司法案件",
+ "summary": "议革阿达哈哈番聂有过职并令其妻离归母家，康熙帝以其情罪可恶，命流徙宁古塔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  },
+  {
+   "name": "聂有过",
+   "role": "阿达哈哈番"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20306,
+ "page_range": "449-450"
+}

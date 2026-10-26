@@ -1,0 +1,23 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "三十日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆直隶巡抚赵弘党题房山县水洞坡有矿、宛平民偷挖，请交汛千总巡查，康熙照所请。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "总督管理直隶巡抚事务"
+  }
+ ],
+ "places": [
+  "房山县",
+  "水洞坡",
+  "宛平县",
+  "鸡儿台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16312,
+ "page_range": "337-338"
+}

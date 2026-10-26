@@ -1,0 +1,20 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "十三日壬午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸三道河。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三道河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20618,
+ "page_range": "455-456"
+}

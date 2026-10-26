@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十五日庚子",
+ "event_role": "皇帝行止",
+ "summary": "御舟泊于京口，协领密献勋、游击孙镇野、防御任俊等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "密献勋",
+   "role": "协领"
+  },
+  {
+   "name": "孙镇野",
+   "role": "游击"
+  },
+  {
+   "name": "任俊",
+   "role": "防御"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5306,
+ "page_range": "117-118"
+}

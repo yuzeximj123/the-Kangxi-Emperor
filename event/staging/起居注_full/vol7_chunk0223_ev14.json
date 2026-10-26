@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "十一日癸亥",
+ "event_role": "司法案件",
+ "summary": "刑部覆直隶巡抚赵弘所题行劫傅良佐家大盗张成福应立斩，康熙帝令从宽免死减等发往黑龙江安插。",
+ "people": [
+  {
+   "name": "张成福",
+   "role": "大盗"
+  },
+  {
+   "name": "赵弘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "傅良佐",
+   "role": "事主"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22314,
+ "page_range": "457-458"
+}

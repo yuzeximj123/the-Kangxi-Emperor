@@ -1,0 +1,32 @@
+{
+ "reign_year": 11,
+ "month": 7,
+ "day_text": "初四日了丑",
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝复御乾清门，赐喀尔喀、生额固山、翁牛趟等部落台吉宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额尔格伯什",
+   "role": "喀尔喀部落二品台吉"
+  },
+  {
+   "name": "噶尔玛",
+   "role": "生额固山三品台吉"
+  },
+  {
+   "name": "布尔户搭克",
+   "role": "翁牛趟部落三品台吉"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1930,
+ "page_range": "95-96"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "题补江西粮道郑曼员缺，拟以外转御史郑维孜补授，康熙以其品行不端命另拟具奏。",
+ "people": [
+  {
+   "name": "郑维孜",
+   "role": "御史"
+  },
+  {
+   "name": "郑曼",
+   "role": "江西粮道"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23209,
+ "page_range": "474-475"
+}

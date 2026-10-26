@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "初一日壬寅",
+ "event_role": "朝见受贺",
+ "summary": "汾州府知府沈宁等、平遥县知县王绥等、汾州营守备钱士谷等来朝。",
+ "people": [
+  {
+   "name": "沈宁",
+   "role": "汾州府知府"
+  },
+  {
+   "name": "王绥",
+   "role": "平遥县知县"
+  },
+  {
+   "name": "钱士谷",
+   "role": "汾州营守备"
+  }
+ ],
+ "places": [
+  "汾州府",
+  "平遥县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7825,
+ "page_range": "167-168"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十四日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕讲官严我斯身体肥重，免其御门侍班，仍以讲官办事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "严我斯",
+   "role": "讲官"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18107,
+ "page_range": "405-406"
+}

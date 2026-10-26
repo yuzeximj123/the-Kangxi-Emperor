@@ -1,0 +1,20 @@
+{
+ "reign_year": 24,
+ "month": 8,
+ "day_text": "十七日乙已",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝还驻玲珑谷口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "玲珑谷口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10113,
+ "page_range": "237-238"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "初九日丁酉",
+ "event_role": "弹劾参奏",
+ "summary": "理藩院员外郎黑硕色参奏王新命等不用已言，永定河堤岸尚未告竣。",
+ "people": [
+  {
+   "name": "黑硕色",
+   "role": "理藩院员外郎"
+  },
+  {
+   "name": "王新命",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18113,
+ "page_range": "372-373"
+}

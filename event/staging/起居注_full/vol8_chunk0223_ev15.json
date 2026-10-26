@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "唐保柱拿送偷刨人参未得之张国言等，康熙帝命有名之人枷号鞭责后交隆科多割去一边脚筋。",
+ "people": [
+  {
+   "name": "唐保柱",
+   "role": "署理盛京将军事务前锋统领伯"
+  },
+  {
+   "name": "张国言",
+   "role": "案犯"
+  },
+  {
+   "name": "隆科多",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22315,
+ "page_range": "457-458"
+}

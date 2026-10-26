@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "湖广总督鄂海题辰州副将范维典员缺请拣选补授，康熙令查记名应升副将人员开折具奏。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "湖广总督"
+  },
+  {
+   "name": "范维典",
+   "role": "辰州副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "辰州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16306,
+ "page_range": "337-338"
+}

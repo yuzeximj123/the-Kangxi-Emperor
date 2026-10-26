@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "都统启奏佳选家产尽绝，康熙命将佳选家属交辛者库，并令都察院详察鄂伦代所论佳选行事不端之事。",
+ "people": [
+  {
+   "name": "佳选",
+   "role": "涉案都统"
+  },
+  {
+   "name": "鄂伦代",
+   "role": "公"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22500,
+ "page_range": "460-461"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": "二十八日庚戌",
+ "event_role": "皇帝行止",
+ "summary": "是日康熙帝驻跸良乡县窦店庄，赐护军校、护军等猪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "良乡县",
+  "窦店庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 321,
+ "page_range": "17-18"
+}

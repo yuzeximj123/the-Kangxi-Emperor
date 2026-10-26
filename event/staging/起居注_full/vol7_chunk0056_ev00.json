@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝详阅会试各卷，拣出第五卷王式丹、第七卷赵晋等佳卷另置，并令王鸿绪、吴涵等朗读与诸臣共听。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴涵",
+   "role": "读卷官"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "读卷官"
+  },
+  {
+   "name": "扬叙",
+   "role": "读卷官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5600,
+ "page_range": "123-124"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "初八日已已",
+ "event_role": "议政听政",
+ "summary": "康熙问陈玉居官如何，张鹏翮奏操守好，康熙论小吏与大吏之别，称陈琅办事必好、人极和平。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "陈玉",
+   "role": "官员"
+  },
+  {
+   "name": "陈琅",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12915,
+ "page_range": "269-270"
+}

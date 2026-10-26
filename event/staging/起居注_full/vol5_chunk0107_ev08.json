@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "十八日甲成",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝令皇长子及领侍卫内大臣马思咯于滚诺尔地方，赏挽车牛一百十头给车辆沉重牲口疲乏官兵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  },
+  {
+   "name": "马思咯",
+   "role": "领侍卫内大臣"
+  }
+ ],
+ "places": [
+  "滚诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10708,
+ "page_range": "224-225"
+}

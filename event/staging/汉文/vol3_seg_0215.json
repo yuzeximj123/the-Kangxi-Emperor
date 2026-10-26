@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十年八月初六日",
+ "reign_year": 50,
+ "month": 8,
+ "day": 6,
+ "event_role": "奏报地方情形",
+ "summary": "江西巡抚郎廷极奏报地方雨水调匀、秋稼丰收、晚稻将熟及米价情况，并恭请圣安、转述御批。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "傅圣泽",
+   "role": "西洋人，被护送进京"
+  }
+ ],
+ "places": [
+  "江西",
+  "京口",
+  "口外",
+  "京中"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批答知道了，并告知近京口外大田颇好、雨旸顺时、田苗可望十分收成。",
+ "source_title": "江西巡撫郎廷極奏報年成雨水糧價摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "919",
+ "order_index": 215
+}

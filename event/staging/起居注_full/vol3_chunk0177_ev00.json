@@ -1,0 +1,40 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "礼部题请为侍郎孙在丰所管下河事务铸给印信，康熙询问大学士意见，明珠等议下河无定所难以建衙，印文不便刊刻等处字样，康熙认可。",
+ "people": [
+  {
+   "name": "孙在丰",
+   "role": "侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17700,
+ "page_range": "389-390"
+}

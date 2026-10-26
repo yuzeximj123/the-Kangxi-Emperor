@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "二十九日辛西",
+ "event_role": "人事任免",
+ "summary": "议病故刑部尚书刘楗应否与谥，康熙帝询问任久近之例，索额图奏无别，遂命仍与谥。",
+ "people": [
+  {
+   "name": "刘楗",
+   "role": "故刑部尚书"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19416,
+ "page_range": "445-446"
+}

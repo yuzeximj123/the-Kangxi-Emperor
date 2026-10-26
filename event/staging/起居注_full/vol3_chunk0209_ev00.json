@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "靳辅奏请令孙在丰派人至高家堰查看开坝，以免众议其放水至下河。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  },
+  {
+   "name": "孙在丰",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "淘斌",
+   "role": "大臣"
+  },
+  {
+   "name": "佛伦",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "下河",
+  "盱眙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20900,
+ "page_range": "453-454"
+}

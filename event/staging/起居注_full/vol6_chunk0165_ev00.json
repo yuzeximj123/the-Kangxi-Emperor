@@ -1,0 +1,36 @@
+{
+ "reign_year": 39,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝批评九卿对刚五达等案蒙混具奏，欲于秋审出脱，命将本发还九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "刚五达",
+   "role": "案犯"
+  },
+  {
+   "name": "赵国宣",
+   "role": "拟罪官员"
+  },
+  {
+   "name": "宋超",
+   "role": "买人者"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16500,
+ "page_range": "340-341"
+}

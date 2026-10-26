@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "亲近侍卫吴什传谕，一等侍卫米奏报噶尔丹所带回子往呼户诺尔事，康熙帝命传谕议政诸大臣。",
+ "people": [
+  {
+   "name": "吴什",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "米",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "满丕",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "喀伦",
+  "呼户诺尔",
+  "扎锡巴图尔台吉处"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19002,
+ "page_range": "390-391"
+}

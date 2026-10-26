@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "吏部题原任甘肃巡抚巴锡保题游击张所钦议销级留任，康熙帝以其保举不合，命尽削所加五级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "原任甘肃巡抚"
+  },
+  {
+   "name": "张所钦",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24406,
+ "page_range": "531-532"
+}

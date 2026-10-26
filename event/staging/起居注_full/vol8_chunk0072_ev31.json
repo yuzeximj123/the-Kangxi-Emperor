@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": "初一日己已",
+ "event_role": "人事任免",
+ "summary": "覆请吏部议贵州巡抚刘南枢请以道员白灌补授按察使，议不准行，康熙帝着照该抚所题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘南枢",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "白灌",
+   "role": "道员"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7231,
+ "page_range": "155-156"
+}

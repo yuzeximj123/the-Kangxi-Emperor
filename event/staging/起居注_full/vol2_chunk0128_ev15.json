@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "十八日甲午",
+ "event_role": "人事任免",
+ "summary": "日讲起居注官员缺，开列侍讲学士卢琦等十二人，帝命补归允肃。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卢琦",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "归允肃",
+   "role": "补授官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12815,
+ "page_range": "299-300"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初二日王成",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆奏安徽巡抚薛柱斗请将驿站钱粮二分入兵饷，康熙帝准奏令票优旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "薛柱斗",
+   "role": "安徽巡抚"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7809,
+ "page_range": "191-192"
+}

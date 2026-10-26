@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "二十九日庚成",
+ "event_role": "人事任免",
+ "summary": "覆总兵官俞益谟题右卫守备员缺，康熙帝令将亲阅拣选记名人员居首者开列呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俞益谟",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1629,
+ "page_range": "43-44"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "马齐等奏河东巡盐御史马尔泰请盐引用省扒一事，九卿议称有益，康熙帝谕令依部议。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "马尔泰",
+   "role": "河东巡盐御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河东",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6105,
+ "page_range": "133-134"
+}

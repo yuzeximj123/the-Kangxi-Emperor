@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "十八日戊辰",
+ "event_role": "司法案件",
+ "summary": "刑部等覆江西巡抚佟国囊题大盗关奇等照律正法，康熙令会同三法司详审造谋为首者。",
+ "people": [
+  {
+   "name": "佟国囊",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "关奇",
+   "role": "大盗"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12416,
+ "page_range": "259-260"
+}

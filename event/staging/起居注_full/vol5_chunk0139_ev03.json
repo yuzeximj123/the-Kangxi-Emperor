@@ -1,0 +1,20 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十三日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "敦住传谕各驿站，遇步行仆从人务必给饭食并酌量给米遣发，疲乏马匹牲口拣水草佳处牧放，回时明白交还本主。",
+ "people": [
+  {
+   "name": "敦住",
+   "role": "传谕者"
+  }
+ ],
+ "places": [
+  "各驿站"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13903,
+ "page_range": "288-289"
+}

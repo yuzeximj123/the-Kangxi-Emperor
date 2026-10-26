@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十日乙未",
+ "event_role": "人事任免",
+ "summary": "兵部题庄浪营参将员缺，议不准以游击杨琨补授，康熙帝命依该督所题补授杨琨。",
+ "people": [
+  {
+   "name": "杨琨",
+   "role": "游击"
+  },
+  {
+   "name": "华显",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "庄浪营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5210,
+ "page_range": "115-116"
+}

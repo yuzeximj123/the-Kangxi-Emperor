@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "初三日甲申",
+ "event_role": "议政听政",
+ "summary": "尚书马齐、凯音布、图纳奏保举人才之难，康熙帝论指名用人不可开例。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "凯音布",
+   "role": "尚书"
+  },
+  {
+   "name": "图纳",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18511,
+ "page_range": "380-381"
+}

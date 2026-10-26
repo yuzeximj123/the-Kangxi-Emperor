@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十六日甲成",
+ "event_role": "其他",
+ "summary": "康熙帝赐陕西白路口参将缴煜章披箭五枝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "缴煜章",
+   "role": "陕西白路口参将"
+  }
+ ],
+ "places": [
+  "陕西白路口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3303,
+ "page_range": "77-78"
+}

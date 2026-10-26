@@ -1,0 +1,40 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十日甲帮",
+ "event_role": "朝见受贺",
+ "summary": "古北口总兵官马进良等官员来朝见康熙帝。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "郭里",
+   "role": "督理又站员外郎"
+  },
+  {
+   "name": "图巴海",
+   "role": "监督员外郎"
+  },
+  {
+   "name": "鄂柴",
+   "role": "防御"
+  },
+  {
+   "name": "杨县",
+   "role": "都司"
+  },
+  {
+   "name": "赵弘摊",
+   "role": "同知"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21505,
+ "page_range": "440-441"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆总督华显题重庆守备颜炮员缺请以宁夏千总倪大材升补，康熙帝以部议未明令发回另议。",
+ "people": [
+  {
+   "name": "华显",
+   "role": "总督"
+  },
+  {
+   "name": "倪大材",
+   "role": "宁夏千总"
+  },
+  {
+   "name": "颜炮",
+   "role": "重庆守备"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "重庆",
+  "打箭炉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2104,
+ "page_range": "53-54"
+}

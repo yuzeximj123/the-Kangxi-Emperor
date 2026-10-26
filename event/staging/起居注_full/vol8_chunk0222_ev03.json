@@ -1,0 +1,31 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙谕令各省督抚奏折俱批先固内地紧要，不可听小抄以惑人心，并称我朝递设最善，边报神速。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "官员"
+  },
+  {
+   "name": "吴三桂",
+   "role": "叛臣"
+  }
+ ],
+ "places": [
+  "西边",
+  "荆州",
+  "西安",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22203,
+ "page_range": "455-456"
+}

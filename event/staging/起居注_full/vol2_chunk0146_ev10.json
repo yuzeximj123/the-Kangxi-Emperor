@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "十八日壬戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论自用兵以来百姓供应烦苦，今岁灾伤甚少，命同户部通算天下钱粮出纳之数，并言陕西供应加倍钱粮尤应宽免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14610,
+ "page_range": "335-336"
+}

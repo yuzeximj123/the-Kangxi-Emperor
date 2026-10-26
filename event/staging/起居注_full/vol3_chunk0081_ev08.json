@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "十四日甲戌",
+ "event_role": "人事任免",
+ "summary": "吏部题升任庶子郭棻员缺拟补王维珍，康熙帝以其学问欠佳，命对品调补、员缺另拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郭棻",
+   "role": "升任庶子"
+  },
+  {
+   "name": "王维珍",
+   "role": "候补官员"
+  },
+  {
+   "name": "周之麟",
+   "role": "官员"
+  },
+  {
+   "name": "孙在丰",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8108,
+ "page_range": "197-198"
+}

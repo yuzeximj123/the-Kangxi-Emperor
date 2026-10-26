@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙五十一年四月二十二日",
+ "reign_year": 51,
+ "month": 4,
+ "day": 22,
+ "event_role": "贸易漕运",
+ "summary": "苏州织造李煦奏报扬州二麦成熟、米价低廉、百姓安居，并报告江南、江西、湖广重运漕船过扬州数目及未过船只催赶情况，附进三月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "扬州",
+  "江南省",
+  "江西省",
+  "湖广省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "苏州织造李煦奏报重运粮船过淮摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1079",
+ "order_index": 37
+}

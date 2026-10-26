@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十日乙酉",
+ "event_role": "司法案件",
+ "summary": "刑部题秋审江西省张奇戎强夺王二之帮拟情真斩，康熙帝以其无干系人命改监候缓决。",
+ "people": [
+  {
+   "name": "张奇戎",
+   "role": "案犯"
+  },
+  {
+   "name": "王二",
+   "role": "被夺者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4016,
+ "page_range": "90-91"
+}

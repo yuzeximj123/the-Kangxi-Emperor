@@ -1,0 +1,33 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十五日了丑",
+ "event_role": "人事任免",
+ "summary": "宁古塔副都统员缺，议政王大臣会推正拟瓦礼虎、陪拟噶尔哈图，明珠奏二人才能劳绩，康熙询问后待定。",
+ "people": [
+  {
+   "name": "瓦礼虎",
+   "role": "拟补宁古塔副都统"
+  },
+  {
+   "name": "噶尔哈图",
+   "role": "陪拟官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5521,
+ "page_range": "153-154"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "十三日丙寅",
+ "event_role": "司法案件",
+ "summary": "吏部议给事中姚缔虞参沈清世不实应察议，朱本中冒籍行查，康熙帝询问沈清世是否冤抑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚缔虞",
+   "role": "给事中"
+  },
+  {
+   "name": "沈清世",
+   "role": "捐纳知县"
+  },
+  {
+   "name": "朱本中",
+   "role": "彰德府通判"
+  }
+ ],
+ "places": [
+  "彰德府",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4230,
+ "page_range": "127-128"
+}

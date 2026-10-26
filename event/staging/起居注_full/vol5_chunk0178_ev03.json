@@ -1,0 +1,37 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "杀虎口监督郎中黑森、员外郎克西特、右卫西路同知唐凯、杀虎营副将黄元、右卫守备唐希武等来朝。",
+ "people": [
+  {
+   "name": "黑森",
+   "role": "杀虎口监督郎中"
+  },
+  {
+   "name": "克西特",
+   "role": "管理杀虎口驿站事务员外郎"
+  },
+  {
+   "name": "唐凯",
+   "role": "右卫西路同知"
+  },
+  {
+   "name": "黄元",
+   "role": "杀虎营副将"
+  },
+  {
+   "name": "唐希武",
+   "role": "右卫守备"
+  }
+ ],
+ "places": [
+  "杀虎口",
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17803,
+ "page_range": "366-367"
+}

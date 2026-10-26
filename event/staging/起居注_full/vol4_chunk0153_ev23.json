@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 6,
+ "day_text": "二十二日两子",
+ "event_role": "朝见受贺",
+ "summary": "山西布政使郭洪陛辞求训，康熙谕以钱粮火耗禁革之道并令宣谕巡抚按察司，郭洪奏谢。",
+ "people": [
+  {
+   "name": "郭洪",
+   "role": "山西布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15323,
+ "page_range": "318-319"
+}

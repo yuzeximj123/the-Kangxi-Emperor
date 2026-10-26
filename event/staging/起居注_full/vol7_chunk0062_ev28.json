@@ -1,0 +1,46 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "二十九日癸酉",
+ "event_role": "其他",
+ "summary": "康熙帝赐散秩大臣公传尔丹等御书扇。",
+ "people": [
+  {
+   "name": "传尔丹",
+   "role": "散秩大臣公"
+  },
+  {
+   "name": "查木苏",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "魁保",
+   "role": "二等侍卫宗室"
+  },
+  {
+   "name": "石柱",
+   "role": "副都统"
+  },
+  {
+   "name": "沙拜",
+   "role": "鸿胪寺卿"
+  },
+  {
+   "name": "郭礼",
+   "role": "太仆寺少卿"
+  },
+  {
+   "name": "马色",
+   "role": "工部郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6228,
+ "page_range": "135-136"
+}

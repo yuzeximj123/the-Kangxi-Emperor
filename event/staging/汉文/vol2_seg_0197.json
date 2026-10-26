@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十八年七月初十日",
+ "reign_year": 48,
+ "month": 7,
+ "day": 7,
+ "event_role": "奏报地方情形",
+ "summary": "江宁织造曹寅奏报江南总督邵穆布自五月感热疾，由疟转痢，于本月初六日身故。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏报人"
+  },
+  {
+   "name": "邵穆布",
+   "role": "江南总督，病故者"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称已早闻总督死讯，批评此折迟报，应在病重时即奏闻。",
+ "source_title": "江寧織造曹寅奏江南總督邵穆布身故摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "537",
+ "order_index": 197
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 6,
+ "day_text": "初八日王午",
+ "event_role": "议政听政",
+ "summary": "已时康熙帝御行宫，大学士席哈纳、学士常寿、称和伦以折本请旨。",
+ "people": [
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "常寿",
+   "role": "学士"
+  },
+  {
+   "name": "称和伦",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6314,
+ "page_range": "137-138"
+}

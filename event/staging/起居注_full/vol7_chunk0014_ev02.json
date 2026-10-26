@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "议御史张王条奏会典应行刊布，大学士伊桑阿等认为应刻，康熙帝称善允行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张王",
+   "role": "御史"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1402,
+ "page_range": "39-40"
+}

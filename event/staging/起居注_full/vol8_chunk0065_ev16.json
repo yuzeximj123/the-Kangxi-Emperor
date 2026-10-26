@@ -1,0 +1,21 @@
+{
+ "reign_year": 53,
+ "month": 7,
+ "day_text": "初七日丙午",
+ "event_role": "皇帝行止",
+ "summary": "卯时康熙帝由热河启行，至中关驻跸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "热河",
+  "中关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6516,
+ "page_range": "141-142"
+}

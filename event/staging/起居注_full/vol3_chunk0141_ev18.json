@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "十六日庚子",
+ "event_role": "人事任免",
+ "summary": "吏部题理藩院侍郎明爱年老休致员缺，开列学士牛钮等，康熙帝与明珠等议用满洲穆成格或敦多礼。",
+ "people": [
+  {
+   "name": "明爱",
+   "role": "理藩院侍郎"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "穆成格",
+   "role": "学士"
+  },
+  {
+   "name": "敦多礼",
+   "role": "太常卿"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14118,
+ "page_range": "317-318"
+}

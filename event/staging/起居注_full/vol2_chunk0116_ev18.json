@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 3,
+ "day_text": "二十六日甲成",
+ "event_role": "人事任免",
+ "summary": "吏部题补本部侍郎员缺，康熙帝以刑部侍郎杜球颇优且原任吏部，命即转补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜球",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "李天稚",
+   "role": "户部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11618,
+ "page_range": "275-276"
+}

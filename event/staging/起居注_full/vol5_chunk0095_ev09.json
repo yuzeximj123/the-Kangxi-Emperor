@@ -1,0 +1,23 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝去岁令直省捕蝗，今春复传谕先期捕灭，故山东、河南诸省咸获丰稔，江浙闽广亦有秋。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "河南",
+  "江浙",
+  "闽广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9509,
+ "page_range": "200-201"
+}

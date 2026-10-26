@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十四年六月十六日",
+ "reign_year": 54,
+ "month": 6,
+ "day": 6,
+ "event_role": "奏报地方情形",
+ "summary": "闽浙总督范时崇奏报福州五月晴雨、农事插秧进度、米价及新丝时价等地方情形。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "闽浙总督，奏报人"
+  },
+  {
+   "name": "李卫",
+   "role": "奏折中提及的官员（原文作臣李【卫】）"
+  }
+ ],
+ "places": [
+  "福州",
+  "福州府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示已阅知悉。",
+ "source_title": "闽浙总督范时崇奏请圣安折",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1811",
+ "order_index": 76
+}

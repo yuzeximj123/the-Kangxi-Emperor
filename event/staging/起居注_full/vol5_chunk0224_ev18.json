@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "初一日庚成",
+ "event_role": "军务",
+ "summary": "都统噶尔马口奏愿守所送之米以终此役，康熙帝命待于成龙等到日交完米粮即回。",
+ "people": [
+  {
+   "name": "噶尔马",
+   "role": "都统"
+  },
+  {
+   "name": "王永誉",
+   "role": "都统"
+  },
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "两狼山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22418,
+ "page_range": "458-459"
+}

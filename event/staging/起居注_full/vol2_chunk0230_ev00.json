@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝与大学士等议论山西雁平道张道祥声绩显著，百姓称颂，明珠、王熙等奏其家计充裕、实心办事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张道祥",
+   "role": "雁平道"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "晋省",
+  "雁平",
+  "五台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23000,
+ "page_range": "503-504"
+}

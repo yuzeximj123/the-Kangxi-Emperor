@@ -1,0 +1,37 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "固安披甲桂申保刺死亲家哈什、奉天披甲朱勒得打死族权齐罗拟绞监候，康熙帝命交该旗大臣将军照新例发落。",
+ "people": [
+  {
+   "name": "桂申保",
+   "role": "披甲"
+  },
+  {
+   "name": "哈什",
+   "role": "死者"
+  },
+  {
+   "name": "朱勒得",
+   "role": "披甲"
+  },
+  {
+   "name": "齐罗",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "固安县",
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10208,
+ "page_range": "215-216"
+}

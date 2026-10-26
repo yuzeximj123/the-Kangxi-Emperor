@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "十五日乙卯",
+ "event_role": "人事任免",
+ "summary": "兵部题镇海将军董元甸以年老身病疏请解任，康熙帝着照所请解任，升副都统马自德补京口将军。",
+ "people": [
+  {
+   "name": "董元甸",
+   "role": "镇海将军"
+  },
+  {
+   "name": "马自德",
+   "role": "副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7011,
+ "page_range": "150-151"
+}

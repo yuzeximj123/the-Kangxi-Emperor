@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "二十二日己酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙谕将葬牛河之水引入永定河，交分司照此修治，并传谕巡抚李光地前来视之。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "葬牛河",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19604,
+ "page_range": "402-403"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "初一日甲实",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸行宫，巳时出行宫率皇太子、诸皇子射箭，每发悉中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20504,
+ "page_range": "421-422"
+}

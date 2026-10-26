@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙伍拾伍年肆月",
+ "reign_year": 55,
+ "month": 4,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "直隶总督赵弘燮因庐询因公诖误被议调用，上折保留，请求皇上宽免其调用，以重吏治民生。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督，奏折作者"
+  },
+  {
+   "name": "庐询",
+   "role": "被议调用之官员，奏请保留"
+  },
+  {
+   "name": "李金",
+   "role": "奏折相关人名（文末署名）"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "直隶总督赵弘燮奏报甘雨及时二麦可望丰收折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 5
+}

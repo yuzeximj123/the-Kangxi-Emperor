@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初五日丙申",
+ "event_role": "人事任免",
+ "summary": "兵部题李遇芳等六人以参将等缺推用，康熙帝准依拟用，李华改遇副将缺出从优升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李遇芳",
+   "role": "拟用参将"
+  },
+  {
+   "name": "李华",
+   "role": "拟用参将"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6205,
+ "page_range": "159-160"
+}

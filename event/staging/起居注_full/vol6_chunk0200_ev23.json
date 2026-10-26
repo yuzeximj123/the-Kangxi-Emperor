@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "二十五日壬午",
+ "event_role": "朝见受贺",
+ "summary": "长芦巡盐御史刘源等、天津道范时崇、护天津总兵官印和家坞副将高文达等来朝。",
+ "people": [
+  {
+   "name": "刘源",
+   "role": "长芦巡盐御史"
+  },
+  {
+   "name": "范时崇",
+   "role": "天津道"
+  },
+  {
+   "name": "高文达",
+   "role": "和家坞副将"
+  }
+ ],
+ "places": [
+  "长芦",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20023,
+ "page_range": "410-411"
+}

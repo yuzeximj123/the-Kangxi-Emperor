@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "十四日壬寅",
+ "event_role": "人事任免",
+ "summary": "吏部覆请云南巡抚甘国壁所题降二级调用布政司卢询留任，议不准行；康熙帝问卢询居官何如，着问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "甘国壁",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "卢询",
+   "role": "布政司"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14721,
+ "page_range": "305-306"
+}

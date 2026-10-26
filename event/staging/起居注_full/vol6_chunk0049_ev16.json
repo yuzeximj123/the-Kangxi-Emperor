@@ -1,0 +1,40 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "二十八日庚子",
+ "event_role": "人事任免",
+ "summary": "吏部题给事中马士芳等十一人内升外转，康熙帝询问吴琠后，令樊咸修内升，刘荫枢为人多事，着另议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  },
+  {
+   "name": "马士芳",
+   "role": "给事中"
+  },
+  {
+   "name": "樊咸修",
+   "role": "官员"
+  },
+  {
+   "name": "姜梢",
+   "role": "官员"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "湖广麻城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4916,
+ "page_range": "108-109"
+}

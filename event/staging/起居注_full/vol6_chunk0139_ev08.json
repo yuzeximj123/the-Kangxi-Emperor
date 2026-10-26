@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "十一日乙雍",
+ "event_role": "人事任免",
+ "summary": "理藩院题佐领扎木素拟革职，康熙帝依议完结，命扎木素撤回京师披甲。",
+ "people": [
+  {
+   "name": "扎木素",
+   "role": "佐领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13908,
+ "page_range": "288-289"
+}

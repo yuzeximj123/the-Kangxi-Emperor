@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "初七日丁亥",
+ "event_role": "朝见受贺",
+ "summary": "获州营都司高光斗、永清县知县徐煌等来朝见。",
+ "people": [
+  {
+   "name": "高光斗",
+   "role": "获州营都司"
+  },
+  {
+   "name": "徐煌",
+   "role": "永清县知县"
+  }
+ ],
+ "places": [
+  "获州",
+  "永清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18512,
+ "page_range": "382-383"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 31,
+ "month": 11,
+ "day_text": "二十日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝问尚书熊赐履意见，熊赐履奏靳辅久任河道必能洞晓，故依其所请；帝又问左都御史于成龙。",
+ "people": [
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21428,
+ "page_range": "440-441"
+}

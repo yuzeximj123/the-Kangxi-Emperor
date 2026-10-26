@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "初十日戊实",
+ "event_role": "谕旨决策",
+ "summary": "康熙称唐希顺材力健壮，询问云贵是否紧要，命查明就近云南总兵及记名副将职名具奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐希顺",
+   "role": "贵州威宁总兵官"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "贵州",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 808,
+ "page_range": "26-27"
+}

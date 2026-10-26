@@ -1,0 +1,33 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "福建总督姚启圣以己功让与提督施琅，康熙斥其未渡海进剿、饰为虚辞欲攘施琅之功，命停止议叙并拟切责票签送进。",
+ "people": [
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "施琅",
+   "role": "提督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建",
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22804,
+ "page_range": "499-500"
+}

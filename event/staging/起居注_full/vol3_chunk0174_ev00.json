@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补工部郎中公爱解任员缺，拟以员外郎吴赛正、法宝陪，康熙帝认为拟正陪四人殊属平常，命传谕吏部嗣后郎中缺出不必拟补。",
+ "people": [
+  {
+   "name": "吴赛",
+   "role": "拟正员外郎"
+  },
+  {
+   "name": "法宝",
+   "role": "拟陪员外郎"
+  },
+  {
+   "name": "公爱",
+   "role": "工部郎中（解任）"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17400,
+ "page_range": "383-384"
+}

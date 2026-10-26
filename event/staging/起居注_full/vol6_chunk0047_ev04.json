@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "初六日戊寅",
+ "event_role": "司法案件",
+ "summary": "刑部覆广东广西总督石琳题金瑞玉扣克军粮拟徒请覆审，康熙帝斥审鞫模糊，驳回并令严察议处总督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石琳",
+   "role": "广东广西总督"
+  },
+  {
+   "name": "金瑞玉",
+   "role": "原任虎头门副将"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4704,
+ "page_range": "104-105"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士马齐奏所查与康熙帝所记相符，众人惊异其三十四年前事不忘，康熙帝自述一生所赖惟在记性。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元梦",
+   "role": "起居注左都御史"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20503,
+ "page_range": "421-422"
+}

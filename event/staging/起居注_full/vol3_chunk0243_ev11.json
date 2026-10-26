@@ -1,0 +1,36 @@
+{
+ "reign_year": 26,
+ "month": 8,
+ "day_text": "初二日戊申",
+ "event_role": "人事任免",
+ "summary": "议道员内升外转，康熙问许三礼，明珠称可用，命许三礼内升、外转停止一次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "唐朝苏",
+   "role": "道员"
+  },
+  {
+   "name": "许三礼",
+   "role": "道员"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24311,
+ "page_range": "521-522"
+}

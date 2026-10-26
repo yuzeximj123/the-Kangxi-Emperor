@@ -1,0 +1,38 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "二十九日甲实",
+ "event_role": "司法案件",
+ "summary": "马齐等遵旨将存住等控告佐领班第之处问右翼大人，都统四格等称控告是实，部议含糊，康熙帝命再议具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "存住",
+   "role": "控告人"
+  },
+  {
+   "name": "靠山",
+   "role": "控告人"
+  },
+  {
+   "name": "班第",
+   "role": "佐领"
+  },
+  {
+   "name": "四格",
+   "role": "都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17917,
+ "page_range": "369-370"
+}

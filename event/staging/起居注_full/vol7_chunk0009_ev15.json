@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初六日丁亥",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚李光地请以文安县知县杨朝麟补漳河同知，康熙照所请并命仍兼理知县事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "杨朝麟",
+   "role": "文安县知县"
+  }
+ ],
+ "places": [
+  "文安县",
+  "漳河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 915,
+ "page_range": "29-30"
+}

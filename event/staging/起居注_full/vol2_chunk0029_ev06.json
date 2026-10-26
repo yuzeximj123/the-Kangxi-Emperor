@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十四日己雍",
+ "event_role": "弹劾参奏",
+ "summary": "原任府尹梁拱宸请禁盛京将士围猎及粮船出洋，部议不允，康熙帝斥其妄行陈奏，令一并议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁拱宸",
+   "role": "原任府尹"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2906,
+ "page_range": "101-102"
+}

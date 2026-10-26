@@ -1,0 +1,21 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "初一日己巳",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝元旦率诸王贝勒及文武官员往堂子行礼，回宫后率众向皇太后行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "堂子",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5200,
+ "page_range": "116-117"
+}

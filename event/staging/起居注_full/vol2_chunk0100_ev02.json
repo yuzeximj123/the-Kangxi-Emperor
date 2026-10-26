@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "议原任广西巡抚陈洪明罪案，康熙斥其情罪重大、诡媚尚之信，命严拿议罪具奏。",
+ "people": [
+  {
+   "name": "陈洪明",
+   "role": "原任广西巡抚"
+  },
+  {
+   "name": "金光祖",
+   "role": "总督"
+  },
+  {
+   "name": "尚之信",
+   "role": "叛臣"
+  },
+  {
+   "name": "罗森",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10002,
+ "page_range": "243-244"
+}

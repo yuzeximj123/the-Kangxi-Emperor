@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "初一日丙辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部员外郎，正拟原任给事中称臣、陪拟原任御史哲备，康熙帝以其才品平常，令以原品随旗上朝，另拟具奏。",
+ "people": [
+  {
+   "name": "称臣",
+   "role": "原任给事中"
+  },
+  {
+   "name": "哲备",
+   "role": "原任御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1210,
+ "page_range": "67-68"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 53,
+ "month": 11,
+ "day_text": "十九日本已",
+ "event_role": "朝见受贺",
+ "summary": "采育防守御常寿等、通永道张圣弱等、通州副将魏经国、知州王友直等来朝。",
+ "people": [
+  {
+   "name": "常寿",
+   "role": "采育防守御"
+  },
+  {
+   "name": "张圣弱",
+   "role": "通永道"
+  },
+  {
+   "name": "魏经国",
+   "role": "通州副将"
+  },
+  {
+   "name": "王友直",
+   "role": "知州"
+  }
+ ],
+ "places": [
+  "采育",
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7818,
+ "page_range": "167-168"
+}

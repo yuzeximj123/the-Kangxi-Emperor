@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初八日戊午",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝谕总督华显奏陕西数县旱灾疫情，命速行具奏，并议甘肃捐纳补旧谷及塞外蒙古旱灾情形。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "华显",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "甘肃",
+  "塞外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1818,
+ "page_range": "47-48"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "初五日甲申",
+ "event_role": "人事任免",
+ "summary": "户部题更换崇文门监督，康熙帝询问尚之杰居官如何，大学士萧永藻奏其任监督年久、情弊尽知，帝命尚之杰再留一年。",
+ "people": [
+  {
+   "name": "尚之杰",
+   "role": "崇文门监督"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23811,
+ "page_range": "487-488"
+}

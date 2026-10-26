@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十一日甲实",
+ "event_role": "人事任免",
+ "summary": "明珠等奏镶红旗护军统领员缺拟正佛科多、拟陪缪起纳，会议诸王大臣称佛科多人材壮健多经战阵，康熙帝命补授佛科多为护军统领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛科多",
+   "role": "拟正护军统领"
+  },
+  {
+   "name": "缪起纳",
+   "role": "拟陪护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4018,
+ "page_range": "115-116"
+}

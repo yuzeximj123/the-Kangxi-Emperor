@@ -1,0 +1,48 @@
+{
+ "reign_year": 50,
+ "month": 8,
+ "day_text": "初四日辛酉",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕梁世勋调补安徽巡抚，陈元龙补授广西巡抚，并斥陈元龙行事不端，令其往边疆试办事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "满保",
+   "role": "学士"
+  },
+  {
+   "name": "巴格",
+   "role": "学士"
+  },
+  {
+   "name": "叶九思",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "王思轼",
+   "role": "内阁学士"
+  },
+  {
+   "name": "梁世勋",
+   "role": "官员"
+  },
+  {
+   "name": "陈元龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18012,
+ "page_range": "371-372"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 2,
+ "day_text": "三十四日甲子",
+ "event_role": "皇帝行止",
+ "summary": "是夜天雨，清晨康熙帝遣一等侍卫对亲等出郊验视土膏深浅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "对亲",
+   "role": "一等侍卫"
+  }
+ ],
+ "places": [
+  "郊外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3614,
+ "page_range": "129-130"
+}

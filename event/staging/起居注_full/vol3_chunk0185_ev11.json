@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "初六日丁亥",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗蒙古都统塔尔代病故员缺，拟正班达尔善、拟陪索诺木，康熙命问明具奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "塔尔代",
+   "role": "镶白旗蒙古都统"
+  },
+  {
+   "name": "班达尔善",
+   "role": "副都统"
+  },
+  {
+   "name": "索诺木",
+   "role": "护军统领"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18511,
+ "page_range": "405-406"
+}

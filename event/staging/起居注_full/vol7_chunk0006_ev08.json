@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十四日丙寅",
+ "event_role": "其他",
+ "summary": "康熙帝赐山西巡抚噶礼蟒袍、儿帘，总兵官俞益谟条孔入外有帽、稻罕，临汾县知县赵凤诏白金。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "俞益谟",
+   "role": "总兵官"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "临汾县知县"
+  }
+ ],
+ "places": [
+  "临汾县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 608,
+ "page_range": "23-24"
+}

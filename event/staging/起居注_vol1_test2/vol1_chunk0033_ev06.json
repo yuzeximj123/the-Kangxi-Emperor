@@ -1,0 +1,21 @@
+{
+ "reign_year": 12,
+ "month": 1,
+ "day_text": "二十日辛卯",
+ "event_role": "军务",
+ "summary": "康熙帝自东宫起驾至晾永台，亲环甲御黄几，命三旗内大臣、都统等各领队伍自西边行至东边排列，诸王贝勒亦各领本旗护卫官员按队伍排列。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东宫",
+  "晾永台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3306,
+ "page_range": "123-124"
+}

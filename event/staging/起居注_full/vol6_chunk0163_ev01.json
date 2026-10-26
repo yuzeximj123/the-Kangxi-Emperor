@@ -1,0 +1,22 @@
+{
+ "reign_year": 39,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题奏张廷武殴死伯父、钟申殴死朱父俱拟正法，康熙帝以案情系其父殴死而子承认，命九卿详议具奏。",
+ "people": [
+  {
+   "name": "张廷武",
+   "role": "殴死伯父拟正法者"
+  },
+  {
+   "name": "钟申",
+   "role": "殴死朱父拟正法者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16301,
+ "page_range": "336-337"
+}

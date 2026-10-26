@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 12,
+ "day_text": "初二日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "江宁副都统禅布启行前请训，康熙帝谕其敬慎行事、不干预民事、使兵民相和、勤习武事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "禅布",
+   "role": "江宁副都统"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4914,
+ "page_range": "110-111"
+}

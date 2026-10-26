@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御弘德殿，讲官叶方蔼、张玉书进讲成汤、文王武王诸节，帝亲讲毕，讲官照常进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21600,
+ "page_range": "489-490"
+}

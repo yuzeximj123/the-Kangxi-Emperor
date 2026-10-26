@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十七日己卯",
+ "event_role": "人事任免",
+ "summary": "大同总兵官康调元奏老病请解任，康熙帝着与温旨解任。",
+ "people": [
+  {
+   "name": "康调元",
+   "role": "大同总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18410,
+ "page_range": "378-379"
+}

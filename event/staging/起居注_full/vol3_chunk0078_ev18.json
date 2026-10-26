@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "初三日癸北",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝指出侍讲随黑图翻译不佳、科员硕木科不能翻译，令交都察院察议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "随黑图",
+   "role": "侍讲"
+  },
+  {
+   "name": "硕木科",
+   "role": "科员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7818,
+ "page_range": "191-192"
+}

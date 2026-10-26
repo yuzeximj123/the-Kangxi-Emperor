@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "二十二日丙寅",
+ "event_role": "人事任免",
+ "summary": "康熙帝以佥都御史王材任人甚劣，令革职。",
+ "people": [
+  {
+   "name": "王材任",
+   "role": "佥都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6208,
+ "page_range": "135-136"
+}

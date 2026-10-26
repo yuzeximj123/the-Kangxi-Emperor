@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "二十六日丁亥",
+ "event_role": "奏报灾情收成",
+ "summary": "新安县赵家庄民张君甫家遭火灾，康熙帝亲领侍卫护军等救灭，并赐张君甫等馒首及米。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张君甫",
+   "role": "受灾民户"
+  }
+ ],
+ "places": [
+  "新安县",
+  "赵家庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13118,
+ "page_range": "273-274"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "初四日癸未",
+ "event_role": "军务",
+ "summary": "湖南巡抚韩世琦奏报杀败逆贼黄明，康熙帝以其独带绿旗官兵获胜可嘉，命在事人员一并议叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩世琦",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "黄明",
+   "role": "逆贼"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8211,
+ "page_range": "207-208"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "初七日甲午",
+ "event_role": "司法案件",
+ "summary": "三法司议刘肖乾诬陷张公等谋取天津拟秋后处斩，康熙命差贤能司官前往察审贩盐拒捕等情。",
+ "people": [
+  {
+   "name": "刘肖乾",
+   "role": "案犯"
+  },
+  {
+   "name": "张公",
+   "role": "被诬者"
+  },
+  {
+   "name": "李二公子",
+   "role": "被拥立者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25510,
+ "page_range": "567-568"
+}

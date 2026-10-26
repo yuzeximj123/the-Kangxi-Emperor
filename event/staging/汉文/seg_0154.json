@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十五年十二月十三日",
+ "reign_year": 45,
+ "month": 12,
+ "day": 13,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦恭请万安并进献冬笋等物，另附赵弘燮奏报查议张霖帑银事。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "赵弘燮",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "苏州",
+  "两淮",
+  "直隶",
+  "紫荆",
+  "密云"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "209",
+ "source_title": "苏州织造李煦奏贺元旦并进冬笋等物摺（康熙四十五年十二月十三日）",
+ "order_index": 154
+}

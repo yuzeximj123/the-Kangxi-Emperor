@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十六日癸酉",
+ "event_role": "人事任免",
+ "summary": "吏部以内阁学士席尔达随旗行走员缺开列詹事朱马泰等，康熙帝询问堪任者，命将以次应升之人查奏。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "内秘书院学士"
+  },
+  {
+   "name": "朱马泰",
+   "role": "詹事"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "含英",
+   "role": "侍读学士"
+  },
+  {
+   "name": "色勒布",
+   "role": "侍读学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10508,
+ "page_range": "245-246"
+}

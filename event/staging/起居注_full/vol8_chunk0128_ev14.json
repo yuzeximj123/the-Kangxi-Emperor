@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 1,
+ "day_text": "初二日癸亥",
+ "event_role": "人事任免",
+ "summary": "吏部题安徽按察使杨宗义员缺，将霸昌道祁国和等带来引见，康熙帝令将余剩道员四人问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨宗义",
+   "role": "安徽按察使"
+  },
+  {
+   "name": "祁国和",
+   "role": "霸昌道"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12814,
+ "page_range": "267-268"
+}

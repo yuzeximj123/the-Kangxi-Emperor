@@ -1,0 +1,40 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "二十日戊戌",
+ "event_role": "人事任免",
+ "summary": "九卿会推总漕徐旭龄病故员缺，拟马世济为正、慕天颜为陪，康熙帝询问大学士等意见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "马世济",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "慕天颜",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "总漕"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21820,
+ "page_range": "471-472"
+}

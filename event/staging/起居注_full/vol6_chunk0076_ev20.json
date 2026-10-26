@@ -1,0 +1,36 @@
+{
+ "reign_year": 38,
+ "month": 1,
+ "day_text": "二十八日戊成",
+ "event_role": "弹劾参奏",
+ "summary": "副都统关保题参协领杜尔代私动驿站车马，康熙帝以二人不和恐致枉屈，命黑龙江将军萨布素审明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "副都统"
+  },
+  {
+   "name": "杜尔代",
+   "role": "协领"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "布泰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7620,
+ "page_range": "162-163"
+}

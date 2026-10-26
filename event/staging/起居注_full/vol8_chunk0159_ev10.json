@@ -1,0 +1,36 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆江南秋审徐云高、徐子仲疑法术害人殴死拟绞情真，康熙帝命问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐云高",
+   "role": "人犯"
+  },
+  {
+   "name": "徐永",
+   "role": "被害人"
+  },
+  {
+   "name": "徐子仲",
+   "role": "人犯"
+  },
+  {
+   "name": "朱振肃",
+   "role": "被害人"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15910,
+ "page_range": "329-330"
+}

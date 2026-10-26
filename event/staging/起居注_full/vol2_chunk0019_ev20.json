@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "初八日全已",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行幔，大学士学士捧折本面奏请旨，议给事中孙赞、御史金改祥疏请慎选科道事。",
+ "people": [
+  {
+   "name": "孙赞",
+   "role": "给事中"
+  },
+  {
+   "name": "金改祥",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "行幔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1920,
+ "page_range": "81-82"
+}

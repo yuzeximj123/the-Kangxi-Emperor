@@ -1,0 +1,29 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "初一日",
+ "event_role": "议政听政",
+ "summary": "议政大臣奏报阿拉布坦使人诺颜格隆臧布等所留人畜货物及进贡之物如何安顿，请旨，奉旨暂至归化城会议具奏。",
+ "people": [
+  {
+   "name": "诺颜格隆臧布",
+   "role": "阿拉布坦使人"
+  },
+  {
+   "name": "满丕",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "喀伦",
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22505,
+ "page_range": "460-461"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "初六日丁巳",
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿等以折本请旨，吏部题金事道刘显并等五人升补副使道、祝兆麒等五人升补知府。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王国昌",
+   "role": "学士"
+  },
+  {
+   "name": "西喇",
+   "role": "学士"
+  },
+  {
+   "name": "傅继祖",
+   "role": "学士"
+  },
+  {
+   "name": "满丕",
+   "role": "学士"
+  },
+  {
+   "name": "刘显并",
+   "role": "金事道"
+  },
+  {
+   "name": "祝兆麒",
+   "role": "捕盗同知"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16004,
+ "page_range": "332-333"
+}

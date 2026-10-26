@@ -1,0 +1,33 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": "二十一日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问新授内阁学士法良抽分崇文门所行如何，伊桑阿、马齐奏其声名尚好、为人诚厚，帝称其勤慎。",
+ "people": [
+  {
+   "name": "法良",
+   "role": "内阁学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "白硕色",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "崇文门",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15405,
+ "page_range": "318-319"
+}

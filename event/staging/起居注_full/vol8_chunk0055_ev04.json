@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议韩文教救父打死叔父韩登云依律拟斩立决，康熙帝以救父情切改拟斩监候。",
+ "people": [
+  {
+   "name": "韩文教",
+   "role": "案犯"
+  },
+  {
+   "name": "韩成德",
+   "role": "韩文教之父"
+  },
+  {
+   "name": "韩登云",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5504,
+ "page_range": "121-122"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初三日癸亥",
+ "event_role": "人事任免",
+ "summary": "兵部题黑龙江将军杨福员缺开列黄族副都统才智等职名，康熙帝称将军职任紧要，如席柱者不可任将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "杨福",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "才智",
+   "role": "黄族副都统"
+  },
+  {
+   "name": "席柱",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13419,
+ "page_range": "279-280"
+}

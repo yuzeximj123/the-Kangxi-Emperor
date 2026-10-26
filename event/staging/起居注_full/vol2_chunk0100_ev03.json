@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "会推正红旗蒙古副都统员缺，康熙采纳明珠意见，补授彭春。",
+ "people": [
+  {
+   "name": "彭春",
+   "role": "护军参领补副都统"
+  },
+  {
+   "name": "虎巴",
+   "role": "护军参领拟正"
+  },
+  {
+   "name": "希思哈",
+   "role": "长史拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10003,
+ "page_range": "243-244"
+}

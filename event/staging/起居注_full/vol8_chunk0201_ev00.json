@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝追述太宗皇帝亲征松山、查山用兵方略，并言自己曾亲至其地详阅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太宗皇帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "松山",
+  "查山",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20100,
+ "page_range": "413-414"
+}

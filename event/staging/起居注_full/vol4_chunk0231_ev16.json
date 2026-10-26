@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 4,
+ "day_text": "十四日丁亥",
+ "event_role": "军务",
+ "summary": "兵部题覆宣府总兵官许盛请于所属标下增设三营兵、改炮手为战兵等事，康熙以为所议甚是，并言许盛好生事、只宜近用。",
+ "people": [
+  {
+   "name": "许盛",
+   "role": "宣府总兵官"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宣府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23116,
+ "page_range": "474-475"
+}

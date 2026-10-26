@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "二十九日己亥",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等查奏白尔克康熙十七年在梧州荐县率兵殿后退敌之功，康熙帝令将六员效力功牌察来奏闻。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "白尔克",
+   "role": "侍郎"
+  },
+  {
+   "name": "吴世宗",
+   "role": "伪将军"
+  }
+ ],
+ "places": [
+  "广西梧州府",
+  "荐县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7704,
+ "page_range": "164-165"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "初一日丁巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸延庆州所属岔道地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "延庆州岔道"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20404,
+ "page_range": "418-419"
+}

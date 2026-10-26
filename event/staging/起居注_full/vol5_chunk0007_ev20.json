@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "初九日",
+ "event_role": "司法案件",
+ "summary": "吏部覆湖广巡抚吴珊题宜城县知县傅梦能丁忧扣算少十五日应革职，康熙帝以情由颇觉负屈，发还再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴珊",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "傅梦能",
+   "role": "宜城县知县"
+  }
+ ],
+ "places": [
+  "湖广",
+  "宜城县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 720,
+ "page_range": "24-25"
+}

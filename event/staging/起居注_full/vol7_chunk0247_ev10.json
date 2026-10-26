@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "松柱奏称此阵系防御都喀摩、索礼对敌，乃二员好官，并请引贼深入以多斩首。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "都喀摩",
+   "role": "防御"
+  },
+  {
+   "name": "索礼",
+   "role": "防御"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24710,
+ "page_range": "505-506"
+}

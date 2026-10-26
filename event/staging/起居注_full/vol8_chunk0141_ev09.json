@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": "十三日壬寅",
+ "event_role": "谕旨决策",
+ "summary": "户部覆川陕总督鄂海所题甘州驻防官兵求借银两议不准行，康熙命照该督所请借给。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14109,
+ "page_range": "293-294"
+}

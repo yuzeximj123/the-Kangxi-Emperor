@@ -1,0 +1,22 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝向大学士等讲述海贼陈尚义部众被官兵杀伤及风波漂没，仅存三船，认为海上为贼不易，多因饥寒所迫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈尚义",
+   "role": "海贼"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 500,
+ "page_range": "21-22"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "初九日庚成",
+ "event_role": "人事任免",
+ "summary": "吏部题补江西按察使柯永升升任员缺，康熙帝令章钦文升补江西按察使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "章钦文",
+   "role": "拟正湖北粮道"
+  },
+  {
+   "name": "白应科",
+   "role": "拟陪陕西参政"
+  },
+  {
+   "name": "柯永升",
+   "role": "江西按察使"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19404,
+ "page_range": "431-432"
+}

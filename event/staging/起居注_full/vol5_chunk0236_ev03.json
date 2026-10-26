@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝谕议政大臣，总兵官李世达物故，定边副将麦良笨才品优长，授为肃州总兵官，令速赴任停其出征。",
+ "people": [
+  {
+   "name": "李世达",
+   "role": "总兵官"
+  },
+  {
+   "name": "麦良笨",
+   "role": "定边副将"
+  }
+ ],
+ "places": [
+  "肃州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23603,
+ "page_range": "482-483"
+}

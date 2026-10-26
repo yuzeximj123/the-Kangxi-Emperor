@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝批评吏部议定五月掣签之弊，令投供验到官员齐集后请旨掣签，以防规避四省员缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅继祖",
+   "role": "侍郎"
+  },
+  {
+   "name": "敦拜",
+   "role": "尚书"
+  },
+  {
+   "name": "杜敏",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10500,
+ "page_range": "221-222"
+}

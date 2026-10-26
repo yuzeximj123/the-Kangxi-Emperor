@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "初三日癸未",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问灾民流散情形，阿山奏称赈济后人民安辑，正月两次下雪不致流散失所。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "户部侍郎"
+  }
+ ],
+ "places": [
+  "襄阳",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18403,
+ "page_range": "380-381"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": "二十九日了西",
+ "event_role": "人事任免",
+ "summary": "兵部议覆广东提督王文雄题请将效力年满千总白友金等六人发往广东补用陆路守备，部议不准，康熙帝命如所请发往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王文雄",
+   "role": "广东提督"
+  },
+  {
+   "name": "白友金",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7614,
+ "page_range": "163-164"
+}

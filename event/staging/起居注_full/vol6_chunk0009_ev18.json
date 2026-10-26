@@ -1,0 +1,38 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": "二十二日已已",
+ "event_role": "人事任免",
+ "summary": "吏部以内阁侍读学士寿散员缺，苏尔迈拟正、石留柱拟陪，康熙帝询问后以苏黑纳升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "罗察",
+   "role": "学士"
+  },
+  {
+   "name": "苏尔迈",
+   "role": "织造库郎中"
+  },
+  {
+   "name": "石留柱",
+   "role": "颜料库郎中"
+  },
+  {
+   "name": "苏黑纳",
+   "role": "拟补者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 918,
+ "page_range": "28-29"
+}

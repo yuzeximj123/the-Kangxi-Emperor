@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝问布政司员缺，李光地奏山东布政司缺未补，帝以直隶巡道李成龙居官好操守清廉补授山东布政司。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "李成龙",
+   "role": "直隶巡道，补授山东布政司"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9006,
+ "page_range": "191-192"
+}

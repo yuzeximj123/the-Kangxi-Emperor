@@ -1,0 +1,42 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "中城御史德木图等参兵马司倪嘉征、总甲曲祥等与长班何承业吓诈杜祥银十八两，康熙命发还该御史自行完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德木图",
+   "role": "中城御史"
+  },
+  {
+   "name": "倪嘉征",
+   "role": "兵马司"
+  },
+  {
+   "name": "曲祥",
+   "role": "总甲"
+  },
+  {
+   "name": "何承业",
+   "role": "长班"
+  },
+  {
+   "name": "杜祥",
+   "role": "地方百姓"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20104,
+ "page_range": "437-438"
+}

@@ -1,0 +1,44 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙论于成龙二次、三次运米至西路及量留十八日之用，徐元梦、马齐奏费扬古败噶尔旦得粮之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "运米官员"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "徐元梦",
+   "role": "起居注左都御史"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "费扬古",
+   "role": "将领"
+  },
+  {
+   "name": "噶尔旦",
+   "role": "蒙古首领"
+  }
+ ],
+ "places": [
+  "西路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21107,
+ "page_range": "433-434"
+}

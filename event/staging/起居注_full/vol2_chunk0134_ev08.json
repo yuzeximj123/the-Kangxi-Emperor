@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "二十三日戊辰",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝率皇太子至皇太后宫问安，随后驾回瀛台。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "皇太后宫",
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13408,
+ "page_range": "311-312"
+}

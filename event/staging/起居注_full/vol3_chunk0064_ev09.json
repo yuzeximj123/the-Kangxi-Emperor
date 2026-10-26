@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十二日癸卯",
+ "event_role": "人事任免",
+ "summary": "宗人府主事觉罗郭迈升任员缺，拟贾海正、括布珠陪，康熙帝以贾海良劣，命另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "觉罗郭迈",
+   "role": "宗人府主事"
+  },
+  {
+   "name": "贾海",
+   "role": "荫生拟正"
+  },
+  {
+   "name": "括布珠",
+   "role": "典籍拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6409,
+ "page_range": "163-164"
+}

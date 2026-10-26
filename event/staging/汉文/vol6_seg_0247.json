@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十五年二月二十七日",
+ "reign_year": 55,
+ "month": 2,
+ "day": null,
+ "event_role": "河工水利",
+ "summary": "直隶总督赵弘燮奏报三河县去年因大雨坍塌的新修城垣，已由原修各官赔修坚固完工，并报明完工缘由。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督、兵部右侍郎兼都察院右副都御史"
+  },
+  {
+   "name": "徐炯",
+   "role": "原任通永道，亲勘加结"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "直隸總督趙弘燮奏報三河縣新修城垣完工摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "194",
+ "order_index": 247
+}

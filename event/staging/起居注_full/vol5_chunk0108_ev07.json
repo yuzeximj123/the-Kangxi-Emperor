@@ -1,0 +1,37 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "王国昌等又奏报查得于成龙咨册内情愿效力人等现到湖滩河朔捐助车辆马匹及分送六处随车行走等情。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  },
+  {
+   "name": "沙拜",
+   "role": "原任少卿"
+  },
+  {
+   "name": "赵山",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "毛克杰",
+   "role": "闲散人"
+  },
+  {
+   "name": "白重申",
+   "role": "太原府通判"
+  }
+ ],
+ "places": [
+  "湖滩河朔",
+  "太原府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10807,
+ "page_range": "226-227"
+}

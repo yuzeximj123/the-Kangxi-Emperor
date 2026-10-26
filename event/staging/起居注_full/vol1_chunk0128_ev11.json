@@ -1,0 +1,21 @@
+{
+ "reign_year": 16,
+ "month": 1,
+ "day_text": "初七日甲申",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝亲率内大臣、侍卫、大学士、尚书以下三品以上官员赴孝陵致祭，驻跸温泉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵",
+  "温泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12811,
+ "page_range": "313-314"
+}

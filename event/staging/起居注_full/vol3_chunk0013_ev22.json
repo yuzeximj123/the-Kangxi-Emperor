@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十七日业未",
+ "event_role": "奏报灾情收成",
+ "summary": "户部题覆河南巡抚请以常平仓积谷赈济饥民；康熙帝命速行赈济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1322,
+ "page_range": "61-62"
+}

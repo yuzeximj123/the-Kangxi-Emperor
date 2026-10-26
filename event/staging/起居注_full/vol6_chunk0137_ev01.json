@@ -1,0 +1,54 @@
+{
+ "reign_year": 39,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士伊桑阿等入奏事，康熙帝称天下廉吏无出张鹏翮之右，伊桑阿奏其历任督抚学院皆廉洁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "钱齐保",
+   "role": "学士"
+  },
+  {
+   "name": "特默德",
+   "role": "学士"
+  },
+  {
+   "name": "白硕色",
+   "role": "学士"
+  },
+  {
+   "name": "苏赫纳",
+   "role": "学士"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13701,
+ "page_range": "284-285"
+}

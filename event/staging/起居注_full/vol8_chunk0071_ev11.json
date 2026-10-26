@@ -1,0 +1,30 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题镶黄旗包衣安宝柱父子持棍毒打黑儿致死案，拟绞监候并准抵命枷号，康熙帝以议太轻发回再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安宝柱",
+   "role": "案犯"
+  },
+  {
+   "name": "破脸儿",
+   "role": "安宝柱之子"
+  },
+  {
+   "name": "黑儿",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7111,
+ "page_range": "153-154"
+}

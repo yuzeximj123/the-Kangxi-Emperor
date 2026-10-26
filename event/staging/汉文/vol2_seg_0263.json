@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙肆拾捌年拾贰月初陆日",
+ "reign_year": 48,
+ "month": 12,
+ "day": 6,
+ "event_role": "奏报地方情形",
+ "summary": "贵州巡抚刘荫枢奏报四川遵义府民千余人越境投告府县官加派虐民，已安置赈济并密摺奏闻，请皇上察访实情。",
+ "people": [
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚，奏报人"
+  },
+  {
+   "name": "年羹尧",
+   "role": "四川新任巡抚"
+  },
+  {
+   "name": "刘璠",
+   "role": "刘荫枢家人，赍送奏折者"
+  }
+ ],
+ "places": [
+  "贵州",
+  "四川",
+  "遵义府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知晓，将细访诉词后发回。",
+ "source_title": "贵州巡抚刘荫枢奏报遵义府民投告府县官害民摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "710",
+ "order_index": 263
+}

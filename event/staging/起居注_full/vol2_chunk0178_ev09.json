@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十五日己巳",
+ "event_role": "人事任免",
+ "summary": "推举右翼副都统，康熙帝准以正红旗郎中参领阿济礼补副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿济礼",
+   "role": "正红旗郎中参领，补副都统"
+  },
+  {
+   "name": "章泰",
+   "role": "镶红旗监察御史参领，陪拟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17809,
+ "page_range": "399-400"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "初七日癸刻",
+ "event_role": "谕旨决策",
+ "summary": "户部议覆宁古塔将军佟宝等预备运米黑龙江口袋破坏七万七千余条令变价，康熙帝命免其变价，令该将军酌量给与彼处兵丁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟宝",
+   "role": "宁古塔将军"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13626,
+ "page_range": "284-285"
+}

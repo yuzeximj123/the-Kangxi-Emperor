@@ -1,0 +1,22 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "午时，康熙帝自西华门出西直门，驻跸畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西华门",
+  "西直门",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14209,
+ "page_range": "294-295"
+}

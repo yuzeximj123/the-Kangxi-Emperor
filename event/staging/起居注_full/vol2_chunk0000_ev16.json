@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初四日庚申",
+ "event_role": "谕旨决策",
+ "summary": "议进贡海舶事，明珠奏闽疆新定宜姑徐待其归命，康熙帝颔之。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "闽疆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16,
+ "page_range": "43-44"
+}

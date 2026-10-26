@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 3,
+ "day_text": "初三日辛亥",
+ "event_role": "谕旨决策",
+ "summary": "将军王永誉因族兄王永清从贼奏请解任待罪，康熙帝谕王永清系远族兄弟并无干涉，着照旧留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王永誉",
+   "role": "将军"
+  },
+  {
+   "name": "王永清",
+   "role": "族兄"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11430,
+ "page_range": "271-272"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "十五日己丑",
+ "event_role": "人事任免",
+ "summary": "于成龙乞请准带笔帖式苏信、吴什图随往，康熙帝允准。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "苏信",
+   "role": "笔帖式"
+  },
+  {
+   "name": "吴什图",
+   "role": "随印笔帖式"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21813,
+ "page_range": "448-449"
+}

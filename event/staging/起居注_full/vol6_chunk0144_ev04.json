@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙论靳辅治河十余年河务整理，自修归仁堤后清水势弱河工废坏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "前总河"
+  }
+ ],
+ "places": [
+  "归仁堤",
+  "清河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14404,
+ "page_range": "298-299"
+}

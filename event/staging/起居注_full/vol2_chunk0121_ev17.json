@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "十九日丙寅",
+ "event_role": "军务",
+ "summary": "兵部题查看陕西应留应裁兵并开列差往大臣，康熙帝命折尔肯前往，并责其此前议行间情罪多姑息轻纵。",
+ "people": [
+  {
+   "name": "折尔肯",
+   "role": "大臣"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12117,
+ "page_range": "285-286"
+}

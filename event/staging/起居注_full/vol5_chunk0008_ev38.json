@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "二十三日辛卯",
+ "event_role": "朝见受贺",
+ "summary": "雄县防守御山、知县张重启、把总郑楷圣来朝。",
+ "people": [
+  {
+   "name": "山",
+   "role": "雄县防守御"
+  },
+  {
+   "name": "张重启",
+   "role": "知县"
+  },
+  {
+   "name": "郑楷圣",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "雄县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 838,
+ "page_range": "26-27"
+}

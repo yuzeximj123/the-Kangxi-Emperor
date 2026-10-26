@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "十三日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸怀来县城外皇寺，皇太子率大学士阿兰泰、尚书马齐、佛伦等迎接。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "佛伦",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "怀来县城外皇寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23905,
+ "page_range": "488-489"
+}

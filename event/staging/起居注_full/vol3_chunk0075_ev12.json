@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "许贞奏广东溪水多盗贼出没，拟打造小船安设水路塘兵昼夜巡哨以息盗。",
+ "people": [
+  {
+   "name": "许贞",
+   "role": "广东提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7512,
+ "page_range": "185-186"
+}

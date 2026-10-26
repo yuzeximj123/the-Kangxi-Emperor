@@ -1,0 +1,37 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝谕令将大同留住护军之马选肥者给前进护军，并派右卫兵七百名预备，令布喀喂养马匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "多奇",
+   "role": "侍郎"
+  },
+  {
+   "name": "布喀",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "大同",
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19200,
+ "page_range": "394-395"
+}

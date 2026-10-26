@@ -1,0 +1,37 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十一日",
+ "event_role": "朝见受贺",
+ "summary": "西安副都统法喀、祖良壁，协领关保，粮盐道黄明，汉中副将韩忠等来朝。",
+ "people": [
+  {
+   "name": "法喀",
+   "role": "西安副都统"
+  },
+  {
+   "name": "祖良壁",
+   "role": "西安副都统"
+  },
+  {
+   "name": "关保",
+   "role": "协领"
+  },
+  {
+   "name": "黄明",
+   "role": "粮盐道"
+  },
+  {
+   "name": "韩忠",
+   "role": "汉中副将"
+  }
+ ],
+ "places": [
+  "西安",
+  "汉中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8010,
+ "page_range": "171-172"
+}

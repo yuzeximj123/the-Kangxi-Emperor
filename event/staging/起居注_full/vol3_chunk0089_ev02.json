@@ -1,0 +1,36 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "礼部覆准福建总督王国安题外国进贡船只抽税贸易，康熙帝认为进贡船抽税于大体不合，命九卿会议后再请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国安",
+   "role": "福建总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "施琅",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8902,
+ "page_range": "213-214"
+}

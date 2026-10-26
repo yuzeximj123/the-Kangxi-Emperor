@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "十六日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部题浙江总督王攻员缺请旨，康熙帝以巡抚兴永朝历任年久、居官亦优，升补福建浙江总督。",
+ "people": [
+  {
+   "name": "兴永朝",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "福建",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7413,
+ "page_range": "160-161"
+}

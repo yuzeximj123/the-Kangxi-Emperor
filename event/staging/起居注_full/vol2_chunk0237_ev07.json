@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "初七日甲成",
+ "event_role": "司法案件",
+ "event_summary": "刑部题原任包衣大阿林诈称世祖有旨勿令其子牧马拟绞，康熙帝从勒德洪、明珠议免死减等发落。",
+ "people": [
+  {
+   "name": "阿林",
+   "role": "原任包衣大"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23707,
+ "page_range": "517-518"
+}

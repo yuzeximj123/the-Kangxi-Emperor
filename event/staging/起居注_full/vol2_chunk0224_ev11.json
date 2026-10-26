@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "十四日壬午",
+ "event_role": "议政听政",
+ "summary": "议盛京赞礼郎沙浑赞礼错误应罚俸事，康熙帝令大学士等议奏如何选用堪任之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙浑",
+   "role": "盛京赞礼郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22411,
+ "page_range": "491-492"
+}

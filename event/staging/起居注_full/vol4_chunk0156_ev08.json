@@ -1,0 +1,25 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "初二日乙卯",
+ "event_role": "奏报灾情收成",
+ "summary": "户部覆江西巡抚宋苹疏称南昌等五府十二县民欠钱粮六万余两，请自康熙三十年起每年带征一年，康熙帝命免追取并严禁官员借端征取。",
+ "people": [
+  {
+   "name": "宋苹",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西",
+  "南昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15608,
+ "page_range": "324-325"
+}

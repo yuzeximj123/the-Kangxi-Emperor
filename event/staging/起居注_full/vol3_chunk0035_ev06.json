@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙问总河靳辅及河道，石柱奏靳辅颜色瘦、河道颇好、宿迁筑堤分流无冲决之患。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "石柱",
+   "role": "奏对官员"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "宿迁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3506,
+ "page_range": "105-106"
+}

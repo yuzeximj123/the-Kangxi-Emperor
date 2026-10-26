@@ -1,0 +1,22 @@
+{
+ "reign_year": 14,
+ "month": 9,
+ "day_text": "二十七日王子",
+ "event_role": "皇帝行止",
+ "summary": "因高皇后忌搬，康熙帝未御门听政。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 10128,
+ "page_range": "259-260"
+}

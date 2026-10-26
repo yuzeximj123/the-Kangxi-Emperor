@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十三日",
+ "event_role": "司法案件",
+ "summary": "刑部议吴桥县劫贼枝指等应即处斩，康熙帝询问普德是否杀人后命改为秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "普德",
+   "role": "自首强贼"
+  }
+ ],
+ "places": [
+  "吴桥县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22406,
+ "page_range": "505-506"
+}

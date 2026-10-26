@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "二十九日癸未",
+ "event_role": "人事任免",
+ "summary": "吏部题补太常寺卿徐元瑞升任员缺，康熙帝询问人选，明珠等奏徐谐武、成其范可用，帝命成其范升补太常寺卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元瑞",
+   "role": "太常寺卿"
+  },
+  {
+   "name": "徐谐武",
+   "role": "应升官员"
+  },
+  {
+   "name": "成其范",
+   "role": "应升官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15105,
+ "page_range": "337-338"
+}

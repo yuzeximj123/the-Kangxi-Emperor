@@ -1,0 +1,45 @@
+{
+ "reign_year": 28,
+ "month": 9,
+ "day_text": "十六日己酉",
+ "event_role": "人事任免",
+ "summary": "兵部题补病故福州将军佟国瑶员缺，康熙帝以都统石文炳为人甚优，着补将军。",
+ "people": [
+  {
+   "name": "佟国瑶",
+   "role": "福州将军"
+  },
+  {
+   "name": "石文炳",
+   "role": "都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金世荣",
+   "role": "福建总兵"
+  },
+  {
+   "name": "张俊",
+   "role": "副都统"
+  },
+  {
+   "name": "杨文几",
+   "role": "都统"
+  },
+  {
+   "name": "诺迈",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "福州",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8524,
+ "page_range": "182-183"
+}

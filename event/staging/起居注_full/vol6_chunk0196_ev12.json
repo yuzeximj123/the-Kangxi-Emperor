@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "二十六日癸丑",
+ "event_role": "奏报地方情形",
+ "summary": "右卫将军费扬古题请积贮米谷并请进献石青，康熙谕积贮米谷照所请行，石青不必进献。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "右卫将军"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19612,
+ "page_range": "402-403"
+}

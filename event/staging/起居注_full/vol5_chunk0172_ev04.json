@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "初四日",
+ "event_role": "议政听政",
+ "summary": "议政大臣议大将军费扬古所请借银买马、增马给刍料事，议定给右卫兵三马刍料，余请不准。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  },
+  {
+   "name": "拜音布",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "右卫",
+  "大同府",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17204,
+ "page_range": "354-355"
+}

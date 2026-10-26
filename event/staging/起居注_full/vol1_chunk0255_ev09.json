@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "初七日甲午",
+ "event_role": "军务",
+ "summary": "王进宝请撤回标兵，康熙以进取云贵机宜重大不准行，命另改票签使王进宝知其故。",
+ "people": [
+  {
+   "name": "王进宝",
+   "role": "提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云",
+  "贵",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25509,
+ "page_range": "567-568"
+}

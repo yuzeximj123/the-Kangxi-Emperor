@@ -1,0 +1,32 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": "十八日丙戌",
+ "event_role": "人事任免",
+ "summary": "兵部题江南副都统硕色员缺，康熙帝以江南兵不堪、将军鄂罗无实绩，令议政大臣会推具奏。",
+ "people": [
+  {
+   "name": "硕色",
+   "role": "江南副都统"
+  },
+  {
+   "name": "陶岱",
+   "role": "侍郎"
+  },
+  {
+   "name": "鄂罗",
+   "role": "将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9416,
+ "page_range": "198-199"
+}

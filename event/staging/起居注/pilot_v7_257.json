@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "",
+ "event_role": "谕旨决策",
+ "summary": "马齐等奏直隶巡抚赵弘煤、天津总兵官蓝理请将直隶洼下之田开为水田事，康熙帝谕可再存一年。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "赵弘煤",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "蓝理",
+   "role": "天津总兵官"
+  }
+ ],
+ "places": [
+  "直隶",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3257
+}

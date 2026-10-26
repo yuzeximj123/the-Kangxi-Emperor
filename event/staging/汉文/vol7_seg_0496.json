@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十六年八月二十四日",
+ "reign_year": 56,
+ "month": 8,
+ "day": 20,
+ "event_role": "奏报地方情形",
+ "summary": "两广总督杨琳奏报英国等洋船来粤贸易情形、本地奸商及护送本地货匠进京效力事，并报沿海查勘炮台行程。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广总督，奏报人"
+  },
+  {
+   "name": "杨士京",
+   "role": "浙江海关官员"
+  }
+ ],
+ "places": [
+  "广东",
+  "肇庆",
+  "阳江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "兩廣總督楊琳奏報英國等船來粵並護送本地貨匠進京摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2507",
+ "order_index": 496
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚李光地题请以紫荆关参将张谷贞补授真定府副将姚尚伦员缺，康熙帝准行。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "姚尚伦",
+   "role": "真定府副将"
+  },
+  {
+   "name": "张谷贞",
+   "role": "紫荆关参将"
+  }
+ ],
+ "places": [
+  "真定府",
+  "紫荆关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1001,
+ "page_range": "31-32"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "初四日己亥",
+ "event_role": "军务",
+ "summary": "兵部题右卫将军希福请给官兵鞍马钱粮议不准行，康熙帝命待尚书马齐差往右卫酌定兵丁钱粮条例回后交议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "右卫将军"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3624,
+ "page_range": "82-83"
+}

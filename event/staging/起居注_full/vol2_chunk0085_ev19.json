@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "二十日己亥",
+ "event_role": "人事任免",
+ "summary": "理藩院参郎中朴罗塞、员外郎戴音布才力不及，吏部议降二级调用，康熙帝有所谕示。",
+ "people": [
+  {
+   "name": "朴罗塞",
+   "role": "理藩院郎中"
+  },
+  {
+   "name": "戴音布",
+   "role": "理藩院员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8519,
+ "page_range": "213-214"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "初六日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "副都御史郝浴条奏各部司官年终举动，九卿会议不允，康熙帝采纳明珠意见命郝浴所奏应行再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郝浴",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25414,
+ "page_range": "565-566"
+}

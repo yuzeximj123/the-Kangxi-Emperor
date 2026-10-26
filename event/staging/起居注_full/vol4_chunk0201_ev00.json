@@ -1,0 +1,35 @@
+{
+ "reign_year": 31,
+ "month": 6,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "臣据实题参知府张激、副将侠奇谎报军功、私遣兵目索财致苗人拒阻被杀，请先行严审定罪，并自请处分。",
+ "people": [
+  {
+   "name": "张激",
+   "role": "知府"
+  },
+  {
+   "name": "侠奇",
+   "role": "副将"
+  },
+  {
+   "name": "赵明字",
+   "role": "兵目"
+  },
+  {
+   "name": "刘护送",
+   "role": "吏目"
+  }
+ ],
+ "places": [
+  "三寨",
+  "高洞",
+  "祖文山",
+  "省城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20100,
+ "page_range": "414-415"
+}

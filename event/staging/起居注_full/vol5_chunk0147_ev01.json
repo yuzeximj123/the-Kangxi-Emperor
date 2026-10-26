@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "镶黄旗御史雅图员缺，拟员外郎西喇为正、硕色为陪，康熙帝命将保举升补郎中者开列具奏。",
+ "people": [
+  {
+   "name": "雅图",
+   "role": "镶黄旗御史"
+  },
+  {
+   "name": "西喇",
+   "role": "拟正员外郎"
+  },
+  {
+   "name": "硕色",
+   "role": "拟陪员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14701,
+ "page_range": "304-305"
+}

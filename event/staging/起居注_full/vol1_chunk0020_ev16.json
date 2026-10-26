@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 7,
+ "day_text": "十四日丁雍",
+ "event_role": "人事任免",
+ "summary": "午时康熙帝幸瀛台召见山西布政使杭爱，谕以清正表率、参奏贪官、抚绥百姓，并赐表里各三匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杭爱",
+   "role": "山西布政使"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2016,
+ "page_range": "97-98"
+}

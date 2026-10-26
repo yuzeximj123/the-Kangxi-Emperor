@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初七日乙亥",
+ "event_role": "司法案件",
+ "summary": "都察院议工部尚书朱之弼等修南苑红桥估价浮冒应革职，康熙帝准免其罪，承估司官额音普等以原品随旗上朝。",
+ "people": [
+  {
+   "name": "朱之弼",
+   "role": "工部尚书"
+  },
+  {
+   "name": "额音普",
+   "role": "承估司官"
+  }
+ ],
+ "places": [
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22214,
+ "page_range": "487-488"
+}

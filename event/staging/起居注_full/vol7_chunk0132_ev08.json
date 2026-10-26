@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以吏科给事中袍色甚劣、不谙礼法且懒惰，命革职。",
+ "people": [
+  {
+   "name": "袍色",
+   "role": "吏科给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13208,
+ "page_range": "275-276"
+}

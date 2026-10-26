@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "十一日壬辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论江南梅姓者通算学，令其测景全然未合，因算法不密故用短表。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梅姓者",
+   "role": "江南算学者"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16625,
+ "page_range": "344-345"
+}

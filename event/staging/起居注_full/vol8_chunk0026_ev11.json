@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题四川川北总兵官王应龙请入四川民籍并调补他省，康熙帝令其家产入四川籍，王应龙调来引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王应龙",
+   "role": "四川川北总兵官"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2611,
+ "page_range": "63-64"
+}

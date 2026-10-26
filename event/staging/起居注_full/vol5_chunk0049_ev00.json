@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "吏部侍郎安布禄查勘直隶安州等十一州县贫民，九卿议覆赈济事宜，康熙帝询问九卿意见。",
+ "people": [
+  {
+   "name": "安布禄",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶",
+  "安州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4900,
+ "page_range": "108-109"
+}

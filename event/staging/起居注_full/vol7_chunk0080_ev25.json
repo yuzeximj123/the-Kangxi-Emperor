@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十五日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕乾清门侍卫马武、内阁学士色德里查明西安附近历代帝王陵及本朝勋旧坟墓并议祭奠具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "色德里",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8025,
+ "page_range": "171-172"
+}

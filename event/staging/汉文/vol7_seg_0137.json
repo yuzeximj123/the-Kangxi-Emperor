@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙五十五年六月十一日",
+ "reign_year": 55,
+ "month": 6,
+ "day": 11,
+ "event_role": "请安谢恩",
+ "summary": "直隶总督赵弘燮奏报京城及直属地方得雨情形，并因左腿风湿疼痛恳请皇上恩赐御制药酒治病。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督，奏折作者"
+  },
+  {
+   "name": "章文镇",
+   "role": "为赵弘燮诊病的医者"
+  },
+  {
+   "name": "黄院判",
+   "role": "曾提及御制药酒可祛风湿的院判"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "直隶",
+  "京城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知药酒泡制用法及用量，并令将药带去。",
+ "source_title": "直隸總督趙弘燮奏報京城得雨摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 137
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "二十一日壬戌",
+ "event_role": "军务",
+ "summary": "康熙与兵部尚书杭爱、侍郎郭耕议行间功罪相抵，谕令螺子山、石峡、祖山头等处功过相抵务期妥确。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杭爱",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "郭耕",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "螺子山",
+  "石峡",
+  "祖山头"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19612,
+ "page_range": "435-436"
+}

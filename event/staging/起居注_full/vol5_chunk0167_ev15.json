@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕议政大臣：厄鲁特桑扎布等来归顺，报称噶尔丹向哈密前去，应乘机速行剿灭，大同现有马匹预备，此兵即从内地前进。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑扎布",
+   "role": "厄鲁特"
+  }
+ ],
+ "places": [
+  "库伦伯尔齐尔",
+  "哈密",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16715,
+ "page_range": "344-345"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "初五日已刻",
+ "event_role": "人事任免",
+ "summary": "康熙帝阅绿头签，升补马齐、佛伦、驴赐履、张英为内阁大学士，马齐仍兼管户部、理藩院事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "内阁大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "内阁大学士"
+  },
+  {
+   "name": "驴赐履",
+   "role": "内阁大学士"
+  },
+  {
+   "name": "张英",
+   "role": "内阁大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12217,
+ "page_range": "254-255"
+}

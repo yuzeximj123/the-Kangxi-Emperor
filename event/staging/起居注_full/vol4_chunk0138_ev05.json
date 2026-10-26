@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "二十一日丁丑",
+ "event_role": "奏报地方情形",
+ "summary": "湖广总督丁思筷奏闻雨雪事，康熙帝以其为平常事、所奏无益。",
+ "people": [
+  {
+   "name": "丁思筷",
+   "role": "湖广总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13805,
+ "page_range": "288-289"
+}

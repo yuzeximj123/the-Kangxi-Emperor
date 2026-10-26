@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十二年七月二十四日",
+ "reign_year": 52,
+ "month": 7,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "延绥总兵李耀奏谢圣恩，遣家人李义进京恭请圣安并进献土物，表达对皇帝的忠诚与依恋。",
+ "people": [
+  {
+   "name": "李耀",
+   "role": "镇守陕西延绥等处地方总兵官署都督佥事，奏折作者"
+  },
+  {
+   "name": "李义",
+   "role": "李耀家人，奉命进京请安并进献土物"
+  }
+ ],
+ "places": [
+  "陕西",
+  "延绥"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批表示已阅，并告知自己安好。",
+ "source_title": "延綏總兵李耀奏請聖安並進土物摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1396",
+ "order_index": 25
+}

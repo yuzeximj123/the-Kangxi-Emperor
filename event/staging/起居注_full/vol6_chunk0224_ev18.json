@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "初五日戊子",
+ "event_role": "司法案件",
+ "summary": "户部题公郑克更家仆曾宁等十一户，康熙帝令该抚查明具奏，不得断归本主致屈抑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郑克更",
+   "role": "公"
+  },
+  {
+   "name": "曾宁",
+   "role": "家仆"
+  },
+  {
+   "name": "郭世隆",
+   "role": "总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22418,
+ "page_range": "458-459"
+}

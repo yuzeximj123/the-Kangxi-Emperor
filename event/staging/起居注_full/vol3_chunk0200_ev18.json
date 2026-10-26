@@ -1,0 +1,21 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "二十九日己酉",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率王、大臣至仁孝皇后、孝昭皇后陵，三奠酒举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "仁孝皇后陵",
+  "孝昭皇后陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20018,
+ "page_range": "435-436"
+}

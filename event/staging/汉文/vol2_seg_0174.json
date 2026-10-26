@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙伍拾捌年陸月初貳日",
+ "reign_year": 58,
+ "month": 6,
+ "day": 2,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮具折恭请圣安，并谢皇上朱批告知身体比先前更好，表达欢忭感激之情。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "李煦",
+   "role": "巡视两淮盐课监察御史"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "口外",
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸巡撫趙弘燮奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "514",
+ "order_index": 174
+}

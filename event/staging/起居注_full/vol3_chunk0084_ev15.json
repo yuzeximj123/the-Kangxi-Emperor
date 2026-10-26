@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十六日丙戌",
+ "event_role": "人事任免",
+ "summary": "明珠等奏国子监助教常书升任员缺，遵旨看书写后，康熙帝命陶三泰补授助教。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "陶三泰",
+   "role": "拟正笔帖式"
+  },
+  {
+   "name": "努山",
+   "role": "拟陪笔帖式"
+  }
+ ],
+ "places": [
+  "国子监"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8415,
+ "page_range": "203-204"
+}

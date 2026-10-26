@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "人事任免",
+ "summary": "兵部题补正黄旗汉军副都统员缺，康熙帝询问参领杨文魁，命详问巴泰、张所知后再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杨文魁",
+   "role": "参领"
+  },
+  {
+   "name": "巴泰",
+   "role": "原任都统"
+  },
+  {
+   "name": "张所知",
+   "role": "都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2503,
+ "page_range": "85-86"
+}

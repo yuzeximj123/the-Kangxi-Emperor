@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议政王等会议索伦地方总管，拟郎中郑都为正、三等侍卫尼堪为陪，康熙帝以郑都不习蒙古语等由驳回另拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郑都",
+   "role": "郎中"
+  },
+  {
+   "name": "尼堪",
+   "role": "三等侍卫"
+  }
+ ],
+ "places": [
+  "索伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11603,
+ "page_range": "267-268"
+}

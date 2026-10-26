@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "二十一日甲申",
+ "event_role": "司法案件",
+ "summary": "兵部题川陕总督葛思泰奏土司巴旦子立告杨威一案，康熙帝以该督未取杨威口供含糊审奏，令复行审明。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葛思泰",
+   "role": "川陕总督"
+  },
+  {
+   "name": "巴旦子立",
+   "role": "土司"
+  },
+  {
+   "name": "杨威",
+   "role": "涉案人"
+  }
+ ],
+ "places": [
+  "川陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8916,
+ "page_range": "190-191"
+}

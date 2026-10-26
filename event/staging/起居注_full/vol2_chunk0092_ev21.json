@@ -1,0 +1,33 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "二十五日甲戌",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝遣近侍索柱视学士库勒纳病，传谕令其择屋停住、留御医马之俊并给内药治疗，库勒纳奏谢。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索柱",
+   "role": "近侍"
+  },
+  {
+   "name": "库勒纳",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "马之俊",
+   "role": "御医"
+  }
+ ],
+ "places": [
+  "三屯营",
+  "米峪口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9221,
+ "page_range": "227-228"
+}

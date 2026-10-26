@@ -1,0 +1,44 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "十一日己巳",
+ "event_role": "议政听政",
+ "summary": "巳时皇太子读书无逸斋，达哈塔、汤斌、耿介入行礼侍立，皇太子朗诵《礼记》数节、经义一篇，汤斌跪听背诵。",
+ "people": [
+  {
+   "name": "皇太子",
+   "role": "太子"
+  },
+  {
+   "name": "达哈塔",
+   "role": "官员"
+  },
+  {
+   "name": "汤斌",
+   "role": "官员"
+  },
+  {
+   "name": "耿介",
+   "role": "官员"
+  },
+  {
+   "name": "尹泰",
+   "role": "詹事"
+  },
+  {
+   "name": "伊图",
+   "role": "起居注官"
+  },
+  {
+   "name": "高毅",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "无逸斋"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23612,
+ "page_range": "507-508"
+}

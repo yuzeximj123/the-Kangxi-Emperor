@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十八日",
+ "event_role": "谕旨决策",
+ "summary": "户部覆议署总督事席尔达等题请将临涨卫所贮米谷减价粜于巩昌府诸州县饥民，康熙帝准行。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "署总督事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "临涨卫",
+  "巩昌府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21602,
+ "page_range": "442-443"
+}

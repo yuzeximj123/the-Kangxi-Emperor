@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "五月十六日",
+ "event_role": "谕旨决策",
+ "summary": "行在兵部移文黑龙江将军萨布素，奉上谕留黑龙江兵一千、盛京兵一千驻扎索岳尔济山至七月，余兵各回本处并拨给粮米。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "称泰",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "索和天尔济山",
+  "索岳尔济山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13503,
+ "page_range": "280-281"
+}

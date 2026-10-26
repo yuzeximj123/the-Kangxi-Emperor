@@ -1,0 +1,33 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "初四日戊辰",
+ "event_role": "人事任免",
+ "summary": "兵部题浙江总兵王弘仁员缺，康熙帝以南巡时所见副将杨林人材优长，着补总兵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王弘仁",
+   "role": "浙江总兵"
+  },
+  {
+   "name": "王臣",
+   "role": "广东协领"
+  },
+  {
+   "name": "杨林",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "浙江",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11422,
+ "page_range": "238-239"
+}

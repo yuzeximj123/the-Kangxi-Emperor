@@ -1,0 +1,33 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评价康泰兵变中范时崇、路振扬处置得当，年羹尧奏报得体，命拟温旨进呈，并令路振扬积谷添兵之折会同九卿议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "路振扬",
+   "role": "提督"
+  },
+  {
+   "name": "康泰",
+   "role": "兵变相关官员"
+  }
+ ],
+ "places": [
+  "成都",
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21500,
+ "page_range": "441-442"
+}

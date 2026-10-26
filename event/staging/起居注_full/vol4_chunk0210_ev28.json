@@ -1,0 +1,29 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "十六日辛卯",
+ "event_role": "人事任免",
+ "summary": "吏部题山东巡抚佛伦员缺，康熙帝命湖广巡抚桑格调补山东巡抚，湖广巡抚员缺将汉军汉人开列具奏。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "桑格",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21028,
+ "page_range": "432-433"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "靳辅奏所用柳枝皆在皇上洞鉴中，康熙帝问董讷，董讷奏宿迁、安东俱有小柳不多。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董讷",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "宿迁",
+  "安东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1722,
+ "page_range": "46-47"
+}

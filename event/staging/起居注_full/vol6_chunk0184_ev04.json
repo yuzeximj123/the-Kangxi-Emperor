@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "初九日本卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝赏赐古北口总兵官马进良、天津总兵官潘育龙鹿、羊、汤羊、鹿尾等物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马进良",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "潘育龙",
+   "role": "天津总兵官"
+  }
+ ],
+ "places": [
+  "古北口",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18404,
+ "page_range": "378-379"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十八日甲午",
+ "event_role": "人事任免",
+ "summary": "吏部题御史单壁升任员缺，拟巴布纳正、马喇希陪，康熙帝命吏部会同都察院于郎中内选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "单壁",
+   "role": "御史"
+  },
+  {
+   "name": "巴布纳",
+   "role": "督捕员外郎"
+  },
+  {
+   "name": "马喇希",
+   "role": "户部员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1706,
+ "page_range": "69-70"
+}

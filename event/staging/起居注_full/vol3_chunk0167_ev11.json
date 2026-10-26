@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "十三日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部题补侍郎胡简敬降调员缺，康熙询问后命董讷转补吏部侍郎。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "徐乾学",
+   "role": "学士"
+  },
+  {
+   "name": "董讷",
+   "role": "汉大学士"
+  },
+  {
+   "name": "胡简敬",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "严我斯",
+   "role": "礼部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16711,
+ "page_range": "369-370"
+}

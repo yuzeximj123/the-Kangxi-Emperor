@@ -1,0 +1,30 @@
+{
+ "reign_year": 53,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "大学士松柱等请旨辅国公索诺称达锡遗本袭封事，康熙帝命诺尔布彭楚客袭封辅国公。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "索诺称达锡",
+   "role": "辅国公"
+  },
+  {
+   "name": "诺尔布彭楚客",
+   "role": "袭封辅国公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5202,
+ "page_range": "115-116"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "据投诚厄鲁特人云，噶尔丹登纳尔山望见清军，惊惧连夜抛弃什物逃遁。",
+ "people": [
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "纳尔山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12906,
+ "page_range": "268-269"
+}

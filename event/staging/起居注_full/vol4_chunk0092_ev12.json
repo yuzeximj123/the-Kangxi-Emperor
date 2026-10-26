@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 11,
+ "day_text": "二十一日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "山东巡抚佛伦陛辞请训，康熙帝谕令其清廉公正、勉力尽职。",
+ "people": [
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9212,
+ "page_range": "196-197"
+}

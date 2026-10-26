@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "",
+ "event_role": "司法案件",
+ "summary": "汇题案内山东民迟新等行过盆山吃烟遗火延烧山草议罪，康熙帝以案内字有差误俱改正。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "迟新",
+   "role": "山东民"
+  }
+ ],
+ "places": [
+  "山东",
+  "盆山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3254
+}

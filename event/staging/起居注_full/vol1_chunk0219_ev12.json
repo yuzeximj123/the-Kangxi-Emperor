@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 2,
+ "day_text": "初二日",
+ "event_role": "人事任免",
+ "summary": "兵部议盛京将军安朱护请以新满洲那达纳等补半个佐领，康熙帝令照将军所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安朱护",
+   "role": "盛京将军"
+  },
+  {
+   "name": "那达纳",
+   "role": "新满洲"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21912,
+ "page_range": "495-496"
+}

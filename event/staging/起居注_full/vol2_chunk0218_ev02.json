@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政王等会议永兴过河交战失利官员处分，康熙帝准议并命详议改定军法未尽之处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "永兴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21802,
+ "page_range": "479-480"
+}

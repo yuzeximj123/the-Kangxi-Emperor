@@ -1,0 +1,25 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部等议将运至朝鲜及河工等处减价粜卖之米买补带运，康熙帝以仓米充足、恐累百姓运丁，命停买补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德珠",
+   "role": "仓场总督"
+  }
+ ],
+ "places": [
+  "朝鲜",
+  "河工"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4202,
+ "page_range": "94-95"
+}

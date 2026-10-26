@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "二十九日全效",
+ "event_role": "谕旨决策",
+ "summary": "吏部题井陉县从粮、丁忧知府马世恩未经查出议革职，康熙帝令查核巡抚李光地此议当否具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马世恩",
+   "role": "丁忧知府"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "真定府",
+  "井陉县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12535,
+ "page_range": "260-261"
+}

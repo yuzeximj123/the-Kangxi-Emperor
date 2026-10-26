@@ -1,0 +1,25 @@
+{
+ "reign_year": 15,
+ "month": 9,
+ "day_text": "十五日甲午",
+ "event_role": "请安谢恩",
+ "summary": "巳时康熙帝赴太皇太后行宫问安，未时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后行宫",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12124,
+ "page_range": "299-300"
+}

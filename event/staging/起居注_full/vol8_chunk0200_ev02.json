@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请礼部所题陕西、江南二省正副考官事，九卿保举编修王时酋等十一人，康熙帝命仍照前将九卿举出职名票签进呈，考试好者留、不好革退，并评论汉大臣汲汲于师弟之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王时酋",
+   "role": "编修"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "陕西",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20002,
+ "page_range": "411-412"
+}

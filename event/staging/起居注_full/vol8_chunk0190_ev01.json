@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "二十日甲辰",
+ "event_role": "朝见受贺",
+ "summary": "怀柔县知县吴经国、守备赵成规等来朝见。",
+ "people": [
+  {
+   "name": "吴经国",
+   "role": "怀柔县知县"
+  },
+  {
+   "name": "赵成规",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "怀柔县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19001,
+ "page_range": "391-392"
+}

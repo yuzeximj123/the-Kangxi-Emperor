@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "广东巡抚法海题南雄守御所千总尚宠之母齐氏年八十一岁请终养，武职无终养例，康熙帝特准尚宠终养。",
+ "people": [
+  {
+   "name": "法海",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "尚宠",
+   "role": "南雄守御所千总"
+  },
+  {
+   "name": "齐氏",
+   "role": "尚宠之母"
+  }
+ ],
+ "places": [
+  "广东",
+  "南雄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20913,
+ "page_range": "429-430"
+}

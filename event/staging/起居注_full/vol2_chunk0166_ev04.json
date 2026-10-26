@@ -1,0 +1,20 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "初一日癸卯",
+ "event_role": "其他",
+ "summary": "康熙帝复御保和殿，赐外藩王、贝勒、贝子、公、台吉等，内大臣、侍卫，上三旗大学士以下、学士、副都御史以上、都统以下、副都统以上等官食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16604,
+ "page_range": "375-376"
+}

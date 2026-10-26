@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "苏尼式多罗郡王垂几、公苏隆来朝。",
+ "people": [
+  {
+   "name": "垂几",
+   "role": "苏尼式多罗郡王"
+  },
+  {
+   "name": "苏隆",
+   "role": "公"
+  }
+ ],
+ "places": [
+  "苏尼式"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6704,
+ "page_range": "145-146"
+}

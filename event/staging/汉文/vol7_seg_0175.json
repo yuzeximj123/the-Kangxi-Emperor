@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十五年六月……",
+ "reign_year": 55,
+ "month": 6,
+ "day": 1,
+ "event_role": "请安谢恩",
+ "summary": "大学士李光地奏报接到家书，得知康熙帝御赐绿砚一方，上有御书款识、匣盖具备，因珍重未敢远寄，先写家书告知，李光地叩头谢恩。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，奏折作者，受赐绿砚者"
+  },
+  {
+   "name": "李钟侨",
+   "role": "编修，李光地之侄，家书告知者"
+  },
+  {
+   "name": "李天宠",
+   "role": "庶吉士，李光地之侄，家书告知者"
+  },
+  {
+   "name": "王掞",
+   "role": "大学士，代领御赐绿砚者"
+  }
+ ],
+ "places": [
+  "端歙之溪"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "大學士李光地奏謝恩賜綠硯摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2164",
+ "order_index": 175
+}

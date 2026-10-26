@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "初八日忆雍",
+ "event_role": "人事任免",
+ "event_summary": "吏部题补礼部主事松阿代员缺，康熙帝以张悟礼良劣令以原品随旗行走，员缺另拟。",
+ "people": [
+  {
+   "name": "松阿代",
+   "role": "礼部主事"
+  },
+  {
+   "name": "张悟礼",
+   "role": "候补主事"
+  },
+  {
+   "name": "齐什",
+   "role": "国子监助教"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23713,
+ "page_range": "517-518"
+}

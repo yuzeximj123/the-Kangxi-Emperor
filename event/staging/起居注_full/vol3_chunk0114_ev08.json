@@ -1,0 +1,42 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "十四日辛丑",
+ "event_role": "人事任免",
+ "summary": "大学士等以折本请旨，翰林院侍读学士顾巴代升任员缺，以侍讲学士邬黑转补。",
+ "people": [
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "顾巴代",
+   "role": "侍读学士"
+  },
+  {
+   "name": "邬黑",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11408,
+ "page_range": "263-264"
+}

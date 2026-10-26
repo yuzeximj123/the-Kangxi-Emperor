@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "初八日丁未",
+ "event_role": "人事任免",
+ "summary": "题补郎中能德革职员缺，康熙帝以能德办事优、勤慎效力，命复还原职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "能德",
+   "role": "郎中"
+  },
+  {
+   "name": "鄂屯",
+   "role": "员外郎"
+  },
+  {
+   "name": "乌什哈",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21203,
+ "page_range": "467-468"
+}

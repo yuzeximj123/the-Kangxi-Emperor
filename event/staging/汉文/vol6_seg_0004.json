@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙伍拾肆年正月",
+ "reign_year": 54,
+ "month": 1,
+ "day": null,
+ "event_role": "朝见受贺",
+ "summary": "肃州总兵路振声因康熙圣寿，遣家人进献藏香、绿果、挂面、芝麻等物，并率文武官民设坛祈祝圣寿。",
+ "people": [
+  {
+   "name": "路振声",
+   "role": "陕西甘州总兵官，具奏人"
+  },
+  {
+   "name": "黄焕",
+   "role": "路振声家人，代其进献物品"
+  }
+ ],
+ "places": [
+  "肃州",
+  "甘州",
+  "兰州",
+  "哈密"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "肃州总兵贺寿折",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 4
+}

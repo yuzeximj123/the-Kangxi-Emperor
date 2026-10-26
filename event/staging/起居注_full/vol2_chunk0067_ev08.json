@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "十五日丙寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台门听各部院衙门官员面奏政事，户部尚书伊桑阿等同兵部侍郎希福奏事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "希福",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "瀛台门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6708,
+ "page_range": "177-178"
+}

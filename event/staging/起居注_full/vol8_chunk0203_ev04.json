@@ -1,0 +1,42 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙论空言作文之辈不可信，举李自成进京时明文臣迎降称颂及吴三桂叛时官员降附事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李自成",
+   "role": "流贼"
+  },
+  {
+   "name": "吴三桂",
+   "role": "逆贼"
+  },
+  {
+   "name": "曹申吉",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "李本深",
+   "role": "提督"
+  },
+  {
+   "name": "罗森",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "郑化蛟",
+   "role": "提督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20304,
+ "page_range": "417-418"
+}

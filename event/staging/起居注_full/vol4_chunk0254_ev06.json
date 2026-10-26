@@ -1,0 +1,21 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "因江浙亢旱，康熙帝遣官刻期勘视，蠲免今岁浙省全赋并免江省三分之一。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25406,
+ "page_range": "520-521"
+}

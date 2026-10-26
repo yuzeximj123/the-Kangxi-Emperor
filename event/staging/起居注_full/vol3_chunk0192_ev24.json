@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "十九日庚午",
+ "event_role": "司法案件",
+ "summary": "兵部题永平地方行猎副都统刘成龙等不及行围行列不能统辖议罪，康熙帝以其在琼州居官甚劣且似有病命传来验看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘成龙",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "永平",
+  "琼州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19224,
+ "page_range": "419-420"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "二十七日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部题左都御史葛弘道员缺，康熙帝以湖广总督吴珊居官好，命升补左都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴珊",
+   "role": "湖广总督"
+  },
+  {
+   "name": "葛弘道",
+   "role": "左都御史"
+  },
+  {
+   "name": "赵士麟",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14612,
+ "page_range": "302-303"
+}

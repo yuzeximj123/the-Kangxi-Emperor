@@ -1,0 +1,24 @@
+{
+ "reign_year": 53,
+ "month": 7,
+ "day_text": "二十七日丙寅",
+ "event_role": "人事任免",
+ "summary": "兵部议覆鄂海题甘肃卫所官员缺出请于武进士、举人内选补不准行，康熙帝命问九卿议奏。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6719,
+ "page_range": "145-146"
+}

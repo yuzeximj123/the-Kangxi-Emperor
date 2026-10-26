@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十二年正月十三日",
+ "reign_year": 52,
+ "month": null,
+ "day": 3,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏报遣家人进京请安，并谢皇上赏赐羊、鹿尾、野鸡、浙鲁鱼等物，表示感恩图报。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "江南苏州织造，奏折作者"
+  },
+  {
+   "name": "贾应虎",
+   "role": "李煦家人，奉命赍摺进京请安"
+  }
+ ],
+ "places": [
+  "江南",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏為商賈顧隨同入都恭祝萬壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1174",
+ "order_index": 171
+}

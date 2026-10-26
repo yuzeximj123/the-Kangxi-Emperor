@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十六日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "礼部题提督王之昂、总兵官费雅达应否与谥，康熙帝命俱着与谥并加祭一次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王之昂",
+   "role": "提督"
+  },
+  {
+   "name": "费雅达",
+   "role": "总兵官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5607,
+ "page_range": "155-156"
+}

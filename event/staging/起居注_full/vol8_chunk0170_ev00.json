@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝决定不注销巴哈纳所遗世职，命马哈达承袭头等阿达哈哈番兼一拖沙喇哈番。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马哈达",
+   "role": "承袭者"
+  },
+  {
+   "name": "巴哈纳",
+   "role": "太祖太宗时之臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17000,
+ "page_range": "351-352"
+}

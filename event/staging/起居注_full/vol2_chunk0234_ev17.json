@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "二十八日乙丑",
+ "event_role": "弹劾参奏",
+ "summary": "广西提督折尔肯保举属弁林大中，兵部疑其病故前具题有情弊，康熙帝命依部议行察并令林大中来京。",
+ "people": [
+  {
+   "name": "折尔肯",
+   "role": "广西提督"
+  },
+  {
+   "name": "林大中",
+   "role": "属弁"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23417,
+ "page_range": "511-512"
+}

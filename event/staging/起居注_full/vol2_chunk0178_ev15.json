@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十六日戊午",
+ "event_role": "谕旨决策",
+ "summary": "户部再议河南巡抚王日藻条陈垦荒事，康熙帝准所议，并命严切票出防范逃人奸宄贻累地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王日藻",
+   "role": "河南巡抚"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17815,
+ "page_range": "399-400"
+}

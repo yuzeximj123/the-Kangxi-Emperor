@@ -1,0 +1,31 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "十五日己丑",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以陕西屡被旱灾，命遣大臣致祭华山，令伊桑阿等会同礼部议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "苏赫",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "华山",
+  "陕西",
+  "泰山",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22610,
+ "page_range": "464-465"
+}

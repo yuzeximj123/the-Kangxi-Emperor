@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "三十日壬辰",
+ "event_role": "司法案件",
+ "summary": "吏部题原任湖南巡抚潘宗洛交通太监李玉立合同券事，康熙以所审不明，命拿潘宗洛到京彻底审明具奏。",
+ "people": [
+  {
+   "name": "潘宗洛",
+   "role": "原任湖南巡抚"
+  },
+  {
+   "name": "李玉",
+   "role": "太监"
+  },
+  {
+   "name": "张隆弱",
+   "role": "保人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11217,
+ "page_range": "235-236"
+}

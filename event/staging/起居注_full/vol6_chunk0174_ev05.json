@@ -1,0 +1,33 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "初八日",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等遵旨询问九卿史乾为人，九卿称其主试浙江无善处、捐纳案内有名，不可升补少詹事，康熙帝命其往河工效力。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "史乾",
+   "role": "侍读学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏副",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "浙江",
+  "河工"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17405,
+ "page_range": "358-359"
+}

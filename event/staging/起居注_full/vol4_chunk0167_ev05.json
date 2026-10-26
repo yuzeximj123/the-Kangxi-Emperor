@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "十四日乙未",
+ "event_role": "谕旨决策",
+ "summary": "吏部题太常寺少卿钱三锡员缺无升补之人，康熙帝谕令将翰林院、詹事府相当翰林官员开列具奏补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钱三锡",
+   "role": "太常寺少卿"
+  },
+  {
+   "name": "汪橙",
+   "role": "河南府知府"
+  },
+  {
+   "name": "胡会恩",
+   "role": "侍读"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16705,
+ "page_range": "346-347"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初三日壬戌",
+ "event_role": "军务",
+ "summary": "兵部议发马三、偏图、四十六赴云贵总督赵良栋军前，康熙帝以其现在军前效力，命下优旨奖谕并拟票来奏。",
+ "people": [
+  {
+   "name": "马三",
+   "role": "军前效力人员"
+  },
+  {
+   "name": "偏图",
+   "role": "军前效力人员"
+  },
+  {
+   "name": "四十六",
+   "role": "军前效力人员"
+  },
+  {
+   "name": "赵良栋",
+   "role": "云贵总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23212,
+ "page_range": "521-522"
+}

@@ -1,0 +1,74 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "其他",
+ "summary": "本件为《康熙朝汉文朱批奏折汇编》第八册目录，逐条列出该册所收奏折的编号、题名及页码，属目录性文件。",
+ "people": [
+  {
+   "name": "左世永",
+   "role": "广西提督"
+  },
+  {
+   "name": "白潢",
+   "role": "江西布政使"
+  },
+  {
+   "name": "吕犹龙",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "吴郡",
+   "role": "署理江西提督"
+  },
+  {
+   "name": "佟国勷",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "施世骠",
+   "role": "广东提督"
+  },
+  {
+   "name": "施世纶",
+   "role": "漕运总督"
+  },
+  {
+   "name": "范弘偲",
+   "role": "奏报官员"
+  },
+  {
+   "name": "范时捷",
+   "role": "宁夏总兵"
+  },
+  {
+   "name": "马进良",
+   "role": "原任古北口提督"
+  },
+  {
+   "name": "师懿德",
+   "role": "江南提督"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广西",
+  "江西",
+  "福建",
+  "广东",
+  "宁夏",
+  "古北口",
+  "江南"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "康熙朝汉文朱批奏折汇编第八册目录",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 0
+}

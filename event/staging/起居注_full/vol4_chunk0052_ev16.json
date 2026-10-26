@@ -1,0 +1,22 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "初八日丙子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝为南巡阅视河工、省观风俗、咨访吏治，黎明自午门出正阳门，驻跸永清县南格驿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "永清县南格驿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5216,
+ "page_range": "116-117"
+}

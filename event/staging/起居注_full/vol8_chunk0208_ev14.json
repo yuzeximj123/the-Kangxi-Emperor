@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": "十八日已已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝御行宫召见阿克敦、张廷改，谕令礼部代题购空青赐朝鲜王，并令传谕王不必拘成例相见。",
+ "people": [
+  {
+   "name": "阿克敦",
+   "role": "日讲官起居注翰林院侍读学士"
+  },
+  {
+   "name": "张廷改",
+   "role": "銮仪卫治仪正兼佐领"
+  },
+  {
+   "name": "朝鲜王",
+   "role": "朝鲜国王"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20814,
+ "page_range": "427-428"
+}

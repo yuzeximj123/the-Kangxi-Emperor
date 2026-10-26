@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "event_summary": "兵部题舒书家被盗，议罚步军统领麻尔吉等，康熙帝以其不尽心缉盗命严加议处。",
+ "people": [
+  {
+   "name": "麻尔吉",
+   "role": "步军统领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18401,
+ "page_range": "403-404"
+}

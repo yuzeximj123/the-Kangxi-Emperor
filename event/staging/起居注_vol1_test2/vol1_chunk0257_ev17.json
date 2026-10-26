@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "十八日己巳",
+ "event_role": "司法案件",
+ "summary": "伪将军洪元义军前正法事，明珠奏洪元义系海贼郑锦下洪鞠启之子，康熙帝命解送来京问海中情形。",
+ "people": [
+  {
+   "name": "洪元义",
+   "role": "伪将军"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郑锦",
+   "role": "海贼"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25717,
+ "page_range": "571-572"
+}

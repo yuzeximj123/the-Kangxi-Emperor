@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "二十二日甲辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问齐色为人，明珠等奏其遇事敢为，康熙帝命齐色升补学士。",
+ "people": [
+  {
+   "name": "齐色",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18108,
+ "page_range": "397-398"
+}

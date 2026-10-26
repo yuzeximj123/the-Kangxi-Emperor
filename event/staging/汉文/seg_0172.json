@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十六年九月二十日",
+ "reign_year": 46,
+ "month": 9,
+ "day": 20,
+ "event_role": "奏报地方情形",
+ "summary": "曹寅奏报仪真掣盐因河浅受阻及江南太平无事，康熙朱批询问南方旱情与盗案。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "仪真",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称北方秋收大熟，但忧虑南方亢旱及盗案频发。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "260",
+ "source_title": "江宁织造曹寅奏报江南收成并盗案摺",
+ "order_index": 172
+}

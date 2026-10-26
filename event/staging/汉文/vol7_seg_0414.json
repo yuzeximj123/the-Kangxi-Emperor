@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十年五月初六日",
+ "reign_year": 50,
+ "month": 5,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "李煦向康熙帝跪请万安，康熙帝朱批回复自己安好，并称赞李煦前日所进物件都好，比往年强远了。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奴才，上奏请安者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批回复者"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，并称赞李煦前日所进物件都好，比往年强远了。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 414
+}

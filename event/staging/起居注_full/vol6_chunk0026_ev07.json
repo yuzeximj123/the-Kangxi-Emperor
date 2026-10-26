@@ -1,0 +1,45 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "十八日甲子",
+ "event_role": "议政听政",
+ "summary": "康熙帝御南苑旧宫，大学士等以折本请旨，吏部覆山西巡抚倭伦题请停止大计准行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "布泰",
+   "role": "学士"
+  },
+  {
+   "name": "辛保",
+   "role": "学士"
+  },
+  {
+   "name": "温达",
+   "role": "学士"
+  },
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "南苑旧宫",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2607,
+ "page_range": "62-63"
+}

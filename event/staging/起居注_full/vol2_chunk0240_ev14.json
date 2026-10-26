@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十七日甲申",
+ "event_role": "司法案件",
+ "summary": "刑部题笔帖式宁住、四哥等案内有文武各官不便束议，请交吏兵二部革职再议，康熙帝以其专以赌博为事、行事办恶，命遣发乌喇披甲效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宁住",
+   "role": "笔帖式"
+  },
+  {
+   "name": "四哥",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24014,
+ "page_range": "523-524"
+}

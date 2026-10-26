@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": "初九日成辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝朱书谕旨给主事牛钮，指出三里河二挑水坝太偏，应在上流已钉柱处添一挑水坝，并指示高长尺寸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "主事"
+  }
+ ],
+ "places": [
+  "三里河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15530,
+ "page_range": "321-322"
+}

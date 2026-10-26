@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "初十日本未",
+ "event_role": "人事任免",
+ "summary": "兵部题正白旗蒙古副都统得尔德转补满洲副都统员缺，康熙帝亲阅取本，命户部侍郎额库礼调副都统。",
+ "people": [
+  {
+   "name": "得尔德",
+   "role": "正白旗蒙古副都统"
+  },
+  {
+   "name": "额星格",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "额库礼",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22719,
+ "page_range": "497-498"
+}

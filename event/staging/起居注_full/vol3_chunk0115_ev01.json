@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "三法司议将强盗刘五等即行正法，康熙帝询问大学士意见，明珠等奏应做秋后，康熙帝准奏并感叹今年人命案件颇多。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "刘五",
+   "role": "强盗"
+  },
+  {
+   "name": "王申",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11501,
+ "page_range": "265-266"
+}

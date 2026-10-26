@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "二十六日乙西",
+ "event_role": "人事任免",
+ "summary": "康熙帝召领侍卫内大臣公咏伦岱，指护军校傅明射箭不堪、不能满语，令行文其王革退。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "咏伦岱",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "傅明",
+   "role": "护军校"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14604,
+ "page_range": "303-304"
+}

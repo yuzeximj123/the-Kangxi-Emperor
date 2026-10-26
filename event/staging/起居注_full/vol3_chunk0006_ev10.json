@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初十日丙午",
+ "event_role": "人事任免",
+ "summary": "翰林院侍读高士奇升任员缺，康熙帝命选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高士奇",
+   "role": "侍读"
+  },
+  {
+   "name": "李录子",
+   "role": "侍讲"
+  },
+  {
+   "name": "刘芳丰",
+   "role": "司业"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 610,
+ "page_range": "47-48"
+}

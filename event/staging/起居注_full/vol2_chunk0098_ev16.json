@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "十七日丙申",
+ "event_role": "人事任免",
+ "summary": "兵部再题云南四路总兵缺，康熙帝命补海朝龙一缺，问格尔古德后以勇健之牛凤翔补授，余缺问安亲王。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "海朝龙",
+   "role": "拟补总兵官"
+  },
+  {
+   "name": "牛凤翔",
+   "role": "游击"
+  },
+  {
+   "name": "格尔古德",
+   "role": "学士"
+  },
+  {
+   "name": "安亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9816,
+ "page_range": "239-240"
+}

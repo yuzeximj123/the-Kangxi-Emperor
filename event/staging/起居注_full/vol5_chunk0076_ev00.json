@@ -1,0 +1,22 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝认为外郎萨称哈为人尽可，命将其补授少卿。",
+ "people": [
+  {
+   "name": "萨称哈",
+   "role": "外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7600,
+ "page_range": "162-163"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "陕西巡抚题报杨起隆案内逃犯王建中谋叛拟凌迟，康熙帝令解送京城严审杨起隆情由。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王建中",
+   "role": "逃犯"
+  },
+  {
+   "name": "王执中",
+   "role": "王建中之弟"
+  },
+  {
+   "name": "杨起隆",
+   "role": "叛贼"
+  },
+  {
+   "name": "鄂恺",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12303,
+ "page_range": "289-290"
+}

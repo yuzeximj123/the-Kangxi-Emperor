@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙四十七年十一月初一日",
+ "reign_year": 47,
+ "month": 11,
+ "day": 9,
+ "event_role": "请安谢恩",
+ "summary": "贵州巡抚陈诜奏谢皇上赏赐鹿肉三十二束，由其子陈世倌在喀喇河屯行宫前代请圣安并领赏，赍送到黔后率属恭谢天恩。",
+ "people": [
+  {
+   "name": "陈诜",
+   "role": "贵州巡抚，奏折作者"
+  },
+  {
+   "name": "陈世倌",
+   "role": "翰林院编修，陈诜之子，代父请安领赏"
+  }
+ ],
+ "places": [
+  "贵州",
+  "湖北",
+  "川东",
+  "喀喇河屯行宫"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "貴州巡撫陳詵奏謝賞賜鹿肉並報田禾米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "419",
+ "order_index": 82
+}

@@ -1,0 +1,23 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令将通仓米移贮密云、顺义各万石，获州等通水路处亦各发万石收贮，减价发粜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通仓",
+  "密云",
+  "顺义",
+  "获州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9503,
+ "page_range": "200-201"
+}

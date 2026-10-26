@@ -1,0 +1,33 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士松柱等奏遵旨问钦天监春分风候，监正明图等称风自西北乾方来，康熙论占风验雷及古书所载之事。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "明图",
+   "role": "钦天监监正"
+  },
+  {
+   "name": "王挟",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "霸州",
+  "沙河",
+  "芦沟桥",
+  "天津",
+  "京师",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13304,
+ "page_range": "277-278"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "三十日甲午",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御太和殿视致祭圜丘坛祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿",
+  "圜丘坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12110,
+ "page_range": "252-253"
+}

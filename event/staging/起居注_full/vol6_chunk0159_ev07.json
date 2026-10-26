@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "署总督事席尔达题请复还游击张党只原职，康熙帝以其获罪闲居三年并无效力，令批论席尔达并发还原本。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "署总督事"
+  },
+  {
+   "name": "张党只",
+   "role": "游击"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15907,
+ "page_range": "328-329"
+}

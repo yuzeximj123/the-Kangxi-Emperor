@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "二十七日丙成",
+ "event_role": "司法案件",
+ "summary": "三法司会议强盗李之才即行正法，康熙帝询众意，勒德洪等以抢夺不多、未伤人命请改斩监候，帝允改秋后处决。",
+ "people": [
+  {
+   "name": "李之才",
+   "role": "强盗"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9309,
+ "page_range": "221-222"
+}

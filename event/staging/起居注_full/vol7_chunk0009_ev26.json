@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初十日辛卯",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御畅春园内澹宁居听政，部院各衙门官员面奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "澹宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 926,
+ "page_range": "29-30"
+}

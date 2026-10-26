@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝下旨依议，将温保、甘度革职严拿解京交刑部拟死。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温保",
+   "role": "巡抚"
+  },
+  {
+   "name": "甘度",
+   "role": "布政使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23902,
+ "page_range": "488-489"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "初五日庚午",
+ "event_role": "河工水利",
+ "summary": "赵弘沟题请以长芦盐商银修密云县城，康熙帝命议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘沟",
+   "role": "总督管直隶巡抚事务"
+  }
+ ],
+ "places": [
+  "密云县",
+  "长芦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9212,
+ "page_range": "195-196"
+}

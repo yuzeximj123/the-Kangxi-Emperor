@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "二十日甲申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，扈从学士等以折本请旨，礼部题原任总督于成龙应否加恤给谥，康熙令给还衔级、照施维翰例加祭谥。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "原任总督"
+  },
+  {
+   "name": "施维翰",
+   "role": "原任总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3613,
+ "page_range": "107-108"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "山东登州总兵官王文雄请以即墨营守备许天荣升补标右营游击，兵部议不准，康熙帝命照所题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王文雄",
+   "role": "山东登州总兵官"
+  },
+  {
+   "name": "许天荣",
+   "role": "即墨营守备"
+  }
+ ],
+ "places": [
+  "山东",
+  "登州",
+  "即墨营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10603,
+ "page_range": "223-224"
+}

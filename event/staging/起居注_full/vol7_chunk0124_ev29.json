@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "二十一日丙午",
+ "event_role": "人事任免",
+ "summary": "吏部题广东布政使刘荫枢调云南布政使，请以高必弘补授广东布政使，康熙帝准以高必弘补授。",
+ "people": [
+  {
+   "name": "刘荫枢",
+   "role": "广东布政使"
+  },
+  {
+   "name": "高必弘",
+   "role": "云南布政使"
+  }
+ ],
+ "places": [
+  "广东",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12429,
+ "page_range": "259-260"
+}

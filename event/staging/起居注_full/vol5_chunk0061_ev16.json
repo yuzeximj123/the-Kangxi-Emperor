@@ -1,0 +1,20 @@
+{
+ "reign_year": 34,
+ "month": 3,
+ "day_text": "十八日己卯",
+ "event_role": "请安谢恩",
+ "summary": "是日，康熙帝前往皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6116,
+ "page_range": "132-133"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆浙江巡抚徐元梦所题张子光打死徐士元一案拟绞监候，康熙帝令赵申乔等会同再议具奏。",
+ "people": [
+  {
+   "name": "徐元梦",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "张子光",
+   "role": "绞犯"
+  },
+  {
+   "name": "徐士元",
+   "role": "死者"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15804,
+ "page_range": "327-328"
+}

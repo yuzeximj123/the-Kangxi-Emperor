@@ -1,0 +1,27 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "十六日乙未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自清河起行，大设卤簿，皇太子率诸皇子及在京文武官员出郊迎接，帝由德胜门诣堂子行礼毕进午门回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "清河",
+  "德胜门",
+  "堂子",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 23913,
+ "page_range": "488-489"
+}

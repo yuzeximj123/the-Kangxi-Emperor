@@ -1,0 +1,42 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "钱法侍郎朱裴等言钱价贵，九卿议裁减解铜数目，康熙帝主张铸钱稍轻以多得钱，命再改票来看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱裴",
+   "role": "钱法侍郎"
+  },
+  {
+   "name": "常什布",
+   "role": "御史"
+  },
+  {
+   "name": "罗秉伦",
+   "role": "御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1701,
+ "page_range": "77-78"
+}

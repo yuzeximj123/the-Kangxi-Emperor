@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十八年三月二十七日",
+ "reign_year": 48,
+ "month": 3,
+ "day": 27,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮上奏请求将吴存礼调补为天津道员。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，上奏人"
+  },
+  {
+   "name": "吴存礼",
+   "role": "拟调补天津道员"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隶巡抚赵弘燮奏为请将吴存礼调补天津道员折",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "477",
+ "order_index": 433
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "兵部议准大将军图海所题陕西出征亡故将卒骸骨取回京师，康熙帝令暂留西安交巡抚收管。",
+ "people": [
+  {
+   "name": "图海",
+   "role": "大将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3100,
+ "page_range": "105-106"
+}

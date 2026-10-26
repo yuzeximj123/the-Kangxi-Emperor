@@ -1,0 +1,33 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "初十日辛未",
+ "event_role": "司法案件",
+ "summary": "就广东强盗林阿育等劫船案，康熙帝令会同三法司将首恶一二人正法，余犯减等发黑龙江。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨琳",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "林阿育",
+   "role": "强盗"
+  },
+  {
+   "name": "林楚生",
+   "role": "被劫船主"
+  }
+ ],
+ "places": [
+  "广东",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13005,
+ "page_range": "271-272"
+}

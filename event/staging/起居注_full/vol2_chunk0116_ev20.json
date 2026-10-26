@@ -1,0 +1,25 @@
+{
+ "reign_year": 21,
+ "month": 3,
+ "day_text": "二十六日甲成",
+ "event_role": "谕旨决策",
+ "summary": "福建总督姚启圣请展进剿台湾限期，康熙帝以其欲照应前奏图延日期，命批发议政王大臣会议再行斟酌。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11620,
+ "page_range": "275-276"
+}

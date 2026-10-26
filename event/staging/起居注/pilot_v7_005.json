@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十五年六月二十八日",
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "二十八日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出行宫率皇太子诸皇子及镶红旗护军等射箭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3005
+}

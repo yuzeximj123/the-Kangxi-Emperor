@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "二十三日甲辰",
+ "event_role": "弹劾参奏",
+ "summary": "总督仓场侍郎苏赫题参运丁沈启祥等首告经纪刘应魁等每船诈取银两、多收米石，坐粮厅秦齐喇、黄承芳串通作弊。",
+ "people": [
+  {
+   "name": "苏赫",
+   "role": "总督仓场侍郎"
+  },
+  {
+   "name": "沈启祥",
+   "role": "运丁"
+  },
+  {
+   "name": "刘应魁",
+   "role": "经纪"
+  },
+  {
+   "name": "秦齐喇",
+   "role": "坐粮厅"
+  },
+  {
+   "name": "黄承芳",
+   "role": "坐粮厅"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18808,
+ "page_range": "411-412"
+}

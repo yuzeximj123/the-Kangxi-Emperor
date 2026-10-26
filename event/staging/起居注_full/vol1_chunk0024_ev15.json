@@ -1,0 +1,25 @@
+{
+ "reign_year": 11,
+ "month": 9,
+ "day_text": "初四日丙子",
+ "event_role": "人事任免",
+ "summary": "内阁学士哈占升授工部侍郎并入内谢恩，康熙帝谕其详练特简，哈占奏谢并表竭力报效。",
+ "people": [
+  {
+   "name": "哈占",
+   "role": "内阁学士升工部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "内阁",
+  "工部"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2415,
+ "page_range": "105-106"
+}

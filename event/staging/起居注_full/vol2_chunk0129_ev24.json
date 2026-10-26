@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "二十六日壬寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补监察御史，拟梁述祖正、卢崇魁陪，康熙帝以其曾为御史且庸常，令吏部会同都察院选择具奏。",
+ "people": [
+  {
+   "name": "梁述祖",
+   "role": "捐纳候补，拟正"
+  },
+  {
+   "name": "卢崇魁",
+   "role": "郎中，拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12924,
+ "page_range": "301-302"
+}

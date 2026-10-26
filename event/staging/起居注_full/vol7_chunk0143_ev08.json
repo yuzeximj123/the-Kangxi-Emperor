@@ -1,0 +1,38 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "初六日庚庄",
+ "event_role": "司法案件",
+ "summary": "都察院议刑部笔帖式塞尔德误写重犯档册案，拟革职降罚，康熙帝追问前任堂官何以不并议，令再察奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "塞尔德",
+   "role": "刑部笔帖式"
+  },
+  {
+   "name": "祥代",
+   "role": "郎中"
+  },
+  {
+   "name": "塞黑",
+   "role": "主事"
+  },
+  {
+   "name": "魏齐",
+   "role": "侍郎"
+  },
+  {
+   "name": "划可托",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14308,
+ "page_range": "297-298"
+}

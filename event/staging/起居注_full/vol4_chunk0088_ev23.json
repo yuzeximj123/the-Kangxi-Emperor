@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "十五日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "刑部议原任广东道王永术私分尚之信家财物未完，将其妻子人口交总管内务府；康熙帝命免其妻子人口入官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王永术",
+   "role": "原任广东道"
+  },
+  {
+   "name": "尚之信",
+   "role": "案内人"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8823,
+ "page_range": "188-189"
+}

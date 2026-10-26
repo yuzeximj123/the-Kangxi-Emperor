@@ -1,0 +1,22 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "二十三日了西",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自十里铺乘舟往苑家口，中途登河堤视察。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "十里铺",
+  "苑家口",
+  "河堤"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22624,
+ "page_range": "464-465"
+}

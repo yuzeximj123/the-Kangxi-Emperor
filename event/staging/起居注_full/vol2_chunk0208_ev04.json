@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "二十七日丙申",
+ "event_role": "人事任免",
+ "summary": "议澎湖阵亡总兵官朱天贵荫子孙事，康熙帝以其投诚随征有劳绩且阵亡，命以一子为荫生。",
+ "people": [
+  {
+   "name": "朱天贵",
+   "role": "澎湖阵亡总兵官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "澎湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20804,
+ "page_range": "459-460"
+}

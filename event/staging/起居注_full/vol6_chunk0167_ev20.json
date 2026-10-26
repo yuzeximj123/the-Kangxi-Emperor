@@ -1,0 +1,38 @@
+{
+ "reign_year": 39,
+ "month": 9,
+ "day_text": "十三日壬寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙询问张鹏翮、郭琇、李光地所议考试事孰当，王熙、熊赐履奏李光地所奏差为得体，吴琠称三人所奏各有可行不可行。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "大臣"
+  },
+  {
+   "name": "郭琇",
+   "role": "大臣"
+  },
+  {
+   "name": "李光地",
+   "role": "大臣"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 16720,
+ "page_range": "344-345"
+}

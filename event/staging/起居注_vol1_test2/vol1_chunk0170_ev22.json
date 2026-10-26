@@ -1,0 +1,26 @@
+{
+ "reign_year": 17,
+ "month": 9,
+ "day_text": "二十六日甲子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝午时由朝阳门进东华门，诣皇太后宫问安毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "朝阳门",
+  "东华门",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17022,
+ "page_range": "397-398"
+}

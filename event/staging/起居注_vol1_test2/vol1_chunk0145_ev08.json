@@ -1,0 +1,28 @@
+{
+ "reign_year": 16,
+ "month": 9,
+ "day_text": "初六日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝御懋勤殿召翰林院学士喇沙里、陈廷敬、张英论讲学有益，因天寒赐貂皮各五十张、表里缎各二匹，喇沙里等谢恩。",
+ "people": [
+  {
+   "name": "喇沙里",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "张英",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14508,
+ "page_range": "347-348"
+}

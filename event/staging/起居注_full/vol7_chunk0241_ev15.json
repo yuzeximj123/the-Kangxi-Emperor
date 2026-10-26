@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "十七日丙申",
+ "event_role": "司法案件",
+ "summary": "康熙帝阅索柱持棍击打吴大后搜夺银钱衣服案，以索柱本有致死之心着勾去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索柱",
+   "role": "罪犯"
+  },
+  {
+   "name": "吴大",
+   "role": "被害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24115,
+ "page_range": "493-494"
+}

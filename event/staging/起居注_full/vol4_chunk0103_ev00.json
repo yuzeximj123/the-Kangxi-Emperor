@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝评论编纂史书，认为宋元诸史远不及本朝所编，强调史书须考核精详、亲身考论，并指出《通览》等书记载失实。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10300,
+ "page_range": "218-219"
+}

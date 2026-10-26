@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": "十二日甲申",
+ "event_role": "朝见受贺",
+ "summary": "东安县知县周世虞、教谕葛杰、训导赵义等来朝见。",
+ "people": [
+  {
+   "name": "周世虞",
+   "role": "东安县知县"
+  },
+  {
+   "name": "葛杰",
+   "role": "教谕"
+  },
+  {
+   "name": "赵义",
+   "role": "训导"
+  }
+ ],
+ "places": [
+  "东安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5305,
+ "page_range": "117-118"
+}

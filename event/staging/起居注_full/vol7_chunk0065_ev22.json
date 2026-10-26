@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "十三日了已",
+ "event_role": "人事任免",
+ "summary": "云贵总督巴锡题请以副将黄秉钱调补中军副将马见伯员缺，康熙帝素知黄秉钱，着照所请调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "云贵总督"
+  },
+  {
+   "name": "黄秉钱",
+   "role": "副将"
+  },
+  {
+   "name": "马见伯",
+   "role": "中军副将"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6522,
+ "page_range": "141-142"
+}

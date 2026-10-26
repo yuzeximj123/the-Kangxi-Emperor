@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初九日辛巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝阅图海碑文、郭四海祭文，以其不相称，命将姚文然、陈数永祭文对阅再拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图海",
+   "role": "原任大学士"
+  },
+  {
+   "name": "郭四海",
+   "role": "原任尚书"
+  },
+  {
+   "name": "姚文然",
+   "role": "原任尚书"
+  },
+  {
+   "name": "陈数永",
+   "role": "原任尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17211,
+ "page_range": "387-388"
+}

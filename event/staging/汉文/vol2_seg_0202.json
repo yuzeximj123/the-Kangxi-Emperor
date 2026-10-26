@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙伍拾捌年捌月日",
+ "reign_year": 58,
+ "month": 8,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "延绥总兵官江琦因圣驾巡幸口外及回銮，自己远守边陲不能随侍迎驾，特差家人赍折恭请圣安。",
+ "people": [
+  {
+   "name": "江琦",
+   "role": "镇守陕西延绥等处地方副将管总兵官事仍带拖沙喇哈番加壹级，具奏请安"
+  },
+  {
+   "name": "博忠",
+   "role": "江琦家人，赍折奏请圣安"
+  }
+ ],
+ "places": [
+  "陕西",
+  "延绥",
+  "口外"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "恭请圣安",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 202
+}

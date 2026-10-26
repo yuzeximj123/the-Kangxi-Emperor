@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "初七日庚寅",
+ "event_role": "朝见受贺",
+ "summary": "喜峰口游击林旺等、驻防喜峰口防御图颜等来朝。",
+ "people": [
+  {
+   "name": "林旺",
+   "role": "喜峰口游击"
+  },
+  {
+   "name": "图颜",
+   "role": "驻防喜峰口防御"
+  }
+ ],
+ "places": [
+  "喜峰口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4716,
+ "page_range": "137-138"
+}

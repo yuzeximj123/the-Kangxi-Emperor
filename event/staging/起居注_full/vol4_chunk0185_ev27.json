@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "十六日丙申",
+ "event_role": "人事任免",
+ "summary": "吏部议覆葛思泰、萨缠图赈灾不力且粉饰具奏应革职，康熙帝令葛思泰革职留任戴罪自效，萨呢图革职来京效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葛思泰",
+   "role": "川陕总督"
+  },
+  {
+   "name": "萨缠图",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "襄阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18527,
+ "page_range": "382-383"
+}

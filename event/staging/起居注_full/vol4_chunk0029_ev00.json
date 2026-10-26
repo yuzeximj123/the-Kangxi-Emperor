@@ -1,0 +1,38 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与尚书鄂尔多、阿兰泰等议论靳辅所修上河，认为不可谓之不善，堤岸多年存立、漕艘无误。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂尔多",
+   "role": "尚书"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "尚书"
+  },
+  {
+   "name": "苏赫",
+   "role": "尚书"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  }
+ ],
+ "places": [
+  "上河",
+  "高加堰",
+  "宿迁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2900,
+ "page_range": "70-71"
+}

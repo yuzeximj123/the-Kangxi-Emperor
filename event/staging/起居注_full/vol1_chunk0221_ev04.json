@@ -1,0 +1,37 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初十日庚午",
+ "event_role": "军务",
+ "summary": "将军王进宝、吴丹等恢复四川保宁府，遣参领诺木浑、总兵官王用予奏捷至，康熙帝召见赐食并赐王用予御服天马皮挂。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王进宝",
+   "role": "将军"
+  },
+  {
+   "name": "吴丹",
+   "role": "将军"
+  },
+  {
+   "name": "诺木浑",
+   "role": "参领"
+  },
+  {
+   "name": "王用予",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "四川",
+  "保宁府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22104,
+ "page_range": "499-500"
+}

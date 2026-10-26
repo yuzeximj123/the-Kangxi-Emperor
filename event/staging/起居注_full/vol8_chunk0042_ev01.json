@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "湖口关监督勒色礼题请展限六个月，康熙帝以其不合永停之例，令该部严察议奏。",
+ "people": [
+  {
+   "name": "勒色礼",
+   "role": "湖口关监督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖口关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4201,
+ "page_range": "95-96"
+}

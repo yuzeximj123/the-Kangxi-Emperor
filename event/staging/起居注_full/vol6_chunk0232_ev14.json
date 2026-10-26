@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "酉时",
+ "event_role": "军务",
+ "summary": "广东提督笑化行题苗人害民、副将林芳被杀，请会同总督讨之，康熙以其导敌奔回，命将奏疏与九卿确议具奏。",
+ "people": [
+  {
+   "name": "笑化行",
+   "role": "广东提督"
+  },
+  {
+   "name": "林芳",
+   "role": "进梨副将"
+  },
+  {
+   "name": "石琳",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23214,
+ "page_range": "474-475"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十八日癸未",
+ "event_role": "司法案件",
+ "summary": "议政王等会议将宜昌阿家人扎哈里、沙纳海议绞监候，守尉白尔黑枷号鞭责，康熙帝命将此本同金俊等本章一并来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "扎哈里",
+   "role": "宜昌阿家人"
+  },
+  {
+   "name": "沙纳海",
+   "role": "宜昌阿家人"
+  },
+  {
+   "name": "白尔黑",
+   "role": "守尉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2811,
+ "page_range": "91-92"
+}

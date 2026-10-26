@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "刑部尚书王士祯请假迁葬父母，康熙帝称其善裁诗、居家读书，给假五月勿开其缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王士祯",
+   "role": "刑部尚书"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20005,
+ "page_range": "410-411"
+}

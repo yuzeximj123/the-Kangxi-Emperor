@@ -1,0 +1,24 @@
+{
+ "reign_year": 57,
+ "month": 2,
+ "day_text": "二十三日王寅",
+ "event_role": "人事任免",
+ "summary": "覆请吏部所题湖北巡抚刘殿衡员缺开列一疏，康熙帝称所开布政使俱不识，命同九卿举出具奏。",
+ "people": [
+  {
+   "name": "刘殿衡",
+   "role": "湖北巡抚"
+  },
+  {
+   "name": "潜克旦",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23510,
+ "page_range": "481-482"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "十七日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝遣南书房翰林侍疾张玉书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17002,
+ "page_range": "351-352"
+}

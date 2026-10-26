@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "初六日戊子",
+ "event_role": "司法案件",
+ "summary": "覆请刑部覆兵科给事中马之鹏以江西闲县带销盐斤事参潮州府知府薛载德一案，请行文江西巡抚会同广东巡抚确查。",
+ "people": [
+  {
+   "name": "马之鹏",
+   "role": "兵科给事中"
+  },
+  {
+   "name": "薛载德",
+   "role": "潮州府知府"
+  }
+ ],
+ "places": [
+  "江西",
+  "广东",
+  "潮州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21838,
+ "page_range": "447-448"
+}

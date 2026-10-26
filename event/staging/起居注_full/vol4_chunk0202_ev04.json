@@ -1,0 +1,27 @@
+{
+ "reign_year": 31,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝对比宋富弼青州救饥五十余万口，叹本朝竭尽全力仅救西安饥民三十余万，令问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "富弼",
+   "role": "宋人"
+  }
+ ],
+ "places": [
+  "西安",
+  "青州",
+  "河北",
+  "京东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20204,
+ "page_range": "416-417"
+}

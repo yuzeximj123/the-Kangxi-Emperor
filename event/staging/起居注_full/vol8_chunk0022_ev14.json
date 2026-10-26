@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初六日壬子",
+ "event_role": "其他",
+ "summary": "是日赐大学士松柱、尚书详特布、侍郎刘谦等御书匾对。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "详特布",
+   "role": "尚书"
+  },
+  {
+   "name": "刘谦",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2214,
+ "page_range": "55-56"
+}

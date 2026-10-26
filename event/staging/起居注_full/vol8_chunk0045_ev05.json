@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 11,
+ "day_text": "初十日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕读卷官大学士温达等，文武试皆以选拔人材，今后文生员举人愿改试武场、武生举人愿改试文场者各听其便，着九卿、科道会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "畅春园内西厂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4505,
+ "page_range": "101-102"
+}

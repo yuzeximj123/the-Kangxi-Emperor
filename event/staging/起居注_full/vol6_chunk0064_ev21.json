@@ -1,0 +1,36 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十七日本西",
+ "event_role": "人事任免",
+ "summary": "吏部题盛京礼部理事官白尔克升任员缺，拟御史舒书为正、郎中保住为陪，康熙帝以哈复其人颇优，令升补理事官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "白尔克",
+   "role": "盛京礼部理事官"
+  },
+  {
+   "name": "舒书",
+   "role": "御史"
+  },
+  {
+   "name": "保住",
+   "role": "郎中"
+  },
+  {
+   "name": "哈复",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6421,
+ "page_range": "138-139"
+}

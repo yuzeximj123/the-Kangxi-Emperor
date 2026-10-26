@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "二十六日己亥",
+ "event_role": "司法案件",
+ "summary": "刑部题审谭第晋等避入山林后军前投诚应免议，康熙帝令免议但迁别地，留本待回京启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "谭第晋",
+   "role": "案犯"
+  },
+  {
+   "name": "谭第升",
+   "role": "案犯"
+  },
+  {
+   "name": "谭第兴",
+   "role": "案犯"
+  },
+  {
+   "name": "谭弘",
+   "role": "反叛者"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15410,
+ "page_range": "351-352"
+}

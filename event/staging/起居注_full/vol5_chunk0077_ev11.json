@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "十二日辛丑",
+ "event_role": "人事任免",
+ "summary": "兵部题正蓝旗蒙古副都统费扬古员缺，康熙帝命护军参领沙克多里补授副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "宗室副都统"
+  },
+  {
+   "name": "德珠",
+   "role": "仓场侍郎"
+  },
+  {
+   "name": "沙克多里",
+   "role": "护军参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7711,
+ "page_range": "164-165"
+}

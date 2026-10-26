@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十一年十二月二十一日",
+ "reign_year": 51,
+ "month": 12,
+ "day": 21,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报福州、扬州天气晴和、米价低廉、人民乐业、地方无事，并进呈苏州、扬州十一月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人（臣）"
+  }
+ ],
+ "places": [
+  "福州",
+  "扬州",
+  "苏州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 149
+}

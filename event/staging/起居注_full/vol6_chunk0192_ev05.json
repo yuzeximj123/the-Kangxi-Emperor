@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "二十一日己卯",
+ "event_role": "朝见受贺",
+ "summary": "通永道李锡等人、副将金难振等人前来朝见。",
+ "people": [
+  {
+   "name": "李锡",
+   "role": "通永道"
+  },
+  {
+   "name": "金难振",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19205,
+ "page_range": "394-395"
+}

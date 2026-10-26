@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十年六月初二日",
+ "reign_year": 50,
+ "month": 6,
+ "day": 2,
+ "event_role": "请安谢恩",
+ "summary": "镇绥将军潘育龙因闻皇上忧旱致圣体欠安，远在西陲不能亲赴阙廷，特遣家人潘安赍奏代请圣安。",
+ "people": [
+  {
+   "name": "潘育龙",
+   "role": "镇绥将军，奏请圣安者"
+  },
+  {
+   "name": "潘安",
+   "role": "潘育龙家人，赍奏进京"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "端校尉署防御"
+  }
+ ],
+ "places": [
+  "西陲",
+  "阙廷"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称自己早已大安，夏至后雨水及时，田苗有十分收成之望。",
+ "source_title": "鎮綏將軍潘育龍奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "873",
+ "order_index": 181
+}

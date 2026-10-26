@@ -1,0 +1,22 @@
+{
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十七日乙卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自杭州乘舟还至石门县石门镇驻跸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "杭州",
+  "石门县",
+  "石门镇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5807,
+ "page_range": "128-129"
+}

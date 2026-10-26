@@ -1,0 +1,22 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官阿山、华显记录。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "起居注官"
+  },
+  {
+   "name": "华显",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9810,
+ "page_range": "206-207"
+}

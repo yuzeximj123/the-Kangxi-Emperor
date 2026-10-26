@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十七日丙午",
+ "event_role": "人事任免",
+ "summary": "吏部覆陕西提督王进宝题请官员事，文职听其选委、武职改文职不允，康熙帝命从部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王进宝",
+   "role": "陕西提督"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22811,
+ "page_range": "513-514"
+}

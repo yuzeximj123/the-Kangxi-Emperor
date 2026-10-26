@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "初六日丁雍",
+ "event_role": "司法案件",
+ "summary": "刑部题佛保杀死牛钮拟秋后绞，康熙帝指出此系另户，命问该都统何故不行奏闻，着照新例议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛保",
+   "role": "犯人"
+  },
+  {
+   "name": "牛钮",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1413,
+ "page_range": "39-40"
+}

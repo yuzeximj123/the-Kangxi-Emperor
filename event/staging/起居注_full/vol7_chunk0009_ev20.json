@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初六日丁亥",
+ "event_role": "人事任免",
+ "summary": "拟补经筵讲官人员试讲读后，康熙以来道满语带汉音，命来都补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "来道",
+   "role": "学士"
+  },
+  {
+   "name": "来都",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 920,
+ "page_range": "29-30"
+}

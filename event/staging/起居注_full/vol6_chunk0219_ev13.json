@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初十日癸亥",
+ "event_role": "司法案件",
+ "summary": "刑部题湖广秋审情真案内李仲生、赵起凤以强奸坐斩，康熙帝命为首李仲生正法、赵起凤缓决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李仲生",
+   "role": "案犯"
+  },
+  {
+   "name": "赵起凤",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21913,
+ "page_range": "448-449"
+}

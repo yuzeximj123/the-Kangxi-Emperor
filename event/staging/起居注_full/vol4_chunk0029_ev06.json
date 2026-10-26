@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝告诫张玉书河工关系重大，须秉公具奏，不可如能一潇托疾推诿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "能一潇",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2906,
+ "page_range": "70-71"
+}

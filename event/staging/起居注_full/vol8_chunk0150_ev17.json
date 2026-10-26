@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": "十六日癸酉",
+ "event_role": "人事任免",
+ "summary": "大学士马齐奏处分右卫骁骑校张文德一案票拟郎中徐泌显等，康熙帝以既不说明不是之处命发还另缮折具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张文德",
+   "role": "右卫骁骑校"
+  },
+  {
+   "name": "徐泌显",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15017,
+ "page_range": "311-312"
+}

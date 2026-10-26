@@ -1,0 +1,46 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "十四日",
+ "event_role": "司法案件",
+ "summary": "都察院题戴纯等一案分别拟罪，康熙命诺敏免罚俸，满丕、关寿革职。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "戴纯",
+   "role": "通判"
+  },
+  {
+   "name": "索尔毕",
+   "role": "供称者"
+  },
+  {
+   "name": "诺敏",
+   "role": "尚书"
+  },
+  {
+   "name": "满丕",
+   "role": "御史"
+  },
+  {
+   "name": "关寿",
+   "role": "御史"
+  },
+  {
+   "name": "李时谦",
+   "role": "案内人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16716,
+ "page_range": "369-370"
+}

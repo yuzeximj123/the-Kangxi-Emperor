@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "二十九日甲实",
+ "event_role": "司法案件",
+ "summary": "以小刀伤护军之笔帖式倩云议革退笔帖式枷号一月鞭八十，康熙帝命枷号责完日发往三姓处当差。",
+ "people": [
+  {
+   "name": "倩云",
+   "role": "笔帖式"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三姓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17912,
+ "page_range": "369-370"
+}

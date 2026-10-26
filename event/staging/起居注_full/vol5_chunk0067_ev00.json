@@ -1,0 +1,31 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "康熙帝亲至海口察视运道，咨询海运情形，商船从天津海口直达盛京，三日行数千里，风信转顺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陶贷",
+   "role": "督运官"
+  },
+  {
+   "name": "鄂奇",
+   "role": "督运官"
+  }
+ ],
+ "places": [
+  "天津",
+  "三岔口",
+  "盛京",
+  "海口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6700,
+ "page_range": "144-145"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "初一日丙申",
+ "event_role": "司法案件",
+ "summary": "刑部题刘光显打死其婶母穆氏拟立斩，康熙帝以人命重大、不可移叔罪坐侄，斥所议蒙混，命再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘光显",
+   "role": "案犯"
+  },
+  {
+   "name": "穆氏",
+   "role": "死者"
+  },
+  {
+   "name": "刘士伟",
+   "role": "刘光显之叔"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3617,
+ "page_range": "82-83"
+}

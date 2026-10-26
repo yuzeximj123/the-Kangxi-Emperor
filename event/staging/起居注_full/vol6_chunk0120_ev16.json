@@ -1,0 +1,52 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "二十二日两成",
+ "event_role": "司法案件",
+ "summary": "康熙帝论保儿杀妻、启正砍妻至死等案，谓保儿、启正情稍不同，八人皆得缓死。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "保儿",
+   "role": "案犯"
+  },
+  {
+   "name": "启正",
+   "role": "案犯"
+  },
+  {
+   "name": "明辉",
+   "role": "案犯"
+  },
+  {
+   "name": "了头",
+   "role": "案犯"
+  },
+  {
+   "name": "尚七",
+   "role": "案犯"
+  },
+  {
+   "name": "霍九",
+   "role": "案犯"
+  },
+  {
+   "name": "桑格",
+   "role": "死者"
+  },
+  {
+   "name": "刘二",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "河工"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12016,
+ "page_range": "250-251"
+}

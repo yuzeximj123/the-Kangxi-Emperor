@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十三日丙子",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清门听政，部院各衙门官员面奏毕，麻尔图、席特库因差往踏勘凤阳、徐州饥民情形进请训旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "麻尔图",
+   "role": "内阁学士"
+  },
+  {
+   "name": "席特库",
+   "role": "户部郎中"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "凤阳",
+  "徐州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16306,
+ "page_range": "361-362"
+}

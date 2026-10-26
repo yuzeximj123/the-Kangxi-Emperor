@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 8,
+ "day_text": "初九日",
+ "event_role": "司法案件",
+ "summary": "刑部题蓝钢代哈于皇后丧事时殴骂布达、裂毁孝衣并夺刀欲杀，拟斩监候，康熙帝令从宽免死枷号鞭责发往黑龙江当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "代哈",
+   "role": "罪犯"
+  },
+  {
+   "name": "布达",
+   "role": "被殴者"
+  },
+  {
+   "name": "图占",
+   "role": "代哈之父"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8103,
+ "page_range": "174-175"
+}

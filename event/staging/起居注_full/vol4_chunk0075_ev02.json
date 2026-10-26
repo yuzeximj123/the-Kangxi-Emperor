@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "二十日乙卯",
+ "event_role": "司法案件",
+ "summary": "刑部题康熙二十七年武昌裁兵鼓噪时李饶昌等授伪职应正法，康熙帝命宽免死减等发黑龙江为奴。",
+ "people": [
+  {
+   "name": "李饶昌",
+   "role": "经历"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "武昌",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7502,
+ "page_range": "162-163"
+}

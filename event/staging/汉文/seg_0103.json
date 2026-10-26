@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙四十四年十二月",
+ "reign_year": 44,
+ "month": 12,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "宋荦奏报病情渐愈即将赴京就任吏部尚书，并遣子先行候命、请安谢恩。",
+ "people": [
+  {
+   "name": "宋荦",
+   "role": "奏报人"
+  },
+  {
+   "name": "著圣托",
+   "role": "涉及人物"
+  },
+  {
+   "name": "宋至",
+   "role": "涉及人物"
+  },
+  {
+   "name": "黄运",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知晓此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "141",
+ "source_title": "吏部尚书宋荦奏为病渐次平复不日就道赴任摺",
+ "order_index": 103
+}

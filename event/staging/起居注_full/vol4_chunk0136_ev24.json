@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "初六日壬戌",
+ "event_role": "朝见受贺",
+ "summary": "获州知州杨天社、千总陈良才、把总刘文显等来朝。",
+ "people": [
+  {
+   "name": "杨天社",
+   "role": "知州"
+  },
+  {
+   "name": "陈良才",
+   "role": "千总"
+  },
+  {
+   "name": "刘文显",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "获州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13624,
+ "page_range": "284-285"
+}

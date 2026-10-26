@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十六日己未",
+ "event_role": "其他",
+ "summary": "康熙帝赐浙江巡抚张勄御书“宣布德泽”四大字、手卷、《渊鉴斋法帖》、《耕织图》、御服秋帽、羊裘、帽、靴等物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张勄",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8518,
+ "page_range": "180-181"
+}

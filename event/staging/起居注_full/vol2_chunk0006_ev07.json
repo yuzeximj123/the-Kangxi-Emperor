@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十八日申申",
+ "event_role": "议政听政",
+ "summary": "辰时讲官库勒纳、叶方蔼、张玉书进讲否卦，康熙帝亲讲象辞天地不交否一节。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 607,
+ "page_range": "55-56"
+}

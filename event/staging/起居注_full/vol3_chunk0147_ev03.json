@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝评价工部侍郎金改祥碌碌因人、通政使王守才卤薄不胜任，命传谕吏部令各解任随旗上朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金改祥",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "王守才",
+   "role": "通政使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14703,
+ "page_range": "329-330"
+}

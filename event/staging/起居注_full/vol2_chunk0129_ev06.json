@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "二十一日丁酉",
+ "event_role": "人事任免",
+ "summary": "吏部题补侍讲学士，明珠转述学士牛钮、陈廷敬意见，康熙帝令阿山补此缺。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "学士"
+  },
+  {
+   "name": "阿山",
+   "role": "侍读，补侍讲学士"
+  },
+  {
+   "name": "邬黑",
+   "role": "侍读"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12906,
+ "page_range": "301-302"
+}

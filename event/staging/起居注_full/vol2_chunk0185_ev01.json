@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令汉中地方须简选精兵发往戍守，不得以强壮兵丁留置本标而只发疲弱者前往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "汉中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18501,
+ "page_range": "413-414"
+}

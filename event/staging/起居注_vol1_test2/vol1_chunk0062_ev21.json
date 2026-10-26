@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 12,
+ "day_text": "初九日甲质",
+ "event_role": "其他",
+ "summary": "未时康熙帝御乾清门赐陈福、王进宝食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈福",
+   "role": "官员"
+  },
+  {
+   "name": "王进宝",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6221,
+ "page_range": "181-182"
+}

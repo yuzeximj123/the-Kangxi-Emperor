@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十八日癸未",
+ "event_role": "人事任免",
+ "summary": "兵部将额尔毕纳题补黑龙江协领，康熙帝以苏黑臣较优且家计殷实，命补授协领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额尔毕纳",
+   "role": "题补协领"
+  },
+  {
+   "name": "苏黑臣",
+   "role": "候补协领"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2809,
+ "page_range": "91-92"
+}

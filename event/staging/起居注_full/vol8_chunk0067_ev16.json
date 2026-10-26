@@ -1,0 +1,34 @@
+{
+ "reign_year": 53,
+ "month": 7,
+ "day_text": "二十七日丙寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士松柱等以折本请旨，处理吏部、兵部、刑部等题奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "查弱纳",
+   "role": "学士"
+  },
+  {
+   "name": "敦拜",
+   "role": "学士"
+  },
+  {
+   "name": "关保",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6716,
+ "page_range": "145-146"
+}

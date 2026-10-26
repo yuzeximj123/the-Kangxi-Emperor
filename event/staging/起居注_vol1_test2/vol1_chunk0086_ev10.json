@@ -1,0 +1,24 @@
+{
+ "reign_year": 14,
+ "month": 2,
+ "day_text": "十一日己亥",
+ "event_role": "议政听政",
+ "summary": "因慈和皇太后丧事，康熙帝未御门，各部院章奏俱命送内阁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "慈和皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "内阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8610,
+ "page_range": "229-230"
+}

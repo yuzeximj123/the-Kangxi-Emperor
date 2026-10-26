@@ -1,0 +1,23 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "初七日甲辰",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝由东直门进东华门，赴太皇太后、皇太后宫问安后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东直门",
+  "东华门",
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24308,
+ "page_range": "529-530"
+}

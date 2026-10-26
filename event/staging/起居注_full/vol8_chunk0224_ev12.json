@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "二十六日丙子",
+ "event_role": "人事任免",
+ "summary": "广东巡盐御史常保奏请将盐务交巡抚代管并撤回，康熙命从驿递发去令法海看。",
+ "people": [
+  {
+   "name": "常保",
+   "role": "广东巡盐御史"
+  },
+  {
+   "name": "法海",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22412,
+ "page_range": "459-460"
+}

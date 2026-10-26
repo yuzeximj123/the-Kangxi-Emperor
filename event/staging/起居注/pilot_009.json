@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙十年九月十一日己未",
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "十一日己未",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝驻跸烟台河，地方文武官员及喀喇沁部多罗杜棱郡王班达尔沙、镇国公乌忒巴喇等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班达尔沙",
+   "role": "喀喇沁部多罗杜棱郡王"
+  },
+  {
+   "name": "乌忒巴喇",
+   "role": "喀喇沁部镇国公"
+  }
+ ],
+ "places": [
+  "烟台河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9
+}

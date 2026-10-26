@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "初四日丙辰",
+ "event_role": "议政听政",
+ "summary": "读卷官温达等将殿试一百八十卷公阅择十卷呈览，康熙帝将原拟第三卷改置一甲第一，并命将不堪五卷革退进士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "揆叙",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21409,
+ "page_range": "439-440"
+}

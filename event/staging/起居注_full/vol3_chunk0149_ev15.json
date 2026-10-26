@@ -1,0 +1,29 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "二十日甲戌",
+ "event_role": "皇帝行止",
+ "summary": "早，康熙帝前往太皇太后、皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14915,
+ "page_range": "333-334"
+}

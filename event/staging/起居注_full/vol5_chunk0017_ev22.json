@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "二十六日癸巳",
+ "event_role": "人事任免",
+ "summary": "吏部题总河于成龙量算运河决口丈尺不符、钱粮浮估应革职枷号；康熙帝命从宽免治罪，仍革职留任戴罪效力，并令徐廷玺回京。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "徐廷玺",
+   "role": "府丞"
+  },
+  {
+   "name": "靳辅",
+   "role": "原河道总督"
+  }
+ ],
+ "places": [
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1722,
+ "page_range": "44-45"
+}

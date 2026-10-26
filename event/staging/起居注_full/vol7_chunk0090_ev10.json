@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 1,
+ "day_text": "初五日甲子",
+ "event_role": "起居注官记录",
+ "summary": "记载本日起居注官为满保、钱名世。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "起居注官"
+  },
+  {
+   "name": "钱名世",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9010,
+ "page_range": "191-192"
+}

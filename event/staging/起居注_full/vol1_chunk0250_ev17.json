@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十七日甲戌",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶红旗佐领傅喇布员缺，正拟三等护卫巴代、陪拟傅喇布之子前锋宝住，康熙帝以傅喇布阵伤残废解任、宝住人品尚优，命补管佐领。",
+ "people": [
+  {
+   "name": "傅喇布",
+   "role": "镶红旗佐领"
+  },
+  {
+   "name": "巴代",
+   "role": "三等护卫"
+  },
+  {
+   "name": "宝住",
+   "role": "前锋"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25017,
+ "page_range": "557-558"
+}

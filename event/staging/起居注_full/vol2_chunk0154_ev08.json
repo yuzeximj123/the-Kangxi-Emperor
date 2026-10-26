@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "二十六日己亥",
+ "event_role": "议政听政",
+ "summary": "户部议开滩黄河盱眙县民余有霞田被挑请免钱粮，康熙帝疑有他故，令依议并记之待总河靳辅至询问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "余有霞",
+   "role": "盱眙县民"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "黄河",
+  "盱眙县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15408,
+ "page_range": "351-352"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "二十六日庚午",
+ "event_role": "朝见受贺",
+ "summary": "浒墅关监督吏部员外郎高必弘、苏州府知府赵禄星等、抚标左营游击李虎等来朝见。",
+ "people": [
+  {
+   "name": "高必弘",
+   "role": "浒墅关监督吏部员外郎"
+  },
+  {
+   "name": "赵禄星",
+   "role": "苏州府知府"
+  },
+  {
+   "name": "李虎",
+   "role": "抚标左营游击"
+  }
+ ],
+ "places": [
+  "苏州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5508,
+ "page_range": "145-146"
+}

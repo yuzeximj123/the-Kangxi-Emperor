@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初九日壬戌",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝言今春题参山东巡抚王国昌人不服，近参安徽巡抚高承枉则当，高承历任广东巡抚时不堪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "高承",
+   "role": "安徽巡抚"
+  }
+ ],
+ "places": [
+  "山东",
+  "安徽",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21906,
+ "page_range": "448-449"
+}

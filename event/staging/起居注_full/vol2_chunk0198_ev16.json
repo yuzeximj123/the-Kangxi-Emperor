@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "初四日乙雍",
+ "event_role": "人事任免",
+ "summary": "兵部题镶黄旗刘光精奇尼哈番世职承袭事，康熙帝询问后命刘光弟刘邦柱承袭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "刘光",
+   "role": "精奇尼哈番"
+  },
+  {
+   "name": "刘文环",
+   "role": "刘光之子"
+  },
+  {
+   "name": "刘邦柱",
+   "role": "刘光之弟，原任浙江提督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19816,
+ "page_range": "439-440"
+}

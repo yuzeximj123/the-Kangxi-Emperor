@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "十七日甲成",
+ "event_role": "司法案件",
+ "summary": "刑部拟强盗王小五等立斩，康熙帝以盗首张德赫及砍伤失主两盗未获，命行文地方官严拿，获日一并定拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王小五",
+   "role": "强盗"
+  },
+  {
+   "name": "张大黑",
+   "role": "逸贼"
+  },
+  {
+   "name": "张德赫",
+   "role": "盗首"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11112,
+ "page_range": "233-234"
+}

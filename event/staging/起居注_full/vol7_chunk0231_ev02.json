@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与大学士温达议论殷泰居官之优及自己知人善任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "殷泰",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23102,
+ "page_range": "473-474"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "霸昌道郎廷标、古北口关差员外郎吴大容、密云县知县郑富民、守备严一林等来朝。",
+ "people": [
+  {
+   "name": "郎廷标",
+   "role": "霸昌道"
+  },
+  {
+   "name": "吴大容",
+   "role": "古北口关差员外郎"
+  },
+  {
+   "name": "郑富民",
+   "role": "密云县知县"
+  },
+  {
+   "name": "严一林",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "霸昌",
+  "古北口",
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10602,
+ "page_range": "222-223"
+}

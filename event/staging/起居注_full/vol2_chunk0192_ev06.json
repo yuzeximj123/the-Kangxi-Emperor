@@ -1,0 +1,33 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十八日庚子",
+ "event_role": "人事任免",
+ "summary": "四川提督何傅请留成都城守副将屠存义等四员，康熙帝命将宣抚有恬留任，余照部议撤回京。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何傅",
+   "role": "四川提督"
+  },
+  {
+   "name": "屠存义",
+   "role": "成都城守副将"
+  },
+  {
+   "name": "有恬",
+   "role": "宣抚"
+  }
+ ],
+ "places": [
+  "成都",
+  "边疆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19206,
+ "page_range": "427-428"
+}

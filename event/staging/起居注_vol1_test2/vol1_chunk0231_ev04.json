@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部议奉天驻防章京聂有运子聂大任袭父职不准，康熙帝以聂有运出征病故可悯，着再议。",
+ "people": [
+  {
+   "name": "聂有运",
+   "role": "奉天驻防章京"
+  },
+  {
+   "name": "聂大任",
+   "role": "聂有运子"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23104,
+ "page_range": "519-520"
+}

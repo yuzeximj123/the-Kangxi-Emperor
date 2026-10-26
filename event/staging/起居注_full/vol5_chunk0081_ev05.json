@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十六日乙酉",
+ "event_role": "人事任免",
+ "summary": "兵部题西安右翼副都统阿兰泰员缺，康熙帝以费扬古为人平常，调补西安副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "西安右翼副都统"
+  },
+  {
+   "name": "阿尔拜",
+   "role": "侍郎"
+  },
+  {
+   "name": "费扬古",
+   "role": "镶红旗副都统"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8105,
+ "page_range": "172-173"
+}

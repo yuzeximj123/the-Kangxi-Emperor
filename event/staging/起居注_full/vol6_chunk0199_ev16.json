@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "十九日丙子",
+ "event_role": "谕旨决策",
+ "summary": "九卿覆甘肃巡抚喀拜题请开捐纳事例及给事中张壹条奏捐纳款项二本议行督抚查复，康熙帝以捐纳非美事令暂停留俟查覆到日再议。",
+ "people": [
+  {
+   "name": "喀拜",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "张壹",
+   "role": "给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "湖滩河朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19916,
+ "page_range": "408-409"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "初四日庚辰",
+ "event_role": "弹劾参奏",
+ "summary": "两江总督阿山将洲库银两一案遵旨察明具奏，康熙帝追问九卿中谁称阿山居官好，命问明九卿具奏。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4115,
+ "page_range": "93-94"
+}

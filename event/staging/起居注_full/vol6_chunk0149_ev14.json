@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "十五日成实",
+ "event_role": "司法案件",
+ "summary": "刑部题私铸王其俊等拟正法，康熙帝以王浩之母年老恳请，命王浩暂停发配，俟母亡后再行发遣。",
+ "people": [
+  {
+   "name": "王其俊",
+   "role": "私铸犯"
+  },
+  {
+   "name": "王浩",
+   "role": "私铸犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14914,
+ "page_range": "308-309"
+}

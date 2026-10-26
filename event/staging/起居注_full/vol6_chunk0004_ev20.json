@@ -1,0 +1,38 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": "十六日甲午",
+ "event_role": "议政听政",
+ "summary": "康熙询问诸卷文章及有无认识者，张玉书评第一卷条晰，韩菼言徐树本为徐元文之子、姜启英年近七十文佳而字不楷故置第七。",
+ "people": [
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "韩菼",
+   "role": "学士"
+  },
+  {
+   "name": "徐树本",
+   "role": "贡士"
+  },
+  {
+   "name": "姜启英",
+   "role": "贡士"
+  },
+  {
+   "name": "徐元文",
+   "role": "前官员"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 420,
+ "page_range": "18-19"
+}

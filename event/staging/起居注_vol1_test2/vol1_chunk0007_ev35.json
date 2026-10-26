@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 1,
+ "day_text": "二十六日癸西",
+ "event_role": "皇帝行止",
+ "summary": "过八达岭，康熙帝至山下马扶辇。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "八达岭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 735,
+ "page_range": "71-72"
+}

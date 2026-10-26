@@ -1,0 +1,41 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝率善射人员射箭，并令都司马麒等补授游击等缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马麒",
+   "role": "都司"
+  },
+  {
+   "name": "马进良",
+   "role": "提督"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "沙孜",
+   "role": "奏事"
+  },
+  {
+   "name": "来保",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "古北口",
+  "后塘路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14200,
+ "page_range": "295-296"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 4,
+ "day_text": "十四日乙效",
+ "event_role": "河工水利",
+ "summary": "仓场侍郎凯音布等因运河水浅请交总漕总河挑浚，康熙帝令凯音布同靳辅速往分水龙王庙以北动正项钱粮挑浚束水以济重运。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凯音布",
+   "role": "仓场侍郎"
+  },
+  {
+   "name": "靳辅",
+   "role": "原任总河"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "分水龙王庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11721,
+ "page_range": "246-247"
+}

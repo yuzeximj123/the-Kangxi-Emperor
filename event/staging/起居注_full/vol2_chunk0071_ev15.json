@@ -1,0 +1,42 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初四日甲申",
+ "event_role": "人事任免",
+ "summary": "都察院题监察御史内升外转事，康熙帝与明珠、李霨等议谢兆昌、唐朝苏等内升外转，以曾袖、任静条陈未善令一人外转。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "谢兆昌",
+   "role": "监察御史"
+  },
+  {
+   "name": "唐朝苏",
+   "role": "监察御史"
+  },
+  {
+   "name": "曾袖",
+   "role": "官员"
+  },
+  {
+   "name": "任静",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7115,
+ "page_range": "185-186"
+}

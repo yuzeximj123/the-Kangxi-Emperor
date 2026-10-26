@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "三十日庚申",
+ "event_role": "起居注记录",
+ "summary": "起居注记载康熙帝在行宫几案环列图书，或阅书史、或书大小字、或著文作诗赋常至夜分，皇太子在旁读书未尝先寝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7704,
+ "page_range": "189-190"
+}

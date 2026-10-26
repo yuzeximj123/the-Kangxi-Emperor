@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十二日己卯",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清门听政，九卿会同进奏山东运使员缺拟补大名府知府鲍复昌。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈占",
+   "role": "尚书"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "尚书"
+  },
+  {
+   "name": "董讷",
+   "role": "侍郎"
+  },
+  {
+   "name": "鲍复昌",
+   "role": "大名府知府，拟补山东运使"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "山东",
+  "大名府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10719,
+ "page_range": "249-250"
+}

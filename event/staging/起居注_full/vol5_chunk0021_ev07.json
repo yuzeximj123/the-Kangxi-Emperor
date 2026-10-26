@@ -1,0 +1,21 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "二十三日庚申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕欲二十五日回京、二十六日斋戒亲祭北郊，令群臣留此地，自乘小舟往阅堤即回。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津",
+  "西沽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2107,
+ "page_range": "52-53"
+}

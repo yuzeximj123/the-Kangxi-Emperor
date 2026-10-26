@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以固赛世职应与其子承袭，令将世职与固赛之子承袭，并严饬行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "固赛",
+   "role": "世职原主"
+  },
+  {
+   "name": "达杨阿",
+   "role": "固赛之弟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10404,
+ "page_range": "218-219"
+}

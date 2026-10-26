@@ -1,0 +1,22 @@
+{
+ "reign_year": 29,
+ "month": 7,
+ "day_text": "十一日庚子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝由神武门出西直门幸畅春园，申时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神武门",
+  "西直门",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12617,
+ "page_range": "264-265"
+}

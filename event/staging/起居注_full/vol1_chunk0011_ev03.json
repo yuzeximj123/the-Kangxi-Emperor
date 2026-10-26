@@ -1,0 +1,25 @@
+{
+ "reign_year": 11,
+ "month": 3,
+ "day_text": "十七日严辫",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝在赤城，辰时前往太皇太后行宫问安，未时返回。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "赤城",
+  "太皇太后行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1103,
+ "page_range": "79-80"
+}

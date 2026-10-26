@@ -1,0 +1,24 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "提督江南等处地方总兵官师懿德在任守制期间向康熙皇帝请安，康熙朱批回复自己安好并询问南方情况。",
+ "people": [
+  {
+   "name": "师懿德",
+   "role": "提督江南等处地方总兵官，在任守制，上奏请安"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己身体安好、饮食起居都好，并询问师懿德到南方后情况如何。",
+ "source_title": "師懿德請安",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 464
+}

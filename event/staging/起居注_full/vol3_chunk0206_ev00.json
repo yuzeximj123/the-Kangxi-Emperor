@@ -1,0 +1,20 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": "初一日庚辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以元旦率诸王、贝勒、贝子、公、内大臣、侍卫、大学士、都统、尚书、精奇尼哈番等往堂子行礼，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "堂子"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20600,
+ "page_range": "447-448"
+}

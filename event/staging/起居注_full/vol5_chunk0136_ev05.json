@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十八日",
+ "event_role": "奏报地方情形",
+ "summary": "阿南达转述阵获厄鲁特人供称：噶尔丹初不信皇上亲征，故不设备，后闻皇上身先八旗前锋而行，遂抱头鼠窜；噶尔丹归咎达赖喇嘛煽惑。",
+ "people": [
+  {
+   "name": "阿南达",
+   "role": "副都统"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "克鲁伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13605,
+ "page_range": "282-283"
+}

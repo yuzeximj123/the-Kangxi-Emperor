@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝就刘济清自南漳败回襄阳应立绞一案下旨，从宽免死，交与该管之主为奴。",
+ "people": [
+  {
+   "name": "刘济清",
+   "role": "败将"
+  },
+  {
+   "name": "范达礼",
+   "role": "原任都统"
+  }
+ ],
+ "places": [
+  "南漳",
+  "襄阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23900,
+ "page_range": "521-522"
+}

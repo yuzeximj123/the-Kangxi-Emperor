@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初十日丙子",
+ "event_role": "司法案件",
+ "summary": "三法司题瓦尔达之妻乞留其子查世达养老议不准，康熙帝念其年老且夫阵亡，命将查世达暂取回养母。",
+ "people": [
+  {
+   "name": "瓦尔达",
+   "role": "阵亡者"
+  },
+  {
+   "name": "查世达",
+   "role": "瓦尔达之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2507,
+ "page_range": "60-61"
+}

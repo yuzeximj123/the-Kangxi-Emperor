@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "二十九日辛刻",
+ "event_role": "朝见受贺",
+ "summary": "古北口等处抽木税户部郎中良爱、霸昌道许兆麟、密云县知县陈售、守备胡守思等来朝。",
+ "people": [
+  {
+   "name": "良爱",
+   "role": "户部郎中"
+  },
+  {
+   "name": "许兆麟",
+   "role": "霸昌道"
+  },
+  {
+   "name": "陈售",
+   "role": "密云县知县"
+  },
+  {
+   "name": "胡守思",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "古北口",
+  "霸昌",
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18208,
+ "page_range": "399-400"
+}

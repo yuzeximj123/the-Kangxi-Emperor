@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": "初九日丙辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读学士及部院郎中等官，康熙帝以穆赫伦诚实历久，命升补内阁侍读学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "塔进泰",
+   "role": "官员"
+  },
+  {
+   "name": "穆赫伦",
+   "role": "蒙古科臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3822,
+ "page_range": "87-88"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请张家口参将标下中军守备王印员缺开列拣选千总及侍卫，康熙帝命明日兵部引见时带来引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王印",
+   "role": "中军守备"
+  }
+ ],
+ "places": [
+  "张家口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17810,
+ "page_range": "367-368"
+}

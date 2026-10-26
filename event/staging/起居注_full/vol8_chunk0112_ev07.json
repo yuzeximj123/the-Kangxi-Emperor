@@ -1,0 +1,40 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙将唐之志、滕云标、夏起麟、季五、金杨五改议缓决，免死减等完结。",
+ "people": [
+  {
+   "name": "唐之志",
+   "role": "原任锦州府知府"
+  },
+  {
+   "name": "滕云标",
+   "role": "案犯"
+  },
+  {
+   "name": "夏起麟",
+   "role": "案犯"
+  },
+  {
+   "name": "季五",
+   "role": "案犯"
+  },
+  {
+   "name": "金杨五",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "锦州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11207,
+ "page_range": "235-236"
+}

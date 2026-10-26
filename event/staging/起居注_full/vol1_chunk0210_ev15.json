@@ -1,0 +1,33 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "初六日丁卯",
+ "event_role": "人事任免",
+ "summary": "福建总督姚启圣题授投诚人徐垣游击职衔，部议不允，康熙帝从督臣所请。",
+ "people": [
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "徐垣",
+   "role": "投诚人"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21015,
+ "page_range": "477-478"
+}

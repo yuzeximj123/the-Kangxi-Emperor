@@ -1,0 +1,22 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记是日起居注官为苏库、赵能诏。",
+ "people": [
+  {
+   "name": "苏库",
+   "role": "起居注官"
+  },
+  {
+   "name": "赵能诏",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16407,
+ "page_range": "339-340"
+}

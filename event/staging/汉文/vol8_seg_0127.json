@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十七年閏八月初九日",
+ "reign_year": 57,
+ "month": null,
+ "day": 9,
+ "event_role": "其他",
+ "summary": "苏州织造李煦奏报两淮商人请求商籍童生广进学额及乡试另编字号取中，已遵朱批与运使张应诏商妥并缮疏具题。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "张应诏",
+   "role": "两淮运使，与李煦商妥此事"
+  }
+ ],
+ "places": [
+  "两淮",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝告诫李煦此事关系其声名不可轻忽，须与运使商量妥当后再具题。",
+ "source_title": "蘇州織造李煦奏為淮商董生進學等事已與運使商妥措",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2695",
+ "order_index": 127
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "十五日甲寅",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门视朝，升转文武官员谢恩，厄鲁特部落噶尔丹博硕克图汗贡使达木巴哈锡哈等行礼，赐茶并召至阶下赐之，驾回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达木巴哈锡哈",
+   "role": "厄鲁特贡使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21320,
+ "page_range": "469-470"
+}

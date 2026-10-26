@@ -1,0 +1,36 @@
+{
+ "reign_year": 17,
+ "month": 8,
+ "day_text": "十六日甲申",
+ "event_role": "其他",
+ "summary": "康熙帝御弘德殿，讲官进讲经书，康熙帝亲讲毕，讲官照常进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16723,
+ "page_range": "391-392"
+}

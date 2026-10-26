@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 6,
+ "day_text": "十一日",
+ "event_role": "人事任免",
+ "summary": "吏部题刑部员外博式泰员缺拟正农格礼、拟陪绥咨引见，康熙帝着将拟陪者补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博式泰",
+   "role": "刑部员外"
+  },
+  {
+   "name": "农格礼",
+   "role": "户部主事"
+  },
+  {
+   "name": "绥咨",
+   "role": "刑部主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3315,
+ "page_range": "78-79"
+}

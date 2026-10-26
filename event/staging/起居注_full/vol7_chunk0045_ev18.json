@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "二十八日甲质",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝于中和殿视太庙祝版毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4518,
+ "page_range": "101-102"
+}

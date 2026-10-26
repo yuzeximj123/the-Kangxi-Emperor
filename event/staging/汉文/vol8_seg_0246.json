@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十九年三月二十六日",
+ "reign_year": 59,
+ "month": 3,
+ "day": 26,
+ "event_role": "奏报地方情形",
+ "summary": "山东巡抚李树德奏报捐银招回直隶、京城一带铁民九百七十三名口，发回本籍安插赈恤，并报麦苗茂盛可望丰收。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东",
+  "京城",
+  "登州府",
+  "莱州府",
+  "青州府",
+  "直隶河间府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "山東巡撫李樹德奏爲捐田墾民情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2856",
+ "order_index": 246
+}

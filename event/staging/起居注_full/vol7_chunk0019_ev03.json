@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "十四日甲子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻足行宫，赐大学士马齐御书诗扇。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士，受赐"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1903,
+ "page_range": "49-50"
+}

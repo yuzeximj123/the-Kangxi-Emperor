@@ -1,0 +1,21 @@
+{
+ "reign_year": 18,
+ "month": 3,
+ "day_text": "十八日癸丑",
+ "event_role": "朝见受贺",
+ "summary": "万寿节，康熙帝率诸王、贝子、公、内大臣、大学士、都统、尚书、精奇尼哈番、侍卫等往太皇太后宫行礼，次往皇太后宫行礼毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17837,
+ "page_range": "413-414"
+}

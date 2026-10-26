@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十七年四月二十五日",
+ "reign_year": 57,
+ "month": 4,
+ "day": 25,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报江南雨晴适宜、二麦将收、米价平稳，并报苏州御稻插秧及扬州盐务催课督粮情形，附进苏州扬州三月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造、两淮巡盐御史"
+  }
+ ],
+ "places": [
+  "江南",
+  "苏州",
+  "扬州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報江南米價並進蘇揚晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2601",
+ "order_index": 47
+}

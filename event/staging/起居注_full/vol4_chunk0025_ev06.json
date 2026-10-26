@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "初六日戊申",
+ "event_role": "谕旨决策",
+ "summary": "诸王大臣奏请康熙帝勿亲随梓宫扶送，康熙帝以孝心决意亲随扶护，不允所请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诸王",
+   "role": "王"
+  },
+  {
+   "name": "汉大臣",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2506,
+ "page_range": "62-63"
+}

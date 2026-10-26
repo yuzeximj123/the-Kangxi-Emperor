@@ -1,0 +1,53 @@
+{
+ "date_raw": "康熙六十一年七月十二日",
+ "reign_year": 61,
+ "month": 7,
+ "day": 11,
+ "event_role": "奏报地方情形",
+ "summary": "两广总督杨琳等奏报收到新教皇伊纳增爵寄进康熙帝的表文，派兵驰驿赍进，并报本年外国洋船先后到粤六只及穆敬远奏折一并呈进。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "杨宗仁",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "李若瑟",
+   "role": "广东驻墪西洋人"
+  },
+  {
+   "name": "郭中传",
+   "role": "广东驻墪西洋人"
+  },
+  {
+   "name": "伊纳增爵",
+   "role": "新教化王（教皇）"
+  },
+  {
+   "name": "梁胜",
+   "role": "督标兵丁"
+  },
+  {
+   "name": "周云龙",
+   "role": "棅标兵丁"
+  },
+  {
+   "name": "穆敬远",
+   "role": "西洋人"
+  }
+ ],
+ "places": [
+  "广东",
+  "粤"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "兩廣總督楊琳等奏送教皇來書並報洋船到粵情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2996",
+ "order_index": 374
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "初八日辛巳",
+ "event_role": "人事任免",
+ "summary": "康熙帝御保和殿，翰林院引见新科进士史乾等一百七十四人，亲选史坦等三十二人为庶吉士。",
+ "people": [
+  {
+   "name": "史乾",
+   "role": "新科进士"
+  },
+  {
+   "name": "史坦",
+   "role": "庶吉士"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15012,
+ "page_range": "343-344"
+}

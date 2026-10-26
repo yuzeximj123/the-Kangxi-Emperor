@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "二十三日戊成",
+ "event_role": "人事任免",
+ "summary": "兵部覆土司田肛年请以职令子承袭等事与例不符，康熙帝命依所请令长子田遇如袭职，次子田受如来京效力。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "田肛年",
+   "role": "土司"
+  },
+  {
+   "name": "田遇如",
+   "role": "田肛年长子"
+  },
+  {
+   "name": "田受如",
+   "role": "田肛年次子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5809,
+ "page_range": "127-128"
+}

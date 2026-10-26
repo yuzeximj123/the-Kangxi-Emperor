@@ -1,0 +1,34 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "二十九日癸酉",
+ "event_role": "其他",
+ "summary": "康熙帝令亲近二等侍卫吴什传谕大学士席哈纳等观《资政要览》《内则衍义》二书。",
+ "people": [
+  {
+   "name": "吴什",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "常寿",
+   "role": "学士"
+  },
+  {
+   "name": "穆和伦",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6227,
+ "page_range": "135-136"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读唐太宗贬萧瑀为商州刺史论，评论士人信佛因识见暗昧。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐太宗",
+   "role": "唐朝皇帝"
+  },
+  {
+   "name": "萧瑀",
+   "role": "唐臣"
+  }
+ ],
+ "places": [
+  "商州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11211,
+ "page_range": "236-237"
+}

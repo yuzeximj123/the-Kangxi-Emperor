@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十六日辛卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补内净侍读员缺，明珠称董昌国颇优，康熙帝令即补授董昌国。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "董昌国",
+   "role": "候补"
+  },
+  {
+   "name": "宁思圣",
+   "role": "户部主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13914,
+ "page_range": "321-322"
+}

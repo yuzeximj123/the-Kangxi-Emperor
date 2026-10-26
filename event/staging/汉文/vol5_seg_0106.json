@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十二年十一月二十六日",
+ "reign_year": 52,
+ "month": 11,
+ "day": 26,
+ "event_role": "贸易漕运",
+ "summary": "漕运总督郎廷极奏报回空漕船因寒冻受阻，经催儹后河冰渐解，江广等省帮船五百余只已过淮南下，可赶冬兑冬开之限。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "漕运总督，奏报人"
+  }
+ ],
+ "places": [
+  "临清",
+  "淮",
+  "山东",
+  "江广",
+  "江浙"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "漕運總督郎廷極奏報河冰漸解情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1473",
+ "order_index": 106
+}

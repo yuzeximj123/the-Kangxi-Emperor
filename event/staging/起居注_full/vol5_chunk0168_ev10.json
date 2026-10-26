@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "二十一日甲辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝颁敕招安噶尔丹、丹济喇等，述往昔战事，劝其率众归顺，许以家富身显、一体抚恤。",
+ "people": [
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "丹济喇",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "乌阑布通",
+  "克鲁伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16810,
+ "page_range": "346-347"
+}

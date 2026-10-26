@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝命派能员前往宣化府保安等处，将首犯衡有觉就地正法示众，从犯翁秋后处决。",
+ "people": [
+  {
+   "name": "衡有觉",
+   "role": "首犯"
+  },
+  {
+   "name": "翁",
+   "role": "从犯"
+  },
+  {
+   "name": "额席赫",
+   "role": "审案官员"
+  }
+ ],
+ "places": [
+  "宣化府",
+  "保安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4500,
+ "page_range": "100-101"
+}

@@ -1,0 +1,52 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初四日庚午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命明日齐集西苑，并传集内阁学士王拨、李楠、顾藻及翰林出身京堂吴涵等五员候考。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王拨",
+   "role": "内阁学士"
+  },
+  {
+   "name": "李楠",
+   "role": "内阁学士"
+  },
+  {
+   "name": "顾藻",
+   "role": "内阁学士"
+  },
+  {
+   "name": "吴涵",
+   "role": "京堂"
+  },
+  {
+   "name": "高裔",
+   "role": "京堂"
+  },
+  {
+   "name": "能赐瑛",
+   "role": "京堂"
+  },
+  {
+   "name": "胡会思",
+   "role": "京堂"
+  },
+  {
+   "name": "王九龄",
+   "role": "京堂"
+  }
+ ],
+ "places": [
+  "西苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2309,
+ "page_range": "56-57"
+}

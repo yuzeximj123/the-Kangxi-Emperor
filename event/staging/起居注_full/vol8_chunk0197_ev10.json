@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "十六日己刻",
+ "event_role": "人事任免",
+ "summary": "兵部议山东巡抚请调王蛟补胶州副将不准，康熙命照该抚所请调补。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "王蛟",
+   "role": "即墨营参将"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "胶州",
+  "即墨营",
+  "四川裴州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19710,
+ "page_range": "405-406"
+}

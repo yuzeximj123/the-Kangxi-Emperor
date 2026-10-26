@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "怀和柔县守备赵成贵等、昌平营副将黄明等来朝。",
+ "people": [
+  {
+   "name": "赵成贵",
+   "role": "怀和柔县守备"
+  },
+  {
+   "name": "黄明",
+   "role": "昌平营副将"
+  }
+ ],
+ "places": [
+  "怀和柔县",
+  "昌平营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8017,
+ "page_range": "171-172"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就工部郎中江汉的处分降二级留任，其余依议。",
+ "people": [
+  {
+   "name": "江汉",
+   "role": "原任工部郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13300,
+ "page_range": "276-277"
+}

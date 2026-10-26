@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "十三日本卯",
+ "event_role": "司法案件",
+ "summary": "刑部题打友孙如丰家强盗李小楼等拟立斩，康熙帝以王二等始终未招认、情有可疑，命再核议具奏。",
+ "people": [
+  {
+   "name": "李小楼",
+   "role": "强盗"
+  },
+  {
+   "name": "王二",
+   "role": "同案人"
+  },
+  {
+   "name": "孙如丰",
+   "role": "事主"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14809,
+ "page_range": "331-332"
+}

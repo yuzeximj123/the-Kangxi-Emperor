@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十四日丙寅",
+ "event_role": "人事任免",
+ "summary": "河南按察使员缺，正拟胡戴仁、陪拟张激，康熙帝命九卿等选择会推具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "胡戴仁",
+   "role": "参政、正拟按察使"
+  },
+  {
+   "name": "张激",
+   "role": "陪拟按察使"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5223,
+ "page_range": "147-148"
+}

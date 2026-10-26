@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 8,
+ "day_text": "十六日癸巳",
+ "event_role": "人事任免",
+ "summary": "兵部题覆陕西提督何傅称衰老难胜负荷，相应准其原品休致；康熙帝以何傅效力年久、著有勤劳，命以原品致仕。",
+ "people": [
+  {
+   "name": "何傅",
+   "role": "陕西提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20433,
+ "page_range": "420-421"
+}

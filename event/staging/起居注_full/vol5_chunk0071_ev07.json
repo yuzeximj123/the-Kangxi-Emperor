@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "二十五日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿奏赵良栋奏本交九卿议，九卿请严加议罪，康熙命将奏本收贮待赵良栋回奏后再请旨。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "赵良栋",
+   "role": "官员"
+  },
+  {
+   "name": "济哈礼",
+   "role": "都统"
+  },
+  {
+   "name": "乾翔",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7107,
+ "page_range": "152-153"
+}

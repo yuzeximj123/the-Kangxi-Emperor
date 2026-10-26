@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": "初二日壬午",
+ "event_role": "人事任免",
+ "summary": "康熙帝以问明来福所学后，命将来福从优升补侍读学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "来福",
+   "role": "员外郎"
+  },
+  {
+   "name": "喇西",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17404,
+ "page_range": "360-361"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "二十三日癸卯",
+ "event_role": "司法案件",
+ "summary": "刑部覆江西巡抚佟国台题大盗何善龄等应即行正法，康熙帝令会同三法司将造意为首杀伤人者一二人正法，余减等发黑龙江。",
+ "people": [
+  {
+   "name": "佟国台",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "何善龄",
+   "role": "大盗"
+  }
+ ],
+ "places": [
+  "江西",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21611,
+ "page_range": "443-444"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "二十日壬申",
+ "event_role": "人事任免",
+ "summary": "吏部题请庶吉士派满汉学士教习，康熙帝命汤右曾教习汉文、把叙教习满文。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤右曾",
+   "role": "教习汉文"
+  },
+  {
+   "name": "把叙",
+   "role": "教习满文"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21608,
+ "page_range": "443-444"
+}

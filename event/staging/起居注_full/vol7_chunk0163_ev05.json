@@ -1,0 +1,34 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题仓关米人勒指索钱案，拟小黑儿绞、张有德等发遣、监督关保等革职枷号，康熙斥其照平常偷米贼议处，令问刑部堂官并谕九卿。",
+ "people": [
+  {
+   "name": "小黑儿",
+   "role": "案犯"
+  },
+  {
+   "name": "张有德",
+   "role": "案犯"
+  },
+  {
+   "name": "关保",
+   "role": "监督"
+  },
+  {
+   "name": "四奇",
+   "role": "阿达哈哈番"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16305,
+ "page_range": "337-338"
+}

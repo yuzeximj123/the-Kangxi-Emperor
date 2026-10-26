@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士松柱等奏九卿议范仲淹配享应在司马光之上，康熙依议。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "范仲淹",
+   "role": "配享人物"
+  },
+  {
+   "name": "司马光",
+   "role": "配享人物"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12404,
+ "page_range": "259-260"
+}

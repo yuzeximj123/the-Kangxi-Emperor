@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十九年五月初二日",
+ "reign_year": 59,
+ "month": 5,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "河南巡抚李锡奏报开封等府麦收丰稔、秋禾得雨播种及各地粮价情形，并奉朱批报闻。",
+ "people": [
+  {
+   "name": "李锡",
+   "role": "河南巡抚（奏折具奏人，自称奴才）"
+  },
+  {
+   "name": "李凤",
+   "role": "李锡家人，赍回报奏折子"
+  }
+ ],
+ "places": [
+  "河南",
+  "彰卫",
+  "开封",
+  "豫省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，已知晓河南收麦情形。",
+ "source_title": "河南巡撫楊宗義奏報彰衛等處得雨日期摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2082",
+ "order_index": 15
+}

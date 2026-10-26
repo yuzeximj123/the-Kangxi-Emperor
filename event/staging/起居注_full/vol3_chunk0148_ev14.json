@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "十四日成辰",
+ "event_role": "司法案件",
+ "summary": "刑部题王永宗等假冒扬州人民请开海口拟流徒罪，康熙帝以开海口原为淮扬水灾，命薄惩以儆并传谕九卿酌议具奏。",
+ "people": [
+  {
+   "name": "王永宗",
+   "role": "案犯"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "扬州",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14814,
+ "page_range": "331-332"
+}

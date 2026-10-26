@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "初二日戊子",
+ "event_role": "司法案件",
+ "summary": "刑部拟杨运启妄写黄河图中闻应发边卫充军，康熙以其情罪可恶，命发往宁古塔。",
+ "people": [
+  {
+   "name": "杨运启",
+   "role": "罪犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12806,
+ "page_range": "291-292"
+}

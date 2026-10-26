@@ -1,0 +1,42 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初一日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责问贝和诺等地方大臣纵容盗贼不行查拿，贝和诺、郭世隆、赵申乔、陈庭、齐世武先后奏辩并免冠叩首谢罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "贝和诺",
+   "role": "尚书"
+  },
+  {
+   "name": "章世武",
+   "role": "尚书"
+  },
+  {
+   "name": "郭世隆",
+   "role": "尚书"
+  },
+  {
+   "name": "陈府",
+   "role": "尚书"
+  },
+  {
+   "name": "赵申乔",
+   "role": "左都御史"
+  },
+  {
+   "name": "齐世武",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18704,
+ "page_range": "385-386"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "十五日于申“反时",
+ "event_role": "谕旨决策",
+ "summary": "户部遵旨将直隶各省民间积欠钱粮及米麦谷豆数目缮折呈览，康熙帝令蠲免直隶、山东积欠钱粮谕旨呈览，别省钱粮俟至十月启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11009,
+ "page_range": "231-232"
+}

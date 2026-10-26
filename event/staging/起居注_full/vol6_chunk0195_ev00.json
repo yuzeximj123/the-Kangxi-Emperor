@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题奏侍卫艾柱打死家人，依例罚俸一年，康熙命查问领侍卫内大臣艾柱为人，若庸劣则革去侍卫。",
+ "people": [
+  {
+   "name": "艾柱",
+   "role": "侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19500,
+ "page_range": "400-401"
+}

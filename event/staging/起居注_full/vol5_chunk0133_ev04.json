@@ -1,0 +1,33 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝命抄送费扬古所题之文与马思喀，令其速赴协剿，并交阿尔拜米面赴军前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "马思喀",
+   "role": "大将军"
+  },
+  {
+   "name": "阿尔拜",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "巴颜乌斌",
+  "拖陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13304,
+ "page_range": "276-277"
+}

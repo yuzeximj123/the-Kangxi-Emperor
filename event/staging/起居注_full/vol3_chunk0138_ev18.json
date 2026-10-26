@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "初六日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问各省所举卓异何省公当，王申等奏浙江所举俱当、江南止举教宦一员亦合舆论，康熙帝颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13818,
+ "page_range": "311-312"
+}

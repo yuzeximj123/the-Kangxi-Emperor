@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕差往贵州审理的库勒纳、温保，边疆谎报军机者即斩，土司抗拒则会同总督剿灭。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "温保",
+   "role": "内阁学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20201,
+ "page_range": "416-417"
+}

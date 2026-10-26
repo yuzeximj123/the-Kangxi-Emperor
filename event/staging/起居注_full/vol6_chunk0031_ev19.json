@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 1,
+ "day_text": "二十八日甲搬",
+ "event_role": "朝见受贺",
+ "summary": "涿州知州李成龙、涿州营参将周世朝等来朝。",
+ "people": [
+  {
+   "name": "李成龙",
+   "role": "涿州知州"
+  },
+  {
+   "name": "周世朝",
+   "role": "涿州营参将"
+  }
+ ],
+ "places": [
+  "涿州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3119,
+ "page_range": "72-73"
+}

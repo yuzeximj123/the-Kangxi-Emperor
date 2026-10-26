@@ -1,0 +1,20 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将所获贼犯解京确审，唐保柱等议罪事暂存，待贼犯解到审明后再奏。",
+ "people": [
+  {
+   "name": "唐保柱",
+   "role": "议罪官员"
+  }
+ ],
+ "places": [
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19600,
+ "page_range": "403-404"
+}

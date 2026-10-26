@@ -1,0 +1,34 @@
+{
+ "reign_year": 54,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题偷窃内库金叶之色克免等应即行正法，康熙以毕永福自首交还应另议、官员不可援赦，本发还再议。",
+ "people": [
+  {
+   "name": "色克免",
+   "role": "案犯"
+  },
+  {
+   "name": "黑色",
+   "role": "案犯"
+  },
+  {
+   "name": "赵京",
+   "role": "案犯"
+  },
+  {
+   "name": "毕永福",
+   "role": "自首者"
+  },
+  {
+   "name": "乌林达",
+   "role": "专管官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10804,
+ "page_range": "227-228"
+}

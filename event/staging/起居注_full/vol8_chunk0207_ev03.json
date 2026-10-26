@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 8,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "工部奏销宝源局五十五年铸钱及所用所存铜铅，并查得丘道真等商人亏空铜铅系王纲明旧欠工部铜项。",
+ "people": [
+  {
+   "name": "丘道真",
+   "role": "商人"
+  },
+  {
+   "name": "刘时泰",
+   "role": "商人"
+  },
+  {
+   "name": "七哥",
+   "role": "商人"
+  },
+  {
+   "name": "十哥",
+   "role": "商人"
+  },
+  {
+   "name": "王纲明",
+   "role": "旧欠商人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20703,
+ "page_range": "425-426"
+}

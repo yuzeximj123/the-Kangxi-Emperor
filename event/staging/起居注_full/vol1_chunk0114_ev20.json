@@ -1,0 +1,28 @@
+{
+ "reign_year": 15,
+ "month": 5,
+ "day_text": "初一日王午",
+ "event_role": "其他",
+ "summary": "康熙帝复御乾清门，赐往达赖喇嘛处朱拉章格龙、汉温扎特格龙等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱拉章格龙",
+   "role": "往达赖喇嘛处使者"
+  },
+  {
+   "name": "汉温扎特格龙",
+   "role": "往达赖喇嘛处使者"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11420,
+ "page_range": "285-286"
+}

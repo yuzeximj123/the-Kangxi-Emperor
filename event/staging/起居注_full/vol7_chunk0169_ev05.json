@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "是日",
+ "event_role": "请安谢恩",
+ "summary": "喀尔喀和硕恪靖公主、和硕额驸敦多普多尔济、翁牛特多罗贝勒厄尔德普廖齐尔来请安进贡。",
+ "people": [
+  {
+   "name": "和硕恪靖公主",
+   "role": "公主"
+  },
+  {
+   "name": "敦多普多尔济",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "厄尔德普廖齐尔",
+   "role": "多罗贝勒"
+  }
+ ],
+ "places": [
+  "喀尔喀",
+  "翁牛特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16905,
+ "page_range": "349-350"
+}

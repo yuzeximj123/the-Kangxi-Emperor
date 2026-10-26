@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十四日丙子",
+ "event_role": "人事任免",
+ "summary": "户部题请更换崇文门监督尚之杰，康熙帝询问后令尚之杰再留一年。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尚之杰",
+   "role": "崇文门监督"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "搂叙",
+   "role": "都察院左都御史"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11014,
+ "page_range": "231-232"
+}

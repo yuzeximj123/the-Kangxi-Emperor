@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "初四日辛西",
+ "event_role": "谕旨决策",
+ "summary": "九卿等会议山西巡抚穆尔赛降三级调用，康熙帝谕令秉公纠举贪劣，不可偏袒。",
+ "people": [
+  {
+   "name": "穆尔赛",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "温代",
+   "role": "官员"
+  },
+  {
+   "name": "达和尔布",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "爱浑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10208,
+ "page_range": "239-240"
+}

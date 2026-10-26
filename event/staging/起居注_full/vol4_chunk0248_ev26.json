@@ -1,0 +1,25 @@
+{
+ "reign_year": 32,
+ "month": 11,
+ "day_text": "二十六日乙丑",
+ "event_role": "朝见受贺",
+ "summary": "冬至节，康熙帝御中和殿、太和门升座，诸王贝子公及文武官员上表庆贺，鄂罗斯国使臣伊里扎礼等谢恩赐茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊里扎礼",
+   "role": "鄂罗斯国使臣"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24826,
+ "page_range": "508-509"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "初十日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部题山东布政使员缺，康熙帝命杨廷耀升补山东布政使司布政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董安国",
+   "role": "按察使"
+  },
+  {
+   "name": "杨凤起",
+   "role": "拟陪"
+  },
+  {
+   "name": "杨廷耀",
+   "role": "升补山东布政使"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14220,
+ "page_range": "296-297"
+}

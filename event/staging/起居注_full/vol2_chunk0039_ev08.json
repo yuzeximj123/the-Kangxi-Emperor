@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十四日戊戌",
+ "event_role": "人事任免",
+ "summary": "吏部题补兵部尚书员缺，康熙帝命以兵部尚书郭四海调补。",
+ "people": [
+  {
+   "name": "郭四海",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3908,
+ "page_range": "121-122"
+}

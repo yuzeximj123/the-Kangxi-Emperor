@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十七日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士马齐、侍郎法良，真定城外有原任大学士梁清标墓，令其携酒往奠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "法良",
+   "role": "侍郎"
+  },
+  {
+   "name": "梁清标",
+   "role": "原任大学士"
+  }
+ ],
+ "places": [
+  "真定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 621,
+ "page_range": "23-24"
+}

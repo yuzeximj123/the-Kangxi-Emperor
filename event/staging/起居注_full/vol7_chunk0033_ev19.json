@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十九日本丑",
+ "event_role": "谕旨决策",
+ "summary": "福建漳州府海澄公黄应维请假数年未京却请任职守，康熙帝命兵部调其来京试骑射具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄应维",
+   "role": "海澄公"
+  }
+ ],
+ "places": [
+  "福建漳州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3319,
+ "page_range": "77-78"
+}

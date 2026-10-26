@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": "初七日辛卯",
+ "event_role": "朝见受贺",
+ "summary": "怀来县知县白有斌、守备邓之魁等来朝。",
+ "people": [
+  {
+   "name": "白有斌",
+   "role": "知县"
+  },
+  {
+   "name": "邓之魁",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "怀来县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14312,
+ "page_range": "296-297"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "二十五日丙申",
+ "event_role": "司法案件",
+ "summary": "早康熙帝御行幄，吏部议江南江西总督于成龙行文抽税司官苏赫令勿抽木税、免罚木商等事，学士捧折本面奏请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "苏赫",
+   "role": "抽税司官"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20126,
+ "page_range": "445-446"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "二十七日辛丑",
+ "event_role": "司法案件",
+ "summary": "覆请遵旨收贮原任总河王新命之子王费绪案内曹远芳等诬告诈银事，康熙帝以有新定例在本发回再议具奏。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "原任总河"
+  },
+  {
+   "name": "王费绪",
+   "role": "王新命之子"
+  },
+  {
+   "name": "曹远芳",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4307,
+ "page_range": "97-98"
+}

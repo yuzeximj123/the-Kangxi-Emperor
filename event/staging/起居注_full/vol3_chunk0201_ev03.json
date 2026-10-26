@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题沈颠霸占尹酋勋田产、勒写卖身文契拟立斩，康熙命即在行邮地面正法，令百姓共知。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈颠",
+   "role": "罪犯"
+  },
+  {
+   "name": "尹酋勋",
+   "role": "受害人"
+  },
+  {
+   "name": "王申",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20103,
+ "page_range": "437-438"
+}

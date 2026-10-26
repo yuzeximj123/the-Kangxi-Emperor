@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "初四日丙实",
+ "event_role": "司法案件",
+ "summary": "户部奏正蓝旗巴布控告和善等家奴一案，康熙帝以所议草率含糊，发还再详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴布",
+   "role": "原任骁骑校"
+  },
+  {
+   "name": "和善",
+   "role": "骁骑校"
+  },
+  {
+   "name": "萨尔布善",
+   "role": "巴布之主"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10914,
+ "page_range": "229-230"
+}

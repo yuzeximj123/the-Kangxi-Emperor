@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝念总督哈占、化艇荣等军前效力多年无大罪，命给还原品级，事平后照常议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈占",
+   "role": "总督"
+  },
+  {
+   "name": "化艇荣",
+   "role": "总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9001,
+ "page_range": "223-224"
+}

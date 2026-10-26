@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "初一日癸未",
+ "event_role": "其他",
+ "summary": "赐侍卫、护军及绿旗官兵羊。",
+ "people": [
+  {
+   "name": "侍卫",
+   "role": "侍卫"
+  },
+  {
+   "name": "护军",
+   "role": "护军"
+  },
+  {
+   "name": "绿旗官兵",
+   "role": "绿旗官兵"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17622,
+ "page_range": "362-363"
+}

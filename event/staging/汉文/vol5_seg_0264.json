@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十三年七月二十五日",
+ "reign_year": 53,
+ "month": 7,
+ "day": 25,
+ "event_role": "请安谢恩",
+ "summary": "延绥总兵李耀奏请圣安，感谢皇恩授以封疆重寄，并进献鹰鹞二架以表犬马微忱。",
+ "people": [
+  {
+   "name": "李耀",
+   "role": "镇守陕西延绥等处地方副将管总兵官事，奏折具奏人"
+  },
+  {
+   "name": "李锦",
+   "role": "李耀家人，赍摺进京叩请圣安"
+  }
+ ],
+ "places": [
+  "陕西",
+  "延绥",
+  "口外"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "延绥总兵李耀奏请圣安并进土物摺（康熙五十三年七月二十五日）",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "165",
+ "order_index": 264
+}

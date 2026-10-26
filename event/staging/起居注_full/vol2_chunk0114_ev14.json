@@ -1,0 +1,20 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "二十六日甲故",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸锦县七里河。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "锦县七里河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11414,
+ "page_range": "271-272"
+}

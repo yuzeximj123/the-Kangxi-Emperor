@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十八年九月十五日",
+ "reign_year": 48,
+ "month": 9,
+ "day": 15,
+ "event_role": "其他",
+ "summary": "贵州巡抚刘荫枢奏报贵州秋收丰稔，并请求遇有地方重事准用密摺奏闻，以仰承圣训。",
+ "people": [
+  {
+   "name": "刘荫枢",
+   "role": "贵州巡抚都察院右副都御史加一级"
+  },
+  {
+   "name": "刘琦",
+   "role": "刘荫枢家人，赍摺奏闻者"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝允准刘荫枢遇有应请旨之事可用密摺奏来。",
+ "source_title": "貴州巡撫劉蔭樞奏請用密摺奏事摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "579",
+ "order_index": 232
+}

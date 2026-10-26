@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部右侍郎孙在丰奏请督修下河事宜指授，康熙谕令再问汤斌、于成龙计议，严禁包揽河工钱粮，并须亲身经历河干。",
+ "people": [
+  {
+   "name": "孙在丰",
+   "role": "工部右侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "下河",
+  "淮",
+  "扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17302,
+ "page_range": "381-382"
+}

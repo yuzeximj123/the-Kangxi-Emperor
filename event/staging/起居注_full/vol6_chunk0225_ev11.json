@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "初七日庚寅",
+ "event_role": "奏报灾情收成",
+ "summary": "直隶巡抚李光地题请蠲免广平县被水灾田租，康熙询问数额后照所题蠲免。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广平县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22511,
+ "page_range": "460-461"
+}

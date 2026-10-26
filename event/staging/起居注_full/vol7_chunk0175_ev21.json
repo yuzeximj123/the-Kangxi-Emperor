@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "十七日乙亥",
+ "event_role": "人事任免",
+ "summary": "兵部题补游击守备各缺，康熙帝准许天德等依拟用，浙江太湖营游击另拟具奏。",
+ "people": [
+  {
+   "name": "许天德",
+   "role": "应升游击"
+  },
+  {
+   "name": "王彪",
+   "role": "应升守备"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "太湖营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17521,
+ "page_range": "361-362"
+}

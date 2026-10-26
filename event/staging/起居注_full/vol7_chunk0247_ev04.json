@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问松柱是否参与攻取关山营寨，松柱奏称参与攻取关山高强堡营寨，面被箭射透。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "关山",
+  "高强堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24704,
+ "page_range": "505-506"
+}

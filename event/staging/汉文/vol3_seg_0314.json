@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十年",
+ "reign_year": 50,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "广东巡抚施世纶向康熙帝恭请圣安，康熙朱批问询广东武官任职情况及近日海贼情形。",
+ "people": [
+  {
+   "name": "施世纶",
+   "role": "广东巡抚，奏请圣安者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批问询"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，并询问广东兵丁以下武官做官情形及近日海贼情况。",
+ "source_title": "廣東提督施世驃奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "1012",
+ "order_index": 314
+}

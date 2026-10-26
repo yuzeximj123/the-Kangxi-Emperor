@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "十二日乙卯",
+ "event_role": "司法案件",
+ "summary": "兵部议福建提督标下游击郭成龙海澄被擒后弃妻子奔回，拟革职，康熙帝以其未受逆职、弃妻子来归可嘉，着再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭成龙",
+   "role": "福建提督标下游击"
+  }
+ ],
+ "places": [
+  "海澄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15609,
+ "page_range": "355-356"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十五日丙戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸定州属清风店，定州知州韩估麻等、新乐县知县张曾裕等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩估麻",
+   "role": "定州知州"
+  },
+  {
+   "name": "张曾裕",
+   "role": "新乐县知县"
+  }
+ ],
+ "places": [
+  "定州",
+  "清风店",
+  "新乐县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8604,
+ "page_range": "183-184"
+}

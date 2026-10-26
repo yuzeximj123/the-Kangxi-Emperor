@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "二十日癸卯",
+ "event_role": "其他",
+ "summary": "学士倭伦至右卫集众晓谕赏赐之事，议政大臣等传旨宣读本章，诸臣奏颂皇上爱养兵丁之仁。",
+ "people": [
+  {
+   "name": "倭伦",
+   "role": "学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16713,
+ "page_range": "344-345"
+}

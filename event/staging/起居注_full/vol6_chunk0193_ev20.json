@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "初五日壬辰",
+ "event_role": "奏报地方情形",
+ "summary": "陕西巡抚华显题请捐纳米谷于甘州等处交纳，康熙称所奏甚当，命依巡抚所请议奏。",
+ "people": [
+  {
+   "name": "华显",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘州",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19320,
+ "page_range": "396-397"
+}

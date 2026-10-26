@@ -1,0 +1,36 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "十六日庚子",
+ "event_role": "人事任免",
+ "summary": "吏部题补盛京刑部侍郎喀尔图员缺，康熙帝以阿里虎谨慎善官、历俸年久，着升补盛京刑部侍郎。",
+ "people": [
+  {
+   "name": "喀尔图",
+   "role": "盛京刑部侍郎"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "尹泰",
+   "role": "詹事"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "阿里虎",
+   "role": "拟升官员"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15407,
+ "page_range": "343-344"
+}

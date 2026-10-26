@@ -1,0 +1,23 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部覆黑龙江副都统喀忒虎题请米粮，康熙命将乌喇米粮运至默尔根齐齐哈儿预备，并教引水耕种。",
+ "people": [
+  {
+   "name": "喀忒虎",
+   "role": "黑龙江副都统"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "乌喇",
+  "默尔根",
+  "齐齐哈儿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11601,
+ "page_range": "242-243"
+}

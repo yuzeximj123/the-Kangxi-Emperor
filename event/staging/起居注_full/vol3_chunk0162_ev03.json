@@ -1,0 +1,45 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询问吴中乡绅情况，汤斌奏报宋德宜居乡最善、汪琬养病、纪彤读书等乡绅谨慎情形。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  },
+  {
+   "name": "宋德宜",
+   "role": "大学士"
+  },
+  {
+   "name": "汪琬",
+   "role": "乡绅"
+  },
+  {
+   "name": "纪彤",
+   "role": "乡绅"
+  },
+  {
+   "name": "彭珑",
+   "role": "乡绅"
+  },
+  {
+   "name": "彭行先",
+   "role": "乡绅"
+  }
+ ],
+ "places": [
+  "苏州",
+  "吴中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16203,
+ "page_range": "359-360"
+}

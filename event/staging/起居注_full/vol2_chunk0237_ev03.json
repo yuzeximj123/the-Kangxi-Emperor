@@ -1,0 +1,22 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "event_summary": "本日起居注官为倩腊塔、王项龄。",
+ "people": [
+  {
+   "name": "倩腊塔",
+   "role": "起居注官"
+  },
+  {
+   "name": "王项龄",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23703,
+ "page_range": "517-518"
+}

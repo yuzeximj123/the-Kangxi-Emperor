@@ -1,0 +1,40 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "吴达禅传谕侍郎安布禄，命将滚占妻所属恩克交巴当阿等给驿送往阿南达处，转令达尔汉伯克带人招抚滚占之妻。",
+ "people": [
+  {
+   "name": "吴达禅",
+   "role": "一等侍卫副都统"
+  },
+  {
+   "name": "安布禄",
+   "role": "侍郎"
+  },
+  {
+   "name": "恩克",
+   "role": "滚占妻所属之人"
+  },
+  {
+   "name": "巴当阿",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "阿南达",
+   "role": "侍卫"
+  },
+  {
+   "name": "达尔汉伯克",
+   "role": "哈密城首领"
+  }
+ ],
+ "places": [
+  "哈密城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21501,
+ "page_range": "440-441"
+}

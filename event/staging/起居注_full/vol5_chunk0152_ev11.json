@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": "十四日丁丁",
+ "event_role": "河工水利",
+ "summary": "工部覆巡抚沈朝聘题要儿渡泄水堤岸，议令巡抚往勘，康熙帝斥其言大雇侨，令批严旨另议具奏，并召常级传旨训诫。",
+ "people": [
+  {
+   "name": "沈朝聘",
+   "role": "巡抚"
+  },
+  {
+   "name": "常级",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "要儿渡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15211,
+ "page_range": "314-315"
+}

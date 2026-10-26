@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 7,
+ "day_text": "二十二日本卯",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝驻跸青城，翁牛特扎萨克多罗杜棱郡王仓津、巴林崇宪公主来请安进贡。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "仓津",
+   "role": "翁牛特扎萨克多罗杜棱郡王"
+  },
+  {
+   "name": "崇宪公主",
+   "role": "巴林公主"
+  }
+ ],
+ "places": [
+  "青城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3213,
+ "page_range": "75-76"
+}

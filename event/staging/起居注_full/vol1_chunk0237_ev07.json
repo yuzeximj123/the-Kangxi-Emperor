@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十四日癸未",
+ "event_role": "人事任免",
+ "summary": "吏部题补光禄寺卿，康熙帝命以光禄寺少卿宋文运补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "宋文运",
+   "role": "光禄寺少卿，补光禄寺卿"
+  },
+  {
+   "name": "王继桢",
+   "role": "大理寺少卿拟正"
+  },
+  {
+   "name": "张吉午",
+   "role": "左通政拟陪"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23707,
+ "page_range": "531-532"
+}

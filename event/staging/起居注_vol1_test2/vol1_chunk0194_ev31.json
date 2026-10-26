@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "初三日甲子",
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝复御乾清门，赐进贡郭尔罗斯部落辅国公莽色、科尔沁国三等台吉等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "莽色",
+   "role": "郭尔罗斯部落辅国公"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19431,
+ "page_range": "445-446"
+}

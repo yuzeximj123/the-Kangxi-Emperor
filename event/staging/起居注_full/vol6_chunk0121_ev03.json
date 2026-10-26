@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "二十四日戊子",
+ "event_role": "人事任免",
+ "summary": "礼部题副都统喇色之母应照例赐恤，康熙帝以喇色无效力、唯承顺人意，革其职并停其母赐恤。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇色",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12103,
+ "page_range": "252-253"
+}

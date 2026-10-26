@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "二十八日癸卯",
+ "event_role": "司法案件",
+ "summary": "刑部题逆贼谭弘之子谭天伦等九人即行处斩，康熙帝谕令分别身与其事行恶者与无知连累者，详问该部具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "谭弘",
+   "role": "逆贼"
+  },
+  {
+   "name": "谭天伦",
+   "role": "谭弘之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14211,
+ "page_range": "327-328"
+}

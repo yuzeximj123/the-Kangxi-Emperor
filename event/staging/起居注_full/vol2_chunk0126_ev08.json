@@ -1,0 +1,22 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "初八日甲申",
+ "event_role": "人事任免",
+ "summary": "翰林院学士牛钮等题请补修明史总裁缺员，康熙帝令补用陈廷敬，并令开列满汉大学士以下职名具奏。",
+ "people": [
+  {
+   "name": "牛钮",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "补用修明史总裁"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12608,
+ "page_range": "295-296"
+}

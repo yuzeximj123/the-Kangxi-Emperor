@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "十六日壬申",
+ "event_role": "谕旨决策",
+ "summary": "礼部尚书哈占告病乞解任，康熙斥其任陕西总督时迁延不进兵，命严谕留任效力赎罪。",
+ "people": [
+  {
+   "name": "哈占",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12208,
+ "page_range": "279-280"
+}

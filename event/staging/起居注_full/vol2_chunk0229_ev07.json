@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "二汉、托克托、朱二等殴主案，康熙帝以其俱未承认又无证佐。",
+ "people": [
+  {
+   "name": "二汉",
+   "role": "案犯"
+  },
+  {
+   "name": "托克托",
+   "role": "案犯"
+  },
+  {
+   "name": "朱二",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22907,
+ "page_range": "501-502"
+}

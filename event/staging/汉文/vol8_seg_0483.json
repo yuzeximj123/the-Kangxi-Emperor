@@ -1,0 +1,30 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "江西巡抚郎廷极向康熙帝请安，康熙朱批回复自己安好，并指示暂住淮安以后不必再进献广东所出之物。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西",
+  "淮安",
+  "广东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，并命其暂住淮安以后不必再进献广东所出之物。",
+ "source_title": "郎廷极请安",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 483
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "初五日戊子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕学士希福，命其往遵化传谕知州郑侨生细察外鱼池周围地亩踩践及应纳钱粮数目，回日奏报。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "学士"
+  },
+  {
+   "name": "郑侨生",
+   "role": "知州"
+  }
+ ],
+ "places": [
+  "遵化",
+  "外鱼池"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4703,
+ "page_range": "137-138"
+}

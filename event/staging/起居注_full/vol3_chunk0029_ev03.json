@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "二十日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命内务府总管费扬古、起居注官常书传谕原任霸昌道今升贵州按察使黄性震，嘉其居官甚善，特赐蟒袍一袭、缎四匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "内务府总管"
+  },
+  {
+   "name": "常书",
+   "role": "起居注官"
+  },
+  {
+   "name": "黄性震",
+   "role": "贵州按察使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2903,
+ "page_range": "93-94"
+}

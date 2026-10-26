@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部题江西巡抚郎廷极、偏沅巡抚潘宗洛、河南巡抚鹿佑编审五十年人丁数目造册，康熙帝命暂置案间。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "潘宗洛",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "鹿佑",
+   "role": "河南巡抚"
+  }
+ ],
+ "places": [
+  "江西",
+  "偏沅",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20903,
+ "page_range": "429-430"
+}

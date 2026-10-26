@@ -1,0 +1,29 @@
+{
+ "reign_year": 27,
+ "month": 7,
+ "day_text": "二十二日生辰",
+ "event_role": "其他",
+ "summary": "康熙帝率文武诸臣仰射，连发数矢皆过峰顶，侍卫桑格、纳拉善射至其巅，余不能至，遂更峰名为超射峰。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "纳拉善",
+   "role": "二等侍卫"
+  }
+ ],
+ "places": [
+  "超射峰",
+  "纳哈里峰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3608,
+ "page_range": "84-85"
+}

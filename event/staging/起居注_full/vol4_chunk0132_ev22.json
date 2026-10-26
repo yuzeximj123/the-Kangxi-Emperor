@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 10,
+ "day_text": "十六日癸酉",
+ "event_role": "谕旨决策",
+ "summary": "兵部题黑龙江防守御钮莫至等阵亡照例给拖沙喇哈番，康熙帝以其效力甚多命从优给拜他喇布勒哈番。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钮莫至",
+   "role": "黑龙江防守御"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13222,
+ "page_range": "276-277"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命传谕工部即行起造文华殿，称所需费用原不甚多。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "文华殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18203,
+ "page_range": "407-408"
+}

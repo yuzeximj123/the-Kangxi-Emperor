@@ -1,0 +1,32 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮奏请将吴道辅、吴如译二员咨部引见，恭候御试钦点一员补授紫荆关参将，请圣裁批示。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "吴道辅",
+   "role": "拟补紫荆关参将人选"
+  },
+  {
+   "name": "吴如译",
+   "role": "拟补紫荆关参将人选"
+  }
+ ],
+ "places": [
+  "紫荆关"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隶巡抚赵弘燮奏请补授紫荆关参将摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "406",
+ "order_index": 139
+}

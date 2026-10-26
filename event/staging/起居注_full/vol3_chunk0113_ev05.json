@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "三法司议刘普圣家陈天德等四人处决，康熙询问后命四人俱改为秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "刘普圣",
+   "role": "案犯"
+  },
+  {
+   "name": "陈天德",
+   "role": "案犯"
+  },
+  {
+   "name": "查洪宗",
+   "role": "供称者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11305,
+ "page_range": "261-262"
+}

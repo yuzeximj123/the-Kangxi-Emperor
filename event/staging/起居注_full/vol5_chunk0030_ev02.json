@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "因内阁侍读学士员缺，康熙帝询问布泰、常在考试翻译情况后，命布泰补内阁侍读学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "布泰",
+   "role": "拟正侍读学士"
+  },
+  {
+   "name": "常在",
+   "role": "拟陪侍读学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3002,
+ "page_range": "70-71"
+}

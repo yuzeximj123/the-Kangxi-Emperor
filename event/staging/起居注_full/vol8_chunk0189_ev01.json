@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "event_summary": "吏部题请补授吏部侍郎孙柱员缺，列敦拜等职名，康熙命问九卿。",
+ "people": [
+  {
+   "name": "孙柱",
+   "role": "吏部侍郎（员缺）"
+  },
+  {
+   "name": "敦拜",
+   "role": "户部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18901,
+ "page_range": "389-390"
+}

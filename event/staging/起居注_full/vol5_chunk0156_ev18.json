@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "十七日庚午",
+ "event_role": "人事任免",
+ "summary": "古北口总兵官马进良题请守备郝伟以都司用、千总许天德以守备用，康熙准照所题补用。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "郝伟",
+   "role": "守备"
+  },
+  {
+   "name": "许天德",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15618,
+ "page_range": "322-323"
+}

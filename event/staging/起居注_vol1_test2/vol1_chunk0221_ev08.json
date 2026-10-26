@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十二日壬申",
+ "event_role": "谕旨决策",
+ "summary": "直隶巡抚金世德遗疏条奏三款，康熙帝称其善绩甚多，命颁温旨，条奏事宜待回京再请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "希福",
+   "role": "学士"
+  },
+  {
+   "name": "金世德",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22108,
+ "page_range": "499-500"
+}

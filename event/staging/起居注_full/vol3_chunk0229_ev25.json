@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "二十五日壬午",
+ "event_role": "人事任免",
+ "summary": "翰林院侍读学士多奇员缺，拟郎中巴尔哈、胡世塔，康熙帝以巴尔哈庸常学问劣令随旗行走，命将考取官员列名送进。",
+ "people": [
+  {
+   "name": "多奇",
+   "role": "翰林院侍读学士"
+  },
+  {
+   "name": "巴尔哈",
+   "role": "郎中"
+  },
+  {
+   "name": "胡世塔",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22925,
+ "page_range": "493-494"
+}

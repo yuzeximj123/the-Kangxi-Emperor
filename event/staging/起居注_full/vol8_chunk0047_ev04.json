@@ -1,0 +1,37 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题常明钻营脱逃请立斩，康熙改免死枷号鞭责发黑龙江，并处分哈山等官。",
+ "people": [
+  {
+   "name": "常明",
+   "role": "案犯"
+  },
+  {
+   "name": "哈山",
+   "role": "尚书"
+  },
+  {
+   "name": "王企靖",
+   "role": "官员"
+  },
+  {
+   "name": "博音代",
+   "role": "官员"
+  },
+  {
+   "name": "张廷枢",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4704,
+ "page_range": "105-106"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "二十四日己亥",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问西安、甘肃布政使人选，伊桑阿奏为戴通、严泰，帝称严泰居官年久颇优，升授甘肃巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "戴通",
+   "role": "西安布政使"
+  },
+  {
+   "name": "严泰",
+   "role": "甘肃布政使"
+  }
+ ],
+ "places": [
+  "西安",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21205,
+ "page_range": "436-437"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "二十三日甲辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士员缺，康熙帝询问石柱可否，勒德洪等赞同，遂命将石柱补授学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石柱",
+   "role": "侍读学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6202,
+ "page_range": "167-168"
+}

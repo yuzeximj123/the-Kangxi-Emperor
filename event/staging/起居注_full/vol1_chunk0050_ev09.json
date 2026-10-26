@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 8,
+ "day_text": "二十日丁巳",
+ "event_role": "皇帝行止",
+ "summary": "辰时，康熙帝御弘德殿，讲官传达礼、熊赐履、孙在丰进讲《论语》譬如为山章及语之而不惰者章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "传达礼",
+   "role": "讲官"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5009,
+ "page_range": "157-158"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "川陕总督华显请停止甘肃兵丁补给钱粮并增给米石料草，部议不同，康熙命再详察具奏。",
+ "people": [
+  {
+   "name": "华显",
+   "role": "川陕总督"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8503,
+ "page_range": "181-182"
+}

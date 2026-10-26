@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙四十六年十二月初七日",
+ "reign_year": 46,
+ "month": 12,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报太仓州永乐庵有人以红布裹头、竖大明旗号起事，官兵追擒林姓等犯，并报扬州冬雪情形。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "太仓州",
+  "扬州",
+  "永乐庵"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "278",
+ "source_title": "苏州织造李煦奏报太仓州有人起事折",
+ "order_index": 205
+}

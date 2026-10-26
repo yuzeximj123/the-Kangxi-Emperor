@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部堂官奏报某项银两历来如此索取，康熙帝责问仓场总督为何不议及，将原本发还着再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "仓场总督",
+   "role": "被责问官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22700,
+ "page_range": "464-465"
+}

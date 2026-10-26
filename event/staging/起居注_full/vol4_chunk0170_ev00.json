@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "吏部、都察院题参工部郎中石楞吉等下滩护城河各思侵欺入己、估计浮多，请将尚书石柱等各降五级调用。",
+ "people": [
+  {
+   "name": "石楞吉",
+   "role": "工部郎中"
+  },
+  {
+   "name": "石柱",
+   "role": "工部尚书"
+  }
+ ],
+ "places": [
+  "护城河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17000,
+ "page_range": "352-353"
+}

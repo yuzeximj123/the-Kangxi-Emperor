@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "十六日辛巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝顾大学士伊桑阿等，言徐乾学为人亡行、从者亦众，但效力年久已故，命议与品职具奏；又言其学优但不识所读何书、所行何事，王熙等奏赞圣慈。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "徐乾学",
+   "role": "已故官员"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3923,
+ "page_range": "88-89"
+}

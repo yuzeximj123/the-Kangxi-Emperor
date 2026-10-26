@@ -1,0 +1,29 @@
+{
+ "reign_year": 31,
+ "month": 9,
+ "day_text": "初八日甲跨",
+ "event_role": "人事任免",
+ "summary": "兵部题陕西西宁总兵官李芳述员缺请旨；康熙帝命大同总兵官王哪转补西宁总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李芳述",
+   "role": "陕西西宁总兵官"
+  },
+  {
+   "name": "王哪",
+   "role": "大同总兵官"
+  }
+ ],
+ "places": [
+  "陕西西宁",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20609,
+ "page_range": "424-425"
+}

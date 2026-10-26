@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十五日庚午",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门视朝，文武升转官员谢恩，进贡喀尔喀部落查汗依特格尔图、扎木巴喇等行礼赐茶。",
+ "people": [
+  {
+   "name": "查汗依特格尔图",
+   "role": "喀尔喀部落进贡使"
+  },
+  {
+   "name": "扎木巴喇",
+   "role": "喀尔喀部落进贡使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1515,
+ "page_range": "73-74"
+}

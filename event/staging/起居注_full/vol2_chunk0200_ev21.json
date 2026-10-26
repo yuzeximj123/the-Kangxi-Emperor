@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十一日壬午",
+ "event_role": "人事任免",
+ "summary": "吏部题户部尚书伊桑阿调补员缺开列希福等职名，康熙帝以杭爱记事明敏、办事颇优，命调补户部尚书。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "希福",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "杭爱",
+   "role": "官员"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20021,
+ "page_range": "443-444"
+}

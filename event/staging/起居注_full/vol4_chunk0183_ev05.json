@@ -1,0 +1,32 @@
+{
+ "reign_year": 31,
+ "month": 1,
+ "day_text": "二十九日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题将同知陈良席等革职，王新命等调至省城，巡抚佛伦严加质审，河道事务暂交总漕董讷料理。",
+ "people": [
+  {
+   "name": "陈良席",
+   "role": "同知"
+  },
+  {
+   "name": "王新命",
+   "role": "调省城者"
+  },
+  {
+   "name": "佛伦",
+   "role": "巡抚"
+  },
+  {
+   "name": "董讷",
+   "role": "总漕"
+  }
+ ],
+ "places": [
+  "省城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18305,
+ "page_range": "378-379"
+}

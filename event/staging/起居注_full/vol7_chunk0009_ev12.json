@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初六日丁亥",
+ "event_role": "人事任免",
+ "summary": "九卿保举原任按察使李基和、赵世显补贵州按察使，康熙以李基和人颇优命补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李基和",
+   "role": "原任按察使"
+  },
+  {
+   "name": "赵世显",
+   "role": "原任按察使"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 912,
+ "page_range": "29-30"
+}

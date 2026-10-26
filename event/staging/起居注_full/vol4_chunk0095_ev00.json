@@ -1,0 +1,20 @@
+{
+ "reign_year": 28,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "礼部题报贵州提督做袭历病故请赐恤，康熙以其任提督以来并无效力，不准给恤典。",
+ "people": [
+  {
+   "name": "做袭历",
+   "role": "贵州提督"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9500,
+ "page_range": "202-203"
+}

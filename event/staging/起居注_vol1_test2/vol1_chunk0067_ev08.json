@@ -1,0 +1,24 @@
+{
+ "reign_year": 13,
+ "month": 2,
+ "day_text": "十九日癸丑",
+ "event_role": "人事任免",
+ "summary": "宁古塔副都统安朱社因丁母忧服满赴任，康熙帝念其镇守边陲，特赐鞍马等物。",
+ "people": [
+  {
+   "name": "安朱社",
+   "role": "宁古塔副都统"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6708,
+ "page_range": "191-192"
+}

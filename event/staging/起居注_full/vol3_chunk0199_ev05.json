@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "十六日丙申",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问太常少卿升任来源，命工部郎中阿喇密调补太常寺少卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "阿喇密",
+   "role": "工部郎中"
+  },
+  {
+   "name": "舒恕",
+   "role": "原任少卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19905,
+ "page_range": "433-434"
+}

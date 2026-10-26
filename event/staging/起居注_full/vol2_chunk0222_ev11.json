@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初七日乙亥",
+ "event_role": "谕旨决策",
+ "summary": "郎中常保等奉命往广东察审尚之信家产欺隐案，康熙帝谕令从公核审，勿徇情面株连。",
+ "people": [
+  {
+   "name": "常保",
+   "role": "郎中"
+  },
+  {
+   "name": "尚之信",
+   "role": "已故逆臣"
+  },
+  {
+   "name": "金俊",
+   "role": "原总理"
+  },
+  {
+   "name": "宣昌阿",
+   "role": "原总理"
+  },
+  {
+   "name": "禅塔海",
+   "role": "原察审官"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22211,
+ "page_range": "487-488"
+}

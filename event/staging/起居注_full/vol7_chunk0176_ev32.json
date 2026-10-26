@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": "二十五日癸未",
+ "event_role": "人事任免",
+ "summary": "九卿奏陕西学道朱轼居官好，康熙帝命朱轼带所降之级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱轼",
+   "role": "陕西学道"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17632,
+ "page_range": "363-364"
+}

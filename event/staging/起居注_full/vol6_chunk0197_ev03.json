@@ -1,0 +1,27 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝论张鹏翮议覆考试及所奏事微有失，并忧虑洪泽湖水位上涨、高家堰堤防安危，称前已有谕旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "洪泽湖",
+  "高家堰",
+  "唐梗六堤",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19703,
+ "page_range": "404-405"
+}

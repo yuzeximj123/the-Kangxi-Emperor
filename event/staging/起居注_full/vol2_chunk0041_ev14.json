@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "二十六日庚成",
+ "event_role": "军务",
+ "summary": "兵部议署参领门德器送马一千五百余匹死伤七百有余事，康熙帝以其违误军需，令即于军前锁拿，俟大兵回日严加议处。",
+ "people": [
+  {
+   "name": "门德器",
+   "role": "署参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "成都",
+  "徐府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4114,
+ "page_range": "125-126"
+}

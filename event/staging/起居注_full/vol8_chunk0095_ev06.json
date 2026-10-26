@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "石匣营副将赵琨、游击吴洪音等来朝。",
+ "people": [
+  {
+   "name": "赵琨",
+   "role": "石匣营副将"
+  },
+  {
+   "name": "吴洪音",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "石匣营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9506,
+ "page_range": "201-202"
+}

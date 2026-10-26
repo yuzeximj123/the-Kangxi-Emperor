@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "二十二日丙午",
+ "event_role": "人事任免",
+ "summary": "大学士马齐奏陈厚耀补授论德兼修扎已查定例，康熙帝谕令陈厚耀仍兼修撰。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "陈厚耀",
+   "role": "论德兼修撰"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19009,
+ "page_range": "391-392"
+}

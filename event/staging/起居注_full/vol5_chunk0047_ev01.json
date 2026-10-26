@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "江南提督员缺紧要，康熙帝提及蓟州总兵官张旺原系南昌总兵，因总督傅腊塔奏其善而调补，命问九卿举荐材力壮健者。",
+ "people": [
+  {
+   "name": "张旺",
+   "role": "蓟州总兵官"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "蓟州",
+  "南昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4701,
+ "page_range": "104-105"
+}

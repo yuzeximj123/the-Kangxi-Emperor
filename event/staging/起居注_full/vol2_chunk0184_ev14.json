@@ -1,0 +1,37 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初五日丁丑",
+ "event_role": "其他",
+ "summary": "讲毕，康熙帝命诸讲臣观御书颁赐安南国王黎惟祯“忠孝守邦”四大字，讲官覆旨称颂。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黎惟祯",
+   "role": "安南国王"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "学士"
+  },
+  {
+   "name": "孙在丰",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "起居注馆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18414,
+ "page_range": "411-412"
+}

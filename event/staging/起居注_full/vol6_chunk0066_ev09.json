@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初二日壬寅",
+ "event_role": "弹劾参奏",
+ "summary": "监察御史徐就条奏京城捕盗懈弛请严加缉捕，康熙帝称提督凯音布近来懈弛，命其回奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐就",
+   "role": "监察御史"
+  },
+  {
+   "name": "凯音布",
+   "role": "提督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6609,
+ "page_range": "142-143"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝谕大学士，学士徐乾学、张英学问淹通，留办理文章事务，以后开列巡抚不必列名。",
+ "people": [
+  {
+   "name": "徐乾学",
+   "role": "学士"
+  },
+  {
+   "name": "张英",
+   "role": "学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "前例留用者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16301,
+ "page_range": "361-362"
+}

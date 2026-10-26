@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "二十五日丁卯",
+ "event_role": "司法案件",
+ "summary": "议伪将军线绒等革职编入包衣佐领，康熙帝以其首先商议投献云南城地，命给职衔随旗上朝，同来官兵戍边镇守，着再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "线绒",
+   "role": "伪将军"
+  },
+  {
+   "name": "何进忠",
+   "role": "伪将军"
+  },
+  {
+   "name": "吴国柱",
+   "role": "伪将军"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16912,
+ "page_range": "381-382"
+}

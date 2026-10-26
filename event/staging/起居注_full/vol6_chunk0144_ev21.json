@@ -1,0 +1,40 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": "十四日本未",
+ "event_role": "河工水利",
+ "summary": "总河张鹏翮奏请训旨并请撤回河工效力人员、请原任总督王新命同往，康熙论河务并令效力官员撤回。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "王新命",
+   "role": "原任总督"
+  },
+  {
+   "name": "靳辅",
+   "role": "前总河"
+  },
+  {
+   "name": "于成龙",
+   "role": "河臣"
+  },
+  {
+   "name": "曹安国",
+   "role": "河臣"
+  }
+ ],
+ "places": [
+  "清河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14421,
+ "page_range": "298-299"
+}

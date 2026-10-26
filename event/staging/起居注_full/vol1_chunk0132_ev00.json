@@ -1,0 +1,24 @@
+{
+ "reign_year": 16,
+ "month": 3,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝御保和殿，赐湖广总兵官万正色食，并赐鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "万正色",
+   "role": "湖广总兵官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13200,
+ "page_range": "321-322"
+}

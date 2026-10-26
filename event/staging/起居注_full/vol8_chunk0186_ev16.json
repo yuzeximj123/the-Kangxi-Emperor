@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "十一日乙未",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝问张伯行社仓之事，张伯行奏永平知府现在办理，康熙帝言此事断不能行，并问其任巡抚时祈雨之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "永平知府",
+   "role": "知府"
+  }
+ ],
+ "places": [
+  "永平"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18616,
+ "page_range": "383-384"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "初二日丁酉",
+ "event_role": "请安谢恩",
+ "summary": "喀喇沁多罗杜棱郡王塞棱、多罗额驸门都、二品他布囊旦巴、都统备克来请安。",
+ "people": [
+  {
+   "name": "塞棱",
+   "role": "喀喇沁多罗杜棱郡王"
+  },
+  {
+   "name": "门都",
+   "role": "多罗额驸"
+  },
+  {
+   "name": "旦巴",
+   "role": "二品他布囊"
+  },
+  {
+   "name": "备克",
+   "role": "都统"
+  }
+ ],
+ "places": [
+  "喀喇沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9510,
+ "page_range": "201-202"
+}

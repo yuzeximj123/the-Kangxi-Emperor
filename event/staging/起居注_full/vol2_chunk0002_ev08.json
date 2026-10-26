@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初十日丙寅",
+ "event_role": "军务",
+ "summary": "康熙帝谕帅颜保回驻淮安事，命兵部题本票依议，并将尚之信已过江西、帅颜保方回淮安之论口传兵部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "帅颜保",
+   "role": "总漕"
+  },
+  {
+   "name": "尚之信",
+   "role": "藩王"
+  }
+ ],
+ "places": [
+  "淮安",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 208,
+ "page_range": "47-48"
+}

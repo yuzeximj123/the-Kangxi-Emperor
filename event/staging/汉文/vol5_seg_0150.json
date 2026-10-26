@@ -1,0 +1,43 @@
+{
+ "date_raw": "康熙伍拾叁年正月拾壹日",
+ "reign_year": 53,
+ "month": 1,
+ "day": 11,
+ "event_role": "请安谢恩",
+ "summary": "忠介王司等奏报赏赐汉凤营兵丁及受赐珍品，并叩谢皇恩，具折恭谢高厚洪恩。",
+ "people": [
+  {
+   "name": "忠介王司",
+   "role": "敕差奏事官员"
+  },
+  {
+   "name": "世昌",
+   "role": "总兵官"
+  },
+  {
+   "name": "蔡升元",
+   "role": "钦差内阁学士"
+  },
+  {
+   "name": "巴",
+   "role": "提督"
+  },
+  {
+   "name": "马升",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "滇中",
+  "安等寨",
+  "汉凤营",
+  "兴汉镇"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "忠介王司",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 150
+}

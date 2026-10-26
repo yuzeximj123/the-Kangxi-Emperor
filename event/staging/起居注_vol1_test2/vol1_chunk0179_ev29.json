@@ -1,0 +1,21 @@
+{
+ "reign_year": 18,
+ "month": 4,
+ "day_text": "二十九日甲子",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝御中和殿，视部太庙祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17929,
+ "page_range": "415-416"
+}

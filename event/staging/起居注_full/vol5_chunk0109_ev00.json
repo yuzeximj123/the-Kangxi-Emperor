@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "臣等奏报张家口、宣化镇等兵丁堪用情形及护送炮位兵安排，请令总兵官白斌率兵前往察罕诺尔候旨，康熙帝谕知道了。",
+ "people": [
+  {
+   "name": "白斌",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "张家口",
+  "宣化",
+  "察罕诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10900,
+ "page_range": "228-229"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": "十六日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题翰林院掌院学士张英、侍读学士德格勒议革职降级，康熙帝命张英从宽免革职、德格勒免调用，俱降五级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张英",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "德格勒",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19212,
+ "page_range": "419-420"
+}

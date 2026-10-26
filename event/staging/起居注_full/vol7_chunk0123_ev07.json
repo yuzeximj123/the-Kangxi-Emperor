@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "三十日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝训谕师懿德以赵良栋为法，戒骄傲以免误事，师懿德奏记圣训遵行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "师懿德",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "赵良栋",
+   "role": "前天津总兵"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12307,
+ "page_range": "257-258"
+}

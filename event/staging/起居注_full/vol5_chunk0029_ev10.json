@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": "十五日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部题两江总督倩腊塔员缺，开列吏部侍郎布颜图等，康熙帝以两江总督紧要，命问九卿保举深知之人。",
+ "people": [
+  {
+   "name": "倩腊塔",
+   "role": "两江总督"
+  },
+  {
+   "name": "布颜图",
+   "role": "吏部侍郎"
+  }
+ ],
+ "places": [
+  "两江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2910,
+ "page_range": "68-69"
+}

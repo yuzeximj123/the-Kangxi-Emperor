@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "二十九日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕近日或有人欲专权用事，凡事宜满汉合一折衷办理，率由旧章，并斥赵申乔不遵成宪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9712,
+ "page_range": "205-206"
+}

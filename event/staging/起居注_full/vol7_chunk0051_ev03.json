@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "初五日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕总河张鹏翮，令将祥葆闸下板堵闭草坝，酌量开放五堡闸以助清水之势。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "祥葆闸",
+  "草坝",
+  "五堡闸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5103,
+ "page_range": "113-114"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "明珠等奏御史吴震方陈救荒良策请减捐米加级额，九卿议不准；又议督抚报灾免踏勘事，康熙帝谕备荒在积储得良有司。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴震方",
+   "role": "御史"
+  },
+  {
+   "name": "黄斐",
+   "role": "御史"
+  },
+  {
+   "name": "科尔坤",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17203,
+ "page_range": "379-380"
+}

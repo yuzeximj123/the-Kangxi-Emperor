@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十七年閏三月十五日",
+ "reign_year": 47,
+ "month": null,
+ "day": null,
+ "event_role": "军务",
+ "summary": "湖广提督俞益谟奏陈湖南红苗叛服无常，主张以剿为抚、乘冬进兵勒令归诚并设州县。",
+ "people": [
+  {
+   "name": "俞益谟",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "湖广",
+  "湖南",
+  "广东",
+  "荆州",
+  "广西",
+  "贵州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "325",
+ "source_title": "湖广提督俞益谟奏陈所属苗民情况及抚剿之法摺",
+ "order_index": 237
+}

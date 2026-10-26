@@ -1,0 +1,34 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命陈廷敬等传阅三卷公定等第，陈廷敬等拟熊赐瓒第一、徐元梦次之、德格勒不成诗文；帝命封固试卷，待次日集未考翰林公同阅看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大臣"
+  },
+  {
+   "name": "汤斌",
+   "role": "大臣"
+  },
+  {
+   "name": "徐乾学",
+   "role": "大臣"
+  },
+  {
+   "name": "库勒纳",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22701,
+ "page_range": "489-490"
+}

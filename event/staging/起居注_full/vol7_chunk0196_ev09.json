@@ -1,0 +1,68 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "十六日辛丑",
+ "event_role": "议政听政",
+ "summary": "早，康熙御乾清宫，大学士温达等以折本请旨。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "妾永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "王思轼",
+   "role": "学士"
+  },
+  {
+   "name": "彭始持",
+   "role": "学士"
+  },
+  {
+   "name": "萨尔泰",
+   "role": "学士"
+  },
+  {
+   "name": "宗圣保",
+   "role": "学士"
+  },
+  {
+   "name": "邹士事",
+   "role": "学士"
+  },
+  {
+   "name": "巴格",
+   "role": "学士"
+  },
+  {
+   "name": "凌绍和要",
+   "role": "学士"
+  },
+  {
+   "name": "马良",
+   "role": "学士"
+  },
+  {
+   "name": "二郎保",
+   "role": "学士"
+  },
+  {
+   "name": "傅尔",
+   "role": "学士"
+  },
+  {
+   "name": "虎讷",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19609,
+ "page_range": "403-404"
+}

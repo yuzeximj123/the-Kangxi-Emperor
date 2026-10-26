@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "二十一日",
+ "event_role": "河工水利",
+ "summary": "康熙帝问去年黄河水势及兴工修筑能否完工，于成龙称六月内断难完工；康熙帝论海水潮汐乃常事，海口为黄河入海之路，所当下浚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "海口",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 312,
+ "page_range": "16-17"
+}

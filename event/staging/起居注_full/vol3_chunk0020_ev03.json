@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十三日成申",
+ "event_role": "司法案件",
+ "summary": "刑部题城门尉伯尔黑等疏纵宜昌阿家人札哈里等上城，应革职定罪，康熙帝命议政王大臣等严议。",
+ "people": [
+  {
+   "name": "伯尔黑",
+   "role": "城门尉"
+  },
+  {
+   "name": "宜昌阿",
+   "role": "原任侍郎"
+  },
+  {
+   "name": "札哈里",
+   "role": "家人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2003,
+ "page_range": "75-76"
+}

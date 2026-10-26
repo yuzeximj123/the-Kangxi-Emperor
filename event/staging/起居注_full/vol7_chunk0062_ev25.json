@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "二十八日壬申",
+ "event_role": "其他",
+ "summary": "康熙帝传谕侍讲满保、检讨海宝取书观览，并赐御制诗扇各一柄，谕以读书作诗之法。",
+ "people": [
+  {
+   "name": "满保",
+   "role": "侍讲"
+  },
+  {
+   "name": "海宝",
+   "role": "检讨"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6225,
+ "page_range": "135-136"
+}

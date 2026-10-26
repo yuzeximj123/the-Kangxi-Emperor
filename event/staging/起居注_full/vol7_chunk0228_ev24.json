@@ -1,0 +1,56 @@
+{
+ "reign_year": 51,
+ "month": 8,
+ "day_text": "十三日甲子",
+ "event_role": "司法案件",
+ "summary": "大学士温达等以折本请旨，覆请刑部等衙门覆山西巡抚苏克济所题张积殴死张慎一案。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "众圣保",
+   "role": "学士"
+  },
+  {
+   "name": "马良",
+   "role": "学士"
+  },
+  {
+   "name": "傅尔",
+   "role": "学士"
+  },
+  {
+   "name": "胡讷",
+   "role": "学士"
+  },
+  {
+   "name": "马进泰",
+   "role": "学士"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "张积",
+   "role": "案犯"
+  },
+  {
+   "name": "张慎",
+   "role": "死者"
+  },
+  {
+   "name": "侠氏",
+   "role": "张积之母"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22824,
+ "page_range": "467-468"
+}

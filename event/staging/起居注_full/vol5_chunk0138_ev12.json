@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十二日丁丑",
+ "event_role": "人事任免",
+ "summary": "索额图、伊桑阿等为遣往呼户诺尔事奏请侍读学士喇锡何日遣往并请训旨。",
+ "people": [
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "喇锡",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [
+  "呼户诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13812,
+ "page_range": "286-287"
+}

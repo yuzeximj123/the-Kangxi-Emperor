@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初六日丁亥",
+ "event_role": "谕旨决策",
+ "summary": "云南巡抚伊尽病笃遗下事，康熙以其简任巡抚病故可悯，命察例具奏应得恩恤。",
+ "people": [
+  {
+   "name": "伊尽",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5910,
+ "page_range": "161-162"
+}

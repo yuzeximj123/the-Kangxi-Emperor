@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 5,
+ "day_text": "二十一日庚午",
+ "event_role": "人事任免",
+ "summary": "吏部题督捕主事张廷柱乞改名富通阿，康熙帝以其父张德第庸懦且系家仆，命改张廷柱之名随旗行走。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张廷柱",
+   "role": "督捕主事"
+  },
+  {
+   "name": "张德第",
+   "role": "四川巡抚"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19808,
+ "page_range": "408-409"
+}

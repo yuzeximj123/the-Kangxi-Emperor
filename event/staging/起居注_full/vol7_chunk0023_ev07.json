@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "二十九日己酉",
+ "event_role": "其他",
+ "summary": "康熙帝赐随从侍读学士拉都浑、卿沙拜、少卿格尔俘郭里、监察御史黑硕色御书诗字各一。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "拉都浑",
+   "role": "侍读学士"
+  },
+  {
+   "name": "沙拜",
+   "role": "卿"
+  },
+  {
+   "name": "格尔俘郭里",
+   "role": "少卿"
+  },
+  {
+   "name": "黑硕色",
+   "role": "监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2307,
+ "page_range": "57-58"
+}

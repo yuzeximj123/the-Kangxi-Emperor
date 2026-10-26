@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "三十日庚成",
+ "event_role": "谕旨决策",
+ "summary": "两江总督常薄题私盐不能禁戢皆由地方官不查拿，议分别失察次数降级革职，康熙论私盐不重处不能禁。",
+ "people": [
+  {
+   "name": "常薄",
+   "role": "两江总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21818,
+ "page_range": "447-448"
+}

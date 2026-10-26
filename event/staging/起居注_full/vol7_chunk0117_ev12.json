@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": "二十八日甲实",
+ "event_role": "司法案件",
+ "summary": "刑部为强盗林有梅等行劫江宁城内居民管明家拟立斩示众，康熙帝令查江宁城内失事有无议处例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "林有梅",
+   "role": "强盗"
+  },
+  {
+   "name": "管明",
+   "role": "居民"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11712,
+ "page_range": "245-246"
+}

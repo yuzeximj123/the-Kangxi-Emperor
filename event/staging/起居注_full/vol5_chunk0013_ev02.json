@@ -1,0 +1,46 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝拆弥封拟定名次，询问胡任与、顾图河、顾悦履等人情况。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡任与",
+   "role": "贡士"
+  },
+  {
+   "name": "顾图河",
+   "role": "贡士"
+  },
+  {
+   "name": "顾悦履",
+   "role": "贡士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  },
+  {
+   "name": "李楠",
+   "role": "学士"
+  },
+  {
+   "name": "陈元龙",
+   "role": "记注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1302,
+ "page_range": "36-37"
+}

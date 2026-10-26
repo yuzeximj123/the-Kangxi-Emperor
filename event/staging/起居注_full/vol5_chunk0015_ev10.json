@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "初四日辛未",
+ "event_role": "人事任免",
+ "summary": "吏部题云贵总督范承勋员缺开列布颜图等，康熙帝谕云南紧要，须选人材优、家道充裕之旗员补授，令九卿举出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "云贵总督"
+  },
+  {
+   "name": "布颜图",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "李之芳",
+   "role": "前总督"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1510,
+ "page_range": "40-41"
+}

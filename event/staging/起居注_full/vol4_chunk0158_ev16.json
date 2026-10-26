@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "二十二日乙刻",
+ "event_role": "皇帝行止",
+ "summary": "早，康熙帝出边外，由神武门出安定门，驻跸汤山温泉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "神武门",
+  "安定门",
+  "汤山温泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15816,
+ "page_range": "328-329"
+}

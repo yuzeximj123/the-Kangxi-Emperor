@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初五日己丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听部院各衙门面奏政事，吏部尚书黄机、左都御史折尔肯等奏议革翰林院侍讲李来泰等十一人职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄机",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "折尔肯",
+   "role": "左都御史"
+  },
+  {
+   "name": "李来泰",
+   "role": "翰林院侍讲"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3607,
+ "page_range": "115-116"
+}

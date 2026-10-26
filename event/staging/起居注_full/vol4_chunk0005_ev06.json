@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "二十二日丙申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自大行太皇太后殡宫由朝阳门进东华门，回乾清门内偏殿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝阳门",
+  "东华门",
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 506,
+ "page_range": "22-23"
+}

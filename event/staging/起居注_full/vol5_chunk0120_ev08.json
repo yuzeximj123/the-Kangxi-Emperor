@@ -1,0 +1,23 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "初九日",
+ "event_role": "奏报地方情形",
+ "summary": "运米侍郎王国昌等报称自太原运米，因山路险峻、水草稀少、大雨倒毙牲口甚多，难以运至。",
+ "people": [
+  {
+   "name": "王国昌",
+   "role": "运米侍郎"
+  }
+ ],
+ "places": [
+  "太原府",
+  "雁门关",
+  "湖滩河",
+  "喀伦海柳图"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12008,
+ "page_range": "250-251"
+}

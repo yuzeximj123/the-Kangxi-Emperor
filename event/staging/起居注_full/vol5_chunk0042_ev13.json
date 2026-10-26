@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十八日癸巳",
+ "event_role": "司法案件",
+ "summary": "秋审江南情真缓决可矜三案，康熙帝以人命重大命依议完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马尚",
+   "role": "案犯"
+  },
+  {
+   "name": "陈大容",
+   "role": "案犯"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4213,
+ "page_range": "94-95"
+}

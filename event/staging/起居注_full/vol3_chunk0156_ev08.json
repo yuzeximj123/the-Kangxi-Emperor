@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十四日成申",
+ "event_role": "司法案件",
+ "summary": "镇守天津等处总兵官刘国轩题参中南仓监督桑格唤令衙役家人打死营兵，康熙帝命吏刑二部、都察院会同严察确审具奏。",
+ "people": [
+  {
+   "name": "刘国轩",
+   "role": "镇守天津等处总兵官"
+  },
+  {
+   "name": "桑格",
+   "role": "中南仓监督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15608,
+ "page_range": "347-348"
+}

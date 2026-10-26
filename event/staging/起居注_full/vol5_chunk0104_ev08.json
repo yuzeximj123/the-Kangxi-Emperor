@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "初十日丙寅",
+ "event_role": "朝见受贺",
+ "summary": "管理独石口路驿站员外郎沙浑等、独石路参将罗美才来朝。",
+ "people": [
+  {
+   "name": "沙浑",
+   "role": "管理独石口路驿站员外郎"
+  },
+  {
+   "name": "罗美才",
+   "role": "独石路参将"
+  }
+ ],
+ "places": [
+  "独石口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10408,
+ "page_range": "218-219"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "二十四日王申",
+ "event_role": "谕旨决策",
+ "summary": "礼科给事中章振坦条奏州县余剩钱粮应查入正额，康熙帝令大学士直陈，张玉书、吴珊奏对后康熙帝称所奏无益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章振坦",
+   "role": "礼科给事中"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "吴珊",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3213,
+ "page_range": "75-76"
+}

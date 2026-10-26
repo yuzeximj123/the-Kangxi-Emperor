@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "十四日己巳",
+ "event_role": "司法案件",
+ "summary": "刑部审胡喇代等首告其主礼部尚书席尔达以桃木书皇上及皇太子年庚八字埋地等事，康熙帝以事皆虚，命议胡喇代等反坐之罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡喇代",
+   "role": "首告人"
+  },
+  {
+   "name": "席尔达",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12019,
+ "page_range": "251-252"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕公福善、侍卫海青、纳拉善，规定龙口地方禁止车马行人，俱令从石门来往，并定皇太后、妃巡陵修路筑桥及回銮后禁止御路拆桥为例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "福善",
+   "role": "公"
+  },
+  {
+   "name": "海青",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "纳拉善",
+   "role": "亲近侍卫"
+  }
+ ],
+ "places": [
+  "龙口",
+  "石门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15102,
+ "page_range": "312-313"
+}

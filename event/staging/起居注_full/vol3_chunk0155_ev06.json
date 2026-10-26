@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十日甲辰",
+ "event_role": "人事任免",
+ "summary": "吏部题翰林院侍讲王项龄丁忧员缺，以赞善王尹方升补，明珠等奏王尹方办事勤、学问人品优，帝命升补侍讲。",
+ "people": [
+  {
+   "name": "王项龄",
+   "role": "翰林院侍讲"
+  },
+  {
+   "name": "王尹方",
+   "role": "赞善"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "常书",
+   "role": "学士"
+  },
+  {
+   "name": "张英",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15506,
+ "page_range": "345-346"
+}

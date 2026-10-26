@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": "初一日王寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士伊桑阿，因路程颇远，平常事令皇太子听理，紧要事务五日一次递送。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5013,
+ "page_range": "110-111"
+}

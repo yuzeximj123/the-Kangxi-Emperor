@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部汇题步军统领拿送镶黄旗哈代佐领下索柱家人纪二杀死与妻通奸之刘姓一案，康熙帝令问明其妻入官之议具奏。",
+ "people": [
+  {
+   "name": "纪二",
+   "role": "索柱家奴、案犯"
+  },
+  {
+   "name": "二姐",
+   "role": "纪二之妻"
+  },
+  {
+   "name": "索柱",
+   "role": "镶黄旗佐领"
+  },
+  {
+   "name": "哈代",
+   "role": "佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19002,
+ "page_range": "391-392"
+}

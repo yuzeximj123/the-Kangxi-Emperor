@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝前往巩华城，途经西山之末，遣内大臣吴默讷携酒祭奠配享太庙昭勋公图赖墓。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴默讷",
+   "role": "内大臣"
+  },
+  {
+   "name": "图赖",
+   "role": "昭勋公"
+  }
+ ],
+ "places": [
+  "巩华城",
+  "西山",
+  "神山头"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21703,
+ "page_range": "491-492"
+}

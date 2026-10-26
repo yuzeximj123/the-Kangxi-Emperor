@@ -1,0 +1,37 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "初九日乙已",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御保和殿举行经筵大典，讲官进讲四书、书经，讲毕赐宴太和门前。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "阿哈达",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 607,
+ "page_range": "47-48"
+}

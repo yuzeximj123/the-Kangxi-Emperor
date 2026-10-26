@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十五年三月初二日",
+ "reign_year": 55,
+ "month": 3,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "直隶总督赵弘燮奏报保定郡城于三月初一日降雪，清苑县查报积雪二寸余，并称各属待报到后另行续奏。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督，奏报人"
+  },
+  {
+   "name": "曹寅",
+   "role": "巡视两淮盐政监察御史，封奏人"
+  }
+ ],
+ "places": [
+  "保定郡城",
+  "清苑县",
+  "畿辅"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“闻。知道了”，表示已知悉此事。",
+ "source_title": "直隸總督趙弘燮奏報保定郡城得雪摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "2031",
+ "order_index": 283
+}

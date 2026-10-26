@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "户部议覆御史洪之杰条陈赈饥事宜俱不准行，康熙帝命九卿等速议饥民赈恤回籍之事。",
+ "people": [
+  {
+   "name": "洪之杰",
+   "role": "御史"
+  },
+  {
+   "name": "张鹏",
+   "role": "给事中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23103,
+ "page_range": "519-520"
+}

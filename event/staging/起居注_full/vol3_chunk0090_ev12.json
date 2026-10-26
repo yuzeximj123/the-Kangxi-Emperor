@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "二十二日辛刻",
+ "event_role": "河工水利",
+ "summary": "户部覆御史李时谦题河东盐池开滩减水应设分司官一员不准行，康熙帝改令设分司官一员如李时谦所奏行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李时谦",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "河东",
+  "盐池"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9012,
+ "page_range": "215-216"
+}

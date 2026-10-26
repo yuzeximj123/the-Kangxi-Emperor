@@ -1,0 +1,32 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": "二十四日癸酉",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等奏九卿评议冯溥，康熙帝评论杜立德、冯溥并命传谕九卿。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19008,
+ "page_range": "392-393"
+}

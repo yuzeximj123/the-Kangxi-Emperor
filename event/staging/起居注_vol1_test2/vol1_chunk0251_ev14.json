@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十日丁丑",
+ "event_role": "军务",
+ "summary": "湖南巡抚韩世琦题沅州大兵草料请停给本色改折银，户部议令将军、贝子会同酌议，康熙帝命大将军、贝子会同督抚确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩世琦",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "沅州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25114,
+ "page_range": "559-560"
+}

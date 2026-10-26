@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 6,
+ "day_text": "初七日甲寅",
+ "event_role": "奏报灾情收成",
+ "summary": "差往西安等处赈济的工部尚书沙木哈等回奏，西安等处连年歉收致百姓饥荒，遵旨赈济后百姓欢欣，年老之人称一岁三次赈济前所未见。",
+ "people": [
+  {
+   "name": "沙木哈",
+   "role": "工部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20121,
+ "page_range": "414-415"
+}

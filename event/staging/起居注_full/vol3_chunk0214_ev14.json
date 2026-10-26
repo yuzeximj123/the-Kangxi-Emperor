@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十九日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士、副都御史员缺，明珠奏九卿难保举操守，康熙令问九卿并选才长清廉者具奏。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "布喀",
+   "role": "布政使"
+  },
+  {
+   "name": "色冷格",
+   "role": "布政使"
+  },
+  {
+   "name": "邬黑",
+   "role": "郎中"
+  },
+  {
+   "name": "堪布",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21414,
+ "page_range": "463-464"
+}

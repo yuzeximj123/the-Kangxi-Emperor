@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十二年",
+ "reign_year": 52,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "大学士李光地奏谢皇上遣医赐药调理，报告病情已恢复七分、饮食渐常，但因坠伤肩背拘挛未能入直办事，并请于皇上回銮时跪迎。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，奏折作者，患病受赐医药者"
+  },
+  {
+   "name": "皇上",
+   "role": "康熙帝，遣医赐药并朱批谕示者"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝嘱李光地年纪已高、行宫距此百里，切勿前来迎驾以免劳苦复发，并询问两种鱼南方有无、若认得便奏闻。",
+ "source_title": "大學士李光地奏請遣醫賜藥及現在病情摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1497",
+ "order_index": 132
+}

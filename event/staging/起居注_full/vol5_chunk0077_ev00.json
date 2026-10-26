@@ -1,0 +1,42 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补右翼步军总尉员缺，康熙帝认为此职紧要，命待回京后再启奏选补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凯音布",
+   "role": "步军统领"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "西式库",
+   "role": "正黄旗步军尉"
+  },
+  {
+   "name": "雅图",
+   "role": "步军总尉人选"
+  },
+  {
+   "name": "安泰",
+   "role": "步军总尉人选"
+  },
+  {
+   "name": "穆成格",
+   "role": "左翼步军尉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7700,
+ "page_range": "164-165"
+}

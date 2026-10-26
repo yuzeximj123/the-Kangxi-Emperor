@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "偏沅巡抚潘宗洛题张子忠殴死陈子文请准可矜减等，康熙不准，命监候秋后处决并察议潘宗洛。",
+ "people": [
+  {
+   "name": "潘宗洛",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "张子忠",
+   "role": "案犯"
+  },
+  {
+   "name": "陈子文",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "偏沅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19210,
+ "page_range": "395-396"
+}

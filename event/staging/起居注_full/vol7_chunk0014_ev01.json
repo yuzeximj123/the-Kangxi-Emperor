@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "九卿拟将绥色等革职，康熙帝认为审理不公，指出笔帖式为首恶、绥色次之、徐秉义系牵连，命传徐秉义以旨询问并令其写明始末陈奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "绥色",
+   "role": "被审官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "徐秉义",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "山西",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1401,
+ "page_range": "39-40"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十八日甲辰",
+ "event_role": "军务",
+ "summary": "兵部议湖广提督桑格题报逃兵数目以多报少应革职戴罪立功，康熙帝令与总兵官姚珀事迹一并审明具奏。",
+ "people": [
+  {
+   "name": "桑格",
+   "role": "湖广提督"
+  },
+  {
+   "name": "姚珀",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1005,
+ "page_range": "63-64"
+}

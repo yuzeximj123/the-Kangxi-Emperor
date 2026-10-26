@@ -1,0 +1,34 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "费扬古等奏报按兵部咨文安排宁夏兵回程口粮，留一个月米粮于翁金并转运土喇。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "内大臣伯"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  },
+  {
+   "name": "吉吉理",
+   "role": "按察使"
+  },
+  {
+   "name": "杨琳",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "翁金",
+  "土喇",
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12000,
+ "page_range": "250-251"
+}

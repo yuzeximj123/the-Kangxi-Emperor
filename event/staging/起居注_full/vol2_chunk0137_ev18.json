@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "初八日癸未",
+ "event_role": "其他",
+ "summary": "康熙帝召牛钮、陈廷敬至乾清宫，谕以赐大学士杜立德诗章、唐诗、图章、墨刻等，命二人赍赐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13718,
+ "page_range": "317-318"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "十八日乙卯",
+ "event_role": "人事任免",
+ "summary": "吏部题福建总督姚启圣病故员缺请旨，康熙帝命浙江总督施维翰调补福建总督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "施维翰",
+   "role": "浙江总督"
+  }
+ ],
+ "places": [
+  "福建",
+  "浙江",
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24611,
+ "page_range": "535-536"
+}

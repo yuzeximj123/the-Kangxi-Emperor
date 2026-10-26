@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "十六日庚午",
+ "event_role": "人事任免",
+ "summary": "吏部题请仓场侍郎觉罗沙赖调补工部员缺，康熙帝命苏赫调补。",
+ "people": [
+  {
+   "name": "觉罗沙赖",
+   "role": "仓场侍郎"
+  },
+  {
+   "name": "苏赫",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14905,
+ "page_range": "333-334"
+}

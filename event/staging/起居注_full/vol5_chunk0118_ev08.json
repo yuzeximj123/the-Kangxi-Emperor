@@ -1,0 +1,37 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "二十三日",
+ "event_role": "军务",
+ "summary": "皇三子凯社等议：宜一面移文催西路兵，一面乘贼不备前往击之，请旨定夺。",
+ "people": [
+  {
+   "name": "凯社",
+   "role": "皇三子"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "孙酒齐",
+   "role": "副都统"
+  },
+  {
+   "name": "席尔达",
+   "role": "侍郎"
+  },
+  {
+   "name": "三宝",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "巴颜乌兰",
+  "克鲁伦河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11808,
+ "page_range": "246-247"
+}

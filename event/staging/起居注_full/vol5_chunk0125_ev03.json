@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝以蓝翎侍卫兴永朝有胆气、人材壮健，命其署副都统，于镶黄旗汉军火器营行走。",
+ "people": [
+  {
+   "name": "兴永朝",
+   "role": "蓝翎侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12503,
+ "page_range": "260-261"
+}

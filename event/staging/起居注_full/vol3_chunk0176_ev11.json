@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "二十五日本丑",
+ "event_role": "谕旨决策",
+ "summary": "礼部题工部侍郎孙在直开修下河应给印信，康熙帝以印文有等处二字、衙门可不设，命不用等处二字。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙在直",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17611,
+ "page_range": "387-388"
+}

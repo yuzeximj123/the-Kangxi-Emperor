@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "十四日丙申",
+ "event_role": "司法案件",
+ "summary": "刑部题强盗王二等五人劫夺生员赵坤家应暂立决，康熙帝指出票签拟罪颠倒，命本发还再拟票进呈。",
+ "people": [
+  {
+   "name": "王二",
+   "role": "强盗"
+  },
+  {
+   "name": "赵坤",
+   "role": "生员"
+  },
+  {
+   "name": "冯明宽",
+   "role": "逃犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21920,
+ "page_range": "449-450"
+}

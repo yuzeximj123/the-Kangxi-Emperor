@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙询问汪霦甲第、乡会试名次及升授经历，汪霦奏由行人经沈莽荐举御试改授编修。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汪霦",
+   "role": "起居注官"
+  },
+  {
+   "name": "沈莽",
+   "role": "原任官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2303,
+ "page_range": "58-59"
+}

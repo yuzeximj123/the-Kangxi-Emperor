@@ -1,0 +1,22 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "十六日庚辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自苑家口登岸陆行，驻足永清县属蔡家营地界。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "苑家口",
+  "永清县",
+  "蔡家营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13927,
+ "page_range": "288-289"
+}

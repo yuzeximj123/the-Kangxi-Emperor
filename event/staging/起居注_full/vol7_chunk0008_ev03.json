@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十四日两子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御舟停泊于任丘县药王行宫对岸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "任丘县",
+  "药王行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 803,
+ "page_range": "27-28"
+}

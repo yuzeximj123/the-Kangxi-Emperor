@@ -1,0 +1,34 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": "十八日丁酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝重申欲开下河须塞上流高家堰坝而非仅塞高邮州五坝，靳辅心服并称高家堰与高邮州坝当一体闭塞。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "高邮州",
+  "高家堰",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20813,
+ "page_range": "451-452"
+}

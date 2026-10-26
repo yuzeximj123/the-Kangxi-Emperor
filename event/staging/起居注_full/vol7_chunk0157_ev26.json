@@ -1,0 +1,21 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": "十九日戊寅",
+ "event_role": "军务",
+ "summary": "兵部覆请松住所题，盖州地近海滨驻防官兵甚少，请于东京辽阳驻扎官兵内派防御二员、骁骑校二员共二百名移驻盖州防守，议准行。",
+ "people": [
+  {
+   "name": "松住",
+   "role": "都统（暂行管理奉天将军事务）"
+  }
+ ],
+ "places": [
+  "盖州",
+  "东京辽阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15726,
+ "page_range": "325-326"
+}

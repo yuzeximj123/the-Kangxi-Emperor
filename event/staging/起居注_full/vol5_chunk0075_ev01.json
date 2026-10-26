@@ -1,0 +1,40 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": "二十七日丁雍",
+ "event_role": "人事任免",
+ "summary": "兵部尚书索诺和等因补授杭州副都统，引见防守御李裕德、林应富、李延芳、马元龙、孙世科五人。",
+ "people": [
+  {
+   "name": "索诺和",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "李裕德",
+   "role": "防守御"
+  },
+  {
+   "name": "林应富",
+   "role": "防守御"
+  },
+  {
+   "name": "李延芳",
+   "role": "防守御"
+  },
+  {
+   "name": "马元龙",
+   "role": "防守御"
+  },
+  {
+   "name": "孙世科",
+   "role": "防守御"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7501,
+ "page_range": "160-161"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初三日乙亥",
+ "event_role": "奏报地方情形",
+ "summary": "奉天府尹高尔位题奉天、锦州二府驿站民人苦累不得耕种请照旧例供应，户部议不允，康熙帝令再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高尔位",
+   "role": "奉天府尹"
+  }
+ ],
+ "places": [
+  "奉天",
+  "锦州",
+  "山海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18316,
+ "page_range": "409-410"
+}

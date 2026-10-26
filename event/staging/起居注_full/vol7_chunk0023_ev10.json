@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "初一日庚戌",
+ "event_role": "请安谢恩",
+ "summary": "诸大臣以康熙帝过哀未进膳齐集行宫前奏劝，康熙帝以皇太后伤悼未进食为由答之，后亲往皇太后行宫问安视食毕然后进膳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2310,
+ "page_range": "57-58"
+}

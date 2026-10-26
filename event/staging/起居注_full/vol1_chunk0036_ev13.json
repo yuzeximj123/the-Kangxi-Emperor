@@ -1,0 +1,29 @@
+{
+ "reign_year": 12,
+ "month": 2,
+ "day_text": "三十四日甲子",
+ "event_role": "奏报地方情形",
+ "summary": "户部右侍郎马绍曾、郎中董色奉使保定清察钱粮还奏，康熙帝询问直隶雨水麦苗情形，绍曾奏尚未得雨。",
+ "people": [
+  {
+   "name": "马绍曾",
+   "role": "户部右侍郎"
+  },
+  {
+   "name": "董色",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保定",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3613,
+ "page_range": "129-130"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就补授土司官员事谕令速行完结，因云贵离京远，派贤能司官前往会同云贵督抚提督酌量情形定议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17900,
+ "page_range": "401-402"
+}

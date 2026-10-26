@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十日丙午",
+ "event_role": "朝见受贺",
+ "summary": "兵部尚书郭四海、吏部侍郎屯泰以遣审总兵官姚珀事率司官自京城来引见，康熙帝命吏部郎中坤都棱、兵部主事格尔泰前往。",
+ "people": [
+  {
+   "name": "郭四海",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "屯泰",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "坤都棱",
+   "role": "吏部郎中"
+  },
+  {
+   "name": "格尔泰",
+   "role": "兵部主事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1009,
+ "page_range": "63-64"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "二十九日丙辰",
+ "event_role": "司法案件",
+ "summary": "刑部议佐领佟文煜等随征陕西从贼应立斩、家产入官，康熙帝认为太过，命三法司议覆时再奏明。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟文煜",
+   "role": "佐领"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25922,
+ "page_range": "575-576"
+}

@@ -1,0 +1,45 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "安徽巡抚徐国相升任员缺，明珠等奏石琳、薛柱斗可用，康熙帝论居官改节之弊，命以薛柱斗补授安徽巡抚。",
+ "people": [
+  {
+   "name": "徐国相",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "王守才",
+   "role": "内阁学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "石琳",
+   "role": "浙江布政使"
+  },
+  {
+   "name": "薛柱斗",
+   "role": "太常寺卿"
+  },
+  {
+   "name": "王申",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安徽",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 703,
+ "page_range": "49-50"
+}

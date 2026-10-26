@@ -1,0 +1,39 @@
+{
+ "date_raw": "康熙四十三年十二月初十日",
+ "reign_year": 43,
+ "month": 12,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "曹寅奏报会同李煦延请僧纪荫主持高旻寺并迎请入院，代其谢恩。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "联署人"
+  },
+  {
+   "name": "纪荫",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江寧",
+  "高旻寺",
+  "馬蹟山",
+  "揚州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批知道了，表示已阅知此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "91",
+ "source_title": "江寧織造曹寅奏報以僧紀蔭主持高旻寺摺",
+ "order_index": 64
+}

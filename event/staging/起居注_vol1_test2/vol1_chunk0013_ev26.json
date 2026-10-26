@@ -1,0 +1,33 @@
+{
+ "reign_year": 11,
+ "month": 4,
+ "day_text": "二十二日辛酉",
+ "event_role": "奏报地方情形",
+ "summary": "讲毕康熙帝询问湖广、浙江今年麦田成熟与否，熊赐履等对以南方俱是稻田、秋成不系于麦，帝颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "史大成",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "湖广",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1326,
+ "page_range": "83-84"
+}

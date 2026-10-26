@@ -1,0 +1,33 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "十九日乙未",
+ "event_role": "人事任免",
+ "summary": "康熙帝以湖南地方紧要，调浙江巡抚赵申乔补湖南巡抚，张泰交补浙江巡抚，金簿升刑部侍郎，命封印前速行移文。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "张泰交",
+   "role": "官员"
+  },
+  {
+   "name": "金簿",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "湖南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4404,
+ "page_range": "99-100"
+}

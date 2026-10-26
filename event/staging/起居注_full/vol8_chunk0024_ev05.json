@@ -1,0 +1,40 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题正黄旗前锋厄纳和家人拉色里等与庄民互殴致李六击毙柱儿，拟李六绞、李二等充军，康熙以互殴双方伤亡不均，命九卿议奏。",
+ "people": [
+  {
+   "name": "拉色里",
+   "role": "前锋家人"
+  },
+  {
+   "name": "厄纳",
+   "role": "前锋"
+  },
+  {
+   "name": "李二",
+   "role": "庄民"
+  },
+  {
+   "name": "李六",
+   "role": "庄民"
+  },
+  {
+   "name": "柱儿",
+   "role": "拉色里家人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "程家庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2405,
+ "page_range": "59-60"
+}

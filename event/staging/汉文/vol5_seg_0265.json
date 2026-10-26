@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十三年七月",
+ "reign_year": 53,
+ "month": 7,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "江苏布政使李馥具折恭请圣安，并述蒙恩升任提督、陛见受赐、聆听圣谕，表示竭诚效力。",
+ "people": [
+  {
+   "name": "李馥",
+   "role": "江苏等处承宣布政使司布政使，具折人"
+  },
+  {
+   "name": "高其位",
+   "role": "提督湖广总兵官，奏折中提及受恩之人"
+  },
+  {
+   "name": "高忠",
+   "role": "家人，捧赍奏折者"
+  }
+ ],
+ "places": [
+  "江苏",
+  "湖广"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“朕安”，并有“阅”字。",
+ "source_title": "江苏布政使李馥奏请圣安摺（康熙五十三年七月）",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "166",
+ "order_index": 265
+}

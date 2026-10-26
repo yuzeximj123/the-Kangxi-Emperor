@@ -1,0 +1,33 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "初十日戊寅",
+ "event_role": "朝见受贺",
+ "summary": "河间府副将、知府、知县、千总等来朝见。",
+ "people": [
+  {
+   "name": "丁勇",
+   "role": "河间府副将"
+  },
+  {
+   "name": "黄锦",
+   "role": "河间府知府"
+  },
+  {
+   "name": "彭开祝",
+   "role": "河间县知县"
+  },
+  {
+   "name": "叶云翼",
+   "role": "千总"
+  }
+ ],
+ "places": [
+  "河间府",
+  "河间县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5223,
+ "page_range": "116-117"
+}

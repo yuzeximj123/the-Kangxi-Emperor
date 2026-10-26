@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "十九日戊申",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等奏九卿称知府颜光效居官好、为人忠厚，康熙帝命颜光效升补河东运使。",
+ "people": [
+  {
+   "name": "颜光效",
+   "role": "知府"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "河东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8525,
+ "page_range": "180-181"
+}

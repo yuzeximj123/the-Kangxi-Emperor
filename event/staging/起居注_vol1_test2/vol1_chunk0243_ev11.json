@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "十七日乙巳",
+ "event_role": "人事任免",
+ "summary": "福建总督姚启圣以护军卫明德题补龙溪县知县部议不允，康熙帝询问是否题留包衣佐领下人，命察明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "卫明德",
+   "role": "护军"
+  }
+ ],
+ "places": [
+  "福建",
+  "龙溪县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24311,
+ "page_range": "543-544"
+}

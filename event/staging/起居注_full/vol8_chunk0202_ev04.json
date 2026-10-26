@@ -1,0 +1,40 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": "二十日壬申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就鄂罗斯边城争逃人及交易事谕理藩院尚书赫寿等，令作文交将军托留驳回鄂罗斯。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赫寿",
+   "role": "理藩院尚书"
+  },
+  {
+   "name": "特古式",
+   "role": "侍郎"
+  },
+  {
+   "name": "色楞",
+   "role": "协理理藩院事头等侍卫"
+  },
+  {
+   "name": "托留",
+   "role": "将军"
+  },
+  {
+   "name": "噶噶林",
+   "role": "查汉汗之臣"
+  }
+ ],
+ "places": [
+  "鄂罗斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20204,
+ "page_range": "415-416"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十五日甲子",
+ "event_role": "人事任免",
+ "summary": "川陕总督哈占题补叶穆济为布政使，康熙帝以其不合题补之例，令于旨内票出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈占",
+   "role": "川陕总督"
+  },
+  {
+   "name": "叶穆济",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "川陕"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21903,
+ "page_range": "481-482"
+}

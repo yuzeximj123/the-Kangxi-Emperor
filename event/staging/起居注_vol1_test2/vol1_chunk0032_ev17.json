@@ -1,0 +1,40 @@
+{
+ "reign_year": 12,
+ "month": 1,
+ "day_text": "十一日于午",
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝复御乾清门，赐巴林等部落台吉等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "俄齐儿",
+   "role": "巴林部落多罗郡王"
+  },
+  {
+   "name": "吴巴什",
+   "role": "熬汉部落一品台吉"
+  },
+  {
+   "name": "达锡",
+   "role": "苏尼忒部落四品台吉"
+  },
+  {
+   "name": "白尔赫",
+   "role": "阿禄科尔沁国三品台吉"
+  },
+  {
+   "name": "巴颜",
+   "role": "巴林部落四品台吉"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3217,
+ "page_range": "121-122"
+}

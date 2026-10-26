@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初七日戊戌",
+ "event_role": "司法案件",
+ "summary": "刑部题总督赵弘灿所报王廷彩、杨五等曾为大盗自首援赦拟徒，康熙帝令照该巡抚所题完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王廷彩",
+   "role": "大盗自首者"
+  },
+  {
+   "name": "杨五",
+   "role": "大盗自首者"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "总督管理直隶巡抚事务"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13219,
+ "page_range": "275-276"
+}

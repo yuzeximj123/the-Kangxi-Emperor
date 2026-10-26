@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初三日成午",
+ "event_role": "弹劾参奏",
+ "summary": "御史张志栋劾奏刑部尚书黄机年老及大理寺少卿张永祺、国子监祭酒冯源济品行不端，均应议处。",
+ "people": [
+  {
+   "name": "张志栋",
+   "role": "御史"
+  },
+  {
+   "name": "黄机",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "张永祺",
+   "role": "大理寺少卿"
+  },
+  {
+   "name": "冯源济",
+   "role": "国子监祭酒"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2516,
+ "page_range": "93-94"
+}

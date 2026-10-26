@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令工部侍郎常绥等赍敕往谕，指斥噶尔丹穷迫当灭、达赖喇嘛已故诈称尚在，并赏彩缎十端。",
+ "people": [
+  {
+   "name": "常绥",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "伊道",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "克什图",
+   "role": "侍卫"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "蒙古首领"
+  },
+  {
+   "name": "第巴",
+   "role": "西藏执政"
+  }
+ ],
+ "places": [
+  "哈密"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21800,
+ "page_range": "446-447"
+}

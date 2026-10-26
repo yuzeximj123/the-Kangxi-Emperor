@@ -1,0 +1,36 @@
+{
+ "reign_year": 28,
+ "month": 7,
+ "day_text": "初六日庚子",
+ "event_role": "司法案件",
+ "summary": "兵部议永平卫军罪潘泉妻郑氏应留原籍，康熙帝询问诸臣后依部议，定犯人身死孤寡之妇回原籍之例。",
+ "people": [
+  {
+   "name": "潘泉",
+   "role": "军犯"
+  },
+  {
+   "name": "郑氏",
+   "role": "潘泉之妻"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "永平卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7809,
+ "page_range": "168-169"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "奉天府府尹雇腾人题承德县知县李尚隆员缺，请以开元县知县李混调补，康熙照所请准行。",
+ "people": [
+  {
+   "name": "雇腾人",
+   "role": "奉天府府尹"
+  },
+  {
+   "name": "李尚隆",
+   "role": "承德县知县"
+  },
+  {
+   "name": "李混",
+   "role": "开元县知县"
+  }
+ ],
+ "places": [
+  "承德县",
+  "开元县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19903,
+ "page_range": "409-410"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "十四日辛亥",
+ "event_role": "人事任免",
+ "summary": "议政王贝勒大臣会推正红旗蒙古都统肌图升任员缺，康熙帝以纪和尔他布材力壮健为人颇优补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "肌图",
+   "role": "正红旗蒙古都统"
+  },
+  {
+   "name": "纪尔他布",
+   "role": "护军统领"
+  },
+  {
+   "name": "胡逢",
+   "role": "副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24510,
+ "page_range": "533-534"
+}

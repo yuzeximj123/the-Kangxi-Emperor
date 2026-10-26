@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题覆提督隆科多咨送劫夺大兴县民韩增寿家之大盗李秉义等，照律即行处斩，康熙命问明具奏。",
+ "people": [
+  {
+   "name": "隆科多",
+   "role": "提督"
+  },
+  {
+   "name": "李秉义",
+   "role": "大盗"
+  },
+  {
+   "name": "韩增寿",
+   "role": "大兴县民"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "大兴县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14101,
+ "page_range": "293-294"
+}

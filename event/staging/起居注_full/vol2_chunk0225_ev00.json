@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议政王等议台湾郑克塽投诚安插及宽贷明朝宗室事，康熙帝令发回再详议。",
+ "people": [
+  {
+   "name": "郑克塽",
+   "role": "投诚者"
+  },
+  {
+   "name": "苏拜",
+   "role": "奉差侍郎"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "奏事大臣"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22500,
+ "page_range": "493-494"
+}

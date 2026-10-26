@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初二日庚申",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，大学士伊桑阿等会同各部院大臣按衙门引见保举才能主事、中书、鸣赞及笔帖式等，帝逐一详问。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8707,
+ "page_range": "184-185"
+}

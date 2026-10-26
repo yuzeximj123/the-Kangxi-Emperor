@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 9,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "湖广总督鄂海奏报盘塘等八十三寨生红苗赴武昌投顺，康熙帝嘉奖并命妥善安置化导。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂海",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [
+  "武昌",
+  "盘塘"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23103,
+ "page_range": "473-474"
+}

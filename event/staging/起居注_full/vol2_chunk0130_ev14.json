@@ -1,0 +1,21 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "初一日丙午",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝以孟秋亲赴太庙致祭，礼毕回宫，少顷仍至瀛台。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙",
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13014,
+ "page_range": "303-304"
+}

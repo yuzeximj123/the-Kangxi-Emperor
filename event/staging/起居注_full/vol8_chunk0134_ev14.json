@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初三日癸亥",
+ "event_role": "人事任免",
+ "summary": "大学士松柱等以折本请旨，吏部题司道内升，康熙帝命湖南布政使阿某着内升。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "阿某",
+   "role": "湖南布政使"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13414,
+ "page_range": "279-280"
+}

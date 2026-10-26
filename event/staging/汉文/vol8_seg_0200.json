@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十八年六月十九日",
+ "reign_year": 58,
+ "month": 6,
+ "day": 19,
+ "event_role": "其他",
+ "summary": "湖广巡抚张连登奏报原任湖广总督额伦特之子艾山自陕西扶柩至楚，率属员接入武昌城内暂停公署，并报扶柩到楚日期。",
+ "people": [
+  {
+   "name": "张连登",
+   "role": "湖广巡抚，奏报人"
+  },
+  {
+   "name": "额伦特",
+   "role": "原任湖广总督署西安将军"
+  },
+  {
+   "name": "艾山",
+   "role": "额伦特之子，扶柩回京者"
+  }
+ ],
+ "places": [
+  "湖广",
+  "陕西",
+  "楚",
+  "武昌"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批指示署进冬至冬月起身奏报。",
+ "source_title": "江西巡撫白潢奏報雨水米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2789",
+ "order_index": 200
+}

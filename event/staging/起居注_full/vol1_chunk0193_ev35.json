@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 9,
+ "day_text": "二十四日丙辰",
+ "event_role": "军务",
+ "summary": "续顺公下副都统张梦吉请支十八年草料银两为购马解潮州路费，兵部议以十九年银两支给，康熙帝询问后从部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张梦吉",
+   "role": "副都统"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "潮州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19335,
+ "page_range": "443-444"
+}

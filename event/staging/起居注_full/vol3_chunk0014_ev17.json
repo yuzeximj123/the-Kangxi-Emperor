@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "二十一日丁效",
+ "event_role": "人事任免",
+ "summary": "户部郎中艾松阿降调员缺，拟正内阁侍读舒书、拟陪员外郎托代，康熙询问后命舒书补郎中，并称托代庸劣。",
+ "people": [
+  {
+   "name": "舒书",
+   "role": "内阁侍读，拟正"
+  },
+  {
+   "name": "托代",
+   "role": "户部员外郎，拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1417,
+ "page_range": "63-64"
+}

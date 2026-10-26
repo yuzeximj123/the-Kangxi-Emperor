@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "原任将军赵良栋病故奏至，康熙命召集记从总兵官白斌等，由侍卫关保传谕褒奖赵良栋功绩并抚恤其妻子。",
+ "people": [
+  {
+   "name": "赵良栋",
+   "role": "原任将军"
+  },
+  {
+   "name": "白斌",
+   "role": "记从总兵官"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "王化行",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19600,
+ "page_range": "402-403"
+}

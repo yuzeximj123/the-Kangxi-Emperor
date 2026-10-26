@@ -1,0 +1,40 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "马齐等查方略内康熙亲征噶尔丹至科图一事呈览，康熙帝令传问明珠、阿灵阿、鄂伦代等具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "官员"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "官员"
+  },
+  {
+   "name": "鄂伦代",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "科图"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14704,
+ "page_range": "305-306"
+}

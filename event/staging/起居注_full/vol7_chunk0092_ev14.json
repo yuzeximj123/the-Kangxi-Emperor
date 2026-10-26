@@ -1,0 +1,38 @@
+{
+ "reign_year": 45,
+ "month": 1,
+ "day_text": "二十三日壬午",
+ "event_role": "人事任免",
+ "summary": "吏部奏提督顺天学政杨名时差满应回翰林院，康熙帝以其管理学政平常，命往河工效力。",
+ "people": [
+  {
+   "name": "杨名时",
+   "role": "提督顺天学政翰林院侍讲"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9214,
+ "page_range": "195-196"
+}

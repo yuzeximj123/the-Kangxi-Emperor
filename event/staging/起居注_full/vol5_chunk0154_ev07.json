@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝言进士喀尔喀写字不堪所学甚劣，问侍郎常书其人何如，常书以年轻对，康熙帝责其徇人情面。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀尔喀",
+   "role": "进士"
+  },
+  {
+   "name": "常书",
+   "role": "侍郎"
+  },
+  {
+   "name": "杨舒",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15407,
+ "page_range": "318-319"
+}

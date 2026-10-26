@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "初十日丁卯",
+ "event_role": "朝见受贺",
+ "summary": "巳时康熙御瀛台前亭，赐进贡吴喇忒部落三品台吉色布腾等、四品台吉噶尔马等茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色布腾",
+   "role": "三品台吉"
+  },
+  {
+   "name": "噶尔马",
+   "role": "四品台吉"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24824,
+ "page_range": "553-554"
+}

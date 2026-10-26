@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "初八日丙寅",
+ "event_role": "司法案件",
+ "summary": "御史索住奉命赴闽审总兵官倩春秀事，请训旨，康熙帝命从公审断，情伪显露即行拿问，奏本用巡抚印。",
+ "people": [
+  {
+   "name": "索住",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倩春秀",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9810,
+ "page_range": "207-208"
+}

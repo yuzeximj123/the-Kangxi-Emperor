@@ -1,0 +1,26 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": "二十日戊子",
+ "event_role": "司法案件",
+ "summary": "覆请刑部等衙门议覆镶黄旗头等侍卫贝和私拷邻居药德一案，康熙帝命将贝和革职，枷号三月，鞭一百。",
+ "people": [
+  {
+   "name": "贝和",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "药德",
+   "role": "闲散人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7915,
+ "page_range": "169-170"
+}

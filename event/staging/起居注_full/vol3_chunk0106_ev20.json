@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "十九日两子",
+ "event_role": "司法案件",
+ "summary": "九卿议杀一家非死罪三人案，拟王康凌迟，杨希震、王周德、王奉等分别治罪。",
+ "people": [
+  {
+   "name": "王康",
+   "role": "罪犯"
+  },
+  {
+   "name": "杨希震",
+   "role": "罪犯"
+  },
+  {
+   "name": "王周德",
+   "role": "罪犯"
+  },
+  {
+   "name": "王奉",
+   "role": "罪犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10620,
+ "page_range": "247-248"
+}

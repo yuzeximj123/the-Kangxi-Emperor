@@ -1,0 +1,36 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等议周三处斩，薛文、高下二、张鼎、深三从宽免死减等，发黑龙江新满洲披甲之人为奴，严押解到。",
+ "people": [
+  {
+   "name": "周三",
+   "role": "罪犯"
+  },
+  {
+   "name": "薛文",
+   "role": "罪犯"
+  },
+  {
+   "name": "高下二",
+   "role": "罪犯"
+  },
+  {
+   "name": "张鼎",
+   "role": "罪犯"
+  },
+  {
+   "name": "深三",
+   "role": "罪犯"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15600,
+ "page_range": "324-325"
+}

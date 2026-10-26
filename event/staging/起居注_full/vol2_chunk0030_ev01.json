@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十七日王寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝御东宫内殿听政，处理顺承郡王勒尔锦、贝勒察尼因罪削爵后所属佐领户口分配事。",
+ "people": [
+  {
+   "name": "勒尔锦",
+   "role": "顺承郡王"
+  },
+  {
+   "name": "勒尔贝",
+   "role": "勒尔锦之子"
+  },
+  {
+   "name": "察尼",
+   "role": "贝勒"
+  },
+  {
+   "name": "察纳",
+   "role": "察尼之子"
+  },
+  {
+   "name": "纳墨孙",
+   "role": "公"
+  },
+  {
+   "name": "鄂札",
+   "role": "信和郡王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3001,
+ "page_range": "103-104"
+}

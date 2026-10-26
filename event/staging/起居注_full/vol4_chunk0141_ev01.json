@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就议政大臣会议结果降旨：杨代降四级留任，阿尔尼、纪和尔他布罢议政降四级调用，余依议。",
+ "people": [
+  {
+   "name": "杨代",
+   "role": "护军统领"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "尚书"
+  },
+  {
+   "name": "纪和尔他布",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14101,
+ "page_range": "294-295"
+}

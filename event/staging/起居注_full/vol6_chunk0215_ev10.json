@@ -1,0 +1,34 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十二日丙午",
+ "event_role": "人事任免",
+ "summary": "吏部题请西喇代之阿达哈哈番由过继子巴尔达承袭，常寿之拖沙喇哈番不准给折臂之满代而给其子阿山泰承袭。",
+ "people": [
+  {
+   "name": "西喇代",
+   "role": "阿达哈哈番"
+  },
+  {
+   "name": "巴尔达",
+   "role": "过继子"
+  },
+  {
+   "name": "常寿",
+   "role": "拖沙喇哈番"
+  },
+  {
+   "name": "满代",
+   "role": "折臂者"
+  },
+  {
+   "name": "阿山泰",
+   "role": "满代之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21510,
+ "page_range": "440-441"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 1,
+ "day_text": "二十六日戊午",
+ "event_role": "朝见受贺",
+ "summary": "照例赐朝鲜国王李焞及进贡正使俞夏益、副使姜世龟等书状官绸布匹鞍马。",
+ "people": [
+  {
+   "name": "李焞",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "俞夏益",
+   "role": "进贡正使议政府左参赞"
+  },
+  {
+   "name": "姜世龟",
+   "role": "副使礼曹参判"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10120,
+ "page_range": "214-215"
+}

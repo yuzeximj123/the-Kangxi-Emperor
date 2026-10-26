@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初九日壬戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论人才不分汉军汉人，斥汉官护汉官、汉军庇汉军之非，称李光地居官甚佳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "巡抚"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21905,
+ "page_range": "448-449"
+}

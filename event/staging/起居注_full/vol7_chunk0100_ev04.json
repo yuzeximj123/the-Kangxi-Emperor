@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "十三日辛未",
+ "event_role": "人事任免",
+ "summary": "兵部议贵州提督李芳述请照滇省例越级补授官员不准行，康熙帝称李芳述为提镇之冠，命加宫保授将军号并查其世交官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李芳述",
+   "role": "贵州提督"
+  }
+ ],
+ "places": [
+  "贵州",
+  "滇省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10004,
+ "page_range": "211-212"
+}

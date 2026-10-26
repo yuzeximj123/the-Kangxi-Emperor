@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "十八日壬寅",
+ "event_role": "人事任免",
+ "summary": "礼部请封辅国公塞钦之妹为格格、其婿郎文体为辅国公婿，康熙帝令定永远可行之例。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郎文体",
+   "role": "辅国公婿"
+  },
+  {
+   "name": "塞钦",
+   "role": "辅国公"
+  },
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13306,
+ "page_range": "277-278"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "初五日癸亥",
+ "event_role": "司法案件",
+ "summary": "刑部等覆审广东海贼朱必士等劫糖船拒捕杀守备，千总秦佑不救援反杀商人谎报，拟斩及流，康熙命送进。",
+ "people": [
+  {
+   "name": "朱必士",
+   "role": "海贼"
+  },
+  {
+   "name": "陈开顺",
+   "role": "商人"
+  },
+  {
+   "name": "秦佑",
+   "role": "千总"
+  },
+  {
+   "name": "潘成",
+   "role": "守备"
+  },
+  {
+   "name": "星稀",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16422,
+ "page_range": "339-340"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十八日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕称人金得奏行盐事未便，盛京地方幅员小，行盐苦累百姓，且耿大忠借名行盐聚众包揽，深为无益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "耿大忠",
+   "role": "行盐人"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25305,
+ "page_range": "563-564"
+}

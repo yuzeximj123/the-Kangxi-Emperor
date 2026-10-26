@@ -1,0 +1,34 @@
+{
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "初五日本已",
+ "event_role": "司法案件",
+ "summary": "张鹏翮等审奏主考左必蕃疏参吴泌等买举一案，拟吴泌等绞监候、赵晋等革职充军、左必蕃革职；康熙帝以科场受贿有干国法，令再议。",
+ "people": [
+  {
+   "name": "左必蕃",
+   "role": "主考"
+  },
+  {
+   "name": "吴泌",
+   "role": "行贿买举者"
+  },
+  {
+   "name": "赵晋",
+   "role": "副主考"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "户部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22216,
+ "page_range": "455-456"
+}

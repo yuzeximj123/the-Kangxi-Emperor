@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "初二日乙丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补兵部尚书李之芳调补员缺，康熙帝准将梁清标调兵部、余国柱补户部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李之芳",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "余国柱",
+   "role": "左都御史，补户部"
+  },
+  {
+   "name": "梁清标",
+   "role": "户部尚书，调兵部"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4408,
+ "page_range": "123-124"
+}

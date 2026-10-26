@@ -1,0 +1,45 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝忆及潼关所见善射者，经询问知为杨宗仁之弟杨宗义，命带所降之级仍留安徽按察使任。",
+ "people": [
+  {
+   "name": "杨宗义",
+   "role": "陕西同知、安徽按察使"
+  },
+  {
+   "name": "杨宗仁",
+   "role": "临洮知府"
+  },
+  {
+   "name": "绰奇",
+   "role": "学士"
+  },
+  {
+   "name": "岳拜",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "鄂海",
+   "role": "官员"
+  },
+  {
+   "name": "傅尔",
+   "role": "学士"
+  },
+  {
+   "name": "胡讷",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "潼关",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 706,
+ "page_range": "25-26"
+}

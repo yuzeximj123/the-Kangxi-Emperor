@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": "二十三日庚戌",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题广东清水载外劫夺商船之陈阿掌等拟即处斩，康熙帝命从宽免死，照例减等发黑龙江、宁古塔等处为水手当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈阿掌",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "广东",
+  "黑龙江",
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17822,
+ "page_range": "367-368"
+}

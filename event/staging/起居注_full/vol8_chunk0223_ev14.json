@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "江宁巡抚吴存礼题大盗郭二等照律立斩，康熙帝命照前完结。",
+ "people": [
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "郭二",
+   "role": "大盗"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22314,
+ "page_range": "457-458"
+}

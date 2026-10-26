@@ -1,0 +1,21 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "初一日辛西",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝率诸王大臣赴太皇太后宫、皇太后宫行礼问安，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6901,
+ "page_range": "173-174"
+}

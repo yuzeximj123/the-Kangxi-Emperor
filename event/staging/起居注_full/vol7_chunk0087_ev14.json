@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝提出须筹画盐法与钱法，指秦晋钱价不一、闽省私铸混杂、盐随地私贩而督抚不严禁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "秦晋",
+  "闽省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8714,
+ "page_range": "185-186"
+}

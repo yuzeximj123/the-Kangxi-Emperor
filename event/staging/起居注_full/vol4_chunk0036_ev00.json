@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 7,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "霸昌道许兆麟、古北口抽分吏部郎中张圣贞、密云县守备胡守因等来朝。",
+ "people": [
+  {
+   "name": "许兆麟",
+   "role": "霸昌道"
+  },
+  {
+   "name": "张圣贞",
+   "role": "古北口等处抽分吏部郎中"
+  },
+  {
+   "name": "胡守因",
+   "role": "密云县守备"
+  }
+ ],
+ "places": [
+  "霸昌",
+  "古北口",
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3600,
+ "page_range": "84-85"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十八日庚午",
+ "event_role": "人事任免",
+ "summary": "原任道武廷适因陕西民郭永奇等请留任，部议不准，康熙帝着武廷适革职留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "武廷适",
+   "role": "原任道"
+  },
+  {
+   "name": "郭永奇",
+   "role": "陕西民"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 627,
+ "page_range": "23-24"
+}

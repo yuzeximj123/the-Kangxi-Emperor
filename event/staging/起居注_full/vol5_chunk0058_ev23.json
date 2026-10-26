@@ -1,0 +1,30 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "十四日丙午",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等奏遵旨将陈放器、李辉祖、沈朝聘问九卿，九卿有所评议。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "陈放器",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "李辉祖",
+   "role": "大理寺卿"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "直隶守道"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5823,
+ "page_range": "126-127"
+}

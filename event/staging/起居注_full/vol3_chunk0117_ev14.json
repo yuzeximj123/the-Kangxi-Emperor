@@ -1,0 +1,46 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "二十三日庚戌",
+ "event_role": "人事任免",
+ "summary": "太常寺题穆成格升任员缺，开写应升官员折子启奏，康熙帝询问可用之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "穆成格",
+   "role": "太常寺官员"
+  },
+  {
+   "name": "朱马泰",
+   "role": "记注官"
+  },
+  {
+   "name": "喇拔",
+   "role": "应升官员"
+  },
+  {
+   "name": "色度",
+   "role": "官员"
+  },
+  {
+   "name": "敦多礼",
+   "role": "官员"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11714,
+ "page_range": "269-270"
+}

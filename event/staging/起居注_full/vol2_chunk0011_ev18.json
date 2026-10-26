@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十八日甲寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补汉军监察御史员缺开列郎中员外郎职名，康熙询问大学士有无素知之人，勒德洪以吏部员外郎金珊对，李霨称无素识，明珠续奏。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "金珊",
+   "role": "吏部员外郎"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1118,
+ "page_range": "65-66"
+}

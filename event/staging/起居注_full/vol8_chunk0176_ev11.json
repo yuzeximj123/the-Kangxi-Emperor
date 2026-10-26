@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "二十二日丁未",
+ "event_role": "议政听政",
+ "summary": "康熙御畅春园内澹宁居听政，户部入奏，康熙问赵申乔江南蠲免钱粮事。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [
+  "畅春园澹宁居",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17611,
+ "page_range": "363-364"
+}

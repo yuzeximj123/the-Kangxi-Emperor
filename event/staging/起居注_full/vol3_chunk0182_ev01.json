@@ -1,0 +1,37 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问刘易、田启光二人优劣，宋德宜称刘易为人颇优、办事谨慎，明珠称同省不同事可以补用，遂命刘易升补布政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "学士"
+  },
+  {
+   "name": "刘易",
+   "role": "江南苏松道"
+  },
+  {
+   "name": "田启光",
+   "role": "原任布政使"
+  }
+ ],
+ "places": [
+  "江南",
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18201,
+ "page_range": "399-400"
+}

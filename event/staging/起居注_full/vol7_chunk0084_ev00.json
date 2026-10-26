@@ -1,0 +1,18 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "因官员衰老令其解任，所遗员缺由按察使甘国基升补。",
+ "people": [
+  {
+   "name": "甘国基",
+   "role": "按察使升补"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8400,
+ "page_range": "179-180"
+}

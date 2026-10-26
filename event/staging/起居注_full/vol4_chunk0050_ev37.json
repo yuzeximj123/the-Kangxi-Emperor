@@ -1,0 +1,36 @@
+{
+ "reign_year": 27,
+ "month": 12,
+ "day_text": "二十六日乙丑",
+ "event_role": "朝见受贺",
+ "summary": "三河县副尉马库，防御阿兰泰、穆哈连，守备马遇君，把总张进忠等来朝。",
+ "people": [
+  {
+   "name": "马库",
+   "role": "三河县副尉"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "防御"
+  },
+  {
+   "name": "穆哈连",
+   "role": "防御"
+  },
+  {
+   "name": "马遇君",
+   "role": "守备"
+  },
+  {
+   "name": "张进忠",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5037,
+ "page_range": "112-113"
+}

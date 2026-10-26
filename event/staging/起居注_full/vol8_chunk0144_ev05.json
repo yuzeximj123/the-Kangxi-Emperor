@@ -1,0 +1,38 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "初六日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕随驾诸王、议政大臣、部院衙门，因米价甚高，令将八月所放之米即行散给，并令详议保全米粮、充足口粮之法速奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺罗布",
+   "role": "顺承郡王"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  },
+  {
+   "name": "张文彬",
+   "role": "奏事"
+  },
+  {
+   "name": "杨万程",
+   "role": "洗马"
+  },
+  {
+   "name": "奇勒伦",
+   "role": "编修"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14405,
+ "page_range": "299-300"
+}

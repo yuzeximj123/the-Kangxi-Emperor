@@ -1,0 +1,23 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "九卿议御史王负曾所请云贵广西近省应授知县人员引见发往署事一事，无良议，并议四省员缺委邻省官署事。",
+ "people": [
+  {
+   "name": "王负曾",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州",
+  "广西",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9906,
+ "page_range": "209-210"
+}

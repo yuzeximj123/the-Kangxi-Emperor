@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "十三日成成",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝由午门出正阳门，亲祭天坛，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "天坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19521,
+ "page_range": "401-402"
+}

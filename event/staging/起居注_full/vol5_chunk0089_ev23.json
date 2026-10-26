@@ -1,0 +1,21 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "十五日癸酉",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝御太和门视祭圜丘坛祝版，毕后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和门",
+  "圜丘坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8923,
+ "page_range": "188-189"
+}

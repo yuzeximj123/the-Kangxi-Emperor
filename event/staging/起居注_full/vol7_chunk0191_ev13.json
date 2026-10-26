@@ -1,0 +1,38 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十五日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙传谕八旗都统等查护军校护军分三等具奏，并令保奏极孝极义者，申明孝为百行之首。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傻子",
+   "role": "奏事员外郎"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "稳和伦",
+   "role": "尚书"
+  },
+  {
+   "name": "孙扎气",
+   "role": "都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19113,
+ "page_range": "393-394"
+}

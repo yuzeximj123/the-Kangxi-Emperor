@@ -1,0 +1,36 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "初六日丙申",
+ "event_role": "人事任免",
+ "summary": "议政王等会议江宁副都统胡图升任员缺，拟正乌黑、陪拟索住巴图鲁，康熙帝准以乌黑补授副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "乌黑",
+   "role": "护军参领，拟补副都统"
+  },
+  {
+   "name": "索住巴图鲁",
+   "role": "陪拟"
+  },
+  {
+   "name": "胡图",
+   "role": "江宁副都统"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7220,
+ "page_range": "179-180"
+}

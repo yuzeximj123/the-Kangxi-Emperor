@@ -1,0 +1,36 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "读卷官伊桑阿等进呈殿试前十卷，康熙帝以目热灯下不能看字，命依大臣所定名次，大臣跪求御定。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士读卷官"
+  },
+  {
+   "name": "吴珊",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14521,
+ "page_range": "300-301"
+}

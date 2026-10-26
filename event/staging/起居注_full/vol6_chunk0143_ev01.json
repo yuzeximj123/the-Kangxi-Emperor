@@ -1,0 +1,29 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "event_role_note": null,
+ "summary": "康熙采纳马齐意见，补授甘国枢为顺天府尹。",
+ "people": [
+  {
+   "name": "甘国枢",
+   "role": "顺天府尹"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14301,
+ "page_range": "296-297"
+}

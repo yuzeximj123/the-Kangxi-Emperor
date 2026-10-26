@@ -1,0 +1,21 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": "十七日乙丑",
+ "event_role": "议政听政",
+ "summary": "卯时开印，此后康熙帝驻畅春园，部院奏章逐日交内阁转送听理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "内阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15020,
+ "page_range": "311-312"
+}

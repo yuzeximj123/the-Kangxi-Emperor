@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "初三日丁卯",
+ "event_role": "河工水利",
+ "summary": "康熙帝阅汇尔港冲决处，谕萨木哈挑浚新河直抵南河、修筑重堤，并筑挑水坝、顺水坝，限四月内告成。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨木哈",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "汇尔港",
+  "南河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13806,
+ "page_range": "286-287"
+}

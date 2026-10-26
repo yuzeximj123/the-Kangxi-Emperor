@@ -1,0 +1,21 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "初一日本卯",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝率诸王贝勒内大臣侍卫大学士等赴太皇太后宫、皇太后宫行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1,
+ "page_range": "35-36"
+}

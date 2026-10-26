@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "十五日甲拱",
+ "event_role": "军务",
+ "summary": "往西宁侦探之副都统桑阿礼、图斯海因请训旨，向沙孜、来保转奏，奉旨着俟进京再奏。",
+ "people": [
+  {
+   "name": "桑阿礼",
+   "role": "副都统"
+  },
+  {
+   "name": "图斯海",
+   "role": "副都统"
+  },
+  {
+   "name": "沙孜",
+   "role": "转奏官"
+  },
+  {
+   "name": "来保",
+   "role": "转奏官"
+  }
+ ],
+ "places": [
+  "西宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9510,
+ "page_range": "201-202"
+}

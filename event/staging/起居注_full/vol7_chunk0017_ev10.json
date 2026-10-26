@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初三日癸丑",
+ "event_role": "司法案件",
+ "summary": "吏部覆贵州巡抚王薄题余光全纵仆私派害命案，议孟世泰等无庸议，康熙帝令发回再详察确议。",
+ "people": [
+  {
+   "name": "王薄",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "余光全",
+   "role": "原任知县"
+  },
+  {
+   "name": "孟世泰",
+   "role": "革职布政使"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1710,
+ "page_range": "45-46"
+}

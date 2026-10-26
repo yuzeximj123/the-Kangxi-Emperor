@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "洪元益捆缚天津贡生武择元挝诈银两拟立斩，康熙帝以照光棍例太过，改应斩监候秋后处决。",
+ "people": [
+  {
+   "name": "洪元益",
+   "role": "案犯"
+  },
+  {
+   "name": "武择元",
+   "role": "天津贡生"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2106,
+ "page_range": "53-54"
+}

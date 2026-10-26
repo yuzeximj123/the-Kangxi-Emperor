@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "二十二日甲寅",
+ "event_role": "司法案件",
+ "summary": "刑部等题盛京闲散人僧保打死赵晋荣案，康熙帝令僧保改秋后处决，并令查明赵晋荣旗籍来历具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "僧保",
+   "role": "案犯"
+  },
+  {
+   "name": "赵晋荣",
+   "role": "被害人"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11815,
+ "page_range": "247-248"
+}

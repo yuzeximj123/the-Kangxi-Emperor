@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 12,
+ "day_text": "十三日戊成",
+ "event_role": "司法案件",
+ "summary": "刑部议原任四川提督郑蛟麟反叛，其养子郑延禧、郑良金等应立斩，康熙帝命免死，家产交该管衙门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郑蛟麟",
+   "role": "原任四川提督"
+  },
+  {
+   "name": "郑延禧",
+   "role": "原任佐领"
+  },
+  {
+   "name": "郑良金",
+   "role": "闲散人"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2822,
+ "page_range": "99-100"
+}

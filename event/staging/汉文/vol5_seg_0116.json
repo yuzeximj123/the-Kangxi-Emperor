@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十二年十二月初十日",
+ "reign_year": 52,
+ "month": 12,
+ "day": 9,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮上摺恭请皇上圣躬万安，并奏报已将湖南具本叩进，伏乞睿鉴。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "河南",
+  "湖南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批答朕安，并称赵弘燮抚河南时操守颇佳，但可勉强再迟发请理。",
+ "source_title": "直隸巡撫趙弘燮奏為時屆新春恭請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1482",
+ "order_index": 116
+}

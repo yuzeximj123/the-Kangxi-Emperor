@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十八日庚搬",
+ "event_role": "请安谢恩",
+ "summary": "喀喇沁多罗都棱郡王塞棱遣使来请安，一品他卜囊色棱、三品他卜囊噶尔麻塞棱来请安。",
+ "people": [
+  {
+   "name": "塞棱",
+   "role": "喀喇沁多罗都棱郡王"
+  },
+  {
+   "name": "色棱",
+   "role": "一品他卜囊"
+  },
+  {
+   "name": "噶尔麻塞棱",
+   "role": "三品他卜囊"
+  }
+ ],
+ "places": [
+  "喀喇沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21812,
+ "page_range": "447-448"
+}

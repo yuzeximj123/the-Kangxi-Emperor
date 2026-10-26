@@ -1,0 +1,32 @@
+{
+ "reign_year": 15,
+ "month": 2,
+ "day_text": "二十六日戊宽",
+ "event_role": "人事任免",
+ "summary": "康熙帝大设卤簿御太和殿，命索额图、沙赖捧敕印授进剿陕西平凉等处抚远大将军图海。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "沙赖",
+   "role": "学士"
+  },
+  {
+   "name": "图海",
+   "role": "抚远大将军、都统、大学士"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11045,
+ "page_range": "277-278"
+}

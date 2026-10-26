@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十二日辛卯",
+ "event_role": "朝见受贺",
+ "summary": "杭州副都统胡什布丹代、知府石文彬、守备谢振邦等来朝。",
+ "people": [
+  {
+   "name": "胡什布丹代",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "石文彬",
+   "role": "知府"
+  },
+  {
+   "name": "谢振邦",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "杭州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8503,
+ "page_range": "180-181"
+}

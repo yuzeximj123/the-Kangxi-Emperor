@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "二十五日壬午",
+ "event_role": "弹劾参奏",
+ "summary": "御史陶式玉参奏董汉臣越职妄奏，康熙帝询问大学士意见，明珠等奏请票拟革职严加议处。",
+ "people": [
+  {
+   "name": "陶式玉",
+   "role": "御史"
+  },
+  {
+   "name": "董汉臣",
+   "role": "被参官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22926,
+ "page_range": "493-494"
+}

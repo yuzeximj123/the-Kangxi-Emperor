@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝回銮，驻跸中邦君。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中邦君"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6801,
+ "page_range": "171-172"
+}

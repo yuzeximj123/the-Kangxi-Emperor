@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "礼部题原任广东合浦县知县金世事不准恩恤，康熙帝以妻子在尚之信藩下非其本意，命再议。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "金世事",
+   "role": "原任广东合浦县知县"
+  },
+  {
+   "name": "尚之信",
+   "role": "藩王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东合浦县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17002,
+ "page_range": "375-376"
+}

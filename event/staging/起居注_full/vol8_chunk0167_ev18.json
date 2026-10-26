@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "十一日丁西",
+ "event_role": "司法案件",
+ "summary": "刑部题朝阳门罪人颜布以纺丝缠锁链，拟枷号鞭责并降城门尉等官，康熙帝命回讲之日问议政大臣等具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "颜布",
+   "role": "罪人"
+  },
+  {
+   "name": "查拉",
+   "role": "城门尉"
+  }
+ ],
+ "places": [
+  "朝阳门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16718,
+ "page_range": "345-346"
+}

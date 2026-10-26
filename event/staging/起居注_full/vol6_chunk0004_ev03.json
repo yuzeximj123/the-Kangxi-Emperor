@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "国子监司业萨尔图员缺，拟郭理正、李保陪，康熙命将保举贤能员外郎内俸深者按次补授。",
+ "people": [
+  {
+   "name": "萨尔图",
+   "role": "国子监司业"
+  },
+  {
+   "name": "郭理",
+   "role": "古北口管驿站员外郎拟正"
+  },
+  {
+   "name": "李保",
+   "role": "吏部员外郎拟陪"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 403,
+ "page_range": "18-19"
+}

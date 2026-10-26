@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "三法司会同满大学士议张凤扬立斩、其子秋后处绞，康熙帝令议政王等会议具奏。",
+ "people": [
+  {
+   "name": "张凤扬",
+   "role": "罪犯"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7404,
+ "page_range": "183-184"
+}

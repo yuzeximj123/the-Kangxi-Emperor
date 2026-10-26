@@ -1,0 +1,44 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "二十九日丙辰",
+ "event_role": "人事任免",
+ "summary": "湖广巡抚年遐龄明白回奏事，康熙帝论任风厚尚可办事仍着赴任，原参官员免议，年遐龄奏本批知道了。",
+ "people": [
+  {
+   "name": "年遐龄",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "任风厚",
+   "role": "官员"
+  },
+  {
+   "name": "郭琇",
+   "role": "官员"
+  },
+  {
+   "name": "彭鹏",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19711,
+ "page_range": "404-405"
+}

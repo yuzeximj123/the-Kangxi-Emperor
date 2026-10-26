@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十三年六月十六日",
+ "reign_year": 53,
+ "month": 6,
+ "day": 10,
+ "event_role": "奏报灾情收成",
+ "summary": "湖广巡抚刘殿衡奏报楚北早稻收成良好，上等地十分收成、中地八九分，并报米麦价格及晚禾豆菽长势，仰慰圣怀。",
+ "people": [
+  {
+   "name": "刘殿衡",
+   "role": "湖广巡抚、奏报人"
+  },
+  {
+   "name": "额伦特",
+   "role": "督臣（总督）"
+  }
+ ],
+ "places": [
+  "湖广",
+  "楚北",
+  "省城"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示湖广丰收有益于各省，闻之心甚慰。",
+ "source_title": "湖廣巡撫劉殿衡奏報早稻收成分數摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1598",
+ "order_index": 235
+}

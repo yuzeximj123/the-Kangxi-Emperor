@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十八日丁卯",
+ "event_role": "司法案件",
+ "summary": "刑部题原任总兵官吴三从逆拟立斩，康熙帝以其投诚后著有劳绩免死，妻子家属流徙宁古塔。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴三",
+   "role": "原任总兵官"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21914,
+ "page_range": "481-482"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "库勒纳会同选择讲官引见，康熙帝命博济、戴通、翁叔元充补讲官。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "侍郎管翰林院事"
+  },
+  {
+   "name": "博济",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "戴通",
+   "role": "讲官"
+  },
+  {
+   "name": "翁叔元",
+   "role": "少詹事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23201,
+ "page_range": "499-500"
+}

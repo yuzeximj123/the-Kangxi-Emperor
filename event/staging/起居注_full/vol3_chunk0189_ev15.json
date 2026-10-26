@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "二十七日成申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝因高皇后丧事不理事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高皇后",
+   "role": "皇后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18915,
+ "page_range": "413-414"
+}

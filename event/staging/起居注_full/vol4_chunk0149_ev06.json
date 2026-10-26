@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "引归顺众喀尔喀至南门跪听谕旨，康熙帝诏谕喀尔喀汗、济农、诺颜、台吉等，述其离散归附之由及朝廷给地安置、屡予牲畜粮粮、编设扎萨克、颁示定例等恩养之意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀尔喀汗、济农、诺颜、台吉等",
+   "role": "听谕者"
+  }
+ ],
+ "places": [
+  "南门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14906,
+ "page_range": "310-311"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 15,
+ "month": 7,
+ "day_text": "二十六日丙午",
+ "event_role": "皇帝行止",
+ "summary": "申时，康熙帝出南郊大红门，大设卤簿，由正阳门进午门。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南郊大红门",
+  "正阳门",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11838,
+ "page_range": "293-294"
+}

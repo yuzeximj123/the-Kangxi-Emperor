@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十七日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题补户部员外郎缺，康熙帝念传喇纳坐塘勤劳，命补授员外郎并将勤劳之处票出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "拟正"
+  },
+  {
+   "name": "传喇纳",
+   "role": "补授员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5611,
+ "page_range": "155-156"
+}

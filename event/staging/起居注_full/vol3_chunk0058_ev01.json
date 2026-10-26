@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "十一日王申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕申饬总漕邵甘，指其莅任以来无善状且多不妥，邵甘叩首辩解并谢罪乞随至京，帝命随至京。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邵甘",
+   "role": "总漕"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5801,
+ "page_range": "151-152"
+}

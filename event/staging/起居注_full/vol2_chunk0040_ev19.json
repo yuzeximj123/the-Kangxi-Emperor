@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十九日癸卯",
+ "event_role": "弹劾参奏",
+ "summary": "因所造享典席薄帘小，将监造员外郎萨哈等锁拿，并尚书马喇、侍郎党古里交吏部都察院议处。",
+ "people": [
+  {
+   "name": "萨哈",
+   "role": "监造员外郎"
+  },
+  {
+   "name": "马喇",
+   "role": "尚书"
+  },
+  {
+   "name": "党古里",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4019,
+ "page_range": "123-124"
+}

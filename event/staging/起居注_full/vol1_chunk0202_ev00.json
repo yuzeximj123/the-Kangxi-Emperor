@@ -1,0 +1,21 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就产参地远、价贵盗多，谕令乌喇时防官兵中路查缉，使盗自绝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "佛阿喇",
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20200,
+ "page_range": "461-462"
+}

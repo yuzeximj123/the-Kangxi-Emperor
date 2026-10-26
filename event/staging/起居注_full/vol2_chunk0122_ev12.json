@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十一日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "吏部侍郎未赖、科尔坤奏验礼部尚书帅颜保目疾，康熙帝命其勉进署办事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "未赖",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "科尔坤",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "帅颜保",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12212,
+ "page_range": "287-288"
+}

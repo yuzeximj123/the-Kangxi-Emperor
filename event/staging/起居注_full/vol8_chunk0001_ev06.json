@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 1,
+ "day_text": "二十三日辛丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补云南布政使申奇贵、江苏布政使金世扬员缺，康熙帝命问九卿具奏。",
+ "people": [
+  {
+   "name": "申奇贵",
+   "role": "云南布政使"
+  },
+  {
+   "name": "金世扬",
+   "role": "江苏布政使"
+  },
+  {
+   "name": "沙木哈",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "云南",
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 106,
+ "page_range": "13-14"
+}

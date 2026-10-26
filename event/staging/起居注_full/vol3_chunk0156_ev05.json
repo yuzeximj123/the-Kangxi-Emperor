@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十四日成申",
+ "event_role": "人事任免",
+ "summary": "九卿、詹事、科、道会推洗马李应唐提督顺天等处学政，康熙帝询问其为人，王熙等称谨慎寡交，帝命李应广去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李应广",
+   "role": "洗马"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "顺天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15605,
+ "page_range": "347-348"
+}

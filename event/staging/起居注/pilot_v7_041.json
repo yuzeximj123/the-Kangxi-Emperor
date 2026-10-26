@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "三十日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "蓝理奏谢赐母匾额并请一年一次来京瞻仰，康熙帝谕候旨可也。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蓝理",
+   "role": "新授福建提督"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3041
+}

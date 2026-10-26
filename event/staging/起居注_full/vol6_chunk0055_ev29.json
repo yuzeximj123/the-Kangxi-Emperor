@@ -1,0 +1,40 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "十九日庚寅",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问拣选人员情况，伊桑阿奏曹忠正壮年堪用，康熙帝命将曹忠补授浙江船政同知。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "曹忠",
+   "role": "拟补船政同知"
+  },
+  {
+   "name": "王义训",
+   "role": "典籍"
+  },
+  {
+   "name": "张廷麟",
+   "role": "原任布政司"
+  },
+  {
+   "name": "张永茂",
+   "role": "胞弟之子"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5529,
+ "page_range": "120-121"
+}

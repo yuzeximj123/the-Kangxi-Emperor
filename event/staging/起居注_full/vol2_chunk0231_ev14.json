@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十九日丙辰",
+ "event_role": "军务",
+ "summary": "兵部议江西等处战伤残废官兵赏银，康熙帝斥侍卫称森诈称箭伤，令将都统、副都统、兵部堂官及称森交都察院严察。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "称森",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23114,
+ "page_range": "505-506"
+}

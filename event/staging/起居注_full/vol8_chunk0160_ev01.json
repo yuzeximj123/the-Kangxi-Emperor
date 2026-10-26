@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题服阅员外何国柱等仍以员外补用，康熙帝以其善算法超升主事，令问赵申乔是否于户部销算有益，并暂扣其缺。",
+ "people": [
+  {
+   "name": "何国柱",
+   "role": "服阅员外"
+  },
+  {
+   "name": "赵申乔",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16001,
+ "page_range": "331-332"
+}

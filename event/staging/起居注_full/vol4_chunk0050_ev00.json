@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝准李时谦复用，其余依议，王熙奏垄充美粗率。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "垄充美",
+   "role": "官员"
+  },
+  {
+   "name": "李时谦",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5000,
+ "page_range": "112-113"
+}

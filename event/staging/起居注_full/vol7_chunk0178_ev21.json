@@ -1,0 +1,34 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": "二十三日庚戌",
+ "event_role": "人事任免",
+ "summary": "兵部题请差监试乡试举子马步射大臣，康熙帝命苏努、巴浑德、郎图、阿尔纳监试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏努",
+   "role": "监试大臣"
+  },
+  {
+   "name": "巴浑德",
+   "role": "监试大臣"
+  },
+  {
+   "name": "郎图",
+   "role": "监试大臣"
+  },
+  {
+   "name": "阿尔纳",
+   "role": "监试大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17821,
+ "page_range": "367-368"
+}

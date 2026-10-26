@@ -1,0 +1,36 @@
+{
+ "reign_year": 14,
+ "month": 2,
+ "day_text": "二十二日庚戌",
+ "event_role": "其他",
+ "summary": "巳时康熙帝御保和殿举行经筵大典，讲官折库纳、陈裔永进讲《四书》，伊桑阿、徐元文进讲《书经》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "折库纳",
+   "role": "讲官"
+  },
+  {
+   "name": "陈裔永",
+   "role": "讲官"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "讲官"
+  },
+  {
+   "name": "徐元文",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8643,
+ "page_range": "229-230"
+}

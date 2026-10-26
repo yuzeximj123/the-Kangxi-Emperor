@@ -1,0 +1,30 @@
+{
+ "reign_year": 53,
+ "month": 11,
+ "day_text": "初九日本未",
+ "event_role": "司法案件",
+ "summary": "刑部会审缓决案内高进朝等拟罪，康熙帝命桑格、墨克里等监禁缓决，高进朝、马良栋改为情真。",
+ "people": [
+  {
+   "name": "高进朝",
+   "role": "案犯"
+  },
+  {
+   "name": "马良栋",
+   "role": "案犯"
+  },
+  {
+   "name": "桑格",
+   "role": "案犯"
+  },
+  {
+   "name": "墨克里",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7709,
+ "page_range": "165-166"
+}

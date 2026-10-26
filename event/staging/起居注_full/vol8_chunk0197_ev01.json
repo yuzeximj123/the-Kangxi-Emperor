@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院议报雨迟延妄奏之礼部尚书忒布等革职，康熙责忒布声名不堪，命忒布革职，余革职留任效力。",
+ "people": [
+  {
+   "name": "忒布",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "孙征",
+   "role": "尚书"
+  },
+  {
+   "name": "七格",
+   "role": "原任郎中"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19701,
+ "page_range": "405-406"
+}

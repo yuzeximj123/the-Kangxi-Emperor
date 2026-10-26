@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初四日壬申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝召刑部尚书魏象枢至乾清门，问其病状及所服何药，魏象枢奏保定府头眩昏迷、服六君子汤稍愈及署中办事情形，帝命赐参。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "刑部尚书"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "保定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22115,
+ "page_range": "485-486"
+}

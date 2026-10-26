@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十三日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕，称已密谕费扬古截噶尔丹归路，马思喀又进征巴颜乌阑，两路夹攻大事已成，但念从征将士未得一见敌，令少待马思喀信息。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军"
+  },
+  {
+   "name": "马思喀",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "巴颜乌阑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13110,
+ "page_range": "272-273"
+}

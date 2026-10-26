@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十九年十二月十二日",
+ "reign_year": 59,
+ "month": 12,
+ "day": 4,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州近日米价及雨水天时，进呈十月晴雨录，并转呈署理许关喀尔吉善所送奏折一封。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "喀尔吉善",
+   "role": "署理许关，托李煦转呈奏折"
+  }
+ ],
+ "places": [
+  "苏州",
+  "福州",
+  "许关"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏賀定西將軍在西藏獲勝摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2906",
+ "order_index": 304
+}

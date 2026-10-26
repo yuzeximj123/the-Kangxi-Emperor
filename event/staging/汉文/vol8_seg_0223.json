@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙五十八年九月初十日",
+ "reign_year": 58,
+ "month": 9,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报福州早稻已收割、晚稻将收成十分，米价平稳，地方安宁，并进呈八月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "福州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報蘇州早晚稻收成分數並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2820",
+ "order_index": 223
+}

@@ -1,0 +1,58 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "军务",
+ "summary": "江南提督赵珀奏报查阅松江等镇兵马，鸟枪不合式已照旗式改造并拟颁行全省，另奏报随丁马步粮及节礼银两数目，恳请圣恩定数赏收。",
+ "people": [
+  {
+   "name": "赵珀",
+   "role": "江南提督，奏报人"
+  },
+  {
+   "name": "张棠",
+   "role": "盗贼，被缉拿对象"
+  },
+  {
+   "name": "张云翼",
+   "role": "前抚提督"
+  },
+  {
+   "name": "师懿德",
+   "role": "提督，移驻松江泗泾"
+  },
+  {
+   "name": "靳泰",
+   "role": "差遣家人"
+  },
+  {
+   "name": "常福",
+   "role": "差遣家人"
+  },
+  {
+   "name": "张拣其",
+   "role": "差遣家人"
+  }
+ ],
+ "places": [
+  "江南",
+  "松江",
+  "崇明",
+  "狼山",
+  "泗泾",
+  "金山",
+  "刘河",
+  "川沙",
+  "南汇",
+  "青村",
+  "柘林"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 169
+}

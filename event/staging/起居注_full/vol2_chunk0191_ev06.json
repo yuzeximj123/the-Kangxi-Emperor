@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十五日丁酉",
+ "event_role": "司法案件",
+ "summary": "三法司议强盗马伯元等四人立斩，康熙帝以未杀伤人命有疑，勒德洪等奏仍依部议，帝准依部议。",
+ "people": [
+  {
+   "name": "马伯元",
+   "role": "强盗"
+  },
+  {
+   "name": "萧通",
+   "role": "被劫者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19106,
+ "page_range": "425-426"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "酉时康熙帝亲往内大臣庇行宫问安，并奏报五台山诸寺恭代瞻礼已毕，当日驻跸白让村。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "庇",
+   "role": "内大臣"
+  }
+ ],
+ "places": [
+  "白让村",
+  "五台山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22700,
+ "page_range": "497-498"
+}

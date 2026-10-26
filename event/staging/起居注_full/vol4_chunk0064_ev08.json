@@ -1,0 +1,34 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "帝谕总漕马世济有疾才不能胜任，以原品休致随旗上朝，总漕员缺着董纳补授。",
+ "people": [
+  {
+   "name": "马世济",
+   "role": "总漕"
+  },
+  {
+   "name": "董纳",
+   "role": "补授总漕"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "沙海",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6408,
+ "page_range": "140-141"
+}

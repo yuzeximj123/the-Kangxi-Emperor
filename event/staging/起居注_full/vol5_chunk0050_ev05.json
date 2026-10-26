@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "二十日甲申",
+ "event_role": "朝见受贺",
+ "summary": "三河县驻防防守御马库等、知县高萌丁、守备周渭等来朝见。",
+ "people": [
+  {
+   "name": "马库",
+   "role": "三河县驻防防守御"
+  },
+  {
+   "name": "高萌丁",
+   "role": "三河县知县"
+  },
+  {
+   "name": "周渭",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "三河县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5005,
+ "page_range": "110-111"
+}

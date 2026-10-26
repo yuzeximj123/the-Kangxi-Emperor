@@ -1,0 +1,20 @@
+{
+ "reign_year": 11,
+ "month": 11,
+ "day_text": "初三日甲成",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝于南郊坛恭行祭祀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南郊坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2724,
+ "page_range": "111-112"
+}

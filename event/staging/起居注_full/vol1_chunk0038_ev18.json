@@ -1,0 +1,42 @@
+{
+ "reign_year": 12,
+ "month": 3,
+ "day_text": "十一日辛巳",
+ "event_role": "司法案件",
+ "summary": "康熙帝询问刑部尚书莫洛等奴仆马二持刀杀主赵子金案有无可疑，莫洛等称证据确凿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "莫洛",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "艾元征",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "阿范",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "任克请",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "马二",
+   "role": "奴仆"
+  },
+  {
+   "name": "赵子金",
+   "role": "主人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3818,
+ "page_range": "133-134"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": "二十日癸西",
+ "event_role": "人事任免",
+ "summary": "康熙御正门，兵部侍郎党阿珊、查强纳引见应升副将、参将、游击、守备之王觉等五十三人，阅射补授。",
+ "people": [
+  {
+   "name": "党阿珊",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "查强纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "王觉",
+   "role": "应升武官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19309,
+ "page_range": "397-398"
+}

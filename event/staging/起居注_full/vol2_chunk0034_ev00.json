@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "给事中姚缔虞请保养圣躬遵旨回奏，康熙询问明珠等意见，明珠称公同商议因本内无所指故拟票如此，康熙颔之。",
+ "people": [
+  {
+   "name": "姚缔虞",
+   "role": "给事中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3400,
+ "page_range": "111-112"
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十五年七月初一日",
+ "reign_year": 45,
+ "month": 7,
+ "day": null,
+ "event_role": "其他",
+ "summary": "曹寅奏报已派人四处访觅精通校对者，在丰润、仪真、扬州间随校随写刊刻《全唐诗》，不敢懈怠。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "丰润",
+  "仪真",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并称赞该书凡例很好。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "180",
+ "source_title": "江宁织造曹寅奏报校刊全唐诗不敢少怠摺",
+ "order_index": 84
+}

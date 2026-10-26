@@ -1,0 +1,42 @@
+{
+ "reign_year": 27,
+ "month": 12,
+ "day_text": "初五日甲扶",
+ "event_role": "人事任免",
+ "summary": "吏部题左都御史徐元文所题台班员缺，请将革职李时谦、故充美复用议不准行，康熙帝询问二人如何。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元文",
+   "role": "左都御史"
+  },
+  {
+   "name": "李时谦",
+   "role": "革职官员"
+  },
+  {
+   "name": "故充美",
+   "role": "革职官员"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "郭玫",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4926,
+ "page_range": "110-111"
+}

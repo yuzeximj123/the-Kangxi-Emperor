@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十一日庚申",
+ "event_role": "议政听政",
+ "summary": "兵部议西安驻防左翼四旗及八旗汉军官兵应给车辆价值事，明珠奏请分队前往以免扰民，康熙帝询问公议。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21617,
+ "page_range": "475-476"
+}

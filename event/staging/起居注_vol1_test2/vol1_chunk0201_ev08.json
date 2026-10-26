@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "辰时",
+ "event_role": "其他",
+ "summary": "康熙帝问魏象枢子嗣及宗族科第历官，象枢一一奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "魏学诚",
+   "role": "象枢长子、康熙乙卯科举人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20108,
+ "page_range": "459-460"
+}

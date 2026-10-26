@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初十日庚午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝令明珠传谕王用予，嘉其行间劳绩，拨给上第居住并遣内庭人役供应，王用予辞谢内庭人役，帝从其请。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王用予",
+   "role": "总兵官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22105,
+ "page_range": "499-500"
+}

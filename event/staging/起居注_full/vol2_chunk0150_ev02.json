@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝以免死之犯成德悖逆，命发宁古塔、乌喇极苦之地，并及王继祯、杨来嘉等已发遣者。",
+ "people": [
+  {
+   "name": "成德",
+   "role": "免死罪犯"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王继祯",
+   "role": "免死发遣犯"
+  },
+  {
+   "name": "杨来嘉",
+   "role": "免死发遣犯"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15002,
+ "page_range": "343-344"
+}

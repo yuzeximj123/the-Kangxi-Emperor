@@ -1,0 +1,47 @@
+{
+ "date_raw": "康熙五十九年玖月",
+ "reign_year": 59,
+ "month": 9,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "云南巡抚佟毓秀奏报滇省今年雨水调匀、各府收成丰稔，为近年所无。",
+ "people": [
+  {
+   "name": "佟毓秀",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "云南",
+  "顺天府",
+  "清能",
+  "安澂江",
+  "大理",
+  "永昌",
+  "姚安",
+  "楚雄",
+  "鹤庆",
+  "蒙化",
+  "元江",
+  "开化",
+  "武定",
+  "景东",
+  "广西",
+  "江永北",
+  "广南",
+  "顺宁",
+  "粤沅",
+  "者乐甸"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": null,
+ "order_index": 96
+}

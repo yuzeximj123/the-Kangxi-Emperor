@@ -1,0 +1,27 @@
+{
+ "reign_year": 13,
+ "month": 10,
+ "day_text": "二十一日辛亥",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝前往西宫，奉太皇太后出大红门，由正阳门进午门，亲侍太皇太后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "西宫",
+  "大红门",
+  "正阳门",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8010,
+ "page_range": "217-218"
+}

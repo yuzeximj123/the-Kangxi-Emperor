@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "十九日庚午",
+ "event_role": "赏赐",
+ "summary": "康熙帝将至苇井堡，百姓执香跪接，见百岁老人陈世学无男嗣仅有一女赡养，怜其年老无依，赐白金十两。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈世学",
+   "role": "百岁老人"
+  }
+ ],
+ "places": [
+  "苇井堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19908,
+ "page_range": "408-409"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十九日甲戌",
+ "event_role": "人事任免",
+ "summary": "户部题天津等处关差事，康熙帝以张下走、马齐才力不及且项官见在监督修理，命不必差遣另拟具奏。",
+ "people": [
+  {
+   "name": "张下走",
+   "role": "官员"
+  },
+  {
+   "name": "马齐",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1620,
+ "page_range": "75-76"
+}

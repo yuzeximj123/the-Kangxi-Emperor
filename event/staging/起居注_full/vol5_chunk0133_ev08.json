@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "臣等钦惟粮饷为军兴要务，述康熙帝预筹运饷、亲征噶尔丹、追至拖讷山及西路大败噶尔丹之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "于成龙",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "克鲁伦河",
+  "拖讷山",
+  "厄鲁特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13308,
+ "page_range": "276-277"
+}

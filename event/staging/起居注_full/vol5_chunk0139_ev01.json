@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "二十三日戊寅",
+ "event_role": "谕旨决策",
+ "summary": "奏请拨给御营现有人口七日米粮，康熙帝命交于成龙，由大学士伊桑阿看给。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "御营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13901,
+ "page_range": "288-289"
+}

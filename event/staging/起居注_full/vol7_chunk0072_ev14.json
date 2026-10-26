@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初三日乙效",
+ "event_role": "朝见受贺",
+ "summary": "皇太后圣诞，康熙帝率诸王以下及内大臣侍卫大学士赴宁寿宫行庆贺礼，文武诸臣于午门前随行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁寿宫",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7214,
+ "page_range": "155-156"
+}

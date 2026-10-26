@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命进讲《易经》，并将《通鉴》讲章陆续送入，令张英在内每晚进讲《通鉴》。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张英",
+   "role": "内廷讲官"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23501,
+ "page_range": "527-528"
+}

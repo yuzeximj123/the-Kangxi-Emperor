@@ -1,0 +1,21 @@
+{
+ "reign_year": 11,
+ "month": 12,
+ "day_text": "三十日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "昧爽，康熙帝前往南苑，视太皇太后行宫，不听政事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南苑",
+  "太皇太后行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2908,
+ "page_range": "115-116"
+}

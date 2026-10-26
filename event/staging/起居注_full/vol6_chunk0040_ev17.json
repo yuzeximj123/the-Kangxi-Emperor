@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": "二十七日辛未",
+ "event_role": "人事任免",
+ "summary": "盛京将军公绰克度员缺拟以贝子苏努补授，康熙帝令苏努暂理将军事务，不必携带家属，二年后另请补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏努",
+   "role": "贝子"
+  },
+  {
+   "name": "绰克度",
+   "role": "盛京将军"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4017,
+ "page_range": "90-91"
+}

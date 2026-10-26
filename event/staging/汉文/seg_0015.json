@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙四十三年八月",
+ "reign_year": 43,
+ "month": 8,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "四川提督岳昇龙奏请宽处董卜印冤案内有关土司，建议将威土司革职带罪护理，待其子年长后交代。",
+ "people": [
+  {
+   "name": "岳昇龙",
+   "role": "奏报人"
+  },
+  {
+   "name": "朋吉卜",
+   "role": "涉及人物"
+  },
+  {
+   "name": "于养志",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "17",
+ "source_title": "四川提督岳昇龙奏请宽处董卜印冤案内有关土司事折",
+ "order_index": 15
+}

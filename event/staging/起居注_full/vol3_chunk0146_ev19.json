@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初七日辛酉",
+ "event_role": "人事任免",
+ "summary": "兵部题川北总兵官王屏芜病故员缺，康熙帝令就近山西、直隶现任副将查奏。",
+ "people": [
+  {
+   "name": "王屏芜",
+   "role": "川北总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "川北",
+  "山西",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14619,
+ "page_range": "327-328"
+}

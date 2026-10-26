@@ -1,0 +1,33 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": "二十四日癸酉",
+ "event_role": "朝见受贺",
+ "summary": "顺义县防守御常存等、知县杨棠等，怀柔县知县于执中等、守备赵成贵等来朝。",
+ "people": [
+  {
+   "name": "常存",
+   "role": "顺义县防守御"
+  },
+  {
+   "name": "杨棠",
+   "role": "顺义县知县"
+  },
+  {
+   "name": "于执中",
+   "role": "怀柔县知县"
+  },
+  {
+   "name": "赵成贵",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "顺义县",
+  "怀柔县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24726,
+ "page_range": "505-506"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 11,
+ "month": 3,
+ "day_text": "二十二日戊搬",
+ "event_role": "其他",
+ "summary": "康熙帝命内务府总管噶禄赏赐拜音达礼缎五匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶禄",
+   "role": "内务府总管"
+  },
+  {
+   "name": "拜音达礼",
+   "role": "镇守宣府昌密等处总兵都督佥事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1111,
+ "page_range": "79-80"
+}

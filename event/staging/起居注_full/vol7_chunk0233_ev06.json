@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "初五日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以御笔朱书谕旨示九卿，论张伯行居官清正但才不如守，噶礼才敏而性喜生事，互参之案因私隙，所议是非颠倒，令九卿公阅据实面奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  },
+  {
+   "name": "傻子",
+   "role": "奏事治仪正"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23306,
+ "page_range": "477-478"
+}

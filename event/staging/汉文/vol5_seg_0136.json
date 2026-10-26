@@ -1,0 +1,26 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "浙江提督吴郡的请安奏折在途中被山水冲没，康熙朱批说明折中只批了朕安二字，并称来送折之人无罪。",
+ "people": [
+  {
+   "name": "吴郡",
+   "role": "浙江提督，奏折具奏人"
+  },
+  {
+   "name": "朕",
+   "role": "康熙皇帝，朱批者"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙说明原折只批有“朕安”二字，且来送折之人无罪。",
+ "source_title": "浙江提督請安",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 136
+}

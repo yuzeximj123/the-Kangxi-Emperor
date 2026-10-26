@@ -1,0 +1,30 @@
+{
+ "reign_year": 13,
+ "month": 2,
+ "day_text": "初一日乙未",
+ "event_role": "谕旨决策",
+ "summary": "翰林院学士熊赐履、侍读学士喇沙里启奏经筵讲章毕，康熙帝召喇沙里至御座前，谕知太皇太后恩赏出征及驻防官兵银两之事，令记注官记录。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "喇沙里",
+   "role": "侍读学士"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6609,
+ "page_range": "189-190"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 7,
+ "day_text": "十四日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问学士博济为人，阿兰泰奏其办事不能有星人但性沉实可用，康熙帝以为然。",
+ "people": [
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "博济",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14916,
+ "page_range": "308-309"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "因陕西庆阳、凤翔两府知府员缺，康熙询问伊桑阿等有无知者，命传译渊补授凤翔府知府、李上补授庆阳府知府。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "传译渊",
+   "role": "补授凤翔府知府"
+  },
+  {
+   "name": "李上",
+   "role": "补授庆阳府知府"
+  }
+ ],
+ "places": [
+  "陕西",
+  "庆阳府",
+  "凤翔府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19600,
+ "page_range": "402-403"
+}

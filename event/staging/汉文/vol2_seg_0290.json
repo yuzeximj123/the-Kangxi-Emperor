@@ -1,0 +1,25 @@
+{
+ "date_raw": "康熙四十九年三月二十四日",
+ "reign_year": 49,
+ "month": 3,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚沈朝聘上奏向康熙帝请安，并报告地方得雨情况，康熙朱批告知京中降雨及雨已接湿土。",
+ "people": [
+  {
+   "name": "沈朝聘",
+   "role": "直隶巡抚、都察院右副都御史"
+  }
+ ],
+ "places": [
+  "直隶",
+  "京中"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知京中二十五日晚下雨、二十六日未晴，雨虽不大但已接湿土。",
+ "source_title": "河南巡撫鹿祐奏報各屬雨足苗盛並無蝗蝻摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "646",
+ "order_index": 290
+}

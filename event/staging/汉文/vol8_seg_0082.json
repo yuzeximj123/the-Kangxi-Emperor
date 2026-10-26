@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾柒年柒月初五日",
+ "reign_year": 57,
+ "month": 7,
+ "day": 5,
+ "event_role": "请安谢恩",
+ "summary": "四川松潘总兵官卓策奏报松潘番汉人民播种杂粮长势茂盛、收成可望，并遣人恭请圣安。",
+ "people": [
+  {
+   "name": "卓策",
+   "role": "四川松潘总兵官"
+  },
+  {
+   "name": "丁亨裕",
+   "role": "卓策亲信，遣往请安"
+  },
+  {
+   "name": "翁禧",
+   "role": "卓策亲信，遣往请安"
+  }
+ ],
+ "places": [
+  "四川",
+  "松潘"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知自己安好，并称所奏之事已知晓。",
+ "source_title": "四川松潘总兵官卓策奏报驻札收成并请安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 82
+}

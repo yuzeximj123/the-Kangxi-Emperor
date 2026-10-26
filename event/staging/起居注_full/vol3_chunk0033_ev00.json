@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就总督徐国相到任即行揭报亢从时贪污一事，命写与大学士询问意见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐国相",
+   "role": "总督"
+  },
+  {
+   "name": "王新命",
+   "role": "巡抚"
+  },
+  {
+   "name": "亢从时",
+   "role": "武昌同知"
+  }
+ ],
+ "places": [
+  "武昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3300,
+ "page_range": "101-102"
+}

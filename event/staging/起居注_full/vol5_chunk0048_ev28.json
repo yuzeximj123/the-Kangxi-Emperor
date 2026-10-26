@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": "十二日丙子",
+ "event_role": "人事任免",
+ "summary": "提督江南学政邵员车病故员缺，康熙帝以张鹏副居官好、操守廉洁，命其提督江南学政并速赴任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邵员车",
+   "role": "提督江南学政"
+  },
+  {
+   "name": "陈元龙",
+   "role": "侍读"
+  },
+  {
+   "name": "张鹏副",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4828,
+ "page_range": "106-107"
+}

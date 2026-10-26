@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补噶喇大员缺，康熙帝以喇都浑年少人优当在此效力，命将陪推浑泰补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇都浑",
+   "role": "佐领"
+  },
+  {
+   "name": "浑泰",
+   "role": "拜他喇布勒哈番"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4503,
+ "page_range": "133-134"
+}

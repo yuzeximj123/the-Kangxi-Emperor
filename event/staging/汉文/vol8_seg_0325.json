@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙六十年六月二十五日",
+ "reign_year": 60,
+ "month": 6,
+ "day": 9,
+ "event_role": "其他",
+ "summary": "年羹尧奏报抵京后因罗瞎子招摇且抱病未往见其推算，附奏说明并非敢于违旨，并请罪。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "川陕总督，奏报人"
+  },
+  {
+   "name": "罗瞎子",
+   "role": "在京招摇且抱病的推算之人"
+  }
+ ],
+ "places": [
+  "京",
+  "陕"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称此人本有些不老实，但占卜还算准。",
+ "source_title": "川陝總督年羹堯奏陳自京至陝沿途雨水情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2933",
+ "order_index": 325
+}

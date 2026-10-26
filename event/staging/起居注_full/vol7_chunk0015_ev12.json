@@ -1,0 +1,31 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "十一日壬辰",
+ "event_role": "奏报灾情收成",
+ "summary": "户部题江南盱眙等三县饥民米谷数目不符，康熙帝论高家堰修筑致上流州县冲决，令交张鹏翮查勘。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "江南",
+  "盱眙",
+  "高家堰",
+  "清口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1512,
+ "page_range": "41-42"
+}

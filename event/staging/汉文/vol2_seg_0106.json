@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十二年八月初二日",
+ "reign_year": 52,
+ "month": 8,
+ "day": 2,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮上奏向康熙皇帝请安，康熙朱批告知自己身体已大好、精神日佳。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "巡抚直隶等处地方、提督军务、兼理粮饷、管辖紫荆密云等关隘、兼理屯田、都察院右副都御史、加玖级"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批告知自己身体已痊愈，精神日益好转。",
+ "source_title": "赵弘燮奏请圣安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 106
+}

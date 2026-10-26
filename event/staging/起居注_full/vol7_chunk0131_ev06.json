@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "初九日癸巳",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内澹宁居听政，吏部尚书温达入奏事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "吏部尚书"
+  }
+ ],
+ "places": [
+  "畅春园澹宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13106,
+ "page_range": "273-274"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "初七日己未",
+ "event_role": "谕旨决策",
+ "summary": "诸王大臣奏请康熙帝少节哀劳先行奉迎，康熙帝以不忍离梓宫为由不允。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诸王",
+   "role": "王"
+  },
+  {
+   "name": "大臣",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2509,
+ "page_range": "62-63"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 11,
+ "month": 3,
+ "day_text": "二十二日戊搬",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝起驾回京，卯时到汤泉探视太皇太后，亲自扶帘持辕步行，送至兴仁堡行宫后返回，当日驻跸兴仁堡。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "汤泉",
+  "兴仁堡",
+  "兴仁堡行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1108,
+ "page_range": "79-80"
+}

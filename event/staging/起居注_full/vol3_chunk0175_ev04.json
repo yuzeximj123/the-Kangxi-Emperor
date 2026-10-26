@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 6,
+ "day_text": "二十日王申",
+ "event_role": "人事任免",
+ "summary": "明珠等奏九卿议河东运使张鹏副居官颇善有清操，前会议未推举，康熙帝命张鹏副内升。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张鹏副",
+   "role": "河东运使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17504,
+ "page_range": "385-386"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十二日丙申",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝召库勒纳、对亲至懋勤殿，命赍赐直隶巡抚于成龙内帑银一千两及鞍马，嘉其廉洁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "学士"
+  },
+  {
+   "name": "对亲",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "懋勤殿",
+  "巩华城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3813,
+ "page_range": "119-120"
+}

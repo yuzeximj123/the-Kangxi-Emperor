@@ -1,0 +1,29 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": "初六日丙子",
+ "event_role": "谕旨决策",
+ "summary": "兵部题宣府总兵官许盛请游击吴良骏等效力边地议不准行，康熙帝以许盛多事，着发回兵部议加申饬。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许盛",
+   "role": "宣府总兵官"
+  },
+  {
+   "name": "吴良骏",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "宣府",
+  "边地"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24322,
+ "page_range": "498-499"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论范承勋等居官虽善尚有勉强之意，于成龙出自诚心毫无瞻顾，命加于成龙宫保衔并撰旨。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22301,
+ "page_range": "481-482"
+}

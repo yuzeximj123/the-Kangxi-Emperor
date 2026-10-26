@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令将厄鲁特男妇幼稚三十八口交鄂克济哈照常给食，并规定来降及各处送来厄鲁特的开报、送行在办法。",
+ "people": [
+  {
+   "name": "鄂克济哈",
+   "role": "接收安置官员"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "行在"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21600,
+ "page_range": "442-443"
+}

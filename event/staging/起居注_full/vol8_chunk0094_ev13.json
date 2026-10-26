@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "二十五日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论汉人好寻仇报复之风，称赞大学士等四人同心不分尔我，王乒奏对树党报仇不可存念。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王乒",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东",
+  "直隶",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9413,
+ "page_range": "199-200"
+}

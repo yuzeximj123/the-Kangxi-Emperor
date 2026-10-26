@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初七日乙亥",
+ "event_role": "人事任免",
+ "summary": "吏部题补礼部侍郎员缺，康熙帝命刑部侍郎元哈调补礼部侍郎，学士佛伦补元哈员缺。",
+ "people": [
+  {
+   "name": "元哈",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "祁通格",
+   "role": "候补侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22212,
+ "page_range": "487-488"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 16,
+ "month": 6,
+ "day_text": "十七日",
+ "event_role": "其他",
+ "summary": "未时，康熙帝召沈荃至懋勤殿，出示御府晋、唐、宋、元名迹及“淳化”“兰亭”诸帖，沈荃奏请以《贞观政要》置左右省览，康熙帝论魏征尽言极谏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈荃",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13945,
+ "page_range": "335-336"
+}

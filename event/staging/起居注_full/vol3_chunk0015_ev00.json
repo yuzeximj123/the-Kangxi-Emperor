@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝称色能格人才可用，命补郎中，并赞辛保亦优、堂官称其善，明珠附和。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色能格",
+   "role": "拟补郎中"
+  },
+  {
+   "name": "辛保",
+   "role": "外郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1500,
+ "page_range": "65-66"
+}

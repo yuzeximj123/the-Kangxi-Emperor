@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十八日庚午",
+ "event_role": "司法案件",
+ "summary": "都察院题奉旨拟斩之葡佳选妻及子入辛者库，鄂伦岱等交刑部议，康熙命传问鄂伦岱明日具奏。",
+ "people": [
+  {
+   "name": "葡佳选",
+   "role": "拟斩之人"
+  },
+  {
+   "name": "鄂伦岱",
+   "role": "公"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23112,
+ "page_range": "472-473"
+}

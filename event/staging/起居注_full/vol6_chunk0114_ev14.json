@@ -1,0 +1,52 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "初二日丙寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，部院各衙门官员面奏，大学士伊桑阿等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴瑞",
+   "role": "大学士"
+  },
+  {
+   "name": "李录予",
+   "role": "学士"
+  },
+  {
+   "name": "钱齐保",
+   "role": "学士"
+  },
+  {
+   "name": "胡会轧",
+   "role": "学士"
+  },
+  {
+   "name": "特默德",
+   "role": "学士"
+  },
+  {
+   "name": "白硕色",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11414,
+ "page_range": "238-239"
+}

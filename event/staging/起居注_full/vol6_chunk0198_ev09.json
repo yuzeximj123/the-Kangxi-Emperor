@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "初七日甲子",
+ "event_role": "谕旨决策",
+ "summary": "户部覆广西巡抚彭觅题请停解生铜，议不准行，康熙帝以路遥地险恐累民，令问宝泉局及工部铜作何用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭觅",
+   "role": "广西巡抚"
+  }
+ ],
+ "places": [
+  "广西",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19809,
+ "page_range": "406-407"
+}

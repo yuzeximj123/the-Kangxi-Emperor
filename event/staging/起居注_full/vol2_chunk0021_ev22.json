@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十七日壬寅",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝以奉命大将军和硕康亲王杰舒自福建凯旋，率众迎接。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和硕康亲王杰舒",
+   "role": "奉命大将军"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2122,
+ "page_range": "85-86"
+}

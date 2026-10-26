@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 7,
+ "day_text": "初八日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部等衙门题补詹事府右赞善员缺，康熙准以典籍参忒补授赞善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "侍郎"
+  },
+  {
+   "name": "参忒",
+   "role": "典籍"
+  },
+  {
+   "name": "鄂勒",
+   "role": "中书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9915,
+ "page_range": "233-234"
+}

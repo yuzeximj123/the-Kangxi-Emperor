@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初八日两辰",
+ "event_role": "谕旨决策",
+ "summary": "户部题广西布政司教化新亏空库银应取原任巡抚王起元口供，康熙帝斥议诞妄，令堂官率司员面奏、发回另议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凯音布",
+   "role": "户部尚书"
+  },
+  {
+   "name": "教化新",
+   "role": "广西布政司"
+  },
+  {
+   "name": "王起元",
+   "role": "原任巡抚"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2915,
+ "page_range": "69-70"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十七年十二月二十七日",
+ "reign_year": 47,
+ "month": 12,
+ "day": 3,
+ "event_role": "请安谢恩",
+ "summary": "福建巡抚张伯行奏报自己入冬后旧病复发、一度昏迷，幸得皇上睿鉴而万安，并恭报病势渐减情形，请求皇上放心。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚（奏折题名所署）"
+  },
+  {
+   "name": "张伯行",
+   "role": "福建巡抚，奏报病情者"
+  }
+ ],
+ "places": [
+  "福建",
+  "直隶"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称自立春以来饮食起居渐觉平和，气血虽弱似乎无妨，可放心。",
+ "source_title": "直隸巡撫趙弘燮奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "434",
+ "order_index": 97
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "二十日癸酉",
+ "event_role": "人事任免",
+ "summary": "吏部题补副都御史开列宋文运等，康熙帝称宋文运似属可用，李需等奏其守清行。",
+ "people": [
+  {
+   "name": "宋文运",
+   "role": "顺天府府尹"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  },
+  {
+   "name": "冯清",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4418,
+ "page_range": "131-132"
+}

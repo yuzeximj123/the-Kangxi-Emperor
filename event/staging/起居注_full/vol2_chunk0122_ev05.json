@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十日己卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕差往敕封朝鲜国王妃的学士阿兰泰等，出使外国当思大体、遵定例而行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12205,
+ "page_range": "287-288"
+}

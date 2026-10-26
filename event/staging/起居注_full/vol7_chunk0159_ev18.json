@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初一日庚寅",
+ "event_role": "军务",
+ "summary": "兵部题宣化总兵康泰等未查拿口外逃犯李得功议革职，康熙帝以太过，令照失察例再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "康泰",
+   "role": "宣化总兵官"
+  },
+  {
+   "name": "李得功",
+   "role": "逃犯"
+  }
+ ],
+ "places": [
+  "宣化"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15918,
+ "page_range": "329-330"
+}

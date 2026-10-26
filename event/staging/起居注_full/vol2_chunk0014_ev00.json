@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "康熙帝御感勤殿，讲官库勒纳、叶方获、张玉书进讲《利建修行师》一节及《条日蚤刚应而志行》三节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方获",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "感勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1400,
+ "page_range": "71-72"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "初九日庚寅",
+ "event_role": "军务",
+ "summary": "议政王贝勒大臣会议遣满兵屯驻盛京等处，康熙帝虑米价腾贵，命侍郎郭薄、学士禅布驰驿往问将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭薄",
+   "role": "侍郎"
+  },
+  {
+   "name": "禅布",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18611,
+ "page_range": "407-408"
+}

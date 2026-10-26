@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "十六日己未",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题总督华显查明甘肃巡抚齐世武所参原任道员张信婪索等事俱虚诬，康熙帝令张信复原职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "华显",
+   "role": "总督"
+  },
+  {
+   "name": "齐世武",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "张信",
+   "role": "原任道员"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6918,
+ "page_range": "149-150"
+}

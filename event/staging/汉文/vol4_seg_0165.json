@@ -1,0 +1,25 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "福建巡抚李成龙奏报台湾远在海外、关系甚重，并说明地方事务应依例具题、重大事务须详慎斟酌题请。",
+ "people": [
+  {
+   "name": "李成龙",
+   "role": "福建巡抚"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "福建巡抚奏明台湾事",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 165
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 36,
+ "month": 8,
+ "day_text": "十七日甲子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸足石山谷。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "足石山谷"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 908,
+ "page_range": "28-29"
+}

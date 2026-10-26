@@ -1,0 +1,43 @@
+{
+ "date_raw": "康熙肆拾贰年伍月贰拾日",
+ "reign_year": 42,
+ "month": 5,
+ "day": 20,
+ "event_role": "奏报地方情形",
+ "summary": "赵弘燮奏报庆云、广平、临城三县民生困苦，请求缓征新旧钱粮以纾民力。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "李光地",
+   "role": "涉及人物"
+  },
+  {
+   "name": "鲍鈜",
+   "role": "联署人"
+  },
+  {
+   "name": "祖良模",
+   "role": "联署人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "河间府",
+  "庆云县",
+  "广平府",
+  "广平县",
+  "真定府",
+  "临城县",
+  "盐城县"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": null,
+ "order_index": 126
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十二日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部遵旨开列湖南布政使王道熙员缺保举之广东按察使张仲信等七人，康熙帝以施世纶居官优长、九卿曾保举，命即行补授。",
+ "people": [
+  {
+   "name": "王道熙",
+   "role": "湖南布政使"
+  },
+  {
+   "name": "张仲信",
+   "role": "广东按察使"
+  },
+  {
+   "name": "施世纶",
+   "role": "被补授官员"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23010,
+ "page_range": "470-471"
+}

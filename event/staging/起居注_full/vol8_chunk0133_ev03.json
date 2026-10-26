@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "差往图尔胡特地方之内阁侍读学士委酒纳等与鄂尔斯官员相见问答呈览二折，康熙指其多有缺略不合，命问明改正具奏。",
+ "people": [
+  {
+   "name": "委酒纳",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "图礼慎",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "图尔胡特",
+  "鄂尔斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13303,
+ "page_range": "277-278"
+}

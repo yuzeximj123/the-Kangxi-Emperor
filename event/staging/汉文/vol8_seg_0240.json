@@ -1,0 +1,42 @@
+{
+ "date_raw": "康熙五十九年二月初二日",
+ "reign_year": 59,
+ "month": 2,
+ "day": 2,
+ "event_role": "谕旨决策",
+ "summary": "直隶总督赵弘燮奏报遵奉谕旨，差传临洺关通判朱维钧父子进京，供诚亲王等询问其通晓词曲之事。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督、兵部右侍郎兼都察院右副都御史"
+  },
+  {
+   "name": "朱维钧",
+   "role": "临洺关通判，被传进京"
+  },
+  {
+   "name": "蒋廷锡",
+   "role": "内阁学士，传旨者"
+  },
+  {
+   "name": "诚亲王",
+   "role": "传旨询问朱维钧父子词曲者"
+  },
+  {
+   "name": "十六阿哥",
+   "role": "与诚亲王一同传旨者"
+  }
+ ],
+ "places": [
+  "直隶",
+  "临洺关",
+  "广平府"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸總督趙弘燮奏報遵旨差傳朱維均父子進京摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2848",
+ "order_index": 240
+}

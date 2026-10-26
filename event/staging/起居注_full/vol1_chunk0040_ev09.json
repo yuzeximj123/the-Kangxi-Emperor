@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 4,
+ "day_text": "二十九日己亥",
+ "event_role": "谕旨决策",
+ "summary": "因二十七至二十八日霖雨大降，康熙帝遣一等侍卫依都额真对亲等出郊查看田苗。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "依都额真对亲",
+   "role": "一等侍卫"
+  }
+ ],
+ "places": [
+  "郊外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4009,
+ "page_range": "137-138"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": "二十三日庚戌",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门覆直隶巡抚赵弘党所题范从贵被范建仲殴伤抽风身死案，拟立斩，康熙帝改为应斩监候，秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "范从贵",
+   "role": "死者"
+  },
+  {
+   "name": "范建仲",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17823,
+ "page_range": "367-368"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "初五日庚午",
+ "event_role": "司法案件",
+ "summary": "理藩院题察哈尔盗马案，康熙帝命阿毕达从宽免死来京披甲，赛音七克等革职留任效力三年。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿毕达",
+   "role": "盗马首犯"
+  },
+  {
+   "name": "天才",
+   "role": "从犯"
+  },
+  {
+   "name": "傅尔丹",
+   "role": "总管"
+  },
+  {
+   "name": "赛音七克",
+   "role": "总管"
+  }
+ ],
+ "places": [
+  "察哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9211,
+ "page_range": "195-196"
+}

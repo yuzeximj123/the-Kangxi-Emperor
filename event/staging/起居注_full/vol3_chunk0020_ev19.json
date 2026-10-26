@@ -1,0 +1,27 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十六日辛刻",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝问吏部尚书伊桑阿盛京至京雨水禾稼情形，伊桑阿奏报沿途雨水调和、禾稼茂盛。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "吏部尚书"
+  }
+ ],
+ "places": [
+  "盛京",
+  "山海关",
+  "获州",
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2019,
+ "page_range": "75-76"
+}

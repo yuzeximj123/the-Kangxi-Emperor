@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "十二日本卯",
+ "event_role": "司法案件",
+ "summary": "偏沅巡抚赵申乔题袁琨夺棍误杀小功权拟斩监候，查律无此例仍依律拟立斩，康熙帝谕示。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "袁琨",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "偏沅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12629,
+ "page_range": "263-264"
+}

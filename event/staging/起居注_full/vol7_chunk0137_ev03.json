@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝论刑部事重大，常寿错审多，巢可托能文敬慎精细，命调常寿为工部侍郎、巢可托为刑部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "巢可托",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13703,
+ "page_range": "285-286"
+}

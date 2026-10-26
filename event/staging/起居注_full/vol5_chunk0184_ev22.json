@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 1,
+ "day_text": "二十七日己卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论巡抚温保居官甚劣，广东巡抚高承爵有称善有称不善，康熙帝惟见其不善。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温保",
+   "role": "巡抚"
+  },
+  {
+   "name": "高承爵",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18422,
+ "page_range": "378-379"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "十四日甲戌",
+ "event_role": "皇帝行止",
+ "summary": "巳时康熙帝自汤泉回銮，刘镜峰问安，驻跸畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘镜峰",
+   "role": "问安者"
+  }
+ ],
+ "places": [
+  "汤泉",
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13607,
+ "page_range": "283-284"
+}

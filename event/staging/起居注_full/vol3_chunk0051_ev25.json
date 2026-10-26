@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初五日丁酉",
+ "event_role": "其他",
+ "summary": "康熙帝赐山东巡抚以下、知县以上等官及致仕大学士冯清等免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "冯清",
+   "role": "致仕大学士"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5125,
+ "page_range": "137-138"
+}

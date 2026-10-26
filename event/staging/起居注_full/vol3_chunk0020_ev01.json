@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十三日成申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早御乾清宫，讲官牛钮、孙在丰、归允肃进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2001,
+ "page_range": "75-76"
+}

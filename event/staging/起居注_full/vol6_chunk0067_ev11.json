@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初七日丁未",
+ "event_role": "河工水利",
+ "summary": "康熙谕大学士，于成龙欲尽携监修永定河官员赴任，康熙令留乌鲁礼监修新河，以免河工参差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "乌鲁礼",
+   "role": "分司，留监新河"
+  },
+  {
+   "name": "朱成格",
+   "role": "分司"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6711,
+ "page_range": "144-145"
+}

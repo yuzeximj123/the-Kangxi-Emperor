@@ -1,0 +1,38 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "二十七日庚辰",
+ "event_role": "人事任免",
+ "summary": "学士邵穆布员缺，遵旨引见应升光禄寺正卿郎奇等及资深郎中，康熙帝详询后以常寿补授学士，赖都额外授学士，雅图解任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邵穆布",
+   "role": "学士"
+  },
+  {
+   "name": "郎奇",
+   "role": "光禄寺正卿"
+  },
+  {
+   "name": "常寿",
+   "role": "学士"
+  },
+  {
+   "name": "赖都",
+   "role": "御史"
+  },
+  {
+   "name": "雅图",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22309,
+ "page_range": "456-457"
+}

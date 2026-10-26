@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "工部题修紫禁城损坏处，员外郎克什忒增估银钱，康熙免其交吏部察议，令其用心修理。",
+ "people": [
+  {
+   "name": "克什忒",
+   "role": "员外郎"
+  },
+  {
+   "name": "法保",
+   "role": "续派员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "紫禁城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6102,
+ "page_range": "165-166"
+}

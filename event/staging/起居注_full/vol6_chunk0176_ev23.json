@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "十六日乙刻",
+ "event_role": "朝见受贺",
+ "summary": "永清县知县柯永智、旧州营都司周芳、永清县千总孙虎前来朝见。",
+ "people": [
+  {
+   "name": "柯永智",
+   "role": "永清县知县"
+  },
+  {
+   "name": "周芳",
+   "role": "旧州营都司"
+  },
+  {
+   "name": "孙虎",
+   "role": "永清县千总"
+  }
+ ],
+ "places": [
+  "永清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17623,
+ "page_range": "362-363"
+}

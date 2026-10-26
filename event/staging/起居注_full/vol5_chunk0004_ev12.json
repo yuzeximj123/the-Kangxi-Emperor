@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": "二十六日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部题太常寺少卿沙拜员缺，拟员外郎阿哈纳正、岳洛陪，康熙帝以缺紧要关系赞礼，命选曾由太常寺、鸿胪寺赞礼郎升出者补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沙拜",
+   "role": "太常寺少卿"
+  },
+  {
+   "name": "阿哈纳",
+   "role": "员外郎"
+  },
+  {
+   "name": "岳洛",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 412,
+ "page_range": "18-19"
+}

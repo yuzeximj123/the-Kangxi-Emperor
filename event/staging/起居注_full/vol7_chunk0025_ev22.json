@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "二十九日戊寅",
+ "event_role": "议政听政",
+ "summary": "康熙御行宫，大学士马齐等以折本请旨，议户部覆郎中常明遗漏被参盐引未完官员事，康熙令从宽免交该部。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "铁图",
+   "role": "学士"
+  },
+  {
+   "name": "纪尔塔浑",
+   "role": "学士"
+  },
+  {
+   "name": "常明",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2522,
+ "page_range": "61-62"
+}

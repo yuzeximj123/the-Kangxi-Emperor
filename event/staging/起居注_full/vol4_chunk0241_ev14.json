@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 9,
+ "day_text": "初十日辛北",
+ "event_role": "谕旨决策",
+ "summary": "兵部题覆两广总督石琳疏称日本十二人遭风至阳江县，康熙帝令量给衣食护送浙江归国。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石琳",
+   "role": "两广总督"
+  }
+ ],
+ "places": [
+  "阳江县",
+  "广东",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24114,
+ "page_range": "494-495"
+}

@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十八年正月初六日",
+ "reign_year": 58,
+ "month": null,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "广东巡抚杨宗仁奏谢授粤抚新任，自陈才识短浅，恳请圣主训诲，并请准赴京陛见聆训。",
+ "people": [
+  {
+   "name": "杨宗仁",
+   "role": "广东巡抚（奏折作者）"
+  },
+  {
+   "name": "李煦",
+   "role": "苏州织造兼理两淮盐漕事务郎中（奏折中署名者）"
+  },
+  {
+   "name": "杜本诚",
+   "role": "赍捧奏折的家人"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "苏州",
+  "两淮",
+  "粤东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示广东地方要紧，不必请安来京。",
+ "source_title": "廣東巡撫楊宗仁奏謝授粵撫新任並請陛見聆訓摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2733",
+ "order_index": 157
+}

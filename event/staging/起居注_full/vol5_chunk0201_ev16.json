@@ -1,0 +1,20 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十五日两子",
+ "event_role": "祭祀典礼",
+ "summary": "遣大学士伊桑阿致祭黄河之神。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20116,
+ "page_range": "412-413"
+}

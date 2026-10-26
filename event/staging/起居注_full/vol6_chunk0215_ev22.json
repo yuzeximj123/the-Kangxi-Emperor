@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十三日了未",
+ "event_role": "人事任免",
+ "summary": "工部题议叙永定河效力人员原任侍郎王继文等十六人，康熙帝以议叙稍轻令另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王继文",
+   "role": "原任侍郎"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21522,
+ "page_range": "440-441"
+}

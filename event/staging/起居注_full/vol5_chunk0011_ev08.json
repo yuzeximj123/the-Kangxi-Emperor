@@ -1,0 +1,21 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "山西巡抚噶尔图题平阳府知府员缺紧要，请选择补用。",
+ "people": [
+  {
+   "name": "噶尔图",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "平阳府",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1108,
+ "page_range": "32-33"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "初七日未",
+ "event_role": "谕旨决策",
+ "summary": "康熙召诸大臣论班禅库图克图及诺巴贸易事，认为不应因班禅之故禁诺巴贸易绝其生计，待至三月再议。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "扎海",
+   "role": "大臣"
+  },
+  {
+   "name": "保住",
+   "role": "大臣"
+  },
+  {
+   "name": "阿南达",
+   "role": "大臣"
+  },
+  {
+   "name": "策旺阿拉布坦",
+   "role": "蒙古首领"
+  }
+ ],
+ "places": [
+  "打箭路宋盘地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7820,
+ "page_range": "166-167"
+}

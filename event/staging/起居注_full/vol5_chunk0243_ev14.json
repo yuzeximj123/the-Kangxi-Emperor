@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 5,
+ "day_text": "二十八日本未",
+ "event_role": "人事任免",
+ "summary": "吏部题翰林院掌院侍郎常书革职员缺，康熙帝命将历任翰林者开列具奏，并斥常书、尹泰。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "翰林院掌院侍郎"
+  },
+  {
+   "name": "尹泰",
+   "role": "詹事府詹事"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 24314,
+ "page_range": "496-497"
+}

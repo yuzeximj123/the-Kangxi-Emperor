@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "十一日庚戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕吴世巴，闻盛京光棍匪类聚集、互相告讦者多，去后诸事切勿偏向，须从公审理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴世巴",
+   "role": "盛京刑部侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4226,
+ "page_range": "96-97"
+}

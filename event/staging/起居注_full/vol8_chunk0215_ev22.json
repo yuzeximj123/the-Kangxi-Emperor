@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "覆请偏沅巡抚李发甲所题遗本，康熙帝称其居官好学问好奏折甚佳，询问其何年进士，王掞奏对。",
+ "people": [
+  {
+   "name": "李发甲",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王掞",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "偏沅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21522,
+ "page_range": "441-442"
+}

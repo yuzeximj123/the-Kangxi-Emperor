@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "十七日辛卯",
+ "event_role": "朝见受贺",
+ "summary": "旧州营都司卞佳等、知县徐煌来朝见。",
+ "people": [
+  {
+   "name": "卞佳",
+   "role": "旧州营都司"
+  },
+  {
+   "name": "徐煌",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "旧州营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22615,
+ "page_range": "464-465"
+}

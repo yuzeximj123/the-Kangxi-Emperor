@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆题王维绪控告草远芳等称其父王新命系开户之奴、诈银一案，议处草远芳等。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "原任总河"
+  },
+  {
+   "name": "王维绪",
+   "role": "王新命之子"
+  },
+  {
+   "name": "草远芳",
+   "role": "被告"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4005,
+ "page_range": "91-92"
+}

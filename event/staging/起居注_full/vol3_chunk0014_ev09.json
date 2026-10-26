@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十九日乙西",
+ "event_role": "其他",
+ "summary": "赐浙江巡抚赵士麟、安徽巡抚薛柱斗鞍马各一匹。",
+ "people": [
+  {
+   "name": "赵士麟",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "薛柱斗",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1409,
+ "page_range": "63-64"
+}

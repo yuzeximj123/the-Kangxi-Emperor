@@ -1,0 +1,42 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "初四日己酉",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士伊桑阿等以折本请旨，议拖沙喇哈番比保革职后其兄泰保承袭世职事，帝令再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "辛保",
+   "role": "学士"
+  },
+  {
+   "name": "温达",
+   "role": "学士"
+  },
+  {
+   "name": "比保",
+   "role": "拖沙喇哈番"
+  },
+  {
+   "name": "泰保",
+   "role": "比保之兄"
+  },
+  {
+   "name": "色赫",
+   "role": "阵亡官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3204,
+ "page_range": "74-75"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "已时，康熙帝赐安南国王黎维祺进贡来使陪臣阮石儒等彩缎、纱罗等物。",
+ "people": [
+  {
+   "name": "黎维祺",
+   "role": "安南国王"
+  },
+  {
+   "name": "阮石儒",
+   "role": "安南国陪臣"
+  }
+ ],
+ "places": [
+  "安南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16603,
+ "page_range": "344-345"
+}

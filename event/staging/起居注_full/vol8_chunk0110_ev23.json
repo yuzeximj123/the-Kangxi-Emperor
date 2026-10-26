@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "十四日丙子",
+ "event_role": "谕旨决策",
+ "summary": "大学士松柱以赐恤尚书胡会恩事问九卿并覆请，康熙帝问赵申乔何不两议，最终令不必与谥照常赐恤。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "胡会恩",
+   "role": "尚书"
+  },
+  {
+   "name": "赵申乔",
+   "role": "九卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11023,
+ "page_range": "231-232"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "初三日壬戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕署理内务府总管关保，因京师旱灾，自明日起宫中每日止进膳一次，传示茶房膳房严行遵守。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "署理内务府总管事务散秩大臣"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14309,
+ "page_range": "297-298"
+}

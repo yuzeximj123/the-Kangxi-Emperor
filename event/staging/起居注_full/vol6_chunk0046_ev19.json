@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": "二十四日本卯",
+ "event_role": "人事任免",
+ "summary": "福建漳州总兵张仕选员缺，开列参领武进贤等，康熙帝命问九卿所知之人令保举。",
+ "people": [
+  {
+   "name": "张仕选",
+   "role": "福建漳州总兵（员缺）"
+  },
+  {
+   "name": "武进贤",
+   "role": "参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建",
+  "漳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4619,
+ "page_range": "102-103"
+}

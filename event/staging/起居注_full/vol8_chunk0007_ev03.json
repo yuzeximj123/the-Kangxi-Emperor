@@ -1,0 +1,36 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "福建巡抚满保题方浩、方孔互殴致死人命案拟斩监候，康熙帝命九卿、詹事、科、道会同再议。",
+ "people": [
+  {
+   "name": "觉罗满保",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "方浩",
+   "role": "案犯"
+  },
+  {
+   "name": "方孔",
+   "role": "案犯"
+  },
+  {
+   "name": "连氏",
+   "role": "方孔之母"
+  },
+  {
+   "name": "方裔嘛",
+   "role": "方浩之父"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 703,
+ "page_range": "25-26"
+}

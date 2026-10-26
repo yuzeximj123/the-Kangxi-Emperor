@@ -1,0 +1,31 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十九日己丑",
+ "event_role": "谕旨决策",
+ "summary": "议提督徐治都迟不进川处分，康熙帝命察明成都、保宁、巫山、乾州恢复日期再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐治都",
+   "role": "提督"
+  },
+  {
+   "name": "赵良栋",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "成都",
+  "保宁",
+  "巫山",
+  "乾州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22506,
+ "page_range": "507-508"
+}

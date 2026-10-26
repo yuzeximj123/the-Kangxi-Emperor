@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十五日丙戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸古北口内西山。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "古北口",
+  "西山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20110,
+ "page_range": "445-446"
+}

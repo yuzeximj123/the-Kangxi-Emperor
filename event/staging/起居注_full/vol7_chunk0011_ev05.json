@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "九卿议讨独人事，康熙帝谕令招抚或围困独人，命作速移交宋柱等遵行，若有他见具奏。",
+ "people": [
+  {
+   "name": "宋柱",
+   "role": "将领"
+  },
+  {
+   "name": "尤冷格",
+   "role": "郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1105,
+ "page_range": "33-34"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝就徐秉义随绥色审事一案，斥其不知律例、唯诺是从，令照九卿议行。",
+ "people": [
+  {
+   "name": "徐秉义",
+   "role": "侍郎"
+  },
+  {
+   "name": "绥色",
+   "role": "侍郎"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1502,
+ "page_range": "41-42"
+}

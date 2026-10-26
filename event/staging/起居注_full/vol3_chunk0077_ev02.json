@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "三十日庚申",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝由正阳门进午门，至太皇太后、皇太后处问安，问安毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "正阳门",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7702,
+ "page_range": "189-190"
+}

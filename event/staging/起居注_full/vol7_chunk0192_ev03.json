@@ -1,0 +1,35 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等题议处陈四等，康熙命为首陈四即处斩，马林等免死发往边地给披甲人为奴。",
+ "people": [
+  {
+   "name": "陈四",
+   "role": "首犯"
+  },
+  {
+   "name": "马林",
+   "role": "案犯"
+  },
+  {
+   "name": "苏满才",
+   "role": "案犯"
+  },
+  {
+   "name": "黄友",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "白都诺",
+  "宁古塔",
+  "墨尔根",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19203,
+ "page_range": "395-396"
+}

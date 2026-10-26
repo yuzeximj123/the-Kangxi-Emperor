@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙伍拾柒年捌月贰拾捌日",
+ "reign_year": 57,
+ "month": 8,
+ "day": 28,
+ "event_role": "请安谢恩",
+ "summary": "西安总兵官王以谦奏报钦差延信到西宁传旨令其管理驻西宁、西安原官兵，设香案望阙叩头谢恩。",
+ "people": [
+  {
+   "name": "王以谦",
+   "role": "镇守陕西西安等处地方总兵官都督同知加三级奴才，奏报人"
+  },
+  {
+   "name": "延信",
+   "role": "钦差宗室都统，到宁传旨"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安",
+  "西宁",
+  "宁"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 117
+}

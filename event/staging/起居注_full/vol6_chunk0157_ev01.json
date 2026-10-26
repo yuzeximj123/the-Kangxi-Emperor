@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补盛京刑部员外郎吴色柱员缺，以刑部主事朱兰泰拟正、户部主事萨哈他拟陪，康熙帝谕令笔帖式保举人员升主事不宜屡行升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴色柱",
+   "role": "盛京刑部员外郎"
+  },
+  {
+   "name": "朱兰泰",
+   "role": "刑部主事"
+  },
+  {
+   "name": "萨哈他",
+   "role": "户部主事"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15701,
+ "page_range": "324-325"
+}

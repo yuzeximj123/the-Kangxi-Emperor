@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": "初七日乙北",
+ "event_role": "谕旨决策",
+ "summary": "大学士伊桑阿奏请遣往审究，康熙帝虑事必滋蔓，令诸事完结，仅令将军查审杜尔代私动驿站具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "杜尔代",
+   "role": "驻防协领"
+  },
+  {
+   "name": "关保",
+   "role": "告发人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9311,
+ "page_range": "196-197"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "十八日甲成",
+ "event_role": "朝见受贺",
+ "summary": "欧州知州赵松、都司杨之凤等前来朝见。",
+ "people": [
+  {
+   "name": "赵松",
+   "role": "知州"
+  },
+  {
+   "name": "杨之凤",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "欧州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16603,
+ "page_range": "343-344"
+}

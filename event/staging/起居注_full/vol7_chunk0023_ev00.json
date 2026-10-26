@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕九卿举荐官员须虚公秉公，不得徇私保举同乡及现任本省官员，并传谕禁止保举同乡。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "座腾炸",
+   "role": "保举人"
+  },
+  {
+   "name": "裴嵘",
+   "role": "被保举人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2300,
+ "page_range": "57-58"
+}

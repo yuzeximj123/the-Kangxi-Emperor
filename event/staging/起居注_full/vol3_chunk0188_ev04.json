@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "二十一日壬寅",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门会审江南阮弘诏等情真，康熙帝询问克其裕侵银事，命监候缓决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "克其裕",
+   "role": "案犯"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18804,
+ "page_range": "411-412"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙二十八年二月十五日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十五日癸丑",
+ "event_role": "朝见受贺",
+ "summary": "将军郭丕、副都统朱三丹代跪奏恳留圣驾，康熙帝初不允，因再三泣请乃允再留一日。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭丕",
+   "role": "将军"
+  },
+  {
+   "name": "朱三丹代",
+   "role": "副都统"
+  }
+ ],
+ "places": [
+  "杭州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1017
+}

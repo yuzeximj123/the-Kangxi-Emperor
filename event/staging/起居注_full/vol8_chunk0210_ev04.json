@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院奏巡视两淮盐院李购十一月任满，满汉御史差遣情形，请旨开列人选；康熙帝令问九卿举出爱惜商人能清旧欠者。",
+ "people": [
+  {
+   "name": "李购",
+   "role": "巡视两淮盐院"
+  },
+  {
+   "name": "孙塔",
+   "role": "满御史"
+  },
+  {
+   "name": "哈尔金",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21004,
+ "page_range": "431-432"
+}

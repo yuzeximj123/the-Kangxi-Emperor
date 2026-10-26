@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 5,
+ "day_text": "三十日己巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝午时幸瀛台，召推升四川重庆总兵官、通州副将黄建中命其射箭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄建中",
+   "role": "推升四川重庆总兵官、通州副将"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4213,
+ "page_range": "141-142"
+}

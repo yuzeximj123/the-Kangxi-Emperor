@@ -1,0 +1,24 @@
+{
+ "reign_year": 25,
+ "month": 11,
+ "day_text": "初九日已丑",
+ "event_role": "请安谢恩",
+ "summary": "山西巡抚马齐进请训旨，奏陈自己由微员屡蒙皇恩升至布政使、今拔擢巡抚难以胜任，恳请皇上天语指示，康熙帝称其居官皆好、声名亦佳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19621,
+ "page_range": "427-428"
+}

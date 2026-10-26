@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝出示胡任舆试卷，与汉大学士等评论其文字尚在可取之列，令出阅具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡任舆",
+   "role": "考生"
+  },
+  {
+   "name": "张玉书",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4002,
+ "page_range": "91-92"
+}

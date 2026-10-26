@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "初六日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "侍郎西喇转奏喀尔喀来归事，康熙帝答知道了。",
+ "people": [
+  {
+   "name": "西喇",
+   "role": "侍郎"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11206,
+ "page_range": "234-235"
+}

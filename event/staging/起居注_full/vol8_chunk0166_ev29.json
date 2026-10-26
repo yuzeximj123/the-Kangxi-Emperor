@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "二十九日乙本",
+ "event_role": "司法案件",
+ "summary": "刑部题偷掘明朝陵寝为首贼韩七脱逃、为从王五拟绞监候事，帝令为首立斩为从立绞，并议看守太监之罪。",
+ "people": [
+  {
+   "name": "韩七",
+   "role": "首犯"
+  },
+  {
+   "name": "王五",
+   "role": "从犯"
+  }
+ ],
+ "places": [
+  "明朝十三陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16629,
+ "page_range": "343-344"
+}

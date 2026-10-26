@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "议定所留之兵着孙思克、博济带领暂驻甘州，西安副都统阿兰泰等三百兵丁另议。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "将领"
+  },
+  {
+   "name": "博济",
+   "role": "将领"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "西安副都统"
+  }
+ ],
+ "places": [
+  "甘州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22207,
+ "page_range": "454-455"
+}

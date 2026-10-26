@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝问恩丕其父去世时年岁，恩丕答年十一；康熙帝向马齐谈及旧臣大学士车克每言必笑。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "恩丕",
+   "role": "官员"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "车克",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11403,
+ "page_range": "239-240"
+}

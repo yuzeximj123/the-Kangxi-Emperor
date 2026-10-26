@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝念良爱之母年迈、兄弟多阵亡病故，命将良爱从盛京取回，补阿尔拜员缺，授户部侍郎。",
+ "people": [
+  {
+   "name": "良爱",
+   "role": "被授户部侍郎"
+  },
+  {
+   "name": "阿尔拜",
+   "role": "原任官员"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14700,
+ "page_range": "304-305"
+}

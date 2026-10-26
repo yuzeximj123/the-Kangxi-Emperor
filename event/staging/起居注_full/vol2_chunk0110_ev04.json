@@ -1,0 +1,42 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "初三日辛已",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁学士，康熙询问人选，勒德洪、明珠荐达岱，遂命补授学士。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "丹岱",
+   "role": "侍读学士"
+  },
+  {
+   "name": "翁英",
+   "role": "侍读学士"
+  },
+  {
+   "name": "图纳",
+   "role": "侍读学士"
+  },
+  {
+   "name": "达岱",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11004,
+ "page_range": "263-264"
+}

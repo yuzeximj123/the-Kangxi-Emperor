@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "二十日甲辰",
+ "event_role": "人事任免",
+ "summary": "吏部为礼部尚书员缺开列都察院都御史耿格等具奏，康熙帝命以凯音布转礼部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "耿格",
+   "role": "都察院都御史"
+  },
+  {
+   "name": "凯音布",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14612,
+ "page_range": "303-304"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": "二十四日己雍",
+ "event_role": "谕旨决策",
+ "summary": "户部覆广东海税监督吴礼善请减税课议不准行，康熙帝命该部另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴礼善",
+   "role": "广东海税监督"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3716,
+ "page_range": "84-85"
+}

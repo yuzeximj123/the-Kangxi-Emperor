@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "二十二日戊戌",
+ "event_role": "军务",
+ "summary": "广西巡抚郝浴请留援剿兵一千名由副将温绍贤管辖，部议不允，康熙帝令依部议，并令温绍贤来京引见。",
+ "people": [
+  {
+   "name": "郝浴",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "温绍贤",
+   "role": "副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12911,
+ "page_range": "301-302"
+}

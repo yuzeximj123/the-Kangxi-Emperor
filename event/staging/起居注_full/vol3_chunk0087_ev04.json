@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "初八日丁丁",
+ "event_role": "司法案件",
+ "summary": "议政王等会议将尚书杭爱革职、安亲王及各大臣俱罚俸一年，康熙帝依议，王与诸大臣从宽免罚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杭爱",
+   "role": "尚书"
+  },
+  {
+   "name": "安亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8704,
+ "page_range": "209-210"
+}

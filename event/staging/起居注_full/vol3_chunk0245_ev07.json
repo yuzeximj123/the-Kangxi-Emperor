@@ -1,0 +1,25 @@
+{
+ "reign_year": 26,
+ "month": 8,
+ "day_text": "二十四日庚午",
+ "event_role": "朝见受贺",
+ "summary": "科尔沁国多罗贝勒巴克西顾尔、土默特部落多罗达尔汉贝勒额尔德木图等来朝请安。",
+ "people": [
+  {
+   "name": "巴克西顾尔",
+   "role": "科尔沁国多罗贝勒"
+  },
+  {
+   "name": "额尔德木图",
+   "role": "土默特部落多罗达尔汉贝勒"
+  }
+ ],
+ "places": [
+  "科尔沁国",
+  "土默特部落"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24507,
+ "page_range": "525-526"
+}

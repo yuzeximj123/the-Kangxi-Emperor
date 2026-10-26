@@ -1,0 +1,30 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "二十二日丁丁",
+ "event_role": "人事任免",
+ "summary": "吏部题礼部尚书熊赐履员缺开列于成龙等，康熙帝谕张英效力年久系旧人，将张英补授礼部尚书。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "张英",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21112,
+ "page_range": "434-435"
+}

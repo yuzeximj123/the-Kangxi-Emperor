@@ -1,0 +1,25 @@
+{
+ "reign_year": 54,
+ "month": 8,
+ "day_text": "十四日丁丑",
+ "event_role": "其他",
+ "summary": "赐古北口总兵官杨铸、石匣副将赵鳃扁及《周易折中》《避暑山庄记》。",
+ "people": [
+  {
+   "name": "杨铸",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "赵鳃",
+   "role": "石匣副将"
+  }
+ ],
+ "places": [
+  "古北口",
+  "石匣"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10515,
+ "page_range": "221-222"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "二十一日戊子",
+ "event_role": "人事任免",
+ "summary": "兵部题补正蓝旗护军参领阿洛锡病故员缺，康熙帝称阿喇米效力颇多，命询问其能否统驭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿洛锡",
+   "role": "护军参领"
+  },
+  {
+   "name": "阿喇米",
+   "role": "拟正护卫"
+  },
+  {
+   "name": "额衣图",
+   "role": "拟陪护卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24116,
+ "page_range": "525-526"
+}

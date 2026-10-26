@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙二十八年二月二十六日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "二十六日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝遣张玉书、苏赫至熊赐履宅赐茶酒果品等物，熊赐履至行宫谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "苏赫",
+   "role": "工部尚书"
+  },
+  {
+   "name": "熊赐履",
+   "role": "丁忧礼部尚书"
+  }
+ ],
+ "places": [
+  "江宁府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2028
+}

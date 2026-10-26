@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将试卷交诸大臣阅视并分等第呈览。",
+ "people": [
+  {
+   "name": "傻子",
+   "role": "奏事员外郎"
+  },
+  {
+   "name": "双全",
+   "role": "奏事双全"
+  },
+  {
+   "name": "大学士",
+   "role": "大学士"
+  },
+  {
+   "name": "九卿",
+   "role": "九卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21300,
+ "page_range": "437-438"
+}

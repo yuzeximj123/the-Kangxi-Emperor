@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初四日甲申",
+ "event_role": "谕旨决策",
+ "summary": "理藩院侍郎明爱等进前请旨，康熙帝谕令将被荒蒙古移驻近边八旗蒙古地方，当听其徐行、省俭牲畜、善为抚养，否则议罪本旗大臣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明爱",
+   "role": "理藩院侍郎"
+  }
+ ],
+ "places": [
+  "八旗蒙古地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7113,
+ "page_range": "185-186"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "二十九日甲成",
+ "event_role": "谕旨决策",
+ "summary": "吏部题请将拨船管夫刑部侍郎舒略等各加一级，康熙帝命交马武、舒略会同查奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "舒略",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5510,
+ "page_range": "121-122"
+}

@@ -1,0 +1,42 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "初九日已雍",
+ "event_role": "人事任免",
+ "summary": "兵部题镶红旗佐领因特黑病故员缺，康熙询问后命厄什腾补授佐领，并令识拔世族中才能者。",
+ "people": [
+  {
+   "name": "因特黑",
+   "role": "镶红旗佐领，病故"
+  },
+  {
+   "name": "厄什腾",
+   "role": "拟正"
+  },
+  {
+   "name": "阿什屯",
+   "role": "拟陪"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "博尔济虾",
+   "role": "都统"
+  },
+  {
+   "name": "禅布",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "康喀拉",
+   "role": "护军参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7309,
+ "page_range": "181-182"
+}

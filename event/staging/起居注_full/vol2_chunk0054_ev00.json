@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "兵部题朱国治灵柩及家属令章泰察明送京，康熙嘉其仗节骂贼身死，命察明后赐优典。",
+ "people": [
+  {
+   "name": "朱国治",
+   "role": "原任云南巡抚"
+  },
+  {
+   "name": "章泰",
+   "role": "大将军贝子"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南",
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5400,
+ "page_range": "151-152"
+}

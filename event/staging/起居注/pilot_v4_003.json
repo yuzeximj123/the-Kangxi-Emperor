@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙二十八年二月初八日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "初八日丙午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸仁和县塘栖镇，湖州府副将罗琦、原任粮道陶作棍等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗琦",
+   "role": "浙江湖州府副将"
+  },
+  {
+   "name": "陶作棍",
+   "role": "原任粮道"
+  }
+ ],
+ "places": [
+  "仁和县",
+  "塘栖镇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1003
+}

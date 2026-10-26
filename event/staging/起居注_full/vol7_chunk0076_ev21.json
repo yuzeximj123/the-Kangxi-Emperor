@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十八日庚寅",
+ "event_role": "人事任免",
+ "summary": "山西巡抚噶礼题临晋县知县员缺请以汾西县知县徐欣调补，帝令将徐欣引见。",
+ "people": [
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "徐欣",
+   "role": "汾西县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "临晋县",
+  "汾西县",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7621,
+ "page_range": "163-164"
+}

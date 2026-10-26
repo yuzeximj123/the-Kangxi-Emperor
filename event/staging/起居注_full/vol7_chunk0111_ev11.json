@@ -1,0 +1,27 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "十七日甲成",
+ "event_role": "人事任免",
+ "summary": "兵部请补贵州黔西等四副将缺，康熙帝命将记名保举及应升参将查奏，四缺一次尽补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尤观光",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "贵州黔西",
+  "江西袁州",
+  "江南江宁",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11111,
+ "page_range": "233-234"
+}

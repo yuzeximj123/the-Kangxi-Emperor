@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝批评刘荫枢因些须下雪即造论惊众具奏，指出行军当鼓舞众人不宜惊众。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘荫枢",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "巴尔库儿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17012,
+ "page_range": "351-352"
+}

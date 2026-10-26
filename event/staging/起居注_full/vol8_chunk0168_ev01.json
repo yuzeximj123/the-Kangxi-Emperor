@@ -1,0 +1,44 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": "十二日",
+ "event_role": "议政听政",
+ "summary": "大学士马齐等以折本请旨，户部覆福建巡抚陈玉请以公费银两办军饥，康熙帝令九卿会同议奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "查弱纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "酒克旦",
+   "role": "学士"
+  },
+  {
+   "name": "星俄特",
+   "role": "学士"
+  },
+  {
+   "name": "陈玉",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "额伦特",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16801,
+ "page_range": "347-348"
+}

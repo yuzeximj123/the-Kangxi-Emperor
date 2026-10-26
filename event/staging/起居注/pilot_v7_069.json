@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙四十五年二月初六日",
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "初六日辛酉",
+ "event_role": "司法案件",
+ "summary": "刑部议牧长存柱杀牧人纪宁察等案，康熙帝以议罪过轻命察原旨严加议罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存柱",
+   "role": "牧长"
+  },
+  {
+   "name": "纪宁察",
+   "role": "牧人"
+  },
+  {
+   "name": "二格",
+   "role": "七品牧长"
+  },
+  {
+   "name": "北京",
+   "role": "无品牧长"
+  }
+ ],
+ "places": [
+  "永清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3069
+}

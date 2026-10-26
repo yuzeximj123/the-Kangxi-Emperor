@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "理藩院覆奏王色邓敦多布请将克勒河朔等地给伊部落就食之人耕种，康熙帝令即日行以免经霜失时。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王色邓敦多布",
+   "role": "奏请者"
+  }
+ ],
+ "places": [
+  "克勒河朔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3901,
+ "page_range": "88-89"
+}

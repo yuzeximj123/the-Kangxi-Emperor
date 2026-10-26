@@ -1,0 +1,30 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "二十九日甲子",
+ "event_role": "司法案件",
+ "summary": "刑部题原任郎中舒书之妻控告其子舒秀不孝拟绞，康熙帝查明非亲生，命照前议完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "舒书",
+   "role": "原任郎中"
+  },
+  {
+   "name": "舒秀",
+   "role": "舒书之子"
+  },
+  {
+   "name": "敦拜",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9707,
+ "page_range": "205-206"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "王大、陈一龙、严达理、双代等骂主谋害一案，康熙帝以其未经承认又未动手致伤。",
+ "people": [
+  {
+   "name": "王大",
+   "role": "案犯"
+  },
+  {
+   "name": "陈一龙",
+   "role": "案犯"
+  },
+  {
+   "name": "严达理",
+   "role": "案犯"
+  },
+  {
+   "name": "双代",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22906,
+ "page_range": "501-502"
+}

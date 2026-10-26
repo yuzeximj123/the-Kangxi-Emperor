@@ -1,0 +1,34 @@
+{
+ "reign_year": 29,
+ "month": 4,
+ "day_text": "十八日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部尚书鄂尔多奏监察御史新新病故员缺，康熙帝引见本旗郎中，详问后以户部郎中吴什巴补授。",
+ "people": [
+  {
+   "name": "鄂尔多",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "吴通保",
+   "role": "员外郎"
+  },
+  {
+   "name": "黑伸",
+   "role": "陪拟官员"
+  },
+  {
+   "name": "吴什巴",
+   "role": "户部郎中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11808,
+ "page_range": "248-249"
+}

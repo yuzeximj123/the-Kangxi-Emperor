@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十九日甲实",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝问熊赐履署江南总督陶岱居官如何，熊赐履答未闻其政声、不知其办事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "官员"
+  },
+  {
+   "name": "陶岱",
+   "role": "署江南总督事侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11205,
+ "page_range": "234-235"
+}

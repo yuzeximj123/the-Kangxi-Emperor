@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "勒德洪、明珠奏宜哈齐、达赖老迈谨慎请辞，康熙帝称善，命俱给半俸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "宜哈齐",
+   "role": "原任步军校"
+  },
+  {
+   "name": "达赖",
+   "role": "原任步军校"
+  },
+  {
+   "name": "费扬古",
+   "role": "步军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 103,
+ "page_range": "45-46"
+}

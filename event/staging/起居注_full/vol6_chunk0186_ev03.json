@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿等呈封河神字样折子，康熙认为封神尚早，命待明岁视河工光景再行，并遣人驰示张鹏翮询问字样意见。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河督"
+  }
+ ],
+ "places": [
+  "清口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18603,
+ "page_range": "382-383"
+}

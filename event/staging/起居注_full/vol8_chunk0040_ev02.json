@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就御史条奏论百姓纠党保留地方官之弊，并言清官亦不可不敬上司。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "周诈显",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "口外青城",
+  "莱州",
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4002,
+ "page_range": "91-92"
+}

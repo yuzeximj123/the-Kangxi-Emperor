@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": "二十九日辛亥",
+ "event_role": "其他",
+ "summary": "康熙帝令巴锡等及吴启相等骑射，并询问游击戴良才籍贯及居官经历。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "防守御"
+  },
+  {
+   "name": "吴启相",
+   "role": "游击"
+  },
+  {
+   "name": "戴良才",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "山东兖州府曲阜县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 324,
+ "page_range": "17-18"
+}

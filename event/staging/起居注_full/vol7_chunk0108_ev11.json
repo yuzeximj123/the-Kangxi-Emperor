@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初四日辛酉",
+ "event_role": "司法案件",
+ "summary": "刑部议侍卫伊洛尔图打死家人庄户李应贵罚俸赔人、许贵等拟杖，康熙帝以李应贵系恶棍将伊洛尔图罚俸赔人及许贵等俱从宽免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊洛尔图",
+   "role": "亲随侍卫"
+  },
+  {
+   "name": "李应贵",
+   "role": "家人庄户"
+  },
+  {
+   "name": "许贵",
+   "role": "民人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10811,
+ "page_range": "227-228"
+}

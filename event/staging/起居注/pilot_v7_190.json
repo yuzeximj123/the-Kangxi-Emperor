@@ -1,0 +1,46 @@
+{
+ "date_raw": "初六日",
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "初六日庚寅",
+ "event_role": "司法案件",
+ "summary": "刑部议棍子王五逃回行贿案，拟绞郎中宫保等，康熙帝令王五、何多礼立决，余发还另议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王五",
+   "role": "罪犯"
+  },
+  {
+   "name": "宫保",
+   "role": "郎中"
+  },
+  {
+   "name": "郝善",
+   "role": "员外郎"
+  },
+  {
+   "name": "何多礼",
+   "role": "笔帖式"
+  },
+  {
+   "name": "郑克蕉",
+   "role": "佐领"
+  },
+  {
+   "name": "王伦",
+   "role": "佐领"
+  },
+  {
+   "name": "佛保",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3190
+}

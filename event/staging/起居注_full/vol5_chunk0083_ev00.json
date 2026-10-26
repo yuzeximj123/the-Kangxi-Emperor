@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问司官及参议趟莫特、通政司使胡世塔等人是否可用，图纳、伊桑阿等大臣各抒己见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "趟莫特",
+   "role": "参议"
+  },
+  {
+   "name": "胡世塔",
+   "role": "通政司使"
+  },
+  {
+   "name": "图纳",
+   "role": "大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8300,
+ "page_range": "176-177"
+}

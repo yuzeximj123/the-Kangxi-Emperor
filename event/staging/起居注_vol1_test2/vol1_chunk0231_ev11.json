@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "二十九日戊午",
+ "event_role": "军务",
+ "summary": "兵部议都统西白臣从汉中不收集官兵殿后同行应议处，康熙帝命候穆占回京一并察议。",
+ "people": [
+  {
+   "name": "西白臣",
+   "role": "都统"
+  },
+  {
+   "name": "穆占",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "汉中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23111,
+ "page_range": "519-520"
+}

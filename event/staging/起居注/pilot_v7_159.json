@@ -1,0 +1,26 @@
+{
+ "date_raw": "初九日甲子",
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初九日甲子",
+ "event_role": "议政听政",
+ "summary": "礼部为多罗信王洞额请加恤典，康熙帝不准，命以信郡王鄂占之子袭封。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "洞额",
+   "role": "多罗信王"
+  },
+  {
+   "name": "鄂占",
+   "role": "信郡王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3159
+}

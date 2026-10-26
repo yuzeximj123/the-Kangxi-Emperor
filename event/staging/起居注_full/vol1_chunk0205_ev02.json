@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "总河靳辅部议削去加级不准带尚书衔，康熙帝认为兵部尚书为实衔，着仍留尚书衔。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20502,
+ "page_range": "467-468"
+}

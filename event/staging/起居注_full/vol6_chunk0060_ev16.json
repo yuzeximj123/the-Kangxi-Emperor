@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "初五日乙亥",
+ "event_role": "朝见受贺",
+ "summary": "抚宁县知县董降放、把总黄福寿等来朝。",
+ "people": [
+  {
+   "name": "董降放",
+   "role": "抚宁县知县"
+  },
+  {
+   "name": "黄福寿",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "抚宁县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6016,
+ "page_range": "130-131"
+}

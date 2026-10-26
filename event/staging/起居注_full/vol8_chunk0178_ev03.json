@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论副将参将员缺紧要，举通州副将魏经国得热河人心、张伯行亦心服，称其可胜提督总兵之任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏经国",
+   "role": "通州副将"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "通州",
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17803,
+ "page_range": "367-368"
+}

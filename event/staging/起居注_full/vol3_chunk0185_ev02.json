@@ -1,0 +1,33 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "初二日癸未",
+ "event_role": "军务",
+ "summary": "兵部题叙都统赵赖老虎洞等四处军功准给等第，明珠等奏明传问赵赖及兵部堂官情形。",
+ "people": [
+  {
+   "name": "赵赖",
+   "role": "都统"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "哈克山",
+   "role": "护军统领"
+  },
+  {
+   "name": "孙思克",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "老虎洞",
+  "吉安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18502,
+ "page_range": "405-406"
+}

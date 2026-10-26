@@ -1,0 +1,21 @@
+{
+ "date_raw": "康熙十年九月初九日丁巳",
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "初九日丁巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出山海关，驻跸姜女寺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山海关",
+  "姜女寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7
+}

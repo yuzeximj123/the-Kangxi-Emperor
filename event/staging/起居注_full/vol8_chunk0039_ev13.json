@@ -1,0 +1,33 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "初二日两子",
+ "event_role": "人事任免",
+ "summary": "九卿遵旨补授广西按察司王之透员缺，保举大名道年希芜等，康熙帝命以年希车补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王之透",
+   "role": "广西按察司"
+  },
+  {
+   "name": "年希芜",
+   "role": "大名道"
+  },
+  {
+   "name": "年希车",
+   "role": "补授广西按察司"
+  }
+ ],
+ "places": [
+  "广西",
+  "大名"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3913,
+ "page_range": "89-90"
+}

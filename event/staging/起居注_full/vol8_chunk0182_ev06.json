@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "十二日丁卯",
+ "event_role": "人事任免",
+ "summary": "吏部题通政司左通政鲁王员缺，拟以奉天府府丞文志鲸补授，康熙帝以文志鲸升任未久令再行开列，另拟具奏。",
+ "people": [
+  {
+   "name": "文志鲸",
+   "role": "奉天府府丞"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18206,
+ "page_range": "375-376"
+}

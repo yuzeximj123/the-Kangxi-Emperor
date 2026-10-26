@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝命达哈塔、尹泰、德格勒、徐元梦、武什同射，射毕时已薄暮，诸臣送出。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达哈塔",
+   "role": "官员"
+  },
+  {
+   "name": "尹泰",
+   "role": "官员"
+  },
+  {
+   "name": "德格勒",
+   "role": "官员"
+  },
+  {
+   "name": "徐元梦",
+   "role": "侍讲"
+  },
+  {
+   "name": "武什",
+   "role": "亲近侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23610,
+ "page_range": "507-508"
+}

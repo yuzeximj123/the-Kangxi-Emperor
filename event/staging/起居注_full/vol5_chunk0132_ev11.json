@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "十四日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙言费扬古曾请粮，念西路兵粮乏，因预备骆驼，令将头运噶礼所运之米尽运至给此处兵丁，并安排后续刘瞎、宋大业所运之米。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "噶礼",
+   "role": "运粮官"
+  },
+  {
+   "name": "刘瞎",
+   "role": "运粮官"
+  },
+  {
+   "name": "宋大业",
+   "role": "运粮官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13211,
+ "page_range": "274-275"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "二十三日丁卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝命授钦天监何国柱为户部额外员外郎，令其算钱粮，缺出裁之，仍令两处行走。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何国柱",
+   "role": "钦天监官，授额外员外郎"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3612,
+ "page_range": "83-84"
+}

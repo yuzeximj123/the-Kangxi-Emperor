@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "初七日辛卯",
+ "event_role": "人事任免",
+ "summary": "九卿遵旨议两广盐课亏欠甚多，请派才能官员留任三四年会同巡抚完结，康熙依议令御史常保去。",
+ "people": [
+  {
+   "name": "常保",
+   "role": "御史"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18514,
+ "page_range": "381-382"
+}

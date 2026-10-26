@@ -1,0 +1,28 @@
+{
+ "reign_year": 16,
+ "month": 6,
+ "day_text": "初五日",
+ "event_role": "其他",
+ "summary": "康熙帝召喇沙里、张英至懋勤殿，命张英讲《孟子》《秦誓》《诗经》诸章，并亲自讲解。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "学士"
+  },
+  {
+   "name": "张英",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13912,
+ "page_range": "335-336"
+}

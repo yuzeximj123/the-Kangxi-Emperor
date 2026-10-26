@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "初一日壬辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕王进才免革职降三级留任，会理州如温保等议设流官，余如议。",
+ "people": [
+  {
+   "name": "王进才",
+   "role": "总兵官"
+  },
+  {
+   "name": "温保",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "会理州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10612,
+ "page_range": "224-225"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十六日戊戌",
+ "event_role": "其他",
+ "summary": "未时康熙帝出行宫，率皇太子、诸皇子及善射侍卫射，发矢皆中，又命总兵以下、千把总以上及太原驻防官兵射，记善射者之名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "侯成印",
+   "role": "千总"
+  },
+  {
+   "name": "妾逢",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7718,
+ "page_range": "165-166"
+}

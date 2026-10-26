@@ -1,0 +1,34 @@
+{
+ "reign_year": 52,
+ "month": 11,
+ "day_text": "十四日戊午",
+ "event_role": "朝见受贺",
+ "summary": "采育防守御常寿等、通永道张圣粥等、副将魏经国等、顺义县防守御常存等来朝。",
+ "people": [
+  {
+   "name": "常寿",
+   "role": "采育防守御"
+  },
+  {
+   "name": "张圣粥",
+   "role": "通永道"
+  },
+  {
+   "name": "魏经国",
+   "role": "副将"
+  },
+  {
+   "name": "常存",
+   "role": "顺义县防守御"
+  }
+ ],
+ "places": [
+  "采育",
+  "通永",
+  "顺义县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4520,
+ "page_range": "101-102"
+}

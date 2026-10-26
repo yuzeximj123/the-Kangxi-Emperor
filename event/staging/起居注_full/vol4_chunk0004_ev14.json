@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "二十一日乙未",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝于大行太皇太后梓宫前行大祭礼，读文致祭后释服，率皇太子、皇长子行三跪九叩礼哭泣尽哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "大行太皇太后梓宫前"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 414,
+ "page_range": "20-21"
+}

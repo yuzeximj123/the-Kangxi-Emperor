@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "初六日甲午",
+ "event_role": "人事任免",
+ "summary": "四川提督唐希顺题请将游击马二知升补将囊成辅员缺、守备李继芳升补马二知员缺，康熙帝俱照所请补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "唐希顺",
+   "role": "四川提督"
+  },
+  {
+   "name": "马二知",
+   "role": "游击"
+  },
+  {
+   "name": "李继芳",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18014,
+ "page_range": "370-371"
+}

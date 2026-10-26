@@ -1,0 +1,20 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "二十五日丁雍",
+ "event_role": "祭祀典礼",
+ "summary": "自本日起，康熙帝因祭太庙斋戒三日。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12604,
+ "page_range": "263-264"
+}

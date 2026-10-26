@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十九日丙戌",
+ "event_role": "谕旨决策",
+ "summary": "索额图等奏已问明户部尚书伊桑阿等关于盛京荡田事，康熙帝谕令照旧例行，盛京旗下人赖田地为生，远处田地听民开垦。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "塞黑",
+   "role": "盛京侍郎"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25310,
+ "page_range": "563-564"
+}

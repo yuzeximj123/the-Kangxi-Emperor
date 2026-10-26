@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十九年二月初八日",
+ "reign_year": 49,
+ "month": 2,
+ "day": 8,
+ "event_role": "奏报地方情形",
+ "summary": "浙江巡抚黄秉中奏报浙江连年灾荒、民力未复，士民请求将康熙四十五至四十七年旧欠地丁钱粮分年带征，并请旨定夺。",
+ "people": [
+  {
+   "name": "黄秉中",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "陈一夔",
+   "role": "拟补湖州知府之人"
+  }
+ ],
+ "places": [
+  "浙江",
+  "湖州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "浙江巡撫黃秉中奏請將陳一夔補授湖州知府摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "626",
+ "order_index": 277
+}

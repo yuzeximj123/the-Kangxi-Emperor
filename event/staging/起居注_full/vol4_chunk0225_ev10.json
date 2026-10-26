@@ -1,0 +1,40 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "初十日甲申",
+ "event_role": "议政听政",
+ "summary": "辰时康熙御乾清门听政，部院各衙门官员面奏毕，大学士伊桑阿等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "李天馥",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22510,
+ "page_range": "462-463"
+}

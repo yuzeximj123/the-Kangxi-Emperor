@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 6,
+ "day_text": "二十四日辛西",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内澹宁居听政，部院各衙门官员面奏毕，江西巡抚马如龙陛见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马如龙",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "澹宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9823,
+ "page_range": "206-207"
+}

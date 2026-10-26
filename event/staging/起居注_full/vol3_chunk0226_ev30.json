@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "十一日戊子",
+ "event_role": "其他",
+ "summary": "康熙帝阅毕试卷，与诸臣论读书讲论经史之益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "官员"
+  },
+  {
+   "name": "张英",
+   "role": "官员"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22630,
+ "page_range": "487-488"
+}

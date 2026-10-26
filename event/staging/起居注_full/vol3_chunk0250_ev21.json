@@ -1,0 +1,42 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": "初三日",
+ "event_role": "人事任免",
+ "summary": "各省提镇自陈，康熙帝称何倩、陈世凯、张云翼、施粮、黄大来所行俱优，命问明九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何倩",
+   "role": "提镇"
+  },
+  {
+   "name": "陈世凯",
+   "role": "提镇"
+  },
+  {
+   "name": "张云翼",
+   "role": "提镇"
+  },
+  {
+   "name": "施粮",
+   "role": "提镇"
+  },
+  {
+   "name": "黄大来",
+   "role": "提镇"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25021,
+ "page_range": "535-536"
+}

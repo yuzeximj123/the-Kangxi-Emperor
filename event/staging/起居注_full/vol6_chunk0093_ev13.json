@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": "初七日乙北",
+ "event_role": "奏报地方情形",
+ "summary": "山东巡抚王国昌奏泰安州等处百姓感戴皇恩祈立碑亭，康熙帝谕此等事概行停止，本著发还。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "泰安州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9313,
+ "page_range": "196-197"
+}

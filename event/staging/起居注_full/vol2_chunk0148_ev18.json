@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "二十九日癸西",
+ "event_role": "人事任免",
+ "summary": "康熙帝称伊尔克图、伍什谨慎，质疑苏赫臣保举，命另行保举具奏。",
+ "people": [
+  {
+   "name": "伊尔克图",
+   "role": "保举关差官员"
+  },
+  {
+   "name": "伍什",
+   "role": "保举关差官员"
+  },
+  {
+   "name": "苏赫臣",
+   "role": "被保举官员"
+  },
+  {
+   "name": "额库里",
+   "role": "侍郎"
+  },
+  {
+   "name": "宣昌阿",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14818,
+ "page_range": "339-340"
+}

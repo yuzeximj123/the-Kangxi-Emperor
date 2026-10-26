@@ -1,0 +1,25 @@
+{
+ "reign_year": 21,
+ "month": 2,
+ "day_text": "十四日生辰",
+ "event_role": "贸易漕运",
+ "summary": "九卿公奏给事中雅齐纳条奏请将九江抽税移于湖口地方，户部尚书伊桑阿奏两议诸臣各持己见故仍旧两议。",
+ "people": [
+  {
+   "name": "雅齐纳",
+   "role": "给事中"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [
+  "九江",
+  "湖口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11228,
+ "page_range": "267-268"
+}

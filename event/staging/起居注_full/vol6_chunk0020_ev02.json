@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题奉天正黄旗防御布萨里病故员缺，康熙命拟陪之常禄升补，席尔布伦留京补用。",
+ "people": [
+  {
+   "name": "布萨里",
+   "role": "奉天正黄旗防御"
+  },
+  {
+   "name": "席尔布伦",
+   "role": "拟正骁骑校"
+  },
+  {
+   "name": "常禄",
+   "role": "拟陪骁骑校"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2002,
+ "page_range": "50-51"
+}

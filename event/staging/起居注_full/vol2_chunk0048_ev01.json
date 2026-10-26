@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "云南巡抚伊凡题请速运贵州粮米并催运广西粮饷，康熙帝以路险苗蛮杂居、恐误军需，命再议。",
+ "people": [
+  {
+   "name": "伊凡",
+   "role": "云南巡抚"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4801,
+ "page_range": "139-140"
+}

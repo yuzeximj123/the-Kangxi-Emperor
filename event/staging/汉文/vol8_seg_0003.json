@@ -1,0 +1,34 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "其他",
+ "summary": "此为《康熙朝汉文朱批奏折汇编》第八册目录，列出李光地、王掞等人奏折的编号、题名及页码，并附编者说明。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "王掞",
+   "role": "大学士"
+  },
+  {
+   "name": "魏裔介",
+   "role": "遗书作者"
+  },
+  {
+   "name": "李塨",
+   "role": "被荐献书人"
+  }
+ ],
+ "places": [],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "康熙朝汉文朱批奏折汇编第八册目录",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 3
+}

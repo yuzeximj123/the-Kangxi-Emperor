@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初八日乙未",
+ "event_role": "议政听政",
+ "summary": "辰时皇帝御乾清门听政，部院各衙门官员面奏毕，山西巡抚图纳陛辞并奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11214,
+ "page_range": "259-260"
+}

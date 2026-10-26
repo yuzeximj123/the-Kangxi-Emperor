@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "总河张鹏副题请以原任同知苏覃补授桃源同知员缺，康熙帝命照张鹏副保题补用。",
+ "people": [
+  {
+   "name": "张鹏副",
+   "role": "总河"
+  },
+  {
+   "name": "苏覃",
+   "role": "原任同知"
+  }
+ ],
+ "places": [
+  "桃源"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1701,
+ "page_range": "45-46"
+}

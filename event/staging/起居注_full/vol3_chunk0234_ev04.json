@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "初九日乙卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝命汤斌、耿介至前，问河图洛书之义，汤斌奏对，耿介未能对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "尚书"
+  },
+  {
+   "name": "耿介",
+   "role": "少詹事"
+  }
+ ],
+ "places": [
+  "无逸斋"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23404,
+ "page_range": "503-504"
+}

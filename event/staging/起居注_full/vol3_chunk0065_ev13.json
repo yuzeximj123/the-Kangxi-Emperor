@@ -1,0 +1,38 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十六日",
+ "event_role": "人事任免",
+ "summary": "明珠等奏开列庶吉士姓名，拟授翰林二十一人、科道六人、部属七人，康熙询问翰林人数。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "孙在丰",
+   "role": "教习庶吉士学士"
+  },
+  {
+   "name": "许溯隆",
+   "role": "庶吉士"
+  },
+  {
+   "name": "史陆与",
+   "role": "庶吉士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6513,
+ "page_range": "165-166"
+}

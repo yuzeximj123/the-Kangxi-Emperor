@@ -1,0 +1,62 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "十八日甲午",
+ "event_role": "人事任免",
+ "summary": "翰林院题补明史监修、总裁，帝命勒德洪、明珠、李霨、王申充监修，阿兰泰等充总裁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "监修"
+  },
+  {
+   "name": "明珠",
+   "role": "监修"
+  },
+  {
+   "name": "李霨",
+   "role": "监修"
+  },
+  {
+   "name": "王申",
+   "role": "监修"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "总裁"
+  },
+  {
+   "name": "王国安",
+   "role": "总裁"
+  },
+  {
+   "name": "牛钮",
+   "role": "总裁"
+  },
+  {
+   "name": "常蔬",
+   "role": "总裁"
+  },
+  {
+   "name": "孙在丰",
+   "role": "总裁"
+  },
+  {
+   "name": "汤斌",
+   "role": "总裁"
+  },
+  {
+   "name": "王酋绪",
+   "role": "总裁"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12816,
+ "page_range": "299-300"
+}

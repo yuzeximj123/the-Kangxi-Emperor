@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初二日丙辰",
+ "event_role": "司法案件",
+ "summary": "吏部议御史许三礼参奏通政司不实拟革职，康熙帝从宽免革职，削纪录降四级留任。",
+ "people": [
+  {
+   "name": "许三礼",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14602,
+ "page_range": "327-328"
+}

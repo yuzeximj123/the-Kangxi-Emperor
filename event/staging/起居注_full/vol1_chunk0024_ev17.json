@@ -1,0 +1,32 @@
+{
+ "reign_year": 11,
+ "month": 9,
+ "day_text": "初四日丙子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召翰林院学士传达礼、侍读学士胡窗子谕示，奉太皇太后慈旨将次日往三屯营游览近地、访问民生。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "传达礼",
+   "role": "翰林院学士"
+  },
+  {
+   "name": "胡窗子",
+   "role": "侍读学士"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇帝祖母"
+  }
+ ],
+ "places": [
+  "三屯营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 2417,
+ "page_range": "105-106"
+}

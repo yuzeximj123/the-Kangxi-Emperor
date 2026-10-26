@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅杨富因厨役事角口踢打姚义身死案，以其身充总甲、衅起同事，令免勾。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨富",
+   "role": "案犯"
+  },
+  {
+   "name": "姚义",
+   "role": "死者"
+  },
+  {
+   "name": "崔维贤",
+   "role": "相关人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24215,
+ "page_range": "495-496"
+}

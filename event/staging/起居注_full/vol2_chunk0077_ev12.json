@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "初六日乙卯",
+ "event_role": "人事任免",
+ "summary": "兵部题补永平守备杜进美为贵州掌印都司，康熙帝以其人颇优且有効力，着补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜进美",
+   "role": "永平守备"
+  }
+ ],
+ "places": [
+  "永平",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7712,
+ "page_range": "197-198"
+}

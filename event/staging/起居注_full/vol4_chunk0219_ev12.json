@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 12,
+ "day_text": "十九日癸巳",
+ "event_role": "人事任免",
+ "summary": "吏部覆河南巡抚阎兴邦奏请开封知府拣选补授，康熙帝命将候缺知府开列具奏并选贤能补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阎兴邦",
+   "role": "河南巡抚"
+  }
+ ],
+ "places": [
+  "开封",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21912,
+ "page_range": "450-451"
+}

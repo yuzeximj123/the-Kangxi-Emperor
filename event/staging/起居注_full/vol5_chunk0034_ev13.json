@@ -1,0 +1,46 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "二十一日本雍",
+ "event_role": "人事任免",
+ "summary": "康熙帝论言官今不如昔，称御史甘国枢守分安静、言语明白、人材亦优，令其内升，其余停止这次升转。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜立德",
+   "role": "言官"
+  },
+  {
+   "name": "李之芳",
+   "role": "言官"
+  },
+  {
+   "name": "姚文然",
+   "role": "言官"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "言官"
+  },
+  {
+   "name": "甘国枢",
+   "role": "御史"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3413,
+ "page_range": "78-79"
+}

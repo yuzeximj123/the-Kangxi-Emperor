@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "十二日辛西",
+ "event_role": "司法案件",
+ "summary": "兵部题佐领康弘毅克扣钱粮、隐匿绝嗣产业拟革职，康熙帝视为仇告，命问都统后革职留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "铁图",
+   "role": "学士"
+  },
+  {
+   "name": "纪和尔塔浑",
+   "role": "学士"
+  },
+  {
+   "name": "康弘毅",
+   "role": "佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2408,
+ "page_range": "59-60"
+}

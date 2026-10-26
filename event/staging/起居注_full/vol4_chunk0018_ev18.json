@@ -1,0 +1,52 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "初十日",
+ "event_role": "朝见受贺",
+ "summary": "初十日黎明，康熙帝御乾清门听政，部院各衙门官员面奏毕，大学士伊桑阿等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "学士"
+  },
+  {
+   "name": "赵山",
+   "role": "学士"
+  },
+  {
+   "name": "石文桂",
+   "role": "学士"
+  },
+  {
+   "name": "拜礼",
+   "role": "学士"
+  },
+  {
+   "name": "阿喇密",
+   "role": "学士"
+  },
+  {
+   "name": "王封汉",
+   "role": "学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1818,
+ "page_range": "48-49"
+}

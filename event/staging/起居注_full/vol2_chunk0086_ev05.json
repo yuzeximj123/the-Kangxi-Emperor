@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "未时康熙御保和殿，赐喀尔喀车臣汗来使查汉衣式黑尔图等及扎鲁忒、苏尼忒、吴喇忒各部台吉食。",
+ "people": [
+  {
+   "name": "查汉衣式黑尔图",
+   "role": "喀尔喀车臣汗来使"
+  },
+  {
+   "name": "杜思海",
+   "role": "扎鲁忒部落二品台吉"
+  },
+  {
+   "name": "扎木苏",
+   "role": "苏尼忒部落四品台吉"
+  },
+  {
+   "name": "满希",
+   "role": "吴喇忒部落四品台吉"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8605,
+ "page_range": "215-216"
+}

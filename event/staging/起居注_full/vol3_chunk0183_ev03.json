@@ -1,0 +1,36 @@
+{
+ "reign_year": 25,
+ "month": 8,
+ "day_text": "十五日本卯",
+ "event_role": "朝见受贺",
+ "summary": "敖汉、阿霸坟等部台吉贝子来朝请安。",
+ "people": [
+  {
+   "name": "安达阿玉锡",
+   "role": "敖汉一品台吉"
+  },
+  {
+   "name": "毕理座达赖",
+   "role": "敖汉四品台吉"
+  },
+  {
+   "name": "车林董鲁布",
+   "role": "阿霸坟固山贝子"
+  },
+  {
+   "name": "德木楚克允教",
+   "role": "二品台吉"
+  },
+  {
+   "name": "诺尔布",
+   "role": "未授品级台吉"
+  }
+ ],
+ "places": [
+  "黄陂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18303,
+ "page_range": "401-402"
+}

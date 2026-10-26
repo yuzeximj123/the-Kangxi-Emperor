@@ -1,0 +1,28 @@
+{
+ "reign_year": 13,
+ "month": 4,
+ "day_text": "十五日己酉",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿视朝，文武升转官员谢恩，厄鲁特、喀尔喀等部落头目行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "秦霞",
+   "role": "厄鲁特部落达赖汗下头目"
+  },
+  {
+   "name": "那儿布",
+   "role": "喀尔喀部落墨儿根那颜下头目"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7031,
+ "page_range": "197-198"
+}

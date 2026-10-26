@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "event_summary": "户部尚书赵申乔上疏请罪，自陈于刘芳声等事妄为两议，康熙命九卿詹事科道与赵申乔合议具奏。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  },
+  {
+   "name": "刘芳声",
+   "role": "案犯"
+  },
+  {
+   "name": "徐彩官",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18906,
+ "page_range": "389-390"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十一日己丑",
+ "event_role": "人事任免",
+ "summary": "甘肃布政使色冷格升任员缺，拟正噶尔萨、拟陪称里布，康熙帝命噶尔萨升补布政使。",
+ "people": [
+  {
+   "name": "色冷格",
+   "role": "甘肃布政使"
+  },
+  {
+   "name": "噶尔萨",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "称里布",
+   "role": "制造库郎中"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21715,
+ "page_range": "469-470"
+}

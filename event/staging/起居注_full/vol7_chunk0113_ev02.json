@@ -1,0 +1,20 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "二十一日",
+ "event_role": "请安谢恩",
+ "summary": "早，康熙帝至皇太后行宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "皇太后行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11302,
+ "page_range": "237-238"
+}

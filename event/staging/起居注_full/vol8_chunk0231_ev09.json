@@ -1,0 +1,22 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": "初三日王子",
+ "event_role": "皇帝行止",
+ "summary": "辰时康熙帝由朝阳门入东华门，居苍震门内。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝阳门",
+  "东华门",
+  "苍震门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23109,
+ "page_range": "473-474"
+}

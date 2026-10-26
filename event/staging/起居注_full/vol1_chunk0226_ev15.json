@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初八日丁酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙以宁远靖寇大将军和硕安亲王岳乐自湖广凯旋，率在京诸王、贝子、公及内大臣、侍卫、八旗都统等出郊迎劳，越芦沟桥驻跸。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "岳乐",
+   "role": "和硕安亲王"
+  }
+ ],
+ "places": [
+  "芦沟桥",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22615,
+ "page_range": "509-510"
+}

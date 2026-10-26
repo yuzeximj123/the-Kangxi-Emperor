@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "十八日丁酉",
+ "event_role": "司法案件",
+ "summary": "三法司议张鳌殴死其兄张龙、其母乞免死养孤事，康熙帝询问大学士等意见后命九卿詹事科道会议具奏。",
+ "people": [
+  {
+   "name": "张鳌",
+   "role": "案犯"
+  },
+  {
+   "name": "张龙",
+   "role": "死者"
+  },
+  {
+   "name": "朱氏",
+   "role": "张鳌之母"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8510,
+ "page_range": "213-214"
+}

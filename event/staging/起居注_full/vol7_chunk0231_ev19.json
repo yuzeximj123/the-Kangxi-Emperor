@@ -1,0 +1,26 @@
+{
+ "reign_year": 51,
+ "month": 9,
+ "day_text": "二十九日己酉",
+ "event_role": "司法案件",
+ "summary": "刑部会审随行兵部解送七儿戳死进住案，康熙帝依议将七儿拟绞监候，并命随行处杀人偷马者就地审结正法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "七儿",
+   "role": "罪犯"
+  },
+  {
+   "name": "进住",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23119,
+ "page_range": "473-474"
+}

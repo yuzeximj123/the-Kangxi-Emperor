@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "初十日癸巳",
+ "event_role": "人事任免",
+ "summary": "吏部题丁忧江西布政使傅泽渊员缺请引见补授，康熙帝令补授白潢，系熟识之人不必引见。",
+ "people": [
+  {
+   "name": "傅泽渊",
+   "role": "江西布政使"
+  },
+  {
+   "name": "许兆麟",
+   "role": "四川按察使"
+  },
+  {
+   "name": "白潢",
+   "role": "候补布政使"
+  }
+ ],
+ "places": [
+  "江西",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19612,
+ "page_range": "403-404"
+}

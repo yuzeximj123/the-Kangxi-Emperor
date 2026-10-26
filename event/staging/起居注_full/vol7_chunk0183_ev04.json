@@ -1,0 +1,20 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "初三日已丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸青城。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "青城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18304,
+ "page_range": "377-378"
+}

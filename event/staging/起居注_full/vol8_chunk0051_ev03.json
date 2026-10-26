@@ -1,0 +1,22 @@
+{
+ "reign_year": 53,
+ "month": 1,
+ "day_text": "初十日王子",
+ "event_role": "起居注官记录",
+ "summary": "记录当日起居注官为把叙、汤右曾。",
+ "people": [
+  {
+   "name": "把叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "汤右曾",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5103,
+ "page_range": "113-114"
+}

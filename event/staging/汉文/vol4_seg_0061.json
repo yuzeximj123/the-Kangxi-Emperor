@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十一年五月二十八日",
+ "reign_year": 51,
+ "month": 5,
+ "day": 28,
+ "event_role": "人事任免",
+ "summary": "云南巡抚奏请以赵世勋升补顺宁知府、张建德升补蒙化府掌印同知，并附报滇省雨水调匀、米麦豆价。",
+ "people": [
+  {
+   "name": "赵世勋",
+   "role": "拟升补顺宁府知府"
+  },
+  {
+   "name": "张建德",
+   "role": "邓川州知州，拟升补蒙化府掌印同知"
+  }
+ ],
+ "places": [
+  "顺宁府",
+  "蒙化府",
+  "云州",
+  "邓川州",
+  "滇省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "補順寧知府",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 61
+}

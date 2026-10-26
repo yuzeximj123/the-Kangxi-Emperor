@@ -1,0 +1,40 @@
+{
+ "date_raw": "康熙四十六年十月二十九日",
+ "reign_year": 46,
+ "month": 10,
+ "day": 29,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚赵弘燮奏请为大名府知府空缺钦授能员，并保举河间府同知俞品升补。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "奏报人"
+  },
+  {
+   "name": "程濬",
+   "role": "涉及人物"
+  },
+  {
+   "name": "俞品",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "大名府",
+  "东明县",
+  "长垣县",
+  "河间府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批称已有旨意，即此事已作处理。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "270",
+ "source_title": "直隶巡抚赵弘燮奏请钦授大名知府员缺摺",
+ "order_index": 197
+}

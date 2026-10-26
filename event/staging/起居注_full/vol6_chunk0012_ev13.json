@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 9,
+ "day_text": "二十三日康子",
+ "event_role": "谕旨决策",
+ "summary": "大学士等奏与宗人府会议宗室考试事，康熙帝定奉恩将军以上有官职者不必赴考，闲散宗室许其考试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "李天馥",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1213,
+ "page_range": "34-35"
+}

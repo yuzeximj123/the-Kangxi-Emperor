@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "初十日癸酉",
+ "event_role": "人事任免",
+ "summary": "康熙帝指出刚五达系九卿保举司官但言语支离、诸凡无实，有愧保举。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刚五达",
+   "role": "司官"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14816,
+ "page_range": "306-307"
+}

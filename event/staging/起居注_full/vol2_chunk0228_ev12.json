@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "十三日康成",
+ "event_role": "司法案件",
+ "summary": "刑部侍郎高尔位题参员外郎萨毕秋审事件屡催争辩应罚俸，康熙以高尔位所参不当，命萨毕免罚俸。",
+ "people": [
+  {
+   "name": "高尔位",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "萨毕",
+   "role": "刑部员外郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "席忒纳",
+   "role": "学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22812,
+ "page_range": "499-500"
+}

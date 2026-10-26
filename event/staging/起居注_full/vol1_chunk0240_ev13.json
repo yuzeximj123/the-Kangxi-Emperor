@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "初九日",
+ "event_role": "谕旨决策",
+ "summary": "九卿詹事科道会议免死流徙充军人犯发往乌喇事，明珠、李霨奏两议合并，康熙从九卿议发往乌喇。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24013,
+ "page_range": "537-538"
+}

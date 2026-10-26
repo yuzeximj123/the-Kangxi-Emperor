@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请山海关正蓝旗白尔和免殴伤媳妇致死谎报病故案，拟枷号五十日、鞭一百，康熙帝认为所议属轻，令再议。",
+ "people": [
+  {
+   "name": "白尔和免",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山海关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18401,
+ "page_range": "379-380"
+}

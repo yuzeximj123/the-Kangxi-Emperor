@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "初六日庚子",
+ "event_role": "其他",
+ "summary": "康熙帝命侍卫张文焕射，赞其射优；索额图奏张文焕得皇上教诲技艺更进。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张文焕",
+   "role": "侍卫"
+  },
+  {
+   "name": "索额图",
+   "role": "内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4319,
+ "page_range": "96-97"
+}

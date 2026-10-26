@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 4,
+ "day_text": "十六日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召学士傅达礼谕南苑乃人君练武之地，命讲官史鹤龄、编修张英作诗赋于十八日进呈。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅达礼",
+   "role": "学士"
+  },
+  {
+   "name": "史鹤龄",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "编修"
+  }
+ ],
+ "places": [
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4128,
+ "page_range": "139-140"
+}

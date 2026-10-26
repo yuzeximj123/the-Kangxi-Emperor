@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十四日丁雍",
+ "event_role": "人事任免",
+ "summary": "兵部题补京口总兵员缺，康熙帝命补陈华，明珠奏陈华系闽人熟习水路，用之京口必当。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "陈华",
+   "role": "总兵"
+  },
+  {
+   "name": "李国粱",
+   "role": "候选官员"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15120,
+ "page_range": "345-346"
+}

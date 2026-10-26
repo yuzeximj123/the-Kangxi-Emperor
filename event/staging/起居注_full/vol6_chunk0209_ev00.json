@@ -1,0 +1,27 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕称赈济水灾黎民系为拯救灾民，非止救泗州盱眙，并斥张鹏翮不知天下之大。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "河官"
+  }
+ ],
+ "places": [
+  "泗州",
+  "盱眙",
+  "淮安",
+  "扬州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20900,
+ "page_range": "428-429"
+}

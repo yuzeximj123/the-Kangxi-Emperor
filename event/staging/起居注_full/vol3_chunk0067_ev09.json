@@ -1,0 +1,20 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "十九日庚戌",
+ "event_role": "议政听政",
+ "summary": "辰时封印，康熙不御乾清门听政。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6709,
+ "page_range": "169-170"
+}

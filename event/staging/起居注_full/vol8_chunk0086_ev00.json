@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥张伯行奏报贼首人数前后不一、无踪迹，且密奏可笑，令其暂停革职看守质审并查拿贼盗详审具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "苏州",
+  "吴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8600,
+ "page_range": "183-184"
+}

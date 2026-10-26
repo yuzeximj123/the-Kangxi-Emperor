@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "初九日丙申",
+ "event_role": "谕旨决策",
+ "summary": "九卿议覆两江总督阿山等所请照西安顶补捐纳例准令顶捐，议准行；所请暂移西安捐米例议不准行，康熙帝令问九卿之意。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安",
+  "两江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10404,
+ "page_range": "219-220"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "十八日戊申",
+ "event_role": "司法案件",
+ "summary": "御史洪之杰参江宁同知任道立，部议应交楚省审拟，康熙命遣吏、刑二部司官各一员前去察审。",
+ "people": [
+  {
+   "name": "洪之杰",
+   "role": "御史"
+  },
+  {
+   "name": "任道立",
+   "role": "江宁同知"
+  }
+ ],
+ "places": [
+  "江宁",
+  "楚省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21514,
+ "page_range": "487-488"
+}

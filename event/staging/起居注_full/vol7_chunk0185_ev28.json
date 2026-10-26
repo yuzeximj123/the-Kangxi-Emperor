@@ -1,0 +1,20 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": "二十日丙午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕：依议；侍郎拉都浑往科尔沁办理事务不能和辑生事，着降五级调用。",
+ "people": [
+  {
+   "name": "拉都浑",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18528,
+ "page_range": "381-382"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": "二十六日庚午",
+ "event_role": "人事任免",
+ "summary": "伊桑阿奏九卿询问提督李林隆，九卿言其未得军民之心，康熙帝令以李林隆补授镶红旗汉军都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "李林隆",
+   "role": "提督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4014,
+ "page_range": "90-91"
+}

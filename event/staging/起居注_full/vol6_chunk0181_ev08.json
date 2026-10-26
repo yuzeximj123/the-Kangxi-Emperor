@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "初九日丁酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝斥礼部堂官无耻，令王泽弘原品休致、三宝革职、李录予降二级留任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王泽弘",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "三宝",
+   "role": "官员"
+  },
+  {
+   "name": "李录予",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18108,
+ "page_range": "372-373"
+}

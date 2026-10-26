@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "十七日己巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝起行向真定府，沿途真定府百姓数千人执香跪迎，驻跸真定府城内隆兴寺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "真定府",
+  "隆兴寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 620,
+ "page_range": "23-24"
+}

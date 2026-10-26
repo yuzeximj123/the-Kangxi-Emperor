@@ -1,0 +1,27 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "黑龙江将军萨布素移文兵部，报四月初六日起程向克鲁伦前进，请示会师处并请拨支三月以外米粮。",
+ "people": [
+  {
+   "name": "萨布素",
+   "role": "镇守黑龙江等处将军"
+  },
+  {
+   "name": "阿礼马",
+   "role": "理藩院拨什库"
+  }
+ ],
+ "places": [
+  "克鲁伦",
+  "墨尔根",
+  "胡伦鄂漠",
+  "塔喇弄擒"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11301,
+ "page_range": "236-237"
+}

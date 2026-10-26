@@ -1,0 +1,30 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "二十七日戊子",
+ "event_role": "议政听政",
+ "summary": "申时康熙帝御舟中，大学士松柱、学士查弼纳、勒什布以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "查弼纳",
+   "role": "学士"
+  },
+  {
+   "name": "勒什布",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13121,
+ "page_range": "273-274"
+}

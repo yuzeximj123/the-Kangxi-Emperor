@@ -1,0 +1,38 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "十九日壬申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召入领侍卫内大臣苏尔达、公福善、索额图、大学士阿兰泰、尚书马齐，谕令撰写招抚噶尔丹敕书呈览。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏尔达",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "福善",
+   "role": "公"
+  },
+  {
+   "name": "索额图",
+   "role": "公"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15805,
+ "page_range": "326-327"
+}

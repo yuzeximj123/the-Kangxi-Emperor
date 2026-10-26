@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部汇题案内顺承郡王所送四格佐领下色克图行止悖乱，议发往打牲乌喇，康熙帝以有人控告顺承郡王，命留本内阅，待控告事议奏时再启奏。",
+ "people": [
+  {
+   "name": "色克图",
+   "role": "四格佐领下人"
+  },
+  {
+   "name": "顺承郡王",
+   "role": "郡王"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "打牲乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8902,
+ "page_range": "189-190"
+}

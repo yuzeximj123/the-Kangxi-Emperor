@@ -1,0 +1,21 @@
+{
+ "reign_year": 41,
+ "month": 1,
+ "day_text": "初一日",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御中和殿受大臣侍卫及内阁等衙门朝贺，随御太和殿受诸王文武官员及外藩使臣进表行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2,
+ "page_range": "11-12"
+}

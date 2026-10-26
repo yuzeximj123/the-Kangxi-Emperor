@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": "初九日甲子",
+ "event_role": "谕旨决策",
+ "summary": "刑部侍郎常绥等为审蔡三十二等劫广东泛海商船事请训旨，康熙帝谕当公审并训诫部务敬慎。",
+ "people": [
+  {
+   "name": "常绥",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "素尔敏",
+   "role": "郎中"
+  },
+  {
+   "name": "蔡三十二",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11919,
+ "page_range": "249-250"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "十八日己丑",
+ "event_role": "人事任免",
+ "summary": "陕西巡抚鄂海题参学道刘凡玻慢懒惰，康熙帝命刘凡以原品解任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂海",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "刘凡",
+   "role": "学道"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8610,
+ "page_range": "183-184"
+}

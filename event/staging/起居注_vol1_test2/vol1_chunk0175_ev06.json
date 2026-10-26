@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 1,
+ "day_text": "十一日本未",
+ "event_role": "其他",
+ "summary": "未时，康熙帝复御乾清门，赐岳州随征总兵官柯彩食，并于当日早赐柯彩鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "柯彩",
+   "role": "岳州随征总兵官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17506,
+ "page_range": "407-408"
+}

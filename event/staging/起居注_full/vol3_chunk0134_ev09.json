@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 1,
+ "day_text": "初三日戊午",
+ "event_role": "起居注官记录",
+ "summary": "记载本日起居注官为卢琦、邬黑。",
+ "people": [
+  {
+   "name": "卢琦",
+   "role": "起居注官"
+  },
+  {
+   "name": "邬黑",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13409,
+ "page_range": "303-304"
+}

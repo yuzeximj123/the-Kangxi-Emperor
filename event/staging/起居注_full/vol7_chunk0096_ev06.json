@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "二十五日甲寅",
+ "event_role": "起居注官记录",
+ "summary": "记是行部院奏章每日交内阁、三日一次送行在听理，并记问皇太后安六次及扈从起居注官摊叙、阿尔法。",
+ "people": [
+  {
+   "name": "摊叙",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "阿尔法",
+   "role": "扈从起居注官"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9606,
+ "page_range": "203-204"
+}

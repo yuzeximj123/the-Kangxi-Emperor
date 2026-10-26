@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "湖广总督鄂海题请以抚标游击包成调补武冈营游击，康熙帝准照所题调补。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "湖广总督"
+  },
+  {
+   "name": "陈席",
+   "role": "武冈营游击"
+  },
+  {
+   "name": "包成",
+   "role": "抚标游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "武冈营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18404,
+ "page_range": "379-380"
+}

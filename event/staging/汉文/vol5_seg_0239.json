@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年六月十八日",
+ "reign_year": 53,
+ "month": 6,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "广东提督王文雄奏报广东年景良好、早稻丰收、晚稻栽插顺利、米价下降、兵民相安，并专差家人恭请圣安。",
+ "people": [
+  {
+   "name": "王文雄",
+   "role": "广东提督，奏报人"
+  },
+  {
+   "name": "陈义",
+   "role": "王文雄家人，专差赍捧奏折者"
+  }
+ ],
+ "places": [
+  "广东",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "廣東提督王文雄奏報地方年景並請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1601",
+ "order_index": 239
+}

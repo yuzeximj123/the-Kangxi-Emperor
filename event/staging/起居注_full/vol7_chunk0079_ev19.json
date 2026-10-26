@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "未时",
+ "event_role": "人事任免",
+ "summary": "马齐奏潞安府知府员缺，巡抚噶礼荐霍州知州李绍祖因病未带来，康熙帝斥其庸劣不堪，命照部定例拟补，不必再问噶礼。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "李绍祖",
+   "role": "霍州知州，被荐"
+  }
+ ],
+ "places": [
+  "潞安府",
+  "霍州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7919,
+ "page_range": "169-170"
+}

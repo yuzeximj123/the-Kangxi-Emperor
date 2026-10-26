@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问张鹏、耿介意见，张鹏奏强盗屡行宽恕无益良民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏",
+   "role": "官员"
+  },
+  {
+   "name": "耿介",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23011,
+ "page_range": "495-496"
+}

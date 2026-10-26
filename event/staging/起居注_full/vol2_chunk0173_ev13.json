@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "十一日癸未",
+ "event_role": "司法案件",
+ "summary": "会议和硕额驸华善、原任左都御史多诺不疾救永兴议革职籍没，康熙帝命华善革职免籍没，多诺依华善例结案。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "华善",
+   "role": "和硕额驸"
+  },
+  {
+   "name": "多诺",
+   "role": "原任左都御史"
+  }
+ ],
+ "places": [
+  "永兴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17313,
+ "page_range": "389-390"
+}

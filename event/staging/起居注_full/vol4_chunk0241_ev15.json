@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 9,
+ "day_text": "初十日辛北",
+ "event_role": "司法案件",
+ "summary": "刑部拟奏原任三等侍卫吴郎格欲杀继母与弟应枷号鞭责，康熙帝以其凶恶已极，令枷号鞭责发往黑龙江当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴郎格",
+   "role": "原任三等侍卫"
+  }
+ ],
+ "places": [
+  "张家口",
+  "京师",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24115,
+ "page_range": "494-495"
+}

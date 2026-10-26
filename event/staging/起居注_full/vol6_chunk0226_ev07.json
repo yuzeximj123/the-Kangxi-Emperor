@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十一日甲午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝言部院事件多错误，惟委于己，凡事倍加详阅，即一字之讹亦为改出，告诫学士等宜逐一谨慎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22607,
+ "page_range": "462-463"
+}

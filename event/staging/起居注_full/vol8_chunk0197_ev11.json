@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "十六日己刻",
+ "event_role": "司法案件",
+ "summary": "刑部议松五尔代强夺奸居之女为妻拟绞监候，康熙以其情可恶，命秋审时断不可用。",
+ "people": [
+  {
+   "name": "松五尔代",
+   "role": "披甲人"
+  },
+  {
+   "name": "七十",
+   "role": "披甲人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19711,
+ "page_range": "405-406"
+}

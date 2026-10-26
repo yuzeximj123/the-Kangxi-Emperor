@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题打死黑儿之安保住发遣三姓处，康熙以其系包衣佐领之人，命改发打牲乌喇再议。",
+ "people": [
+  {
+   "name": "安保住",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三姓",
+  "打牲乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7410,
+ "page_range": "159-160"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "二十日匡已",
+ "event_role": "谕旨决策",
+ "summary": "江宁巡抚余国柱请留江镇道员缺、裁汰苏松道员缺，九卿不准，康熙帝询汉大学士后从所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "余国柱",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "李需",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [
+  "江镇",
+  "苏松"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16411,
+ "page_range": "371-372"
+}

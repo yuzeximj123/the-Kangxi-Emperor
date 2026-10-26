@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "十一日辛卯",
+ "event_role": "议政听政",
+ "summary": "是日申时康熙帝御行宫听政，大学士马齐、松柱及兵部侍郎等在学士处。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21317,
+ "page_range": "437-438"
+}

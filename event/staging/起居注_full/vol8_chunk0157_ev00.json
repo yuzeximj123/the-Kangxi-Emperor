@@ -1,0 +1,38 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕兵部侍郎查粥纳，指出各省武官因部费而取兵丁空粮之弊，命其留心剔除，并令兵马档册一年只报一次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "查粥纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "满保",
+   "role": "总督"
+  },
+  {
+   "name": "马见伯",
+   "role": "总兵官"
+  },
+  {
+   "name": "保住",
+   "role": "总兵官"
+  },
+  {
+   "name": "孙征汗",
+   "role": "尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15700,
+ "page_range": "325-326"
+}

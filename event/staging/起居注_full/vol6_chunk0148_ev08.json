@@ -1,0 +1,33 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "初八日辛未",
+ "event_role": "人事任免",
+ "summary": "总兵官马进良题请留石匣营副将姜琦原任，康熙帝准其所请，仍留原任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马进良",
+   "role": "总兵官"
+  },
+  {
+   "name": "姜琦",
+   "role": "石匣营副将"
+  },
+  {
+   "name": "赵良栋",
+   "role": "将领"
+  }
+ ],
+ "places": [
+  "石匣营",
+  "山西永昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14808,
+ "page_range": "306-307"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "顺天府府尹刘元慧员缺，除光禄寺卿李锦等外，命查奏次等应升之人。",
+ "people": [
+  {
+   "name": "刘元慧",
+   "role": "顺天府府尹"
+  },
+  {
+   "name": "李锦",
+   "role": "光禄寺卿"
+  }
+ ],
+ "places": [
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7401,
+ "page_range": "158-159"
+}

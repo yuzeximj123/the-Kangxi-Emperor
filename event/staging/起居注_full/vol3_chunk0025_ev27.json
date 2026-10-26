@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "靖逆将军甘肃提督张勇病故员缺请旨开列，康熙帝命现在甘肃的总兵官孙思克补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张勇",
+   "role": "甘肃提督"
+  },
+  {
+   "name": "孙思克",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2527,
+ "page_range": "85-86"
+}

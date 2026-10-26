@@ -1,0 +1,44 @@
+{
+ "reign_year": 37,
+ "month": 1,
+ "day_text": "二十六日壬寅",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清门听政，部院各衙门官员面奏毕，湖广总督李辉祖等官员陛辞请训旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李辉祖",
+   "role": "湖广总督"
+  },
+  {
+   "name": "李国亮",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "石文最",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "张惑",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "刘虎",
+   "role": "广东总兵官"
+  },
+  {
+   "name": "刘连",
+   "role": "山东布政司"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3015,
+ "page_range": "70-71"
+}

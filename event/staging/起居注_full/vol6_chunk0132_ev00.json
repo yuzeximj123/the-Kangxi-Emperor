@@ -1,0 +1,27 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝与李楠讨论高家堰修筑及泗州水患问题，李楠认为高家堰加修后泗州一带会稍有水患，但淮安等地更为重要。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李楠",
+   "role": "奏对官员"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "泗州",
+  "淮安",
+  "清口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13200,
+ "page_range": "274-275"
+}

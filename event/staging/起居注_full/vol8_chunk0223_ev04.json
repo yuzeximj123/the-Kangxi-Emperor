@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "户部议覆费扬古所题山带等处种地霜早收成，康熙帝命依议收贮，并责费扬古误听属言妄奏。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "右卫将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山带",
+  "归化城",
+  "脱脱城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22304,
+ "page_range": "457-458"
+}

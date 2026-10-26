@@ -1,0 +1,36 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": "二十三日庚戌",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士温达、户部侍郎兼管学士事噶敏图、学士满保、巴格以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "噶敏图",
+   "role": "户部侍郎兼管学士事"
+  },
+  {
+   "name": "满保",
+   "role": "学士"
+  },
+  {
+   "name": "巴格",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17820,
+ "page_range": "367-368"
+}

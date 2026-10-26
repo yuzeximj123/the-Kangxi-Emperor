@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 5,
+ "day_text": "初一日庚成",
+ "event_role": "谕旨决策",
+ "summary": "大学士伊桑阿奏九卿议偏沅巡抚王梁丈出地亩事，称于民无累，康熙帝令依议。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王梁",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "偏沅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19609,
+ "page_range": "404-405"
+}

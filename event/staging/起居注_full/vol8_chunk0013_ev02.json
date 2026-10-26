@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙命二内侍扶老妇出宫，并谓众人曾起立执手、赐坐赐食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赖都之母",
+   "role": "副都统之母"
+  },
+  {
+   "name": "哪俩什床巴图鲁之妻",
+   "role": "二等阿达哈哈番之妻"
+  }
+ ],
+ "places": [
+  "宫门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1302,
+ "page_range": "37-38"
+}

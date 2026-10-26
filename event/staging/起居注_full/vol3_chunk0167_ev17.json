@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "十四日",
+ "event_role": "司法案件",
+ "summary": "明珠等奏审员外郎马拉希一案，康熙同意待关保出兵回日质对。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "马拉希",
+   "role": "员外郎"
+  },
+  {
+   "name": "关保",
+   "role": "涉案人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16717,
+ "page_range": "369-370"
+}

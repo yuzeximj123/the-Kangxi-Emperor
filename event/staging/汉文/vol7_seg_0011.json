@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十九年四月二十九日",
+ "reign_year": 59,
+ "month": 4,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "云南巡抚甘国璧奏报滇省二麦收成及雨水沾足情形，并据布政使卢询册报云南府属收成分数，以慰圣怀。",
+ "people": [
+  {
+   "name": "甘国璧",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "卢询",
+   "role": "布政使"
+  }
+ ],
+ "places": [
+  "云南",
+  "滇省",
+  "云南府"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "雲南巡撫甘國璧奏報滇省二麥收成及雨澤霑足摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2078",
+ "order_index": 11
+}

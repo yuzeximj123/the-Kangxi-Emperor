@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部题覆山东巡抚张鹏报白芝麻价浮多、棉花价减少，康熙帝令依九卿定价再议。",
+ "people": [
+  {
+   "name": "张鹏",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7401,
+ "page_range": "183-184"
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十八年四月十四日",
+ "reign_year": 48,
+ "month": 4,
+ "day": 14,
+ "event_role": "司法案件",
+ "summary": "浙江巡抚黄秉中奏报处州府遂昌县已拿获为首起事之彭子英，系地方拿获起事首犯之司法案件。",
+ "people": [
+  {
+   "name": "黄秉中",
+   "role": "浙江巡抚，奏报人"
+  },
+  {
+   "name": "彭子英",
+   "role": "处州遂昌县起事首犯，已被拿获"
+  }
+ ],
+ "places": [
+  "浙江",
+  "处州",
+  "遂昌县"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "浙江巡抚黄秉中奏处州遂昌县已获为首起事之彭子英折",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "486",
+ "order_index": 442
+}

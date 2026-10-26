@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 4,
+ "day_text": "二十七日辛未",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿奏施琅祭文因不合发回更改近日始完，康熙帝令查明具奏，责其耽延。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "施琅",
+   "role": "边疆大臣"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4018,
+ "page_range": "90-91"
+}

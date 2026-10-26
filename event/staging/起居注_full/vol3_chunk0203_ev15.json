@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十六日丙寅",
+ "event_role": "议政听政",
+ "summary": "王申奏称靳辅前后矛盾，请召靳辅详问；佛伦、明珠亦奏请查看靳辅前疏。",
+ "people": [
+  {
+   "name": "王申",
+   "role": "官员"
+  },
+  {
+   "name": "佛伦",
+   "role": "工部尚书"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20315,
+ "page_range": "441-442"
+}

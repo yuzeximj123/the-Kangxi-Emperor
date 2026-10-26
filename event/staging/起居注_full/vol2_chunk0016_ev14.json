@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十八日癸酉",
+ "event_role": "司法案件",
+ "summary": "江西秋审重犯事，康熙帝命张有功受贿无多着缓决，别案情真者俱依议。",
+ "people": [
+  {
+   "name": "张有功",
+   "role": "罪犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1614,
+ "page_range": "75-76"
+}

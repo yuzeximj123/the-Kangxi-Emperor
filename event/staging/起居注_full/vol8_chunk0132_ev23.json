@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初八日己亥",
+ "event_role": "朝见受贺",
+ "summary": "良乡县防御萨尔都、知县彭其位等来朝。",
+ "people": [
+  {
+   "name": "萨尔都",
+   "role": "良乡县防御"
+  },
+  {
+   "name": "彭其位",
+   "role": "良乡县知县"
+  }
+ ],
+ "places": [
+  "良乡县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13223,
+ "page_range": "275-276"
+}

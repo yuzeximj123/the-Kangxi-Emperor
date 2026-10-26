@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "右卫将军费扬古题骁骑校张文德打死闲散人王承举，刑部议无部内定罪之理驱回，康熙帝令严饬刑部承任审理并察议司官。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "右卫将军"
+  },
+  {
+   "name": "张文德",
+   "role": "骁骑校"
+  },
+  {
+   "name": "王承举",
+   "role": "闲散人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14913,
+ "page_range": "309-310"
+}

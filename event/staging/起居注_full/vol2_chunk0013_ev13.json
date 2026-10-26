@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "初五日庚申",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读，引见傅继祖、哈山，康熙帝询问常书傅继祖学问，常书称其学佳但不及牛钮。",
+ "people": [
+  {
+   "name": "傅继祖",
+   "role": "起居注主事"
+  },
+  {
+   "name": "哈山",
+   "role": "礼部主事"
+  },
+  {
+   "name": "常书",
+   "role": "侍读学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1313,
+ "page_range": "69-70"
+}

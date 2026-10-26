@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝阅拟训诫朝觐官员谕旨，命据实训诫，并添入外官不照时价据实估定、浮冒入己等语意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "那葛",
+   "role": "条陈官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17202,
+ "page_range": "387-388"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初九日己丑",
+ "event_role": "起居注官记录",
+ "summary": "起居注官评论康熙帝驻跸灵武召见吴赫等、训令恤兵，赞其鼓舞激劝之效。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴赫",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "灵武"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21006,
+ "page_range": "430-431"
+}

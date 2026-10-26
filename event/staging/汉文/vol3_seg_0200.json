@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙伍拾年陆月贰拾壹日",
+ "reign_year": 50,
+ "month": 6,
+ "day": 21,
+ "event_role": "请安谢恩",
+ "summary": "署福建陆路提督陈龙奏请圣安并谢恩，进献菓毬、沙米等物，表达恋主之私。",
+ "people": [
+  {
+   "name": "陈龙",
+   "role": "署福建陆路提督军务总兵官世袭三等阿达哈哈番，奏请圣安并进献物品"
+  },
+  {
+   "name": "潘宗洛",
+   "role": "巡抚偏沅等处地方提督军务兼理粮饷都察院右副都御史，列名于摺末"
+  }
+ ],
+ "places": [
+  "澎湖",
+  "厦门",
+  "偏沅"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批表示已知朕安并闻悉所奏。",
+ "source_title": "陈龙请安摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 200
+}

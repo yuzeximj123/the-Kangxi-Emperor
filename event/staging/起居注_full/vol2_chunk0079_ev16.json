@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "二十日己巳",
+ "event_role": "弹劾参奏",
+ "summary": "给事中王承祖参云南总督赵良栋举措乖张，康熙帝以云南未复、正在用兵，命晓谕而不下行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王承祖",
+   "role": "给事中"
+  },
+  {
+   "name": "赵良栋",
+   "role": "云南总督"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7916,
+ "page_range": "201-202"
+}

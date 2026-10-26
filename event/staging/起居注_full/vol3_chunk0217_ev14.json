@@ -1,0 +1,29 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十一日己丑",
+ "event_role": "人事任免",
+ "summary": "吏部题江南江西总督王新命调补员缺请旨，康熙帝采纳明珠等意见，命董讷授为江南江西总督。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "江南江西总督"
+  },
+  {
+   "name": "董讷",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21714,
+ "page_range": "469-470"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问九卿温保、德珠优劣，伊桑阿奏对后命德珠升补学士。",
+ "people": [
+  {
+   "name": "温保",
+   "role": "官员"
+  },
+  {
+   "name": "德珠",
+   "role": "司官"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17301,
+ "page_range": "358-359"
+}

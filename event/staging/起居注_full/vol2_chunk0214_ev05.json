@@ -1,0 +1,22 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "已时，康熙前往太皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "问安对象"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21405,
+ "page_range": "471-472"
+}

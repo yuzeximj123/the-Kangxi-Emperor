@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 8,
+ "day_text": "二十五日本丑",
+ "event_role": "人事任免",
+ "summary": "兵部题永陵驻防协领赛图员缺，康熙帝询问后准以原任山西巡抚觉罗阿塔补授。",
+ "people": [
+  {
+   "name": "觉罗阿塔",
+   "role": "原任山西巡抚，拟正补授驻防协领"
+  },
+  {
+   "name": "马克都",
+   "role": "拖沙喇哈番，拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "永陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18319,
+ "page_range": "401-402"
+}

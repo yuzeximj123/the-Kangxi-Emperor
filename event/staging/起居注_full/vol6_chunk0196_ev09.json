@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "二十六日癸丑",
+ "event_role": "人事任免",
+ "summary": "广西巡抚彭鹏题请柳州知府倩以履调太平知府，议不准行，康熙谕彭鹏既为地方奏请，可照所请行。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭鹏",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "倩以履",
+   "role": "柳州知府"
+  }
+ ],
+ "places": [
+  "广西",
+  "柳州",
+  "太平"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19609,
+ "page_range": "402-403"
+}

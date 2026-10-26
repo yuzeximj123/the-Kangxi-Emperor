@@ -1,0 +1,26 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "二十六日王寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召兵部尚书明珠，命太医院为患病随行官兵诊视医治，并传谕众人知晓。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "太医院官",
+   "role": "医官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1002,
+ "page_range": "77-78"
+}

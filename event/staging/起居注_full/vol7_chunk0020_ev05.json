@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "初三日闫未",
+ "event_role": "司法案件",
+ "summary": "宗人府以佛圣保捏告觉罗存住佐领非世袭拟罪具奏，康熙帝认为佛圣保捏词诬告可恶，命枷号三月、鞭一百、发黑龙江披甲效力。",
+ "people": [
+  {
+   "name": "佛圣保",
+   "role": "案犯"
+  },
+  {
+   "name": "觉罗存住",
+   "role": "佐领"
+  },
+  {
+   "name": "巴哈纳",
+   "role": "旧世臣"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2005,
+ "page_range": "51-52"
+}

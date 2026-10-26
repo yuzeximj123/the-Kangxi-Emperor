@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙肆拾肆年玖月初捌日",
+ "reign_year": 44,
+ "month": 9,
+ "day": 8,
+ "event_role": "其他",
+ "summary": "湖广巡抚刘殿衡据士民呈请，代奏恳请康熙皇帝巡幸湖广楚疆。",
+ "people": [
+  {
+   "name": "刘殿衡",
+   "role": "奏报人"
+  },
+  {
+   "name": "刘闻喜",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "湖广",
+  "楚",
+  "荆襄",
+  "江汉"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批仅表示知道了，未明确允准巡幸。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": null,
+ "order_index": 91
+}

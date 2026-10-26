@@ -1,0 +1,31 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题直隶现强县杨谷庄居民刘涵家被盗事，拟罚升任云南鹤丽总兵官郝伟，康熙帝令从宽免罚。",
+ "people": [
+  {
+   "name": "刘涵",
+   "role": "居民"
+  },
+  {
+   "name": "郝伟",
+   "role": "升任云南鹤丽总兵官督辖副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "现强县",
+  "杨谷庄",
+  "云南鹤丽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14707,
+ "page_range": "305-306"
+}

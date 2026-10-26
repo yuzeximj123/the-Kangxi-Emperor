@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 8,
+ "day_text": "十三日生辰",
+ "event_role": "司法案件",
+ "summary": "刑部覆因知县余光全私纵家人赵起元、里长李誉美私派，拟将赵起元等立行正法，康熙帝令问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "余光全",
+   "role": "知县"
+  },
+  {
+   "name": "赵起元",
+   "role": "家人"
+  },
+  {
+   "name": "李誉美",
+   "role": "里长"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2624,
+ "page_range": "63-64"
+}

@@ -1,0 +1,39 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝向大学士马齐等论顺治十六年宜永贵守瓜州保全之事，批评地方官平时自诩、有事苟且塞责。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "宜永贵",
+   "role": "守将"
+  },
+  {
+   "name": "赛白礼",
+   "role": "前福建提督"
+  },
+  {
+   "name": "耿精忠",
+   "role": "叛臣"
+  }
+ ],
+ "places": [
+  "江宁",
+  "瓜州",
+  "镇江",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11201,
+ "page_range": "235-236"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 10,
+ "day_text": "十一日庚戌",
+ "event_role": "朝见受贺",
+ "summary": "辰时康熙帝御乾清门听政，盛京刑部侍郎吴世巴陛辞，奏请训旨并报补授官员于本月十六日起程。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴世巴",
+   "role": "盛京刑部侍郎"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4225,
+ "page_range": "96-97"
+}

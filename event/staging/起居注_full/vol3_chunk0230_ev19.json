@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "二十七日甲戌",
+ "event_role": "司法案件",
+ "summary": "大学士、九卿、詹事、科道会议强盗杨长儿一案启奏，勒德洪等奏应正法者酌宽一二人亦可。",
+ "people": [
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  },
+  {
+   "name": "达哈塔",
+   "role": "官员"
+  },
+  {
+   "name": "杨长儿",
+   "role": "强盗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23019,
+ "page_range": "495-496"
+}

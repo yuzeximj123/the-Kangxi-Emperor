@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官化班、海宝记录。",
+ "people": [
+  {
+   "name": "化班",
+   "role": "起居注官"
+  },
+  {
+   "name": "海宝",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19604,
+ "page_range": "403-404"
+}

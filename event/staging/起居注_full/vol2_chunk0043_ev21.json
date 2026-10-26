@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "十六日己巳",
+ "event_role": "谕旨决策",
+ "summary": "礼部题请原任广西巡抚傅弘烈应否赠谥加祭，康熙帝以其不肯从贼以身殉难，命仍予首加祭一次。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "傅弘烈",
+   "role": "原任广西巡抚"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4321,
+ "page_range": "129-130"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "初九日庚成",
+ "event_role": "人事任免",
+ "summary": "吏部题补山东按察使张促举升任员缺，康熙帝以卢崇兴平常且被参，改令杨大鲁补此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "卢崇兴",
+   "role": "拟正湖北参政"
+  },
+  {
+   "name": "杨大鲁",
+   "role": "拟陪贵州参政"
+  },
+  {
+   "name": "张促举",
+   "role": "山东按察使"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19403,
+ "page_range": "431-432"
+}

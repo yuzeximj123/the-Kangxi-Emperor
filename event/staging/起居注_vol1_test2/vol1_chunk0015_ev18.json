@@ -1,0 +1,20 @@
+{
+ "reign_year": 11,
+ "month": 5,
+ "day_text": "二十三日戊辰",
+ "event_role": "祭祀典礼",
+ "summary": "因夏至祭地坛，康熙帝斋戒免奏事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "地坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1518,
+ "page_range": "87-88"
+}

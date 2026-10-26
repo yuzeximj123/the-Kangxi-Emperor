@@ -1,0 +1,36 @@
+{
+ "reign_year": 26,
+ "month": 8,
+ "day_text": "初二日戊申",
+ "event_role": "谕旨决策",
+ "summary": "议顺天乡试同考官开列知县，康熙虑进士知县仅十人易致钻营作弊，命问明九卿来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "余国柱",
+   "role": "大学士"
+  },
+  {
+   "name": "陈国祝",
+   "role": "知县"
+  },
+  {
+   "name": "董讷",
+   "role": "条陈官员"
+  }
+ ],
+ "places": [
+  "顺天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24313,
+ "page_range": "521-522"
+}

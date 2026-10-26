@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十七年七月二十七日",
+ "reign_year": 57,
+ "month": 7,
+ "day": 27,
+ "event_role": "请安谢恩",
+ "summary": "镇绥将军潘育龙因职守所系未能亲赴行宫，遣家人潘昭代其叩请圣安，并进献杭绸、折扇、沙米二袋。",
+ "people": [
+  {
+   "name": "潘育龙",
+   "role": "镇绥将军，奏折作者"
+  },
+  {
+   "name": "潘昭",
+   "role": "潘育龙家人，奉命捧赍奏折进京"
+  },
+  {
+   "name": "吴存礼",
+   "role": "江宁巡抚，署于奏折末尾"
+  }
+ ],
+ "places": [
+  "行宫",
+  "江宁"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“闻”并告知“朕安”，另注明字数纸数。",
+ "source_title": "鎮綏將軍潘育龍奏請聖安並進蜜餞沙米摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2667",
+ "order_index": 99
+}

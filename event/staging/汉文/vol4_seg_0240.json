@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十二年閏五月",
+ "reign_year": 52,
+ "month": null,
+ "day": 23,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报淮扬各盐场因五月阴雨未能煎盐、仪真暂无盐可掣，现督催灶户赶煎，并报扬州镇江米价与新丝价及五月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报官员，自称臣"
+  },
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚，奏折题名所署"
+  }
+ ],
+ "places": [
+  "淮扬",
+  "仪真",
+  "滨海",
+  "扬州",
+  "镇江",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "浙江巡撫王度昭奏報浙江省春花蠶收摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1351",
+ "order_index": 240
+}

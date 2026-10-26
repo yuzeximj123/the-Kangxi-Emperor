@@ -1,0 +1,52 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "初八日本已",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御景山内前殿，赐进贡各部落台吉、塔布囊等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴落",
+   "role": "四品台吉"
+  },
+  {
+   "name": "枯枯儿式",
+   "role": "副都统"
+  },
+  {
+   "name": "贫出克",
+   "role": "四品台吉"
+  },
+  {
+   "name": "喀尔马",
+   "role": "台吉"
+  },
+  {
+   "name": "霍吉格尔",
+   "role": "三品台吉"
+  },
+  {
+   "name": "喇赛",
+   "role": "四品台吉"
+  },
+  {
+   "name": "沙晋达尔",
+   "role": "四品塔布囊"
+  },
+  {
+   "name": "诺尔布",
+   "role": "台吉"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9019,
+ "page_range": "223-224"
+}

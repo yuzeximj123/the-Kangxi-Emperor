@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "初三日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝先命护军统领席住、学士舍兰往封拉臧为护法恭顺汗，并令拘伪达赖喇嘛众赴京，拉臧不从；至是果执之来献，众臣惊异。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席住",
+   "role": "护军统领"
+  },
+  {
+   "name": "舍兰",
+   "role": "学士"
+  },
+  {
+   "name": "拉臧",
+   "role": "护法"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14223,
+ "page_range": "295-296"
+}

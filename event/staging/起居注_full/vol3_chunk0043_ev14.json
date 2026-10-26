@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "三十日癸亥",
+ "event_role": "司法案件",
+ "summary": "九卿议刑部侍郎高尔位降三级调用，康熙帝询问大学士及学士范承勋意见，最终令高尔位降三级留任以观后效。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "范承勋",
+   "role": "学士"
+  },
+  {
+   "name": "高尔位",
+   "role": "刑部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4314,
+ "page_range": "121-122"
+}

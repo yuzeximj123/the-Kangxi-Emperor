@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十二年正月十二日",
+ "reign_year": 52,
+ "month": null,
+ "day": null,
+ "event_role": "军务",
+ "summary": "两广总督石琳奏报遵旨招抚海贼陈尚义等，调派南澳、碣石、高州三镇总兵出洋巡逻探踪，相机剿抚并严防陆路。",
+ "people": [
+  {
+   "name": "石琳",
+   "role": "总督两广等处地方军务兼理粮饷带管盐政"
+  },
+  {
+   "name": "陈尚义",
+   "role": "海贼，招抚对象"
+  }
+ ],
+ "places": [
+  "南澳",
+  "碣石",
+  "高州",
+  "粤洋"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "兩廣總督趙弘燮奏報撫海上陳尚義情形現在山場寧靜摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1173",
+ "order_index": 175
+}

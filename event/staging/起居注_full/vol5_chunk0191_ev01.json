@@ -1,0 +1,21 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "奉旨将投诚有功之人交山西巡抚送至大同善养，待其父母妻子户口到日令其完聚，仍暂养于大同。",
+ "people": [
+  {
+   "name": "山西巡抚",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山西",
+  "大同"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19101,
+ "page_range": "392-393"
+}

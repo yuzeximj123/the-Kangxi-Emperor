@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初六日丙午",
+ "event_role": "人事任免",
+ "summary": "太常寺少卿员缺，引见傅尔齐、常级，康熙依席尔达所奏以傅尔齐补授太常寺少卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "尚书"
+  },
+  {
+   "name": "傅尔齐",
+   "role": "光禄寺少卿，补太常寺少卿"
+  },
+  {
+   "name": "常级",
+   "role": "内府员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6703,
+ "page_range": "144-145"
+}

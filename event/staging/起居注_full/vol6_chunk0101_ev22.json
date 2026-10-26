@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "十二日己卯",
+ "event_role": "奏报地方情形",
+ "summary": "遣视黄河运河员外郎费扬古奏报水势及工程情况，康熙帝详问。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "员外郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄河",
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10122,
+ "page_range": "212-213"
+}

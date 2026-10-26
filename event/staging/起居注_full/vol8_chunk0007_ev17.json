@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": "初一日戊寅",
+ "event_role": "司法案件",
+ "summary": "刑部等题南新仓偷卖米之书办周国义拟斩监候，监督察进等拟革职、枷号、鞭责。",
+ "people": [
+  {
+   "name": "周国义",
+   "role": "南新仓书办"
+  },
+  {
+   "name": "察进",
+   "role": "监督"
+  }
+ ],
+ "places": [
+  "南新仓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 717,
+ "page_range": "25-26"
+}

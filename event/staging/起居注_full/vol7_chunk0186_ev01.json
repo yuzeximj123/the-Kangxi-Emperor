@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "湖广总督鄂海题黄州协副将林汇患病乞休，康熙令林汇以原品休致，命将侍卫补授副将并开列应升官员具奏。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "湖广总督"
+  },
+  {
+   "name": "林汇",
+   "role": "黄州协副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黄州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18601,
+ "page_range": "383-384"
+}

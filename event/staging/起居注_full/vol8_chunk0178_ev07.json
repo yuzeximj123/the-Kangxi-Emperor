@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝问阿锡欧余正健奉天审事如何，阿锡欧奏其人不及身有疾，帝命余正健仍于翰林修书处行走。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿锡欧",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "余正健",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17807,
+ "page_range": "367-368"
+}

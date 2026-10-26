@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "十八日己亥",
+ "event_role": "人事任免",
+ "summary": "兵部题正红旗满洲副都统希祥解任员缺，康熙帝以原任兵部尚书纪尔塔布人材壮健、效力年久，着补授副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希祥",
+   "role": "正红旗满洲副都统"
+  },
+  {
+   "name": "朱都纳",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "纪尔塔布",
+   "role": "原任兵部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16804,
+ "page_range": "348-349"
+}

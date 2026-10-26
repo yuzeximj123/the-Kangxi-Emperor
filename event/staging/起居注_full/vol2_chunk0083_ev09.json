@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "初七日丙戌",
+ "event_role": "其他",
+ "summary": "出征陕西病故都统侯海喇免、副都统佟世德、阵亡参领布达希等灵柩到，康熙帝遣侍卫喇哈等往奠茶酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇哈",
+   "role": "一等侍卫"
+  },
+  {
+   "name": "海喇免",
+   "role": "镶蓝旗都统"
+  },
+  {
+   "name": "佟世德",
+   "role": "正蓝旗汉军副都统"
+  },
+  {
+   "name": "布达希",
+   "role": "阵亡参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8309,
+ "page_range": "209-210"
+}

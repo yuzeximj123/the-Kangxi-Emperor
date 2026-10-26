@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十六日丙申",
+ "event_role": "人事任免",
+ "summary": "康熙帝就部院题参官员事，令监察御史嘉色以原品解任、新治豫解郎中任仍以佐领随旗行走，余俱革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "嘉色",
+   "role": "监察御史"
+  },
+  {
+   "name": "新治豫",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6412,
+ "page_range": "138-139"
+}

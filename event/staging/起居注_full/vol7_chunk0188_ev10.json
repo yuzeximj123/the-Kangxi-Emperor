@@ -1,0 +1,22 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初二日己巳",
+ "event_role": "司法案件",
+ "summary": "覆请户部等衙门覆原任总兵官毛来凤控告李淑德一案，康熙帝令革李淑德参领、从宽留佐领世职，毛来凤革职交该主。",
+ "people": [
+  {
+   "name": "毛来凤",
+   "role": "原任总兵官"
+  },
+  {
+   "name": "李淑德",
+   "role": "参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18810,
+ "page_range": "387-388"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 6,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝令移文费扬古，噶尔丹败亡事已完结，可撤回所留兵丁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "将军"
+  },
+  {
+   "name": "萨布素",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "喀伦",
+  "科图"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14604,
+ "page_range": "302-303"
+}

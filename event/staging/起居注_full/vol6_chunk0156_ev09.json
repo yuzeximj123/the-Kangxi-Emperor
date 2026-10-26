@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "初四日乙丑",
+ "event_role": "人事任免",
+ "summary": "直隶巡抚李光地题请以文安县知县毕散补东路捕盗同知，康熙帝照所题补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "毕散",
+   "role": "文安县知县"
+  }
+ ],
+ "places": [
+  "文安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15609,
+ "page_range": "322-323"
+}

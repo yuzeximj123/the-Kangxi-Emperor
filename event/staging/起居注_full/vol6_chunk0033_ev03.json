@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "十三日成午",
+ "event_role": "皇帝行止",
+ "summary": "康熙驻跸息平县张家庄，酉时御行宫门命皇长子、皇三子率善射者射，又视韩吕真、张大受射。",
+ "people": [
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  },
+  {
+   "name": "皇三子",
+   "role": "皇子"
+  },
+  {
+   "name": "韩吕真",
+   "role": "西宁总兵官"
+  },
+  {
+   "name": "张大受",
+   "role": "定府副将"
+  }
+ ],
+ "places": [
+  "息平县张家庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3303,
+ "page_range": "76-77"
+}

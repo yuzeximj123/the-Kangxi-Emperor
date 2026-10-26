@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 11,
+ "day_text": "十六日己酉",
+ "event_role": "谕旨决策",
+ "summary": "礼部题朝鲜国王李焙侧室张氏应照例册封为妃，且李壕奏疏违例不敬应罚银，康熙帝令李迷明白回奏，余依议。",
+ "people": [
+  {
+   "name": "李焙",
+   "role": "朝鲜国王"
+  },
+  {
+   "name": "张氏",
+   "role": "侧室"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 9121,
+ "page_range": "194-195"
+}

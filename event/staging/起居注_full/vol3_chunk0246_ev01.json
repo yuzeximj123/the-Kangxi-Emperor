@@ -1,0 +1,28 @@
+{
+ "reign_year": 26,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题宣府总兵官阁可权病故员缺请旨，康熙帝命蓝理内升补授宣府总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阁可权",
+   "role": "宣府总兵官"
+  },
+  {
+   "name": "蓝理",
+   "role": "内升补宣府总兵官"
+  }
+ ],
+ "places": [
+  "宣府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24601,
+ "page_range": "527-528"
+}

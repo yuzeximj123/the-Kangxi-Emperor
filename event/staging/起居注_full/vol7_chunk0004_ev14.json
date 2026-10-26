@@ -1,0 +1,40 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "初三日乙卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出唐胡地驻立道左，率皇太子、诸皇子及善射侍卫射，发矢皆中的，又令赵弘演、朝奇、享特等射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  },
+  {
+   "name": "赵弘演",
+   "role": "直隶副使道"
+  },
+  {
+   "name": "朝奇",
+   "role": "分司"
+  },
+  {
+   "name": "享特",
+   "role": "同知"
+  }
+ ],
+ "places": [
+  "唐胡地"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 414,
+ "page_range": "19-20"
+}

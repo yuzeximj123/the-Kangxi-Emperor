@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "十三日丙寅",
+ "event_role": "人事任免",
+ "summary": "天津总兵官潘育龙赴任请训，康熙帝命其依岳昇龙行事，潘育龙奏谢。",
+ "people": [
+  {
+   "name": "潘育龙",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "岳昇龙",
+   "role": "前任天津总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15517,
+ "page_range": "320-321"
+}

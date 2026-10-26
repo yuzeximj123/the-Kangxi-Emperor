@@ -1,0 +1,22 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "十二日己未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝询问修《明史》是否参看《实录》，命将底稿与明朝实录参看，有舛错拟签来奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22312,
+ "page_range": "481-482"
+}

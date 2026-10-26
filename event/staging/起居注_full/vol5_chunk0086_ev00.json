@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝认为朱士杰情弱不宜原职，命以他处道员补用，并令平阳府知府王辅升补其缺，限文到半月赴任。",
+ "people": [
+  {
+   "name": "朱士杰",
+   "role": "官员"
+  },
+  {
+   "name": "王辅",
+   "role": "平阳府知府"
+  }
+ ],
+ "places": [
+  "平阳府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8600,
+ "page_range": "182-183"
+}

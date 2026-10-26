@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": "初一日甲实",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕镇守黑龙江将军宗室杨福，因其居官善，将其所降官职复还。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨福",
+   "role": "镇守黑龙江等处将军"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20505,
+ "page_range": "421-422"
+}

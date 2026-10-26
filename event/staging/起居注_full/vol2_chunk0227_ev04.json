@@ -1,0 +1,25 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "初三日庚子",
+ "event_role": "谕旨决策",
+ "summary": "御史刘超凡条奏奉天府丞应用进士、州县通设教官，部议不允，康熙帝令于旨内票明教官不可缺。",
+ "people": [
+  {
+   "name": "刘超凡",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "奉天",
+  "锦州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22704,
+ "page_range": "497-498"
+}

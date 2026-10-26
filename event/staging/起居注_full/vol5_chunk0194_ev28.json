@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初四日乙卯",
+ "event_role": "军务",
+ "summary": "康熙帝询问阿奇纳至噶尔丹所居路程及兵力可否讨噶尔丹，阿奇纳奏称噶尔丹困极，遇兵定可荡灭。",
+ "people": [
+  {
+   "name": "阿奇纳",
+   "role": "护军校"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "布降吉和尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19428,
+ "page_range": "398-399"
+}

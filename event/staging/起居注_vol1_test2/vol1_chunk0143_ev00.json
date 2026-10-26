@@ -1,0 +1,28 @@
+{
+ "reign_year": 16,
+ "month": 8,
+ "day_text": "十二日两辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝设卤簿，赴太皇太后行宫问安，扶太皇太后登辇并随行送至宫中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "太皇太后行宫",
+  "南郊大红门",
+  "正阳门",
+  "午门",
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14300,
+ "page_range": "343-344"
+}

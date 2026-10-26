@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "初二日壬申",
+ "event_role": "朝见受贺",
+ "summary": "中后所税差笔帖式阁世福、骁骑校毕自诚、杨登科等来朝。",
+ "people": [
+  {
+   "name": "阁世福",
+   "role": "中后所税差笔帖式"
+  },
+  {
+   "name": "毕自诚",
+   "role": "骁骑校"
+  },
+  {
+   "name": "杨登科",
+   "role": "骁骑校"
+  }
+ ],
+ "places": [
+  "中后所"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6007,
+ "page_range": "130-131"
+}

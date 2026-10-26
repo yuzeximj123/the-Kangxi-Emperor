@@ -1,0 +1,30 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": "二十四日于辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝论福建陆路提督员缺不紧要，称天津总兵杜呈泗、太原总兵马见伯居官好。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜呈泗",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "马见伯",
+   "role": "太原总兵官"
+  }
+ ],
+ "places": [
+  "福建",
+  "天津",
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8116,
+ "page_range": "173-174"
+}

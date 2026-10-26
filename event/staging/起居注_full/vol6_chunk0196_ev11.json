@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "二十六日癸丑",
+ "event_role": "司法案件",
+ "summary": "将高丽通事戴保等议罪，康熙以部议廖误、丹达私焚通事常寿尸，命将丹达与家人夹讯，此本着发回。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "戴保",
+   "role": "高丽通事"
+  },
+  {
+   "name": "丹达",
+   "role": "外省佐领"
+  },
+  {
+   "name": "常寿",
+   "role": "通事"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19611,
+ "page_range": "402-403"
+}

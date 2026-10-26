@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 1,
+ "day_text": "二十日甲子",
+ "event_role": "谕旨决策",
+ "summary": "理光院题照例赏赐元旦朝观科尔沁亲王等，康熙帝命来请安遇元旦之王贝勒等一体赏赐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额用沙唐",
+   "role": "科尔沁国和硕士谢图亲王"
+  }
+ ],
+ "places": [
+  "科尔沁国"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22311,
+ "page_range": "458-459"
+}

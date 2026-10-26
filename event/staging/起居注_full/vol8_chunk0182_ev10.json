@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "十二日丁卯",
+ "event_role": "人事任免",
+ "summary": "覆请奉天辽阳州知州张杰诚捐升员外今补户部员外，康熙帝以张杰诚年少历任未久，令暂于知州任内读书几年再具奏补授。",
+ "people": [
+  {
+   "name": "张杰诚",
+   "role": "奉天辽阳州知州"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "奉天辽阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18210,
+ "page_range": "375-376"
+}

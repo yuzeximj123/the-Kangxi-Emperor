@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论督抚不宜好收民词理琐屑事务，称赵申乔清廉亦好收民词，张泰交居官廉，外吏廉洁安静便为好官，阿山事待丽人时酌之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "张泰交",
+   "role": "侍郎"
+  },
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4203,
+ "page_range": "95-96"
+}

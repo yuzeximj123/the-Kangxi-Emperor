@@ -1,0 +1,36 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "初二日己巳",
+ "event_role": "祭祀典礼",
+ "summary": "辰时康熙御文华殿举行经筵典礼，赖都、胡作梅讲《四书》，傅绅、葡升元讲《书经》，讲毕回宫。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "赖都",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "胡作梅",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "傅绅",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "葡升元",
+   "role": "内翰林学士"
+  }
+ ],
+ "places": [
+  "文华殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18004,
+ "page_range": "371-372"
+}

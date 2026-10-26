@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十五年四月初九日",
+ "reign_year": 55,
+ "month": 4,
+ "day": 9,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报福州麦子成熟约十分收成、米价照常，并进呈福州闰三月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "李陈常",
+   "role": "朱批中提及的官员"
+  }
+ ],
+ "places": [
+  "苏州",
+  "福州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并询问风闻李陈常大改操守是否属实。",
+ "source_title": "蘇州織造李煦奏報蘇州麥收米價並進晴雨冊摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "2066",
+ "order_index": 308
+}

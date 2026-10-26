@@ -1,0 +1,26 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "十八日辛丑",
+ "event_role": "司法案件",
+ "summary": "理藩院题偷盗蕉亲王马匹之顾西拟立绞，失脱之佐领诺尔布等革职，康熙帝命顾西免死为奴，余依议。",
+ "people": [
+  {
+   "name": "顾西",
+   "role": "人犯"
+  },
+  {
+   "name": "诺尔布",
+   "role": "佐领"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16803,
+ "page_range": "371-372"
+}

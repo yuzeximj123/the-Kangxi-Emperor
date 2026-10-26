@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "初二日丙寅",
+ "event_role": "军务",
+ "summary": "康熙帝就将军萨布苏等奏请暂停进剿罗刹一事，斥其坐失机会，命严议申饬。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨布苏",
+   "role": "将军"
+  },
+  {
+   "name": "关保",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "雅克萨"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3314,
+ "page_range": "101-102"
+}

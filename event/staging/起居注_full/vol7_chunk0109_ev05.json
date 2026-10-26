@@ -1,0 +1,22 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记是日起居注官为塞尔图、查升。",
+ "people": [
+  {
+   "name": "塞尔图",
+   "role": "起居注官"
+  },
+  {
+   "name": "查升",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10905,
+ "page_range": "229-230"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "二十七日丙子",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行幄听大学士等面奏折本，议御史李见龙参芜湖关监督邓秉恒税外借名科索草米等款。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李见龙",
+   "role": "御史"
+  },
+  {
+   "name": "邓秉恒",
+   "role": "芜湖关监督"
+  }
+ ],
+ "places": [
+  "芜湖关",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9226,
+ "page_range": "227-228"
+}

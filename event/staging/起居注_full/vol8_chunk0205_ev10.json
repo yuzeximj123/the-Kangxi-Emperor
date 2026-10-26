@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 8,
+ "day_text": "初四日乙酉",
+ "event_role": "人事任免",
+ "summary": "吏部题江西布政司员缺，康熙帝以素识许兆志，命其补授即令赴任，停止引见。",
+ "people": [
+  {
+   "name": "许兆志",
+   "role": "四川按察使，补江西布政司"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西",
+  "四川",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20510,
+ "page_range": "421-422"
+}

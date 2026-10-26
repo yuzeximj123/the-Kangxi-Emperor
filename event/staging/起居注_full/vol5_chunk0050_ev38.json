@@ -1,0 +1,20 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "初六日已刻",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸汤泉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5038,
+ "page_range": "110-111"
+}

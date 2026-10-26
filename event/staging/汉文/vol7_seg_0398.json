@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十一年四月十六日",
+ "reign_year": 51,
+ "month": 4,
+ "day": 16,
+ "event_role": "奏报灾情收成",
+ "summary": "直隶总督赵弘燮奏报保定、河间、真定三府二麦约收分数，并陈报因畿内干旱正在虔诚祈雨的情形。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "总督管理直隶巡抚事务、兵部右侍郎兼都察院右副都御史，奏报人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "保定",
+  "河间",
+  "真定",
+  "顺天府",
+  "霸昌道"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "奏报二麦约收分数",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 398
+}

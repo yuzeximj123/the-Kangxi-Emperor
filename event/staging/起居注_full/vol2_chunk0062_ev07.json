@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "二十四日乙巳",
+ "event_role": "司法案件",
+ "summary": "三法司题卞启龙告王花子打死其子一案，康熙帝以王花子系恶棍且曾屡殴其子，令再行究审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卞启龙",
+   "role": "告状人"
+  },
+  {
+   "name": "王花子",
+   "role": "被告"
+  },
+  {
+   "name": "卞一品",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6207,
+ "page_range": "167-168"
+}

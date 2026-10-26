@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "十二日戊戌",
+ "event_role": "议政听政",
+ "summary": "十二日戊戌辰时，康熙帝御畅春园内洲宁居听政，各部院衙门官员面奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16017,
+ "page_range": "331-332"
+}

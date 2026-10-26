@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "二十五日忆西",
+ "event_role": "谕旨决策",
+ "summary": "湖广巡抚王新命奏请四川支给米粮并速运楚省粮饷，户部议准行，康熙帝以其不合前旨，令仍遵前旨行。",
+ "people": [
+  {
+   "name": "王新命",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "重庆",
+  "四川",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4106,
+ "page_range": "125-126"
+}

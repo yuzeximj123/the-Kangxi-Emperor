@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "十六日己未",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝赐进贡谢恩朝鲜国王正使东平君李杭、副使李草、判书任相元、书状官等鞍马、彩缎、表里、胡皮、银、布。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李杭",
+   "role": "朝鲜正使东平君"
+  },
+  {
+   "name": "李草",
+   "role": "朝鲜副使"
+  },
+  {
+   "name": "任相元",
+   "role": "朝鲜判书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1017,
+ "page_range": "32-33"
+}

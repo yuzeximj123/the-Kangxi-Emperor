@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问更有似李陈常者，王掞举朱轼、李陈常，李光地奏朱轼曾为陕西学道今内升未到。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王掞",
+   "role": "大臣"
+  },
+  {
+   "name": "朱轼",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3710,
+ "page_range": "85-86"
+}

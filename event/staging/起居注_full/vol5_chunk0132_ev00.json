@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "费扬古奏报所领陕西兵因风雨马匹迟误，请仍依前议一路进发，并请皇上稍缓师行以存西路官军颜面。",
+ "people": [
+  {
+   "name": "费扬古",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "孙思克",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "塞棱格",
+  "克鲁伦河",
+  "达尔汉奥喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13200,
+ "page_range": "274-275"
+}

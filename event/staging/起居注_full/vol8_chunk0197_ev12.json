@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "十六日己刻",
+ "event_role": "司法案件",
+ "summary": "刑部议广东大盗潘伯连等拟斩立决，康熙命照前完结。",
+ "people": [
+  {
+   "name": "潘伯连",
+   "role": "大盗"
+  },
+  {
+   "name": "法海",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19712,
+ "page_range": "405-406"
+}

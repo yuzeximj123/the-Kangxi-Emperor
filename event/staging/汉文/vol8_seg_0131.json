@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十七年闰八月二十二日",
+ "reign_year": 57,
+ "month": 8,
+ "day": 22,
+ "event_role": "军务",
+ "summary": "李煦奏报扬州江都三江营移驻江防同知并请京口将军增兵协防私贩，兵丁犒赏由商人捐给。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人，奴才"
+  },
+  {
+   "name": "许钰",
+   "role": "江宁府江防同知，已移驻三江营"
+  },
+  {
+   "name": "何天培",
+   "role": "京口将军，派兵协防"
+  }
+ ],
+ "places": [
+  "扬州府",
+  "江都县",
+  "三江营",
+  "江宁府",
+  "京口"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 131
+}

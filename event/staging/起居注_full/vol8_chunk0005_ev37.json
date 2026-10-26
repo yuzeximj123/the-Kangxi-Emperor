@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "二十一日己已",
+ "event_role": "朝见受贺",
+ "summary": "湖广总督鄂海、保定县知县王敬方、文安营游击韩德等来朝。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "湖广总督"
+  },
+  {
+   "name": "王敬方",
+   "role": "保定县知县"
+  },
+  {
+   "name": "韩德",
+   "role": "文安营游击"
+  }
+ ],
+ "places": [
+  "保定县",
+  "文安营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 537,
+ "page_range": "21-22"
+}

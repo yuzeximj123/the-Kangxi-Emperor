@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初七日庚申",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿遵旨奏江南钱粮数目，康熙帝问如何蠲免方善，伊桑阿请蠲一半，康熙帝虑地方官借端作弊累民，命问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江南",
+  "江苏",
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21811,
+ "page_range": "446-447"
+}

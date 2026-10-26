@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 5,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "宴会上喀尔喀诸部坐于右翼，外藩四十九旗蒙古王等坐于左翼，宴毕行三跪九叩礼谢恩，康熙帝驻足宣谕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀尔喀诸部",
+   "role": "宴席右翼"
+  },
+  {
+   "name": "外藩四十九旗蒙古王",
+   "role": "宴席左翼"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14901,
+ "page_range": "310-311"
+}

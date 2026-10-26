@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "初四日甲午",
+ "event_role": "人事任免",
+ "summary": "吏部题山东布政使喻成龙员缺，拟赵良壁为正、佟世秦为陪，康熙帝命问九卿保举具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喻成龙",
+   "role": "山东布政使"
+  },
+  {
+   "name": "赵良壁",
+   "role": "按察使，拟正"
+  },
+  {
+   "name": "佟世秦",
+   "role": "拟陪"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6804,
+ "page_range": "146-147"
+}

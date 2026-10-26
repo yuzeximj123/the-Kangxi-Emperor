@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "武举徐启新等九十七人进行步射、开弓、舞刀、举石考试，李若靖革去举人，阁国辅、张士购下科再试，取杨谦等十七人另注名。",
+ "people": [
+  {
+   "name": "徐启新",
+   "role": "武举"
+  },
+  {
+   "name": "李若靖",
+   "role": "武举"
+  },
+  {
+   "name": "阁国辅",
+   "role": "武举"
+  },
+  {
+   "name": "张士购",
+   "role": "武举"
+  },
+  {
+   "name": "杨谦",
+   "role": "武举"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13000,
+ "page_range": "271-272"
+}

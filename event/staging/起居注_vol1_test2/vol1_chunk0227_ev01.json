@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "奉天府将军安朱护以盗案议叙议处不便定例，康熙指出设立官兵本为擒缉盗贼，无定例何以示劝惩，命再议具奏。",
+ "people": [
+  {
+   "name": "安朱护",
+   "role": "奉天府将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "广宁",
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22701,
+ "page_range": "511-512"
+}

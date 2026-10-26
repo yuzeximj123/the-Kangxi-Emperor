@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "二十三日两子",
+ "event_role": "司法案件",
+ "summary": "甘肃巡抚巴锡题土司李穆袭职争竞杀人抢财、聚众拒捕射伤官兵，刑部议引例不符，康熙帝命依议并申饬巡抚票签。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴锡",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "李穆",
+   "role": "土司"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4517,
+ "page_range": "133-134"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 16,
+ "month": 8,
+ "day_text": "十一日乙卯",
+ "event_role": "皇帝行止",
+ "summary": "申时，康熙帝前往太皇太后行宫问安毕，驻跸东宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后行宫",
+  "东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14237,
+ "page_range": "341-342"
+}

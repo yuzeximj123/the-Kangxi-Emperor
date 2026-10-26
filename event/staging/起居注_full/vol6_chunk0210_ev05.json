@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "十六日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命总督席尔达亲往会同巡抚，将被灾兰州等州县百姓钱粮暂行停征，确议赈救具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔达",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "兰州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21005,
+ "page_range": "430-431"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "二十三日己巳",
+ "event_role": "人事任免",
+ "summary": "康熙帝称汤斌曾与河南姓孙之人讲明道学、前典试浙江操守甚善，着补授江宁巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "江宁巡抚"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3224,
+ "page_range": "99-100"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝遣内班侍卫携银六百两至伊礼布家赐其母，并传谕痛悼其阵没、赐银治丧。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊礼布",
+   "role": "阵亡都统"
+  },
+  {
+   "name": "飞炮色",
+   "role": "内班侍卫衣都额真"
+  },
+  {
+   "name": "对亲",
+   "role": "侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20205,
+ "page_range": "461-462"
+}

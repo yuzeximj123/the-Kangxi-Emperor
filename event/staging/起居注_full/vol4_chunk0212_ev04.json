@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "二十四日己亥",
+ "event_role": "人事任免",
+ "summary": "康熙帝谕令将甘肃巡抚乌黑调补西安巡抚，令其驰驿速赴任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "乌黑",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "西安",
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21204,
+ "page_range": "436-437"
+}

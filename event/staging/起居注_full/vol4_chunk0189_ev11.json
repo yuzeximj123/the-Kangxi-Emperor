@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": "二十三日王申",
+ "event_role": "人事任免",
+ "summary": "兵部题河南南放总兵官史孔笔员缺请旨，康熙帝以副将郭文购人材甚优，命升补南放总兵官。",
+ "people": [
+  {
+   "name": "史孔笔",
+   "role": "河南南放总兵官"
+  },
+  {
+   "name": "郭文购",
+   "role": "副将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18911,
+ "page_range": "390-391"
+}

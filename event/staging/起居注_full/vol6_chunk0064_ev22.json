@@ -1,0 +1,32 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": "二十七日本西",
+ "event_role": "河工水利",
+ "summary": "九卿议覆总河桑格题请下河之蕊稻河等处应行修筑，康熙帝提及佥都御史王绅已参总河董安国，时值隆冬正宜水退而董安国奏水长。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "总河"
+  },
+  {
+   "name": "王绅",
+   "role": "佥都御史"
+  },
+  {
+   "name": "董安国",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "蕊稻河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6422,
+ "page_range": "138-139"
+}

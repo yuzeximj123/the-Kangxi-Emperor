@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "初十日乙未",
+ "event_role": "朝见受贺",
+ "summary": "巴尔虎格隆扎木三、喀喇沁扎萨克他布囊格勒尔来贡。",
+ "people": [
+  {
+   "name": "格隆扎木三",
+   "role": "巴尔虎"
+  },
+  {
+   "name": "他布囊格勒尔",
+   "role": "喀喇沁扎萨克"
+  }
+ ],
+ "places": [
+  "巴尔虎",
+  "喀喇沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12410,
+ "page_range": "259-260"
+}

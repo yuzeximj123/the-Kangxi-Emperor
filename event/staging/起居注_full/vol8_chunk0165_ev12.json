@@ -1,0 +1,37 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "十二日成辰",
+ "event_role": "人事任免",
+ "summary": "康熙以提督直隶学政张锡少考试不公，命革退，交牛钮令自备工料修河，员缺另补。",
+ "people": [
+  {
+   "name": "张锡少",
+   "role": "提督直隶学政"
+  },
+  {
+   "name": "赵弘伙",
+   "role": "总督"
+  },
+  {
+   "name": "牛钮",
+   "role": "监修通州两岸堤工"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16512,
+ "page_range": "341-342"
+}

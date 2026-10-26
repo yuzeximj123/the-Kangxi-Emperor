@@ -1,0 +1,33 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述南巡观水、张鹏翮补总河依旨成功，并说明遣马齐、图纳阅河本意。",
+ "people": [
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "图纳",
+   "role": "官员"
+  },
+  {
+   "name": "揆叙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15404,
+ "page_range": "319-320"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "二十九日壬辰",
+ "event_role": "朝见受贺",
+ "summary": "霸州驻防防守尉拜山、霸州知州马逸雁、霸州营游击张应达等来朝。",
+ "people": [
+  {
+   "name": "拜山",
+   "role": "霸州驻防防守尉"
+  },
+  {
+   "name": "马逸雁",
+   "role": "霸州知州"
+  },
+  {
+   "name": "张应达",
+   "role": "霸州营游击"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5111,
+ "page_range": "137-138"
+}

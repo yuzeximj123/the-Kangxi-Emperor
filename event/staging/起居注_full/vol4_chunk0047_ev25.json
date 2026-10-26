@@ -1,0 +1,34 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "十九日戊子",
+ "event_role": "人事任免",
+ "summary": "翰林院侍讲熊赐琪因母李氏七十四岁无人奉养，情愿终养具题，伊桑阿奏引韩菊、张英旧例曾批温旨。",
+ "people": [
+  {
+   "name": "熊赐琪",
+   "role": "翰林院侍讲"
+  },
+  {
+   "name": "李氏",
+   "role": "熊赐琪之母"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "韩菊",
+   "role": "旧例官员"
+  },
+  {
+   "name": "张英",
+   "role": "旧例官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4725,
+ "page_range": "106-107"
+}

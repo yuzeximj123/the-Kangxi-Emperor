@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": "三十日壬辰",
+ "event_role": "司法案件",
+ "summary": "李德水欲强奸刘氏致其自尽未成奸，康熙改为缓决。",
+ "people": [
+  {
+   "name": "李德水",
+   "role": "案犯"
+  },
+  {
+   "name": "刘氏",
+   "role": "受害者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11220,
+ "page_range": "235-236"
+}

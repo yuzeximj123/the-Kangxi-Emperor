@@ -1,0 +1,42 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙追述尚之信事，称杜立德进言激其正法尚之信，并赞张玉书、熊赐履办事认真。",
+ "people": [
+  {
+   "name": "尚之信",
+   "role": "叛臣"
+  },
+  {
+   "name": "杜立德",
+   "role": "大臣"
+  },
+  {
+   "name": "李霨",
+   "role": "大臣"
+  },
+  {
+   "name": "卫周祚",
+   "role": "大臣"
+  },
+  {
+   "name": "张玉书",
+   "role": "大臣"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大臣"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12405,
+ "page_range": "259-260"
+}

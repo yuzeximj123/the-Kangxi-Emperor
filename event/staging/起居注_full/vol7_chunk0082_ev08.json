@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十九日庚申",
+ "event_role": "请安谢恩",
+ "summary": "将军博济、巡抚鄂海、提督潘育龙等率众官兵免冠顿首，恳请康熙帝再留一二日。",
+ "people": [
+  {
+   "name": "博济",
+   "role": "将军"
+  },
+  {
+   "name": "鄂海",
+   "role": "巡抚"
+  },
+  {
+   "name": "潘育龙",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8208,
+ "page_range": "175-176"
+}

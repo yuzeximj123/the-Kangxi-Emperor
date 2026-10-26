@@ -1,0 +1,41 @@
+{
+ "date_raw": "初十日乙丑",
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初十日乙丑",
+ "event_role": "人事任免",
+ "summary": "兵部侍郎满丕引见云南副将许凤等试射，康熙帝命吴道辅补直隶抚标中军游击，马玉补吴道辅缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "满丕",
+   "role": "兵部侍郎"
+  },
+  {
+   "name": "许凤",
+   "role": "云南副将"
+  },
+  {
+   "name": "杨长",
+   "role": "游击"
+  },
+  {
+   "name": "马玉",
+   "role": "游击"
+  },
+  {
+   "name": "吴道辅",
+   "role": "旧州营将"
+  }
+ ],
+ "places": [
+  "直隶",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3163
+}

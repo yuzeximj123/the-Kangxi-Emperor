@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部拟喜儿打死巴哈连绞监候，康熙帝准议并追问七月事为何至今始题，命察迟延原由。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喜儿",
+   "role": "案犯"
+  },
+  {
+   "name": "巴哈连",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14501,
+ "page_range": "301-302"
+}

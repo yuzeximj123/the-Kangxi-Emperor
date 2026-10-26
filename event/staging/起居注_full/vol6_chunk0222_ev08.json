@@ -1,0 +1,36 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十九日壬申",
+ "event_role": "人事任免",
+ "summary": "吏部奏凉庄道武廷适缺出，康熙帝命九卿保举。",
+ "people": [
+  {
+   "name": "武廷适",
+   "role": "凉庄道"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "吴珊",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "凉庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22208,
+ "page_range": "454-455"
+}

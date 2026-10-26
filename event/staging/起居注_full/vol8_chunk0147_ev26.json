@@ -1,0 +1,34 @@
+{
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "十四日壬寅",
+ "event_role": "司法案件",
+ "summary": "刑部题陈绍周殴死亲叔、王元戳死小功服叔、王子良惑死表兄、陶林灼死亲弟四案俱拟斩立决，康熙帝令九卿詹事科道会同再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈绍周",
+   "role": "案犯"
+  },
+  {
+   "name": "王元",
+   "role": "案犯"
+  },
+  {
+   "name": "王子良",
+   "role": "案犯"
+  },
+  {
+   "name": "陶林",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14726,
+ "page_range": "305-306"
+}

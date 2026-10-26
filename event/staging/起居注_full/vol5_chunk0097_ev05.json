@@ -1,0 +1,21 @@
+{
+ "reign_year": 35,
+ "month": 1,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "是日宴盛，自太和门至端门以内旗帜排列肃整，品物丰美，至申时康熙帝始回宫，诸将士欢跃感奋。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和门",
+  "端门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9705,
+ "page_range": "204-205"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": "二十二日庚午",
+ "event_role": "贸易漕运",
+ "summary": "都察院佥都御史劳之辨奏请暂禁内地米贩往外洋，康熙帝颔之。",
+ "people": [
+  {
+   "name": "劳之辨",
+   "role": "都察院佥都御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江浙",
+  "外洋"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15027,
+ "page_range": "311-312"
+}

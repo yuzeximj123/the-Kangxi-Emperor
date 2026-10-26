@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "十七日癸巳",
+ "event_role": "人事任免",
+ "summary": "传问九卿会推郎永清缘由，众称无特举者系众意拟定，帝命待再行定夺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郎永清",
+   "role": "被会推官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12810,
+ "page_range": "299-300"
+}

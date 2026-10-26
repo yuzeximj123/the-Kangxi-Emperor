@@ -1,0 +1,30 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十一日甲午",
+ "event_role": "人事任免",
+ "summary": "康熙帝问司道内升九卿会推情况，伊桑阿奏布政使刘瞻、王道钻皆可，帝言刘瞻少诚实不可信任，命传谕汉大学士明早一并启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "刘瞻",
+   "role": "布政使"
+  },
+  {
+   "name": "王道钻",
+   "role": "布政使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22608,
+ "page_range": "462-463"
+}

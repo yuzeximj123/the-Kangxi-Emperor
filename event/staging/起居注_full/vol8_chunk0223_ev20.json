@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "广东提督王文雄题拿获贼犯陈君元等被海阳县知县金以埃差役抢夺，康熙帝命处理。",
+ "people": [
+  {
+   "name": "王文雄",
+   "role": "广东提督"
+  },
+  {
+   "name": "陈君元",
+   "role": "贼犯"
+  },
+  {
+   "name": "金以埃",
+   "role": "海阳县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "海阳县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22320,
+ "page_range": "457-458"
+}

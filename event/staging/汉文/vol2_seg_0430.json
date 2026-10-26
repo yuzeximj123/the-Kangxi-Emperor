@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙四十八年三月二十六日",
+ "reign_year": 48,
+ "month": 3,
+ "day": 26,
+ "event_role": "朝见受贺",
+ "summary": "江西巡抚郎廷极上奏，向皇帝报告江西地方舆情，表达官民对康熙圣寿的庆贺之情。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "江西巡抚郎廷极奏为敬达舆情咸庆圣寿折",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "474",
+ "order_index": 430
+}

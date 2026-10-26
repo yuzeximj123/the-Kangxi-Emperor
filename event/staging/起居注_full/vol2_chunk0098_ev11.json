@@ -1,0 +1,33 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "十六日乙未",
+ "event_role": "人事任免",
+ "summary": "广东将军属下左翼总兵官员缺请旨，康熙帝命兵部查送牛凤翔等效力之人，并以赵应奎补用管理左江事务。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "牛凤翔",
+   "role": "军前副将"
+  },
+  {
+   "name": "赵应奎",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "广东",
+  "左江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9811,
+ "page_range": "239-240"
+}

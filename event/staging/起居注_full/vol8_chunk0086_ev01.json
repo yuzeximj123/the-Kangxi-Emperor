@@ -1,0 +1,33 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝称郎廷极任总漕尽心抚恤运丁、漕船抵通独早，闻其病故甚为轸恤，命施世纶升补云南巡抚并诫其性气偏僻。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郎廷极",
+   "role": "总漕"
+  },
+  {
+   "name": "施世纶",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "桑格",
+   "role": "前任总漕"
+  }
+ ],
+ "places": [
+  "云南",
+  "通"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8601,
+ "page_range": "183-184"
+}

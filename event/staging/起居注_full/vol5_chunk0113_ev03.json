@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "亲近侍卫关保传谕，因诸军已至喀伦，命严加禁止喧哗及营中火烛，自明日起列环营。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  }
+ ],
+ "places": [
+  "喀伦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11303,
+ "page_range": "236-237"
+}

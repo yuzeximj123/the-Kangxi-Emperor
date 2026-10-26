@@ -1,0 +1,44 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题报刑部侍郎丁忧离任高尔位员缺，开列学士吴兴祖等，康熙帝询问后命河南巡抚王日藻补授刑部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴正治",
+   "role": "大学士"
+  },
+  {
+   "name": "王日藻",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "学士"
+  },
+  {
+   "name": "高尔位",
+   "role": "刑部侍郎"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17801,
+ "page_range": "391-392"
+}

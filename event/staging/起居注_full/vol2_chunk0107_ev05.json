@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "十七日乙丑",
+ "event_role": "人事任免",
+ "summary": "吏部题云贵总督员缺请旨，康熙帝询问可否以蔡毓荣补授，明珠、李霨等赞同，遂调补蔡毓荣为云贵总督。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "蔡毓荣",
+   "role": "云贵总督"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10705,
+ "page_range": "257-258"
+}

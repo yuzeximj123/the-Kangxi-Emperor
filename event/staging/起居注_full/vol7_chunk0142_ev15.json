@@ -1,0 +1,37 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "二十九日癸未",
+ "event_role": "谕旨决策",
+ "summary": "大学士马齐等以折本请旨，议山东来年钱粮折收小钱铜器，康熙帝准所议行，并令问九卿直隶可否照行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "黑寿",
+   "role": "学士"
+  },
+  {
+   "name": "舒图",
+   "role": "学士"
+  },
+  {
+   "name": "赵世显",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14215,
+ "page_range": "295-296"
+}

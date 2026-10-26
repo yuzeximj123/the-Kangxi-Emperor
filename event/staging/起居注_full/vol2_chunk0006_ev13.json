@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "三十日丙辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝驾至保和殿，视祭夕月坛视版毕，仍回泳台。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "泳台",
+  "夕月坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 613,
+ "page_range": "55-56"
+}

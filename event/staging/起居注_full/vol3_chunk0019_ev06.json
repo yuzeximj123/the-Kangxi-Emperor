@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初九日甲拱",
+ "event_role": "人事任免",
+ "summary": "理藩院题参降级郎中詹巴喇员缺，拟易道正、布延图陪，康熙命问明易道为人来奏。",
+ "people": [
+  {
+   "name": "詹巴喇",
+   "role": "降级郎中"
+  },
+  {
+   "name": "易道",
+   "role": "理藩院员外郎"
+  },
+  {
+   "name": "布延图",
+   "role": "理藩院员外郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1906,
+ "page_range": "73-74"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 1,
+ "day_text": "二十六日癸未",
+ "event_role": "人事任免",
+ "summary": "江西巡抚马如龙以老病乞休，吏部议准解任，康熙帝以按察使孙居浊揭参之事皆孙居浊之咎，命马如龙留任，若必欲乞休待明年解任亦未为迟。",
+ "people": [
+  {
+   "name": "马如龙",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "孙居浊",
+   "role": "按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9817,
+ "page_range": "206-207"
+}

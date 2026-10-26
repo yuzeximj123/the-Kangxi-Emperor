@@ -1,0 +1,27 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十二日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "伊桑阿奏安南国王请牛羊、蝴蝶、浦园等处地方，议得三处在本朝土司地内，康熙命拟移文知会安南。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "黎维祺",
+   "role": "安南国王"
+  }
+ ],
+ "places": [
+  "安南",
+  "牛羊",
+  "蝴蝶",
+  "浦园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2016,
+ "page_range": "50-51"
+}

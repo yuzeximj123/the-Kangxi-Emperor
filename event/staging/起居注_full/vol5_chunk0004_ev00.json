@@ -1,0 +1,50 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝与大臣议学政人选，称陆陇其学问优长操守甚善，邵嗣尧操守学问亦优，命九卿会同选择补授学政员缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陆陇其",
+   "role": "学政人选"
+  },
+  {
+   "name": "邵嗣尧",
+   "role": "学政人选"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "李楠",
+   "role": "学士"
+  },
+  {
+   "name": "李应廌",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 400,
+ "page_range": "18-19"
+}

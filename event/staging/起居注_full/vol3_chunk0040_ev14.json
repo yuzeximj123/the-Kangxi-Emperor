@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十一日甲实",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫，讲官孙在丰、常书、归允肃进讲，讲易曰困于石一节、易曰公用射隼于高墉之上一节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4014,
+ "page_range": "115-116"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 2,
+ "day_text": "初七日壬子",
+ "event_role": "朝见受贺",
+ "summary": "山西巡抚倭伦、大同府总兵官俞益席、龙泉关游击李镇等来朝。",
+ "people": [
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "俞益席",
+   "role": "大同府总兵官"
+  },
+  {
+   "name": "李镇",
+   "role": "龙泉关游击"
+  }
+ ],
+ "places": [
+  "山西",
+  "大同府",
+  "龙泉关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3214,
+ "page_range": "74-75"
+}

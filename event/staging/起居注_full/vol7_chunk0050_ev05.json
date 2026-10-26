@@ -1,0 +1,27 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十七日业西",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝遣领侍卫内大臣和硕额驸尚之隆于泰安州天齐庙峻极殿祭东岳泰山之神。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尚之隆",
+   "role": "领侍卫内大臣、和硕额驸"
+  }
+ ],
+ "places": [
+  "泰安州",
+  "天齐庙",
+  "峻极殿",
+  "泰山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5005,
+ "page_range": "111-112"
+}

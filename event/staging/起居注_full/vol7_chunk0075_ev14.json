@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十二日甲申",
+ "event_role": "谕旨决策",
+ "summary": "乾清门侍卫马武传谕大学士马齐，凡所经之地有应祭岳渎、历代帝王陵寝皆预奏闻。",
+ "people": [
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7514,
+ "page_range": "161-162"
+}

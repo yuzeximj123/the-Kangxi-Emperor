@@ -1,0 +1,27 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "二十二日戊戌",
+ "event_role": "皇帝行止",
+ "summary": "因太皇太后在温泉，康熙帝于卯时出德胜门复往赤城，是日驻跸狼山堡。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "德胜门",
+  "赤城",
+  "狼山堡",
+  "温泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 922,
+ "page_range": "75-76"
+}

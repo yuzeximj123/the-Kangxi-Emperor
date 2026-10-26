@@ -1,0 +1,21 @@
+{
+ "reign_year": 40,
+ "month": 1,
+ "day_text": "初一日己丑",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率诸王贝勒内大臣侍卫大学士等诣皇太后宫行礼，文武诸臣于午门外行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "皇太后宫",
+  "午门外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18801,
+ "page_range": "386-387"
+}

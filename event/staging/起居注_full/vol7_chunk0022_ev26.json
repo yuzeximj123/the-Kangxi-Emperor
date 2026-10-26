@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": "二十六日丙午",
+ "event_role": "请安谢恩",
+ "summary": "康熙赐鄂罗、桑格、喀都礼御书诗扇各一，赐原任领侍卫内大臣佟国维御书诗字一幅。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂罗",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "桑格",
+   "role": "一等侍卫加太常寺卿"
+  },
+  {
+   "name": "喀都礼",
+   "role": "二等阿达哈哈番"
+  },
+  {
+   "name": "佟国维",
+   "role": "原任领侍卫内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2226,
+ "page_range": "55-56"
+}

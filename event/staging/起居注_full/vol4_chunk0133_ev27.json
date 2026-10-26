@@ -1,0 +1,22 @@
+{
+ "reign_year": 29,
+ "month": 10,
+ "day_text": "二十八日乙相",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝由午门出正阳门，幸驻南苑，部院各衙门奏章日送内阁转送南苑听理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "午门",
+  "正阳门",
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13327,
+ "page_range": "278-279"
+}

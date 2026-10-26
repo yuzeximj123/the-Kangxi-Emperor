@@ -1,0 +1,40 @@
+{
+ "reign_year": 53,
+ "month": 1,
+ "day_text": "二十七日己巳",
+ "event_role": "朝见受贺",
+ "summary": "涿州知州赵光荣、守备游洪龙、州判王向年、学正谈烟龙、训导赵继弘、吏目朱廷元等来朝见。",
+ "people": [
+  {
+   "name": "赵光荣",
+   "role": "涿州知州"
+  },
+  {
+   "name": "游洪龙",
+   "role": "守备"
+  },
+  {
+   "name": "王向年",
+   "role": "州判"
+  },
+  {
+   "name": "谈烟龙",
+   "role": "学正"
+  },
+  {
+   "name": "赵继弘",
+   "role": "训导"
+  },
+  {
+   "name": "朱廷元",
+   "role": "吏目"
+  }
+ ],
+ "places": [
+  "涿州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5218,
+ "page_range": "115-116"
+}

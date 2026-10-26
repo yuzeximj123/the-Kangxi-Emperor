@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初十日癸亥",
+ "event_role": "谕旨决策",
+ "summary": "礼部覆浙江提督陈世凯条奏请令武官讲读上谕十六条，康熙帝询问诸臣意见，称陈世凯甚为可嘉，命九卿会同详议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈世凯",
+   "role": "浙江提督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15913,
+ "page_range": "353-354"
+}

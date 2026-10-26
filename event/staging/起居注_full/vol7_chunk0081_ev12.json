@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十八日己未",
+ "event_role": "军务",
+ "summary": "康熙帝幸西安府西门外大教场，阅西安驻防八旗满洲汉军及绿旗官兵军容，率皇太子、诸皇子、内大臣、侍卫撮甲遍阅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "西安府西门外大教场",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8112,
+ "page_range": "173-174"
+}

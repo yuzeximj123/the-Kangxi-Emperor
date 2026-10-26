@@ -1,0 +1,32 @@
+{
+ "reign_year": 26,
+ "month": 7,
+ "day_text": "十一日丁雍",
+ "event_role": "人事任免",
+ "summary": "兵部题陕西西安府副都统尚吉图告老休致员缺，康熙帝令侍郎党古礼升补副都统。",
+ "people": [
+  {
+   "name": "尚吉图",
+   "role": "陕西西安府副都统"
+  },
+  {
+   "name": "党古礼",
+   "role": "侍郎"
+  },
+  {
+   "name": "萨海",
+   "role": "侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24013,
+ "page_range": "515-516"
+}

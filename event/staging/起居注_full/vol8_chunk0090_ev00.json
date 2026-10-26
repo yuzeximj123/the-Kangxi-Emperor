@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命赵申乔为宝泉局监督选择应举之人具奏。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "宝泉局监督选任负责人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宝泉局"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9000,
+ "page_range": "191-192"
+}

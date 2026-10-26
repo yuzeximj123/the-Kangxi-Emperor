@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十九年十月初十日",
+ "reign_year": 49,
+ "month": 10,
+ "day": 15,
+ "event_role": "请安谢恩",
+ "summary": "两广总督赵弘灿奏谢皇上赏赐鹿肉、细鳞鱼、鱼条等物，并陈明正催取西洋人沙国安代多乐所进葡萄酒，俟到即差人赍进。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督，奏折作者"
+  },
+  {
+   "name": "柒逢智",
+   "role": "赵弘灿家人，送奏折回"
+  },
+  {
+   "name": "沙国安",
+   "role": "西洋人，代多乐进葡萄酒者"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "兩廣總督趙弘燦奏謝御賜肉食等情摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "752",
+ "order_index": 51
+}

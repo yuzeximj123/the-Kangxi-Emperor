@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年九月二十日",
+ "reign_year": 53,
+ "month": 9,
+ "day": 16,
+ "event_role": "请安谢恩",
+ "summary": "镇绥将军潘育龙因圣驾回京、自己职守西陲不能亲往请安，特遣家人潘铎代叩圣安并进献鹿鸡。",
+ "people": [
+  {
+   "name": "潘育龙",
+   "role": "镇绥将军、提兵部尚书兼管提督事务，奏请圣安者"
+  },
+  {
+   "name": "潘铎",
+   "role": "潘育龙家人，代其叩请圣安"
+  }
+ ],
+ "places": [
+  "西陲",
+  "阙廷"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝回复朕安，并说明朱批文字书写及边外事务具奏请安等事。",
+ "source_title": "鎮江將軍潘育龍奏請聖安並進鹿雞摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1649",
+ "order_index": 290
+}

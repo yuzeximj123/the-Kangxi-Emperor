@@ -1,0 +1,22 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "初四日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士查密云县仓米数，命将通州仓米各一万石运贮密云、顺义仓内以平米价。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "密云县",
+  "通州",
+  "顺义县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7613,
+ "page_range": "162-163"
+}

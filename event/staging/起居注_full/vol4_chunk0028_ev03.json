@@ -1,0 +1,50 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "二十七日己巳",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝诘问于成龙是否曾奏张汧、祖泽深、姚缔虞、金鋐、钱珏、王国安居官不善，于成龙否认奏王国安事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  },
+  {
+   "name": "张汧",
+   "role": "官员"
+  },
+  {
+   "name": "祖泽深",
+   "role": "官员"
+  },
+  {
+   "name": "姚缔虞",
+   "role": "官员"
+  },
+  {
+   "name": "金鋐",
+   "role": "官员"
+  },
+  {
+   "name": "钱珏",
+   "role": "官员"
+  },
+  {
+   "name": "王国安",
+   "role": "官员"
+  },
+  {
+   "name": "色楞格",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2803,
+ "page_range": "68-69"
+}

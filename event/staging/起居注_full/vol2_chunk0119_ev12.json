@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "初七日甲实",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部侍郎员缺，票签误写已故叶方蔼转左侍郎，康熙帝指出错误命改票，并念叶方蔼侍从讲官有年，命查例给与恤典。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶方蔼",
+   "role": "已故侍从讲官"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11912,
+ "page_range": "281-282"
+}

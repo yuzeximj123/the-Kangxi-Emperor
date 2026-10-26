@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "二十九日庚午",
+ "event_role": "其他",
+ "summary": "巳时，康熙帝御乾清宫，讲官牛钮、张玉书、汤斌进讲《易》上九玉铉二节、震亨震来虩虩一节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  },
+  {
+   "name": "汤斌",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19725,
+ "page_range": "437-438"
+}

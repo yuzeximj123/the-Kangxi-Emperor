@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 11,
+ "day_text": "二十日乙丑",
+ "event_role": "河工水利",
+ "summary": "工部尚书沙木哈奏会议结果，总河靳辅所请高家堰加筑小堤、中河挑竣河沟、增高遥堤、添造闸口等俱依所请行。",
+ "people": [
+  {
+   "name": "沙木哈",
+   "role": "工部尚书"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "中河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21427,
+ "page_range": "440-441"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初六日壬戌",
+ "event_role": "司法案件",
+ "summary": "奉天府民王廷选与府尹梁拱宸互讦盐利，刑部请交盛京刑部质审，康熙帝命遣部院堂官会同奉天将军等详查。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王廷选",
+   "role": "奉天府民"
+  },
+  {
+   "name": "梁拱宸",
+   "role": "府尹"
+  },
+  {
+   "name": "耿大忠",
+   "role": "光棍"
+  }
+ ],
+ "places": [
+  "奉天",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 109,
+ "page_range": "45-46"
+}

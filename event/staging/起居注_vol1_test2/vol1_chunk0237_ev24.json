@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十七日两成",
+ "event_role": "人事任免",
+ "summary": "福建总督姚启圣题请录用李日焊，康熙帝命有福建副将员缺补用并将效力之处票明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "李日焊",
+   "role": "熟谙武艺题请录用"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23724,
+ "page_range": "531-532"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十二年五月十二日",
+ "reign_year": 52,
+ "month": 5,
+ "day": 13,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦奏报进京恭祝万寿，蒙康熙帝赏赐饮食并教诲，其妻赵氏又述五月初九日恩赐榛子、鹿肉条等物，李煦设香案叩头谢恩，具摺奏谢。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏折作者"
+  },
+  {
+   "name": "赵氏",
+   "role": "李煦之妻，受赐食品并转述恩赐"
+  }
+ ],
+ "places": [
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "蘇州織造李煦奏報進京祝壽時蒙賜食品摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1314",
+ "order_index": 215
+}

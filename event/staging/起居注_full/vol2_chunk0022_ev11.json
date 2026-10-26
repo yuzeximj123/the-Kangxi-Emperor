@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "二十日乙已",
+ "event_role": "司法案件",
+ "summary": "三法司议私贩盐犯李成金等应立斩，康熙帝以刘得福既经出首，命改为缓决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李成金",
+   "role": "私贩盐犯"
+  },
+  {
+   "name": "刘得福",
+   "role": "出首人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2211,
+ "page_range": "87-88"
+}

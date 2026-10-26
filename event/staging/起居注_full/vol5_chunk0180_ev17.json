@@ -1,0 +1,22 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "二十九日辛刻",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户部，因军兴供应烦民，着将康熙三十六年甘肃及陕西榆林等沿边州县卫所丁银米尽行蠲免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "榆林",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18017,
+ "page_range": "370-371"
+}

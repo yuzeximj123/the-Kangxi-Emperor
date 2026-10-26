@@ -1,0 +1,37 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初二日丙成",
+ "event_role": "人事任免",
+ "summary": "九卿会推江宁巡抚汤斌升任员缺，拟赵士蚀正、马世济陪，康熙帝以赵士志居官善，命调补江宁巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "汤斌",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "赵士蚀",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "马世济",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "江宁",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15117,
+ "page_range": "337-338"
+}

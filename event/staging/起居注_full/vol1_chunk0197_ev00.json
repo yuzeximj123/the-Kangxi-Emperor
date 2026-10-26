@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝与詹事沈茎、魏象枢等议流徙人犯取赎事，谕令可查问者从民便取赎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈茎",
+   "role": "詹事"
+  },
+  {
+   "name": "魏象枢",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19700,
+ "page_range": "451-452"
+}

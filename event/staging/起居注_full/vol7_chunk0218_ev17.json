@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "初一日癸未",
+ "event_role": "请安谢恩",
+ "summary": "辰时皇太后驾至热河，康熙帝率皇太子、诸皇子、大臣、侍卫、官员跪迎请安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21817,
+ "page_range": "447-448"
+}

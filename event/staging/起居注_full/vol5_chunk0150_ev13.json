@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": "初一日甲申",
+ "event_role": "军务",
+ "summary": "李铺奏陈运米及捐纳马匹情形，自认米未运到之罪，康熙帝顾左右称李锁素强不肯让人。",
+ "people": [
+  {
+   "name": "李铺",
+   "role": "督运粮饷侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "土喇",
+  "拖陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15013,
+ "page_range": "310-311"
+}

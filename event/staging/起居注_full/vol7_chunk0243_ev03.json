@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝审阅白黑子、杨五、陈大偷盗瀑灵厂库内铅子案，首犯白黑子着勾决，余从犯免勾。",
+ "people": [
+  {
+   "name": "白黑子",
+   "role": "首犯"
+  },
+  {
+   "name": "杨五",
+   "role": "从犯"
+  },
+  {
+   "name": "陈大",
+   "role": "从犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀑灵厂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24303,
+ "page_range": "497-498"
+}

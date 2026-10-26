@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论述为安民生必除噶尔丹，亲统大军进剿，噶尔丹败逃，现厉兵秣马待来岁扑剿，并蠲免大同府属三十六年地丁银米。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  }
+ ],
+ "places": [
+  "拖讷",
+  "枯伦",
+  "白尔齐尔",
+  "鄂尔多斯",
+  "大同府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17800,
+ "page_range": "366-367"
+}

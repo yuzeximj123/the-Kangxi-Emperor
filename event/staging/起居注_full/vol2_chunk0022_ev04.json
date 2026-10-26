@@ -1,0 +1,40 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "十九日甲辰",
+ "event_role": "谕旨决策",
+ "summary": "议尚之信标下鼓噪官兵处置，兵部议令随将军赖塔进剿，康熙帝从明珠议，令补给器械仍速随征。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "喇布",
+   "role": "和硕简亲王"
+  },
+  {
+   "name": "尚之信",
+   "role": "平南王"
+  },
+  {
+   "name": "赖塔",
+   "role": "将军"
+  },
+  {
+   "name": "麻尔吉",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2204,
+ "page_range": "87-88"
+}

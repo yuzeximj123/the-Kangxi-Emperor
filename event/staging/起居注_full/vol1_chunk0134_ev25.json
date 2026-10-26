@@ -1,0 +1,30 @@
+{
+ "reign_year": 16,
+ "month": 4,
+ "day_text": "十二日成午",
+ "event_role": "谕旨决策",
+ "summary": "辰时，康熙帝传谕讲官喇沙里、陈廷敬、叶方欧今日政务繁多可少候进讲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方欧",
+   "role": "讲官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13425,
+ "page_range": "325-326"
+}

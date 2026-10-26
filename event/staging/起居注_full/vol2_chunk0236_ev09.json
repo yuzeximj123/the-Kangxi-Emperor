@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "初一日戊搬",
+ "event_role": "请安谢恩",
+ "summary": "董卫国奏谢皇上明察并表态恪守圣谕、不敢与大臣私相交结，康熙帝命留乾清门赐食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董卫国",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23609,
+ "page_range": "515-516"
+}

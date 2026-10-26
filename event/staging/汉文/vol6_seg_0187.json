@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十四年十月二十八日",
+ "reign_year": 54,
+ "month": 10,
+ "day": 28,
+ "event_role": "奏报地方情形",
+ "summary": "京口将军何天培奏报镇江秋成丰稔、米价平减、百姓乐业，并称颂两江总督赫寿居官沉静、军民安静，因其母病故，代陈民情，恳请保留其任。",
+ "people": [
+  {
+   "name": "何天培",
+   "role": "京口将军，奏报人"
+  },
+  {
+   "name": "赫寿",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "镇江",
+  "江南",
+  "两江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，所奏之事已知晓。",
+ "source_title": "京口將軍何天培奏報鎮江地方歲登豐稔百姓樂業保留任摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1920",
+ "order_index": 187
+}

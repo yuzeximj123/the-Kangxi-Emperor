@@ -1,0 +1,33 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "二十九日己未",
+ "event_role": "人事任免",
+ "summary": "吏部议关南等处道缺补用，康熙帝以胡异贞守节可嘉，命于川省要缺录用，刘环着再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王进宝",
+   "role": "提督"
+  },
+  {
+   "name": "胡异贞",
+   "role": "候补道员"
+  },
+  {
+   "name": "刘环",
+   "role": "候补官员"
+  }
+ ],
+ "places": [
+  "关南",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21817,
+ "page_range": "493-494"
+}

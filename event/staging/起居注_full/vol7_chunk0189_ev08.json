@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初九日甲子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论台湾总兵员缺紧要，称吴郡为武官第一不可调补台湾，欲留补要地提督，命以开列人员荐奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蓝理",
+   "role": "原任提督"
+  },
+  {
+   "name": "吴郡",
+   "role": "定海总兵"
+  }
+ ],
+ "places": [
+  "台湾",
+  "江南",
+  "定海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18908,
+ "page_range": "389-390"
+}

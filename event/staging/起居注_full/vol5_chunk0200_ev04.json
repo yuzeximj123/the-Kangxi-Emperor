@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "庆阳县知县刘桂、安定堡守备高成来朝。",
+ "people": [
+  {
+   "name": "刘桂",
+   "role": "庆阳县知县"
+  },
+  {
+   "name": "高成",
+   "role": "安定堡守备"
+  }
+ ],
+ "places": [
+  "庆阳县",
+  "安定堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20004,
+ "page_range": "410-411"
+}

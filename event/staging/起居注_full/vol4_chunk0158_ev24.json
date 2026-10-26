@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": "二十六日己卯",
+ "event_role": "朝见受贺",
+ "summary": "是日，石匣营管副将事王廷标、管游击事左都督胡攀、守备李正春等来朝见。",
+ "people": [
+  {
+   "name": "王廷标",
+   "role": "石匣营管副将事"
+  },
+  {
+   "name": "胡攀",
+   "role": "管游击事左都督"
+  },
+  {
+   "name": "李正春",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "石匣营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15824,
+ "page_range": "328-329"
+}

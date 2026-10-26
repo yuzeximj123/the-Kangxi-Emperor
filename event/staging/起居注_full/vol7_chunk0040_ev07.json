@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 11,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝称赞韩英、徐秉勾之学问，并称韩菊文章绝伦，人莫能及。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩英",
+   "role": "学者"
+  },
+  {
+   "name": "徐秉勾",
+   "role": "学者"
+  },
+  {
+   "name": "韩菊",
+   "role": "学者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4007,
+ "page_range": "91-92"
+}

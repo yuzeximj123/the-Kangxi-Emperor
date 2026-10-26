@@ -1,0 +1,38 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": "十二日辛西",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门覆直隶巡抚赵弘赫所题强盗何四、马二、李成实劫杀赵昂铺主仆案，康熙帝以该抚审供明确，命问刑部具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘赫",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "何四",
+   "role": "强盗"
+  },
+  {
+   "name": "马二",
+   "role": "强盗"
+  },
+  {
+   "name": "李成实",
+   "role": "强盗"
+  },
+  {
+   "name": "周起龙",
+   "role": "逸盗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24521,
+ "page_range": "501-502"
+}

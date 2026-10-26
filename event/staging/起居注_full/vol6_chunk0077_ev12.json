@@ -1,0 +1,37 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "初一日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "户部题转运右卫米石亏欠者议限五月内运完，康熙帝斥其欺妄，令限内全完则已，否则正法，并责海伦钻营。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "右卫将军"
+  },
+  {
+   "name": "海伦",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "右卫",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7712,
+ "page_range": "164-165"
+}

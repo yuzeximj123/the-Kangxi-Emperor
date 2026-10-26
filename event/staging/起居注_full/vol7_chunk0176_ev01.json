@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "川陕总督朋泰等题生员王文试等造册迟误降二级调用，陕西学道朱轼居官清廉，据呈奏闻请留任。",
+ "people": [
+  {
+   "name": "朋泰",
+   "role": "川陕总督"
+  },
+  {
+   "name": "王文试",
+   "role": "生员"
+  },
+  {
+   "name": "朱轼",
+   "role": "陕西学道"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17601,
+ "page_range": "363-364"
+}

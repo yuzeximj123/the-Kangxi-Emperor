@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "二十四日戊申",
+ "event_role": "朝见受贺",
+ "summary": "古北口拖沙拉哈番章京索柱、驿站同知王集、都司顾顺等来朝见。",
+ "people": [
+  {
+   "name": "索柱",
+   "role": "拖沙拉哈番章京"
+  },
+  {
+   "name": "王集",
+   "role": "驿站同知"
+  },
+  {
+   "name": "顾顺",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19018,
+ "page_range": "391-392"
+}

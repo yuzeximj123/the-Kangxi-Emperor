@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "初九日辛卯",
+ "event_role": "人事任免",
+ "summary": "谕山西巡抚员缺已升补倭伦，令其毋效前任噶尔图、温保，即赴任。",
+ "people": [
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "噶尔图",
+   "role": "前任山西巡抚"
+  },
+  {
+   "name": "温保",
+   "role": "前任山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17812,
+ "page_range": "366-367"
+}

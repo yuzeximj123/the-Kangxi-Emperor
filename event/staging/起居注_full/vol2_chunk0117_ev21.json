@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 4,
+ "day_text": "十四日辛卯",
+ "event_role": "朝见受贺",
+ "summary": "驻防开元县拖沙喇哈番哈占等、开元县知县周之桓来朝。",
+ "people": [
+  {
+   "name": "哈占",
+   "role": "驻防开元县拖沙喇哈番"
+  },
+  {
+   "name": "周之桓",
+   "role": "开元县知县"
+  }
+ ],
+ "places": [
+  "开元县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11721,
+ "page_range": "277-278"
+}

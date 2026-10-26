@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "初五日",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝由东华门出朝阳门，至大行太皇太后梓宫前，读文致祭举哀，诸王大臣及命妇齐集举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "东华门",
+  "朝阳门",
+  "大行太皇太后梓宫前"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2502,
+ "page_range": "62-63"
+}

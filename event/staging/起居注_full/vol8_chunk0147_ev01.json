@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "初四日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝又命奏事官捧出朱书谕旨给领侍卫内大臣侯巴浑德等，令此时正热，各衙门行走等处照先年之例办理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "侯巴浑德",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "双全",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14701,
+ "page_range": "305-306"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆山西巡抚苏克济所题杨景畅因救父扎伤大功兄杨景星致死案，康熙帝准立斩改为监候秋后处决，杨作柱免议。",
+ "people": [
+  {
+   "name": "杨景畅",
+   "role": "案犯"
+  },
+  {
+   "name": "杨景星",
+   "role": "死者"
+  },
+  {
+   "name": "杨作柱",
+   "role": "杨景畅之父"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17408,
+ "page_range": "359-360"
+}

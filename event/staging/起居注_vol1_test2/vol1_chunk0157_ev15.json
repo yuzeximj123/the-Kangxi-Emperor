@@ -1,0 +1,26 @@
+{
+ "reign_year": 17,
+ "month": 2,
+ "day_text": "二十八日已已",
+ "event_role": "谕旨决策",
+ "summary": "谕令此后诸王、贝子、公等群臣每早晚集殿门外举哀。",
+ "people": [
+  {
+   "name": "诸王",
+   "role": "宗室"
+  },
+  {
+   "name": "贝子",
+   "role": "宗室"
+  },
+  {
+   "name": "公",
+   "role": "宗室"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 15715,
+ "page_range": "371-372"
+}

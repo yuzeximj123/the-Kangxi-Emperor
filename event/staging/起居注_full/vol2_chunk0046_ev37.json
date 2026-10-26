@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "初三日丙戌",
+ "event_role": "司法案件",
+ "summary": "江南苏州府民柳盛生等四人用药涂面迷惑二童携至江宁贩卖被获，俱拟立绞。",
+ "people": [
+  {
+   "name": "柳盛生",
+   "role": "苏州府民"
+  },
+  {
+   "name": "钱绍华",
+   "role": "被拐儿童"
+  },
+  {
+   "name": "陈阿招",
+   "role": "被拐儿童"
+  }
+ ],
+ "places": [
+  "苏州府",
+  "江宁府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4637,
+ "page_range": "135-136"
+}

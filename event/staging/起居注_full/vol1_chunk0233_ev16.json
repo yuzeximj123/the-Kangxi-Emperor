@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初六日乙丑",
+ "event_role": "军务",
+ "summary": "兵部议穆森革职事，康熙帝以穆森领兵甚少所议太过，命再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "穆森",
+   "role": "署副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23316,
+ "page_range": "523-524"
+}

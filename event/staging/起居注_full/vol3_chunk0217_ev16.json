@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "十一日己丑",
+ "event_role": "人事任免",
+ "summary": "兵部郎中乌赫升任员缺，拟正阿禄、拟陪马尔台，康熙帝认为阿禄为人平常，命此缺另拟具奏。",
+ "people": [
+  {
+   "name": "乌赫",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "阿禄",
+   "role": "户部员外郎"
+  },
+  {
+   "name": "马尔台",
+   "role": "督捕员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21716,
+ "page_range": "469-470"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "二十日戊申",
+ "event_role": "司法案件",
+ "summary": "三法司议强盗金二等应立斩，康熙帝以五儿未亲手伤人且自首，改为秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金二",
+   "role": "强盗"
+  },
+  {
+   "name": "五儿",
+   "role": "涉案人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24408,
+ "page_range": "545-546"
+}

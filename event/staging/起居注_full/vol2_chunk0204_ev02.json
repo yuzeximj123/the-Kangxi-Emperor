@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十八日戊午",
+ "event_role": "军务",
+ "summary": "福建总督姚启圣奏报水师提督施琅进剿台湾、克取澎湖，康熙召学士萨海等传谕八旗诸王大臣侍卫知之。",
+ "people": [
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "施琅",
+   "role": "水师提督"
+  },
+  {
+   "name": "萨海",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "台湾",
+  "澎湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20402,
+ "page_range": "451-452"
+}

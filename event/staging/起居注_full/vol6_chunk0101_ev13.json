@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "伊桑阿等奏广州未设中军副将，康熙帝命照京口、福建添设。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广州",
+  "京口",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10113,
+ "page_range": "212-213"
+}

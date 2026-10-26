@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "议山东民周二在漆河禁地捕鱼之罪，康熙帝令周二免变价。",
+ "people": [
+  {
+   "name": "周二",
+   "role": "民人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东",
+  "漆河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14701,
+ "page_range": "305-306"
+}

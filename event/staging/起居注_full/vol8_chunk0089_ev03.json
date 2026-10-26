@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆湖广巡抚刘殿衡题打死亲兄王天顺之王四儿照律拟斩，王天顺之父及妻求留养，康熙帝命九卿、詹事、科、道会议具奏。",
+ "people": [
+  {
+   "name": "王四儿",
+   "role": "凶手"
+  },
+  {
+   "name": "王天顺",
+   "role": "死者"
+  },
+  {
+   "name": "刘殿衡",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8903,
+ "page_range": "189-190"
+}

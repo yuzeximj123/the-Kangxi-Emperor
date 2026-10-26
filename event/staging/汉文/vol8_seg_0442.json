@@ -1,0 +1,28 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "云南巡抚甘国璧向康熙帝恭请圣安，康熙朱批回复自己安好，并提及近闻云南井盐一事人心不服、京中议论纷纷。",
+ "people": [
+  {
+   "name": "甘国璧",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，并指出近闻云南井盐一事人心不服、京中纷纷议论。",
+ "source_title": "云南请安",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 442
+}

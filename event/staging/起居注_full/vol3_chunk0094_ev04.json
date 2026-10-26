@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "二十八日",
+ "event_role": "河工水利",
+ "summary": "吏部议克什免等修筑卢沟桥堤岸草率不坚拟革职，康熙帝令暂行停革、戴罪监修，告成再定夺。",
+ "people": [
+  {
+   "name": "克什免",
+   "role": "修堤官员"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "卢沟桥",
+  "混河",
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9404,
+ "page_range": "223-224"
+}

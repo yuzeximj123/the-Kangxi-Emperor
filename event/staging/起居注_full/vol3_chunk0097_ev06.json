@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "十四日癸卯",
+ "event_role": "司法案件",
+ "summary": "三法司议携家属叛逃之黄升、陈英、刘佑拟立斩，康熙帝令免死归旗。",
+ "people": [
+  {
+   "name": "黄升",
+   "role": "叛逃犯"
+  },
+  {
+   "name": "陈英",
+   "role": "叛逃犯"
+  },
+  {
+   "name": "刘佑",
+   "role": "叛逃犯"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9706,
+ "page_range": "229-230"
+}

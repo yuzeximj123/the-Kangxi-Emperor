@@ -1,0 +1,31 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "陕西固原等处参将员缺，康熙帝命将拱极城游击刘虎补授直隶要地员缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "池朋进",
+   "role": "游击"
+  },
+  {
+   "name": "刘虎",
+   "role": "拱极城游击"
+  }
+ ],
+ "places": [
+  "陕西",
+  "固原",
+  "拱极城",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9202,
+ "page_range": "194-195"
+}

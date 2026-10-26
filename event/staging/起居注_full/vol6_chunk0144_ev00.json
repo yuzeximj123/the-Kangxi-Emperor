@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙与伊桑阿等议清水闸堵塞事，伊桑阿称无计可施，康熙令堵塞清巨闸。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "清巨闸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14400,
+ "page_range": "298-299"
+}

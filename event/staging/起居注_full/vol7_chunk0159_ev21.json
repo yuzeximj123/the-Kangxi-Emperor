@@ -1,0 +1,37 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初一日庚寅",
+ "event_role": "人事任免",
+ "summary": "闽浙总督范时崇题黄岩镇标中军游击等员缺，请以陈允升、阎福玉调补，康熙帝准照所请补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范时崇",
+   "role": "闽浙总督"
+  },
+  {
+   "name": "陈威远",
+   "role": "游击"
+  },
+  {
+   "name": "陈允升",
+   "role": "游击"
+  },
+  {
+   "name": "阎福玉",
+   "role": "都司"
+  }
+ ],
+ "places": [
+  "黄岩",
+  "台州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15921,
+ "page_range": "329-330"
+}

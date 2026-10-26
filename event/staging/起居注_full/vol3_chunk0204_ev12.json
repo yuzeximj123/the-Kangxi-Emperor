@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十八日戊辰",
+ "event_role": "起居注官记录",
+ "summary": "记载本日起居注官为德格勒、彭孙通。",
+ "people": [
+  {
+   "name": "德格勒",
+   "role": "起居注官"
+  },
+  {
+   "name": "彭孙通",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20412,
+ "page_range": "443-444"
+}

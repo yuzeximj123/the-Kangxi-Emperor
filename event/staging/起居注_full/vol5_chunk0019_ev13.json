@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初十日丁未",
+ "event_role": "人事任免",
+ "summary": "大学士等以折本请旨，康熙帝称盐运使赵世显人材优长、办事亦好，命升补江苏按察使。",
+ "people": [
+  {
+   "name": "赵世显",
+   "role": "盐运使升江苏按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1913,
+ "page_range": "48-49"
+}

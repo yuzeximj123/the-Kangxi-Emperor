@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初四日于子",
+ "event_role": "司法案件",
+ "summary": "赵一贵等私刨人参拟绞，康熙命赵一贵、王二从宽免死，照例减等发落。",
+ "people": [
+  {
+   "name": "赵一贵",
+   "role": "案犯"
+  },
+  {
+   "name": "王二",
+   "role": "案犯"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2811,
+ "page_range": "67-68"
+}

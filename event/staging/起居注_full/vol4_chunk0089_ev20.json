@@ -1,0 +1,26 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "二十二日乙西",
+ "event_role": "其他",
+ "summary": "康熙帝以亲射所获免赐大学士伊桑阿、侍郎库勒纳各一。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "库勒纳",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8920,
+ "page_range": "190-191"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十四年七月初一日",
+ "reign_year": 44,
+ "month": 7,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "曹寅奏报清黄交涨后河水已退、沿江圩田被淹而山田丰收，并报盐价渐长盐务起色。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江寧",
+  "邳州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "109",
+ "source_title": "江寧織造曹寅奏報清黃交漲邳州等處雨水情形摺",
+ "order_index": 82
+}

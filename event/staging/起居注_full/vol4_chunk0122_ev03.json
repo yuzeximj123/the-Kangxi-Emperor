@@ -1,0 +1,22 @@
+{
+ "reign_year": 29,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "户部就张五等一案满汉两议具题，一议断还郑五家人，一议断归民籍。",
+ "people": [
+  {
+   "name": "张五",
+   "role": "案犯"
+  },
+  {
+   "name": "郑五",
+   "role": "旗人户主"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12203,
+ "page_range": "256-257"
+}

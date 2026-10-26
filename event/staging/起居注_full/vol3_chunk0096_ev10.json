@@ -1,0 +1,20 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "初七日丙申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸鞍匠屯。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "鞍匠屯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9610,
+ "page_range": "227-228"
+}

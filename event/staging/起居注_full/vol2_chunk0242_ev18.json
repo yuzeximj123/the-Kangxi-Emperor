@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "二十七日甲午",
+ "event_role": "人事任免",
+ "summary": "九卿会推湖北按察使李世昌升任员缺，拟王寺正、胡悉宁陪，康熙以二人平常令再会推。",
+ "people": [
+  {
+   "name": "李世昌",
+   "role": "湖北按察使"
+  },
+  {
+   "name": "王寺",
+   "role": "浙江宁绍道"
+  },
+  {
+   "name": "胡悉宁",
+   "role": "陕西甘山道"
+  }
+ ],
+ "places": [
+  "湖北",
+  "浙江",
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24218,
+ "page_range": "527-528"
+}

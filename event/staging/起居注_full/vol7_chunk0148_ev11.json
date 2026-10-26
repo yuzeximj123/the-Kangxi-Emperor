@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "二十八日王子",
+ "event_role": "军务",
+ "summary": "皇帝召大学士马齐，传谕川陕总督博济密折所报商州之贼已被擒获，此系小寇，发兵即可尽擒，命以折示大学士等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "博济",
+   "role": "川陕总督"
+  },
+  {
+   "name": "沙孜",
+   "role": "奏事"
+  },
+  {
+   "name": "来保",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "商州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14811,
+ "page_range": "307-308"
+}

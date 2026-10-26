@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请将原任江宁布政使宜思恭与总督阿山等带至江南质审，康熙帝命仍交张鹏翮审明具奏。",
+ "people": [
+  {
+   "name": "宜思恭",
+   "role": "原任江宁布政使"
+  },
+  {
+   "name": "阿山",
+   "role": "总督"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "审案官员"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21901,
+ "page_range": "449-450"
+}

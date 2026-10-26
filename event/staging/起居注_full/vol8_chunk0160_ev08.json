@@ -1,0 +1,29 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题原住盖州披甲人尼什哈因大嘴将伊为奴、以伊女受聘嫁人一案，拟枷号三月鞭一百准赎，康熙帝依议并令察议迟延之处。",
+ "people": [
+  {
+   "name": "尼什哈",
+   "role": "披甲人"
+  },
+  {
+   "name": "大嘴",
+   "role": "披甲人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盖州",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16008,
+ "page_range": "331-332"
+}

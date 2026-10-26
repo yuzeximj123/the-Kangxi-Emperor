@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙四十八年十月十九日",
+ "reign_year": 48,
+ "month": 10,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "海澄公黄应缵差家人宋智赍摺叩请圣安，并恭进土物数种，以表恋主感恩之心。",
+ "people": [
+  {
+   "name": "黄应缵",
+   "role": "海澄公，奏折具奏人"
+  },
+  {
+   "name": "黄机汉",
+   "role": "海澄公（奏折中提及）"
+  },
+  {
+   "name": "宋智",
+   "role": "家人，赍摺进京"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "闽",
+  "两粤",
+  "京"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批仅书“知道了”，表示已阅知悉。",
+ "source_title": "海澄公黃應纘奏請聖安並進土物摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "591",
+ "order_index": 242
+}

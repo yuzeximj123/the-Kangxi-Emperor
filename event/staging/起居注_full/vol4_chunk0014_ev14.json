@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "初八日六已",
+ "event_role": "河工水利",
+ "summary": "靳辅奏称专管上河，主张高加堰外再筑重堤使水不归下河，并虑开浚下河有海水倒灌之患。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "高加堰",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1414,
+ "page_range": "40-41"
+}

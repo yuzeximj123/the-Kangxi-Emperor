@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十八年正月初九日",
+ "reign_year": 58,
+ "month": null,
+ "day": 9,
+ "event_role": "贸易漕运",
+ "summary": "两广总督杨琳代住澳门西洋人理事官咭吗咑等进呈土物十六种，以谢皇上恩典并祝万寿。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "咭吗咑",
+   "role": "住澳门西洋人理事官"
+  }
+ ],
+ "places": [
+  "澳门"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，另有赏赐之物候旨发去。",
+ "source_title": "兩廣總督楊琳奏為代進住澳門洋人所備上物事摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2734",
+ "order_index": 158
+}

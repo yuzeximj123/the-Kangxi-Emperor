@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "题补制造库员外，康熙帝以马哈达年幼，命以陪拟的牙齐那补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马哈达",
+   "role": "拟正人员"
+  },
+  {
+   "name": "牙齐那",
+   "role": "拟陪人员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24401,
+ "page_range": "545-546"
+}

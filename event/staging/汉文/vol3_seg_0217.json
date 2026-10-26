@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙伍拾年闰月 日",
+ "reign_year": 50,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "钦差西安等处副将管总兵官事李辉祖上奏恭请圣安，并表达感恩图报、进献物品候裁之意。",
+ "people": [
+  {
+   "name": "李辉祖",
+   "role": "钦差西安等处地方副将管总兵官事，奏请圣安者"
+  },
+  {
+   "name": "罗殷泰",
+   "role": "讲官起居注提督四川等处学政按察司佥事，列名于奏折末尾"
+  }
+ ],
+ "places": [
+  "西安",
+  "四川"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“朕安”，为皇帝对请安的答复。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 217
+}

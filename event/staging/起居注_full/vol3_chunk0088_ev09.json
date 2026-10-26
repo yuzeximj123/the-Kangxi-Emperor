@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "十二日辛丑",
+ "event_role": "请安谢恩",
+ "summary": "明珠、常书、朱马泰奏赞御书神妙，请将御书于成龙碑文刊石颁赐。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "常书",
+   "role": "学士"
+  },
+  {
+   "name": "朱马泰",
+   "role": "詹事"
+  },
+  {
+   "name": "于成龙",
+   "role": "原任江南已故总督"
+  },
+  {
+   "name": "范承席",
+   "role": "前总督"
+  },
+  {
+   "name": "马雄镇",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8809,
+ "page_range": "211-212"
+}

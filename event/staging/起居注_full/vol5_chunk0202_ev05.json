@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十七日戊实",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕川陕总督吴赫，令传示有司禁绝借端科派扰民，使百姓安于本业。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴赫",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "宁夏",
+  "晋",
+  "秦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20205,
+ "page_range": "414-415"
+}

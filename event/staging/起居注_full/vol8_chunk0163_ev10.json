@@ -1,0 +1,34 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "三十日丙辰",
+ "event_role": "人事任免",
+ "summary": "兵部题镶蓝旗满洲都统胡什巴等员缺开列请旨，康熙命议政大臣、满洲九卿会同公议拣选具奏。",
+ "people": [
+  {
+   "name": "胡什巴",
+   "role": "镶蓝旗满洲都统"
+  },
+  {
+   "name": "颜布",
+   "role": "镶红旗护军统领"
+  },
+  {
+   "name": "温普",
+   "role": "正蓝旗副都统"
+  },
+  {
+   "name": "郎图",
+   "role": "正黄旗蒙古都统"
+  },
+  {
+   "name": "拜音布",
+   "role": "将军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16310,
+ "page_range": "337-338"
+}

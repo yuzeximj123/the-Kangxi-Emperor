@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就巴图善处置事指出所议未详，认为巴图善行止不端可杀，且与户部尚书称和伦有亲，命发回再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴图善",
+   "role": "被议罪官员"
+  },
+  {
+   "name": "称和伦",
+   "role": "户部尚书"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20000,
+ "page_range": "411-412"
+}

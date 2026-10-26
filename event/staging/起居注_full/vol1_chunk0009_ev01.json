@@ -1,0 +1,21 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "初九日乙酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝将移驻盘石台，早集两翼王贝勒诸大臣于网城南门外传谕，言欲于行宫相近平阔处暂驻数日而还。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "网城南门外",
+  "盘石台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 901,
+ "page_range": "75-76"
+}

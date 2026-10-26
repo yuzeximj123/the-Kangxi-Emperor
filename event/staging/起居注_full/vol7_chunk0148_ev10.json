@@ -1,0 +1,21 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "二十八日王子",
+ "event_role": "皇帝行止",
+ "summary": "皇帝临中和殿，阅除夕祭祀太庙祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14810,
+ "page_range": "307-308"
+}

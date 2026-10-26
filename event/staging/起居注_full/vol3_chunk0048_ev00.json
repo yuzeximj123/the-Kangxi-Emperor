@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就巴克升任员缺，命补授侍读学士丹代。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "丹代",
+   "role": "侍读学士"
+  },
+  {
+   "name": "传腊塔",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4800,
+ "page_range": "131-132"
+}

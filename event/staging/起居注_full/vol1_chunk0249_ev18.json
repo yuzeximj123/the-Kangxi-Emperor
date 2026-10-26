@@ -1,0 +1,33 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十四日辛未",
+ "event_role": "军务",
+ "summary": "议原经略莫治所带五十三等进取云贵图功赎罪，笔帖式鄂通果留驻西安，康熙帝命五十三等图功自赎、鄂通果回京。",
+ "people": [
+  {
+   "name": "莫治",
+   "role": "原经略"
+  },
+  {
+   "name": "五十三",
+   "role": "军前人员"
+  },
+  {
+   "name": "鄂通果",
+   "role": "笔帖式"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云贵",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24918,
+ "page_range": "555-556"
+}

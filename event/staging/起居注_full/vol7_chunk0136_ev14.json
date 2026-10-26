@@ -1,0 +1,36 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "二十八日壬子",
+ "event_role": "司法案件",
+ "summary": "议直隶秋审缓决各犯及情真案内张霖、查日昌、金大中事，康熙帝命张霖等今年暂停决，张霖限一年追完钱粮再定。",
+ "people": [
+  {
+   "name": "张霖",
+   "role": "罪犯"
+  },
+  {
+   "name": "查日昌",
+   "role": "罪犯"
+  },
+  {
+   "name": "金大中",
+   "role": "罪犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13614,
+ "page_range": "283-284"
+}

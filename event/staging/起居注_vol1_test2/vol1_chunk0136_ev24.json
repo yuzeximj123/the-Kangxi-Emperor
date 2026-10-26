@@ -1,0 +1,32 @@
+{
+ "reign_year": 16,
+ "month": 5,
+ "day_text": "初十日乙酉",
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝御保和殿，赐进贡的鄂尔多斯部落多罗郡王索讷木、多罗贝勒达尔扎、二品台吉奔苏克等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索讷木",
+   "role": "多罗郡王"
+  },
+  {
+   "name": "达尔扎",
+   "role": "多罗贝勒"
+  },
+  {
+   "name": "奔苏克",
+   "role": "二品台吉"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13624,
+ "page_range": "329-330"
+}

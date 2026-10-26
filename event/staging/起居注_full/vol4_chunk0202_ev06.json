@@ -1,0 +1,41 @@
+{
+ "reign_year": 31,
+ "month": 7,
+ "day_text": "初八日乙卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内澹宁居，大学士等奏九卿回称皇上赈济西安饥民实惠远超宋富弼。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王国昌",
+   "role": "学士"
+  },
+  {
+   "name": "傅继祖",
+   "role": "学士"
+  },
+  {
+   "name": "戴通",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20206,
+ "page_range": "416-417"
+}

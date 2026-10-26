@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "初七日丁未",
+ "event_role": "河工水利",
+ "summary": "康熙论运河黄水清水交汇处紧要，称大墩地方修筑坚固可虑，河务须访土著之人而不可全听其言。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "运河",
+  "大墩",
+  "天妃闸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6712,
+ "page_range": "144-145"
+}

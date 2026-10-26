@@ -1,0 +1,32 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "初十日戊辰",
+ "event_role": "人事任免",
+ "summary": "马齐等奏遵旨行文问将军费扬古归化城都统扎喇克图老病乞休事，覆称病实，康熙帝准其休致。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "费扬古",
+   "role": "将军"
+  },
+  {
+   "name": "扎喇克图",
+   "role": "归化城都统"
+  }
+ ],
+ "places": [
+  "归化城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9916,
+ "page_range": "209-210"
+}

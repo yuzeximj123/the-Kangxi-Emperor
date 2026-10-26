@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "二十日成实",
+ "event_role": "司法案件",
+ "summary": "覆请刑部题小黑等向仓关米人索勒银钱案，拟为首立斩、为从绞监候，监督关保等革职枷号鞭责。",
+ "people": [
+  {
+   "name": "小黑",
+   "role": "首犯"
+  },
+  {
+   "name": "张有德",
+   "role": "从犯"
+  },
+  {
+   "name": "关保",
+   "role": "监督"
+  },
+  {
+   "name": "四哥",
+   "role": "阿达哈哈番"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16616,
+ "page_range": "343-344"
+}

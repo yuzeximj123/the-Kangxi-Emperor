@@ -1,0 +1,32 @@
+{
+ "reign_year": 11,
+ "month": 4,
+ "day_text": "十九日甲午",
+ "event_role": "其他",
+ "summary": "巳时康熙帝御弘德殿，讲官熊赐履、史大成、孙在丰进讲孔子“君子不重则不威”一章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "史大成",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1316,
+ "page_range": "83-84"
+}

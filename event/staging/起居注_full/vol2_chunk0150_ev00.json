@@ -1,0 +1,33 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题补康亲王长史，拟正纳亲、拟陪苏弘则，康熙帝以纳亲曾托病规避、心术不足，命发还另推具奏。",
+ "people": [
+  {
+   "name": "纳亲",
+   "role": "散骑郎、拟正长史"
+  },
+  {
+   "name": "苏弘则",
+   "role": "一等护卫、拟陪长史"
+  },
+  {
+   "name": "康亲王",
+   "role": "亲王"
+  },
+  {
+   "name": "莫落",
+   "role": "经略"
+  }
+ ],
+ "places": [
+  "保宁",
+  "汉中"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15000,
+ "page_range": "343-344"
+}

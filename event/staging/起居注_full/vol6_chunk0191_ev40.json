@@ -1,0 +1,21 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "十六日甲成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝阅子牙河，御舟泊鱼夫楼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "子牙河",
+  "鱼夫楼"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19140,
+ "page_range": "392-393"
+}

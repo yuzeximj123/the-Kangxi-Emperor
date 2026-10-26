@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十八日甲成",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸沂水县属霹庄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "沂水县",
+  "霹庄"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5006,
+ "page_range": "111-112"
+}

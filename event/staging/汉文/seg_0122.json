@@ -1,0 +1,32 @@
+{
+ "date_raw": "未知",
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "湖广巡抚刘殿衡奏报楚省二麦收成分数、米麦价平及潜泗灾民赈济安置情形。",
+ "people": [
+  {
+   "name": "刘殿衡",
+   "role": "奏报人"
+  },
+  {
+   "name": "石文晟",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "湖广",
+  "楚省",
+  "武汉",
+  "汉阳",
+  "潜泗"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": null,
+ "order_index": 122
+}

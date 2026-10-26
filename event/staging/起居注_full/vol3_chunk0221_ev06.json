@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": "二十九日",
+ "event_role": "人事任免",
+ "summary": "吏部题本部侍郎马世济调补员缺，康熙帝询问督捕侍郎能一潇情况，王熙奏其守分可用，遂令调补吏部侍郎。",
+ "people": [
+  {
+   "name": "能一潇",
+   "role": "督捕侍郎，调补吏部侍郎"
+  },
+  {
+   "name": "马世济",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "葛弘道",
+   "role": "户部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22106,
+ "page_range": "477-478"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "十七日壬子",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝赐琉球国王尚贞锦缎等物，并敕书交进贡来使赍还。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尚贞",
+   "role": "琉球国王"
+  }
+ ],
+ "places": [
+  "琉球"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11116,
+ "page_range": "232-233"
+}

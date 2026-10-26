@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 10,
+ "day_text": "十一日庚子",
+ "event_role": "司法案件",
+ "summary": "理藩院题遗失黑龙江将军萨布素奏章之章京阿尔法应交吏部议处，康熙责部院限定日期交科员稽察、事完销档，此事如何遗失不行启奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萨布素",
+   "role": "黑龙江将军"
+  },
+  {
+   "name": "阿尔法",
+   "role": "章京"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8423,
+ "page_range": "178-179"
+}

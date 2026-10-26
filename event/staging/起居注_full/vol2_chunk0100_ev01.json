@@ -1,0 +1,36 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "议政王大臣会议原任贵州巡抚曹申吉、布政使潘超先从逆案，康熙以其后欲投诚被害，免其妻子兄弟交刑部拟罪。",
+ "people": [
+  {
+   "name": "曹申吉",
+   "role": "原任贵州巡抚"
+  },
+  {
+   "name": "潘超先",
+   "role": "原任布政使"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10001,
+ "page_range": "243-244"
+}

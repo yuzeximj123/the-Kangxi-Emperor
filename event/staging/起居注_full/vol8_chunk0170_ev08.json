@@ -1,0 +1,33 @@
+{
+ "reign_year": 55,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "天津总兵官马见伯请将都司冯兰与尤弘龙互相调补，康熙帝照所题调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马见伯",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "冯兰",
+   "role": "都司"
+  },
+  {
+   "name": "尤弘龙",
+   "role": "蒲河营都司"
+  }
+ ],
+ "places": [
+  "天津",
+  "蒲河营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17008,
+ "page_range": "351-352"
+}

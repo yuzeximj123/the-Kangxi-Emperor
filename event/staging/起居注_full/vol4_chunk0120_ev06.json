@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 5,
+ "day_text": "二十八日己丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝出午门时顾大学士伊桑阿等，命户部司官善驰马者即往察勘保定等处雨是否充足。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "保定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12006,
+ "page_range": "252-253"
+}

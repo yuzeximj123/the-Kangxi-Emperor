@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙三十七年六月",
+ "reign_year": 37,
+ "month": 6,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报苏州入夏雨水调匀、秧苗插种、禾苗茂盛、米价如常、百姓乐业。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示已知，命秋收后有人来便速报收成情形。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "25",
+ "source_title": "苏州织造李煦奏报夏季雨水米价如常折",
+ "order_index": 23
+}

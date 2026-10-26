@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初一日壬午",
+ "event_role": "司法案件",
+ "summary": "刑部题李国兴责打偷盗亲侄李国栋致死拟故杀，康熙帝以其凶恶、拟罪太过，命再议具奏。",
+ "people": [
+  {
+   "name": "李国兴",
+   "role": "罪犯叔父"
+  },
+  {
+   "name": "李国栋",
+   "role": "偷盗者"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5707,
+ "page_range": "157-158"
+}

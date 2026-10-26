@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "二十日庚申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝奉太皇太后往拜察地方，驻跸杨岭北。",
+ "people": [
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "拜察",
+  "杨岭北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20404,
+ "page_range": "451-452"
+}

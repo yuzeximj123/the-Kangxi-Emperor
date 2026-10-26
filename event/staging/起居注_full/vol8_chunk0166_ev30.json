@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": "二十九日乙本",
+ "event_role": "司法案件",
+ "summary": "刑部汇题山西民段之壁伙同张五捆绑杜四保致其手足指冻断夺银，拟段之壁充发、张五徒三年。",
+ "people": [
+  {
+   "name": "段之壁",
+   "role": "案犯"
+  },
+  {
+   "name": "张五",
+   "role": "案犯"
+  },
+  {
+   "name": "杜四保",
+   "role": "受害人"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16630,
+ "page_range": "343-344"
+}

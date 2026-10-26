@@ -1,0 +1,36 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "初七日甲实",
+ "event_role": "河工水利",
+ "summary": "议勘阅河工差官，明珠奏魏象枢年老有疾不能乘马，康熙帝先拟徐元文，因系江南人恐有妨碍，改命宋文运前往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "魏象枢",
+   "role": "大臣"
+  },
+  {
+   "name": "徐元文",
+   "role": "大臣"
+  },
+  {
+   "name": "宋文运",
+   "role": "大臣，奉命勘河"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11910,
+ "page_range": "281-282"
+}

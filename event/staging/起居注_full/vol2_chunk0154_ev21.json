@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "初二日乙巳",
+ "event_role": "谕旨决策",
+ "summary": "宁古塔将军巴海请给克衣克里氏族长库里哈等牛只准其买人，康熙帝以已迁近境应准，令该部再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴海",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "库里哈",
+   "role": "克衣克里氏族长"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15421,
+ "page_range": "351-352"
+}

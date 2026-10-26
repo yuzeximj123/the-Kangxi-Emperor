@@ -1,0 +1,34 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "陕西凉州等处副将员缺，命移文总督吴赫、提督孙思克会同拣选人材壮健者具奏补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨雄",
+   "role": "参将"
+  },
+  {
+   "name": "吴赫",
+   "role": "陕西总督"
+  },
+  {
+   "name": "孙思克",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "陕西",
+  "凉州",
+  "永昌营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9201,
+ "page_range": "194-195"
+}

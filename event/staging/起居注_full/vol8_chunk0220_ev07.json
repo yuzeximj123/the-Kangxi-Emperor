@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": "初二日王子",
+ "event_role": "河工水利",
+ "summary": "康熙帝论海宁堤工修法，谓修堤必乘时急修方为有益，失时虽修无益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元梦",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "海宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22007,
+ "page_range": "451-452"
+}

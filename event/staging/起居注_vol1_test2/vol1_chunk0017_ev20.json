@@ -1,0 +1,25 @@
+{
+ "reign_year": 11,
+ "month": 7,
+ "day_text": "初五日",
+ "event_role": "人事任免",
+ "summary": "未时康熙帝御乾清门，赐升补云南右镇总兵官张足法宴，询问其战阵功牌，谕令熟练兵丁、整理器械，并赐马一匹、表里八端。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张足法",
+   "role": "升补云南右镇总兵官"
+  }
+ ],
+ "places": [
+  "云南",
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1720,
+ "page_range": "91-92"
+}

@@ -1,0 +1,47 @@
+{
+ "date_raw": "康熙四十七年四月初二日",
+ "reign_year": 47,
+ "month": 4,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "曹寅奏报护送佛船已平安抵达普陀山，并转奏扬州平粜官员的奏折。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "孙文成",
+   "role": "涉及人物"
+  },
+  {
+   "name": "曹宜",
+   "role": "涉及人物"
+  },
+  {
+   "name": "觉罗塞墨",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "扬州",
+  "杭州",
+  "普陀山",
+  "南海"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批阅后表示知道了。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "328",
+ "source_title": "江寧織造曹寅奏報佛船已到普陀摺",
+ "order_index": 242
+}

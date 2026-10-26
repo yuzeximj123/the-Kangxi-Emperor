@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十八日辛卯",
+ "event_role": "人事任免",
+ "summary": "议政王大臣会议吴丹、鄂克济哈失救永宁之罪，康熙帝令吴丹免入辛者库、免鞭责，与鄂克济哈一例定罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴丹",
+   "role": "护军统领"
+  },
+  {
+   "name": "鄂克济哈",
+   "role": "头等侍卫"
+  }
+ ],
+ "places": [
+  "永宁",
+  "建昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15310,
+ "page_range": "349-350"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 1,
+ "day_text": "十五日",
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝在畅春园大宴朝正外藩折卜尊丹巴库图克图、土谢图汗及王贝勒台吉喇嘛等，并赐酒谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "折卜尊丹巴库图克图",
+   "role": "外藩宗教首领"
+  },
+  {
+   "name": "土谢图汗",
+   "role": "外藩首领"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3001,
+ "page_range": "70-71"
+}

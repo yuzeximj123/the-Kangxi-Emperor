@@ -1,0 +1,33 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "十七日庚戌",
+ "event_role": "谕旨决策",
+ "summary": "闽浙总督朱弘祚题举卓异官员事，康熙帝斥其疏内闽省地瘠民贫之语，令该部察议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱弘祚",
+   "role": "闽浙总督"
+  },
+  {
+   "name": "张德地",
+   "role": "原任四川巡抚"
+  },
+  {
+   "name": "邵远平",
+   "role": "原任少詹事"
+  }
+ ],
+ "places": [
+  "福建",
+  "延安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5121,
+ "page_range": "112-113"
+}

@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十三年二月二十五日",
+ "reign_year": 53,
+ "month": 2,
+ "day": 7,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报新岁以来天气晴和、春雨充足、二麦生长良好、百姓乐业、地方宁静、米价照常低廉，并进呈苏州扬州正月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州",
+  "京中"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知晓，并提及京城近日少雨、四外好雨已足。",
+ "source_title": "蘇州織造李煦奏賀萬壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1531",
+ "order_index": 156
+}

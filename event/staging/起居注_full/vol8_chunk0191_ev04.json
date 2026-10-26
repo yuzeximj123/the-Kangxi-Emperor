@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 5,
+ "day_text": "初五日戊午",
+ "event_role": "谕旨决策",
+ "summary": "礼部以绿头牌启奏得雨之处，康熙帝朱批斥钦天监奏报雨情糊涂，命将旨缮写发问，着笑特布两日内星夜到热河面奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "笑特布",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19104,
+ "page_range": "393-394"
+}

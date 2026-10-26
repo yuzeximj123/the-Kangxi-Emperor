@@ -1,0 +1,24 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": "二十九日",
+ "event_role": "起居注官记录",
+ "summary": "内许供奉日讲官起居注奖善励杜讷至起居注馆，将康熙二十四、三十五年览《通鉴》论断之语折子三册交掌院侍郎库勒纳记注。",
+ "people": [
+  {
+   "name": "杜讷",
+   "role": "日讲官起居注"
+  },
+  {
+   "name": "库勒纳",
+   "role": "掌院侍郎"
+  }
+ ],
+ "places": [
+  "起居注馆"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11000,
+ "page_range": "232-233"
+}

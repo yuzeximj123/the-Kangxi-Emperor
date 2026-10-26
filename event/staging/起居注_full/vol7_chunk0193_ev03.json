@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "二十七日",
+ "event_role": "议政听政",
+ "summary": "康熙帝在畅春园大西门内箭厂召集诸王大臣，宣示大臣结朋党之事，并询问鄂善等人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂善",
+   "role": "都统"
+  },
+  {
+   "name": "耿额",
+   "role": "尚书"
+  },
+  {
+   "name": "齐世武",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "畅春园大西门内箭厂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19303,
+ "page_range": "397-398"
+}

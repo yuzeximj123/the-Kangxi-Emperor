@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 11,
+ "day_text": "十七日丁卯",
+ "event_role": "朝见受贺",
+ "summary": "西安布政使戴通陛辞请训，康熙帝谕以洁己奉公、严禁苛派、勿致扰民。",
+ "people": [
+  {
+   "name": "戴通",
+   "role": "西安布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17119,
+ "page_range": "354-355"
+}

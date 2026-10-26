@@ -1,0 +1,22 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝就周国义斩监候、察进免枷号鞭责留佐领任及其母免折赎作出裁决。",
+ "people": [
+  {
+   "name": "周国义",
+   "role": "案犯"
+  },
+  {
+   "name": "察进",
+   "role": "案犯/佐领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 800,
+ "page_range": "27-28"
+}

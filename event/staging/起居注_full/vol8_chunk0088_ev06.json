@@ -1,0 +1,40 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十六日癸巳",
+ "event_role": "司法案件",
+ "summary": "康熙帝称原任京口将军马三奇之事冤枉，系与周起渭不合、串同张伯行陷害，李光地、萧永藻已奏过。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马三奇",
+   "role": "原任京口将军"
+  },
+  {
+   "name": "周起渭",
+   "role": "官员"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8806,
+ "page_range": "187-188"
+}

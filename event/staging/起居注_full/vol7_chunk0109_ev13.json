@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": "初八日乙丑",
+ "event_role": "司法案件",
+ "summary": "马齐等奏用药迷拐太监察明事，刑部以未满二十日不议作逃走，康熙以已逃二十日命本发还另议。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "赛明",
+   "role": "太监"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10913,
+ "page_range": "229-230"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "四川松潘总兵官路振扬向康熙帝跪请圣安，康熙朱批回复朕安，并就其此前请圣裁的奏折说明已敕部即议。",
+ "people": [
+  {
+   "name": "路振扬",
+   "role": "四川松潘总兵官"
+  },
+  {
+   "name": "双才",
+   "role": "四川松潘总兵官（与路振扬同署）"
+  }
+ ],
+ "places": [
+  "四川",
+  "松潘"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙回复朕安，并说明对路振扬请圣裁一折已敕部即议，以免具题迟延。",
+ "source_title": "路振扬请安",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 482
+}

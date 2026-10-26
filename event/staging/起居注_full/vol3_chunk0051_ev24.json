@@ -1,0 +1,58 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初五日丁酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝召大学士明珠、尚书伊桑阿、介山等侍读学士、卿等于围中射猎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "尚书"
+  },
+  {
+   "name": "介山",
+   "role": "尚书"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "常书",
+   "role": "学士"
+  },
+  {
+   "name": "朱马泰",
+   "role": "侍读学士"
+  },
+  {
+   "name": "徐庭乍",
+   "role": "侍读学士"
+  },
+  {
+   "name": "葛思泰",
+   "role": "卿"
+  },
+  {
+   "name": "阿里虎",
+   "role": "卿"
+  },
+  {
+   "name": "安泰",
+   "role": "卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5124,
+ "page_range": "137-138"
+}

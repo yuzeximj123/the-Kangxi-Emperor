@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 5,
+ "day_text": "三十日己丑",
+ "event_role": "祭祀典礼",
+ "summary": "太常寺正卿徐元丙条奏地坛配位事，康熙帝以配位关系重大不可轻议，令巡幸回时交九卿议。",
+ "people": [
+  {
+   "name": "徐元丙",
+   "role": "太常寺正卿"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "地坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9505,
+ "page_range": "225-226"
+}

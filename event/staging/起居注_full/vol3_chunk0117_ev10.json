@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝论高家堰帮筑工程紧要，黄河两岸堤工可缓，虑三工并举费多难供赈济。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王牛",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "黄河",
+  "洪泽湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11710,
+ "page_range": "269-270"
+}

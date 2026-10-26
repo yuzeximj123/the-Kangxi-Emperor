@@ -1,0 +1,24 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": "十一日己卯",
+ "event_role": "人事任免",
+ "summary": "康熙帝阅河间营守备刘官统骑射，以其壮健善射，命兵部记名从优升补参将。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘官统",
+   "role": "河间营守备"
+  }
+ ],
+ "places": [
+  "河间营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5226,
+ "page_range": "116-117"
+}

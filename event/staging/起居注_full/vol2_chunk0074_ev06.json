@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "十五日乙未",
+ "event_role": "司法案件",
+ "summary": "礼部题原任福建巡海参议道陈启泰之子陈族器为父母妹二十一人同尽忠义控告，议不准行，康熙帝令该部再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈族器",
+   "role": "陈启泰之子"
+  },
+  {
+   "name": "陈启泰",
+   "role": "原任福建巡海参议道"
+  },
+  {
+   "name": "马雄镇",
+   "role": "原任巡抚"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7406,
+ "page_range": "191-192"
+}

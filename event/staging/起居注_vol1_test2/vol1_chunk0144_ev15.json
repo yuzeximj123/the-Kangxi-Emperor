@@ -1,0 +1,32 @@
+{
+ "reign_year": 16,
+ "month": 8,
+ "day_text": "二十五日己巳",
+ "event_role": "其他",
+ "summary": "未时，康熙帝御景山内前殿，赐进贡四子部落、吴喇忒部落、苏尼忒部落台吉等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴扎尔",
+   "role": "四子部落四品台吉"
+  },
+  {
+   "name": "鄂布代",
+   "role": "吴喇忒部落四品台吉"
+  },
+  {
+   "name": "那喇布",
+   "role": "苏尼忒部落二品台吉"
+  }
+ ],
+ "places": [
+  "景山内前殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14415,
+ "page_range": "345-346"
+}

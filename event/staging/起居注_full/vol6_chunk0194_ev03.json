@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "题加因精奇尼哈番井臧，康熙帝指出其祖自察哈尔来归，部奏称自喀尔喀来归有误，命发回该部察明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "井臧",
+   "role": "精奇尼哈番"
+  }
+ ],
+ "places": [
+  "察哈尔",
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19403,
+ "page_range": "398-399"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "议政大臣议定拨三千马匹于三月二十日起行出张家口，行二十余日至克鲁伦河欧德地方会齐，并派乡导二人领路。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿喀纳",
+   "role": "副都统管上驷院事宗室"
+  },
+  {
+   "name": "鄂克济哈阿齐图",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "巴尔援",
+   "role": "驾应人"
+  }
+ ],
+ "places": [
+  "张家口",
+  "克鲁伦河欧德地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10400,
+ "page_range": "218-219"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "初十日辛酉",
+ "event_role": "请安谢恩",
+ "summary": "巳时康熙帝赴五龙亭、紫光阁向太皇太后、皇太后请安，酉时复往五龙亭向太皇太后请安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "五龙亭",
+  "紫光阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6604,
+ "page_range": "175-176"
+}

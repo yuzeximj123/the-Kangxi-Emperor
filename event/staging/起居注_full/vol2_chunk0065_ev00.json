@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问魏大善是否即前称太仆寺卿平常之人，勒德洪等确认，帝又问侍读齐稿，明珠称其优，遂命升补齐稿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏大善",
+   "role": "拟员外郎"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "齐稿",
+   "role": "侍读"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "额库礼",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6500,
+ "page_range": "173-174"
+}

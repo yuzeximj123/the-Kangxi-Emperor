@@ -1,0 +1,33 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆山西太原总兵马建伯推补参将游击等员缺议不准行，康熙帝命将推补人引见并具奏补授。",
+ "people": [
+  {
+   "name": "马建伯",
+   "role": "山西太原总兵官"
+  },
+  {
+   "name": "尤观光",
+   "role": "平阳营参将"
+  },
+  {
+   "name": "昌义",
+   "role": "游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西太原",
+  "平阳营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10204,
+ "page_range": "215-216"
+}

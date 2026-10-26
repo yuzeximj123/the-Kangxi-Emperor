@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "初五日乙酉",
+ "event_role": "人事任免",
+ "summary": "吏部题江苏按察使祖业弘员缺，请调现任道员引见，康熙帝命九卿举出。",
+ "people": [
+  {
+   "name": "祖业弘",
+   "role": "江苏按察使"
+  },
+  {
+   "name": "李稚",
+   "role": "苏松粮道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江苏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21205,
+ "page_range": "435-436"
+}

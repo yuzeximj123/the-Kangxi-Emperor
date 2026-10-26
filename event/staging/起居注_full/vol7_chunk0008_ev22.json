@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十八日庚辰",
+ "event_role": "其他",
+ "summary": "赐直隶道赵弘党、高必弘、刘德芳、郎廷标及保定府知府祖允熹御书各一幅。",
+ "people": [
+  {
+   "name": "赵弘党",
+   "role": "直隶道"
+  },
+  {
+   "name": "高必弘",
+   "role": "直隶道"
+  },
+  {
+   "name": "刘德芳",
+   "role": "直隶道"
+  },
+  {
+   "name": "郎廷标",
+   "role": "直隶道"
+  },
+  {
+   "name": "祖允熹",
+   "role": "保定府知府"
+  }
+ ],
+ "places": [
+  "保定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 822,
+ "page_range": "27-28"
+}

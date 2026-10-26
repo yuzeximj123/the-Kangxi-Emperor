@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "徐元梦奏对黑学问及乌黑考试名次，康熙认为其学问平常，乌黑不在所取数内。",
+ "people": [
+  {
+   "name": "徐元梦",
+   "role": "起居注官/奏对者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "乌黑",
+   "role": "考试者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11300,
+ "page_range": "261-262"
+}

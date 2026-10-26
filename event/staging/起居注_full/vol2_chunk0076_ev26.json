@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "二十九日己西",
+ "event_role": "朝见受贺",
+ "summary": "仓场总督户部侍郎嘲尔图、副将康国臣、通州知州于成龙等来朝。",
+ "people": [
+  {
+   "name": "嘲尔图",
+   "role": "仓场总督户部侍郎"
+  },
+  {
+   "name": "康国臣",
+   "role": "副将"
+  },
+  {
+   "name": "于成龙",
+   "role": "通州知州"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7626,
+ "page_range": "195-196"
+}

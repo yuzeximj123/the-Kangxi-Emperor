@@ -1,0 +1,33 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "十四日丁丑",
+ "event_role": "人事任免",
+ "summary": "贵州巡抚杨废建升任员缺，明珠等奏广东布政使郎廷枢居官颇优，康熙命以慕天颜调补贵州巡抚。",
+ "people": [
+  {
+   "name": "杨废建",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "郎廷枢",
+   "role": "广东布政使"
+  },
+  {
+   "name": "慕天颜",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "贵州",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4717,
+ "page_range": "129-130"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": "十七日庚寅",
+ "event_role": "朝见受贺",
+ "summary": "密云县抽木税员外郎雅柱、知县朱英等、守备王道意等来朝。",
+ "people": [
+  {
+   "name": "雅柱",
+   "role": "抽木税员外郎"
+  },
+  {
+   "name": "朱英",
+   "role": "知县"
+  },
+  {
+   "name": "王道意",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "密云县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4629,
+ "page_range": "103-104"
+}

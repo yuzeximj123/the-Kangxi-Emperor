@@ -1,0 +1,44 @@
+{
+ "reign_year": 32,
+ "month": 8,
+ "day_text": "二十一日生辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝生辰御行宫，大学士伊桑阿等以折本请旨，吏部题学士王尹方员缺开列候补人员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "安布禄",
+   "role": "学士"
+  },
+  {
+   "name": "常组",
+   "role": "学士"
+  },
+  {
+   "name": "王尹方",
+   "role": "学士"
+  },
+  {
+   "name": "田喜霉",
+   "role": "候补学士"
+  },
+  {
+   "name": "朱阜",
+   "role": "少詹事"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24002,
+ "page_range": "492-493"
+}

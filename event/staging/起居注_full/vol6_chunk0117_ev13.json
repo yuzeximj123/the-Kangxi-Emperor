@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "十一日乙刻",
+ "event_role": "人事任免",
+ "summary": "康熙问通判朝琦射艺，以其射式佳且熟练；以千总李国宝、把总吴定国、备三耀骑射不堪革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朝琦",
+   "role": "直隶理事通判"
+  },
+  {
+   "name": "李国宝",
+   "role": "千总"
+  },
+  {
+   "name": "吴定国",
+   "role": "把总"
+  },
+  {
+   "name": "三耀",
+   "role": "备"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11713,
+ "page_range": "244-245"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 6,
+ "day_text": "十五日成午",
+ "event_role": "人事任免",
+ "summary": "兵部题台湾总兵王万祥升任员缺，拟以海坛总兵杨元弱调补，康熙帝以杨元弱人材庸常，令该督另议。",
+ "people": [
+  {
+   "name": "王万祥",
+   "role": "台湾总兵"
+  },
+  {
+   "name": "杨元弱",
+   "role": "海坛总兵"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾",
+  "海坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4529,
+ "page_range": "100-101"
+}

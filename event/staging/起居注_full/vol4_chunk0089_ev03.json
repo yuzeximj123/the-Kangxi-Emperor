@@ -1,0 +1,20 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "十七日庚辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝至孝陵行礼、奠酒举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8903,
+ "page_range": "190-191"
+}

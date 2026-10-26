@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "初七日癸巳",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝称御史钱珏参奏穆尔赛事迹俱实、为人颇优，又言御史席珠条奏降级罚俸处分舛错二事俱实，可谓直言。",
+ "people": [
+  {
+   "name": "钱珏",
+   "role": "御史"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "被参奏者"
+  },
+  {
+   "name": "席珠",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13010,
+ "page_range": "295-296"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初三日乙亥",
+ "event_role": "军务",
+ "summary": "宗人府议叙贝子章泰云南军功请旨，康熙帝以其罪多功少但因身至云南令察例来看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章泰",
+   "role": "贝子"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18315,
+ "page_range": "409-410"
+}

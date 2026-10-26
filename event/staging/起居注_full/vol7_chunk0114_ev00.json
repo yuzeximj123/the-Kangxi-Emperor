@@ -1,0 +1,42 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "审理正黄旗马甲兴旺打死七十六案，拟兴旺绞监候，相关人犯分别枷号鞭责，康熙帝从宽免死减等完结。",
+ "people": [
+  {
+   "name": "兴旺",
+   "role": "正黄旗马甲"
+  },
+  {
+   "name": "七十六",
+   "role": "死者"
+  },
+  {
+   "name": "钮钮",
+   "role": "兴旺之妹"
+  },
+  {
+   "name": "扁嘴子",
+   "role": "皮匠"
+  },
+  {
+   "name": "孟成",
+   "role": "副包衣大"
+  },
+  {
+   "name": "吴拜",
+   "role": "参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11400,
+ "page_range": "239-240"
+}

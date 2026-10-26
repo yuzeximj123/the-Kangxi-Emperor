@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 11,
+ "day_text": "初三日丁卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝观明朝实录，命内阁大学士等会同礼部议奏贵妃应用谥字数及行何礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4810,
+ "page_range": "106-107"
+}

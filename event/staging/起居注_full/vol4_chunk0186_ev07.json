@@ -1,0 +1,22 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "十九日",
+ "event_role": "起居注官记录",
+ "summary": "记录本日起居注官为席米图、周金然。",
+ "people": [
+  {
+   "name": "席米图",
+   "role": "起居注官"
+  },
+  {
+   "name": "周金然",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18607,
+ "page_range": "384-385"
+}

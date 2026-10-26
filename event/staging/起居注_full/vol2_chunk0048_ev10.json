@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "十六日己雍",
+ "event_role": "人事任免",
+ "summary": "吏部题补江西巡抚员缺，康熙帝命将刘如汉补授。",
+ "people": [
+  {
+   "name": "刘如汉",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4810,
+ "page_range": "139-140"
+}

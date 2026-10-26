@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "二十六日甲寅",
+ "event_role": "奏报地方情形",
+ "summary": "福建总督姚启圣奏兵民困苦及粮料价贵，康熙帝以其虚冒之词多，令户部察明时价具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24428,
+ "page_range": "545-546"
+}

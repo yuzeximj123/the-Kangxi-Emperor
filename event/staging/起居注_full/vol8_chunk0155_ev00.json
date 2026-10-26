@@ -1,0 +1,22 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "礼部题请将翁牛特郡王苍津所配裕亲王保泰之妹封为郡主、苍津封和硕额驸，康熙以苍津现系额驸、多此一奏而将本发回。",
+ "people": [
+  {
+   "name": "苍津",
+   "role": "翁牛特多罗都楞郡王"
+  },
+  {
+   "name": "保泰",
+   "role": "和硕裕亲王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15500,
+ "page_range": "321-322"
+}

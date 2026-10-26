@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部覆请浙江总督觉罗满宝所题年满千总咨送二十名，康熙帝命将年满千总发各省补用，一并议奏引见发往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗满宝",
+   "role": "浙江总督"
+  },
+  {
+   "name": "王文雄",
+   "role": "提督"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13401,
+ "page_range": "279-280"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": "二十二日丁未",
+ "event_role": "谕旨决策",
+ "summary": "康熙责赵申乔系江南人应回避议蠲免江南钱粮，赵申乔词穷无以对，康熙论应回避而不回避有碍于理。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17612,
+ "page_range": "363-364"
+}

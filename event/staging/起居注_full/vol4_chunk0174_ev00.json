@@ -1,0 +1,30 @@
+{
+ "reign_year": 30,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝与伊桑阿等议漕运存米，决定来岁漕粮酌量免征并截留储备，强调务实惠民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "荆州",
+  "江宁",
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 17400,
+ "page_range": "360-361"
+}

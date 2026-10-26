@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙五十二年七月二十八日",
+ "reign_year": 52,
+ "month": 7,
+ "day": 25,
+ "event_role": "奏报地方情形",
+ "summary": "广州将军管源忠接奉朱批后，遵旨奏报广东闰五月半后田禾收成及小民渐次得食等地方情形。",
+ "people": [
+  {
+   "name": "管源忠",
+   "role": "镇守广州等处将军，奏报人"
+  },
+  {
+   "name": "管承泽",
+   "role": "佐领，管源忠之子，转递家信"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "广州",
+  "广东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示已知，命将地方情形速报来。",
+ "type": "json_object",
+ "source_title": "廣州將軍管源忠奏為遵旨奏報廣東目下情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1400",
+ "order_index": 29
+}

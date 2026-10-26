@@ -1,0 +1,45 @@
+{
+ "date_raw": "康熙五十七年七月十四日",
+ "reign_year": 57,
+ "month": 7,
+ "day": 12,
+ "event_role": "请安谢恩",
+ "summary": "湖广提督高其位因奏事摺误用黄面黄封，蒙康熙帝朱批教诲不加严饬，具摺恭谢天恩。",
+ "people": [
+  {
+   "name": "高其位",
+   "role": "湖广提督"
+  },
+  {
+   "name": "郭乾",
+   "role": "千总"
+  },
+  {
+   "name": "高岑",
+   "role": "家人"
+  },
+  {
+   "name": "万友生",
+   "role": "被拿获人犯"
+  },
+  {
+   "name": "高孝",
+   "role": "家人"
+  },
+  {
+   "name": "张凯",
+   "role": "马兵"
+  }
+ ],
+ "places": [
+  "湖广",
+  "常"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批表示知道了，并指出奏摺非请安不得用黄面黄封。",
+ "source_title": "湖廣提督高其位奏報雨水米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2654",
+ "order_index": 88
+}

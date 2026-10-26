@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十七年",
+ "reign_year": 57,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "两广总督杨琳向康熙帝请安，康熙帝朱批报安并因广东酷热特赐御书扇及三位皇子书扇，命不必具奏谢恩。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "三阿哥",
+   "role": "皇子（书扇作者）"
+  },
+  {
+   "name": "四阿哥",
+   "role": "皇子（书扇作者）"
+  },
+  {
+   "name": "五阿哥",
+   "role": "皇子（书扇作者）"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝报平安，因广东酷热特赐御书扇及三、四、五阿哥书扇各一柄，并命不必具奏谢恩。",
+ "source_title": "兩廣總督楊琳奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2729",
+ "order_index": 154
+}

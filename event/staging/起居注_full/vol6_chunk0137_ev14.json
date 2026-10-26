@@ -1,0 +1,21 @@
+{
+ "reign_year": 39,
+ "month": 1,
+ "day_text": "三十日甲子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御舟泊于通州属新河口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通州",
+  "新河口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13714,
+ "page_range": "284-285"
+}

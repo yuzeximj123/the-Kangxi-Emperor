@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "十五日己巳",
+ "event_role": "人事任免",
+ "summary": "推举荆州左翼副都统，康熙帝准以正白旗骁骑参领希福补副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "正白旗骁骑参领，补副都统"
+  },
+  {
+   "name": "洪尼喀",
+   "role": "正蓝旗侍读学士参领，陪拟"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17808,
+ "page_range": "399-400"
+}

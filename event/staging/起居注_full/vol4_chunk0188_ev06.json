@@ -1,0 +1,28 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": "十二日辛酉",
+ "event_role": "人事任免",
+ "summary": "兵部议覆宣府总兵官许盛保题功加官陈维元等六人与例不符不准行，康熙帝命注册录用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许盛",
+   "role": "宣府总兵官"
+  },
+  {
+   "name": "陈维元",
+   "role": "功加官"
+  }
+ ],
+ "places": [
+  "宣府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18806,
+ "page_range": "388-389"
+}

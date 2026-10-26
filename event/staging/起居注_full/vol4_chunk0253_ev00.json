@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就黔省重税及旧欠盐课作出谕示，免赔补并令督抚会议行盐事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黔省",
+  "普安",
+  "四川",
+  "云南",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25300,
+ "page_range": "518-519"
+}

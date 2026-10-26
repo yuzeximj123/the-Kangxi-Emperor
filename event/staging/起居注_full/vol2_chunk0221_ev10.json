@@ -1,0 +1,34 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初四日壬申",
+ "event_role": "司法案件",
+ "summary": "原任知府高显辰等未曾从逆事，康熙帝以关系甚重、垂之史册，令再详问投诚线绒、何进忠等从实具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高显辰",
+   "role": "原任知府"
+  },
+  {
+   "name": "线绒",
+   "role": "投诚官员"
+  },
+  {
+   "name": "何进忠",
+   "role": "投诚官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22110,
+ "page_range": "485-486"
+}

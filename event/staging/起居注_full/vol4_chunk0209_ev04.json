@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "初一日丙子",
+ "event_role": "谕旨决策",
+ "summary": "山西巡抚叶称济题请将三十年带征钱粮及借赈米银至三十二年征收，康熙帝照所请行，并令蠲免西安所属州县卫所三十二年应征钱粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶称济",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20904,
+ "page_range": "430-431"
+}

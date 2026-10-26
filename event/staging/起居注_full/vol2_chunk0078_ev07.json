@@ -1,0 +1,20 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "十二日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "兵部题运西安红衣炮来京，康熙帝恐沿途骚扰，命严加约束运来。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "西安府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7807,
+ "page_range": "199-200"
+}

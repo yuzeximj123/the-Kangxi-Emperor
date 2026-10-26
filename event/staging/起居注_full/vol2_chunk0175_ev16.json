@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "二十八日庚子",
+ "event_role": "皇帝行止",
+ "summary": "是日，康熙帝驻跸清苑县东间村西。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "清苑县",
+  "东间村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17516,
+ "page_range": "393-394"
+}

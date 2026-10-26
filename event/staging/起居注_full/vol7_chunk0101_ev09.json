@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝言殿试时四川举人陶仁明昼不作文终夜至明仅能完篇，命革去陶仁明，马芝秀仍留举人，不合式十一人再三年赴试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陶仁明",
+   "role": "四川举人"
+  },
+  {
+   "name": "马芝秀",
+   "role": "举人"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10109,
+ "page_range": "213-214"
+}

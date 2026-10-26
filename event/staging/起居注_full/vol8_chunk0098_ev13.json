@@ -1,0 +1,34 @@
+{
+ "reign_year": 54,
+ "month": 6,
+ "day_text": "初六日庚午",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士松柱等以折本请旨，议宗人府会同都察院覆审索浑岱事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "查绚纳",
+   "role": "学士"
+  },
+  {
+   "name": "敦拜",
+   "role": "学士"
+  },
+  {
+   "name": "查尔图",
+   "role": "护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9813,
+ "page_range": "207-208"
+}

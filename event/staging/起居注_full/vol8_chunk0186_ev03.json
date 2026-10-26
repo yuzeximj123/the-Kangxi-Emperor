@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": "二",
+ "event_role": "司法案件",
+ "summary": "覆请署理宁古塔将军事务都统所题雇工李龙打死取豆之人一案，拟绞监候秋后处决，康熙帝指出本内聂黑屯字样有误，令问明改正具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李龙",
+   "role": "雇工罪犯"
+  },
+  {
+   "name": "净富格",
+   "role": "庄头"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "聂黑屯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18603,
+ "page_range": "383-384"
+}

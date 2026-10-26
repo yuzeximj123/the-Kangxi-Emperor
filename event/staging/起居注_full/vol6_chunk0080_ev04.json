@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "十八日",
+ "event_role": "其他",
+ "summary": "康熙帝赐尚芝龙、张盘臣、张时蓝、张常住御书各一幅。",
+ "people": [
+  {
+   "name": "尚芝龙",
+   "role": "受赐者"
+  },
+  {
+   "name": "张盘臣",
+   "role": "受赐者"
+  },
+  {
+   "name": "张时蓝",
+   "role": "受赐者"
+  },
+  {
+   "name": "张常住",
+   "role": "受赐者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8004,
+ "page_range": "170-171"
+}

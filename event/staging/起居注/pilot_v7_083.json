@@ -1,0 +1,20 @@
+{
+ "date_raw": "二十六日辛巳",
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "辛巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3083
+}

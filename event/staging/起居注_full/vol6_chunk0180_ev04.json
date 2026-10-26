@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 11,
+ "day_text": "初四日壬辰",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝谈及给事中幕琛题参布政司张霖，称张霖才虽练达但人甚多事，未闻天津人称其贤。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "幕琛",
+   "role": "给事中"
+  },
+  {
+   "name": "张霖",
+   "role": "布政司"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18004,
+ "page_range": "370-371"
+}

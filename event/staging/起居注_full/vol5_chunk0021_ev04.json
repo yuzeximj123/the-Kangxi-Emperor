@@ -1,0 +1,23 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "二十二日己未",
+ "event_role": "河工水利",
+ "summary": "康熙帝至八百户口、王家甫口、管儿港口、白驹厂口等处详阅新堤，命增修数处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "八百户口",
+  "王家甫口",
+  "管儿港口",
+  "白驹厂口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2104,
+ "page_range": "52-53"
+}

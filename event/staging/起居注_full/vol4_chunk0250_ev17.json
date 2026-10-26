@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": "初四日癸酉",
+ "event_role": "人事任免",
+ "summary": "兵部题镶蓝旗副都统叶楚赫员缺，康熙帝命升护军参领关布为副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶楚赫",
+   "role": "镶蓝旗副都统"
+  },
+  {
+   "name": "布颜图",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "关布",
+   "role": "护军参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25017,
+ "page_range": "512-513"
+}

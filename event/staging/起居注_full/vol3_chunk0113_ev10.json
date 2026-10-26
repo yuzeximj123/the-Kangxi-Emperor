@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "十二日己亥",
+ "event_role": "人事任免",
+ "summary": "宗人府理事官觉罗僧塞调补制造库郎中，康熙命法山照原品随旗上朝，代都升补理事官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗僧塞",
+   "role": "理事官"
+  },
+  {
+   "name": "法山",
+   "role": "员外郎拟正"
+  },
+  {
+   "name": "代都",
+   "role": "拟陪升补理事官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11310,
+ "page_range": "261-262"
+}

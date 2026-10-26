@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "初二日甲午",
+ "event_role": "请安谢恩",
+ "summary": "大学士王熙向仪度额真费岳色转奏谢恩，称蒙康熙帝传旨怜惜、得乘轿且病体痊可。",
+ "people": [
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "费岳色",
+   "role": "仪度额真"
+  },
+  {
+   "name": "马之俊",
+   "role": "医生"
+  },
+  {
+   "name": "禅代",
+   "role": "奏事笔帖式"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5118,
+ "page_range": "137-138"
+}

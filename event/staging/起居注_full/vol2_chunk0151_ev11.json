@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十二日乙本",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝率诸王大臣迎凯旋大军于二十里外，行拜天三跪九叩礼，御黄幄受章泰、赖塔等行礼，抱见章泰、赖塔并赐坐赐茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "章泰",
+   "role": "大将军贝子"
+  },
+  {
+   "name": "赖塔",
+   "role": "大将军都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15111,
+ "page_range": "345-346"
+}

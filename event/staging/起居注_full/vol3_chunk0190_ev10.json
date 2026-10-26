@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "三十日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝引圣人云造次必于是颠沛必于是，责张英传讲有年不能记忆，勒德洪等奏问如何完结，帝命阅记注档册并令尔等议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张英",
+   "role": "学士"
+  },
+  {
+   "name": "王昭",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19010,
+ "page_range": "415-416"
+}

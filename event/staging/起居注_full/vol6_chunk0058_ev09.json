@@ -1,0 +1,20 @@
+{
+ "reign_year": 37,
+ "month": 10,
+ "day_text": "十七日戊午",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率诸王、内大臣、侍卫、文武官员至福陵隆恩殿读祝文致祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "福陵隆恩殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5809,
+ "page_range": "126-127"
+}

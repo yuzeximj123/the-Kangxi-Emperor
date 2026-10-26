@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "初二日壬寅",
+ "event_role": "人事任免",
+ "summary": "盛京理事官席尔图陛辞请训，康熙帝谕其系较俸升补，到任后宜加勤勉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席尔图",
+   "role": "盛京理事官"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7719,
+ "page_range": "164-165"
+}

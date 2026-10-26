@@ -1,0 +1,42 @@
+{
+ "date_raw": "康熙四十七年正月初十日",
+ "reign_year": 47,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "广东提督赵弘灿请安并密陈两广盐课亏空缘由及整顿盐政建议。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "奏报人"
+  },
+  {
+   "name": "张天觉",
+   "role": "涉及人物"
+  },
+  {
+   "name": "陆曾",
+   "role": "涉及人物"
+  },
+  {
+   "name": "金国宝",
+   "role": "涉及人物"
+  },
+  {
+   "name": "赵世业",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "广东",
+  "两广",
+  "潮州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批知道了，表示已阅。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "284",
+ "source_title": "廣東提督趙弘燦奏請聖安並陳會察鹽課未盡情節摺",
+ "order_index": 139
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "二十九日闪丑",
+ "event_role": "谕旨决策",
+ "summary": "湖南巡抚韩世琦奏送原任云贵总督甘文焜、广西巡抚傅弘烈骨榇，康熙帝令甘文焜照傅弘烈优旨拟票来看。",
+ "people": [
+  {
+   "name": "韩世琦",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "甘文焜",
+   "role": "原任云贵总督"
+  },
+  {
+   "name": "傅弘烈",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4125,
+ "page_range": "125-126"
+}

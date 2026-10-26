@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士温达等以折本请旨，涉及户部覆浙江巡抚王度昭所题四十九年未完钱粮停征及五十一年钱粮开征接济兵饥事，康熙命问九卿具奏。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20100,
+ "page_range": "413-414"
+}

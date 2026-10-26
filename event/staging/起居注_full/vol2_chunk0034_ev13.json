@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 1,
+ "day_text": "二十一日乙亥",
+ "event_role": "河工水利",
+ "summary": "工部议挑浚通州以南运粮河，开列部院堂官请旨，康熙以温代有才命往督理挑浚，李霨奏称应遣温代往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温代",
+   "role": "督理河工官员"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3413,
+ "page_range": "111-112"
+}

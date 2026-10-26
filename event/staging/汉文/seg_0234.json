@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙五十三年六月初九日",
+ "reign_year": 53,
+ "month": 6,
+ "day": 9,
+ "event_role": "奏报地方情形",
+ "summary": "吴震方奏报保定府及满城等县闰三月得雨，麦可望丰收，以慰圣怀。",
+ "people": [
+  {
+   "name": "吴震方",
+   "role": "奏报人"
+  },
+  {
+   "name": "赵弘燮",
+   "role": "联署人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "直隶",
+  "保定府",
+  "满城县",
+  "深泽县",
+  "祈州",
+  "庆都县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知晓，并称近京各处雨水已足。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "（吴震方报雨）",
+ "order_index": 234
+}

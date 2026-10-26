@@ -1,0 +1,49 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": "二十二日辛卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝御南苑旧宫，大学士等以折本请旨，兵部题广州副都统员缺开列职名。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "德珠",
+   "role": "学士"
+  },
+  {
+   "name": "温保",
+   "role": "学士"
+  },
+  {
+   "name": "戴通",
+   "role": "学士"
+  },
+  {
+   "name": "常绥",
+   "role": "学士"
+  },
+  {
+   "name": "沈图",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "南苑旧宫",
+  "广州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25304,
+ "page_range": "518-519"
+}

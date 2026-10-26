@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "二十九日辛刻",
+ "event_role": "贸易漕运",
+ "summary": "康熙帝命来岁仍将天津米海运至盛京赈济，免用闽浙船，此事交侍郎陶岱办理。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陶岱",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "天津",
+  "盛京",
+  "科尔沁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18015,
+ "page_range": "370-371"
+}

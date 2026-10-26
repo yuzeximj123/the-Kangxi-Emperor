@@ -1,0 +1,20 @@
+{
+ "reign_year": 21,
+ "month": 3,
+ "day_text": "二十一日己已",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝行围，射杀二虎，驻跸赛穆恳河地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "赛穆恳河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11609,
+ "page_range": "275-276"
+}

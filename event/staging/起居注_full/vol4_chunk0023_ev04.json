@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙问大学士是否知汪霦其人，梁清标奏素知其学问优长；又问诸卷有无极不通者，梁清标答无大不通，仅浅率数卷置三甲末，另有四卷违式亦置三甲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "汪霦",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2304,
+ "page_range": "58-59"
+}

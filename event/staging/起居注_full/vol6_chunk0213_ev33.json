@@ -1,0 +1,34 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "初九日癸巳",
+ "event_role": "司法案件",
+ "summary": "理藩院题强盗额图等抢夺商人姚自强银两议立斩，姚自珍、二汉等私进因克特院拿贼，二汉枪刺强盗牙图致死议绞，姚自珍请旨。",
+ "people": [
+  {
+   "name": "额图",
+   "role": "强盗"
+  },
+  {
+   "name": "姚自强",
+   "role": "商人"
+  },
+  {
+   "name": "姚自珍",
+   "role": "姚自强之弟"
+  },
+  {
+   "name": "二汉",
+   "role": "姚自强之弟"
+  },
+  {
+   "name": "牙图",
+   "role": "强盗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21333,
+ "page_range": "436-437"
+}

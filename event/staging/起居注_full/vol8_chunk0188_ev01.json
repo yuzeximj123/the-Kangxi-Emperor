@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝论京师四月雨水难得，山东山陕雨水沾足，紫荆关以东不足，古北口内外耕种者众颇有裨益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京师",
+  "山东",
+  "山陕",
+  "紫荆关",
+  "陕西",
+  "巴尔库尔",
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18801,
+ "page_range": "387-388"
+}

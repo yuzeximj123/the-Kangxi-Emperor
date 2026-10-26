@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "初八日王子",
+ "event_role": "司法案件",
+ "summary": "刑部汇题新满洲雍科因酒醉砍陈升之、索柱应枷号一月鞭八十一事，康熙帝以其凶恶，令枷责满日发遣西安将军处披甲当差、勿许来京并不时严查。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雍科",
+   "role": "新满洲"
+  },
+  {
+   "name": "陈升之",
+   "role": "被害人"
+  },
+  {
+   "name": "索柱",
+   "role": "被害人"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3423,
+ "page_range": "79-80"
+}

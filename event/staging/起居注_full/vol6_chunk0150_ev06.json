@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "十八日辛已",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕原任总河王新命等，旧堤与新挑河大臣关系紧要，不得分司，着与来修河督抚、大臣共同看宁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王新命",
+   "role": "原任总河"
+  }
+ ],
+ "places": [
+  "柳岔口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15006,
+ "page_range": "310-311"
+}

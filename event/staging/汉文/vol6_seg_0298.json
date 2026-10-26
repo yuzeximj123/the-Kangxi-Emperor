@@ -1,0 +1,43 @@
+{
+ "date_raw": "康熙五十五年闰三月日",
+ "reign_year": 55,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "福建巡抚陈璸等奏报台湾道蒋疏、吴昌祚所报天妃宫高商等事，请求恩免浙闽武职赋税并分年豁免，伏乞睿鉴施行。",
+ "people": [
+  {
+   "name": "陈璸",
+   "role": "福建巡抚"
+  },
+  {
+   "name": "蒋疏",
+   "role": "台湾道"
+  },
+  {
+   "name": "吴昌祚",
+   "role": "奏报官员"
+  },
+  {
+   "name": "高商",
+   "role": "天妃宫弟"
+  },
+  {
+   "name": "高元",
+   "role": "分办官员"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建",
+  "浙闽",
+  "天妃宫"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "奏报台湾道等事",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 298
+}

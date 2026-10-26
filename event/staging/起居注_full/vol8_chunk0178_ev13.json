@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请正蓝旗汉军韩地控告韩文灶系家奴，审明韩文灶六岁为养子非家奴，拟将韩地革职，康熙帝命交旗都统引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩地",
+   "role": "阿达哈哈番"
+  },
+  {
+   "name": "韩文灶",
+   "role": "被控养子"
+  },
+  {
+   "name": "韩应琦",
+   "role": "韩地之祖"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17813,
+ "page_range": "367-368"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "十三日于子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率内大臣、侍卫、部院大臣等往祭明太祖陵，行三跪九叩礼，登孝陵殿阅视。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "明太祖陵",
+  "孝陵殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8919,
+ "page_range": "188-189"
+}

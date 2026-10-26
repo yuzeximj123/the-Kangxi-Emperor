@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十三日己巳",
+ "event_role": "人事任免",
+ "summary": "内阁侍读学士员缺，康熙帝询问金世鉴人品，明珠奏其学问优人品好，命补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "金世鉴",
+   "role": "监察御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 218,
+ "page_range": "47-48"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十六日戊申",
+ "event_role": "人事任免",
+ "summary": "温达奏称丹病已痊愈，康熙帝命称丹补授都察院左都御史。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "称丹",
+   "role": "官员"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22120,
+ "page_range": "453-454"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "未时",
+ "event_role": "奏报灾情收成",
+ "summary": "马齐奏遵旨问河南巡抚徐潮所奏缓征被灾州县钱粮数目，徐潮云共四十余万两，康熙帝命照该抚所请行。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "徐潮",
+   "role": "河南巡抚"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7925,
+ "page_range": "169-170"
+}

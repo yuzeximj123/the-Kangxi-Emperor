@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十二日丁效",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门召大学士、学士、九卿、詹事、科道等官近前，询问赵良栋所奏之事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4106,
+ "page_range": "92-93"
+}

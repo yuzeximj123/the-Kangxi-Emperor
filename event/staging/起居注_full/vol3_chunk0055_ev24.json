@@ -1,0 +1,21 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "初一日壬戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝登雨花台观江宁城郭山川形势，进江宁府城驻跸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "雨花台",
+  "江宁府城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5524,
+ "page_range": "145-146"
+}

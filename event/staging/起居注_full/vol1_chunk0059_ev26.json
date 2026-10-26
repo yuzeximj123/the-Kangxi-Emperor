@@ -1,0 +1,25 @@
+{
+ "reign_year": 12,
+ "month": 11,
+ "day_text": "初九日甲成",
+ "event_role": "朝见受贺",
+ "summary": "江南京口总兵官董振国陛辞，康熙帝谕以江南地方平定，须安静抚辑，董振国奏当勉尽心力以报简用之恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董振国",
+   "role": "江南京口总兵官"
+  }
+ ],
+ "places": [
+  "江南",
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5926,
+ "page_range": "175-176"
+}

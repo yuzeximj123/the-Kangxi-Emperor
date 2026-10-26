@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十八日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "盛京刑部侍郎巢可托请减八司为四司并裁汰司官，帝不准，令移文示之，原本发还。",
+ "people": [
+  {
+   "name": "巢可托",
+   "role": "盛京刑部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7620,
+ "page_range": "163-164"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "十五日生辰",
+ "event_role": "人事任免",
+ "summary": "兵部题前锋统领苏尔达升任员缺，开列护军统领佛罗诺等，康熙帝命德尔得转补前锋统领。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏尔达",
+   "role": "前锋统领"
+  },
+  {
+   "name": "佛罗诺",
+   "role": "护军统领"
+  },
+  {
+   "name": "德尔得",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22714,
+ "page_range": "489-490"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记康熙帝巡幸山西、陕西、河南三省，沿途结彩设牌楼、供献称颂，蠲免钱粮、优恤耆老、赏赉官兵、斥劣举贤等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西",
+  "陕西",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8618,
+ "page_range": "183-184"
+}

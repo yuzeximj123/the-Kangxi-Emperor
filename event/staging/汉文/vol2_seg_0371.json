@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十七年六月",
+ "reign_year": 47,
+ "month": 6,
+ "day": null,
+ "event_role": "司法案件",
+ "summary": "苏州织造李煦奏报一念和尚已被拿获并解送浙江，同时报告当地雨水及米价情形。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "一念和尚",
+   "role": "已被拿获并解浙的案犯"
+  }
+ ],
+ "places": [
+  "苏州",
+  "浙江"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "苏州织造李煦奏报一念和尚已获解浙并雨水米价摺｜康熙四十七年六月",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 371
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 3,
+ "day_text": "二十七日癸丑",
+ "event_role": "军务",
+ "summary": "勇略将军、总督赵良栋题奏年老多病，请辞随行进兵，愿在宁夏和辑兵民、安靖地方；帝谕其谙练军务，如有应行之处仍指授将军、总督而行。",
+ "people": [
+  {
+   "name": "赵良栋",
+   "role": "勇略将军、总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁夏"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14609,
+ "page_range": "304-305"
+}

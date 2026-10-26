@@ -1,0 +1,44 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": "十九日戊子",
+ "event_role": "议政听政",
+ "summary": "辰时，康熙帝御南苑新宫听政，部院各衙门官员面奏毕，大学士伊桑阿等以折本请旨。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "德珠",
+   "role": "学士"
+  },
+  {
+   "name": "温保",
+   "role": "学士"
+  },
+  {
+   "name": "戴通",
+   "role": "学士"
+  },
+  {
+   "name": "常绥",
+   "role": "学士"
+  },
+  {
+   "name": "沈图",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "南苑新宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25209,
+ "page_range": "516-517"
+}

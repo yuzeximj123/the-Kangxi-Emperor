@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十七日丙申",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝传谕陈一夔，称其父陈丹赤为国尽忠殉难，赐字特表其忠，陈一夔奏谢浩荡洪恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈一夔",
+   "role": "湖州府知府"
+  },
+  {
+   "name": "陈丹赤",
+   "role": "陈一夔之父"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8617,
+ "page_range": "182-183"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "二十三日本已",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸龙井关，行猎九二峪杀虎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "龙井关",
+  "九二峪"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12523,
+ "page_range": "260-261"
+}

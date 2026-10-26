@@ -1,0 +1,20 @@
+{
+ "reign_year": 13,
+ "month": 11,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "奇等行礼完毕，返回宫中。",
+ "people": [
+  {
+   "name": "奇",
+   "role": "行礼官员"
+  }
+ ],
+ "places": [
+  "宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 8100,
+ "page_range": "219-220"
+}

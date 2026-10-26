@@ -1,0 +1,22 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "三十日庚申",
+ "event_role": "起居注官记录",
+ "summary": "起居注记载皇太子随侍康熙帝巡行，饮食行动不离，康熙帝沿途观书并教导皇太子经史疑难，皇太子从容奏对。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7703,
+ "page_range": "189-190"
+}

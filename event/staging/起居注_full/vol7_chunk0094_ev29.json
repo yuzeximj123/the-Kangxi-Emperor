@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "十二日辛丑",
+ "event_role": "贸易漕运",
+ "summary": "户部议两广总督郭世隆题运使陆曾亏空银两，以商欠盐斤分四年带销，康熙认为所议无头绪，命移文再议。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "两广总督"
+  },
+  {
+   "name": "陆曾",
+   "role": "运使"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9429,
+ "page_range": "199-200"
+}

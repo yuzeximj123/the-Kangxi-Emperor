@@ -1,0 +1,21 @@
+{
+ "reign_year": 16,
+ "month": 4,
+ "day_text": "二十日丙寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝进南苑南红门，驻跸东宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "南苑南红门",
+  "东宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13509,
+ "page_range": "327-328"
+}

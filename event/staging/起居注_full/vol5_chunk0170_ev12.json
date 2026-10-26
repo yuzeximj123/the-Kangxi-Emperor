@@ -1,0 +1,21 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": "二十六日己酉",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸达尔汉拜尚，遣皇子等至右卫军中赐官兵食并茶酒，又遣司膳章京莫洛浑移上用膳赐官兵食。",
+ "people": [
+  {
+   "name": "莫洛浑",
+   "role": "司膳章京"
+  }
+ ],
+ "places": [
+  "达尔汉拜尚",
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17012,
+ "page_range": "350-351"
+}

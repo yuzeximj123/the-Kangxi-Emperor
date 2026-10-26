@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 1,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部覆总河张鹏翮奏请宣泄运河水势议准行，康熙帝称张鹏翮所奏与己前旨相符，命照所请行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "于成龙",
+   "role": "前河臣"
+  }
+ ],
+ "places": [
+  "运河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19002,
+ "page_range": "390-391"
+}

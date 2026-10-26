@@ -1,0 +1,41 @@
+{
+ "reign_year": 52,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部尚书稳和伦等查覆御史花善参各部院钱粮数目不符案内误写情由，康熙帝令查议误写官员并随本同进折子。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "稳和伦",
+   "role": "户部尚书"
+  },
+  {
+   "name": "花善",
+   "role": "御史"
+  },
+  {
+   "name": "硕通阿",
+   "role": "被查官员"
+  },
+  {
+   "name": "尚之杰",
+   "role": "崇门文监督"
+  },
+  {
+   "name": "赵华",
+   "role": "理藩院郎中"
+  }
+ ],
+ "places": [
+  "拖活河",
+  "拖罗河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3107,
+ "page_range": "73-74"
+}

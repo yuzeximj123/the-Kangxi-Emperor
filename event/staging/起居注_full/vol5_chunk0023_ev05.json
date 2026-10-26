@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初三日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论盛京河道多，漕运船百只有用，命该部取盛京工部官员口供严加议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "山东",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2305,
+ "page_range": "56-57"
+}

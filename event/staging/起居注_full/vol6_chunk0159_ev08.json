@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "直隶巡抚李光地题请同知韩匀调补捕鹰同知、知县宵连相补授河工同知，康熙帝以李光地居官优长准照所题调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "韩匀",
+   "role": "同知"
+  },
+  {
+   "name": "宵连相",
+   "role": "知县"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15908,
+ "page_range": "328-329"
+}

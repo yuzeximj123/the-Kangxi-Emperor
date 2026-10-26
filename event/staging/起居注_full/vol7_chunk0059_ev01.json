@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": "二十四日己雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝于乾清门命侍卫马武捧出朱书谕旨，颁赐八旗官兵，劝其节俭立生计、以孝弟为本，并令刊刻遍示军卒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5901,
+ "page_range": "129-130"
+}

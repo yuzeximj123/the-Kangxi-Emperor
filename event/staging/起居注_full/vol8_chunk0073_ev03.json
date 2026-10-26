@@ -1,0 +1,29 @@
+{
+ "reign_year": 53,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部议宁古塔将军咨新袭拖沙喇哈番伊马瑚贫不能移家乞留乌喇补用，康熙帝令伊马瑚来京交本旗拨给房地。",
+ "people": [
+  {
+   "name": "伊马瑚",
+   "role": "新袭拖沙喇哈番"
+  },
+  {
+   "name": "觉罗备俄洛",
+   "role": "宁古塔将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7303,
+ "page_range": "157-158"
+}

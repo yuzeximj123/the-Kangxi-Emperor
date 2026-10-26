@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "云南巡抚题请随往人员，康熙帝以坐名随行例殊未善，命坐名各员不准行，此后一概停止，该部照常补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "伊脏",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "永寿",
+   "role": "内务府尹"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23902,
+ "page_range": "535-536"
+}
