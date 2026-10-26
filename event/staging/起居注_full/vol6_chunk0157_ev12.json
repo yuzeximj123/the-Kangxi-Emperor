@@ -1,0 +1,34 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "十五日丙子",
+ "event_role": "议政听政",
+ "summary": "辰时，康熙帝御畅春园内澹宁居听政，吏部侍郎特默德奏对补官迟延事，康熙帝训谕其详察司官情弊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "特默德",
+   "role": "吏部侍郎"
+  },
+  {
+   "name": "库勒纳",
+   "role": "官员"
+  },
+  {
+   "name": "阿尔拜",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "澹宁居",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15712,
+ "page_range": "324-325"
+}

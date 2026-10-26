@@ -1,0 +1,24 @@
+{
+ "reign_year": 53,
+ "month": 12,
+ "day_text": "二十四日于辰",
+ "event_role": "人事任免",
+ "summary": "吏部尚书富宁安进呈两淮运使员缺无应举之人折子，康熙帝询问知府中有无居官好者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "富宁安",
+   "role": "吏部尚书"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8118,
+ "page_range": "173-174"
+}

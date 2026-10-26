@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "二十三日两子",
+ "event_role": "朝见受贺",
+ "summary": "驻防玉田县防守尉乌蓝等、知县王光谎、把总任国胜等来朝。",
+ "people": [
+  {
+   "name": "乌蓝",
+   "role": "玉田县防守尉"
+  },
+  {
+   "name": "王光谎",
+   "role": "知县"
+  },
+  {
+   "name": "任国胜",
+   "role": "把总"
+  }
+ ],
+ "places": [
+  "玉田县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4520,
+ "page_range": "133-134"
+}

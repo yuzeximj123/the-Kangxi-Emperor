@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十二日辛酉",
+ "event_role": "人事任免",
+ "summary": "吏部题补四川巡抚员缺，康熙帝采纳明珠等意见，决定将湖南巡抚韩世琦调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "韩世琦",
+   "role": "湖南巡抚"
+  }
+ ],
+ "places": [
+  "四川",
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21707,
+ "page_range": "477-478"
+}

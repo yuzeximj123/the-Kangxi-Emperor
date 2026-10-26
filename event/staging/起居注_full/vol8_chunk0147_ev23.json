@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 6,
+ "day_text": "十四日壬寅",
+ "event_role": "谕旨决策",
+ "summary": "户部题交商人王容德等采买旧铜器，康熙帝不准交商人，令动支商人带还银两交官员采买并问明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王容德",
+   "role": "商人"
+  },
+  {
+   "name": "赵申乔",
+   "role": "管理钱法大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14723,
+ "page_range": "305-306"
+}

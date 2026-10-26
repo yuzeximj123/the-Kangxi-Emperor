@@ -1,0 +1,20 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "初一日戊辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝清晨亲祭太庙，行礼完毕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1500,
+ "page_range": "40-41"
+}

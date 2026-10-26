@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "贵州巡抚杨雍建题请蠲免黔省本年地丁钱粮，康熙帝以其明知诏书开载甚明而具题，系市恩，不准行。",
+ "people": [
+  {
+   "name": "杨雍建",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13500,
+ "page_range": "313-314"
+}

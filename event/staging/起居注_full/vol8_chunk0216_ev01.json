@@ -1,0 +1,29 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "巡抚年羹尧题请将丁忧之鞭江县知县马世享、文川县知县董元留任办事，康熙帝准照所请留任。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "巡抚"
+  },
+  {
+   "name": "马世享",
+   "role": "鞭江县知县"
+  },
+  {
+   "name": "董元",
+   "role": "文川县知县"
+  }
+ ],
+ "places": [
+  "鞭江县",
+  "文川县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21601,
+ "page_range": "443-444"
+}

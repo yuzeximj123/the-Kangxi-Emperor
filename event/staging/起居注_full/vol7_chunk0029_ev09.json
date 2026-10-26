@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初七日忆卯",
+ "event_role": "人事任免",
+ "summary": "广西巡抚萧永藻题布政司李涛请终养，康熙帝疑其规避，准终养，服满后仍于广西补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "萧永藻",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "李涛",
+   "role": "布政司"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2909,
+ "page_range": "69-70"
+}

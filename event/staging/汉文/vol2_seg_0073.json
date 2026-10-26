@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十七年十二月初二日",
+ "reign_year": 47,
+ "month": 12,
+ "day": 5,
+ "event_role": "请安谢恩",
+ "summary": "江宁织造曹寅奏请圣安，感谢皇上谕旨抚恤，并报告江南米价民情及九月晴雨录。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏折作者"
+  },
+  {
+   "name": "存住",
+   "role": "奏事，口传上旨"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "江寧織造曹寅奏請聖安並報米價民情摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "427",
+ "order_index": 73
+}

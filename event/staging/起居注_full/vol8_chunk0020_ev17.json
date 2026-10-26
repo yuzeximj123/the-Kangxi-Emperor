@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "十二日戊子",
+ "event_role": "朝见受贺",
+ "summary": "石匣营副将郑明、游击巴世勋来朝。",
+ "people": [
+  {
+   "name": "郑明",
+   "role": "石匣营副将"
+  },
+  {
+   "name": "巴世勋",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "石匣营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2017,
+ "page_range": "51-52"
+}

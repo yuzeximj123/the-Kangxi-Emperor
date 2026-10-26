@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "初三日己丑",
+ "event_role": "谕旨决策",
+ "summary": "御史许三礼条奏先儒董仲舒应在六十三贤之列，康熙询问诸臣，命九卿、翰林、詹事、科道会同确议。",
+ "people": [
+  {
+   "name": "许三礼",
+   "role": "御史"
+  },
+  {
+   "name": "董仲舒",
+   "role": "先儒"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12810,
+ "page_range": "291-292"
+}

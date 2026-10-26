@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问李光地林文英情形，李光地奏其由庶吉士补主事升保定知府今补琼州知府闻居官好。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "林文英",
+   "role": "琼州府知府"
+  }
+ ],
+ "places": [
+  "保定府",
+  "琼州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3712,
+ "page_range": "85-86"
+}

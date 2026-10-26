@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕捐纳事例甚坏官方，工役着动用户部钱粮，不可复开事例，并将罗景等交部严察议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗景",
+   "role": "同知"
+  }
+ ],
+ "places": [
+  "山西",
+  "大同",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10402,
+ "page_range": "218-219"
+}

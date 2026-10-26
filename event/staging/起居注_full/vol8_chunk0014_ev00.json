@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追念太祖太宗时辅佐开创功勋大臣，命查明因罪革职或株连失官者，酌议给还官职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安费扬古",
+   "role": "旗顺科落巴图鲁"
+  },
+  {
+   "name": "阿灵阿",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1400,
+ "page_range": "39-40"
+}

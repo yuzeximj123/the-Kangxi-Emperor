@@ -1,0 +1,26 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "残句奏报称图王年来户部钱粮总计实存银四百三十万两，水路北来米麦共一万六千六百二十五石零，末署白山。",
+ "people": [
+  {
+   "name": "图王",
+   "role": "奏报中所称主管户部钱粮者"
+  },
+  {
+   "name": "白山",
+   "role": "奏折署名者"
+  }
+ ],
+ "places": [],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "殘句",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 381
+}

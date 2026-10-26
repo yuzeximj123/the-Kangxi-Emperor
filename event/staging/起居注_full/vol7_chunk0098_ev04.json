@@ -1,0 +1,27 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命暂存此事，令蓝理在天津多开水田，待冬后再奏闻，并论直隶水田开沟引河之利及挑浚清河事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蓝理",
+   "role": "天津总兵官"
+  }
+ ],
+ "places": [
+  "天津",
+  "三河县",
+  "获州",
+  "清河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9804,
+ "page_range": "207-208"
+}

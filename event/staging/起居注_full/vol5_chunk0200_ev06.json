@@ -1,0 +1,31 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十二日癸西",
+ "event_role": "军务",
+ "summary": "议政大臣奏报孙思克等请拨马匹追剿噶尔丹，并议覆满洲兵驮米马及炮手马匹事宜。",
+ "people": [
+  {
+   "name": "孙思克",
+   "role": "振武将军"
+  },
+  {
+   "name": "博济",
+   "role": "将军"
+  },
+  {
+   "name": "郭洪",
+   "role": "甘肃巡抚"
+  }
+ ],
+ "places": [
+  "萨克萨图胡鲁克",
+  "甘州",
+  "宁夏",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20006,
+ "page_range": "410-411"
+}

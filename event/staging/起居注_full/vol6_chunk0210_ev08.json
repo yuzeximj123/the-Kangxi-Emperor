@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "十六日辛丑",
+ "event_role": "司法案件",
+ "summary": "刑部题乌喇采东珠族人六十七给民赵进等米布等物，私令往木钦河采取人参，拟绞。",
+ "people": [
+  {
+   "name": "六十七",
+   "role": "乌喇采东珠族人"
+  },
+  {
+   "name": "赵进",
+   "role": "民人"
+  }
+ ],
+ "places": [
+  "乌喇",
+  "木钦河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21008,
+ "page_range": "430-431"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "初十日全未",
+ "event_role": "人事任免",
+ "summary": "吏部题苏州等三府知府员缺，康熙帝谕以原任江宁知府施世纶补授苏州府知府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "施世纶",
+   "role": "原任江宁知府"
+  },
+  {
+   "name": "王隆熙",
+   "role": "淮安府同知"
+  }
+ ],
+ "places": [
+  "苏州府",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4122,
+ "page_range": "92-93"
+}

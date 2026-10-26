@@ -1,0 +1,22 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官阿克敦、奢铎记录。",
+ "people": [
+  {
+   "name": "阿克敦",
+   "role": "起居注官"
+  },
+  {
+   "name": "奢铎",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18808,
+ "page_range": "387-388"
+}

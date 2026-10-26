@@ -1,0 +1,36 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报保定、河间、真定、顺德、宣化等府属州县于本月十七、十八、二十一、二十二、二十三、二十四等日得雨二至三寸不等，并称待续报再奏，以慰皇上关心雨泽之心。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "保定府",
+  "唐县",
+  "鸡泽",
+  "河间府",
+  "盐山",
+  "东光",
+  "真定府",
+  "获鹿",
+  "顺德府",
+  "沙河",
+  "宣化府",
+  "蔚县"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸巡撫趙弘燮奏爲再奏各屬報到雨澤情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 10
+}

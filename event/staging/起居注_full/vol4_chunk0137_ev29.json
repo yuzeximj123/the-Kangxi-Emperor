@@ -1,0 +1,21 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "十六日于申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出龙井关，驻跸兰阳口北。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "龙井关",
+  "兰阳口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13729,
+ "page_range": "286-287"
+}

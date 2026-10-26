@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "初三日吴未",
+ "event_role": "朝见受贺",
+ "summary": "皇太后万寿圣节，康熙帝齐松鹤清越行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "松鹤清越"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21202,
+ "page_range": "435-436"
+}

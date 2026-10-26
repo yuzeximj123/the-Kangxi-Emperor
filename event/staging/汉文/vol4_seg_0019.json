@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十一年三月二十七日",
+ "reign_year": 51,
+ "month": 3,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州、扬州雨水调匀、二麦将熟、米价低廉、地方安宁，并报告南省上江、下江及江西省粮船过扬数目，进呈二月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州",
+  "上江",
+  "下江",
+  "江西省"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示知道了，并告知自己安好。",
+ "source_title": "蘇州織造李煦奏報江蘇按察使江寧審理總督印務等情摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1057",
+ "order_index": 19
+}

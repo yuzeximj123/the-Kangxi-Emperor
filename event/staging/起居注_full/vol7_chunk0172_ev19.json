@@ -1,0 +1,28 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "二十六日甲寅",
+ "event_role": "奏报地方情形",
+ "summary": "都统、贝子苏努等京师得雨奏折到，温达将扈从大臣官员奏折一并进呈，康熙以知道了批出。",
+ "people": [
+  {
+   "name": "苏努",
+   "role": "都统贝子"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17219,
+ "page_range": "355-356"
+}

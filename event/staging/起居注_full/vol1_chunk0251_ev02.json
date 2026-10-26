@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "十八日乙刻",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶白旗前锋护卫，康熙帝以尼堪效力甚多，命补授尼堪，不用阿育诺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿育诺",
+   "role": "护军校"
+  },
+  {
+   "name": "尼堪",
+   "role": "拟陪人员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25102,
+ "page_range": "559-560"
+}

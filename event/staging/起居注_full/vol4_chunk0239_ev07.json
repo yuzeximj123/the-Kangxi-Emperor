@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 8,
+ "day_text": "初八日己卯",
+ "event_role": "人事任免",
+ "summary": "吏部题学士常书员缺，康熙帝以工部郎中常绥人材优长、详练事务，着升补学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "学士"
+  },
+  {
+   "name": "艾肃",
+   "role": "光禄寺卿"
+  },
+  {
+   "name": "常绥",
+   "role": "工部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23907,
+ "page_range": "490-491"
+}

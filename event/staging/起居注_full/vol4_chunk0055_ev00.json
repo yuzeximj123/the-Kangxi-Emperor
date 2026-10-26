@@ -1,0 +1,21 @@
+{
+ "reign_year": 28,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户部，因南巡亲见江南民生稍富，决定蠲免江南全省历年积欠地丁钱粮、屯粮、芦课、米麦豆杂税，令督抚切实奉行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江南",
+  "宿迁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 5500,
+ "page_range": "122-123"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝斥张凤扬为极恶光棍，流徙时千余人钱送招摇，命交刑部一并议罪，并责都察院为何不行题参。",
+ "people": [
+  {
+   "name": "张凤扬",
+   "role": "罪犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6300,
+ "page_range": "161-162"
+}

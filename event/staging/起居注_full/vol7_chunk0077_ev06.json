@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十二日甲午",
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝问马齐此处民生较当日何如，马齐奏较前大有起色，与任巡抚时相等，康熙帝颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7706,
+ "page_range": "165-166"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门奏拟称尔赛等罪，康熙帝以其贪酷显著，命再严加夹讯家人务究实情。",
+ "people": [
+  {
+   "name": "称尔赛",
+   "role": "贪官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "那租",
+   "role": "布政使"
+  },
+  {
+   "name": "库尔康",
+   "role": "按察使"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "获罪官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12001,
+ "page_range": "275-276"
+}

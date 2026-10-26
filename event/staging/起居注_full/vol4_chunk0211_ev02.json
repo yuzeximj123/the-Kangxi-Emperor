@@ -1,0 +1,38 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": "二十日乙未",
+ "event_role": "司法案件",
+ "summary": "刑部题奏和尚故杀王七拟斩监候秋后处决，德尔白代及同谋往殴他布代达尔酒、李三、郑二俱枷号三个月鞭一百。",
+ "people": [
+  {
+   "name": "和尚",
+   "role": "凶犯"
+  },
+  {
+   "name": "王七",
+   "role": "被害人"
+  },
+  {
+   "name": "德尔白代",
+   "role": "同谋"
+  },
+  {
+   "name": "他布代达尔酒",
+   "role": "同谋"
+  },
+  {
+   "name": "李三",
+   "role": "同谋"
+  },
+  {
+   "name": "郑二",
+   "role": "同谋"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21102,
+ "page_range": "434-435"
+}

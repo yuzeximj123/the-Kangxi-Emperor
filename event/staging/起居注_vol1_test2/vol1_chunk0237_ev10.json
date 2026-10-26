@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十四日癸未",
+ "event_role": "人事任免",
+ "summary": "原任总兵林本直因四川恢复奏请效力边疆，康熙帝嘉其才具可用，命有总兵缺即补用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "林本直",
+   "role": "原任总兵"
+  },
+  {
+   "name": "林天擎",
+   "role": "林本直之权，被陷四川"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23710,
+ "page_range": "531-532"
+}

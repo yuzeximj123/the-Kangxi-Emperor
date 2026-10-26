@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": "二十三日癸卯",
+ "event_role": "司法案件",
+ "summary": "兵部覆四川巡抚年羹尧参松潘总兵所属石泉营守备刘宽私回葬父，拟革职，康熙帝令照该抚所题完结。",
+ "people": [
+  {
+   "name": "年羹尧",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "刘宽",
+   "role": "石泉营守备"
+  }
+ ],
+ "places": [
+  "四川",
+  "松潘",
+  "石泉营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21610,
+ "page_range": "443-444"
+}

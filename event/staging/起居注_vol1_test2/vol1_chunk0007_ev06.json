@@ -1,0 +1,25 @@
+{
+ "reign_year": 11,
+ "month": 1,
+ "day_text": "十六日癸玄",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝未时复诣太皇太后宫，设灯节宴并赐随驾大臣宴于宣门外。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "宣门外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 706,
+ "page_range": "71-72"
+}

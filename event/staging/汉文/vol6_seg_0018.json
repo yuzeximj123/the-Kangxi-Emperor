@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙伍拾玖年贰月拾陆日",
+ "reign_year": 59,
+ "month": 2,
+ "day": 16,
+ "event_role": "奏报地方情形",
+ "summary": "河南巡抚李锡奏报正月以来河南各地得雨雪、省城米价平稳，并因上年歉收请求将祥符等二十六州县未完地丁银两缓征带征。",
+ "people": [
+  {
+   "name": "李锡",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "李有贵",
+   "role": "差遣家人（赍奏人）"
+  }
+ ],
+ "places": [
+  "河南",
+  "彰",
+  "卫",
+  "怀",
+  "开封",
+  "祥符"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批指示钱粮之事应详细具题奏报。",
+ "source_title": "河南巡抚李锡奏报雨雪米价",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 18
+}

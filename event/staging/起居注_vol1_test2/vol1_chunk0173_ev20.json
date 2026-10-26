@@ -1,0 +1,25 @@
+{
+ "reign_year": 17,
+ "month": 12,
+ "day_text": "十五日辛巳",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝以皇太子出痘痊愈行告祭礼，御太和殿视郊天祝版，御中和殿视方泽、太庙、社稷祝版毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "太子"
+  }
+ ],
+ "places": [
+  "太和殿",
+  "中和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17320,
+ "page_range": "403-404"
+}

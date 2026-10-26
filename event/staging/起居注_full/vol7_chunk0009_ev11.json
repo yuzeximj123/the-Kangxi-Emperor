@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初六日丁亥",
+ "event_role": "人事任免",
+ "summary": "以学士范承烈员缺开列侍读学士刘光美等，康熙命刘光美补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承烈",
+   "role": "学士"
+  },
+  {
+   "name": "刘光美",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 911,
+ "page_range": "29-30"
+}

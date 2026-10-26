@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 3,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "广东巡抚彭鹏荐举广西河池州知州黄志璋等居官甚善，康熙帝命照所题令来京陛见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "彭鹏",
+   "role": "广东巡抚"
+  },
+  {
+   "name": "黄志璋",
+   "role": "广西河池州知州"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西河池州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19408,
+ "page_range": "398-399"
+}

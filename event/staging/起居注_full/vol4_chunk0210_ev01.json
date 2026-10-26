@@ -1,0 +1,21 @@
+{
+ "reign_year": 31,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户部，念陕西西安等处连岁凶荒疾疫、民多流移，虽薄有秋收但民间匮乏已极，着免征康熙三十二年地丁银米并蠲免积欠钱粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 21001,
+ "page_range": "432-433"
+}

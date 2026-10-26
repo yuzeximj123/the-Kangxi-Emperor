@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命大学士等会同九卿、于成龙确议赞皇县山贼招抚案，即日具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "赞皇县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5004,
+ "page_range": "110-111"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": "初七日癸巳",
+ "event_role": "人事任免",
+ "summary": "吏部题补通政使司左参议王维珍升任员缺，以成其范转补，右参议缺候补；康熙帝命钱珏补授右参议。",
+ "people": [
+  {
+   "name": "王维珍",
+   "role": "通政使司左参议"
+  },
+  {
+   "name": "成其范",
+   "role": "转补"
+  },
+  {
+   "name": "钱珏",
+   "role": "御史补授右参议"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "被参奏者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13009,
+ "page_range": "295-296"
+}

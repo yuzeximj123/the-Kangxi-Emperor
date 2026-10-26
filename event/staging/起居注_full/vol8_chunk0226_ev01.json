@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 12,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命诸皇子、领侍卫内大臣、大学士、礼部满汉大臣、满九卿会同议奏皇太后事及诸皇子割辫事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诚亲王",
+   "role": "传谕皇子"
+  },
+  {
+   "name": "雍亲王",
+   "role": "传谕皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22601,
+ "page_range": "463-464"
+}

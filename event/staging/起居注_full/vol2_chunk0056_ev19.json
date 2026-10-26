@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十八日庚辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁典籍缺，康熙帝以典籍职掌颇要，命尔衙门会同吏部选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁述祖",
+   "role": "拟正候补典籍"
+  },
+  {
+   "name": "李遇时",
+   "role": "拟陪中书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5619,
+ "page_range": "155-156"
+}

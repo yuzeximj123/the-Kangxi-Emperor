@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十四年十一月",
+ "reign_year": 44,
+ "month": 11,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "安徽巡抚刘光美奏报凤阳府属州县卫水灾后散赈情形及灾民得所。",
+ "people": [
+  {
+   "name": "刘光美",
+   "role": "奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "凤阳府",
+  "安徽"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批阅后表示知道了。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "137",
+ "source_title": "江宁巡抚宋荦奏进皇舆表册及另刻通鉴纲目二本摺",
+ "order_index": 100
+}

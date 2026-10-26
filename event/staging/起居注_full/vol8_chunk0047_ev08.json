@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "郎廷极请补中军副将、赵弘灿题罗文灿休致员缺，康熙命交兵部即奏补授。",
+ "people": [
+  {
+   "name": "郎廷极",
+   "role": "总漕"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "两广总督"
+  },
+  {
+   "name": "罗文灿",
+   "role": "广州副将"
+  }
+ ],
+ "places": [
+  "江南",
+  "广州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4708,
+ "page_range": "105-106"
+}

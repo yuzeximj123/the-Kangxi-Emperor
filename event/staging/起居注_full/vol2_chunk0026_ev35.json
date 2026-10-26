@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "二十三日戊寅",
+ "event_role": "请安谢恩",
+ "summary": "巳时康熙帝赴太皇太后、皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "受问安者"
+  },
+  {
+   "name": "皇太后",
+   "role": "受问安者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2635,
+ "page_range": "95-96"
+}

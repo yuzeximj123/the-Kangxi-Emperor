@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": "十四日壬寅",
+ "event_role": "司法案件",
+ "summary": "兵部刑部题镶红旗佐领萨齐库谎报马匹充数领钱粮拟立斩，康熙帝从宽免死，枷号三月鞭一百发黑龙江当差。",
+ "people": [
+  {
+   "name": "萨齐库",
+   "role": "镶红旗佐领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9310,
+ "page_range": "196-197"
+}

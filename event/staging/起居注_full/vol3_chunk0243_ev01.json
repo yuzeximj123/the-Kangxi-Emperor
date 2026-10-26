@@ -1,0 +1,30 @@
+{
+ "reign_year": 26,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部拟张谦立绞，康熙以其为穆尔赛心腹助恶勒索且潜逃，责刑部草率拟决，命严加究审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张谦",
+   "role": "案犯"
+  },
+  {
+   "name": "穆尔赛",
+   "role": "张谦主官"
+  },
+  {
+   "name": "刑部",
+   "role": "题请衙门"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24301,
+ "page_range": "521-522"
+}

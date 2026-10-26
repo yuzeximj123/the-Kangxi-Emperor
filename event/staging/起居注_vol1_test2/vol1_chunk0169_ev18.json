@@ -1,0 +1,28 @@
+{
+ "reign_year": 17,
+ "month": 9,
+ "day_text": "初六日甲辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕兵部尚书王申、侍郎温代，大安等口绿旗官兵免添设防守，以免严寒劳苦。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王申",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "温代",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "大安等口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 16918,
+ "page_range": "395-396"
+}

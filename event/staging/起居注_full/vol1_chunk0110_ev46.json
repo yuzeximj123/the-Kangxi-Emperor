@@ -1,0 +1,32 @@
+{
+ "reign_year": 15,
+ "month": 2,
+ "day_text": "二十六日戊宽",
+ "event_role": "军务",
+ "summary": "图海率随征夸兰大等行礼毕赐茶，康熙帝目送启行回宫，命额星额、吴努春等送至大井前赐茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图海",
+   "role": "抚远大将军"
+  },
+  {
+   "name": "额星额",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "吴努春",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "大井"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11046,
+ "page_range": "277-278"
+}

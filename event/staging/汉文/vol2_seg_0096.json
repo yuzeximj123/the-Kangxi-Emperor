@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十七年",
+ "reign_year": 47,
+ "month": null,
+ "day": 10,
+ "event_role": "奏报地方情形",
+ "summary": "户部尚书王鸿绪奏陈参劾浙江科索并奏报京师盗匪情形，向皇上请安。",
+ "people": [
+  {
+   "name": "王鸿绪",
+   "role": "户部尚书，奏折作者"
+  },
+  {
+   "name": "雍正",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "浙江",
+  "京师"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "皇帝朱批称自己身体尚好，并提及雍正元年十二月十日总理事务王大臣等奉上谕。",
+ "source_title": "戶部尚書王鴻緒奏陳考參浙江科索並京師盜匪情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "435",
+ "order_index": 96
+}

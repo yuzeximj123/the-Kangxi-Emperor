@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "十八日己卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝诣孔林，于洙泗桥下马步行至孔墓前跪奠酒三爵，复步行至殿首，衍圣公孔迄折等谢恩行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孔迄折",
+   "role": "衍圣公"
+  }
+ ],
+ "places": [
+  "孔林",
+  "洙泗桥",
+  "孔墓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5917,
+ "page_range": "153-154"
+}

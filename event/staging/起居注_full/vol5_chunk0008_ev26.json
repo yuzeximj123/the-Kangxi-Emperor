@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "十九日丁雍",
+ "event_role": "议政听政",
+ "summary": "酉时康熙御行宫，大学士伊桑阿、学士常绥以折本请旨。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "常绥",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 826,
+ "page_range": "26-27"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院遵旨保举御史朱廷匀等内升，康熙帝质疑所荐之人，并命李先复内升、停止外转一次。",
+ "people": [
+  {
+   "name": "朱廷匀",
+   "role": "御史"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "李先复",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1103,
+ "page_range": "33-34"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 17,
+ "month": 12,
+ "day_text": "二十五日辛卯",
+ "event_role": "人事任免",
+ "summary": "兵部引见定边副将柯彩拟升岳州随征总兵官，康熙帝详问其籍贯功绩后召见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "柯彩",
+   "role": "定边副将"
+  }
+ ],
+ "places": [
+  "岳州",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17402,
+ "page_range": "405-406"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "审议长僧杀亲见案，家人阿定加功，康熙帝以其母尚在，令姑留其子，使其每年惧子之死。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "长僧",
+   "role": "案犯"
+  },
+  {
+   "name": "阿定",
+   "role": "加功者"
+  },
+  {
+   "name": "尼喀之妻",
+   "role": "长僧之母"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6101,
+ "page_range": "132-133"
+}

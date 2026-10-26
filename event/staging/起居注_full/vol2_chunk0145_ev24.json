@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "十四日成午",
+ "event_role": "司法案件",
+ "summary": "刑部议原任福建提督王进功家产变充兵饷，今事平应查明交内务府，康熙帝令家人暂停没入，俟回京再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王进功",
+   "role": "原任福建提督"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14524,
+ "page_range": "333-334"
+}

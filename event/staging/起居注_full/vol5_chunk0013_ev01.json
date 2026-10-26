@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝命学士王抄、李楠、顾藻、尚书熊赐履、记注官陈元龙等进读第六卷并详阅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王抄",
+   "role": "学士"
+  },
+  {
+   "name": "李楠",
+   "role": "学士"
+  },
+  {
+   "name": "顾藻",
+   "role": "学士"
+  },
+  {
+   "name": "熊赐履",
+   "role": "尚书"
+  },
+  {
+   "name": "陈元龙",
+   "role": "记注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1301,
+ "page_range": "36-37"
+}

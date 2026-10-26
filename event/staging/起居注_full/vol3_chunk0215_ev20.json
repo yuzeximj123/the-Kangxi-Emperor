@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "二十八日丙子",
+ "event_role": "人事任免",
+ "summary": "兵部题镶蓝旗副都统马云程革职员缺，王大臣议龙西库、吴什堪任，康熙帝命吴什补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "马云程",
+   "role": "副都统"
+  },
+  {
+   "name": "龙西库",
+   "role": "前锋参领"
+  },
+  {
+   "name": "吴什",
+   "role": "前锋参领"
+  },
+  {
+   "name": "赛弱汉",
+   "role": "侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21520,
+ "page_range": "465-466"
+}

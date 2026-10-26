@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "二十九日",
+ "event_role": "赏赐",
+ "summary": "赐喀喇泥佐领班第貂胸钳、羊故及黄羊等物，赐喀喇沱蒙古备相孙等白金。",
+ "people": [
+  {
+   "name": "班第",
+   "role": "喀喇泥佐领"
+  },
+  {
+   "name": "备相孙",
+   "role": "喀喇沱蒙古"
+  }
+ ],
+ "places": [
+  "喀喇泥",
+  "喀喇沱"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18306,
+ "page_range": "376-377"
+}

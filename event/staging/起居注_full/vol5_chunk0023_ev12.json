@@ -1,0 +1,44 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "初四日庚午",
+ "event_role": "皇帝行止",
+ "summary": "午时康熙帝御澄怀堂，亲洒翰墨写大字数幅，诸臣环侍敬观并奏请颁赐。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "常书",
+   "role": "管翰林院事侍郎"
+  },
+  {
+   "name": "张英",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [
+  "澄怀堂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2312,
+ "page_range": "56-57"
+}

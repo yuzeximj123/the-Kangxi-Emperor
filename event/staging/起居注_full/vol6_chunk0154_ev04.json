@@ -1,0 +1,34 @@
+{
+ "reign_year": 39,
+ "month": 5,
+ "day_text": "二十一日癸丑",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁学士钱齐保员缺，开列詹事府正詹事梨可托等职名，康熙帝命国子监祭酒邵穆布补授内阁学士。",
+ "people": [
+  {
+   "name": "钱齐保",
+   "role": "内阁学士"
+  },
+  {
+   "name": "梨可托",
+   "role": "詹事府正詹事"
+  },
+  {
+   "name": "邵穆布",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15404,
+ "page_range": "318-319"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝就张伯行所奏赵普生死不明一案降旨，令刑部查明赵晋等人生死，速行完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "奏事官员"
+  },
+  {
+   "name": "赵普",
+   "role": "案涉人犯"
+  },
+  {
+   "name": "赵弘爆",
+   "role": "扬州府知府"
+  },
+  {
+   "name": "赵晋",
+   "role": "案涉人犯"
+  }
+ ],
+ "places": [
+  "扬州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13000,
+ "page_range": "271-272"
+}

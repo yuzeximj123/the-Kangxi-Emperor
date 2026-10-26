@@ -1,0 +1,20 @@
+{
+ "reign_year": 30,
+ "month": 4,
+ "day_text": "二十七日于午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸蒙器谷地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "蒙器谷"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14736,
+ "page_range": "306-307"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十六年六月二十日",
+ "reign_year": 56,
+ "month": 6,
+ "day": 20,
+ "event_role": "奏报灾情收成",
+ "summary": "江西巡抚佟国勷奏报御赐稻种试种成熟，收获六十五石，并拟再种二次、分给十三府推广，进呈新米和谷请皇上御览。",
+ "people": [
+  {
+   "name": "佟国勷",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "高天德",
+   "role": "臣标把总，差遣进呈御稻米谷"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知此事。",
+ "source_title": "江西巡撫佟國勷奏報御賜稻種已經成熟並進新米摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2454",
+ "order_index": 452
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十九日戊子",
+ "event_role": "人事任免",
+ "summary": "浙江温处总兵官欧懋勋病笃遗本，康熙帝称其人才壮健、效力行间，命督抚题报时优恤。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "欧懋勋",
+   "role": "浙江温处总兵官"
+  }
+ ],
+ "places": [
+  "浙江",
+  "温处"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8115,
+ "page_range": "172-173"
+}

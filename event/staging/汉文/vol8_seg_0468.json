@@ -1,0 +1,33 @@
+{
+ "date_raw": "六月二十六日",
+ "reign_year": null,
+ "month": 6,
+ "day": 26,
+ "event_role": "请安谢恩",
+ "summary": "张玉书抱病具奏叩谢康熙朱谕温慰及颁赐口外珍味，并陈明病况衰颓、难以趋直，请求引退。",
+ "people": [
+  {
+   "name": "张玉书",
+   "role": "大学士（具奏臣）"
+  },
+  {
+   "name": "张廷少",
+   "role": "编修（张玉书之子，代父谢恩）"
+  },
+  {
+   "name": "李德聪",
+   "role": "御医"
+  }
+ ],
+ "places": [
+  "口外",
+  "行宫"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示知道了，并温谕张玉书在阁多年凡事小心、朝中老臣渐少，令其调理，数月内自可痊愈。",
+ "source_title": "張玉書謝恩",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 468
+}

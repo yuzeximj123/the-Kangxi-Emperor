@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "三十日己亥",
+ "event_role": "人事任免",
+ "summary": "宗人府题补郎中库顺革职员缺，正拟觉罗三宝、陪拟觉罗华现，康熙帝问三宝降级缘由，勒德洪奏其才学颇优，命三宝即补授郎中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "三宝",
+   "role": "拟正觉罗"
+  },
+  {
+   "name": "华现",
+   "role": "拟陪觉罗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20906,
+ "page_range": "461-462"
+}

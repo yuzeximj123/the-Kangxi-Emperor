@@ -1,0 +1,37 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "浙闽总督范时崇题郑连控告柯彩身死不明一案，康熙命尚书张鹏副前去审明具奏。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "郑连",
+   "role": "控告人"
+  },
+  {
+   "name": "柯彩",
+   "role": "原任延组总兵官"
+  },
+  {
+   "name": "王增宝",
+   "role": "家人"
+  },
+  {
+   "name": "张鹏副",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "浙江",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19204,
+ "page_range": "395-396"
+}

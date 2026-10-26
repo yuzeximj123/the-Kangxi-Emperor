@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "初二日成千",
+ "event_role": "朝见受贺",
+ "summary": "怀来县知县白有婚、守备邓之魁等来朝。",
+ "people": [
+  {
+   "name": "白有婚",
+   "role": "怀来县知县"
+  },
+  {
+   "name": "邓之魁",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "怀来县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10208,
+ "page_range": "214-215"
+}

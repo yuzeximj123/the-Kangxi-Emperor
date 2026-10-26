@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "二十八日本丑",
+ "event_role": "人事任免",
+ "summary": "兵部议将耿昭忠、耿聚忠家丁编为五佐领令在京五佐领官带管并归并正黄旗，康熙帝询问是否便于耿昭忠兄弟，明珠奏可免困苦，康熙帝命从部议。",
+ "people": [
+  {
+   "name": "耿昭忠",
+   "role": "官员"
+  },
+  {
+   "name": "耿聚忠",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8112,
+ "page_range": "205-206"
+}

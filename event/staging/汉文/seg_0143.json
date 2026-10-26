@@ -1,0 +1,32 @@
+{
+ "date_raw": "未知",
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "岳昇龙奏请将成都城守副将改为化林协副将、化林参将改为城守参将，以加强边地统辖。",
+ "people": [
+  {
+   "name": "岳昇龙",
+   "role": "奏报人"
+  },
+  {
+   "name": "赵成",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "四川",
+  "化林营",
+  "打箭炉",
+  "成都",
+  "木鸦"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "岳昇龙奏化林营制",
+ "order_index": 143
+}

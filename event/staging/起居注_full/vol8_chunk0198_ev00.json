@@ -1,0 +1,38 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙询问徐元梦、马齐关于索泰家世，并命将官员名单与徐元梦同阅后书名进呈。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元梦",
+   "role": "起居注左都御史"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "索泰",
+   "role": "官员"
+  },
+  {
+   "name": "索尔敏",
+   "role": "原任刑部郎中"
+  },
+  {
+   "name": "索礼",
+   "role": "原任御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19800,
+ "page_range": "407-408"
+}

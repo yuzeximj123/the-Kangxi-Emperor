@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "皇上念台湾远在海洋、沿海被扰，命将出师指授方略，本年六月一鼓而下澎湖，台湾余众归命。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾",
+  "澎湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24800,
+ "page_range": "539-540"
+}

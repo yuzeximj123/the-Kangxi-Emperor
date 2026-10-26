@@ -1,0 +1,38 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "十二日壬未",
+ "event_role": "人事任免",
+ "summary": "吏部题同知傅世丰等迟误夫役分别降级调用、革职，康熙帝命卢询、焦蜀汉、化玮、董绍业照议降级从宽留任。",
+ "people": [
+  {
+   "name": "傅世丰",
+   "role": "同知"
+  },
+  {
+   "name": "卢询",
+   "role": "官员"
+  },
+  {
+   "name": "焦蜀汉",
+   "role": "官员"
+  },
+  {
+   "name": "化玮",
+   "role": "官员"
+  },
+  {
+   "name": "董绍业",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7311,
+ "page_range": "158-159"
+}

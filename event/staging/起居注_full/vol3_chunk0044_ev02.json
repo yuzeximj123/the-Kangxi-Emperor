@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议内阁学士金改祥升任员缺，康熙帝令王启元暂行补用，倘无善状再行革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "蒋弘道",
+   "role": "少詹事"
+  },
+  {
+   "name": "王启元",
+   "role": "原任学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4402,
+ "page_range": "123-124"
+}

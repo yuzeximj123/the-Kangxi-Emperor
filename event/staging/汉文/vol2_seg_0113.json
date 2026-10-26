@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十八年二月十八日",
+ "reign_year": 48,
+ "month": 2,
+ "day": 18,
+ "event_role": "请安谢恩",
+ "summary": "偏沅巡抚赵申乔上奏恭请皇上及皇太后圣安，康熙朱批告知皇太后万安、自己大病已愈但尚虚弱。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚都察院右副都御史，奏请圣安者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  },
+  {
+   "name": "皇太后",
+   "role": "受请安者"
+  }
+ ],
+ "places": [],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙告知皇太后万安，自己大病已愈但病后仍虚弱。",
+ "source_title": "偏沅巡撫趙申喬奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "448",
+ "order_index": 113
+}

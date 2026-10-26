@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 12,
+ "day_text": "二十一日壬辰",
+ "event_role": "人事任免",
+ "summary": "吏部题补陕西学道，康熙帝称山西学院汪涵考试从公、居官清廉，着从优升为内阁学士兼礼部侍郎并兼理陕西学政。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汪涵",
+   "role": "山西学院"
+  }
+ ],
+ "places": [
+  "陕西",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8806,
+ "page_range": "187-188"
+}

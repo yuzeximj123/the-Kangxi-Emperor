@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "初八日乙卯",
+ "event_role": "人事任免",
+ "summary": "户部题崇文门监督拟差于允玉，康熙帝谕令于现今保举司官内查未经出差者引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于允玉",
+   "role": "拟差崇文门监督"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1415,
+ "page_range": "38-39"
+}

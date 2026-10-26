@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "初六日庚寅",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御行宫，大学士马齐、学士法良以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "法良",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21322,
+ "page_range": "436-437"
+}

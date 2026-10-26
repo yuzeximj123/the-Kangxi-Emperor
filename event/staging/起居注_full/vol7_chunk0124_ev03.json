@@ -1,0 +1,21 @@
+{
+ "reign_year": 45,
+ "month": 8,
+ "day_text": "初八日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至巴颜额尔追，驻跸于八公主府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "巴颜额尔追",
+  "八公主府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12403,
+ "page_range": "259-260"
+}

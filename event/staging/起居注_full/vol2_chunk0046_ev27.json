@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "三十日",
+ "event_role": "人事任免",
+ "summary": "兵部题补孝陵总管，康熙帝以原任副都统苏瑚现为人优、亦且矫健，着补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏瑚现",
+   "role": "原任副都统"
+  }
+ ],
+ "places": [
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4627,
+ "page_range": "135-136"
+}

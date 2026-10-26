@@ -1,0 +1,25 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十五日戊子",
+ "event_role": "司法案件",
+ "summary": "三法司议四儿由右翼门欲进内右门被执应绞，康熙帝以其无知免死减等发落。",
+ "people": [
+  {
+   "name": "四儿",
+   "role": "犯人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "右翼门",
+  "内右门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16303,
+ "page_range": "369-370"
+}

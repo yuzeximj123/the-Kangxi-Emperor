@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙帝就宁古塔拨什库雅木布妄告将军巴海贪酷一案，改为应斩并监禁盛京，待兵回日处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雅木布",
+   "role": "宁古塔拨什库"
+  },
+  {
+   "name": "巴海",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "宁古塔",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18100,
+ "page_range": "405-406"
+}

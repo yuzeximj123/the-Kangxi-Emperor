@@ -1,0 +1,34 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": "十七日己酉",
+ "event_role": "人事任免",
+ "summary": "吏部题巡抚张伯行、满保员缺开列蔡升元等，康熙帝称陈玉所条奏张皇，命将伊调补，应调何处着问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "满保",
+   "role": "巡抚"
+  },
+  {
+   "name": "蔡升元",
+   "role": "内阁学士"
+  },
+  {
+   "name": "陈玉",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11714,
+ "page_range": "245-246"
+}

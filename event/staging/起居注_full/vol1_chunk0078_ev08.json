@@ -1,0 +1,32 @@
+{
+ "reign_year": 13,
+ "month": 9,
+ "day_text": "十六日丁丑",
+ "event_role": "议政听政",
+ "summary": "辰时，康熙帝御后殿，讲官喇沙里、孙在丰、张英进讲鬼神之为德一章、舜其大孝也与一节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "后殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7808,
+ "page_range": "213-214"
+}

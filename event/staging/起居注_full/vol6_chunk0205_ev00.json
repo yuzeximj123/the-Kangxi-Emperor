@@ -1,0 +1,21 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙谕令料理牧场马匹，由大臣督理，疲瘦马匹换给肥马，并令护军等暂用太仆寺马匹驮载，至乌阑布通缴还。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乌阑布通",
+  "牧场"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20500,
+ "page_range": "420-421"
+}

@@ -1,0 +1,36 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十四日乙丑",
+ "event_role": "议政听政",
+ "summary": "申时康熙帝御行宫，大学士马齐等以折本请旨，议山东赈济饥民人员应否议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "避称布",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "色德里",
+   "role": "学士"
+  },
+  {
+   "name": "满耕",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8316,
+ "page_range": "177-178"
+}

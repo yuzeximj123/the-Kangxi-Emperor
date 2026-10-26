@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十七年十月初七日",
+ "reign_year": 57,
+ "month": 10,
+ "day": null,
+ "event_role": "军务",
+ "summary": "直隶总督赵弘燮奏请捐马二百五十匹，每匹折银四十两共八万两解交户部，以佐西路进剿军需。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "总督管理直隶巡抚事务、兵部右侍郎兼都察院右副都御史加拾级，奏请捐马助军需"
+  }
+ ],
+ "places": [
+  "直隶",
+  "西路",
+  "户部"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸總督趙弘燮奏為順捐銀兩馬匹摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2710",
+ "order_index": 139
+}

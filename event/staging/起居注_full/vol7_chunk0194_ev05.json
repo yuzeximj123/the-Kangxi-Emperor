@@ -1,0 +1,25 @@
+{
+ "reign_year": 50,
+ "month": 11,
+ "day_text": "初二日丁雍",
+ "event_role": "谕旨决策",
+ "summary": "浙江黄岩总兵官李近赴任请训，康熙帝谕令其加意巡防海贼，有盗即报提督，严察勿懈。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李近",
+   "role": "浙江黄岩总兵官"
+  }
+ ],
+ "places": [
+  "黄岩",
+  "海滨"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19405,
+ "page_range": "399-400"
+}

@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十五年六月二十日",
+ "reign_year": 55,
+ "month": 6,
+ "day": 20,
+ "event_role": "奏报灾情收成",
+ "summary": "江宁巡抚张伯行奏报江苏各府州秋禾收成分数，江南五府约七八分，盐城因旱稍减，并称年成丰稔、百姓欢腾。",
+ "people": [
+  {
+   "name": "张伯行",
+   "role": "江宁巡抚，奏报人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "淮扬",
+  "徐邳",
+  "盐城",
+  "江苏",
+  "松常镇"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并提醒南方多有造言生事者，令张伯行留心。",
+ "source_title": "江寧巡撫張伯行奏報秋禾收成分數摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 27
+}

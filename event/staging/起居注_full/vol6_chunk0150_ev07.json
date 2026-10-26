@@ -1,0 +1,21 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "十八日辛已",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自霜州柳岔口登舟，往新挑河口地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "霜州柳岔口",
+  "新挑河口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15007,
+ "page_range": "310-311"
+}

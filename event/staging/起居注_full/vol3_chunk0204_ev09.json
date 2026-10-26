@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十八日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责部议缺略，命将胡永宾解京，蔡毓荣交三法司议，纳尔泰革职，余依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡永宾",
+   "role": "罪犯"
+  },
+  {
+   "name": "蔡毓荣",
+   "role": "罪犯"
+  },
+  {
+   "name": "纳尔泰",
+   "role": "官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "郭葵",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20409,
+ "page_range": "443-444"
+}

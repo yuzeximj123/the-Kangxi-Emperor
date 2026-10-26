@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问江浙督抚中何人最好，张鹏翮奏称前任浙江巡抚范承谟于地方有裨益。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "臣工"
+  },
+  {
+   "name": "范承谟",
+   "role": "前任浙江巡抚"
+  }
+ ],
+ "places": [
+  "江浙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 502,
+ "page_range": "20-21"
+}

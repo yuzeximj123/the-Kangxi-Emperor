@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "十五日甲成",
+ "event_role": "河工水利",
+ "summary": "康熙帝阅新庄、求贤庄、石佛寺等处河湾，指示当地应下挑水声。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦拜",
+   "role": "分司"
+  }
+ ],
+ "places": [
+  "新庄",
+  "求贤庄",
+  "石佛寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17608,
+ "page_range": "362-363"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "二十五日成辰",
+ "event_role": "朝见受贺",
+ "summary": "原任大学士杜立德、冯溥赴大行太皇太后梓宫至京师，事毕辞归，康熙帝命礼部引见并询问陈奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杜立德",
+   "role": "原任大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "原任大学士"
+  }
+ ],
+ "places": [
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1122,
+ "page_range": "34-35"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 26,
+ "month": 4,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "未时康熙帝御景山内前典，赐宴谢恩请安进贡的营齐特部落多罗额尔德尼郡王达尔马济理第等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达尔马济理第",
+   "role": "多罗额尔德尼郡王"
+  },
+  {
+   "name": "诺尔布",
+   "role": "四品台吉"
+  },
+  {
+   "name": "德理克",
+   "role": "二品台吉"
+  },
+  {
+   "name": "齐克扎穆",
+   "role": "三品台吉"
+  },
+  {
+   "name": "纳迈西奇布",
+   "role": "四品台吉"
+  }
+ ],
+ "places": [
+  "景山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22402,
+ "page_range": "483-484"
+}

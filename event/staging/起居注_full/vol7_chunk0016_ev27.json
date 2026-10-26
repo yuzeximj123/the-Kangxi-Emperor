@@ -1,0 +1,34 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "二十九日庚成",
+ "event_role": "人事任免",
+ "summary": "兵部题步军统领凯音布员缺，康熙帝令会同兵部堂官及左翼都统议奏堪任之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "凯音布",
+   "role": "步军统领"
+  },
+  {
+   "name": "硕色",
+   "role": "镶白旗参领"
+  },
+  {
+   "name": "穆成格",
+   "role": "左翼步军总尉"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1627,
+ "page_range": "43-44"
+}

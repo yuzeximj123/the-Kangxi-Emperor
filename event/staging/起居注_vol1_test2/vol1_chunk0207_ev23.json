@@ -1,0 +1,20 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "十八日己酉",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝于太和殿视郊天祝版毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20723,
+ "page_range": "471-472"
+}

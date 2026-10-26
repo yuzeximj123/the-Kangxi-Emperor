@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "漕督桑格奏漕艘漂没，康熙帝命严加议处河工官员，设法堵筑邵伯更楼决口并察议桑格迟报。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "漕督"
+  },
+  {
+   "name": "于成龙",
+   "role": "已故河道总督"
+  }
+ ],
+ "places": [
+  "邵伯",
+  "更楼",
+  "瓜扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14509,
+ "page_range": "300-301"
+}

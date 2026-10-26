@@ -1,0 +1,36 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初三日壬戌",
+ "event_role": "司法案件",
+ "summary": "九卿会议安徽巡抚徐国相奏分别流徙人犯事，议照见行例或分别发遣，康熙帝询问大学士意见，命九卿再行画一具奏。",
+ "people": [
+  {
+   "name": "徐国相",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23213,
+ "page_range": "521-522"
+}

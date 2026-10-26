@@ -1,0 +1,21 @@
+{
+ "reign_year": 37,
+ "month": 5,
+ "day_text": "初七日庚辰",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御舟过天津，驻武清县杨村。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津",
+  "武清县杨村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4113,
+ "page_range": "92-93"
+}

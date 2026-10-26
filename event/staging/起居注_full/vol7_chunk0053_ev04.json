@@ -1,0 +1,21 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "二十三日戊戌",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自苏州登舟启行，泊于浒墅关。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "苏州",
+  "浒墅关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5304,
+ "page_range": "117-118"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "十一日庚午",
+ "event_role": "人事任免",
+ "summary": "九卿会推广东巡抚员缺，拟王新命、陪拟刘如汉，康熙帝采纳索额图意见，命将王新命升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "王新命",
+   "role": "江西布政使，拟任广东巡抚"
+  },
+  {
+   "name": "刘如汉",
+   "role": "大理寺卿，陪拟"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23504,
+ "page_range": "527-528"
+}

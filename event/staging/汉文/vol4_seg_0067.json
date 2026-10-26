@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙伍拾壹年伍月",
+ "reign_year": 51,
+ "month": 5,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "浙江巡抚王度昭奏报浙江钱粮征收、亏空补足及刑名案件清理情形，并请早简贤能接任两省重任。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚，奏折作者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批者"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江宁",
+  "江苏",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，并称已知晓奏折内所奏之事。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 67
+}

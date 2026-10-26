@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "十六日丙子",
+ "event_role": "人事任免",
+ "summary": "川陕总督鄂海题四川提标后营游击马良臣已升广东抚标右营游击，请带所升之衔仍留原任，康熙帝照所请行。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "马良臣",
+   "role": "四川提标后营游击"
+  }
+ ],
+ "places": [
+  "四川",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13618,
+ "page_range": "283-284"
+}

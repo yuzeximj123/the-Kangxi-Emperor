@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "二十四日",
+ "event_role": "河工水利",
+ "summary": "范承勋奏洪泽湖诚属危险，经一次风浪堤岸又是一样光景，康熙谕所奏虽如此恐未可易视。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承勋",
+   "role": "兵部尚书"
+  }
+ ],
+ "places": [
+  "洪泽湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17810,
+ "page_range": "366-367"
+}

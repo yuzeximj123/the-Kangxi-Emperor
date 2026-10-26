@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十五年三月初六日",
+ "reign_year": 55,
+ "month": 3,
+ "day": 1,
+ "event_role": "请安谢恩",
+ "summary": "原任古北口提督马进良奏谢康熙帝赏赐匾额食物及朱批垂问，并进献藏香等物恭祝万寿。",
+ "people": [
+  {
+   "name": "马进良",
+   "role": "原任古北口提督，奏折作者"
+  },
+  {
+   "name": "刘祥",
+   "role": "马进良家人，奉命进献物品"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝先朱批告知自己安好、询问马进良近况，后又朱批知道了。",
+ "source_title": "原任古北口提督馬進良奏謝恩賜扁額及食物並祝萬壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "198",
+ "order_index": 251
+}

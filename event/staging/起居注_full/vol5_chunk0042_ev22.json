@@ -1,0 +1,32 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": "初一日乙未",
+ "event_role": "谕旨决策",
+ "summary": "理藩院题阿喇尼等会同时将根敦代青暂为扎萨克，俟其亲身到日另议品级。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿喇尼",
+   "role": "前尚书"
+  },
+  {
+   "name": "根敦代青",
+   "role": "扎萨克"
+  },
+  {
+   "name": "班第",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "库伦白尔齐里"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4222,
+ "page_range": "94-95"
+}

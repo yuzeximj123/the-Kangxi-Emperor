@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "初十日甲午",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁学士丹代升任员缺，康熙帝询问可用之人，明珠等奏赛弼汉历任最久办事极勤，遂命升补内阁学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "赛弼汉",
+   "role": "侍读学士"
+  },
+  {
+   "name": "色勒布",
+   "role": "侍读学士"
+  },
+  {
+   "name": "尹泰",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13917,
+ "page_range": "313-314"
+}

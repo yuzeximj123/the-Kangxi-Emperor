@@ -1,0 +1,20 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "工部覆请更换龙江关监督，开列关保等二十人职名，康熙帝命询问各该部堂官有无具奏。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "营造司员外郎"
+  }
+ ],
+ "places": [
+  "龙江关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21301,
+ "page_range": "437-438"
+}

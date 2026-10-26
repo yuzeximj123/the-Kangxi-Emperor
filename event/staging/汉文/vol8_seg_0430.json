@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙六十一年十二月初二日",
+ "reign_year": 61,
+ "month": 12,
+ "day": 1,
+ "event_role": "奏报地方情形",
+ "summary": "杭州织造孙文成奏报杭州十一月粮米时价，白米每石一两一钱六分，稜子米每石一两零六分，麦子每石九钱八分。",
+ "people": [
+  {
+   "name": "孙文成",
+   "role": "杭州织造"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "杭州織造孫文成奏報糧價摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "3016",
+ "order_index": 430
+}

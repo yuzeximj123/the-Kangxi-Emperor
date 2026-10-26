@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "十七日辛丑",
+ "event_role": "司法案件",
+ "summary": "刑部秋审陕西缓决罪犯王生彩因李希泉盗葱而拉其外肾致死，康熙帝以勘语未提盗葱之处命改正具奏。",
+ "people": [
+  {
+   "name": "王生彩",
+   "role": "罪犯"
+  },
+  {
+   "name": "李希泉",
+   "role": "被害人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13221,
+ "page_range": "275-276"
+}

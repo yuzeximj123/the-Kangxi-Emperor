@@ -1,0 +1,21 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": "十八日乙未",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝率诸王、贝勒、贝子、公、内大臣、侍卫、满汉大学士齐宁寿宫行礼，未入八分公及文武官员于午门外随班行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁寿宫",
+  "午门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1008,
+ "page_range": "31-32"
+}

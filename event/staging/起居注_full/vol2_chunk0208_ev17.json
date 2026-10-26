@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "二十九日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝责刑部事件过限不结者多，疑有故意勒掯犯人营私情弊，命务在限内完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀尔图",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "魏象枢",
+   "role": "汉尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20817,
+ "page_range": "459-460"
+}

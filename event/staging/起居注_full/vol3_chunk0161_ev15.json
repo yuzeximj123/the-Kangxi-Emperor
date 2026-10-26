@@ -1,0 +1,25 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十一日甲戌",
+ "event_role": "奏报地方情形",
+ "summary": "康熙问江苏风俗，汤斌奏称遵奉谕旨朝夕告诫，奢侈浮华之风渐改观。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [
+  "江苏",
+  "苏州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16115,
+ "page_range": "357-358"
+}

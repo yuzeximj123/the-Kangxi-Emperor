@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙伍拾玖年闰月拾肆日",
+ "reign_year": 59,
+ "month": null,
+ "day": 14,
+ "event_role": "贸易漕运",
+ "summary": "奴才杨万林奏报本港回棹发船十六只、自安南贸易回广商船四只及搭班回籍男妇三百零五名口，并附进季东忠奏折一封。",
+ "people": [
+  {
+   "name": "杨万林",
+   "role": "奏报人（奴才）"
+  },
+  {
+   "name": "季东忠",
+   "role": "附奏折之人"
+  }
+ ],
+ "places": [
+  "本港",
+  "安南",
+  "广"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 286
+}

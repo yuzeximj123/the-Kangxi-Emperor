@@ -1,0 +1,21 @@
+{
+ "reign_year": 29,
+ "month": 8,
+ "day_text": "初六日甲子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝自行宫启行，由密云县乘船至牛兰山驻跸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "密云县",
+  "牛兰山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12733,
+ "page_range": "266-267"
+}

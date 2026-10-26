@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "二十八日癸未",
+ "event_role": "贸易漕运",
+ "summary": "总河靳辅题报浙江台州卫运丁杨瑞林粮艘撞损沉没漕米七百石、淹死男妇四口，户部议免赔，康熙帝准免并不为例。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "杨瑞林",
+   "role": "运丁"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江台州卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1820,
+ "page_range": "79-80"
+}

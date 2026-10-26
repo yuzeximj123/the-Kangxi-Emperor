@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十五日王寅",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早御行幄，大学士、学士等面奏折本毕，康熙帝论及盛京、乌喇武职官员孱弱及子弟承袭旧例应复旧事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "大学士",
+   "role": "大学士"
+  },
+  {
+   "name": "学士",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "盛京",
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11800,
+ "page_range": "279-280"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "十一日癸未",
+ "event_role": "谕旨决策",
+ "summary": "朝觐各官事毕例给刊刻谕旨，勒德洪等进呈所拟谕旨，康熙帝评朝觐官所奏未详晰，惟麻尔图称陕西拖欠钱粮分四年带征似属可行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "麻尔图",
+   "role": "朝觐官"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17314,
+ "page_range": "389-390"
+}

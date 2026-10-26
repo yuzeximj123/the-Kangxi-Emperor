@@ -1,0 +1,28 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "大学士王熙、尚书鄂尔多等奏称皇上勤政爱民、焦心祈雨，望皇上照常起居以慰臣民之望。",
+ "people": [
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "鄂尔多",
+   "role": "尚书"
+  },
+  {
+   "name": "张英",
+   "role": "礼部侍郎"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7406,
+ "page_range": "160-161"
+}

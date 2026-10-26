@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初三日成午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝认为张志栋参张永祺、冯源济甚当，但参黄机衰老宜罢过当，称黄机为老成人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张志栋",
+   "role": "御史"
+  },
+  {
+   "name": "黄机",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "张永祺",
+   "role": "大理寺少卿"
+  },
+  {
+   "name": "冯源济",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2517,
+ "page_range": "93-94"
+}

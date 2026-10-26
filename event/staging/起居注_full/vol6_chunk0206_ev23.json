@@ -1,0 +1,29 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "十四日庚午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝赐阿鲁科尔沁三品台吉巴朗等一百五十八台吉、扎鲁特贝勒毕禄瓦等一百五十八台吉白金。",
+ "people": [
+  {
+   "name": "巴朗",
+   "role": "三品台吉"
+  },
+  {
+   "name": "毕禄瓦",
+   "role": "扎鲁特多罗贝勒"
+  },
+  {
+   "name": "厄布根",
+   "role": "协理旗分事三品台吉"
+  }
+ ],
+ "places": [
+  "阿鲁科尔沁",
+  "扎鲁特"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20623,
+ "page_range": "422-423"
+}

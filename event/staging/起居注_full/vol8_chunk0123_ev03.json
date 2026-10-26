@@ -1,0 +1,33 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题罗文峪口防御张武等抵销所加一级仍降一级调用，遵化州知州刘之琨已报部，康熙帝从宽免其降调。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张武",
+   "role": "罗文峪口防御"
+  },
+  {
+   "name": "刘之琨",
+   "role": "遵化州知州"
+  },
+  {
+   "name": "折库诺",
+   "role": "防御"
+  }
+ ],
+ "places": [
+  "罗文峪口",
+  "遵化州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12303,
+ "page_range": "257-258"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": "初一日壬戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕知县系亲民之官，当洁己奉公、爱民如赤子，否则国法具在。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈协浚",
+   "role": "句容县知县"
+  }
+ ],
+ "places": [
+  "句容县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5521,
+ "page_range": "145-146"
+}

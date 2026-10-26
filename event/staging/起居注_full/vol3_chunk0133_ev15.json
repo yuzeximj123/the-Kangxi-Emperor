@@ -1,0 +1,24 @@
+{
+ "reign_year": 24,
+ "month": 12,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "起居注臣等总述康熙二十四年休兵息民、德政广被、幅员府库极盛及皇上勤学崇儒、赈灾恤民、武功远播等盛德。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶",
+  "淮扬",
+  "齐鲁",
+  "河南",
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13315,
+ "page_range": "301-302"
+}

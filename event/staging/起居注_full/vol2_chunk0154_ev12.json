@@ -1,0 +1,21 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "二十七日庚子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝出罗文峪口，驻跸拦羊口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "罗文峪口",
+  "拦羊口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15412,
+ "page_range": "351-352"
+}

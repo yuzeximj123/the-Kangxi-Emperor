@@ -1,0 +1,29 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初三日丁亥",
+ "event_role": "人事任免",
+ "summary": "明珠等议赵良栋在汉中云南有劳绩应给还原官，康熙帝令拟上传来奏。",
+ "people": [
+  {
+   "name": "赵良栋",
+   "role": "被议官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汉中",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15207,
+ "page_range": "339-340"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "二十七日戊子",
+ "event_role": "司法案件",
+ "summary": "刑部议阮彦锦与阮孟勤争水灌田咬伤致阮孟勤死亡案，拟即行处斩，康熙帝改为拟斩监候秋后处决。",
+ "people": [
+  {
+   "name": "阮彦锦",
+   "role": "案犯"
+  },
+  {
+   "name": "阮孟勤",
+   "role": "被害人"
+  },
+  {
+   "name": "觉罗满保",
+   "role": "浙闽总督"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13127,
+ "page_range": "273-274"
+}

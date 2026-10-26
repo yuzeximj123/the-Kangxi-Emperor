@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 9,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝召礼部尚书熊赐履近前问身体，熊赐履称颂皇上圣学圣孝，并奏居江南久知河道，言下河已挑滩、靳辅所挑中河有益，又谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "礼部尚书"
+  }
+ ],
+ "places": [
+  "江南",
+  "中河",
+  "下河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4001,
+ "page_range": "92-93"
+}

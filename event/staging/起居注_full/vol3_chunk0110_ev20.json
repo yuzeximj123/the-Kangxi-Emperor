@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初二日己丑",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问诸臣意见，明珠等奏高士奇等学问俱优，康熙帝以归允肃颇优命补授少詹事。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "高士奇",
+   "role": "侍读学士"
+  },
+  {
+   "name": "归允肃",
+   "role": "侍读学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11020,
+ "page_range": "255-256"
+}

@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十三年四月初一日",
+ "reign_year": 43,
+ "month": 4,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "宋犒奏谢御赐虎肉鹿肉等物并恭请皇上及皇太子安，另报御制诗装字改正事。",
+ "people": [
+  {
+   "name": "宋犒",
+   "role": "奏报人"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江寧",
+  "蘇州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "7",
+ "source_title": "江寧巡撫宋犖奏謝御賜鹿肉並請萬安摺",
+ "order_index": 61
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆河南巡抚李锡所题宋崇礼戳死小功服兄宋尚佳案，拟即行正法，帝改为应斩监候、秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李锡",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "宋崇礼",
+   "role": "案犯"
+  },
+  {
+   "name": "宋尚佳",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9902,
+ "page_range": "209-210"
+}

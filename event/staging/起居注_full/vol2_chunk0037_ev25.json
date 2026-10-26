@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初十日甲午",
+ "event_role": "人事任免",
+ "summary": "吏部题补侍讲学士员缺，康熙帝询问阿哈达为人，明珠称其才具优长，遂命阿哈达补授。",
+ "people": [
+  {
+   "name": "格思泰",
+   "role": "考试人员"
+  },
+  {
+   "name": "阿哈达",
+   "role": "拟补侍讲学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3725,
+ "page_range": "117-118"
+}

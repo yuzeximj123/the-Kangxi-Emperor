@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十三日乙丑",
+ "event_role": "人事任免",
+ "summary": "题补户部郎中员缺，康熙帝询问后命以穆詹补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "踢什图",
+   "role": "工部员外郎、拟正"
+  },
+  {
+   "name": "穆詹",
+   "role": "补授户部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5213,
+ "page_range": "147-148"
+}

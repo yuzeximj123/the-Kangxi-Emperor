@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "初十日癸亥",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕遵义府既复，噶尔汉等不必赴遵义，着往叙州速赴云南，并议撤乌喇宁古塔盛京兵丁等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔汉",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "遵义府",
+  "叙州府",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4218,
+ "page_range": "127-128"
+}

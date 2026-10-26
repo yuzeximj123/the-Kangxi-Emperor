@@ -1,0 +1,38 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "理藩院等题鄂尔斋图等截死托罗木案，康熙帝令鄂尔斋图立斩，伊洛尔图、班第、诺尔穆改斩监候秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂尔斋图",
+   "role": "案犯"
+  },
+  {
+   "name": "托罗木",
+   "role": "被害人"
+  },
+  {
+   "name": "伊洛尔图",
+   "role": "案犯"
+  },
+  {
+   "name": "班第",
+   "role": "案犯"
+  },
+  {
+   "name": "诺尔穆",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11803,
+ "page_range": "247-248"
+}

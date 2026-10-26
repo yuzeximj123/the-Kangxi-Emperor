@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": "初二日壬寅",
+ "event_role": "人事任免",
+ "summary": "提督直隶学政杨大鹤升辞请训，康熙帝谕其效法李光地并自惜名节，杨大鹤奏谢恩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨大鹤",
+   "role": "提督直隶学政"
+  },
+  {
+   "name": "李光地",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7717,
+ "page_range": "164-165"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 8,
+ "day_text": "二十二日乙卯",
+ "event_role": "人事任免",
+ "summary": "康熙御乾清门听政，览兵部所呈八旗汉军都统、副都统及镶蓝旗护军参领绿头签，指出笃库、友英格庸常不能驭下应解任，命议奏。",
+ "people": [
+  {
+   "name": "笃库",
+   "role": "镶蓝旗护军参领"
+  },
+  {
+   "name": "友英格",
+   "role": "正红旗护军参领"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4103,
+ "page_range": "117-118"
+}

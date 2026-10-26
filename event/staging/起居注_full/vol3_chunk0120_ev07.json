@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "初六日",
+ "event_role": "人事任免",
+ "summary": "侍读明图升任员缺以何托转补，侍讲员缺拟达哈塔正、常在陪，康熙帝命补授学问颇优之西安。",
+ "people": [
+  {
+   "name": "明图",
+   "role": "侍读"
+  },
+  {
+   "name": "何托",
+   "role": "侍讲转补"
+  },
+  {
+   "name": "达哈塔",
+   "role": "员外郎拟正"
+  },
+  {
+   "name": "常在",
+   "role": "拟陪"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "西安",
+   "role": "一等应升人员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12007,
+ "page_range": "275-276"
+}

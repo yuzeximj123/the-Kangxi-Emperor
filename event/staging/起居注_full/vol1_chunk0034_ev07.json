@@ -1,0 +1,29 @@
+{
+ "reign_year": 12,
+ "month": 2,
+ "day_text": "二十八日己北",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕工部尚书吴达礼等，黄河清水潭一带要地工程总河王光裕未奏闻，令选官前往看视并明日引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴达礼",
+   "role": "工部尚书"
+  },
+  {
+   "name": "王光裕",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "黄河",
+  "清水潭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 3407,
+ "page_range": "125-126"
+}

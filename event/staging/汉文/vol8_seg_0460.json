@@ -1,0 +1,29 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "宁夏总兵孙时捷上奏向皇帝请安，康熙朱批回复自己安好，并称近来听闻其声名甚好，勉励其今后更加小心、始终如一。",
+ "people": [
+  {
+   "name": "孙时捷",
+   "role": "镇守陕西宁夏等处地方总兵官左都督世袭一等精奇呢哈番，上奏请安者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，朱批回复者"
+  }
+ ],
+ "places": [
+  "陕西",
+  "宁夏"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，并称近来听闻孙时捷声名甚好，勉励其今后更加小心、始终如一。",
+ "source_title": "（宁夏总兵请安）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 460
+}

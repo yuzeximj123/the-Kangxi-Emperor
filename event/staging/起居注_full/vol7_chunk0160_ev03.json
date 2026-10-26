@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "初二日辛卯",
+ "event_role": "司法案件",
+ "summary": "吏部覆请将偏沅巡抚赵申乔题参辰州府知府迟烯衙门养戏子不时演唱有误公事照例革职，康熙帝认为小事不合例，不必苛求。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "迟烯",
+   "role": "辰州府知府"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "辰州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16003,
+ "page_range": "331-332"
+}

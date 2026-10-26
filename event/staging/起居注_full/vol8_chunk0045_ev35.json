@@ -1,0 +1,20 @@
+{
+ "reign_year": 52,
+ "month": 11,
+ "day_text": "二十三日丁卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸兰阳地方。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "兰阳地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4535,
+ "page_range": "101-102"
+}

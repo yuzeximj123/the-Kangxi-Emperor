@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部覆请云南按察使刘曾员缺，应调道员引见，开列济东道申大成等职名，康熙命问九卿。",
+ "people": [
+  {
+   "name": "刘曾",
+   "role": "云南按察使"
+  },
+  {
+   "name": "申大成",
+   "role": "济东道"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21401,
+ "page_range": "439-440"
+}

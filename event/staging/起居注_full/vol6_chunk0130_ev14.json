@@ -1,0 +1,26 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "十六日庚辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝论治边称汉赵充国论治边最详，伊桑阿奏颂康熙帝亲征蒙古之事。",
+ "people": [
+  {
+   "name": "赵充国",
+   "role": "汉臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13014,
+ "page_range": "270-271"
+}

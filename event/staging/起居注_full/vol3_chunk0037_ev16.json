@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "二十八日壬辰",
+ "event_role": "人事任免",
+ "summary": "顺天乡试拟差正副主考，康熙帝责刘九思错传旨意，令另开列进士出身官员。",
+ "people": [
+  {
+   "name": "刘九思",
+   "role": "批本笔帖式"
+  },
+  {
+   "name": "高士奇",
+   "role": "学士"
+  },
+  {
+   "name": "张廷玉",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3716,
+ "page_range": "109-110"
+}

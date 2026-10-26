@@ -1,0 +1,20 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "初五日",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门升座，升转文武官员谢恩，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 703,
+ "page_range": "24-25"
+}

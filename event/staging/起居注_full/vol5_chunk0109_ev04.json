@@ -1,0 +1,28 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕领侍卫内大臣索额图、大学士伊桑阿，古北口绿旗兵车辆载重无相助之人，令议其行走次序，议政大臣议定留御营兵后行走，康熙帝依议命马武前往谕止。",
+ "people": [
+  {
+   "name": "索额图",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "马武",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10904,
+ "page_range": "228-229"
+}

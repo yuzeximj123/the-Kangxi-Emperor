@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十五年（未标日期）",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "（未标日期）",
+ "event_role": "议政听政",
+ "summary": "康熙帝与马齐议宋衡请封孔子四代事，认为至圣先师之称不可增减",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "宋衡",
+   "role": "四川提督学政"
+  },
+  {
+   "name": "孔子",
+   "role": "受封对象"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3213
+}

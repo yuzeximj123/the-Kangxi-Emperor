@@ -1,0 +1,21 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "十作日乙西",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝由陆路还京师，驻跸武清县三家芭店南；沿途百姓夹道伏迎、献物，帝驻马慰劳，舟行时夹岸欢迎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "武清县",
+  "三家芭店"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6319,
+ "page_range": "138-139"
+}

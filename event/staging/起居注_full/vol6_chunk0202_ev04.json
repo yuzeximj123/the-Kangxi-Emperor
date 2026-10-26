@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "十三日己亥",
+ "event_role": "人事任免",
+ "summary": "吏部拟中允许天隆升补侍讲员缺，康熙以其衰弱，命传许天隆验看再奏。",
+ "people": [
+  {
+   "name": "许天隆",
+   "role": "中允"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20204,
+ "page_range": "414-415"
+}

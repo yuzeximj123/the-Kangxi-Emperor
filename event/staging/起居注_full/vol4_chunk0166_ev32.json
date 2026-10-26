@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "十二日癸巳",
+ "event_role": "人事任免",
+ "summary": "兵部题正白旗满洲副都统郎基达员缺，以侍郎温达等职名开列；康熙帝称参领内无堪任之人，侍卫吴达禅颇优，命以此员缺补授。",
+ "people": [
+  {
+   "name": "郎基达",
+   "role": "正白旗满洲副都统"
+  },
+  {
+   "name": "温达",
+   "role": "侍郎"
+  },
+  {
+   "name": "吴达禅",
+   "role": "侍卫"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16632,
+ "page_range": "344-345"
+}

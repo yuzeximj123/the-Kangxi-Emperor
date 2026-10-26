@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述亲政后留意罗刹地势，决意出师征讨，并遣侍卫关保等谕令将士勿杀归诚之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "关保",
+   "role": "亲随侍卫"
+  }
+ ],
+ "places": [
+  "雅克萨",
+  "罗刹"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9600,
+ "page_range": "227-228"
+}

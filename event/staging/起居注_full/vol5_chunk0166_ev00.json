@@ -1,0 +1,36 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "喀尔喀协理台吉多和尔几斯喀布等称所带兵丁粮尽无冬衣，请旨或撤回或留。",
+ "people": [
+  {
+   "name": "多和尔几斯喀布",
+   "role": "协理台吉"
+  },
+  {
+   "name": "苏代",
+   "role": "协理台吉"
+  },
+  {
+   "name": "车木楚克",
+   "role": "辅国公"
+  },
+  {
+   "name": "纳木洼尔",
+   "role": "辅国公"
+  },
+  {
+   "name": "阿玉特",
+   "role": "卫征诺颜"
+  }
+ ],
+ "places": [
+  "土喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16600,
+ "page_range": "342-343"
+}

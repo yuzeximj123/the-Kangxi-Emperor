@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 3,
+ "day_text": "初七日庚申",
+ "event_role": "祭祀典礼",
+ "summary": "奉移两皇后梓宫将安地宫，康熙帝亲临，遣康亲王杰淑、端亲王博果铎读祝致祭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杰淑",
+   "role": "康亲王"
+  },
+  {
+   "name": "博果铎",
+   "role": "端亲王"
+  }
+ ],
+ "places": [
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4206,
+ "page_range": "127-128"
+}

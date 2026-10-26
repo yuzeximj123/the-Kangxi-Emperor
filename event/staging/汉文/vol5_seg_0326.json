@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十三年十月十六日",
+ "reign_year": 53,
+ "month": 10,
+ "day": 16,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦恭请皇帝万安，康熙朱批告知其此前所奏扬州织造亏空未提及江南亏空，令其到京后再问。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造、管理扬州织造大理寺卿草职留任"
+  }
+ ],
+ "places": [
+  "扬州",
+  "江南",
+  "景（京）"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知江南亦有亏空，令李煦到京后再问。",
+ "source_title": "蘇州織造李煦奏請萬安摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1684",
+ "order_index": 326
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "初一日壬戌",
+ "event_role": "司法案件",
+ "summary": "兵部议原任郧阳抚治杨茂勋、提督佟国瑶罪拟削军功加级，康熙帝命削杨茂勋而佟国瑶有保守郧阳功免削，明珠奏国瑶功绩免议削。",
+ "people": [
+  {
+   "name": "杨茂勋",
+   "role": "原任郧阳抚治"
+  },
+  {
+   "name": "佟国瑶",
+   "role": "提督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "郧阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20919,
+ "page_range": "475-476"
+}

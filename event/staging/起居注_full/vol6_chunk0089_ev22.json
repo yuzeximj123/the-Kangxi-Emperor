@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "十三日于子",
+ "event_role": "人事任免",
+ "summary": "吏部题原任兖州府知府陈于耶因解送犯人迟延革职，康熙帝准复还原职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈于耶",
+   "role": "原任兖州府知府"
+  }
+ ],
+ "places": [
+  "兖州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8922,
+ "page_range": "188-189"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 16,
+ "month": 6,
+ "day_text": "二十四日已已",
+ "event_role": "其他",
+ "summary": "未时康熙帝御保和殿，赐进贡的捷鲁特部洲员尔当台吉来使巴图儿温布、噶尔玛代清和硕齐来使巴图尔下等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴图儿温布",
+   "role": "捷鲁特部来使"
+  },
+  {
+   "name": "巴图尔下",
+   "role": "噶尔玛代清和硕齐来使"
+  }
+ ],
+ "places": [
+  "保和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14022,
+ "page_range": "337-338"
+}

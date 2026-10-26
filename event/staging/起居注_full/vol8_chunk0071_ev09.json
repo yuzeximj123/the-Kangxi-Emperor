@@ -1,0 +1,32 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议覆湖北巡抚刘殿衡题许有周殴死胞兄许心哲案，请免死枷号，康熙帝令改为秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刘殿衡",
+   "role": "湖北巡抚"
+  },
+  {
+   "name": "许有周",
+   "role": "案犯"
+  },
+  {
+   "name": "许心哲",
+   "role": "死者"
+  }
+ ],
+ "places": [
+  "湖北"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7109,
+ "page_range": "153-154"
+}

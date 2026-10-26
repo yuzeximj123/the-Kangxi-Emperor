@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙五十三年二月二十五日",
+ "reign_year": 53,
+ "month": 2,
+ "day": 25,
+ "event_role": "朝见受贺",
+ "summary": "苏州织造李煦于康熙三月十八日万寿圣诞前，设香案望阙叩头遥祝圣寿，并率两淮商人在天宁寺等寺诵经礼忏，又率妻儿进京叩祝，具摺奏贺。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏贺人"
+  },
+  {
+   "name": "韩氏",
+   "role": "李煦之妻，随同进京叩祝"
+  },
+  {
+   "name": "以需",
+   "role": "李煦之子，随同进京叩祝"
+  }
+ ],
+ "places": [
+  "苏州",
+  "天宁寺",
+  "江天寺",
+  "高旻",
+  "香阜",
+  "静慧寺",
+  "京"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "苏州织造李煦奏贺万寿摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 170
+}

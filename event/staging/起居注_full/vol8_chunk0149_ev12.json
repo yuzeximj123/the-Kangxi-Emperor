@@ -1,0 +1,29 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "北新关监督宋阿礼、荆关监督华责题请展限三月，康熙帝以展限无益，令俟任满时交该抚监收。",
+ "people": [
+  {
+   "name": "宋阿礼",
+   "role": "北新关监督"
+  },
+  {
+   "name": "华责",
+   "role": "荆关监督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "北新关",
+  "荆关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14912,
+ "page_range": "309-310"
+}

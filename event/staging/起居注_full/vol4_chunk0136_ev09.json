@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 12,
+ "day_text": "初三日己未",
+ "event_role": "朝见受贺",
+ "summary": "镇守湖广襄阳等处总兵官师帝宾陛见，奏陈才轻任重求皇上训谕，康熙帝谕以仍如在三屯营时居官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "师帝宾",
+   "role": "镇守湖广襄阳等处总兵官"
+  }
+ ],
+ "places": [
+  "湖广襄阳",
+  "三屯营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 13609,
+ "page_range": "284-285"
+}

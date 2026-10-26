@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "初二日两子",
+ "event_role": "奏报地方情形",
+ "summary": "国子监祭酒德白色等代太学生刘枝桂等五百余人具题，请皇上勉遵遗诰，行以日易月之制。",
+ "people": [
+  {
+   "name": "德白色",
+   "role": "国子监祭酒"
+  },
+  {
+   "name": "刘枝桂",
+   "role": "太学生"
+  }
+ ],
+ "places": [
+  "午门外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3,
+ "page_range": "12-13"
+}

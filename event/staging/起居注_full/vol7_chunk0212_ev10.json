@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": "二十二日乙已",
+ "event_role": "谕旨决策",
+ "summary": "覆请赵申乔题请增云南贵州广西进士额数，康熙帝谕令增加并命九卿会议具奏，另议覆试不到者及革退补取办法。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵申乔",
+   "role": "左都御史"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南",
+  "贵州",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21210,
+ "page_range": "435-436"
+}

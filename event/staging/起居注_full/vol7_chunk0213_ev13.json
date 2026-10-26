@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝论松江提督师蒙德居官优但西北人不服南方水土，今已有病，虑其久在江南可虑。",
+ "people": [
+  {
+   "name": "师蒙德",
+   "role": "松江提督"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "松江",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21313,
+ "page_range": "437-438"
+}

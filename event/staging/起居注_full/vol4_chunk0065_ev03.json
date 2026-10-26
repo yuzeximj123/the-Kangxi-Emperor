@@ -1,0 +1,29 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "二十六日癸巳",
+ "event_role": "河工水利",
+ "summary": "户部题覆苏常粮道钱捷、署常镇道事王燕不挑浚河道应交吏部，康熙帝谕令察明严加议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钱捷",
+   "role": "苏常粮道"
+  },
+  {
+   "name": "王燕",
+   "role": "署常镇道事镇江府知府"
+  }
+ ],
+ "places": [
+  "苏常",
+  "常镇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6503,
+ "page_range": "142-143"
+}

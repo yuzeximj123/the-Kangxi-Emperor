@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "三十日丙申",
+ "event_role": "人事任免",
+ "summary": "刑部尚书魏象枢以病请解任，康熙帝以其晕倒系旧疾，命照旧供职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 315,
+ "page_range": "41-42"
+}

@@ -1,0 +1,37 @@
+{
+ "reign_year": 31,
+ "month": 9,
+ "day_text": "二十三日己巳",
+ "event_role": "人事任免",
+ "summary": "吏部题湖广巡抚员缺，康熙帝称吴琠居官甚善，命以江宁织造桑格补授。",
+ "people": [
+  {
+   "name": "吴琠",
+   "role": "湖广巡抚"
+  },
+  {
+   "name": "本思孔",
+   "role": "总督"
+  },
+  {
+   "name": "王梁",
+   "role": "近抚"
+  },
+  {
+   "name": "桑格",
+   "role": "江宁织造"
+  },
+  {
+   "name": "费雅过",
+   "role": "桑格之兄"
+  }
+ ],
+ "places": [
+  "湖广",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20802,
+ "page_range": "428-429"
+}

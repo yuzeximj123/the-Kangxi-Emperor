@@ -1,0 +1,28 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "初十日辛酉",
+ "event_role": "请安谢恩",
+ "summary": "贵州巡抚卫既齐陛辞请训，康熙帝遣侍卫传谕居官之道清正无偏，卫既齐奏谨志遵行。",
+ "people": [
+  {
+   "name": "卫既齐",
+   "role": "贵州巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦住",
+   "role": "奏事"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16011,
+ "page_range": "332-333"
+}

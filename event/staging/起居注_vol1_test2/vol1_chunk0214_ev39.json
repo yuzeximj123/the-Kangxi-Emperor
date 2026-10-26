@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": "十五日乙已",
+ "event_role": "司法案件",
+ "summary": "班布尔善侄巴尔善、博尔都等诉讼议覆不准事，康熙帝有所谕示。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "班布尔善",
+   "role": "官员"
+  },
+  {
+   "name": "巴尔善",
+   "role": "班布尔善侄"
+  },
+  {
+   "name": "博尔都",
+   "role": "班布尔善侄"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21439,
+ "page_range": "485-486"
+}

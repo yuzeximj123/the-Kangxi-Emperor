@@ -1,0 +1,30 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "十八日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "户部题两江总督阿山请赈济邳州等十一州县及徐州卫灾民，帝令不必交张鹏翮，仍令阿山等一同赈济。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "邳州",
+  "徐州",
+  "睢宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7615,
+ "page_range": "163-164"
+}

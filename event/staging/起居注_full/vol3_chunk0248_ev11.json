@@ -1,0 +1,36 @@
+{
+ "reign_year": 26,
+ "month": 10,
+ "day_text": "初八日癸丑",
+ "event_role": "人事任免",
+ "summary": "刑部尚书雇旦以老病乞休，康熙帝命拟旨照旧供职。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "禅布",
+   "role": "学士"
+  },
+  {
+   "name": "额尔黑图",
+   "role": "学士"
+  },
+  {
+   "name": "觉罗玫拜",
+   "role": "学士"
+  },
+  {
+   "name": "雇旦",
+   "role": "刑部尚书"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 24811,
+ "page_range": "531-532"
+}

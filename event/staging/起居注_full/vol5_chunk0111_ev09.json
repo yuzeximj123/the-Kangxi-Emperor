@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 4,
+ "day_text": "初三日戊子",
+ "event_role": "奏报地方情形",
+ "summary": "乾清门侍卫马武奏报古北口一路火器营兵已接镶蓝旗后队，康熙帝降旨仍照常行走。",
+ "people": [
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11109,
+ "page_range": "232-233"
+}

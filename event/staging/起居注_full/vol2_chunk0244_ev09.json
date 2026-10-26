@@ -1,0 +1,42 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "明珠奏问徐元文、朱之绚推举王坟、胡悉宁缘由，康熙帝以王坟良劣、或有情弊命察议，所改推许弘勋等驳回另举。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐元文",
+   "role": "都御史"
+  },
+  {
+   "name": "朱之绚",
+   "role": "尚书"
+  },
+  {
+   "name": "王坟",
+   "role": "被推举者"
+  },
+  {
+   "name": "胡悉宁",
+   "role": "被推举者"
+  },
+  {
+   "name": "许弘勋",
+   "role": "改推者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24409,
+ "page_range": "531-532"
+}

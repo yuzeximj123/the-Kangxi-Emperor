@@ -1,0 +1,33 @@
+{
+ "reign_year": 50,
+ "month": 3,
+ "day_text": "二十六日乙卯",
+ "event_role": "人事任免",
+ "summary": "吏部覆广西巡抚梁世勋题养利州知州李敬早员缺，请以吴狂调补，康熙帝命照该抚所请调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "梁世勋",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "李敬早",
+   "role": "养利州知州"
+  },
+  {
+   "name": "吴狂",
+   "role": "全州知州"
+  }
+ ],
+ "places": [
+  "养利州",
+  "全州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16213,
+ "page_range": "335-336"
+}

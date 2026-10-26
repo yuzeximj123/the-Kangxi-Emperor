@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙四十五年十二月十一日",
+ "reign_year": 45,
+ "month": 12,
+ "day": 11,
+ "event_role": "奏报灾情收成",
+ "summary": "李树德与师懿德会商天津开垦稻田收成及稻谷交仓暂贮事宜并请旨。",
+ "people": [
+  {
+   "name": "李树德",
+   "role": "奏报人"
+  },
+  {
+   "name": "师懿德",
+   "role": "联署人"
+  },
+  {
+   "name": "存住",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "山东",
+  "天津",
+  "直隶"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批同意所议，即依议。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "207",
+ "source_title": "直隶巡抚赵弘燮奏报瑞雪分寸摺（康熙四十五年十二月十一日）",
+ "order_index": 152
+}

@@ -1,0 +1,58 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "二十八日王午",
+ "event_role": "人事任免",
+ "summary": "吏部题补内阁侍读学士索诺和员缺，康熙帝询问诸人学问人品，命傅继祖补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "索诺和",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "吴什巴",
+   "role": "郎中"
+  },
+  {
+   "name": "明格礼",
+   "role": "郎中"
+  },
+  {
+   "name": "西安",
+   "role": "侍讲"
+  },
+  {
+   "name": "傅继祖",
+   "role": "侍讲"
+  },
+  {
+   "name": "博济",
+   "role": "官员"
+  },
+  {
+   "name": "徐元梦",
+   "role": "官员"
+  },
+  {
+   "name": "德格勒",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15019,
+ "page_range": "335-336"
+}

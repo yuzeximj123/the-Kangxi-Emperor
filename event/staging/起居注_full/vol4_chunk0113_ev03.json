@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝阅读李光弼与史思明战于邙山败绩论，评论兵机迅速关系最重，轻信浮说及令中使督师往往败事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光弼",
+   "role": "历史人物"
+  },
+  {
+   "name": "史思明",
+   "role": "历史人物"
+  },
+  {
+   "name": "杜讷",
+   "role": "臣"
+  }
+ ],
+ "places": [
+  "邙山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11303,
+ "page_range": "238-239"
+}

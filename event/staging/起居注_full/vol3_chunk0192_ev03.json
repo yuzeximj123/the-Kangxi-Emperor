@@ -1,0 +1,33 @@
+{
+ "reign_year": 25,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "王熙奏赵之黑系满城县人居住保定府居乡亦可，康熙帝询问张觅居官如何。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "赵之黑",
+   "role": "官员"
+  },
+  {
+   "name": "张觅",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "满城县",
+  "保定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19203,
+ "page_range": "419-420"
+}

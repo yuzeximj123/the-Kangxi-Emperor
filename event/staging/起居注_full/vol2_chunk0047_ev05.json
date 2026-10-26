@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 4,
+ "day_text": "初六日己丑",
+ "event_role": "议政听政",
+ "summary": "早，康熙帝御行宫，大学士、学士捧折本面奏请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "大学士",
+   "role": "大学士"
+  },
+  {
+   "name": "学士",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4705,
+ "page_range": "137-138"
+}

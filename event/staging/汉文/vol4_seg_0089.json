@@ -1,0 +1,37 @@
+{
+ "date_raw": "康熙伍拾叁年陆月",
+ "reign_year": 53,
+ "month": 6,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "户部等部尚书穆和伦等奉上谕前往江南查审事务，奏报带领工部、户部等官员王允夷、旧琳、克绳等随行办事，并请旨。",
+ "people": [
+  {
+   "name": "穆和伦",
+   "role": "户部等部尚书，领衔奏事"
+  },
+  {
+   "name": "王允夷",
+   "role": "工部制造库郎中办理浒墅关库事、镶黄旗京庄户部郎中（河南人）"
+  },
+  {
+   "name": "旧琳",
+   "role": "别部主事、镛白旗"
+  },
+  {
+   "name": "克绳",
+   "role": "户部主事、正蓝旗"
+  }
+ ],
+ "places": [
+  "江南",
+  "浒墅关"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "户部等部尚书穆和伦等奏报凤阳江宁人事折",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 89
+}

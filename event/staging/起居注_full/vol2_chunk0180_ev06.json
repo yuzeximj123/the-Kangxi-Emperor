@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十二日甲子",
+ "event_role": "军务",
+ "summary": "广东提督许贞请带原标下官兵一千员名赴新任，兵部议不准，康熙帝准其带往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许贞",
+   "role": "广东提督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18006,
+ "page_range": "403-404"
+}

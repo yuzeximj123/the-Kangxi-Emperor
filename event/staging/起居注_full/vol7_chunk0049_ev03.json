@@ -1,0 +1,39 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "二十日丙寅",
+ "event_role": "朝见受贺",
+ "summary": "总兵桑格及献县、交河县、乍城县、武邑县知县等来朝见。",
+ "people": [
+  {
+   "name": "桑格",
+   "role": "总兵"
+  },
+  {
+   "name": "杨和希鲁",
+   "role": "献县知县"
+  },
+  {
+   "name": "张菜",
+   "role": "交河县知县"
+  },
+  {
+   "name": "王家双",
+   "role": "乍城县知县"
+  },
+  {
+   "name": "吴世烛",
+   "role": "武邑县知县"
+  }
+ ],
+ "places": [
+  "献县",
+  "交河县",
+  "乍城县",
+  "武邑县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4903,
+ "page_range": "109-110"
+}

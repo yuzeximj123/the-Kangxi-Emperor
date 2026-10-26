@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十五年五月十五日",
+ "reign_year": 55,
+ "month": 5,
+ "day": 15,
+ "event_role": "奏报地方情形",
+ "summary": "直隶总督赵弘燮续报得雨州县情形，但正文实际为李煦奏报福州、扬州米价雨水及进呈晴雨录，并请皇太后万安。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督"
+  },
+  {
+   "name": "李煦",
+   "role": "奴才（奏报人）"
+  }
+ ],
+ "places": [
+  "福州",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批一为“知道了”，一为“未见安”。",
+ "source_title": "直隶总督赵弘燮奏为续报得雨州县折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 551
+}

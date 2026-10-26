@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 12,
+ "day_text": "二十一日甲午",
+ "event_role": "人事任免",
+ "summary": "吏部题顺天府府尹员缺，康熙帝称施世纶、属沂居官皆好，令会同九卿保举具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郝林",
+   "role": "太仆寺卿"
+  },
+  {
+   "name": "施世纶",
+   "role": "前府尹"
+  },
+  {
+   "name": "属沂",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4809,
+ "page_range": "107-108"
+}

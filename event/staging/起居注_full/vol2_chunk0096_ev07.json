@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "初十日己丑",
+ "event_role": "人事任免",
+ "summary": "潘显咯称熟请海道请遣往福建，康熙帝以其妻子在台湾，令遣赴福建听该督酌量用之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "潘显咯",
+   "role": "请遣人员"
+  }
+ ],
+ "places": [
+  "福建",
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9607,
+ "page_range": "235-236"
+}

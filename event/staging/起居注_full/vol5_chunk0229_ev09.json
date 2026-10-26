@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 4,
+ "day_text": "十六日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕大学士伊桑阿，令将库勒纳等所喂马匹骆驼及朱都纳之马一百五十八匹送交索额图，分群送至京城。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "库勒纳",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "朱都纳",
+   "role": "官员"
+  },
+  {
+   "name": "索额图",
+   "role": "内大臣"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 22909,
+ "page_range": "468-469"
+}

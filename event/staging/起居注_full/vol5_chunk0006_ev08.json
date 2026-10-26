@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 2,
+ "day_text": "初二日庚午",
+ "event_role": "人事任免",
+ "summary": "伊桑阿等奏遵旨问九卿，九卿称布政使皆皇上选用之人，喻成龙、佟国佐居官实善；康熙帝命佟国佐升授近抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "喻成龙",
+   "role": "山东布政使"
+  },
+  {
+   "name": "佟国佐",
+   "role": "安徽布政使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 608,
+ "page_range": "22-23"
+}

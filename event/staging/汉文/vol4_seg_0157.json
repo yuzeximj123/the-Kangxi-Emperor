@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙五十二年十二月二十六日",
+ "reign_year": 52,
+ "month": 12,
+ "day": 9,
+ "event_role": "请安谢恩",
+ "summary": "致仕吏部尚书宋荦奏谢皇上特旨宽免其在宜思恭叩阍案内所牵连诸事，并恭请圣安。",
+ "people": [
+  {
+   "name": "宋荦",
+   "role": "致仕吏部尚书加三级，奏折作者"
+  },
+  {
+   "name": "宋筠",
+   "role": "宋荦之子，翰林院庶吉士，代父赍摺陈奏"
+  },
+  {
+   "name": "宜思恭",
+   "role": "叩阍案当事人"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "户部尚书，奏请宽免"
+  },
+  {
+   "name": "阿山",
+   "role": "同案被宽免之臣"
+  }
+ ],
+ "places": [],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "致仕吏部尚書宋犖奏謝特旨寬免宜思恭叩閽案內所牽連諸事摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1255",
+ "order_index": 157
+}

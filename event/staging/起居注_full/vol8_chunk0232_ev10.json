@@ -1,0 +1,30 @@
+{
+ "reign_year": 57,
+ "month": 1,
+ "day_text": "二十日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命将朱天保押住，朱都纳、戴保用九条铁链锁来，交皇子、大臣等严审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱天保",
+   "role": "被押者"
+  },
+  {
+   "name": "朱都纳",
+   "role": "被锁拿者"
+  },
+  {
+   "name": "戴保",
+   "role": "被锁拿者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23210,
+ "page_range": "475-476"
+}

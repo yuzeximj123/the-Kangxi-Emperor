@@ -1,0 +1,29 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "二十四日乙巳",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台门听政，就费扬古条奏炮位铜斤铸钱及芜湖等关添铜事，询问明珠后令九卿等会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "吏科给事中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "瀛台门",
+  "芜湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6205,
+ "page_range": "167-168"
+}

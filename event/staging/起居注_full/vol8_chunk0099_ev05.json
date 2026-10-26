@@ -1,0 +1,24 @@
+{
+ "reign_year": 54,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "台湾总兵官姚堂题请陛见，帝以台湾地远，命不必来京，俟调任时再来陛见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚堂",
+   "role": "台湾总兵官"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9905,
+ "page_range": "209-210"
+}

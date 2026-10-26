@@ -1,0 +1,24 @@
+{
+ "reign_year": 38,
+ "month": 9,
+ "day_text": "二十六日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "户部覆浙江巡抚张葵请卫所官田照民田征银，康熙帝初疑之，后依部议不准行。",
+ "people": [
+  {
+   "name": "张葵",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 11315,
+ "page_range": "236-237"
+}

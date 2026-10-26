@@ -1,0 +1,26 @@
+{
+ "reign_year": 30,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问库勒纳对邵远平的评价，库勒纳称其学问平常、品行不端，康熙帝追问举荐者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "库勒纳",
+   "role": "起居注官"
+  },
+  {
+   "name": "邵远平",
+   "role": "被举荐官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15700,
+ "page_range": "326-327"
+}

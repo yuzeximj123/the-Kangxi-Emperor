@@ -1,0 +1,38 @@
+{
+ "reign_year": 27,
+ "month": 1,
+ "day_text": "十七日辛卯",
+ "event_role": "起居注官记录",
+ "summary": "记录本日起居注官库勒纳、高士奇、博济、朱都纳、戴通、陈元龙。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "起居注官"
+  },
+  {
+   "name": "高士奇",
+   "role": "起居注官"
+  },
+  {
+   "name": "博济",
+   "role": "起居注官"
+  },
+  {
+   "name": "朱都纳",
+   "role": "起居注官"
+  },
+  {
+   "name": "戴通",
+   "role": "起居注官"
+  },
+  {
+   "name": "陈元龙",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 402,
+ "page_range": "20-21"
+}

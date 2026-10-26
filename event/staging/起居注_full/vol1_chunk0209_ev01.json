@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "二十五日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕身体已大愈，汉大学士等跪奏请暂缓南苑之行，帝答南苑之行非为游猎，为水土甘肥静养，行止未定。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "转奏者"
+  }
+ ],
+ "places": [
+  "南苑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20901,
+ "page_range": "475-476"
+}

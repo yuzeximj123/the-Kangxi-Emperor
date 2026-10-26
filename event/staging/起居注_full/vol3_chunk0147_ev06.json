@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "康熙帝召达木巴哈什哈、察汗鄂木布、秉图晓苏等至御座前赐酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达木巴哈什哈",
+   "role": "来使"
+  },
+  {
+   "name": "察汗鄂木布",
+   "role": "来使"
+  },
+  {
+   "name": "秉图晓苏",
+   "role": "来使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14706,
+ "page_range": "329-330"
+}

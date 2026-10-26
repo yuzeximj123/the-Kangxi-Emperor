@@ -1,0 +1,34 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初六日丙寅",
+ "event_role": "人事任免",
+ "summary": "大学士松柱等奏御史内升，左都御史把叙等举张世祺、金应壁、邹放鲁，康熙帝令张世祺、金应壁内升，外转停止这一次。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "把叙",
+   "role": "左都御史"
+  },
+  {
+   "name": "张世祺",
+   "role": "御史"
+  },
+  {
+   "name": "金应壁",
+   "role": "御史"
+  },
+  {
+   "name": "邹放鲁",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13516,
+ "page_range": "281-282"
+}

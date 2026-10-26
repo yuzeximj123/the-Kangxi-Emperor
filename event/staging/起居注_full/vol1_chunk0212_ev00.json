@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部题奏永兴阵亡护军统领哈克山家人硕色和欲强娶主妾，拟绞，康熙认为所议尚轻，命再加严议。",
+ "people": [
+  {
+   "name": "硕色和",
+   "role": "哈克山家人/案犯"
+  },
+  {
+   "name": "哈克山",
+   "role": "永兴阵亡护军统领"
+  },
+  {
+   "name": "四姐",
+   "role": "主妾"
+  }
+ ],
+ "places": [
+  "永兴"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21200,
+ "page_range": "481-482"
+}

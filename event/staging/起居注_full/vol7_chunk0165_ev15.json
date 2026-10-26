@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "十二日广午",
+ "event_role": "人事任免",
+ "summary": "覆请吏部所题内阁学士噶敏图员缺，开列内阁侍读学士宗圣保等职名，康熙帝命以内阁侍读学士内伟这、在前开列宗圣保补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶敏图",
+   "role": "内阁学士"
+  },
+  {
+   "name": "宗圣保",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "内伟这",
+   "role": "内阁侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16515,
+ "page_range": "341-342"
+}

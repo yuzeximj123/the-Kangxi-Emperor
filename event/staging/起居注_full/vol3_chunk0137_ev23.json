@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 1,
+ "day_text": "初一日乙本",
+ "event_role": "弹劾参奏",
+ "summary": "大计贪酷处分张万寿等七十八员拟革职提问，八法处分张能鳞等六百二员分别议处，康熙帝命依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张万寿",
+   "role": "贪酷官员"
+  },
+  {
+   "name": "张能鳞",
+   "role": "八法处分官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 13723,
+ "page_range": "309-310"
+}

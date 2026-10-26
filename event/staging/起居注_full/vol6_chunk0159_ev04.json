@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": null,
+ "event_role": "奏报灾情收成",
+ "summary": "署两江总督陶贷请免泗州、盱眙两州县地丁钱粮，康熙帝以二处被灾是实，令察相应捐免数目具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陶贷",
+   "role": "署两江总督"
+  }
+ ],
+ "places": [
+  "泗州",
+  "盱眙",
+  "洪泽湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15904,
+ "page_range": "328-329"
+}

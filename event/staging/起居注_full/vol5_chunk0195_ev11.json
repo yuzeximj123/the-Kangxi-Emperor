@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初七日戊午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝传谕陕西巡抚党爱、按察使纳垒，责其身为大吏殊欠努力，令加意自勉，不得乞休。",
+ "people": [
+  {
+   "name": "党爱",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "纳垒",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19511,
+ "page_range": "400-401"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "初八日王子",
+ "event_role": "谕旨决策",
+ "summary": "吏部覆直隶巡抚赵弘尝所题永定河支领钱粮令分司道员互相取结准照所请，康熙帝以支领钱粮系巡抚专责、所奏无益，令不必准行、将本发回再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘尝",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3414,
+ "page_range": "79-80"
+}

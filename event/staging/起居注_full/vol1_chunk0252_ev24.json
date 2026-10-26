@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十七日甲申",
+ "event_role": "人事任免",
+ "summary": "兵部题补正蓝旗骁骑参领，康熙帝以本旗查来之人无甚行间著绩，命将拟正尼喀里补授。",
+ "people": [
+  {
+   "name": "尼喀里",
+   "role": "骁骑参领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25224,
+ "page_range": "561-562"
+}

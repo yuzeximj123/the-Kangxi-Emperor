@@ -1,0 +1,36 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "未时康熙御行宫，大学士马齐、学士辛保以折本请旨，兵部题蓝理请简用何国矩，议不准行，康熙令何国矩前来引见。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "辛保",
+   "role": "学士"
+  },
+  {
+   "name": "蓝理",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "何国矩",
+   "role": "绍兴府副将"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20504,
+ "page_range": "420-421"
+}

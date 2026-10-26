@@ -1,0 +1,21 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "二十三日己卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸胡什木克，一等侍卫副都统吴达禅传谕，据乡导言察罕诺尔形势地宽草美，令能至者留牲口于彼处，不能至者留于此处。",
+ "people": [
+  {
+   "name": "吴达禅",
+   "role": "一等侍卫副都统"
+  }
+ ],
+ "places": [
+  "胡什木克",
+  "察罕诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10908,
+ "page_range": "228-229"
+}

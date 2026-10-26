@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "郎中刚五达自湖南审案回京，康熙帝询问湖南、湖北、河南、直隶田禾及民生情况，刚五达奏报湖南湖北田禾颇好而民生贫苦。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "刚五达",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "湖南",
+  "湖北",
+  "河南",
+  "直隶",
+  "长沙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10200,
+ "page_range": "214-215"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 32,
+ "month": 7,
+ "day_text": "二十三日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "两广总督石琳密奏海贼抢掠商船并派参将张士奇等搜杀，康熙帝谕令拣选才能总兵副将前往，不得误杀良民或借端生事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "张士奇",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "两广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23803,
+ "page_range": "488-489"
+}

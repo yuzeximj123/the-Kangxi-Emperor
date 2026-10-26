@@ -1,0 +1,24 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "十六日辛刻",
+ "event_role": "司法案件",
+ "summary": "吏部题云南武定府知府雷瑰踏勘沐氏勋庄及吴逆侵占田地违限，议罚俸六个月，康熙帝以事甚明。",
+ "people": [
+  {
+   "name": "雷瑰",
+   "role": "云南武定府知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南武定府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2022,
+ "page_range": "75-76"
+}

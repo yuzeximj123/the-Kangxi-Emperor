@@ -1,0 +1,28 @@
+{
+ "date_raw": "未知",
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "提督奏报所属四镇四至六月雨水粮价及禾苗收成情形。",
+ "people": [],
+ "places": [
+  "甘州",
+  "肃州",
+  "西宁",
+  "河西",
+  "河东",
+  "临巩二府",
+  "凉州",
+  "宁夏",
+  "庄浪营",
+  "花马池"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "奏报雨水情形摺",
+ "order_index": 183
+}

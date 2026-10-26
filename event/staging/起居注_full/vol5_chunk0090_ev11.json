@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "二十二日庚辰",
+ "event_role": "皇帝行止",
+ "summary": "阅武毕，康熙帝回至行宫前，率皇太子及诸皇子披甲骑射，两次骑射中的，两次步射贯的，诸大臣称赞英武。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "诸皇子",
+   "role": "皇子"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9011,
+ "page_range": "190-191"
+}

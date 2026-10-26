@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 2,
+ "day_text": "初七日癸亥",
+ "event_role": "谕旨决策",
+ "summary": "湖广偏沅巡抚王梁陛辞请训，康熙帝谕其照前在山东、江西居官行事，王梁奏请秋收后清丈地亩，康熙帝颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王梁",
+   "role": "偏沅巡抚"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14210,
+ "page_range": "296-297"
+}

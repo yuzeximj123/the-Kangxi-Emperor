@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "十五日庚午",
+ "event_role": "其他",
+ "summary": "因吏部尚书郝惟讷有母丧，康熙帝命大学士明珠赍茶酒往赐之。",
+ "people": [
+  {
+   "name": "郝惟讷",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2624,
+ "page_range": "95-96"
+}

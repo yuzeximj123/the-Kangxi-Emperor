@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 7,
+ "day_text": "二十五日庚午",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝驻跸张三营，喀尔喀固山贝子巴特马王扎尔来请安进贡，科尔沁和硕纯信公主遣使来请安进贡。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "巴特马王扎尔",
+   "role": "喀尔喀固山贝子"
+  },
+  {
+   "name": "纯信公主",
+   "role": "科尔沁和硕公主"
+  }
+ ],
+ "places": [
+  "张三营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3218,
+ "page_range": "75-76"
+}

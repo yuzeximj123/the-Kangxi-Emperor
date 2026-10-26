@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "初五日己已",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝御舟泊于武清县属清光村，王庆坨都司王梦桢来朝见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王梦桢",
+   "role": "王庆坨都司"
+  }
+ ],
+ "places": [
+  "武清县清光村",
+  "王庆坨"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13809,
+ "page_range": "286-287"
+}

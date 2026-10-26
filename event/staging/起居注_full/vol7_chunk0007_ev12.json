@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十日壬申",
+ "event_role": "人事任免",
+ "summary": "东川知府白静修被巡抚萧永藻题参，康熙帝命将东川知府缺以萧兴功补授。",
+ "people": [
+  {
+   "name": "白静修",
+   "role": "东川知府"
+  },
+  {
+   "name": "萧永藻",
+   "role": "巡抚"
+  },
+  {
+   "name": "彭鹏",
+   "role": "官员"
+  },
+  {
+   "name": "萧兴功",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "东川府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 712,
+ "page_range": "25-26"
+}

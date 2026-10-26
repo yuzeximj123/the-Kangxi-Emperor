@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "十六日成子",
+ "event_role": "人事任免",
+ "summary": "吏部题补汉军员外郎王民新调补员缺，正拟张奇具、陪拟阿林，康熙帝命问明来奏，明珠称其人寻常，命另行选择具奏。",
+ "people": [
+  {
+   "name": "王民新",
+   "role": "汉军员外郎"
+  },
+  {
+   "name": "张奇具",
+   "role": "内阁中书拟补"
+  },
+  {
+   "name": "阿林",
+   "role": "陪拟"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18807,
+ "page_range": "419-420"
+}

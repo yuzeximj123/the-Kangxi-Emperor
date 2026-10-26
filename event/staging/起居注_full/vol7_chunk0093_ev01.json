@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院因太庙祝版字体不堪议处太常寺官员，康熙帝令伍什革退，余依议。",
+ "people": [
+  {
+   "name": "伍什",
+   "role": "太常寺正卿"
+  },
+  {
+   "name": "吉尔赛",
+   "role": "寺丞"
+  },
+  {
+   "name": "素柱",
+   "role": "笔帖式"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9301,
+ "page_range": "197-198"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": "十二日本卯",
+ "event_role": "司法案件",
+ "summary": "知县黄志元等估算盐商张霖家产不详承追不力议降三级戴罪督追，康熙帝令不得仅责微员，张霖案件交赵弘赫总察议奏。",
+ "people": [
+  {
+   "name": "黄志元",
+   "role": "知县"
+  },
+  {
+   "name": "张霖",
+   "role": "盐商"
+  },
+  {
+   "name": "赵弘赫",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12624,
+ "page_range": "263-264"
+}

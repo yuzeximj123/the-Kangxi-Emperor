@@ -1,0 +1,32 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "初七日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部题少詹事曹鉴伦升任员缺，拟以侍读学士史夔升补，康熙帝以其人材优能书但差往浙江主考不端，命问九卿。",
+ "people": [
+  {
+   "name": "曹鉴伦",
+   "role": "少詹事"
+  },
+  {
+   "name": "史夔",
+   "role": "翰林院侍读学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17312,
+ "page_range": "356-357"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 26,
+ "month": 1,
+ "day_text": "二十五日甲拱",
+ "event_role": "河工水利",
+ "summary": "九卿题开浚下河，康熙帝命今年先堵塞高邮等处闸口开滩，明年再堵塞黄河之南堤闸兴工。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "高邮州",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20921,
+ "page_range": "453-454"
+}

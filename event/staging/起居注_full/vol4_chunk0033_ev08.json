@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 6,
+ "day_text": "初九日",
+ "event_role": "人事任免",
+ "summary": "兵部堂官奏事，康熙帝谕以化元补授衷阳总兵官，原缺另行推补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "化元",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "登州",
+  "衷阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 3308,
+ "page_range": "78-79"
+}

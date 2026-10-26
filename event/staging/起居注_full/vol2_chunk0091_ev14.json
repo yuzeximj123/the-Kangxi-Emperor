@@ -1,0 +1,21 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十四日癸刻",
+ "event_role": "皇帝行止",
+ "summary": "五鼓，康熙帝诣太皇太后宫奏闻行礼，又诣皇太后宫奏闻行礼，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9114,
+ "page_range": "225-226"
+}

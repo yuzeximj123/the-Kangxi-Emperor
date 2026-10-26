@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初九日庚子",
+ "event_role": "皇帝行止",
+ "summary": "未时康熙帝至畅春园，齐镜峰问安，驻跸畅春园。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐镜峰",
+   "role": "问安者"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13224,
+ "page_range": "275-276"
+}

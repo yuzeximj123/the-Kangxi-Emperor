@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "十三日癸丑",
+ "event_role": "司法案件",
+ "summary": "吏部覆都察院左副都御史王绅奏称广西南宁等四府道官以下、教授以上官员十三年未题请升任或题参，部议咨行督抚查明再议。",
+ "people": [
+  {
+   "name": "王绅",
+   "role": "都察院左副都御史"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广西南宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7001,
+ "page_range": "150-151"
+}

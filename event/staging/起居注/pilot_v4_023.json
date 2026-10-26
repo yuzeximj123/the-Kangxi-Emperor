@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙二十八年二月十六日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十六日甲寅",
+ "event_role": "其他",
+ "summary": "康熙帝以御用凉巾、袍衬并御书赐浙江提督陈世凯、定海镇总兵官黄大来等。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈世凯",
+   "role": "浙江提督"
+  },
+  {
+   "name": "黄大来",
+   "role": "定海镇总兵官"
+  }
+ ],
+ "places": [
+  "杭州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1023
+}

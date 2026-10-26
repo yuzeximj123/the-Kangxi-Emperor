@@ -1,0 +1,33 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "二十二日戊袖",
+ "event_role": "河工水利",
+ "summary": "九卿议覆靳辅、于成龙条奏河工事及乔莱等公议折子，明珠称淮扬七州县在京官员十一人皆同一议。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "于成龙",
+   "role": "按察使"
+  },
+  {
+   "name": "乔莱",
+   "role": "侍读"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "淮安",
+  "扬州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12512,
+ "page_range": "285-286"
+}

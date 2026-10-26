@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 3,
+ "day_text": "初一日王午",
+ "event_role": "弹劾参奏",
+ "summary": "吏部等衙门覆给事中马士芳等参杨国簿于九卿会议处高声争辩、呼总河张鹏翮之名并发其恶，议降三级准抵销，康熙帝以所议不合命发回另议。",
+ "people": [
+  {
+   "name": "马士芳",
+   "role": "给事中"
+  },
+  {
+   "name": "杨国簿",
+   "role": "候补道"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 827,
+ "page_range": "27-28"
+}

@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙伍年贰月 日",
+ "reign_year": 5,
+ "month": 2,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮因康熙帝此前朱批令其暂缓陛见并遣侍卫传旨慰问，再次上摺恳请入京觐见，以申恋主之忱。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "总督管理直隶巡抚事务、兵部右侍郎兼都察院右副都御史，奏请陛见者"
+  },
+  {
+   "name": "佛伦",
+   "role": "御前二等侍卫，奉旨至赵弘燮署内传旨"
+  }
+ ],
+ "places": [
+  "赵北口"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批告知今年闰三月天气寒冷未退，嘱其听从大夫调理、不可疏忽，并令暂不必来。",
+ "source_title": "赵弘燮再请陛见摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 277
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 1,
+ "day_text": "二十一日庚戌",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御畅春园内澹宁居听政，部院各衙门官员面奏毕，九卿入奏议覆苏努等所题热河驻防事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏努",
+   "role": "固山贝子都统"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "澹宁居",
+  "热河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15311,
+ "page_range": "317-318"
+}

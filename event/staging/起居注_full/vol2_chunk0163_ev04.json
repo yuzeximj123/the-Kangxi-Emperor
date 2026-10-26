@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十五日戊子",
+ "event_role": "祭祀典礼",
+ "summary": "太常寺请旨致祭祈谷坛，康熙帝以宗室公叶伯舒代祭举止迂钝，命另行选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶伯舒",
+   "role": "宗室公"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16304,
+ "page_range": "369-370"
+}

@@ -1,0 +1,55 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "甘肃提督江琦恭请圣主万安，并奏报永固城副将等员缺人选，称已咨送署总督事抚臣永泰考验，后蒙皇上将许仕隆调补。",
+ "people": [
+  {
+   "name": "江琦",
+   "role": "提督甘肃总兵官"
+  },
+  {
+   "name": "张自兴",
+   "role": "兰州永固城副将（升任）"
+  },
+  {
+   "name": "王世荣",
+   "role": "西宁镇海营参将，拟补永固城副将"
+  },
+  {
+   "name": "孙思克",
+   "role": "原任振武将军"
+  },
+  {
+   "name": "马维品",
+   "role": "宁夏洪广营游击，拟补尔海泰将"
+  },
+  {
+   "name": "永泰",
+   "role": "署总督事抚臣"
+  },
+  {
+   "name": "许仕隆",
+   "role": "奉旨调补永固城副将"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "兰州",
+  "永固城",
+  "西宁",
+  "镇海营",
+  "宁夏",
+  "洪广营",
+  "尔海泰"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（江琦请安）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 209
+}

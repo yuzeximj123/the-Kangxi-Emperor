@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十八年九月二十七日",
+ "reign_year": 48,
+ "month": 9,
+ "day": 13,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报苏州风调雨顺、稻谷成熟将获丰收，并报米价及进呈八月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造、管理福州织造大理寺卿兼巡视两淮盐课监察御史，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "福州",
+  "两淮"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報蘇州今秋豐收摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "580",
+ "order_index": 231
+}

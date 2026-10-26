@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部所题内阁学士莹升元、王之枢员缺，将内阁侍读学士朱汶等请旨。",
+ "people": [
+  {
+   "name": "莹升元",
+   "role": "内阁学士"
+  },
+  {
+   "name": "王之枢",
+   "role": "内阁学士"
+  },
+  {
+   "name": "朱汶",
+   "role": "内阁侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22214,
+ "page_range": "455-456"
+}

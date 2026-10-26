@@ -1,0 +1,34 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题左翼步军总尉雅图员缺，康熙帝询问人选后，命穆成格补授步军总尉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雅图",
+   "role": "左翼步军总尉"
+  },
+  {
+   "name": "拜哈纳",
+   "role": "镶黄旗副尉"
+  },
+  {
+   "name": "穆成格",
+   "role": "骑参领理事官"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2702,
+ "page_range": "64-65"
+}

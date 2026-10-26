@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "董讷奏称其所参丁理曾有夺人妻子占人房屋之事。",
+ "people": [
+  {
+   "name": "董讷",
+   "role": "大臣"
+  },
+  {
+   "name": "丁理",
+   "role": "被参官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1708,
+ "page_range": "46-47"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 38,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "都察院呈报内升外转御史赵世芳等职名履历条陈清册，康熙询问吴刺、阿兰泰意见。",
+ "people": [
+  {
+   "name": "赵世芳",
+   "role": "御史"
+  },
+  {
+   "name": "吴刺",
+   "role": "大臣"
+  },
+  {
+   "name": "李斯义",
+   "role": "御史"
+  },
+  {
+   "name": "王敏政",
+   "role": "御史"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7801,
+ "page_range": "166-167"
+}

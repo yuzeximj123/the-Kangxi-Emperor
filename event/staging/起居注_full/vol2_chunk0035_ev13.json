@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "初一日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "福建总督姚启圣、提督万正色请开海界，兵部议待新任提督查明再议，康熙帝命即再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "万正色",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "福建",
+  "金门",
+  "厦门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3513,
+ "page_range": "113-114"
+}

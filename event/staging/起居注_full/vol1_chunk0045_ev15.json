@@ -1,0 +1,21 @@
+{
+ "reign_year": 12,
+ "month": 6,
+ "day_text": "初九日了未",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝设宴瀛台，召诸王、贝勒及满汉大学士、学士、翰林、六部都察院等官集瀛台门内桥边，依次列坐赐宴。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "瀛台",
+  "瀛台门内桥边"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4515,
+ "page_range": "147-148"
+}

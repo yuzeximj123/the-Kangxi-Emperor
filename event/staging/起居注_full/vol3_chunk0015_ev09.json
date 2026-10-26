@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "二十二日戊子",
+ "event_role": "谕旨决策",
+ "summary": "大学士、学士奏缴御制五台山碑文五道，李霨等赞其精纯，王顼绪、汤斌称美，康熙帝命翰林院翻译。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "王顼绪",
+   "role": "学士"
+  },
+  {
+   "name": "汤斌",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "五台山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1509,
+ "page_range": "65-66"
+}

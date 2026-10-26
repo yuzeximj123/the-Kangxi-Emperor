@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十四年二月初三日",
+ "reign_year": 54,
+ "month": 2,
+ "day": 3,
+ "event_role": "请安谢恩",
+ "summary": "新任广东巡抚杨琳叩谢皇上破格补授巡抚之恩，表示将竭尽心力办事，并请求赴任途中查勘泉州至广东沿途地方情形后再行奏报。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "新授广东巡抚（原提督）"
+  },
+  {
+   "name": "李贵",
+   "role": "杨琳家人，赍摺奏闻者"
+  }
+ ],
+ "places": [
+  "广东",
+  "泉州",
+  "潮州府",
+  "惠州府"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批称此摺所奏甚是详细，已知道了。",
+ "source_title": "新任廣東巡撫楊琳奏謝破格補授粵撫摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "184",
+ "order_index": 8
+}

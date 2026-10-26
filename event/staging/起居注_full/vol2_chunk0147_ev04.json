@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "二十一日乙丑",
+ "event_role": "司法案件",
+ "summary": "议李棠情罪可恶，康熙帝令入旗流徙宁古塔，至彼处鞭一百。",
+ "people": [
+  {
+   "name": "李棠",
+   "role": "罪犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14704,
+ "page_range": "337-338"
+}

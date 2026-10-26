@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补云南巡抚佟卵秀员缺，康熙帝命将各省布政司中品优官善者问九卿具奏。",
+ "people": [
+  {
+   "name": "佟卵秀",
+   "role": "云南巡抚"
+  },
+  {
+   "name": "高承历",
+   "role": "候补巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10202,
+ "page_range": "215-216"
+}

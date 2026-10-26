@@ -1,0 +1,28 @@
+{
+ "reign_year": 12,
+ "month": 7,
+ "day_text": "二十五日生辰",
+ "event_role": "其他",
+ "summary": "未时康熙帝复御乾清门，赐河南总兵周邦宁、四川总兵黄建中食，该部照例赏鞍马外又加赐内左鞍马一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "周邦宁",
+   "role": "河南总兵"
+  },
+  {
+   "name": "黄建中",
+   "role": "四川总兵"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4731,
+ "page_range": "151-152"
+}

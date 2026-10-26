@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 1,
+ "day_text": "初一日癸卯",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝往太皇太后、皇太后宫问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16606,
+ "page_range": "375-376"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 32,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "赵明黑夜持刀恐吓赵清致伤，部议仍称殴死，康熙以人命关系重大、所议未明，命再议具奏。",
+ "people": [
+  {
+   "name": "赵明",
+   "role": "案犯"
+  },
+  {
+   "name": "赵清",
+   "role": "受害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 24400,
+ "page_range": "500-501"
+}

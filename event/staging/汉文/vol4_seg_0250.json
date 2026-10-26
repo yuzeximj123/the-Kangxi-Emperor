@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十二年六月初九日",
+ "reign_year": 52,
+ "month": 6,
+ "day": 9,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州雨水沾足、并无蝗蝻，并说明近日因湖广、江西客米来少，米价稍增。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "湖广",
+  "江西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "苏州织造李煦奏报苏州雨水沾足并无蝗蝻摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 250
+}

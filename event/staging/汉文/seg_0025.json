@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙三十七年十一月",
+ "reign_year": 37,
+ "month": 11,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "李煦奏报苏州秋收丰足、米价平稳，并恭请圣安、说明未敢来京缘由。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙批示秋收后有便人时奏闻。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "27",
+ "source_title": "苏州织造李煦奏报秋收米价并请安折",
+ "order_index": 25
+}

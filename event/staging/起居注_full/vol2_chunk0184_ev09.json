@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初五日丁丑",
+ "event_role": "人事任免",
+ "summary": "兵部题刘洋深等十五人掣签以参将用，康熙帝以龙泉关参将于继全为人甚劣，命休致，另选补用。",
+ "people": [
+  {
+   "name": "刘洋深",
+   "role": "参将"
+  },
+  {
+   "name": "于继全",
+   "role": "龙泉关参将"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "龙泉关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18409,
+ "page_range": "411-412"
+}

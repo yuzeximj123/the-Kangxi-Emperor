@@ -1,0 +1,28 @@
+{
+ "reign_year": 29,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "将世、胡正等发往河南安插开垦荒地纳粮，洪之杰革职，其余依议。",
+ "people": [
+  {
+   "name": "世",
+   "role": "发往河南安插人员"
+  },
+  {
+   "name": "胡正",
+   "role": "发往河南安插人员"
+  },
+  {
+   "name": "洪之杰",
+   "role": "被革职官员"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12400,
+ "page_range": "260-261"
+}

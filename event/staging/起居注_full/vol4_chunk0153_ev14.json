@@ -1,0 +1,24 @@
+{
+ "reign_year": 30,
+ "month": 6,
+ "day_text": "十七日辛未",
+ "event_role": "谕旨决策",
+ "summary": "九卿议覆陆陇其谓保举不宜捐纳，议以其妄行具奏负言官之职应革职发奉天，康熙命再问九卿众意。",
+ "people": [
+  {
+   "name": "陆陇其",
+   "role": "监察御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 15314,
+ "page_range": "318-319"
+}

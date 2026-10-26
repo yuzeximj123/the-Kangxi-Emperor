@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十三年正月十三日",
+ "reign_year": 53,
+ "month": null,
+ "day": null,
+ "event_role": "祭祀典礼",
+ "summary": "直隶巡抚赵弘燮奏报在康熙本命甲午年，于真定府龙兴寺、保定府玉清观各延请僧道百名分设经坛，自二月初一至三月三十日诵经叩祝万寿。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏折作者（正文署名为赵弘灿）"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "正文署名官员，都察院右副都御史加三级"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "真定府",
+  "龙兴寺",
+  "保定府",
+  "玉清观"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隸巡撫趙弘燮奏報分設經壇叩祝萬壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1508",
+ "order_index": 144
+}

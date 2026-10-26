@@ -1,0 +1,31 @@
+{
+ "reign_year": 38,
+ "month": 12,
+ "day_text": "十七日辛巳",
+ "event_role": "河工水利",
+ "summary": "康熙帝论改移清口与高家堰堵塞之利弊，虑上流泗州等处受灾，命会同九卿等详议各抒所见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "清口",
+  "高家堰",
+  "泗州",
+  "洪泽湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13106,
+ "page_range": "272-273"
+}

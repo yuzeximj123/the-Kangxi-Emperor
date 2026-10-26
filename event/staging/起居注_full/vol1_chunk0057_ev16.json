@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 10,
+ "day_text": "十五日辛雍",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早御南殿，讲官喇沙里、孙在丰、张英进讲微生亩谓孔子等章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "南殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 5716,
+ "page_range": "171-172"
+}

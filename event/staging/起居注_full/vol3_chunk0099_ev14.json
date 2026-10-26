@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 7,
+ "day_text": "初八日丙寅",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝览章奏，见齐特部落多罗郡王车布登奏报旗下蒙古饥荒请赈，召理藩院尚书阿尔尼命速查饥荒户口数目具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "车布登",
+   "role": "多罗郡王"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "理藩院尚书"
+  }
+ ],
+ "places": [
+  "齐特部落"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9914,
+ "page_range": "233-234"
+}

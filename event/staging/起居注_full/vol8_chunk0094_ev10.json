@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "二十五日庚寅",
+ "event_role": "司法案件",
+ "summary": "覆请宗人府、都察院所题鸟枪护军索浑岱控告护军统领查尔图徇情一案，康熙帝令画一具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索浑岱",
+   "role": "鸟枪护军"
+  },
+  {
+   "name": "查尔图",
+   "role": "护军统领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9410,
+ "page_range": "199-200"
+}

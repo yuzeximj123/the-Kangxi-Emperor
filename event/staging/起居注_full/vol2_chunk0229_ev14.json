@@ -1,0 +1,22 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "张三持木棍打李大伤重致死一案，康熙帝以其原无仇恨。",
+ "people": [
+  {
+   "name": "张三",
+   "role": "案犯"
+  },
+  {
+   "name": "李大",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22914,
+ "page_range": "501-502"
+}

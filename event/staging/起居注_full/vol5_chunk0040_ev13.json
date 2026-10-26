@@ -1,0 +1,21 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "十九日甲申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕户部，巡历见密云等处田亩歉收米价贵、贫民衣食不充，命部院堂官会同直隶巡抚查勘赈济并议恤贫苦兵丁。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "密云",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4013,
+ "page_range": "90-91"
+}

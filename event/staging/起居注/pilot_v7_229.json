@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令将已分居未分居之子及妻一并发该主入新折库，并惩治郑克蕉等人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郑克蕉",
+   "role": "被惩处官员"
+  },
+  {
+   "name": "王伦",
+   "role": "被惩处官员"
+  },
+  {
+   "name": "佛保",
+   "role": "被惩处官员"
+  }
+ ],
+ "places": [
+  "新折库",
+  "白都纳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3229
+}

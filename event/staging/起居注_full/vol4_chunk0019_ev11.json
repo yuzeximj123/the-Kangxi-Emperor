@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "十二日乙本",
+ "event_role": "司法案件",
+ "summary": "康熙帝问议处伊等之事如何，麻尔图等奏此案共有七朴，昨日始得抄完，请俟孙在丰、莫天颜到京问明再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "麻尔图",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "孙在丰",
+   "role": "官员"
+  },
+  {
+   "name": "莫天颜",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1911,
+ "page_range": "50-51"
+}

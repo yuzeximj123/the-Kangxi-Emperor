@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "初七日已西",
+ "event_role": "人事任免",
+ "summary": "议军政卓异江南督标副将田万合等升用，康熙帝以未见其善不准田万合卓异，余依部议。",
+ "people": [
+  {
+   "name": "田万合",
+   "role": "江南督标副将"
+  },
+  {
+   "name": "李需",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17608,
+ "page_range": "395-396"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "初十日乙丑",
+ "event_role": "司法案件",
+ "summary": "刑部议丁保自广东来京窃探尚之信消息拟斩，康熙帝以其不应坐死，命免死交该管之人，俟尚之信家口到日一并发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "丁保",
+   "role": "案犯"
+  },
+  {
+   "name": "尚之信",
+   "role": "当事人"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1411,
+ "page_range": "71-72"
+}

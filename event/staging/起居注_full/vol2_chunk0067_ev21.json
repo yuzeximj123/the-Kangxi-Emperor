@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "十七日戊辰",
+ "event_role": "司法案件",
+ "summary": "将军赖塔等题原任云南布政使崔之瑛不受伪职，吏部议行督抚查明再议，康熙帝论臣节关系重大。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赖塔",
+   "role": "将军"
+  },
+  {
+   "name": "崔之瑛",
+   "role": "原任云南布政使"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6721,
+ "page_range": "177-178"
+}

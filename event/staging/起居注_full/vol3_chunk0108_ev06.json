@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 9,
+ "day_text": "二十三日庚辰",
+ "event_role": "河工水利",
+ "summary": "工部覆总河靳辅题拦马河、高家堰等处堤坝损坏应修理，康熙准行并命该管官员尽心防护修补。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "拦马河",
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 10806,
+ "page_range": "251-252"
+}

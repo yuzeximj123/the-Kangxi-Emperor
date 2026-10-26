@@ -1,0 +1,22 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十六日壬子",
+ "event_role": "司法案件",
+ "summary": "刑部题广东、陕西秋审各案，明珠奏秋审应酌量省分远近具题期在冬至前咨到处决，康熙令江南等省未批秋审诸案一并交刑部。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东",
+  "陕西",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1113,
+ "page_range": "65-66"
+}

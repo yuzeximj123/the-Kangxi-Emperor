@@ -1,0 +1,40 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "二十四日癸酉",
+ "event_role": "司法案件",
+ "summary": "杭州副都统高国相、参领李九思等扰害百姓、殴伤道员，康熙帝命差萨壁免、吉尔塔浑前往察审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高国相",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "李九思",
+   "role": "参领"
+  },
+  {
+   "name": "萨壁免",
+   "role": "郎中"
+  },
+  {
+   "name": "吉尔塔浑",
+   "role": "司官"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8017,
+ "page_range": "203-204"
+}

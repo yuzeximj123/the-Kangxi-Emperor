@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 2,
+ "day_text": "初五日甲午",
+ "event_role": "朝见受贺",
+ "summary": "涿州知州赵光荣、参将袁立相等来朝。",
+ "people": [
+  {
+   "name": "赵光荣",
+   "role": "涿州知州"
+  },
+  {
+   "name": "袁立相",
+   "role": "参将"
+  }
+ ],
+ "places": [
+  "涿州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9415,
+ "page_range": "199-200"
+}

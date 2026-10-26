@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "康熙帝询问海运旧事，王熙、张玉书奏陈元代及明初海运兴废缘由与出洋入口情形。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "太仓",
+  "天津",
+  "安东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14401,
+ "page_range": "331-332"
+}

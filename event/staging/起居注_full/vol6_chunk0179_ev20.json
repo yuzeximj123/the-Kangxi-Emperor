@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "初三日辛卯",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清门听政，部院各衙门官员面奏毕，遣往盛京等处定议修造诸项则例工部郎中鄂尔吉纳请训旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂尔吉纳",
+   "role": "工部郎中"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17920,
+ "page_range": "368-369"
+}

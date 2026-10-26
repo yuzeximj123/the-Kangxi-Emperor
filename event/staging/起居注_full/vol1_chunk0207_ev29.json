@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "二十日辛亥",
+ "event_role": "军务",
+ "summary": "兵部议大将军图海进兵稽迟事，康熙帝以图海恢复兴安数日后方始进兵殊为稽缓，命交部再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图海",
+   "role": "大将军"
+  }
+ ],
+ "places": [
+  "兴安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20729,
+ "page_range": "471-472"
+}

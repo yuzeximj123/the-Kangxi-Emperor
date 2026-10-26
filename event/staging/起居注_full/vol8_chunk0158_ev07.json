@@ -1,0 +1,20 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": "初一日丁亥",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清门听政，各部院衙门官员面奏，吏部引见道府等官员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15807,
+ "page_range": "327-328"
+}

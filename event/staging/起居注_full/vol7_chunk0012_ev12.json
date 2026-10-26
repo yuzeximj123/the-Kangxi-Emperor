@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": "十一日王成",
+ "event_role": "司法案件",
+ "summary": "刑部议步军校六什、来格等分取卓林家人盗出银两罪，康熙帝命从宽免死减等发黑龙江。",
+ "people": [
+  {
+   "name": "六什",
+   "role": "步军校"
+  },
+  {
+   "name": "来格",
+   "role": "步军校"
+  },
+  {
+   "name": "卓林",
+   "role": "家人被盗事主"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1212,
+ "page_range": "35-36"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "议布称巴用微贱之人肆意妄行案，拟革退顺承郡王、赖图库立绞，康熙改为赖图库应绞监候秋后处决。",
+ "people": [
+  {
+   "name": "布称巴",
+   "role": "涉案人"
+  },
+  {
+   "name": "赖图库",
+   "role": "涉案人"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9500,
+ "page_range": "201-202"
+}

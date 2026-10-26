@@ -1,0 +1,30 @@
+{
+ "reign_year": 52,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "广西巡抚陈元龙题借库银遣通判杨子莞买米被抢及仓米存七出三借民等事，康熙帝命严查议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈元龙",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "杨子莞",
+   "role": "通判"
+  }
+ ],
+ "places": [
+  "广西",
+  "湖南",
+  "广东东安县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 2707,
+ "page_range": "65-66"
+}

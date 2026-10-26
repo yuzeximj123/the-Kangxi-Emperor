@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "初二日癸卯",
+ "event_role": "朝见受贺",
+ "summary": "灵石县知县梁国光等来朝。",
+ "people": [
+  {
+   "name": "梁国光",
+   "role": "灵石县知县"
+  }
+ ],
+ "places": [
+  "灵石县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7829,
+ "page_range": "167-168"
+}

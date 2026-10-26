@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十八日己西",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝赐巡抚倭伦貂袍表衬，谕其体念民生、加意抚恤。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "倭伦",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "吴什",
+   "role": "亲近侍卫"
+  }
+ ],
+ "places": [
+  "保德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19401,
+ "page_range": "398-399"
+}

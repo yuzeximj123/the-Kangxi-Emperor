@@ -1,0 +1,46 @@
+{
+ "reign_year": 26,
+ "month": 11,
+ "day_text": "十一日丙戌",
+ "event_role": "人事任免",
+ "summary": "吏部题内阁侍读学士全英革职员缺，康熙帝与明珠议对兰、阿喇密、宋古洪、朱都纳等补授人选。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "全英",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "对兰",
+   "role": "郎中"
+  },
+  {
+   "name": "阿喇密",
+   "role": "少卿"
+  },
+  {
+   "name": "宋古洪",
+   "role": "司业"
+  },
+  {
+   "name": "西安",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "朱都纳",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 25121,
+ "page_range": "537-538"
+}

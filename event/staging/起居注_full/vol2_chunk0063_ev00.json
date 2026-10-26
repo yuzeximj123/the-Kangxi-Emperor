@@ -1,0 +1,20 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就通仓路远、巡官无衙署栖止事，命再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "通仓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6300,
+ "page_range": "169-170"
+}

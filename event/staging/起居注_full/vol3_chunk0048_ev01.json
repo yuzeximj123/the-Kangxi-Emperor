@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "十六日己卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "葛弘道",
+   "role": "起居注官"
+  },
+  {
+   "name": "多奇",
+   "role": "起居注官"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4801,
+ "page_range": "131-132"
+}

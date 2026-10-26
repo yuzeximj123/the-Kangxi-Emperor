@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "初二日己丑",
+ "event_role": "人事任免",
+ "summary": "詹事府少詹王士祯省亲员缺，内阁、翰林院遵旨会同选择高士奇、合权元、归允肃开列呈览。",
+ "people": [
+  {
+   "name": "王士祯",
+   "role": "少詹事"
+  },
+  {
+   "name": "高士奇",
+   "role": "侍读学士"
+  },
+  {
+   "name": "合权元",
+   "role": "祭酒"
+  },
+  {
+   "name": "归允肃",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11019,
+ "page_range": "255-256"
+}

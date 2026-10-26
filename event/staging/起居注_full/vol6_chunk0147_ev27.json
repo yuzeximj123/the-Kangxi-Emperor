@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "初三日两宝",
+ "event_role": "贸易漕运",
+ "summary": "总漕桑格奏请将截留淮扬漕米收贮江宁，康熙帝以淮安地多潮湿、存贮江宁收放不致有误，令依所请收贮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "桑格",
+   "role": "总漕"
+  }
+ ],
+ "places": [
+  "淮扬",
+  "淮安",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14727,
+ "page_range": "304-305"
+}

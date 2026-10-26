@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "二十七日丙申",
+ "event_role": "朝见受贺",
+ "summary": "湖广总督董卫国疏请陛见，康熙帝令其来京陛见，并询问提督张勇到京日期。",
+ "people": [
+  {
+   "name": "董卫国",
+   "role": "湖广总督"
+  },
+  {
+   "name": "张勇",
+   "role": "提督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20807,
+ "page_range": "459-460"
+}

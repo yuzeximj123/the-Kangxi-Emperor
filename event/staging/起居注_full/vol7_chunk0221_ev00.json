@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就五十万仓米石淹没及捐补事宜，命都察院再行查明确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "迈图",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "湖滩河朔",
+  "五十万仓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22100,
+ "page_range": "453-454"
+}

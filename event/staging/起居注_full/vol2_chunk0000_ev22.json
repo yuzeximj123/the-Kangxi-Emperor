@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初五日辛酉",
+ "event_role": "人事任免",
+ "summary": "题科员内升外转，康熙帝以姚祖天条陈亦好，命余国柱内升、甘文瑛外转。",
+ "people": [
+  {
+   "name": "余国柱",
+   "role": "给事中"
+  },
+  {
+   "name": "姚祖天",
+   "role": "给事中"
+  },
+  {
+   "name": "甘文瑛",
+   "role": "给事中"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22,
+ "page_range": "43-44"
+}

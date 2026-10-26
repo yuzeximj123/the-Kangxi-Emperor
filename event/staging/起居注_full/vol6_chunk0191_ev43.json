@@ -1,0 +1,21 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "十八日两子",
+ "event_role": "河工水利",
+ "summary": "康熙帝乘舟阅柳岔口，登新筑堤，论永定河每年水涸时河道既枯必至淤平，思得引清水冲刷浊水河底之策，回銮时另颁谕旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "柳岔口",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19143,
+ "page_range": "392-393"
+}

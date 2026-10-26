@@ -1,0 +1,48 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "三十日成实",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内门，大学士明珠等以折本请旨，议吏部题补内阁学士韩菊请假员缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "觉罗勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "禅布",
+   "role": "学士"
+  },
+  {
+   "name": "徐廷伟",
+   "role": "学士"
+  },
+  {
+   "name": "吴喇代",
+   "role": "学士"
+  },
+  {
+   "name": "额尔黑图",
+   "role": "学士"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "畅春园内门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21523,
+ "page_range": "465-466"
+}

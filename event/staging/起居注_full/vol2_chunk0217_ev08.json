@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十二日辛酉",
+ "event_role": "人事任免",
+ "summary": "内阁侍读学士员缺考试各官名次事，康熙帝以傅继祖升迁太速，命以蔡采汉补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "傅继祖",
+   "role": "侍读"
+  },
+  {
+   "name": "蔡采汉",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21708,
+ "page_range": "477-478"
+}

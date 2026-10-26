@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "二十四日癸卯",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门，大学士、学士捧折本面奏请旨，议吏部题补广东、广西总督员缺开列满汉官员事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "广东",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10119,
+ "page_range": "245-246"
+}

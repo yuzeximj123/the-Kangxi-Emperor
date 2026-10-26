@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命将候补总兵官严弘补授项陵总兵官，称其陷贼不屈、才堪任用。",
+ "people": [
+  {
+   "name": "严弘",
+   "role": "候补总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "项陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25200,
+ "page_range": "561-562"
+}

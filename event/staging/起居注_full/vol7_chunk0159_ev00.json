@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 2,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问卢一技为人，张鹏翮奏其办事多错，康熙帝称卢一魁为钻营之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "尚书"
+  },
+  {
+   "name": "卢一技",
+   "role": "官员"
+  },
+  {
+   "name": "卢一魁",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15900,
+ "page_range": "329-330"
+}

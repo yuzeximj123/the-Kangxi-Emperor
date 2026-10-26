@@ -1,0 +1,22 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": "二十三日",
+ "event_role": "司法案件",
+ "summary": "刑部为论诈事，涉及巴哈塔、获德，原文未完。",
+ "people": [
+  {
+   "name": "巴哈塔",
+   "role": "涉案人"
+  },
+  {
+   "name": "获德",
+   "role": "涉案人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21232,
+ "page_range": "481-482"
+}

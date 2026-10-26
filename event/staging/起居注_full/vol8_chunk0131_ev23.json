@@ -1,0 +1,22 @@
+{
+ "reign_year": 55,
+ "month": 2,
+ "day_text": "二十七日戊子",
+ "event_role": "人事任免",
+ "summary": "礼部题正一教大真人张继宗遗本请以其子张振麟承袭，康熙帝照张继宗所请准张振麟承袭真人。",
+ "people": [
+  {
+   "name": "张继宗",
+   "role": "正一教大真人"
+  },
+  {
+   "name": "张振麟",
+   "role": "张继宗长子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13123,
+ "page_range": "273-274"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十三日癸酉",
+ "event_role": "人事任免",
+ "summary": "兵部题延绥总兵员缺请旨开列，康熙帝以延绥地方紧要，命将候补总兵及见任副将开列具奏，并令新升副将一并开列简选。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "希福",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "延绥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22111,
+ "page_range": "499-500"
+}

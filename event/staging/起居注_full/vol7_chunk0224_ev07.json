@@ -1,0 +1,30 @@
+{
+ "reign_year": 51,
+ "month": 6,
+ "day_text": "二十二日甲戌",
+ "event_role": "其他",
+ "summary": "康熙帝赐大学士温达御书匾额、扇，兵部尚书公孙征当、起居注工部侍郎把叙扇各一把。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "公孙征当",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "把叙",
+   "role": "起居注工部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22407,
+ "page_range": "459-460"
+}

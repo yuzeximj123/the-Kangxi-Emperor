@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 2,
+ "day_text": "二十四日",
+ "event_role": "人事任免",
+ "summary": "吏部题甘肃巡抚严泰员缺，康熙帝命将布政使内可用者问尚书佛伦具奏。",
+ "people": [
+  {
+   "name": "严泰",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "温保",
+   "role": "内阁学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5914,
+ "page_range": "128-129"
+}

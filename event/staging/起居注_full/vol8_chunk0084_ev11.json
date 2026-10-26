@@ -1,0 +1,20 @@
+{
+ "reign_year": 54,
+ "month": 1,
+ "day_text": "二十一日戊午",
+ "event_role": "祭祀典礼",
+ "summary": "自是日起康熙帝以祭祈谷坛斋戒三日。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8411,
+ "page_range": "179-180"
+}

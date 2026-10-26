@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "二十八日成申",
+ "event_role": "人事任免",
+ "summary": "吏部题福建参议道陈启泰全家殉难，优赠工部右侍郎，其子授通政司左右通政、大理寺少卿，康熙帝依部议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "陈启泰",
+   "role": "福建参议道"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7620,
+ "page_range": "195-196"
+}

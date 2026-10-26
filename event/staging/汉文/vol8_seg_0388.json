@@ -1,0 +1,33 @@
+{
+ "date_raw": "本年十二月初六日",
+ "reign_year": null,
+ "month": 12,
+ "day": 6,
+ "event_role": "人事任免",
+ "summary": "兵部咨文转述大学士马齐等奏请将楚兵将弁六十八员照旧留任，并造册送吏部查核，具题请旨。",
+ "people": [
+  {
+   "name": "保柱",
+   "role": "将军"
+  },
+  {
+   "name": "马齐",
+   "role": "保和殿大学士"
+  },
+  {
+   "name": "贝和诺",
+   "role": "云贵总督"
+  }
+ ],
+ "places": [
+  "楚",
+  "云贵"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝谕令领侍卫内大臣侍卫保照将军保柱等所奏请旨，依议准行。",
+ "source_title": "（楚兵留任）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 388
+}

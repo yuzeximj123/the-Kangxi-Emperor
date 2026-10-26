@@ -1,0 +1,33 @@
+{
+ "reign_year": 31,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题贵州威宁总兵官王朝海丁忧员缺，康熙帝命升补贵州副将谢英为威宁总兵官，并记副将叶日升于紧要边疆录用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王朝海",
+   "role": "贵州威宁总兵官"
+  },
+  {
+   "name": "叶日升",
+   "role": "贵州副将"
+  },
+  {
+   "name": "谢英",
+   "role": "贵州副将"
+  }
+ ],
+ "places": [
+  "贵州",
+  "威宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19202,
+ "page_range": "396-397"
+}

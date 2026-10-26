@@ -1,0 +1,21 @@
+{
+ "reign_year": 38,
+ "month": 3,
+ "day_text": "二十七日丙申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸杭州府，欲阅杭州驻防官兵射，幸教场。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "杭州府",
+  "教场"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 8601,
+ "page_range": "182-183"
+}

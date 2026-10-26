@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "十六日于辰",
+ "event_role": "人事任免",
+ "summary": "吏部题钦天监监副司尔理员缺，拟主短汤臣尹升补，康熙帝命明日引见。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "司尔理",
+   "role": "钦天监监副"
+  },
+  {
+   "name": "汤臣尹",
+   "role": "拟升补者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4220,
+ "page_range": "95-96"
+}

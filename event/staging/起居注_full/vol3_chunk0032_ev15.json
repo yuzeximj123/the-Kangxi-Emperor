@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "二十三日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论道学须身体力行、见诸实事，批评崔蔚林居乡不善，称汤斌有实行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔蔚林",
+   "role": "汉官"
+  },
+  {
+   "name": "汤斌",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3215,
+ "page_range": "99-100"
+}

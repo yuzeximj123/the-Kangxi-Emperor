@@ -1,0 +1,24 @@
+{
+ "reign_year": 12,
+ "month": 7,
+ "day_text": "初七日甲成",
+ "event_role": "人事任免",
+ "summary": "巳时康熙帝御观德碟，召见推升云南前镇总兵官、平西亲王下护军参领陶继。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陶继",
+   "role": "推升云南前镇总兵官、平西亲王下护军参领"
+  }
+ ],
+ "places": [
+  "观德碟"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4642,
+ "page_range": "149-150"
+}

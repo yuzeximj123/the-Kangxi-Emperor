@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "初四日丙实",
+ "event_role": "人事任免",
+ "summary": "兵部题杭州将军达拜员缺开列镶黄旗副都统寿志等，康熙令问曾任彼处将军之人具奏，并提及江宁副都统乌纳哈。",
+ "people": [
+  {
+   "name": "达拜",
+   "role": "杭州将军"
+  },
+  {
+   "name": "寿志",
+   "role": "镶黄旗副都统"
+  },
+  {
+   "name": "乌纳哈",
+   "role": "江宁副都统"
+  }
+ ],
+ "places": [
+  "杭州",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12115,
+ "page_range": "253-254"
+}

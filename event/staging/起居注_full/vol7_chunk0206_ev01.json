@@ -1,0 +1,38 @@
+{
+ "reign_year": 51,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "大学士温达奏张伯行请将噶礼革职拿问不合体例，康熙帝命噶礼、张伯行俱解任，所参事情交张鹏翮会同总督赫寿确审具奏。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "噶礼",
+   "role": "总督"
+  },
+  {
+   "name": "张伯行",
+   "role": "巡抚"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "官员"
+  },
+  {
+   "name": "赫寿",
+   "role": "总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20601,
+ "page_range": "423-424"
+}

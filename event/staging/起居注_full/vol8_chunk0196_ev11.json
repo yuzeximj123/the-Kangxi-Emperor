@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "初十日癸巳",
+ "event_role": "人事任免",
+ "summary": "九卿奏将两议之户部尚书赵申乔革任、御史外转李景迪革职，康熙帝令赵申乔留任、李景迪革职并查徐彩官议发错误。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "户部尚书"
+  },
+  {
+   "name": "李景迪",
+   "role": "原任御史外转"
+  },
+  {
+   "name": "徐彩官",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19611,
+ "page_range": "403-404"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "十四日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "陕西巡抚鄂恺请以清水、秦州等处十七年地丁钱粮改派米草抵正项钱粮，户部议不准，康熙帝令改票来看。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂恺",
+   "role": "陕西巡抚"
+  }
+ ],
+ "places": [
+  "陕西",
+  "清水",
+  "秦州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6703,
+ "page_range": "177-178"
+}

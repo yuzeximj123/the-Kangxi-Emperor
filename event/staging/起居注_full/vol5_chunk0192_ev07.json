@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 2,
+ "day_text": "十九日庚子",
+ "event_role": "朝见受贺",
+ "summary": "怀仁县知县卢锡晋、署守备事把总张喻义来朝见。",
+ "people": [
+  {
+   "name": "卢锡晋",
+   "role": "怀仁县知县"
+  },
+  {
+   "name": "张喻义",
+   "role": "署守备事把总"
+  }
+ ],
+ "places": [
+  "怀仁县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19207,
+ "page_range": "394-395"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "明珠等遵旨传问九卿等，公举原任贵州驿传道今升广东南韶道劳之辨贤能有守，康熙帝令劳之辨内升。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "劳之辨",
+   "role": "原任贵州驿传道今升广东南韶道"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江石门县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8203,
+ "page_range": "199-200"
+}

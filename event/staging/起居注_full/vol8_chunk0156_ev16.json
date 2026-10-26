@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "二十四日庚辰",
+ "event_role": "司法案件",
+ "summary": "浙江秋审杨再文临阵逃归拟斩情真、张世俊弃船登岸拟斩缓决，康熙帝以情由相同命将张世俊改情真并问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨再文",
+   "role": "原任把总"
+  },
+  {
+   "name": "张世俊",
+   "role": "原任把总"
+  },
+  {
+   "name": "净福玉",
+   "role": "出洋巡哨游击"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15616,
+ "page_range": "323-324"
+}

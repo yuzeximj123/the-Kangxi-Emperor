@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 1,
+ "day_text": "二十一日",
+ "event_role": "人事任免",
+ "summary": "兵部题云贵总督王继文请以曲寻总兵官刘廷杰调补鹤丽总兵官员缺，议不准行，康熙帝命将旧总兵官刘廷杰调补。",
+ "people": [
+  {
+   "name": "王继文",
+   "role": "云贵总督"
+  },
+  {
+   "name": "刘廷杰",
+   "role": "曲寻总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "鹤丽",
+  "曲寻"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9801,
+ "page_range": "206-207"
+}

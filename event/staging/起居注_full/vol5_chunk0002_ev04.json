@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝问李光地、彭鹏意见，李光地称圣论已详，彭鹏称捐纳无益、于成龙急于任事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "侍郎"
+  },
+  {
+   "name": "彭鹏",
+   "role": "给事中"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 204,
+ "page_range": "14-15"
+}

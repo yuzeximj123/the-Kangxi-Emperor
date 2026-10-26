@@ -1,0 +1,46 @@
+{
+ "reign_year": 38,
+ "month": 10,
+ "day_text": "二十二日两成",
+ "event_role": "司法案件",
+ "summary": "康熙帝论周三、宋学智、李庚、张圣世等案皆非故杀，得免死。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "周三",
+   "role": "案犯"
+  },
+  {
+   "name": "宋学智",
+   "role": "案犯"
+  },
+  {
+   "name": "王进福",
+   "role": "死者"
+  },
+  {
+   "name": "李庚",
+   "role": "案犯"
+  },
+  {
+   "name": "陈乾",
+   "role": "死者"
+  },
+  {
+   "name": "张圣世",
+   "role": "案犯"
+  },
+  {
+   "name": "陈六",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12015,
+ "page_range": "250-251"
+}

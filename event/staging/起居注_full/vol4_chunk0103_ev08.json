@@ -1,0 +1,23 @@
+{
+ "reign_year": 29,
+ "month": 2,
+ "day_text": "初七日已已",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝至暂安奉殿行三跪九叩头礼、三奠酒举哀，又至孝陵行礼奠酒，至皇后陵前奠酒举哀，当日驻跸汤泉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "暂安奉殿",
+  "孝陵",
+  "皇后陵",
+  "汤泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10308,
+ "page_range": "218-219"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "初七日甲成",
+ "event_role": "谕旨决策",
+ "event_summary": "偏沅巡抚韩世琦请停湖南当铺酒铺增添税银，户部议不准，康熙帝从明珠议命停止增税拟票签送进。",
+ "people": [
+  {
+   "name": "韩世琦",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 23706,
+ "page_range": "517-518"
+}

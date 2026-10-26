@@ -1,0 +1,24 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "初五日甲子",
+ "event_role": "其他",
+ "summary": "康熙帝御瀛台紫光阁亲阅中式武举骑射，复令步射、开弓、舞刀、掇石，试毕命侍卫开劲弓，并亲率侍卫射，发矢皆中的。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "读卷官"
+  }
+ ],
+ "places": [
+  "瀛台紫光阁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17220,
+ "page_range": "354-355"
+}

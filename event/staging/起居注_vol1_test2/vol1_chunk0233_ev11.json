@@ -1,0 +1,25 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "初五日甲子",
+ "event_role": "军务",
+ "summary": "兵部议署副都统穆森救援醴陵不能御贼应革职，康熙帝以兵力过少命向将军等讯问，并责兵部隐而不发。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "穆森",
+   "role": "一等侍卫署副都统"
+  }
+ ],
+ "places": [
+  "醴陵",
+  "石峡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23311,
+ "page_range": "523-524"
+}

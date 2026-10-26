@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "初六日辛酉",
+ "event_role": "人事任免",
+ "summary": "侍卫吴什传谕，以扎西王人材壮健、属下兵堪用，令其兼领察哈尔兵，议政大臣会议后奉旨准行并令协同管理。",
+ "people": [
+  {
+   "name": "吴什",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "扎西王",
+   "role": "王"
+  },
+  {
+   "name": "吴巴什",
+   "role": "散秩大臣"
+  },
+  {
+   "name": "多尔济扎布",
+   "role": "参领品级章京"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12804,
+ "page_range": "266-267"
+}

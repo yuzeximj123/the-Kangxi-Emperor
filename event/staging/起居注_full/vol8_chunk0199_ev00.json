@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请福建大盗杜明英等、江南大盗王镑卿等、山东大盗许弯愤等照律拟斩立决，康熙帝令俱照前完结。",
+ "people": [
+  {
+   "name": "杜明英",
+   "role": "福建大盗"
+  },
+  {
+   "name": "王镑卿",
+   "role": "江南大盗"
+  },
+  {
+   "name": "许弯愤",
+   "role": "山东大盗"
+  }
+ ],
+ "places": [
+  "福建",
+  "江南",
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19900,
+ "page_range": "409-410"
+}

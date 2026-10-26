@@ -1,0 +1,34 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "十二日癸西",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清门听政，九卿等会议流徙乌喇人犯两议具奏，帝询问前后议之意。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郝惟讷",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "沈茎",
+   "role": "詹事"
+  },
+  {
+   "name": "徐国相",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "乾清门",
+  "乌喇",
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19707,
+ "page_range": "451-452"
+}

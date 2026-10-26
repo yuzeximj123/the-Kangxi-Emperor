@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 8,
+ "day_text": "二十日己未",
+ "event_role": "奏报地方情形",
+ "summary": "云南总督蔡毓荣题请捐助修造营房，康熙帝以滇省旧有官兵房屋尚存，令该部详察确议。",
+ "people": [
+  {
+   "name": "蔡毓荣",
+   "role": "云南总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 21608,
+ "page_range": "475-476"
+}

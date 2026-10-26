@@ -1,0 +1,37 @@
+{
+ "reign_year": 52,
+ "month": 10,
+ "day_text": "二十七日辛丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内流宁居听政，户部尚书称和伦等奏事，帝询问旧钱粮放完情况并命张鹏翮查明库内钱粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "称和伦",
+   "role": "户部尚书"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "尚书"
+  },
+  {
+   "name": "班第",
+   "role": "前户部侍郎"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "流宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4303,
+ "page_range": "97-98"
+}

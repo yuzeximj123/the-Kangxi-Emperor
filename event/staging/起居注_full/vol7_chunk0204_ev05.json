@@ -1,0 +1,36 @@
+{
+ "reign_year": 51,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问王度昭、黄秉中居官如何，李光地、凌绍雯、靖永藻等奏对，帝评黄秉中不及王度昭。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "巡抚"
+  },
+  {
+   "name": "黄秉中",
+   "role": "原任福建巡抚"
+  },
+  {
+   "name": "凌绍雯",
+   "role": "学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "靖永藻",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 20405,
+ "page_range": "419-420"
+}

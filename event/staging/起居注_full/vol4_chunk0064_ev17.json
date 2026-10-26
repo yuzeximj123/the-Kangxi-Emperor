@@ -1,0 +1,25 @@
+{
+ "reign_year": 28,
+ "month": 3,
+ "day_text": "二十二日己丑",
+ "event_role": "司法案件",
+ "summary": "刑部题巡抚金等负恩捏造十事毁谤国家应正法，帝命金宽免死流徙奉天，李之粹发黑龙江当差。",
+ "people": [
+  {
+   "name": "金",
+   "role": "巡抚"
+  },
+  {
+   "name": "李之粹",
+   "role": "涉案人"
+  }
+ ],
+ "places": [
+  "奉天",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 6417,
+ "page_range": "140-141"
+}

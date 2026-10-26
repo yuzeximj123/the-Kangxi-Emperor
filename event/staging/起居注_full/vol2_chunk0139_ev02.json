@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十四日己丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部主事员缺，正拟李遇时、陪拟魏纯仁，康熙帝询问后令另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李遇时",
+   "role": "内净中书"
+  },
+  {
+   "name": "魏纯仁",
+   "role": "大理寺评事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13902,
+ "page_range": "321-322"
+}

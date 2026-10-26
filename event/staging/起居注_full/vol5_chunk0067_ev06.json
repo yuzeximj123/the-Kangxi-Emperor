@@ -1,0 +1,38 @@
+{
+ "reign_year": 34,
+ "month": 5,
+ "day_text": "二十八日己丑",
+ "event_role": "人事任免",
+ "summary": "江南安徽按察使刘连员缺，康熙帝认为朱士杰不及，谕令问九卿查奏保举之人选择补授。",
+ "people": [
+  {
+   "name": "刘连",
+   "role": "江南安徽按察使"
+  },
+  {
+   "name": "李成林",
+   "role": "巡道"
+  },
+  {
+   "name": "朱士杰",
+   "role": "副使道"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "江南",
+  "安徽",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6706,
+ "page_range": "144-145"
+}

@@ -1,0 +1,44 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "二十九日壬午",
+ "event_role": "司法案件",
+ "summary": "刑部等题山东省秋审重罪人犯，康熙帝以王钦、何三因斗殴杀人俱改缓决，轮奸案从犯韩十改缓决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王钦",
+   "role": "人犯"
+  },
+  {
+   "name": "李三",
+   "role": "受害人"
+  },
+  {
+   "name": "何三",
+   "role": "人犯"
+  },
+  {
+   "name": "刘永印",
+   "role": "受害人"
+  },
+  {
+   "name": "冯二",
+   "role": "人犯"
+  },
+  {
+   "name": "韩十",
+   "role": "人犯"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22318,
+ "page_range": "456-457"
+}

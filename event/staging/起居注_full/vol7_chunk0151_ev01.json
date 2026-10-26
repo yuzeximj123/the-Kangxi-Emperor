@@ -1,0 +1,24 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "马齐等覆请九卿议将江西、湖广漕粮截留三十万石拨给江宁、苏州、松江各十万石平价发卖。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "江西",
+  "湖广",
+  "江宁",
+  "苏州",
+  "松江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15101,
+ "page_range": "313-314"
+}

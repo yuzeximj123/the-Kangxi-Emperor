@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "二十一日乙卯",
+ "event_role": "朝见受贺",
+ "summary": "驻防罗文峪防御布冷等、遵化州知州李铎前来朝见康熙帝。",
+ "people": [
+  {
+   "name": "布冷",
+   "role": "罗文峪防御"
+  },
+  {
+   "name": "李铎",
+   "role": "遵化州知州"
+  }
+ ],
+ "places": [
+  "罗文峪",
+  "遵化州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12521,
+ "page_range": "260-261"
+}

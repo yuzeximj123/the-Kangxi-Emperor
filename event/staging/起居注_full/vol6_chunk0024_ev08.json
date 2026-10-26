@@ -1,0 +1,25 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "初四日庚戌",
+ "event_role": "奏报灾情收成",
+ "summary": "户部覆总督董安国题山阳高陷被水灾地亩钱粮乞尽蠲免议不准，康熙命将今岁钱粮尽行蠲免。",
+ "people": [
+  {
+   "name": "董安国",
+   "role": "总督"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山阳",
+  "高陷"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2408,
+ "page_range": "58-59"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十六日戊申",
+ "event_role": "弹劾参奏",
+ "summary": "直隶巡抚赵弘题参捕蝗不力之宝坻县知县汤大正等，康熙帝命严加议处，并令该抚拣选才能官员调补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "汤大正",
+   "role": "宝坻县知县"
+  }
+ ],
+ "places": [
+  "宝坻县",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22118,
+ "page_range": "453-454"
+}

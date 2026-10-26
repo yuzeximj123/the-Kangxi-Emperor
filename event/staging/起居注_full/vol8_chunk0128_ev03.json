@@ -1,0 +1,28 @@
+{
+ "reign_year": 55,
+ "month": 1,
+ "day_text": "十九日庚戌",
+ "event_role": "人事任免",
+ "summary": "大学士松柱等奏补授黑龙江将军杨福员缺，议政大臣请皇上简用，康熙帝谕此事俟后次再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "杨福",
+   "role": "黑龙江将军"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12803,
+ "page_range": "267-268"
+}

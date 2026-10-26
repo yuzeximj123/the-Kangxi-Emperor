@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十六年十二月二十日",
+ "reign_year": 56,
+ "month": 12,
+ "day": 20,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦惊闻皇太后病逝，哀痛不已，奏请康熙节哀保重，并报已于二十六日兼程进京，赴梓宫前哀悼并请圣安。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏折作者"
+  },
+  {
+   "name": "皇太后",
+   "role": "康熙帝之母，病逝者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，奏折呈报对象"
+  }
+ ],
+ "places": [
+  "苏州",
+  "京"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏為驚聞皇太后病逝兼程進京摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2569",
+ "order_index": 25
+}

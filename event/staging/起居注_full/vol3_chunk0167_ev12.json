@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "十三日丙申",
+ "event_role": "司法案件",
+ "summary": "太常寺卿朱马泰等祭地坛错误执事议罚俸，康熙从宽免罚。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱马泰",
+   "role": "太常寺卿"
+  },
+  {
+   "name": "萨木哈",
+   "role": "赞礼郎"
+  },
+  {
+   "name": "葛思泰",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "地坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16712,
+ "page_range": "369-370"
+}

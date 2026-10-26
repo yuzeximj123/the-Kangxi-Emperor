@@ -1,0 +1,28 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": "二十五日庚成",
+ "event_role": "朝见受贺",
+ "summary": "喀尔喀扎萨克多罗郡王纳木渣尔盆楚克、族分贝子丹津、辅国公策布腾等请安进贡来朝。",
+ "people": [
+  {
+   "name": "纳木渣尔盆楚克",
+   "role": "扎萨克多罗郡王"
+  },
+  {
+   "name": "丹津",
+   "role": "族分贝子"
+  },
+  {
+   "name": "策布腾",
+   "role": "辅国公"
+  }
+ ],
+ "places": [
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21034,
+ "page_range": "430-431"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 30,
+ "month": 3,
+ "day_text": "初七日",
+ "event_role": "谕旨决策",
+ "summary": "议准镇守奉天等处将军公绰克托题请每旗添设办事文官笔帖式，康熙命盛京添设、兵部再议具奏。",
+ "people": [
+  {
+   "name": "绰克托",
+   "role": "镇守奉天等处将军公"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 14425,
+ "page_range": "300-301"
+}

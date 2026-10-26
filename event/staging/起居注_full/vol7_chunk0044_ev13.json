@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "二十日丙申",
+ "event_role": "司法案件",
+ "summary": "刑部题御史赵德吉疏称曾宁等诠称非公郑克赤家人拟绞，康熙帝以台湾之人俱系郑克赤之人，赵德吉从宽免死革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵德吉",
+   "role": "御史"
+  },
+  {
+   "name": "曾宁",
+   "role": "罪犯"
+  },
+  {
+   "name": "郑克赤",
+   "role": "台湾旧主"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4413,
+ "page_range": "99-100"
+}

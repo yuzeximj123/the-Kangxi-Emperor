@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十七日壬申",
+ "event_role": "司法案件",
+ "summary": "吏部议陕西巡抚鄂恺题参笔帖式费扬古骚扰驿递事虚应降一级留任，又私买妇女事实应降二级，康熙帝命革职余依议。",
+ "people": [
+  {
+   "name": "鄂恺",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "费扬古",
+   "role": "笔帖式"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1608,
+ "page_range": "75-76"
+}

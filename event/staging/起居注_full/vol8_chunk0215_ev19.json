@@ -1,0 +1,24 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以部议误，重德系逃走三次充发之人又杀妻可恶，命交该将军即行处斩，本发还再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "重德",
+   "role": "犯人"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21519,
+ "page_range": "441-442"
+}

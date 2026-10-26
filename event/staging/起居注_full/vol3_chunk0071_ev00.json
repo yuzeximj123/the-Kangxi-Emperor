@@ -1,0 +1,20 @@
+{
+ "reign_year": 24,
+ "month": 1,
+ "day_text": "二十一日辛已",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝清晨亲赴祈谷坛致祭，行礼完毕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "祈谷坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7100,
+ "page_range": "177-178"
+}

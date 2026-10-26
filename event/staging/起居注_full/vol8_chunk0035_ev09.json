@@ -1,0 +1,34 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "川陕总督鄂海题报植冈古塘等十八处生番六千余口来西安归附，康熙与大学士等议其是否属胡虎诺尔，命该部详议具奏。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "舒兰",
+   "role": "学士"
+  },
+  {
+   "name": "杨如网",
+   "role": "土司"
+  }
+ ],
+ "places": [
+  "西安",
+  "植冈古塘",
+  "胡虎诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3509,
+ "page_range": "81-82"
+}

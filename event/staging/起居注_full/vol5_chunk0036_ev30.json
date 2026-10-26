@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 8,
+ "day_text": "初七日壬寅",
+ "event_role": "人事任免",
+ "summary": "吏部题将迈图七品官议止与伊子巴西承袭，康熙帝以其祖系太祖时效力有功，命此职世袭罔替。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "迈图",
+   "role": "七品官"
+  },
+  {
+   "name": "巴西",
+   "role": "迈图之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3630,
+ "page_range": "82-83"
+}

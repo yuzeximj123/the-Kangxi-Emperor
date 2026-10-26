@@ -1,0 +1,32 @@
+{
+ "reign_year": 41,
+ "month": 7,
+ "day_text": "十七日丙寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙御批阿山请安折，申明南巡不取民间、君臣以公无私，斥其偏袒张四教并牵连曹寅，指曹寅可恶已极断不宽恕。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "张四教",
+   "role": "官员"
+  },
+  {
+   "name": "曹寅",
+   "role": "织造官"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2504,
+ "page_range": "61-62"
+}

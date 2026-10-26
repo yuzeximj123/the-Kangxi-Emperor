@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": "二十五日戊申",
+ "event_role": "司法案件",
+ "summary": "覆请刑部所题江西巡抚佟国款将指称诚亲王设骗之恶棍孟光祖既不拿获反馈送银币拟革职一疏，康熙命本发还一并议奏。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "佟国款",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "孟光祖",
+   "role": "恶棍"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19809,
+ "page_range": "407-408"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 34,
+ "month": 8,
+ "day_text": "二十八日本已",
+ "event_role": "议政听政",
+ "summary": "兵部题提督徐治都疏称彝陵总兵官请以福建漳州副将王士诚补授，议不准行。",
+ "people": [
+  {
+   "name": "徐治都",
+   "role": "提督"
+  },
+  {
+   "name": "王士诚",
+   "role": "福建漳州副将"
+  }
+ ],
+ "places": [
+  "彝陵",
+  "福建漳州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7831,
+ "page_range": "166-167"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "二十日癸巳",
+ "event_role": "朝见受贺",
+ "summary": "敖汉多罗额驸扎木苏之母及其弟一品台吉垂扎木苏等、蒿齐忒王达尔麻吉里地雅木披尔来朝。",
+ "people": [
+  {
+   "name": "扎木苏",
+   "role": "多罗额驸"
+  },
+  {
+   "name": "垂扎木苏",
+   "role": "一品台吉"
+  },
+  {
+   "name": "达尔麻吉里地雅木披尔",
+   "role": "蒿齐忒王"
+  }
+ ],
+ "places": [
+  "敖汉",
+  "蒿齐忒"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6811,
+ "page_range": "147-148"
+}

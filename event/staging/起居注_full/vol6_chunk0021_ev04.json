@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十三日己亥",
+ "event_role": "贸易漕运",
+ "summary": "朝鲜国王奏请于中江地方贸易米粮，康熙帝依所请令其贸易。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "中江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2104,
+ "page_range": "52-53"
+}

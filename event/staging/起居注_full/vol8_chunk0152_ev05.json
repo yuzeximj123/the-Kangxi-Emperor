@@ -1,0 +1,20 @@
+{
+ "reign_year": 55,
+ "month": 8,
+ "day_text": "初一日戊子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸张三营。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "张三营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15205,
+ "page_range": "315-316"
+}

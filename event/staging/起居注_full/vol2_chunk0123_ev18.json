@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "二十六日丙酉",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶红旗汉军副都统，康熙帝以总兵周邦宁为人甚优，着补副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "高登科",
+   "role": "总兵官，拟正"
+  },
+  {
+   "name": "李饰梁",
+   "role": "参领，拟陪"
+  },
+  {
+   "name": "周邦宁",
+   "role": "总兵，补副都统"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12318,
+ "page_range": "289-290"
+}

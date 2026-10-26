@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初四日戊子",
+ "event_role": "人事任免",
+ "summary": "题补詹事府少詹事员缺，康熙帝谕皇太子读书宜用《日讲解义》，詹事府官宜择厚重之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "巴尔哈",
+   "role": "拟正郎中"
+  },
+  {
+   "name": "僧参",
+   "role": "拟陪郎中"
+  },
+  {
+   "name": "伍什巴",
+   "role": "拟正郎中"
+  },
+  {
+   "name": "明格里",
+   "role": "拟陪郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15211,
+ "page_range": "339-340"
+}

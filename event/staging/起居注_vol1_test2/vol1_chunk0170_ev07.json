@@ -1,0 +1,26 @@
+{
+ "reign_year": 17,
+ "month": 9,
+ "day_text": "十四日于子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至温泉，于牌坊外下马，随太皇太后入行宫，后率内大臣、侍卫、大学士及三品以上官员谒孝陵。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  }
+ ],
+ "places": [
+  "温泉",
+  "孝陵",
+  "五洞桥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 17007,
+ "page_range": "397-398"
+}

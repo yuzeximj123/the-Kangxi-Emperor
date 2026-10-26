@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "初五日王子",
+ "event_role": "人事任免",
+ "summary": "九卿会推湖广按察使员缺，康熙帝以李世昌补授湖广按察使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李世昌",
+   "role": "拟补湖广按察使"
+  },
+  {
+   "name": "李国亮",
+   "role": "陪拟"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11818,
+ "page_range": "279-280"
+}

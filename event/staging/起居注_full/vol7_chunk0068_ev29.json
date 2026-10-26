@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 8,
+ "day_text": "二十八日辛丑",
+ "event_role": "奏报地方情形",
+ "summary": "偏沅巡抚赵申乔奏报遣道员张仕可招安苗子事。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "张仕可",
+   "role": "道员"
+  }
+ ],
+ "places": [
+  "偏沅"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6829,
+ "page_range": "147-148"
+}

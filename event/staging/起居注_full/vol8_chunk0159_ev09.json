@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "兵部题富海与宁图为争佐领听闻一事，康熙帝命问知此事之大臣具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "富海",
+   "role": "官员"
+  },
+  {
+   "name": "宁图",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15909,
+ "page_range": "329-330"
+}

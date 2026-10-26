@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "初三日王扶",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早御瀛台内殿，讲官常书、孙在丰、归允肃进讲《泉水》二章、《出宿于干》二章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常书",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8604,
+ "page_range": "207-208"
+}

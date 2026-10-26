@@ -1,0 +1,30 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "十二日丁卯",
+ "event_role": "人事任免",
+ "summary": "马齐等以庶子高其停等员缺问翰林院，举出论德薄有德等呈览，康熙帝令问九卿具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "高其停",
+   "role": "庶子"
+  },
+  {
+   "name": "薄有德",
+   "role": "论德"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18214,
+ "page_range": "375-376"
+}

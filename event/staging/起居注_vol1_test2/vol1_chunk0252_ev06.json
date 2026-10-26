@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 6,
+ "day_text": "二十三日庚辰",
+ "event_role": "司法案件",
+ "summary": "理藩院议阿林大踢死绰尔济拟绞，康熙帝以其误伤毙命，命会同三法司再核议具奏。",
+ "people": [
+  {
+   "name": "阿林大",
+   "role": "案犯"
+  },
+  {
+   "name": "绰尔济",
+   "role": "死者"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25206,
+ "page_range": "561-562"
+}

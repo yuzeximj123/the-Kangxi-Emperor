@@ -1,0 +1,28 @@
+{
+ "reign_year": 38,
+ "month": 5,
+ "day_text": "十八日丙戌",
+ "event_role": "司法案件",
+ "summary": "吏部题兖州府知府陈于豫因送罪人越限革职乞复原职，康熙帝以其居官好，令随来询问再定。",
+ "people": [
+  {
+   "name": "陈于豫",
+   "role": "兖州府知府"
+  },
+  {
+   "name": "喻成龙",
+   "role": "督捕侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "兖州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9414,
+ "page_range": "198-199"
+}

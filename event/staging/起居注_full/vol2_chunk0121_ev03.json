@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 5,
+ "day_text": "十二日己未",
+ "event_role": "其他",
+ "summary": "康熙帝御乾清宫，讲官陈廷敬、牛钮、孙在丰进讲家人卦相关章节。",
+ "people": [
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12103,
+ "page_range": "285-286"
+}

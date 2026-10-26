@@ -1,0 +1,32 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题云南学道员缺，开列检讨阿尔赛、主事卢锡晋，康熙以余正健声名好，着补授。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "余正健",
+   "role": "原学院"
+  },
+  {
+   "name": "阿尔赛",
+   "role": "翰林院检讨"
+  },
+  {
+   "name": "卢锡晋",
+   "role": "礼部主事"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18001,
+ "page_range": "371-372"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "二十四日庚寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论直隶、河南饥荒，不取九卿所议捐输银米之例，主张以库银实惠赈济、捐免钱粮及给备荒米谷，明珠、汤斌赞之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "汤斌",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "直隶",
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1518,
+ "page_range": "65-66"
+}

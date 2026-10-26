@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 8,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部议彭四因救亲兄打死大功兄彭真拟斩立决，康熙帝命交九卿詹事科道详议具奏。",
+ "people": [
+  {
+   "name": "彭四",
+   "role": "案犯"
+  },
+  {
+   "name": "彭顺",
+   "role": "彭四亲兄"
+  },
+  {
+   "name": "彭真",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20702,
+ "page_range": "425-426"
+}

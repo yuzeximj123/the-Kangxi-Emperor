@@ -1,0 +1,29 @@
+{
+ "reign_year": 35,
+ "month": 11,
+ "day_text": "初三日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕议政大臣等，批评将军费扬古所奏侦探情形未详察厄鲁特人数、马畜、帐房多寡。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "费扬古",
+   "role": "将军"
+  },
+  {
+   "name": "阿尔纳伯尔赫",
+   "role": "护军参领"
+  }
+ ],
+ "places": [
+  "图衣河",
+  "和尔博尔津诺尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17115,
+ "page_range": "352-353"
+}

@@ -1,0 +1,35 @@
+{
+ "reign_year": 20,
+ "month": 10,
+ "day_text": "二十八日本未",
+ "event_role": "人事任免",
+ "summary": "总河靳辅题补多弘安为准阳道，部议允行，明珠奏多弘安有才能，康熙从之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "靳辅",
+   "role": "总河"
+  },
+  {
+   "name": "多弘安",
+   "role": "云南林安知府"
+  }
+ ],
+ "places": [
+  "清河",
+  "云南",
+  "盛京",
+  "准阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 8721,
+ "page_range": "217-218"
+}

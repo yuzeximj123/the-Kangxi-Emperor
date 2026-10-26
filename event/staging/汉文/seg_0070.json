@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙四十四年閏四月初六日",
+ "reign_year": 44,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "宋犖叩谢康熙南巡赏赉之恩，并奏报属地麦季丰收及校刊通德纲目进度。",
+ "people": [
+  {
+   "name": "宋犖",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江寧",
+  "蘇州",
+  "松江",
+  "淮安",
+  "常州",
+  "鎮江",
+  "揚州",
+  "徐州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙称回京即降甘霖、雨泽甚好，并提及山东大旱，待派人去而宋犖所奏未回。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "97",
+ "source_title": "江寧巡撫宋犖奏為再謝寵有加並報麥季收成等情摺",
+ "order_index": 70
+}

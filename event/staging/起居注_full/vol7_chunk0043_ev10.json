@@ -1,0 +1,35 @@
+{
+ "reign_year": 41,
+ "month": 12,
+ "day_text": "十八日甲午",
+ "event_role": "军务",
+ "summary": "兵部覆都统满丕题请议叙进剿打箭炉人员，康熙帝命王画交领侍卫内大臣引见，余交直隶巡抚等酌用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "满丕",
+   "role": "都统"
+  },
+  {
+   "name": "王画",
+   "role": "阿思哈尼哈番"
+  },
+  {
+   "name": "王进宝",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "打箭炉",
+  "直隶",
+  "古北口",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4310,
+ "page_range": "97-98"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "记载此次出行随从的起居注官为常书、傅伸、特默德。",
+ "people": [
+  {
+   "name": "常书",
+   "role": "起居注官"
+  },
+  {
+   "name": "傅伸",
+   "role": "起居注官"
+  },
+  {
+   "name": "特默德",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 18000,
+ "page_range": "370-371"
+}

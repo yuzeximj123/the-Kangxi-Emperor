@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 5,
+ "day_text": "初九日成午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝训示差往山西采买麦石的兵部侍郎王维珍，令其详察地方情形与谷价，有益于民方可采买，否则具奏请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王维珍",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "山西平阳府",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19712,
+ "page_range": "406-407"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "初一日了丑",
+ "event_role": "朝见受贺",
+ "summary": "龙门城、雕鹗堡文武官员前来朝见康熙帝。",
+ "people": [
+  {
+   "name": "龙门城文武官员",
+   "role": "地方官员"
+  },
+  {
+   "name": "雕鹗堡文武官员",
+   "role": "地方官员"
+  }
+ ],
+ "places": [
+  "龙门城",
+  "雕鹗堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 807,
+ "page_range": "73-74"
+}

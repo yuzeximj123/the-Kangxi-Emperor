@@ -1,0 +1,34 @@
+{
+ "reign_year": 40,
+ "month": 9,
+ "day_text": "二十八日",
+ "event_role": "人事任免",
+ "summary": "吴融奏陈齐永、克翔麟、朱廷镁俱属可用，郑惟孜优劣未闻。",
+ "people": [
+  {
+   "name": "吴融",
+   "role": "大学士"
+  },
+  {
+   "name": "陈齐永",
+   "role": "官员"
+  },
+  {
+   "name": "克翔麟",
+   "role": "官员"
+  },
+  {
+   "name": "朱廷镁",
+   "role": "官员"
+  },
+  {
+   "name": "郑惟孜",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21613,
+ "page_range": "442-443"
+}

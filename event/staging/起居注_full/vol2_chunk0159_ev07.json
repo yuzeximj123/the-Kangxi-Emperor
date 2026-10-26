@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "三十日癸丁",
+ "event_role": "人事任免",
+ "summary": "康熙询问军政内提督总兵官去留，明珠奏未阅本章，康熙谓立功及归诚立功者俱应留任，惟广东提督全袭历人才平常似应罢黜。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "全袭历",
+   "role": "广东提督"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15907,
+ "page_range": "361-362"
+}

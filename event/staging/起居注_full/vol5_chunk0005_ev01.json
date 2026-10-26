@@ -1,0 +1,38 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "伊么阿等奏称提督学政人选难以真知操守，请康熙帝简用，康熙帝遂命李光地提督顺天等处学政，并令于翰林内择用浙江学政。",
+ "people": [
+  {
+   "name": "伊么阿",
+   "role": "大臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "翰林"
+  },
+  {
+   "name": "王鸿绪",
+   "role": "翰林"
+  },
+  {
+   "name": "李光地",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "顺天",
+  "江南",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 501,
+ "page_range": "20-21"
+}

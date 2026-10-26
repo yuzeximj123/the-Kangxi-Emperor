@@ -1,0 +1,22 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "珠、史构因人材不及被革退。",
+ "people": [
+  {
+   "name": "珠",
+   "role": "被革退官员"
+  },
+  {
+   "name": "史构",
+   "role": "被革退官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14600,
+ "page_range": "303-304"
+}

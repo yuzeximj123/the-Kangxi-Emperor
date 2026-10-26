@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": "二十九日癸丑",
+ "event_role": "人事任免",
+ "summary": "吏部题察哈尔蒙古纳墨库等承袭世职，康熙帝以其中有祖父来降及效力者，令照旧准袭。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "纳墨库",
+   "role": "察哈尔蒙古"
+  }
+ ],
+ "places": [
+  "察哈尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14418,
+ "page_range": "323-324"
+}

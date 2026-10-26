@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "初十日壬午",
+ "event_role": "人事任免",
+ "summary": "靳辅请将升任同知苏凯等三员留原任修河工，康熙帝准留任，工竣后仍补云贵。",
+ "people": [
+  {
+   "name": "苏凯",
+   "role": "同知"
+  },
+  {
+   "name": "靳辅",
+   "role": "河道总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18702,
+ "page_range": "417-418"
+}

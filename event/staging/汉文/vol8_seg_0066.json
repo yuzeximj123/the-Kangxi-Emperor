@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十七年六月二十六日",
+ "reign_year": 57,
+ "month": 6,
+ "day": 13,
+ "event_role": "奏报地方情形",
+ "summary": "福州将军黄秉钺奏报闽省雨水调匀、地方安静，沿途田禾茂盛，并陈报建宁、延平、福州等地米价。",
+ "people": [
+  {
+   "name": "黄秉钺",
+   "role": "福州将军"
+  }
+ ],
+ "places": [
+  "福州",
+  "建宁",
+  "延平"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示已阅知悉。",
+ "source_title": "江西巡撫白潢奏報雨水收成並糧價摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2638",
+ "order_index": 66
+}

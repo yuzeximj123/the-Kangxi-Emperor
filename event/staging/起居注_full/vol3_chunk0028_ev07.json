@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十八日癸未",
+ "event_role": "司法案件",
+ "summary": "议处多罗惠郡王博合果诺庸惰懒情、祭地坛时未行斋戒，削去王爵，康熙帝命将此事奏闻太皇太后。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博合果诺",
+   "role": "多罗惠郡王"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "地坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2807,
+ "page_range": "91-92"
+}

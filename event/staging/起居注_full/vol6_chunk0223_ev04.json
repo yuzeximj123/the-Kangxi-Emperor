@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等题河南省秋审重罪人犯，康熙帝以翟三系斗殴持刀杀人，着改缓决，河南可缓者仅此一人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "翟三",
+   "role": "重罪人犯"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22304,
+ "page_range": "456-457"
+}

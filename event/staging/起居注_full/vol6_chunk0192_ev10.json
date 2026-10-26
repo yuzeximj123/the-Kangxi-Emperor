@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "二十三日辛巳",
+ "event_role": "人事任免",
+ "summary": "盛京刑部侍郎巢可托赴任前请求训旨，康熙帝勉励其整理盛京官方弊端。",
+ "people": [
+  {
+   "name": "巢可托",
+   "role": "盛京刑部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19210,
+ "page_range": "394-395"
+}

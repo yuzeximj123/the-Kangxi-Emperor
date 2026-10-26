@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十四年十月二十七日",
+ "reign_year": 54,
+ "month": 10,
+ "day": 27,
+ "event_role": "请安谢恩",
+ "summary": "直隶总督赵弘燮恭谢皇上对理事通判补授一事的训诲，并奏报病情好转，请求进京陛见叩谢天恩。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶总督管理直隶巡抚事务兵部右侍郎兼都察院右副都御史"
+  },
+  {
+   "name": "秃满达",
+   "role": "理事通判，奏请补授理事同知"
+  }
+ ],
+ "places": [
+  "直隶",
+  "京"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙嘱其冬月风寒小心调理，不必来京谢恩。",
+ "source_title": "直隸總督趙弘燮奏為恭謝聖訓並請陛見摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1919",
+ "order_index": 186
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "安徽巡抚李锁回奏被御史雇腾参劾病不能办事，议交江南将军提督查明；康熙帝以将军提督不预民事，令严饬该部，改着两江总督张鹏副查明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李锁",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "雇腾",
+   "role": "御史"
+  },
+  {
+   "name": "张鹏副",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "安徽",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14202,
+ "page_range": "294-295"
+}

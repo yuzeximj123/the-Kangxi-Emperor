@@ -1,0 +1,37 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "event_summary": "吏部题请补授江南江西总督赫寿员缺，列梁世勋等职名，康熙命问九卿，满宝、法海、苏克济有紧要事务不必举出。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "江南江西总督（员缺）"
+  },
+  {
+   "name": "梁世勋",
+   "role": "户部侍郎"
+  },
+  {
+   "name": "满宝",
+   "role": "官员"
+  },
+  {
+   "name": "法海",
+   "role": "官员"
+  },
+  {
+   "name": "苏克济",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "江南",
+  "江西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18900,
+ "page_range": "389-390"
+}

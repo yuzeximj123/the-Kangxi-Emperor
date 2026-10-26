@@ -1,0 +1,38 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "三阿哥、四阿哥、五阿哥、七阿哥、八阿哥序立，康熙亲示射法，诸皇子亦俱中三四矢。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "三阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "四阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "五阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "七阿哥",
+   "role": "皇子"
+  },
+  {
+   "name": "八阿哥",
+   "role": "皇子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4707,
+ "page_range": "106-107"
+}

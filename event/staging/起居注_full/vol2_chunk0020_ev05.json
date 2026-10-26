@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "初十日乙未",
+ "event_role": "谕旨决策",
+ "summary": "议孙维、金改祥条奏行取官员考试补授事，康熙帝主张对见任各官先行考试。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "孙维",
+   "role": "条奏官员"
+  },
+  {
+   "name": "金改祥",
+   "role": "条奏官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2005,
+ "page_range": "83-84"
+}

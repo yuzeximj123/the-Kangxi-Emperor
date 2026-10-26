@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "十九日壬戌",
+ "event_role": "人事任免",
+ "summary": "工部为修造汶船开列尚书介山等，康熙帝命塞克德、马世济前往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "介山",
+   "role": "工部尚书"
+  },
+  {
+   "name": "塞克德",
+   "role": "官员"
+  },
+  {
+   "name": "马世济",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15722,
+ "page_range": "357-358"
+}

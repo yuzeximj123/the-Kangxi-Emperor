@@ -1,0 +1,40 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙召常寿、黑硕色、费扬古问高家堰修否，黑硕色称水势浩大不可修。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "侍郎"
+  },
+  {
+   "name": "黑硕色",
+   "role": "员外郎"
+  },
+  {
+   "name": "费扬古",
+   "role": "员外郎"
+  },
+  {
+   "name": "于成龙",
+   "role": "河臣"
+  },
+  {
+   "name": "徐延牌",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14401,
+ "page_range": "298-299"
+}

@@ -1,0 +1,44 @@
+{
+ "date_raw": "康熙六十二年",
+ "reign_year": 62,
+ "month": null,
+ "day": null,
+ "event_role": "其他",
+ "summary": "何国宗、梅瑴成、王兰生等奏报《律历渊源》各书编成一百卷，已装潢进呈，并请皇上颁发御制序文冠于书首。",
+ "people": [
+  {
+   "name": "何国宗",
+   "role": "奏事臣，参与校录编书"
+  },
+  {
+   "name": "梅瑴成",
+   "role": "奏事臣，参与校录编书"
+  },
+  {
+   "name": "王兰生",
+   "role": "奏事臣，参与校录编书"
+  },
+  {
+   "name": "诚亲王",
+   "role": "奉圣训率臣等校录御制律历算诸书"
+  },
+  {
+   "name": "十五阿哥",
+   "role": "奉圣训参与校录"
+  },
+  {
+   "name": "十六阿哥",
+   "role": "奉圣训参与校录"
+  }
+ ],
+ "places": [
+  "武英殿"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "何國忠等奏請頒發御製律曆淵源序文事摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "3022",
+ "order_index": 435
+}

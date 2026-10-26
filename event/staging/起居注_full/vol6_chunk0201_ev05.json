@@ -1,0 +1,22 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "初二日戊子",
+ "event_role": "人事任免",
+ "summary": "吏部拟以原任给事中王原祁补授给事中张宕员缺，康熙帝令王原祁改授翰林。",
+ "people": [
+  {
+   "name": "王原祁",
+   "role": "原任给事中"
+  },
+  {
+   "name": "张宕",
+   "role": "给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20105,
+ "page_range": "412-413"
+}

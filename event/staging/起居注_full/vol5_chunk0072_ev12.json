@@ -1,0 +1,28 @@
+{
+ "reign_year": 34,
+ "month": 7,
+ "day_text": "初四日甲子",
+ "event_role": "奏报地方情形",
+ "summary": "两江总督范承勋题报江宁将军苗齐纳病故，康熙帝批知道了。",
+ "people": [
+  {
+   "name": "范承勋",
+   "role": "两江总督"
+  },
+  {
+   "name": "苗齐纳",
+   "role": "江宁将军"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 7212,
+ "page_range": "154-155"
+}

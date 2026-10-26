@@ -1,0 +1,25 @@
+{
+ "reign_year": 51,
+ "month": 5,
+ "day_text": "二十三日",
+ "event_role": "请安谢恩",
+ "summary": "土默特多罗达尔汉贝勒马呢及喀尔喀一品台吉库勒尔德来请安进贡。",
+ "people": [
+  {
+   "name": "马呢",
+   "role": "土默特多罗达尔汉贝勒"
+  },
+  {
+   "name": "库勒尔德",
+   "role": "喀尔喀一品台吉"
+  }
+ ],
+ "places": [
+  "土默特",
+  "喀尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 22106,
+ "page_range": "453-454"
+}

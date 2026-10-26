@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "十二日于寅",
+ "event_role": "人事任免",
+ "summary": "吏部题侍讲学士邵远平迁缺，康熙帝命韩菊补授。",
+ "people": [
+  {
+   "name": "邵远平",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "储振",
+   "role": "庶子"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "韩菊",
+   "role": "侍读，补授侍讲学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7413,
+ "page_range": "183-184"
+}

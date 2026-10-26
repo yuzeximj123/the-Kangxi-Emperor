@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "长芦巡盐御史迈色因盐商查日昌等借欠库银二十一万两，请提至天津审讯令其偿还，议准行。",
+ "people": [
+  {
+   "name": "迈色",
+   "role": "长芦巡盐御史"
+  },
+  {
+   "name": "查日昌",
+   "role": "盐商"
+  }
+ ],
+ "places": [
+  "长芦",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11500,
+ "page_range": "241-242"
+}

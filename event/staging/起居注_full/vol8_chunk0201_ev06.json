@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": "十六日成辰",
+ "event_role": "人事任免",
+ "summary": "礼部所题河南、山东、山西三省正副考官，康熙帝命照前问九巍。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "沈宗敬",
+   "role": "编修"
+  }
+ ],
+ "places": [
+  "河南",
+  "山东",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20106,
+ "page_range": "413-414"
+}

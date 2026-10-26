@@ -1,0 +1,29 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "初一日王成",
+ "event_role": "皇帝行止",
+ "summary": "荆州凯旋科尔沁国公图内黑等将至都城，康熙帝遣内大臣塔达携茶郊迎。",
+ "people": [
+  {
+   "name": "图内黑",
+   "role": "科尔沁国公"
+  },
+  {
+   "name": "塔达",
+   "role": "内大臣"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "荆州",
+  "都城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19419,
+ "page_range": "445-446"
+}

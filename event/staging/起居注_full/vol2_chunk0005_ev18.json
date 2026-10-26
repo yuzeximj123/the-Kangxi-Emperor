@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十四日庚辰",
+ "event_role": "谕旨决策",
+ "summary": "福建总督姚启圣告病，康熙以其无大病、进取福建著有劳绩，命票优旨留任。",
+ "people": [
+  {
+   "name": "姚启圣",
+   "role": "福建总督"
+  },
+  {
+   "name": "李光地",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 518,
+ "page_range": "53-54"
+}

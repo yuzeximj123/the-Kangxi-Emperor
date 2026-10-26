@@ -1,0 +1,24 @@
+{
+ "reign_year": 32,
+ "month": 2,
+ "day_text": "十九日癸巳",
+ "event_role": "朝见受贺",
+ "summary": "雄县驻防防守御山等、知县张重启等来朝见。",
+ "people": [
+  {
+   "name": "山",
+   "role": "雄县驻防防守御"
+  },
+  {
+   "name": "张重启",
+   "role": "知县"
+  }
+ ],
+ "places": [
+  "雄县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 22619,
+ "page_range": "464-465"
+}

@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十一年二月初二日",
+ "reign_year": 51,
+ "month": 2,
+ "day": 2,
+ "event_role": "请安谢恩",
+ "summary": "广州将军管源忠奏报妻子去世、子承泽请假奔丧扶柩归葬获准，并遣子赴京叩头代请圣安、谢恩。",
+ "people": [
+  {
+   "name": "管源忠",
+   "role": "广州将军，奏折作者"
+  },
+  {
+   "name": "承泽",
+   "role": "管源忠之子，佐领，请假奔丧并赴京请安"
+  },
+  {
+   "name": "于永泽",
+   "role": "管源忠之子（文中与承泽混称）"
+  }
+ ],
+ "places": [
+  "广州",
+  "广东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "廣州將軍管源忠奏報遣子赴闕代為請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1044",
+ "order_index": 8
+}

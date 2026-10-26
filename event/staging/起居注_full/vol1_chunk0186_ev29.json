@@ -1,0 +1,40 @@
+{
+ "reign_year": 18,
+ "month": 7,
+ "day_text": "二十八日庚申",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召大学士明珠、李霨等大臣入乾清宫，面谕因地震异常令九卿大臣修省、公忠报国，并令科道据实参奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "尚书"
+  },
+  {
+   "name": "魏象枢",
+   "role": "左都御史"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18629,
+ "page_range": "429-430"
+}

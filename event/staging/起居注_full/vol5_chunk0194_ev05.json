@@ -1,0 +1,32 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "二十八日己西",
+ "event_role": "人事任免",
+ "summary": "李起伸骑射不堪，康熙帝命革职，令总兵官选优补授。",
+ "people": [
+  {
+   "name": "李起伸",
+   "role": "保德营守备"
+  },
+  {
+   "name": "福善",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19405,
+ "page_range": "398-399"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "二十五日庚午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以噶哈曾因耳疾改补部员，认为李锦休致于例未合，命满汉画一再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶哈",
+   "role": "官员"
+  },
+  {
+   "name": "李锦",
+   "role": "候补给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13417,
+ "page_range": "311-312"
+}

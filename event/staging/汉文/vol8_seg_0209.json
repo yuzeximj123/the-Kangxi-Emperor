@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十八年七月初九日",
+ "reign_year": 58,
+ "month": 7,
+ "day": 9,
+ "event_role": "奏报灾情收成",
+ "summary": "苏州织造李煦奏报六月二十二、二十三两日淮扬地方狂风骤雨、湖水泛涨，盱眙、高邮等地田禾被淹，据闻具摺奏闻。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "淮扬",
+  "盱眙县",
+  "淡水闸坝",
+  "古沟",
+  "胡家",
+  "高邮州",
+  "挡军楼",
+  "九里庙"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報淮揚地方暴雨湖水泛漲田禾淹沒摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2805",
+ "order_index": 209
+}

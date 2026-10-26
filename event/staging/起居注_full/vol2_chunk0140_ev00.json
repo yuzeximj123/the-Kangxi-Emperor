@@ -1,0 +1,41 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "明珠奏问贝子苏尔法、副都统方格，称陈布鲁出征云南舟山有功、人材壮健，图舒亦有劳绩，康熙命陈布鲁补授参领。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "苏尔法",
+   "role": "贝子"
+  },
+  {
+   "name": "方格",
+   "role": "副都统"
+  },
+  {
+   "name": "陈布鲁",
+   "role": "原任大学士达海之孙，补授参领"
+  },
+  {
+   "name": "图舒",
+   "role": "前锋护卫"
+  }
+ ],
+ "places": [
+  "云南",
+  "舟山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14000,
+ "page_range": "323-324"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "十一日癸未",
+ "event_role": "司法案件",
+ "summary": "会议原任尚书哈尔哈齐不能攻克螺子山贼众拟立绞籍没，康熙帝念其伯王喇嘛阵亡，命从宽免死并免交内务府。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈尔哈齐",
+   "role": "原任尚书"
+  },
+  {
+   "name": "王喇嘛",
+   "role": "哈尔哈齐之伯"
+  }
+ ],
+ "places": [
+  "螺子山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17312,
+ "page_range": "389-390"
+}

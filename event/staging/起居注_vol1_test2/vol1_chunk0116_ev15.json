@@ -1,0 +1,32 @@
+{
+ "reign_year": 15,
+ "month": 6,
+ "day_text": "初七日成午",
+ "event_role": "其他",
+ "summary": "未时，康熙帝御乾清门，赐科尔沁国台吉鄂齐尔、阿拉纳、毕礼克图等食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂齐尔",
+   "role": "科尔沁国一品台吉"
+  },
+  {
+   "name": "阿拉纳",
+   "role": "科尔沁国四品台吉"
+  },
+  {
+   "name": "毕礼克图",
+   "role": "科尔沁国无品级台吉"
+  }
+ ],
+ "places": [
+  "乾清门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 11615,
+ "page_range": "289-290"
+}

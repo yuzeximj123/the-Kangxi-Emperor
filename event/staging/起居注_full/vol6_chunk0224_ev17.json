@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "初五日戊子",
+ "event_role": "人事任免",
+ "summary": "户部等题巡抚喀拜不亲查被灾地方议降三级调用，康熙帝以其非可信任且居官不善，着革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喀拜",
+   "role": "巡抚"
+  },
+  {
+   "name": "于成龙",
+   "role": "保奏者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22417,
+ "page_range": "458-459"
+}

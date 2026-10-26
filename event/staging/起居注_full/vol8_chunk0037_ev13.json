@@ -1,0 +1,36 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝评潘宗洛任巡抚后所进诗册词意荒疏，命革退潘宗洛，以福建布政使李发甲补授巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "潘宗洛",
+   "role": "巡抚"
+  },
+  {
+   "name": "揆叙",
+   "role": "左都御史兼翰林院掌院学士"
+  },
+  {
+   "name": "李发甲",
+   "role": "福建布政使"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3713,
+ "page_range": "85-86"
+}

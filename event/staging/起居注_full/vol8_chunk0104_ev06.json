@@ -1,0 +1,32 @@
+{
+ "reign_year": 54,
+ "month": 7,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝因通州河堤冲决，命赫奕亲身前往同牛钮会看修补工程，估计钱粮缮折具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "官员"
+  },
+  {
+   "name": "赫奕",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "通州河堤"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10406,
+ "page_range": "219-220"
+}

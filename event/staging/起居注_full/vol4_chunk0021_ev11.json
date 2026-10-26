@@ -1,0 +1,25 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": "二十四日丁酉",
+ "event_role": "人事任免",
+ "summary": "兵部题原任三屯营副将今升台湾总兵官王化行未详查无用火药应降一级调用，康熙帝以其行间效力免降，改罚俸一年。",
+ "people": [
+  {
+   "name": "王化行",
+   "role": "台湾总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾",
+  "三屯营"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2111,
+ "page_range": "54-55"
+}

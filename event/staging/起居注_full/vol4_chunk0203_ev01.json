@@ -1,0 +1,32 @@
+{
+ "reign_year": 31,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "川陕总督葛思泰请将汧阳运米所余六万石给散兵丁，康熙帝命将布喀运送米石给与，并令问九卿。",
+ "people": [
+  {
+   "name": "葛思泰",
+   "role": "川陕总督"
+  },
+  {
+   "name": "布喀",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "汧阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 20301,
+ "page_range": "418-419"
+}

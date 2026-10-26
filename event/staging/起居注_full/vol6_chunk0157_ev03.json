@@ -1,0 +1,28 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题拖沙喇哈番安什保等不擒拿偷采人参之人拟革职，康熙帝以其人材矫健、巡幸乌喇时效力，着从宽免治罪。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "安什保",
+   "role": "拖沙喇哈番"
+  },
+  {
+   "name": "安柱户",
+   "role": "安什保之父"
+  }
+ ],
+ "places": [
+  "乌喇"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15703,
+ "page_range": "324-325"
+}

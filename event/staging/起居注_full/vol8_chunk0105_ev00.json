@@ -1,0 +1,22 @@
+{
+ "reign_year": 54,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题请以候补按察使毛文狂等开列河南按察使张伯玉员缺，康熙命问九卿具奏。",
+ "people": [
+  {
+   "name": "张伯玉",
+   "role": "河南按察使"
+  },
+  {
+   "name": "毛文狂",
+   "role": "候补按察使"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 10500,
+ "page_range": "221-222"
+}

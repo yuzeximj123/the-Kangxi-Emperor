@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "十六日庚子",
+ "event_role": "人事任免",
+ "summary": "同知甘国均求往贵州迎父甘文爆骨棕，吏部议不准，康熙帝令即往迎其父骨。",
+ "people": [
+  {
+   "name": "甘国均",
+   "role": "同知"
+  },
+  {
+   "name": "甘文爆",
+   "role": "甘国均之父"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4006,
+ "page_range": "123-124"
+}

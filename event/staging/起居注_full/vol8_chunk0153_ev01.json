@@ -1,0 +1,38 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部覆请以黄之孝补柳州知府、幕国开补平乐知府，康熙准行并令陈九鹏留广西遇缺题补。",
+ "people": [
+  {
+   "name": "黄之孝",
+   "role": "拟补柳州府知府"
+  },
+  {
+   "name": "幕国开",
+   "role": "拟补平乐府知府"
+  },
+  {
+   "name": "陈九鹏",
+   "role": "原补平乐府知府"
+  },
+  {
+   "name": "陈元龙",
+   "role": "广西巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西",
+  "柳州府",
+  "平乐府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15301,
+ "page_range": "317-318"
+}

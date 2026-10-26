@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "初九日庚成",
+ "event_role": "司法案件",
+ "summary": "三法司议托克托何殴打主母应立斩，康熙帝从明珠议改为秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "托克托何",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19405,
+ "page_range": "431-432"
+}

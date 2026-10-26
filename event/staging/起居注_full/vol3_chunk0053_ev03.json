@@ -1,0 +1,46 @@
+{
+ "reign_year": 23,
+ "month": 10,
+ "day_text": "十四日丙午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝于围中赐大学士明珠、尚书伊桑阿、介山、学士席尔达、常书、孙在丰、副都御史孙果各免一只。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "尚书"
+  },
+  {
+   "name": "介山",
+   "role": "尚书"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "常书",
+   "role": "学士"
+  },
+  {
+   "name": "孙在丰",
+   "role": "学士"
+  },
+  {
+   "name": "孙果",
+   "role": "副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5303,
+ "page_range": "141-142"
+}

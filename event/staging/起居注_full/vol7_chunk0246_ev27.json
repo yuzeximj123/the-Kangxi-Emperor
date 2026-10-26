@@ -1,0 +1,32 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": "十九日成辰",
+ "event_role": "谕旨决策",
+ "summary": "刑部尚书哈山等奏直隶巡抚赵弘党题劫杀赵刚铺主仆之强盗何四等议驳回一案，请将本发还再议；康熙帝令本发还，着再议具奏。",
+ "people": [
+  {
+   "name": "哈山",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "何四",
+   "role": "强盗"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24627,
+ "page_range": "503-504"
+}

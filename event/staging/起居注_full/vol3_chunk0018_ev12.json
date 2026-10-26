@@ -1,0 +1,42 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "初五日庚子",
+ "event_role": "人事任免",
+ "summary": "吏部题补工部郎中席特库降调员缺，正拟工部员外郎朱臣、陪拟太仆寺员外郎努赫，康熙帝询问后命以努赫升补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "学士"
+  },
+  {
+   "name": "朱臣",
+   "role": "工部员外郎"
+  },
+  {
+   "name": "努赫",
+   "role": "太仆寺员外郎"
+  },
+  {
+   "name": "席特库",
+   "role": "工部郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1812,
+ "page_range": "71-72"
+}

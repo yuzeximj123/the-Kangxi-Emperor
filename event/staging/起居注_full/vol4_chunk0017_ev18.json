@@ -1,0 +1,21 @@
+{
+ "reign_year": 27,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谓海水必无倒注之理，举天津卫、庙湾海口为证，斥倒灌之说只可绐愚人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津卫",
+  "庙湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1718,
+ "page_range": "46-47"
+}

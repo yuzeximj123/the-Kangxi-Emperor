@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "初六日己丑",
+ "event_role": "军务",
+ "summary": "议发伪将军杨一豹等于乌喇、宁古塔腰站安插事，康熙帝命依部议，此后黑龙江设腰站时酌量安插，并传谕该部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨一豹",
+   "role": "伪将军"
+  }
+ ],
+ "places": [
+  "乌喇",
+  "宁古塔",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19910,
+ "page_range": "441-442"
+}

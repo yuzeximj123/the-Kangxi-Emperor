@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": "三十日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "九卿会议刘如汉条奏浙江多用兵船事，康熙帝以千兵用船千三百号无理，令严行察明。",
+ "people": [
+  {
+   "name": "刘如汉",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20313,
+ "page_range": "463-464"
+}

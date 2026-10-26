@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "二十三日甲申",
+ "event_role": "其他",
+ "summary": "荆州阵亡夸兰大吴喇忒部落蒙克丧至，康熙帝命头等侍卫和善携茶酒齐丧次致奠。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "蒙克",
+   "role": "阵亡夸兰大"
+  },
+  {
+   "name": "和善",
+   "role": "头等侍卫"
+  }
+ ],
+ "places": [
+  "荆州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20017,
+ "page_range": "457-458"
+}

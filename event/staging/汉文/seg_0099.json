@@ -1,0 +1,46 @@
+{
+ "date_raw": "康熙四十四年十月",
+ "reign_year": 44,
+ "month": 10,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "江宁巡抚宋荦因老病痰症请求致仕休养，并奏报病情及赴淮扬督赈勘河经过。",
+ "people": [
+  {
+   "name": "宋荦",
+   "role": "奏报人"
+  },
+  {
+   "name": "阿山",
+   "role": "涉及人物"
+  },
+  {
+   "name": "鄂克逊",
+   "role": "涉及人物"
+  },
+  {
+   "name": "曹寅",
+   "role": "涉及人物"
+  },
+  {
+   "name": "李煦",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "淮扬",
+  "扬州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已有旨意，叮嘱年老之人须小心饮食起居。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "133",
+ "source_title": "江宁巡抚宋荦奏为老病乞休事摺",
+ "order_index": 99
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 12,
+ "day_text": "二十一日已本",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问松柱关于王安国、徐廷伟为人，令会同吏部将汉军官员中材能胜任者选补奉天府尹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "学士"
+  },
+  {
+   "name": "王安国",
+   "role": "奉天府府尹"
+  },
+  {
+   "name": "徐廷伟",
+   "role": "府尹"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 9410,
+ "page_range": "198-199"
+}

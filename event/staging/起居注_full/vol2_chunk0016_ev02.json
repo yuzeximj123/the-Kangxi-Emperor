@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "十六日辛未",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问原任直隶巡抚金世德能否称职，明珠称其行善此文恰称其人，又比较于成龙操守清正办事相当。",
+ "people": [
+  {
+   "name": "金世德",
+   "role": "原任直隶巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "汉大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1602,
+ "page_range": "75-76"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初九日吴亥",
+ "event_role": "人事任免",
+ "summary": "吏部题补工部侍郎席特纳休致员缺，康熙帝命总督仓场侍郎沙赖调补工部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席特纳",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "沙赖",
+   "role": "总督仓场侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14709,
+ "page_range": "329-330"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十六日戊辰",
+ "event_role": "议政听政",
+ "summary": "马齐复奏遵旨以唐希顺、李出事问尚书席尔达，据云李麟被参系昭木多等年远旧事挟仇纠参，是以无良议；康熙帝评李鹿人才矫。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "席尔达",
+   "role": "尚书"
+  },
+  {
+   "name": "唐希顺",
+   "role": "提督"
+  },
+  {
+   "name": "李出",
+   "role": "参将"
+  },
+  {
+   "name": "李麟",
+   "role": "被参官员"
+  },
+  {
+   "name": "昭木多",
+   "role": "涉案人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23026,
+ "page_range": "470-471"
+}

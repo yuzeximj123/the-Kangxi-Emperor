@@ -1,0 +1,32 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": "二十五日甲申",
+ "event_role": "人事任免",
+ "summary": "吏部题安徽巡抚任国佐员缺，康熙帝以布政使线一信居官好、历年久，升补安徽巡抚。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "任国佐",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "线一信",
+   "role": "布政使"
+  },
+  {
+   "name": "戴通",
+   "role": "内阁学士"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8102,
+ "page_range": "172-173"
+}

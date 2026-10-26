@@ -1,0 +1,32 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十日甲辰",
+ "event_role": "人事任免",
+ "summary": "康熙帝询问马光出身为人，王熙、徐乾学奏对，帝命马光差往巡视两浙盐政。",
+ "people": [
+  {
+   "name": "马光",
+   "role": "巡视两浙盐政"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "徐乾学",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两浙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15505,
+ "page_range": "345-346"
+}

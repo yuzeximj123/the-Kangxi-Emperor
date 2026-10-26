@@ -1,0 +1,26 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初二日己巳",
+ "event_role": "人事任免",
+ "summary": "温达等奏问赵申乔科道内升外转人员，康熙帝令赦林、杨笃生内升，外转停止这一次。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "赦林",
+   "role": "科员"
+  },
+  {
+   "name": "杨笃生",
+   "role": "科道官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18812,
+ "page_range": "387-388"
+}

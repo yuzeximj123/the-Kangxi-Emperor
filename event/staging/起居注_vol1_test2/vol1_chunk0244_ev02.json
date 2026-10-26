@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "三法司拟强盗刘三等十七人罪，康熙帝采纳罪疑惟轻的后议，命照后议行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "刘三",
+   "role": "强盗"
+  },
+  {
+   "name": "李四",
+   "role": "涉案人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24402,
+ "page_range": "545-546"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 11,
+ "day_text": "十八日辛酉",
+ "event_role": "谕旨决策",
+ "summary": "兵部议叙广东琼南杀贼恢复城池功，康熙帝以提督侯获本不能预防海寇、致失城池，斥议叙太过，命严责另拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "侯获本",
+   "role": "提督"
+  },
+  {
+   "name": "获璋",
+   "role": "总兵官"
+  }
+ ],
+ "places": [
+  "广东琼南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15717,
+ "page_range": "357-358"
+}

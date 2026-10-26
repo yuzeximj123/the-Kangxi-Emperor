@@ -1,0 +1,50 @@
+{
+ "reign_year": 25,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院题御史内升外转，康熙帝询问人选，命将各御史内升外转之处问明都察院具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "刘安国",
+   "role": "御史"
+  },
+  {
+   "name": "昔鸣梧",
+   "role": "御史"
+  },
+  {
+   "name": "李绍闻",
+   "role": "御史"
+  },
+  {
+   "name": "黄辈",
+   "role": "御史"
+  },
+  {
+   "name": "夏景松",
+   "role": "御史"
+  },
+  {
+   "name": "刘光美",
+   "role": "御史"
+  },
+  {
+   "name": "郭维获",
+   "role": "御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14003,
+ "page_range": "315-316"
+}

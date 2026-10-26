@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "马齐等以庆南巡抚李发申请分冰之事问九卿，九卿议不准行，康熙令仍照旧例。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "李发申",
+   "role": "庆南巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "庆南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18509,
+ "page_range": "381-382"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 7,
+ "day_text": "初六日癸巳",
+ "event_role": "请安谢恩",
+ "summary": "福建提督万正色请给其父母诰命，兵部议不准，康熙帝以其效力海攻勤劳懋著命照所请给与。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "万正色",
+   "role": "福建提督"
+  }
+ ],
+ "places": [
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 25415,
+ "page_range": "565-566"
+}

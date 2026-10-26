@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请浙江巡抚王度昭所题审询劫夺商船海贼乐上宾、王君璃及郑尽心等案，康熙帝命该抚即审拟具奏。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "乐上宾",
+   "role": "海贼"
+  },
+  {
+   "name": "王君璃",
+   "role": "海贼"
+  },
+  {
+   "name": "郑尽心",
+   "role": "海贼"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16501,
+ "page_range": "341-342"
+}

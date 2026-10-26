@@ -1,0 +1,21 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": "初五日癸巳",
+ "event_role": "司法案件",
+ "summary": "礼部题朝鲜国王审送国人越界杀死中国人情节，康熙帝命遣司官带朝鲜国官前往凤凰城会同审事司官查明边界具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "朝鲜",
+  "凤凰城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16729,
+ "page_range": "345-346"
+}

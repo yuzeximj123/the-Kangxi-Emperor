@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "初一日王辰",
+ "event_role": "人事任免",
+ "summary": "正白旗汉军都统赛音达礼解任员缺，康熙帝命浙江副都统石文炳补授。",
+ "people": [
+  {
+   "name": "赛音达礼",
+   "role": "正白旗汉军都统，解任"
+  },
+  {
+   "name": "石文炳",
+   "role": "浙江副都统，补授"
+  },
+  {
+   "name": "杭奇",
+   "role": "护军统领，正推"
+  },
+  {
+   "name": "孙承祖",
+   "role": "副都统，陪推"
+  }
+ ],
+ "places": [
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6104,
+ "page_range": "157-158"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十七日己卯",
+ "event_role": "谕旨决策",
+ "summary": "兵部题盛京驿站官王人举等请借锅银，康熙帝以旧欠未清、恐复致亏欠，命查户刑二部旧案具奏。",
+ "people": [
+  {
+   "name": "王人举",
+   "role": "盛京驿站官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 814,
+ "page_range": "27-28"
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十九年十二月二十四日",
+ "reign_year": 59,
+ "month": 12,
+ "day": 5,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦闻定西将军噶尔弼在西藏获胜，上折称贺，并请求允其进京于来年元旦随班叩贺。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，上奏人"
+  },
+  {
+   "name": "噶尔弼",
+   "role": "定西将军，在西藏获胜之将领"
+  }
+ ],
+ "places": [
+  "苏州",
+  "西藏",
+  "福州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批言王历周而复始，由六十年以至亿万斯年之庆，昌期喜遇，权忭更当叩贺彤墀。",
+ "source_title": "兩廣總督楊琳奏報晚禾收成分數並米價摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2907",
+ "order_index": 305
+}

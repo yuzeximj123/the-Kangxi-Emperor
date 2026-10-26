@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 5,
+ "day_text": "初二日壬辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝询问刑部尚书图纳、左都御史马齐有无深知确见者，马齐奏称不敢妄奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图纳",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "马齐",
+   "role": "左都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12018,
+ "page_range": "252-253"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 52,
+ "month": 1,
+ "day_text": "初十日戊子",
+ "event_role": "起居注官记录",
+ "summary": "是日起居注官常得、文志鲸记录。",
+ "people": [
+  {
+   "name": "常得",
+   "role": "起居注官"
+  },
+  {
+   "name": "文志鲸",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12,
+ "page_range": "11-12"
+}

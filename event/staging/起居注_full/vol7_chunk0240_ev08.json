@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "十四日癸巳",
+ "event_role": "河工水利",
+ "summary": "康熙论河道，称去岁黄水旺清水弱未倒灌，指示筑堤引清水由北岸流去及修理杨家闸，故将河图置于座右不时详阅。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "王挟",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "杨家闸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24008,
+ "page_range": "491-492"
+}

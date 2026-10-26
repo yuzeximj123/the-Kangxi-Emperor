@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 9,
+ "day_text": "初十日乙丑",
+ "event_role": "人事任免",
+ "summary": "吏部题补郎中员缺，正拟陈豆献、陪拟马杂宠，康熙帝以二人俱才力不及，令另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陈豆献",
+   "role": "原任御史"
+  },
+  {
+   "name": "马杂宠",
+   "role": "本部员外"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1409,
+ "page_range": "71-72"
+}

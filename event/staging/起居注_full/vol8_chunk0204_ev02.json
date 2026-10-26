@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命刑部尚书张廷枢、内阁学士勒什布带郎中何顺急往河南严查贼党、详审即于彼处正法，并一面奏闻。",
+ "people": [
+  {
+   "name": "张廷枢",
+   "role": "刑部尚书"
+  },
+  {
+   "name": "勒什布",
+   "role": "内阁学士"
+  },
+  {
+   "name": "何顺",
+   "role": "郎中"
+  }
+ ],
+ "places": [
+  "河南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20402,
+ "page_range": "419-420"
+}

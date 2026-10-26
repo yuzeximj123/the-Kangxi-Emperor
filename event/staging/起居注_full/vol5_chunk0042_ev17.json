@@ -1,0 +1,24 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十九日甲午",
+ "event_role": "司法案件",
+ "summary": "刑部题秋审山西情真各案，康熙帝以学道李观光议处决属过，命减等发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李观光",
+   "role": "学道"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4217,
+ "page_range": "94-95"
+}

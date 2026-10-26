@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初一日乙卯",
+ "event_role": "其他",
+ "summary": "康熙帝命近侍萨木哈、五十传谕，赐于成龙白金一千、表里二十，于成龙受谢恩出。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "萨木哈",
+   "role": "近侍"
+  },
+  {
+   "name": "五十",
+   "role": "近侍"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14512,
+ "page_range": "325-326"
+}

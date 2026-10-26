@@ -1,0 +1,22 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "初五日庚子",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕祈雨事宜察例具奏，并忧盛京等处无雨未播种，命遣部院堂官往奉天会同将军等严禁蒸酒、偷采人参糜费米粮。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山海关",
+  "盛京",
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7201,
+ "page_range": "156-157"
+}

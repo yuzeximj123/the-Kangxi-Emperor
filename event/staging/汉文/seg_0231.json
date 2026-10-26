@@ -1,0 +1,41 @@
+{
+ "date_raw": "康熙三十八年十二月十二日",
+ "reign_year": 38,
+ "month": 12,
+ "day": 12,
+ "event_role": "奏报地方情形",
+ "summary": "曹寅奏报江宁米价、地方太平及晴雨录，并转奏扬州镇江平粜官员摺子。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "觉罗塞黑",
+   "role": "涉及人物"
+  },
+  {
+   "name": "戴宝",
+   "role": "涉及人物"
+  },
+  {
+   "name": "赵弘煜",
+   "role": "涉及人物"
+  }
+ ],
+ "places": [
+  "江宁",
+  "扬州",
+  "兴化",
+  "泰州",
+  "仪真",
+  "镇江"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，晴雨录留中不发。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "33",
+ "source_title": "江宁织造曹寅奏报江宁米价并传谕马匹喂养之法事摺",
+ "order_index": 231
+}

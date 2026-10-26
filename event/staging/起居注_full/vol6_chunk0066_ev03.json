@@ -1,0 +1,26 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命于成龙敕书内加入各部不得掣肘之语，并召奉天府尹徐廷玺前来协理河务，令速拟补府尹具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  },
+  {
+   "name": "徐廷玺",
+   "role": "奉天府尹"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 6603,
+ "page_range": "142-143"
+}

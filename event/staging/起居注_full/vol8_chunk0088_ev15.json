@@ -1,0 +1,27 @@
+{
+ "reign_year": 54,
+ "month": 2,
+ "day_text": "二十六日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "礼部覆湖广学院薄有德题请立学署及生童考试事，康熙帝准苗、往人等额外取进一二人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "薄有德",
+   "role": "湖广学院"
+  }
+ ],
+ "places": [
+  "钟祥县",
+  "岳州府",
+  "洞庭湖",
+  "澧州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 8815,
+ "page_range": "187-188"
+}

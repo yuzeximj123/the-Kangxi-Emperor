@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 4,
+ "day_text": "二十三日庚寅",
+ "event_role": "奏报地方情形",
+ "summary": "江南差回刑部主事罗察进见，奏江南、山东麦田皆好，惟直隶稍旱，积水已涸，民尽耕种。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗察",
+   "role": "刑部主事"
+  }
+ ],
+ "places": [
+  "江南",
+  "山东",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 1712,
+ "page_range": "44-45"
+}

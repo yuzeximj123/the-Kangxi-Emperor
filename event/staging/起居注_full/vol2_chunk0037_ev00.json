@@ -1,0 +1,25 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "吉想阳等、克什克屯部落三品台吉衣马克塔等、喀喇沁部三品塔布村中齐儿等食。",
+ "people": [
+  {
+   "name": "衣马克塔",
+   "role": "克什克屯部落三品台吉"
+  },
+  {
+   "name": "齐儿",
+   "role": "喀喇沁部三品塔布村中"
+  }
+ ],
+ "places": [
+  "克什克屯部落",
+  "喀喇沁部"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 3700,
+ "page_range": "117-118"
+}

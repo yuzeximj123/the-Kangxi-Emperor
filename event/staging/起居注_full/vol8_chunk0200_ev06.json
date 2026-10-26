@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请刑部所题吴祯私通护军英立布之妻并将其打死案，拟吴祯即行正法、英立布之妻绞监候，康熙帝依议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴祯",
+   "role": "案犯"
+  },
+  {
+   "name": "英立布",
+   "role": "护军"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20006,
+ "page_range": "411-412"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 11,
+ "day_text": "十三日丙申",
+ "event_role": "人事任免",
+ "summary": "仪真县知县员缺，九卿保举教谕许承澎，康熙帝命许承澎补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许承澎",
+   "role": "教谕"
+  }
+ ],
+ "places": [
+  "仪真县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22707,
+ "page_range": "464-465"
+}

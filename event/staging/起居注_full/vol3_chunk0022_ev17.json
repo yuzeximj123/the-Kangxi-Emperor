@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 4,
+ "day_text": "二十三日戊午",
+ "event_role": "司法案件",
+ "summary": "大学士王熙等奉旨清理刑狱释放若干人，康熙帝命内巴言兔手刃他库仍监候，其余持刀杀人稍可矜疑者从轻发落。",
+ "people": [
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "内巴言兔",
+   "role": "案犯"
+  },
+  {
+   "name": "他库",
+   "role": "被害人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2217,
+ "page_range": "79-80"
+}

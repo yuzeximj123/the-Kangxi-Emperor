@@ -1,0 +1,32 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝裁决：苏赫销去所加一级罚俸一年，杜尔其、何嵌、陶乐革职枷号三个月鞭一百发往黑龙江当差，余依议。",
+ "people": [
+  {
+   "name": "苏赫",
+   "role": "尚书"
+  },
+  {
+   "name": "杜尔其",
+   "role": "官员"
+  },
+  {
+   "name": "何嵌",
+   "role": "官员"
+  },
+  {
+   "name": "陶乐",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16101,
+ "page_range": "334-335"
+}

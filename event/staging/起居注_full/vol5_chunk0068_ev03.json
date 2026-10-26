@@ -1,0 +1,36 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "初四日甲午",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝依议处置右卫将军希福等议罪事，命伯费扬古兼管右卫将军事，令该部速议施行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "右卫将军"
+  },
+  {
+   "name": "阿山",
+   "role": "副都御史"
+  },
+  {
+   "name": "费扬古",
+   "role": "伯，兼管右卫将军事"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "右卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6803,
+ "page_range": "146-147"
+}

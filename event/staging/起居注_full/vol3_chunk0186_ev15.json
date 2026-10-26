@@ -1,0 +1,38 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": "初十日辛卯",
+ "event_role": "司法案件",
+ "summary": "刑部再题三次窃盗傻子拟枷号责打，明珠等奏传问刑部堂官诺敏等自认所议错误，帝命三法司核拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "诺敏",
+   "role": "刑部堂官"
+  },
+  {
+   "name": "王巾",
+   "role": "汉大学士"
+  },
+  {
+   "name": "葛思泰",
+   "role": "学士"
+  },
+  {
+   "name": "傻子",
+   "role": "三次窃盗"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18615,
+ "page_range": "407-408"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十四日庚戌",
+ "event_role": "人事任免",
+ "summary": "会推广东将军员缺，正拟范达礼、陪拟海喇图，康熙令以提督王永誉补授。",
+ "people": [
+  {
+   "name": "范达礼",
+   "role": "都统"
+  },
+  {
+   "name": "海喇图",
+   "role": "官员"
+  },
+  {
+   "name": "王永誉",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1108,
+ "page_range": "65-66"
+}

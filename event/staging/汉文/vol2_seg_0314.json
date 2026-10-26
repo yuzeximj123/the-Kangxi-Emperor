@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙四十九年五月二十日",
+ "reign_year": 49,
+ "month": 5,
+ "day": 20,
+ "event_role": "奏报灾情收成",
+ "summary": "广东巡抚范时崇奏报本省早禾夏收情形，惠州、潮州收成五分以上，琼州七分以上，其余各府州县九分以上，并报各地米价。",
+ "people": [
+  {
+   "name": "范时崇",
+   "role": "广东巡抚，奏报人"
+  },
+  {
+   "name": "乔义斋",
+   "role": "差遣进摺的家人"
+  }
+ ],
+ "places": [
+  "广东",
+  "惠州",
+  "潮州",
+  "琼州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "廣東巡撫范時崇奏報早禾收成九分摺",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 314
+}

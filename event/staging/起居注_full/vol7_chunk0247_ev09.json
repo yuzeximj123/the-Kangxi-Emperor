@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝称赞盛京海贼郑尽心等上岸时松柱属下官兵杀伤甚多，并引郑尽心供词称大兵箭犀利。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "郑尽心",
+   "role": "海贼"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24709,
+ "page_range": "505-506"
+}

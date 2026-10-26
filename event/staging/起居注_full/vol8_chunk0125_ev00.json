@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请理藩院所题阿禄科尔沁台吉变他儿等侵蚀赏银、索取马牛、苛害族人一案，康熙准令其来京披甲效力。",
+ "people": [
+  {
+   "name": "变他儿",
+   "role": "阿禄科尔沁台吉/被告"
+  },
+  {
+   "name": "诺尔布潜穆素",
+   "role": "台吉"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "阿禄科尔沁",
+  "京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12500,
+ "page_range": "261-262"
+}

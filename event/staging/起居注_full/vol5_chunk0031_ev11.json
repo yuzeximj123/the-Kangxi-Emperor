@@ -1,0 +1,25 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝言天津总兵官李镇易奏通州河道东边所修堤工不妨害，惟旧堤冲决，皆因上流水盛。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李镇易",
+   "role": "天津总兵官"
+  }
+ ],
+ "places": [
+  "通州",
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3111,
+ "page_range": "72-73"
+}

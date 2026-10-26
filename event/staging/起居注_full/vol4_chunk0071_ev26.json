@@ -1,0 +1,32 @@
+{
+ "reign_year": 28,
+ "month": 5,
+ "day_text": "初一日两申",
+ "event_role": "人事任免",
+ "summary": "户部题崇文门税差拟以兵部郎中张球圭，康熙帝询问侍读穆和伦，伊桑阿称其颇优，遂命穆和伦去。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张球圭",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "穆和伦",
+   "role": "侍读"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "崇文门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 7126,
+ "page_range": "154-155"
+}

@@ -1,0 +1,23 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "二十六日己卯",
+ "event_role": "奏报地方情形",
+ "summary": "礼科给事中达奇纳条陈，云南四川既平，西安府驻防大兵更番戍守汉中似宜停止。",
+ "people": [
+  {
+   "name": "达奇纳",
+   "role": "礼科给事中"
+  }
+ ],
+ "places": [
+  "西安府",
+  "汉中",
+  "云南",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16405,
+ "page_range": "363-364"
+}

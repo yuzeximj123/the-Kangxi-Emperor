@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙五十一年八月初八日",
+ "reign_year": 51,
+ "month": 8,
+ "day": 8,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报苏州、扬州因湖广客米到货甚多，米价仍贱，雨水调匀，田禾渐结谷，预计九月丰收，并进呈七月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造/奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "扬州",
+  "湖广"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”。",
+ "source_title": "残页",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 100
+}

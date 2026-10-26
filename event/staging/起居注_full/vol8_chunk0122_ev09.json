@@ -1,0 +1,41 @@
+{
+ "reign_year": 54,
+ "month": 12,
+ "day_text": "初六日戊辰",
+ "event_role": "人事任免",
+ "summary": "大学士松柱奏问原任将军王诺罗布等，康熙帝令塔拜补授杭州将军。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "王诺罗布",
+   "role": "原任将军"
+  },
+  {
+   "name": "带色噶什",
+   "role": "杭州副都统"
+  },
+  {
+   "name": "塔拜",
+   "role": "江宁副都统"
+  },
+  {
+   "name": "苏努",
+   "role": "贝子"
+  }
+ ],
+ "places": [
+  "杭州",
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12209,
+ "page_range": "255-256"
+}

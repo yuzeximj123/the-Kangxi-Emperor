@@ -1,0 +1,28 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十六日乙丑",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝遣皇子保清、裕亲王祭和硕纯亲王墓奠酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "保清",
+   "role": "皇子"
+  },
+  {
+   "name": "裕亲王",
+   "role": "亲王"
+  }
+ ],
+ "places": [
+  "和硕纯亲王墓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9125,
+ "page_range": "225-226"
+}

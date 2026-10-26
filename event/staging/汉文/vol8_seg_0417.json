@@ -1,0 +1,42 @@
+{
+ "date_raw": null,
+ "reign_year": null,
+ "month": null,
+ "day": null,
+ "event_role": "人事任免",
+ "summary": "奏报因领兵官员身故，于军前拣选谙练军伍人员补授参将、游击、守备等缺，并列出高锦、汪某、杨克功、卫维康等人的调补升补方案。",
+ "people": [
+  {
+   "name": "高锦",
+   "role": "凉州镇属大靖营参将，拟调补灵州营参将"
+  },
+  {
+   "name": "汪（缺名）",
+   "role": "甘州提标新营游击，拟补授大靖营缺"
+  },
+  {
+   "name": "杨克功",
+   "role": "宁夏人，拟补授游击员缺"
+  },
+  {
+   "name": "卫维康",
+   "role": "甘州提标左营守备，拟升补杨克功游击员缺"
+  }
+ ],
+ "places": [
+  "土鲁番",
+  "凉州",
+  "大靖营",
+  "灵州营",
+  "甘州",
+  "宁夏",
+  "巴尔库尔"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "未知｜残片",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "1003",
+ "order_index": 417
+}

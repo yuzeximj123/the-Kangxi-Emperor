@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "覆请署理浙闽总督祖良壁参革钱塘知县王秘美索诈银两一案，康熙帝令详查御书扁额赐给缘由。",
+ "people": [
+  {
+   "name": "祖良壁",
+   "role": "署理浙闽总督福州将军"
+  },
+  {
+   "name": "王秘美",
+   "role": "革职钱塘县知县"
+  },
+  {
+   "name": "程纲",
+   "role": "控告人"
+  },
+  {
+   "name": "程永兴",
+   "role": "涉案人"
+  }
+ ],
+ "places": [
+  "钱塘县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17901,
+ "page_range": "369-370"
+}

@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙五十六年十二月十七日",
+ "reign_year": 56,
+ "month": 12,
+ "day": 7,
+ "event_role": "请安谢恩",
+ "summary": "苏州织造李煦因皇太后身体欠安、康熙帝忧思消瘦，具折请安并表达关切祈祷之意。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，上奏请安者"
+  },
+  {
+   "name": "皇太后",
+   "role": "康熙帝之母，身体违和者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝，因太后欠安而忧思消瘦"
+  }
+ ],
+ "places": [
+  "汤山",
+  "京"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏為皇太后尚未大痊具疏請安摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2567",
+ "order_index": 23
+}

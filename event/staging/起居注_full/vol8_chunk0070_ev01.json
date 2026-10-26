@@ -1,0 +1,36 @@
+{
+ "reign_year": 53,
+ "month": 8,
+ "day_text": "二十八日丁西",
+ "event_role": "人事任免",
+ "summary": "吏部题请将捐纳平凉府知府姚陶革去所捐知府品级，康熙帝准奏并命查其籍贯家世。",
+ "people": [
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "查弱纳",
+   "role": "学士"
+  },
+  {
+   "name": "关保",
+   "role": "学士"
+  },
+  {
+   "name": "胡作梅",
+   "role": "礼部侍郎"
+  },
+  {
+   "name": "姚陶",
+   "role": "捐纳平凉府知府"
+  }
+ ],
+ "places": [
+  "平凉府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7001,
+ "page_range": "151-152"
+}

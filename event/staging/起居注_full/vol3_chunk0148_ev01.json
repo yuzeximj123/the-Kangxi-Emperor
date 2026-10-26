@@ -1,0 +1,48 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "明珠等奏遵旨会同九卿科道议江宁巡抚汤斌廉洁端方堪内召，并议詹事府官员去留，请升汤斌为礼部尚书总管詹事府事。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "汤斌",
+   "role": "江宁巡抚"
+  },
+  {
+   "name": "朱马泰",
+   "role": "满詹事"
+  },
+  {
+   "name": "喇巴",
+   "role": "少詹事"
+  },
+  {
+   "name": "色度",
+   "role": "少詹事"
+  },
+  {
+   "name": "郭茜",
+   "role": "汉詹事"
+  },
+  {
+   "name": "卢琦",
+   "role": "少詹事"
+  },
+  {
+   "name": "归友肃",
+   "role": "少詹事"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14801,
+ "page_range": "331-332"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 29,
+ "month": 6,
+ "day_text": "十二日辛未",
+ "event_role": "人事任免",
+ "summary": "兵部题海澄公黄芳泰请以黄应费承袭，康熙令如所请，令黄应费在籍安插。",
+ "people": [
+  {
+   "name": "黄芳泰",
+   "role": "海澄公"
+  },
+  {
+   "name": "黄芳都",
+   "role": "黄芳泰之弟"
+  },
+  {
+   "name": "黄应费",
+   "role": "黄芳都继子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 12413,
+ "page_range": "260-261"
+}

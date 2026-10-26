@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "十七日癸丑",
+ "event_role": "议政听政",
+ "summary": "康熙帝御乾清宫，大学士勒德洪、明珠，学士图纳以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "图纳",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 808,
+ "page_range": "51-52"
+}

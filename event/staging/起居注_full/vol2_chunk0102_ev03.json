@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "御史张集条奏逆贼荡平应行献俘大礼，部议不允，康熙以耿精忠、夏国相等现存，命发诸王会议待开印再议。",
+ "people": [
+  {
+   "name": "张集",
+   "role": "御史"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "耿精忠",
+   "role": "逆贼"
+  },
+  {
+   "name": "夏国相",
+   "role": "逆贼"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10203,
+ "page_range": "247-248"
+}

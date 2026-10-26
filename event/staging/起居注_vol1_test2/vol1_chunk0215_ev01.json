@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 1,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "将军王进宝请以原任道员胡异页等署关南道府等缺，部议不准，康熙以胡等被胁从逆后投大军不受伪职，命再议。",
+ "people": [
+  {
+   "name": "王进宝",
+   "role": "将军"
+  },
+  {
+   "name": "胡异页",
+   "role": "原任道员"
+  }
+ ],
+ "places": [
+  "关南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21501,
+ "page_range": "487-488"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "二十一日丙寅",
+ "event_role": "人事任免",
+ "summary": "康熙帝以南巡见杭州将军丹岱惟图偷安退避、杭州军旅不振，命丹岱休致。",
+ "people": [
+  {
+   "name": "丹岱",
+   "role": "杭州将军"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5416,
+ "page_range": "119-120"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "兵部议覆登州总兵官李雄题战船巡察海界分界事，康熙帝令盛京将军同总兵官会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李雄",
+   "role": "登州总兵官"
+  }
+ ],
+ "places": [
+  "登州",
+  "锦州",
+  "黄城岛",
+  "铁山",
+  "城山头",
+  "安东营",
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7107,
+ "page_range": "153-154"
+}

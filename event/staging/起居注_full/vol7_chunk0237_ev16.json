@@ -1,0 +1,28 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "二十五日乙亥",
+ "event_role": "司法案件",
+ "summary": "理藩院题巴尔虎僧变中控告佐领阿敏等隐瞒壮丁一案属实，议罚俸，康熙以不知例从宽免罚免责。",
+ "people": [
+  {
+   "name": "阿敏",
+   "role": "佐领"
+  },
+  {
+   "name": "僧变中",
+   "role": "巴尔虎"
+  },
+  {
+   "name": "吴齐尔图",
+   "role": "小校"
+  }
+ ],
+ "places": [
+  "正蓝旗察哈尔旗下"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23716,
+ "page_range": "485-486"
+}

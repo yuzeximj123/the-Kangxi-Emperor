@@ -1,0 +1,30 @@
+{
+ "reign_year": 57,
+ "month": 2,
+ "day_text": "初十日己丑",
+ "event_role": "司法案件",
+ "summary": "满九卿遵旨将皇上亲究朱都纳等口供添入再议奏折转奏，康熙帝手书谕旨责戴保、常责一体定拟不合，指出戴保应斩及拘禁处放出行走未察。",
+ "people": [
+  {
+   "name": "戴保",
+   "role": "罪犯"
+  },
+  {
+   "name": "常责",
+   "role": "罪犯"
+  },
+  {
+   "name": "朱都纳",
+   "role": "受审官员"
+  },
+  {
+   "name": "双全",
+   "role": "奏事六品官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23502,
+ "page_range": "481-482"
+}

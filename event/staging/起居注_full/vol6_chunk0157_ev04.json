@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "古北口总兵官马进良请以昌平营参将李默升补石匣副将，康熙帝以石匣副将系亲行简授之缺，总兵官不得擅行保题，令批出原本发还。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马进良",
+   "role": "古北口总兵官"
+  },
+  {
+   "name": "李默",
+   "role": "昌平营参将"
+  }
+ ],
+ "places": [
+  "古北口",
+  "昌平营",
+  "石匣"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15704,
+ "page_range": "324-325"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 41,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题厢白旗阿达哈哈番华善患病请以其弟武广承袭，康熙帝命华善调理，病痊仍当差，不痊方令承袭。",
+ "people": [
+  {
+   "name": "华善",
+   "role": "厢白旗阿达哈哈番"
+  },
+  {
+   "name": "武广",
+   "role": "华善之弟"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2103,
+ "page_range": "53-54"
+}

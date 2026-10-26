@@ -1,0 +1,30 @@
+{
+ "reign_year": 18,
+ "month": 12,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题补张尚礼为兵部督捕右理事官，康熙帝以其举动粗鄙不准，命另推。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张尚礼",
+   "role": "大理寺寺丞"
+  },
+  {
+   "name": "索额图",
+   "role": "内阁大学士"
+  },
+  {
+   "name": "踢尔图",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 21101,
+ "page_range": "479-480"
+}

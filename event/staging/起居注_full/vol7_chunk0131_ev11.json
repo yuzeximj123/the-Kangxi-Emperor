@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 10,
+ "day_text": "初九日癸巳",
+ "event_role": "谕旨决策",
+ "summary": "户部议山东巡抚赵世显题请现行之钱勿禁，康熙帝命本发还并前件交九卿议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵世显",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13111,
+ "page_range": "273-274"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 7,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部劾何天培约束不严，康熙帝以其声名不佳、本欲使之离兴安，着革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "博济",
+   "role": "川陕总督"
+  },
+  {
+   "name": "何天培",
+   "role": "原任兴安总兵今升正蓝旗汉军副都统"
+  }
+ ],
+ "places": [
+  "兴安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12002,
+ "page_range": "251-252"
+}

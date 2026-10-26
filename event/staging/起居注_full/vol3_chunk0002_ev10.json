@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 1,
+ "day_text": "二十六日壬辰",
+ "event_role": "人事任免",
+ "summary": "吏部题主事和升任员缺，康熙帝以赫图粗鄙不知礼不用，命席图库补缺照常赞礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赫图",
+   "role": "拟正赞礼郎"
+  },
+  {
+   "name": "席图库",
+   "role": "拟陪席图库"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 210,
+ "page_range": "39-40"
+}

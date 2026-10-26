@@ -1,0 +1,34 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "十二日王辰",
+ "event_role": "司法案件",
+ "summary": "兵部题差往赈济营古被杀郎中尔吉兔，擒获凶犯博对等，康熙帝认为尔吉兔因公被杀应议叙，令再议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "尔吉兔",
+   "role": "郎中"
+  },
+  {
+   "name": "博对",
+   "role": "凶犯"
+  },
+  {
+   "name": "齐齐克",
+   "role": "护军校"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7307,
+ "page_range": "189-190"
+}

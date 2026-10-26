@@ -1,0 +1,29 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": "初六日两辰",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内澹宁居听政，部院各衙门官员面奏毕，九卿等面奏噶礼、张伯行互参一案。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "官员"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "澹宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23309,
+ "page_range": "477-478"
+}

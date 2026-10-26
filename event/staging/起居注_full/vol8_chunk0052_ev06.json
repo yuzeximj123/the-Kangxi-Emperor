@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 1,
+ "day_text": "二十四日丙寅",
+ "event_role": "人事任免",
+ "summary": "吏部题湖南巡抚李发甲员缺，请以学士获升元等开列，康熙帝命以布政使等官问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李发甲",
+   "role": "湖南巡抚"
+  },
+  {
+   "name": "获升元",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5206,
+ "page_range": "115-116"
+}

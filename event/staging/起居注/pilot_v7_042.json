@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "三十日乙酉",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕师懿德以赵良栋为法，戒骄戒傲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "师懿德",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "赵良栋",
+   "role": "前天津总兵"
+  }
+ ],
+ "places": [
+  "天津"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3042
+}

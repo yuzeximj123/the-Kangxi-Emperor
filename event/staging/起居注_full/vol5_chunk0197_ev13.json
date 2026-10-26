@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初十日辛酉",
+ "event_role": "人事任免",
+ "summary": "康熙谕鸣赞伊进萨克苏，将尝乐堡守备张玛着兵部记其名。",
+ "people": [
+  {
+   "name": "伊进萨克苏",
+   "role": "鸣赞"
+  },
+  {
+   "name": "张玛",
+   "role": "尝乐堡守备"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "尝乐堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19713,
+ "page_range": "404-405"
+}

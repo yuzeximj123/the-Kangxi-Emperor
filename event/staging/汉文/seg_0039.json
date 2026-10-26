@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙四十年九月十六日",
+ "reign_year": 40,
+ "month": 9,
+ "day": 16,
+ "event_role": "请安谢恩",
+ "summary": "曹寅奏报皇上回銮请安，并报江南各省丰收、民安物阜。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江南",
+  "苏州",
+  "庐凤"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批表示已知悉所奏内容。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "43",
+ "source_title": "江宁织造曹寅奏报江南丰收并请安折",
+ "order_index": 39
+}

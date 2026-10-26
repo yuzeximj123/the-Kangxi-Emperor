@@ -1,0 +1,42 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "初五日癸丑",
+ "event_role": "谕旨决策",
+ "summary": "大学士温达等以折本请旨，户部题每仓添造米厂五十座，康熙帝因官保条奏将此事发回一并议奏。",
+ "people": [
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  },
+  {
+   "name": "王乒",
+   "role": "大学士"
+  },
+  {
+   "name": "官保",
+   "role": "给事中"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 406,
+ "page_range": "19-20"
+}

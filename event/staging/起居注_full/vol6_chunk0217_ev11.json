@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "初四日己巳",
+ "event_role": "谕旨决策",
+ "summary": "湖广总督郭琇条奏州县钱粮分五月八月完纳百姓受累，康熙帝以其所奏近是，交九卿议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭琇",
+   "role": "湖广总督"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21711,
+ "page_range": "444-445"
+}

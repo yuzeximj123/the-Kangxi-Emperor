@@ -1,0 +1,23 @@
+{
+ "reign_year": 39,
+ "month": 10,
+ "day_text": "十四日癸西",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝赴宁寿宫问安后，为巡视永定河堤岸由午门出正阳门，驻跸宛平县鹅房村。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁寿宫",
+  "午门",
+  "正阳门",
+  "宛平县鹅房村"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 17603,
+ "page_range": "362-363"
+}

@@ -1,0 +1,33 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "二十一日戊寅",
+ "event_role": "朝见受贺",
+ "summary": "固安县防御刘格则、防守御哲库纳、固安县知县杨乱、榆伐把总李文来朝。",
+ "people": [
+  {
+   "name": "刘格则",
+   "role": "固安县防御"
+  },
+  {
+   "name": "哲库纳",
+   "role": "防守御"
+  },
+  {
+   "name": "杨乱",
+   "role": "固安县知县"
+  },
+  {
+   "name": "李文",
+   "role": "榆伐把总"
+  }
+ ],
+ "places": [
+  "固安县",
+  "榆伐"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20018,
+ "page_range": "410-411"
+}

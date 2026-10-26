@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "十八日甲子",
+ "event_role": "司法案件",
+ "summary": "刑部议处盗取杨福马匹之贼鄂欣等，康熙帝令从宽免死，发往杭州当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂欣",
+   "role": "盗贼"
+  },
+  {
+   "name": "杨福",
+   "role": "失主"
+  }
+ ],
+ "places": [
+  "杭州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2612,
+ "page_range": "62-63"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": null,
+ "event_role": "军务",
+ "summary": "康熙帝与明珠议荆州、江宁、西安驻防满兵抽调事，令再行确议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "荆州",
+  "江宁",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18101,
+ "page_range": "405-406"
+}

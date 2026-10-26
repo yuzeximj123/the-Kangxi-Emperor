@@ -1,0 +1,32 @@
+{
+ "reign_year": 29,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙阅王匡等攻洛阳共诛莽论，评王莽初谦恭下士、诵诈欺人，篡逆后丑态毕露，不可与曹操同日语。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王匡",
+   "role": "将领"
+  },
+  {
+   "name": "王莽",
+   "role": "篡逆者"
+  },
+  {
+   "name": "曹操",
+   "role": "历史人物"
+  }
+ ],
+ "places": [
+  "洛阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 11015,
+ "page_range": "232-233"
+}

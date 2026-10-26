@@ -1,0 +1,32 @@
+{
+ "reign_year": 42,
+ "month": 2,
+ "day_text": "十二日丁亥",
+ "event_role": "祭祀典礼",
+ "summary": "命加清门侍卫善寿、都察院左都御史温达、翰林院掌院学士揆叙至原任大学士宋德宜之墓奠酒。",
+ "people": [
+  {
+   "name": "善寿",
+   "role": "加清门侍卫"
+  },
+  {
+   "name": "温达",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "揆叙",
+   "role": "翰林院掌院学士"
+  },
+  {
+   "name": "宋德宜",
+   "role": "原任大学士"
+  }
+ ],
+ "places": [
+  "宋德宜墓"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5119,
+ "page_range": "113-114"
+}

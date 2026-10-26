@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 3,
+ "day_text": "十二日戊实",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝察问监察御史朱胡贵前荐举缘由，命其解任，并处分先荐举巡抚佟凤彩者以儆将来。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱胡贵",
+   "role": "监察御史"
+  },
+  {
+   "name": "佟凤彩",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 1210,
+ "page_range": "59-60"
+}

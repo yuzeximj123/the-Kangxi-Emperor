@@ -1,0 +1,38 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初一日本雍",
+ "event_role": "河工水利",
+ "summary": "九卿等会议河臣靳辅因河决引罪，议仍责令靳辅修筑河堤决口，工竣遣大臣往阅，康熙帝询问诸臣意见。",
+ "people": [
+  {
+   "name": "靳辅",
+   "role": "河臣"
+  },
+  {
+   "name": "吴达礼",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "郝惟讷",
+   "role": "吏部尚书"
+  },
+  {
+   "name": "魏象枢",
+   "role": "左都御史"
+  },
+  {
+   "name": "马喇",
+   "role": "工部尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 618,
+ "page_range": "55-56"
+}

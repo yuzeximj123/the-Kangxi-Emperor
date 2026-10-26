@@ -1,0 +1,36 @@
+{
+ "reign_year": 22,
+ "month": 6,
+ "day_text": "十一日壬午",
+ "event_role": "人事任免",
+ "summary": "理吏院主事雅图升任员缺拟中书巴图珊、陪拟保住，康熙帝以海三岱才优可用，命升补此缺。",
+ "people": [
+  {
+   "name": "雅图",
+   "role": "理吏院主事"
+  },
+  {
+   "name": "巴图珊",
+   "role": "中书"
+  },
+  {
+   "name": "保住",
+   "role": "拟陪官员"
+  },
+  {
+   "name": "海三岱",
+   "role": "理攻院笔帖式"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "叶尔喀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20022,
+ "page_range": "443-444"
+}

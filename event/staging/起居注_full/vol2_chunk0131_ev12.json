@@ -1,0 +1,44 @@
+{
+ "reign_year": 21,
+ "month": 7,
+ "day_text": "初六日辛亥",
+ "event_role": "司法案件",
+ "summary": "议原任云南按察使李兴元拒贼被杀应赠官荫子事，康熙帝疑其曾从贼，命详察缘由。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李兴元",
+   "role": "原任云南按察使"
+  },
+  {
+   "name": "范承谟",
+   "role": "官员"
+  },
+  {
+   "name": "马雄镇",
+   "role": "官员"
+  },
+  {
+   "name": "陈启泰",
+   "role": "官员"
+  },
+  {
+   "name": "陈丹赤",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13112,
+ "page_range": "305-306"
+}

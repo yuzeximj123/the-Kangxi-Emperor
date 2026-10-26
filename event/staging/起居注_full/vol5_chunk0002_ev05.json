@@ -1,0 +1,30 @@
+{
+ "reign_year": 33,
+ "month": 1,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论为臣须行实事，驳于成龙派夫累民、棍徒包揽之说，言运米借邻力、河工在得人不在增员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "总河"
+  },
+  {
+   "name": "彭鹏",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "陕西",
+  "河南",
+  "淮扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 205,
+ "page_range": "14-15"
+}

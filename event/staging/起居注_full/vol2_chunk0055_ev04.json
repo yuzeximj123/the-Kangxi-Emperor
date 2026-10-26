@@ -1,0 +1,32 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十二日甲成",
+ "event_role": "人事任免",
+ "summary": "吏部题补顺天府府尹，明珠等议熊一潇、徐旭龄俱优，康熙命熊一潇补授顺天府府尹。",
+ "people": [
+  {
+   "name": "熊一潇",
+   "role": "拟补顺天府府尹"
+  },
+  {
+   "name": "徐旭龄",
+   "role": "候选官员"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "顺天府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5504,
+ "page_range": "153-154"
+}

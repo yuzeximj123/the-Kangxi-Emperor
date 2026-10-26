@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙肆年柒月初　日",
+ "reign_year": 4,
+ "month": 7,
+ "day": null,
+ "event_role": "奏报灾情收成",
+ "summary": "河南巡抚奏报秋收完毕、民生乐业，并汇报涉县飞蝗已捕灭及防范来年蝗患。",
+ "people": [
+  {
+   "name": "鹿祐",
+   "role": "奏报人"
+  },
+  {
+   "name": "文绶",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "河南",
+  "彰德府",
+  "涉县"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批阅后表示已知悉此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": null,
+ "order_index": 92
+}

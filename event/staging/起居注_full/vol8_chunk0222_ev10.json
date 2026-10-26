@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙论崇文门、织造等处税银余银交接众官俱有单开，非贪钻行贿亦听之未尝禁止；又论吏部铨选、刑部案件、仓场运米工人赌博等事当有权变。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "新让",
+   "role": "通州知州"
+  }
+ ],
+ "places": [
+  "崇文门",
+  "通州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22210,
+ "page_range": "455-456"
+}

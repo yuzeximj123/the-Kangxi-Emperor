@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "二十二日癸亥",
+ "event_role": "人事任免",
+ "summary": "翰林院拟侍讲学士卢琦等六员补充讲官，会同内净引见请旨，康熙谕讲官关系紧要宜用老成，不可用轻浮立异之人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "卢琦",
+   "role": "侍讲学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19618,
+ "page_range": "435-436"
+}

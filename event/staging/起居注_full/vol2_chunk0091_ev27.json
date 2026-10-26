@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 11,
+ "day_text": "十六日乙丑",
+ "event_role": "朝见受贺",
+ "summary": "蓟州城守营都司金书改耕等、知州董廷恩等来朝。",
+ "people": [
+  {
+   "name": "改耕",
+   "role": "蓟州城守营都司金书"
+  },
+  {
+   "name": "董廷恩",
+   "role": "知州"
+  }
+ ],
+ "places": [
+  "蓟州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 9127,
+ "page_range": "225-226"
+}

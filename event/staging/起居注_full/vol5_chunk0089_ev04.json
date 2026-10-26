@@ -1,0 +1,29 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初十日成辰",
+ "event_role": "弹劾参奏",
+ "summary": "川陕总督吴赫因捐纳银两越限不能完结，题参迟延的长安县知县谢老龄、华阴县知县董盛诈。",
+ "people": [
+  {
+   "name": "吴赫",
+   "role": "川陕总督"
+  },
+  {
+   "name": "谢老龄",
+   "role": "长安县知县"
+  },
+  {
+   "name": "董盛诈",
+   "role": "华阴县知县"
+  }
+ ],
+ "places": [
+  "长安县",
+  "华阴县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8904,
+ "page_range": "188-189"
+}

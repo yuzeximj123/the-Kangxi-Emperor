@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "十九日己丑",
+ "event_role": "议政听政",
+ "summary": "辰时康熙帝御乾清宫，讲官牛钮、陈廷敬进讲《易经》损卦六三、六四两节。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "乾清宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14617,
+ "page_range": "335-336"
+}

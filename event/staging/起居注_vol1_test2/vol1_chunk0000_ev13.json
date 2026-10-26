@@ -1,0 +1,24 @@
+{
+ "reign_year": 10,
+ "month": 9,
+ "day_text": "十四日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸榆林堡，地方文武官员及元汉部和硕额驸齐伦巴图和鲁台吉等来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "齐伦巴图",
+   "role": "元汉部和硕额驸"
+  }
+ ],
+ "places": [
+  "榆林堡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 13,
+ "page_range": "57-58"
+}

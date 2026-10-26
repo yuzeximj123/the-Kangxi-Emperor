@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": "二十二日丁效",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝论任弘嘉条奏禁止官员私相交结甚是，并斥于成龙开捐纳事例收为朋党、山东官员附从，命再严禁服色僭越。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "任弘嘉",
+   "role": "条奏官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4108,
+ "page_range": "92-93"
+}

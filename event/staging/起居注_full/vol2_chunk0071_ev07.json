@@ -1,0 +1,46 @@
+{
+ "reign_year": 20,
+ "month": 8,
+ "day_text": "初三日癸未",
+ "event_role": "人事任免",
+ "summary": "吏科题科员内升外转事，康熙帝以李宗孔在任无好本章、未见纠劾一人，令其外转，张鹏内升。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "大学士"
+  },
+  {
+   "name": "杜立德",
+   "role": "大学士"
+  },
+  {
+   "name": "李宗孔",
+   "role": "吏科官员"
+  },
+  {
+   "name": "王日温",
+   "role": "吏科官员"
+  },
+  {
+   "name": "张鹏",
+   "role": "官员"
+  },
+  {
+   "name": "李遇",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7107,
+ "page_range": "185-186"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 5,
+ "day_text": "二十六日乙西",
+ "event_role": "议政听政",
+ "summary": "康熙帝御东门，兵部侍郎查弱纳领放王府长史、护卫、司仪等官员引见，帝一一询问阅射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "查弱纳",
+   "role": "兵部侍郎"
+  }
+ ],
+ "places": [
+  "东门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14603,
+ "page_range": "303-304"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 3,
+ "day_text": "十二日庚午",
+ "event_role": "奏报地方情形",
+ "summary": "大学士等与户部诸臣会议云南金银等矿事，因抽分少而矿厂数目不符，应行文督抚委贤能司道官严察隐瞒并具奏实得银数。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 9923,
+ "page_range": "209-210"
+}

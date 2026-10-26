@@ -1,0 +1,33 @@
+{
+ "date_raw": "康熙四十三年四月十九日",
+ "reign_year": 43,
+ "month": 4,
+ "day": 19,
+ "event_role": "贸易漕运",
+ "summary": "李煦奏请于今冬预发价银采办来年青蓝布三十万疋，以省价银、便民生。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "玉泉",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "上海"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了，并告诫李煦玉泉不守法令，应断绝与其往来。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "9",
+ "source_title": "苏州织造李煦奏请预发采办青蓝布疋价银摺",
+ "order_index": 7
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 45,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令户部工部理藩院将京城所用款项开折具奏，并令户工二部将不启奏而用咨文动支钱粮于月终汇奏以省浮冒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "京城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 11605,
+ "page_range": "243-244"
+}

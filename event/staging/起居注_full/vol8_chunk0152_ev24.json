@@ -1,0 +1,34 @@
+{
+ "reign_year": 55,
+ "month": 8,
+ "day_text": "十五日王寅",
+ "event_role": "其他",
+ "summary": "康熙帝赐顺承郡王诺罗布、贝子苏努、公把叙、佟国维、大臣官员及蒙古王、台吉等物品。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "诺罗布",
+   "role": "顺承郡王"
+  },
+  {
+   "name": "苏努",
+   "role": "贝子"
+  },
+  {
+   "name": "把叙",
+   "role": "公"
+  },
+  {
+   "name": "佟国维",
+   "role": "公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15224,
+ "page_range": "315-316"
+}

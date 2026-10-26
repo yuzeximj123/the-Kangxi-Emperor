@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 2,
+ "day_text": "初九日已雍",
+ "event_role": "谕旨决策",
+ "summary": "康熙言及场中出题多避吕字句似属无谓，王熙等奏称会场题目皆皇上亲出大题全章，举子无从揣摩。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "吴三桂",
+   "role": "提及叛臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 7312,
+ "page_range": "181-182"
+}

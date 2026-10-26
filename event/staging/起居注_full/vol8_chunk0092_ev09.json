@@ -1,0 +1,40 @@
+{
+ "reign_year": 54,
+ "month": 4,
+ "day_text": "初五日庚午",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和殿，赐贡士徐陶璋等进士及第出身有差，传胪毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "徐陶璋",
+   "role": "贡士"
+  },
+  {
+   "name": "缪日蒙",
+   "role": "贡士"
+  },
+  {
+   "name": "传王露",
+   "role": "贡士"
+  },
+  {
+   "name": "李文锐",
+   "role": "贡士"
+  },
+  {
+   "name": "求莲",
+   "role": "贡士"
+  }
+ ],
+ "places": [
+  "太和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9209,
+ "page_range": "195-196"
+}

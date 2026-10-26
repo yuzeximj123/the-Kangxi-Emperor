@@ -1,0 +1,36 @@
+{
+ "reign_year": 53,
+ "month": 2,
+ "day_text": "十三日乙西",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士松柱等以折本请旨，覆请九卿议文武生员、举人改试及取印结互结等事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "松柱",
+   "role": "大学士"
+  },
+  {
+   "name": "傅尔胡讷",
+   "role": "学士"
+  },
+  {
+   "name": "绰奇",
+   "role": "学士"
+  },
+  {
+   "name": "查弱纳",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "海子南红门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 5307,
+ "page_range": "117-118"
+}

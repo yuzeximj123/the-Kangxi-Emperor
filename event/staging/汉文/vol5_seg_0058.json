@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十二年八月二十三日",
+ "reign_year": 52,
+ "month": 8,
+ "day": 28,
+ "event_role": "奏报地方情形",
+ "summary": "两广总督赵弘灿奏报广东晚禾出穗、八月雨泽稀少及祈雨情形，并进呈交阯所产丝质土产，恭请圣安。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督，奏报人"
+  },
+  {
+   "name": "朱逢智",
+   "role": "赍奏家人"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "交阯"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知。",
+ "source_title": "兩廣總督趙弘燦奏報雨澤並進土產摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1426",
+ "order_index": 58
+}

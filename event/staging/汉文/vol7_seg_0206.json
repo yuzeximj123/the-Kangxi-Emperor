@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十九年四月十八日",
+ "reign_year": 59,
+ "month": 4,
+ "day": 18,
+ "event_role": "奏报地方情形",
+ "summary": "江南提督杜呈泗遵谕查验各营，奏报并无蝗蝻生发。",
+ "people": [
+  {
+   "name": "杜呈泗",
+   "role": "江南提督，奏报人"
+  },
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏折中另见请安折作者"
+  }
+ ],
+ "places": [
+  "江南",
+  "直隶",
+  "保阳"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示已阅知悉。",
+ "source_title": "江南提督杜呈泗奏报遵谕查验各营并无蝗蝻生发折",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 206
+}

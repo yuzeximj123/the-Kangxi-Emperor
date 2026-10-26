@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "左都御史徐元文参奏御史堪泰与盐运使罗文瑜同处一城不行纠参，吏部议覆后康熙帝认为徐元文参奏必有所见，命再议具奏。",
+ "people": [
+  {
+   "name": "徐元文",
+   "role": "左都御史"
+  },
+  {
+   "name": "堪泰",
+   "role": "御史"
+  },
+  {
+   "name": "罗文瑜",
+   "role": "盐运使"
+  },
+  {
+   "name": "余国柱",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14600,
+ "page_range": "335-336"
+}

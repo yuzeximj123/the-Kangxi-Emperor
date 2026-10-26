@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 6,
+ "day_text": "初三日甲申",
+ "event_role": "人事任免",
+ "summary": "吏部题大理寺少卿员缺拟以通政司参议吴融补授，康熙闻吴融声名不佳、交接最多，命另拟具奏。",
+ "people": [
+  {
+   "name": "吴融",
+   "role": "通政司参议"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李霨",
+   "role": "汉大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "汉大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5806,
+ "page_range": "159-160"
+}

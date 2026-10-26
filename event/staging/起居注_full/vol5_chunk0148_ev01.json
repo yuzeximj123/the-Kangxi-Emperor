@@ -1,0 +1,45 @@
+{
+ "reign_year": 35,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝召议政大臣、满汉大学士、尚书、侍郎、学士等至畅春园海宁居，示以北征机宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "尚书"
+  },
+  {
+   "name": "索额图",
+   "role": "内大臣"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "常书",
+   "role": "掌翰林院事"
+  },
+  {
+   "name": "张英",
+   "role": "掌翰林院事"
+  }
+ ],
+ "places": [
+  "畅春园",
+  "海宁居"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 14801,
+ "page_range": "306-307"
+}

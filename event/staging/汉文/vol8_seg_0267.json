@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十九年六月十二日",
+ "reign_year": 59,
+ "month": 6,
+ "day": 12,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报御稻收割在即、苏州米价丝价行情，并进呈福州五月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "李灿",
+   "role": "奏折末尾署名奴才"
+  }
+ ],
+ "places": [
+  "苏州",
+  "穗州",
+  "福州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報蘇州米價縴價並進晴雨錄摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2872",
+ "order_index": 267
+}

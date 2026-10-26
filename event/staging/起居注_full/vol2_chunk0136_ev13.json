@@ -1,0 +1,29 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "初四日己卯",
+ "event_role": "军务",
+ "summary": "福建水营提督施琅题请独自进取台湾不令总督进兵，康熙帝斥其苟且具奏，令催促进兵。",
+ "people": [
+  {
+   "name": "施琅",
+   "role": "福建水营提督"
+  },
+  {
+   "name": "姚启圣",
+   "role": "总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "台湾",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13613,
+ "page_range": "315-316"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "十三日乙卯",
+ "event_role": "司法案件",
+ "summary": "审阅打死人命之简思义，上询马齐等，以吴吉祥既中伤仆地不应再加殴打，论理不可恕但恐决者太多，不必勾。",
+ "people": [
+  {
+   "name": "简思义",
+   "role": "罪犯"
+  },
+  {
+   "name": "吴吉祥",
+   "role": "死者"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13911,
+ "page_range": "289-290"
+}

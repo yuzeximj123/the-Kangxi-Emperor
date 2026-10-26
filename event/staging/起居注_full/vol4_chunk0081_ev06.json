@@ -1,0 +1,34 @@
+{
+ "reign_year": 28,
+ "month": 8,
+ "day_text": "初九日",
+ "event_role": "司法案件",
+ "summary": "刑部等衙门议监督胡文炉诬告后任监督张圣诏受贿一案，御史张星法另议请革职详审，康熙帝令依前议并传谕议政诸臣。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "胡文炉",
+   "role": "监督"
+  },
+  {
+   "name": "张圣诏",
+   "role": "后任监督"
+  },
+  {
+   "name": "张星法",
+   "role": "御史"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8106,
+ "page_range": "174-175"
+}

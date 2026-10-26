@@ -1,0 +1,24 @@
+{
+ "reign_year": 15,
+ "month": 9,
+ "day_text": "二十二日辛丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝早赴汤山温泉，向太皇太后问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "汤山温泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12143,
+ "page_range": "299-300"
+}

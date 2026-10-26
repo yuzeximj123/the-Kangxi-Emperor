@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "二十四日己巳",
+ "event_role": "议政听政",
+ "summary": "康熙御乾清门听政，大学士等以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4815,
+ "page_range": "108-109"
+}

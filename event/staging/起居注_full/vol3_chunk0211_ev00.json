@@ -1,0 +1,42 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝询问徐元瑞为人，科尔坤、佛伦、董讷、余国柱等奏对，议拟徐元瑞、钱廷为巡抚事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "科尔坤",
+   "role": "尚书"
+  },
+  {
+   "name": "佛伦",
+   "role": "官员"
+  },
+  {
+   "name": "董讷",
+   "role": "左都御史"
+  },
+  {
+   "name": "余国柱",
+   "role": "尚书"
+  },
+  {
+   "name": "徐元瑞",
+   "role": "副都御史"
+  },
+  {
+   "name": "钱廷",
+   "role": "府尹"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21100,
+ "page_range": "457-458"
+}

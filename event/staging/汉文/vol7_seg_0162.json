@@ -1,0 +1,30 @@
+{
+ "date_raw": "陆月初陆至拾陆等日",
+ "reign_year": null,
+ "month": 6,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "总督起云奏报香河等州县卫所及保定等地六月间陆续得雨情况，并列举宝坻、遵化、大城、丰润等州县得雨尺寸。",
+ "people": [
+  {
+   "name": "起云",
+   "role": "总督宣府等处军务、兵部右侍郎兼都察院右副都御史"
+  }
+ ],
+ "places": [
+  "香河",
+  "保定",
+  "顺天府",
+  "宝坻县",
+  "遵化州",
+  "大城县",
+  "丰润县"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "總督起雲奏報香河等州縣衛所得雨摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "未知",
+ "order_index": 162
+}

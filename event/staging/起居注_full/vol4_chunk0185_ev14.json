@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 2,
+ "day_text": "初八日戊子",
+ "event_role": "朝见受贺",
+ "summary": "霸州驻防防守御多奇、知州沈朝聘等来朝见。",
+ "people": [
+  {
+   "name": "多奇",
+   "role": "霸州驻防防守御"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "霸州知州"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18514,
+ "page_range": "382-383"
+}

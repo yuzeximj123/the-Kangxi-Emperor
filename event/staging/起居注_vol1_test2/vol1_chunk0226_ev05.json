@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "初六日乙未",
+ "event_role": "司法案件",
+ "summary": "刑部议杨名显兄弟诱丘元之父赌博争竞致丘元被殴身死，照光棍例拟斩，康熙认为过当，命监候秋审。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "杨名显",
+   "role": "案犯"
+  },
+  {
+   "name": "丘元",
+   "role": "死者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22605,
+ "page_range": "509-510"
+}

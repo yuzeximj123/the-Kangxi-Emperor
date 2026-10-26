@@ -1,0 +1,26 @@
+{
+ "reign_year": 26,
+ "month": 5,
+ "day_text": "二十三日庚子",
+ "event_role": "皇帝行止",
+ "summary": "巳时，康熙帝率皇太子往太皇太后、皇太后宫问安，驻跸瀛台。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "太皇太后宫",
+  "皇太后宫",
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 22919,
+ "page_range": "493-494"
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十年十二月",
+ "reign_year": 50,
+ "month": 12,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "浙江巡抚王度昭奏陈两浙关税亏额情形，称南新关监督觉罗阿尔虎入山查勘，并请加增茶税以补前额，同时奏报会审事件。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "觉罗阿尔虎",
+   "role": "闽监督"
+  }
+ ],
+ "places": [
+  "浙江",
+  "两浙",
+  "南新关"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批表示知道了。",
+ "source_title": "浙江巡撫王度昭奏為南北兩關監督需人摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "1007",
+ "order_index": 309
+}

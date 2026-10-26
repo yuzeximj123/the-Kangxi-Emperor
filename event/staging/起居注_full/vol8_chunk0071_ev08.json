@@ -1,0 +1,28 @@
+{
+ "reign_year": 53,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题广东总兵官金队振员缺开列参领白云渔等职名，康熙帝令回銮后阅视参领等骑射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金队振",
+   "role": "广东总兵官"
+  },
+  {
+   "name": "白云渔",
+   "role": "骁骑参领"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 7108,
+ "page_range": "153-154"
+}

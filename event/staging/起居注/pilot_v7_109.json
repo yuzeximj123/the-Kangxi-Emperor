@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙四十五年",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "申时",
+ "event_role": "司法案件",
+ "summary": "议强盗林友美打劫江宁城内居民管明家拟罪一案，康熙帝令失事地方系将军该管则将军亦应一并议处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "林友美",
+   "role": "强盗"
+  },
+  {
+   "name": "管明",
+   "role": "江宁居民"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3109
+}

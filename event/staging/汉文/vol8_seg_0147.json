@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十七年十一月十六日",
+ "reign_year": 57,
+ "month": 11,
+ "day": 16,
+ "event_role": "其他",
+ "summary": "李煦奏报自己盐差任满，因新盐臣张应诏尚未到任无法出结，待其到任出结后即进京复命，并报任内余银三十一万七千余两已收贮库报部拨解。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奴才、盐差御史"
+  },
+  {
+   "name": "张应诏",
+   "role": "新盐臣"
+  }
+ ],
+ "places": [
+  "扬州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "未知",
+ "order_index": 147
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "工部覆河臣请于骆马湖另开河道事，康熙帝询问骆马湖形势，命九卿等会议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "骆马湖",
+  "清口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20001,
+ "page_range": "457-458"
+}

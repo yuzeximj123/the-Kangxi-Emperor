@@ -1,0 +1,25 @@
+{
+ "reign_year": 40,
+ "month": 1,
+ "day_text": "二十六日甲寅",
+ "event_role": "人事任免",
+ "summary": "康熙帝授学士席哈纳为礼部侍郎，令其止监理太常寺事，鸿胪寺另拟具奏。",
+ "people": [
+  {
+   "name": "席哈纳",
+   "role": "学士，授礼部侍郎"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太常寺",
+  "鸿胪寺"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18923,
+ "page_range": "388-389"
+}

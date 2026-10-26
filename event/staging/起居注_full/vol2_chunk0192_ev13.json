@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "初二日癸卯",
+ "event_role": "谕旨决策",
+ "summary": "因奉迎两宫避暑瀛台不暇听政，侍卫吴达禅等传旨各部院章奏俱交内阁转奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴达禅",
+   "role": "亲近侍卫"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19213,
+ "page_range": "427-428"
+}

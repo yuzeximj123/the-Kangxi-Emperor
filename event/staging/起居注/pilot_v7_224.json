@@ -1,0 +1,22 @@
+{
+ "date_raw": "康熙四十五年（未标月份）",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "（未标日期）",
+ "event_role": "司法案件",
+ "summary": "刑部奏窃盗拒捕张贵拟斩监候，康熙帝准所议并命秋审时不得赦免",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张贵",
+   "role": "窃盗拒捕犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3224
+}

@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙四十五年二十七日辛巳",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "二十七日辛巳",
+ "event_role": "其他",
+ "summary": "康熙帝赐镇国公德普景顺、苏尔金星海、辅国公阿布兰、门度上驷院马各一匹。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "德普景顺",
+   "role": "镇国公"
+  },
+  {
+   "name": "苏尔金星海",
+   "role": "镇国公"
+  },
+  {
+   "name": "阿布兰",
+   "role": "辅国公"
+  },
+  {
+   "name": "门度",
+   "role": "辅国公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3290
+}

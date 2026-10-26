@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": "初十日乙丑",
+ "event_role": "军务",
+ "summary": "康熙帝亲率前锋兵穷追噶尔丹，获厄鲁特人，供称噶尔丹逃往巴颜乌阑入树林险固处栖身。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "敌方首领"
+  }
+ ],
+ "places": [
+  "巴颜乌阑"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 13010,
+ "page_range": "270-271"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "三十日",
+ "event_role": "皇帝行止",
+ "summary": "早，康熙帝御保和殿视祭太庙祝版，礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "保和殿",
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18304,
+ "page_range": "409-410"
+}

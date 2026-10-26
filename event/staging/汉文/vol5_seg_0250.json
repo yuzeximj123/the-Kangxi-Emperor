@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十二年七月初四日",
+ "reign_year": 52,
+ "month": 7,
+ "day": 4,
+ "event_role": "请安谢恩",
+ "summary": "肃州总兵路振声奏报年老衰迈、久未觐见，遣家人赍捧奏折及沙木香气赴行宫代其叩请圣安。",
+ "people": [
+  {
+   "name": "路振声",
+   "role": "肃州总兵，奏请圣安者"
+  },
+  {
+   "name": "卫鹰",
+   "role": "路振声家人，赍捧奏折赴行宫"
+  }
+ ],
+ "places": [
+  "肃州",
+  "行宫"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "肅州總兵路振聲奏請聖安並進扁掛麪摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1612",
+ "order_index": 250
+}

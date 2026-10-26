@@ -1,0 +1,32 @@
+{
+ "reign_year": 12,
+ "month": 7,
+ "day_text": "二十一日戊子",
+ "event_role": "其他",
+ "summary": "康熙帝御前殿，讲官传达礼、孙在丰、编修张英进讲《论语》一章。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "传达礼",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "编修"
+  }
+ ],
+ "places": [
+  "前殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 4723,
+ "page_range": "151-152"
+}

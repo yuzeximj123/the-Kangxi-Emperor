@@ -1,0 +1,21 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "初七日乙丑",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝行祭礼，率扈从诸王、贝勒、内大臣、侍卫、文武官员谒孝陵行三跪礼举哀，复谒暂安奉殿行三跪礼举哀，遣皇子至陵寝前奠酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵",
+  "暂安奉殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18325,
+ "page_range": "376-377"
+}

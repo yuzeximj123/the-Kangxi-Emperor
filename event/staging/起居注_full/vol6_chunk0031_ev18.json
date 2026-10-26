@@ -1,0 +1,29 @@
+{
+ "reign_year": 37,
+ "month": 1,
+ "day_text": "二十八日甲搬",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝于途间命皇长子、大学士伊桑阿至金太祖、世宗陵奠黄酒。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇长子",
+   "role": "皇子"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "金太祖陵",
+  "金世宗陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3118,
+ "page_range": "72-73"
+}

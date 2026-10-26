@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "康熙阅盛京缓决、江南情真缓决三案折角处，指阿那里戳死吴达色事改拟情真。",
+ "people": [
+  {
+   "name": "阿那里",
+   "role": "案犯"
+  },
+  {
+   "name": "吴达色",
+   "role": "死者"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11206,
+ "page_range": "235-236"
+}

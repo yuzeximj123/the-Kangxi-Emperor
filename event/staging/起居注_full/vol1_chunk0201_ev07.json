@@ -1,0 +1,26 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "辰时",
+ "event_role": "其他",
+ "summary": "康熙帝问王守仁学问，魏象枢谓其专言致良知不及良能，帝谓蔚林所见与守仁相近。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "都察院左都御史"
+  },
+  {
+   "name": "王守仁",
+   "role": "明代学者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20107,
+ "page_range": "459-460"
+}

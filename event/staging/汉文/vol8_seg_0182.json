@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十八年四月二十六日",
+ "reign_year": 58,
+ "month": 4,
+ "day": 26,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报福州雨水调匀、米价低廉、二麦丰收，民田正佈种，并报所种御稻一百亩已于穀雨前插蒔、禾苗甚好。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "李琬",
+   "role": "奏折署名奴才（原文作李【國】琬）"
+  }
+ ],
+ "places": [
+  "福州",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批称今年北方收麦从来少见，大田作物生长亦快。",
+ "source_title": "蘇州織造李煦奏報蘇州民人現在佈種稻秧",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2757",
+ "order_index": 182
+}

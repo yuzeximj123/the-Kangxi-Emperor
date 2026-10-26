@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": "初九日甲子",
+ "event_role": "人事任免",
+ "summary": "浙江巡抚王度昭题龙游县知县备继祖因未完康熙四十九年地丁钱粮参解任，今已全完，请停部议留任，康熙帝照所请留任。",
+ "people": [
+  {
+   "name": "王度昭",
+   "role": "浙江巡抚"
+  },
+  {
+   "name": "备继祖",
+   "role": "龙游县知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "龙游县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18909,
+ "page_range": "389-390"
+}

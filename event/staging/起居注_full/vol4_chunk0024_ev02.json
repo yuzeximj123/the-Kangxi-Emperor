@@ -1,0 +1,40 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "初二日甲辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕大学士等，中河粮船阻滞关系重大，命学士凯音布带部员同两侍卫速往查看情形。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "学士"
+  },
+  {
+   "name": "靳辅",
+   "role": "前任总河"
+  }
+ ],
+ "places": [
+  "中河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2402,
+ "page_range": "60-61"
+}

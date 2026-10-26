@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 12,
+ "day_text": "十八日辛亥",
+ "event_role": "河工水利",
+ "summary": "工部题两江总督范承矶等会勘御史沈恺曾条奏疏通太湖之处，康熙帝命依议待确查具奏再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "范承矶",
+   "role": "两江总督"
+  },
+  {
+   "name": "沈恺曾",
+   "role": "御史"
+  }
+ ],
+ "places": [
+  "太湖"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 5124,
+ "page_range": "112-113"
+}

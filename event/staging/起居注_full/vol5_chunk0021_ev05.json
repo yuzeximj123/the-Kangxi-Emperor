@@ -1,0 +1,22 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "二十二日己未",
+ "event_role": "奏报地方情形",
+ "summary": "巡抚郭世隆奏称康熙帝赈饥平粜、亲视新堤、谕民捕蝗，灾民得以复苏，不胜欣颂。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2105,
+ "page_range": "52-53"
+}

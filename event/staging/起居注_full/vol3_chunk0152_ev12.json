@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初四日戊子",
+ "event_role": "谕旨决策",
+ "summary": "勒德洪等呈复赵良栋原官所拟上传，康熙帝令示九卿，并论用兵以不嗜杀为本。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "赵良栋",
+   "role": "被议官员"
+  }
+ ],
+ "places": [
+  "云南",
+  "江南",
+  "蜀"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15212,
+ "page_range": "339-340"
+}

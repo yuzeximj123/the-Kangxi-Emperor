@@ -1,0 +1,32 @@
+{
+ "reign_year": 52,
+ "month": 11,
+ "day_text": "初八日壬子",
+ "event_role": "其他",
+ "summary": "巳时，康熙帝御畅春园内西厂阅试武举骑射，记其优者，并亲射每发悉中。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温达",
+   "role": "大学士"
+  },
+  {
+   "name": "殷特布",
+   "role": "兵部尚书"
+  },
+  {
+   "name": "金鲁",
+   "role": "武举"
+  }
+ ],
+ "places": [
+  "畅春园内西厂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4411,
+ "page_range": "99-100"
+}

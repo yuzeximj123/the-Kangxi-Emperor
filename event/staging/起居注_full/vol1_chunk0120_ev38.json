@@ -1,0 +1,20 @@
+{
+ "reign_year": 15,
+ "month": 9,
+ "day_text": "初一日康辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝早躬堂子致祭毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "堂子"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 12038,
+ "page_range": "297-298"
+}

@@ -1,0 +1,40 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "二十七日庚午",
+ "event_role": "司法案件",
+ "summary": "差往云南审事侍郎多奇、传腊塔请旨是否取总督范承勋口供，康熙帝令从公审问。",
+ "people": [
+  {
+   "name": "多奇",
+   "role": "侍郎"
+  },
+  {
+   "name": "传腊塔",
+   "role": "侍郎"
+  },
+  {
+   "name": "范承勋",
+   "role": "总督"
+  },
+  {
+   "name": "万正色",
+   "role": "提督"
+  },
+  {
+   "name": "王珍",
+   "role": "总兵"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1208,
+ "page_range": "36-37"
+}

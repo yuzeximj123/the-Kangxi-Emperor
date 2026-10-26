@@ -1,0 +1,44 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "十六日于成",
+ "event_role": "朝见受贺",
+ "summary": "直隶巡抚李光地、守道高必弘、保定知府罗纶、通州副将丁爽、良乡县防守御巴锡等来朝见。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "高必弘",
+   "role": "守道"
+  },
+  {
+   "name": "罗纶",
+   "role": "保定知府"
+  },
+  {
+   "name": "朝琦",
+   "role": "分司"
+  },
+  {
+   "name": "丁爽",
+   "role": "通州副将"
+  },
+  {
+   "name": "胡琨",
+   "role": "保定府参将"
+  },
+  {
+   "name": "巴锡",
+   "role": "良乡县防守御"
+  }
+ ],
+ "places": [
+  "良乡县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4810,
+ "page_range": "107-108"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问石柱关于万正色、施琅品行及二人关系。",
+ "people": [
+  {
+   "name": "万正色",
+   "role": "提督"
+  },
+  {
+   "name": "施琅",
+   "role": "水师提督"
+  },
+  {
+   "name": "石柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3706,
+ "page_range": "109-110"
+}

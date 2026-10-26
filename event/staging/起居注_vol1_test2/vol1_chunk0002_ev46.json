@@ -1,0 +1,22 @@
+{
+ "reign_year": 10,
+ "month": 11,
+ "day_text": "初九日丙辰",
+ "event_role": "祭祀典礼",
+ "summary": "巳时康熙帝御太和殿，因齐字一统，遣官诣福陵、昭陵展祭告成功礼成。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太和殿",
+  "福陵",
+  "昭陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 246,
+ "page_range": "61-62"
+}

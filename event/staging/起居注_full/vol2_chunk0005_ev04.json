@@ -1,0 +1,30 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "二十二日戊寅",
+ "event_role": "人事任免",
+ "summary": "吏部题补内净典籍员缺，康熙询问正陪人选，从明珠等议，命以雅思哈补典籍。",
+ "people": [
+  {
+   "name": "喇都浑",
+   "role": "拟正中书"
+  },
+  {
+   "name": "雅思哈",
+   "role": "拟陪"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 504,
+ "page_range": "53-54"
+}

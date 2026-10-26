@@ -1,0 +1,27 @@
+{
+ "reign_year": 11,
+ "month": 7,
+ "day_text": "十四日本已",
+ "event_role": "奏报灾情收成",
+ "summary": "康熙帝召学士熊赐履问今年田禾，熊赐履奏大河以北可望有秋，湖南大熟，湖北亢旱，淮扬连年饥荒且飞蝗食尽禾苗。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "熊赐履",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "大河以北",
+  "湖南",
+  "湖北",
+  "淮扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1818,
+ "page_range": "93-94"
+}

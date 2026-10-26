@@ -1,0 +1,28 @@
+{
+ "reign_year": 14,
+ "month": 5,
+ "day_text": "二十三日庚戌",
+ "event_role": "起居注官记录",
+ "summary": "康熙帝御弘德殿，讲官喇沙里、孙在丰、张英进讲《孟子》世道微至对人之徒也及匡章章。",
+ "people": [
+  {
+   "name": "喇沙里",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "弘德殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9415,
+ "page_range": "245-246"
+}

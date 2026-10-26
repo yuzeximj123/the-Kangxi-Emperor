@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "初九日丙申",
+ "event_role": "司法案件",
+ "summary": "长芦盐课御史迈色题请宽限盐商张霖引窝变价，康熙帝不准，令依限追抵，迟延即革职拿问并拟罪补偿。",
+ "people": [
+  {
+   "name": "迈色",
+   "role": "长芦盐课御史"
+  },
+  {
+   "name": "张霖",
+   "role": "盐商"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "天津",
+  "长芦"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10406,
+ "page_range": "219-220"
+}

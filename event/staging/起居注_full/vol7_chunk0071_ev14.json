@@ -1,0 +1,33 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十八日辛未",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝谕领侍卫内大臣，欲于冬令闲暇临幸西安阅兵，十月初九日起程，随从照去年幸德州从减派出轻骑而行。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "治仪正"
+  },
+  {
+   "name": "蓝钾",
+   "role": "治仪正"
+  },
+  {
+   "name": "来保",
+   "role": "治仪正"
+  }
+ ],
+ "places": [
+  "西安",
+  "德州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7114,
+ "page_range": "153-154"
+}

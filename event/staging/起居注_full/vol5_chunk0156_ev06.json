@@ -1,0 +1,25 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "十四日",
+ "event_role": "人事任免",
+ "summary": "康熙谕将西安副都统马自德调补京口副都统，称其为人素优、材力矫健，员缺另行启奏。",
+ "people": [
+  {
+   "name": "马自德",
+   "role": "西安副都统"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "西安",
+  "京口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15606,
+ "page_range": "322-323"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 40,
+ "month": 6,
+ "day_text": "十九日乙效",
+ "event_role": "其他",
+ "summary": "康熙帝赐茧齐忒王雅木披尔祖母、母及苏尼特王垂机、公苏隆、旗分四品台吉巴郎等币物。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "雅木披尔",
+   "role": "茧齐忒王"
+  },
+  {
+   "name": "垂机",
+   "role": "苏尼特王"
+  },
+  {
+   "name": "苏隆",
+   "role": "公"
+  },
+  {
+   "name": "巴郎",
+   "role": "旗分四品台吉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20712,
+ "page_range": "424-425"
+}

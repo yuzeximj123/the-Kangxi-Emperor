@@ -1,0 +1,38 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "十二日庚申",
+ "event_role": "司法案件",
+ "summary": "刑部题罗四拷打捕役郭三、令李四供扳为贼拟立斩等情，康熙帝以所议不明晰、人命重大，令另行详审具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗四",
+   "role": "案犯"
+  },
+  {
+   "name": "郭三",
+   "role": "捕役"
+  },
+  {
+   "name": "李四",
+   "role": "被扳者"
+  },
+  {
+   "name": "李天笃",
+   "role": "案犯"
+  },
+  {
+   "name": "杨大",
+   "role": "案犯"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21216,
+ "page_range": "459-460"
+}

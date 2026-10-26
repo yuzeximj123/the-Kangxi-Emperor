@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "初十日",
+ "event_role": "人事任免",
+ "summary": "吏部题补副都御史员缺，康熙命监察御史席珠升补左副都御史。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "席珠",
+   "role": "监察御史"
+  },
+  {
+   "name": "阿山",
+   "role": "通政使"
+  },
+  {
+   "name": "索济",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16703,
+ "page_range": "369-370"
+}

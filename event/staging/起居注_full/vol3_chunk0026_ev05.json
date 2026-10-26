@@ -1,0 +1,32 @@
+{
+ "reign_year": 23,
+ "month": 5,
+ "day_text": "十二日",
+ "event_role": "议政听政",
+ "summary": "康熙帝御瀛台门，讲官牛钮、孙在丰、归允肃进讲；辰时御瀛台门听政，部院官员面奏，大学士、学士以折本请旨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "牛钮",
+   "role": "讲官"
+  },
+  {
+   "name": "孙在丰",
+   "role": "讲官"
+  },
+  {
+   "name": "归允肃",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "瀛台门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 2605,
+ "page_range": "87-88"
+}

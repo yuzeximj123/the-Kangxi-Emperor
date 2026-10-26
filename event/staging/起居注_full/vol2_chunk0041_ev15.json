@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 2,
+ "day_text": "二十六日庚成",
+ "event_role": "司法案件",
+ "summary": "刑部奏盗窃大内银锅之年儿应即处斩，康熙帝以锅重非一人所能盗，令三法司将黑子等一并详察定议具奏。",
+ "people": [
+  {
+   "name": "年儿",
+   "role": "案犯"
+  },
+  {
+   "name": "黑子",
+   "role": "同谋"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 4115,
+ "page_range": "125-126"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十六日戊戌",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕山西巡抚噶礼，晓谕民间重农务本、藏富于民，并尽行蠲免四十二年以前山西所属州县未完银两米草。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7715,
+ "page_range": "165-166"
+}

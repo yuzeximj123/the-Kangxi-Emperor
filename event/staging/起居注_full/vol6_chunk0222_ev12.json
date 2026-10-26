@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 10,
+ "day_text": "十九日壬申",
+ "event_role": "奏报灾情收成",
+ "summary": "两江总督阿山请免临淮县水田租，康熙帝询问水灾缘由，命问明具奏。",
+ "people": [
+  {
+   "name": "阿山",
+   "role": "两江总督"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "临淮县",
+  "洪泽湖",
+  "淮河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 22212,
+ "page_range": "454-455"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 56,
+ "month": 12,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "康熙帝足背浮肿不能转移，用手帕缠裹乘软舆往宁寿宫捧皇太后手请安，旋因不支而回，设帷帐居于苍震门相近处。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "太后"
+  }
+ ],
+ "places": [
+  "宁寿宫",
+  "苍震门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 22609,
+ "page_range": "463-464"
+}

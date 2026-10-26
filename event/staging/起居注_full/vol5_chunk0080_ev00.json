@@ -1,0 +1,29 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部复奏盛京将军、副都统请给开原等处兵米，康熙帝以所议不明令另查人口数目再议，并命朱都纳、松柱前往查明散给。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱都纳",
+   "role": "官员"
+  },
+  {
+   "name": "松柱",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "盛京",
+  "开原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8000,
+ "page_range": "170-171"
+}

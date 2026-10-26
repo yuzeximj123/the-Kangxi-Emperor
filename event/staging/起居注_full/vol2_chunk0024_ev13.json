@@ -1,0 +1,29 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": "二十七日壬子",
+ "event_role": "谕旨决策",
+ "summary": "工部题广济库硝磺移入丁字库开销二千余两，康熙帝疑费用过多，命勒德洪、希福往库察明具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "希福",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "广济库",
+  "丁字库"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2413,
+ "page_range": "91-92"
+}

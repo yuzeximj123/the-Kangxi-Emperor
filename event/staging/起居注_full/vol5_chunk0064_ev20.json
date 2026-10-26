@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 4,
+ "day_text": "二十八日己未",
+ "event_role": "人事任免",
+ "summary": "内阁侍读学士吴达哈以病乞解任，康熙帝问明患病属实，准其解任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴达哈",
+   "role": "内阁侍读学士"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6420,
+ "page_range": "138-139"
+}

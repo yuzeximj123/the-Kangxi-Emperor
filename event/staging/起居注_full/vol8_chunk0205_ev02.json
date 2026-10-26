@@ -1,0 +1,38 @@
+{
+ "reign_year": 56,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部查明镶黄旗蒙古都统佐领色楞、五十二佐领下护军校拉普达孙等控告案，康熙帝指出所察多当，命发回再议具奏。",
+ "people": [
+  {
+   "name": "色楞",
+   "role": "佐领"
+  },
+  {
+   "name": "五十二",
+   "role": "佐领"
+  },
+  {
+   "name": "拉普达孙",
+   "role": "护军校"
+  },
+  {
+   "name": "额德勒湖",
+   "role": "被告"
+  },
+  {
+   "name": "常保",
+   "role": "额德勒湖之子"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 20502,
+ "page_range": "421-422"
+}

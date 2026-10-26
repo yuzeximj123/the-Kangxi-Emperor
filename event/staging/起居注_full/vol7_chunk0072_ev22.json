@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "初五日了丑",
+ "event_role": "其他",
+ "summary": "康熙帝询问御史李发甲籍贯人品，张玉书等答云南人、平常，康熙帝评其庸劣。",
+ "people": [
+  {
+   "name": "李发甲",
+   "role": "御史"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7222,
+ "page_range": "155-156"
+}

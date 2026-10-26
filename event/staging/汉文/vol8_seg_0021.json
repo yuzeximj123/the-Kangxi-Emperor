@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十六年十二月初七日",
+ "reign_year": 56,
+ "month": 12,
+ "day": 27,
+ "event_role": "河工水利",
+ "summary": "苏州织造李煦奏报两淮商人汪楚吉等愿再捐银九万八千余两，于瓜洲花园港一带修建堤工以保护城垣民舍。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  },
+  {
+   "name": "胡珽",
+   "role": "江防同知，详称请建堤工"
+  },
+  {
+   "name": "汪楚吉",
+   "role": "两淮商人，领衔认捐工料银两"
+  }
+ ],
+ "places": [
+  "瓜洲",
+  "花园港",
+  "息浪菴",
+  "长江"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報商人顧再捐銀做瓜洲花園港等處工摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2565",
+ "order_index": 21
+}

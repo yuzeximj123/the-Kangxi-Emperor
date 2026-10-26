@@ -1,0 +1,34 @@
+{
+ "reign_year": 25,
+ "month": 4,
+ "day_text": "初九日",
+ "event_role": "人事任免",
+ "summary": "吏部题刑部侍郎石柱调补员缺，康熙帝询问学士敦多礼为人，明珠等称其优，遂命敦多礼补授刑部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "石柱",
+   "role": "刑部侍郎"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "敦多礼",
+   "role": "学士，补授刑部侍郎"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 15908,
+ "page_range": "353-354"
+}

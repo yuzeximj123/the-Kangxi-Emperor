@@ -1,0 +1,34 @@
+{
+ "date_raw": "康熙伍拾壹年拾月初柒日",
+ "reign_year": 51,
+ "month": 10,
+ "day": 7,
+ "event_role": "朝见受贺",
+ "summary": "江南提督奏请赴京庆祝康熙六十万寿，恳请恩准来京叩贺，并请将印务交总兵施而宽暂署。",
+ "people": [
+  {
+   "name": "璧",
+   "role": "提督江南等处地方总兵官署理提督，奏请赴京祝寿"
+  },
+  {
+   "name": "施而宽",
+   "role": "张山总兵官，拟暂署印务"
+  },
+  {
+   "name": "师懿德",
+   "role": "提督江南等处地方总兵官，奏折末尾署名"
+  }
+ ],
+ "places": [
+  "江南",
+  "京",
+  "畿辅"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "未知",
+ "order_index": 120
+}

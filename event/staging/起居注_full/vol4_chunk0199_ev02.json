@@ -1,0 +1,24 @@
+{
+ "reign_year": 31,
+ "month": 6,
+ "day_text": "二十四日",
+ "event_role": "司法案件",
+ "summary": "议覆江宁佐领昂琦私离防汛来京讦告，康熙帝命革职拿送江宁，交将军会同总督审拟。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "昂琦",
+   "role": "江宁佐领"
+  }
+ ],
+ "places": [
+  "江宁"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 19902,
+ "page_range": "410-411"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": null,
+ "event_role": "皇帝行止",
+ "summary": "申时康熙帝又率皇太子至紫光阁向皇太后请安，送皇太后回寿昌宫，驾回瀛台。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "紫光阁",
+  "寿昌宫",
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6903,
+ "page_range": "181-182"
+}

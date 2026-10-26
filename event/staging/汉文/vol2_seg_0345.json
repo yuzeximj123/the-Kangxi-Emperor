@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十三年四月初六日",
+ "reign_year": 53,
+ "month": 4,
+ "day": 6,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮具折恭请圣躬万安，报告已差家人赴口外请安，并再次具折问安。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "巡抚直隶等处地方管辖紫荆密云等关隘赞理军务兼理粮饷都察院右副都御史"
+  },
+  {
+   "name": "文绶",
+   "role": "赵弘燮家人，奉命赴口外请安"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "口外"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知悉。",
+ "source_title": "（缺）",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "938",
+ "order_index": 345
+}

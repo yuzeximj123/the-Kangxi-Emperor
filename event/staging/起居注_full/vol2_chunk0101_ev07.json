@@ -1,0 +1,22 @@
+{
+ "reign_year": 20,
+ "month": 12,
+ "day_text": "二十二日辛丑",
+ "event_role": "人事任免",
+ "summary": "题补掌管宗人府事王缺，康熙帝令安亲王岳乐掌管事务。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "岳乐",
+   "role": "安亲王，掌管宗人府事"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10107,
+ "page_range": "245-246"
+}

@@ -1,0 +1,29 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请河南巡抚鹿佑题报南阳总兵官丁爽病故并遗本，康熙帝称丁爽人材健壮、居官亦善，命问汉九卿后以温旨批之。",
+ "people": [
+  {
+   "name": "鹿佑",
+   "role": "河南巡抚"
+  },
+  {
+   "name": "丁爽",
+   "role": "南阳总兵官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河南",
+  "南阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 18901,
+ "page_range": "389-390"
+}

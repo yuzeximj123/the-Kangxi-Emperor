@@ -1,0 +1,28 @@
+{
+ "reign_year": 18,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝就山东巡抚施维翰请开事例赈济饥民一事，决定赈济钱粮所需无几，不必开事例以免纷扰。",
+ "people": [
+  {
+   "name": "伊桑阿",
+   "role": "户部尚书"
+  },
+  {
+   "name": "施维翰",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20500,
+ "page_range": "467-468"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 32,
+ "month": 12,
+ "day_text": "十一日广辰",
+ "event_role": "人事任免",
+ "summary": "兵部题正红旗副都统赵山员缺，康熙帝以前锋参领瓦尔达材力健壮、为人亦优，着升授副都统。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵山",
+   "role": "正红旗副都统"
+  },
+  {
+   "name": "瓦尔达",
+   "role": "前锋参领"
+  },
+  {
+   "name": "牛钮",
+   "role": "护军参领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 25120,
+ "page_range": "514-515"
+}

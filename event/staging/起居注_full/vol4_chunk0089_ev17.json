@@ -1,0 +1,46 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "二十一日甲申",
+ "event_role": "人事任免",
+ "summary": "吏部题工科给事中何楷休致员缺拟补郑旦，康熙帝询问后令何楷留原任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "何楷",
+   "role": "工科给事中"
+  },
+  {
+   "name": "郑旦",
+   "role": "考授科员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "苏赫",
+   "role": "工部尚书"
+  },
+  {
+   "name": "齐稿",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  },
+  {
+   "name": "顾汗",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8917,
+ "page_range": "190-191"
+}

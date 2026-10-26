@@ -1,0 +1,20 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "二十九日",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝亲祭太庙祭毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23307,
+ "page_range": "476-477"
+}

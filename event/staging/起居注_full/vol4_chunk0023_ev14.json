@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 4,
+ "day_text": "初一日癸卯",
+ "event_role": "弹劾参奏",
+ "summary": "诸臣问李光地既称德格勒狂妄学劣，何以在皇上前奏其学问甚博，李光地称德格勒为人狂妄、所学甚劣、文章全无文气。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "官员"
+  },
+  {
+   "name": "德格勒",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2314,
+ "page_range": "58-59"
+}

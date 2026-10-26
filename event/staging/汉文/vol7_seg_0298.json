@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十五年",
+ "reign_year": 55,
+ "month": null,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "江西巡抚佟国勷向康熙帝恭请圣安，康熙朱批告知自己安好，并要求今后奏折亲手书写、所赐米价须写明。",
+ "people": [
+  {
+   "name": "佟国勷",
+   "role": "江西巡抚"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "江西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示自己安好，命佟国勷今后奏折亲手书写，并须将所赐米价书写明白。",
+ "source_title": "江西巡撫佟國勷奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 7,
+ "source_no": "2200",
+ "order_index": 298
+}

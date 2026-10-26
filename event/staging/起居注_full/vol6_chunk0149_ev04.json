@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 4,
+ "day_text": "十三日两子",
+ "event_role": "河工水利",
+ "summary": "康熙帝询问芒稻河、人字河情形，常寿奏称二河现在通流。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常寿",
+   "role": "刑部侍郎"
+  }
+ ],
+ "places": [
+  "芒稻河",
+  "人字河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14904,
+ "page_range": "308-309"
+}

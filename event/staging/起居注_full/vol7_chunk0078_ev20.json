@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 10,
+ "day_text": "二十九日辛丑",
+ "event_role": "军务",
+ "summary": "康熙帝于行宫前阅太原城守官兵骑射，善射者分别等次赐白金，步射劣者革退遣还京师，城守尉车勒浑以训练不勤申饬。",
+ "people": [
+  {
+   "name": "车勒浑",
+   "role": "城守尉"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太原"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7820,
+ "page_range": "167-168"
+}

@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十二年九月二十八日",
+ "reign_year": 52,
+ "month": 9,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "镇海将军马三奇自京口具折恭请圣安，感谢皇上赏赐，并颂扬圣躬康健、收成丰稔。",
+ "people": [
+  {
+   "name": "马三奇",
+   "role": "镇海将军一等侯，具折请安之人"
+  },
+  {
+   "name": "高万",
+   "role": "朱批末尾署名者"
+  }
+ ],
+ "places": [
+  "京口",
+  "闽庭",
+  "白神州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝批知道了，并指出奏折中用语不当之处。",
+ "source_title": "鎮海將軍馬三奇奏請聖安摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1444",
+ "order_index": 76
+}

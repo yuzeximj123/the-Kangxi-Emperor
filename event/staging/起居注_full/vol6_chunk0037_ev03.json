@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "于成龙转奏永清县百姓拦路哭诉，请求释放原任知县盛时方死罪。",
+ "people": [
+  {
+   "name": "于成龙",
+   "role": "河道总督"
+  },
+  {
+   "name": "盛时方",
+   "role": "原任知县"
+  },
+  {
+   "name": "安多",
+   "role": "西洋人"
+  }
+ ],
+ "places": [
+  "永清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3703,
+ "page_range": "84-85"
+}

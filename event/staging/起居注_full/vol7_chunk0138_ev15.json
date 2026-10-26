@@ -1,0 +1,29 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "初八日壬戌",
+ "event_role": "军务",
+ "summary": "康熙帝追述噶尔丹遇我军于克鲁伦未交战而往西路，遇西师进击尽被杀，西路兵获其牛羊二十余万，马齐等奏称此乃天意。",
+ "people": [
+  {
+   "name": "噶尔丹",
+   "role": "准噶尔首领"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "克鲁伦",
+  "西路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 13815,
+ "page_range": "287-288"
+}

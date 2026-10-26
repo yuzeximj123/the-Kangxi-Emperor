@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "二十二日庚午",
+ "event_role": "朝见受贺",
+ "summary": "东安县防守御赛柱、知县赵世玉、永清县知县陈朝等来朝。",
+ "people": [
+  {
+   "name": "赛柱",
+   "role": "东安县防守御"
+  },
+  {
+   "name": "赵世玉",
+   "role": "东安县知县"
+  },
+  {
+   "name": "陈朝",
+   "role": "永清县知县"
+  }
+ ],
+ "places": [
+  "东安县",
+  "永清县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 539,
+ "page_range": "21-22"
+}

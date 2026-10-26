@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十二年五月二十六日",
+ "reign_year": 52,
+ "month": 5,
+ "day": 29,
+ "event_role": "奏报灾情收成",
+ "summary": "两广总督赵弘燮奏报广东广西本年二三四月雨水调匀、五月稻谷丰收、米价每石七钱，并请皇上圣安。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "两广总督，奏报人"
+  },
+  {
+   "name": "岳嵩",
+   "role": "赵弘燮家人，专差递送奏折"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝表示自己安好，已知晓所报收成情形。",
+ "source_title": "兩廣總督趙弘燮奏報年歲收獲情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1583",
+ "order_index": 220
+}

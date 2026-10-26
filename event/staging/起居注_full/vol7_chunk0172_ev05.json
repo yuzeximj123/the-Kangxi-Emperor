@@ -1,0 +1,24 @@
+{
+ "reign_year": 50,
+ "month": 5,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "康熙追述蓝理为游击时因克扣兵丁钱粮拿问革职，后因跪请进贡台湾海贼赎罪发往效力，累升福建提督仍不改贪禁。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "蓝理",
+   "role": "福建提督"
+  }
+ ],
+ "places": [
+  "台湾"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17205,
+ "page_range": "355-356"
+}

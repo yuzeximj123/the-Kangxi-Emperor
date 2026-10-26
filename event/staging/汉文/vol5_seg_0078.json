@@ -1,0 +1,30 @@
+{
+ "date_raw": "康熙五十二年十月初二日",
+ "reign_year": 52,
+ "month": 10,
+ "day": 2,
+ "event_role": "奏报灾情收成",
+ "summary": "两广总督赵弘灿奏报广东晚稻成熟、米价已平，并进献香橙、蝴蝶蓟、化州橘红等土产。",
+ "people": [
+  {
+   "name": "赵弘灿",
+   "role": "两广总督，奏报人"
+  },
+  {
+   "name": "刘士杰",
+   "role": "家人，专差赍摺进贡"
+  }
+ ],
+ "places": [
+  "广东",
+  "广西",
+  "化州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "兩廣總督趙弘燮奏報廣東晚稻收成米價已平並進土產摺",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1446",
+ "order_index": 78
+}

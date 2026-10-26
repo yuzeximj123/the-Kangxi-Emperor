@@ -1,0 +1,33 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": "二十五日成申",
+ "event_role": "人事任免",
+ "summary": "户部题崇文门税差拟差李铎，康熙帝改差刑部郎中刘兰前往。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李铎",
+   "role": "兵部郎中"
+  },
+  {
+   "name": "刘兰",
+   "role": "刑部郎中"
+  }
+ ],
+ "places": [
+  "崇文门",
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 16914,
+ "page_range": "373-374"
+}

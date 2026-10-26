@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙四十九年八月初十日",
+ "reign_year": 49,
+ "month": 8,
+ "day": null,
+ "event_role": "请安谢恩",
+ "summary": "直隶巡抚赵弘燮奏谢皇上钦赐御厨珍品，并报告口内收成甚好、万民乐业，表示竭诚报效皇恩。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏折作者"
+  },
+  {
+   "name": "李振裕",
+   "role": "恭进奏折者"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "保"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸巡撫趙弘燮奏謝欽賜御廚珍品並報口內豐收摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "723",
+ "order_index": 22
+}

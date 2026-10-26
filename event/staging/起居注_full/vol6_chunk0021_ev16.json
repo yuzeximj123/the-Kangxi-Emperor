@@ -1,0 +1,30 @@
+{
+ "reign_year": 36,
+ "month": 11,
+ "day_text": "二十四日庚子",
+ "event_role": "人事任免",
+ "summary": "康熙帝问张僵、汪查二人孰优，伊桑阿奏二人俱好，康熙帝命再问九卿并问明布政使中居官著者。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "张僵",
+   "role": "官员"
+  },
+  {
+   "name": "汪查",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2116,
+ "page_range": "52-53"
+}

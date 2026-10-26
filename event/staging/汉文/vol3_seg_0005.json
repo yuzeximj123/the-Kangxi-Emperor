@@ -1,0 +1,46 @@
+{
+ "date_raw": "康熙四十九年閏七月二十一日",
+ "reign_year": 49,
+ "month": null,
+ "day": 25,
+ "event_role": "谕旨决策",
+ "summary": "江宁提督师懿德奏报接奉圣旨，转述关于西洋船到粤查询、哆啰仑国文书违式令其改认及西洋新人留广州学汉话等谕令。",
+ "people": [
+  {
+   "name": "师懿德",
+   "role": "江宁提督"
+  },
+  {
+   "name": "薛廷士",
+   "role": "师懿德家人"
+  },
+  {
+   "name": "焦德斋",
+   "role": "师懿德家人"
+  },
+  {
+   "name": "王道化",
+   "role": "传旨官"
+  },
+  {
+   "name": "张常住",
+   "role": "传旨官"
+  },
+  {
+   "name": "李国屏",
+   "role": "传旨官"
+  }
+ ],
+ "places": [
+  "松江",
+  "广州",
+  "京里"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝谕示知悉，并令夏月西洋船到时问明连报。",
+ "source_title": "江寧提督師懿德奏為請將松江官文地方有司承管摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "713",
+ "order_index": 5
+}

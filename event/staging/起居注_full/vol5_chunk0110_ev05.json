@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "二十七日",
+ "event_role": "谕旨决策",
+ "summary": "关保传谕马思喀，令各夸兰大查明后营疲瘦牲口及仆从数目交付庆帖图。",
+ "people": [
+  {
+   "name": "关保",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "马思喀",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "庆帖图",
+   "role": "理藩院员外"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 11005,
+ "page_range": "230-231"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "二十九日忆已",
+ "event_role": "其他",
+ "summary": "学士陈廷敬撰拟朝会、万寿、元旦、冬至等乐章十四章，牛钮奏请翻译进呈，康熙帝命译毕进呈留览，后传旨称佳并送部具题。",
+ "people": [
+  {
+   "name": "陈廷敬",
+   "role": "学士"
+  },
+  {
+   "name": "牛钮",
+   "role": "学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "敦住",
+   "role": "侍卫"
+  }
+ ],
+ "places": [
+  "瀛台"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13011,
+ "page_range": "303-304"
+}

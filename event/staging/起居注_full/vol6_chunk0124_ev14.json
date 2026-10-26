@@ -1,0 +1,29 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": "十三日本未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命侍郎常绥前往河工会同于成龙详看清口应否改移并估计钱粮，岁内具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常绥",
+   "role": "侍郎"
+  },
+  {
+   "name": "于成龙",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "清口",
+  "高家堰"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12414,
+ "page_range": "258-259"
+}

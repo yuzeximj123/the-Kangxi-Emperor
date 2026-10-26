@@ -1,0 +1,34 @@
+{
+ "reign_year": 50,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部查报历年蠲免顺天等府地丁银两及密云县额征黑豆事，康熙帝令改签送进。",
+ "people": [
+  {
+   "name": "郭世隆",
+   "role": "先任巡抚"
+  },
+  {
+   "name": "沈朝聘",
+   "role": "先任巡抚"
+  },
+  {
+   "name": "李光地",
+   "role": "先任巡抚"
+  },
+  {
+   "name": "赵弘伙",
+   "role": "直隶近抚"
+  }
+ ],
+ "places": [
+  "顺天",
+  "密云县",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19006,
+ "page_range": "391-392"
+}

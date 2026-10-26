@@ -1,0 +1,25 @@
+{
+ "reign_year": 29,
+ "month": 1,
+ "day_text": "二十七日己未",
+ "event_role": "谕旨决策",
+ "summary": "户部覆山东巡抚佛伦题请沂州等州县卫所未完康熙二十八年钱粮于麦收后征完，康熙帝不准，命于康熙三十年带征并严饬。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "佛伦",
+   "role": "山东巡抚"
+  }
+ ],
+ "places": [
+  "山东",
+  "沂州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 10201,
+ "page_range": "216-217"
+}

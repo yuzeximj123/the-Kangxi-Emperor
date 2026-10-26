@@ -1,0 +1,32 @@
+{
+ "date_raw": "康熙五十年正月三十日",
+ "reign_year": 50,
+ "month": null,
+ "day": null,
+ "event_role": "军务",
+ "summary": "肃州总兵路振声奏请赐发内造子母炮一位，以便照式捐制，加强边疆营伍火器装备。",
+ "people": [
+  {
+   "name": "路振声",
+   "role": "肃州总兵官，奏请人"
+  },
+  {
+   "name": "黄俊",
+   "role": "路振声家人，负责驮回炮位"
+  }
+ ],
+ "places": [
+  "肃州",
+  "陕西固原州",
+  "河间",
+  "西安",
+  "山东郯家口"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批说明内造子母炮从未发给外省，故不轻易给炮，并指出所涉非闽铁炮而系火药，射程可至远处。",
+ "source_title": "肅州總兵路振聲奏請發給內造子母炮摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "796",
+ "order_index": 97
+}

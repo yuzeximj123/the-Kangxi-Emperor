@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 1,
+ "day_text": "二十日本卯",
+ "event_role": "人事任免",
+ "summary": "山西巡抚达尔布奔父丧回京赴任陛辞，康熙帝赐马一匹并谕以清白自持、表率属员。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "达尔布",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 716,
+ "page_range": "71-72"
+}

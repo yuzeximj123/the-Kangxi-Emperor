@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请总督直隶巡抚事务赵弘光所题大名协副将韩良辅在任守制一事，康熙帝命韩良辅在任守制。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘光",
+   "role": "总督直隶巡抚事务"
+  },
+  {
+   "name": "韩良辅",
+   "role": "大名协副将"
+  }
+ ],
+ "places": [
+  "大名"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 21903,
+ "page_range": "449-450"
+}

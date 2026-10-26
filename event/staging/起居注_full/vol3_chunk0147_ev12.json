@@ -1,0 +1,28 @@
+{
+ "reign_year": 25,
+ "month": 3,
+ "day_text": "初九日吴亥",
+ "event_role": "谕旨决策",
+ "summary": "巡抚莫天颜题请免赔军前倒毙马匹，康熙帝以贵州供应大兵劳苦，命免其赔补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "莫天颜",
+   "role": "巡抚"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 14712,
+ "page_range": "329-330"
+}

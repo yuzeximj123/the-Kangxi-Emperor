@@ -1,0 +1,24 @@
+{
+ "reign_year": 11,
+ "month": 2,
+ "day_text": "初一日了丑",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝过长安岭，道路险隘，亲自下马扶辇步行护持太皇太后，至坦道才乘马。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "祖母"
+  }
+ ],
+ "places": [
+  "长安岭"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 808,
+ "page_range": "73-74"
+}

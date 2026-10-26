@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 10,
+ "day_text": "二十日",
+ "event_role": "人事任免",
+ "summary": "议覆巡抚沈朝聘题请潘桃口监督萨哈齐再留一年不准，康熙帝以其不合而命严饬批出。",
+ "people": [
+  {
+   "name": "沈朝聘",
+   "role": "巡抚"
+  },
+  {
+   "name": "萨哈齐",
+   "role": "潘桃口监督角事府右春坊右赞善"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "潘桃口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 1606,
+ "page_range": "42-43"
+}

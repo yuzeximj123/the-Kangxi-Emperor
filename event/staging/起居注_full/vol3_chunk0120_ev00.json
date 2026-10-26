@@ -1,0 +1,26 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命查明本族现任武官中不属文职大臣族人者，因闻五族文职官员意气雄豪。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "安泰",
+   "role": "原任尚书郭四海亲弟"
+  },
+  {
+   "name": "郭四海",
+   "role": "原任尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12000,
+ "page_range": "275-276"
+}

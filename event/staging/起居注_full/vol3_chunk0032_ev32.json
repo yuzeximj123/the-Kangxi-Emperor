@@ -1,0 +1,26 @@
+{
+ "reign_year": 23,
+ "month": 6,
+ "day_text": "二十三日己巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称柯昂办事优长，麻尔图奏其前任吏部颇能办事，帝命柯昂降级留任并写与大学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "柯昂",
+   "role": "布政使"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3232,
+ "page_range": "99-100"
+}

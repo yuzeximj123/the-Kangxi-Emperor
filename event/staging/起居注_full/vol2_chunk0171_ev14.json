@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 2,
+ "day_text": "初六日戊实",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝评论藩臬所奏琐屑无采，张玉书奏藩臬当言其大者，康熙帝颔之。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张玉书",
+   "role": "学士"
+  },
+  {
+   "name": "金放祥",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 17114,
+ "page_range": "385-386"
+}

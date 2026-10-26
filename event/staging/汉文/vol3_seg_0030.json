@@ -1,0 +1,27 @@
+{
+ "date_raw": "康熙四十九年九月初二日",
+ "reign_year": 49,
+ "month": 9,
+ "day": 2,
+ "event_role": "请安谢恩",
+ "summary": "江宁织造曹寅奏谢复差巡视两淮盐政，并报江南太平、晚稻将收、米价低廉及山东丰收，附呈八月晴雨录。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "江宁织造通政使司通政使，奏报人"
+  }
+ ],
+ "places": [
+  "江宁",
+  "江南",
+  "山东",
+  "两淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝谕知两淮情弊多端、亏空甚多，令设法补完，任内无事方好，不可怠速，务必小心。",
+ "source_title": "江寧織造曹寅奏謝復差巡視兩淮鹽政等情摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "729",
+ "order_index": 30
+}

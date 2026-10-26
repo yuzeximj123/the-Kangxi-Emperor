@@ -1,0 +1,32 @@
+{
+ "reign_year": 57,
+ "month": 2,
+ "day_text": "二十六日",
+ "event_role": "司法案件",
+ "summary": "兵部议覆提督王文雄所题官俞海臣捕获贼犯被海阳县知县家人夺去一案，康熙命交总督杨琳秉公审拟。",
+ "people": [
+  {
+   "name": "王文雄",
+   "role": "提督"
+  },
+  {
+   "name": "俞海臣",
+   "role": "官"
+  },
+  {
+   "name": "金以埃",
+   "role": "海阳县知县"
+  },
+  {
+   "name": "杨琳",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "海阳县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 23609,
+ "page_range": "483-484"
+}

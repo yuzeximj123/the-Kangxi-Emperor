@@ -1,0 +1,36 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初八日戊子",
+ "event_role": "议政听政",
+ "summary": "议政大臣等奏鄂尔多斯贝子根都西下布请安进贡及率兵未足额事，并奉旨止其进贡交部。",
+ "people": [
+  {
+   "name": "根都西下布",
+   "role": "鄂尔多斯固山贝子"
+  },
+  {
+   "name": "喇锡",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "达锡",
+   "role": "蓝甸侍卫"
+  },
+  {
+   "name": "董罗布",
+   "role": "王"
+  },
+  {
+   "name": "古鲁西希布",
+   "role": "贝勒"
+  }
+ ],
+ "places": [
+  "鄂尔多斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20911,
+ "page_range": "428-429"
+}

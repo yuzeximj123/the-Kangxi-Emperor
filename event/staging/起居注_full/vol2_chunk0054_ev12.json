@@ -1,0 +1,38 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "二十日壬申",
+ "event_role": "司法案件",
+ "summary": "三法司题丘三、王四捆打刀伤痕顺儿抢银，前议立斩后议秋决，康熙命画一具奏。",
+ "people": [
+  {
+   "name": "丘三",
+   "role": "案犯"
+  },
+  {
+   "name": "王四",
+   "role": "案犯"
+  },
+  {
+   "name": "痕顺儿",
+   "role": "受害人"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "冯溥",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5412,
+ "page_range": "151-152"
+}

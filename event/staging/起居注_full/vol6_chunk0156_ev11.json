@@ -1,0 +1,38 @@
+{
+ "reign_year": 39,
+ "month": 6,
+ "day_text": "初四日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝与大学士论张鹏翮办事精详及江南钱粮完结事，并称赞马齐在山西征收钱粮、民生丰裕。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "吴琠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "浙江",
+  "江南",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 15611,
+ "page_range": "322-323"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 22,
+ "month": 5,
+ "day_text": "十三日甲寅",
+ "event_role": "司法案件",
+ "summary": "议政王等会议浙江黄岩县失陷，于国祥、杨凤举等被贼据去应革职籍没鞭责，康熙帝以所议过重令再议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于国祥",
+   "role": "拖沙喇哈番"
+  },
+  {
+   "name": "杨凤举",
+   "role": "骁骑校"
+  }
+ ],
+ "places": [
+  "浙江黄岩县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19422,
+ "page_range": "431-432"
+}

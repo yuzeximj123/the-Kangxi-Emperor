@@ -1,0 +1,21 @@
+{
+ "reign_year": 40,
+ "month": 4,
+ "day_text": "二十一日戊寅",
+ "event_role": "河工水利",
+ "summary": "康熙帝见竹络坝河道冲刷已深，谕令莽牛河出水口下埽防之，隆冬照常开泄。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "竹络坝",
+  "莽牛河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20013,
+ "page_range": "410-411"
+}

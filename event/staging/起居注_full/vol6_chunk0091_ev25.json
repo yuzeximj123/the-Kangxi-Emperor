@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 4,
+ "day_text": "二十二日辛酉",
+ "event_role": "人事任免",
+ "summary": "大学士伊桑阿等奏议李宗孔应加何职衔，康熙帝询问升转次序后，令以其应升职衔加一等，授为大理寺少卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿山",
+   "role": "起居注侍郎"
+  },
+  {
+   "name": "李宗孔",
+   "role": "原任给事中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 9125,
+ "page_range": "192-193"
+}

@@ -1,0 +1,21 @@
+{
+ "reign_year": 37,
+ "month": 9,
+ "day_text": "二十九日庚子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸行宫，是日早幸教场率皇子等射，令善射侍卫射，上发矢皆中，又视宁古塔官军射毕回行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "教场",
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5708,
+ "page_range": "124-125"
+}

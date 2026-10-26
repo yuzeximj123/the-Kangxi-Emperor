@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙三十七年十月",
+ "reign_year": 37,
+ "month": 10,
+ "day": null,
+ "event_role": "其他",
+ "summary": "苏州织造李煦进呈佛手、荔枝、泉酒等南方土产果品与露酒清单，供内廷使用。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了”，表示已阅知进单内容。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "26",
+ "source_title": "苏州织造李煦进单",
+ "order_index": 24
+}

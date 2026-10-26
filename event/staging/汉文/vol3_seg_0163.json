@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙五十年五月十三日",
+ "reign_year": 50,
+ "month": 5,
+ "day": 13,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报苏州田地已种七分、秧未插完但水利无妨，米价上号每石九钱内、次号八钱内，新丝收成好价每两六至七分，并进呈四月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造/奏报人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批要求待雨水充足之后再行奏报。",
+ "source_title": "李煦奏报苏州雨水米价",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 163
+}

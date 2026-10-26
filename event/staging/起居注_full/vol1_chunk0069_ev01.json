@@ -1,0 +1,20 @@
+{
+ "reign_year": 13,
+ "month": 3,
+ "day_text": "十八日王午",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御中和殿，内大臣、侍卫、内阁、翰林院、都察院等官行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 6901,
+ "page_range": "195-196"
+}

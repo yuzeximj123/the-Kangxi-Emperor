@@ -1,0 +1,24 @@
+{
+ "reign_year": 36,
+ "month": 12,
+ "day_text": "初十日丙辰",
+ "event_role": "谕旨决策",
+ "summary": "兵部议叙设站人员仅议加级，康熙帝以其劳苦甚于西路兵丁及运粮人，命革职人员复原职随旗上朝，发回另议叙。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "运粮官"
+  }
+ ],
+ "places": [
+  "杀虎口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 2510,
+ "page_range": "60-61"
+}

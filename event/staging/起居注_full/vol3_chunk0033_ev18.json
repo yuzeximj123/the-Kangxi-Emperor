@@ -1,0 +1,36 @@
+{
+ "reign_year": 23,
+ "month": 7,
+ "day_text": "初五日己巳",
+ "event_role": "司法案件",
+ "summary": "康熙帝就拉什希布告拉都虎一案，命将拉什希布暂留公所存案，写与大学士商议。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "拉什希布",
+   "role": "告状人"
+  },
+  {
+   "name": "拉都虎",
+   "role": "副都御史"
+  },
+  {
+   "name": "巴图鲁额尔克即农",
+   "role": "蒙古首领"
+  },
+  {
+   "name": "阿尔尼",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "凉州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 3318,
+ "page_range": "101-102"
+}

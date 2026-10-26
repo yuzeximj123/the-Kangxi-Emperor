@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十年二月二十四日",
+ "reign_year": 50,
+ "month": 2,
+ "day": 15,
+ "event_role": "朝见受贺",
+ "summary": "直隶巡抚赵弘燮恭逢康熙御极五十年万寿圣节，奏请于三月十三日入京拜舞殿廷、恭效嵩呼，以尽依恋之诚。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏请入京祝寿者"
+  },
+  {
+   "name": "康熙",
+   "role": "当朝皇帝，御极五十年万寿圣节主角"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "京"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批告知不必上本。",
+ "source_title": "直隸巡撫趙弘燮奏請入京祝賀萬壽摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "809",
+ "order_index": 112
+}

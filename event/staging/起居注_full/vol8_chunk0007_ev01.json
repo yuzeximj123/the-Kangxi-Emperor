@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆奏任九儿发宁古塔正法途中逃回为盗，康熙帝令交将军蒙俄洛即行正法。",
+ "people": [
+  {
+   "name": "任九儿",
+   "role": "逃犯"
+  },
+  {
+   "name": "蒙俄洛",
+   "role": "将军"
+  }
+ ],
+ "places": [
+  "宁古塔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 701,
+ "page_range": "25-26"
+}

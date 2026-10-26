@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "广东碍石卫总兵官韩佐周员缺，康熙帝命将参领管源忠等开列，并升补副将曾成为总兵官。",
+ "people": [
+  {
+   "name": "韩佐周",
+   "role": "广东碍石卫总兵官"
+  },
+  {
+   "name": "管源忠",
+   "role": "参领"
+  },
+  {
+   "name": "曾成",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "广东碍石卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2900,
+ "page_range": "68-69"
+}

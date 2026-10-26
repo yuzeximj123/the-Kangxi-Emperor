@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": "十六日乙丑",
+ "event_role": "人事任免",
+ "summary": "康熙帝以甘肃提督孙思克久历边地、劳绩卓著，命加太子少保并给一拜他喇布勒哈番。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "孙思克",
+   "role": "甘肃提督"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "秦省"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18819,
+ "page_range": "388-389"
+}

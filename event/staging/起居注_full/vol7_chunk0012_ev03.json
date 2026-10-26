@@ -1,0 +1,36 @@
+{
+ "reign_year": 41,
+ "month": 4,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆山东巡抚王国昌题潘必珊听母言杀兄案，康熙帝以情有可原命从宽免死减等发落。",
+ "people": [
+  {
+   "name": "潘必珊",
+   "role": "案犯"
+  },
+  {
+   "name": "潘必邓",
+   "role": "死者"
+  },
+  {
+   "name": "徐氏",
+   "role": "潘必珊之母"
+  },
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1203,
+ "page_range": "35-36"
+}

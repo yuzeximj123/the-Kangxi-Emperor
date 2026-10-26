@@ -1,0 +1,22 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "十九日庚申",
+ "event_role": "人事任免",
+ "summary": "以提标中营参将王朝辅额外升为副将，仍管参将事；以督标左营领旗罗忠等额外所为把总。",
+ "people": [
+  {
+   "name": "王朝辅",
+   "role": "提标中营参将，升副将仍管参将事"
+  },
+  {
+   "name": "罗忠",
+   "role": "督标左营领旗，为把总"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8205,
+ "page_range": "175-176"
+}

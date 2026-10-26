@@ -1,0 +1,42 @@
+{
+ "reign_year": 52,
+ "month": 2,
+ "day_text": "二十五日癸西",
+ "event_role": "司法案件",
+ "summary": "刑部等拟内务府总管保柱见传旨之人科头端坐不敬立斩，康熙帝命并前事议奏，言必杀之，并传问苏黑、官保。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "保柱",
+   "role": "内务府总管"
+  },
+  {
+   "name": "苏黑",
+   "role": "正白旗护军参领"
+  },
+  {
+   "name": "官保",
+   "role": "头等侍卫"
+  },
+  {
+   "name": "四格",
+   "role": "侍卫"
+  },
+  {
+   "name": "都图",
+   "role": "官员"
+  },
+  {
+   "name": "哈山",
+   "role": "刑部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 609,
+ "page_range": "23-24"
+}

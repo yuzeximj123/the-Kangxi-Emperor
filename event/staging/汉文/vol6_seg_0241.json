@@ -1,0 +1,38 @@
+{
+ "date_raw": "康熙五十五年正月二十日",
+ "reign_year": 55,
+ "month": 1,
+ "day": 20,
+ "event_role": "奏报地方情形",
+ "summary": "安徽巡抚李成龙奏报各属得雨州县情形，先行汇奏，并称续到者另行续奏。",
+ "people": [
+  {
+   "name": "李成龙",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "陈尚武",
+   "role": "镇守湖广永州等处地方副将管总兵官事加一级"
+  },
+  {
+   "name": "姜庆",
+   "role": "家人，赍奏者"
+  },
+  {
+   "name": "赵弘灿",
+   "role": "两广总督"
+  }
+ ],
+ "places": [
+  "安徽",
+  "湖广永州",
+  "楚边"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙朱批“知道了。外雪大。”表示已阅并提及外地降雪较大。",
+ "source_title": "（安徽巡抚李成龙奏报得雨州县摺）",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "未知",
+ "order_index": 241
+}

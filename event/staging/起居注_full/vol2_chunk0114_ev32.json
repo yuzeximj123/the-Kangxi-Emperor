@@ -1,0 +1,20 @@
+{
+ "reign_year": 21,
+ "month": 3,
+ "day_text": "初四日王子",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝至盛京，盛京文武官员郊外跪迎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 11432,
+ "page_range": "271-272"
+}

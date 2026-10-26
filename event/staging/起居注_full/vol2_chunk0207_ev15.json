@@ -1,0 +1,29 @@
+{
+ "reign_year": 22,
+ "month": 7,
+ "day_text": "二十二日辛卯",
+ "event_role": "朝见受贺",
+ "summary": "古北口等处抽分郎中纳亲等、霸昌道黄性震等、守备胡守因等来朝见。",
+ "people": [
+  {
+   "name": "纳亲",
+   "role": "古北口等处抽分郎中"
+  },
+  {
+   "name": "黄性震",
+   "role": "霸昌道"
+  },
+  {
+   "name": "胡守因",
+   "role": "守备"
+  }
+ ],
+ "places": [
+  "古北口",
+  "霸昌"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 20715,
+ "page_range": "457-458"
+}

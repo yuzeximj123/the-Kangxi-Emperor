@@ -1,0 +1,27 @@
+{
+ "reign_year": 19,
+ "month": 4,
+ "day_text": "二十一日庚辰",
+ "event_role": "人事任免",
+ "summary": "兵部题陕西庄浪副将员缺以常德副将尼满题补，康熙帝命尼满候云贵要地补用，此缺另行推补。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "尼满",
+   "role": "常德副将"
+  }
+ ],
+ "places": [
+  "陕西",
+  "庄浪",
+  "常德",
+  "云贵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 23616,
+ "page_range": "529-530"
+}

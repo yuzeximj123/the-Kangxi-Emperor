@@ -1,0 +1,26 @@
+{
+ "reign_year": 32,
+ "month": 7,
+ "day_text": "十七日己未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以广东地方紧要，命升授守陵副将韩佐周为碍石卫总兵官。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "韩佐周",
+   "role": "守陵副将"
+  }
+ ],
+ "places": [
+  "广东",
+  "江西",
+  "碍石卫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 23716,
+ "page_range": "486-487"
+}

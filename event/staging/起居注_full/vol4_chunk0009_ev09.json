@@ -1,0 +1,24 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "初九日王子",
+ "event_role": "人事任免",
+ "summary": "吏部题原任检讨卫既齐仍补用检讨，康熙帝谕令卫既齐升补山东布政使，黄元骏革任。",
+ "people": [
+  {
+   "name": "卫既齐",
+   "role": "原任检讨，升补山东布政使"
+  },
+  {
+   "name": "黄元骏",
+   "role": "山东布政使，革任"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 909,
+ "page_range": "30-31"
+}

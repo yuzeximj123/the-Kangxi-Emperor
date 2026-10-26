@@ -1,0 +1,25 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "户部覆川陕总督鄂海题插汉托灰地方开垦筑堤开渠事，康熙帝命会同九卿议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  }
+ ],
+ "places": [
+  "插汉托灰",
+  "鄂尔多斯"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15906,
+ "page_range": "329-330"
+}

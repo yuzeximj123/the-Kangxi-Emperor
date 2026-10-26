@@ -1,0 +1,34 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "十二日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝召大学士明珠等出示于成龙御制亲书碑文，谕素留心书法，赐阅笔墨。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "常书",
+   "role": "学士"
+  },
+  {
+   "name": "朱马泰",
+   "role": "詹事"
+  },
+  {
+   "name": "于成龙",
+   "role": "原任江南已故总督"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8808,
+ "page_range": "211-212"
+}

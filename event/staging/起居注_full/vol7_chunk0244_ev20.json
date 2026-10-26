@@ -1,0 +1,21 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "三十日己本",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝诣暂安奉殿行三跪九叩礼，三献三举哀，又诣孝陵行礼举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "暂安奉殿",
+  "孝陵"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 24420,
+ "page_range": "499-500"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "初二日丁未",
+ "event_role": "人事任免",
+ "summary": "亲近侍卫吴什传谕马齐，原任检讨张鸿烈年老，着复原品。",
+ "people": [
+  {
+   "name": "吴什",
+   "role": "亲近侍卫"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "张鸿烈",
+   "role": "原任检讨"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5319,
+ "page_range": "117-118"
+}

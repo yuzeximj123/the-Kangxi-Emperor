@@ -1,0 +1,24 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "十九日甲午",
+ "event_role": "谕旨决策",
+ "summary": "总督哈占因途中不及料理军政题请展限，兵部议令回西安次第完结，康熙准依部议，并谕此后易结之事借端展限者俱不准行。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "哈占",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14009,
+ "page_range": "323-324"
+}

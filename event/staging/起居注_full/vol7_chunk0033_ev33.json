@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 10,
+ "day_text": "初五日王午",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝因东宫违和，驻跸行宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "东宫",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3333,
+ "page_range": "77-78"
+}

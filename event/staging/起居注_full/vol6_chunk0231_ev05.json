@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十七日己已",
+ "event_role": "起居注官记录",
+ "summary": "起居注官法良、把叙、傅森记录此事。",
+ "people": [
+  {
+   "name": "法良",
+   "role": "起居注官"
+  },
+  {
+   "name": "把叙",
+   "role": "起居注官"
+  },
+  {
+   "name": "傅森",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23105,
+ "page_range": "472-473"
+}

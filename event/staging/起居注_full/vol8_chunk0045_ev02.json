@@ -1,0 +1,24 @@
+{
+ "reign_year": 52,
+ "month": 11,
+ "day_text": "初十日甲寅",
+ "event_role": "议政听政",
+ "summary": "康熙帝御畅春园内西厂，命领侍卫内大臣、读卷诸臣坐，兵部尚书息特布等进奏武举事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "息特布",
+   "role": "兵部尚书"
+  }
+ ],
+ "places": [
+  "畅春园内西厂"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 4502,
+ "page_range": "101-102"
+}

@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "江南秋审顾协一诬告张令涛私通海寇拟斩缓决，康熙帝命改情真并问九卿，另命议减等完结。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "顾协一",
+   "role": "人犯"
+  },
+  {
+   "name": "张令涛",
+   "role": "被诬告者"
+  },
+  {
+   "name": "张伯行",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "江南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15911,
+ "page_range": "329-330"
+}

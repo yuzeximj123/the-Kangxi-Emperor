@@ -1,0 +1,30 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "康熙帝论董殿邦所绘河图及下桩处已动工，命速行文于成龙修治芒稻河、人字河。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "董殿邦",
+   "role": "绘河图官员"
+  },
+  {
+   "name": "于成龙",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "金湾堤",
+  "芒稻河",
+  "人字河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10106,
+ "page_range": "212-213"
+}

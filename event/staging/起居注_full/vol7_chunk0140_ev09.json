@@ -1,0 +1,28 @@
+{
+ "reign_year": 45,
+ "month": 11,
+ "day_text": "十四日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕两淮盐务御史不严催正项钱粮致积欠，命将曹寅、李煦每年所得银内取十万两补旧欠，与户部会议来奏。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "盐务官员"
+  },
+  {
+   "name": "李煦",
+   "role": "盐务官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14009,
+ "page_range": "291-292"
+}

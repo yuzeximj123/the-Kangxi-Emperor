@@ -1,0 +1,34 @@
+{
+ "reign_year": 45,
+ "month": 12,
+ "day_text": "初六日庚庄",
+ "event_role": "议政听政",
+ "summary": "康熙帝御行宫，大学士马齐等以折本请旨，议定十二月二十五日暂安奉典由和硕庄亲王博十铎行礼。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "黑寿",
+   "role": "礼部侍郎兼内阁学士"
+  },
+  {
+   "name": "舒图",
+   "role": "学士"
+  },
+  {
+   "name": "博十铎",
+   "role": "和硕庄亲王"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 14304,
+ "page_range": "297-298"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初二日癸丑",
+ "event_role": "人事任免",
+ "summary": "党爱等选举西安府知府李杰奏入，康熙帝询问李杰之缺人选。",
+ "people": [
+  {
+   "name": "党爱",
+   "role": "陕西巡抚"
+  },
+  {
+   "name": "李杰",
+   "role": "西安府知府"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "扳山堡西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 19420,
+ "page_range": "398-399"
+}

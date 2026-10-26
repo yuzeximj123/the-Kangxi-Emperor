@@ -1,0 +1,32 @@
+{
+ "reign_year": 40,
+ "month": 8,
+ "day_text": "十三日成辰",
+ "event_role": "议政听政",
+ "summary": "吏部奏广东布政使员缺，请以安徽按察使董昭入等拟陪，康熙帝命开列做满罚俸及俸未满不罚俸者职名问九卿具奏。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "辛保",
+   "role": "学士"
+  },
+  {
+   "name": "董昭入",
+   "role": "安徽按察使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 21203,
+ "page_range": "434-435"
+}

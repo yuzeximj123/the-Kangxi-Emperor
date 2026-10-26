@@ -1,0 +1,22 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "二十二卓庚午",
+ "event_role": "谕旨决策",
+ "summary": "理藩院议民人私出边口者妻子发往乌喇、宁古塔为奴，康熙帝以所议太过，命问九卿可否安插辽阳。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "乌喇",
+  "宁古塔",
+  "辽阳"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21506,
+ "page_range": "465-466"
+}

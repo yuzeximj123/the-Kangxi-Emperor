@@ -1,0 +1,30 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": "二十八日丙子",
+ "event_role": "谕旨决策",
+ "summary": "宗人府题贝子古尔马浑之子萨山封爵事，康熙帝以含糊徼幸请旨不合，命明白传示原本发回。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "古尔马浑",
+   "role": "贝子"
+  },
+  {
+   "name": "萨山",
+   "role": "贝子之子"
+  },
+  {
+   "name": "瓦山",
+   "role": "辅国公"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10911,
+ "page_range": "261-262"
+}

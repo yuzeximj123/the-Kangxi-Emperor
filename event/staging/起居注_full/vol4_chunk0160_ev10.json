@@ -1,0 +1,25 @@
+{
+ "reign_year": 30,
+ "month": 9,
+ "day_text": "初九日庚申",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸温泉，外鱼关把总杨文成来朝。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨文成",
+   "role": "外鱼关把总"
+  }
+ ],
+ "places": [
+  "温泉",
+  "外鱼关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16010,
+ "page_range": "332-333"
+}

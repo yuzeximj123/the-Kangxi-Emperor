@@ -1,0 +1,21 @@
+{
+ "reign_year": 56,
+ "month": 1,
+ "day_text": "初一日丙辰",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝率诸王贝勒贝子公及内大臣侍卫大学士等赴宁寿宫行礼，文武官员于午门外随班行礼毕回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宁寿宫",
+  "午门外"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 17202,
+ "page_range": "355-356"
+}

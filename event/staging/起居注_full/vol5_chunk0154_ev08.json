@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝称内大臣明珠之子把叙所学好写字工，命将伊二等侍卫对调，以翰林院侍读侍讲员缺用。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  },
+  {
+   "name": "把叙",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15408,
+ "page_range": "318-319"
+}

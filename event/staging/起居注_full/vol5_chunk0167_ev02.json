@@ -1,0 +1,30 @@
+{
+ "reign_year": 35,
+ "month": 10,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "康熙帝赐喀尔喀王沙木巴貂开帽带银鼠袖、公吴巴达王楚裘帽、台吉图萨尔齐等锦衣、台吉苏达尼等蟒衣。",
+ "people": [
+  {
+   "name": "沙木巴",
+   "role": "喀尔喀王"
+  },
+  {
+   "name": "吴巴达",
+   "role": "公"
+  },
+  {
+   "name": "图萨尔齐",
+   "role": "台吉"
+  },
+  {
+   "name": "苏达尼",
+   "role": "台吉"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 16702,
+ "page_range": "344-345"
+}

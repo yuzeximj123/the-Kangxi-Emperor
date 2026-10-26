@@ -1,0 +1,34 @@
+{
+ "reign_year": 56,
+ "month": 6,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "乌林达苏成格等捧出朱书谕旨，命马齐转传，所有罪人照往年例行。",
+ "people": [
+  {
+   "name": "乌林达苏成格",
+   "role": "奏事"
+  },
+  {
+   "name": "张文彬",
+   "role": "奏事"
+  },
+  {
+   "name": "杨万程",
+   "role": "洗马"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 19703,
+ "page_range": "405-406"
+}

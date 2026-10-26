@@ -1,0 +1,37 @@
+{
+ "date_raw": "本年拾月贰拾叁日",
+ "reign_year": null,
+ "month": 10,
+ "day": 23,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报守道李毓柱病故后，其眷属私拏库银五千两、库门一夜不闭等情形，并调大名道郎国祚署理。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏报人"
+  },
+  {
+   "name": "李毓柱",
+   "role": "守道，病故"
+  },
+  {
+   "name": "郎国祚",
+   "role": "大名道，调来署理守道"
+  },
+  {
+   "name": "陈维新",
+   "role": "库总书"
+  }
+ ],
+ "places": [
+  "直隶",
+  "保"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "直隶巡抚赵弘燮奏报守道身故其眷属私拏库银情形摺",
+ "source_corpus": "汉文",
+ "source_vol": 3,
+ "source_no": "未知",
+ "order_index": 80
+}

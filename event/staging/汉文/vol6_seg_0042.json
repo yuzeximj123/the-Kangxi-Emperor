@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十四年三月",
+ "reign_year": 54,
+ "month": 3,
+ "day": null,
+ "event_role": "谕旨决策",
+ "summary": "大学士李光地奏报遵旨删改《周易折中》稿本，将应察应删之处整顿完毕，由武英殿进呈御览。",
+ "people": [
+  {
+   "name": "李光地",
+   "role": "大学士，奏折作者"
+  },
+  {
+   "name": "魏廷珍",
+   "role": "传旨官员"
+  }
+ ],
+ "places": [
+  "武英殿"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批称无书可览，表示未见到所进呈的书稿。",
+ "source_title": "大學士李光地奏為遵旨刪改周易折中稿本並進呈御覽摺",
+ "source_corpus": "汉文",
+ "source_vol": 6,
+ "source_no": "1759",
+ "order_index": 42
+}

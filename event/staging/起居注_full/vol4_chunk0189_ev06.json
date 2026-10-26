@@ -1,0 +1,25 @@
+{
+ "reign_year": 31,
+ "month": 3,
+ "day_text": "二十三日王申",
+ "event_role": "朝见受贺",
+ "summary": "甘肃布政使严泰陛辞请训，康熙帝谕其正直管理钱粮，并令传旨督抚一体扶助西安饥荒，不可偏私邀誉。",
+ "people": [
+  {
+   "name": "严泰",
+   "role": "甘肃布政使"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "甘肃",
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 18906,
+ "page_range": "390-391"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙顾念山东巡抚李外流病未平复，不宜劳顿，令其暂停赴任调理，以免误赈饥之事。",
+ "people": [
+  {
+   "name": "李外流",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 3601,
+ "page_range": "82-83"
+}

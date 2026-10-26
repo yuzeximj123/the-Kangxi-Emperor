@@ -1,0 +1,20 @@
+{
+ "reign_year": 40,
+ "month": 12,
+ "day_text": "十一日癸亥",
+ "event_role": "其他",
+ "summary": "康熙帝行围射杀一虎，将所杀之虎赐孝陵侍卫鄂罗，令为菌。",
+ "people": [
+  {
+   "name": "鄂罗",
+   "role": "孝陵侍卫"
+  }
+ ],
+ "places": [
+  "喀喇城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 23007,
+ "page_range": "470-471"
+}

@@ -1,0 +1,38 @@
+{
+ "reign_year": 34,
+ "month": 11,
+ "day_text": "初二日庚申",
+ "event_role": "司法案件",
+ "summary": "刑部等题诬告镶红旗都统公苏努等受贿作弊之卫图布议革职枷号等，康熙帝疑之，命交马齐、佛伦、于成龙会审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏努",
+   "role": "镶红旗都统公"
+  },
+  {
+   "name": "卫图布",
+   "role": "案犯"
+  },
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "佛伦",
+   "role": "尚书"
+  },
+  {
+   "name": "于成龙",
+   "role": "原任总河"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8712,
+ "page_range": "184-185"
+}

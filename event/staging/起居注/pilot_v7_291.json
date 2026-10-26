@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙四十五年二十八日壬午",
+ "reign_year": 45,
+ "month": 0,
+ "day_text": "二十八日壬午",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御行宫，两江总督邵穆布入奏自陈未历外任难胜重任，康熙帝谕以敬慎勤敏、事久弊生、当节饮食。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "邵穆布",
+   "role": "两江总督"
+  }
+ ],
+ "places": [
+  "行宫"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 3291
+}

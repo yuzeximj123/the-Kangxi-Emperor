@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十三年五月初七日",
+ "reign_year": 53,
+ "month": 5,
+ "day": 7,
+ "event_role": "奏报地方情形",
+ "summary": "李煦奏报湖广、江西、浙江、江南重运粮船已过扬州，各路米价仍贱，扬州连日大雨，百姓欢悦，庄农得种秧插莳，并进呈苏州、扬州四月晴雨册。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "奏报人，臣"
+  }
+ ],
+ "places": [
+  "湖广",
+  "江西",
+  "浙江",
+  "江南",
+  "扬州",
+  "苏州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批“知道了”，表示已阅知悉。",
+ "source_title": "（修复后未匹配片段）",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "未知",
+ "order_index": 204
+}

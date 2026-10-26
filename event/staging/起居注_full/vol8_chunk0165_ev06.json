@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "都察院题更换河东盐差开列御史骂奇善等职名，康熙以开列之人俱不认识，命带来引见。",
+ "people": [
+  {
+   "name": "骂奇善",
+   "role": "御史"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "河东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16506,
+ "page_range": "341-342"
+}

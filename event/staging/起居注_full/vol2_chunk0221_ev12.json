@@ -1,0 +1,30 @@
+{
+ "reign_year": 22,
+ "month": 9,
+ "day_text": "初四日壬申",
+ "event_role": "人事任免",
+ "summary": "广东碍石总兵官苗之秀病故员缺，康熙帝以陈耀为人颇优且有效力，令补授碍石总兵官，不必因投诚回避。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苗之秀",
+   "role": "广东碍石总兵官"
+  },
+  {
+   "name": "陈耀",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "广东",
+  "碍石",
+  "福建"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22112,
+ "page_range": "485-486"
+}

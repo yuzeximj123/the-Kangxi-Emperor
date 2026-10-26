@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 1,
+ "day_text": "二十一日本卯",
+ "event_role": "弹劾参奏",
+ "summary": "齐世武参清水知县夏时鹏贪劣，康熙帝命留任并令该督查明具奏。",
+ "people": [
+  {
+   "name": "齐世武",
+   "role": "甘肃巡抚"
+  },
+  {
+   "name": "夏时鹏",
+   "role": "清水知县"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "清水县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 4910,
+ "page_range": "109-110"
+}

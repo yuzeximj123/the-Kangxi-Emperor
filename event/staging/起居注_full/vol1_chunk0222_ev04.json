@@ -1,0 +1,40 @@
+{
+ "reign_year": 19,
+ "month": 3,
+ "day_text": "十六日丙子",
+ "event_role": "司法案件",
+ "summary": "兵部议湖广总兵姚珀前任真定失事应罚俸一年，康熙帝以其行间效力着宽免。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "姚珀",
+   "role": "湖广总兵"
+  },
+  {
+   "name": "索额图",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "佛伦",
+   "role": "学士"
+  },
+  {
+   "name": "和希福",
+   "role": "学士"
+  }
+ ],
+ "places": [
+  "真定"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 22204,
+ "page_range": "501-502"
+}

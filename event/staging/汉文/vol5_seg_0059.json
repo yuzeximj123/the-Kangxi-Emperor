@@ -1,0 +1,36 @@
+{
+ "date_raw": "康熙五十二年八月初二日",
+ "reign_year": 52,
+ "month": 8,
+ "day": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令李煦、曹顒寻访苏州周姓老人家中会做乐器之人及好竹子送入京城，并询问知律吕者一同送来。",
+ "people": [
+  {
+   "name": "赫寿",
+   "role": "日讲官起居注巡撫江寧等處地方提督軍務兼理糧餉都察院右副都御史，传谕者"
+  },
+  {
+   "name": "李煦",
+   "role": "受谕者，奉命寻访送人"
+  },
+  {
+   "name": "曹顒",
+   "role": "受谕者，奉命寻访送人"
+  },
+  {
+   "name": "周姓老人",
+   "role": "苏州清客，会做乐器者"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "硃諭著李煦等謹送會做樂器老人上京",
+ "source_corpus": "汉文",
+ "source_vol": 5,
+ "source_no": "1427",
+ "order_index": 59
+}

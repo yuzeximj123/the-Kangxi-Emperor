@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 5,
+ "day_text": "十二日庚子",
+ "event_role": "司法案件",
+ "summary": "刑部议崔廷宣等同谋诬宋履荣为窝主抢夺衣物应立斩，康熙帝改为监候秋后处决。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "崔廷宣",
+   "role": "罪犯"
+  },
+  {
+   "name": "宋履荣",
+   "role": "被诬者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 24108,
+ "page_range": "539-540"
+}

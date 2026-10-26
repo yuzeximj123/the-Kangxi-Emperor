@@ -1,0 +1,24 @@
+{
+ "reign_year": 42,
+ "month": 5,
+ "day_text": "十五日己未",
+ "event_role": "谕旨决策",
+ "summary": "户部覆两广巡盐御史黑色条陈南闽二府所增盐额请停盐引，议不准行，康熙令问九卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黑色",
+   "role": "两广巡盐御史"
+  }
+ ],
+ "places": [
+  "南闽二府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6026,
+ "page_range": "131-132"
+}

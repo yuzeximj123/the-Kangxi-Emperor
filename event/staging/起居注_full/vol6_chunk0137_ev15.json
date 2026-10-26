@@ -1,0 +1,26 @@
+{
+ "reign_year": 39,
+ "month": 1,
+ "day_text": "初一日乙丑",
+ "event_role": "谕旨决策",
+ "summary": "奏事主事存住捧出三十八年中式举人复试文卷，康熙帝传谕马齐等说明复试缘由及阅卷情形。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 13715,
+ "page_range": "284-285"
+}

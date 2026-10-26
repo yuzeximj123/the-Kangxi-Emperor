@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 7,
+ "day_text": null,
+ "event_role": "贸易漕运",
+ "summary": "凤阳关监督罗岱题请展限三月，康熙帝令查奏此差数年钱粮有无亏空及所欠数目。",
+ "people": [
+  {
+   "name": "罗岱",
+   "role": "凤阳关监督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "凤阳关"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 14911,
+ "page_range": "309-310"
+}

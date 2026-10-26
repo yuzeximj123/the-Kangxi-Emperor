@@ -1,0 +1,33 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "二十二日王午",
+ "event_role": "人事任免",
+ "summary": "九卿举荐浙江驿盐道黄炳等补山东按察使，康熙帝命黄炳补授山东按察使，其缺以裴绰度补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "黄炳",
+   "role": "浙江驿盐道"
+  },
+  {
+   "name": "裴绰度",
+   "role": "官员"
+  },
+  {
+   "name": "于琦",
+   "role": "山东按察使"
+  }
+ ],
+ "places": [
+  "山东",
+  "浙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13806,
+ "page_range": "287-288"
+}

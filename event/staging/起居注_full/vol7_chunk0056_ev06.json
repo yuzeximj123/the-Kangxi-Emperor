@@ -1,0 +1,28 @@
+{
+ "reign_year": 42,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝以今年会试广东通省未中一人，命九卿议覆试或复阅遗卷，并定此后会试分南北卷取中、通省未中者去榜末取一人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许汝霖",
+   "role": "读卷官"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5606,
+ "page_range": "123-124"
+}

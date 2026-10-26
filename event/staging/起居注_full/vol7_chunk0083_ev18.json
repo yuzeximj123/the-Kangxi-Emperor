@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 11,
+ "day_text": "二十四日乙丑",
+ "event_role": "司法案件",
+ "summary": "覆浙闽总督金世荣题拒捕犯人朱绍熙等案，康熙帝令照该督所请完结议奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金世荣",
+   "role": "浙闽总督"
+  },
+  {
+   "name": "朱绍熙",
+   "role": "拒捕犯人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 8318,
+ "page_range": "177-178"
+}

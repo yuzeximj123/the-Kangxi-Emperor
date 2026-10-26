@@ -1,0 +1,26 @@
+{
+ "reign_year": 55,
+ "month": 9,
+ "day_text": "二十四日庚辰",
+ "event_role": "军务",
+ "summary": "就贵州大定营移兵李平营增添驻扎事，康熙帝认为添官一二员无益，命照旧并问九卿具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "张文焕",
+   "role": "贵州提督"
+  }
+ ],
+ "places": [
+  "大定营",
+  "李平营",
+  "贵州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 15614,
+ "page_range": "323-324"
+}

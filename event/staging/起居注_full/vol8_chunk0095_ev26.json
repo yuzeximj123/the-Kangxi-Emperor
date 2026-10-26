@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 5,
+ "day_text": "十一日丙午",
+ "event_role": "谕旨决策",
+ "summary": "康熙闻黑龙江将军杨福已故，降朱笔谕旨，令其子三官保署理将军，十月内来京，并命驰驿往吊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨福",
+   "role": "已故黑龙江将军"
+  },
+  {
+   "name": "三官保",
+   "role": "杨福之子"
+  }
+ ],
+ "places": [
+  "黑龙江",
+  "齐七噶尔"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 9526,
+ "page_range": "201-202"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 27,
+ "month": 5,
+ "day_text": "初二日",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝命九卿追究于成龙所奏挑浚中河累民之言出自何人之口。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "于成龙",
+   "role": "巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 2904,
+ "page_range": "70-71"
+}

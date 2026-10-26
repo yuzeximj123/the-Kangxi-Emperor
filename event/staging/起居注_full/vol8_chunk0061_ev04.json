@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "覆请天津总兵官杜呈泗题请以杨鲁调补河间副将，康熙帝准照所请补授，并命速行题补杨鲁员缺。",
+ "people": [
+  {
+   "name": "杜呈泗",
+   "role": "天津总兵官"
+  },
+  {
+   "name": "杨鲁",
+   "role": "广东广州城守副将"
+  }
+ ],
+ "places": [
+  "河间",
+  "广东广州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6104,
+ "page_range": "133-134"
+}

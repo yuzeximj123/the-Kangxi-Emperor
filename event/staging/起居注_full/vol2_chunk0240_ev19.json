@@ -1,0 +1,24 @@
+{
+ "reign_year": 22,
+ "month": 11,
+ "day_text": "十八日乙酉",
+ "event_role": "人事任免",
+ "summary": "盛京防御萨称哈告病员缺，正拟萨穆哈养子山代、陪拟候补南某，正文至此中断。",
+ "people": [
+  {
+   "name": "萨称哈",
+   "role": "盛京防御"
+  },
+  {
+   "name": "山代",
+   "role": "萨穆哈养子"
+  }
+ ],
+ "places": [
+  "盛京"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24019,
+ "page_range": "523-524"
+}

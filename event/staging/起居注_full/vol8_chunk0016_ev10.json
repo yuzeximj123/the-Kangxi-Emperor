@@ -1,0 +1,28 @@
+{
+ "reign_year": 52,
+ "month": 4,
+ "day_text": "十五日",
+ "event_role": "人事任免",
+ "summary": "九卿遵旨就湖广总督鄂海员缺保举湖广提督额伦特等十二人职名呈览并原疏覆请，康熙帝命额伦特补授。",
+ "people": [
+  {
+   "name": "鄂海",
+   "role": "湖广总督"
+  },
+  {
+   "name": "额伦特",
+   "role": "湖广提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1610,
+ "page_range": "43-44"
+}

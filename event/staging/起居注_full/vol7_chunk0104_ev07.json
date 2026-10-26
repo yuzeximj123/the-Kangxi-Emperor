@@ -1,0 +1,25 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "初九日丙申",
+ "event_role": "军务",
+ "summary": "兵部覆贵州提督李芳述题请照滇省越级补官之例补授副将、游击等，康熙帝问贵州官少兼用云南官员可否，令交兵部议奏。",
+ "people": [
+  {
+   "name": "李芳述",
+   "role": "贵州提督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "贵州",
+  "云南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10407,
+ "page_range": "219-220"
+}

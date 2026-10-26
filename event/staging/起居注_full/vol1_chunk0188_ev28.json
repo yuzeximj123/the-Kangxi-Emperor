@@ -1,0 +1,21 @@
+{
+ "reign_year": 18,
+ "month": 8,
+ "day_text": "十四日再子",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝在中和殿视地震告祭天坛祝版，完毕后回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "中和殿",
+  "天坛"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 18828,
+ "page_range": "433-434"
+}

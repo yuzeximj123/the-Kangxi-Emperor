@@ -1,0 +1,26 @@
+{
+ "reign_year": 27,
+ "month": 2,
+ "day_text": "初三日丙午",
+ "event_role": "弹劾参奏",
+ "summary": "翰林院题参侍读学士德格勒奸诈、私抹记注档案，侍讲徐元梦与之互相标榜，请俱革职交刑部议罪。",
+ "people": [
+  {
+   "name": "德格勒",
+   "role": "侍读学士"
+  },
+  {
+   "name": "徐元梦",
+   "role": "侍讲"
+  },
+  {
+   "name": "翰林院",
+   "role": "题参衙门"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 805,
+ "page_range": "28-29"
+}

@@ -1,0 +1,63 @@
+{
+ "date_raw": "康熙肆拾玖年叁月贰拾贰日",
+ "reign_year": 49,
+ "month": 3,
+ "day": 22,
+ "event_role": "奏报地方情形",
+ "summary": "王鸿绪密奏苏州等地有人买卖女子、官员强买人口及冒用御前名色等情形。",
+ "people": [
+  {
+   "name": "王鸿绪",
+   "role": "奏报人"
+  },
+  {
+   "name": "陈世安",
+   "role": "涉及人物"
+  },
+  {
+   "name": "范溥",
+   "role": "涉及人物"
+  },
+  {
+   "name": "姜弘绪",
+   "role": "涉及人物"
+  },
+  {
+   "name": "严镗",
+   "role": "涉及人物"
+  },
+  {
+   "name": "赵朗玉",
+   "role": "涉及人物"
+  },
+  {
+   "name": "五哥",
+   "role": "涉及人物"
+  },
+  {
+   "name": "迈子",
+   "role": "涉及人物"
+  },
+  {
+   "name": "德成格",
+   "role": "涉及人物"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "太仓",
+  "常熟县",
+  "徽州"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示知道了。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": null,
+ "source_title": "朱谕密访苏州女子事",
+ "order_index": 167
+}

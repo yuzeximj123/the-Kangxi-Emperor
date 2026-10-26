@@ -1,0 +1,35 @@
+{
+ "date_raw": "康熙五十九年七月初二日",
+ "reign_year": 59,
+ "month": 7,
+ "day": 2,
+ "event_role": "奏报地方情形",
+ "summary": "两广总督杨琳奏报已派人护送樊守义赴京，并报大西洋船进虎门黄埔、搭回福建人魏镇等六名现讯供发遣回籍。",
+ "people": [
+  {
+   "name": "杨琳",
+   "role": "两广总督"
+  },
+  {
+   "name": "樊守义",
+   "role": "被护送赴京之人"
+  },
+  {
+   "name": "魏镇",
+   "role": "从咖喇吧搭船回福建之人"
+  }
+ ],
+ "places": [
+  "虎门",
+  "黄埔",
+  "福建",
+  "咖喇吧"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "兩廣總督楊琳等奏報護送姜守義赴京情願",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2878",
+ "order_index": 273
+}

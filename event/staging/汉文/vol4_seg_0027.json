@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙五十一年三月二十三日",
+ "reign_year": 51,
+ "month": 3,
+ "day": 3,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报春雨充足、麦苗茂盛，并陈明自己孑然独立恐遭猜疑诬陷，具折奏明请皇上鉴察。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏报人"
+  },
+  {
+   "name": "李树德",
+   "role": "山东巡抚、提督军务兼理粮饷、都察院右副都御史"
+  }
+ ],
+ "places": [
+  "直隶",
+  "山东"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "朱批“知道了”，表示已阅知悉。",
+ "source_title": "直隸巡撫趙弘燮奏報春雨沾足麥苗茂盛摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1052",
+ "order_index": 27
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 8,
+ "day_text": "初七日壬午",
+ "event_role": "人事任免",
+ "summary": "议兵科给事中员缺，拟以主事任琪题补，康熙帝以山东人太多令另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "任琪",
+   "role": "主事"
+  },
+  {
+   "name": "孙必振",
+   "role": "言官"
+  },
+  {
+   "name": "张志栋",
+   "role": "言官"
+  },
+  {
+   "name": "李见龙",
+   "role": "言官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 13710,
+ "page_range": "317-318"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 39,
+ "month": 12,
+ "day_text": "十二日庚午",
+ "event_role": "人事任免",
+ "summary": "兵部覆总督石琳题广西副将参将员缺请准题补广东武弁，议不准，康熙命照该督所奏速行题补。",
+ "people": [
+  {
+   "name": "石琳",
+   "role": "总督"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西",
+  "广东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 18417,
+ "page_range": "378-379"
+}

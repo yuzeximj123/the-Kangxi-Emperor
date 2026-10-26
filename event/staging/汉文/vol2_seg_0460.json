@@ -1,0 +1,24 @@
+{
+ "date_raw": "康熙四十八年五月十九日",
+ "reign_year": 48,
+ "month": 5,
+ "day": 19,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报苏州地方雨水及米价情形，并向康熙帝请安。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "苏州织造李煦奏报苏州雨水米价并请安折",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "未知",
+ "order_index": 460
+}

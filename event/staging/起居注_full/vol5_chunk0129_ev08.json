@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 5,
+ "day_text": null,
+ "event_role": "其他",
+ "summary": "本日原欲驻足颜土库烈图地方，因近处无水，康熙帝遣侍卫吴什寻得甘美泉源，众人喜悦。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴什",
+   "role": "亲近侍卫"
+  }
+ ],
+ "places": [
+  "颜土库烈图"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 12908,
+ "page_range": "268-269"
+}

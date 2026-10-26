@@ -1,0 +1,24 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十九日乙巳",
+ "event_role": "司法案件",
+ "summary": "吏部议四川殉难郎中托必泰应赠拖沙喇哈番、同行拨什库巴岱应照阵亡例给银，康熙帝以议恤尚轻令从优再议。",
+ "people": [
+  {
+   "name": "托必泰",
+   "role": "郎中"
+  },
+  {
+   "name": "巴岱",
+   "role": "拨什库"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1007,
+ "page_range": "63-64"
+}

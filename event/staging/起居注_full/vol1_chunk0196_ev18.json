@@ -1,0 +1,24 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": "初九日庚午",
+ "event_role": "司法案件",
+ "summary": "康熙论各直省奏谳狱词口供多改饰未必得实，魏象枢奏湖广乡民久出不归妻被诬谋杀夫成冤狱，后乡民归方知枉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "左都御史"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 19618,
+ "page_range": "449-450"
+}

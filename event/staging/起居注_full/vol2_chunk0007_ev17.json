@@ -1,0 +1,35 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "初四日庚寅",
+ "event_role": "人事任免",
+ "event_scope": "朝议",
+ "summary": "吏部题补镶黄旗科道，康熙问侍读传喇塔，勒德洪、明珠称其才优，命补监察御史；又问费扬古，命补给事中。",
+ "people": [
+  {
+   "name": "传喇塔",
+   "role": "侍读"
+  },
+  {
+   "name": "费扬古",
+   "role": "员外郎"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 717,
+ "page_range": "57-58"
+}

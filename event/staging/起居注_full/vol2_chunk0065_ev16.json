@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "初八日己未",
+ "event_role": "司法案件",
+ "summary": "理藩院题盗马杨和尚应即行处绞，康熙帝以其为公主家人居边墙内，与墙外盗马有别，命从宽免死减等发落。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "杨和尚",
+   "role": "盗马犯"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6516,
+ "page_range": "173-174"
+}

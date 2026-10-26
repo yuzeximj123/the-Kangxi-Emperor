@@ -1,0 +1,38 @@
+{
+ "reign_year": 24,
+ "month": 10,
+ "day_text": "十四日辛丑",
+ "event_role": "谕旨决策",
+ "summary": "明珠奏遵旨问都统公苏努补授官员事，苏努陈述本旗控告甚多及拟正因特缘由，康熙帝命将拟正之人补授。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "苏努",
+   "role": "都统公"
+  },
+  {
+   "name": "因特",
+   "role": "拟正补授者"
+  },
+  {
+   "name": "阿尔胡",
+   "role": "同祖人员"
+  },
+  {
+   "name": "阿尔图",
+   "role": "同祖人员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 11410,
+ "page_range": "263-264"
+}

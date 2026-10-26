@@ -1,0 +1,29 @@
+{
+ "reign_year": 54,
+ "month": 10,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝评论清官生事之弊，称赵弘演、苏克济虽非全不爱钱但居官安静，以此等人为优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘演",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "苏克济",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "直隶",
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11000,
+ "page_range": "231-232"
+}

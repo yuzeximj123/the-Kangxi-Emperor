@@ -1,0 +1,24 @@
+{
+ "reign_year": 51,
+ "month": 11,
+ "day_text": "十二日辛卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝追述原任巡抚能泰奏请四川开矿及江中捞银事，以朱笔批发不可行，并令从此防之。",
+ "people": [
+  {
+   "name": "能泰",
+   "role": "原任巡抚"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23920,
+ "page_range": "489-490"
+}

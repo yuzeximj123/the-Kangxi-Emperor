@@ -1,0 +1,26 @@
+{
+ "reign_year": 40,
+ "month": 7,
+ "day_text": null,
+ "event_role": "奏报地方情形",
+ "summary": "康熙帝询公克木春陕省河西田禾雨泽黄河水势，据奏今岁正月至六月滴雨未降，黄河水消二丈余。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "公克木春",
+   "role": "居住贺兰山后公"
+  }
+ ],
+ "places": [
+  "陕省河西",
+  "贺兰山",
+  "黄河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20901,
+ "page_range": "428-429"
+}

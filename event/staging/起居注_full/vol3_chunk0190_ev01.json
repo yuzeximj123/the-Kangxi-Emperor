@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "翰林院题补日讲起居注官乔莱、孙后颁革任员缺，开列传讲学士沈上裁等，康熙帝谕讲官职任甚要，须品行端方学问醇正，命问明满汉掌院学士。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "乔莱",
+   "role": "日讲起居注官"
+  },
+  {
+   "name": "孙后颁",
+   "role": "日讲起居注官"
+  },
+  {
+   "name": "沈上裁",
+   "role": "侍讲学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 19001,
+ "page_range": "415-416"
+}

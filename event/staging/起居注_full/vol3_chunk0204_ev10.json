@@ -1,0 +1,23 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "十八日戊辰",
+ "event_role": "谕旨决策",
+ "summary": "将真、顺、广、大四府地方康熙二十六年地丁各项钱粮尽行蠲免，命照此传谕户部。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "真定府",
+  "顺德府",
+  "广平府",
+  "大名府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20410,
+ "page_range": "443-444"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 18,
+ "month": 10,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部覆左都御史魏象枢遵旨举廉，康熙帝准照部议补用，并令将张汰、陆龙其用于繁剧难治之县。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "魏象枢",
+   "role": "左都御史"
+  },
+  {
+   "name": "张汰",
+   "role": "原任知县"
+  },
+  {
+   "name": "陆龙其",
+   "role": "原任知县"
+  }
+ ],
+ "places": [
+  "青县",
+  "宝坻",
+  "无锡"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 20202,
+ "page_range": "461-462"
+}

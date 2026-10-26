@@ -1,0 +1,32 @@
+{
+ "reign_year": 55,
+ "month": 3,
+ "day_text": "初三日癸亥",
+ "event_role": "人事任免",
+ "summary": "吏部覆川陕总督鄂海所题西安布政使韦图布员缺，请以按察使沙木哈补授，康熙帝命沙木哈补授布政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂海",
+   "role": "川陕总督"
+  },
+  {
+   "name": "韦图布",
+   "role": "西安布政使"
+  },
+  {
+   "name": "沙木哈",
+   "role": "按察使"
+  }
+ ],
+ "places": [
+  "西安"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 13416,
+ "page_range": "279-280"
+}

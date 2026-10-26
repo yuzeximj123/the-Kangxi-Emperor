@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙五十八年四月十二日",
+ "reign_year": 58,
+ "month": 4,
+ "day": 12,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦差竣复命后奏报北直山东一路庄稼雨水俱好、麦子将获大收，并进呈德州三月晴雨录。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "新泰",
+  "北直",
+  "山东",
+  "德州"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "蘇州織造李煦奏報蘇州等地莊稼都好摺",
+ "source_corpus": "汉文",
+ "source_vol": 8,
+ "source_no": "2748",
+ "order_index": 174
+}

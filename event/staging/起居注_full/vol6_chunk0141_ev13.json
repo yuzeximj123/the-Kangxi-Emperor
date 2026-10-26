@@ -1,0 +1,33 @@
+{
+ "reign_year": 39,
+ "month": 2,
+ "day_text": "初一日甲午",
+ "event_role": "祭祀典礼",
+ "summary": "午时康熙御文华殿举行经筵大典，库勒纳、熊赐履、阿山、张英进讲，讲毕赐宴于太和门前。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "熊赐履",
+   "role": "讲官"
+  },
+  {
+   "name": "阿山",
+   "role": "讲官"
+  },
+  {
+   "name": "张英",
+   "role": "讲官"
+  }
+ ],
+ "places": [
+  "文华殿",
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14113,
+ "page_range": "292-293"
+}

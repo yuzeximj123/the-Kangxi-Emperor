@@ -1,0 +1,29 @@
+{
+ "reign_year": 33,
+ "month": 10,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部等衙门题秋审缓决事，上论花色在山海关城守尉任内偷参之弊愈多，命枷号三个月、鞭一百，发往黑龙江当差。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "花色",
+   "role": "护军参领、原任内大臣、山海关城守尉"
+  },
+  {
+   "name": "阿米达",
+   "role": "大臣"
+  }
+ ],
+ "places": [
+  "山海关",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4505,
+ "page_range": "100-101"
+}

@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 11,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝询问侍郎李楠改移清口是否可行，李楠奏称甚善可免淮扬水患。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "李楠",
+   "role": "侍郎"
+  }
+ ],
+ "places": [
+  "清口",
+  "淮扬"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 12402,
+ "page_range": "258-259"
+}

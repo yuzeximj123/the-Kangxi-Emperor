@@ -1,0 +1,34 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十九日乙巳",
+ "event_role": "人事任免",
+ "summary": "翰林院侍讲员缺，康熙帝询问人选后命以戴通补授侍讲。",
+ "people": [
+  {
+   "name": "戴通",
+   "role": "侍讲"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "何托",
+   "role": "员外郎"
+  },
+  {
+   "name": "席格",
+   "role": "拟陪人员"
+  },
+  {
+   "name": "觉罗三保",
+   "role": "员外郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1008,
+ "page_range": "63-64"
+}

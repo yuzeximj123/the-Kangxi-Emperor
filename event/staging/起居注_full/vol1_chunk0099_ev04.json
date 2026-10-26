@@ -1,0 +1,24 @@
+{
+ "reign_year": 14,
+ "month": 9,
+ "day_text": "二十四日已卯",
+ "event_role": "皇帝行止",
+ "summary": "早，康熙帝前往汤山温泉，向太皇太后问安，酉时回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "太皇太后",
+   "role": "太皇太后"
+  }
+ ],
+ "places": [
+  "汤山温泉"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 9904,
+ "page_range": "255-256"
+}

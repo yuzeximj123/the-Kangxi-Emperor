@@ -1,0 +1,26 @@
+{
+ "reign_year": 22,
+ "month": 4,
+ "day_text": "二十八日庚子",
+ "event_role": "司法案件",
+ "summary": "议防御金玉相隐匿伪朱三太子杨起龙事，康熙帝以未详察情由即革职交刑部必致冤抑，命兵、刑二部会同详审。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "金玉相",
+   "role": "防御"
+  },
+  {
+   "name": "杨起龙",
+   "role": "伪朱三太子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 19207,
+ "page_range": "427-428"
+}

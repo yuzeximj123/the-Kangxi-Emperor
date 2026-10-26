@@ -1,0 +1,28 @@
+{
+ "date_raw": "康熙二十八年二月十六日",
+ "reign_year": 28,
+ "month": 2,
+ "day_text": "十六日甲寅",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕部院诸臣及总督王骘，谓小民建造碑亭所费颇多、日后恐不肖官员借端扰民，碑亭无益，苏赫、王骘奏称圣见深远。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "苏赫",
+   "role": "尚书"
+  },
+  {
+   "name": "王骘",
+   "role": "总督"
+  }
+ ],
+ "places": [
+  "杭州府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 1022
+}

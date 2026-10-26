@@ -1,0 +1,30 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "初八日丁丁",
+ "event_role": "人事任免",
+ "summary": "吏部题补刑部侍郎苏黑转补员缺，康熙帝询问后命傅腊塔补授刑部侍郎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "傅腊塔",
+   "role": "补授刑部侍郎"
+  },
+  {
+   "name": "麻尔图",
+   "role": "学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8705,
+ "page_range": "209-210"
+}

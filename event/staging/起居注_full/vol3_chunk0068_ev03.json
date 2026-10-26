@@ -1,0 +1,34 @@
+{
+ "reign_year": 23,
+ "month": 12,
+ "day_text": "二十八日己未",
+ "event_role": "祭祀典礼",
+ "summary": "康熙帝遣倭黑、费岳塞、纳尔泰往已故赠一等公佟图赖及妻觉罗氏墓前奠酒。",
+ "people": [
+  {
+   "name": "倭黑",
+   "role": "领侍卫内大臣公"
+  },
+  {
+   "name": "费岳塞",
+   "role": "一等侍卫仪度额真"
+  },
+  {
+   "name": "纳尔泰",
+   "role": "二等侍卫"
+  },
+  {
+   "name": "佟图赖",
+   "role": "已故赠一等公"
+  },
+  {
+   "name": "觉罗氏",
+   "role": "一等公妻封一品夫人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 6803,
+ "page_range": "171-172"
+}

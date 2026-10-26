@@ -1,0 +1,30 @@
+{
+ "reign_year": 39,
+ "month": 3,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "吏部题顺天府尹常愤圣员缺，拟以太仆寺卿钱晋锡拟正、光禄寺卿江葵拟陪，康熙帝令于应升及翰林品级相当者中选择具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "钱晋锡",
+   "role": "太仆寺卿拟正"
+  },
+  {
+   "name": "江葵",
+   "role": "光禄寺卿拟陪"
+  },
+  {
+   "name": "常愤圣",
+   "role": "顺天府尹（缺员）"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 14201,
+ "page_range": "294-295"
+}

@@ -1,0 +1,27 @@
+{
+ "reign_year": 51,
+ "month": 4,
+ "day_text": "初五日己巳",
+ "event_role": "司法案件",
+ "summary": "覆请刑部所题假冒广西象州龙门寨巡检和孙宜应爹妻流三千里一案，康熙命将和孙宜发黑龙江。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "和孙宜",
+   "role": "假冒巡检"
+  }
+ ],
+ "places": [
+  "广西",
+  "象州",
+  "龙门寨",
+  "黑龙江"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 21416,
+ "page_range": "439-440"
+}

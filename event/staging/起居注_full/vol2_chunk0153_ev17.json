@@ -1,0 +1,23 @@
+{
+ "reign_year": 21,
+ "month": 10,
+ "day_text": "十九日",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝谒孝陵，由东华门出东直门，驻跸三河县河东。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "孝陵",
+  "东华门",
+  "东直门",
+  "三河县河东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 15317,
+ "page_range": "349-350"
+}

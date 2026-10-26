@@ -1,0 +1,36 @@
+{
+ "reign_year": 51,
+ "month": 10,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝称保全清官使文武感励，列举师蒙德、江琦、额伦特清洁，并言湖广空粮已补、营伍整饬。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "师蒙德",
+   "role": "清官"
+  },
+  {
+   "name": "江琦",
+   "role": "清官"
+  },
+  {
+   "name": "额伦特",
+   "role": "清官"
+  },
+  {
+   "name": "鄂海",
+   "role": "官员"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 23403,
+ "page_range": "479-480"
+}

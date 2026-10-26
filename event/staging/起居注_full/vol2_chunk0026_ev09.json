@@ -1,0 +1,21 @@
+{
+ "reign_year": 19,
+ "month": 11,
+ "day_text": "初六日辛酉",
+ "event_role": "奏报地方情形",
+ "summary": "副都御史李仙根言陕西民困至极，宜停陕西运粮四川，改买四川之米，并请遣大臣详察购买是否足用。",
+ "people": [
+  {
+   "name": "李仙根",
+   "role": "副都御史"
+  }
+ ],
+ "places": [
+  "陕西",
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 2609,
+ "page_range": "95-96"
+}

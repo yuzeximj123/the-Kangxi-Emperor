@@ -1,0 +1,26 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "传谕鸿胪寺卿沙拜，明日带往前行，嗣后无论已射未射官员仍试射。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "存住",
+   "role": "奏事主事"
+  },
+  {
+   "name": "沙拜",
+   "role": "鸿胪寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 402,
+ "page_range": "19-20"
+}

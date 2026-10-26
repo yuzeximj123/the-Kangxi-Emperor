@@ -1,0 +1,24 @@
+{
+ "reign_year": 40,
+ "month": 2,
+ "day_text": "二十八日丙成",
+ "event_role": "弹劾参奏",
+ "summary": "山东巡抚王国昌因给事中马士芳参其大计一案回奏，康熙帝以无实据令马士芳等再明白回奏。",
+ "people": [
+  {
+   "name": "王国昌",
+   "role": "山东巡抚"
+  },
+  {
+   "name": "马士芳",
+   "role": "给事中"
+  }
+ ],
+ "places": [
+  "山东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 19220,
+ "page_range": "394-395"
+}

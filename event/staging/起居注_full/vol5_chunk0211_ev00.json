@@ -1,0 +1,34 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕令将达赖喇嘛死已十六年、第巴冒称达赖之言欺诳噶尔丹等情开明于敕论，刊刻刷印交丹济渣布等，并议是否遣使策旺喇布滩。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "丹济渣布",
+   "role": "噶尔丹乳母之子、使者"
+  },
+  {
+   "name": "噶尔丹",
+   "role": "厄鲁特首领"
+  },
+  {
+   "name": "第巴",
+   "role": "冒称达赖喇嘛者"
+  },
+  {
+   "name": "策旺喇布滩",
+   "role": "蒙古首领"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 21100,
+ "page_range": "432-433"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 2,
+ "day_text": "十七日癸丑",
+ "event_role": "人事任免",
+ "summary": "太常寺卿席尔达升任员缺，拟以色冷为正、那散为陪，康熙帝以色冷平常不宜用，命开列依次应升之人。",
+ "people": [
+  {
+   "name": "席尔达",
+   "role": "太常寺卿"
+  },
+  {
+   "name": "色冷",
+   "role": "太仆寺卿，拟正"
+  },
+  {
+   "name": "那散",
+   "role": "布政使，拟陪"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 810,
+ "page_range": "51-52"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 3,
+ "day_text": "十六日辛酉",
+ "event_role": "弹劾参奏",
+ "summary": "康熙帝论赵申乔虽不要钱但好受词讼，受万历崇祯年间事告者亦受理，且善遗忘、奏事屡污陈。",
+ "people": [
+  {
+   "name": "赵申乔",
+   "role": "巡抚"
+  },
+  {
+   "name": "喻成龙",
+   "role": "安徽巡抚"
+  },
+  {
+   "name": "张志栋",
+   "role": "江西巡抚"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 5403,
+ "page_range": "119-120"
+}

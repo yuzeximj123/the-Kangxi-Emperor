@@ -1,0 +1,21 @@
+{
+ "reign_year": 50,
+ "month": 12,
+ "day_text": "十九日癸酉",
+ "event_role": "祭祀典礼",
+ "summary": "申时康熙由东华门出朝阳门，至良妃灵前奠酒举哀毕回宫。",
+ "people": [
+  {
+   "name": "良妃",
+   "role": "妃"
+  }
+ ],
+ "places": [
+  "东华门",
+  "朝阳门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 19914,
+ "page_range": "409-410"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 12,
+ "day_text": "二十日庚申",
+ "event_role": "谕旨决策",
+ "summary": "巡抚贝和诺赴任请训旨，康熙帝谕其廉洁抚民、详察陕西捐纳一事。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "贝和诺",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 7203,
+ "page_range": "154-155"
+}

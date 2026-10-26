@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "二十八日己卯",
+ "event_role": "谕旨决策",
+ "summary": "大学士查出病故台吉之子无承袭原官旧例，康熙帝以塞百克死于行间，准其子鲁席希布承袭一品台吉。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "塞百克",
+   "role": "行间病故一品台吉"
+  },
+  {
+   "name": "鲁席希布",
+   "role": "塞百克之子"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7011,
+ "page_range": "183-184"
+}

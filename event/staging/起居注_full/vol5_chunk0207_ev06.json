@@ -1,0 +1,26 @@
+{
+ "reign_year": 36,
+ "month": 3,
+ "day_text": "初五日乙酉",
+ "event_role": "人事任免",
+ "summary": "康熙帝因法尔库巡哨时射杀厄鲁特一人、伤二人，命其为蓝翎侍卫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "吴达禅",
+   "role": "一等侍卫副都统"
+  },
+  {
+   "name": "法尔库",
+   "role": "前锋营巡哨"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 20706,
+ "page_range": "424-425"
+}

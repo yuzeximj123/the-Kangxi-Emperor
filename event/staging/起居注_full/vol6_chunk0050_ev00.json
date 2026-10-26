@@ -1,0 +1,30 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝就监察御史武进贤等十九人内升外转事，询问吴瑞意见，称赞鲍复盛为人最优，命其内升。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "武进贤",
+   "role": "监察御史"
+  },
+  {
+   "name": "鲍复盛",
+   "role": "监察御史"
+  },
+  {
+   "name": "吴瑞",
+   "role": "官员"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5000,
+ "page_range": "110-111"
+}

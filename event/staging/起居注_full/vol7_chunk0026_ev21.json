@@ -1,0 +1,28 @@
+{
+ "reign_year": 41,
+ "month": 8,
+ "day_text": "十三日生辰",
+ "event_role": "人事任免",
+ "summary": "吏部以安徽布政使常名扬缺出拟补，康熙帝命授河工效力候补按察使赵世显为安徽布政使。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "常名扬",
+   "role": "安徽布政使"
+  },
+  {
+   "name": "赵世显",
+   "role": "河工效力候补按察使"
+  }
+ ],
+ "places": [
+  "安徽"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2621,
+ "page_range": "63-64"
+}

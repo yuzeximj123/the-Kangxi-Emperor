@@ -1,0 +1,26 @@
+{
+ "reign_year": 34,
+ "month": 9,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙帝批评鄂奇差回时茫然妄对，并称郎中奔席果属好官、品行优长、所学充文亦优。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "鄂奇",
+   "role": "郎中"
+  },
+  {
+   "name": "奔席",
+   "role": "郎中"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 8204,
+ "page_range": "174-175"
+}

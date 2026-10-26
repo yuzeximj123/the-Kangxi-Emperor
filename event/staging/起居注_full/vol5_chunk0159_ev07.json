@@ -1,0 +1,34 @@
+{
+ "reign_year": 35,
+ "month": 9,
+ "day_text": "二十三日",
+ "event_role": "谕旨决策",
+ "summary": "命马武传谕苏尔达等大臣，夜间系马、渐添刍草，勿使践踏马草。",
+ "people": [
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "苏尔达",
+   "role": "领侍卫内大臣"
+  },
+  {
+   "name": "福善",
+   "role": "公"
+  },
+  {
+   "name": "索额图",
+   "role": "公"
+  },
+  {
+   "name": "明珠",
+   "role": "内大臣"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 15907,
+ "page_range": "328-329"
+}

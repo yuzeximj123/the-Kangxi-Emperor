@@ -1,0 +1,24 @@
+{
+ "reign_year": 34,
+ "month": 6,
+ "day_text": "初十日庚子",
+ "event_role": "朝见受贺",
+ "summary": "山西巡抚温保之任陛辞，面请训旨，康熙帝谕以正己爱民。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "温保",
+   "role": "山西巡抚"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 6817,
+ "page_range": "146-147"
+}

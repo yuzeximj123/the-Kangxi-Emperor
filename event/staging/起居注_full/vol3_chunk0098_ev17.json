@@ -1,0 +1,29 @@
+{
+ "reign_year": 24,
+ "month": 6,
+ "day_text": "二十五日甲寅",
+ "event_role": "司法案件",
+ "summary": "三法司议岫州协领喇都浑遣家人德黑往蒲折县吓诈银两，拟喇都浑绞监候、德黑立斩，康熙命依议但德黑罪稍过。",
+ "people": [
+  {
+   "name": "喇都浑",
+   "role": "岫州协领"
+  },
+  {
+   "name": "德黑",
+   "role": "家人"
+  },
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "岫州",
+  "蒲折县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 9817,
+ "page_range": "231-232"
+}

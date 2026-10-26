@@ -1,0 +1,52 @@
+{
+ "reign_year": 45,
+ "month": 4,
+ "day_text": "二十六日癸丑",
+ "event_role": "朝见受贺",
+ "summary": "巳时康熙帝御畅春园内澹宁居简选庶吉士，选俞兆晟等五十人为庶吉士。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "大学士"
+  },
+  {
+   "name": "席哈纳",
+   "role": "大学士"
+  },
+  {
+   "name": "张玉书",
+   "role": "大学士"
+  },
+  {
+   "name": "陈廷敬",
+   "role": "大学士"
+  },
+  {
+   "name": "李光地",
+   "role": "大学士"
+  },
+  {
+   "name": "施云锦",
+   "role": "修撰"
+  },
+  {
+   "name": "吕葆中",
+   "role": "编修"
+  },
+  {
+   "name": "贾国维",
+   "role": "编修"
+  },
+  {
+   "name": "俞兆晟",
+   "role": "二甲进士"
+  }
+ ],
+ "places": [
+  "畅春园"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10705,
+ "page_range": "225-226"
+}

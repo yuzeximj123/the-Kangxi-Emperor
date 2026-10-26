@@ -1,0 +1,32 @@
+{
+ "reign_year": 22,
+ "month": 12,
+ "day_text": "十四日辛亥",
+ "event_role": "人事任免",
+ "summary": "吏部题补陕西按察使叶称济升任员缺，康熙帝令九卿等将通晓汉文之人会推具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "叶称济",
+   "role": "陕西按察使"
+  },
+  {
+   "name": "色黑",
+   "role": "郎中"
+  },
+  {
+   "name": "单毕",
+   "role": "监察御史"
+  }
+ ],
+ "places": [
+  "陕西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 24509,
+ "page_range": "533-534"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 45,
+ "month": 9,
+ "day_text": null,
+ "event_role": "弹劾参奏",
+ "summary": "九卿议奏御史袁桥参劾山西巡抚噶礼事，康熙称袁桥所参各款俱虚，首告之人皆系从前罪犯，命另议。",
+ "people": [
+  {
+   "name": "袁桥",
+   "role": "御史"
+  },
+  {
+   "name": "噶礼",
+   "role": "山西巡抚"
+  },
+  {
+   "name": "赵凤诏",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 12801,
+ "page_range": "267-268"
+}

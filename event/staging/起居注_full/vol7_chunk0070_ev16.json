@@ -1,0 +1,26 @@
+{
+ "reign_year": 42,
+ "month": 9,
+ "day_text": "二十五日戊辰",
+ "event_role": "人事任免",
+ "summary": "引见知县许琳，康熙帝以其应对不能，责吴涵任情保护，不许因保护即用。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "许琳",
+   "role": "知县"
+  },
+  {
+   "name": "吴涵",
+   "role": "翰林掌院"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 7016,
+ "page_range": "151-152"
+}

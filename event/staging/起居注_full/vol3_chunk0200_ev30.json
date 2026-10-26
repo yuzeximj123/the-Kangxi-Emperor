@@ -1,0 +1,22 @@
+{
+ "reign_year": 25,
+ "month": 12,
+ "day_text": "初四日甲寅",
+ "event_role": "人事任免",
+ "summary": "吏部题总漕徐旭龄迟延漕艘议降二级调用，康熙帝以其巧饰诞奏、该部徇庇，令再严加详议具奏。",
+ "people": [
+  {
+   "name": "徐旭龄",
+   "role": "总漕"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 20030,
+ "page_range": "435-436"
+}

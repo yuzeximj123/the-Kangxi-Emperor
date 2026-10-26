@@ -1,0 +1,32 @@
+{
+ "reign_year": 50,
+ "month": 6,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆直隶巡抚赵弘党覆审强盗金文政等案议驳回，康熙帝令齐世武从公具奏。",
+ "people": [
+  {
+   "name": "金文政",
+   "role": "强盗案犯"
+  },
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  },
+  {
+   "name": "齐世武",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 17409,
+ "page_range": "359-360"
+}

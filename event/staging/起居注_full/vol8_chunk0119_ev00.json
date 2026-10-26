@@ -1,0 +1,28 @@
+{
+ "reign_year": 54,
+ "month": 11,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "刑部覆请将控告哈尔非烟隐瞒开户人等款皆虚的程格枷号三月、鞭一百、发往三姓地方，康熙帝依议。",
+ "people": [
+  {
+   "name": "程格",
+   "role": "闲散人/原告"
+  },
+  {
+   "name": "哈尔非烟",
+   "role": "佐领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "三姓地方"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 11900,
+ "page_range": "249-250"
+}

@@ -1,0 +1,30 @@
+{
+ "reign_year": 25,
+ "month": 7,
+ "day_text": "十五日丁酉",
+ "event_role": "人事任免",
+ "summary": "副都御史喇都虎升任员缺，开列通政使阿山，康熙询问后以舒恕年迈补授此缺。",
+ "people": [
+  {
+   "name": "喇都虎",
+   "role": "副都御史"
+  },
+  {
+   "name": "阿山",
+   "role": "通政司通政使"
+  },
+  {
+   "name": "舒恕",
+   "role": "大理寺卿"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 18012,
+ "page_range": "395-396"
+}

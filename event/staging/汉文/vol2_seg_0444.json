@@ -1,0 +1,26 @@
+{
+ "date_raw": "康熙四十八年四月十五日",
+ "reign_year": 48,
+ "month": 4,
+ "day": 15,
+ "event_role": "奏报地方情形",
+ "summary": "苏州织造李煦奏报浙江处州府属有人聚众起事，向康熙帝报告地方治安情形。",
+ "people": [
+  {
+   "name": "李煦",
+   "role": "苏州织造，奏报人"
+  }
+ ],
+ "places": [
+  "苏州",
+  "浙江",
+  "处州府"
+ ],
+ "has_zhupi": false,
+ "zhupi_summary": null,
+ "source_title": "苏州织造李煦奏闻浙江处州府属有人聚众起事折",
+ "source_corpus": "汉文",
+ "source_vol": 2,
+ "source_no": "488",
+ "order_index": 444
+}

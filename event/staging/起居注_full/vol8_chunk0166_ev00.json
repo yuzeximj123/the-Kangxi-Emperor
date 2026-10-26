@@ -1,0 +1,21 @@
+{
+ "reign_year": 55,
+ "month": 11,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "华、守甸郭世发等前来朝见。",
+ "people": [
+  {
+   "name": "郭世发",
+   "role": "来朝者"
+  }
+ ],
+ "places": [
+  "华",
+  "守甸"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 16600,
+ "page_range": "343-344"
+}

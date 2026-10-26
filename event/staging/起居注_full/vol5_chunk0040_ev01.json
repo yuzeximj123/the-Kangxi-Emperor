@@ -1,0 +1,37 @@
+{
+ "reign_year": 33,
+ "month": 9,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "兵部题浙江提督马三奇请以参将张进补象山副将曾成员缺、游击张天复补张进缺，康熙帝准照所请补授。",
+ "people": [
+  {
+   "name": "马三奇",
+   "role": "浙江提督"
+  },
+  {
+   "name": "曾成员",
+   "role": "象山副将"
+  },
+  {
+   "name": "张进",
+   "role": "参将"
+  },
+  {
+   "name": "张天复",
+   "role": "游击"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "浙江",
+  "象山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 4001,
+ "page_range": "90-91"
+}

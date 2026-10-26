@@ -1,0 +1,26 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命大学士告知光禄寺正卿色特题请休致，另选才能官代常在管署。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "色特",
+   "role": "光禄寺正卿"
+  },
+  {
+   "name": "常在",
+   "role": "光禄寺少卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2300,
+ "page_range": "56-57"
+}

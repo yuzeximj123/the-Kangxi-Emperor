@@ -1,0 +1,22 @@
+{
+ "reign_year": 30,
+ "month": 10,
+ "day_text": "十一日壬辰",
+ "event_role": "议政听政",
+ "summary": "王熙等奏称前人所言岂能尽当，径一围三之法推算不符，虽蔡元定之言亦不可从，赞康熙帝洞悉律数。",
+ "people": [
+  {
+   "name": "王熙",
+   "role": "大学士"
+  },
+  {
+   "name": "蔡元定",
+   "role": "宋代学者"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 16627,
+ "page_range": "344-345"
+}

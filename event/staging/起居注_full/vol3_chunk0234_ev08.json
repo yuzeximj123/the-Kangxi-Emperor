@@ -1,0 +1,24 @@
+{
+ "reign_year": 26,
+ "month": 6,
+ "day_text": "初九日乙卯",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕汤斌论朱子王阳明门人各是其师说互相攻击之非，谓道体本虚顾力行何如，私岂道乎。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "汤斌",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "无逸斋"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 23408,
+ "page_range": "503-504"
+}

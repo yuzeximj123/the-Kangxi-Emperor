@@ -1,0 +1,30 @@
+{
+ "reign_year": 20,
+ "month": 5,
+ "day_text": "十二日甲子",
+ "event_role": "人事任免",
+ "summary": "吏部题补光禄寺卿，正拟张吉午、陪拟张可前，康熙帝询问后命此缺另拟具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "张吉午",
+   "role": "左通政、正拟光禄寺卿"
+  },
+  {
+   "name": "张可前",
+   "role": "右通政、陪拟光禄寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 5203,
+ "page_range": "147-148"
+}

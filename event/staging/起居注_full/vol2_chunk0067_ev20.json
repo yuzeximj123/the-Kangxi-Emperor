@@ -1,0 +1,26 @@
+{
+ "reign_year": 20,
+ "month": 7,
+ "day_text": "十七日戊辰",
+ "event_role": "军务",
+ "summary": "康熙帝论马宝投降系逆贼渠首断不可留，令该将军如降果真即拿解来京正军法，并令议政王等会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "马宝",
+   "role": "逆贼渠首"
+  },
+  {
+   "name": "折尔肯",
+   "role": "兵部尚书"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 6720,
+ "page_range": "177-178"
+}

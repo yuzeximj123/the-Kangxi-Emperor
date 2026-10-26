@@ -1,0 +1,28 @@
+{
+ "reign_year": 37,
+ "month": 7,
+ "day_text": "二十三日乙未",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝谕张旺效法李林盛在广西之善政。",
+ "people": [
+  {
+   "name": "张旺",
+   "role": "广西提督"
+  },
+  {
+   "name": "李林盛",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 4827,
+ "page_range": "106-107"
+}

@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 5,
+ "day_text": "十六日癸丑",
+ "event_role": "人事任免",
+ "summary": "吏部题两淮运使赵世显员缺，拟运同杨夯英等补授，康熙帝命问九卿赵世显居官如何及升授按察使事宜。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵世显",
+   "role": "两淮运使"
+  },
+  {
+   "name": "杨夯英",
+   "role": "运同"
+  }
+ ],
+ "places": [
+  "两淮"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 2017,
+ "page_range": "50-51"
+}

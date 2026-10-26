@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙与大学士萧永藻论广西、广东米价及督抚匿报灾荒之弊，责广东督抚未及时具题。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "萧永藻",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "广西",
+  "广东",
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1104,
+ "page_range": "33-34"
+}

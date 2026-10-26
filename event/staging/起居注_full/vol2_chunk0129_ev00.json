@@ -1,0 +1,32 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "议政王大臣会推奉天副都统员缺，康熙帝认为牛钮、希禅均不适宜，改令总管佟宝补授。",
+ "people": [
+  {
+   "name": "牛钮",
+   "role": "前锋参领（正拟）"
+  },
+  {
+   "name": "希禅",
+   "role": "陪拟"
+  },
+  {
+   "name": "佟宝",
+   "role": "总管，补授奉天副都统"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "奉天"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12900,
+ "page_range": "301-302"
+}

@@ -1,0 +1,34 @@
+{
+ "reign_year": 21,
+ "month": 12,
+ "day_text": "十二日乙本",
+ "event_role": "人事任免",
+ "summary": "吏部题补光禄寺卿员缺，康熙帝询问年久郎中以上名次在前者，最终命布占补授此缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "学士"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "索济",
+   "role": "大理寺少卿"
+  },
+  {
+   "name": "布占",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 16204,
+ "page_range": "367-368"
+}

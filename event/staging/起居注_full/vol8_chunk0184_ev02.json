@@ -1,0 +1,28 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "覆请礼部议覆偏沅巡抚李发甲题请湖南设立贡院分闱考试，康熙帝不准，令交九卿问湖广人及赵申乔具奏。",
+ "people": [
+  {
+   "name": "李发甲",
+   "role": "偏沅巡抚"
+  },
+  {
+   "name": "赵申乔",
+   "role": "官员"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "湖南"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18402,
+ "page_range": "379-380"
+}

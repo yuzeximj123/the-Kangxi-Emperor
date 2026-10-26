@@ -1,0 +1,24 @@
+{
+ "reign_year": 16,
+ "month": 7,
+ "day_text": "初三日戊袖",
+ "event_role": "谕旨决策",
+ "summary": "工部、总管内务府启奏仁孝皇后陵殿事，康熙帝降旨修造地宫当敬慎坚固，取用沙河殿楼楠木，不足则会同内阁及明珠议奏添用松木及减损尺寸。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "尚书"
+  }
+ ],
+ "places": [
+  "沙河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 14045,
+ "page_range": "337-338"
+}

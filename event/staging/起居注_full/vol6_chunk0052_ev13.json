@@ -1,0 +1,24 @@
+{
+ "reign_year": 37,
+ "month": 8,
+ "day_text": "二十六日丁卯",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝驻跸准巴素海地方，原封科尔沁王额台齐尔等备宴迎接。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "额台齐尔",
+   "role": "原封科尔沁王"
+  }
+ ],
+ "places": [
+  "准巴素海"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 5213,
+ "page_range": "114-115"
+}

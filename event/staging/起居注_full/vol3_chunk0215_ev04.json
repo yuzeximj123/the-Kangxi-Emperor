@@ -1,0 +1,29 @@
+{
+ "reign_year": 26,
+ "month": 2,
+ "day_text": "二十二卓庚午",
+ "event_role": "人事任免",
+ "summary": "九卿会推河南、广西学道，康熙帝改陆诈蕃补广西学道、王际有补河南学道，俱令星速赴任。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "陆诈蕃",
+   "role": "道员"
+  },
+  {
+   "name": "王际有",
+   "role": "知府"
+  }
+ ],
+ "places": [
+  "河南",
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21504,
+ "page_range": "465-466"
+}

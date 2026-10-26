@@ -1,0 +1,25 @@
+{
+ "reign_year": 53,
+ "month": 7,
+ "day_text": null,
+ "event_role": "司法案件",
+ "summary": "理藩院等衙门题进贡索伦鄂尔达哩逃往俄罗斯地方应拟立绞，康熙帝谕令从宽免死，枷号三个月、鞭一百，解至京师。",
+ "people": [
+  {
+   "name": "鄂尔达哩",
+   "role": "进贡索伦、逃犯"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "俄罗斯",
+  "京师"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 6605,
+ "page_range": "143-144"
+}

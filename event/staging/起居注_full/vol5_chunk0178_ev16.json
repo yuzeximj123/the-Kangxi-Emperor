@@ -1,0 +1,24 @@
+{
+ "reign_year": 35,
+ "month": 12,
+ "day_text": "初十日",
+ "event_role": "奏报地方情形",
+ "summary": "山西布政使甘度、按察使巴锡奏事。",
+ "people": [
+  {
+   "name": "甘度",
+   "role": "山西布政使"
+  },
+  {
+   "name": "巴锡",
+   "role": "山西按察使"
+  }
+ ],
+ "places": [
+  "山西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 17816,
+ "page_range": "366-367"
+}

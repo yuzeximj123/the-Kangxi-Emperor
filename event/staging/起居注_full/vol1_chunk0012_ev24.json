@@ -1,0 +1,28 @@
+{
+ "reign_year": 11,
+ "month": 4,
+ "day_text": "初九日甲申",
+ "event_role": "议政听政",
+ "summary": "康熙帝与侍臣议论朱二眉邪妄可疑，询问其是否已去及湖广有无作乱之人，并称董国兴参劾朱二眉甚当。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "朱二眉",
+   "role": "被参之人"
+  },
+  {
+   "name": "董国兴",
+   "role": "巡抚"
+  }
+ ],
+ "places": [
+  "湖广"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 1224,
+ "page_range": "81-82"
+}

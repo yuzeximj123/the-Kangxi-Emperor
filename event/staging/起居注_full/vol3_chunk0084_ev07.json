@@ -1,0 +1,32 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十五日乙酉",
+ "event_role": "朝见受贺",
+ "summary": "康熙帝御太和门视朝，文武升转官员谢恩，喀尔喀部落来使行礼赐茶。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "墨尔根和硕齐克什克图",
+   "role": "喀尔喀来使"
+  },
+  {
+   "name": "吹达西",
+   "role": "土谢图和汗巴免儿台吉来使"
+  },
+  {
+   "name": "达尔汉葛诸尔",
+   "role": "扎萨克图汗代讷颜来使"
+  }
+ ],
+ "places": [
+  "太和门"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8407,
+ "page_range": "203-204"
+}

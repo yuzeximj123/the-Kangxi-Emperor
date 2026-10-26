@@ -1,0 +1,28 @@
+{
+ "reign_year": 23,
+ "month": 11,
+ "day_text": null,
+ "event_role": "朝见受贺",
+ "summary": "督礼部员外郎法都虎、江宁府知府于成龙、副将罗煌等前来朝见康熙帝。",
+ "people": [
+  {
+   "name": "法都虎",
+   "role": "督礼部员外郎"
+  },
+  {
+   "name": "于成龙",
+   "role": "江宁府知府"
+  },
+  {
+   "name": "罗煌",
+   "role": "副将"
+  }
+ ],
+ "places": [
+  "江宁府"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 5600,
+ "page_range": "147-148"
+}

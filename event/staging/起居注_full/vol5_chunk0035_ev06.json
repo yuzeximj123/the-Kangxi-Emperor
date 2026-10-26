@@ -1,0 +1,28 @@
+{
+ "reign_year": 33,
+ "month": 7,
+ "day_text": "二十三日己丑",
+ "event_role": "谕旨决策",
+ "summary": "吏部覆议监察御史周士皇条陈，九卿会议另书所见、保推官员各书实堪荐举之处存案，康熙帝准依议行并询问周士皇为人。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "周士皇",
+   "role": "监察御史"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "扶沟县"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 3506,
+ "page_range": "80-81"
+}

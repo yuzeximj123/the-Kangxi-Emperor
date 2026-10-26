@@ -1,0 +1,29 @@
+{
+ "reign_year": 52,
+ "month": 9,
+ "day_text": "十九日癸亥",
+ "event_role": "朝见受贺",
+ "summary": "怀柔县守备赵成贵、知县贡龙文、拱极城都司包进忠等来朝。",
+ "people": [
+  {
+   "name": "赵成贵",
+   "role": "怀柔县守备"
+  },
+  {
+   "name": "贡龙文",
+   "role": "怀柔县知县"
+  },
+  {
+   "name": "包进忠",
+   "role": "拱极城都司"
+  }
+ ],
+ "places": [
+  "怀柔县",
+  "拱极城"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 3608,
+ "page_range": "83-84"
+}

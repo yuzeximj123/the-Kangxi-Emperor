@@ -1,0 +1,32 @@
+{
+ "reign_year": 19,
+ "month": 10,
+ "day_text": null,
+ "event_role": "议政听政",
+ "summary": "康熙帝御懋勤殿，讲官库勒纳、叶方欧、张玉书进讲《易经》临卦象辞及初九、九二各节。",
+ "people": [
+  {
+   "name": "库勒纳",
+   "role": "讲官"
+  },
+  {
+   "name": "叶方欧",
+   "role": "讲官"
+  },
+  {
+   "name": "张玉书",
+   "role": "讲官"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "懋勤殿"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 1903,
+ "page_range": "81-82"
+}

@@ -1,0 +1,20 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": "初一日庚寅",
+ "event_role": "祭祀典礼",
+ "summary": "早，康熙帝以备夏告祭太庙致祭毕，回宫。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "太庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8515,
+ "page_range": "205-206"
+}

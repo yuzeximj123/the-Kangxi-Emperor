@@ -1,0 +1,25 @@
+{
+ "reign_year": 24,
+ "month": 3,
+ "day_text": "二十一日辛巳",
+ "event_role": "谕旨决策",
+ "summary": "康熙帝念南巡所见民间疾苦，欲蠲免直省明岁钱粮，令会同户部预行酌议，直隶顺德等府即行议蠲。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王熙",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "直隶",
+  "顺德"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8220,
+ "page_range": "199-200"
+}

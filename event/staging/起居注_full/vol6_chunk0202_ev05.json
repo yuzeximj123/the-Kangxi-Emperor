@@ -1,0 +1,37 @@
+{
+ "reign_year": 40,
+ "month": 5,
+ "day_text": "十三日己亥",
+ "event_role": "人事任免",
+ "summary": "兵部议覆宣化府总兵尚宣请补游击丁沂等员缺不准，康熙命照该总兵所题补授。",
+ "people": [
+  {
+   "name": "尚宣",
+   "role": "宣化府总兵官"
+  },
+  {
+   "name": "丁沂",
+   "role": "游击"
+  },
+  {
+   "name": "苏才伟",
+   "role": "守备"
+  },
+  {
+   "name": "陈堂",
+   "role": "千总"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "宣化府",
+  "怀来路"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 20205,
+ "page_range": "414-415"
+}

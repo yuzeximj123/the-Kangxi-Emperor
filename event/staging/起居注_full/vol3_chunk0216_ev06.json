@@ -1,0 +1,50 @@
+{
+ "reign_year": 26,
+ "month": 3,
+ "day_text": "初三日辛已",
+ "event_role": "人事任免",
+ "summary": "吏部题光禄寺卿索诺和升任员缺，康熙帝询问人选后决定升补凯音布为光禄寺卿。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "勒德洪",
+   "role": "大学士"
+  },
+  {
+   "name": "徐廷阜",
+   "role": "学士"
+  },
+  {
+   "name": "吴兴祖",
+   "role": "学士"
+  },
+  {
+   "name": "翁英",
+   "role": "侍读学士"
+  },
+  {
+   "name": "多奇",
+   "role": "侍读学士"
+  },
+  {
+   "name": "凯音布",
+   "role": "监察御史"
+  },
+  {
+   "name": "索诺和",
+   "role": "光禄寺卿"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 21606,
+ "page_range": "467-468"
+}

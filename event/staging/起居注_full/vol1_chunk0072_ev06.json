@@ -1,0 +1,24 @@
+{
+ "reign_year": 13,
+ "month": 5,
+ "day_text": "十三日丙子",
+ "event_role": "祭祀典礼",
+ "summary": "卯时，康熙帝同皇太后率诸王、贝勒、贝子、公及文武官员、命妇等齐集大行皇后梓宫前举哀。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "大行皇后梓宫前"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 7206,
+ "page_range": "201-202"
+}

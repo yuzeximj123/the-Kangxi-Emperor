@@ -1,0 +1,30 @@
+{
+ "reign_year": 50,
+ "month": 4,
+ "day_text": "十六日甲成",
+ "event_role": "司法案件",
+ "summary": "覆请刑部汇题牧群人李保住疯狂自刎案，拟将看守卢七、五儿各鞭八十折角。",
+ "people": [
+  {
+   "name": "李保住",
+   "role": "牧群人"
+  },
+  {
+   "name": "图尔侵",
+   "role": "牧群侍卫"
+  },
+  {
+   "name": "卢七",
+   "role": "看守"
+  },
+  {
+   "name": "五儿",
+   "role": "家人"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 16603,
+ "page_range": "343-344"
+}

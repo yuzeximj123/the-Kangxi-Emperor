@@ -1,0 +1,20 @@
+{
+ "reign_year": 10,
+ "month": 10,
+ "day_text": "十五日癸巳",
+ "event_role": "皇帝行止",
+ "summary": "康熙帝过辽河桥。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "辽河桥"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 1,
+ "order_index": 209,
+ "page_range": "61-62"
+}

@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 2,
+ "day_text": "二十五日了丑",
+ "event_role": "朝见受贺",
+ "summary": "霸州防守尉二吉图、游击陈天定等前来朝见。",
+ "people": [
+  {
+   "name": "二吉图",
+   "role": "霸州防守尉"
+  },
+  {
+   "name": "陈天定",
+   "role": "游击"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 806,
+ "page_range": "27-28"
+}

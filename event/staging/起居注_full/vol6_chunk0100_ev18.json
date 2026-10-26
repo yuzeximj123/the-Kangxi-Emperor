@@ -1,0 +1,25 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "初六日癸丁",
+ "event_role": "奏报地方情形",
+ "summary": "马齐奏报山西地寒禾稼晚熟但有秋、沿途果实多价贱，直隶雨水调和禾稼甚好。",
+ "people": [
+  {
+   "name": "马齐",
+   "role": "尚书"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "山西",
+  "直隶"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10018,
+ "page_range": "210-211"
+}

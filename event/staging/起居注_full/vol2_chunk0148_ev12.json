@@ -1,0 +1,28 @@
+{
+ "reign_year": 21,
+ "month": 9,
+ "day_text": "二十八日于申",
+ "event_role": "谕旨决策",
+ "summary": "礼部议朝鲜国王具表不写名应罚银五千两，康熙帝从部议。",
+ "people": [
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "李需",
+   "role": "大学士"
+  },
+  {
+   "name": "王牛",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "朝鲜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 14812,
+ "page_range": "339-340"
+}

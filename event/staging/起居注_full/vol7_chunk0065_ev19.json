@@ -1,0 +1,25 @@
+{
+ "reign_year": 42,
+ "month": 7,
+ "day_text": "十三日了已",
+ "event_role": "谕旨决策",
+ "summary": "兵部覆两广总督郭世隆题增造海船并请裁顺德总兵员缺，半准半驳，康熙帝以不详悉此事，着发回另议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "郭世隆",
+   "role": "两广总督"
+  }
+ ],
+ "places": [
+  "两广",
+  "顺德"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 6519,
+ "page_range": "141-142"
+}

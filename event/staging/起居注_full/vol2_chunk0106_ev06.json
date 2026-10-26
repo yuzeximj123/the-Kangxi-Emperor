@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 1,
+ "day_text": null,
+ "event_role": "起居注官记录",
+ "summary": "侍读学士薪弘首、胡简故、朱之佐等侍从，恩莫量。",
+ "people": [
+  {
+   "name": "薪弘首",
+   "role": "侍读学士"
+  },
+  {
+   "name": "胡简故",
+   "role": "侍读学士"
+  },
+  {
+   "name": "朱之佐",
+   "role": "侍读学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 10606,
+ "page_range": "255-256"
+}

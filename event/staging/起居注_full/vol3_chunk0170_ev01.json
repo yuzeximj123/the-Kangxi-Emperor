@@ -1,0 +1,45 @@
+{
+ "reign_year": 25,
+ "month": 5,
+ "day_text": null,
+ "event_role": "河工水利",
+ "summary": "九卿议覆萨木哈等回奏疏通海口事，议定动支正项钱粮兴工并查议萨木哈等。",
+ "people": [
+  {
+   "name": "杜缀",
+   "role": "大学士"
+  },
+  {
+   "name": "于成龙",
+   "role": "河工官员"
+  },
+  {
+   "name": "汤斌",
+   "role": "官员"
+  },
+  {
+   "name": "萨木哈",
+   "role": "官员"
+  },
+  {
+   "name": "穆成格",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [
+  "海口",
+  "安东"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 17001,
+ "page_range": "375-376"
+}

@@ -1,0 +1,22 @@
+{
+ "reign_year": 47,
+ "month": 1,
+ "day_text": "十三日辛西",
+ "event_role": "起居注官记录",
+ "summary": "记起居注官塞尔图、徐元正。",
+ "people": [
+  {
+   "name": "塞尔图",
+   "role": "起居注官"
+  },
+  {
+   "name": "徐元正",
+   "role": "起居注官"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 15012,
+ "page_range": "311-312"
+}

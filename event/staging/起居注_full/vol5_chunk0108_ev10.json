@@ -1,0 +1,26 @@
+{
+ "reign_year": 35,
+ "month": 3,
+ "day_text": "二十日丙子",
+ "event_role": "谕旨决策",
+ "summary": "乾清门侍卫马武传谕议政大臣，前锋兵、绿旗兵不必在察罕诺尔等候，应乘便先行。",
+ "people": [
+  {
+   "name": "马武",
+   "role": "乾清门侍卫"
+  },
+  {
+   "name": "费扬古",
+   "role": "大将军伯"
+  }
+ ],
+ "places": [
+  "察罕诺尔",
+  "昂几尔图",
+  "古北口"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 5,
+ "order_index": 10810,
+ "page_range": "226-227"
+}

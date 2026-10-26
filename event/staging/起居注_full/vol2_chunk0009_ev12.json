@@ -1,0 +1,26 @@
+{
+ "reign_year": 19,
+ "month": 8,
+ "day_text": "十一日",
+ "event_role": "皇帝行止",
+ "summary": "辰时康熙帝率皇太子幸南苑，驻跸东宫，谕部院衙门本章俱交内阁每日汇送南郊。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太子",
+   "role": "皇太子"
+  }
+ ],
+ "places": [
+  "南苑",
+  "东宫",
+  "南郊"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 912,
+ "page_range": "61-62"
+}

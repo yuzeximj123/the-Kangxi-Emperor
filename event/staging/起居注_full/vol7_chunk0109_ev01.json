@@ -1,0 +1,35 @@
+{
+ "reign_year": 45,
+ "month": 5,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "康熙批评张鹏翮用人不当不能运致芦苇，并言督抚偏徇、保举汉官致人懈怠，又追述南河高家堰堤决乃张鹏翮玩忽所致。",
+ "people": [
+  {
+   "name": "康熙",
+   "role": "皇帝"
+  },
+  {
+   "name": "张鹏翮",
+   "role": "总河"
+  },
+  {
+   "name": "靳辅",
+   "role": "前总河"
+  },
+  {
+   "name": "马齐",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "高家堰",
+  "七里沟",
+  "清水潭",
+  "龙窜"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 10901,
+ "page_range": "229-230"
+}

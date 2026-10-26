@@ -1,0 +1,30 @@
+{
+ "reign_year": 41,
+ "month": 5,
+ "day_text": "二十九日庚成",
+ "event_role": "司法案件",
+ "summary": "刑部题绥色等审事不公、吴达禅失察、衙役受贿拟革职，康熙帝令绥色革职。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "绥色",
+   "role": "官员"
+  },
+  {
+   "name": "吴达禅",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 1631,
+ "page_range": "43-44"
+}

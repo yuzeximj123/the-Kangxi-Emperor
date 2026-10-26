@@ -1,0 +1,30 @@
+{
+ "reign_year": 27,
+ "month": 11,
+ "day_text": "初二日辛未",
+ "event_role": "谕旨决策",
+ "summary": "都察院题将图墨德于伊主明登家撤出拨与镶黄旗海喇孙佐领下，康熙帝以其父原系饶和郡王所属不合，着给与安亲王。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "图墨德",
+   "role": "闲散"
+  },
+  {
+   "name": "明登",
+   "role": "伊主"
+  },
+  {
+   "name": "艾山",
+   "role": "图墨德之父"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 4614,
+ "page_range": "104-105"
+}

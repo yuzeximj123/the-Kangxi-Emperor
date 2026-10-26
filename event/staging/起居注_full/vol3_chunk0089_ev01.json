@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 4,
+ "day_text": null,
+ "event_role": "谕旨决策",
+ "summary": "川陕总督希福题请豁免四川官兵多给料草银两追取，部议准行，康熙帝命九卿詹事科道会议具奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "希福",
+   "role": "川陕总督"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 8901,
+ "page_range": "213-214"
+}

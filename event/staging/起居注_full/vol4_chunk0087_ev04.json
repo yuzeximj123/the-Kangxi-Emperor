@@ -1,0 +1,42 @@
+{
+ "reign_year": 28,
+ "month": 10,
+ "day_text": "二十八日辛酉",
+ "event_role": "人事任免",
+ "summary": "兵部题千把总录用周映台等事，部议照例罚俸九个月，康熙帝命赵良栋察明效力再议。",
+ "people": [
+  {
+   "name": "周映台",
+   "role": "千把总"
+  },
+  {
+   "name": "赵良栋",
+   "role": "官员"
+  },
+  {
+   "name": "伊桑阿",
+   "role": "大学士"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "王忠",
+   "role": "大学士"
+  },
+  {
+   "name": "梁清标",
+   "role": "大学士"
+  },
+  {
+   "name": "徐元文",
+   "role": "大学士"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 4,
+ "order_index": 8704,
+ "page_range": "186-187"
+}

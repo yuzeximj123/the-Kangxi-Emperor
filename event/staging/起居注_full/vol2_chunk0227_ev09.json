@@ -1,0 +1,38 @@
+{
+ "reign_year": 22,
+ "month": 10,
+ "day_text": "初七日甲辰",
+ "event_role": "人事任免",
+ "summary": "吏部会同工部拟补主事马瑚山病故员缺，康熙帝询问穆世哈为人后命补授工部主事。",
+ "people": [
+  {
+   "name": "马瑚山",
+   "role": "主事"
+  },
+  {
+   "name": "穆世哈",
+   "role": "内阁典籍"
+  },
+  {
+   "name": "黑图",
+   "role": "孝陵赞礼郎"
+  },
+  {
+   "name": "阿兰泰",
+   "role": "大学士"
+  },
+  {
+   "name": "石柱",
+   "role": "大学士"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 22709,
+ "page_range": "497-498"
+}

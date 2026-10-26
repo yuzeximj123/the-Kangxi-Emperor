@@ -1,0 +1,24 @@
+{
+ "reign_year": 41,
+ "month": 9,
+ "day_text": "初七日忆卯",
+ "event_role": "谕旨决策",
+ "summary": "候选州同王景龄等愿效力广西，议不准行，康熙帝令发回，待广西缺出题补之日再奏。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "王景龄",
+   "role": "候选州同"
+  }
+ ],
+ "places": [
+  "广西"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 7,
+ "order_index": 2907,
+ "page_range": "69-70"
+}

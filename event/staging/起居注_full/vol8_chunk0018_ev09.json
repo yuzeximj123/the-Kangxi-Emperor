@@ -1,0 +1,26 @@
+{
+ "reign_year": 52,
+ "month": 5,
+ "day_text": "初三日己卯",
+ "event_role": "河工水利",
+ "summary": "直隶巡抚赵弘党题柳岔至石景山堤工请仍照旧例由工部派官专管，康熙帝命仍派部院司官修理并交工部大人不时巡查。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "赵弘党",
+   "role": "直隶巡抚"
+  }
+ ],
+ "places": [
+  "柳岔",
+  "石景山",
+  "永定河"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 1809,
+ "page_range": "47-48"
+}

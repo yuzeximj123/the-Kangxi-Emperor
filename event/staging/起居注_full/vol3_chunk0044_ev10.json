@@ -1,0 +1,30 @@
+{
+ "reign_year": 23,
+ "month": 9,
+ "day_text": "初二日乙丑",
+ "event_role": "人事任免",
+ "summary": "议补都察院副都御史席特纳升任员缺，康熙帝命一等侍卫孙郭补授。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "席特纳",
+   "role": "副都御史"
+  },
+  {
+   "name": "苏赫",
+   "role": "通政使"
+  },
+  {
+   "name": "孙郭",
+   "role": "一等侍卫，补副都御史"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 4410,
+ "page_range": "123-124"
+}

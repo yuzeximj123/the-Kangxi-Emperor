@@ -1,0 +1,24 @@
+{
+ "reign_year": 55,
+ "month": 1,
+ "day_text": "十六日丁未",
+ "event_role": "请安谢恩",
+ "summary": "康熙帝于九经三事向皇太后问安。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "皇太后",
+   "role": "皇太后"
+  }
+ ],
+ "places": [
+  "九经三事"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 12718,
+ "page_range": "265-266"
+}

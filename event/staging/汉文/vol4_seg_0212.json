@@ -1,0 +1,31 @@
+{
+ "date_raw": "康熙五十二年四月十八日",
+ "reign_year": 52,
+ "month": 4,
+ "day": null,
+ "event_role": "奏报地方情形",
+ "summary": "直隶巡抚赵弘燮奏报畿辅各地三月以来雨泽霑足、晴雨适宜，二麦秀盛，民情欢悦，以慰圣怀。",
+ "people": [
+  {
+   "name": "赵弘燮",
+   "role": "直隶巡抚，奏报人"
+  },
+  {
+   "name": "张伯行",
+   "role": "江苏巡抚，列名于折尾"
+  }
+ ],
+ "places": [
+  "直隶",
+  "紫荆",
+  "密云",
+  "畿辅"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙帝朱批称已知晓，近日各处报雨情况相同，并提及已到收麦时节。",
+ "source_title": "直隸巡撫趙弘燮奏報甘霖霑足可委秀非常摺",
+ "source_corpus": "汉文",
+ "source_vol": 4,
+ "source_no": "1305",
+ "order_index": 212
+}

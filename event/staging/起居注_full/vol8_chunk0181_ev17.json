@@ -1,0 +1,21 @@
+{
+ "reign_year": 56,
+ "month": 3,
+ "day_text": "初九日甲子",
+ "event_role": "河工水利",
+ "summary": "工部议覆总河赵世显请于就近拨两淮盐课四十万两运至河库。",
+ "people": [
+  {
+   "name": "赵世显",
+   "role": "总河"
+  }
+ ],
+ "places": [
+  "两淮",
+  "河库"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18117,
+ "page_range": "373-374"
+}

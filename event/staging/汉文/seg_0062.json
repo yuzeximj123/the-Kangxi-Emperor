@@ -1,0 +1,29 @@
+{
+ "date_raw": "康熙四十三年十一月二十二日",
+ "reign_year": 43,
+ "month": 11,
+ "day": 22,
+ "event_role": "贸易漕运",
+ "summary": "曹寅奏报查核两淮盐商借领库银实得不足及非商冒领等情弊，并称已令联保摊赔。",
+ "people": [
+  {
+   "name": "曹寅",
+   "role": "奏报人"
+  },
+  {
+   "name": "康熙",
+   "role": "批复人"
+  }
+ ],
+ "places": [
+  "江寧",
+  "兩淮"
+ ],
+ "has_zhupi": true,
+ "zhupi_summary": "康熙表示已知悉此事。",
+ "source_corpus": "汉文",
+ "source_vol": 1,
+ "source_no": "89",
+ "source_title": "江寧織造曹寅奏報查過鹽商借帑情弊摺",
+ "order_index": 62
+}

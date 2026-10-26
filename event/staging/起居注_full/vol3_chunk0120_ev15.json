@@ -1,0 +1,28 @@
+{
+ "reign_year": 24,
+ "month": 11,
+ "day_text": "初八日甲子",
+ "event_role": "祭祀典礼",
+ "summary": "九卿等会议将达海榜式附列先儒伏胜等从祀文庙，康熙帝采纳明珠等议，命不必从祀。",
+ "people": [
+  {
+   "name": "达海榜式",
+   "role": "拟从祀者"
+  },
+  {
+   "name": "伏胜",
+   "role": "先儒"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  }
+ ],
+ "places": [
+  "文庙"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 3,
+ "order_index": 12015,
+ "page_range": "275-276"
+}

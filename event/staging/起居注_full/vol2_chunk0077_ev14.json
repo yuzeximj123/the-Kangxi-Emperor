@@ -1,0 +1,24 @@
+{
+ "reign_year": 20,
+ "month": 9,
+ "day_text": "初六日乙卯",
+ "event_role": "朝见受贺",
+ "summary": "霸州驻防防守尉拜山等、霸州知州吴鉴等来朝见。",
+ "people": [
+  {
+   "name": "拜山",
+   "role": "霸州驻防防守尉"
+  },
+  {
+   "name": "吴鉴",
+   "role": "霸州知州"
+  }
+ ],
+ "places": [
+  "霸州"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 7714,
+ "page_range": "197-198"
+}

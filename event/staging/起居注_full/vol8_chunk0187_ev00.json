@@ -1,0 +1,26 @@
+{
+ "reign_year": 56,
+ "month": 4,
+ "day_text": null,
+ "event_role": "人事任免",
+ "summary": "康熙帝命特布转补礼部尚书，并以孙柱补授吏部侍郎员缺。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "特布",
+   "role": "礼部尚书"
+  },
+  {
+   "name": "孙柱",
+   "role": "吏部侍郎"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 8,
+ "order_index": 18700,
+ "page_range": "385-386"
+}

@@ -1,0 +1,26 @@
+{
+ "reign_year": 21,
+ "month": 6,
+ "day_text": "十三日己丑",
+ "event_role": "人事任免",
+ "summary": "兵部题补镶黄旗蒙古都统员缺，康熙帝以公乌赫为人堪用且系功臣之孙，命补都统。",
+ "people": [
+  {
+   "name": "乌赫",
+   "role": "公"
+  },
+  {
+   "name": "瓦贷",
+   "role": "护军统领"
+  },
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  }
+ ],
+ "places": [],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 12709,
+ "page_range": "297-298"
+}

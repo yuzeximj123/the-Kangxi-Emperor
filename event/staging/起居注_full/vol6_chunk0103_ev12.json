@@ -1,0 +1,36 @@
+{
+ "reign_year": 38,
+ "month": 7,
+ "day_text": "二十日丁亥",
+ "event_role": "谕旨决策",
+ "summary": "工部侍郎罗察、学士布泰以审四川巡抚丁养志、提督岳昇龙互参事请训旨，康熙帝谕从公审理、勿偏私。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "罗察",
+   "role": "工部侍郎"
+  },
+  {
+   "name": "布泰",
+   "role": "学士"
+  },
+  {
+   "name": "丁养志",
+   "role": "四川巡抚"
+  },
+  {
+   "name": "岳昇龙",
+   "role": "提督"
+  }
+ ],
+ "places": [
+  "四川"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 6,
+ "order_index": 10312,
+ "page_range": "216-217"
+}

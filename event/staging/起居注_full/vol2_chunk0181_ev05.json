@@ -1,0 +1,48 @@
+{
+ "reign_year": 22,
+ "month": 3,
+ "day_text": "二十四日丙寅",
+ "event_role": "人事任免",
+ "summary": "议简亲王喇布削爵后袭封事，康熙帝定以雅布袭封简亲王。",
+ "people": [
+  {
+   "name": "康熙帝",
+   "role": "皇帝"
+  },
+  {
+   "name": "喇布",
+   "role": "简亲王"
+  },
+  {
+   "name": "雅布",
+   "role": "喇布之弟"
+  },
+  {
+   "name": "惠兰",
+   "role": "郑亲王之子"
+  },
+  {
+   "name": "默美",
+   "role": "纯亲王之子"
+  },
+  {
+   "name": "明珠",
+   "role": "大学士"
+  },
+  {
+   "name": "巴尔堪",
+   "role": "郑亲王之子"
+  },
+  {
+   "name": "德塞",
+   "role": "前简亲王"
+  }
+ ],
+ "places": [
+  "螺子山"
+ ],
+ "source_corpus": "起居注",
+ "source_vol": 2,
+ "order_index": 18105,
+ "page_range": "405-406"
+}
