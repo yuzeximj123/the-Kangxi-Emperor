@@ -12,6 +12,42 @@ A digitized, searchable, cross-linked corpus of the primary sources on how the *
 
 > Cover: *Portrait of the Kangxi Emperor in Court Dress* (清圣祖康熙皇帝朝服像), a Qing court painting.
 
+## Highlights: what the data shows
+
+A quick tour of what you can find here (all figures computed from `events.db`; see [Known limitations](#known-limitations)).
+
+**What an emperor's work looks like, by the numbers.** Of 54,401 events, the largest categories are the emperor's movements (7,772), court sessions (6,773), edicts and decisions (6,095) and appointments and dismissals (5,193). Legal cases (2,946) outnumber military affairs (1,302) more than two to one: this was mostly a government of paperwork, not of campaigns.
+
+**Who appears most.** Apart from the emperor himself (30,043 event appearances) and the Grand Empress Dowager (1,209), the most frequent names are the Grand Secretaries 明珠 Mingju (2,016), 伊桑阿 Isangga (1,884), 库勒纳 Kulena (1,336), 张玉书 Zhang Yushu (1,209) and 马齐 Maci (1,077).
+
+**When the state was busiest.**
+
+| Theme | Peak reign years | Events |
+|---|---|---|
+| Military (军务) | year 35 (1696) and 36 (1697): the Dzungar campaign against 噶尔丹 Galdan | 241, 118 |
+| River works (河工水利) | year 39 (1700), then 27 (1688) | 82, 58 |
+| Appointments (人事任免) | years 19–25, around the consolidation of the 1680s | 239–281 per year |
+
+Galdan alone is mentioned in 440 event summaries.
+
+**The emperor's own voice.** 6,193 events carry a vermilion rescript, and the rescript summaries preserve how he wrote to officials. The most common formula is a personal health report: *"朕体安"* ("I am well"). A few examples:
+
+- Reign year 32, on a harvest report: *"Changshu reports the grain in Shaanxi is very good, and I am very pleased."*
+- Reign year 45, hunting: *"Frost has not yet fallen and the stags are not calling. I have begun the hunt, but the mosquitoes are unbearable."*
+- Reign year 45, on a prefect's appointment: *"The prefect was chosen by me. I do not know these two men. If I used them on your word, would that be right?"*
+- Reign year 58, to an official who sent gifts: *"Do not send me presents again. If you need something, write to me."*
+
+Rainfall and harvest are a recurring subject: 1,168 rescripted memorials mention rain.
+
+**Long case threads.** `event_threads` follows one matter across the three corpora. The longest, thread 3 (361 events), traces the decision to campaign personally against Galdan. Others are the 噶礼 Geli vs. 张伯行 Zhang Boxing impeachment affair (threads 2, 17 and 22), the 赵申乔 Zhao Shenqiao father-and-son corruption dispute (thread 7), and the Fujian coastal unrest reports (thread 4). Try:
+
+```sql
+SELECT thread_id, member_count, corpora, label
+FROM event_threads ORDER BY member_count DESC LIMIT 10;
+```
+
+**Where things happened.** Beyond the palace gates (乾清门, 4,285 events), the most frequent places are 江南 (945), 畅春园 (892), 直隶 (886), 福建 (842) and 浙江 (838): the Lower Yangtze and the coast dominate the provincial record.
+
 ## What is in this repository
 
 Three primary-source collections, processed through OCR, cleaning and structured extraction:
